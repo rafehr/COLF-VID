@@ -1,0 +1,2882 @@
+# article_id = T890609.187
+# text = " Auf den Arm nehmen kann ich mich alleine , " meinte er zusehends zornig und begann eine heftige Befragung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Auf	auf	APPR	2	2	2	2
+3	den	die	ART	*	*	*	*
+4	Arm	Arm	NN	2	2	2	2
+5	nehmen	nehmen	VVINF	2	2	2	2
+6	kann	können	VMFIN	*	*	*	*
+7	ich	ich	PPER	*	*	*	*
+8	mich	ich	PRF	*	*	*	*
+9	alleine	alleine	ADV	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	meinte	meinen	VVFIN	*	*	*	*
+13	er	er	PPER	*	*	*	*
+14	zusehends	zusehends	ADV	*	*	*	*
+15	zornig	zornig	ADJD	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	begann	beginnen	VVFIN	*	*	*	*
+18	eine	eine	ART	*	*	*	*
+19	heftige	heftig	ADJA	*	*	*	*
+20	Befragung	Befragung	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T890614.45
+# text = Die abgenutzten Versatzstücke eines diplomatischen Zeremoniells sind da ; auch jenes verlogene Beiwerk eingeplanter " menschlicher Begegnungen " : Der kleine Junge , der auf Befehl Blumen bringt und auf den Arm genommen wird ; das Winken in die Menge gemeinsam mit Frau Gorbatschowa .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	abgenutzten	abgenutzt	ADJA	*	*	*	*
+3	Versatzstücke	<unknown>	NN	*	*	*	*
+4	eines	eine	ART	*	*	*	*
+5	diplomatischen	diplomatisch	ADJA	*	*	*	*
+6	Zeremoniells	Zeremoniell	NN	*	*	*	*
+7	sind	sein	VAFIN	*	*	*	*
+8	da	da	ADV	*	*	*	*
+9	;	;	$.	*	*	*	*
+10	auch	auch	ADV	*	*	*	*
+11	jenes	jen	PDAT	*	*	*	*
+12	verlogene	verlogen	ADJA	*	*	*	*
+13	Beiwerk	Beiwerk	NN	*	*	*	*
+14	eingeplanter	eingeplant	ADJA	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	menschlicher	menschlich	ADJA	*	*	*	*
+17	Begegnungen	Begegnung	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	:	:	$.	*	*	*	*
+20	Der	die	ART	*	*	*	*
+21	kleine	klein	ADJA	*	*	*	*
+22	Junge	Junge	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	der	die	PRELS	*	*	*	*
+25	auf	auf	APPR	*	*	*	*
+26	Befehl	Befehl	NN	*	*	*	*
+27	Blumen	Blume	NN	*	*	*	*
+28	bringt	bringen	VVFIN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	auf	auf	APPR	1	1	1	1
+31	den	die	ART	*	*	*	*
+32	Arm	Arm	NN	1	1	1	1
+33	genommen	nehmen	VVPP	1	1	1	1
+34	wird	werden	VAFIN	*	*	*	*
+35	;	;	$.	*	*	*	*
+36	das	die	ART	*	*	*	*
+37	Winken	Wink|Winken	NN	*	*	*	*
+38	in	in	APPR	*	*	*	*
+39	die	die	ART	*	*	*	*
+40	Menge	Menge	NN	*	*	*	*
+41	gemeinsam	gemeinsam	ADJD	*	*	*	*
+42	mit	mit	APPR	*	*	*	*
+43	Frau	Frau	NN	*	*	*	*
+44	Gorbatschowa	<unknown>	NE	*	*	*	*
+45	.	.	$.	*	*	*	*
+
+# article_id = T890727.65
+# text = Güllner zur taz : " Die Leute fühlen sich doch auf den Arm genommen , wenn die Realitäten so weggewischt werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Güllner	<unknown>	NN	*	*	*	*
+2	zur	zu	APPRART	*	*	*	*
+3	taz	<unknown>	NE	*	*	*	*
+4	:	:	$.	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Die	die	ART	*	*	*	*
+7	Leute	Leute	NN	*	*	*	*
+8	fühlen	fühlen	VVFIN	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	doch	doch	ADV	*	*	*	*
+11	auf	auf	APPR	2	2	2	2
+12	den	die	ART	*	*	*	*
+13	Arm	Arm	NN	2	2	2	2
+14	genommen	nehmen	VVPP	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	wenn	wenn	KOUS	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Realitäten	Realität	NN	*	*	*	*
+19	so	so	ADV	*	*	*	*
+20	weggewischt	wegwischen	VVPP	*	*	*	*
+21	werden	werden	VAINF	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T891102.156
+# text = Wollen Sie mich auf den Arm nehmen ?
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wollen	wollen	VMFIN	*	*	*	*
+2	Sie	Sie	PPER	*	*	*	*
+3	mich	ich	PRF	*	*	*	*
+4	auf	auf	APPR	2	2	2	2
+5	den	die	ART	*	*	*	*
+6	Arm	Arm	NN	2	2	2	2
+7	nehmen	nehmen	VVINF	2	2	2	2
+8	?	?	$.	*	*	*	*
+
+# article_id = T910515.186
+# text = Ihr Mann nimmt sie auf den Arm und dreht sich mit ihr in einen Tanz ein , den die ganze Welt immer schon tanzt .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Ihr	ihr	PPOSAT	*	*	*	*
+2	Mann	Mann	NN	*	*	*	*
+3	nimmt	nehmen	VVFIN	1	1	1	1
+4	sie	sie	PPER	*	*	*	*
+5	auf	auf	APPR	1	1	1	1
+6	den	die	ART	*	*	*	*
+7	Arm	Arm	NN	1	1	1	1
+8	und	und	KON	*	*	*	*
+9	dreht	drehen	VVFIN	*	*	*	*
+10	sich	sich	PRF	*	*	*	*
+11	mit	mit	APPR	*	*	*	*
+12	ihr	ihr	PPOSAT	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	einen	eine	ART	*	*	*	*
+15	Tanz	Tanz	NN	*	*	*	*
+16	ein	ein	PTKVZ	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	den	die	PRELS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	ganze	ganz	ADJA	*	*	*	*
+21	Welt	Welt	NN	*	*	*	*
+22	immer	immer	ADV	*	*	*	*
+23	schon	schon	ADV	*	*	*	*
+24	tanzt	tanzen	VVFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T910119.87
+# text = Abgesehen davon fühlen sich die Leute durch das , was jetzt gemacht wird und vor der Wahl gesagt wurde - und das ist mit das Schlimmste , was eine Partei oder eine Regierung machen kann - , auf den Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Abgesehen	abgesehen	ADJD	*	*	*	*
+2	davon	davon	PAV	*	*	*	*
+3	fühlen	fühlen	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Leute	Leute	NN	*	*	*	*
+7	durch	durch	APPR	*	*	*	*
+8	das	die	PDS	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	was	was	PRELS	*	*	*	*
+11	jetzt	jetzt	ADV	*	*	*	*
+12	gemacht	machen	VVPP	*	*	*	*
+13	wird	werden	VAFIN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	vor	vor	APPR	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Wahl	Wahl	NN	*	*	*	*
+18	gesagt	sagen	VVPP	*	*	*	*
+19	wurde	werden	VAFIN	*	*	*	*
+20	-	-	$(	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	das	die	PDS	*	*	*	*
+23	ist	sein	VAFIN	*	*	*	*
+24	mit	mit	APPR	*	*	*	*
+25	das	die	ART	*	*	*	*
+26	Schlimmste	Schlimmste	NN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	was	was	PRELS	*	*	*	*
+29	eine	eine	ART	*	*	*	*
+30	Partei	Partei	NN	*	*	*	*
+31	oder	oder	KON	*	*	*	*
+32	eine	eine	ART	*	*	*	*
+33	Regierung	Regierung	NN	*	*	*	*
+34	machen	machen	VVINF	*	*	*	*
+35	kann	können	VMFIN	*	*	*	*
+36	-	-	$(	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	auf	auf	APPR	2	2	2	2
+39	den	die	ART	*	*	*	*
+40	Arm	Arm	NN	2	2	2	2
+41	genommen	nehmen	VVPP	2	2	2	2
+42	.	.	$.	*	*	*	*
+
+# article_id = T910418.92
+# text = Qureisha wird in eine Decke eingehüllt , bevor der Vater sie zum letztenmal auf die Arme nimmt und fortträgt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Qureisha	<unknown>	NE	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	eine	eine	ART	*	*	*	*
+5	Decke	Decke	NN	*	*	*	*
+6	eingehüllt	einhüllen	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	bevor	bevor	KOUS	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Vater	Vater	NN	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	zum	zu	APPRART	*	*	*	*
+13	letztenmal	<unknown>	NN	*	*	*	*
+14	auf	auf	APPR	1	1	1	1
+15	die	die	ART	*	*	*	*
+16	Arme	Arm|Arme	NN	1	1	1	1
+17	nimmt	nehmen	VVFIN	1	1	1	1
+18	und	und	KON	*	*	*	*
+19	fortträgt	forttragen	VVFIN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T910712.222
+# text = Nur einmal , als ein junger Mann " nur mal so wissen will , wo-s denn hier wohl Stoff gibt " und ihr " auf den Zahn fühlen " will , ob sie überhaupt Bescheid weiß , wovon sie redet - da wird sie kurz angebunden : " Sie wollen mich wohl auf den Arm nehmen !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nur	nur	ADV	*	*	*	*
+2	einmal	einmal	ADV	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	als	als	KOUS	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	junger	jung	ADJA	*	*	*	*
+7	Mann	Mann	NN	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	nur	nur	ADV	*	*	*	*
+10	mal	mal	ADV	*	*	*	*
+11	so	so	ADV	*	*	*	*
+12	wissen	wissen	VVINF	*	*	*	*
+13	will	wollen	VMFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	wo-s	<unknown>	NN	*	*	*	*
+16	denn	denn	KON	*	*	*	*
+17	hier	hier	ADV	*	*	*	*
+18	wohl	wohl	ADV	*	*	*	*
+19	Stoff	Stoff	NN	*	*	*	*
+20	gibt	geben	VVFIN	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	ihr	ihr	PPER	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	auf	auf	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Zahn	Zahn	NN	*	*	*	*
+28	fühlen	fühlen	VVINF	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	will	wollen	VMFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	ob	ob	KOUS	*	*	*	*
+33	sie	sie	PPER	*	*	*	*
+34	überhaupt	überhaupt	ADV	*	*	*	*
+35	Bescheid	Bescheid	NN	*	*	*	*
+36	weiß	wissen	VVFIN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	wovon	wovon	PWAV	*	*	*	*
+39	sie	sie	PPER	*	*	*	*
+40	redet	reden	VVFIN	*	*	*	*
+41	-	-	$(	*	*	*	*
+42	da	da	ADV	*	*	*	*
+43	wird	werden	VAFIN	*	*	*	*
+44	sie	sie	PPER	*	*	*	*
+45	kurz	kurz	ADJD	*	*	*	*
+46	angebunden	anbinden	VVPP	*	*	*	*
+47	:	:	$.	*	*	*	*
+48	"	"	$(	*	*	*	*
+49	Sie	Sie	PPER	*	*	*	*
+50	wollen	wollen	VMFIN	*	*	*	*
+51	mich	ich	PRF	*	*	*	*
+52	wohl	wohl	ADV	*	*	*	*
+53	auf	auf	APPR	2	2	2	2
+54	den	die	ART	*	*	*	*
+55	Arm	Arm	NN	2	2	2	2
+56	nehmen	nehmen	VVINF	2	2	2	2
+57	!	!	$.	*	*	*	*
+
+# article_id = T911223.84
+# text = Rollentausch : die Sächsin , die ihn um Gnade für ihren desertierten Mann bittet , wird entsprechend von einem kräftigen Mann mit Frauenperücke und Kleid verkörpert , der die kleine Friederike mal eben auf den Arm nimmt und in Embryohaltung wiegt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rollentausch	Rollentausch	NN	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Sächsin	Sächsin	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	die	die	PRELS	*	*	*	*
+7	ihn	er	PPER	*	*	*	*
+8	um	um	APPR	*	*	*	*
+9	Gnade	Gnade	NN	*	*	*	*
+10	für	für	APPR	*	*	*	*
+11	ihren	ihr	PPOSAT	*	*	*	*
+12	desertierten	desertiert	ADJA	*	*	*	*
+13	Mann	Mann	NN	*	*	*	*
+14	bittet	bitten	VVFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	wird	werden	VAFIN	*	*	*	*
+17	entsprechend	entsprechend	ADJD	*	*	*	*
+18	von	von	APPR	*	*	*	*
+19	einem	eine	ART	*	*	*	*
+20	kräftigen	kräftig	ADJA	*	*	*	*
+21	Mann	Mann	NN	*	*	*	*
+22	mit	mit	APPR	*	*	*	*
+23	Frauenperücke	Frauenperücke	NN	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	Kleid	Kleid	NN	*	*	*	*
+26	verkörpert	verkörpern	VVFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	der	die	PRELS	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	kleine	klein	ADJA	*	*	*	*
+31	Friederike	Friederike	NE	*	*	*	*
+32	mal	mal	ADV	*	*	*	*
+33	eben	eben	ADV	*	*	*	*
+34	auf	auf	APPR	1	1	1	1
+35	den	die	ART	*	*	*	*
+36	Arm	Arm	NN	1	1	1	1
+37	nimmt	nehmen	VVFIN	1	1	1	1
+38	und	und	KON	*	*	*	*
+39	in	in	APPR	*	*	*	*
+40	Embryohaltung	<unknown>	NN	*	*	*	*
+41	wiegt	wiegen	VVFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T911112.26
+# text = Der kleine Peter schaut verängstigt , die Mutter läßt das Telefon klingeln , nimmt ihren Sohn auf den Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	kleine	klein	ADJA	*	*	*	*
+3	Peter	Peter	NE	*	*	*	*
+4	schaut	schauen	VVFIN	*	*	*	*
+5	verängstigt	verängstigen	VVPP	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Mutter	Mutter	NN	*	*	*	*
+9	läßt	lassen	VVFIN	*	*	*	*
+10	das	die	ART	*	*	*	*
+11	Telefon	Telefon	NN	*	*	*	*
+12	klingeln	klingeln	VVINF	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	nimmt	nehmen	VVFIN	1	1	1	1
+15	ihren	ihr	PPOSAT	*	*	*	*
+16	Sohn	Sohn	NN	*	*	*	*
+17	auf	auf	APPR	1	1	1	1
+18	den	die	ART	*	*	*	*
+19	Arm	Arm	NN	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T911109.147
+# text = Als Bundespäsident Weizsäcker ein arabisches Kind auf den Arm nahm , flackerten mindestens 80 Blitzlichter auf .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOKOM	*	*	*	*
+2	Bundespäsident	<unknown>	NN	*	*	*	*
+3	Weizsäcker	Weizsäcker	NE	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	arabisches	arabisch	ADJA	*	*	*	*
+6	Kind	Kind	NN	*	*	*	*
+7	auf	auf	APPR	1	1	1	1
+8	den	die	ART	*	*	*	*
+9	Arm	Arm	NN	1	1	1	1
+10	nahm	nehmen	VVFIN	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	flackerten	flackern	VVFIN	*	*	*	*
+13	mindestens	mindestens	ADV	*	*	*	*
+14	80	@card@	CARD	*	*	*	*
+15	Blitzlichter	Blitzlicht	NN	*	*	*	*
+16	auf	auf	PTKVZ	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T910207.171
+# text = Der so viel besser gestellte Westdeutsche nimmt den armen Bruder und die arme Schwester auf den besagten Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	so	so	ADV	*	*	*	*
+3	viel	viel	ADV	*	*	*	*
+4	besser	gut	ADJD	*	*	*	*
+5	gestellte	gestellt	ADJA	*	*	*	*
+6	Westdeutsche	Westdeutsche	NN	*	*	*	*
+7	nimmt	nehmen	VVFIN	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	armen	arm	ADJA	*	*	*	*
+10	Bruder	Bruder	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	arme	arm	ADJA	*	*	*	*
+14	Schwester	Schwester	NN	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	besagten	besagt	ADJA	*	*	*	*
+18	Arm	Arm	NN	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T900507.88
+# text = Die Friedenstruppen , die seit November in Zentralamerika stationiert sind , um die Waffen der Contras entgegenzunehmen , fühlen sich langsam auf den Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Friedenstruppen	Friedenstruppe	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	seit	seit	APPR	*	*	*	*
+6	November	November	NN	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Zentralamerika	Zentralamerika	NE	*	*	*	*
+9	stationiert	stationieren	VVPP	*	*	*	*
+10	sind	sein	VAFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	um	um	KOUI	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Waffen	Waffe	NN	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Contras	Contras	NN	*	*	*	*
+17	entgegenzunehmen	entgegennehmen	VVIZU	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	fühlen	fühlen	VVFIN	*	*	*	*
+20	sich	sich	PRF	*	*	*	*
+21	langsam	langsam	ADJD	*	*	*	*
+22	auf	auf	APPR	2	2	2	2
+23	den	die	ART	*	*	*	*
+24	Arm	Arm	NN	2	2	2	2
+25	genommen	nehmen	VVPP	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T901001.63
+# text = Man kann sie auf den Arm nehmen und vor den Fernsehkameras liebevoll küssen , man kann sie als Kulisse für Fototermine benutzen - nur füttern und am Leben erhalten kann man sie offenbar nicht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Man	man	PIS	*	*	*	*
+2	kann	können	VMFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	auf	auf	APPR	1	1	1	1
+5	den	die	ART	*	*	*	*
+6	Arm	Arm	NN	1	1	1	1
+7	nehmen	nehmen	VVINF	1	1	1	1
+8	und	und	KON	*	*	*	*
+9	vor	vor	APPR	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Fernsehkameras	Fernsehkamera	NN	*	*	*	*
+12	liebevoll	liebevoll	ADJD	*	*	*	*
+13	küssen	küssen	VVINF	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	man	man	PIS	*	*	*	*
+16	kann	können	VMFIN	*	*	*	*
+17	sie	sie	PPER	*	*	*	*
+18	als	als	KOKOM	*	*	*	*
+19	Kulisse	Kulisse	NN	*	*	*	*
+20	für	für	APPR	*	*	*	*
+21	Fototermine	Fototermin	NN	*	*	*	*
+22	benutzen	benutzen	VVINF	*	*	*	*
+23	-	-	$(	*	*	*	*
+24	nur	nur	ADV	*	*	*	*
+25	füttern	füttern	VVINF	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	am	an	APPRART	*	*	*	*
+28	Leben	Leben	NN	*	*	*	*
+29	erhalten	erhalten	VVINF	*	*	*	*
+30	kann	können	VMFIN	*	*	*	*
+31	man	man	PIS	*	*	*	*
+32	sie	sie	PPER	*	*	*	*
+33	offenbar	offenbar	ADJD	*	*	*	*
+34	nicht	nicht	PTKNEG	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T900924.167
+# text = Der jungenhafte Fernsehschwätzer nimmt das Kleine auf dem Arm , während sich Mutti hektisch und verbissen die Finger klemmt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	jungenhafte	jungenhaft	ADJA	*	*	*	*
+3	Fernsehschwätzer	<unknown>	NN	*	*	*	*
+4	nimmt	nehmen	VVFIN	1	1	1	1
+5	das	die	ART	*	*	*	*
+6	Kleine	Kleine	NN	*	*	*	*
+7	auf	auf	APPR	1	1	1	1
+8	dem	die	ART	*	*	*	*
+9	Arm	Arm	NN	1	1	1	1
+10	,	,	$,	*	*	*	*
+11	während	während	KOUS	*	*	*	*
+12	sich	sich	PRF	*	*	*	*
+13	Mutti	Mutti	NN	*	*	*	*
+14	hektisch	hektisch	ADJD	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	verbissen	verbeißen	VVFIN	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Finger	Finger	NN	*	*	*	*
+19	klemmt	klemmen	VVFIN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T901113.126
+# text = Italien : Während Rudi Völler ( AS Rom ) als zweifacher Torschütze brillierte und ihm " weltmeisterliche Form " bescheinigt wurde , Jürgen Klinsmann ( Inter Mailand ) zu hören bekam , daß er " zu viel Staub " aufwirbele und Lothar Matthäus für Inter einen Elfmeter verwandelte , fürchtet sich Karl-Heinz Riedle trotz des schmeichelhaften 1:0 seines Lazio Rom in Cagliari durch eine Eigentor mittlerweile vor Spott : " Wir müssen in den Europacup , sonst nehmen mich meine Bremer Freunde auf den Arm " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Italien	Italien	NE	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	Während	während	KOUS	*	*	*	*
+4	Rudi	Rudi	NE	*	*	*	*
+5	Völler	<unknown>	NE	*	*	*	*
+6	(	(	$(	*	*	*	*
+7	AS	AS	NE	*	*	*	*
+8	Rom	Rom	NE	*	*	*	*
+9	)	)	$(	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	zweifacher	zweifach	ADJA	*	*	*	*
+12	Torschütze	Torschütze	NN	*	*	*	*
+13	brillierte	brillieren	VVFIN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	ihm	er	PPER	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	weltmeisterliche	weltmeisterlich	ADJA	*	*	*	*
+18	Form	Form	NN	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	bescheinigt	bescheinigen	VVPP	*	*	*	*
+21	wurde	werden	VAFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	Jürgen	<unknown>	NE	*	*	*	*
+24	Klinsmann	<unknown>	NE	*	*	*	*
+25	(	(	$(	*	*	*	*
+26	Inter	<unknown>	NN	*	*	*	*
+27	Mailand	Mailand	NE	*	*	*	*
+28	)	)	$(	*	*	*	*
+29	zu	zu	PTKZU	*	*	*	*
+30	hören	hören	VVINF	*	*	*	*
+31	bekam	bekommen	VVFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	daß	dass	KOUS	*	*	*	*
+34	er	er	PPER	*	*	*	*
+35	"	"	$(	*	*	*	*
+36	zu	zu	APPR	*	*	*	*
+37	viel	viele	PIAT	*	*	*	*
+38	Staub	Staub	NN	*	*	*	*
+39	"	"	$(	*	*	*	*
+40	aufwirbele	<unknown>	VVFIN	*	*	*	*
+41	und	und	KON	*	*	*	*
+42	Lothar	Lothar	NE	*	*	*	*
+43	Matthäus	Matthäus	NE	*	*	*	*
+44	für	für	APPR	*	*	*	*
+45	Inter	<unknown>	NN	*	*	*	*
+46	einen	eine	ART	*	*	*	*
+47	Elfmeter	Elfmeter	NN	*	*	*	*
+48	verwandelte	verwandeln	VVFIN	*	*	*	*
+49	,	,	$,	*	*	*	*
+50	fürchtet	fürchten	VVFIN	*	*	*	*
+51	sich	sich	PRF	*	*	*	*
+52	Karl-Heinz	Karl-Heinz	NE	*	*	*	*
+53	Riedle	<unknown>	VVFIN	*	*	*	*
+54	trotz	trotz	APPR	*	*	*	*
+55	des	die	ART	*	*	*	*
+56	schmeichelhaften	schmeichelhaft	ADJA	*	*	*	*
+57	1:0	@card@	CARD	*	*	*	*
+58	seines	sein	PPOSAT	*	*	*	*
+59	Lazio	<unknown>	NN	*	*	*	*
+60	Rom	Rom	NE	*	*	*	*
+61	in	in	APPR	*	*	*	*
+62	Cagliari	<unknown>	NE	*	*	*	*
+63	durch	durch	APPR	*	*	*	*
+64	eine	eine	ART	*	*	*	*
+65	Eigentor	Eigentor	NN	*	*	*	*
+66	mittlerweile	mittlerweile	ADV	*	*	*	*
+67	vor	vor	APPR	*	*	*	*
+68	Spott	Spott	NN	*	*	*	*
+69	:	:	$.	*	*	*	*
+70	"	"	$(	*	*	*	*
+71	Wir	wir	PPER	*	*	*	*
+72	müssen	müssen	VMFIN	*	*	*	*
+73	in	in	APPR	*	*	*	*
+74	den	die	ART	*	*	*	*
+75	Europacup	<unknown>	NN	*	*	*	*
+76	,	,	$,	*	*	*	*
+77	sonst	sonst	ADV	*	*	*	*
+78	nehmen	nehmen	VVFIN	2	2	2	2
+79	mich	ich	PRF	*	*	*	*
+80	meine	mein	PPOSAT	*	*	*	*
+81	Bremer	Bremer	NN	*	*	*	*
+82	Freunde	Freund	NN	*	*	*	*
+83	auf	auf	APPR	2	2	2	2
+84	den	die	ART	*	*	*	*
+85	Arm	Arm	NN	2	2	2	2
+86	"	"	$(	*	*	*	*
+87	.	.	$.	*	*	*	*
+
+# article_id = T901108.78
+# text = Die beiden Gestalten sind typisch für zwei unterschiedliche Politikerkarrieren : Rajiv Gandhi auf der einen Seite , mit dem Silberlöffel im Mund geboren , der bereits als Kind von Staatsmännern auf den Arm genommen wurde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	beiden	beide	PIAT	*	*	*	*
+3	Gestalten	Gestalt|Gestalten	NN	*	*	*	*
+4	sind	sein	VAFIN	*	*	*	*
+5	typisch	typisch	ADJD	*	*	*	*
+6	für	für	APPR	*	*	*	*
+7	zwei	zwei	CARD	*	*	*	*
+8	unterschiedliche	unterschiedlich	ADJA	*	*	*	*
+9	Politikerkarrieren	Politikerkarriere	NN	*	*	*	*
+10	:	:	$.	*	*	*	*
+11	Rajiv	<unknown>	NE	*	*	*	*
+12	Gandhi	Gandhi	NE	*	*	*	*
+13	auf	auf	APPR	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	einen	einen	ADJA	*	*	*	*
+16	Seite	Seite	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	mit	mit	APPR	*	*	*	*
+19	dem	die	ART	*	*	*	*
+20	Silberlöffel	Silberlöffel	NN	*	*	*	*
+21	im	in	APPRART	*	*	*	*
+22	Mund	Mund	NN	*	*	*	*
+23	geboren	gebären	VVPP	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	der	die	PRELS	*	*	*	*
+26	bereits	bereits	ADV	*	*	*	*
+27	als	als	KOKOM	*	*	*	*
+28	Kind	Kind	NN	*	*	*	*
+29	von	von	APPR	*	*	*	*
+30	Staatsmännern	Staatsmann	NN	*	*	*	*
+31	auf	auf	APPR	1	1	1	1
+32	den	die	ART	*	*	*	*
+33	Arm	Arm	NN	1	1	1	1
+34	genommen	nehmen	VVPP	1	1	1	1
+35	wurde	werden	VAFIN	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T900203.104
+# text = Dabei reicht es schon , wenn ein Erwachsener ihm permanent über die Haare streicht , es ständig auf den Arm nehmen oder abknutschen zu müssen meint .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dabei	dabei	PAV	*	*	*	*
+2	reicht	reichen	VVFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	schon	schon	ADV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	wenn	wenn	KOUS	*	*	*	*
+7	ein	eine	ART	*	*	*	*
+8	Erwachsener	Erwachsene	NN	*	*	*	*
+9	ihm	er	PPER	*	*	*	*
+10	permanent	permanent	ADJD	*	*	*	*
+11	über	über	APPR	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Haare	Haar	NN	*	*	*	*
+14	streicht	streichen	VVFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	es	es	PPER	*	*	*	*
+17	ständig	ständig	ADJD	*	*	*	*
+18	auf	auf	APPR	1	1	1	1
+19	den	die	ART	*	*	*	*
+20	Arm	Arm	NN	1	1	1	1
+21	nehmen	nehmen	VVINF	1	1	1	1
+22	oder	oder	KON	*	*	*	*
+23	abknutschen	<unknown>	VVINF	*	*	*	*
+24	zu	zu	PTKZU	*	*	*	*
+25	müssen	müssen	VMINF	*	*	*	*
+26	meint	meinen	VVFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T920527.188
+# text = Das war vor Jahren camp und Attitüde , heute nehmen sich gestandene Werbetexter damit gegenseitig auf den Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	vor	vor	APPR	*	*	*	*
+4	Jahren	Jahr	NN	*	*	*	*
+5	camp	campen	VVIMP	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	Attitüde	Attitüde	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	heute	heute	ADV	*	*	*	*
+10	nehmen	nehmen	VVFIN	2	2	2	2
+11	sich	sich	PRF	*	*	*	*
+12	gestandene	gestanden	ADJA	*	*	*	*
+13	Werbetexter	Werbetexter	NN	*	*	*	*
+14	damit	damit	PAV	*	*	*	*
+15	gegenseitig	gegenseitig	ADJD	*	*	*	*
+16	auf	auf	APPR	2	2	2	2
+17	den	die	ART	*	*	*	*
+18	Arm	Arm	NN	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T920623.175
+# text = Auffallend ist die hohe Politikverdrossenheit der Bürger : » Von Politikern wurden wir zu lange auf den Arm genommen , sehen Sie sich doch nur mal den Dorfanger an , die Eisenbahn fährt mitten durch den Dorfteich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auffallend	auffallend	ADJD	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	hohe	hoch	ADJA	*	*	*	*
+5	Politikverdrossenheit	Politikverdrossenheit	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Bürger	Bürger	NN	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	»	<unknown>	NN	*	*	*	*
+10	Von	von	APPR	*	*	*	*
+11	Politikern	Politiker	NN	*	*	*	*
+12	wurden	werden	VAFIN	*	*	*	*
+13	wir	wir	PPER	*	*	*	*
+14	zu	zu	PTKA	*	*	*	*
+15	lange	lange	ADV	*	*	*	*
+16	auf	auf	APPR	2	2	2	2
+17	den	die	ART	*	*	*	*
+18	Arm	Arm	NN	2	2	2	2
+19	genommen	nehmen	VVPP	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	sehen	sehen	VVFIN	*	*	*	*
+22	Sie	Sie	PPER	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	doch	doch	ADV	*	*	*	*
+25	nur	nur	ADV	*	*	*	*
+26	mal	mal	ADV	*	*	*	*
+27	den	die	ART	*	*	*	*
+28	Dorfanger	Dorfanger	NN	*	*	*	*
+29	an	an	PTKVZ	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	Eisenbahn	Eisenbahn	NN	*	*	*	*
+33	fährt	fahren	VVFIN	*	*	*	*
+34	mitten	mitten	ADV	*	*	*	*
+35	durch	durch	APPR	*	*	*	*
+36	den	die	ART	*	*	*	*
+37	Dorfteich	Dorfteich	NN	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T921001.147
+# text = Es ist ein Abenteuer- und fast ein Schelmenroman , der die Gelegenheit des Themas , den Kunstbetrieb zum x-ten Male auf den Arm zu nehmen , Gott sei Dank nahezu ungenützt vorübergehen läßt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	Abenteuer-	Abenteuer-	TRUNC	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	fast	fast	ADV	*	*	*	*
+7	ein	eine	ART	*	*	*	*
+8	Schelmenroman	Schelmenroman	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	der	die	PRELS	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Gelegenheit	Gelegenheit	NN	*	*	*	*
+13	des	die	ART	*	*	*	*
+14	Themas	Thema	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	Kunstbetrieb	Kunstbetrieb	NN	*	*	*	*
+18	zum	zu	APPRART	*	*	*	*
+19	x-ten	<unknown>	ADJA	*	*	*	*
+20	Male	Mal	NN	*	*	*	*
+21	auf	auf	APPR	2	2	2	2
+22	den	die	ART	*	*	*	*
+23	Arm	Arm	NN	2	2	2	2
+24	zu	zu	PTKZU	*	*	*	*
+25	nehmen	nehmen	VVINF	2	2	2	2
+26	,	,	$,	*	*	*	*
+27	Gott	Gott	NN	*	*	*	*
+28	sei	sein	VAFIN	*	*	*	*
+29	Dank	dank	APPR	*	*	*	*
+30	nahezu	nahezu	ADV	*	*	*	*
+31	ungenützt	ungenützt	ADJD	*	*	*	*
+32	vorübergehen	vorübergehen	VVINF	*	*	*	*
+33	läßt	lassen	VVFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T920915.219
+# text = Der zweite Hauptbelastungszeuge im Verfahren gegen die beiden Rote-Flora-Aktivisten Ralf Gauger und Knud Andresen , dieser Eindruck drängte sich geradezu auf , nahm das Gericht gehörig auf den Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	zweite	zweit	ADJA	*	*	*	*
+3	Hauptbelastungszeuge	Hauptbelastungszeuge	NN	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Verfahren	Verfahren	NN	*	*	*	*
+6	gegen	gegen	APPR	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	beiden	beide	PIAT	*	*	*	*
+9	Rote-Flora-Aktivisten	Rote-Flora-Aktivist	NN	*	*	*	*
+10	Ralf	Ralf	NE	*	*	*	*
+11	Gauger	<unknown>	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Knud	Knud	NE	*	*	*	*
+14	Andresen	Andresen	NE	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	dieser	dies	PDAT	*	*	*	*
+17	Eindruck	Eindruck	NN	*	*	*	*
+18	drängte	drängen	VVFIN	*	*	*	*
+19	sich	sich	PRF	*	*	*	*
+20	geradezu	geradezu	ADV	*	*	*	*
+21	auf	auf	PTKVZ	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	nahm	nehmen	VVFIN	2	2	2	2
+24	das	die	ART	*	*	*	*
+25	Gericht	Gericht	NN	*	*	*	*
+26	gehörig	gehörig	ADJD	*	*	*	*
+27	auf	auf	APPR	2	2	2	2
+28	den	die	ART	*	*	*	*
+29	Arm	Arm	NN	2	2	2	2
+30	.	.	$.	*	*	*	*
+
+# article_id = T920106.50
+# text = Sie nimmt das Kind auf den Arm , um es bis zum Füttern zu beruhigen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	nimmt	nehmen	VVFIN	1	1	1	1
+3	das	die	ART	*	*	*	*
+4	Kind	Kind	NN	*	*	*	*
+5	auf	auf	APPR	1	1	1	1
+6	den	die	ART	*	*	*	*
+7	Arm	Arm	NN	1	1	1	1
+8	,	,	$,	*	*	*	*
+9	um	um	KOUI	*	*	*	*
+10	es	es	PPER	*	*	*	*
+11	bis	bis	APPR	*	*	*	*
+12	zum	zu	APPRART	*	*	*	*
+13	Füttern	Füttern	NN	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	beruhigen	beruhigen	VVINF	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T920123.106
+# text = Hanna streckt Eveline demonstrativ den Hintern entgegen , nimmt dann die körperlich Unterlegene , hilflos Zappelnde auf den Arm , läßt sie kreisen wie ein Kind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hanna	Hanna	NE	*	*	*	*
+2	streckt	strecken	VVFIN	*	*	*	*
+3	Eveline	Eveline	NE	*	*	*	*
+4	demonstrativ	demonstrativ	ADJD	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	Hintern	Hintern	NN	*	*	*	*
+7	entgegen	entgegen	PTKVZ	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	nimmt	nehmen	VVFIN	1	1	1	1
+10	dann	dann	ADV	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	körperlich	körperlich	ADJD	*	*	*	*
+13	Unterlegene	Unterlegene	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	hilflos	hilflos	ADJD	*	*	*	*
+16	Zappelnde	<unknown>	NN	*	*	*	*
+17	auf	auf	APPR	1	1	1	1
+18	den	die	ART	*	*	*	*
+19	Arm	Arm	NN	1	1	1	1
+20	,	,	$,	*	*	*	*
+21	läßt	lassen	VVFIN	*	*	*	*
+22	sie	sie	PPER	*	*	*	*
+23	kreisen	kreisen	VVFIN	*	*	*	*
+24	wie	wie	KOKOM	*	*	*	*
+25	ein	eine	ART	*	*	*	*
+26	Kind	Kind	NN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T920116.154
+# text = Weil ich sie nicht an den Zähnen hinter mir herziehen will , nehme ich sie auf den Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Weil	weil	KOUS	*	*	*	*
+2	ich	ich	PPER	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	an	an	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	Zähnen	Zahn	NN	*	*	*	*
+8	hinter	hinter	APPR	*	*	*	*
+9	mir	ich	PPER	*	*	*	*
+10	herziehen	herziehen	VVINF	*	*	*	*
+11	will	wollen	VMFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	nehme	nehmen	VVFIN	1	1	1	1
+14	ich	ich	PPER	*	*	*	*
+15	sie	sie	PPER	*	*	*	*
+16	auf	auf	APPR	1	1	1	1
+17	den	die	ART	*	*	*	*
+18	Arm	Arm	NN	1	1	1	1
+19	.	.	$.	*	*	*	*
+
+# article_id = T920718.111
+# text = Anschließend werden die Eltern der Welpen vorgestellt , währenddessen Rudi einen der Welpen liebevoll auf den Arm nimmt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Anschließend	anschließend	ADJD	*	*	*	*
+2	werden	werden	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Eltern	Eltern	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Welpen	Welpe	NN	*	*	*	*
+7	vorgestellt	vorstellen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	währenddessen	währenddessen	PAV	*	*	*	*
+10	Rudi	Rudi	NE	*	*	*	*
+11	einen	eine	PIS	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Welpen	Welpe	NN	*	*	*	*
+14	liebevoll	liebevoll	ADJD	*	*	*	*
+15	auf	auf	APPR	1	1	1	1
+16	den	die	ART	*	*	*	*
+17	Arm	Arm	NN	1	1	1	1
+18	nimmt	nehmen	VVFIN	1	1	1	1
+19	.	.	$.	*	*	*	*
+
+# article_id = T921203.177
+# text = Nein , Sie werden nicht auf den Arm genommen , der Oberton- Guru Michael Vetter schlägt zu mit einer Uraufführung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nein	nein	PTKANT	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	Sie	Sie	PPER	*	*	*	*
+4	werden	werden	VAFIN	*	*	*	*
+5	nicht	nicht	PTKNEG	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Arm	Arm	NN	2	2	2	2
+9	genommen	nehmen	VVPP	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Oberton-	Oberton-	TRUNC	*	*	*	*
+13	Guru	Guru	NN	*	*	*	*
+14	Michael	Michael	NE	*	*	*	*
+15	Vetter	Vetter	NE	*	*	*	*
+16	schlägt	schlagen	VVFIN	*	*	*	*
+17	zu	zu	PTKA	*	*	*	*
+18	mit	mit	APPR	*	*	*	*
+19	einer	eine	ART	*	*	*	*
+20	Uraufführung	Uraufführung	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T920302.29
+# text = Wie Puderbach erklärte , wurden sie von dem anonymen Anrufer möglicherweise " auf den Arm genommen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	Puderbach	Puderbach	NE	*	*	*	*
+3	erklärte	erklären	VVFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	wurden	werden	VAFIN	*	*	*	*
+6	sie	sie	PPER	*	*	*	*
+7	von	von	APPR	*	*	*	*
+8	dem	die	ART	*	*	*	*
+9	anonymen	anonym	ADJA	*	*	*	*
+10	Anrufer	Anrufer	NN	*	*	*	*
+11	möglicherweise	möglicherweise	ADV	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	auf	auf	APPR	2	2	2	2
+14	den	die	ART	*	*	*	*
+15	Arm	Arm	NN	2	2	2	2
+16	genommen	nehmen	VVPP	2	2	2	2
+17	"	"	$(	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T920325.38
+# text = Sie mustert kritisch den Besuch und nimmt die kleine Trang auf den Arm , die schon wieder weint .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	mustert	mustern	VVFIN	*	*	*	*
+3	kritisch	kritisch	ADJD	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Besuch	Besuch	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	nimmt	nehmen	VVFIN	1	1	1	1
+8	die	die	ART	*	*	*	*
+9	kleine	klein	ADJA	*	*	*	*
+10	Trang	<unknown>	NN	*	*	*	*
+11	auf	auf	APPR	1	1	1	1
+12	den	die	ART	*	*	*	*
+13	Arm	Arm	NN	1	1	1	1
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	schon	schon	ADV	*	*	*	*
+17	wieder	wieder	ADV	*	*	*	*
+18	weint	weinen	VVFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T921102.244
+# text = Erzieherin Sabine Stemmler geht es wenig anders : Auch sie verbringt einen Großteil des Tages in gebückter Haltung , muß öfter die Sprößlinge hochheben und auf den Arm nehmen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Erzieherin	Erzieherin	NN	*	*	*	*
+2	Sabine	Sabine	NE	*	*	*	*
+3	Stemmler	<unknown>	NN	*	*	*	*
+4	geht	gehen	VVFIN	*	*	*	*
+5	es	es	PPER	*	*	*	*
+6	wenig	wenig	ADV	*	*	*	*
+7	anders	anders	ADV	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	Auch	auch	ADV	*	*	*	*
+10	sie	sie	PPER	*	*	*	*
+11	verbringt	verbringen	VVFIN	*	*	*	*
+12	einen	eine	ART	*	*	*	*
+13	Großteil	Großteil	NN	*	*	*	*
+14	des	die	ART	*	*	*	*
+15	Tages	Tag	NN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	gebückter	gebückt	ADJA	*	*	*	*
+18	Haltung	Haltung	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	muß	müssen	VMFIN	*	*	*	*
+21	öfter	öfter	ADV	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Sprößlinge	Sprössling	NN	*	*	*	*
+24	hochheben	hochheben	VVINF	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	auf	auf	APPR	1	1	1	1
+27	den	die	ART	*	*	*	*
+28	Arm	Arm	NN	1	1	1	1
+29	nehmen	nehmen	VVINF	1	1	1	1
+30	.	.	$.	*	*	*	*
+
+# article_id = T921105.44
+# text = " Wir fühlen uns als Branche auf den Arm genommen " , so der Sprecher des Bundesverbands Druck , Peter Klemm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wir	wir	PPER	*	*	*	*
+3	fühlen	fühlen	VVFIN	*	*	*	*
+4	uns	wir	PPER	*	*	*	*
+5	als	als	KOKOM	*	*	*	*
+6	Branche	Branche	NN	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Arm	Arm	NN	2	2	2	2
+10	genommen	nehmen	VVPP	2	2	2	2
+11	"	"	$(	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	so	so	ADV	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Sprecher	Sprecher	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	Bundesverbands	Bundesverband	NN	*	*	*	*
+18	Druck	Druck	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	Peter	Peter	NE	*	*	*	*
+21	Klemm	<unknown>	NE	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T921128.283
+# text = Das korpulente Energiebündel nahm aber auch sich selbst auf den Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	korpulente	korpulent	ADJA	*	*	*	*
+3	Energiebündel	Energiebündel	NN	*	*	*	*
+4	nahm	nehmen	VVFIN	2	2	2	2
+5	aber	aber	ADV	*	*	*	*
+6	auch	auch	ADV	*	*	*	*
+7	sich	sich	PRF	*	*	*	*
+8	selbst	selbst	ADV	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	Arm	Arm	NN	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T881017.191
+# text = Jetzt nimmt Liane eine Amme auf den Arm und hebt sie vom Grund auf .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Jetzt	jetzt	ADV	*	*	*	*
+2	nimmt	nehmen	VVFIN	1	1	1	1
+3	Liane	Liane	NE	*	*	*	*
+4	eine	eine	ART	*	*	*	*
+5	Amme	Amme	NN	*	*	*	*
+6	auf	auf	APPR	1	1	1	1
+7	den	die	ART	*	*	*	*
+8	Arm	Arm	NN	1	1	1	1
+9	und	und	KON	*	*	*	*
+10	hebt	heben	VVFIN	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	vom	von	APPRART	*	*	*	*
+13	Grund	Grund	NN	*	*	*	*
+14	auf	auf	PTKVZ	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T870428.79
+# text = " ruft Ibu Hartini ihrer Nachbarin zu , nimmt ihr jüngstes Kind auf den Arm und eilt im Laufschritt zu einer nahegelegenen Schnellstraße , von der donnerndes Motorengeräusch zu vernehmen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	ruft	rufen	VVFIN	*	*	*	*
+3	Ibu	<unknown>	ADJA	*	*	*	*
+4	Hartini	<unknown>	NN	*	*	*	*
+5	ihrer	ihr	PPOSAT	*	*	*	*
+6	Nachbarin	Nachbarin	NN	*	*	*	*
+7	zu	zu	PTKVZ	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	nimmt	nehmen	VVFIN	1	1	1	1
+10	ihr	ihr	PPOSAT	*	*	*	*
+11	jüngstes	jung	ADJA	*	*	*	*
+12	Kind	Kind	NN	*	*	*	*
+13	auf	auf	APPR	1	1	1	1
+14	den	die	ART	*	*	*	*
+15	Arm	Arm	NN	1	1	1	1
+16	und	und	KON	*	*	*	*
+17	eilt	eilen	VVFIN	*	*	*	*
+18	im	in	APPRART	*	*	*	*
+19	Laufschritt	Laufschritt	NN	*	*	*	*
+20	zu	zu	APPR	*	*	*	*
+21	einer	eine	ART	*	*	*	*
+22	nahegelegenen	nahegelegen	ADJA	*	*	*	*
+23	Schnellstraße	Schnellstraße	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	von	von	APPR	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	donnerndes	donnernd	ADJA	*	*	*	*
+28	Motorengeräusch	Motorengeräusch	NN	*	*	*	*
+29	zu	zu	PTKZU	*	*	*	*
+30	vernehmen	vernehmen	VVINF	*	*	*	*
+31	ist	sein	VAFIN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T871224.70
+# text = " Wollen Sie mich auf den Arm nehmen ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wollen	wollen	VMFIN	*	*	*	*
+3	Sie	Sie	PPER	*	*	*	*
+4	mich	ich	PRF	*	*	*	*
+5	auf	auf	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	Arm	Arm	NN	2	2	2	2
+8	nehmen	nehmen	VVINF	2	2	2	2
+9	?	?	$.	*	*	*	*
+
+# article_id = T870303.68
+# text = Am Schluß kam ein leicht kriegsverletzter Vater ins Zimmer , der glücksstrahlend beide Kinder auf den Arm nahm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	Schluß	Schluss	NN	*	*	*	*
+3	kam	kommen	VVFIN	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	leicht	leicht	ADJD	*	*	*	*
+6	kriegsverletzter	<unknown>	ADJA	*	*	*	*
+7	Vater	Vater	NN	*	*	*	*
+8	ins	in	APPRART	*	*	*	*
+9	Zimmer	Zimmer	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	PRELS	*	*	*	*
+12	glücksstrahlend	glücksstrahlend	ADJD	*	*	*	*
+13	beide	beide	PIAT	*	*	*	*
+14	Kinder	Kind	NN	*	*	*	*
+15	auf	auf	APPR	1	1	1	1
+16	den	die	ART	*	*	*	*
+17	Arm	Arm	NN	1	1	1	1
+18	nahm	nehmen	VVFIN	1	1	1	1
+19	.	.	$.	*	*	*	*
+
+# article_id = T931028.236
+# text = Aber das Publikum weiß , wie es von Schneider in die Irre geführt und auf den Arm genommen werden will , während der Meister gesteht : " Ich selber würde jetzt hier nicht hingegangen sein , ich bin so müde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	aber	KON	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	Publikum	Publikum	NN	*	*	*	*
+4	weiß	wissen	VVFIN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	wie	wie	KOUS	*	*	*	*
+7	es	es	PPER	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Schneider	Schneider	NE	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Irre	Irre	NN	*	*	*	*
+13	geführt	führen	VVPP	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Arm	Arm	NN	2	2	2	2
+18	genommen	nehmen	VVPP	2	2	2	2
+19	werden	werden	VAINF	*	*	*	*
+20	will	wollen	VMFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	während	während	KOUS	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Meister	Meister	NN	*	*	*	*
+25	gesteht	gestehen	VVFIN	*	*	*	*
+26	:	:	$.	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	Ich	ich	PPER	*	*	*	*
+29	selber	selber	ADV	*	*	*	*
+30	würde	werden	VAFIN	*	*	*	*
+31	jetzt	jetzt	ADV	*	*	*	*
+32	hier	hier	ADV	*	*	*	*
+33	nicht	nicht	PTKNEG	*	*	*	*
+34	hingegangen	hingehen	VVPP	*	*	*	*
+35	sein	sein	VAINF	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	ich	ich	PPER	*	*	*	*
+38	bin	sein	VAFIN	*	*	*	*
+39	so	so	ADV	*	*	*	*
+40	müde	müde	ADJD	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T930917.110
+# text = Ethnische Musik nimmt man am besten auf den Arm , kommentiert er seine Platte " Country Music in the World of Islam , Vol .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ethnische	ethnisch	ADJA	*	*	*	*
+2	Musik	Musik	NN	*	*	*	*
+3	nimmt	nehmen	VVFIN	2	2	2	2
+4	man	man	PIS	*	*	*	*
+5	am	am	PTKA	*	*	*	*
+6	besten	gut	ADJD	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Arm	Arm	NN	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	kommentiert	kommentieren	VVFIN	*	*	*	*
+12	er	er	PPER	*	*	*	*
+13	seine	sein	PPOSAT	*	*	*	*
+14	Platte	Platte	NN	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	Country	Country	NN	*	*	*	*
+17	Music	Music	NE	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	the	the	FM	*	*	*	*
+20	World	<unknown>	NN	*	*	*	*
+21	of	of	FM	*	*	*	*
+22	Islam	Islam	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	Vol	<unknown>	NN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T930129.179
+# text = Doch bestünde Tschierschs Programm " Armsein ist asozial " nur daraus , gewichtige Männer auf den Arm zu nehmen , wäre geradezu der Vergleich zu einem Trockentraining mit Luftballonhanteln angebracht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	ADV	*	*	*	*
+2	bestünde	bestehen	VVFIN	*	*	*	*
+3	Tschierschs	<unknown>	NN	*	*	*	*
+4	Programm	Programm	NN	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Armsein	Armsein	NN	*	*	*	*
+7	ist	sein	VAFIN	*	*	*	*
+8	asozial	asozial	ADJD	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	nur	nur	ADV	*	*	*	*
+11	daraus	daraus	PAV	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	gewichtige	gewichtig	ADJA	*	*	*	*
+14	Männer	Mann	NN	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Arm	Arm	NN	2	2	2	2
+18	zu	zu	PTKZU	*	*	*	*
+19	nehmen	nehmen	VVINF	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	wäre	sein	VAFIN	*	*	*	*
+22	geradezu	geradezu	ADV	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Vergleich	Vergleich	NN	*	*	*	*
+25	zu	zu	APPR	*	*	*	*
+26	einem	eine	ART	*	*	*	*
+27	Trockentraining	Trockentraining	NN	*	*	*	*
+28	mit	mit	APPR	*	*	*	*
+29	Luftballonhanteln	<unknown>	NN	*	*	*	*
+30	angebracht	anbringen	VVPP	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T931111.139
+# text = Umweltsenator Volker Hassemer ( CDU ) soll 85.000 Berliner auf den Arm genommen haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Umweltsenator	Umweltsenator	NN	*	*	*	*
+2	Volker	Volker	NE	*	*	*	*
+3	Hassemer	<unknown>	NE	*	*	*	*
+4	(	(	$(	*	*	*	*
+5	CDU	CDU	NE	*	*	*	*
+6	)	)	$(	*	*	*	*
+7	soll	sollen	VMFIN	*	*	*	*
+8	85.000	@card@	CARD	*	*	*	*
+9	Berliner	Berliner	NN	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Arm	Arm	NN	2	2	2	2
+13	genommen	nehmen	VVPP	2	2	2	2
+14	haben	haben	VAFIN	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T930206.225
+# text = Beko nimmt sie auf den Arm , und irgendwie erreicht er Europa .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Beko	<unknown>	NE	*	*	*	*
+2	nimmt	nehmen	VVFIN	1	1	1	1
+3	sie	sie	PPER	*	*	*	*
+4	auf	auf	APPR	1	1	1	1
+5	den	die	ART	*	*	*	*
+6	Arm	Arm	NN	1	1	1	1
+7	,	,	$,	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	irgendwie	irgendwie	ADV	*	*	*	*
+10	erreicht	erreichen	VVFIN	*	*	*	*
+11	er	er	PPER	*	*	*	*
+12	Europa	Europa	NE	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T960118.66
+# text = Am neuen Volkssport " Telekom-Bashing " sei Sommer selber schuld , sagte Bury , der Bürger habe sich " auf den Arm genommen gefühlt " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	neuen	neu	ADJA	*	*	*	*
+3	Volkssport	Volkssport	NN	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Telekom-Bashing	<unknown>	VVFIN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	sei	sein	VAFIN	*	*	*	*
+8	Sommer	Sommer	NE	*	*	*	*
+9	selber	selber	ADV	*	*	*	*
+10	schuld	schuld	ADJD	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	sagte	sagen	VVFIN	*	*	*	*
+13	Bury	<unknown>	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Bürger	Bürger	NN	*	*	*	*
+17	habe	haben	VAFIN	*	*	*	*
+18	sich	sich	PRF	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	Arm	Arm	NN	2	2	2	2
+23	genommen	nehmen	VVPP	2	2	2	2
+24	gefühlt	fühlen	VVPP	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T960729.117
+# text = Neugeborene werden von den Eltern fast immer auf den linken Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Neugeborene	Neugeborene	NN	*	*	*	*
+2	werden	werden	VAFIN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Eltern	Eltern	NN	*	*	*	*
+6	fast	fast	ADV	*	*	*	*
+7	immer	immer	ADV	*	*	*	*
+8	auf	auf	APPR	1	1	1	1
+9	den	die	ART	*	*	*	*
+10	linken	links	ADJA	*	*	*	*
+11	Arm	Arm	NN	1	1	1	1
+12	genommen	nehmen	VVPP	1	1	1	1
+13	.	.	$.	*	*	*	*
+
+# article_id = T960816.187
+# text = Freiwillig würde sich Sielmann dieser Fototermin genannten Prozedur wohl kaum aussetzen , aber es gilt für eine neue Staffel von Tierfilmen zu werben , und Vertrag ist Vertrag : Artig nimmt er immer wieder den Affen auf den Arm , lächelt in die Objektive und zuckt telegen mit den graumelierten Augenbrauen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Freiwillig	freiwillig	ADJD	*	*	*	*
+2	würde	werden	VAFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	Sielmann	<unknown>	NN	*	*	*	*
+5	dieser	dies	PDAT	*	*	*	*
+6	Fototermin	Fototermin	NN	*	*	*	*
+7	genannten	genannt	ADJA	*	*	*	*
+8	Prozedur	Prozedur	NN	*	*	*	*
+9	wohl	wohl	ADV	*	*	*	*
+10	kaum	kaum	ADV	*	*	*	*
+11	aussetzen	aussetzen	VVINF	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	aber	aber	KON	*	*	*	*
+14	es	es	PPER	*	*	*	*
+15	gilt	gelten	VVFIN	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	eine	eine	ART	*	*	*	*
+18	neue	neu	ADJA	*	*	*	*
+19	Staffel	Staffel	NN	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	Tierfilmen	Tierfilm	NN	*	*	*	*
+22	zu	zu	PTKZU	*	*	*	*
+23	werben	werben	VVINF	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	Vertrag	Vertrag	NN	*	*	*	*
+27	ist	sein	VAFIN	*	*	*	*
+28	Vertrag	Vertrag	NN	*	*	*	*
+29	:	:	$.	*	*	*	*
+30	Artig	artig	ADJD	*	*	*	*
+31	nimmt	nehmen	VVFIN	1	1	1	1
+32	er	er	PPER	*	*	*	*
+33	immer	immer	ADV	*	*	*	*
+34	wieder	wieder	ADV	*	*	*	*
+35	den	die	ART	*	*	*	*
+36	Affen	Affe	NN	*	*	*	*
+37	auf	auf	APPR	1	1	1	1
+38	den	die	ART	*	*	*	*
+39	Arm	Arm	NN	1	1	1	1
+40	,	,	$,	*	*	*	*
+41	lächelt	lächeln	VVFIN	*	*	*	*
+42	in	in	APPR	*	*	*	*
+43	die	die	ART	*	*	*	*
+44	Objektive	Objektiv	NN	*	*	*	*
+45	und	und	KON	*	*	*	*
+46	zuckt	zucken	VVFIN	*	*	*	*
+47	telegen	telegen	ADJD	*	*	*	*
+48	mit	mit	APPR	*	*	*	*
+49	den	die	ART	*	*	*	*
+50	graumelierten	graumeliert	ADJA	*	*	*	*
+51	Augenbrauen	Augenbraue	NN	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T960215.400
+# text = Wenn nach einer halben Stunde eine junge , hübsche Amerikanerin das Kind unbedingt auf den Arm nehmen will , weiß man schon genau , worum es im Rest des Films geht , aber das hat bei romantischen Komödien ja noch nie gestört .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	nach	nach	APPR	*	*	*	*
+3	einer	eine	ART	*	*	*	*
+4	halben	halb	ADJA	*	*	*	*
+5	Stunde	Stunde	NN	*	*	*	*
+6	eine	eine	ART	*	*	*	*
+7	junge	jung	ADJA	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	hübsche	hübsch	ADJA	*	*	*	*
+10	Amerikanerin	Amerikanerin	NN	*	*	*	*
+11	das	die	ART	*	*	*	*
+12	Kind	Kind	NN	*	*	*	*
+13	unbedingt	unbedingt	ADJD	*	*	*	*
+14	auf	auf	APPR	1	1	1	1
+15	den	die	ART	*	*	*	*
+16	Arm	Arm	NN	1	1	1	1
+17	nehmen	nehmen	VVINF	1	1	1	1
+18	will	wollen	VMFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	weiß	wissen	VVFIN	*	*	*	*
+21	man	man	PIS	*	*	*	*
+22	schon	schon	ADV	*	*	*	*
+23	genau	genau	ADJD	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	worum	worum	PWAV	*	*	*	*
+26	es	es	PPER	*	*	*	*
+27	im	in	APPRART	*	*	*	*
+28	Rest	Rest	NN	*	*	*	*
+29	des	die	ART	*	*	*	*
+30	Films	Film	NN	*	*	*	*
+31	geht	gehen	VVFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	aber	aber	KON	*	*	*	*
+34	das	die	PDS	*	*	*	*
+35	hat	haben	VAFIN	*	*	*	*
+36	bei	bei	APPR	*	*	*	*
+37	romantischen	romantisch	ADJA	*	*	*	*
+38	Komödien	Komödie	NN	*	*	*	*
+39	ja	ja	ADV	*	*	*	*
+40	noch	noch	ADV	*	*	*	*
+41	nie	nie	ADV	*	*	*	*
+42	gestört	stören	VVPP	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T980505.125
+# text = Es ist eine einfache , eingängige Rede in der Nationalsprache Tagalog , gewürzt mit Scherzen , bei denen er sich selbst auf den Arm nimmt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	eine	eine	ART	*	*	*	*
+4	einfache	einfach	ADJA	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	eingängige	eingängig	ADJA	*	*	*	*
+7	Rede	Rede	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Nationalsprache	Nationalsprache	NN	*	*	*	*
+11	Tagalog	<unknown>	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	gewürzt	würzen	VVPP	*	*	*	*
+14	mit	mit	APPR	*	*	*	*
+15	Scherzen	Scherz|Scherzen	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	bei	bei	APPR	*	*	*	*
+18	denen	die	PRELS	*	*	*	*
+19	er	er	PPER	*	*	*	*
+20	sich	sich	PRF	*	*	*	*
+21	selbst	selbst	ADV	*	*	*	*
+22	auf	auf	APPR	2	2	2	2
+23	den	die	ART	*	*	*	*
+24	Arm	Arm	NN	2	2	2	2
+25	nimmt	nehmen	VVFIN	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T980612.62
+# text = Die SPD nimmt mit ihren Programmen die Arbeitnehmer doch auf den Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	SPD	SPD	NE	*	*	*	*
+3	nimmt	nehmen	VVFIN	2	2	2	2
+4	mit	mit	APPR	*	*	*	*
+5	ihren	ihr	PPOSAT	*	*	*	*
+6	Programmen	Programm	NN	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Arbeitnehmer	Arbeitnehmer	NN	*	*	*	*
+9	doch	doch	ADV	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Arm	Arm	NN	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T980921.177
+# text = " Da haben wir uns auf den Arm genommen gefühlt " , empört sich Richter Neuschild .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Da	da	ADV	*	*	*	*
+3	haben	haben	VAFIN	*	*	*	*
+4	wir	wir	PPER	*	*	*	*
+5	uns	wir	PRF	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Arm	Arm	NN	2	2	2	2
+9	genommen	nehmen	VVPP	2	2	2	2
+10	gefühlt	fühlen	VVPP	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	empört	empören	VVFIN	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	Richter	Richter	NE	*	*	*	*
+16	Neuschild	<unknown>	NN	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T980401.272
+# text = Der nämlich wollte das Leben seines Dackels retten , nahm diesen auf den Arm und wurde mit Bissen in die Wade und den Oberarm abgestraft .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	PDS	*	*	*	*
+2	nämlich	nämlich	ADV	*	*	*	*
+3	wollte	wollen	VMFIN	*	*	*	*
+4	das	die	ART	*	*	*	*
+5	Leben	Leben	NN	*	*	*	*
+6	seines	sein	PPOSAT	*	*	*	*
+7	Dackels	Dackel	NN	*	*	*	*
+8	retten	retten	VVINF	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	nahm	nehmen	VVFIN	1	1	1	1
+11	diesen	diese	PDS	*	*	*	*
+12	auf	auf	APPR	1	1	1	1
+13	den	die	ART	*	*	*	*
+14	Arm	Arm	NN	1	1	1	1
+15	und	und	KON	*	*	*	*
+16	wurde	werden	VAFIN	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	Bissen	Biß	NN	*	*	*	*
+19	in	in	APPR	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Wade	Wade	NN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	Oberarm	Oberarm	NN	*	*	*	*
+25	abgestraft	abstrafen	VVPP	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T980714.246
+# text = Und nehme ich eines der Welpen liebevoll auf den Arm , steht ihr das Wort " Kindesentführung " ins Gesicht geschrieben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	nehme	nehmen	VVFIN	1	1	1	1
+3	ich	ich	PPER	*	*	*	*
+4	eines	eine	PIS	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Welpen	Welpe	NN	*	*	*	*
+7	liebevoll	liebevoll	ADJD	*	*	*	*
+8	auf	auf	APPR	1	1	1	1
+9	den	die	ART	*	*	*	*
+10	Arm	Arm	NN	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	steht	stehen	VVFIN	*	*	*	*
+13	ihr	ihr	PPER	*	*	*	*
+14	das	die	ART	*	*	*	*
+15	Wort	Wort	NN	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Kindesentführung	Kindesentführung	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	ins	in	APPRART	*	*	*	*
+20	Gesicht	Gesicht	NN	*	*	*	*
+21	geschrieben	schreiben	VVPP	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T981223.164
+# text = Die deutsche Sprache , hat Stickel festgestellt , ist nämlich großen Gefahren ausgesetzt : " Immer mehr Menschen , nicht nur ältere , fühlen sich durch die Flut sogenannter Anglizismen auf den Arm genommen !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	deutsche	deutsch	ADJA	*	*	*	*
+3	Sprache	Sprache	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	Stickel	<unknown>	NN	*	*	*	*
+7	festgestellt	feststellen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	ist	sein	VAFIN	*	*	*	*
+10	nämlich	nämlich	ADV	*	*	*	*
+11	großen	groß	ADJA	*	*	*	*
+12	Gefahren	Gefahr	NN	*	*	*	*
+13	ausgesetzt	aussetzen	VVPP	*	*	*	*
+14	:	:	$.	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	Immer	immer	ADV	*	*	*	*
+17	mehr	mehr	PIAT	*	*	*	*
+18	Menschen	Mensch	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	nicht	nicht	PTKNEG	*	*	*	*
+21	nur	nur	ADV	*	*	*	*
+22	ältere	alt	ADJA	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	fühlen	fühlen	VVFIN	*	*	*	*
+25	sich	sich	PRF	*	*	*	*
+26	durch	durch	APPR	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Flut	Flut	NN	*	*	*	*
+29	sogenannter	sogenannt	ADJA	*	*	*	*
+30	Anglizismen	Anglizismus	NN	*	*	*	*
+31	auf	auf	APPR	2	2	2	2
+32	den	die	ART	*	*	*	*
+33	Arm	Arm	NN	2	2	2	2
+34	genommen	nehmen	VVPP	2	2	2	2
+35	!	!	$.	*	*	*	*
+
+# article_id = T980323.89
+# text = Der den Einsatz leitende Polizeidirektor Horst Haase räumte am Samstag in Ahaus ein , daß sich " die Bürger womöglich von uns auf den Arm genommen " fühlten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Einsatz	Einsatz	NN	*	*	*	*
+4	leitende	leitend	ADJA	*	*	*	*
+5	Polizeidirektor	Polizeidirektor	NN	*	*	*	*
+6	Horst	Horst	NE	*	*	*	*
+7	Haase	Haase	NE	*	*	*	*
+8	räumte	räumen	VVFIN	*	*	*	*
+9	am	an	APPRART	*	*	*	*
+10	Samstag	Samstag	NN	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	Ahaus	<unknown>	NE	*	*	*	*
+13	ein	ein	PTKVZ	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	daß	dass	KOUS	*	*	*	*
+16	sich	sich	PRF	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Bürger	Bürger	NN	*	*	*	*
+20	womöglich	womöglich	ADV	*	*	*	*
+21	von	von	APPR	*	*	*	*
+22	uns	wir	PPER	*	*	*	*
+23	auf	auf	APPR	2	2	2	2
+24	den	die	ART	*	*	*	*
+25	Arm	Arm	NN	2	2	2	2
+26	genommen	nehmen	VVPP	2	2	2	2
+27	"	"	$(	*	*	*	*
+28	fühlten	fühlen	VVFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T981109.215
+# text = Nach dieser Ausflipp-Einlage nahm sie ihr männlicher Kollege auf die Arme und trug das zappelnde Bündel weg .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	dieser	dies	PDAT	*	*	*	*
+3	Ausflipp-Einlage	<unknown>	NN	*	*	*	*
+4	nahm	nehmen	VVFIN	1	1	1	1
+5	sie	sie	PPER	*	*	*	*
+6	ihr	ihr	PPOSAT	*	*	*	*
+7	männlicher	männlich	ADJA	*	*	*	*
+8	Kollege	Kollege	NN	*	*	*	*
+9	auf	auf	APPR	1	1	1	1
+10	die	die	ART	*	*	*	*
+11	Arme	Arm|Arme	NN	1	1	1	1
+12	und	und	KON	*	*	*	*
+13	trug	tragen	VVFIN	*	*	*	*
+14	das	die	ART	*	*	*	*
+15	zappelnde	zappelnd	ADJA	*	*	*	*
+16	Bündel	Bündel	NN	*	*	*	*
+17	weg	weg	PTKVZ	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T980207.313
+# text = " Man wird glaubwürdiger , wenn man nicht nur austeilt , sondern auch sich selber auf den Arm nimmt " , so lautet die Devise des türkischen Kabarettisten Mushin Omurca .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Man	man	PIS	*	*	*	*
+3	wird	werden	VAFIN	*	*	*	*
+4	glaubwürdiger	glaubwürdig	ADJD	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	wenn	wenn	KOUS	*	*	*	*
+7	man	man	PIS	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	nur	nur	ADV	*	*	*	*
+10	austeilt	austeilen	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	sondern	sondern	KON	*	*	*	*
+13	auch	auch	ADV	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	selber	selber	ADV	*	*	*	*
+16	auf	auf	APPR	2	2	2	2
+17	den	die	ART	*	*	*	*
+18	Arm	Arm	NN	2	2	2	2
+19	nimmt	nehmen	VVFIN	2	2	2	2
+20	"	"	$(	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	so	so	ADV	*	*	*	*
+23	lautet	lauten	VVFIN	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Devise	Devise	NN	*	*	*	*
+26	des	die	ART	*	*	*	*
+27	türkischen	türkisch	ADJA	*	*	*	*
+28	Kabarettisten	Kabarettist	NN	*	*	*	*
+29	Mushin	<unknown>	NE	*	*	*	*
+30	Omurca	<unknown>	NE	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T970512.120
+# text = Achtjährige steigen auf die Biertische oder werden von Muttern zwecks besserer Sicht auf den Arm genommen , als sich die " Stribberinnen " heißes Wachs auf die Brust träufeln .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Achtjährige	achtjährig	ADJA	*	*	*	*
+2	steigen	steigen	VVFIN	*	*	*	*
+3	auf	auf	APPR	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Biertische	Biertisch	NN	*	*	*	*
+6	oder	oder	KON	*	*	*	*
+7	werden	werden	VAFIN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Muttern	Mutter	NN	*	*	*	*
+10	zwecks	zwecks	APPR	*	*	*	*
+11	besserer	gut	ADJA	*	*	*	*
+12	Sicht	Sicht	NN	*	*	*	*
+13	auf	auf	APPR	1	1	1	1
+14	den	die	ART	*	*	*	*
+15	Arm	Arm	NN	1	1	1	1
+16	genommen	nehmen	VVPP	1	1	1	1
+17	,	,	$,	*	*	*	*
+18	als	als	KOUS	*	*	*	*
+19	sich	sich	PRF	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	Stribberinnen	<unknown>	NN	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	heißes	heiß	ADJA	*	*	*	*
+25	Wachs	Wachs	NN	*	*	*	*
+26	auf	auf	APPR	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Brust	Brust	NN	*	*	*	*
+29	träufeln	träufeln	VVINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T970916.185
+# text = Das sei ein " Klaps " , der Henning Voscherau " aufjaulen " lasse , schließlich sei die Kabel seit Jahrzehnten mit dessen Familie gut bekannt und habe schon " den lütten Henning " auf den Arm genommen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Das	die	PDS	*	*	*	*
+2	sei	sein	VAFIN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Klaps	Klaps	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Henning	Henning	NE	*	*	*	*
+10	Voscherau	<unknown>	NN	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	aufjaulen	aufjaulen	VVINF	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	lasse	lassen	VVFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	schließlich	schließlich	ADV	*	*	*	*
+17	sei	sein	VAFIN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Kabel	Kabel	NN	*	*	*	*
+20	seit	seit	APPR	*	*	*	*
+21	Jahrzehnten	Jahrzehnt	NN	*	*	*	*
+22	mit	mit	APPR	*	*	*	*
+23	dessen	die	PDAT	*	*	*	*
+24	Familie	Familie	NN	*	*	*	*
+25	gut	gut	ADJD	*	*	*	*
+26	bekannt	bekennen	VVPP	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	habe	haben	VAFIN	*	*	*	*
+29	schon	schon	ADV	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	den	die	ART	*	*	*	*
+32	lütten	<unknown>	ADJA	*	*	*	*
+33	Henning	Henning	NE	*	*	*	*
+34	"	"	$(	*	*	*	*
+35	auf	auf	APPR	2	1	2	2
+36	den	die	ART	*	*	*	*
+37	Arm	Arm	NN	2	1	2	2
+38	genommen	nehmen	VVPP	2	1	2	2
+39	.	.	$.	*	*	*	*
+
+# article_id = T970412.57
+# text = Seine Mutter nahm ihn auf den Arm und mit in die Wahlkabine .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seine	sein	PPOSAT	*	*	*	*
+2	Mutter	Mutter	NN	*	*	*	*
+3	nahm	nehmen	VVFIN	1	1	1	1
+4	ihn	er	PPER	*	*	*	*
+5	auf	auf	APPR	1	1	1	1
+6	den	die	ART	*	*	*	*
+7	Arm	Arm	NN	1	1	1	1
+8	und	und	KON	*	*	*	*
+9	mit	mit	APPR	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Wahlkabine	Wahlkabine	NN	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T970412.174
+# text = Die versammelten Egos wollen bei dieser Zeremonie nicht auf den Arm genommen , sondern auf die Bühne gerufen werden , um mit Pathos in der Stimme ihr " Ich danke Gott , meiner Mutter und dem Produzenten " - Sprüchlein loszuwerden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	versammelten	versammelt	ADJA	*	*	*	*
+3	Egos	<unknown>	NN	*	*	*	*
+4	wollen	wollen	VMFIN	*	*	*	*
+5	bei	bei	APPR	*	*	*	*
+6	dieser	dies	PDAT	*	*	*	*
+7	Zeremonie	Zeremonie	NN	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	Arm	Arm	NN	2	2	2	2
+12	genommen	nehmen	VVPP	2	2	2	2
+13	,	,	$,	*	*	*	*
+14	sondern	sondern	KON	*	*	*	*
+15	auf	auf	APPR	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Bühne	Bühne	NN	*	*	*	*
+18	gerufen	rufen	VVPP	*	*	*	*
+19	werden	werden	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	um	um	KOUI	*	*	*	*
+22	mit	mit	APPR	*	*	*	*
+23	Pathos	Pathos	NN	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Stimme	Stimme	NN	*	*	*	*
+27	ihr	ihr	PPOSAT	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	Ich	Ich	NN	*	*	*	*
+30	danke	danken	VVFIN	*	*	*	*
+31	Gott	Gott	NN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	meiner	mein	PPOSAT	*	*	*	*
+34	Mutter	Mutter	NN	*	*	*	*
+35	und	und	KON	*	*	*	*
+36	dem	die	ART	*	*	*	*
+37	Produzenten	Produzent	NN	*	*	*	*
+38	"	"	$(	*	*	*	*
+39	-	-	$(	*	*	*	*
+40	Sprüchlein	Sprüchlein	NN	*	*	*	*
+41	loszuwerden	loszuwerden	VVIZU	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T970415.188
+# text = Die eigene Geschichte auf den Arm , auf die Schippe und die leichte Schulter nehmend , hielten sie tapfer ein " Kicken Kicken Kicken " - Transparent in die Höhe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	eigene	eigen	ADJA	*	*	*	*
+3	Geschichte	Geschichte	NN	*	*	*	*
+4	auf	auf	APPR	2	2	1	2
+5	den	die	ART	*	*	*	*
+6	Arm	Arm	NN	2	2	1	2
+7	,	,	$,	*	*	*	*
+8	auf	auf	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Schippe	Schippe	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	leichte	leicht	ADJA	*	*	*	*
+14	Schulter	Schulter	NN	*	*	*	*
+15	nehmend	nehmend	ADJD	2	2	1	2
+16	,	,	$,	*	*	*	*
+17	hielten	halten	VVFIN	*	*	*	*
+18	sie	sie	PPER	*	*	*	*
+19	tapfer	tapfer	ADJD	*	*	*	*
+20	ein	eine	ART	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	Kicken	Kicken	NN	*	*	*	*
+23	Kicken	Kicken	NN	*	*	*	*
+24	Kicken	Kicken	NN	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	-	-	$(	*	*	*	*
+27	Transparent	Transparent	NN	*	*	*	*
+28	in	in	APPR	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	Höhe	Höhe	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T970428.192
+# text = Stücke wie " Take Me Baby " oder das stompernde " Sugardaddy " sind so eher die Ausnahmen , das Sounduniversum von Jimi Tenor ist ansonsten warm , smoothy , zum Andächtig-Lauschen ; man kann sich aber auch wichtigen Tätigkeiten im Haushalt widmen und ein bißchen auf den Arm genommen fühlen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Stücke	Stück	NN	*	*	*	*
+2	wie	wie	KOKOM	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	Take	<unknown>	NN	*	*	*	*
+5	Me	Me	NE	*	*	*	*
+6	Baby	Baby	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	oder	oder	KON	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	stompernde	<unknown>	ADJA	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	Sugardaddy	<unknown>	NE	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	sind	sein	VAFIN	*	*	*	*
+15	so	so	ADV	*	*	*	*
+16	eher	eher	ADV	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Ausnahmen	Ausnahme	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	das	die	ART	*	*	*	*
+21	Sounduniversum	<unknown>	NN	*	*	*	*
+22	von	von	APPR	*	*	*	*
+23	Jimi	Jimi	NE	*	*	*	*
+24	Tenor	Tenor	NN	*	*	*	*
+25	ist	sein	VAFIN	*	*	*	*
+26	ansonsten	ansonsten	ADV	*	*	*	*
+27	warm	warm	ADJD	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	smoothy	<unknown>	NE	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	zum	zu	APPRART	*	*	*	*
+32	Andächtig-Lauschen	<unknown>	NN	*	*	*	*
+33	;	;	$.	*	*	*	*
+34	man	man	PIS	*	*	*	*
+35	kann	können	VMFIN	*	*	*	*
+36	sich	sich	PRF	*	*	*	*
+37	aber	aber	ADV	*	*	*	*
+38	auch	auch	ADV	*	*	*	*
+39	wichtigen	wichtig	ADJA	*	*	*	*
+40	Tätigkeiten	Tätigkeit	NN	*	*	*	*
+41	im	in	APPRART	*	*	*	*
+42	Haushalt	Haushalt	NN	*	*	*	*
+43	widmen	widmen	VVINF	*	*	*	*
+44	und	und	KON	*	*	*	*
+45	ein	eine	ART	*	*	*	*
+46	bißchen	bisschen	ADV	*	*	*	*
+47	auf	auf	APPR	2	2	2	2
+48	den	die	ART	*	*	*	*
+49	Arm	Arm	NN	2	2	2	2
+50	genommen	nehmen	VVPP	2	2	2	2
+51	fühlen	fühlen	VVINF	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T970712.130
+# text = Raphaela , das zweimonatige Baby , wird auf Mutters Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Raphaela	Raphaela	NE	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	zweimonatige	zweimonatig	ADJA	*	*	*	*
+5	Baby	Baby	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wird	werden	VAFIN	*	*	*	*
+8	auf	auf	APPR	1	1	1	1
+9	Mutters	<unknown>	NN	*	*	*	*
+10	Arm	Arm	NN	1	1	1	1
+11	genommen	nehmen	VVPP	1	1	1	1
+12	.	.	$.	*	*	*	*
+
+# article_id = T971209.110
+# text = Als wäre er schon im Wahlkampf , nahm er als erstes vor den Fernsehkameras sein Töchterlein auf den Arm und küßte seine blonde US-amerikanische Frau .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOUS	*	*	*	*
+2	wäre	sein	VAFIN	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	schon	schon	ADV	*	*	*	*
+5	im	in	APPRART	*	*	*	*
+6	Wahlkampf	Wahlkampf	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	nahm	nehmen	VVFIN	1	1	1	1
+9	er	er	PPER	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	erstes	erst	ADJA	*	*	*	*
+12	vor	vor	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Fernsehkameras	Fernsehkamera	NN	*	*	*	*
+15	sein	sein	PPOSAT	*	*	*	*
+16	Töchterlein	Töchterlein	NN	*	*	*	*
+17	auf	auf	APPR	1	1	1	1
+18	den	die	ART	*	*	*	*
+19	Arm	Arm	NN	1	1	1	1
+20	und	und	KON	*	*	*	*
+21	küßte	küssen	VVFIN	*	*	*	*
+22	seine	sein	PPOSAT	*	*	*	*
+23	blonde	blond	ADJA	*	*	*	*
+24	US-amerikanische	US-amerikanisch	ADJA	*	*	*	*
+25	Frau	Frau	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T970814.226
+# text = Als Manager Lemke kürzlich verkündete , daß Werder bis zu sieben Millionen Mark für einen Torjäger ausgeben wolle , habe er sich " auf den Arm genommen gefühlt " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOKOM	*	*	*	*
+2	Manager	Manager	NN	*	*	*	*
+3	Lemke	<unknown>	NE	*	*	*	*
+4	kürzlich	kürzlich	ADJD	*	*	*	*
+5	verkündete	verkünden	VVFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	Werder	Werder	NE	*	*	*	*
+9	bis	bis	KON	*	*	*	*
+10	zu	zu	APPR	*	*	*	*
+11	sieben	sieben	CARD	*	*	*	*
+12	Millionen	Million	NN	*	*	*	*
+13	Mark	Mark	NN	*	*	*	*
+14	für	für	APPR	*	*	*	*
+15	einen	eine	ART	*	*	*	*
+16	Torjäger	Torjäger	NN	*	*	*	*
+17	ausgeben	ausgeben	VVINF	*	*	*	*
+18	wolle	wollen	VMFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	habe	haben	VAFIN	*	*	*	*
+21	er	er	PPER	*	*	*	*
+22	sich	sich	PRF	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	auf	auf	APPR	2	2	2	2
+25	den	die	ART	*	*	*	*
+26	Arm	Arm	NN	2	2	2	2
+27	genommen	nehmen	VVPP	2	2	2	2
+28	gefühlt	fühlen	VVPP	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T940503.150
+# text = Außer Atem begegnet ein junges Paar immer neuen Institutionen und Zwängen des Alltags , die dabei hemmungslos auf den Arm genommen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Außer	außer	APPR	*	*	*	*
+2	Atem	Atem	NN	*	*	*	*
+3	begegnet	begegnen	VVFIN	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	junges	jung	ADJA	*	*	*	*
+6	Paar	Paar	NN	*	*	*	*
+7	immer	immer	ADV	*	*	*	*
+8	neuen	neu	ADJA	*	*	*	*
+9	Institutionen	Institution	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Zwängen	Zwang	NN	*	*	*	*
+12	des	die	ART	*	*	*	*
+13	Alltags	Alltag	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	dabei	dabei	PAV	*	*	*	*
+17	hemmungslos	hemmungslos	ADJD	*	*	*	*
+18	auf	auf	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	Arm	Arm	NN	2	2	2	2
+21	genommen	nehmen	VVPP	2	2	2	2
+22	werden	werden	VAINF	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T940516.118
+# text = Die Patienten , die wir seit Jahren mit AZT behandeln , fühlen sich natürlich auf den Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Patienten	Patient	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	wir	wir	PPER	*	*	*	*
+6	seit	seit	APPR	*	*	*	*
+7	Jahren	Jahr	NN	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	AZT	<unknown>	NN	*	*	*	*
+10	behandeln	behandeln	VVINF	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	fühlen	fühlen	VVFIN	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	natürlich	natürlich	ADV	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Arm	Arm	NN	2	2	2	2
+18	genommen	nehmen	VVPP	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T940603.151
+# text = Die Polizei , die sich nicht von ihm auf den Arm nehmen lassen wollte , forderte eine psychiatrische Untersuchung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Polizei	Polizei	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	von	von	APPR	*	*	*	*
+8	ihm	er	PPER	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	Arm	Arm	NN	2	2	2	2
+12	nehmen	nehmen	VVINF	2	2	2	2
+13	lassen	lassen	VVINF	*	*	*	*
+14	wollte	wollen	VMFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	forderte	fordern	VVFIN	*	*	*	*
+17	eine	eine	ART	*	*	*	*
+18	psychiatrische	psychiatrisch	ADJA	*	*	*	*
+19	Untersuchung	Untersuchung	NN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T940402.48
+# text = Kannenportionen gewohnte Nordlichter fühlen sich beim erstmaligen Anblick eines Espressos regelrecht auf den Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kannenportionen	<unknown>	NN	*	*	*	*
+2	gewohnte	gewohnt	ADJA	*	*	*	*
+3	Nordlichter	Nordlicht	NN	*	*	*	*
+4	fühlen	fühlen	VVFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	beim	bei	APPRART	*	*	*	*
+7	erstmaligen	erstmalig	ADJA	*	*	*	*
+8	Anblick	Anblick	NN	*	*	*	*
+9	eines	eine	ART	*	*	*	*
+10	Espressos	Espresso	NN	*	*	*	*
+11	regelrecht	regelrecht	ADJD	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Arm	Arm	NN	2	2	2	2
+15	genommen	nehmen	VVPP	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T940406.87
+# text = In den Arm nehmen , um auf den Arm zu nehmen - und von dort runterplumpsen zu lassen : ein glattes drei zu null für den Altmeister , bevor auch nur ein inhaltliches Argument ausgetauscht wird .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Arm	Arm	NN	*	*	*	*
+4	nehmen	nehmen	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	um	um	KOUI	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Arm	Arm	NN	2	2	2	2
+10	zu	zu	PTKZU	*	*	*	*
+11	nehmen	nehmen	VVINF	2	2	2	2
+12	-	-	$(	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	von	von	APPR	*	*	*	*
+15	dort	dort	ADV	*	*	*	*
+16	runterplumpsen	<unknown>	VVINF	*	*	*	*
+17	zu	zu	PTKZU	*	*	*	*
+18	lassen	lassen	VVINF	*	*	*	*
+19	:	:	$.	*	*	*	*
+20	ein	eine	ART	*	*	*	*
+21	glattes	glatt	ADJA	*	*	*	*
+22	drei	drei	CARD	*	*	*	*
+23	zu	zu	APPR	*	*	*	*
+24	null	null	CARD	*	*	*	*
+25	für	für	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Altmeister	Altmeister	NN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	bevor	bevor	KOUS	*	*	*	*
+30	auch	auch	ADV	*	*	*	*
+31	nur	nur	ADV	*	*	*	*
+32	ein	eine	ART	*	*	*	*
+33	inhaltliches	inhaltlich	ADJA	*	*	*	*
+34	Argument	Argument	NN	*	*	*	*
+35	ausgetauscht	austauschen	VVPP	*	*	*	*
+36	wird	werden	VAFIN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T940826.19
+# text = Der fühlt sich offenbar von seinem Mandanten auf den Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	PDS	*	*	*	*
+2	fühlt	fühlen	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	offenbar	offenbar	ADJD	*	*	*	*
+5	von	von	APPR	*	*	*	*
+6	seinem	sein	PPOSAT	*	*	*	*
+7	Mandanten	Mandant	NN	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	Arm	Arm	NN	2	2	2	2
+11	genommen	nehmen	VVPP	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T940326.92
+# text = " gellt da der Entsetzensschrei einer überwinternden Rentnerin , die ihren Purzel vorsichtshalber auf den Arm genommen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	gellt	gellen	VVFIN	*	*	*	*
+3	da	da	ADV	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Entsetzensschrei	Entsetzensschrei	NN	*	*	*	*
+6	einer	eine	ART	*	*	*	*
+7	überwinternden	überwinternd	ADJA	*	*	*	*
+8	Rentnerin	Rentnerin	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	die	die	PRELS	*	*	*	*
+11	ihren	ihr	PPOSAT	*	*	*	*
+12	Purzel	<unknown>	NN	*	*	*	*
+13	vorsichtshalber	vorsichtshalber	ADV	*	*	*	*
+14	auf	auf	APPR	2	1	1	1
+15	den	die	ART	*	*	*	*
+16	Arm	Arm	NN	2	1	1	1
+17	genommen	nehmen	VVPP	2	1	1	1
+18	hat	haben	VAFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T940319.126
+# text = Die einzig vorstellbare Grenze für mich ist , Dinge auf den Arm zu nehmen , für die das Opfer meiner Ironien offensichtlich nichts kann .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	einzig	einzig	ADJD	*	*	*	*
+3	vorstellbare	vorstellbar	ADJA	*	*	*	*
+4	Grenze	Grenze	NN	*	*	*	*
+5	für	für	APPR	*	*	*	*
+6	mich	ich	PRF	*	*	*	*
+7	ist	sein	VAFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Dinge	Ding	NN	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Arm	Arm	NN	2	2	2	2
+13	zu	zu	PTKZU	*	*	*	*
+14	nehmen	nehmen	VVINF	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	die	die	PRELS	*	*	*	*
+18	das	die	ART	*	*	*	*
+19	Opfer	Opfer	NN	*	*	*	*
+20	meiner	mein	PPOSAT	*	*	*	*
+21	Ironien	Ironie	NN	*	*	*	*
+22	offensichtlich	offensichtlich	ADJD	*	*	*	*
+23	nichts	nichts	PIS	*	*	*	*
+24	kann	können	VMFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T940223.92
+# text = Als Sture Sivertsen , Vegard Ulvang , Thomas Alsgaard und Björn Dählie Mikrofonen ihre Niederlage zu erklären suchen , nehmen sich die italienischen Altmeister gegenseitig auf den Arm , wissen nicht , wohin mit ihrem Freudentaumel .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Als	als	KOKOM	*	*	*	*
+2	Sture	Sture	NN	*	*	*	*
+3	Sivertsen	<unknown>	NE	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	Vegard	<unknown>	NE	*	*	*	*
+6	Ulvang	<unknown>	NE	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	Thomas	Thomas	NE	*	*	*	*
+9	Alsgaard	<unknown>	NE	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Björn	Björn	NE	*	*	*	*
+12	Dählie	<unknown>	NN	*	*	*	*
+13	Mikrofonen	Mikrofon	NN	*	*	*	*
+14	ihre	ihr	PPOSAT	*	*	*	*
+15	Niederlage	Niederlage	NN	*	*	*	*
+16	zu	zu	PTKZU	*	*	*	*
+17	erklären	erklären	VVINF	*	*	*	*
+18	suchen	suchen	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	nehmen	nehmen	VVFIN	2	1	1	1
+21	sich	sich	PRF	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	italienischen	italienisch	ADJA	*	*	*	*
+24	Altmeister	Altmeister	NN	*	*	*	*
+25	gegenseitig	gegenseitig	ADJD	*	*	*	*
+26	auf	auf	APPR	2	1	1	1
+27	den	die	ART	*	*	*	*
+28	Arm	Arm	NN	2	1	1	1
+29	,	,	$,	*	*	*	*
+30	wissen	wissen	VVFIN	*	*	*	*
+31	nicht	nicht	PTKNEG	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	wohin	wohin	PWAV	*	*	*	*
+34	mit	mit	APPR	*	*	*	*
+35	ihrem	ihr	PPOSAT	*	*	*	*
+36	Freudentaumel	Freudentaumel	NN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T940217.225
+# text = Eine ältere CDU-Vertreterin des Ortsausschusses will sich von dort notfalls auch wegtragen lassen : " Die einzige Chance für eine Frau meines Alters , nochmal von einem jungen Polizisten auf den Arm genommen zu werden " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	eine	ART	*	*	*	*
+2	ältere	alt	ADJA	*	*	*	*
+3	CDU-Vertreterin	CDU-Vertreterin	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	Ortsausschusses	<unknown>	NN	*	*	*	*
+6	will	wollen	VMFIN	*	*	*	*
+7	sich	sich	PRF	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	dort	dort	ADV	*	*	*	*
+10	notfalls	notfalls	ADV	*	*	*	*
+11	auch	auch	ADV	*	*	*	*
+12	wegtragen	wegtragen	VVINF	*	*	*	*
+13	lassen	lassen	VVINF	*	*	*	*
+14	:	:	$.	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	Die	die	ART	*	*	*	*
+17	einzige	einzig	ADJA	*	*	*	*
+18	Chance	Chance	NN	*	*	*	*
+19	für	für	APPR	*	*	*	*
+20	eine	eine	ART	*	*	*	*
+21	Frau	Frau	NN	*	*	*	*
+22	meines	mein	PPOSAT	*	*	*	*
+23	Alters	Alter	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	nochmal	nochmal	ADV	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	einem	eine	ART	*	*	*	*
+28	jungen	jung	ADJA	*	*	*	*
+29	Polizisten	Polizist	NN	*	*	*	*
+30	auf	auf	APPR	1	1	1	1
+31	den	die	ART	*	*	*	*
+32	Arm	Arm	NN	1	1	1	1
+33	genommen	nehmen	VVPP	1	1	1	1
+34	zu	zu	PTKZU	*	*	*	*
+35	werden	werden	VAINF	*	*	*	*
+36	"	"	$(	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T951011.271
+# text = Daß dabei hin und wieder eine Ikone des Rock und Pop auf den Arm genommen wird , beweist nur , daß " Kick la Luna " auch schauspielerisch betrachtet als bühnenfest zu bezeichnen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	dabei	dabei	PAV	*	*	*	*
+3	hin	hin	ADV	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	wieder	wieder	ADV	*	*	*	*
+6	eine	eine	ART	*	*	*	*
+7	Ikone	Ikone	NN	*	*	*	*
+8	des	die	ART	*	*	*	*
+9	Rock	Rock	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Pop	Pop	NN	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Arm	Arm	NN	2	2	2	2
+15	genommen	nehmen	VVPP	2	2	2	2
+16	wird	werden	VAFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	beweist	beweisen	VVFIN	*	*	*	*
+19	nur	nur	ADV	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	daß	dass	KOUS	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	Kick	Kick	NN	*	*	*	*
+24	la	la	FM	*	*	*	*
+25	Luna	Luna	NN	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	auch	auch	ADV	*	*	*	*
+28	schauspielerisch	schauspielerisch	ADJD	*	*	*	*
+29	betrachtet	betrachten	VVPP	*	*	*	*
+30	als	als	KOKOM	*	*	*	*
+31	bühnenfest	<unknown>	ADJD	*	*	*	*
+32	zu	zu	PTKZU	*	*	*	*
+33	bezeichnen	bezeichnen	VVINF	*	*	*	*
+34	ist	sein	VAFIN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T951014.160
+# text = Dem Kritiker von Variety schwante was , und doch traute er den eigenen Augen nicht so recht : " Könnte sein , daß Clint Eastwood und sein Team sich mit diesem Film den Spaß erlaubt haben , sich ein bißchen selbst auf den Arm zu nehmen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dem	die	ART	*	*	*	*
+2	Kritiker	Kritiker	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Variety	<unknown>	NN	*	*	*	*
+5	schwante	<unknown>	VVFIN	*	*	*	*
+6	was	was	PIS	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	doch	doch	ADV	*	*	*	*
+10	traute	trauen	VVFIN	*	*	*	*
+11	er	er	PPER	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	eigenen	eigen	ADJA	*	*	*	*
+14	Augen	Auge	NN	*	*	*	*
+15	nicht	nicht	PTKNEG	*	*	*	*
+16	so	so	ADV	*	*	*	*
+17	recht	recht	ADJD	*	*	*	*
+18	:	:	$.	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	Könnte	können	VMFIN	*	*	*	*
+21	sein	sein	VAINF	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	daß	dass	KOUS	*	*	*	*
+24	Clint	<unknown>	NE	*	*	*	*
+25	Eastwood	<unknown>	NE	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	sein	sein	PPOSAT	*	*	*	*
+28	Team	Team	NN	*	*	*	*
+29	sich	sich	PRF	*	*	*	*
+30	mit	mit	APPR	*	*	*	*
+31	diesem	dies	PDAT	*	*	*	*
+32	Film	Film	NN	*	*	*	*
+33	den	die	ART	*	*	*	*
+34	Spaß	Spaß	NN	*	*	*	*
+35	erlaubt	erlauben	VVPP	*	*	*	*
+36	haben	haben	VAFIN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	sich	sich	PRF	*	*	*	*
+39	ein	eine	ART	*	*	*	*
+40	bißchen	bisschen	ADV	*	*	*	*
+41	selbst	selbst	ADV	*	*	*	*
+42	auf	auf	APPR	2	2	2	2
+43	den	die	ART	*	*	*	*
+44	Arm	Arm	NN	2	2	2	2
+45	zu	zu	PTKZU	*	*	*	*
+46	nehmen	nehmen	VVINF	2	2	2	2
+47	.	.	$.	*	*	*	*
+
+# article_id = T950111.30
+# text = Pikanterweise erklärt der sich ausgerechnet aus Attentatsdrohungen der Islamisten - denn das Stück nahm das Verhältnis von Islamisten und Staatsmacht auf den Arm .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Pikanterweise	pikanterweise	ADV	*	*	*	*
+2	erklärt	erklären	VVFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	ausgerechnet	ausgerechnet	ADJD	*	*	*	*
+6	aus	aus	APPR	*	*	*	*
+7	Attentatsdrohungen	Attentatsdrohung	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Islamisten	<unknown>	NN	*	*	*	*
+10	-	-	$(	*	*	*	*
+11	denn	denn	KON	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	Stück	Stück	NN	*	*	*	*
+14	nahm	nehmen	VVFIN	2	2	2	2
+15	das	die	ART	*	*	*	*
+16	Verhältnis	Verhältnis	NN	*	*	*	*
+17	von	von	APPR	*	*	*	*
+18	Islamisten	<unknown>	NN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Staatsmacht	Staatsmacht	NN	*	*	*	*
+21	auf	auf	APPR	2	2	2	2
+22	den	die	ART	*	*	*	*
+23	Arm	Arm	NN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T951207.240
+# text = Wedemeier war eigens ans Rednerpult gegangen , um seiner Empörung über den Innensenator Ralf Borttscheller Luft zu machen : " Sie haben lediglich das Parlament auf den Arm genommen , das ist das einzige , was sie hier geleistet haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wedemeier	Wedemeier	NE	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	eigens	eigens	ADV	*	*	*	*
+4	ans	ans	APPRART	*	*	*	*
+5	Rednerpult	Rednerpult	NN	*	*	*	*
+6	gegangen	gehen	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	um	um	KOUI	*	*	*	*
+9	seiner	sein	PPOSAT	*	*	*	*
+10	Empörung	Empörung	NN	*	*	*	*
+11	über	über	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Innensenator	Innensenator	NN	*	*	*	*
+14	Ralf	Ralf	NE	*	*	*	*
+15	Borttscheller	<unknown>	NN	*	*	*	*
+16	Luft	Luft	NN	*	*	*	*
+17	zu	zu	PTKZU	*	*	*	*
+18	machen	machen	VVINF	*	*	*	*
+19	:	:	$.	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	Sie	Sie	PPER	*	*	*	*
+22	haben	haben	VAFIN	*	*	*	*
+23	lediglich	lediglich	ADV	*	*	*	*
+24	das	die	ART	*	*	*	*
+25	Parlament	Parlament	NN	*	*	*	*
+26	auf	auf	APPR	2	2	2	2
+27	den	die	ART	*	*	*	*
+28	Arm	Arm	NN	2	2	2	2
+29	genommen	nehmen	VVPP	2	2	2	2
+30	,	,	$,	*	*	*	*
+31	das	die	PDS	*	*	*	*
+32	ist	sein	VAFIN	*	*	*	*
+33	das	die	ART	*	*	*	*
+34	einzige	einzig	ADJA	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	was	was	PRELS	*	*	*	*
+37	sie	sie	PPER	*	*	*	*
+38	hier	hier	ADV	*	*	*	*
+39	geleistet	leisten	VVPP	*	*	*	*
+40	haben	haben	VAFIN	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T950828.144
+# text = Gerd : Ihr nehmt mich auf den Arm , das ist nicht fair !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gerd	Gerd	NE	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	Ihr	sie	PPER	*	*	*	*
+4	nehmt	nehmen	VVFIN	2	2	2	2
+5	mich	ich	PRF	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Arm	Arm	NN	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	das	die	PDS	*	*	*	*
+11	ist	sein	VAFIN	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	fair	fair	ADJD	*	*	*	*
+14	!	!	$.	*	*	*	*
+
+# article_id = T950816.212
+# text = Zum Abschied ein Huhn auf den Arm nehmen möchte sie nicht : " Das widerstrebt mir .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zum	zu	APPRART	*	*	*	*
+2	Abschied	Abschied	NN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	Huhn	Huhn	NN	*	*	*	*
+5	auf	auf	APPR	1	1	1	1
+6	den	die	ART	*	*	*	*
+7	Arm	Arm	NN	1	1	1	1
+8	nehmen	nehmen	VVINF	1	1	1	1
+9	möchte	mögen	VMFIN	*	*	*	*
+10	sie	sie	PPER	*	*	*	*
+11	nicht	nicht	PTKNEG	*	*	*	*
+12	:	:	$.	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	Das	die	PDS	*	*	*	*
+15	widerstrebt	widerstreben	VVFIN	*	*	*	*
+16	mir	ich	PPER	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T950829.147
+# text = Sydney ( AP / taz ) - Die Koalas in den Tierparks des australischen Staates New South Wales dürfen von Zoobesuchern nicht mehr auf den Arm genommen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sydney	Sydney	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	AP	AP	NE	*	*	*	*
+4	/	/	$(	*	*	*	*
+5	taz	<unknown>	NE	*	*	*	*
+6	)	)	$(	*	*	*	*
+7	-	-	$(	*	*	*	*
+8	Die	<unknown>	ADJA	*	*	*	*
+9	Koalas	<unknown>	NN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Tierparks	Tierpark	NN	*	*	*	*
+13	des	die	ART	*	*	*	*
+14	australischen	australisch	ADJA	*	*	*	*
+15	Staates	Staat	NN	*	*	*	*
+16	New	New	NE	*	*	*	*
+17	South	<unknown>	NE	*	*	*	*
+18	Wales	Wales	NE	*	*	*	*
+19	dürfen	dürfen	VMFIN	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	Zoobesuchern	Zoobesucher	NN	*	*	*	*
+22	nicht	nicht	PTKNEG	*	*	*	*
+23	mehr	mehr	ADV	*	*	*	*
+24	auf	auf	APPR	1	1	1	1
+25	den	die	ART	*	*	*	*
+26	Arm	Arm	NN	1	1	1	1
+27	genommen	nehmen	VVPP	1	1	1	1
+28	werden	werden	VAINF	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T950811.287
+# text = Es ist ein ambivalentes Bild , das zwischen dem Ideal einer Presse , wie es der Canard enchaine5 verkörpert , und dem karikierten Sumpf des Fernsehjournalismus , der täglich erneut auf den Arm genommen wird , oszilliert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	ambivalentes	ambivalent	ADJA	*	*	*	*
+5	Bild	Bild	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	das	die	PRELS	*	*	*	*
+8	zwischen	zwischen	APPR	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	Ideal	Ideal	NN	*	*	*	*
+11	einer	eine	ART	*	*	*	*
+12	Presse	Presse	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wie	wie	KOUS	*	*	*	*
+15	es	es	PPER	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Canard	<unknown>	NN	*	*	*	*
+18	enchaine5	<unknown>	ADJD	*	*	*	*
+19	verkörpert	verkörpern	VVPP	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	dem	die	ART	*	*	*	*
+23	karikierten	karikiert	ADJA	*	*	*	*
+24	Sumpf	Sumpf	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	Fernsehjournalismus	Fernsehjournalismus	NN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	der	die	PRELS	*	*	*	*
+29	täglich	täglich	ADJD	*	*	*	*
+30	erneut	erneut	ADJD	*	*	*	*
+31	auf	auf	APPR	2	2	2	2
+32	den	die	ART	*	*	*	*
+33	Arm	Arm	NN	2	2	2	2
+34	genommen	nehmen	VVPP	2	2	2	2
+35	wird	werden	VAFIN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	oszilliert	oszillieren	VVPP	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T950204.132
+# text = Wichtigstes Requisit : die Stühle , die kleinen , die man auf den Arm nehmen kann wie ein Baby , die riesigen , die Marie kleiner scheinen lassen , als sie ist , und den Verführer größer , als er ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wichtigstes	wichtig	ADJA	*	*	*	*
+2	Requisit	Requisit	NN	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Stühle	Stuhl	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	kleinen	klein	ADJA	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	die	die	PRELS	*	*	*	*
+11	man	man	PIS	*	*	*	*
+12	auf	auf	APPR	1	1	1	1
+13	den	die	ART	*	*	*	*
+14	Arm	Arm	NN	1	1	1	1
+15	nehmen	nehmen	VVINF	1	1	1	1
+16	kann	können	VMFIN	*	*	*	*
+17	wie	wie	KOKOM	*	*	*	*
+18	ein	eine	ART	*	*	*	*
+19	Baby	Baby	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	riesigen	riesig	ADJA	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	die	die	PRELS	*	*	*	*
+25	Marie	Marie	NE	*	*	*	*
+26	kleiner	klein	ADJD	*	*	*	*
+27	scheinen	scheinen	VVINF	*	*	*	*
+28	lassen	lassen	VVINF	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	als	als	KON	*	*	*	*
+31	sie	sie	PPER	*	*	*	*
+32	ist	sein	VAFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	den	die	ART	*	*	*	*
+36	Verführer	Verführer	NN	*	*	*	*
+37	größer	groß	ADJD	*	*	*	*
+38	,	,	$,	*	*	*	*
+39	als	als	KON	*	*	*	*
+40	er	er	PPER	*	*	*	*
+41	ist	sein	VAFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T990419.242
+# text = Vor Gericht erinnerte sich Trzebinski später : " Frahm nahm den Jungen auf den Arm und sagte zu den anderen : Er wird jetzt ins Bett gebracht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	Gericht	Gericht	NN	*	*	*	*
+3	erinnerte	erinnern	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	Trzebinski	<unknown>	NE	*	*	*	*
+6	später	spät	ADJD	*	*	*	*
+7	:	:	$.	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	Frahm	<unknown>	NN	*	*	*	*
+10	nahm	nehmen	VVFIN	1	1	1	1
+11	den	die	ART	*	*	*	*
+12	Jungen	Junge	NN	*	*	*	*
+13	auf	auf	APPR	1	1	1	1
+14	den	die	ART	*	*	*	*
+15	Arm	Arm	NN	1	1	1	1
+16	und	und	KON	*	*	*	*
+17	sagte	sagen	VVFIN	*	*	*	*
+18	zu	zu	APPR	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	anderen	andere	PIS	*	*	*	*
+21	:	:	$.	*	*	*	*
+22	Er	er	PPER	*	*	*	*
+23	wird	werden	VAFIN	*	*	*	*
+24	jetzt	jetzt	ADV	*	*	*	*
+25	ins	in	APPRART	*	*	*	*
+26	Bett	Bett	NN	*	*	*	*
+27	gebracht	bringen	VVPP	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T990421.136
+# text = Wie die 35jährige Mutter des kleinen Franz am ersten Verhandlungstag berichtete , war ihr Sohn ein kleines Stück vorausgelaufen , als er von einem fremden Mann mit einer tief ins Gesicht gezogenen Mütze auf den Arm genommen wurde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	35jährige	35jährig	ADJA	*	*	*	*
+4	Mutter	Mutter	NN	*	*	*	*
+5	des	die	ART	*	*	*	*
+6	kleinen	klein	ADJA	*	*	*	*
+7	Franz	Franz	NE	*	*	*	*
+8	am	an	APPRART	*	*	*	*
+9	ersten	erst	ADJA	*	*	*	*
+10	Verhandlungstag	Verhandlungstag	NN	*	*	*	*
+11	berichtete	berichten	VVFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	war	sein	VAFIN	*	*	*	*
+14	ihr	ihr	PPOSAT	*	*	*	*
+15	Sohn	Sohn	NN	*	*	*	*
+16	ein	eine	ART	*	*	*	*
+17	kleines	klein	ADJA	*	*	*	*
+18	Stück	Stück	NN	*	*	*	*
+19	vorausgelaufen	vorauslaufen	VVPP	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	als	als	KOUS	*	*	*	*
+22	er	er	PPER	*	*	*	*
+23	von	von	APPR	*	*	*	*
+24	einem	eine	ART	*	*	*	*
+25	fremden	fremd	ADJA	*	*	*	*
+26	Mann	Mann	NN	*	*	*	*
+27	mit	mit	APPR	*	*	*	*
+28	einer	eine	PIS	*	*	*	*
+29	tief	tief	ADJD	*	*	*	*
+30	ins	in	APPRART	*	*	*	*
+31	Gesicht	Gesicht	NN	*	*	*	*
+32	gezogenen	gezogen	ADJA	*	*	*	*
+33	Mütze	Mütze	NN	*	*	*	*
+34	auf	auf	APPR	1	1	1	1
+35	den	die	ART	*	*	*	*
+36	Arm	Arm	NN	1	1	1	1
+37	genommen	nehmen	VVPP	1	1	1	1
+38	wurde	werden	VAFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T990311.21
+# text = Thomas : " Dann habe ich JD auf den Arm genommen und so schnell wie möglich aus dem Wasser getragen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Thomas	Thomas	NE	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	Dann	dann	ADV	*	*	*	*
+5	habe	haben	VAFIN	*	*	*	*
+6	ich	ich	PPER	*	*	*	*
+7	JD	<unknown>	NN	*	*	*	*
+8	auf	auf	APPR	1	1	1	1
+9	den	die	ART	*	*	*	*
+10	Arm	Arm	NN	1	1	1	1
+11	genommen	nehmen	VVPP	1	1	1	1
+12	und	und	KON	*	*	*	*
+13	so	so	ADV	*	*	*	*
+14	schnell	schnell	ADJD	*	*	*	*
+15	wie	wie	KOKOM	*	*	*	*
+16	möglich	möglich	ADJD	*	*	*	*
+17	aus	aus	APPR	*	*	*	*
+18	dem	die	ART	*	*	*	*
+19	Wasser	Wasser	NN	*	*	*	*
+20	getragen	tragen	VVPP	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T990306.10
+# text = " Als sich der eine Mitbewerber mit seinem tatsächlichen Namen , " Toni Sailer " , und der andere ganz ehrlich als " Andreas Hofer " vorgestellt hatte , fühlte sich der Chef bereits auf den Arm genommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Als	als	KOUS	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	der	die	PDS	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	Mitbewerber	Mitbewerber	NN	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	seinem	sein	PPOSAT	*	*	*	*
+9	tatsächlichen	tatsächlich	ADJA	*	*	*	*
+10	Namen	Name	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	Toni	Toni	NE	*	*	*	*
+14	Sailer	<unknown>	NE	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	andere	andere	PIS	*	*	*	*
+20	ganz	ganz	ADV	*	*	*	*
+21	ehrlich	ehrlich	ADJD	*	*	*	*
+22	als	als	KOKOM	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Andreas	Andreas	NE	*	*	*	*
+25	Hofer	Hofer	NE	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	vorgestellt	vorstellen	VVPP	*	*	*	*
+28	hatte	haben	VAFIN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	fühlte	fühlen	VVFIN	*	*	*	*
+31	sich	sich	PRF	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	Chef	Chef	NN	*	*	*	*
+34	bereits	bereits	ADV	*	*	*	*
+35	auf	auf	APPR	2	2	2	2
+36	den	die	ART	*	*	*	*
+37	Arm	Arm	NN	2	2	2	2
+38	genommen	nehmen	VVPP	2	2	2	2
+39	.	.	$.	*	*	*	*
+
+# article_id = T990218.250
+# text = " Sicher " , antwortet er mit einem Blick , als wolle man ihn auf den Arm nehmen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Sicher	sicher	ADJD	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	antwortet	antworten	VVFIN	*	*	*	*
+6	er	er	PPER	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	einem	eine	ART	*	*	*	*
+9	Blick	Blick	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	als	als	KOUS	*	*	*	*
+12	wolle	wollen	VMFIN	*	*	*	*
+13	man	man	PIS	*	*	*	*
+14	ihn	er	PPER	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Arm	Arm	NN	2	2	2	2
+18	nehmen	nehmen	VVINF	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T990205.186
+# text = TU-Präsident Hans-Jürgen Ewers fühlt sich " von der Politik auf den Arm genommen "
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	TU-Präsident	TU-Präsident	NN	*	*	*	*
+2	Hans-Jürgen	<unknown>	NE	*	*	*	*
+3	Ewers	<unknown>	NE	*	*	*	*
+4	fühlt	fühlen	VVFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	von	von	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Politik	Politik	NN	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Arm	Arm	NN	2	2	2	2
+13	genommen	nehmen	VVPP	2	2	2	2
+14	"	"	$(	*	*	*	*
+
+# article_id = T990205.186
+# text = " Wir fühlen uns von der Politik auf den Arm genommen " , klagt der Präsident der Technischen Universität ( TU ) , Hans-Jürgen Ewers .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wir	wir	PPER	*	*	*	*
+3	fühlen	fühlen	VVFIN	*	*	*	*
+4	uns	wir	PPER	*	*	*	*
+5	von	von	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Politik	Politik	NN	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	Arm	Arm	NN	2	2	2	2
+11	genommen	nehmen	VVPP	2	2	2	2
+12	"	"	$(	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	klagt	klagen	VVFIN	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Präsident	Präsident	NN	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Technischen	technisch	ADJA	*	*	*	*
+19	Universität	Universität	NN	*	*	*	*
+20	(	(	$(	*	*	*	*
+21	TU	TU	NE	*	*	*	*
+22	)	)	$(	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	Hans-Jürgen	<unknown>	NE	*	*	*	*
+25	Ewers	<unknown>	NE	*	*	*	*
+26	.	.	$.	*	*	*	*
+

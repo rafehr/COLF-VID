@@ -1,0 +1,1307 @@
+# article_id = T890905.54
+# text = In der Regel sind die Opfer jung , männlich und schwarz ; jedes zweite hat noch Spuren des Rauschmittels im Blut .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Regel	Regel	NN	*	*	*	*
+4	sind	sein	VAFIN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Opfer	Opfer	NN	*	*	*	*
+7	jung	jung	ADJD	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	männlich	männlich	ADJD	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	schwarz	schwarz	ADJD	*	*	*	*
+12	;	;	$.	*	*	*	*
+13	jedes	jede	PIAT	*	*	*	*
+14	zweite	zweit	ADJA	*	*	*	*
+15	hat	haben	VAFIN	1	1	1	1
+16	noch	noch	ADV	*	*	*	*
+17	Spuren	Spur|Spuren	NN	*	*	*	*
+18	des	die	ART	*	*	*	*
+19	Rauschmittels	Rauschmittel	NN	*	*	*	*
+20	im	in	APPRART	1	1	1	1
+21	Blut	Blut	NN	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T890811.44
+# text = Köln ( dpa ) - Großstadtkinder haben nach einer Studie des Medizinischen Instituts für Umwelthygiene in Düsseldorf erheblich mehr krebserregendes Benzol im Blut als ihre Altersgenossen in kleineren Städten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Köln	Köln	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	dpa	dpa	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Großstadtkinder	Großstadtkind	NN	*	*	*	*
+7	haben	haben	VAFIN	1	1	1	1
+8	nach	nach	APPR	*	*	*	*
+9	einer	eine	ART	*	*	*	*
+10	Studie	Studie	NN	*	*	*	*
+11	des	die	ART	*	*	*	*
+12	Medizinischen	medizinisch	ADJA	*	*	*	*
+13	Instituts	Institut	NN	*	*	*	*
+14	für	für	APPR	*	*	*	*
+15	Umwelthygiene	Umwelthygiene	NN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	Düsseldorf	Düsseldorf	NE	*	*	*	*
+18	erheblich	erheblich	ADJD	*	*	*	*
+19	mehr	mehr	PIAT	*	*	*	*
+20	krebserregendes	krebserregend	ADJA	*	*	*	*
+21	Benzol	Benzol	NN	*	*	*	*
+22	im	in	APPRART	1	1	1	1
+23	Blut	Blut	NN	1	1	1	1
+24	als	als	KOKOM	*	*	*	*
+25	ihre	ihr	PPOSAT	*	*	*	*
+26	Altersgenossen	Altersgenosse	NN	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	kleineren	klein	ADJA	*	*	*	*
+29	Städten	Stadt	NN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T890811.44
+# text = Die gestern vom Kölner Gesundheitsamt veröffentlichte Untersuchung ergab , daß Sechsjährige in der verkehrsreichen Domstadt mit fast einer Million Einwohnern 71 Prozent mehr Benzol im Blut haben als ihre Altersgenossen aus der knapp 35.000 Einwohner zählenden Kreisstadt Borken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	gestern	gestern	ADV	*	*	*	*
+3	vom	von	APPRART	*	*	*	*
+4	Kölner	Kölner	ADJA	*	*	*	*
+5	Gesundheitsamt	Gesundheitsamt	NN	*	*	*	*
+6	veröffentlichte	veröffentlicht	ADJA	*	*	*	*
+7	Untersuchung	Untersuchung	NN	*	*	*	*
+8	ergab	ergeben	VVFIN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	daß	dass	KOUS	*	*	*	*
+11	Sechsjährige	<unknown>	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	verkehrsreichen	verkehrsreich	ADJA	*	*	*	*
+15	Domstadt	Domstadt	NN	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	fast	fast	ADV	*	*	*	*
+18	einer	eine	ART	*	*	*	*
+19	Million	Million	NN	*	*	*	*
+20	Einwohnern	Einwohner	NN	*	*	*	*
+21	71	@card@	CARD	*	*	*	*
+22	Prozent	Prozent	NN	*	*	*	*
+23	mehr	mehr	PIAT	*	*	*	*
+24	Benzol	Benzol	NN	*	*	*	*
+25	im	in	APPRART	1	1	1	1
+26	Blut	Blut	NN	1	1	1	1
+27	haben	haben	VAFIN	1	1	1	1
+28	als	als	KOKOM	*	*	*	*
+29	ihre	ihr	PPOSAT	*	*	*	*
+30	Altersgenossen	Altersgenosse	NN	*	*	*	*
+31	aus	aus	APPR	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	knapp	knapp	ADJD	*	*	*	*
+34	35.000	@card@	ADJA	*	*	*	*
+35	Einwohner	Einwohner	NN	*	*	*	*
+36	zählenden	zählend	ADJA	*	*	*	*
+37	Kreisstadt	Kreisstadt	NN	*	*	*	*
+38	Borken	Borke	NN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T910531.38
+# text = In Köln hat eine Studie gezeigt , daß Kölner Kinder im Schnitt 70 Prozent mehr krebserzeugendes Benzol im Blut haben , als Kinder im unbelasteten Landkreis Borken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Köln	Köln	NE	*	*	*	*
+3	hat	haben	VAFIN	*	*	*	*
+4	eine	eine	ART	*	*	*	*
+5	Studie	Studie	NN	*	*	*	*
+6	gezeigt	zeigen	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	Kölner	Kölner	ADJA	*	*	*	*
+10	Kinder	Kind	NN	*	*	*	*
+11	im	in	APPRART	*	*	*	*
+12	Schnitt	Schnitt	NN	*	*	*	*
+13	70	@card@	CARD	*	*	*	*
+14	Prozent	Prozent	NN	*	*	*	*
+15	mehr	mehr	ADV	*	*	*	*
+16	krebserzeugendes	krebserzeugend	ADJA	*	*	*	*
+17	Benzol	Benzol	NN	*	*	*	*
+18	im	in	APPRART	1	1	1	1
+19	Blut	Blut	NN	1	1	1	1
+20	haben	haben	VAFIN	1	1	1	1
+21	,	,	$,	*	*	*	*
+22	als	als	KOKOM	*	*	*	*
+23	Kinder	Kind	NN	*	*	*	*
+24	im	in	APPRART	*	*	*	*
+25	unbelasteten	unbelastet	ADJA	*	*	*	*
+26	Landkreis	Landkreis	NN	*	*	*	*
+27	Borken	Borke	NN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T910107.113
+# text = Dabei hatte schon 1987 eine Untersuchung gezeigt , daß 70 Prozent der Prostituierten , die in den Bars an der Fernstraße von Zimbabwe nach Zambia arbeiten , den Erreger im Blut haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dabei	dabei	PAV	*	*	*	*
+2	hatte	haben	VAFIN	*	*	*	*
+3	schon	schon	ADV	*	*	*	*
+4	1987	@card@	CARD	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	Untersuchung	Untersuchung	NN	*	*	*	*
+7	gezeigt	zeigen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	daß	dass	KOUS	*	*	*	*
+10	70	@card@	CARD	*	*	*	*
+11	Prozent	Prozent	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Prostituierten	Prostituierte	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Bars	Bar	NN	*	*	*	*
+19	an	an	APPR	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Fernstraße	Fernstraße	NN	*	*	*	*
+22	von	von	APPR	*	*	*	*
+23	Zimbabwe	<unknown>	NN	*	*	*	*
+24	nach	nach	APPR	*	*	*	*
+25	Zambia	<unknown>	NE	*	*	*	*
+26	arbeiten	arbeiten	VVFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	den	die	ART	*	*	*	*
+29	Erreger	Erreger	NN	*	*	*	*
+30	im	in	APPRART	1	1	1	1
+31	Blut	Blut	NN	1	1	1	1
+32	haben	haben	VAINF	1	1	1	1
+33	.	.	$.	*	*	*	*
+
+# article_id = T911211.88
+# text = Auch in Japan wurde nach Untersuchungen festgestellt , daß Läufer im Ziel weniger Schadstoffe im Blut hatten als am Start .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	Japan	Japan	NE	*	*	*	*
+4	wurde	werden	VAFIN	*	*	*	*
+5	nach	nach	APPR	*	*	*	*
+6	Untersuchungen	Untersuchung	NN	*	*	*	*
+7	festgestellt	feststellen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	daß	dass	KOUS	*	*	*	*
+10	Läufer	Läufer	NN	*	*	*	*
+11	im	in	APPRART	*	*	*	*
+12	Ziel	Ziel	NN	*	*	*	*
+13	weniger	wenige	PIAT	*	*	*	*
+14	Schadstoffe	Schadstoff	NN	*	*	*	*
+15	im	in	APPRART	1	1	1	1
+16	Blut	Blut	NN	1	1	1	1
+17	hatten	haben	VAFIN	1	1	1	1
+18	als	als	KOKOM	*	*	*	*
+19	am	an	APPRART	*	*	*	*
+20	Start	Start	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T901211.14
+# text = Verletzte auf einer Betriebsfeier in Düsseldorf ; der Busfahrer , der die fröhlich gestimmten Gäste heimfahren sollte , hatte beachtenswerte 2,67 Promille im Blut ;
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Verletzte	Verletzte	NN	*	*	*	*
+2	auf	auf	APPR	*	*	*	*
+3	einer	eine	ART	*	*	*	*
+4	Betriebsfeier	Betriebsfeier	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Düsseldorf	Düsseldorf	NE	*	*	*	*
+7	;	;	$.	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Busfahrer	Busfahrer	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	PRELS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	fröhlich	fröhlich	ADJD	*	*	*	*
+14	gestimmten	gestimmt	ADJA	*	*	*	*
+15	Gäste	Gast	NN	*	*	*	*
+16	heimfahren	heimfahren	VVINF	*	*	*	*
+17	sollte	sollen	VMFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	hatte	haben	VAFIN	1	1	1	1
+20	beachtenswerte	beachtenswert	ADJA	*	*	*	*
+21	2,67	@card@	CARD	*	*	*	*
+22	Promille	Promille	NN	*	*	*	*
+23	im	in	APPRART	1	1	1	1
+24	Blut	Blut	NN	1	1	1	1
+25	;	;	$.	*	*	*	*
+
+# article_id = T900806.210
+# text = Zuviel Alkohol sollte man aber nicht im Blut haben , sonst kann man es nicht mehr verwenden , um durch eine Spende beim Spendenbus des Bayerischen Roten Kreuzes den Blutnotstand in Ost-Berlin beheben zu helfen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zuviel	zuviele	PIAT	*	*	*	*
+2	Alkohol	Alkohol	NN	*	*	*	*
+3	sollte	sollen	VMFIN	*	*	*	*
+4	man	man	PIS	*	*	*	*
+5	aber	aber	ADV	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	im	in	APPRART	1	1	1	1
+8	Blut	Blut	NN	1	1	1	1
+9	haben	haben	VAFIN	1	1	1	1
+10	,	,	$,	*	*	*	*
+11	sonst	sonst	ADV	*	*	*	*
+12	kann	können	VMFIN	*	*	*	*
+13	man	man	PIS	*	*	*	*
+14	es	es	PPER	*	*	*	*
+15	nicht	nicht	PTKNEG	*	*	*	*
+16	mehr	mehr	ADV	*	*	*	*
+17	verwenden	verwenden	VVINF	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	um	um	KOUI	*	*	*	*
+20	durch	durch	APPR	*	*	*	*
+21	eine	eine	ART	*	*	*	*
+22	Spende	Spende	NN	*	*	*	*
+23	beim	bei	APPRART	*	*	*	*
+24	Spendenbus	<unknown>	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	Bayerischen	bayerisch	ADJA	*	*	*	*
+27	Roten	Rote	NN	*	*	*	*
+28	Kreuzes	Kreuz	NN	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	Blutnotstand	Blutnotstand	NN	*	*	*	*
+31	in	in	APPR	*	*	*	*
+32	Ost-Berlin	Ost-Berlin	NE	*	*	*	*
+33	beheben	beheben	VVINF	*	*	*	*
+34	zu	zu	PTKZU	*	*	*	*
+35	helfen	helfen	VVINF	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T920918.263
+# text = Und die schleichende Vergiftung durch Abgase bedroht Großstadtkinder immer mehr : Sie haben 60 bis 70 Prozent mehr krebserregendes Benzol in Blut als Kinder aus ländlichen Gebieten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	schleichende	schleichend	ADJA	*	*	*	*
+4	Vergiftung	Vergiftung	NN	*	*	*	*
+5	durch	durch	APPR	*	*	*	*
+6	Abgase	Abgas	NN	*	*	*	*
+7	bedroht	bedrohen	VVFIN	*	*	*	*
+8	Großstadtkinder	Großstadtkind	NN	*	*	*	*
+9	immer	immer	ADV	*	*	*	*
+10	mehr	mehr	ADV	*	*	*	*
+11	:	:	$.	*	*	*	*
+12	Sie	Sie	PPER	*	*	*	*
+13	haben	haben	VAFIN	1	1	1	1
+14	60	@card@	CARD	*	*	*	*
+15	bis	bis	KON	*	*	*	*
+16	70	@card@	CARD	*	*	*	*
+17	Prozent	Prozent	NN	*	*	*	*
+18	mehr	mehr	ADV	*	*	*	*
+19	krebserregendes	krebserregend	ADJA	*	*	*	*
+20	Benzol	Benzol	NN	*	*	*	*
+21	in	in	APPR	1	1	1	1
+22	Blut	Blut	NN	1	1	1	1
+23	als	als	KOKOM	*	*	*	*
+24	Kinder	Kind	NN	*	*	*	*
+25	aus	aus	APPR	*	*	*	*
+26	ländlichen	ländlich	ADJA	*	*	*	*
+27	Gebieten	Gebiet	NN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T920409.117
+# text = Dicke Männer haben nicht nur höhere Blutdruckwerte sowie höhere Cholesterinkonzentrationen im Blut , sondern in der Regel auch eine andere Fettverteilung als Frauen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dicke	dick	ADJA	*	*	*	*
+2	Männer	Mann	NN	*	*	*	*
+3	haben	haben	VAFIN	1	1	1	1
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	nur	nur	ADV	*	*	*	*
+6	höhere	hoch	ADJA	*	*	*	*
+7	Blutdruckwerte	Blutdruckwert	NN	*	*	*	*
+8	sowie	sowie	KON	*	*	*	*
+9	höhere	hoch	ADJA	*	*	*	*
+10	Cholesterinkonzentrationen	<unknown>	NN	*	*	*	*
+11	im	in	APPRART	1	1	1	1
+12	Blut	Blut	NN	1	1	1	1
+13	,	,	$,	*	*	*	*
+14	sondern	sondern	KON	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Regel	Regel	NN	*	*	*	*
+18	auch	auch	ADV	*	*	*	*
+19	eine	eine	ART	*	*	*	*
+20	andere	andere	PIAT	*	*	*	*
+21	Fettverteilung	Fettverteilung	NN	*	*	*	*
+22	als	als	KOKOM	*	*	*	*
+23	Frauen	Frau	NN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T920321.87
+# text = In Köln haben Kinder 70Prozent mehr Benzol im Blut als in der westfälischen Kleinstadt Borken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Köln	Köln	NE	*	*	*	*
+3	haben	haben	VAFIN	1	1	1	1
+4	Kinder	Kind	NN	*	*	*	*
+5	70Prozent	<unknown>	NN	*	*	*	*
+6	mehr	mehr	PIAT	*	*	*	*
+7	Benzol	Benzol	NN	*	*	*	*
+8	im	in	APPRART	1	1	1	1
+9	Blut	Blut	NN	1	1	1	1
+10	als	als	KOKOM	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	westfälischen	westfälisch	ADJA	*	*	*	*
+14	Kleinstadt	Kleinstadt	NN	*	*	*	*
+15	Borken	Borke	NN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T920211.75
+# text = Ein Positionspapier der britischen Botschaft hält fest , etwa 50 Prozent der neugeborenen Babys in Mexiko- Stadt hätten so hohe Bleikonzentrationen im Blut , daß es zu schweren Schädigungen ihres zentralen Nervensystems kommen könne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Positionspapier	Positionspapier	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	britischen	britisch	ADJA	*	*	*	*
+5	Botschaft	Botschaft	NN	*	*	*	*
+6	hält	halten	VVFIN	*	*	*	*
+7	fest	fest	PTKVZ	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	etwa	etwa	ADV	*	*	*	*
+10	50	@card@	CARD	*	*	*	*
+11	Prozent	Prozent	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	neugeborenen	neugeboren	ADJA	*	*	*	*
+14	Babys	Baby	NN	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	Mexiko-	Mexiko-	TRUNC	*	*	*	*
+17	Stadt	Stadt	NN	*	*	*	*
+18	hätten	haben	VAFIN	1	1	1	1
+19	so	so	ADV	*	*	*	*
+20	hohe	hoch	ADJA	*	*	*	*
+21	Bleikonzentrationen	Bleikonzentration	NN	*	*	*	*
+22	im	in	APPRART	1	1	1	1
+23	Blut	Blut	NN	1	1	1	1
+24	,	,	$,	*	*	*	*
+25	daß	dass	KOUS	*	*	*	*
+26	es	es	PPER	*	*	*	*
+27	zu	zu	APPR	*	*	*	*
+28	schweren	schwer	ADJA	*	*	*	*
+29	Schädigungen	Schädigung	NN	*	*	*	*
+30	ihres	ihr	PPOSAT	*	*	*	*
+31	zentralen	zentral	ADJA	*	*	*	*
+32	Nervensystems	Nervensystem	NN	*	*	*	*
+33	kommen	kommen	VVINF	*	*	*	*
+34	könne	können	VMFIN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T881007.159
+# text = " Bradley hat nur noch die Hälfte der Normalzahl der T-Helferzellen im Blut , die für die Bekämpfung von in den Körper eingedrungenen Erregern zuständig sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Bradley	<unknown>	NE	*	*	*	*
+3	hat	haben	VAFIN	1	1	1	1
+4	nur	nur	ADV	*	*	*	*
+5	noch	noch	ADV	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Hälfte	Hälfte	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Normalzahl	<unknown>	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	T-Helferzellen	T-Helferzelle	NN	*	*	*	*
+12	im	in	APPRART	1	1	1	1
+13	Blut	Blut	NN	1	1	1	1
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Bekämpfung	Bekämpfung	NN	*	*	*	*
+19	von	von	APPR	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	Körper	Körper	NN	*	*	*	*
+23	eingedrungenen	eingedrungen	ADJA	*	*	*	*
+24	Erregern	Erreger	NN	*	*	*	*
+25	zuständig	zuständig	ADJD	*	*	*	*
+26	sind	sein	VAFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T880718.82
+# text = Innerhalb eines Jahres war ich mit dem Notarztwagen zwölfmal in Krankenhäuser eingeliefert worden , nicht weil ich zu viel Zucker im Blut hatte , sondern weil zu wenig Zucker in meinem Blut war und deshalb die Energieversorgung des Gehirns zusammengebrochen war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Innerhalb	innerhalb	APPR	*	*	*	*
+2	eines	eine	ART	*	*	*	*
+3	Jahres	Jahr	NN	*	*	*	*
+4	war	sein	VAFIN	*	*	*	*
+5	ich	ich	PPER	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	dem	die	ART	*	*	*	*
+8	Notarztwagen	Notarztwagen	NN	*	*	*	*
+9	zwölfmal	zwölfmal	ADV	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	Krankenhäuser	Krankenhaus	NN	*	*	*	*
+12	eingeliefert	einliefern	VVPP	*	*	*	*
+13	worden	werden	VAPP	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	nicht	nicht	PTKNEG	*	*	*	*
+16	weil	weil	KOUS	*	*	*	*
+17	ich	ich	PPER	*	*	*	*
+18	zu	zu	APPR	*	*	*	*
+19	viel	viele	PIAT	*	*	*	*
+20	Zucker	Zucker	NN	*	*	*	*
+21	im	in	APPRART	1	1	1	1
+22	Blut	Blut	NN	1	1	1	1
+23	hatte	haben	VAFIN	1	1	1	1
+24	,	,	$,	*	*	*	*
+25	sondern	sondern	KON	*	*	*	*
+26	weil	weil	KOUS	*	*	*	*
+27	zu	zu	APPR	*	*	*	*
+28	wenig	wenige	PIAT	*	*	*	*
+29	Zucker	Zucker	NN	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	meinem	mein	PPOSAT	*	*	*	*
+32	Blut	Blut	NN	*	*	*	*
+33	war	sein	VAFIN	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	deshalb	deshalb	PAV	*	*	*	*
+36	die	die	ART	*	*	*	*
+37	Energieversorgung	Energieversorgung	NN	*	*	*	*
+38	des	die	ART	*	*	*	*
+39	Gehirns	Gehirn	NN	*	*	*	*
+40	zusammengebrochen	zusammenbrechen	VVPP	*	*	*	*
+41	war	sein	VAFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T870625.73
+# text = Das ist zum Beispiel der Grund , warum viele der in den fünfziger Jahren gegen Polio ( Kinderlähmung ) Geimpften auch Antikörper gegen ein aus Affen stammendes , in einigen Tierarten Krebs erzeugendes Virus ( das sogenannte SV 40 Virus , wurde erst 1960 " entdeckt " ) im Blut haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	zum	zu	APPRART	*	*	*	*
+4	Beispiel	Beispiel	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Grund	Grund	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	warum	warum	PWAV	*	*	*	*
+9	viele	viele	PIS	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	fünfziger	fünfzig	ADJA	*	*	*	*
+14	Jahren	Jahr	NN	*	*	*	*
+15	gegen	gegen	APPR	*	*	*	*
+16	Polio	Polio	NN	*	*	*	*
+17	(	(	$(	*	*	*	*
+18	Kinderlähmung	Kinderlähmung	NN	*	*	*	*
+19	)	)	$(	*	*	*	*
+20	Geimpften	<unknown>	NN	*	*	*	*
+21	auch	auch	ADV	*	*	*	*
+22	Antikörper	Antikörper	NN	*	*	*	*
+23	gegen	gegen	APPR	*	*	*	*
+24	ein	eine	ART	*	*	*	*
+25	aus	aus	APPR	*	*	*	*
+26	Affen	Affe	NN	*	*	*	*
+27	stammendes	stammend	ADJA	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	einigen	einige	PIAT	*	*	*	*
+31	Tierarten	Tierart	NN	*	*	*	*
+32	Krebs	Krebs	NE	*	*	*	*
+33	erzeugendes	erzeugend	ADJA	*	*	*	*
+34	Virus	Virus	NN	*	*	*	*
+35	(	(	$(	*	*	*	*
+36	das	die	ART	*	*	*	*
+37	sogenannte	sogenannt	ADJA	*	*	*	*
+38	SV	SV	NE	*	*	*	*
+39	40	@card@	CARD	*	*	*	*
+40	Virus	Virus	NN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	wurde	werden	VAFIN	*	*	*	*
+43	erst	erst	ADV	*	*	*	*
+44	1960	@card@	CARD	*	*	*	*
+45	"	"	$(	*	*	*	*
+46	entdeckt	entdecken	VVPP	*	*	*	*
+47	"	"	$(	*	*	*	*
+48	)	)	$(	*	*	*	*
+49	im	in	APPRART	1	1	1	1
+50	Blut	Blut	NN	1	1	1	1
+51	haben	haben	VAINF	1	1	1	1
+52	.	.	$.	*	*	*	*
+
+# article_id = T861128.85
+# text = Die am schlimmsten betroffene Stadt in den USA ist New York , wo einer von 250 Bewohnern HIV-Antikörper im Blut hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	am	an	APPRART	*	*	*	*
+3	schlimmsten	schlimm	ADJA	*	*	*	*
+4	betroffene	betroffen	ADJA	*	*	*	*
+5	Stadt	Stadt	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	USA	USA	NE	*	*	*	*
+9	ist	sein	VAFIN	*	*	*	*
+10	New	New	NE	*	*	*	*
+11	York	York	NE	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	wo	wo	PWAV	*	*	*	*
+14	einer	eine	ART	*	*	*	*
+15	von	von	APPR	*	*	*	*
+16	250	@card@	CARD	*	*	*	*
+17	Bewohnern	Bewohner	NN	*	*	*	*
+18	HIV-Antikörper	HIV-Antikörper	NN	*	*	*	*
+19	im	in	APPRART	1	1	1	1
+20	Blut	Blut	NN	1	1	1	1
+21	hat	haben	VAFIN	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T931018.80
+# text = Dieser Test kann aber fehlerhaft sein , weil ein frischinfizierter Spender in den ersten Wochen nach der Ansteckung noch keine Antikörper in seinem Blut hat und deshalb nicht als " Positiver " entdeckt wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dieser	dies	PDAT	*	*	*	*
+2	Test	Test	NN	*	*	*	*
+3	kann	können	VMFIN	*	*	*	*
+4	aber	aber	ADV	*	*	*	*
+5	fehlerhaft	fehlerhaft	ADJD	*	*	*	*
+6	sein	sein	VAINF	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	weil	weil	KOUS	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	frischinfizierter	<unknown>	ADJA	*	*	*	*
+11	Spender	Spender	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	ersten	erst	ADJA	*	*	*	*
+15	Wochen	Woche	NN	*	*	*	*
+16	nach	nach	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Ansteckung	Ansteckung	NN	*	*	*	*
+19	noch	noch	ADV	*	*	*	*
+20	keine	keine	PIAT	*	*	*	*
+21	Antikörper	Antikörper	NN	*	*	*	*
+22	in	in	APPR	1	1	1	1
+23	seinem	sein	PPOSAT	*	*	*	*
+24	Blut	Blut	NN	1	1	1	1
+25	hat	haben	VAFIN	1	1	1	1
+26	und	und	KON	*	*	*	*
+27	deshalb	deshalb	PAV	*	*	*	*
+28	nicht	nicht	PTKNEG	*	*	*	*
+29	als	als	KOKOM	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	Positiver	Positive	NN	*	*	*	*
+32	"	"	$(	*	*	*	*
+33	entdeckt	entdecken	VVPP	*	*	*	*
+34	wird	werden	VAFIN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T930408.93
+# text = Die Gegenexpertise in einem römischen Labor bestätigte die A-Probe , nach der der Stürmer am 21. März ausgerechnet im Spiel gegen den SSC Neapel Kokain im Blut hatte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Gegenexpertise	Gegenexpertise	NN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	einem	eine	ART	*	*	*	*
+5	römischen	römisch	ADJA	*	*	*	*
+6	Labor	Labor	NN	*	*	*	*
+7	bestätigte	bestätigen	VVFIN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	A-Probe	A-Probe	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	nach	nach	APPR	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Stürmer	Stürmer	NN	*	*	*	*
+15	am	an	APPRART	*	*	*	*
+16	21	@card@	CARD	*	*	*	*
+17	.	.	$.	*	*	*	*
+18	März	März	NN	*	*	*	*
+19	ausgerechnet	ausgerechnet	ADJD	*	*	*	*
+20	im	in	APPRART	*	*	*	*
+21	Spiel	Spiel	NN	*	*	*	*
+22	gegen	gegen	APPR	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	SSC	<unknown>	NE	*	*	*	*
+25	Neapel	Neapel	NE	*	*	*	*
+26	Kokain	Kokain	NN	*	*	*	*
+27	im	in	APPRART	1	1	1	1
+28	Blut	Blut	NN	1	1	1	1
+29	hatte	haben	VAFIN	1	1	1	1
+30	.	.	$.	*	*	*	*
+
+# article_id = T930813.214
+# text = Zur Tatzeit hatte sie über 3 Promille Alkohol im Blut , konnte sich an nichts mehr erinnern und sei damals erst in der Frauenklinik wieder aufgewacht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zur	zu	APPRART	*	*	*	*
+2	Tatzeit	Tatzeit	NN	*	*	*	*
+3	hatte	haben	VAFIN	1	1	1	1
+4	sie	sie	PPER	*	*	*	*
+5	über	über	APPR	*	*	*	*
+6	3	@card@	CARD	*	*	*	*
+7	Promille	Promille	NN	*	*	*	*
+8	Alkohol	Alkohol	NN	*	*	*	*
+9	im	in	APPRART	1	1	1	1
+10	Blut	Blut	NN	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	konnte	können	VMFIN	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	nichts	nichts	PIS	*	*	*	*
+16	mehr	mehr	PIS	*	*	*	*
+17	erinnern	erinnern	VVINF	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	sei	sein	VAFIN	*	*	*	*
+20	damals	damals	ADV	*	*	*	*
+21	erst	erst	ADV	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Frauenklinik	Frauenklinik	NN	*	*	*	*
+25	wieder	wieder	ADV	*	*	*	*
+26	aufgewacht	aufwachen	VVPP	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T931102.35
+# text = Vor allem frisch infizierte Blutspender , die noch keinen hohen Antikörper-Gehalt in ihrem Blut haben , können durch das Zusammenschütten von zwei bis drei Spenden , wie es bei UB-Plasma jahrelang Praxis war , unerkannt bleiben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	allem	alle	PIS	*	*	*	*
+3	frisch	frisch	ADJD	*	*	*	*
+4	infizierte	infiziert	ADJA	*	*	*	*
+5	Blutspender	Blutspender	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	noch	noch	ADV	*	*	*	*
+9	keinen	keine	PIAT	*	*	*	*
+10	hohen	hoch	ADJA	*	*	*	*
+11	Antikörper-Gehalt	<unknown>	NN	*	*	*	*
+12	in	in	APPR	1	1	1	1
+13	ihrem	ihr	PPOSAT	*	*	*	*
+14	Blut	Blut	NN	1	1	1	1
+15	haben	haben	VAFIN	1	1	1	1
+16	,	,	$,	*	*	*	*
+17	können	können	VMFIN	*	*	*	*
+18	durch	durch	APPR	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	Zusammenschütten	Zusammenschütten	NN	*	*	*	*
+21	von	von	APPR	*	*	*	*
+22	zwei	zwei	CARD	*	*	*	*
+23	bis	bis	KON	*	*	*	*
+24	drei	drei	CARD	*	*	*	*
+25	Spenden	Spende|Spenden	NN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	wie	wie	KOUS	*	*	*	*
+28	es	es	PPER	*	*	*	*
+29	bei	bei	APPR	*	*	*	*
+30	UB-Plasma	UB-Plasma	NN	*	*	*	*
+31	jahrelang	jahrelang	ADJD	*	*	*	*
+32	Praxis	Praxis	NN	*	*	*	*
+33	war	sein	VAFIN	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	unerkannt	unerkannt	ADJD	*	*	*	*
+36	bleiben	bleiben	VVINF	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T961209.43
+# text = Sylvio Amoussou hatte weder im Blut noch in der Lunge die für Brandopfer typischen Ruß- oder Gasspuren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sylvio	Sylvio	NE	*	*	*	*
+2	Amoussou	<unknown>	NE	*	*	*	*
+3	hatte	haben	VAFIN	1	1	1	1
+4	weder	weder	KON	*	*	*	*
+5	im	in	APPRART	1	1	1	1
+6	Blut	Blut	NN	1	1	1	1
+7	noch	noch	ADV	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Lunge	Lunge	NN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	für	für	APPR	*	*	*	*
+13	Brandopfer	Brandopfer	NN	*	*	*	*
+14	typischen	typisch	ADJA	*	*	*	*
+15	Ruß-	Ruß-	TRUNC	*	*	*	*
+16	oder	oder	KON	*	*	*	*
+17	Gasspuren	<unknown>	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T961119.232
+# text = Sie haben doppelt so hohe Dioxin- und Furankonzentrationen in ihrem Blut wie der Hamburger Durchschnitt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	haben	haben	VAFIN	1	1	1	1
+3	doppelt	doppelt	ADJD	*	*	*	*
+4	so	so	ADV	*	*	*	*
+5	hohe	hoch	ADJA	*	*	*	*
+6	Dioxin-	Dioxin-	TRUNC	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	Furankonzentrationen	<unknown>	NN	*	*	*	*
+9	in	in	APPR	1	1	1	1
+10	ihrem	ihr	PPOSAT	*	*	*	*
+11	Blut	Blut	NN	1	1	1	1
+12	wie	wie	KOKOM	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Hamburger	Hamburger	ADJA	*	*	*	*
+15	Durchschnitt	Durchschnitt	NN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T960215.124
+# text = " Wir haben den Samba im Blut " , sagt sie stolz und die dreißig Kolleginnen , die mit ihr in der " Plataforma " trainieren , nicken zustimmend .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wir	wir	PPER	*	*	*	*
+3	haben	haben	VAFIN	2	2	2	2
+4	den	die	ART	*	*	*	*
+5	Samba	Samba	NN	*	*	*	*
+6	im	in	APPRART	2	2	2	2
+7	Blut	Blut	NN	2	2	2	2
+8	"	"	$(	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	sagt	sagen	VVFIN	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	stolz	stolz	ADJD	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	dreißig	dreißig	CARD	*	*	*	*
+16	Kolleginnen	Kollegin	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	die	die	PRELS	*	*	*	*
+19	mit	mit	APPR	*	*	*	*
+20	ihr	ihr	PPOSAT	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Plataforma	<unknown>	NN	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	trainieren	trainieren	VVINF	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	nicken	nicken	VVFIN	*	*	*	*
+29	zustimmend	zustimmend	ADJD	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T980312.230
+# text = Das gleiche Gesetz besagt allerdings auch : Wer sich hinters Steuer klemmt und Rückstände einer anderen Droge in irgendeiner Form im Blut hat , dem droht der Führerscheinentzug .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	gleiche	gleich	ADJA	*	*	*	*
+3	Gesetz	Gesetz	NN	*	*	*	*
+4	besagt	besagen	VVFIN	*	*	*	*
+5	allerdings	allerdings	ADV	*	*	*	*
+6	auch	auch	ADV	*	*	*	*
+7	:	:	$.	*	*	*	*
+8	Wer	wer	PWS	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	hinters	hinters	APPRART	*	*	*	*
+11	Steuer	Steuer	NN	*	*	*	*
+12	klemmt	klemmen	VVFIN	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	Rückstände	Rückstand	NN	*	*	*	*
+15	einer	eine	ART	*	*	*	*
+16	anderen	andere	PIAT	*	*	*	*
+17	Droge	Droge	NN	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	irgendeiner	irgendeine	PIAT	*	*	*	*
+20	Form	Form	NN	*	*	*	*
+21	im	in	APPRART	1	1	1	1
+22	Blut	Blut	NN	1	1	1	1
+23	hat	haben	VAFIN	1	1	1	1
+24	,	,	$,	*	*	*	*
+25	dem	die	PDS	*	*	*	*
+26	droht	drohen	VVFIN	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Führerscheinentzug	Führerscheinentzug	NN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T981118.118
+# text = Es ist gemein : Die Niederländer haben die bessere Technik und das System " in Fleisch und Blut " ( Stielike ) .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	gemein	gemein	ADJD	*	*	*	*
+4	:	:	$.	*	*	*	*
+5	Die	die	ART	*	*	*	*
+6	Niederländer	Niederländer	NN	*	*	*	*
+7	haben	haben	VAFIN	2	2	2	2
+8	die	die	ART	*	*	*	*
+9	bessere	gut	ADJA	*	*	*	*
+10	Technik	Technik	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	System	System	NN	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	Fleisch	Fleisch	NN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	Blut	Blut	NN	2	2	2	2
+19	"	"	$(	*	*	*	*
+20	(	(	$(	*	*	*	*
+21	Stielike	<unknown>	NE	*	*	*	*
+22	)	)	$(	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T971013.170
+# text = Ein Mann , dessen Cousin in den Sechzigern das 24-Stunden-Rennen von Le Mans gewann und der einen Porsche besitzt , muß doch Speed im Blut haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Mann	Mann	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	dessen	die	PRELAT	*	*	*	*
+5	Cousin	Cousin	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Sechzigern	sechziger	NN	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	24-Stunden-Rennen	24-Stunden-Rennen	NN	*	*	*	*
+11	von	von	APPR	*	*	*	*
+12	Le	Le	NE	*	*	*	*
+13	Mans	<unknown>	NE	*	*	*	*
+14	gewann	gewinnen	VVFIN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	einen	einen	ADJA	*	*	*	*
+18	Porsche	Porsche	NN	*	*	*	*
+19	besitzt	besitzen	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	muß	müssen	VMFIN	*	*	*	*
+22	doch	doch	ADV	*	*	*	*
+23	Speed	<unknown>	NE	*	*	*	*
+24	im	in	APPRART	2	2	2	2
+25	Blut	Blut	NN	2	2	2	2
+26	haben	haben	VAINF	2	2	2	2
+27	.	.	$.	*	*	*	*
+
+# article_id = T970923.76
+# text = Diese Personen sind weitgehend gesund geblieben und haben in ihrem Blut kaum noch nachweisbare Mengen des Aidsvirus .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Diese	dies	PDAT	*	*	*	*
+2	Personen	Person	NN	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	weitgehend	weitgehend	ADJD	*	*	*	*
+5	gesund	gesund	ADJD	*	*	*	*
+6	geblieben	bleiben	VVPP	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	haben	haben	VAFIN	1	1	1	1
+9	in	in	APPR	1	1	1	1
+10	ihrem	ihr	PPOSAT	*	*	*	*
+11	Blut	Blut	NN	1	1	1	1
+12	kaum	kaum	ADV	*	*	*	*
+13	noch	noch	ADV	*	*	*	*
+14	nachweisbare	nachweisbar	ADJA	*	*	*	*
+15	Mengen	Menge	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	Aidsvirus	Aidsvirus	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T970408.16
+# text = Sind Weicht und Heym in der Absicht , die in Trebbin beschäftigten Arbeiter zu verprügeln , mit dem Trabant von der Tankstelle am Rande der Stadt weggefahren , und wieviel Alkohol hatten die beiden Angeklagten im Blut ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sind	sein	VAFIN	*	*	*	*
+2	Weicht	<unknown>	NE	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	Heym	Heym	NE	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Absicht	Absicht	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	Trebbin	<unknown>	NN	*	*	*	*
+12	beschäftigten	beschäftigt	ADJA	*	*	*	*
+13	Arbeiter	Arbeiter	NN	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	verprügeln	verprügeln	VVINF	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	dem	die	ART	*	*	*	*
+19	Trabant	Trabant	NN	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Tankstelle	Tankstelle	NN	*	*	*	*
+23	am	an	APPRART	*	*	*	*
+24	Rande	Rand	NN	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Stadt	Stadt	NN	*	*	*	*
+27	weggefahren	wegfahren	VVPP	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	wieviel	wieviele	PWAV	*	*	*	*
+31	Alkohol	Alkohol	NN	*	*	*	*
+32	hatten	haben	VAFIN	1	1	1	1
+33	die	die	ART	*	*	*	*
+34	beiden	beide	PIAT	*	*	*	*
+35	Angeklagten	Angeklagte	NN	*	*	*	*
+36	im	in	APPRART	1	1	1	1
+37	Blut	Blut	NN	1	1	1	1
+38	?	?	$.	*	*	*	*
+
+# article_id = T970728.123
+# text = Im Gegensatz zu glatzköpfigen Männern , die meistens einen sehr hohen Anteil des Hormons Testosteron in ihrem Blut hätten , sei die Niere bei Alkoholikern derart stark geschädigt , daß das Hormon nicht mehr richtig gebildet werden könne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Gegensatz	Gegensatz	NN	*	*	*	*
+3	zu	zu	APPR	*	*	*	*
+4	glatzköpfigen	glatzköpfig	ADJA	*	*	*	*
+5	Männern	Mann	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	meistens	meistens	ADV	*	*	*	*
+9	einen	eine	ART	*	*	*	*
+10	sehr	sehr	ADV	*	*	*	*
+11	hohen	hoch	ADJA	*	*	*	*
+12	Anteil	Anteil	NN	*	*	*	*
+13	des	die	ART	*	*	*	*
+14	Hormons	Hormon	NN	*	*	*	*
+15	Testosteron	<unknown>	NN	*	*	*	*
+16	in	in	APPR	1	1	1	1
+17	ihrem	ihr	PPOSAT	*	*	*	*
+18	Blut	Blut	NN	1	1	1	1
+19	hätten	haben	VAFIN	1	1	1	1
+20	,	,	$,	*	*	*	*
+21	sei	sein	VAFIN	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Niere	Niere	NN	*	*	*	*
+24	bei	bei	APPR	*	*	*	*
+25	Alkoholikern	Alkoholiker	NN	*	*	*	*
+26	derart	derart	ADV	*	*	*	*
+27	stark	stark	ADJD	*	*	*	*
+28	geschädigt	schädigen	VVPP	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	daß	dass	KOUS	*	*	*	*
+31	das	die	ART	*	*	*	*
+32	Hormon	Hormon	NN	*	*	*	*
+33	nicht	nicht	PTKNEG	*	*	*	*
+34	mehr	mehr	ADV	*	*	*	*
+35	richtig	richtig	ADJD	*	*	*	*
+36	gebildet	bilden	VVPP	*	*	*	*
+37	werden	werden	VAINF	*	*	*	*
+38	könne	können	VMFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T940504.131
+# text = Der Pilot und der Kopilot des Flugzeugs aus Taiwan , das Ende April in Japan abstürzte und 264 Menschen in den Tod riß , hatten einem Zeitungsbericht zufolge jeweils Alkohol im Blut .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Pilot	Pilot	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Kopilot	<unknown>	NN	*	*	*	*
+6	des	die	ART	*	*	*	*
+7	Flugzeugs	Flugzeug	NN	*	*	*	*
+8	aus	aus	APPR	*	*	*	*
+9	Taiwan	Taiwan	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	das	die	ART	*	*	*	*
+12	Ende	Ende	NN	*	*	*	*
+13	April	April	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Japan	Japan	NE	*	*	*	*
+16	abstürzte	abstürzen	VVFIN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	264	@card@	CARD	*	*	*	*
+19	Menschen	Mensch	NN	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	Tod	Tod	NN	*	*	*	*
+23	riß	reißen	VVFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	hatten	haben	VAFIN	1	1	1	1
+26	einem	eine	ART	*	*	*	*
+27	Zeitungsbericht	Zeitungsbericht	NN	*	*	*	*
+28	zufolge	zufolge	APPO	*	*	*	*
+29	jeweils	jeweils	ADV	*	*	*	*
+30	Alkohol	Alkohol	NN	*	*	*	*
+31	im	in	APPRART	1	1	1	1
+32	Blut	Blut	NN	1	1	1	1
+33	.	.	$.	*	*	*	*
+
+# article_id = T940722.243
+# text = Allerdings sind sie nicht so schlimm wie " Hallberg " , die nach eigener Auffassung " den Norden im Blut " haben , also knurriges Einsiedlertum in langatmigen Folk packen und den Abend unter freiem Himmel eröffnen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Allerdings	allerdings	ADV	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	so	so	ADV	*	*	*	*
+6	schlimm	schlimm	ADJD	*	*	*	*
+7	wie	wie	KOKOM	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	Hallberg	Hallberg	NE	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	nach	nach	APPR	*	*	*	*
+14	eigener	eigen	ADJA	*	*	*	*
+15	Auffassung	Auffassung	NN	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Norden	Norden	NN	*	*	*	*
+19	im	in	APPRART	2	2	2	2
+20	Blut	Blut	NN	2	2	2	2
+21	"	"	$(	*	*	*	*
+22	haben	haben	VAFIN	2	2	2	2
+23	,	,	$,	*	*	*	*
+24	also	also	ADV	*	*	*	*
+25	knurriges	knurrig	ADJA	*	*	*	*
+26	Einsiedlertum	<unknown>	NN	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	langatmigen	langatmig	ADJA	*	*	*	*
+29	Folk	Folk	NN	*	*	*	*
+30	packen	packen	VVINF	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	den	die	ART	*	*	*	*
+33	Abend	Abend	NN	*	*	*	*
+34	unter	unter	APPR	*	*	*	*
+35	freiem	frei	ADJA	*	*	*	*
+36	Himmel	Himmel	NN	*	*	*	*
+37	eröffnen	eröffnen	VVINF	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T940709.50
+# text = In Köln haben Schulkinder 70 Prozent mehr krebserregendes Benzol im Blut als ihre AltersgenossInnen 60 Kilometer weiter auf dem Lande .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Köln	Köln	NE	*	*	*	*
+3	haben	haben	VAFIN	1	1	1	1
+4	Schulkinder	Schulkind	NN	*	*	*	*
+5	70	@card@	CARD	*	*	*	*
+6	Prozent	Prozent	NN	*	*	*	*
+7	mehr	mehr	ADV	*	*	*	*
+8	krebserregendes	krebserregend	ADJA	*	*	*	*
+9	Benzol	Benzol	NN	*	*	*	*
+10	im	in	APPRART	1	1	1	1
+11	Blut	Blut	NN	1	1	1	1
+12	als	als	KOKOM	*	*	*	*
+13	ihre	ihr	PPOSAT	*	*	*	*
+14	AltersgenossInnen	Altersgenossin	NN	*	*	*	*
+15	60	@card@	CARD	*	*	*	*
+16	Kilometer	Kilometer	NN	*	*	*	*
+17	weiter	weiter	ADV	*	*	*	*
+18	auf	auf	APPR	*	*	*	*
+19	dem	die	ART	*	*	*	*
+20	Lande	Land	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T940214.198
+# text = Niemals in alltägliche Routine zu verfallen - Rudi Rückert glaubt , daß er das " wie ein Gen " seit seiner Geburt im Blut hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Niemals	niemals	ADV	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	alltägliche	alltäglich	ADJA	*	*	*	*
+4	Routine	Routine	NN	*	*	*	*
+5	zu	zu	PTKZU	*	*	*	*
+6	verfallen	verfallen	VVINF	*	*	*	*
+7	-	-	$(	*	*	*	*
+8	Rudi	Rudi	NE	*	*	*	*
+9	Rückert	Rückert	NE	*	*	*	*
+10	glaubt	glauben	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	daß	dass	KOUS	*	*	*	*
+13	er	er	PPER	*	*	*	*
+14	das	die	PDS	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	wie	wie	KOUS	*	*	*	*
+17	ein	eine	ART	*	*	*	*
+18	Gen	Gen	NN	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	seit	seit	APPR	*	*	*	*
+21	seiner	sein	PPOSAT	*	*	*	*
+22	Geburt	Geburt	NN	*	*	*	*
+23	im	in	APPRART	2	2	2	2
+24	Blut	Blut	NN	2	2	2	2
+25	hat	haben	VAFIN	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T950909.177
+# text = In Vorträgen soll er seine Gedichte getanzt , bei Debatten die Gedanken seiner Gegner gar " übertanzt " haben : Andrej Belj , zentraler Theoretiker und Dichter des russischen Symbolismus , Anhänger von Rudolf Steiner und während seiner Berliner Jahre 1921 bis 1923 dem Foxtrott-Fieber völlig erlegen , hatte den Rhythmus nicht nur im Blut , sondern auch im Geist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Vorträgen	Vortrag	NN	*	*	*	*
+3	soll	sollen	VMFIN	*	*	*	*
+4	er	er	PPER	*	*	*	*
+5	seine	sein	PPOSAT	*	*	*	*
+6	Gedichte	Gedicht	NN	*	*	*	*
+7	getanzt	tanzen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	bei	bei	APPR	*	*	*	*
+10	Debatten	Debatte	NN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Gedanken	Gedanke	NN	*	*	*	*
+13	seiner	sein	PPOSAT	*	*	*	*
+14	Gegner	Gegner	NN	*	*	*	*
+15	gar	gar	ADV	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	übertanzt	<unknown>	VVPP	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	haben	haben	VAINF	*	*	*	*
+20	:	:	$.	*	*	*	*
+21	Andrej	Andrej	NE	*	*	*	*
+22	Belj	<unknown>	NE	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	zentraler	zentral	ADJA	*	*	*	*
+25	Theoretiker	Theoretiker	NN	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	Dichter	Dichter	NN	*	*	*	*
+28	des	die	ART	*	*	*	*
+29	russischen	russisch	ADJA	*	*	*	*
+30	Symbolismus	Symbolismus	NN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	Anhänger	Anhänger	NN	*	*	*	*
+33	von	von	APPR	*	*	*	*
+34	Rudolf	Rudolf	NE	*	*	*	*
+35	Steiner	Steiner	NE	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	während	während	APPR	*	*	*	*
+38	seiner	sein	PPOSAT	*	*	*	*
+39	Berliner	Berliner	ADJA	*	*	*	*
+40	Jahre	Jahr	NN	*	*	*	*
+41	1921	@card@	CARD	*	*	*	*
+42	bis	bis	KON	*	*	*	*
+43	1923	@card@	CARD	*	*	*	*
+44	dem	die	ART	*	*	*	*
+45	Foxtrott-Fieber	<unknown>	NN	*	*	*	*
+46	völlig	völlig	ADJD	*	*	*	*
+47	erlegen	erliegen	VVPP	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	hatte	haben	VAFIN	2	2	2	2
+50	den	die	ART	*	*	*	*
+51	Rhythmus	Rhythmus	NN	*	*	*	*
+52	nicht	nicht	PTKNEG	*	*	*	*
+53	nur	nur	ADV	*	*	*	*
+54	im	in	APPRART	2	2	2	2
+55	Blut	Blut	NN	2	2	2	2
+56	,	,	$,	*	*	*	*
+57	sondern	sondern	KON	*	*	*	*
+58	auch	auch	ADV	*	*	*	*
+59	im	in	APPRART	*	*	*	*
+60	Geist	Geist	NN	*	*	*	*
+61	.	.	$.	*	*	*	*
+
+# article_id = T950814.251
+# text = 100 Beanstandungen , darunter ein Autofahrer , der 2,94 Promille Alkohol im Blut hatte - das ist die Bilanz einer großangelegten Kontrolle der Landespolizei Schleswig-Holstein in der Nacht zum Samstag , bei der insgesamt 821 Fahrzeuge überprüft wurden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	100	@card@	CARD	*	*	*	*
+2	Beanstandungen	Beanstandung	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	darunter	darunter	PAV	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	Autofahrer	Autofahrer	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	PRELS	*	*	*	*
+9	2,94	@card@	CARD	*	*	*	*
+10	Promille	Promille	NN	*	*	*	*
+11	Alkohol	Alkohol	NN	*	*	*	*
+12	im	in	APPRART	1	1	1	1
+13	Blut	Blut	NN	1	1	1	1
+14	hatte	haben	VAFIN	1	1	1	1
+15	-	-	$(	*	*	*	*
+16	das	die	PDS	*	*	*	*
+17	ist	sein	VAFIN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Bilanz	Bilanz	NN	*	*	*	*
+20	einer	eine	ART	*	*	*	*
+21	großangelegten	großangelegt	ADJA	*	*	*	*
+22	Kontrolle	Kontrolle	NN	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Landespolizei	Landespolizei	NN	*	*	*	*
+25	Schleswig-Holstein	Schleswig-Holstein	NE	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Nacht	Nacht	NN	*	*	*	*
+29	zum	zu	APPRART	*	*	*	*
+30	Samstag	Samstag	NN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	bei	bei	APPR	*	*	*	*
+33	der	die	PRELS	*	*	*	*
+34	insgesamt	insgesamt	ADV	*	*	*	*
+35	821	@card@	CARD	*	*	*	*
+36	Fahrzeuge	Fahrzeug	NN	*	*	*	*
+37	überprüft	überprüfen	VVPP	*	*	*	*
+38	wurden	werden	VAFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T950216.146
+# text = Und das wohlgemerkt in einer Stadt , wo " Benzin im Blut " zu haben , so wie der begnadete Autohändler Helmut Becker ( mein Kollege Hans- Hermann Kotte ehrte ihn unlängst an dieser Stelle ) , Ausweis gesundesten Bürgersinns ist und namentlich viele an den großen Ein- und Ausfallstraßen lebende Kinder Beckers stolzes Bonmot längst tapfer mit medizinischem Leben erfüllen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	wohlgemerkt	wohlgemerkt	ADJD	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	einer	eine	ART	*	*	*	*
+6	Stadt	Stadt	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	wo	wo	PWAV	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Benzin	Benzin	NN	*	*	*	*
+11	im	in	APPRART	2	2	2	2
+12	Blut	Blut	NN	2	2	2	2
+13	"	"	$(	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	haben	haben	VAINF	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	so	so	ADV	*	*	*	*
+18	wie	wie	KOKOM	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	begnadete	begnadet	ADJA	*	*	*	*
+21	Autohändler	Autohändler	NN	*	*	*	*
+22	Helmut	Helmut	NE	*	*	*	*
+23	Becker	Becker	NE	*	*	*	*
+24	(	(	$(	*	*	*	*
+25	mein	mein	PPOSAT	*	*	*	*
+26	Kollege	Kollege	NN	*	*	*	*
+27	Hans-	Hans-	TRUNC	*	*	*	*
+28	Hermann	Hermann	NE	*	*	*	*
+29	Kotte	<unknown>	NN	*	*	*	*
+30	ehrte	ehren	VVFIN	*	*	*	*
+31	ihn	er	PPER	*	*	*	*
+32	unlängst	unlängst	ADV	*	*	*	*
+33	an	an	APPR	*	*	*	*
+34	dieser	dies	PDAT	*	*	*	*
+35	Stelle	Stelle	NN	*	*	*	*
+36	)	)	$(	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	Ausweis	Ausweis	NN	*	*	*	*
+39	gesundesten	<unknown>	ADJA	*	*	*	*
+40	Bürgersinns	Bürgersinn	NN	*	*	*	*
+41	ist	sein	VAFIN	*	*	*	*
+42	und	und	KON	*	*	*	*
+43	namentlich	namentlich	ADJD	*	*	*	*
+44	viele	viele	PIS	*	*	*	*
+45	an	an	APPR	*	*	*	*
+46	den	die	ART	*	*	*	*
+47	großen	groß	ADJA	*	*	*	*
+48	Ein-	Ein-	TRUNC	*	*	*	*
+49	und	und	KON	*	*	*	*
+50	Ausfallstraßen	Ausfallstraße	NN	*	*	*	*
+51	lebende	lebend	ADJA	*	*	*	*
+52	Kinder	Kind	NN	*	*	*	*
+53	Beckers	Becker	NE	*	*	*	*
+54	stolzes	stolz	ADJA	*	*	*	*
+55	Bonmot	<unknown>	NN	*	*	*	*
+56	längst	längst	ADV	*	*	*	*
+57	tapfer	tapfer	ADJD	*	*	*	*
+58	mit	mit	APPR	*	*	*	*
+59	medizinischem	medizinisch	ADJA	*	*	*	*
+60	Leben	Leben	NN	*	*	*	*
+61	erfüllen	erfüllen	VVINF	*	*	*	*
+62	.	.	$.	*	*	*	*
+

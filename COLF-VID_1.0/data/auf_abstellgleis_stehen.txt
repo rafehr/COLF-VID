@@ -1,0 +1,755 @@
+# article_id = T890306.127
+# text = Auch das Sportpalast-Projekt stünde bei einem SPD/AL-Bündnis nicht auf dem Abstellgleis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	Sportpalast-Projekt	<unknown>	NN	*	*	*	*
+4	stünde	stehen	VVFIN	2	2	2	2
+5	bei	bei	APPR	*	*	*	*
+6	einem	eine	ART	*	*	*	*
+7	SPD/AL-Bündnis	<unknown>	NN	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	dem	die	ART	*	*	*	*
+11	Abstellgleis	Abstellgleis	NN	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T900709.184
+# text = Sieben Waggons mit chemischen Abfällen , die offenbar seit Jahren auf einem Abstellgleis des Bahnhofs von Wriezen im Bezirk Frankfurt / Oder stehen , sollen nach alarmierenden Zeitungsberichten nun schnellstmöglich entsorgt werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sieben	sieben	CARD	*	*	*	*
+2	Waggons	Waggon	NN	*	*	*	*
+3	mit	mit	APPR	*	*	*	*
+4	chemischen	chemisch	ADJA	*	*	*	*
+5	Abfällen	Abfall	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	offenbar	offenbar	ADJD	*	*	*	*
+9	seit	seit	APPR	*	*	*	*
+10	Jahren	Jahr	NN	*	*	*	*
+11	auf	auf	APPR	1	1	1	1
+12	einem	eine	ART	*	*	*	*
+13	Abstellgleis	Abstellgleis	NN	1	1	1	1
+14	des	die	ART	*	*	*	*
+15	Bahnhofs	Bahnhof	NN	*	*	*	*
+16	von	von	APPR	*	*	*	*
+17	Wriezen	<unknown>	ADJA	*	*	*	*
+18	im	in	APPRART	*	*	*	*
+19	Bezirk	Bezirk	NN	*	*	*	*
+20	Frankfurt	Frankfurt	NE	*	*	*	*
+21	/	/	$(	*	*	*	*
+22	Oder	Oder	NE	*	*	*	*
+23	stehen	stehen	VVFIN	1	1	1	1
+24	,	,	$,	*	*	*	*
+25	sollen	sollen	VMFIN	*	*	*	*
+26	nach	nach	APPR	*	*	*	*
+27	alarmierenden	alarmierend	ADJA	*	*	*	*
+28	Zeitungsberichten	Zeitungsbericht	NN	*	*	*	*
+29	nun	nun	ADV	*	*	*	*
+30	schnellstmöglich	schnellstmöglich	ADJD	*	*	*	*
+31	entsorgt	entsorgen	VVPP	*	*	*	*
+32	werden	werden	VAINF	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T901128.178
+# text = Viele Güterzüge werden zunächst aber auf den Abstellgleisen stehen bleiben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Viele	viele	PIAT	*	*	*	*
+2	Güterzüge	Güterzug	NN	*	*	*	*
+3	werden	werden	VAFIN	*	*	*	*
+4	zunächst	zunächst	ADV	*	*	*	*
+5	aber	aber	ADV	*	*	*	*
+6	auf	auf	APPR	1	1	1	1
+7	den	die	ART	*	*	*	*
+8	Abstellgleisen	Abstellgleis	NN	1	1	1	1
+9	stehen	stehen	VVINF	1	1	1	1
+10	bleiben	bleiben	VVINF	*	*	*	*
+11	.	.	$.	*	*	*	*
+
+# article_id = T920526.41
+# text = Schon heute steht die Bahn als Anschlußtransportmittel auf dem Abstellgleis , während Laster die hafennahen Straßen verstopfen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schon	schon	ADV	*	*	*	*
+2	heute	heute	ADV	*	*	*	*
+3	steht	stehen	VVFIN	2	2	2	2
+4	die	die	ART	*	*	*	*
+5	Bahn	Bahn	NN	*	*	*	*
+6	als	als	KOKOM	*	*	*	*
+7	Anschlußtransportmittel	<unknown>	NN	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	dem	die	ART	*	*	*	*
+10	Abstellgleis	Abstellgleis	NN	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	während	während	KOUS	*	*	*	*
+13	Laster	Laster	NN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	hafennahen	hafennah	ADJA	*	*	*	*
+16	Straßen	Straße	NN	*	*	*	*
+17	verstopfen	verstopfen	VVINF	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T920504.24
+# text = Gestern waren noch ganze sieben Züge der insgesamt 57 ICEs einsatzfähig , der Rest stand auf die ganze Republik verteilt fahruntüchtig auf Abstellgleisen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gestern	gestern	ADV	*	*	*	*
+2	waren	sein	VAFIN	*	*	*	*
+3	noch	noch	ADV	*	*	*	*
+4	ganze	ganz	ADJA	*	*	*	*
+5	sieben	sieben	CARD	*	*	*	*
+6	Züge	Zug	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	insgesamt	insgesamt	ADV	*	*	*	*
+9	57	@card@	CARD	*	*	*	*
+10	ICEs	<unknown>	NN	*	*	*	*
+11	einsatzfähig	einsatzfähig	ADJD	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Rest	Rest	NN	*	*	*	*
+15	stand	stehen	VVFIN	1	1	1	1
+16	auf	auf	APPR	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	ganze	ganz	ADJA	*	*	*	*
+19	Republik	Republik	NN	*	*	*	*
+20	verteilt	verteilen	VVPP	*	*	*	*
+21	fahruntüchtig	fahruntüchtig	ADJD	*	*	*	*
+22	auf	auf	APPR	1	1	1	1
+23	Abstellgleisen	Abstellgleis	NN	1	1	1	1
+24	.	.	$.	*	*	*	*
+
+# article_id = T920509.29
+# text = Neben der langgestreckten grauen Waschhalle des hannoverschen Straßenbahnbetriebshofes Glocksee stehen um 12.15 Uhr noch immer fast vierzig Stadtbahndoppelzüge auf den Abstellgleisen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Neben	neben	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	langgestreckten	langgestreckt	ADJA	*	*	*	*
+4	grauen	grau	ADJA	*	*	*	*
+5	Waschhalle	Waschhalle	NN	*	*	*	*
+6	des	die	ART	*	*	*	*
+7	hannoverschen	<unknown>	ADJA	*	*	*	*
+8	Straßenbahnbetriebshofes	<unknown>	NN	*	*	*	*
+9	Glocksee	<unknown>	NN	*	*	*	*
+10	stehen	stehen	VVFIN	1	1	1	1
+11	um	um	APPR	*	*	*	*
+12	12.15	@card@	CARD	*	*	*	*
+13	Uhr	Uhr	NN	*	*	*	*
+14	noch	noch	ADV	*	*	*	*
+15	immer	immer	ADV	*	*	*	*
+16	fast	fast	ADV	*	*	*	*
+17	vierzig	vierzig	CARD	*	*	*	*
+18	Stadtbahndoppelzüge	<unknown>	NN	*	*	*	*
+19	auf	auf	APPR	1	1	1	1
+20	den	die	ART	*	*	*	*
+21	Abstellgleisen	Abstellgleis	NN	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T921208.169
+# text = Der Ausstiegszug stände auf dem Abstellgleis .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Der	die	ART	*	*	*	*
+2	Ausstiegszug	<unknown>	NN	*	*	*	*
+3	stände	stehen	VVFIN	2	2	2	2
+4	auf	auf	APPR	2	2	2	2
+5	dem	die	ART	*	*	*	*
+6	Abstellgleis	Abstellgleis	NN	2	2	2	2
+7	.	.	$.	*	*	*	*
+
+# article_id = T920222.116
+# text = Über Nacht steht der SUGAR auf einem Abstellgleis neben der eingleisigen Hauptstrecke .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Über	über	APPR	*	*	*	*
+2	Nacht	Nacht	NN	*	*	*	*
+3	steht	stehen	VVFIN	1	1	1	1
+4	der	die	ART	*	*	*	*
+5	SUGAR	<unknown>	NN	*	*	*	*
+6	auf	auf	APPR	1	1	1	1
+7	einem	eine	ART	*	*	*	*
+8	Abstellgleis	Abstellgleis	NN	1	1	1	1
+9	neben	neben	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	eingleisigen	eingleisig	ADJA	*	*	*	*
+12	Hauptstrecke	Hauptstrecke	NN	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T880411.24
+# text = Ein Zug steht auf einem Abstellgleis : Im letzten Waggon sind die Frauen versammelt und versuchen ebenso eifrig wie mühsam , in den Speisewagen vorzudringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Zug	Zug	NN	*	*	*	*
+3	steht	stehen	VVFIN	1	1	1	1
+4	auf	auf	APPR	1	1	1	1
+5	einem	eine	ART	*	*	*	*
+6	Abstellgleis	Abstellgleis	NN	1	1	1	1
+7	:	:	$.	*	*	*	*
+8	Im	in	APPRART	*	*	*	*
+9	letzten	letzt	ADJA	*	*	*	*
+10	Waggon	Waggon	NN	*	*	*	*
+11	sind	sein	VAFIN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Frauen	Frau	NN	*	*	*	*
+14	versammelt	versammeln	VVPP	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	versuchen	versuchen	VVFIN	*	*	*	*
+17	ebenso	ebenso	ADV	*	*	*	*
+18	eifrig	eifrig	ADJD	*	*	*	*
+19	wie	wie	KOKOM	*	*	*	*
+20	mühsam	mühsam	ADJD	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	Speisewagen	Speisewagen	NN	*	*	*	*
+25	vorzudringen	vordringen	VVIZU	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T861209.26
+# text = Rosenheim ( dpa ) - Ein Teil des radioaktiv verseuchten Molkepulvers , das seit Mitte des Jahres in Güterwaggons auf einem Abstellgleis des Rosenheimer Bahnhofs steht , darf nun doch verkauft werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rosenheim	Rosenheim	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	dpa	dpa	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Ein	<unknown>	ADJA	*	*	*	*
+7	Teil	Teil	NN	*	*	*	*
+8	des	die	ART	*	*	*	*
+9	radioaktiv	radioaktiv	ADJD	*	*	*	*
+10	verseuchten	verseucht	ADJA	*	*	*	*
+11	Molkepulvers	Molkepulver	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	das	die	PRELS	*	*	*	*
+14	seit	seit	APPR	*	*	*	*
+15	Mitte	Mitte	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	Jahres	Jahr	NN	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	Güterwaggons	Güterwaggon	NN	*	*	*	*
+20	auf	auf	APPR	1	1	1	1
+21	einem	eine	ART	*	*	*	*
+22	Abstellgleis	Abstellgleis	NN	1	1	1	1
+23	des	die	ART	*	*	*	*
+24	Rosenheimer	Rosenheimer	NN	*	*	*	*
+25	Bahnhofs	Bahnhof	NN	*	*	*	*
+26	steht	stehen	VVFIN	1	1	1	1
+27	,	,	$,	*	*	*	*
+28	darf	dürfen	VMFIN	*	*	*	*
+29	nun	nun	ADV	*	*	*	*
+30	doch	doch	ADV	*	*	*	*
+31	verkauft	verkaufen	VVPP	*	*	*	*
+32	werden	werden	VAINF	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T930102.72
+# text = 200 Manager rasen von Hamburg nach Frankfurt im Intercity Express , 2.000 Pendler bleiben zwischen Hanau und Frankfurt auf dem Abstellgleis stehen , damit die Manager einige Minuten schneller sind .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	200	@card@	CARD	*	*	*	*
+2	Manager	Manager	NN	*	*	*	*
+3	rasen	rasen	VVFIN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	Hamburg	Hamburg	NE	*	*	*	*
+6	nach	nach	APPR	*	*	*	*
+7	Frankfurt	Frankfurt	NE	*	*	*	*
+8	im	in	APPRART	*	*	*	*
+9	Intercity	Intercity	NN	*	*	*	*
+10	Express	Express	NE	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	2.000	@card@	CARD	*	*	*	*
+13	Pendler	Pendler	NN	*	*	*	*
+14	bleiben	bleiben	VVFIN	*	*	*	*
+15	zwischen	zwischen	APPR	*	*	*	*
+16	Hanau	Hanau	NE	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	Frankfurt	Frankfurt	NE	*	*	*	*
+19	auf	auf	APPR	1	1	4	1
+20	dem	die	ART	*	*	*	*
+21	Abstellgleis	Abstellgleis	NN	1	1	4	1
+22	stehen	stehen	VVFIN	1	1	4	1
+23	,	,	$,	*	*	*	*
+24	damit	damit	KOUS	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Manager	Manager	NN	*	*	*	*
+27	einige	einige	PIAT	*	*	*	*
+28	Minuten	Minute	NN	*	*	*	*
+29	schneller	schnell	ADJD	*	*	*	*
+30	sind	sein	VAFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T930325.153
+# text = Zehn Züge der U-Bahn- Linie 7 , die ansonsten zwischen Rudow und Spandau verkehren , stehen auf dem Abstellgleis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zehn	zehn	CARD	*	*	*	*
+2	Züge	Zug	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	U-Bahn-	U-Bahn-	TRUNC	*	*	*	*
+5	Linie	Linie	NN	*	*	*	*
+6	7	@card@	CARD	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	ansonsten	ansonsten	ADV	*	*	*	*
+10	zwischen	zwischen	APPR	*	*	*	*
+11	Rudow	<unknown>	NE	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Spandau	<unknown>	NE	*	*	*	*
+14	verkehren	verkehren	VVINF	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	stehen	stehen	VVFIN	1	1	1	1
+17	auf	auf	APPR	1	1	1	1
+18	dem	die	ART	*	*	*	*
+19	Abstellgleis	Abstellgleis	NN	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T960506.116
+# text = Vor allem die sozialistisch regierten Autonomien wie Andalusien , Castilla de la Mancha und Extramadurien wollen jetzt nicht länger zusehen , wie die Nationalisten Stück für Stück mehr Kompetenzen erhalten , während sie auf dem Abstellgleis stehen und nur dann mehr Rechte bekommen , wenn diese in den Verhandlungen mit den Nationalisten mit abfallen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	allem	alle	PIS	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	sozialistisch	sozialistisch	ADJD	*	*	*	*
+5	regierten	regiert	ADJA	*	*	*	*
+6	Autonomien	Autonomie	NN	*	*	*	*
+7	wie	wie	KOKOM	*	*	*	*
+8	Andalusien	Andalusien	NE	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	Castilla	<unknown>	NE	*	*	*	*
+11	de	de	FM	*	*	*	*
+12	la	la	FM	*	*	*	*
+13	Mancha	<unknown>	NE	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	Extramadurien	<unknown>	NN	*	*	*	*
+16	wollen	wollen	VMFIN	*	*	*	*
+17	jetzt	jetzt	ADV	*	*	*	*
+18	nicht	nicht	PTKNEG	*	*	*	*
+19	länger	lang	ADJD	*	*	*	*
+20	zusehen	zusehen	VVINF	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	wie	wie	KOUS	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	Nationalisten	Nationalist	NN	*	*	*	*
+25	Stück	Stück	NN	*	*	*	*
+26	für	für	APPR	*	*	*	*
+27	Stück	Stück	NN	*	*	*	*
+28	mehr	mehr	PIAT	*	*	*	*
+29	Kompetenzen	Kompetenz	NN	*	*	*	*
+30	erhalten	erhalten	VVPP	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	während	während	KOUS	*	*	*	*
+33	sie	sie	PPER	*	*	*	*
+34	auf	auf	APPR	2	2	2	2
+35	dem	die	ART	*	*	*	*
+36	Abstellgleis	Abstellgleis	NN	2	2	2	2
+37	stehen	stehen	VVFIN	2	2	2	2
+38	und	und	KON	*	*	*	*
+39	nur	nur	ADV	*	*	*	*
+40	dann	dann	ADV	*	*	*	*
+41	mehr	mehr	PIAT	*	*	*	*
+42	Rechte	Recht|Rechte	NN	*	*	*	*
+43	bekommen	bekommen	VVINF	*	*	*	*
+44	,	,	$,	*	*	*	*
+45	wenn	wenn	KOUS	*	*	*	*
+46	diese	diese	PDS	*	*	*	*
+47	in	in	APPR	*	*	*	*
+48	den	die	ART	*	*	*	*
+49	Verhandlungen	Verhandlung	NN	*	*	*	*
+50	mit	mit	APPR	*	*	*	*
+51	den	die	ART	*	*	*	*
+52	Nationalisten	Nationalist	NN	*	*	*	*
+53	mit	mit	PTKVZ	*	*	*	*
+54	abfallen	abfallen	VVINF	*	*	*	*
+55	.	.	$.	*	*	*	*
+
+# article_id = T960502.200
+# text = [ ... ] Manuel betreibt das Geschäft der Betreiber : Wir stehen weder in der medizinischen Gentechnik auf dem Abstellgleis , noch verpassen wir eine " Enzymdebatte " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	[	[	$(	*	*	*	*
+2	...	...	$.	*	*	*	*
+3	]	]	$(	*	*	*	*
+4	Manuel	Manuel	NE	*	*	*	*
+5	betreibt	betreiben	VVFIN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Geschäft	Geschäft	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Betreiber	Betreiber	NN	*	*	*	*
+10	:	:	$.	*	*	*	*
+11	Wir	wir	PPER	*	*	*	*
+12	stehen	stehen	VVFIN	2	2	2	2
+13	weder	weder	KON	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	medizinischen	medizinisch	ADJA	*	*	*	*
+17	Gentechnik	Gentechnik	NN	*	*	*	*
+18	auf	auf	APPR	2	2	2	2
+19	dem	die	ART	*	*	*	*
+20	Abstellgleis	Abstellgleis	NN	2	2	2	2
+21	,	,	$,	*	*	*	*
+22	noch	noch	ADV	*	*	*	*
+23	verpassen	verpassen	VVFIN	*	*	*	*
+24	wir	wir	PPER	*	*	*	*
+25	eine	eine	ART	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	Enzymdebatte	<unknown>	NN	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T960605.138
+# text = Man antwortete , für das verfaulte Fleisch , das hier in 15 oder 20 Waggons auf dem Abstellgleis stand .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Man	man	PIS	*	*	*	*
+2	antwortete	antworten	VVFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	für	für	APPR	*	*	*	*
+5	das	die	ART	*	*	*	*
+6	verfaulte	verfault	ADJA	*	*	*	*
+7	Fleisch	Fleisch	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	das	die	PRELS	*	*	*	*
+10	hier	hier	ADV	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	15	@card@	CARD	*	*	*	*
+13	oder	oder	KON	*	*	*	*
+14	20	@card@	CARD	*	*	*	*
+15	Waggons	Waggon	NN	*	*	*	*
+16	auf	auf	APPR	1	1	1	1
+17	dem	die	ART	*	*	*	*
+18	Abstellgleis	Abstellgleis	NN	1	1	1	1
+19	stand	stehen	VVFIN	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T961026.242
+# text = Das grüne Image der Stadt steht nach Meinung des Bundes Deutscher Landschaftsarchitekten ( BDLA ) " auf dem Abstellgleis " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	grüne	grün	ADJA	*	*	*	*
+3	Image	Image	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Stadt	Stadt	NN	*	*	*	*
+6	steht	stehen	VVFIN	2	2	2	2
+7	nach	nach	APPR	*	*	*	*
+8	Meinung	Meinung	NN	*	*	*	*
+9	des	die	ART	*	*	*	*
+10	Bundes	Bund	NN	*	*	*	*
+11	Deutscher	deutsch	ADJA	*	*	*	*
+12	Landschaftsarchitekten	Landschaftsarchitekt	NN	*	*	*	*
+13	(	(	$(	*	*	*	*
+14	BDLA	<unknown>	NE	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	auf	auf	APPR	2	2	2	2
+18	dem	die	ART	*	*	*	*
+19	Abstellgleis	Abstellgleis	NN	2	2	2	2
+20	"	"	$(	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T960425.102
+# text = Wir Grünen stehen nicht nur in der medizinischen Gentechnik auf dem Abstellgleis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wir	wir	PPER	*	*	*	*
+2	Grünen	Grüne	NN	*	*	*	*
+3	stehen	stehen	VVFIN	2	2	2	2
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	nur	nur	ADV	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	medizinischen	medizinisch	ADJA	*	*	*	*
+9	Gentechnik	Gentechnik	NN	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	dem	die	ART	*	*	*	*
+12	Abstellgleis	Abstellgleis	NN	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T960314.236
+# text = Die ehemals Ostberliner U- Bahnen mit dem Kosenamen " Gisela " stehen nämlich seit der Vereinigung auf dem Abstellgleis .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Die	die	ART	*	*	*	*
+2	ehemals	ehemals	ADV	*	*	*	*
+3	Ostberliner	Ostberliner	NN	*	*	*	*
+4	U-	U-	TRUNC	*	*	*	*
+5	Bahnen	Bahn|Bahnen	NN	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	dem	die	ART	*	*	*	*
+8	Kosenamen	Kosename	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Gisela	Gisela	NE	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	stehen	stehen	VVFIN	2	1	1	1
+13	nämlich	nämlich	ADV	*	*	*	*
+14	seit	seit	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Vereinigung	Vereinigung	NN	*	*	*	*
+17	auf	auf	APPR	2	1	1	1
+18	dem	die	ART	*	*	*	*
+19	Abstellgleis	Abstellgleis	NN	2	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T960309.51
+# text = Auch die Koordinatorin und die vier Sozialarbeiter , die den Betreuern in Rollenspielen zeigen , wie sie auf Fahrgäste zugehen sollen , standen lange Zeit auf dem sozialen Abstellgleis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Koordinatorin	Koordinatorin	NN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	vier	vier	CARD	*	*	*	*
+7	Sozialarbeiter	Sozialarbeiter	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Betreuern	Betreuer	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	Rollenspielen	Rollenspiel	NN	*	*	*	*
+14	zeigen	zeigen	VVINF	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	wie	wie	KOUS	*	*	*	*
+17	sie	sie	PPER	*	*	*	*
+18	auf	auf	APPR	*	*	*	*
+19	Fahrgäste	Fahrgast	NN	*	*	*	*
+20	zugehen	zugehen	VVINF	*	*	*	*
+21	sollen	sollen	VMFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	standen	stehen	VVFIN	2	2	2	2
+24	lange	lange	ADV	*	*	*	*
+25	Zeit	Zeit	NN	*	*	*	*
+26	auf	auf	APPR	2	2	2	2
+27	dem	die	ART	*	*	*	*
+28	sozialen	sozial	ADJA	*	*	*	*
+29	Abstellgleis	Abstellgleis	NN	2	2	2	2
+30	.	.	$.	*	*	*	*
+
+# article_id = T961116.121
+# text = Unser Zug steht außer Sichtweite , auf einem Abstellgleis , umgeben von zehn dunkelgrünen Loks .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unser	unser	PPOSAT	*	*	*	*
+2	Zug	Zug	NN	*	*	*	*
+3	steht	stehen	VVFIN	1	1	1	1
+4	außer	außer	APPR	*	*	*	*
+5	Sichtweite	Sichtweite	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	auf	auf	APPR	1	1	1	1
+8	einem	eine	ART	*	*	*	*
+9	Abstellgleis	Abstellgleis	NN	1	1	1	1
+10	,	,	$,	*	*	*	*
+11	umgeben	umgeben	VVPP	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	zehn	zehn	CARD	*	*	*	*
+14	dunkelgrünen	dunkelgrün	ADJA	*	*	*	*
+15	Loks	Lok	NN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T980831.251
+# text = Nach den neunzig Minuten im Emslandstadion wären die Anhänger der Braun-Weißen froh gewesen , wenn sie auf dem Abstellgleis stehen geblieben wären .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nach	nach	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	neunzig	neunzig	CARD	*	*	*	*
+4	Minuten	Minute	NN	*	*	*	*
+5	im	in	APPRART	*	*	*	*
+6	Emslandstadion	<unknown>	NN	*	*	*	*
+7	wären	sein	VAFIN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Anhänger	Anhänger	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Braun-Weißen	Braun-Weiße	NN	*	*	*	*
+12	froh	froh	ADJD	*	*	*	*
+13	gewesen	sein	VAPP	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	wenn	wenn	KOUS	*	*	*	*
+16	sie	sie	PPER	*	*	*	*
+17	auf	auf	APPR	1	2	1	1
+18	dem	die	ART	*	*	*	*
+19	Abstellgleis	Abstellgleis	NN	1	2	1	1
+20	stehen	stehen	VVFIN	1	2	1	1
+21	geblieben	bleiben	VVPP	*	*	*	*
+22	wären	sein	VAFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T970626.45
+# text = Tritt Rau , der gestern abend sein 20jähriges Jubiläum in dieser Funktion feierte , erneut an , stünde Clement vorläufig auf dem Abstellgleis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Tritt	treten	VVFIN	*	*	*	*
+2	Rau	Rau	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	der	die	PRELS	*	*	*	*
+5	gestern	gestern	ADV	*	*	*	*
+6	abend	abend	ADV	*	*	*	*
+7	sein	sein	PPOSAT	*	*	*	*
+8	20jähriges	20jährig	ADJA	*	*	*	*
+9	Jubiläum	Jubiläum	NN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	dieser	dies	PDAT	*	*	*	*
+12	Funktion	Funktion	NN	*	*	*	*
+13	feierte	feiern	VVFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	erneut	erneut	ADJD	*	*	*	*
+16	an	an	PTKVZ	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	stünde	stehen	VVFIN	2	2	2	2
+19	Clement	Clement	NE	*	*	*	*
+20	vorläufig	vorläufig	ADJD	*	*	*	*
+21	auf	auf	APPR	2	2	2	2
+22	dem	die	ART	*	*	*	*
+23	Abstellgleis	Abstellgleis	NN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T970929.108
+# text = Wird Kohl Yilmaz nur wiederholen , was Kinkel seinem Amtskollegen Cem kürzlich in Bonn gesagt hat , nämlich daß die Türkei " keineswegs auf dem Abstellgleis " stehe , aber erst einmal " ihre Hausaufgaben machen " müsse , um an die EU-Tür zu klopfen ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wird	werden	VAFIN	*	*	*	*
+2	Kohl	Kohl	NE	*	*	*	*
+3	Yilmaz	Yilmaz	NE	*	*	*	*
+4	nur	nur	ADV	*	*	*	*
+5	wiederholen	wiederholen	VVINF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	was	was	PRELS	*	*	*	*
+8	Kinkel	Kinkel	NE	*	*	*	*
+9	seinem	sein	PPOSAT	*	*	*	*
+10	Amtskollegen	Amtskollege	NN	*	*	*	*
+11	Cem	Cem	NE	*	*	*	*
+12	kürzlich	kürzlich	ADJD	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Bonn	Bonn	NE	*	*	*	*
+15	gesagt	sagen	VVPP	*	*	*	*
+16	hat	haben	VAFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	nämlich	nämlich	ADV	*	*	*	*
+19	daß	dass	KOUS	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Türkei	Türkei	NE	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	keineswegs	keineswegs	ADV	*	*	*	*
+24	auf	auf	APPR	2	2	2	2
+25	dem	die	ART	*	*	*	*
+26	Abstellgleis	Abstellgleis	NN	2	2	2	2
+27	"	"	$(	*	*	*	*
+28	stehe	stehen	VVFIN	2	2	2	2
+29	,	,	$,	*	*	*	*
+30	aber	aber	KON	*	*	*	*
+31	erst	erst	ADV	*	*	*	*
+32	einmal	einmal	ADV	*	*	*	*
+33	"	"	$(	*	*	*	*
+34	ihre	ihr	PPOSAT	*	*	*	*
+35	Hausaufgaben	Hausaufgabe	NN	*	*	*	*
+36	machen	machen	VVINF	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	müsse	müssen	VMFIN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	um	um	KOUI	*	*	*	*
+41	an	an	APPR	*	*	*	*
+42	die	die	ART	*	*	*	*
+43	EU-Tür	<unknown>	NN	*	*	*	*
+44	zu	zu	PTKZU	*	*	*	*
+45	klopfen	klopfen	VVINF	*	*	*	*
+46	?	?	$.	*	*	*	*
+
+# article_id = T971119.279
+# text = Zehn davon stehen auf dem Abstellgleis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zehn	zehn	CARD	*	*	*	*
+2	davon	davon	PAV	*	*	*	*
+3	stehen	stehen	VVFIN	1	1	1	1
+4	auf	auf	APPR	1	1	1	1
+5	dem	die	ART	*	*	*	*
+6	Abstellgleis	Abstellgleis	NN	1	1	1	1
+7	.	.	$.	*	*	*	*
+
+# article_id = T940718.69
+# text = Der Zug mit den Pestiziden steht auf einem Abstellgleis des Bahnhofs .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Der	die	ART	*	*	*	*
+2	Zug	Zug	NN	*	*	*	*
+3	mit	mit	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Pestiziden	Pestizid	NN	*	*	*	*
+6	steht	stehen	VVFIN	1	1	1	1
+7	auf	auf	APPR	1	1	1	1
+8	einem	eine	ART	*	*	*	*
+9	Abstellgleis	Abstellgleis	NN	1	1	1	1
+10	des	die	ART	*	*	*	*
+11	Bahnhofs	Bahnhof	NN	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T940317.205
+# text = Schulalltag in Bremen : Das Dach ist undicht , es regnet in die Klassenräume hinein , die Fenster schließen nicht und der Schimmel blüht an den Wänden - doch gleichzeitig steht derzeit eine Summe von über 10 Millionen Mark für Sanierungs- und Instandsetzungsmaßnahmen auf dem Abstellgleis - vom Senat bewilligt , aber vom schwerfälligen Behördenapparat nicht rechtzeitig ausgegeben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schulalltag	Schulalltag	NN	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	Bremen	Bremen	NE	*	*	*	*
+4	:	:	$.	*	*	*	*
+5	Das	die	ART	*	*	*	*
+6	Dach	Dach	NN	*	*	*	*
+7	ist	sein	VAFIN	*	*	*	*
+8	undicht	undicht	ADJD	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	es	es	PPER	*	*	*	*
+11	regnet	regnen	VVFIN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Klassenräume	Klassenraum	NN	*	*	*	*
+15	hinein	hinein	PTKVZ	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Fenster	Fenster	NN	*	*	*	*
+19	schließen	schließen	VVFIN	*	*	*	*
+20	nicht	nicht	PTKNEG	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Schimmel	Schimmel	NN	*	*	*	*
+24	blüht	blühen	VVFIN	*	*	*	*
+25	an	an	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Wänden	Wand	NN	*	*	*	*
+28	-	-	$(	*	*	*	*
+29	doch	doch	ADV	*	*	*	*
+30	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
+31	steht	stehen	VVFIN	2	2	2	2
+32	derzeit	derzeit	ADV	*	*	*	*
+33	eine	eine	ART	*	*	*	*
+34	Summe	Summe	NN	*	*	*	*
+35	von	von	APPR	*	*	*	*
+36	über	über	APPR	*	*	*	*
+37	10	@card@	CARD	*	*	*	*
+38	Millionen	Million	NN	*	*	*	*
+39	Mark	Mark	NN	*	*	*	*
+40	für	für	APPR	*	*	*	*
+41	Sanierungs-	Sanierungs-	TRUNC	*	*	*	*
+42	und	und	KON	*	*	*	*
+43	Instandsetzungsmaßnahmen	Instandsetzungsmaßnahme	NN	*	*	*	*
+44	auf	auf	APPR	2	2	2	2
+45	dem	die	ART	*	*	*	*
+46	Abstellgleis	Abstellgleis	NN	2	2	2	2
+47	-	-	$(	*	*	*	*
+48	vom	von	APPRART	*	*	*	*
+49	Senat	Senat	NN	*	*	*	*
+50	bewilligt	bewilligen	VVPP	*	*	*	*
+51	,	,	$,	*	*	*	*
+52	aber	aber	ADV	*	*	*	*
+53	vom	von	APPRART	*	*	*	*
+54	schwerfälligen	schwerfällig	ADJA	*	*	*	*
+55	Behördenapparat	Behördenapparat	NN	*	*	*	*
+56	nicht	nicht	PTKNEG	*	*	*	*
+57	rechtzeitig	rechtzeitig	ADJD	*	*	*	*
+58	ausgegeben	ausgeben	VVPP	*	*	*	*
+59	.	.	$.	*	*	*	*
+

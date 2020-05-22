@@ -1,0 +1,5996 @@
+# article_id = T890503.80
+# text = Daß die Militärs kurz vor der Wahl kräftig destabilisieren und ihren nächsten Putsch vorbereiten wollen , sei unwahrscheinlich ; die Fäden an der Inflationsspirale haben andere gezogen , schreibt die liberale Wochenzeitschrift ' Periodista ` : " die Weizenexporteure , die ausländischen Banken und die großen Agroproduzenten " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Militärs	Militär	NN	*	*	*	*
+4	kurz	kurz	ADJD	*	*	*	*
+5	vor	vor	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Wahl	Wahl	NN	*	*	*	*
+8	kräftig	kräftig	ADJD	*	*	*	*
+9	destabilisieren	<unknown>	VVINF	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	ihren	ihr	PPOSAT	*	*	*	*
+12	nächsten	nah	ADJA	*	*	*	*
+13	Putsch	Putsch	NN	*	*	*	*
+14	vorbereiten	vorbereiten	VVINF	*	*	*	*
+15	wollen	wollen	VMFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	sei	sein	VAFIN	*	*	*	*
+18	unwahrscheinlich	unwahrscheinlich	ADJD	*	*	*	*
+19	;	;	$.	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Fäden	Faden	NN	2	2	2	2
+22	an	an	APPR	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Inflationsspirale	Inflationsspirale	NN	*	*	*	*
+25	haben	haben	VAFIN	*	*	*	*
+26	andere	andere	PIS	*	*	*	*
+27	gezogen	ziehen	VVPP	2	2	2	2
+28	,	,	$,	*	*	*	*
+29	schreibt	schreiben	VVFIN	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	liberale	liberal	ADJA	*	*	*	*
+32	Wochenzeitschrift	Wochenzeitschrift	NN	*	*	*	*
+33	'	'	$(	*	*	*	*
+34	Periodista	<unknown>	NE	*	*	*	*
+35	`	`	$(	*	*	*	*
+36	:	:	$.	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	Weizenexporteure	Weizenexporteur	NN	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	die	die	ART	*	*	*	*
+42	ausländischen	ausländisch	ADJA	*	*	*	*
+43	Banken	Bank	NN	*	*	*	*
+44	und	und	KON	*	*	*	*
+45	die	die	ART	*	*	*	*
+46	großen	groß	ADJA	*	*	*	*
+47	Agroproduzenten	<unknown>	NN	*	*	*	*
+48	"	"	$(	*	*	*	*
+49	.	.	$.	*	*	*	*
+
+# article_id = T890506.26
+# text = Im März zog gar Hans-Jürgen Wischnewski 1988 die Fäden bei der Herstellung eines Waffenstillstands zwischen Regierung und Contra , und die Sandinisten machten immer mehr Zugeständnisse an die westeuropäischen Demokratievorstellungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	März	März	NN	*	*	*	*
+3	zog	ziehen	VVFIN	2	2	2	2
+4	gar	gar	ADV	*	*	*	*
+5	Hans-Jürgen	<unknown>	NE	*	*	*	*
+6	Wischnewski	<unknown>	NE	*	*	*	*
+7	1988	@card@	CARD	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Fäden	Faden	NN	2	2	2	2
+10	bei	bei	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Herstellung	Herstellung	NN	*	*	*	*
+13	eines	eine	ART	*	*	*	*
+14	Waffenstillstands	Waffenstillstand	NN	*	*	*	*
+15	zwischen	zwischen	APPR	*	*	*	*
+16	Regierung	Regierung	NN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	Contra	Contra	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Sandinisten	Sandinisten	NN	*	*	*	*
+23	machten	machen	VVFIN	*	*	*	*
+24	immer	immer	ADV	*	*	*	*
+25	mehr	mehr	PIAT	*	*	*	*
+26	Zugeständnisse	Zugeständnis	NN	*	*	*	*
+27	an	an	APPR	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	westeuropäischen	westeuropäisch	ADJA	*	*	*	*
+30	Demokratievorstellungen	Demokratievorstellung	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T890623.152
+# text = Hauptfigur bei diesen Telefonverhandlungen : ein gewisser Carlos Ponze , der die Bremer Fäden vom Brüsseler Sheraton-Hotel aus zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hauptfigur	Hauptfigur	NN	*	*	*	*
+2	bei	bei	APPR	*	*	*	*
+3	diesen	dies	PDAT	*	*	*	*
+4	Telefonverhandlungen	<unknown>	NN	*	*	*	*
+5	:	:	$.	*	*	*	*
+6	ein	eine	ART	*	*	*	*
+7	gewisser	gewiss	ADJA	*	*	*	*
+8	Carlos	Carlos	NE	*	*	*	*
+9	Ponze	<unknown>	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	PRELS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Bremer	Bremer	NN	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	vom	von	APPRART	*	*	*	*
+16	Brüsseler	Brüsseler	ADJA	*	*	*	*
+17	Sheraton-Hotel	Sheraton-Hotel	NN	*	*	*	*
+18	aus	aus	APZR	*	*	*	*
+19	zog	ziehen	VVFIN	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T891002.53
+# text = " Coyote spricht heute bitter über seine Kriegserfahrungen und über die Reagan-Regierung , die die Fäden zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Coyote	<unknown>	NN	*	*	*	*
+3	spricht	sprechen	VVFIN	*	*	*	*
+4	heute	heute	ADV	*	*	*	*
+5	bitter	bitt	ADJD	*	*	*	*
+6	über	über	APPR	*	*	*	*
+7	seine	sein	PPOSAT	*	*	*	*
+8	Kriegserfahrungen	Kriegserfahrung	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	über	über	APPR	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Reagan-Regierung	Reagan-Regierung	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	die	die	PRELS	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Fäden	Faden	NN	2	2	2	2
+17	zog	ziehen	VVFIN	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T891023.96
+# text = Der dynamische Reuter war der Motor im Spiel , Hansi Dorfner versuchte , diesem seinen Stempel aufzudrücken , Augenthaler zog geschickt die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	dynamische	dynamisch	ADJA	*	*	*	*
+3	Reuter	Reuter	NE	*	*	*	*
+4	war	sein	VAFIN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Motor	Motor	NN	*	*	*	*
+7	im	in	APPRART	*	*	*	*
+8	Spiel	Spiel	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	Hansi	Hansi	NE	*	*	*	*
+11	Dorfner	<unknown>	NN	*	*	*	*
+12	versuchte	versuchen	VVFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	diesem	diese	PDS	*	*	*	*
+15	seinen	sein	PPOSAT	*	*	*	*
+16	Stempel	Stempel	NN	*	*	*	*
+17	aufzudrücken	aufdrücken	VVIZU	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	Augenthaler	Augenthaler	NE	*	*	*	*
+20	zog	ziehen	VVFIN	2	2	2	2
+21	geschickt	geschickt	ADJD	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Fäden	Faden	NN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T890919.109
+# text = Seit das " Bärchen aus Kiew " und das " Füchslein aus Minsk " , wie Alexander Zavarow und Sergej Aleinikow von der italienischen Presse liebevoll genannt werden , bei Juve die Fäden ziehen , geht es aufwärts .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	Bärchen	<unknown>	NN	*	*	*	*
+5	aus	aus	APPR	*	*	*	*
+6	Kiew	Kiew	NE	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Füchslein	<unknown>	NN	*	*	*	*
+12	aus	aus	APPR	*	*	*	*
+13	Minsk	Minsk	NE	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	wie	wie	KOUS	*	*	*	*
+17	Alexander	Alexander	NE	*	*	*	*
+18	Zavarow	<unknown>	NE	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Sergej	Sergej	NE	*	*	*	*
+21	Aleinikow	<unknown>	NE	*	*	*	*
+22	von	von	APPR	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	italienischen	italienisch	ADJA	*	*	*	*
+25	Presse	Presse	NN	*	*	*	*
+26	liebevoll	liebevoll	ADJD	*	*	*	*
+27	genannt	nennen	VVPP	*	*	*	*
+28	werden	werden	VAINF	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	bei	bei	APPR	*	*	*	*
+31	Juve	<unknown>	NN	*	*	*	*
+32	die	die	ART	*	*	*	*
+33	Fäden	Faden	NN	2	2	2	2
+34	ziehen	ziehen	VVINF	2	2	2	2
+35	,	,	$,	*	*	*	*
+36	geht	gehen	VVFIN	*	*	*	*
+37	es	es	PPER	*	*	*	*
+38	aufwärts	aufwärts	PTKVZ	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T890915.143
+# text = Fäden werden gezogen , zwischen der Reislamisierung in Aserbaidschan , den neuen iranisch-sowjetischen Kontakten , der Bestechungsaffäre in Usbekistan , deren Spuren auch ins Moskauer Zentralkomitee führten , und den Pogromen gegen die Meschketen in Ferghana .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Fäden	Faden	NN	2	2	2	2
+2	werden	werden	VAFIN	*	*	*	*
+3	gezogen	ziehen	VVPP	2	2	2	2
+4	,	,	$,	*	*	*	*
+5	zwischen	zwischen	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Reislamisierung	<unknown>	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	Aserbaidschan	Aserbaidschan	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	neuen	neu	ADJA	*	*	*	*
+13	iranisch-sowjetischen	iranisch-sowjetisch	ADJA	*	*	*	*
+14	Kontakten	Kontakt	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Bestechungsaffäre	Bestechungsaffäre	NN	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	Usbekistan	Usbekistan	NE	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	deren	die	PRELAT	*	*	*	*
+22	Spuren	Spur|Spuren	NN	*	*	*	*
+23	auch	auch	ADV	*	*	*	*
+24	ins	in	APPRART	*	*	*	*
+25	Moskauer	Moskauer	NN	*	*	*	*
+26	Zentralkomitee	Zentralkomitee	NN	*	*	*	*
+27	führten	führen	VVFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	den	die	ART	*	*	*	*
+31	Pogromen	Pogrom	NN	*	*	*	*
+32	gegen	gegen	APPR	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	Meschketen	<unknown>	NN	*	*	*	*
+35	in	in	APPR	*	*	*	*
+36	Ferghana	<unknown>	NE	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T890125.5
+# text = Die Fäden in diesem Markt werden von großen Spezialagenturen gezogen , deren Namen in der Öffentlichkeit kaum bekannt sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Fäden	Faden	NN	2	2	2	2
+3	in	in	APPR	*	*	*	*
+4	diesem	dies	PDAT	*	*	*	*
+5	Markt	Markt	NN	*	*	*	*
+6	werden	werden	VAFIN	*	*	*	*
+7	von	von	APPR	*	*	*	*
+8	großen	groß	ADJA	*	*	*	*
+9	Spezialagenturen	Spezialagentur	NN	*	*	*	*
+10	gezogen	ziehen	VVPP	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	deren	die	PRELAT	*	*	*	*
+13	Namen	Name	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Öffentlichkeit	Öffentlichkeit	NN	*	*	*	*
+17	kaum	kaum	ADV	*	*	*	*
+18	bekannt	bekannt	ADJD	*	*	*	*
+19	sind	sein	VAFIN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T890106.168
+# text = Daß der Rechtsextremist und ehemalige SS-Kombattent , der in den siebziger Jahren mit seiner Loge einen " Plan zur demokratischen Erneuerung " mit " eindeutigem Staatsstreichcharakter " ( so die Präsidentin der P2 - Kommission , Tina Anselmi ) verfolgt hat , sich nun wieder in alter Munterkeit in Italien tummeln und aufs neue seine Fäden ziehen kann , ist nicht verwunderlich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Rechtsextremist	Rechtsextremist	NN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	ehemalige	ehemalig	ADJA	*	*	*	*
+6	SS-Kombattent	<unknown>	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	PRELS	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	siebziger	siebziger	ADJA	*	*	*	*
+12	Jahren	Jahr	NN	*	*	*	*
+13	mit	mit	APPR	*	*	*	*
+14	seiner	sein	PPOSAT	*	*	*	*
+15	Loge	Loge	NN	*	*	*	*
+16	einen	eine	ART	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	Plan	Plan	NN	*	*	*	*
+19	zur	zu	APPRART	*	*	*	*
+20	demokratischen	demokratisch	ADJA	*	*	*	*
+21	Erneuerung	Erneuerung	NN	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	mit	mit	APPR	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	eindeutigem	eindeutig	ADJA	*	*	*	*
+26	Staatsstreichcharakter	<unknown>	NN	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	(	(	$(	*	*	*	*
+29	so	so	ADV	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	Präsidentin	Präsidentin	NN	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	P2	<unknown>	ADJA	*	*	*	*
+34	-	-	$(	*	*	*	*
+35	Kommission	Kommission	NN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	Tina	Tina	NE	*	*	*	*
+38	Anselmi	<unknown>	NE	*	*	*	*
+39	)	)	$(	*	*	*	*
+40	verfolgt	verfolgen	VVPP	*	*	*	*
+41	hat	haben	VAFIN	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	sich	sich	PRF	*	*	*	*
+44	nun	nun	ADV	*	*	*	*
+45	wieder	wieder	ADV	*	*	*	*
+46	in	in	APPR	*	*	*	*
+47	alter	alt	ADJA	*	*	*	*
+48	Munterkeit	Munterkeit	NN	*	*	*	*
+49	in	in	APPR	*	*	*	*
+50	Italien	Italien	NE	*	*	*	*
+51	tummeln	tummeln	VVINF	*	*	*	*
+52	und	und	KON	*	*	*	*
+53	aufs	aufs	APPRART	*	*	*	*
+54	neue	neu	ADJA	*	*	*	*
+55	seine	sein	PPOSAT	*	*	*	*
+56	Fäden	Faden	NN	2	2	2	2
+57	ziehen	ziehen	VVINF	2	2	2	2
+58	kann	können	VMFIN	*	*	*	*
+59	,	,	$,	*	*	*	*
+60	ist	sein	VAFIN	*	*	*	*
+61	nicht	nicht	PTKNEG	*	*	*	*
+62	verwunderlich	verwunderlich	ADJD	*	*	*	*
+63	.	.	$.	*	*	*	*
+
+# article_id = T890401.43
+# text = Noch immer ist die " Lehrprophetin Schwester Gabriele " ( " Ich bin das absolute Gesetz " ) das Aushängeschild der Sekte , doch im Hintergrund ziehen Wirtschaftswissenschaftler und Kaufleute die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Noch	noch	ADV	*	*	*	*
+2	immer	immer	ADV	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Lehrprophetin	<unknown>	NN	*	*	*	*
+7	Schwester	Schwester	NN	*	*	*	*
+8	Gabriele	Gabriele	NE	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	(	(	$(	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	Ich	Ich	NN	*	*	*	*
+13	bin	sein	VAFIN	*	*	*	*
+14	das	die	ART	*	*	*	*
+15	absolute	absolut	ADJA	*	*	*	*
+16	Gesetz	Gesetz	NN	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	)	)	$(	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	Aushängeschild	Aushängeschild	NN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Sekte	Sekt|Sekte	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	doch	doch	ADV	*	*	*	*
+25	im	in	APPRART	*	*	*	*
+26	Hintergrund	Hintergrund	NN	*	*	*	*
+27	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+28	Wirtschaftswissenschaftler	Wirtschaftswissenschaftler	NN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	Kaufleute	Kaufleute	NN	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	Fäden	Faden	NN	2	2	2	2
+33	.	.	$.	*	*	*	*
+
+# article_id = T890403.108
+# text = Getreu dem antimaterialistischen Grundschema des bürgerlichen Intellektuellen glaubt er offenbar , Kultur entstehe nicht auf der Basis gesellschafltich-materieller Bedingungen , sondern als Produkt von Manipulation , von Fäden ziehenden Bewußtseinstechnikern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Noch	noch	ADV	*	*	*	*
+2	immer	immer	ADV	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Lehrprophetin	<unknown>	NN	*	*	*	*
+7	Schwester	Schwester	NN	*	*	*	*
+8	Gabriele	Gabriele	NE	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	(	(	$(	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	Ich	Ich	NN	*	*	*	*
+13	bin	sein	VAFIN	*	*	*	*
+14	das	die	ART	*	*	*	*
+15	absolute	absolut	ADJA	*	*	*	*
+16	Gesetz	Gesetz	NN	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	)	)	$(	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	Aushängeschild	Aushängeschild	NN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Sekte	Sekt|Sekte	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	doch	doch	ADV	*	*	*	*
+25	im	in	APPRART	*	*	*	*
+26	Hintergrund	Hintergrund	NN	*	*	*	*
+27	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+28	Wirtschaftswissenschaftler	Wirtschaftswissenschaftler	NN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	Kaufleute	Kaufleute	NN	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	Fäden	Faden	NN	2	2	2	2
+33	.	.	$.	*	*	*	*
+
+# article_id = T890408.40
+# text = Im Hintergrund die Fäden zu ziehen , hat Klaus Kinkel nie gestört .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Hintergrund	Hintergrund	NN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Fäden	Faden	NN	2	2	2	2
+5	zu	zu	PTKZU	*	*	*	*
+6	ziehen	ziehen	VVINF	2	2	2	2
+7	,	,	$,	*	*	*	*
+8	hat	haben	VAFIN	*	*	*	*
+9	Klaus	Klaus	NE	*	*	*	*
+10	Kinkel	Kinkel	NE	*	*	*	*
+11	nie	nie	ADV	*	*	*	*
+12	gestört	stören	VVPP	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T891211.134
+# text = Auf dem Rasen zog jedoch noch bis zur Halbzeit der Tschechoslowake Petr Rada die Fäden für das gefällige Angriffsspiel der Düsseldorfer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	auf	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	Rasen	Rasen	NN	*	*	*	*
+4	zog	ziehen	VVFIN	2	2	2	2
+5	jedoch	jedoch	ADV	*	*	*	*
+6	noch	noch	ADV	*	*	*	*
+7	bis	bis	APPR	*	*	*	*
+8	zur	zu	APPRART	*	*	*	*
+9	Halbzeit	Halbzeit	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Tschechoslowake	Tschechoslowake	NN	*	*	*	*
+12	Petr	Petr	NE	*	*	*	*
+13	Rada	Rada	NE	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	für	für	APPR	*	*	*	*
+17	das	die	ART	*	*	*	*
+18	gefällige	gefällig	ADJA	*	*	*	*
+19	Angriffsspiel	Angriffsspiel	NN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Düsseldorfer	Düsseldorfer	NN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T890805.80
+# text = A " - Institute ziehen die Fäden im Hintergrund , bereiten vor , indem sie Expertisen auch schon mal detektivistisch erarbeiten , warnen im Zweifel , sind aber auch genauso um strategischen Rat gefragt , wenn eine Unternehmensleitung Abwehrschlachten schlagen muß gegen eine " feindliche Übernahme " durch einen Dritten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	A	A	NN	*	*	*	*
+2	"	"	$(	*	*	*	*
+3	-	-	$(	*	*	*	*
+4	Institute	Institut	NN	*	*	*	*
+5	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+6	die	die	ART	*	*	*	*
+7	Fäden	Faden	NN	2	2	2	2
+8	im	in	APPRART	*	*	*	*
+9	Hintergrund	Hintergrund	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	bereiten	bereiten	VVFIN	*	*	*	*
+12	vor	vor	PTKVZ	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	indem	indem	KOUS	*	*	*	*
+15	sie	sie	PPER	*	*	*	*
+16	Expertisen	Expertise	NN	*	*	*	*
+17	auch	auch	ADV	*	*	*	*
+18	schon	schon	ADV	*	*	*	*
+19	mal	mal	ADV	*	*	*	*
+20	detektivistisch	<unknown>	ADJD	*	*	*	*
+21	erarbeiten	erarbeiten	VVINF	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	warnen	warnen	VVFIN	*	*	*	*
+24	im	in	APPRART	*	*	*	*
+25	Zweifel	Zweifel	NN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	sind	sein	VAFIN	*	*	*	*
+28	aber	aber	ADV	*	*	*	*
+29	auch	auch	ADV	*	*	*	*
+30	genauso	genauso	ADV	*	*	*	*
+31	um	um	APPR	*	*	*	*
+32	strategischen	strategisch	ADJA	*	*	*	*
+33	Rat	Rat	NN	*	*	*	*
+34	gefragt	fragen	VVPP	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	wenn	wenn	KOUS	*	*	*	*
+37	eine	eine	ART	*	*	*	*
+38	Unternehmensleitung	Unternehmensleitung	NN	*	*	*	*
+39	Abwehrschlachten	Abwehrschlacht	NN	*	*	*	*
+40	schlagen	schlagen	VVINF	*	*	*	*
+41	muß	müssen	VMFIN	*	*	*	*
+42	gegen	gegen	APPR	*	*	*	*
+43	eine	eine	ART	*	*	*	*
+44	"	"	$(	*	*	*	*
+45	feindliche	feindlich	ADJA	*	*	*	*
+46	Übernahme	Übernahme	NN	*	*	*	*
+47	"	"	$(	*	*	*	*
+48	durch	durch	APPR	*	*	*	*
+49	einen	eine	ART	*	*	*	*
+50	Dritten	Dritte	NN	*	*	*	*
+51	.	.	$.	*	*	*	*
+
+# article_id = T890225.63
+# text = Die christdemokratischen Parteifürsten und Sozialistenchef Craxi waren noch dabei , hinter den Kulissen diskret die Fäden für einen möglichst tiefen , aber gleichzeitig eleganten Sturz des von ihnen ungeliebten DC - Chefs Ciriaco De Mita zu ziehen , da platzte ' L'Unita ` mit der Schlagzeile heraus : " Hat sich De Mita an den Geldern für Erdbebenopfer bereichert ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	christdemokratischen	christdemokratisch	ADJA	*	*	*	*
+3	Parteifürsten	Parteifürst	NN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	Sozialistenchef	Sozialistenchef	NN	*	*	*	*
+6	Craxi	<unknown>	NN	*	*	*	*
+7	waren	sein	VAFIN	*	*	*	*
+8	noch	noch	ADV	*	*	*	*
+9	dabei	dabei	PAV	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	hinter	hinter	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Kulissen	Kulisse	NN	*	*	*	*
+14	diskret	diskret	ADJD	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Fäden	Faden	NN	2	2	2	2
+17	für	für	APPR	*	*	*	*
+18	einen	eine	ART	*	*	*	*
+19	möglichst	möglichst	ADV	*	*	*	*
+20	tiefen	tief	ADJA	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	aber	aber	ADV	*	*	*	*
+23	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
+24	eleganten	elegant	ADJA	*	*	*	*
+25	Sturz	Sturz	NN	*	*	*	*
+26	des	die	ART	*	*	*	*
+27	von	von	APPR	*	*	*	*
+28	ihnen	sie	PPER	*	*	*	*
+29	ungeliebten	ungeliebt	ADJA	*	*	*	*
+30	DC	DC	NE	*	*	*	*
+31	-	-	$(	*	*	*	*
+32	Chefs	Chef	NN	*	*	*	*
+33	Ciriaco	<unknown>	NE	*	*	*	*
+34	De	De	NE	*	*	*	*
+35	Mita	<unknown>	NN	*	*	*	*
+36	zu	zu	PTKZU	*	*	*	*
+37	ziehen	ziehen	VVINF	2	2	2	2
+38	,	,	$,	*	*	*	*
+39	da	da	ADV	*	*	*	*
+40	platzte	platzen	VVFIN	*	*	*	*
+41	'	'	$(	*	*	*	*
+42	L'Unita	<unknown>	NE	*	*	*	*
+43	`	`	$(	*	*	*	*
+44	mit	mit	APPR	*	*	*	*
+45	der	die	ART	*	*	*	*
+46	Schlagzeile	Schlagzeile	NN	*	*	*	*
+47	heraus	heraus	PTKVZ	*	*	*	*
+48	:	:	$.	*	*	*	*
+49	"	"	$(	*	*	*	*
+50	Hat	haben	VAFIN	*	*	*	*
+51	sich	sich	PRF	*	*	*	*
+52	De	De	NE	*	*	*	*
+53	Mita	<unknown>	NE	*	*	*	*
+54	an	an	APPR	*	*	*	*
+55	den	die	ART	*	*	*	*
+56	Geldern	Geld	NN	*	*	*	*
+57	für	für	APPR	*	*	*	*
+58	Erdbebenopfer	Erdbebenopfer	NN	*	*	*	*
+59	bereichert	bereichern	VVPP	*	*	*	*
+60	?	?	$.	*	*	*	*
+
+# article_id = T910603.188
+# text = In den Fünfzigern und Sechzigern wurde in Griechenland die Vereinigte Demokratische Linke ( EDA ) aufgebaut , die im Grunde die legale Organisation der damals illegalen Kommunistischen Partei darstellte , deren Führung aus dem sozialistischen Ausland die Fäden zog , also wiederum vollkommen undemokratisch Beschlüsse faßte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Fünfzigern	fünfziger	NN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	Sechzigern	sechziger	NN	*	*	*	*
+6	wurde	werden	VAFIN	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Griechenland	Griechenland	NE	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Vereinigte	Vereinigte	ADJA	*	*	*	*
+11	Demokratische	<unknown>	NN	*	*	*	*
+12	Linke	Linke	NN	*	*	*	*
+13	(	(	$(	*	*	*	*
+14	EDA	EDA	NE	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	aufgebaut	aufbauen	VVPP	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	die	die	PRELS	*	*	*	*
+19	im	in	APPRART	*	*	*	*
+20	Grunde	Grund	NN	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	legale	legal	ADJA	*	*	*	*
+23	Organisation	Organisation	NN	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	damals	damals	ADV	*	*	*	*
+26	illegalen	illegal	ADJA	*	*	*	*
+27	Kommunistischen	kommunistisch	ADJA	*	*	*	*
+28	Partei	Partei	NN	*	*	*	*
+29	darstellte	darstellen	VVFIN	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	deren	die	PRELAT	*	*	*	*
+32	Führung	Führung	NN	*	*	*	*
+33	aus	aus	APPR	*	*	*	*
+34	dem	die	ART	*	*	*	*
+35	sozialistischen	sozialistisch	ADJA	*	*	*	*
+36	Ausland	Ausland	NN	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Fäden	Faden	NN	2	2	2	2
+39	zog	ziehen	VVFIN	2	2	2	2
+40	,	,	$,	*	*	*	*
+41	also	also	ADV	*	*	*	*
+42	wiederum	wiederum	ADV	*	*	*	*
+43	vollkommen	vollkommen	ADJD	*	*	*	*
+44	undemokratisch	undemokratisch	ADJD	*	*	*	*
+45	Beschlüsse	Beschluss	NN	*	*	*	*
+46	faßte	fassen	VVFIN	*	*	*	*
+47	.	.	$.	*	*	*	*
+
+# article_id = T910119.112
+# text = Während seiner gesamten politischen Laufbahn hielt er sich stets im Hintergrund : als Mann , der im Apparat die Fäden zog , und als beamteter Aufpasser für seine Vorleute - erst Genscher , dann Engelhard .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	APPR	*	*	*	*
+2	seiner	sein	PPOSAT	*	*	*	*
+3	gesamten	gesamt	ADJA	*	*	*	*
+4	politischen	politisch	ADJA	*	*	*	*
+5	Laufbahn	Laufbahn	NN	*	*	*	*
+6	hielt	halten	VVFIN	*	*	*	*
+7	er	er	PPER	*	*	*	*
+8	sich	sich	PRF	*	*	*	*
+9	stets	stets	ADV	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	Hintergrund	Hintergrund	NN	*	*	*	*
+12	:	:	$.	*	*	*	*
+13	als	als	KOKOM	*	*	*	*
+14	Mann	Mann	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	der	die	PRELS	*	*	*	*
+17	im	in	APPRART	*	*	*	*
+18	Apparat	Apparat	NN	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Fäden	Faden	NN	2	2	2	2
+21	zog	ziehen	VVFIN	2	2	2	2
+22	,	,	$,	*	*	*	*
+23	und	und	KON	*	*	*	*
+24	als	als	KOKOM	*	*	*	*
+25	beamteter	beamtet	ADJA	*	*	*	*
+26	Aufpasser	Aufpasser	NN	*	*	*	*
+27	für	für	APPR	*	*	*	*
+28	seine	sein	PPOSAT	*	*	*	*
+29	Vorleute	<unknown>	NN	*	*	*	*
+30	-	-	$(	*	*	*	*
+31	erst	erst	ADV	*	*	*	*
+32	Genscher	Genscher	NE	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	dann	dann	ADV	*	*	*	*
+35	Engelhard	Engelhard	NE	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T910112.54
+# text = Die Bordellbrüder Beker , denen die Staatsanwaltschaft Steuerhinterziehung im großen Stil , die Bildung einer kriminellen Vereinigung und die Organisation illegaler Glücksspiele vorwirft , zogen in den 70er und 80er Jahren in der Frankfurter Unterwelt mit die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Bordellbrüder	Bordellbruder	NN	*	*	*	*
+3	Beker	<unknown>	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	denen	die	PRELS	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Staatsanwaltschaft	Staatsanwaltschaft	NN	*	*	*	*
+8	Steuerhinterziehung	Steuerhinterziehung	NN	*	*	*	*
+9	im	in	APPRART	*	*	*	*
+10	großen	groß	ADJA	*	*	*	*
+11	Stil	Stil	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Bildung	Bildung	NN	*	*	*	*
+15	einer	eine	ART	*	*	*	*
+16	kriminellen	kriminell	ADJA	*	*	*	*
+17	Vereinigung	Vereinigung	NN	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Organisation	Organisation	NN	*	*	*	*
+21	illegaler	illegal	ADJA	*	*	*	*
+22	Glücksspiele	Glücksspiel	NN	*	*	*	*
+23	vorwirft	vorwerfen	VVFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	zogen	ziehen	VVFIN	2	2	2	2
+26	in	in	APPR	*	*	*	*
+27	den	die	ART	*	*	*	*
+28	70er	70er	ADJA	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	80er	80er	ADJA	*	*	*	*
+31	Jahren	Jahr	NN	*	*	*	*
+32	in	in	APPR	*	*	*	*
+33	der	die	ART	*	*	*	*
+34	Frankfurter	Frankfurter	ADJA	*	*	*	*
+35	Unterwelt	Unterwelt	NN	*	*	*	*
+36	mit	mit	APPR	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Fäden	Faden	NN	2	2	2	2
+39	.	.	$.	*	*	*	*
+
+# article_id = T910118.213
+# text = Wahrhaft spannend gestaltete sich die Inspektion aber erst , als einer von uns beiden auf die Idee kam , einzelne Fäden nach unten zu ziehen um sie dann plötzlich loszulassen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wahrhaft	wahrhaft	ADJD	*	*	*	*
+2	spannend	spannend	ADJD	*	*	*	*
+3	gestaltete	gestalten	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Inspektion	Inspektion	NN	*	*	*	*
+7	aber	aber	ADV	*	*	*	*
+8	erst	erst	ADV	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	als	als	KOUS	*	*	*	*
+11	einer	eine	PIS	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	uns	wir	PPER	*	*	*	*
+14	beiden	beide	PIAT	*	*	*	*
+15	auf	auf	APPR	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Idee	Idee	NN	*	*	*	*
+18	kam	kommen	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	einzelne	einzeln	ADJA	*	*	*	*
+21	Fäden	Faden	NN	1	2	1	1
+22	nach	nach	APPR	*	*	*	*
+23	unten	unten	ADV	*	*	*	*
+24	zu	zu	PTKZU	*	*	*	*
+25	ziehen	ziehen	VVINF	1	2	1	1
+26	um	um	APPR	*	*	*	*
+27	sie	sie	PPER	*	*	*	*
+28	dann	dann	ADV	*	*	*	*
+29	plötzlich	plötzlich	ADJD	*	*	*	*
+30	loszulassen	loslassen	VVIZU	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T910416.107
+# text = Daß auch die Mannschaft am vergangenen Sonnabend beim Jahrhundertdebakel gegen den HSV ( 0:6 ) gegen den Trainer spielte , ist Beleg dafür , daß der mit Werbe- und Anlageverträgen handelnde Gerster , dem per Vereinsbeschluß die Einmischung in die Belange der Lizenspieler- Abteilung untersagt worden war , seit Möllers Wechsel zur Eintracht dort die Fäden zog und das Präsidium nach Belieben unter Druck setzte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	auch	auch	ADV	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Mannschaft	Mannschaft	NN	*	*	*	*
+5	am	an	APPRART	*	*	*	*
+6	vergangenen	vergangen	ADJA	*	*	*	*
+7	Sonnabend	Sonnabend	NN	*	*	*	*
+8	beim	bei	APPRART	*	*	*	*
+9	Jahrhundertdebakel	<unknown>	NN	*	*	*	*
+10	gegen	gegen	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	HSV	HSV	NE	*	*	*	*
+13	(	(	$(	*	*	*	*
+14	0:6	@card@	CARD	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	gegen	gegen	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Trainer	Trainer	NN	*	*	*	*
+19	spielte	spielen	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	ist	sein	VAFIN	*	*	*	*
+22	Beleg	Beleg	NN	*	*	*	*
+23	dafür	dafür	PAV	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	daß	dass	KOUS	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	mit	mit	APPR	*	*	*	*
+28	Werbe-	Werbe-	TRUNC	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	Anlageverträgen	<unknown>	NN	*	*	*	*
+31	handelnde	handelnd	ADJA	*	*	*	*
+32	Gerster	<unknown>	NN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	dem	die	PRELS	*	*	*	*
+35	per	per	APPR	*	*	*	*
+36	Vereinsbeschluß	<unknown>	NN	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Einmischung	Einmischung	NN	*	*	*	*
+39	in	in	APPR	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	Belange	Belang	NN	*	*	*	*
+42	der	die	ART	*	*	*	*
+43	Lizenspieler-	<unknown>	TRUNC	*	*	*	*
+44	Abteilung	Abteilung	NN	*	*	*	*
+45	untersagt	untersagen	VVPP	*	*	*	*
+46	worden	werden	VAPP	*	*	*	*
+47	war	sein	VAFIN	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	seit	seit	APPR	*	*	*	*
+50	Möllers	Möller	NE	*	*	*	*
+51	Wechsel	Wechsel	NN	*	*	*	*
+52	zur	zu	APPRART	*	*	*	*
+53	Eintracht	Eintracht	NN	*	*	*	*
+54	dort	dort	ADV	*	*	*	*
+55	die	die	ART	*	*	*	*
+56	Fäden	Faden	NN	2	2	2	2
+57	zog	ziehen	VVFIN	2	2	2	2
+58	und	und	KON	*	*	*	*
+59	das	die	ART	*	*	*	*
+60	Präsidium	Präsidium	NN	*	*	*	*
+61	nach	nach	APPR	*	*	*	*
+62	Belieben	Belieben	NN	*	*	*	*
+63	unter	unter	APPR	*	*	*	*
+64	Druck	Druck	NN	*	*	*	*
+65	setzte	setzen	VVFIN	*	*	*	*
+66	.	.	$.	*	*	*	*
+
+# article_id = T910413.201
+# text = Denn die Fäden für das Jugendwerk würden vor allem von den zuständigen Ministerien , in diesem Fall das Bundesaußenministerium und das Bundesministerium für Jugend , Frauen und Familie , gezogen - und die haben bereits einen Vertragsentwurf ausgearbeitet .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Fäden	Faden	NN	2	2	2	2
+4	für	für	APPR	*	*	*	*
+5	das	die	ART	*	*	*	*
+6	Jugendwerk	Jugendwerk	NN	*	*	*	*
+7	würden	werden	VAFIN	*	*	*	*
+8	vor	vor	APPR	*	*	*	*
+9	allem	alle	PIS	*	*	*	*
+10	von	von	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	zuständigen	zuständig	ADJA	*	*	*	*
+13	Ministerien	Ministerium	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	diesem	dies	PDAT	*	*	*	*
+17	Fall	Fall	NN	*	*	*	*
+18	das	die	ART	*	*	*	*
+19	Bundesaußenministerium	Bundesaußenministerien	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	das	die	ART	*	*	*	*
+22	Bundesministerium	Bundesministerien	NN	*	*	*	*
+23	für	für	APPR	*	*	*	*
+24	Jugend	Jugend	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	Frauen	Frau	NN	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	Familie	Familie	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	gezogen	ziehen	VVPP	2	2	2	2
+31	-	-	$(	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	die	die	PDS	*	*	*	*
+34	haben	haben	VAFIN	*	*	*	*
+35	bereits	bereits	ADV	*	*	*	*
+36	einen	eine	ART	*	*	*	*
+37	Vertragsentwurf	Vertragsentwurf	NN	*	*	*	*
+38	ausgearbeitet	ausarbeiten	VVPP	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T910702.66
+# text = Deng war viel zu klug , als daß er jemals selbst die Parteiführung übernommen hätte ; er zog es vielmehr vor , im Hintergrund aus einer Position der Macht die Fäden zu ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Deng	<unknown>	ADJD	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	viel	viel	ADV	*	*	*	*
+4	zu	zu	PTKA	*	*	*	*
+5	klug	klug	ADJD	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	als	als	KOKOM	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	er	er	PPER	*	*	*	*
+10	jemals	jemals	ADV	*	*	*	*
+11	selbst	selbst	ADV	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Parteiführung	Parteiführung	NN	*	*	*	*
+14	übernommen	übernehmen	VVPP	*	*	*	*
+15	hätte	haben	VAFIN	*	*	*	*
+16	;	;	$.	*	*	*	*
+17	er	er	PPER	*	*	*	*
+18	zog	ziehen	VVFIN	*	*	*	*
+19	es	es	PPER	*	*	*	*
+20	vielmehr	vielmehr	ADV	*	*	*	*
+21	vor	vor	PTKVZ	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	im	in	APPRART	*	*	*	*
+24	Hintergrund	Hintergrund	NN	*	*	*	*
+25	aus	aus	APPR	*	*	*	*
+26	einer	eine	ART	*	*	*	*
+27	Position	Position	NN	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Macht	Macht	NN	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	Fäden	Faden	NN	2	2	2	2
+32	zu	zu	PTKZU	*	*	*	*
+33	ziehen	ziehen	VVINF	2	2	2	2
+34	.	.	$.	*	*	*	*
+
+# article_id = T910311.42
+# text = Der designierte Ministerpräsident Hans Eichel ( SPD ) und Joschka Fischer ( Grüne ) hatten nach Abschluß der sechswöchigen Verhandlungen zur Koalitionspressekonferenz nach Wiesbaden geladen - und der kommende stellvertretende Ministerpräsident Fischer darf wunschgemäß in Hessen und in Bonn die politischen Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	designierte	designiert	ADJA	*	*	*	*
+3	Ministerpräsident	Ministerpräsident	NN	*	*	*	*
+4	Hans	Hans	NE	*	*	*	*
+5	Eichel	Eichel	NN	*	*	*	*
+6	(	(	$(	*	*	*	*
+7	SPD	SPD	NE	*	*	*	*
+8	)	)	$(	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Joschka	Joschka	NE	*	*	*	*
+11	Fischer	Fischer	NE	*	*	*	*
+12	(	(	$(	*	*	*	*
+13	Grüne	Grüne	NN	*	*	*	*
+14	)	)	$(	*	*	*	*
+15	hatten	haben	VAFIN	*	*	*	*
+16	nach	nach	APPR	*	*	*	*
+17	Abschluß	Abschluss	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	sechswöchigen	sechswöchig	ADJA	*	*	*	*
+20	Verhandlungen	Verhandlung	NN	*	*	*	*
+21	zur	zu	APPRART	*	*	*	*
+22	Koalitionspressekonferenz	Koalitionspressekonferenz	NN	*	*	*	*
+23	nach	nach	APPR	*	*	*	*
+24	Wiesbaden	Wiesbaden	NE	*	*	*	*
+25	geladen	laden	VVPP	*	*	*	*
+26	-	-	$(	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	kommende	kommend	ADJA	*	*	*	*
+30	stellvertretende	stellvertretend	ADJA	*	*	*	*
+31	Ministerpräsident	Ministerpräsident	NN	*	*	*	*
+32	Fischer	Fischer	NE	*	*	*	*
+33	darf	dürfen	VMFIN	*	*	*	*
+34	wunschgemäß	wunschgemäß	ADJD	*	*	*	*
+35	in	in	APPR	*	*	*	*
+36	Hessen	Hessen	NE	*	*	*	*
+37	und	und	KON	*	*	*	*
+38	in	in	APPR	*	*	*	*
+39	Bonn	Bonn	NE	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	politischen	politisch	ADJA	*	*	*	*
+42	Fäden	Faden	NN	2	2	2	2
+43	ziehen	ziehen	VVINF	2	2	2	2
+44	.	.	$.	*	*	*	*
+
+# article_id = T910309.71
+# text = Am ehesten überleben diejenigen , die am meisten Fäden ziehen können .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Am	am	PTKA	*	*	*	*
+2	ehesten	ehesten	ADJD	*	*	*	*
+3	überleben	überleben	VVFIN	*	*	*	*
+4	diejenigen	diejenigen	PDS	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	die	die	PRELS	*	*	*	*
+7	am	an	APPRART	*	*	*	*
+8	meisten	meist	PIAT	*	*	*	*
+9	Fäden	Faden	NN	2	2	2	2
+10	ziehen	ziehen	VVINF	2	2	2	2
+11	können	können	VMINF	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T911104.219
+# text = Der Pferdehändler und Willi Lemke Vor-Vorgänger Hansi Wolff zog als Geschäftsführer von 1945 bis 1975 die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Pferdehändler	Pferdehändler	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	Willi	Willi	NE	*	*	*	*
+5	Lemke	<unknown>	NE	*	*	*	*
+6	Vor-Vorgänger	Vor-Vorgänger	NN	*	*	*	*
+7	Hansi	Hansi	NE	*	*	*	*
+8	Wolff	Wolff	NE	*	*	*	*
+9	zog	ziehen	VVFIN	2	2	2	2
+10	als	als	KOKOM	*	*	*	*
+11	Geschäftsführer	Geschäftsführer	NN	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	1945	@card@	CARD	*	*	*	*
+14	bis	bis	KON	*	*	*	*
+15	1975	@card@	CARD	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Fäden	Faden	NN	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T911111.29
+# text = Da habe " der Himmel die Fäden " gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	habe	haben	VAFIN	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Himmel	Himmel	NN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Fäden	Faden	NN	2	2	2	2
+8	"	"	$(	*	*	*	*
+9	gezogen	ziehen	VVPP	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T910222.273
+# text = Statt in verstaubten Bibliotheken ein Idyll der Harmonie zu pinseln , tummelte Marlowe sich lieber in den dunkeln Gassen Englands , gab sich atheistisch und zog als Spion staatspolitische Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Statt	statt	APPR	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	verstaubten	verstaubt	ADJA	*	*	*	*
+4	Bibliotheken	Bibliothek	NN	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	Idyll	Idyll	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Harmonie	Harmonie	NN	*	*	*	*
+9	zu	zu	PTKZU	*	*	*	*
+10	pinseln	pinseln	VVINF	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	tummelte	tummeln	VVFIN	*	*	*	*
+13	Marlowe	<unknown>	NE	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	lieber	lieb	ADJD	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	dunkeln	dunkeln	VVFIN	*	*	*	*
+19	Gassen	Gasse	NN	*	*	*	*
+20	Englands	England	NN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	gab	geben	VVFIN	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	atheistisch	atheistisch	ADJD	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	zog	ziehen	VVFIN	2	2	2	2
+27	als	als	KOKOM	*	*	*	*
+28	Spion	Spion	NN	*	*	*	*
+29	staatspolitische	staatspolitisch	ADJA	*	*	*	*
+30	Fäden	Faden	NN	2	2	2	2
+31	.	.	$.	*	*	*	*
+
+# article_id = T910214.98
+# text = Ob nun von der " Wall Street " aus global die Fäden gezogen wurden oder die internationale zionistische Konspiration ihr dunkles Spiel trieb oder beides auf einmal - stets war der Verschwörungsmythos zur Hand , wenn es galt , Verantwortung für die Krise " nach außen " abzuwälzen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ob	ob	KOUS	*	*	*	*
+2	nun	nun	ADV	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Wall	Wall	NE	*	*	*	*
+7	Street	Street	NE	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	aus	aus	APPR	*	*	*	*
+10	global	global	ADJD	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Fäden	Faden	NN	2	2	2	2
+13	gezogen	ziehen	VVPP	2	2	2	2
+14	wurden	werden	VAFIN	*	*	*	*
+15	oder	oder	KON	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	internationale	international	ADJA	*	*	*	*
+18	zionistische	<unknown>	ADJA	*	*	*	*
+19	Konspiration	Konspiration	NN	*	*	*	*
+20	ihr	ihr	PPOSAT	*	*	*	*
+21	dunkles	dunkel	ADJA	*	*	*	*
+22	Spiel	Spiel	NN	*	*	*	*
+23	trieb	treiben	VVFIN	*	*	*	*
+24	oder	oder	KON	*	*	*	*
+25	beides	beide	PIS	*	*	*	*
+26	auf	auf	APPR	*	*	*	*
+27	einmal	einmal	ADV	*	*	*	*
+28	-	-	$(	*	*	*	*
+29	stets	stets	ADV	*	*	*	*
+30	war	sein	VAFIN	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	Verschwörungsmythos	Verschwörungsmythos	NN	*	*	*	*
+33	zur	zu	APPRART	*	*	*	*
+34	Hand	Hand	NN	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	wenn	wenn	KOUS	*	*	*	*
+37	es	es	PPER	*	*	*	*
+38	galt	gelten	VVFIN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	Verantwortung	Verantwortung	NN	*	*	*	*
+41	für	für	APPR	*	*	*	*
+42	die	die	ART	*	*	*	*
+43	Krise	Krise	NN	*	*	*	*
+44	"	"	$(	*	*	*	*
+45	nach	nach	APPR	*	*	*	*
+46	außen	außen	ADV	*	*	*	*
+47	"	"	$(	*	*	*	*
+48	abzuwälzen	abwälzen	VVIZU	*	*	*	*
+49	.	.	$.	*	*	*	*
+
+# article_id = T901012.103
+# text = Seine erste Begegnung mit Johannes R. Becher , dem alten Genossen , der jetzt Präsident des Kulturbundes war und in der stacheldrahtbewehrten Funktionärssiedlung am Rande Pankows in unmittelbarer Nähe der SED-Gewaltigen Ulbricht , Pieck , Grotewohl und Dahlem residierte , zeigte dem parteitreuen Emigranten und Spätheimkehrer , daß die wichtigsten Plätze schon besetzt waren - von der " Gruppe Ulbricht " , die von Moskau aus die Fäden gezogen hatte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seine	sein	PPOSAT	*	*	*	*
+2	erste	erst	ADJA	*	*	*	*
+3	Begegnung	Begegnung	NN	*	*	*	*
+4	mit	mit	APPR	*	*	*	*
+5	Johannes	Johannes	NE	*	*	*	*
+6	R.	R.	NE	*	*	*	*
+7	Becher	Becher	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	alten	alt	ADJA	*	*	*	*
+11	Genossen	Genosse	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	der	die	PRELS	*	*	*	*
+14	jetzt	jetzt	ADV	*	*	*	*
+15	Präsident	Präsident	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	Kulturbundes	Kulturbund	NN	*	*	*	*
+18	war	sein	VAFIN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	stacheldrahtbewehrten	stacheldrahtbewehrt	ADJA	*	*	*	*
+23	Funktionärssiedlung	Funktionärssiedlung	NN	*	*	*	*
+24	am	an	APPRART	*	*	*	*
+25	Rande	Rand	NN	*	*	*	*
+26	Pankows	<unknown>	NN	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	unmittelbarer	unmittelbar	ADJA	*	*	*	*
+29	Nähe	Nähe	NN	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	SED-Gewaltigen	<unknown>	NN	*	*	*	*
+32	Ulbricht	Ulbricht	NE	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	Pieck	Pieck	NE	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	Grotewohl	Grotewohl	NE	*	*	*	*
+37	und	und	KON	*	*	*	*
+38	Dahlem	<unknown>	NE	*	*	*	*
+39	residierte	residieren	VVFIN	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	zeigte	zeigen	VVFIN	*	*	*	*
+42	dem	die	ART	*	*	*	*
+43	parteitreuen	parteitreu	ADJA	*	*	*	*
+44	Emigranten	Emigrant	NN	*	*	*	*
+45	und	und	KON	*	*	*	*
+46	Spätheimkehrer	Spätheimkehrer	NN	*	*	*	*
+47	,	,	$,	*	*	*	*
+48	daß	dass	KOUS	*	*	*	*
+49	die	die	ART	*	*	*	*
+50	wichtigsten	wichtig	ADJA	*	*	*	*
+51	Plätze	Platz	NN	*	*	*	*
+52	schon	schon	ADV	*	*	*	*
+53	besetzt	besetzen	VVPP	*	*	*	*
+54	waren	sein	VAFIN	*	*	*	*
+55	-	-	$(	*	*	*	*
+56	von	von	APPR	*	*	*	*
+57	der	die	ART	*	*	*	*
+58	"	"	$(	*	*	*	*
+59	Gruppe	Gruppe	NN	*	*	*	*
+60	Ulbricht	Ulbricht	NE	*	*	*	*
+61	"	"	$(	*	*	*	*
+62	,	,	$,	*	*	*	*
+63	die	die	PRELS	*	*	*	*
+64	von	von	APPR	*	*	*	*
+65	Moskau	Moskau	NE	*	*	*	*
+66	aus	aus	APPR	*	*	*	*
+67	die	die	ART	*	*	*	*
+68	Fäden	Faden	NN	2	2	2	2
+69	gezogen	ziehen	VVPP	2	2	2	2
+70	hatte	haben	VAFIN	*	*	*	*
+71	.	.	$.	*	*	*	*
+
+# article_id = T900427.107
+# text = Der Ökonomieprofessor Francisco Mayorga , der den Wirtschaftsplan der neuen Regierung entworfen hat , wird als Zentralbankdirektor die Fäden der Wirtschafts- und Finanzpolitik ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Ökonomieprofessor	Ökonomieprofessor	NN	*	*	*	*
+3	Francisco	Francisco	NE	*	*	*	*
+4	Mayorga	<unknown>	NE	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	der	die	PRELS	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Wirtschaftsplan	Wirtschaftsplan	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	neuen	neu	ADJA	*	*	*	*
+11	Regierung	Regierung	NN	*	*	*	*
+12	entworfen	entwerfen	VVPP	*	*	*	*
+13	hat	haben	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	wird	werden	VAFIN	*	*	*	*
+16	als	als	KOKOM	*	*	*	*
+17	Zentralbankdirektor	<unknown>	NN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Fäden	Faden	NN	2	2	2	2
+20	der	die	ART	*	*	*	*
+21	Wirtschafts-	Wirtschafts-	TRUNC	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	Finanzpolitik	Finanzpolitik	NN	*	*	*	*
+24	ziehen	ziehen	VVINF	2	2	2	2
+25	.	.	$.	*	*	*	*
+
+# article_id = T900426.79
+# text = Wir achten aber in unserem Amt darauf , daß niemand eingestellt wird , der als Stratege in der Wirtschaft oder Verwaltung bei der Entwicklung marktbeherrschender Strukturen die Fäden gezogen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wir	wir	PPER	*	*	*	*
+2	achten	achten	VVFIN	*	*	*	*
+3	aber	aber	ADV	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	unserem	unser	PPOSAT	*	*	*	*
+6	Amt	Amt	NN	*	*	*	*
+7	darauf	darauf	PAV	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	daß	dass	KOUS	*	*	*	*
+10	niemand	niemand	PIS	*	*	*	*
+11	eingestellt	einstellen	VVPP	*	*	*	*
+12	wird	werden	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	der	die	PRELS	*	*	*	*
+15	als	als	KOKOM	*	*	*	*
+16	Stratege	Stratege	NN	*	*	*	*
+17	in	in	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Wirtschaft	Wirtschaft	NN	*	*	*	*
+20	oder	oder	KON	*	*	*	*
+21	Verwaltung	Verwaltung	NN	*	*	*	*
+22	bei	bei	APPR	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Entwicklung	Entwicklung	NN	*	*	*	*
+25	marktbeherrschender	marktbeherrschend	ADJA	*	*	*	*
+26	Strukturen	Struktur	NN	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Fäden	Faden	NN	2	2	2	2
+29	gezogen	ziehen	VVPP	2	2	2	2
+30	hat	haben	VAFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T900809.111
+# text = Entsprechend auch Albert Scharf , dem Vorsitzenden der EBU ( European Broadcasting-Union ) , der mit unbestrittener Kompetenz weltweit Fäden zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Entsprechend	entsprechend	ADJD	*	*	*	*
+2	auch	auch	ADV	*	*	*	*
+3	Albert	Albert	NE	*	*	*	*
+4	Scharf	scharf	ADJD	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	Vorsitzenden	Vorsitzende	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	EBU	EBU	NE	*	*	*	*
+10	(	(	$(	*	*	*	*
+11	European	European	NE	*	*	*	*
+12	Broadcasting-Union	<unknown>	NE	*	*	*	*
+13	)	)	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	der	die	PRELS	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	unbestrittener	unbestritten	ADJA	*	*	*	*
+18	Kompetenz	Kompetenz	NN	*	*	*	*
+19	weltweit	weltweit	ADJD	*	*	*	*
+20	Fäden	Faden	NN	2	2	2	2
+21	zog	ziehen	VVFIN	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T900312.114
+# text = Mit Bärenruhe zog er die Fäden vor dem gegnerischen Kreis und nicht einmal ein brutales , von den Schiedsrichtern ungeahndetes " Nußknackerfoul " ( DDR-Fernsehkommentator ) , bei dem zwei sowjetische Abwehrspieler in einer Art Pogo-Einlage wuchtig mit den Schultern gegeneinander sprangen , während sich der arme Olsson genau zwischen ihnen befand , konnte ihn dauerhaft lahmlegen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	Bärenruhe	Bärenruhe	NN	*	*	*	*
+3	zog	ziehen	VVFIN	2	2	2	2
+4	er	er	PPER	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Fäden	Faden	NN	2	2	2	2
+7	vor	vor	APPR	*	*	*	*
+8	dem	die	ART	*	*	*	*
+9	gegnerischen	gegnerisch	ADJA	*	*	*	*
+10	Kreis	Kreis	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	einmal	einmal	ADV	*	*	*	*
+14	ein	eine	ART	*	*	*	*
+15	brutales	brutal	ADJA	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	von	von	APPR	*	*	*	*
+18	den	die	ART	*	*	*	*
+19	Schiedsrichtern	Schiedsrichtern	NN	*	*	*	*
+20	ungeahndetes	<unknown>	ADJA	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	Nußknackerfoul	<unknown>	NN	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	(	(	$(	*	*	*	*
+25	DDR-Fernsehkommentator	DDR-Fernsehkommentator	NN	*	*	*	*
+26	)	)	$(	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	bei	bei	APPR	*	*	*	*
+29	dem	die	PRELS	*	*	*	*
+30	zwei	zwei	CARD	*	*	*	*
+31	sowjetische	sowjetisch	ADJA	*	*	*	*
+32	Abwehrspieler	Abwehrspieler	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	einer	eine	ART	*	*	*	*
+35	Art	Art	NN	*	*	*	*
+36	Pogo-Einlage	<unknown>	NN	*	*	*	*
+37	wuchtig	wuchtig	ADJD	*	*	*	*
+38	mit	mit	APPR	*	*	*	*
+39	den	die	ART	*	*	*	*
+40	Schultern	Schulter|Schultern	NN	*	*	*	*
+41	gegeneinander	gegeneinander	ADV	*	*	*	*
+42	sprangen	springen	VVFIN	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	während	während	KOUS	*	*	*	*
+45	sich	sich	PRF	*	*	*	*
+46	der	die	ART	*	*	*	*
+47	arme	arm	ADJA	*	*	*	*
+48	Olsson	<unknown>	NN	*	*	*	*
+49	genau	genau	ADJD	*	*	*	*
+50	zwischen	zwischen	APPR	*	*	*	*
+51	ihnen	sie	PPER	*	*	*	*
+52	befand	befinden	VVFIN	*	*	*	*
+53	,	,	$,	*	*	*	*
+54	konnte	können	VMFIN	*	*	*	*
+55	ihn	er	PPER	*	*	*	*
+56	dauerhaft	dauerhaft	ADJD	*	*	*	*
+57	lahmlegen	lahmlegen	VVINF	*	*	*	*
+58	.	.	$.	*	*	*	*
+
+# article_id = T900303.35
+# text = Huber bat Schreiner darin , alle möglichen Fäden zu ziehen , um ihm zu helfen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Huber	Huber	NE	*	*	*	*
+2	bat	bitten	VVFIN	*	*	*	*
+3	Schreiner	Schreiner	NE	*	*	*	*
+4	darin	darin	PAV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	alle	alle	PIAT	*	*	*	*
+7	möglichen	möglich	ADJA	*	*	*	*
+8	Fäden	Faden	NN	2	2	2	2
+9	zu	zu	PTKZU	*	*	*	*
+10	ziehen	ziehen	VVINF	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	um	um	KOUI	*	*	*	*
+13	ihm	er	PPER	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	helfen	helfen	VVINF	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T901108.127
+# text = Der kleine Irrwisch half in der Abwehr aus , zog die Fäden im Mittelfeld , wo der hochgelobte " Maradona der Walachei " , Pavel Padea , diesmal blaß blieb , und wirkte zwischendurch auch mal als einsamer Angreifer , der sich tapfer der dreifachen Borussenübermacht aus Schulz , Gorkukowitsch und Helmer zum Kopfballduell stellte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	kleine	klein	ADJA	*	*	*	*
+3	Irrwisch	Irrwisch	NN	*	*	*	*
+4	half	helfen	VVFIN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Abwehr	Abwehr	NN	*	*	*	*
+8	aus	aus	PTKVZ	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	zog	ziehen	VVFIN	2	2	2	2
+11	die	die	ART	*	*	*	*
+12	Fäden	Faden	NN	2	2	2	2
+13	im	in	APPRART	*	*	*	*
+14	Mittelfeld	Mittelfeld	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	wo	wo	PWAV	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	hochgelobte	hochgelobt	ADJA	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	Maradona	<unknown>	NE	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Walachei	<unknown>	NN	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	Pavel	Pavel	NE	*	*	*	*
+26	Padea	<unknown>	NE	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	diesmal	diesmal	ADV	*	*	*	*
+29	blaß	blass	ADJD	*	*	*	*
+30	blieb	bleiben	VVFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	wirkte	wirken	VVFIN	*	*	*	*
+34	zwischendurch	zwischendurch	ADV	*	*	*	*
+35	auch	auch	ADV	*	*	*	*
+36	mal	mal	ADV	*	*	*	*
+37	als	als	KOKOM	*	*	*	*
+38	einsamer	einsam	ADJA	*	*	*	*
+39	Angreifer	Angreifer	NN	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	der	die	PRELS	*	*	*	*
+42	sich	sich	PRF	*	*	*	*
+43	tapfer	tapfer	ADJD	*	*	*	*
+44	der	die	ART	*	*	*	*
+45	dreifachen	dreifach	ADJA	*	*	*	*
+46	Borussenübermacht	<unknown>	NN	*	*	*	*
+47	aus	aus	APPR	*	*	*	*
+48	Schulz	Schulz	NE	*	*	*	*
+49	,	,	$,	*	*	*	*
+50	Gorkukowitsch	<unknown>	NE	*	*	*	*
+51	und	und	KON	*	*	*	*
+52	Helmer	Helmer	NE	*	*	*	*
+53	zum	zu	APPRART	*	*	*	*
+54	Kopfballduell	Kopfballduell	NN	*	*	*	*
+55	stellte	stellen	VVFIN	*	*	*	*
+56	.	.	$.	*	*	*	*
+
+# article_id = T901115.125
+# text = Dem 28fachen tschechoslowakischen Nationalspieler gelang das , worum sich Anthony Baffoe bei der Fortuna meist vergeblich bemühte : Er zog vom rechten Flügel aus die Fäden , setzte klug seine Mitspieler ein und flankte dann und wann gefährlich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dem	die	ART	*	*	*	*
+2	28fachen	28fach	ADJA	*	*	*	*
+3	tschechoslowakischen	tschechoslowakisch	ADJA	*	*	*	*
+4	Nationalspieler	Nationalspieler	NN	*	*	*	*
+5	gelang	gelingen	VVFIN	*	*	*	*
+6	das	die	PDS	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	worum	worum	PWAV	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	Anthony	Anthony	NE	*	*	*	*
+11	Baffoe	<unknown>	NE	*	*	*	*
+12	bei	bei	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Fortuna	Fortuna	NN	*	*	*	*
+15	meist	meist	ADV	*	*	*	*
+16	vergeblich	vergeblich	ADJD	*	*	*	*
+17	bemühte	bemühen	VVFIN	*	*	*	*
+18	:	:	$.	*	*	*	*
+19	Er	er	PPER	*	*	*	*
+20	zog	ziehen	VVFIN	2	2	2	2
+21	vom	von	APPRART	*	*	*	*
+22	rechten	recht|rechts	ADJA	*	*	*	*
+23	Flügel	Flügel	NN	*	*	*	*
+24	aus	aus	APPR	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Fäden	Faden	NN	2	2	2	2
+27	,	,	$,	*	*	*	*
+28	setzte	setzen	VVFIN	*	*	*	*
+29	klug	klug	ADJD	*	*	*	*
+30	seine	sein	PPOSAT	*	*	*	*
+31	Mitspieler	Mitspieler	NN	*	*	*	*
+32	ein	ein	PTKVZ	*	*	*	*
+33	und	und	KON	*	*	*	*
+34	flankte	<unknown>	VVFIN	*	*	*	*
+35	dann	dann	ADV	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	wann	wann	PWAV	*	*	*	*
+38	gefährlich	gefährlich	ADJD	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T901119.142
+# text = Heute weiß man , daß dieselben Industriellen weiterhin ungebrochen an den Fäden der Macht ziehen konnten und daß die Siegermächte die Entnazifizierungsprozesse eher halbherzig durchführten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Heute	heute	ADV	*	*	*	*
+2	weiß	wissen	VVFIN	*	*	*	*
+3	man	man	PIS	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	dieselben	dieselb	PDAT	*	*	*	*
+7	Industriellen	Industrielle	NN	*	*	*	*
+8	weiterhin	weiterhin	ADV	*	*	*	*
+9	ungebrochen	ungebrochen	ADJD	*	*	*	*
+10	an	an	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Fäden	Faden	NN	2	2	2	2
+13	der	die	ART	*	*	*	*
+14	Macht	Macht	NN	*	*	*	*
+15	ziehen	ziehen	VVINF	2	2	2	2
+16	konnten	können	VMFIN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	daß	dass	KOUS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Siegermächte	Siegermacht	NN	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Entnazifizierungsprozesse	<unknown>	NN	*	*	*	*
+23	eher	eher	ADV	*	*	*	*
+24	halbherzig	halbherzig	ADJD	*	*	*	*
+25	durchführten	durchführen	VVFIN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T920518.62
+# text = Am Ende würden nicht die Ärmsten ihre Geschicke selbst in die Hand nehmen , sondern wieder die Reichen von außen die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	Ende	Ende	NN	*	*	*	*
+3	würden	werden	VAFIN	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Ärmsten	Ärmste	NN	*	*	*	*
+7	ihre	ihr	PPOSAT	*	*	*	*
+8	Geschicke	Geschick	NN	*	*	*	*
+9	selbst	selbst	ADV	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Hand	Hand	NN	*	*	*	*
+13	nehmen	nehmen	VVINF	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	sondern	sondern	KON	*	*	*	*
+16	wieder	wieder	ADV	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Reichen	Reich|Reiche|Reichen	NN	*	*	*	*
+19	von	von	APPR	*	*	*	*
+20	außen	außen	ADV	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Fäden	Faden	NN	2	2	2	2
+23	ziehen	ziehen	VVINF	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T920609.72
+# text = Wenn dann auch noch König Alexander , der von seinem Londoner Exil aus viele Fäden zu ziehen scheint , sich zur Rückkehr nach Serbien entschließen könnte , wäre die Autorität von Milosevic in Serbien selbst erschüttert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	dann	dann	ADV	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	noch	noch	ADV	*	*	*	*
+5	König	König	NE	*	*	*	*
+6	Alexander	Alexander	NE	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	PRELS	*	*	*	*
+9	von	von	APPR	*	*	*	*
+10	seinem	sein	PPOSAT	*	*	*	*
+11	Londoner	Londoner	ADJA	*	*	*	*
+12	Exil	Exil	NN	*	*	*	*
+13	aus	aus	APPR	*	*	*	*
+14	viele	viele	PIAT	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	zu	zu	PTKZU	*	*	*	*
+17	ziehen	ziehen	VVINF	2	2	2	2
+18	scheint	scheinen	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	sich	sich	PRF	*	*	*	*
+21	zur	zu	APPRART	*	*	*	*
+22	Rückkehr	Rückkehr	NN	*	*	*	*
+23	nach	nach	APPR	*	*	*	*
+24	Serbien	Serbien	NE	*	*	*	*
+25	entschließen	entschließen	VVINF	*	*	*	*
+26	könnte	können	VMFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	wäre	sein	VAFIN	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	Autorität	Autorität	NN	*	*	*	*
+31	von	von	APPR	*	*	*	*
+32	Milosevic	<unknown>	NE	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	Serbien	Serbien	NE	*	*	*	*
+35	selbst	selbst	ADV	*	*	*	*
+36	erschüttert	erschüttern	VVPP	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T920623.32
+# text = Er wurde israelischer Botschafter in Washington , wo er die Fäden beim Aufbau der militärischen und politischen Beziehungen zwischen den USA und Israel zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	wurde	werden	VAFIN	*	*	*	*
+3	israelischer	israelisch	ADJA	*	*	*	*
+4	Botschafter	Botschafter	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Washington	Washington	NE	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	wo	wo	PWAV	*	*	*	*
+9	er	er	PPER	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Fäden	Faden	NN	2	2	2	2
+12	beim	bei	APPRART	*	*	*	*
+13	Aufbau	Aufbau	NN	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	militärischen	militärisch	ADJA	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	politischen	politisch	ADJA	*	*	*	*
+18	Beziehungen	Beziehung	NN	*	*	*	*
+19	zwischen	zwischen	APPR	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	USA	USA	NE	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	Israel	Israel	NE	*	*	*	*
+24	zog	ziehen	VVFIN	2	2	2	2
+25	.	.	$.	*	*	*	*
+
+# article_id = T920907.46
+# text = Dafür steht er aber in ständigem Kontakt mit den Herren , die im seriösen Outfit im Hintergrund die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dafür	dafür	PAV	*	*	*	*
+2	steht	stehen	VVFIN	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	aber	aber	ADV	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	ständigem	ständig	ADJA	*	*	*	*
+7	Kontakt	Kontakt	NN	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Herren	Herr	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	im	in	APPRART	*	*	*	*
+14	seriösen	seriös	ADJA	*	*	*	*
+15	Outfit	outfit	ADJD	*	*	*	*
+16	im	in	APPRART	*	*	*	*
+17	Hintergrund	Hintergrund	NN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Fäden	Faden	NN	2	2	2	2
+20	ziehen	ziehen	VVINF	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T920406.43
+# text = Nachdem ehemalige Stasi-Mitarbeiter mehrfach mit widersprüchlichen Aussagen an die Öffentlichkeit getreten sind , könnte das Risiko einer strafbewehrten Falschaussage die früheren Stasi-Mitarbeiter von ihrer Vorstellung abbringen , sie könnten gefahrlos im Hintergrund die Fäden ziehen , indem sie das eine Mal belastende und ein anderes Mal entlastende Angaben machten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nachdem	nachdem	KOUS	*	*	*	*
+2	ehemalige	ehemalig	ADJA	*	*	*	*
+3	Stasi-Mitarbeiter	Stasi-Mitarbeiter	NN	*	*	*	*
+4	mehrfach	mehrfach	ADJD	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	widersprüchlichen	widersprüchlich	ADJA	*	*	*	*
+7	Aussagen	Aussage	NN	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Öffentlichkeit	Öffentlichkeit	NN	*	*	*	*
+11	getreten	treten	VVPP	*	*	*	*
+12	sind	sein	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	könnte	können	VMFIN	*	*	*	*
+15	das	die	ART	*	*	*	*
+16	Risiko	Risiko	NN	*	*	*	*
+17	einer	eine	ART	*	*	*	*
+18	strafbewehrten	strafbewehrt	ADJA	*	*	*	*
+19	Falschaussage	Falschaussage	NN	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	früheren	früh	ADJA	*	*	*	*
+22	Stasi-Mitarbeiter	Stasi-Mitarbeiter	NN	*	*	*	*
+23	von	von	APPR	*	*	*	*
+24	ihrer	ihr	PPOSAT	*	*	*	*
+25	Vorstellung	Vorstellung	NN	*	*	*	*
+26	abbringen	abbringen	VVINF	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	sie	sie	PPER	*	*	*	*
+29	könnten	können	VMFIN	*	*	*	*
+30	gefahrlos	gefahrlos	ADJD	*	*	*	*
+31	im	in	APPRART	*	*	*	*
+32	Hintergrund	Hintergrund	NN	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	Fäden	Faden	NN	2	2	2	2
+35	ziehen	ziehen	VVINF	2	2	2	2
+36	,	,	$,	*	*	*	*
+37	indem	indem	KOUS	*	*	*	*
+38	sie	sie	PPER	*	*	*	*
+39	das	die	PDS	*	*	*	*
+40	eine	eine	ART	*	*	*	*
+41	Mal	Mal	NN	*	*	*	*
+42	belastende	belastend	ADJA	*	*	*	*
+43	und	und	KON	*	*	*	*
+44	ein	eine	ART	*	*	*	*
+45	anderes	andere	PIAT	*	*	*	*
+46	Mal	Mal	NN	*	*	*	*
+47	entlastende	entlastend	ADJA	*	*	*	*
+48	Angaben	Angabe	NN	*	*	*	*
+49	machten	machen	VVFIN	*	*	*	*
+50	.	.	$.	*	*	*	*
+
+# article_id = T920709.27
+# text = " Die Fäden , die früher Moskau zog , zieht heute Brüssel " , sagte Fleischer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Die	die	ART	*	*	*	*
+3	Fäden	Faden	NN	2	2	2	2
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	früher	früher	ADV	*	*	*	*
+7	Moskau	Moskau	NE	*	*	*	*
+8	zog	ziehen	VVFIN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	zieht	zeihen|ziehen	VVFIN	2	2	2	2
+11	heute	heute	ADV	*	*	*	*
+12	Brüssel	Brüssel	NE	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	sagte	sagen	VVFIN	*	*	*	*
+16	Fleischer	Fleischer	NE	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T921211.34
+# text = Neben den in der DDR bereits einschlägig vorbestraften Neonazis Karsten Wolter und Rene Koswig zog insbesondere der von der Bundesregierung 1985 freigekaufte " politische Häftling " Frank Hübner die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Neben	neben	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	DDR	DDR	NE	*	*	*	*
+6	bereits	bereits	ADV	*	*	*	*
+7	einschlägig	einschlägig	ADJD	*	*	*	*
+8	vorbestraften	vorbestraft	ADJA	*	*	*	*
+9	Neonazis	Neonazi	NN	*	*	*	*
+10	Karsten	Karsten	NE	*	*	*	*
+11	Wolter	Wolter	NE	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Rene	Ren	NN	*	*	*	*
+14	Koswig	<unknown>	NE	*	*	*	*
+15	zog	ziehen	VVFIN	2	2	2	2
+16	insbesondere	insbesondere	ADV	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	von	von	APPR	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Bundesregierung	Bundesregierung	NN	*	*	*	*
+21	1985	@card@	CARD	*	*	*	*
+22	freigekaufte	freigekauft	ADJA	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	politische	politisch	ADJA	*	*	*	*
+25	Häftling	Häftling	NN	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	Frank	Frank	NE	*	*	*	*
+28	Hübner	Hübner	NE	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	Fäden	Faden	NN	2	2	2	2
+31	.	.	$.	*	*	*	*
+
+# article_id = T921219.142
+# text = Wie die Fäden im einzelnen gezogen wurden , läßt sich nur vermuten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Fäden	Faden	NN	2	2	2	2
+4	im	in	APPRART	*	*	*	*
+5	einzelnen	einzeln	ADJA	*	*	*	*
+6	gezogen	ziehen	VVPP	2	2	2	2
+7	wurden	werden	VAFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	läßt	lassen	VVFIN	*	*	*	*
+10	sich	sich	PRF	*	*	*	*
+11	nur	nur	ADV	*	*	*	*
+12	vermuten	vermuten	VVINF	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T920815.45
+# text = Der ansonsten um Objektivität bemühte Deutschlandkorrespondent zog gleich den welthistorischen Faden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	ansonsten	ansonsten	ADV	*	*	*	*
+3	um	um	APPR	*	*	*	*
+4	Objektivität	Objektivität	NN	*	*	*	*
+5	bemühte	bemüht	ADJA	*	*	*	*
+6	Deutschlandkorrespondent	Deutschlandkorrespondent	NN	*	*	*	*
+7	zog	ziehen	VVFIN	2	2	2	2
+8	gleich	gleich	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	welthistorischen	welthistorisch	ADJA	*	*	*	*
+11	Faden	Faden	NN	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T920314.54
+# text = Wie sich herausstellte , hatten dazu zwar Rotbrigadisten als Werkzeuge gedient , doch den Großteil der Fäden zogen von Anfang an Geheimdienstler aus Rom , Washington und Tel Aviv .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	herausstellte	herausstellen	VVFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	hatten	haben	VAFIN	*	*	*	*
+6	dazu	dazu	PAV	*	*	*	*
+7	zwar	zwar	ADV	*	*	*	*
+8	Rotbrigadisten	<unknown>	NN	*	*	*	*
+9	als	als	KOKOM	*	*	*	*
+10	Werkzeuge	Werkzeug	NN	*	*	*	*
+11	gedient	dienen	VVPP	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	doch	doch	KON	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Großteil	Großteil	NN	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Fäden	Faden	NN	2	2	2	2
+18	zogen	ziehen	VVFIN	2	2	2	2
+19	von	von	APPR	*	*	*	*
+20	Anfang	Anfang	NN	*	*	*	*
+21	an	an	APPR	*	*	*	*
+22	Geheimdienstler	<unknown>	NN	*	*	*	*
+23	aus	aus	APPR	*	*	*	*
+24	Rom	Rom	NE	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	Washington	Washington	NE	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	Tel	Tel	NE	*	*	*	*
+29	Aviv	Aviv	NE	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T920324.95
+# text = Die Paten und ehrwürdigen Patriarchen - etwa Jacob Moyses oder Abraham Picard ( " Kinder , wenn 's Mitternacht wird , bin ich König " ) , das Haupt der Brabanter Bande - zogen aus dem Hintergrund die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Paten	Pate	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	ehrwürdigen	ehrwürdig	ADJA	*	*	*	*
+5	Patriarchen	Patriarch	NN	*	*	*	*
+6	-	-	$(	*	*	*	*
+7	etwa	etwa	ADV	*	*	*	*
+8	Jacob	Jacob	NE	*	*	*	*
+9	Moyses	<unknown>	NE	*	*	*	*
+10	oder	oder	KON	*	*	*	*
+11	Abraham	Abraham	NE	*	*	*	*
+12	Picard	<unknown>	NE	*	*	*	*
+13	(	(	$(	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	Kinder	Kind	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	wenn	wenn	KOUS	*	*	*	*
+18	's	es	PPER	*	*	*	*
+19	Mitternacht	Mitternacht	NN	*	*	*	*
+20	wird	werden	VAFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	bin	sein	VAFIN	*	*	*	*
+23	ich	ich	PPER	*	*	*	*
+24	König	König	NE	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	)	)	$(	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	das	die	ART	*	*	*	*
+29	Haupt	Haupt	NN	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	Brabanter	<unknown>	ADJA	*	*	*	*
+32	Bande	Bande	NN	*	*	*	*
+33	-	-	$(	*	*	*	*
+34	zogen	ziehen	VVFIN	2	2	2	2
+35	aus	aus	APPR	*	*	*	*
+36	dem	die	ART	*	*	*	*
+37	Hintergrund	Hintergrund	NN	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	Fäden	Faden	NN	2	2	2	2
+40	.	.	$.	*	*	*	*
+
+# article_id = T921102.91
+# text = " Dabei wurden mir erst am Montag die Fäden aus der Schlaghand gezogen , die ich mir an einem Nagel beim Hallenfußball aufgerissen hatte " , freute sich der Berliner Juniorenmeister .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Dabei	dabei	PAV	*	*	*	*
+3	wurden	werden	VAFIN	*	*	*	*
+4	mir	ich	PPER	*	*	*	*
+5	erst	erst	ADV	*	*	*	*
+6	am	an	APPRART	*	*	*	*
+7	Montag	Montag	NN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Fäden	Faden	NN	1	1	1	1
+10	aus	aus	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Schlaghand	Schlaghand	NN	*	*	*	*
+13	gezogen	ziehen	VVPP	1	1	1	1
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	ich	ich	PPER	*	*	*	*
+17	mir	ich	PRF	*	*	*	*
+18	an	an	APPR	*	*	*	*
+19	einem	eine	ART	*	*	*	*
+20	Nagel	Nagel	NN	*	*	*	*
+21	beim	bei	APPRART	*	*	*	*
+22	Hallenfußball	Hallenfußball	NN	*	*	*	*
+23	aufgerissen	aufreißen	VVPP	*	*	*	*
+24	hatte	haben	VAFIN	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	freute	freuen	VVFIN	*	*	*	*
+28	sich	sich	PRF	*	*	*	*
+29	der	die	ART	*	*	*	*
+30	Berliner	Berliner	ADJA	*	*	*	*
+31	Juniorenmeister	Juniorenmeister	NN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T920222.90
+# text = Als Arena 1988 an die Macht kam , zog D'Aubuisson hinter Präsident Cristiani weiterhin die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOKOM	*	*	*	*
+2	Arena	Arena	NN	*	*	*	*
+3	1988	@card@	CARD	*	*	*	*
+4	an	an	APPR	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Macht	Macht	NN	*	*	*	*
+7	kam	kommen	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	zog	ziehen	VVFIN	2	2	2	2
+10	D'Aubuisson	<unknown>	NN	*	*	*	*
+11	hinter	hinter	APPR	*	*	*	*
+12	Präsident	Präsident	NN	*	*	*	*
+13	Cristiani	<unknown>	NE	*	*	*	*
+14	weiterhin	weiterhin	ADV	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Fäden	Faden	NN	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T880608.41
+# text = In einem als " Kellerparlament " bezeichneten Mauschelgremium zog Voscherau mit anderen Partei-Rechten die Fäden sozialdemokratischer Politik .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	einem	eine	ART	*	*	*	*
+3	als	als	KOKOM	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Kellerparlament	<unknown>	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	bezeichneten	bezeichnet	ADJA	*	*	*	*
+8	Mauschelgremium	<unknown>	NN	*	*	*	*
+9	zog	ziehen	VVFIN	2	2	2	2
+10	Voscherau	<unknown>	NN	*	*	*	*
+11	mit	mit	APPR	*	*	*	*
+12	anderen	andere	PIS	*	*	*	*
+13	Partei-Rechten	Partei-Rechte	NN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	sozialdemokratischer	sozialdemokratisch	ADJA	*	*	*	*
+17	Politik	Politik	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T881021.36
+# text = Mit einzelnen Journalisten beziehungsweise Chefredakteuren vornehmlich der Springer - Presse und ausgewählten Partei-Rechten , mit denen er schon zu Dohnanyis Zeiten kungelnd die Fäden Hamburger SPD-Politik zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	einzelnen	einzeln	ADJA	*	*	*	*
+3	Journalisten	Journalist	NN	*	*	*	*
+4	beziehungsweise	beziehungsweise	KON	*	*	*	*
+5	Chefredakteuren	Chefredakteur	NN	*	*	*	*
+6	vornehmlich	vornehmlich	ADJD	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Springer	Springer	NN	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	Presse	Presse	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	ausgewählten	ausgewählt	ADJA	*	*	*	*
+13	Partei-Rechten	Partei-Rechte	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	denen	die	PRELS	*	*	*	*
+17	er	er	PPER	*	*	*	*
+18	schon	schon	ADV	*	*	*	*
+19	zu	zu	APPR	*	*	*	*
+20	Dohnanyis	<unknown>	NE	*	*	*	*
+21	Zeiten	Zeit	NN	*	*	*	*
+22	kungelnd	<unknown>	ADJD	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	Fäden	Faden	NN	2	2	2	2
+25	Hamburger	Hamburger	ADJA	*	*	*	*
+26	SPD-Politik	SPD-Politik	NN	*	*	*	*
+27	zog	ziehen	VVFIN	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T881014.77
+# text = 15 Filialen befinden sich in den Vereinigten Staaten , und von den USA aus zogen Awan und Bilgrami , so beschuldigt sie der amerikanische Zoll in der Anklageschrift , ihre Fäden in einer großangelegten Geldwasch-Operation für 32 Millionen Dollar Drogenprofite .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	15	@card@	CARD	*	*	*	*
+2	Filialen	Filiale	NN	*	*	*	*
+3	befinden	befinden	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	Vereinigten	Vereinigten	NE	*	*	*	*
+8	Staaten	Staaten	NE	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	von	von	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	USA	USA	NE	*	*	*	*
+14	aus	aus	PTKVZ	*	*	*	*
+15	zogen	ziehen	VVFIN	2	2	2	2
+16	Awan	Awan	NE	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	Bilgrami	<unknown>	NE	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	so	so	ADV	*	*	*	*
+21	beschuldigt	beschuldigen	VVFIN	*	*	*	*
+22	sie	sie	PPER	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	amerikanische	amerikanisch	ADJA	*	*	*	*
+25	Zoll	Zoll	NN	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Anklageschrift	Anklageschrift	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	ihre	ihr	PPOSAT	*	*	*	*
+31	Fäden	Faden	NN	2	2	2	2
+32	in	in	APPR	*	*	*	*
+33	einer	eine	ART	*	*	*	*
+34	großangelegten	großangelegt	ADJA	*	*	*	*
+35	Geldwasch-Operation	<unknown>	NN	*	*	*	*
+36	für	für	APPR	*	*	*	*
+37	32	@card@	CARD	*	*	*	*
+38	Millionen	Million	NN	*	*	*	*
+39	Dollar	Dollar	NN	*	*	*	*
+40	Drogenprofite	Drogenprofit	NN	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T880713.33
+# text = Egal , ob sich Washingtons Statthalter in Managua den jetzt nach ihm benannten " Melton-Plan " nun selber ausgedacht oder nur die Fäden gezogen hat - fest steht , daß die US-Botschaft seit langem Clearing-Stelle und Finanzier der traditionell zerstrittenen Rechtsopposition ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Egal	egal	ADJD	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	ob	ob	KOUS	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	Washingtons	Washington	NE	*	*	*	*
+6	Statthalter	Statthalter	NN	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Managua	<unknown>	NE	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	jetzt	jetzt	ADV	*	*	*	*
+11	nach	nach	APPR	*	*	*	*
+12	ihm	er	PPER	*	*	*	*
+13	benannten	benannt	ADJA	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	Melton-Plan	Melton-Plan	NN	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	nun	nun	ADV	*	*	*	*
+18	selber	selber	ADV	*	*	*	*
+19	ausgedacht	ausdenken	VVPP	*	*	*	*
+20	oder	oder	KON	*	*	*	*
+21	nur	nur	ADV	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Fäden	Faden	NN	2	2	2	2
+24	gezogen	ziehen	VVPP	2	2	2	2
+25	hat	haben	VAFIN	*	*	*	*
+26	-	-	$(	*	*	*	*
+27	fest	fest	ADJD	*	*	*	*
+28	steht	stehen	VVFIN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	daß	dass	KOUS	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	US-Botschaft	US-Botschaft	NN	*	*	*	*
+33	seit	seit	APPR	*	*	*	*
+34	langem	lang	ADJA	*	*	*	*
+35	Clearing-Stelle	Clearing-Stelle	NN	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	Finanzier	Finanzier	NN	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	traditionell	traditionell	ADJD	*	*	*	*
+40	zerstrittenen	zerstritten	ADJA	*	*	*	*
+41	Rechtsopposition	Rechtsopposition	NN	*	*	*	*
+42	ist	sein	VAFIN	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T881215.29
+# text = Der Eindruck entsteht , daß an diesem Prozeß viele die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Eindruck	Eindruck	NN	*	*	*	*
+3	entsteht	entstehen	VVFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	an	an	APPR	*	*	*	*
+7	diesem	dies	PDAT	*	*	*	*
+8	Prozeß	Prozess	NN	*	*	*	*
+9	viele	viele	PIS	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Fäden	Faden	NN	2	2	2	2
+12	ziehen	ziehen	VVINF	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T880829.134
+# text = Die Leute , die beim Berliner Basketballbundesligisten DTV Charlottenburg in der zweiten Reihe die Fäden ziehen , sind Profis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Leute	Leute	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	beim	bei	APPRART	*	*	*	*
+6	Berliner	Berliner	ADJA	*	*	*	*
+7	Basketballbundesligisten	<unknown>	NN	*	*	*	*
+8	DTV	<unknown>	NE	*	*	*	*
+9	Charlottenburg	Charlottenburg	NE	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	zweiten	zweit	ADJA	*	*	*	*
+13	Reihe	Reihe	NN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	ziehen	ziehen	VVINF	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	sind	sein	VAFIN	*	*	*	*
+19	Profis	Profi	NN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T880825.99
+# text = ( Als jüngst der ' Spiegel ` ein entsprechendes Angebot der UdSSR an die BRD meldete , wurde in der Atomgemeinde prompt gemunkelt , heutige oder ehemalige Hempel - Leute hätten mit an den Fäden gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	(	(	$(	*	*	*	*
+2	Als	als	KOKOM	*	*	*	*
+3	jüngst	jungüngst	ADJD	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	'	'	$(	*	*	*	*
+6	Spiegel	Spiegel	NN	*	*	*	*
+7	`	`	$(	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	entsprechendes	entsprechend	ADJA	*	*	*	*
+10	Angebot	Angebot	NN	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	UdSSR	<unknown>	NN	*	*	*	*
+13	an	an	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	BRD	BRD	NE	*	*	*	*
+16	meldete	melden	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	wurde	werden	VAFIN	*	*	*	*
+19	in	in	APPR	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Atomgemeinde	Atomgemeinde	NN	*	*	*	*
+22	prompt	prompt	ADJD	*	*	*	*
+23	gemunkelt	munkeln	VVPP	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	heutige	heutig	ADJA	*	*	*	*
+26	oder	oder	KON	*	*	*	*
+27	ehemalige	ehemalig	ADJA	*	*	*	*
+28	Hempel	<unknown>	NN	*	*	*	*
+29	-	-	$(	*	*	*	*
+30	Leute	Leute	NN	*	*	*	*
+31	hätten	haben	VAFIN	*	*	*	*
+32	mit	mit	APPR	*	*	*	*
+33	an	an	APPR	*	*	*	*
+34	den	die	ART	*	*	*	*
+35	Fäden	Faden	NN	2	2	2	2
+36	gezogen	ziehen	VVPP	2	2	2	2
+37	.	.	$.	*	*	*	*
+
+# article_id = T870522.46
+# text = Ein positives Ergebnis hat seine Wahl jedoch : Feller wird als Fernsehdirektor hinter den Kulissen die Fäden ziehen und weniger auf dem Bildschirm erscheinen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	positives	positiv	ADJA	*	*	*	*
+3	Ergebnis	Ergebnis	NN	*	*	*	*
+4	hat	haben	VAFIN	*	*	*	*
+5	seine	sein	PPOSAT	*	*	*	*
+6	Wahl	Wahl	NN	*	*	*	*
+7	jedoch	jedoch	ADV	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	Feller	Feller	NN	*	*	*	*
+10	wird	werden	VAFIN	*	*	*	*
+11	als	als	KOKOM	*	*	*	*
+12	Fernsehdirektor	Fernsehdirektor	NN	*	*	*	*
+13	hinter	hinter	APPR	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Kulissen	Kulisse	NN	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Fäden	Faden	NN	2	2	2	2
+18	ziehen	ziehen	VVINF	2	2	2	2
+19	und	und	KON	*	*	*	*
+20	weniger	weniger	ADV	*	*	*	*
+21	auf	auf	APPR	*	*	*	*
+22	dem	die	ART	*	*	*	*
+23	Bildschirm	Bildschirm	NN	*	*	*	*
+24	erscheinen	erscheinen	VVFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T870914.24
+# text = Wenn Syrien bei der neuen Übereinkunft wieder einmal die Fäden zog , so deshalb , weil sich der Lagerkrieg zum gegenwärtigen Zeitpunkt als hinderlich erwies für die Durchsetzung eines anderen Zieles : Die Festigung des im Juli gegen den christlichen Präsidenten Gemayel gegründeten Oppositionsbündnisses FULL , dem neben Amal auch die Drusenpartei PSP sowie verschiedene linke und pro-syrische Gruppen angehören .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	Syrien	Syrien	NE	*	*	*	*
+3	bei	bei	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	neuen	neu	ADJA	*	*	*	*
+6	Übereinkunft	Übereinkunft	NN	*	*	*	*
+7	wieder	wieder	ADV	*	*	*	*
+8	einmal	einmal	ADV	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	zog	ziehen	VVFIN	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	so	so	ADV	*	*	*	*
+14	deshalb	deshalb	PAV	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	weil	weil	KOUS	*	*	*	*
+17	sich	sich	PRF	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Lagerkrieg	Lagerkrieg	NN	*	*	*	*
+20	zum	zu	APPRART	*	*	*	*
+21	gegenwärtigen	gegenwärtig	ADJA	*	*	*	*
+22	Zeitpunkt	Zeitpunkt	NN	*	*	*	*
+23	als	als	KOKOM	*	*	*	*
+24	hinderlich	hinderlich	ADJD	*	*	*	*
+25	erwies	erweisen	VVFIN	*	*	*	*
+26	für	für	APPR	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Durchsetzung	Durchsetzung	NN	*	*	*	*
+29	eines	eine	ART	*	*	*	*
+30	anderen	andere	PIAT	*	*	*	*
+31	Zieles	Ziel	NN	*	*	*	*
+32	:	:	$.	*	*	*	*
+33	Die	die	ART	*	*	*	*
+34	Festigung	Festigung	NN	*	*	*	*
+35	des	die	ART	*	*	*	*
+36	im	in	APPRART	*	*	*	*
+37	Juli	Juli	NN	*	*	*	*
+38	gegen	gegen	APPR	*	*	*	*
+39	den	die	ART	*	*	*	*
+40	christlichen	christlich	ADJA	*	*	*	*
+41	Präsidenten	Präsident	NN	*	*	*	*
+42	Gemayel	<unknown>	NE	*	*	*	*
+43	gegründeten	gegründet	ADJA	*	*	*	*
+44	Oppositionsbündnisses	Oppositionsbündnis	NN	*	*	*	*
+45	FULL	<unknown>	NE	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	dem	die	PRELS	*	*	*	*
+48	neben	neben	APPR	*	*	*	*
+49	Amal	Amal	NE	*	*	*	*
+50	auch	auch	ADV	*	*	*	*
+51	die	die	ART	*	*	*	*
+52	Drusenpartei	<unknown>	NN	*	*	*	*
+53	PSP	<unknown>	NN	*	*	*	*
+54	sowie	sowie	KON	*	*	*	*
+55	verschiedene	verschieden	ADJA	*	*	*	*
+56	linke	links	ADJA	*	*	*	*
+57	und	und	KON	*	*	*	*
+58	pro-syrische	pro-syrisch	ADJA	*	*	*	*
+59	Gruppen	Gruppe	NN	*	*	*	*
+60	angehören	angehören	VVINF	*	*	*	*
+61	.	.	$.	*	*	*	*
+
+# article_id = T870917.15
+# text = Dieser handelte sich gestern gleich vier Tage Ordnungshaft ein , weil er OStA Rosenbaum mit den Worten " Sei still , Du hast die Fäden gezogen " am Verlesen der Anklageschrift hindern wollte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dieser	diese	PDS	*	*	*	*
+2	handelte	handeln	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	gestern	gestern	ADV	*	*	*	*
+5	gleich	gleich	ADJD	*	*	*	*
+6	vier	vier	CARD	*	*	*	*
+7	Tage	Tag	NN	*	*	*	*
+8	Ordnungshaft	Ordnungshaft	NN	*	*	*	*
+9	ein	ein	PTKVZ	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	weil	weil	KOUS	*	*	*	*
+12	er	er	PPER	*	*	*	*
+13	OStA	<unknown>	NE	*	*	*	*
+14	Rosenbaum	Rosenbaum	NE	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	Worten	Wort	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	Sei	<unknown>	VVFIN	*	*	*	*
+20	still	still	ADJD	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	Du	du	PPER	*	*	*	*
+23	hast	haben	VAFIN	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Fäden	Faden	NN	2	2	2	2
+26	gezogen	ziehen	VVPP	2	2	2	2
+27	"	"	$(	*	*	*	*
+28	am	an	APPRART	*	*	*	*
+29	Verlesen	Verlesen	NN	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	Anklageschrift	Anklageschrift	NN	*	*	*	*
+32	hindern	hindern	VVINF	*	*	*	*
+33	wollte	wollen	VMFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T870408.31
+# text = Daß ausgerechnet Wallmanns Parteifreund Warrikoff in Sachen ALKEM die Fäden zog , dürfte dem " Ruhebedürfnis " des Ministerpräsidenten gleichfalls kaum entgegenkommen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	ausgerechnet	ausgerechnet	ADJD	*	*	*	*
+3	Wallmanns	Wallmann	NE	*	*	*	*
+4	Parteifreund	Parteifreund	NE	*	*	*	*
+5	Warrikoff	<unknown>	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Sachen	Sache	NN	*	*	*	*
+8	ALKEM	<unknown>	NN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	zog	ziehen	VVFIN	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	dürfte	dürfen	VMFIN	*	*	*	*
+14	dem	die	ART	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	Ruhebedürfnis	Ruhebedürfnis	NN	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	des	die	ART	*	*	*	*
+19	Ministerpräsidenten	Ministerpräsident	NN	*	*	*	*
+20	gleichfalls	gleichfalls	ADV	*	*	*	*
+21	kaum	kaum	ADV	*	*	*	*
+22	entgegenkommen	entgegenkommen	VVINF	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T870704.30
+# text = Da am kommenden Montag bei Kemal Ajoub die Fäden gezogen werden , ist davon auszugehen , daß seine Abschiebung schon unmittelbar danach erfolgen könnte , betonen die Anwälte .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Da	da	ADV	*	*	*	*
+2	am	an	APPRART	*	*	*	*
+3	kommenden	kommend	ADJA	*	*	*	*
+4	Montag	Montag	NN	*	*	*	*
+5	bei	bei	APPR	*	*	*	*
+6	Kemal	Kemal	NE	*	*	*	*
+7	Ajoub	<unknown>	NE	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Fäden	Faden	NN	1	1	1	1
+10	gezogen	ziehen	VVPP	1	1	1	1
+11	werden	werden	VAINF	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	ist	sein	VAFIN	*	*	*	*
+14	davon	davon	PAV	*	*	*	*
+15	auszugehen	ausgehen	VVIZU	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	daß	dass	KOUS	*	*	*	*
+18	seine	sein	PPOSAT	*	*	*	*
+19	Abschiebung	Abschiebung	NN	*	*	*	*
+20	schon	schon	ADV	*	*	*	*
+21	unmittelbar	unmittelbar	ADJD	*	*	*	*
+22	danach	danach	PAV	*	*	*	*
+23	erfolgen	erfolgen	VVINF	*	*	*	*
+24	könnte	können	VMFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	betonen	betonen	VVFIN	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Anwälte	Anwalt	NN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T870316.74
+# text = Immerhin wurde auch hier ein Zeichen gesetzt : Seit Dezember ist Pol Pot öffentlich nicht mehr aufgetreten , doch gibt es klare Hinweise darauf , daß er und seine Leute immer noch bei den Khmer Rouge die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Immerhin	immerhin	ADV	*	*	*	*
+2	wurde	werden	VAFIN	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	hier	hier	ADV	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	Zeichen	Zeichen	NN	*	*	*	*
+7	gesetzt	setzen	VVPP	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	Seit	seit	APPR	*	*	*	*
+10	Dezember	Dezember	NN	*	*	*	*
+11	ist	sein	VAFIN	*	*	*	*
+12	Pol	Pol	NN	*	*	*	*
+13	Pot	Pot	NN	*	*	*	*
+14	öffentlich	öffentlich	ADJD	*	*	*	*
+15	nicht	nicht	PTKNEG	*	*	*	*
+16	mehr	mehr	ADV	*	*	*	*
+17	aufgetreten	auftreten	VVPP	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	doch	doch	KON	*	*	*	*
+20	gibt	geben	VVFIN	*	*	*	*
+21	es	es	PPER	*	*	*	*
+22	klare	klar	ADJA	*	*	*	*
+23	Hinweise	Hinweis	NN	*	*	*	*
+24	darauf	darauf	PAV	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	daß	dass	KOUS	*	*	*	*
+27	er	er	PPER	*	*	*	*
+28	und	und	KON	*	*	*	*
+29	seine	sein	PPOSAT	*	*	*	*
+30	Leute	Leute	NN	*	*	*	*
+31	immer	immer	ADV	*	*	*	*
+32	noch	noch	ADV	*	*	*	*
+33	bei	bei	APPR	*	*	*	*
+34	den	die	ART	*	*	*	*
+35	Khmer	<unknown>	NN	*	*	*	*
+36	Rouge	Rouge	NN	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Fäden	Faden	NN	2	2	2	2
+39	ziehen	ziehen	VVINF	2	2	2	2
+40	.	.	$.	*	*	*	*
+
+# article_id = T930609.63
+# text = Bousquet ist das Paradebeispiel für den hohen Staatsbeamten und Geschäftsmann , der unbeschadet von einem Regime zum nächsten seine Fäden ziehen konnte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bousquet	<unknown>	ADJD	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	Paradebeispiel	Paradebeispiel	NN	*	*	*	*
+5	für	für	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	hohen	hoch	ADJA	*	*	*	*
+8	Staatsbeamten	Staatsbeamte	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Geschäftsmann	Geschäftsmann	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	unbeschadet	unbeschadet	ADV	*	*	*	*
+14	von	von	APPR	*	*	*	*
+15	einem	eine	ART	*	*	*	*
+16	Regime	Regime	NN	*	*	*	*
+17	zum	zu	APPRART	*	*	*	*
+18	nächsten	nah	ADJA	*	*	*	*
+19	seine	sein	PPOSAT	*	*	*	*
+20	Fäden	Faden	NN	2	2	2	2
+21	ziehen	ziehen	VVINF	2	2	2	2
+22	konnte	können	VMFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T931026.194
+# text = Während Heinz Weisener in Zukunft nur noch in dem neu zu gründenden Verwaltungs- und Wirtschaftsrat hinter den Kulissen die Fäden ziehen wird , soll Vizepräsident Christian Hinzpeter den neuen Frontman miemen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	KOUS	*	*	*	*
+2	Heinz	Heinz	NE	*	*	*	*
+3	Weisener	<unknown>	NE	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Zukunft	Zukunft	NN	*	*	*	*
+6	nur	nur	ADV	*	*	*	*
+7	noch	noch	ADV	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	neu	neu	ADJD	*	*	*	*
+11	zu	zu	APPR	*	*	*	*
+12	gründenden	gründend	ADJA	*	*	*	*
+13	Verwaltungs-	Verwaltungs-	TRUNC	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	Wirtschaftsrat	Wirtschaftsrat	NN	*	*	*	*
+16	hinter	hinter	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Kulissen	Kulisse	NN	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Fäden	Faden	NN	2	2	2	2
+21	ziehen	ziehen	VVINF	2	2	2	2
+22	wird	werden	VAFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	soll	sollen	VMFIN	*	*	*	*
+25	Vizepräsident	Vizepräsident	NN	*	*	*	*
+26	Christian	Christian	NE	*	*	*	*
+27	Hinzpeter	Hinzpeter	NE	*	*	*	*
+28	den	die	ART	*	*	*	*
+29	neuen	neu	ADJA	*	*	*	*
+30	Frontman	<unknown>	NN	*	*	*	*
+31	miemen	<unknown>	VVFIN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T931002.300
+# text = Am sonntagnachmittäglichen Aufeinandertreffen des FC St. Pauli und der Saarbrücker Equipe ( 15 Uhr , Wilhelm-Koch-Stadion ) wird bei den Saarländern ein anderer die Fäden im Mittelfeld ziehen müssen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	sonntagnachmittäglichen	sonntagnachmittäglich	ADJA	*	*	*	*
+3	Aufeinandertreffen	Aufeinandertreffen	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	FC	FC	NE	*	*	*	*
+6	St.	St.	NE	*	*	*	*
+7	Pauli	Pauli	NE	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Saarbrücker	Saarbrücker	ADJA	*	*	*	*
+11	Equipe	<unknown>	NN	*	*	*	*
+12	(	(	$(	*	*	*	*
+13	15	@card@	CARD	*	*	*	*
+14	Uhr	Uhr	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	Wilhelm-Koch-Stadion	Wilhelm-Koch-Stadion	NN	*	*	*	*
+17	)	)	$(	*	*	*	*
+18	wird	werden	VAFIN	*	*	*	*
+19	bei	bei	APPR	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Saarländern	Saarländer	NN	*	*	*	*
+22	ein	eine	ART	*	*	*	*
+23	anderer	andere	PIS	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Fäden	Faden	NN	2	2	2	2
+26	im	in	APPRART	*	*	*	*
+27	Mittelfeld	Mittelfeld	NN	*	*	*	*
+28	ziehen	ziehen	VVINF	2	2	2	2
+29	müssen	müssen	VMINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T930111.46
+# text = Also sind alle dort vertreten , wo die hohe Politik spielt und die Fäden gezogen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Also	also	ADV	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	alle	alle	PIS	*	*	*	*
+4	dort	dort	ADV	*	*	*	*
+5	vertreten	vertreten	VVPP	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wo	wo	PWAV	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	hohe	hoch	ADJA	*	*	*	*
+10	Politik	Politik	NN	*	*	*	*
+11	spielt	spielen	VVFIN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	gezogen	ziehen	VVPP	2	2	2	2
+16	werden	werden	VAINF	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T930408.108
+# text = Die Frau beherrscht den Ort , an dem die Fäden gezogen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Frau	Frau	NN	*	*	*	*
+3	beherrscht	beherrschen	VVFIN	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Ort	Ort	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	an	an	APPR	*	*	*	*
+8	dem	die	PRELS	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	gezogen	ziehen	VVPP	2	2	2	2
+12	werden	werden	VAINF	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T930802.196
+# text = Festen Einzug in die Fanchoräle erhielt dann der Mann , der von nun an im St. Paulianischen Mittelfeld die Fäden ziehen soll , in der 25. Minute , als seine Hereingabe von Martin Drillers Kopf ins Tor sprang .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Festen	fest	ADJA	*	*	*	*
+2	Einzug	Einzug	NN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Fanchoräle	<unknown>	NN	*	*	*	*
+6	erhielt	erhalten	VVFIN	*	*	*	*
+7	dann	dann	ADV	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Mann	Mann	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	PRELS	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	nun	nun	ADV	*	*	*	*
+14	an	an	APZR	*	*	*	*
+15	im	in	APPRART	*	*	*	*
+16	St.	St.	NE	*	*	*	*
+17	Paulianischen	<unknown>	NN	*	*	*	*
+18	Mittelfeld	Mittelfeld	NN	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Fäden	Faden	NN	2	2	2	2
+21	ziehen	ziehen	VVINF	2	2	2	2
+22	soll	sollen	VMFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	der	die	PRELS	*	*	*	*
+26	25	@card@	CARD	*	*	*	*
+27	.	.	$.	*	*	*	*
+28	Minute	Minute	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	als	als	KOKOM	*	*	*	*
+31	seine	sein	PPOSAT	*	*	*	*
+32	Hereingabe	<unknown>	NN	*	*	*	*
+33	von	von	APPR	*	*	*	*
+34	Martin	Martin	NE	*	*	*	*
+35	Drillers	<unknown>	NN	*	*	*	*
+36	Kopf	Kopf	NN	*	*	*	*
+37	ins	in	APPRART	*	*	*	*
+38	Tor	Tor	NN	*	*	*	*
+39	sprang	springen	VVFIN	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T930818.113
+# text = Ob es um Waffenhandel , die Unterstützung südamerikanischer Diktatoren oder um dubiose Firmenzusammenbrüche wie dem des größten spanischen Konzerns Rumasa vor einigen Jahren geht - immer soll Opus Dei nach Darstellung von abtrünnig gewordenen Mitgliedern im Hintergrund die Fäden gezogen haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ob	ob	KOUS	*	*	*	*
+2	es	es	PPER	*	*	*	*
+3	um	um	APPR	*	*	*	*
+4	Waffenhandel	Waffenhandel	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Unterstützung	Unterstützung	NN	*	*	*	*
+8	südamerikanischer	südamerikanisch	ADJA	*	*	*	*
+9	Diktatoren	Diktator	NN	*	*	*	*
+10	oder	oder	KON	*	*	*	*
+11	um	um	APPR	*	*	*	*
+12	dubiose	dubios	ADJA	*	*	*	*
+13	Firmenzusammenbrüche	Firmenzusammenbruch	NN	*	*	*	*
+14	wie	wie	KOKOM	*	*	*	*
+15	dem	die	ART	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	größten	groß	ADJA	*	*	*	*
+18	spanischen	spanisch	ADJA	*	*	*	*
+19	Konzerns	Konzern	NN	*	*	*	*
+20	Rumasa	<unknown>	NE	*	*	*	*
+21	vor	vor	APPR	*	*	*	*
+22	einigen	einige	PIAT	*	*	*	*
+23	Jahren	Jahr	NN	*	*	*	*
+24	geht	gehen	VVFIN	*	*	*	*
+25	-	-	$(	*	*	*	*
+26	immer	immer	ADV	*	*	*	*
+27	soll	sollen	VMFIN	*	*	*	*
+28	Opus	Opus	NN	*	*	*	*
+29	Dei	<unknown>	VVFIN	*	*	*	*
+30	nach	nach	APPR	*	*	*	*
+31	Darstellung	Darstellung	NN	*	*	*	*
+32	von	von	APPR	*	*	*	*
+33	abtrünnig	abtrünnig	ADJD	*	*	*	*
+34	gewordenen	worden	ADJA	*	*	*	*
+35	Mitgliedern	Mitglied	NN	*	*	*	*
+36	im	in	APPRART	*	*	*	*
+37	Hintergrund	Hintergrund	NN	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	Fäden	Faden	NN	2	2	2	2
+40	gezogen	ziehen	VVPP	2	2	2	2
+41	haben	haben	VAFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T930302.28
+# text = Dieser hat bereits alle Fäden im Obersten Sowjet gezogen , damit dessen Abgeordnete für Mitte März den bisher verfassunggebenden Kongreß der Volksdeputierten einberufen - eine durch eine ganze Anzahl von Ex-KPdSU-Bossen personell erweiterte Ausgabe des regulären Parlamentes .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dieser	diese	PDS	*	*	*	*
+2	hat	haben	VAFIN	*	*	*	*
+3	bereits	bereits	ADV	*	*	*	*
+4	alle	alle	PIAT	*	*	*	*
+5	Fäden	Faden	NN	2	2	2	2
+6	im	in	APPRART	*	*	*	*
+7	Obersten	Oberst|Oberste	NN	*	*	*	*
+8	Sowjet	Sowjet	NN	*	*	*	*
+9	gezogen	ziehen	VVPP	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	damit	damit	KOUS	*	*	*	*
+12	dessen	die	PDAT	*	*	*	*
+13	Abgeordnete	Abgeordnete	NN	*	*	*	*
+14	für	für	APPR	*	*	*	*
+15	Mitte	Mitte	NN	*	*	*	*
+16	März	März	NN	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	bisher	bisher	ADV	*	*	*	*
+19	verfassunggebenden	<unknown>	ADJA	*	*	*	*
+20	Kongreß	Kongress	NN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Volksdeputierten	<unknown>	NN	*	*	*	*
+23	einberufen	einberufen	VVPP	*	*	*	*
+24	-	-	$(	*	*	*	*
+25	eine	eine	ART	*	*	*	*
+26	durch	durch	APPR	*	*	*	*
+27	eine	eine	ART	*	*	*	*
+28	ganze	ganz	ADJA	*	*	*	*
+29	Anzahl	Anzahl	NN	*	*	*	*
+30	von	von	APPR	*	*	*	*
+31	Ex-KPdSU-Bossen	<unknown>	NN	*	*	*	*
+32	personell	personell	ADJD	*	*	*	*
+33	erweiterte	erweitert	ADJA	*	*	*	*
+34	Ausgabe	Ausgabe	NN	*	*	*	*
+35	des	die	ART	*	*	*	*
+36	regulären	regulär	ADJA	*	*	*	*
+37	Parlamentes	<unknown>	NN	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T930302.82
+# text = Und je dünner die Fäden gezogen werden , desto länger geraten sie .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	je	je	ADV	*	*	*	*
+3	dünner	dünn	ADJD	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Fäden	Faden	NN	2	2	2	2
+6	gezogen	ziehen	VVPP	2	2	2	2
+7	werden	werden	VAINF	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	desto	desto	KON	*	*	*	*
+10	länger	lang	ADJD	*	*	*	*
+11	geraten	geraten	VVFIN	*	*	*	*
+12	sie	sie	PPER	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T930317.77
+# text = Wie , wenn der gemeinhin als unentschlossen-sensibel Qualifizierte , der erst mit der Opfer-Masche die Kieler Staatskanzlei eroberte , von Anfang an weitsichtig und entschlossen die Fäden des " Barschel-Skandals " gezogen hätte : Rainer Pfeiffer nur vermeintlich Barschels Mann fürs Grobe , in Wahrheit aber derjenige , der , instruiert von Engholms Vertrauensmann Klaus Nilius , den Barschel-Herausforderer in die politisch einzig aussichtsreiche Position - die des unschuldig Verfolgten intrigierte ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	wenn	wenn	KOUS	*	*	*	*
+4	der	die	PDS	*	*	*	*
+5	gemeinhin	gemeinhin	ADV	*	*	*	*
+6	als	als	KOKOM	*	*	*	*
+7	unentschlossen-sensibel	<unknown>	ADJD	*	*	*	*
+8	Qualifizierte	Qualifizierte	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	der	die	PRELS	*	*	*	*
+11	erst	erst	ADV	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Opfer-Masche	<unknown>	NN	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Kieler	Kieler	ADJA	*	*	*	*
+17	Staatskanzlei	Staatskanzlei	NN	*	*	*	*
+18	eroberte	erobern	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	Anfang	Anfang	NN	*	*	*	*
+22	an	an	APPR	*	*	*	*
+23	weitsichtig	weitsichtig	ADJD	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	entschlossen	entschlossen	ADJD	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	Fäden	Faden	NN	2	2	2	2
+28	des	die	ART	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	Barschel-Skandals	<unknown>	NN	*	*	*	*
+31	"	"	$(	*	*	*	*
+32	gezogen	ziehen	VVPP	2	2	2	2
+33	hätte	haben	VAFIN	*	*	*	*
+34	:	:	$.	*	*	*	*
+35	Rainer	Rainer	NE	*	*	*	*
+36	Pfeiffer	Pfeiffer	NE	*	*	*	*
+37	nur	nur	ADV	*	*	*	*
+38	vermeintlich	vermeintlich	ADJD	*	*	*	*
+39	Barschels	Barschel	NE	*	*	*	*
+40	Mann	Mann	NN	*	*	*	*
+41	fürs	fürs	APPRART	*	*	*	*
+42	Grobe	Grobe	NN	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	in	in	APPR	*	*	*	*
+45	Wahrheit	Wahrheit	NN	*	*	*	*
+46	aber	aber	ADV	*	*	*	*
+47	derjenige	diejenige	PDS	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	der	die	PRELS	*	*	*	*
+50	,	,	$,	*	*	*	*
+51	instruiert	instruieren	VVFIN	*	*	*	*
+52	von	von	APPR	*	*	*	*
+53	Engholms	Engholm	NE	*	*	*	*
+54	Vertrauensmann	Vertrauensmann	NE	*	*	*	*
+55	Klaus	Klaus	NE	*	*	*	*
+56	Nilius	<unknown>	NE	*	*	*	*
+57	,	,	$,	*	*	*	*
+58	den	die	ART	*	*	*	*
+59	Barschel-Herausforderer	<unknown>	NN	*	*	*	*
+60	in	in	APPR	*	*	*	*
+61	die	die	ART	*	*	*	*
+62	politisch	politisch	ADJD	*	*	*	*
+63	einzig	einzig	ADJD	*	*	*	*
+64	aussichtsreiche	aussichtsreich	ADJA	*	*	*	*
+65	Position	Position	NN	*	*	*	*
+66	-	-	$(	*	*	*	*
+67	die	die	PRELS	*	*	*	*
+68	des	die	ART	*	*	*	*
+69	unschuldig	unschuldig	ADJD	*	*	*	*
+70	Verfolgten	Verfolgte	NN	*	*	*	*
+71	intrigierte	intrigieren	VVFIN	*	*	*	*
+72	?	?	$.	*	*	*	*
+
+# article_id = T930329.242
+# text = Der polnische Routinier konnte nach Belieben im Rückraum die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	polnische	polnisch	ADJA	*	*	*	*
+3	Routinier	Routinier	NN	*	*	*	*
+4	konnte	können	VMFIN	*	*	*	*
+5	nach	nach	APPR	*	*	*	*
+6	Belieben	Belieben	NN	*	*	*	*
+7	im	in	APPRART	*	*	*	*
+8	Rückraum	Rückraum	NN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	ziehen	ziehen	VVINF	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T960628.38
+# text = Auch über die Massenhinrichtungen bosnisch-moslemischer Kämpfer wurde detailliert gesprochen und bei allen Anklagepunkten darauf hingewiesen , daß Karadzic und Mladic die Fäden bei diesen " Verbrechen gegen die Menschlichkeit " und dem " Völkermord an Zivilisten " aus dem Hintergrund gezogen hätten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	über	über	APPR	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Massenhinrichtungen	Massenhinrichtung	NN	*	*	*	*
+5	bosnisch-moslemischer	<unknown>	ADJA	*	*	*	*
+6	Kämpfer	Kämpfer	NN	*	*	*	*
+7	wurde	werden	VAFIN	*	*	*	*
+8	detailliert	detaillieren	VVPP	*	*	*	*
+9	gesprochen	sprechen	VVPP	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	bei	bei	APPR	*	*	*	*
+12	allen	alle	PIAT	*	*	*	*
+13	Anklagepunkten	Anklagepunkt	NN	*	*	*	*
+14	darauf	darauf	PAV	*	*	*	*
+15	hingewiesen	hinweisen	VVPP	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	daß	dass	KOUS	*	*	*	*
+18	Karadzic	Karadzic	NE	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Mladic	<unknown>	NE	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Fäden	Faden	NN	2	2	2	2
+23	bei	bei	APPR	*	*	*	*
+24	diesen	dies	PDAT	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	Verbrechen	Verbrechen	NN	*	*	*	*
+27	gegen	gegen	APPR	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Menschlichkeit	Menschlichkeit	NN	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	dem	die	ART	*	*	*	*
+33	"	"	$(	*	*	*	*
+34	Völkermord	Völkermord	NN	*	*	*	*
+35	an	an	APPR	*	*	*	*
+36	Zivilisten	Zivilist	NN	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	aus	aus	APPR	*	*	*	*
+39	dem	die	ART	*	*	*	*
+40	Hintergrund	Hintergrund	NN	*	*	*	*
+41	gezogen	ziehen	VVPP	2	2	2	2
+42	hätten	haben	VAFIN	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T961025.261
+# text = Nicht mehr am Faden gezogen , sondern im Grafiklabor geklont mit der perversen Begründung , daß dies dem aktuellen Trend im Kinderzimmer entspräche .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	mehr	mehr	ADV	*	*	*	*
+3	am	an	APPRART	*	*	*	*
+4	Faden	Faden	NN	1	2	1	1
+5	gezogen	ziehen	VVPP	1	2	1	1
+6	,	,	$,	*	*	*	*
+7	sondern	sondern	KON	*	*	*	*
+8	im	in	APPRART	*	*	*	*
+9	Grafiklabor	<unknown>	NN	*	*	*	*
+10	geklont	klonen	VVPP	*	*	*	*
+11	mit	mit	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	perversen	pervers	ADJA	*	*	*	*
+14	Begründung	Begründung	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	daß	dass	KOUS	*	*	*	*
+17	dies	dies	PDS	*	*	*	*
+18	dem	die	ART	*	*	*	*
+19	aktuellen	aktuell	ADJA	*	*	*	*
+20	Trend	Trend	NN	*	*	*	*
+21	im	in	APPRART	*	*	*	*
+22	Kinderzimmer	Kinderzimmer	NN	*	*	*	*
+23	entspräche	entsprechen	VVFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T960102.91
+# text = Wer bei und nach seinem Sturz die Fäden zog , das verschwimmt noch immer zwischen den Spekulationen von Amateurgeschichtsschreibern und dem Schweigen der Machthaber .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wer	wer	PWS	*	*	*	*
+2	bei	bei	APPR	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	nach	nach	APPR	*	*	*	*
+5	seinem	sein	PPOSAT	*	*	*	*
+6	Sturz	Sturz	NN	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Fäden	Faden	NN	2	2	2	2
+9	zog	ziehen	VVFIN	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	das	die	PDS	*	*	*	*
+12	verschwimmt	verschwimmen	VVFIN	*	*	*	*
+13	noch	noch	ADV	*	*	*	*
+14	immer	immer	ADV	*	*	*	*
+15	zwischen	zwischen	APPR	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	Spekulationen	Spekulation	NN	*	*	*	*
+18	von	von	APPR	*	*	*	*
+19	Amateurgeschichtsschreibern	<unknown>	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	dem	die	ART	*	*	*	*
+22	Schweigen	Schweigen	NN	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Machthaber	Machthaber	NN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T960123.138
+# text = In der Summe ließen sie letztlich nur den Schluß zu , daß hinter den Kulissen an Fäden gezogen wurde , die in Polizeidateien ihren Anfang nehmen mußten : So teilten ihr zum Beispiel gelegentlich einige ihrer Auftraggeber mit , das Bundeskriminalamt habe sich nach ihr erkundigt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Summe	Summe	NN	*	*	*	*
+4	ließen	lassen	VVFIN	*	*	*	*
+5	sie	sie	PPER	*	*	*	*
+6	letztlich	letztlich	ADV	*	*	*	*
+7	nur	nur	ADV	*	*	*	*
+8	den	die	ART	*	*	*	*
+9	Schluß	Schluss	NN	*	*	*	*
+10	zu	zu	PTKVZ	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	daß	dass	KOUS	*	*	*	*
+13	hinter	hinter	APPR	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Kulissen	Kulisse	NN	*	*	*	*
+16	an	an	APPR	*	*	*	*
+17	Fäden	Faden	NN	2	2	2	2
+18	gezogen	ziehen	VVPP	2	2	2	2
+19	wurde	werden	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	die	die	PRELS	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	Polizeidateien	Polizeidatei	NN	*	*	*	*
+24	ihren	ihr	PPOSAT	*	*	*	*
+25	Anfang	Anfang	NN	*	*	*	*
+26	nehmen	nehmen	VVINF	*	*	*	*
+27	mußten	müssen	VMFIN	*	*	*	*
+28	:	:	$.	*	*	*	*
+29	So	so	ADV	*	*	*	*
+30	teilten	teilen	VVFIN	*	*	*	*
+31	ihr	ihr	PPER	*	*	*	*
+32	zum	zu	APPRART	*	*	*	*
+33	Beispiel	Beispiel	NN	*	*	*	*
+34	gelegentlich	gelegentlich	ADJD	*	*	*	*
+35	einige	einige	PIAT	*	*	*	*
+36	ihrer	ihr	PPOSAT	*	*	*	*
+37	Auftraggeber	Auftraggeber	NN	*	*	*	*
+38	mit	mit	PTKVZ	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	das	die	ART	*	*	*	*
+41	Bundeskriminalamt	Bundeskriminalamt	NN	*	*	*	*
+42	habe	haben	VAFIN	*	*	*	*
+43	sich	sich	PRF	*	*	*	*
+44	nach	nach	APPR	*	*	*	*
+45	ihr	ihr	PPER	*	*	*	*
+46	erkundigt	erkundigen	VVPP	*	*	*	*
+47	.	.	$.	*	*	*	*
+
+# article_id = T960403.90
+# text = Jemand versucht , im Hintergrund heimlich die Fäden zu ziehen " , erklärte er .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jemand	jemand	PIS	*	*	*	*
+2	versucht	versuchen	VVFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Hintergrund	Hintergrund	NN	*	*	*	*
+6	heimlich	heimlich	ADJD	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Fäden	Faden	NN	2	2	2	2
+9	zu	zu	PTKZU	*	*	*	*
+10	ziehen	ziehen	VVINF	2	2	2	2
+11	"	"	$(	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	erklärte	erklären	VVFIN	*	*	*	*
+14	er	er	PPER	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T960418.113
+# text = Die Schonfrist verschafft der Verlagsgruppe Zeit , hinter den Kulissen neue Fäden zu ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Schonfrist	Schonfrist	NN	*	*	*	*
+3	verschafft	verschaffen	VVFIN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Verlagsgruppe	Verlagsgruppe	NN	*	*	*	*
+6	Zeit	Zeit	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	hinter	hinter	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Kulissen	Kulisse	NN	*	*	*	*
+11	neue	neu	ADJA	*	*	*	*
+12	Fäden	Faden	NN	2	2	2	2
+13	zu	zu	PTKZU	*	*	*	*
+14	ziehen	ziehen	VVINF	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T960406.116
+# text = Sie sei es , die hinter den Kulissen die Fäden zöge , argwöhnte die Volksseele .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	sei	sein	VAFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	hinter	hinter	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Kulissen	Kulisse	NN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	zöge	ziehen	VVFIN	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	argwöhnte	argwöhnen	VVFIN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Volksseele	Volksseele	NN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T960706.140
+# text = Wie etwa Kurt Lofquist aus Kopenhagen , der im dortigen " Ripley's " als Ausstellungsstück Nr. 145 eine Nadel entdeckte , durch deren Öhr ein ehrgeiziger US-Amerikaner insgesamt 93 Fäden gezogen hatte .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wie	wie	KOKOM	*	*	*	*
+2	etwa	etwa	ADV	*	*	*	*
+3	Kurt	Kurt	NE	*	*	*	*
+4	Lofquist	<unknown>	NN	*	*	*	*
+5	aus	aus	APPR	*	*	*	*
+6	Kopenhagen	Kopenhagen	NE	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	PRELS	*	*	*	*
+9	im	in	APPRART	*	*	*	*
+10	dortigen	dortig	ADJA	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	Ripley	<unknown>	NN	*	*	*	*
+13	's	es	PPER	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	als	als	KOKOM	*	*	*	*
+16	Ausstellungsstück	Ausstellungsstück	NN	*	*	*	*
+17	Nr.	Nr.	NN	*	*	*	*
+18	145	@card@	CARD	*	*	*	*
+19	eine	eine	ART	*	*	*	*
+20	Nadel	Nadel	NN	*	*	*	*
+21	entdeckte	entdecken	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	durch	durch	APPR	*	*	*	*
+24	deren	die	PRELAT	*	*	*	*
+25	Öhr	Öhr	NN	*	*	*	*
+26	ein	eine	ART	*	*	*	*
+27	ehrgeiziger	ehrgeizig	ADJA	*	*	*	*
+28	US-Amerikaner	US-Amerikaner	NN	*	*	*	*
+29	insgesamt	insgesamt	ADV	*	*	*	*
+30	93	@card@	CARD	*	*	*	*
+31	Fäden	Faden	NN	1	1	1	1
+32	gezogen	ziehen	VVPP	1	1	1	1
+33	hatte	haben	VAFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T960716.95
+# text = Dort bekommt die 12jährige Sarah die Fäden ihrer Amputationswunde gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dort	dort	ADV	*	*	*	*
+2	bekommt	bekommen	VVFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	12jährige	12jährig	ADJA	*	*	*	*
+5	Sarah	Sarah	NE	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Fäden	Faden	NN	1	1	1	1
+8	ihrer	ihr	PPOSAT	*	*	*	*
+9	Amputationswunde	<unknown>	NN	*	*	*	*
+10	gezogen	ziehen	VVPP	1	1	1	1
+11	.	.	$.	*	*	*	*
+
+# article_id = T960715.119
+# text = 1982 wurde er persönliches Mitglied des deutschen NOK , drei Jahre später orientierte er sich zielstrebig dorthin , wo zu jener Zeit das wahre Zentrum der Macht im internationalen Sport saß : zur Firma adidas , deren Chef Horst Dassler die Fäden bei diversen Sportverbänden und im IOC zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	1982	@card@	CARD	*	*	*	*
+2	wurde	werden	VAFIN	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	persönliches	persönlich	ADJA	*	*	*	*
+5	Mitglied	Mitglied	NN	*	*	*	*
+6	des	die	ART	*	*	*	*
+7	deutschen	deutsch	ADJA	*	*	*	*
+8	NOK	NOK	NE	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	drei	drei	CARD	*	*	*	*
+11	Jahre	Jahr	NN	*	*	*	*
+12	später	spät	ADJD	*	*	*	*
+13	orientierte	orientieren	VVFIN	*	*	*	*
+14	er	er	PPER	*	*	*	*
+15	sich	sich	PRF	*	*	*	*
+16	zielstrebig	zielstrebig	ADJD	*	*	*	*
+17	dorthin	dorthin	ADV	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	wo	wo	PWAV	*	*	*	*
+20	zu	zu	APPR	*	*	*	*
+21	jener	jen	PDAT	*	*	*	*
+22	Zeit	Zeit	NN	*	*	*	*
+23	das	die	ART	*	*	*	*
+24	wahre	wahr	ADJA	*	*	*	*
+25	Zentrum	Zentrum	NN	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	Macht	Macht	NN	*	*	*	*
+28	im	in	APPRART	*	*	*	*
+29	internationalen	international	ADJA	*	*	*	*
+30	Sport	Sport	NN	*	*	*	*
+31	saß	sitzen	VVFIN	*	*	*	*
+32	:	:	$.	*	*	*	*
+33	zur	zu	APPRART	*	*	*	*
+34	Firma	Firma	NN	*	*	*	*
+35	adidas	Adidas	NE	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	deren	die	PRELAT	*	*	*	*
+38	Chef	Chef	NN	*	*	*	*
+39	Horst	Horst	NE	*	*	*	*
+40	Dassler	<unknown>	NE	*	*	*	*
+41	die	die	ART	*	*	*	*
+42	Fäden	Faden	NN	2	2	2	2
+43	bei	bei	APPR	*	*	*	*
+44	diversen	divers	ADJA	*	*	*	*
+45	Sportverbänden	Sportverband	NN	*	*	*	*
+46	und	und	KON	*	*	*	*
+47	im	in	APPRART	*	*	*	*
+48	IOC	IOC	NE	*	*	*	*
+49	zog	ziehen	VVFIN	2	2	2	2
+50	.	.	$.	*	*	*	*
+
+# article_id = T961224.216
+# text = Warum sich Michael Cramer ( Bündnisgrüne ) für Hanna-Renate Laurien ( CDU ) ins Strick-Zeug legte und keine Lust hat , für Petra Pau ( PDS ) die Fäden zu ziehen
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Warum	warum	PWAV	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	Michael	Michael	NE	*	*	*	*
+4	Cramer	Cramer	NE	*	*	*	*
+5	(	(	$(	*	*	*	*
+6	Bündnisgrüne	Bündnisgrüne	NN	*	*	*	*
+7	)	)	$(	*	*	*	*
+8	für	für	APPR	*	*	*	*
+9	Hanna-Renate	Hanna-Renate	NE	*	*	*	*
+10	Laurien	<unknown>	NN	*	*	*	*
+11	(	(	$(	*	*	*	*
+12	CDU	CDU	NE	*	*	*	*
+13	)	)	$(	*	*	*	*
+14	ins	in	APPRART	*	*	*	*
+15	Strick-Zeug	<unknown>	NN	*	*	*	*
+16	legte	legen	VVFIN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	keine	keine	PIAT	*	*	*	*
+19	Lust	Lust	NN	*	*	*	*
+20	hat	haben	VAFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	für	für	APPR	*	*	*	*
+23	Petra	Petra	NE	*	*	*	*
+24	Pau	<unknown>	NE	*	*	*	*
+25	(	(	$(	*	*	*	*
+26	PDS	PDS	NE	*	*	*	*
+27	)	)	$(	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Fäden	Faden	NN	2	2	2	2
+30	zu	zu	PTKZU	*	*	*	*
+31	ziehen	ziehen	VVINF	2	2	2	2
+
+# article_id = T960301.4
+# text = Die Fäden zog im Hintergrund wieder einmal Schmidbauer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Fäden	Faden	NN	2	2	2	2
+3	zog	ziehen	VVFIN	2	2	2	2
+4	im	in	APPRART	*	*	*	*
+5	Hintergrund	Hintergrund	NN	*	*	*	*
+6	wieder	wieder	ADV	*	*	*	*
+7	einmal	einmal	ADV	*	*	*	*
+8	Schmidbauer	Schmidbauer	NE	*	*	*	*
+9	.	.	$.	*	*	*	*
+
+# article_id = T961108.108
+# text = Daß Jelzin nicht zum erstenmal krankheitsbedingt ausfällt und jetzt schon monatelang nicht wirklich regiert , dafür aber andere die Fäden ziehen , liegt auf der Hand .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	Jelzin	Jelzin	NE	*	*	*	*
+3	nicht	nicht	PTKNEG	*	*	*	*
+4	zum	zu	APPRART	*	*	*	*
+5	erstenmal	erstenmal	NN	*	*	*	*
+6	krankheitsbedingt	krankheitsbedingt	ADJD	*	*	*	*
+7	ausfällt	ausfallen	VVFIN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	jetzt	jetzt	ADV	*	*	*	*
+10	schon	schon	ADV	*	*	*	*
+11	monatelang	monatelang	ADJD	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	wirklich	wirklich	ADJD	*	*	*	*
+14	regiert	regieren	VVPP	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	dafür	dafür	PAV	*	*	*	*
+17	aber	aber	ADV	*	*	*	*
+18	andere	andere	PIS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Fäden	Faden	NN	2	2	2	2
+21	ziehen	ziehen	VVINF	2	2	2	2
+22	,	,	$,	*	*	*	*
+23	liegt	liegen	VVFIN	*	*	*	*
+24	auf	auf	APPR	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Hand	Hand	NN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T960202.20
+# text = Und manch einer vermutet , das sei vielen bisher auch ganz lieb gewesen - seit seinen Tagen im Quirinalspalast des Staatspräsidenten beherrscht Maccanico es perfekt , aus dem Hintergrund die politischen Fäden zu ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	manch	manche	PIAT	*	*	*	*
+3	einer	eine	PIS	*	*	*	*
+4	vermutet	vermuten	VVPP	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	das	die	PDS	*	*	*	*
+7	sei	sein	VAFIN	*	*	*	*
+8	vielen	viele	PIS	*	*	*	*
+9	bisher	bisher	ADV	*	*	*	*
+10	auch	auch	ADV	*	*	*	*
+11	ganz	ganz	ADV	*	*	*	*
+12	lieb	lieb	ADJD	*	*	*	*
+13	gewesen	sein	VAPP	*	*	*	*
+14	-	-	$(	*	*	*	*
+15	seit	seit	APPR	*	*	*	*
+16	seinen	sein	PPOSAT	*	*	*	*
+17	Tagen	Tag	NN	*	*	*	*
+18	im	in	APPRART	*	*	*	*
+19	Quirinalspalast	<unknown>	NN	*	*	*	*
+20	des	die	ART	*	*	*	*
+21	Staatspräsidenten	Staatspräsident	NN	*	*	*	*
+22	beherrscht	beherrschen	VVFIN	*	*	*	*
+23	Maccanico	<unknown>	NE	*	*	*	*
+24	es	es	PPER	*	*	*	*
+25	perfekt	perfekt	ADJD	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	aus	aus	APPR	*	*	*	*
+28	dem	die	ART	*	*	*	*
+29	Hintergrund	Hintergrund	NN	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	politischen	politisch	ADJA	*	*	*	*
+32	Fäden	Faden	NN	2	2	2	2
+33	zu	zu	PTKZU	*	*	*	*
+34	ziehen	ziehen	VVINF	2	2	2	2
+35	.	.	$.	*	*	*	*
+
+# article_id = T960229.106
+# text = Anneliese Knop zog die Fäden
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Anneliese	Anneliese	NE	*	*	*	*
+2	Knop	<unknown>	NE	*	*	*	*
+3	zog	ziehen	VVFIN	2	2	2	2
+4	die	die	ART	*	*	*	*
+5	Fäden	Faden	NN	2	2	2	2
+
+# article_id = T960208.86
+# text = Prevals Vorgänger , Haitis beliebtester Politiker Jean Bertrand Aristide , werde nicht in den Kulissen die Fäden ziehen , wie einige dächten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Prevals	<unknown>	NN	*	*	*	*
+2	Vorgänger	Vorgänger	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	Haitis	Haiti	NE	*	*	*	*
+5	beliebtester	beliebt	ADJA	*	*	*	*
+6	Politiker	Politiker	NN	*	*	*	*
+7	Jean	Jean	NE	*	*	*	*
+8	Bertrand	Bertrand	NN	*	*	*	*
+9	Aristide	Aristide	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	werde	werden	VAFIN	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Kulissen	Kulisse	NN	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Fäden	Faden	NN	2	2	2	2
+18	ziehen	ziehen	VVINF	2	2	2	2
+19	,	,	$,	*	*	*	*
+20	wie	wie	KOUS	*	*	*	*
+21	einige	einige	PIS	*	*	*	*
+22	dächten	denken	VVFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T960228.147
+# text = Doch wie es sich mit der Untermalung und der chemischen Analyse ihrer Farbpigmente verhält und wo jeweils die mit bloßem Auge erkennbaren Einstiche der Nägel auf der Leinwand sind , mit deren Hilfe Vermeer Perspektivenkorrektheit garantierende Fäden zog , sei uns egal .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	wie	wie	KOUS	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Untermalung	Untermalung	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	chemischen	chemisch	ADJA	*	*	*	*
+11	Analyse	Analyse	NN	*	*	*	*
+12	ihrer	ihr	PPOSAT	*	*	*	*
+13	Farbpigmente	Farbpigment	NN	*	*	*	*
+14	verhält	verhalten	VVFIN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	wo	wo	PWAV	*	*	*	*
+17	jeweils	jeweils	ADV	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	mit	mit	APPR	*	*	*	*
+20	bloßem	bloß	ADJA	*	*	*	*
+21	Auge	Auge	NN	*	*	*	*
+22	erkennbaren	erkennbar	ADJA	*	*	*	*
+23	Einstiche	Einstich	NN	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	Nägel	Nagel	NN	*	*	*	*
+26	auf	auf	APPR	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Leinwand	Leinwand	NN	*	*	*	*
+29	sind	sein	VAFIN	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	mit	mit	APPR	*	*	*	*
+32	deren	die	PRELAT	*	*	*	*
+33	Hilfe	Hilfe	NN	*	*	*	*
+34	Vermeer	<unknown>	NN	*	*	*	*
+35	Perspektivenkorrektheit	<unknown>	NN	*	*	*	*
+36	garantierende	garantierend	ADJA	*	*	*	*
+37	Fäden	Faden	NN	1	2	2	2
+38	zog	ziehen	VVFIN	1	2	2	2
+39	,	,	$,	*	*	*	*
+40	sei	sein	VAFIN	*	*	*	*
+41	uns	wir	PPER	*	*	*	*
+42	egal	egal	ADJD	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T960226.264
+# text = " " Der Ortsverein Lüssum-Bockhorn hat personalpolitisch schon immer die Fäden gezogen " , weiß auch ein anderes SPD-Mitglied aus Bremen- Nord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	"	"	$(	*	*	*	*
+3	Der	die	ART	*	*	*	*
+4	Ortsverein	Ortsverein	NN	*	*	*	*
+5	Lüssum-Bockhorn	<unknown>	NE	*	*	*	*
+6	hat	haben	VAFIN	*	*	*	*
+7	personalpolitisch	personalpolitisch	ADJD	*	*	*	*
+8	schon	schon	ADV	*	*	*	*
+9	immer	immer	ADV	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Fäden	Faden	NN	2	2	2	2
+12	gezogen	ziehen	VVPP	2	2	2	2
+13	"	"	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	weiß	wissen	VVFIN	*	*	*	*
+16	auch	auch	ADV	*	*	*	*
+17	ein	eine	ART	*	*	*	*
+18	anderes	andere	PIAT	*	*	*	*
+19	SPD-Mitglied	SPD-Mitglied	NN	*	*	*	*
+20	aus	aus	APPR	*	*	*	*
+21	Bremen-	Bremen-	TRUNC	*	*	*	*
+22	Nord	Nord	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T980514.222
+# text = Folgerichtig beschreibt das wetteramtliche Informationsblatt " Geschäftsfeld Medien " die TV-bekannten Computeranimationen als " filmreife Szenen , bei denen wir hinter den Kulissen die Fäden ziehen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Folgerichtig	folgerichtig	ADJD	*	*	*	*
+2	beschreibt	beschreiben	VVFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	wetteramtliche	<unknown>	ADJA	*	*	*	*
+5	Informationsblatt	Informationsblatt	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	Geschäftsfeld	Geschäftsfeld	NN	*	*	*	*
+8	Medien	Medium	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	TV-bekannten	<unknown>	NN	*	*	*	*
+12	Computeranimationen	Computeranimation	NN	*	*	*	*
+13	als	als	KOKOM	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	filmreife	filmreif	ADJA	*	*	*	*
+16	Szenen	Szene	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	bei	bei	APPR	*	*	*	*
+19	denen	die	PRELS	*	*	*	*
+20	wir	wir	PPER	*	*	*	*
+21	hinter	hinter	APPR	*	*	*	*
+22	den	die	ART	*	*	*	*
+23	Kulissen	Kulisse	NN	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Fäden	Faden	NN	2	2	2	2
+26	ziehen	ziehen	VVINF	2	2	2	2
+27	"	"	$(	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T980623.178
+# text = Bei denen zog Zoubaier Baya die Fäden , während sich Mehdi Ben Slimane als Ministurmtank betätigte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	denen	die	PDS	*	*	*	*
+3	zog	ziehen	VVFIN	2	2	2	2
+4	Zoubaier	<unknown>	NE	*	*	*	*
+5	Baya	<unknown>	NE	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Fäden	Faden	NN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	während	während	KOUS	*	*	*	*
+10	sich	sich	PRF	*	*	*	*
+11	Mehdi	Mehdi	NE	*	*	*	*
+12	Ben	Ben	NE	*	*	*	*
+13	Slimane	<unknown>	NE	*	*	*	*
+14	als	als	KOKOM	*	*	*	*
+15	Ministurmtank	<unknown>	NN	*	*	*	*
+16	betätigte	betätigen	VVFIN	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T981024.90
+# text = Bald wird sie auch dort die Fäden ziehen , als Vertreterin des zweithöchsten Mannes im Staat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bald	bald	ADV	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	auch	auch	ADV	*	*	*	*
+5	dort	dort	ADV	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Fäden	Faden	NN	2	2	2	2
+8	ziehen	ziehen	VVINF	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	Vertreterin	Vertreterin	NN	*	*	*	*
+12	des	die	ART	*	*	*	*
+13	zweithöchsten	zweithöchst	ADJA	*	*	*	*
+14	Mannes	Mann	NN	*	*	*	*
+15	im	in	APPRART	*	*	*	*
+16	Staat	Staat	NN	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T980905.110
+# text = In seinem Plädoyer am Donnerstag versuchte sein kamerunischer Anwalt Olivier Inglis deshalb , Kambanda als " Marionette " darzustellen , an deren " Fäden die Militärs zogen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	seinem	sein	PPOSAT	*	*	*	*
+3	Plädoyer	Plädoyer	NN	*	*	*	*
+4	am	an	APPRART	*	*	*	*
+5	Donnerstag	Donnerstag	NN	*	*	*	*
+6	versuchte	versuchen	VVFIN	*	*	*	*
+7	sein	sein	PPOSAT	*	*	*	*
+8	kamerunischer	<unknown>	ADJA	*	*	*	*
+9	Anwalt	Anwalt	NN	*	*	*	*
+10	Olivier	Olivier	NE	*	*	*	*
+11	Inglis	<unknown>	NE	*	*	*	*
+12	deshalb	deshalb	PAV	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	Kambanda	<unknown>	NN	*	*	*	*
+15	als	als	KOKOM	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Marionette	Marionette	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	darzustellen	darstellen	VVIZU	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	an	an	APPR	*	*	*	*
+22	deren	die	PRELAT	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Fäden	Faden	NN	1	2	2	2
+25	die	die	ART	*	*	*	*
+26	Militärs	Militär	NN	*	*	*	*
+27	zogen	ziehen	VVFIN	1	2	2	2
+28	"	"	$(	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T980919.148
+# text = Das Netz derer , die die Fäden ziehen und am Organhandel gut verdienen , reicht bis in die Türkei
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	Netz	Netz	NN	*	*	*	*
+3	derer	die	PDS	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Fäden	Faden	NN	2	2	2	2
+8	ziehen	ziehen	VVINF	2	2	2	2
+9	und	und	KON	*	*	*	*
+10	am	an	APPRART	*	*	*	*
+11	Organhandel	Organhandel	NN	*	*	*	*
+12	gut	gut	ADJD	*	*	*	*
+13	verdienen	verdienen	VVINF	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	reicht	reichen	VVFIN	*	*	*	*
+16	bis	bis	KON	*	*	*	*
+17	in	in	APPR	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Türkei	Türkei	NE	*	*	*	*
+
+# article_id = T980919.255
+# text = Die Choreographie ist zwar anspruchsvoll in der Herausforderung ungewohnter Koordinationen und löst den Körper in bewegte Elemente mit Schräglagen und abgewinkelten Gliedern auf , die manchmal fast wie an Fäden gezogen auf- und zuklappen , pendeln und schwingen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Choreographie	Choreographie	NN	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	zwar	zwar	ADV	*	*	*	*
+5	anspruchsvoll	anspruchsvoll	ADJD	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Herausforderung	Herausforderung	NN	*	*	*	*
+9	ungewohnter	ungewohnt	ADJA	*	*	*	*
+10	Koordinationen	Koordination	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	löst	lösen	VVFIN	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Körper	Körper	NN	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	bewegte	bewegt	ADJA	*	*	*	*
+17	Elemente	Element	NN	*	*	*	*
+18	mit	mit	APPR	*	*	*	*
+19	Schräglagen	Schräglage	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	abgewinkelten	abgewinkelt	ADJA	*	*	*	*
+22	Gliedern	Glied|Gliedern	NN	*	*	*	*
+23	auf	auf	PTKVZ	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	die	die	PRELS	*	*	*	*
+26	manchmal	manchmal	ADV	*	*	*	*
+27	fast	fast	ADV	*	*	*	*
+28	wie	wie	KOKOM	*	*	*	*
+29	an	an	APPR	*	*	*	*
+30	Fäden	Faden	NN	1	2	2	2
+31	gezogen	ziehen	VVPP	1	2	2	2
+32	auf-	auf-	TRUNC	*	*	*	*
+33	und	und	KON	*	*	*	*
+34	zuklappen	zuklappen	VVFIN	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	pendeln	pendeln	VVINF	*	*	*	*
+37	und	und	KON	*	*	*	*
+38	schwingen	schwingen	VVFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T980119.65
+# text = Rau zog zwar die Fäden , er polarisierte aber nicht , er verharrte so lange im Unentschiedenen , bis sich eindeutige Mehrheiten abzeichneten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rau	Rau	NE	*	*	*	*
+2	zog	ziehen	VVFIN	2	2	2	2
+3	zwar	zwar	ADV	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Fäden	Faden	NN	2	2	2	2
+6	,	,	$,	*	*	*	*
+7	er	er	PPER	*	*	*	*
+8	polarisierte	polarisieren	VVFIN	*	*	*	*
+9	aber	aber	ADV	*	*	*	*
+10	nicht	nicht	PTKNEG	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	er	er	PPER	*	*	*	*
+13	verharrte	verharren	VVFIN	*	*	*	*
+14	so	so	ADV	*	*	*	*
+15	lange	lange	ADV	*	*	*	*
+16	im	in	APPRART	*	*	*	*
+17	Unentschiedenen	Unentschiedene	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	bis	bis	APPR	*	*	*	*
+20	sich	sich	PRF	*	*	*	*
+21	eindeutige	eindeutig	ADJA	*	*	*	*
+22	Mehrheiten	Mehrheit	NN	*	*	*	*
+23	abzeichneten	abzeichnen	VVFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T980715.74
+# text = Die Armee habe mehrere Personen identifiziert , die bei den Krawallen die Fäden gezogen hätten , erklärte der Militärsprecher .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Armee	Armee	NN	*	*	*	*
+3	habe	haben	VAFIN	*	*	*	*
+4	mehrere	mehrere	PIAT	*	*	*	*
+5	Personen	Person	NN	*	*	*	*
+6	identifiziert	identifizieren	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	bei	bei	APPR	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Krawallen	Krawall	NN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Fäden	Faden	NN	2	2	2	2
+14	gezogen	ziehen	VVPP	2	2	2	2
+15	hätten	haben	VAFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	erklärte	erklären	VVFIN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Militärsprecher	Militärsprecher	NN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T980711.105
+# text = So abweisend zeigte sich Bonn nicht immer : 1996 zogen Staatsminister Bernd Schmidbauer und Mauss ihre Fäden , um die kolumbianischen Konfliktparteien in Bonn an einen Tisch zu bringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	so	ADV	*	*	*	*
+2	abweisend	abweisend	ADJD	*	*	*	*
+3	zeigte	zeigen	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	Bonn	Bonn	NE	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	immer	immer	ADV	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	1996	@card@	CARD	*	*	*	*
+10	zogen	ziehen	VVFIN	2	2	2	2
+11	Staatsminister	Staatsminister	NN	*	*	*	*
+12	Bernd	Bernd	NE	*	*	*	*
+13	Schmidbauer	Schmidbauer	NE	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	Mauss	<unknown>	NN	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Fäden	Faden	NN	2	2	2	2
+18	,	,	$,	*	*	*	*
+19	um	um	KOUI	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	kolumbianischen	<unknown>	ADJA	*	*	*	*
+22	Konfliktparteien	Konfliktpartei	NN	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	Bonn	Bonn	NE	*	*	*	*
+25	an	an	APPR	*	*	*	*
+26	einen	eine	ART	*	*	*	*
+27	Tisch	Tisch	NN	*	*	*	*
+28	zu	zu	PTKZU	*	*	*	*
+29	bringen	bringen	VVINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T981219.22
+# text = Und im Vorfeld der Bestimmung der Delegierten , da sind die entscheidenden Fäden gezogen worden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	im	in	APPRART	*	*	*	*
+3	Vorfeld	Vorfeld	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Bestimmung	Bestimmung	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Delegierten	Delegierte	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	da	da	ADV	*	*	*	*
+10	sind	sein	VAFIN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	entscheidenden	entscheidend	ADJA	*	*	*	*
+13	Fäden	Faden	NN	2	2	2	2
+14	gezogen	ziehen	VVPP	2	2	2	2
+15	worden	werden	VAPP	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T981215.5
+# text = Neumann und Perschau , die in der CDU die dicksten Fäden ziehen , brauchen die vorderen Plätze zum Beispiel für treue Gefolgsleute wie es die 42jährige Annedore Windler ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Neumann	Neumann	NE	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	Perschau	<unknown>	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	CDU	CDU	NE	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	dicksten	dick	ADJA	*	*	*	*
+11	Fäden	Faden	NN	2	2	2	2
+12	ziehen	ziehen	VVINF	2	2	2	2
+13	,	,	$,	*	*	*	*
+14	brauchen	brauchen	VVFIN	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	vorderen	vorder	ADJA	*	*	*	*
+17	Plätze	Platz	NN	*	*	*	*
+18	zum	zu	APPRART	*	*	*	*
+19	Beispiel	Beispiel	NN	*	*	*	*
+20	für	für	APPR	*	*	*	*
+21	treue	treu	ADJA	*	*	*	*
+22	Gefolgsleute	Gefolgsleute	NN	*	*	*	*
+23	wie	wie	KOKOM	*	*	*	*
+24	es	es	PPER	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	42jährige	42jährig	ADJA	*	*	*	*
+27	Annedore	Annedore	NE	*	*	*	*
+28	Windler	<unknown>	NN	*	*	*	*
+29	ist	sein	VAFIN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T981211.436
+# text = Es heißt , daß er bei dem letztjährigen Wechsel die Fäden gezogen habe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	heißt	heißen	VVFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	daß	dass	KOUS	*	*	*	*
+5	er	er	PPER	*	*	*	*
+6	bei	bei	APPR	*	*	*	*
+7	dem	die	ART	*	*	*	*
+8	letztjährigen	letztjährig	ADJA	*	*	*	*
+9	Wechsel	Wechsel	NN	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Fäden	Faden	NN	2	2	2	2
+12	gezogen	ziehen	VVPP	2	2	2	2
+13	habe	haben	VAFIN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T980831.104
+# text = Zusammen mit ihm und dem Geheimdienstberater Vladimiro Montesinos zog Hermoza Rios die Fäden in Peru , er gilt als einer der mächtigsten Männer des Landes .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zusammen	zusammen	ADV	*	*	*	*
+2	mit	mit	APPR	*	*	*	*
+3	ihm	er	PPER	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	dem	die	ART	*	*	*	*
+6	Geheimdienstberater	<unknown>	NN	*	*	*	*
+7	Vladimiro	Vladimiro	NE	*	*	*	*
+8	Montesinos	<unknown>	NN	*	*	*	*
+9	zog	ziehen	VVFIN	2	2	2	2
+10	Hermoza	<unknown>	NE	*	*	*	*
+11	Rios	Rio	NE	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Fäden	Faden	NN	2	2	2	2
+14	in	in	APPR	*	*	*	*
+15	Peru	Peru	NE	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	er	er	PPER	*	*	*	*
+18	gilt	gelten	VVFIN	*	*	*	*
+19	als	als	KOKOM	*	*	*	*
+20	einer	eine	PIS	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	mächtigsten	mächtig	ADJA	*	*	*	*
+23	Männer	Mann	NN	*	*	*	*
+24	des	die	ART	*	*	*	*
+25	Landes	Land	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T980807.191
+# text = Wo politische Verantwortlichkeiten zu verschwimmen drohen , macht die Demo vor dem Roten Rathaus nur noch wenig Sinn - sind doch weder die Marionetten noch die an den Fäden ziehenden Großkapitalisten ernsthaft auszumachen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zusammen	zusammen	ADV	*	*	*	*
+2	mit	mit	APPR	*	*	*	*
+3	ihm	er	PPER	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	dem	die	ART	*	*	*	*
+6	Geheimdienstberater	<unknown>	NN	*	*	*	*
+7	Vladimiro	Vladimiro	NE	*	*	*	*
+8	Montesinos	<unknown>	NN	*	*	*	*
+9	zog	ziehen	VVFIN	2	2	2	2
+10	Hermoza	<unknown>	NE	*	*	*	*
+11	Rios	Rio	NE	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Fäden	Faden	NN	2	2	2	2
+14	in	in	APPR	*	*	*	*
+15	Peru	Peru	NE	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	er	er	PPER	*	*	*	*
+18	gilt	gelten	VVFIN	*	*	*	*
+19	als	als	KOKOM	*	*	*	*
+20	einer	eine	PIS	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	mächtigsten	mächtig	ADJA	*	*	*	*
+23	Männer	Mann	NN	*	*	*	*
+24	des	die	ART	*	*	*	*
+25	Landes	Land	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T980313.397
+# text = Die Kontrolle äußert sich hier eher als Manipulation denn als Zwang , und die Fäden werden aus der Ferne gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Kontrolle	Kontrolle	NN	*	*	*	*
+3	äußert	äußern	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	hier	hier	ADV	*	*	*	*
+6	eher	eher	ADV	*	*	*	*
+7	als	als	KOKOM	*	*	*	*
+8	Manipulation	Manipulation	NN	*	*	*	*
+9	denn	denn	KON	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	Zwang	Zwang	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	werden	werden	VAFIN	*	*	*	*
+17	aus	aus	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Ferne	Ferne	NN	*	*	*	*
+20	gezogen	ziehen	VVPP	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T981105.263
+# text = Die größeren historischen Taten des Politikers , der in Jena unter anderem bei Johann Gottlieb Fichte Philosophie studiert und Goethe und Schiller persönlich gekannt hatte , bevor er später in Bremen lernte , politische Fäden zu ziehen , sind weitgehend bekannt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	größeren	groß	ADJA	*	*	*	*
+3	historischen	historisch	ADJA	*	*	*	*
+4	Taten	Tat	NN	*	*	*	*
+5	des	die	ART	*	*	*	*
+6	Politikers	Politiker	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	PRELS	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	Jena	Jena	NE	*	*	*	*
+11	unter	unter	APPR	*	*	*	*
+12	anderem	andere	PIS	*	*	*	*
+13	bei	bei	APPR	*	*	*	*
+14	Johann	Johann	NE	*	*	*	*
+15	Gottlieb	Gottlieb	NE	*	*	*	*
+16	Fichte	Fichte	NN	*	*	*	*
+17	Philosophie	Philosophie	NN	*	*	*	*
+18	studiert	studieren	VVPP	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Goethe	Goethe	NE	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	Schiller	Schiller	NE	*	*	*	*
+23	persönlich	persönlich	ADJD	*	*	*	*
+24	gekannt	kennen	VVPP	*	*	*	*
+25	hatte	haben	VAFIN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	bevor	bevor	KOUS	*	*	*	*
+28	er	er	PPER	*	*	*	*
+29	später	spät	ADJD	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	Bremen	Bremen	NE	*	*	*	*
+32	lernte	lernen	VVFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	politische	politisch	ADJA	*	*	*	*
+35	Fäden	Faden	NN	2	2	2	2
+36	zu	zu	PTKZU	*	*	*	*
+37	ziehen	ziehen	VVINF	2	2	2	2
+38	,	,	$,	*	*	*	*
+39	sind	sein	VAFIN	*	*	*	*
+40	weitgehend	weitgehend	ADJD	*	*	*	*
+41	bekannt	bekennen	VVPP	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T981104.173
+# text = Als ich zum Beispiel die " Suspension events " gemacht habe , bei denen ich Fäden durch meine Haut ziehen ließ , an denen ich aufgehängt wurde , konnte man die Haken in meiner Haut sehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOUS	*	*	*	*
+2	ich	ich	PPER	*	*	*	*
+3	zum	zu	APPRART	*	*	*	*
+4	Beispiel	Beispiel	NN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	Suspension	Suspension	NN	*	*	*	*
+8	events	<unknown>	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	gemacht	machen	VVPP	*	*	*	*
+11	habe	haben	VAFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	bei	bei	APPR	*	*	*	*
+14	denen	die	PRELS	*	*	*	*
+15	ich	ich	PPER	*	*	*	*
+16	Fäden	Faden	NN	1	1	1	1
+17	durch	durch	APPR	*	*	*	*
+18	meine	mein	PPOSAT	*	*	*	*
+19	Haut	Haut	NN	*	*	*	*
+20	ziehen	ziehen	VVINF	1	1	1	1
+21	ließ	lassen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	an	an	APPR	*	*	*	*
+24	denen	die	PRELS	*	*	*	*
+25	ich	ich	PPER	*	*	*	*
+26	aufgehängt	aufhängen	VVPP	*	*	*	*
+27	wurde	werden	VAFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	konnte	können	VMFIN	*	*	*	*
+30	man	man	PIS	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	Haken	Haken	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	meiner	mein	PPOSAT	*	*	*	*
+35	Haut	Haut	NN	*	*	*	*
+36	sehen	sehen	VVINF	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T981104.175
+# text = " Im übrigen ist der 1946 geborene australische Künstler ein charmanter , freundlicher Gesprächspartner mit einigem Sinn für Humor - nicht gerade der Typ , von dem man erwarten würde , daß er sich für seine Kunst über den Straßen New Yorks aufhängen läßt - an Fäden , die direkt durch seine Haut gezogen wurden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Im	in	APPRART	*	*	*	*
+3	übrigen	übrig	ADJA	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	1946	@card@	CARD	*	*	*	*
+7	geborene	geboren	ADJA	*	*	*	*
+8	australische	australisch	ADJA	*	*	*	*
+9	Künstler	Künstler	NN	*	*	*	*
+10	ein	eine	ART	*	*	*	*
+11	charmanter	charmant	ADJA	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	freundlicher	freundlich	ADJA	*	*	*	*
+14	Gesprächspartner	Gesprächspartner	NN	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	einigem	einige	PIAT	*	*	*	*
+17	Sinn	Sinn	NN	*	*	*	*
+18	für	für	APPR	*	*	*	*
+19	Humor	Humor	NN	*	*	*	*
+20	-	-	$(	*	*	*	*
+21	nicht	nicht	PTKNEG	*	*	*	*
+22	gerade	gerade	ADV	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Typ	Typ	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	dem	die	ART	*	*	*	*
+28	man	man	PIS	*	*	*	*
+29	erwarten	erwarten	VVINF	*	*	*	*
+30	würde	werden	VAFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	daß	dass	KOUS	*	*	*	*
+33	er	er	PPER	*	*	*	*
+34	sich	sich	PRF	*	*	*	*
+35	für	für	APPR	*	*	*	*
+36	seine	sein	PPOSAT	*	*	*	*
+37	Kunst	Kunst	NN	*	*	*	*
+38	über	über	APPR	*	*	*	*
+39	den	die	ART	*	*	*	*
+40	Straßen	Straße	NN	*	*	*	*
+41	New	New	NE	*	*	*	*
+42	Yorks	York	NE	*	*	*	*
+43	aufhängen	aufhängen	VVINF	*	*	*	*
+44	läßt	lassen	VVFIN	*	*	*	*
+45	-	-	$(	*	*	*	*
+46	an	an	APPR	*	*	*	*
+47	Fäden	Faden	NN	1	1	1	1
+48	,	,	$,	*	*	*	*
+49	die	die	PRELS	*	*	*	*
+50	direkt	direkt	ADJD	*	*	*	*
+51	durch	durch	APPR	*	*	*	*
+52	seine	sein	PPOSAT	*	*	*	*
+53	Haut	Haut	NN	*	*	*	*
+54	gezogen	ziehen	VVPP	1	1	1	1
+55	wurden	werden	VAFIN	*	*	*	*
+56	.	.	$.	*	*	*	*
+
+# article_id = T980216.267
+# text = " Immerhin etwas , denn das spieltechnische Pulver war bereits 15 Minuten nach Winterpausenende verschossen - trotzdem Pröpper-Vertreter und Spielmacher Christian Springer bemüht war , die Fäden zu ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Immerhin	immerhin	ADV	*	*	*	*
+3	etwas	etwas	ADV	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	denn	denn	KON	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	spieltechnische	spieltechnisch	ADJA	*	*	*	*
+8	Pulver	Pulver	NN	*	*	*	*
+9	war	sein	VAFIN	*	*	*	*
+10	bereits	bereits	ADV	*	*	*	*
+11	15	@card@	CARD	*	*	*	*
+12	Minuten	Minute	NN	*	*	*	*
+13	nach	nach	APPR	*	*	*	*
+14	Winterpausenende	<unknown>	NN	*	*	*	*
+15	verschossen	verschießen	VVPP	*	*	*	*
+16	-	-	$(	*	*	*	*
+17	trotzdem	trotzdem	PAV	*	*	*	*
+18	Pröpper-Vertreter	<unknown>	NN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Spielmacher	Spielmacher	NN	*	*	*	*
+21	Christian	Christian	NE	*	*	*	*
+22	Springer	Springer	NN	*	*	*	*
+23	bemüht	bemühen	VVPP	*	*	*	*
+24	war	sein	VAFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	Fäden	Faden	NN	2	2	2	2
+28	zu	zu	PTKZU	*	*	*	*
+29	ziehen	ziehen	VVINF	2	2	2	2
+30	.	.	$.	*	*	*	*
+
+# article_id = T980217.108
+# text = Dort , in der " Koordinierungsstelle gewerkschaftlicher Arbeitslosengruppen " , werden die Fäden der landesweiten Aktionen gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dort	dort	ADV	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Koordinierungsstelle	Koordinierungsstelle	NN	*	*	*	*
+7	gewerkschaftlicher	gewerkschaftlich	ADJA	*	*	*	*
+8	Arbeitslosengruppen	Arbeitslosengruppe	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	werden	werden	VAFIN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Fäden	Faden	NN	2	2	2	2
+14	der	die	ART	*	*	*	*
+15	landesweiten	landesweit	ADJA	*	*	*	*
+16	Aktionen	Aktion	NN	*	*	*	*
+17	gezogen	ziehen	VVPP	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T970515.309
+# text = Er weiß dabei SPD-Bürgermeister Henning Voscherau klammheimlich auf seiner Seite , der schon einmal als Stadtchef so vergnügt die rot-gelben Fäden zog , daß er 1991 , überraschend plötzlich mit der absoluten Mehrheit der Mandate ausgestattet , der FDP das Mitregieren anbot , um seine Parteilinke besser unter Kontrolle zu halten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	weiß	wissen	VVFIN	*	*	*	*
+3	dabei	dabei	PAV	*	*	*	*
+4	SPD-Bürgermeister	SPD-Bürgermeister	NN	*	*	*	*
+5	Henning	Henning	NE	*	*	*	*
+6	Voscherau	<unknown>	NN	*	*	*	*
+7	klammheimlich	klammheimlich	ADJD	*	*	*	*
+8	auf	auf	APPR	*	*	*	*
+9	seiner	sein	PPOSAT	*	*	*	*
+10	Seite	Seite	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	schon	schon	ADV	*	*	*	*
+14	einmal	einmal	ADV	*	*	*	*
+15	als	als	KOKOM	*	*	*	*
+16	Stadtchef	Stadtchef	NN	*	*	*	*
+17	so	so	ADV	*	*	*	*
+18	vergnügt	vergnügen	VVFIN	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	rot-gelben	rot-gelb	ADJA	*	*	*	*
+21	Fäden	Faden	NN	2	2	2	2
+22	zog	ziehen	VVFIN	2	2	2	2
+23	,	,	$,	*	*	*	*
+24	daß	dass	KOUS	*	*	*	*
+25	er	er	PPER	*	*	*	*
+26	1991	@card@	CARD	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	überraschend	überraschend	ADJD	*	*	*	*
+29	plötzlich	plötzlich	ADJD	*	*	*	*
+30	mit	mit	APPR	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	absoluten	absolut	ADJA	*	*	*	*
+33	Mehrheit	Mehrheit	NN	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	Mandate	Mandat	NN	*	*	*	*
+36	ausgestattet	ausstatten	VVPP	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	FDP	FDP	NE	*	*	*	*
+40	das	die	ART	*	*	*	*
+41	Mitregieren	Mitregieren	NN	*	*	*	*
+42	anbot	anbieten	VVFIN	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	um	um	KOUI	*	*	*	*
+45	seine	sein	PPOSAT	*	*	*	*
+46	Parteilinke	Parteilinke	NN	*	*	*	*
+47	besser	gut	ADJD	*	*	*	*
+48	unter	unter	APPR	*	*	*	*
+49	Kontrolle	Kontrolle	NN	*	*	*	*
+50	zu	zu	PTKZU	*	*	*	*
+51	halten	halten	VVINF	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T970509.45
+# text = Es handelt sich um den einstigen Paten der Mafia im Allgäu , Vito di Stefano , der jahrelang von einer Pizzeria in Memmingen aus die Fäden gezogen haben soll .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	handelt	handeln	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	um	um	APPR	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	einstigen	einstig	ADJA	*	*	*	*
+7	Paten	Pate	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Mafia	Mafia	NN	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	Allgäu	Allgäu	NE	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	Vito	Vito	NE	*	*	*	*
+14	di	di	NE	*	*	*	*
+15	Stefano	Stefano	NE	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	der	die	PRELS	*	*	*	*
+18	jahrelang	jahrelang	ADJD	*	*	*	*
+19	von	von	APPR	*	*	*	*
+20	einer	eine	ART	*	*	*	*
+21	Pizzeria	Pizzeria	NN	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	Memmingen	Memmingen	NE	*	*	*	*
+24	aus	aus	APPR	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Fäden	Faden	NN	2	2	2	2
+27	gezogen	ziehen	VVPP	2	2	2	2
+28	haben	haben	VAINF	*	*	*	*
+29	soll	sollen	VMFIN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T970603.104
+# text = Er bietet Einsichten , wie der späte Ulbricht Konföderationsgedanken nachgehangen habe , während Honecker bereits die Fäden hinter dessen Rücken zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	bietet	bieten	VVFIN	*	*	*	*
+3	Einsichten	Einsicht	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	wie	wie	KOUS	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	späte	spät	ADJA	*	*	*	*
+8	Ulbricht	Ulbricht	NE	*	*	*	*
+9	Konföderationsgedanken	Konföderationsgedanke	NN	*	*	*	*
+10	nachgehangen	nachhängen	VVPP	*	*	*	*
+11	habe	haben	VAFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	während	während	KOUS	*	*	*	*
+14	Honecker	Honecker	NE	*	*	*	*
+15	bereits	bereits	ADV	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Fäden	Faden	NN	2	2	2	2
+18	hinter	hinter	APPR	*	*	*	*
+19	dessen	die	PDAT	*	*	*	*
+20	Rücken	Rücken	NN	*	*	*	*
+21	zog	ziehen	VVFIN	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T971017.353
+# text = Die strategischen Überlegungen bleiben Washington vorbehalten , wo diejenigen sitzen , die die Fäden ziehen : die US-Regierung und die internationalen Finanzinstitutionen wie der Internationale Währungsfonds ( IWF ) und die Weltbank , die mit der Regierung gemeinsame Sache machen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	strategischen	strategisch	ADJA	*	*	*	*
+3	Überlegungen	Überlegung	NN	*	*	*	*
+4	bleiben	bleiben	VVFIN	*	*	*	*
+5	Washington	Washington	NE	*	*	*	*
+6	vorbehalten	vorbehalten	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	wo	wo	PWAV	*	*	*	*
+9	diejenigen	diejenigen	PDS	*	*	*	*
+10	sitzen	sitzen	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	ziehen	ziehen	VVINF	2	2	2	2
+16	:	:	$.	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	US-Regierung	US-Regierung	NN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	internationalen	international	ADJA	*	*	*	*
+22	Finanzinstitutionen	Finanzinstitution	NN	*	*	*	*
+23	wie	wie	KOKOM	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	Internationale	Internationale	NN	*	*	*	*
+26	Währungsfonds	Währungsfonds	NN	*	*	*	*
+27	(	(	$(	*	*	*	*
+28	IWF	IWF	NE	*	*	*	*
+29	)	)	$(	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	Weltbank	Weltbank	NN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	die	die	PRELS	*	*	*	*
+35	mit	mit	APPR	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	Regierung	Regierung	NN	*	*	*	*
+38	gemeinsame	gemeinsam	ADJA	*	*	*	*
+39	Sache	Sache	NN	*	*	*	*
+40	machen	machen	VVINF	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T971013.78
+# text = Scheinbar bescheiden leugnet Vaatz , die maßgeblichen Fäden gezogen zu haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Scheinbar	scheinbar	ADJD	*	*	*	*
+2	bescheiden	bescheiden	ADJD	*	*	*	*
+3	leugnet	leugnen	VVFIN	*	*	*	*
+4	Vaatz	<unknown>	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	maßgeblichen	maßgeblich	ADJA	*	*	*	*
+8	Fäden	Faden	NN	2	2	2	2
+9	gezogen	ziehen	VVPP	2	2	2	2
+10	zu	zu	PTKZU	*	*	*	*
+11	haben	haben	VAINF	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T971015.277
+# text = Über alledem schwebt der einbeinige Philanthrop und Säufer Christian , bei dem die Fäden , an denen zu ziehen er sich weigert , zusammenlaufen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Über	über	APPR	*	*	*	*
+2	alledem	alldie	PDS	*	*	*	*
+3	schwebt	schweben	VVFIN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	einbeinige	einbeinig	ADJA	*	*	*	*
+6	Philanthrop	Philanthrop	NN	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	Säufer	Säufer	NN	*	*	*	*
+9	Christian	Christian	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	bei	bei	APPR	*	*	*	*
+12	dem	die	PRELS	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	an	an	APPR	*	*	*	*
+17	denen	die	PRELS	*	*	*	*
+18	zu	zu	ADV	*	*	*	*
+19	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+20	er	er	PPER	*	*	*	*
+21	sich	sich	PRF	*	*	*	*
+22	weigert	weigern	VVFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	zusammenlaufen	zusammenlaufen	VVINF	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T970909.42
+# text = In Zaire , dem 1971 ausgerufenen neuen Staat , sollte es keinen Pluralismus geben , keine Privatwirtschaft , keine europäischen Namen oder Kleidung ; statt dessen Einheitspartei mit Zwangsmitgliedschaft , Führerkult und beispielloser Wohlstandskonzentration in den Händen der herrschenden Elite , an deren Spitze Mobutu alle Fäden zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Zaire	Zaire	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	dem	die	PRELS	*	*	*	*
+5	1971	@card@	CARD	*	*	*	*
+6	ausgerufenen	ausgerufen	ADJA	*	*	*	*
+7	neuen	neu	ADJA	*	*	*	*
+8	Staat	Staat	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	sollte	sollen	VMFIN	*	*	*	*
+11	es	es	PPER	*	*	*	*
+12	keinen	keine	PIAT	*	*	*	*
+13	Pluralismus	Pluralismus	NN	*	*	*	*
+14	geben	geben	VVINF	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	keine	keine	PIAT	*	*	*	*
+17	Privatwirtschaft	Privatwirtschaft	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	keine	keine	PIAT	*	*	*	*
+20	europäischen	europäisch	ADJA	*	*	*	*
+21	Namen	Name	NN	*	*	*	*
+22	oder	oder	KON	*	*	*	*
+23	Kleidung	Kleidung	NN	*	*	*	*
+24	;	;	$.	*	*	*	*
+25	statt	statt	APPR	*	*	*	*
+26	dessen	die	PDAT	*	*	*	*
+27	Einheitspartei	Einheitspartei	NN	*	*	*	*
+28	mit	mit	APPR	*	*	*	*
+29	Zwangsmitgliedschaft	Zwangsmitgliedschaft	NN	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	Führerkult	Führerkult	NN	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	beispielloser	beispiellos	ADJA	*	*	*	*
+34	Wohlstandskonzentration	<unknown>	NN	*	*	*	*
+35	in	in	APPR	*	*	*	*
+36	den	die	ART	*	*	*	*
+37	Händen	Hand	NN	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	herrschenden	herrschend	ADJA	*	*	*	*
+40	Elite	Elite	NN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	an	an	APPR	*	*	*	*
+43	deren	die	PRELAT	*	*	*	*
+44	Spitze	Spitze	NN	*	*	*	*
+45	Mobutu	<unknown>	NN	*	*	*	*
+46	alle	alle	PIAT	*	*	*	*
+47	Fäden	Faden	NN	2	2	2	2
+48	zog	ziehen	VVFIN	2	2	2	2
+49	.	.	$.	*	*	*	*
+
+# article_id = T970913.268
+# text = Schon 1995 hatte Haller aus dem Hintergrund der AfB die Fäden gezogen und das Ziel einer Ablösung der SPD aus dem Rathaus verfolgt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schon	schon	ADV	*	*	*	*
+2	1995	@card@	CARD	*	*	*	*
+3	hatte	haben	VAFIN	*	*	*	*
+4	Haller	Haller	NN	*	*	*	*
+5	aus	aus	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	Hintergrund	Hintergrund	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	AfB	<unknown>	NN	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Fäden	Faden	NN	2	2	2	2
+12	gezogen	ziehen	VVPP	2	2	2	2
+13	und	und	KON	*	*	*	*
+14	das	die	ART	*	*	*	*
+15	Ziel	Ziel	NN	*	*	*	*
+16	einer	eine	ART	*	*	*	*
+17	Ablösung	Ablösung	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	SPD	SPD	NE	*	*	*	*
+20	aus	aus	APPR	*	*	*	*
+21	dem	die	ART	*	*	*	*
+22	Rathaus	Rathaus	NN	*	*	*	*
+23	verfolgt	verfolgen	VVPP	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T970918.197
+# text = Sozusagen von Geisterhand werden dabei die Fäden einer wirren Technikalptraum-Geschichte gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sozusagen	sozusagen	ADV	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	Geisterhand	Geisterhand	NN	*	*	*	*
+4	werden	werden	VAFIN	*	*	*	*
+5	dabei	dabei	PAV	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Fäden	Faden	NN	2	2	2	2
+8	einer	eine	ART	*	*	*	*
+9	wirren	wirr	ADJA	*	*	*	*
+10	Technikalptraum-Geschichte	<unknown>	NN	*	*	*	*
+11	gezogen	ziehen	VVPP	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T970908.67
+# text = Organisiert wird die kommunale Macht vom Verband der kommunalen Aktionäre ( VKA ) , in dem Stadtdirektoren und Bürgermeister von SPD und CDU die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Organisiert	organisieren	VVPP	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	kommunale	kommunal	ADJA	*	*	*	*
+5	Macht	Macht	NN	*	*	*	*
+6	vom	von	APPRART	*	*	*	*
+7	Verband	Verband	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	kommunalen	kommunal	ADJA	*	*	*	*
+10	Aktionäre	Aktionär	NN	*	*	*	*
+11	(	(	$(	*	*	*	*
+12	VKA	VKA	NE	*	*	*	*
+13	)	)	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	dem	die	ART	*	*	*	*
+17	Stadtdirektoren	Stadtdirektor	NN	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	Bürgermeister	Bürgermeister	NN	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	SPD	SPD	NE	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	CDU	CDU	NE	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Fäden	Faden	NN	2	2	2	2
+26	ziehen	ziehen	VVINF	2	2	2	2
+27	.	.	$.	*	*	*	*
+
+# article_id = T970102.124
+# text = Oder der Anfang vom " Paten " , wenn die Kamera langsam vom Gesicht des Bittstellers ( " Ich glaube an Amerrrika " ) zurückzoomt , bis die Silhouette des Godfather-Kopfes die halbe Leinwand ausfüllt : Kann man diskreter und deutlicher zeigen , wer hier als Schattenmann die Fäden ziehen wird ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Oder	oder	KON	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Anfang	Anfang	NN	*	*	*	*
+4	vom	von	APPRART	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Paten	Pate	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	wenn	wenn	KOUS	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Kamera	Kamera	NN	*	*	*	*
+12	langsam	langsam	ADJD	*	*	*	*
+13	vom	von	APPRART	*	*	*	*
+14	Gesicht	Gesicht	NN	*	*	*	*
+15	des	die	ART	*	*	*	*
+16	Bittstellers	Bittsteller	NN	*	*	*	*
+17	(	(	$(	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	Ich	Ich	NN	*	*	*	*
+20	glaube	glauben	VVFIN	*	*	*	*
+21	an	an	APPR	*	*	*	*
+22	Amerrrika	<unknown>	NE	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	)	)	$(	*	*	*	*
+25	zurückzoomt	<unknown>	VVPP	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	bis	bis	KOUS	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Silhouette	Silhouette	NN	*	*	*	*
+30	des	die	ART	*	*	*	*
+31	Godfather-Kopfes	<unknown>	NN	*	*	*	*
+32	die	die	ART	*	*	*	*
+33	halbe	halb	ADJA	*	*	*	*
+34	Leinwand	Leinwand	NN	*	*	*	*
+35	ausfüllt	ausfüllen	VVFIN	*	*	*	*
+36	:	:	$.	*	*	*	*
+37	Kann	können	VMFIN	*	*	*	*
+38	man	man	PIS	*	*	*	*
+39	diskreter	diskret	ADJD	*	*	*	*
+40	und	und	KON	*	*	*	*
+41	deutlicher	deutlich	ADJD	*	*	*	*
+42	zeigen	zeigen	VVFIN	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	wer	wer	PWS	*	*	*	*
+45	hier	hier	ADV	*	*	*	*
+46	als	als	KOKOM	*	*	*	*
+47	Schattenmann	Schattenmann	NN	*	*	*	*
+48	die	die	ART	*	*	*	*
+49	Fäden	Faden	NN	2	2	2	2
+50	ziehen	ziehen	VVINF	2	2	2	2
+51	wird	werden	VAFIN	*	*	*	*
+52	?	?	$.	*	*	*	*
+
+# article_id = T970113.71
+# text = Nicht viel anders klingt die Kritik von Umweltministerin Bärbel Höhn , die einst mit Busch und Kreutz zusammen im linken Forum die politischen Fäden zog .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	viel	viel	ADV	*	*	*	*
+3	anders	anders	ADV	*	*	*	*
+4	klingt	klingen	VVFIN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Kritik	Kritik	NN	*	*	*	*
+7	von	von	APPR	*	*	*	*
+8	Umweltministerin	Umweltministerin	NN	*	*	*	*
+9	Bärbel	Bärbel	NE	*	*	*	*
+10	Höhn	Höhn	NE	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	einst	einst	ADV	*	*	*	*
+14	mit	mit	APPR	*	*	*	*
+15	Busch	Busch	NE	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Kreutz	Kreutz	NE	*	*	*	*
+18	zusammen	zusammen	ADV	*	*	*	*
+19	im	in	APPRART	*	*	*	*
+20	linken	links	ADJA	*	*	*	*
+21	Forum	Forum	NN	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	politischen	politisch	ADJA	*	*	*	*
+24	Fäden	Faden	NN	2	2	2	2
+25	zog	ziehen	VVFIN	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T970422.255
+# text = Der Staatsrat im Wirtschaftsressort hat mal wieder bewiesen , daß niemand so prima Fäden ziehen kann wie er .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Staatsrat	Staatsrat	NN	*	*	*	*
+3	im	in	APPRART	*	*	*	*
+4	Wirtschaftsressort	Wirtschaftsressort	NN	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	mal	mal	ADV	*	*	*	*
+7	wieder	wieder	ADV	*	*	*	*
+8	bewiesen	beweisen	VVPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	daß	dass	KOUS	*	*	*	*
+11	niemand	niemand	PIS	*	*	*	*
+12	so	so	ADV	*	*	*	*
+13	prima	prima	ADJA	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	ziehen	ziehen	VVINF	2	2	2	2
+16	kann	können	VMFIN	*	*	*	*
+17	wie	wie	KOKOM	*	*	*	*
+18	er	er	PPER	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T970425.336
+# text = Immer wieder drehen sie sich im Kreis herum wie von unsichtbaren Fäden gezogen , jeder in einem anderen selbstgewählten Kreisel .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Immer	immer	ADV	*	*	*	*
+2	wieder	wieder	ADV	*	*	*	*
+3	drehen	drehen	VVFIN	*	*	*	*
+4	sie	sie	PPER	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	Kreis	Kreis	NN	*	*	*	*
+8	herum	herum	PTKVZ	*	*	*	*
+9	wie	wie	KOKOM	*	*	*	*
+10	von	von	APPR	*	*	*	*
+11	unsichtbaren	unsichtbar	ADJA	*	*	*	*
+12	Fäden	Faden	NN	1	2	2	2
+13	gezogen	ziehen	VVPP	1	2	2	2
+14	,	,	$,	*	*	*	*
+15	jeder	jede	PIS	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	einem	eine	ART	*	*	*	*
+18	anderen	andere	PIS	*	*	*	*
+19	selbstgewählten	selbstgewählt	ADJA	*	*	*	*
+20	Kreisel	Kreisel	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T970701.20
+# text = Die extravagante Abschiedsfeier der englischen Kolonialherren - da gab es in Mikrochipgewand verhüllte Tänzer und orientalische Modeshows - konnte nicht verdecken , wer auch bei den gestrigen Festivitäten hinter den Kulissen der Wolkenkratzer die Fäden zog , wer Hongkong gestern beherrschte und auch heute dominiert : Leute wie James Tien .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	extravagante	extravagant	ADJA	*	*	*	*
+3	Abschiedsfeier	Abschiedsfeier	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	englischen	englisch	ADJA	*	*	*	*
+6	Kolonialherren	Kolonialherr	NN	*	*	*	*
+7	-	-	$(	*	*	*	*
+8	da	da	ADV	*	*	*	*
+9	gab	geben	VVFIN	*	*	*	*
+10	es	es	PPER	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	Mikrochipgewand	<unknown>	NN	*	*	*	*
+13	verhüllte	verhüllt	ADJA	*	*	*	*
+14	Tänzer	Tänzer	NN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	orientalische	orientalisch	ADJA	*	*	*	*
+17	Modeshows	Modeshow	NN	*	*	*	*
+18	-	-	$(	*	*	*	*
+19	konnte	können	VMFIN	*	*	*	*
+20	nicht	nicht	PTKNEG	*	*	*	*
+21	verdecken	verdecken	VVINF	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	wer	wer	PWS	*	*	*	*
+24	auch	auch	ADV	*	*	*	*
+25	bei	bei	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	gestrigen	gestrig	ADJA	*	*	*	*
+28	Festivitäten	Festivität	NN	*	*	*	*
+29	hinter	hinter	APPR	*	*	*	*
+30	den	die	ART	*	*	*	*
+31	Kulissen	Kulisse	NN	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	Wolkenkratzer	Wolkenkratzer	NN	*	*	*	*
+34	die	die	ART	*	*	*	*
+35	Fäden	Faden	NN	2	2	2	2
+36	zog	ziehen	VVFIN	2	2	2	2
+37	,	,	$,	*	*	*	*
+38	wer	wer	PWS	*	*	*	*
+39	Hongkong	Hongkong	NE	*	*	*	*
+40	gestern	gestern	ADV	*	*	*	*
+41	beherrschte	beherrschen	VVFIN	*	*	*	*
+42	und	und	KON	*	*	*	*
+43	auch	auch	ADV	*	*	*	*
+44	heute	heute	ADV	*	*	*	*
+45	dominiert	dominieren	VVPP	*	*	*	*
+46	:	:	$.	*	*	*	*
+47	Leute	Leute	NN	*	*	*	*
+48	wie	wie	KOKOM	*	*	*	*
+49	James	James	NE	*	*	*	*
+50	Tien	Tien	NE	*	*	*	*
+51	.	.	$.	*	*	*	*
+
+# article_id = T970707.43
+# text = Bei dem Konflikt handelt sich nicht mehr nur um einen Machtkampf zwischen Plavsic und ihrem Vorgänger Radovan Karadzic , der nach wie vor alle Fäden ziehen will .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	Konflikt	Konflikt	NN	*	*	*	*
+4	handelt	handeln	VVFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	mehr	mehr	ADV	*	*	*	*
+8	nur	nur	ADV	*	*	*	*
+9	um	um	APPR	*	*	*	*
+10	einen	eine	ART	*	*	*	*
+11	Machtkampf	Machtkampf	NN	*	*	*	*
+12	zwischen	zwischen	APPR	*	*	*	*
+13	Plavsic	<unknown>	NE	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	ihrem	ihr	PPOSAT	*	*	*	*
+16	Vorgänger	Vorgänger	NN	*	*	*	*
+17	Radovan	Radovan	NE	*	*	*	*
+18	Karadzic	Karadzic	NE	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	der	die	PRELS	*	*	*	*
+21	nach	nach	APPO	*	*	*	*
+22	wie	wie	KOKOM	*	*	*	*
+23	vor	vor	APPR	*	*	*	*
+24	alle	alle	PIAT	*	*	*	*
+25	Fäden	Faden	NN	2	2	2	2
+26	ziehen	ziehen	VVINF	2	2	2	2
+27	will	wollen	VMFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T971213.150
+# text = Seit der Verurteilung des HB-Vorstands hatte sie unermüdlich ihre Fäden hinter den Kulissen gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Verurteilung	Verurteilung	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	HB-Vorstands	<unknown>	NN	*	*	*	*
+6	hatte	haben	VAFIN	*	*	*	*
+7	sie	sie	PPER	*	*	*	*
+8	unermüdlich	unermüdlich	ADJD	*	*	*	*
+9	ihre	ihr	PPOSAT	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	hinter	hinter	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Kulissen	Kulisse	NN	*	*	*	*
+14	gezogen	ziehen	VVPP	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T971206.242
+# text = Die Fäden in diesem ausgedehnten Geflecht zwischen den Standorten von inzwischen 17 Museen , die zur Stiftung Preußischer Kulturbesitz gehören , hat seit 20 Jahren der Stiftungspräsident Werner Knopp gezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Fäden	Faden	NN	2	2	2	2
+3	in	in	APPR	*	*	*	*
+4	diesem	dies	PDAT	*	*	*	*
+5	ausgedehnten	ausgedehnt	ADJA	*	*	*	*
+6	Geflecht	Geflecht	NN	*	*	*	*
+7	zwischen	zwischen	APPR	*	*	*	*
+8	den	die	ART	*	*	*	*
+9	Standorten	Standort	NN	*	*	*	*
+10	von	von	APPR	*	*	*	*
+11	inzwischen	inzwischen	ADV	*	*	*	*
+12	17	@card@	CARD	*	*	*	*
+13	Museen	Museum	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	zur	zu	APPRART	*	*	*	*
+17	Stiftung	Stiftung	NN	*	*	*	*
+18	Preußischer	preußisch	ADJA	*	*	*	*
+19	Kulturbesitz	Kulturbesitz	NN	*	*	*	*
+20	gehören	gehören	VVFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	hat	haben	VAFIN	*	*	*	*
+23	seit	seit	APPR	*	*	*	*
+24	20	@card@	CARD	*	*	*	*
+25	Jahren	Jahr	NN	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	Stiftungspräsident	Stiftungspräsident	NN	*	*	*	*
+28	Werner	Werner	NE	*	*	*	*
+29	Knopp	<unknown>	NN	*	*	*	*
+30	gezogen	ziehen	VVPP	2	2	2	2
+31	.	.	$.	*	*	*	*
+
+# article_id = T971222.212
+# text = Schon damals zog er lieber aus dem Hintergrund die Fäden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schon	schon	ADV	*	*	*	*
+2	damals	damals	ADV	*	*	*	*
+3	zog	ziehen	VVFIN	2	2	2	2
+4	er	er	PPER	*	*	*	*
+5	lieber	lieb	ADJD	*	*	*	*
+6	aus	aus	APPR	*	*	*	*
+7	dem	die	ART	*	*	*	*
+8	Hintergrund	Hintergrund	NN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T971211.44
+# text = Wagner zog die Fäden im unübersichtlichen HAG-Firmengeflecht und setzte auf alle wichtigen Unternehmenspositionen Mitglieder seiner vielköpfigen Familie .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wagner	Wagner	NE	*	*	*	*
+2	zog	ziehen	VVFIN	2	2	2	2
+3	die	die	ART	*	*	*	*
+4	Fäden	Faden	NN	2	2	2	2
+5	im	in	APPRART	*	*	*	*
+6	unübersichtlichen	unübersichtlich	ADJA	*	*	*	*
+7	HAG-Firmengeflecht	<unknown>	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	setzte	setzen	VVFIN	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	alle	alle	PIAT	*	*	*	*
+12	wichtigen	wichtig	ADJA	*	*	*	*
+13	Unternehmenspositionen	<unknown>	NN	*	*	*	*
+14	Mitglieder	Mitglied	NN	*	*	*	*
+15	seiner	sein	PPOSAT	*	*	*	*
+16	vielköpfigen	vielköpfig	ADJA	*	*	*	*
+17	Familie	Familie	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T970815.237
+# text = Um dem Titel des besten Fußballers der Welt zu genügen , muß er allerdings noch die strategische Vollkommenheit eines Di Stefano , eines Pele oder Cruyff erlangen und sich nicht nur zwischen Mittellinie und gegnerischem Strafraum bewegen , sondern seine Fäden über das gesamte Spielfeld ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Um	um	KOUI	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	Titel	Titel	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	besten	gut	ADJA	*	*	*	*
+6	Fußballers	Fußballer	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Welt	Welt	NN	*	*	*	*
+9	zu	zu	PTKZU	*	*	*	*
+10	genügen	genügen	VVINF	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	muß	müssen	VMFIN	*	*	*	*
+13	er	er	PPER	*	*	*	*
+14	allerdings	allerdings	ADV	*	*	*	*
+15	noch	noch	ADV	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	strategische	strategisch	ADJA	*	*	*	*
+18	Vollkommenheit	Vollkommenheit	NN	*	*	*	*
+19	eines	eine	ART	*	*	*	*
+20	Di	Di	NE	*	*	*	*
+21	Stefano	Stefano	NE	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	eines	eine	ART	*	*	*	*
+24	Pele	<unknown>	TRUNC	*	*	*	*
+25	oder	oder	KON	*	*	*	*
+26	Cruyff	<unknown>	NN	*	*	*	*
+27	erlangen	erlangen	VVINF	*	*	*	*
+28	und	und	KON	*	*	*	*
+29	sich	sich	PRF	*	*	*	*
+30	nicht	nicht	PTKNEG	*	*	*	*
+31	nur	nur	ADV	*	*	*	*
+32	zwischen	zwischen	APPR	*	*	*	*
+33	Mittellinie	Mittellinie	NN	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	gegnerischem	gegnerisch	ADJA	*	*	*	*
+36	Strafraum	Strafraum	NN	*	*	*	*
+37	bewegen	bewegen	VVINF	*	*	*	*
+38	,	,	$,	*	*	*	*
+39	sondern	sondern	KON	*	*	*	*
+40	seine	sein	PPOSAT	*	*	*	*
+41	Fäden	Faden	NN	2	2	2	2
+42	über	über	APPR	*	*	*	*
+43	das	die	ART	*	*	*	*
+44	gesamte	gesamt	ADJA	*	*	*	*
+45	Spielfeld	Spielfeld	NN	*	*	*	*
+46	ziehen	ziehen	VVINF	2	2	2	2
+47	.	.	$.	*	*	*	*
+
+# article_id = T970827.167
+# text = Frank Zimmermann ( SPD ) , Sprecher und " Michel Platini " der Finanzverwaltung , soll die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Frank	Frank	NE	*	*	*	*
+2	Zimmermann	Zimmermann	NE	*	*	*	*
+3	(	(	$(	*	*	*	*
+4	SPD	SPD	NE	*	*	*	*
+5	)	)	$(	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Sprecher	Sprecher	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Michel	Michel	NE	*	*	*	*
+11	Platini	<unknown>	NE	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Finanzverwaltung	Finanzverwaltung	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	soll	sollen	VMFIN	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Fäden	Faden	NN	2	2	2	2
+19	ziehen	ziehen	VVINF	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T970802.239
+# text = AfB-Spitzenmann und dann Wirtschaftssenator der Koalition , für die Haller mit der AfB schon 1995 Fäden gezogen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	AfB-Spitzenmann	<unknown>	NN	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	dann	dann	ADV	*	*	*	*
+4	Wirtschaftssenator	Wirtschaftssenator	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Koalition	Koalition	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	für	für	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Haller	Haller	NN	*	*	*	*
+11	mit	mit	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	AfB	<unknown>	NN	*	*	*	*
+14	schon	schon	ADV	*	*	*	*
+15	1995	@card@	CARD	*	*	*	*
+16	Fäden	Faden	NN	2	2	2	2
+17	gezogen	ziehen	VVPP	2	2	2	2
+18	hat	haben	VAFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T970301.146
+# text = " OibE " , so eines der landesüblichen Kürzel , zogen hier die Fäden , Offiziere im besonderen Einsatz .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	OibE	<unknown>	NE	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	so	so	ADV	*	*	*	*
+6	eines	eine	PIS	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	landesüblichen	landesüblich	ADJA	*	*	*	*
+9	Kürzel	Kürzel	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	zogen	ziehen	VVFIN	2	2	2	2
+12	hier	hier	ADV	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	Offiziere	Offizier	NN	*	*	*	*
+17	im	in	APPRART	*	*	*	*
+18	besonderen	besonder	ADJA	*	*	*	*
+19	Einsatz	Einsatz	NN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T971126.9
+# text = Daß man den Extremisten in Brcko sowohl bei den Kommunalwahlen wie bei der Umstrukturierung der Polizei nachgab , daß man die recht starke Opposition in der ostbosnischen Stadt Bijeljina im Stich ließ , daß die Kriegsverbrecher nach wie vor Fäden ziehen dürfen , wirft ein Schlaglicht auf die Halbherzigkeit der internationalen Politik .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	man	man	PIS	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	Extremisten	Extremist	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Brcko	<unknown>	NE	*	*	*	*
+7	sowohl	sowohl	KON	*	*	*	*
+8	bei	bei	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Kommunalwahlen	Kommunalwahl	NN	*	*	*	*
+11	wie	wie	KOKOM	*	*	*	*
+12	bei	bei	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Umstrukturierung	Umstrukturierung	NN	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Polizei	Polizei	NN	*	*	*	*
+17	nachgab	nachgeben	VVFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	daß	dass	KOUS	*	*	*	*
+20	man	man	PIS	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	recht	recht	ADJD	*	*	*	*
+23	starke	stark	ADJA	*	*	*	*
+24	Opposition	Opposition	NN	*	*	*	*
+25	in	in	APPR	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	ostbosnischen	ostbosnisch	ADJA	*	*	*	*
+28	Stadt	Stadt	NN	*	*	*	*
+29	Bijeljina	<unknown>	NE	*	*	*	*
+30	im	in	APPRART	*	*	*	*
+31	Stich	Stich	NN	*	*	*	*
+32	ließ	lassen	VVFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	daß	dass	KOUS	*	*	*	*
+35	die	die	ART	*	*	*	*
+36	Kriegsverbrecher	Kriegsverbrecher	NN	*	*	*	*
+37	nach	nach	PTKVZ	*	*	*	*
+38	wie	wie	KOKOM	*	*	*	*
+39	vor	vor	APPR	*	*	*	*
+40	Fäden	Faden	NN	2	2	2	2
+41	ziehen	ziehen	VVINF	2	2	2	2
+42	dürfen	dürfen	VMINF	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	wirft	werfen	VVFIN	*	*	*	*
+45	ein	eine	ART	*	*	*	*
+46	Schlaglicht	Schlaglicht	NN	*	*	*	*
+47	auf	auf	APPR	*	*	*	*
+48	die	die	ART	*	*	*	*
+49	Halbherzigkeit	<unknown>	NN	*	*	*	*
+50	der	die	ART	*	*	*	*
+51	internationalen	international	ADJA	*	*	*	*
+52	Politik	Politik	NN	*	*	*	*
+53	.	.	$.	*	*	*	*
+
+# article_id = T970227.121
+# text = Die Fäden im Hintergrund zu ziehen liegt Heide Rühle mehr als der Auftritt vor Fernsehkameras .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Fäden	Faden	NN	2	2	2	2
+3	im	in	APPRART	*	*	*	*
+4	Hintergrund	Hintergrund	NN	*	*	*	*
+5	zu	zu	PTKZU	*	*	*	*
+6	ziehen	ziehen	VVINF	2	2	2	2
+7	liegt	liegen	VVFIN	*	*	*	*
+8	Heide	Heide	NE	*	*	*	*
+9	Rühle	<unknown>	NN	*	*	*	*
+10	mehr	mehr	ADV	*	*	*	*
+11	als	als	KOKOM	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Auftritt	Auftritt	NN	*	*	*	*
+14	vor	vor	APPR	*	*	*	*
+15	Fernsehkameras	Fernsehkamera	NN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T940503.176
+# text = Wegen Fälschung von 188 Überweisungsaufträgen mit einem Gesamtbetrag von fast einer Million Mark stehen ein 24jähriger Ex- Bankkaufmann , der dank seiner Fachkenntnisse die Fäden gezogen haben soll , und drei Mitangeklagte im Alter von 22 bis 27 Jahren vor Gericht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wegen	wegen	APPR	*	*	*	*
+2	Fälschung	Fälschung	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	188	@card@	CARD	*	*	*	*
+5	Überweisungsaufträgen	Überweisungsauftrag	NN	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	einem	eine	ART	*	*	*	*
+8	Gesamtbetrag	Gesamtbetrag	NN	*	*	*	*
+9	von	von	APPR	*	*	*	*
+10	fast	fast	ADV	*	*	*	*
+11	einer	eine	ART	*	*	*	*
+12	Million	Million	NN	*	*	*	*
+13	Mark	Mark	NN	*	*	*	*
+14	stehen	stehen	VVFIN	*	*	*	*
+15	ein	eine	ART	*	*	*	*
+16	24jähriger	24jährig	ADJA	*	*	*	*
+17	Ex-	Ex-	TRUNC	*	*	*	*
+18	Bankkaufmann	Bankkaufmann	NE	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	der	die	PRELS	*	*	*	*
+21	dank	dank	APPR	*	*	*	*
+22	seiner	sein	PPOSAT	*	*	*	*
+23	Fachkenntnisse	Fachkenntnis	NN	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Fäden	Faden	NN	2	2	2	2
+26	gezogen	ziehen	VVPP	2	2	2	2
+27	haben	haben	VAINF	*	*	*	*
+28	soll	sollen	VMFIN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	drei	drei	CARD	*	*	*	*
+32	Mitangeklagte	Mitangeklagte	NN	*	*	*	*
+33	im	in	APPRART	*	*	*	*
+34	Alter	Alter	NN	*	*	*	*
+35	von	von	APPR	*	*	*	*
+36	22	@card@	CARD	*	*	*	*
+37	bis	bis	KON	*	*	*	*
+38	27	@card@	CARD	*	*	*	*
+39	Jahren	Jahr	NN	*	*	*	*
+40	vor	vor	APPR	*	*	*	*
+41	Gericht	Gericht	NN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T940513.139
+# text = Katharina von Medici zog die Fäden bei dieser Intrige .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Katharina	Katharina	NE	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	Medici	<unknown>	NE	*	*	*	*
+4	zog	ziehen	VVFIN	2	2	2	2
+5	die	die	ART	*	*	*	*
+6	Fäden	Faden	NN	2	2	2	2
+7	bei	bei	APPR	*	*	*	*
+8	dieser	dies	PDAT	*	*	*	*
+9	Intrige	Intrige	NN	*	*	*	*
+10	.	.	$.	*	*	*	*
+
+# article_id = T941017.59
+# text = " Doch wenn deutsche Nazis beginnen , von hier aus die Fäden zu ziehen , müssen wir Flagge zeigen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Doch	doch	ADV	*	*	*	*
+3	wenn	wenn	KOUS	*	*	*	*
+4	deutsche	deutsch	ADJA	*	*	*	*
+5	Nazis	Nazi	NN	*	*	*	*
+6	beginnen	beginnen	VVFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	hier	hier	ADV	*	*	*	*
+10	aus	aus	APPR	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Fäden	Faden	NN	2	2	2	2
+13	zu	zu	PTKZU	*	*	*	*
+14	ziehen	ziehen	VVINF	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	müssen	müssen	VMFIN	*	*	*	*
+17	wir	wir	PPER	*	*	*	*
+18	Flagge	Flagge	NN	*	*	*	*
+19	zeigen	zeigen	VVINF	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T940928.239
+# text = Rund um dieses Experimentierfeld nutzen die Woosters Mischpulte und Mikros , um wie Chirurgen oder Puppenspieler die Fäden zu ziehen und das Geschehen auf der Bühne zu gestalten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rund	rund	ADV	*	*	*	*
+2	um	um	APPR	*	*	*	*
+3	dieses	dies	PDAT	*	*	*	*
+4	Experimentierfeld	<unknown>	NN	*	*	*	*
+5	nutzen	nutzen	VVFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Woosters	<unknown>	NN	*	*	*	*
+8	Mischpulte	Mischpult	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Mikros	Mikro	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	um	um	KOUI	*	*	*	*
+13	wie	wie	KOKOM	*	*	*	*
+14	Chirurgen	Chirurg	NN	*	*	*	*
+15	oder	oder	KON	*	*	*	*
+16	Puppenspieler	Puppenspieler	NN	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Fäden	Faden	NN	2	2	2	2
+19	zu	zu	PTKZU	*	*	*	*
+20	ziehen	ziehen	VVINF	2	2	2	2
+21	und	und	KON	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	Geschehen	Geschehen	NN	*	*	*	*
+24	auf	auf	APPR	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Bühne	Bühne	NN	*	*	*	*
+27	zu	zu	PTKZU	*	*	*	*
+28	gestalten	gestalten	VVINF	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T940922.119
+# text = Südafrikas Geheimpolizei schlug gegen Biko im Herbst 1977 zu , als die IUEF gerade die Fäden für ein geheimes Treffen in London zwischen ihm und Oliver Tambo , dem ANC- Führer im Exil , zog , um die beiden Organisationen zusammenzubringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Südafrikas	Südafrika	NE	*	*	*	*
+2	Geheimpolizei	Geheimpolizei	NN	*	*	*	*
+3	schlug	schlagen	VVFIN	*	*	*	*
+4	gegen	gegen	APPR	*	*	*	*
+5	Biko	<unknown>	NN	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	Herbst	Herbst	NN	*	*	*	*
+8	1977	@card@	CARD	*	*	*	*
+9	zu	zu	PTKVZ	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	als	als	KOUS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	IUEF	<unknown>	NN	*	*	*	*
+14	gerade	gerade	ADV	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Fäden	Faden	NN	2	2	2	2
+17	für	für	APPR	*	*	*	*
+18	ein	eine	ART	*	*	*	*
+19	geheimes	geheim	ADJA	*	*	*	*
+20	Treffen	Treffen	NN	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	London	London	NE	*	*	*	*
+23	zwischen	zwischen	APPR	*	*	*	*
+24	ihm	er	PPER	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	Oliver	Oliver	NE	*	*	*	*
+27	Tambo	Tambo	NE	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	dem	die	ART	*	*	*	*
+30	ANC-	ANC-	TRUNC	*	*	*	*
+31	Führer	Führer	NN	*	*	*	*
+32	im	in	APPRART	*	*	*	*
+33	Exil	Exil	NN	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	zog	ziehen	VVFIN	2	2	2	2
+36	,	,	$,	*	*	*	*
+37	um	um	KOUI	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	beiden	beide	PIAT	*	*	*	*
+40	Organisationen	Organisation	NN	*	*	*	*
+41	zusammenzubringen	zusammenbringen	VVIZU	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T940117.65
+# text = Boban wird bei den Gesprächen von Mile Akmadzic vertreten , der schon seit einigen Monaten in der Westherzegowina politisch die Fäden zu ziehen scheint .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Boban	Boban	NE	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	bei	bei	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Gesprächen	Gespräch	NN	*	*	*	*
+6	von	von	APPR	*	*	*	*
+7	Mile	Mile	NE	*	*	*	*
+8	Akmadzic	<unknown>	NE	*	*	*	*
+9	vertreten	vertreten	VVPP	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	PRELS	*	*	*	*
+12	schon	schon	ADV	*	*	*	*
+13	seit	seit	APPR	*	*	*	*
+14	einigen	einige	PIAT	*	*	*	*
+15	Monaten	Monat	NN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Westherzegowina	Westherzegowina	NE	*	*	*	*
+19	politisch	politisch	ADJD	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Fäden	Faden	NN	2	2	2	2
+22	zu	zu	PTKZU	*	*	*	*
+23	ziehen	ziehen	VVINF	2	2	2	2
+24	scheint	scheinen	VVFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T940124.236
+# text = Der Ball eckte und rollte jetzt wie an einem Faden gezogen über den grünen Filz - beeindruckend .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Ball	Ball	NN	*	*	*	*
+3	eckte	ecken	VVFIN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	rollte	rollen	VVFIN	*	*	*	*
+6	jetzt	jetzt	ADV	*	*	*	*
+7	wie	wie	KOKOM	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	einem	eine	ART	*	*	*	*
+10	Faden	Faden	NN	1	2	2	2
+11	gezogen	ziehen	VVPP	1	2	2	2
+12	über	über	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	grünen	grün	ADJA	*	*	*	*
+15	Filz	Filz	NN	*	*	*	*
+16	-	-	$(	*	*	*	*
+17	beeindruckend	beeindruckend	ADJD	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T940409.63
+# text = Klar ist : Das in zwanzig Jahren Habyarimana-Herrschaft gewachsene Staatswesen Ruandas , in dem Verwandte und Freunde des Hutu- Präsidenten die Fäden zogen , bricht auseinander .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Klar	klar	ADJD	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	Das	die	ART	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	zwanzig	zwanzig	CARD	*	*	*	*
+7	Jahren	Jahr	NN	*	*	*	*
+8	Habyarimana-Herrschaft	<unknown>	NN	*	*	*	*
+9	gewachsene	gewachst	ADJA	*	*	*	*
+10	Staatswesen	Staatswesen	NN	*	*	*	*
+11	Ruandas	Ruanda	NE	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	dem	die	ART	*	*	*	*
+15	Verwandte	Verwandte	NN	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Freunde	Freund	NN	*	*	*	*
+18	des	die	ART	*	*	*	*
+19	Hutu-	Hutu-	TRUNC	*	*	*	*
+20	Präsidenten	Präsident	NN	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Fäden	Faden	NN	2	2	2	2
+23	zogen	ziehen	VVFIN	2	2	2	2
+24	,	,	$,	*	*	*	*
+25	bricht	brechen	VVFIN	*	*	*	*
+26	auseinander	auseinander	PTKVZ	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T940409.303
+# text = Der 28jährige Kjendalen , bis 1992 beim TuS Schutterwald unter Vertrag und zuletzt bei IL Runar Sandefjord / Norwegen am Ball , soll beim VfL als Spielmacher die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	28jährige	28jährig	ADJA	*	*	*	*
+3	Kjendalen	<unknown>	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	bis	bis	APPR	*	*	*	*
+6	1992	@card@	CARD	*	*	*	*
+7	beim	bei	APPRART	*	*	*	*
+8	TuS	<unknown>	NN	*	*	*	*
+9	Schutterwald	<unknown>	NN	*	*	*	*
+10	unter	unter	APPR	*	*	*	*
+11	Vertrag	Vertrag	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	zuletzt	zuletzt	ADV	*	*	*	*
+14	bei	bei	APPR	*	*	*	*
+15	IL	<unknown>	NN	*	*	*	*
+16	Runar	<unknown>	NE	*	*	*	*
+17	Sandefjord	<unknown>	NE	*	*	*	*
+18	/	/	$(	*	*	*	*
+19	Norwegen	Norwegen	NE	*	*	*	*
+20	am	an	APPRART	*	*	*	*
+21	Ball	Ball	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	soll	sollen	VMFIN	*	*	*	*
+24	beim	bei	APPRART	*	*	*	*
+25	VfL	<unknown>	NN	*	*	*	*
+26	als	als	KOKOM	*	*	*	*
+27	Spielmacher	Spielmacher	NN	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Fäden	Faden	NN	2	2	2	2
+30	ziehen	ziehen	VVINF	2	2	2	2
+31	.	.	$.	*	*	*	*
+
+# article_id = T941212.28
+# text = Hinter allem vermutet er eine Verschwörung , deren Fäden in Moskau und Grosny gleichzeitig gezogen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hinter	hinter	APPR	*	*	*	*
+2	allem	alle	PIS	*	*	*	*
+3	vermutet	vermuten	VVFIN	*	*	*	*
+4	er	er	PPER	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	Verschwörung	Verschwörung	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	deren	die	PRELAT	*	*	*	*
+9	Fäden	Faden	NN	2	2	2	2
+10	in	in	APPR	*	*	*	*
+11	Moskau	Moskau	NE	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Grosny	<unknown>	NE	*	*	*	*
+14	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
+15	gezogen	ziehen	VVPP	2	2	2	2
+16	werden	werden	VAINF	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T941229.34
+# text = Vielleicht noch ausgeprägter als den Frauen in Serbien und Kroatien , ist es ihnen innerhalb der bosnischen Gesellschaft jedoch gelungen , die Fäden im Hintergrund zu ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vielleicht	vielleicht	ADV	*	*	*	*
+2	noch	noch	ADV	*	*	*	*
+3	ausgeprägter	ausgeprägt	ADJD	*	*	*	*
+4	als	als	KOKOM	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	Frauen	Frau	NN	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Serbien	Serbien	NE	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Kroatien	Kroatien	NE	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	ist	sein	VAFIN	*	*	*	*
+13	es	es	PPER	*	*	*	*
+14	ihnen	sie	PPER	*	*	*	*
+15	innerhalb	innerhalb	APPR	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	bosnischen	bosnisch	ADJA	*	*	*	*
+18	Gesellschaft	Gesellschaft	NN	*	*	*	*
+19	jedoch	jedoch	ADV	*	*	*	*
+20	gelungen	gelingen	VVPP	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Fäden	Faden	NN	2	2	2	2
+24	im	in	APPRART	*	*	*	*
+25	Hintergrund	Hintergrund	NN	*	*	*	*
+26	zu	zu	PTKZU	*	*	*	*
+27	ziehen	ziehen	VVINF	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T940813.48
+# text = Für den Bremer Monopolisten zog hinter den Kulissen längst ein anderer die Fäden : Claus Grobecker , zuletzt Finanzsenator und gut befreundet mit Hennemann , der seine Laufbahn als Sanierer der Bremer Werften im Amt des Staatssekretärs im Wirtschaftsministerium der kleinen , aber feinen Hansestadt begonnen hatte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Für	für	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Bremer	Bremer	NN	*	*	*	*
+4	Monopolisten	Monopolist	NN	*	*	*	*
+5	zog	ziehen	VVFIN	2	2	2	2
+6	hinter	hinter	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Kulissen	Kulisse	NN	*	*	*	*
+9	längst	längst	ADV	*	*	*	*
+10	ein	eine	ART	*	*	*	*
+11	anderer	andere	PIS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Fäden	Faden	NN	2	2	2	2
+14	:	:	$.	*	*	*	*
+15	Claus	Claus	NE	*	*	*	*
+16	Grobecker	Grobecker	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	zuletzt	zuletzt	ADV	*	*	*	*
+19	Finanzsenator	Finanzsenator	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	gut	gut	ADJD	*	*	*	*
+22	befreundet	befreunden	VVPP	*	*	*	*
+23	mit	mit	APPR	*	*	*	*
+24	Hennemann	Hennemann	NE	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	der	die	PRELS	*	*	*	*
+27	seine	sein	PPOSAT	*	*	*	*
+28	Laufbahn	Laufbahn	NN	*	*	*	*
+29	als	als	KOKOM	*	*	*	*
+30	Sanierer	Sanierer	NN	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	Bremer	Bremer	NN	*	*	*	*
+33	Werften	Werft	NN	*	*	*	*
+34	im	in	APPRART	*	*	*	*
+35	Amt	Amt	NN	*	*	*	*
+36	des	die	ART	*	*	*	*
+37	Staatssekretärs	Staatssekretär	NN	*	*	*	*
+38	im	in	APPRART	*	*	*	*
+39	Wirtschaftsministerium	Wirtschaftsministerium	NN	*	*	*	*
+40	der	die	ART	*	*	*	*
+41	kleinen	klein	ADJA	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	aber	aber	ADV	*	*	*	*
+44	feinen	fein	ADJA	*	*	*	*
+45	Hansestadt	Hansestadt	NN	*	*	*	*
+46	begonnen	beginnen	VVPP	*	*	*	*
+47	hatte	haben	VAFIN	*	*	*	*
+48	.	.	$.	*	*	*	*
+
+# article_id = T941124.186
+# text = Während Wissenschaftler bekanntlich dazu neigen , Strukturen und Prozesse jenseits der unmittelbar Handelnden in den Mittelpunkt zu stellen , hält der Ex-Außenminister die Fäden , die er zog , auch für jene , die die Welt bewegen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	APPR	*	*	*	*
+2	Wissenschaftler	Wissenschaftler	NN	*	*	*	*
+3	bekanntlich	bekanntlich	ADV	*	*	*	*
+4	dazu	dazu	PAV	*	*	*	*
+5	neigen	neigen	VVINF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Strukturen	Struktur	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Prozesse	Prozess	NN	*	*	*	*
+10	jenseits	jenseits	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	unmittelbar	unmittelbar	ADJD	*	*	*	*
+13	Handelnden	Handelnde	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	Mittelpunkt	Mittelpunkt	NN	*	*	*	*
+17	zu	zu	PTKZU	*	*	*	*
+18	stellen	stellen	VVINF	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	hält	halten	VVFIN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Ex-Außenminister	Ex-Außenminister	NN	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	Fäden	Faden	NN	2	2	2	2
+25	,	,	$,	*	*	*	*
+26	die	die	PRELS	*	*	*	*
+27	er	er	PPER	*	*	*	*
+28	zog	ziehen	VVFIN	2	2	2	2
+29	,	,	$,	*	*	*	*
+30	auch	auch	ADV	*	*	*	*
+31	für	für	APPR	*	*	*	*
+32	jene	jen	PDS	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	die	die	PRELS	*	*	*	*
+35	die	die	ART	*	*	*	*
+36	Welt	Welt	NN	*	*	*	*
+37	bewegen	bewegen	VVINF	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T940226.81
+# text = Ein halbes Jahrhundert lang zog J. Edgar Hoover die Fäden bei der US-amerikanischen Bundespolizei / Er war korrupt , verklemmt , paranoid , haßte Linke , Juden , Schwarze , Schwule und kollaborierte mit der Mafia
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	halbes	halb	ADJA	*	*	*	*
+3	Jahrhundert	Jahrhundert	NN	*	*	*	*
+4	lang	lang	ADJD	*	*	*	*
+5	zog	ziehen	VVFIN	2	2	2	2
+6	J.	j.	APPR	*	*	*	*
+7	Edgar	Edgar	NE	*	*	*	*
+8	Hoover	<unknown>	NE	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Fäden	Faden	NN	2	2	2	2
+11	bei	bei	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	US-amerikanischen	US-amerikanisch	ADJA	*	*	*	*
+14	Bundespolizei	Bundespolizei	NN	*	*	*	*
+15	/	/	$(	*	*	*	*
+16	Er	<unknown>	VVIMP	*	*	*	*
+17	war	sein	VAFIN	*	*	*	*
+18	korrupt	korrupt	ADJD	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	verklemmt	verklemmen	VVPP	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	paranoid	paranoid	ADJD	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	haßte	hassen	VVFIN	*	*	*	*
+25	Linke	Linke	NN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	Juden	Jude	NN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	Schwarze	Schwarze	NN	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	Schwule	Schwule	NN	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	kollaborierte	kollaborieren	VVFIN	*	*	*	*
+34	mit	mit	APPR	*	*	*	*
+35	der	die	ART	*	*	*	*
+36	Mafia	Mafia	NN	*	*	*	*
+
+# article_id = T940209.11
+# text = Einkaufsberater Möllemann zog die Fäden und bescherte Schalke 04 nach dem Sonnen ( flecken ) könig Eichberg einen neuen Heilsbringer als Präsidenten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Einkaufsberater	<unknown>	NN	*	*	*	*
+2	Möllemann	Möllemann	NE	*	*	*	*
+3	zog	ziehen	VVFIN	2	2	2	2
+4	die	die	ART	*	*	*	*
+5	Fäden	Faden	NN	2	2	2	2
+6	und	und	KON	*	*	*	*
+7	bescherte	beschert	ADJA	*	*	*	*
+8	Schalke	Schalk	NN	*	*	*	*
+9	04	@card@	CARD	*	*	*	*
+10	nach	nach	APPR	*	*	*	*
+11	dem	die	ART	*	*	*	*
+12	Sonnen	Sonne	NN	*	*	*	*
+13	(	(	$(	*	*	*	*
+14	flecken	flecken	VVINF	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	könig	<unknown>	ADJA	*	*	*	*
+17	Eichberg	Eichberg	NN	*	*	*	*
+18	einen	eine	ART	*	*	*	*
+19	neuen	neu	ADJA	*	*	*	*
+20	Heilsbringer	Heilsbringer	NN	*	*	*	*
+21	als	als	KOKOM	*	*	*	*
+22	Präsidenten	Präsident	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T950526.256
+# text = Es geht um Dirk Oetelshovens Jim Knopfs neue Abenteuer , wo sich die Schauspieler wie die an Fäden gezogenen Marionetten der Augsburger Puppenkiste bewegen , was die beiden Lichtmeß-Vertreter recht gut vorführen können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Einkaufsberater	<unknown>	NN	*	*	*	*
+2	Möllemann	Möllemann	NE	*	*	*	*
+3	zog	ziehen	VVFIN	2	2	2	2
+4	die	die	ART	*	*	*	*
+5	Fäden	Faden	NN	2	2	2	2
+6	und	und	KON	*	*	*	*
+7	bescherte	beschert	ADJA	*	*	*	*
+8	Schalke	Schalk	NN	*	*	*	*
+9	04	@card@	CARD	*	*	*	*
+10	nach	nach	APPR	*	*	*	*
+11	dem	die	ART	*	*	*	*
+12	Sonnen	Sonne	NN	*	*	*	*
+13	(	(	$(	*	*	*	*
+14	flecken	flecken	VVINF	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	könig	<unknown>	ADJA	*	*	*	*
+17	Eichberg	Eichberg	NN	*	*	*	*
+18	einen	eine	ART	*	*	*	*
+19	neuen	neu	ADJA	*	*	*	*
+20	Heilsbringer	Heilsbringer	NN	*	*	*	*
+21	als	als	KOKOM	*	*	*	*
+22	Präsidenten	Präsident	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T950623.89
+# text = Nicht zuletzt wird dies von der Haltung der Mächtigen im Kreml und im Weißen Haus abhängen , die im Hintergrund die Fäden ziehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	zuletzt	zuletzt	ADV	*	*	*	*
+3	wird	werden	VAFIN	*	*	*	*
+4	dies	dies	PDS	*	*	*	*
+5	von	von	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Haltung	Haltung	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Mächtigen	Mächtige	NN	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	Kreml	Kreml	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	im	in	APPRART	*	*	*	*
+14	Weißen	Weiß	NN	*	*	*	*
+15	Haus	Haus	NN	*	*	*	*
+16	abhängen	abhängen	VVINF	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	die	die	PRELS	*	*	*	*
+19	im	in	APPRART	*	*	*	*
+20	Hintergrund	Hintergrund	NN	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Fäden	Faden	NN	2	2	2	2
+23	ziehen	ziehen	VVINF	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T950904.104
+# text = Als Chef der Düsseldorfer Staatskanzlei zog der 55jährige Jurist und Journalist Wolfgang Clement für seinen Regierungschef und persönlichen Freund Johannes Rau im Hintergrund die politischen Fäden - zielstrebig , nervenstark , mitunter ruppig .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOKOM	*	*	*	*
+2	Chef	Chef	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Düsseldorfer	Düsseldorfer	ADJA	*	*	*	*
+5	Staatskanzlei	Staatskanzlei	NN	*	*	*	*
+6	zog	ziehen	VVFIN	2	2	2	2
+7	der	die	ART	*	*	*	*
+8	55jährige	55jährig	ADJA	*	*	*	*
+9	Jurist	Jurist	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Journalist	Journalist	NN	*	*	*	*
+12	Wolfgang	Wolfgang	NE	*	*	*	*
+13	Clement	Clement	NE	*	*	*	*
+14	für	für	APPR	*	*	*	*
+15	seinen	sein	PPOSAT	*	*	*	*
+16	Regierungschef	Regierungschef	NN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	persönlichen	persönlich	ADJA	*	*	*	*
+19	Freund	Freund	NN	*	*	*	*
+20	Johannes	Johannes	NE	*	*	*	*
+21	Rau	Rau	NE	*	*	*	*
+22	im	in	APPRART	*	*	*	*
+23	Hintergrund	Hintergrund	NN	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	politischen	politisch	ADJA	*	*	*	*
+26	Fäden	Faden	NN	2	2	2	2
+27	-	-	$(	*	*	*	*
+28	zielstrebig	zielstrebig	ADJD	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	nervenstark	nervenstark	ADJD	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	mitunter	mitunter	ADV	*	*	*	*
+33	ruppig	ruppig	ADJD	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T950123.94
+# text = Das wirft ein Licht darauf , wie in der Führungsetage die Fäden gezogen werden für eine schleichende Veränderung des nach außen gezeichneten Profils einer sich erneuernden , ehrlichen , pluralistischen Oppositionspartei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	wirft	werfen	VVFIN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	Licht	Licht	NN	*	*	*	*
+5	darauf	darauf	PAV	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wie	wie	KOUS	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Führungsetage	Führungsetage	NN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Fäden	Faden	NN	2	2	2	2
+13	gezogen	ziehen	VVPP	2	2	2	2
+14	werden	werden	VAFIN	*	*	*	*
+15	für	für	APPR	*	*	*	*
+16	eine	eine	ART	*	*	*	*
+17	schleichende	schleichend	ADJA	*	*	*	*
+18	Veränderung	Veränderung	NN	*	*	*	*
+19	des	die	ART	*	*	*	*
+20	nach	nach	APPR	*	*	*	*
+21	außen	außen	ADV	*	*	*	*
+22	gezeichneten	gezeichnet	ADJA	*	*	*	*
+23	Profils	Profil	NN	*	*	*	*
+24	einer	eine	ART	*	*	*	*
+25	sich	sich	PRF	*	*	*	*
+26	erneuernden	erneuernd	ADJA	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	ehrlichen	ehrlich	ADJA	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	pluralistischen	pluralistisch	ADJA	*	*	*	*
+31	Oppositionspartei	Oppositionspartei	NN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T950126.159
+# text = Wenn diejenigen , die die Fäden in diesem Krieg ziehen - außerhalb und auf dem Balkan - die Nato gebraucht hätten , dann hätte es genügend Gründe gegeben , sie zum Einsatz kommen zu lassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	diejenigen	diejenigen	PDS	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Fäden	Faden	NN	2	2	2	2
+7	in	in	APPR	*	*	*	*
+8	diesem	dies	PDAT	*	*	*	*
+9	Krieg	Krieg	NN	*	*	*	*
+10	ziehen	ziehen	VVINF	2	2	2	2
+11	-	-	$(	*	*	*	*
+12	außerhalb	außerhalb	ADV	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	auf	auf	APPR	*	*	*	*
+15	dem	die	ART	*	*	*	*
+16	Balkan	Balkan	NE	*	*	*	*
+17	-	-	$(	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Nato	Nato	NE	*	*	*	*
+20	gebraucht	brauchen|gebrauchen	VVPP	*	*	*	*
+21	hätten	haben	VAFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	dann	dann	ADV	*	*	*	*
+24	hätte	haben	VAFIN	*	*	*	*
+25	es	es	PPER	*	*	*	*
+26	genügend	genügend	ADJD	*	*	*	*
+27	Gründe	Grund	NN	*	*	*	*
+28	gegeben	geben	VVPP	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	sie	sie	PPER	*	*	*	*
+31	zum	zu	APPRART	*	*	*	*
+32	Einsatz	Einsatz	NN	*	*	*	*
+33	kommen	kommen	VVINF	*	*	*	*
+34	zu	zu	PTKZU	*	*	*	*
+35	lassen	lassen	VVINF	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T950415.70
+# text = Andererseits aber blieb die Kirche trotz der Krise ein Machtzentrum , zog ihre Fäden , plazierte ihre Leute an einflußreichen Stellen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Andererseits	andererseits	ADV	*	*	*	*
+2	aber	aber	ADV	*	*	*	*
+3	blieb	bleiben	VVFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Kirche	Kirche	NN	*	*	*	*
+6	trotz	trotz	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Krise	Krise	NN	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	Machtzentrum	Machtzentrum	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	zog	ziehen	VVFIN	2	2	2	2
+13	ihre	ihr	PPOSAT	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	plazierte	plazieren	VVFIN	*	*	*	*
+17	ihre	ihr	PPOSAT	*	*	*	*
+18	Leute	Leute	NN	*	*	*	*
+19	an	an	APPR	*	*	*	*
+20	einflußreichen	einflussreich	ADJA	*	*	*	*
+21	Stellen	Stelle|Stellen	NN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T950731.114
+# text = Insider vermuten , daß Otto dabei die Fäden gezogen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Insider	Insider	NN	*	*	*	*
+2	vermuten	vermuten	VVINF	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	daß	dass	KOUS	*	*	*	*
+5	Otto	Otto	NE	*	*	*	*
+6	dabei	dabei	PAV	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Fäden	Faden	NN	2	2	2	2
+9	gezogen	ziehen	VVPP	2	2	2	2
+10	hat	haben	VAFIN	*	*	*	*
+11	.	.	$.	*	*	*	*
+
+# article_id = T950704.212
+# text = Belanglos - wären die Hauptcharaktere nicht tote , verkleidete Hühner , die sich zum Jazz-Soundtrack bewegen wie Marionetten , an Fäden gezogen und zu bizarrem Leben erweckt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Belanglos	belanglos	ADJD	*	*	*	*
+2	-	-	$(	*	*	*	*
+3	wären	sein	VAFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Hauptcharaktere	<unknown>	NN	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	tote	tot	ADJA	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	verkleidete	verkleidet	ADJA	*	*	*	*
+10	Hühner	Huhn	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	zum	zu	APPRART	*	*	*	*
+15	Jazz-Soundtrack	<unknown>	NN	*	*	*	*
+16	bewegen	bewegen	VVFIN	*	*	*	*
+17	wie	wie	KOKOM	*	*	*	*
+18	Marionetten	Marionette	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	an	an	APPR	*	*	*	*
+21	Fäden	Faden	NN	1	2	2	2
+22	gezogen	ziehen	VVPP	1	2	2	2
+23	und	und	KON	*	*	*	*
+24	zu	zu	APPR	*	*	*	*
+25	bizarrem	bizarr	ADJA	*	*	*	*
+26	Leben	Leben	NN	*	*	*	*
+27	erweckt	erwecken	VVPP	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T951219.113
+# text = Und jetzt kommen Wolffsohns Beweise , daß aber hinter den Kulissen die Kommunisten die Fäden zogen , geschickter , als sich " Nollau in seiner Schulweisheit " erträumen konnte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	jetzt	jetzt	ADV	*	*	*	*
+3	kommen	kommen	VVFIN	*	*	*	*
+4	Wolffsohns	Wolffsohn	NN	*	*	*	*
+5	Beweise	Beweis	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	aber	aber	ADV	*	*	*	*
+9	hinter	hinter	APPR	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Kulissen	Kulisse	NN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Kommunisten	Kommunist	NN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	zogen	ziehen	VVFIN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	geschickter	geschickt	ADJD	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	als	als	KOUS	*	*	*	*
+21	sich	sich	PRF	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	Nollau	<unknown>	VVFIN	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	seiner	sein	PPOSAT	*	*	*	*
+26	Schulweisheit	Schulweisheit	NN	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	erträumen	erträumen	VVINF	*	*	*	*
+29	konnte	können	VMFIN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T950818.99
+# text = Schließlich haben die chinesischen Kommunisten noch in guter Erinnerung , wie sie selbst die Fäden nützlicher Frontorganisationen gezogen haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schließlich	schließlich	ADV	*	*	*	*
+2	haben	haben	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	chinesischen	chinesisch	ADJA	*	*	*	*
+5	Kommunisten	Kommunist	NN	*	*	*	*
+6	noch	noch	ADV	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	guter	gut	ADJA	*	*	*	*
+9	Erinnerung	Erinnerung	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	wie	wie	KOUS	*	*	*	*
+12	sie	sie	PPER	*	*	*	*
+13	selbst	selbst	ADV	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	nützlicher	nützlich	ADJA	*	*	*	*
+17	Frontorganisationen	Frontorganisation	NN	*	*	*	*
+18	gezogen	ziehen	VVPP	2	2	2	2
+19	haben	haben	VAFIN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T950829.114
+# text = Seine Interpretation scheint unhaltbar , seit immer offenkundiger wird , daß sich in Bosnien eben nicht " primitive " Krieger planlos abschlachten , sondern in Belgrad und Zagreb durchaus politische Fäden gezogen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seine	sein	PPOSAT	*	*	*	*
+2	Interpretation	Interpretation	NN	*	*	*	*
+3	scheint	scheinen	VVFIN	*	*	*	*
+4	unhaltbar	unhaltbar	ADJD	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	seit	seit	KOUS	*	*	*	*
+7	immer	immer	ADV	*	*	*	*
+8	offenkundiger	offenkundig	ADJD	*	*	*	*
+9	wird	werden	VAFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	daß	dass	KOUS	*	*	*	*
+12	sich	sich	PRF	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Bosnien	Bosnien	NE	*	*	*	*
+15	eben	eben	ADV	*	*	*	*
+16	nicht	nicht	PTKNEG	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	primitive	primitiv	ADJA	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	Krieger	Krieger	NN	*	*	*	*
+21	planlos	planlos	ADJD	*	*	*	*
+22	abschlachten	abschlachten	VVINF	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	sondern	sondern	KON	*	*	*	*
+25	in	in	APPR	*	*	*	*
+26	Belgrad	Belgrad	NE	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	Zagreb	Zagreb	NE	*	*	*	*
+29	durchaus	durchaus	ADV	*	*	*	*
+30	politische	politisch	ADJA	*	*	*	*
+31	Fäden	Faden	NN	2	2	2	2
+32	gezogen	ziehen	VVPP	2	2	2	2
+33	werden	werden	VAINF	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T950317.246
+# text = Vogel verhehlt dabei nicht , daß er mithilfe seines neuen Amtes auch wieder die Fäden für die stadtweite Entwicklung der zur Splitterpartei mutierten Elbliberalen ziehen will .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vogel	Vogel	NN	*	*	*	*
+2	verhehlt	verhehlen	VVFIN	*	*	*	*
+3	dabei	dabei	PAV	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	er	er	PPER	*	*	*	*
+8	mithilfe	mithilfe	APPR	*	*	*	*
+9	seines	sein	PPOSAT	*	*	*	*
+10	neuen	neu	ADJA	*	*	*	*
+11	Amtes	Amt	NN	*	*	*	*
+12	auch	auch	ADV	*	*	*	*
+13	wieder	wieder	ADV	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	für	für	APPR	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	stadtweite	stadtweit	ADJA	*	*	*	*
+19	Entwicklung	Entwicklung	NN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	zur	zu	APPRART	*	*	*	*
+22	Splitterpartei	Splitterpartei	NN	*	*	*	*
+23	mutierten	mutiert	ADJA	*	*	*	*
+24	Elbliberalen	<unknown>	NN	*	*	*	*
+25	ziehen	ziehen	VVINF	2	2	2	2
+26	will	wollen	VMFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T951117.16
+# text = Zog Rau die Fäden ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vogel	Vogel	NN	*	*	*	*
+2	verhehlt	verhehlen	VVFIN	*	*	*	*
+3	dabei	dabei	PAV	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	er	er	PPER	*	*	*	*
+8	mithilfe	mithilfe	APPR	*	*	*	*
+9	seines	sein	PPOSAT	*	*	*	*
+10	neuen	neu	ADJA	*	*	*	*
+11	Amtes	Amt	NN	*	*	*	*
+12	auch	auch	ADV	*	*	*	*
+13	wieder	wieder	ADV	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Fäden	Faden	NN	2	2	2	2
+16	für	für	APPR	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	stadtweite	stadtweit	ADJA	*	*	*	*
+19	Entwicklung	Entwicklung	NN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	zur	zu	APPRART	*	*	*	*
+22	Splitterpartei	Splitterpartei	NN	*	*	*	*
+23	mutierten	mutiert	ADJA	*	*	*	*
+24	Elbliberalen	<unknown>	NN	*	*	*	*
+25	ziehen	ziehen	VVINF	2	2	2	2
+26	will	wollen	VMFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T951129.15
+# text = Die Union glaubt nun , daß durch die Zeugenvernehmungen vor dem Ausschuß der Beweis erbracht worden sei , daß ein solches Küchenkabinett aus Bündnisgrünen im Ministerium die Fäden gezogen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Union	Union	NN	*	*	*	*
+3	glaubt	glauben	VVFIN	*	*	*	*
+4	nun	nun	ADV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	durch	durch	APPR	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Zeugenvernehmungen	Zeugenvernehmung	NN	*	*	*	*
+10	vor	vor	APPR	*	*	*	*
+11	dem	die	ART	*	*	*	*
+12	Ausschuß	Ausschuss	NN	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Beweis	Beweis	NN	*	*	*	*
+15	erbracht	erbringen	VVPP	*	*	*	*
+16	worden	werden	VAPP	*	*	*	*
+17	sei	sein	VAFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	daß	dass	KOUS	*	*	*	*
+20	ein	eine	ART	*	*	*	*
+21	solches	solche	PIAT	*	*	*	*
+22	Küchenkabinett	Küchenkabinett	NN	*	*	*	*
+23	aus	aus	APPR	*	*	*	*
+24	Bündnisgrünen	Bündnisgrüne	NN	*	*	*	*
+25	im	in	APPRART	*	*	*	*
+26	Ministerium	Ministerium	NN	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Fäden	Faden	NN	2	2	2	2
+29	gezogen	ziehen	VVPP	2	2	2	2
+30	hat	haben	VAFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T951128.252
+# text = Voraussichtlich bereits im Januar wird Elste den Stab an den einstigen Voscherau-Gegner Jan Ehlers weiterreichen , der seit Jahren davon träumt , die Fäden einer rot-grünen Koalition zu ziehen , und in den vergangenen Jahren durch allertreueste Gefolgschaft dem Bürgermeister solide Ergebenheit bewies .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Voraussichtlich	voraussichtlich	ADJD	*	*	*	*
+2	bereits	bereits	ADV	*	*	*	*
+3	im	in	APPRART	*	*	*	*
+4	Januar	Januar	NN	*	*	*	*
+5	wird	werden	VAFIN	*	*	*	*
+6	Elste	<unknown>	NN	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Stab	Stab	NN	*	*	*	*
+9	an	an	APPR	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	einstigen	einstig	ADJA	*	*	*	*
+12	Voscherau-Gegner	<unknown>	NN	*	*	*	*
+13	Jan	Jan	NE	*	*	*	*
+14	Ehlers	<unknown>	NN	*	*	*	*
+15	weiterreichen	weiterreichen	VVINF	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	der	die	PRELS	*	*	*	*
+18	seit	seit	APPR	*	*	*	*
+19	Jahren	Jahr	NN	*	*	*	*
+20	davon	davon	PAV	*	*	*	*
+21	träumt	träumen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	Fäden	Faden	NN	2	2	2	2
+25	einer	eine	ART	*	*	*	*
+26	rot-grünen	rot-grün	ADJA	*	*	*	*
+27	Koalition	Koalition	NN	*	*	*	*
+28	zu	zu	PTKZU	*	*	*	*
+29	ziehen	ziehen	VVINF	2	2	2	2
+30	,	,	$,	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	in	in	APPR	*	*	*	*
+33	den	die	ART	*	*	*	*
+34	vergangenen	vergangen	ADJA	*	*	*	*
+35	Jahren	Jahr	NN	*	*	*	*
+36	durch	durch	APPR	*	*	*	*
+37	allertreueste	allertreuest	ADJA	*	*	*	*
+38	Gefolgschaft	Gefolgschaft	NN	*	*	*	*
+39	dem	die	ART	*	*	*	*
+40	Bürgermeister	Bürgermeister	NN	*	*	*	*
+41	solide	solide	ADJA	*	*	*	*
+42	Ergebenheit	Ergebenheit	NN	*	*	*	*
+43	bewies	beweisen	VVFIN	*	*	*	*
+44	.	.	$.	*	*	*	*
+
+# article_id = T990108.357
+# text = Zum Beweis offenbarte er , daß die Fäden für die Politik der rechtsextremen Partei in den einzelnen Bundesländern ausschließlich in München gezogen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zum	zu	APPRART	*	*	*	*
+2	Beweis	Beweis	NN	*	*	*	*
+3	offenbarte	offenbaren	VVFIN	*	*	*	*
+4	er	er	PPER	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Fäden	Faden	NN	2	2	2	2
+9	für	für	APPR	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Politik	Politik	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	rechtsextremen	rechtsextrem	ADJA	*	*	*	*
+14	Partei	Partei	NN	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	einzelnen	einzeln	ADJA	*	*	*	*
+18	Bundesländern	Bundesland	NN	*	*	*	*
+19	ausschließlich	ausschließlich	ADV	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	München	München	NE	*	*	*	*
+22	gezogen	ziehen	VVPP	2	2	2	2
+23	werden	werden	VAINF	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T990414.17
+# text = Vor der Bonner Beethovenhalle hatten sie einen gut zwei Meter großen Hampelmann mit dem Gesicht des Bundespräsidenten aufgebaut , an dessen Fäden der milliardenschwere Bertelsmann-Konzern und seine Stiftung zogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Bonner	Bonner	ADJA	*	*	*	*
+4	Beethovenhalle	Beethovenhalle	NN	*	*	*	*
+5	hatten	haben	VAFIN	*	*	*	*
+6	sie	sie	PPER	*	*	*	*
+7	einen	eine	PIS	*	*	*	*
+8	gut	gut	ADJD	*	*	*	*
+9	zwei	zwei	CARD	*	*	*	*
+10	Meter	Meter	NN	*	*	*	*
+11	großen	groß	ADJA	*	*	*	*
+12	Hampelmann	Hampelmann	NN	*	*	*	*
+13	mit	mit	APPR	*	*	*	*
+14	dem	die	ART	*	*	*	*
+15	Gesicht	Gesicht	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	Bundespräsidenten	Bundespräsident	NN	*	*	*	*
+18	aufgebaut	aufbauen	VVPP	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	an	an	APPR	*	*	*	*
+21	dessen	die	PRELAT	*	*	*	*
+22	Fäden	Faden	NN	1	2	1	1
+23	der	die	ART	*	*	*	*
+24	milliardenschwere	milliardenschwer	ADJA	*	*	*	*
+25	Bertelsmann-Konzern	Bertelsmann-Konzern	NN	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	seine	sein	PPOSAT	*	*	*	*
+28	Stiftung	Stiftung	NN	*	*	*	*
+29	zogen	ziehen	VVFIN	1	2	1	1
+30	.	.	$.	*	*	*	*
+
+# article_id = T990219.323
+# text = Sein Gehalt wird ihm regelmäßig überwiesen , aber arbeiten , sprich im Mittelfeld des Hamburger SV die Fäden ziehen , muß er nicht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sein	sein	PPOSAT	*	*	*	*
+2	Gehalt	Gehalt	NN	*	*	*	*
+3	wird	werden	VAFIN	*	*	*	*
+4	ihm	er	PPER	*	*	*	*
+5	regelmäßig	regelmäßig	ADJD	*	*	*	*
+6	überwiesen	überweisen	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	aber	aber	KON	*	*	*	*
+9	arbeiten	arbeiten	VVFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	sprich	sprechen	VVIMP	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	Mittelfeld	Mittelfeld	NN	*	*	*	*
+14	des	die	ART	*	*	*	*
+15	Hamburger	Hamburger	ADJA	*	*	*	*
+16	SV	SV	NE	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Fäden	Faden	NN	2	2	2	2
+19	ziehen	ziehen	VVINF	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	muß	müssen	VMFIN	*	*	*	*
+22	er	er	PPER	*	*	*	*
+23	nicht	nicht	PTKNEG	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T990223.107
+# text = Brockmeyer zog über viele Jahre als Ministerialdirigent die Fäden der Schulpolitik in NRW .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Brockmeyer	Brockmeyer	NE	*	*	*	*
+2	zog	ziehen	VVFIN	2	2	2	2
+3	über	über	APPR	*	*	*	*
+4	viele	viele	PIAT	*	*	*	*
+5	Jahre	Jahr	NN	*	*	*	*
+6	als	als	KOKOM	*	*	*	*
+7	Ministerialdirigent	Ministerialdirigent	NN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Fäden	Faden	NN	2	2	2	2
+10	der	die	ART	*	*	*	*
+11	Schulpolitik	Schulpolitik	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	NRW	NRW	NE	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T990227.154
+# text = Anfang des Monats wurden zwei Ex- Offiziere , die beim Entführungsfall Kovac die Fäden gezogen haben sollen , verhaftet .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Anfang	Anfang	NN	*	*	*	*
+2	des	die	ART	*	*	*	*
+3	Monats	Monat	NN	*	*	*	*
+4	wurden	werden	VAFIN	*	*	*	*
+5	zwei	zwei	CARD	*	*	*	*
+6	Ex-	Ex-	TRUNC	*	*	*	*
+7	Offiziere	Offizier	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	beim	bei	APPRART	*	*	*	*
+11	Entführungsfall	Entführungsfall	NN	*	*	*	*
+12	Kovac	<unknown>	NE	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Fäden	Faden	NN	2	2	2	2
+15	gezogen	ziehen	VVPP	2	2	2	2
+16	haben	haben	VAINF	*	*	*	*
+17	sollen	sollen	VMFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	verhaftet	verhaften	VVPP	*	*	*	*
+20	.	.	$.	*	*	*	*
+

@@ -1,0 +1,3531 @@
+# article_id = T890526.121
+# text = Über Bord gegangen ist damit die allgemeine Erklärung der Menschenrechte , nicht als unmittelbar praktikable Vorstellung , die sie im übrigen nie war , sondern sogar als Ideal - ohne die jedoch die vollentwickelte Apartheid weltweit der einzig logische Schluß sein kann : eine Vorstellung , die Khomeini bestimmt freudig begrüßen würde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Über	über	APPR	2	2	2	2
+2	Bord	Bord	NN	2	2	2	2
+3	gegangen	gehen	VVPP	2	2	2	2
+4	ist	sein	VAFIN	*	*	*	*
+5	damit	damit	PAV	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	allgemeine	allgemein	ADJA	*	*	*	*
+8	Erklärung	Erklärung	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Menschenrechte	Menschenrecht	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	als	als	KOKOM	*	*	*	*
+14	unmittelbar	unmittelbar	ADJD	*	*	*	*
+15	praktikable	praktikabel	ADJA	*	*	*	*
+16	Vorstellung	Vorstellung	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	die	die	PRELS	*	*	*	*
+19	sie	sie	PPER	*	*	*	*
+20	im	in	APPRART	*	*	*	*
+21	übrigen	übrig	ADJA	*	*	*	*
+22	nie	nie	ADV	*	*	*	*
+23	war	sein	VAFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	sondern	sondern	KON	*	*	*	*
+26	sogar	sogar	ADV	*	*	*	*
+27	als	als	KOKOM	*	*	*	*
+28	Ideal	Ideal	NN	*	*	*	*
+29	-	-	$(	*	*	*	*
+30	ohne	ohne	APPR	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	jedoch	jedoch	ADV	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	vollentwickelte	<unknown>	ADJA	*	*	*	*
+35	Apartheid	<unknown>	NN	*	*	*	*
+36	weltweit	weltweit	ADJD	*	*	*	*
+37	der	die	ART	*	*	*	*
+38	einzig	einzig	ADJD	*	*	*	*
+39	logische	logisch	ADJA	*	*	*	*
+40	Schluß	Schluss	NN	*	*	*	*
+41	sein	sein	VAINF	*	*	*	*
+42	kann	können	VMFIN	*	*	*	*
+43	:	:	$.	*	*	*	*
+44	eine	eine	ART	*	*	*	*
+45	Vorstellung	Vorstellung	NN	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	die	die	ART	*	*	*	*
+48	Khomeini	<unknown>	NN	*	*	*	*
+49	bestimmt	bestimmt	ADV	*	*	*	*
+50	freudig	freudig	ADJD	*	*	*	*
+51	begrüßen	begrüßen	VVINF	*	*	*	*
+52	würde	werden	VAFIN	*	*	*	*
+53	.	.	$.	*	*	*	*
+
+# article_id = T891025.122
+# text = Dies allerdings nur , wenn baurechtliche Beschränkungen und bürokratische Hemmnisse über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dies	dies	PDS	*	*	*	*
+2	allerdings	allerdings	ADV	*	*	*	*
+3	nur	nur	ADV	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	wenn	wenn	KOUS	*	*	*	*
+6	baurechtliche	baurechtlich	ADJA	*	*	*	*
+7	Beschränkungen	Beschränkung	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	bürokratische	bürokratisch	ADJA	*	*	*	*
+10	Hemmnisse	Hemmnis	NN	*	*	*	*
+11	über	über	APPR	2	2	2	2
+12	Bord	Bord	NN	2	2	2	2
+13	gehen	gehen	VVINF	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T891204.87
+# text = Jetzt ist auch Krenz mitsamt dem Politbüro und dem ZK über Bord gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jetzt	jetzt	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	Krenz	<unknown>	NN	*	*	*	*
+5	mitsamt	mitsamt	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	Politbüro	Politbüro	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	ZK	ZK	NE	*	*	*	*
+11	über	über	APPR	2	2	2	2
+12	Bord	Bord	NN	2	2	2	2
+13	gegangen	gehen	VVPP	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T890323.58
+# text = Der Container war über Bord gegangenen , als ein panamaischer Frachter am Montag vergangener Woche Schiffbruch erlitt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Container	Container	NN	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	über	über	APPR	1	1	1	1
+5	Bord	Bord	NN	1	1	1	1
+6	gegangenen	gegangen	ADJA	1	1	1	1
+7	,	,	$,	*	*	*	*
+8	als	als	KOKOM	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	panamaischer	<unknown>	ADJA	*	*	*	*
+11	Frachter	Frachter	NN	*	*	*	*
+12	am	an	APPRART	*	*	*	*
+13	Montag	Montag	NN	*	*	*	*
+14	vergangener	vergangen	ADJA	*	*	*	*
+15	Woche	Woche	NN	*	*	*	*
+16	Schiffbruch	Schiffbruch	NN	*	*	*	*
+17	erlitt	erleiden	VVFIN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T890321.64
+# text = Der rund 12 Meter lange Container , in dem sich das hochgiftige Holzschutzmittel in zehn Fiberglasfässern befindet , war nach einem Schiffbruch des unter panamaischer Flagge fahrenden Frachters " Perintis " auf der Reise von Hamburg nach Jakarta am vergangenen Montag bei schwerem Sturm mit vier weiteren Lindan-Containern über Bord gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	rund	rund	ADV	*	*	*	*
+3	12	@card@	CARD	*	*	*	*
+4	Meter	Meter	NN	*	*	*	*
+5	lange	lang	ADJA	*	*	*	*
+6	Container	Container	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	dem	die	PRELS	*	*	*	*
+10	sich	sich	PRF	*	*	*	*
+11	das	die	ART	*	*	*	*
+12	hochgiftige	hochgiftig	ADJA	*	*	*	*
+13	Holzschutzmittel	Holzschutzmittel	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	zehn	zehn	CARD	*	*	*	*
+16	Fiberglasfässern	<unknown>	NN	*	*	*	*
+17	befindet	befinden	VVFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	war	sein	VAFIN	*	*	*	*
+20	nach	nach	APPR	*	*	*	*
+21	einem	eine	ART	*	*	*	*
+22	Schiffbruch	Schiffbruch	NN	*	*	*	*
+23	des	die	ART	*	*	*	*
+24	unter	unter	APPR	*	*	*	*
+25	panamaischer	<unknown>	ADJA	*	*	*	*
+26	Flagge	Flagge	NN	*	*	*	*
+27	fahrenden	fahrend	ADJA	*	*	*	*
+28	Frachters	Frachter	NN	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	Perintis	<unknown>	NE	*	*	*	*
+31	"	"	$(	*	*	*	*
+32	auf	auf	APPR	*	*	*	*
+33	der	die	ART	*	*	*	*
+34	Reise	Reise	NN	*	*	*	*
+35	von	von	APPR	*	*	*	*
+36	Hamburg	Hamburg	NE	*	*	*	*
+37	nach	nach	APPR	*	*	*	*
+38	Jakarta	Jakarta	NE	*	*	*	*
+39	am	an	APPRART	*	*	*	*
+40	vergangenen	vergangen	ADJA	*	*	*	*
+41	Montag	Montag	NN	*	*	*	*
+42	bei	bei	APPR	*	*	*	*
+43	schwerem	schwer	ADJA	*	*	*	*
+44	Sturm	Sturm	NN	*	*	*	*
+45	mit	mit	APPR	*	*	*	*
+46	vier	vier	CARD	*	*	*	*
+47	weiteren	weit	ADJA	*	*	*	*
+48	Lindan-Containern	<unknown>	NN	*	*	*	*
+49	über	über	APPR	1	1	1	1
+50	Bord	Bord	NN	1	1	1	1
+51	gegangen	gehen	VVPP	1	1	1	1
+52	.	.	$.	*	*	*	*
+
+# article_id = T891111.98
+# text = Experimente gehen in einem solchen Fall zuerst über Bord .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Experimente	Experiment	NN	*	*	*	*
+2	gehen	gehen	VVFIN	2	2	2	2
+3	in	in	APPR	*	*	*	*
+4	einem	eine	ART	*	*	*	*
+5	solchen	solche	PIAT	*	*	*	*
+6	Fall	Fall	NN	*	*	*	*
+7	zuerst	zuerst	ADV	*	*	*	*
+8	über	über	APPR	2	2	2	2
+9	Bord	Bord	NN	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T910502.94
+# text = Die Euro-Grünen beobachten bei den EWR- Verhandlungen die Entwicklung eines Europas der Händler zwischen EG und Efta , bei dem die teilweise fortschrittlichere Umwelt- und Sozialpolitik der Efta- Länder über Bord gehe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Euro-Grünen	Euro-Grüne	NN	*	*	*	*
+3	beobachten	beobachten	VVFIN	*	*	*	*
+4	bei	bei	APPR	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	EWR-	EWR-	TRUNC	*	*	*	*
+7	Verhandlungen	Verhandlung	NN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Entwicklung	Entwicklung	NN	*	*	*	*
+10	eines	eine	ART	*	*	*	*
+11	Europas	Europa	NE	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Händler	Händler	NN	*	*	*	*
+14	zwischen	zwischen	APPR	*	*	*	*
+15	EG	EG	NE	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Efta	<unknown>	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	bei	bei	APPR	*	*	*	*
+20	dem	die	PRELS	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	teilweise	teilweise	ADV	*	*	*	*
+23	fortschrittlichere	fortschrittlich	ADJA	*	*	*	*
+24	Umwelt-	Umwelt-	TRUNC	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	Sozialpolitik	Sozialpolitik	NN	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Efta-	Efta-	TRUNC	*	*	*	*
+29	Länder	Land	NN	*	*	*	*
+30	über	über	APPR	2	2	2	2
+31	Bord	Bord	NN	2	2	2	2
+32	gehe	gehen	VVFIN	2	2	2	2
+33	.	.	$.	*	*	*	*
+
+# article_id = T911107.20
+# text = Nick Baker , der Manager der Yachtagentur , bei der auch Maxwells " Lady Ghislaine " gemeldet war , sagte : " Selbst bei sehr hohem Seegang wäre es zwar möglich gewesen , über Bord zu gehen , aber immer noch ziemlich unwahrscheinlich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nick	nicken	VVIMP	*	*	*	*
+2	Baker	Baker	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Manager	Manager	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Yachtagentur	Yachtagentur	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	bei	bei	APPR	*	*	*	*
+10	der	die	PRELS	*	*	*	*
+11	auch	auch	ADV	*	*	*	*
+12	Maxwells	Maxwell	NE	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	Lady	Lady	NN	*	*	*	*
+15	Ghislaine	Ghislaine	NE	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	gemeldet	melden	VVPP	*	*	*	*
+18	war	sein	VAFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	sagte	sagen	VVFIN	*	*	*	*
+21	:	:	$.	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	Selbst	selbst	ADV	*	*	*	*
+24	bei	bei	APPR	*	*	*	*
+25	sehr	sehr	ADV	*	*	*	*
+26	hohem	hoch	ADJA	*	*	*	*
+27	Seegang	Seegang	NN	*	*	*	*
+28	wäre	sein	VAFIN	*	*	*	*
+29	es	es	PPER	*	*	*	*
+30	zwar	zwar	ADV	*	*	*	*
+31	möglich	möglich	ADJD	*	*	*	*
+32	gewesen	sein	VAPP	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	über	über	APPR	1	1	1	1
+35	Bord	Bord	NN	1	1	1	1
+36	zu	zu	PTKZU	*	*	*	*
+37	gehen	gehen	VVINF	1	1	1	1
+38	,	,	$,	*	*	*	*
+39	aber	aber	KON	*	*	*	*
+40	immer	immer	ADV	*	*	*	*
+41	noch	noch	ADV	*	*	*	*
+42	ziemlich	ziemlich	ADV	*	*	*	*
+43	unwahrscheinlich	unwahrscheinlich	ADJD	*	*	*	*
+44	.	.	$.	*	*	*	*
+
+# article_id = T911113.133
+# text = Deshalb ist es von entscheidender Bedeutung , ob Maxwell aufgrund eines Herzinfarkts über Bord gegangen ist ( natürlicher Tod ) oder ob er erst im Wasser einen Herzinfarkt erlitten hat ( Unfall ) .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Deshalb	deshalb	PAV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	entscheidender	entscheidend	ADJA	*	*	*	*
+6	Bedeutung	Bedeutung	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	ob	ob	KOUS	*	*	*	*
+9	Maxwell	Maxwell	NE	*	*	*	*
+10	aufgrund	aufgrund	APPR	*	*	*	*
+11	eines	eine	ART	*	*	*	*
+12	Herzinfarkts	Herzinfarkt	NN	*	*	*	*
+13	über	über	APPR	1	1	1	1
+14	Bord	Bord	NN	1	1	1	1
+15	gegangen	gehen	VVPP	1	1	1	1
+16	ist	sein	VAFIN	*	*	*	*
+17	(	(	$(	*	*	*	*
+18	natürlicher	natürlich	ADJA	*	*	*	*
+19	Tod	Tod	NN	*	*	*	*
+20	)	)	$(	*	*	*	*
+21	oder	oder	KON	*	*	*	*
+22	ob	ob	KOUS	*	*	*	*
+23	er	er	PPER	*	*	*	*
+24	erst	erst	ADV	*	*	*	*
+25	im	in	APPRART	*	*	*	*
+26	Wasser	Wasser	NN	*	*	*	*
+27	einen	eine	ART	*	*	*	*
+28	Herzinfarkt	Herzinfarkt	NN	*	*	*	*
+29	erlitten	erleiden	VVPP	*	*	*	*
+30	hat	haben	VAFIN	*	*	*	*
+31	(	(	$(	*	*	*	*
+32	Unfall	Unfall	NN	*	*	*	*
+33	)	)	$(	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T900503.233
+# text = Als Gabi , " Ich mach ` ein glückliches Mädchen aus Dir , die ganze Nacht " anstimmt , legt einer vom VEB-Kombinat Weiße Flotte vorsichtig seinen Arm um die Hübsche aus der Westberliner Verkehrs- und Hafenverwaltung ... " Kollege Kühl " soll über Bord gegangen sein , witzelt einer .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Als	als	KOUS	*	*	*	*
+2	Gabi	Gabi	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Ich	Ich	NN	*	*	*	*
+6	mach	machen	VVIMP	*	*	*	*
+7	`	`	$(	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	glückliches	glücklich	ADJA	*	*	*	*
+10	Mädchen	Mädchen	NN	*	*	*	*
+11	aus	aus	APPR	*	*	*	*
+12	Dir	du	PPER	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	ganze	ganz	ADJA	*	*	*	*
+16	Nacht	Nacht	NN	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	anstimmt	anstimmen	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	legt	legen	VVFIN	*	*	*	*
+21	einer	eine	PIS	*	*	*	*
+22	vom	von	APPRART	*	*	*	*
+23	VEB-Kombinat	VEB-Kombinat	NN	*	*	*	*
+24	Weiße	Weiße	NN	*	*	*	*
+25	Flotte	Flotte	NN	*	*	*	*
+26	vorsichtig	vorsichtig	ADJD	*	*	*	*
+27	seinen	sein	PPOSAT	*	*	*	*
+28	Arm	Arm	NN	*	*	*	*
+29	um	um	APPR	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	Hübsche	Hübsche	NN	*	*	*	*
+32	aus	aus	APPR	*	*	*	*
+33	der	die	ART	*	*	*	*
+34	Westberliner	Westberliner	NN	*	*	*	*
+35	Verkehrs-	Verkehrs-	TRUNC	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	Hafenverwaltung	Hafenverwaltung	NN	*	*	*	*
+38	...	...	$.	*	*	*	*
+39	"	"	$(	*	*	*	*
+40	Kollege	Kollege	NN	*	*	*	*
+41	Kühl	kühl	ADJD	*	*	*	*
+42	"	"	$(	*	*	*	*
+43	soll	sollen	VMFIN	*	*	*	*
+44	über	über	APPR	1	1	2	1
+45	Bord	Bord	NN	1	1	2	1
+46	gegangen	gehen	VVPP	1	1	2	1
+47	sein	sein	VAINF	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	witzelt	witzeln	VVFIN	*	*	*	*
+50	einer	eine	PIS	*	*	*	*
+51	.	.	$.	*	*	*	*
+
+# article_id = T900915.100
+# text = Statt dessen rollen zunehmend Wohnmobile auf die Wattensände , und so manche Chemietoilette geht über Bord : Die High-Tech-Goldeimer mit ihrem hochgiftigen Inhalt sind zu wahren Ökokillern geworden , die niemand entsorgen kann und will , denn sie bringen auch jede Biologie in kommunalen Kläranlagen um .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Statt	statt	KOUI	*	*	*	*
+2	dessen	die	PDS	*	*	*	*
+3	rollen	rollen	VVFIN	*	*	*	*
+4	zunehmend	zunehmend	ADJD	*	*	*	*
+5	Wohnmobile	Wohnmobile	NN	*	*	*	*
+6	auf	auf	APPR	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Wattensände	<unknown>	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	so	so	ADV	*	*	*	*
+12	manche	manche	PIAT	*	*	*	*
+13	Chemietoilette	Chemietoilette	NN	*	*	*	*
+14	geht	gehen	VVFIN	1	1	1	1
+15	über	über	APPR	1	1	1	1
+16	Bord	Bord	NN	1	1	1	1
+17	:	:	$.	*	*	*	*
+18	Die	die	ART	*	*	*	*
+19	High-Tech-Goldeimer	<unknown>	NN	*	*	*	*
+20	mit	mit	APPR	*	*	*	*
+21	ihrem	ihr	PPOSAT	*	*	*	*
+22	hochgiftigen	hochgiftig	ADJA	*	*	*	*
+23	Inhalt	Inhalt	NN	*	*	*	*
+24	sind	sein	VAFIN	*	*	*	*
+25	zu	zu	APPR	*	*	*	*
+26	wahren	wahr	ADJA	*	*	*	*
+27	Ökokillern	<unknown>	NN	*	*	*	*
+28	geworden	werden	VAPP	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	niemand	niemand	PIS	*	*	*	*
+32	entsorgen	entsorgen	VVINF	*	*	*	*
+33	kann	können	VMFIN	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	will	wollen	VMFIN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	denn	denn	KON	*	*	*	*
+38	sie	sie	PPER	*	*	*	*
+39	bringen	bringen	VVFIN	*	*	*	*
+40	auch	auch	ADV	*	*	*	*
+41	jede	jede	PIAT	*	*	*	*
+42	Biologie	Biologie	NN	*	*	*	*
+43	in	in	APPR	*	*	*	*
+44	kommunalen	kommunal	ADJA	*	*	*	*
+45	Kläranlagen	Kläranlage	NN	*	*	*	*
+46	um	um	PTKVZ	*	*	*	*
+47	.	.	$.	*	*	*	*
+
+# article_id = T900706.37
+# text = " Die IG Metall will aber nicht nur zusehen , wie Rüstungsinteresssen der Bundesregierung und Gewinninteressen der Unternehmen in Einklang gebracht werden , die Interessen der Beschäftigten dabei aber über Bord gehen " , betonte der Gewerkschaftschef .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Die	die	ART	*	*	*	*
+3	IG	IG	NN	*	*	*	*
+4	Metall	Metall	NN	*	*	*	*
+5	will	wollen	VMFIN	*	*	*	*
+6	aber	aber	ADV	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	nur	nur	ADV	*	*	*	*
+9	zusehen	zusehen	VVINF	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	wie	wie	KOKOM	*	*	*	*
+12	Rüstungsinteresssen	<unknown>	NN	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Bundesregierung	Bundesregierung	NN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	Gewinninteressen	Gewinninteresse	NN	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Unternehmen	Unternehmen	NN	*	*	*	*
+19	in	in	APPR	*	*	*	*
+20	Einklang	Einklang	NN	*	*	*	*
+21	gebracht	bringen	VVPP	*	*	*	*
+22	werden	werden	VAINF	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Interessen	Interesse	NN	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	Beschäftigten	Beschäftigte	NN	*	*	*	*
+28	dabei	dabei	PAV	*	*	*	*
+29	aber	aber	ADV	*	*	*	*
+30	über	über	APPR	2	2	2	2
+31	Bord	Bord	NN	2	2	2	2
+32	gehen	gehen	VVINF	2	2	2	2
+33	"	"	$(	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	betonte	betonen	VVFIN	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	Gewerkschaftschef	Gewerkschaftschef	NN	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T900303.372
+# text = " Zu viel Gutes sei mit der Wende über Bord gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Zu	zu	APPR	*	*	*	*
+3	viel	viele	PIAT	*	*	*	*
+4	Gutes	Gute	NN	*	*	*	*
+5	sei	sein	VAFIN	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Wende	Wende	NN	*	*	*	*
+9	über	über	APPR	2	2	2	2
+10	Bord	Bord	NN	2	2	2	2
+11	gegangen	gehen	VVPP	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T920502.203
+# text = Schätze sind dort zu finden , zum Teil noch in diesen unsäglichen Plastikeinschweißungen , Ausgaben , die das Herz eines Biblomanen schneller schlagen und die Haushaltsplanungen über Bord gehen lassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schätze	Schatz	NN	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	dort	dort	ADV	*	*	*	*
+4	zu	zu	PTKZU	*	*	*	*
+5	finden	finden	VVINF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	zum	zu	APPRART	*	*	*	*
+8	Teil	Teil	NN	*	*	*	*
+9	noch	noch	ADV	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	diesen	dies	PDAT	*	*	*	*
+12	unsäglichen	unsäglich	ADJA	*	*	*	*
+13	Plastikeinschweißungen	<unknown>	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	Ausgaben	Ausgabe	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	PRELS	*	*	*	*
+18	das	die	ART	*	*	*	*
+19	Herz	Herz	NN	*	*	*	*
+20	eines	eine	ART	*	*	*	*
+21	Biblomanen	<unknown>	NN	*	*	*	*
+22	schneller	schnell	ADJD	*	*	*	*
+23	schlagen	schlagen	VVINF	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Haushaltsplanungen	Haushaltsplanung	NN	*	*	*	*
+27	über	über	APPR	2	2	2	2
+28	Bord	Bord	NN	2	2	2	2
+29	gehen	gehen	VVINF	2	2	2	2
+30	lassen	lassen	VVINF	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T920515.126
+# text = Die uns dauernd sagen , das Boot sei voll , verschweigen uns , was über Bord geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	uns	wir	PRF	*	*	*	*
+3	dauernd	dauernd	ADJD	*	*	*	*
+4	sagen	sagen	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Boot	Boot	NN	*	*	*	*
+8	sei	sein	VAFIN	*	*	*	*
+9	voll	voll	ADJD	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	verschweigen	verschweigen	VVFIN	*	*	*	*
+12	uns	wir	PPER	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	was	was	PRELS	*	*	*	*
+15	über	über	APPR	2	2	2	2
+16	Bord	Bord	NN	2	2	2	2
+17	geht	gehen	VVFIN	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T920613.129
+# text = Vielleicht ist es der Verlust eines politischen Leitbildes , das mit dem Sozialismus über Bord gegangen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vielleicht	vielleicht	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Verlust	Verlust	NN	*	*	*	*
+6	eines	eine	ART	*	*	*	*
+7	politischen	politisch	ADJA	*	*	*	*
+8	Leitbildes	Leitbild	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	das	die	PRELS	*	*	*	*
+11	mit	mit	APPR	*	*	*	*
+12	dem	die	ART	*	*	*	*
+13	Sozialismus	Sozialismus	NN	*	*	*	*
+14	über	über	APPR	2	2	2	2
+15	Bord	Bord	NN	2	2	2	2
+16	gegangen	gehen	VVPP	2	2	2	2
+17	ist	sein	VAFIN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T920604.80
+# text = Tennisbälle nämlich waren an Deck denkbar ungeeignet , da sie gleich reihenweise über Bord gingen und ein Zurückholen angesichts der Gefahren durch beißende Haifische unmöglich war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Tennisbälle	Tennisball	NN	*	*	*	*
+2	nämlich	nämlich	ADV	*	*	*	*
+3	waren	sein	VAFIN	*	*	*	*
+4	an	an	APPR	*	*	*	*
+5	Deck	Deck	NN	*	*	*	*
+6	denkbar	denkbar	ADJD	*	*	*	*
+7	ungeeignet	ungeeignet	ADJD	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	da	da	KOUS	*	*	*	*
+10	sie	sie	PPER	*	*	*	*
+11	gleich	gleich	ADJD	*	*	*	*
+12	reihenweise	reihenweise	ADJD	*	*	*	*
+13	über	über	APPR	1	1	1	1
+14	Bord	Bord	NN	1	1	1	1
+15	gingen	gehen	VVFIN	1	1	1	1
+16	und	und	KON	*	*	*	*
+17	ein	eine	ART	*	*	*	*
+18	Zurückholen	Zurückholen	NN	*	*	*	*
+19	angesichts	angesichts	APPR	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Gefahren	Gefahr	NN	*	*	*	*
+22	durch	durch	APPR	*	*	*	*
+23	beißende	beißend	ADJA	*	*	*	*
+24	Haifische	Haifisch	NN	*	*	*	*
+25	unmöglich	unmöglich	ADJD	*	*	*	*
+26	war	sein	VAFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T920605.84
+# text = Endgültig über Bord geht mit dem gestern verabschiedeten Gesetz das 1946 von den Alliierten verfügte Gebot der Trennung von Polizei und Geheimdienst .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Endgültig	endgültig	ADJD	*	*	*	*
+2	über	über	APPR	2	2	2	2
+3	Bord	Bord	NN	2	2	2	2
+4	geht	gehen	VVFIN	2	2	2	2
+5	mit	mit	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	gestern	gestern	ADV	*	*	*	*
+8	verabschiedeten	verabschiedet	ADJA	*	*	*	*
+9	Gesetz	Gesetz	NN	*	*	*	*
+10	das	die	ART	*	*	*	*
+11	1946	@card@	CARD	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Alliierten	alliiert	ADJA	*	*	*	*
+15	verfügte	verfügt	ADJA	*	*	*	*
+16	Gebot	Gebot	NN	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Trennung	Trennung	NN	*	*	*	*
+19	von	von	APPR	*	*	*	*
+20	Polizei	Polizei	NN	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	Geheimdienst	Geheimdienst	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T920406.259
+# text = Manchmal ging auch die ganze Eimerkette dabei über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Manchmal	manchmal	ADV	*	*	*	*
+2	ging	gehen	VVFIN	1	1	1	1
+3	auch	auch	ADV	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	ganze	ganz	ADJA	*	*	*	*
+6	Eimerkette	Eimerkette	NN	*	*	*	*
+7	dabei	dabei	PAV	*	*	*	*
+8	über	über	APPR	1	1	1	1
+9	Bord	Bord	NN	1	1	1	1
+10	.	.	$.	*	*	*	*
+
+# article_id = T920728.107
+# text = " Schon will ich ein gereiztes " Red nicht so 'n Unsinn " dazwischenbellen , weil es ja doch gerade die Halbverrückten sind , die Kultur ausmachen , da biegt ein zum Lastentransporter umgestyltes Moped um die Ecke , auf der Ladefläche ein Rasta-Mann und ein Hund , der mit der rasanten Kurventechnik des Fahrers nicht zurechtkommt und über Bord geht .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	"	"	$(	*	*	*	*
+2	Schon	schon	ADV	*	*	*	*
+3	will	wollen	VMFIN	*	*	*	*
+4	ich	ich	PPER	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	gereiztes	gereizt	ADJA	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	Red	<unknown>	NN	*	*	*	*
+9	nicht	nicht	PTKNEG	*	*	*	*
+10	so	so	ADV	*	*	*	*
+11	'n	<unknown>	NE	*	*	*	*
+12	Unsinn	Unsinn	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	dazwischenbellen	<unknown>	VVFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	weil	weil	KOUS	*	*	*	*
+17	es	es	PPER	*	*	*	*
+18	ja	ja	ADV	*	*	*	*
+19	doch	doch	ADV	*	*	*	*
+20	gerade	gerade	ADV	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Halbverrückten	<unknown>	NN	*	*	*	*
+23	sind	sein	VAFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Kultur	Kultur	NN	*	*	*	*
+27	ausmachen	ausmachen	VVINF	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	da	da	ADV	*	*	*	*
+30	biegt	biegen	VVFIN	*	*	*	*
+31	ein	eine	ART	*	*	*	*
+32	zum	zu	APPRART	*	*	*	*
+33	Lastentransporter	<unknown>	NN	*	*	*	*
+34	umgestyltes	<unknown>	ADJA	*	*	*	*
+35	Moped	Moped	NN	*	*	*	*
+36	um	um	APPR	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Ecke	Ecke	NN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	auf	auf	APPR	*	*	*	*
+41	der	die	ART	*	*	*	*
+42	Ladefläche	Ladefläche	NN	*	*	*	*
+43	ein	eine	ART	*	*	*	*
+44	Rasta-Mann	Rasta-Mann	NN	*	*	*	*
+45	und	und	KON	*	*	*	*
+46	ein	eine	ART	*	*	*	*
+47	Hund	Hund	NN	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	der	die	PRELS	*	*	*	*
+50	mit	mit	APPR	*	*	*	*
+51	der	die	ART	*	*	*	*
+52	rasanten	rasant	ADJA	*	*	*	*
+53	Kurventechnik	Kurventechnik	NN	*	*	*	*
+54	des	die	ART	*	*	*	*
+55	Fahrers	Fahrer	NN	*	*	*	*
+56	nicht	nicht	PTKNEG	*	*	*	*
+57	zurechtkommt	zurechtkommen	VVFIN	*	*	*	*
+58	und	und	KON	*	*	*	*
+59	über	über	APPR	2	2	2	2
+60	Bord	Bord	NN	2	2	2	2
+61	geht	gehen	VVFIN	2	2	2	2
+62	.	.	$.	*	*	*	*
+
+# article_id = T920706.31
+# text = " Thank God that Maxwell became a floating issue himself " , befand jedenfalls der ' Index ` - Chefredakteur , auf den Tod des über Bord seiner eigenen Luxusjacht gegangenen Pressezaren anspielend .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	"	"	$(	*	*	*	*
+2	Thank	<unknown>	NN	*	*	*	*
+3	God	<unknown>	NE	*	*	*	*
+4	that	<unknown>	NE	*	*	*	*
+5	Maxwell	Maxwell	NE	*	*	*	*
+6	became	<unknown>	ADJA	*	*	*	*
+7	a	a	FM	*	*	*	*
+8	floating	<unknown>	NE	*	*	*	*
+9	issue	<unknown>	NE	*	*	*	*
+10	himself	<unknown>	NN	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	befand	befinden	VVFIN	*	*	*	*
+14	jedenfalls	jedenfalls	ADV	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	'	'	$(	*	*	*	*
+17	Index	Index	NN	*	*	*	*
+18	`	`	$(	*	*	*	*
+19	-	-	$(	*	*	*	*
+20	Chefredakteur	Chefredakteur	NN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	auf	auf	APPR	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	Tod	Tod	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	über	über	APPR	1	1	1	1
+27	Bord	Bord	NN	1	1	1	1
+28	seiner	sein	PPOSAT	*	*	*	*
+29	eigenen	eigen	ADJA	1	1	1	1
+30	Luxusjacht	Luxusjacht	NN	*	*	*	*
+31	gegangenen	gegangen	ADJA	*	*	*	*
+32	Pressezaren	Pressezar	NN	*	*	*	*
+33	anspielend	anspielend	ADJD	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T920831.102
+# text = Der Pressekrieg wurde vor zwei Wochen vom Daily Mirror eröffnet , der tief in den roten Zahlen schwimmt , seit sein Verleger Robert Maxwell über Bord gegangen ist - und mit ihm die Pensionskasse .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Der	die	ART	*	*	*	*
+2	Pressekrieg	Pressekrieg	NN	*	*	*	*
+3	wurde	werden	VAFIN	*	*	*	*
+4	vor	vor	APPR	*	*	*	*
+5	zwei	zwei	CARD	*	*	*	*
+6	Wochen	Woche	NN	*	*	*	*
+7	vom	von	APPRART	*	*	*	*
+8	Daily	<unknown>	NE	*	*	*	*
+9	Mirror	<unknown>	NN	*	*	*	*
+10	eröffnet	eröffnen	VVPP	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	tief	tief	ADJD	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	roten	rot	ADJA	*	*	*	*
+17	Zahlen	Zahl	NN	*	*	*	*
+18	schwimmt	schwimmen	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	seit	seit	APPR	*	*	*	*
+21	sein	sein	PPOSAT	*	*	*	*
+22	Verleger	Verleger	NN	*	*	*	*
+23	Robert	Robert	NE	*	*	*	*
+24	Maxwell	Maxwell	NE	*	*	*	*
+25	über	über	APPR	2	2	2	2
+26	Bord	Bord	NN	2	2	2	2
+27	gegangen	gehen	VVPP	2	2	2	2
+28	ist	sein	VAFIN	*	*	*	*
+29	-	-	$(	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	mit	mit	APPR	*	*	*	*
+32	ihm	er	PPER	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	Pensionskasse	Pensionskasse	NN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T921121.277
+# text = Vor der ostfriesischen Insel Wangerooge ging abends ein 45jähriger Mann über Bord einer in Seenot geratenen Segelyacht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	ostfriesischen	ostfriesisch	ADJA	*	*	*	*
+4	Insel	Insel	NN	*	*	*	*
+5	Wangerooge	<unknown>	NN	*	*	*	*
+6	ging	gehen	VVFIN	1	1	1	1
+7	abends	abends	ADV	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	45jähriger	45jährig	ADJA	*	*	*	*
+10	Mann	Mann	NN	*	*	*	*
+11	über	über	APPR	1	1	1	1
+12	Bord	Bord	NN	1	1	1	1
+13	einer	eine	ART	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Seenot	Seenot	NN	*	*	*	*
+16	geratenen	geraten	ADJA	*	*	*	*
+17	Segelyacht	Segelyacht	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T920218.166
+# text = Eine weise Lösung wäre die Anhörung nur gewesen , insofern sie den streitenden Partnern hilft , das Gesicht zu wahren und zu einer konkreten Entscheidung zu finden - und nicht zugleich die Maßstäbe sorgfältiger Prüfung über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	eine	ART	*	*	*	*
+2	weise	weise	ADJA	*	*	*	*
+3	Lösung	Lösung	NN	*	*	*	*
+4	wäre	sein	VAFIN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Anhörung	Anhörung	NN	*	*	*	*
+7	nur	nur	ADV	*	*	*	*
+8	gewesen	sein	VAPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	insofern	insofern	KOUS	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	streitenden	streitend	ADJA	*	*	*	*
+14	Partnern	Partner	NN	*	*	*	*
+15	hilft	helfen	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	das	die	ART	*	*	*	*
+18	Gesicht	Gesicht	NN	*	*	*	*
+19	zu	zu	PTKZU	*	*	*	*
+20	wahren	wahren	VVINF	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	zu	zu	APPR	*	*	*	*
+23	einer	eine	ART	*	*	*	*
+24	konkreten	konkret	ADJA	*	*	*	*
+25	Entscheidung	Entscheidung	NN	*	*	*	*
+26	zu	zu	PTKZU	*	*	*	*
+27	finden	finden	VVINF	*	*	*	*
+28	-	-	$(	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	nicht	nicht	PTKNEG	*	*	*	*
+31	zugleich	zugleich	ADV	*	*	*	*
+32	die	die	ART	*	*	*	*
+33	Maßstäbe	Maßstab	NN	*	*	*	*
+34	sorgfältiger	sorgfältig	ADJA	*	*	*	*
+35	Prüfung	Prüfung	NN	*	*	*	*
+36	über	über	APPR	2	2	2	2
+37	Bord	Bord	NN	2	2	2	2
+38	gehen	gehen	VVINF	2	2	2	2
+39	.	.	$.	*	*	*	*
+
+# article_id = T881028.27
+# text = Müssen alle Hemmungen über Bord gehen bei der Aussicht auf fette Gewinne ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Müssen	müssen	VMFIN	*	*	*	*
+2	alle	alle	PIAT	*	*	*	*
+3	Hemmungen	Hemmung	NN	*	*	*	*
+4	über	über	APPR	2	2	2	2
+5	Bord	Bord	NN	2	2	2	2
+6	gehen	gehen	VVFIN	2	2	2	2
+7	bei	bei	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Aussicht	Aussicht	NN	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	fette	fett	ADJA	*	*	*	*
+12	Gewinne	Gewinn	NN	*	*	*	*
+13	?	?	$.	*	*	*	*
+
+# article_id = T880702.138
+# text = Wir müssen nur sichern , daß die materielle Sicherheit der Menschen dabei nicht über Bord geht , wie die FDP es will .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wir	wir	PPER	*	*	*	*
+2	müssen	müssen	VMFIN	*	*	*	*
+3	nur	nur	ADV	*	*	*	*
+4	sichern	sichern	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	materielle	materiell	ADJA	*	*	*	*
+9	Sicherheit	Sicherheit	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Menschen	Mensch	NN	*	*	*	*
+12	dabei	dabei	PAV	*	*	*	*
+13	nicht	nicht	PTKNEG	*	*	*	*
+14	über	über	APPR	2	2	2	2
+15	Bord	Bord	NN	2	2	2	2
+16	geht	gehen	VVFIN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	wie	wie	KOUS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	FDP	FDP	NE	*	*	*	*
+21	es	es	PPER	*	*	*	*
+22	will	wollen	VMFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T880709.76
+# text = Seine Fans hätten es allerdings lieber gesehen , Jim Bowie hätte seine edle Klinge behalten und die schartigen Damen über Bord gehen lassen , berichtet das Western-Lexikon von Joe Hembus und anempfiehlt sich damit der frauenfreundlichen Sexismus-Kommission zur Lektüre .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seine	sein	PPOSAT	*	*	*	*
+2	Fans	Fan	NN	*	*	*	*
+3	hätten	haben	VAFIN	*	*	*	*
+4	es	es	PPER	*	*	*	*
+5	allerdings	allerdings	ADV	*	*	*	*
+6	lieber	lieb	ADJD	*	*	*	*
+7	gesehen	sehen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Jim	Jim	NE	*	*	*	*
+10	Bowie	Bowie	NE	*	*	*	*
+11	hätte	haben	VAFIN	*	*	*	*
+12	seine	sein	PPOSAT	*	*	*	*
+13	edle	edel	ADJA	*	*	*	*
+14	Klinge	Klinge	NN	*	*	*	*
+15	behalten	behalten	VVINF	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	schartigen	schartig	ADJA	*	*	*	*
+19	Damen	Dame	NN	*	*	*	*
+20	über	über	APPR	1	2	2	2
+21	Bord	Bord	NN	1	2	2	2
+22	gehen	gehen	VVINF	1	2	2	2
+23	lassen	lassen	VVINF	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	berichtet	berichten	VVFIN	*	*	*	*
+26	das	die	ART	*	*	*	*
+27	Western-Lexikon	Western-Lexikon	NN	*	*	*	*
+28	von	von	APPR	*	*	*	*
+29	Joe	Joe	NE	*	*	*	*
+30	Hembus	<unknown>	NN	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	anempfiehlt	anempfehlen	VVFIN	*	*	*	*
+33	sich	sich	PRF	*	*	*	*
+34	damit	damit	PAV	*	*	*	*
+35	der	die	ART	*	*	*	*
+36	frauenfreundlichen	frauenfreundlich	ADJA	*	*	*	*
+37	Sexismus-Kommission	<unknown>	NN	*	*	*	*
+38	zur	zu	APPRART	*	*	*	*
+39	Lektüre	Lektüre	NN	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T880714.68
+# text = Der in den USA von Ken Annakin ( " Die tollkühnen Männer in ihren fliegenden Kisten " ) gedrehte Streifen " Pippi Langstrumpfs neueste Streiche " macht dieses Dilemma deutlich : In der ersten Szene geht Pippi über Bord der " Hoppetosse " und brüllt : " Papa , ich hab Angst !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	USA	USA	NE	*	*	*	*
+5	von	von	APPR	*	*	*	*
+6	Ken	Ken	NE	*	*	*	*
+7	Annakin	<unknown>	NE	*	*	*	*
+8	(	(	$(	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Die	<unknown>	ADJA	*	*	*	*
+11	tollkühnen	tollkühn	ADJA	*	*	*	*
+12	Männer	Mann	NN	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	ihren	ihr	PPOSAT	*	*	*	*
+15	fliegenden	fliegend	ADJA	*	*	*	*
+16	Kisten	Kiste	NN	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	)	)	$(	*	*	*	*
+19	gedrehte	gedreht	ADJA	*	*	*	*
+20	Streifen	Streifen	NN	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	Pippi	<unknown>	ADJA	*	*	*	*
+23	Langstrumpfs	Langstrumpf	NN	*	*	*	*
+24	neueste	neu	ADJA	*	*	*	*
+25	Streiche	Streich	NN	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	macht	machen	VVFIN	*	*	*	*
+28	dieses	dies	PDAT	*	*	*	*
+29	Dilemma	Dilemma	NN	*	*	*	*
+30	deutlich	deutlich	ADJD	*	*	*	*
+31	:	:	$.	*	*	*	*
+32	In	in	APPR	*	*	*	*
+33	der	die	ART	*	*	*	*
+34	ersten	erst	ADJA	*	*	*	*
+35	Szene	Szene	NN	*	*	*	*
+36	geht	gehen	VVFIN	1	1	1	1
+37	Pippi	<unknown>	ADJD	*	*	*	*
+38	über	über	APPR	1	1	1	1
+39	Bord	Bord	NN	1	1	1	1
+40	der	die	ART	*	*	*	*
+41	"	"	$(	*	*	*	*
+42	Hoppetosse	<unknown>	NN	*	*	*	*
+43	"	"	$(	*	*	*	*
+44	und	und	KON	*	*	*	*
+45	brüllt	brüllen	VVFIN	*	*	*	*
+46	:	:	$.	*	*	*	*
+47	"	"	$(	*	*	*	*
+48	Papa	Papa	NN	*	*	*	*
+49	,	,	$,	*	*	*	*
+50	ich	ich	PPER	*	*	*	*
+51	hab	haben	VAIMP	*	*	*	*
+52	Angst	Angst	NN	*	*	*	*
+53	!	!	$.	*	*	*	*
+
+# article_id = T881219.119
+# text = In Emlichheim in Ostfriesland trafen sich Junkies aus der ganzen Bundesrepublik , um ihre Erfahrungen mit dem Ersatzstoff Methadon auszutauschen / Die Aids-Angst läßt bei den Ämtern zwar geheiligte Bedenken über Bord gehen , doch das Ziel ist nicht die Hilfe für die Süchtigen , sondern " Schutz " der Gesellschaft
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Emlichheim	<unknown>	NN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	Ostfriesland	Ostfriesland	NE	*	*	*	*
+5	trafen	treffen	VVFIN	*	*	*	*
+6	sich	sich	PRF	*	*	*	*
+7	Junkies	Junkie	NN	*	*	*	*
+8	aus	aus	APPR	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	ganzen	ganz	ADJA	*	*	*	*
+11	Bundesrepublik	Bundesrepublik	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	um	um	KOUI	*	*	*	*
+14	ihre	ihr	PPOSAT	*	*	*	*
+15	Erfahrungen	Erfahrung	NN	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	dem	die	ART	*	*	*	*
+18	Ersatzstoff	Ersatzstoff	NN	*	*	*	*
+19	Methadon	Methadon	NN	*	*	*	*
+20	auszutauschen	austauschen	VVIZU	*	*	*	*
+21	/	/	$(	*	*	*	*
+22	Die	<unknown>	ADJA	*	*	*	*
+23	Aids-Angst	Aids-Angst	NN	*	*	*	*
+24	läßt	lassen	VVFIN	*	*	*	*
+25	bei	bei	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Ämtern	Amt	NN	*	*	*	*
+28	zwar	zwar	ADV	*	*	*	*
+29	geheiligte	geheiligt	ADJA	*	*	*	*
+30	Bedenken	Bedenken	NN	*	*	*	*
+31	über	über	APPR	2	2	2	2
+32	Bord	Bord	NN	2	2	2	2
+33	gehen	gehen	VVINF	2	2	2	2
+34	,	,	$,	*	*	*	*
+35	doch	doch	KON	*	*	*	*
+36	das	die	ART	*	*	*	*
+37	Ziel	Ziel	NN	*	*	*	*
+38	ist	sein	VAFIN	*	*	*	*
+39	nicht	nicht	PTKNEG	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	Hilfe	Hilfe	NN	*	*	*	*
+42	für	für	APPR	*	*	*	*
+43	die	die	ART	*	*	*	*
+44	Süchtigen	Süchtige	NN	*	*	*	*
+45	,	,	$,	*	*	*	*
+46	sondern	sondern	KON	*	*	*	*
+47	"	"	$(	*	*	*	*
+48	Schutz	Schutz	NN	*	*	*	*
+49	"	"	$(	*	*	*	*
+50	der	die	ART	*	*	*	*
+51	Gesellschaft	Gesellschaft	NN	*	*	*	*
+
+# article_id = T880812.88
+# text = Dabei gehen schon einige Mülltonnen ganz normal über Bord ; die ' New York Times ` spricht von einer Tonne pro Schiffsladung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dabei	dabei	PAV	*	*	*	*
+2	gehen	gehen	VVFIN	1	1	1	1
+3	schon	schon	ADV	*	*	*	*
+4	einige	einige	PIAT	*	*	*	*
+5	Mülltonnen	Mülltonne	NN	*	*	*	*
+6	ganz	ganz	ADV	*	*	*	*
+7	normal	normal	ADJD	*	*	*	*
+8	über	über	APPR	1	1	1	1
+9	Bord	Bord	NN	1	1	1	1
+10	;	;	$.	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	'	'	$(	*	*	*	*
+13	New	New	NE	*	*	*	*
+14	York	York	NE	*	*	*	*
+15	Times	Times	NE	*	*	*	*
+16	`	`	$(	*	*	*	*
+17	spricht	sprechen	VVFIN	*	*	*	*
+18	von	von	APPR	*	*	*	*
+19	einer	eine	ART	*	*	*	*
+20	Tonne	Tonne	NN	*	*	*	*
+21	pro	pro	APPR	*	*	*	*
+22	Schiffsladung	Schiffsladung	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T880316.33
+# text = Jetzt geht der " Lotse " ( Degussa über Degussa ) von Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jetzt	jetzt	ADV	*	*	*	*
+2	geht	gehen	VVFIN	2	2	2	2
+3	der	die	ART	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Lotse	Lotse	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	(	(	$(	*	*	*	*
+8	Degussa	Degussa	NE	*	*	*	*
+9	über	über	APPR	*	*	*	*
+10	Degussa	Degussa	NE	*	*	*	*
+11	)	)	$(	*	*	*	*
+12	von	von	APPR	2	2	2	2
+13	Bord	Bord	NN	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T871009.61
+# text = Doch schon nach wenigen Kilo metern Fahrt kenterte das Boot , und die Passagiere gingen über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	schon	schon	ADV	*	*	*	*
+3	nach	nach	APPR	*	*	*	*
+4	wenigen	wenige	PIAT	*	*	*	*
+5	Kilo	Kilo	NN	*	*	*	*
+6	metern	<unknown>	ADJA	*	*	*	*
+7	Fahrt	Fahrt	NN	*	*	*	*
+8	kenterte	kentern	VVFIN	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	Boot	Boot	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Passagiere	Passagier	NN	*	*	*	*
+15	gingen	gehen	VVFIN	1	1	1	1
+16	über	über	APPR	1	1	1	1
+17	Bord	Bord	NN	1	1	1	1
+18	.	.	$.	*	*	*	*
+
+# article_id = T870121.29
+# text = Seit im April letzten Jahres der Wettbewerb um die freie Frequenz begann , ist manches über Bord gegangen , was vorher als unverzichtbar galt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	im	in	APPRART	*	*	*	*
+3	April	April	NN	*	*	*	*
+4	letzten	letzt	ADJA	*	*	*	*
+5	Jahres	Jahr	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Wettbewerb	Wettbewerb	NN	*	*	*	*
+8	um	um	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	freie	frei	ADJA	*	*	*	*
+11	Frequenz	Frequenz	NN	*	*	*	*
+12	begann	beginnen	VVFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	ist	sein	VAFIN	*	*	*	*
+15	manches	manche	PIS	*	*	*	*
+16	über	über	APPR	2	2	2	2
+17	Bord	Bord	NN	2	2	2	2
+18	gegangen	gehen	VVPP	2	2	2	2
+19	,	,	$,	*	*	*	*
+20	was	was	PRELS	*	*	*	*
+21	vorher	vorher	ADV	*	*	*	*
+22	als	als	KOKOM	*	*	*	*
+23	unverzichtbar	unverzichtbar	ADJD	*	*	*	*
+24	galt	gelten	VVFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T870121.33
+# text = Daß aber diese Prinzipien über Bord gehen konnten , ist ganz einfach zu erklären .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	aber	aber	ADV	*	*	*	*
+3	diese	dies	PDAT	*	*	*	*
+4	Prinzipien	Prinzip	NN	*	*	*	*
+5	über	über	APPR	2	2	2	2
+6	Bord	Bord	NN	2	2	2	2
+7	gehen	gehen	VVINF	2	2	2	2
+8	konnten	können	VMFIN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	ist	sein	VAFIN	*	*	*	*
+11	ganz	ganz	ADV	*	*	*	*
+12	einfach	einfach	ADJD	*	*	*	*
+13	zu	zu	PTKZU	*	*	*	*
+14	erklären	erklären	VVINF	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T871105.61
+# text = Mir ging es darum , den Prozeß in einer isolierten Gruppe im Untergrund zu beschreiben - wie der Idealismus über Bord geht und der nackte Überlebenskampf dominiert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mir	ich	PPER	*	*	*	*
+2	ging	gehen	VVFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	darum	darum	PAV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	Prozeß	Prozess	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	einer	eine	ART	*	*	*	*
+10	isolierten	isoliert	ADJA	*	*	*	*
+11	Gruppe	Gruppe	NN	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	Untergrund	Untergrund	NN	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	beschreiben	beschreiben	VVINF	*	*	*	*
+16	-	-	$(	*	*	*	*
+17	wie	wie	KOUS	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Idealismus	Idealismus	NN	*	*	*	*
+20	über	über	APPR	2	2	2	2
+21	Bord	Bord	NN	2	2	2	2
+22	geht	gehen	VVFIN	2	2	2	2
+23	und	und	KON	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	nackte	nackt	ADJA	*	*	*	*
+26	Überlebenskampf	Überlebenskampf	NN	*	*	*	*
+27	dominiert	dominieren	VVPP	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T930524.136
+# text = Den Gesamtschaden inklusive Einnahmeausfall bezifferte die Stern- und Kreisschiffahrt auf rund 18.000 Mark : 29 Stühle , rund 120 Biergläser , 170 Besteckteile und über 50 Aschenbecher seien über Bord oder zu Bruch gegangen , Außenreling Backbord und Herrentoilette seien demoliert worden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Den	die	ART	*	*	*	*
+2	Gesamtschaden	Gesamtschaden	NN	*	*	*	*
+3	inklusive	inklusive	APPR	*	*	*	*
+4	Einnahmeausfall	Einnahmeausfall	NN	*	*	*	*
+5	bezifferte	beziffern	VVFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Stern-	Stern-	TRUNC	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Kreisschiffahrt	Kreisschiffahrt	NN	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	rund	rund	ADV	*	*	*	*
+12	18.000	@card@	CARD	*	*	*	*
+13	Mark	Mark	NN	*	*	*	*
+14	:	:	$.	*	*	*	*
+15	29	@card@	CARD	*	*	*	*
+16	Stühle	Stuhl	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	rund	rund	ADV	*	*	*	*
+19	120	@card@	CARD	*	*	*	*
+20	Biergläser	Bierglas	NN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	170	@card@	CARD	*	*	*	*
+23	Besteckteile	Besteckteil	NN	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	über	über	APPR	*	*	*	*
+26	50	@card@	CARD	*	*	*	*
+27	Aschenbecher	Aschenbecher	NN	*	*	*	*
+28	seien	sein	VAFIN	*	*	*	*
+29	über	über	APPR	1	1	1	1
+30	Bord	Bord	NN	1	1	1	1
+31	oder	oder	KON	*	*	*	*
+32	zu	zu	APPR	*	*	*	*
+33	Bruch	Bruch	NN	*	*	*	*
+34	gegangen	gehen	VVPP	1	1	1	1
+35	,	,	$,	*	*	*	*
+36	Außenreling	<unknown>	NN	*	*	*	*
+37	Backbord	Backbord	NN	*	*	*	*
+38	und	und	KON	*	*	*	*
+39	Herrentoilette	Herrentoilette	NN	*	*	*	*
+40	seien	sein	VAFIN	*	*	*	*
+41	demoliert	demolieren	VVPP	*	*	*	*
+42	worden	werden	VAPP	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T930513.114
+# text = Und Freude auch darüber , daß der ganze " ideologische Ballast " in der Marx-Forschung endlich über Bord gegangen ist und die Archive offenstehen : " Marx in seiner Zeit sehen - als historische Figur .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	Freude	Freude	NN	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	darüber	darüber	PAV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	ganze	ganz	ADJA	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	ideologische	ideologisch	ADJA	*	*	*	*
+11	Ballast	Ballast	NN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Marx-Forschung	Marx-Forschung	NN	*	*	*	*
+16	endlich	endlich	ADV	*	*	*	*
+17	über	über	APPR	2	2	2	2
+18	Bord	Bord	NN	2	2	2	2
+19	gegangen	gehen	VVPP	2	2	2	2
+20	ist	sein	VAFIN	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Archive	Archiv	NN	*	*	*	*
+24	offenstehen	offenstehen	VVINF	*	*	*	*
+25	:	:	$.	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	Marx	Marx	NE	*	*	*	*
+28	in	in	APPR	*	*	*	*
+29	seiner	sein	PPOSAT	*	*	*	*
+30	Zeit	Zeit	NN	*	*	*	*
+31	sehen	sehen	VVINF	*	*	*	*
+32	-	-	$(	*	*	*	*
+33	als	als	KOKOM	*	*	*	*
+34	historische	historisch	ADJA	*	*	*	*
+35	Figur	Figur	NN	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T931022.166
+# text = Die alten Werte wackeln , vertraute Wahrheiten gehen über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	alten	alt	ADJA	*	*	*	*
+3	Werte	Wert	NN	*	*	*	*
+4	wackeln	wackeln	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	vertraute	vertrauen	VVFIN	*	*	*	*
+7	Wahrheiten	Wahrheit	NN	*	*	*	*
+8	gehen	gehen	VVFIN	2	2	2	2
+9	über	über	APPR	2	2	2	2
+10	Bord	Bord	NN	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T930929.156
+# text = Kaempfe : Wir historisieren unsere Stücke nicht , sondern Übersetzen sie im wahrsten Sinne des Wortes : Wenn jemand Macht will , geht jedes andere Prinzip über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kaempfe	<unknown>	NE	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	Wir	wir	PPER	*	*	*	*
+4	historisieren	<unknown>	VVFIN	*	*	*	*
+5	unsere	unser	PPOSAT	*	*	*	*
+6	Stücke	Stück	NN	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	sondern	sondern	KON	*	*	*	*
+10	Übersetzen	Übersetzen	NN	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	wahrsten	wahr	ADJA	*	*	*	*
+14	Sinne	Sinn	NN	*	*	*	*
+15	des	die	ART	*	*	*	*
+16	Wortes	Wort	NN	*	*	*	*
+17	:	:	$.	*	*	*	*
+18	Wenn	wenn	KOUS	*	*	*	*
+19	jemand	jemand	PIS	*	*	*	*
+20	Macht	Macht	NN	*	*	*	*
+21	will	wollen	VMFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	geht	gehen	VVFIN	2	2	2	2
+24	jedes	jede	PIAT	*	*	*	*
+25	andere	andere	PIS	*	*	*	*
+26	Prinzip	Prinzip	NN	*	*	*	*
+27	über	über	APPR	2	2	2	2
+28	Bord	Bord	NN	2	2	2	2
+29	.	.	$.	*	*	*	*
+
+# article_id = T930125.95
+# text = Da alle vier weißen Bauern isoliert stehen , sich also nicht mehr gegenseitig decken können , geht nun einer nach dem anderen über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	alle	alle	PIAT	*	*	*	*
+3	vier	vier	CARD	*	*	*	*
+4	weißen	weiß	ADJA	*	*	*	*
+5	Bauern	Bauer	NN	*	*	*	*
+6	isoliert	isoliert	ADJD	*	*	*	*
+7	stehen	stehen	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	also	also	ADV	*	*	*	*
+11	nicht	nicht	PTKNEG	*	*	*	*
+12	mehr	mehr	ADV	*	*	*	*
+13	gegenseitig	gegenseitig	ADJD	*	*	*	*
+14	decken	decken	VVINF	*	*	*	*
+15	können	können	VMINF	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	geht	gehen	VVFIN	2	2	2	2
+18	nun	nun	ADV	*	*	*	*
+19	einer	eine	PIS	*	*	*	*
+20	nach	nach	APPR	*	*	*	*
+21	dem	die	ART	*	*	*	*
+22	anderen	andere	PIS	*	*	*	*
+23	über	über	APPR	2	2	2	2
+24	Bord	Bord	NN	2	2	2	2
+25	.	.	$.	*	*	*	*
+
+# article_id = T930125.213
+# text = Nordwestlich von Borkum ging ein Seemann über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nordwestlich	nordwestlich	ADJD	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	Borkum	<unknown>	NN	*	*	*	*
+4	ging	gehen	VVFIN	1	1	1	1
+5	ein	eine	ART	*	*	*	*
+6	Seemann	Seemann	NN	*	*	*	*
+7	über	über	APPR	1	1	1	1
+8	Bord	Bord	NN	1	1	1	1
+9	.	.	$.	*	*	*	*
+
+# article_id = T930104.52
+# text = Nach Angaben der russischen Regierung gehen jährlich 1.000 Kubikmeter flüssiger und 2.000 Kubikmeter fester Atommüll über Bord - sowohl vor der russischen als auch vor der norwegischen Nordküste .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	Angaben	Angabe	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	russischen	russisch	ADJA	*	*	*	*
+5	Regierung	Regierung	NN	*	*	*	*
+6	gehen	gehen	VVFIN	1	1	1	1
+7	jährlich	jährlich	ADJD	*	*	*	*
+8	1.000	@card@	CARD	*	*	*	*
+9	Kubikmeter	Kubikmeter	NN	*	*	*	*
+10	flüssiger	flüssig	ADJD	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	2.000	@card@	CARD	*	*	*	*
+13	Kubikmeter	Kubikmeter	NN	*	*	*	*
+14	fester	fest	ADJA	*	*	*	*
+15	Atommüll	Atommüll	NN	*	*	*	*
+16	über	über	APPR	1	1	1	1
+17	Bord	Bord	NN	1	1	1	1
+18	-	-	$(	*	*	*	*
+19	sowohl	sowohl	KON	*	*	*	*
+20	vor	vor	APPR	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	russischen	russisch	ADJA	*	*	*	*
+23	als	als	KOKOM	*	*	*	*
+24	auch	auch	ADV	*	*	*	*
+25	vor	vor	APPR	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	norwegischen	norwegisch	ADJA	*	*	*	*
+28	Nordküste	Nordküste	NN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T930114.148
+# text = Nicht nur die Ausgewogenheit soll beim " Zeitsprung " über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	nur	nur	ADV	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Ausgewogenheit	Ausgewogenheit	NN	*	*	*	*
+5	soll	sollen	VMFIN	*	*	*	*
+6	beim	bei	APPRART	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	Zeitsprung	Zeitsprung	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	über	über	APPR	2	2	2	2
+11	Bord	Bord	NN	2	2	2	2
+12	gehen	gehen	VVINF	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T930701.127
+# text = Frauen gehen zuerst über Bord
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Frauen	Frau	NN	*	*	*	*
+2	gehen	gehen	VVFIN	1	1	1	1
+3	zuerst	zuerst	ADV	*	*	*	*
+4	über	über	APPR	1	1	1	1
+5	Bord	Bord	NN	1	1	1	1
+
+# article_id = T930325.107
+# text = Vermutlich ging tatsächlich erst mit dem Erfolg von Wagners selbstgeschnitzten Stabreim-Libretti jenes uralte , von Generation zu Generation weitergereichte Grundwissen über das Verhältnis von Wort und Ton über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vermutlich	vermutlich	ADV	*	*	*	*
+2	ging	gehen	VVFIN	2	2	2	2
+3	tatsächlich	tatsächlich	ADV	*	*	*	*
+4	erst	erst	ADV	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	Erfolg	Erfolg	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Wagners	Wagner	NE	*	*	*	*
+10	selbstgeschnitzten	selbstgeschnitzt	ADJA	*	*	*	*
+11	Stabreim-Libretti	<unknown>	NN	*	*	*	*
+12	jenes	jen	PDAT	*	*	*	*
+13	uralte	uralt	ADJA	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	von	von	APPR	*	*	*	*
+16	Generation	Generation	NN	*	*	*	*
+17	zu	zu	APPR	*	*	*	*
+18	Generation	Generation	NN	*	*	*	*
+19	weitergereichte	weitergereicht	ADJA	*	*	*	*
+20	Grundwissen	Grundwissen	NN	*	*	*	*
+21	über	über	APPR	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	Verhältnis	Verhältnis	NN	*	*	*	*
+24	von	von	APPR	*	*	*	*
+25	Wort	Wort	NN	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	Ton	Ton	NN	*	*	*	*
+28	über	über	APPR	2	2	2	2
+29	Bord	Bord	NN	2	2	2	2
+30	.	.	$.	*	*	*	*
+
+# article_id = T930227.237
+# text = " Damit zum Beispiel Chemikaliengebinde , die bei einem Sturm kaputtgegangen sind , nicht einfach über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Damit	damit	KOUS	*	*	*	*
+3	zum	zu	APPRART	*	*	*	*
+4	Beispiel	Beispiel	NN	*	*	*	*
+5	Chemikaliengebinde	<unknown>	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	bei	bei	APPR	*	*	*	*
+9	einem	eine	ART	*	*	*	*
+10	Sturm	Sturm	NN	*	*	*	*
+11	kaputtgegangen	kaputtgehen	VVPP	*	*	*	*
+12	sind	sein	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	nicht	nicht	PTKNEG	*	*	*	*
+15	einfach	einfach	ADJD	*	*	*	*
+16	über	über	APPR	1	1	1	1
+17	Bord	Bord	NN	1	1	1	1
+18	gehen	gehen	VVINF	1	1	1	1
+19	.	.	$.	*	*	*	*
+
+# article_id = T960515.231
+# text = Nun aber ist eine Generation angetreten , die schon beim leichtesten Seegang über Bord zu gehen droht .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nun	nun	ADV	*	*	*	*
+2	aber	aber	ADV	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	eine	eine	ART	*	*	*	*
+5	Generation	Generation	NN	*	*	*	*
+6	angetreten	antreten	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	schon	schon	ADV	*	*	*	*
+10	beim	bei	APPRART	*	*	*	*
+11	leichtesten	leicht	ADJA	*	*	*	*
+12	Seegang	Seegang	NN	*	*	*	*
+13	über	über	APPR	2	2	2	2
+14	Bord	Bord	NN	2	2	2	2
+15	zu	zu	PTKZU	*	*	*	*
+16	gehen	gehen	VVINF	2	2	2	2
+17	droht	drohen	VVFIN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T960624.128
+# text = " Der russische Präsident war von den unterschiedlichsten Menschen umgeben , viele von ihnen hielten der Macht- und Reformprobe nicht stand und gingen über Bord ... " , droht das Magazin unverhohlen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Der	die	ART	*	*	*	*
+3	russische	russisch	ADJA	*	*	*	*
+4	Präsident	Präsident	NN	*	*	*	*
+5	war	sein	VAFIN	*	*	*	*
+6	von	von	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	unterschiedlichsten	unterschiedlich	ADJA	*	*	*	*
+9	Menschen	Mensch	NN	*	*	*	*
+10	umgeben	umgeben	VVPP	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	viele	viele	PIS	*	*	*	*
+13	von	von	APPR	*	*	*	*
+14	ihnen	sie	PPER	*	*	*	*
+15	hielten	halten	VVFIN	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Macht-	Macht-	TRUNC	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	Reformprobe	<unknown>	NN	*	*	*	*
+20	nicht	nicht	PTKNEG	*	*	*	*
+21	stand	stehen	VVFIN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	gingen	gehen	VVFIN	2	2	2	2
+24	über	über	APPR	2	2	2	2
+25	Bord	Bord	NN	2	2	2	2
+26	...	...	$.	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	droht	drohen	VVFIN	*	*	*	*
+30	das	die	ART	*	*	*	*
+31	Magazin	Magazin	NN	*	*	*	*
+32	unverhohlen	unverhohlen	ADJD	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T960904.112
+# text = Alles ging in ein paar Stunden über Bord .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Alles	alle	PIS	*	*	*	*
+2	ging	gehen	VVFIN	2	2	2	2
+3	in	in	APPR	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	paar	paar	PIAT	*	*	*	*
+6	Stunden	Stunde|Stunden	NN	*	*	*	*
+7	über	über	APPR	2	2	2	2
+8	Bord	Bord	NN	2	2	2	2
+9	.	.	$.	*	*	*	*
+
+# article_id = T960409.279
+# text = Ringtennis , unter den Fittichen des Deutschen Turner-Bundes laufend , wurde 1927 entwickelt - auf Hochseeschiffen versuchte man damals das Decktennis so zu gestalten , daß nicht dauernd der Ball über Bord ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ringtennis	Ringtennis	NN	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	unter	unter	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Fittichen	<unknown>	NN	*	*	*	*
+6	des	die	ART	*	*	*	*
+7	Deutschen	deutsch	ADJA	*	*	*	*
+8	Turner-Bundes	Turner-Bund	NN	*	*	*	*
+9	laufend	laufend	ADJD	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	wurde	werden	VAFIN	*	*	*	*
+12	1927	@card@	CARD	*	*	*	*
+13	entwickelt	entwickeln	VVPP	*	*	*	*
+14	-	-	$(	*	*	*	*
+15	auf	auf	APPR	*	*	*	*
+16	Hochseeschiffen	Hochseeschiff	NN	*	*	*	*
+17	versuchte	versuchen	VVFIN	*	*	*	*
+18	man	man	PIS	*	*	*	*
+19	damals	damals	ADV	*	*	*	*
+20	das	die	ART	*	*	*	*
+21	Decktennis	<unknown>	NN	*	*	*	*
+22	so	so	ADV	*	*	*	*
+23	zu	zu	PTKZU	*	*	*	*
+24	gestalten	gestalten	VVINF	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	daß	dass	KOUS	*	*	*	*
+27	nicht	nicht	PTKNEG	*	*	*	*
+28	dauernd	dauernd	ADJD	*	*	*	*
+29	der	die	ART	*	*	*	*
+30	Ball	Ball	NN	*	*	*	*
+31	über	über	APPR	1	1	1	1
+32	Bord	Bord	NN	1	1	1	1
+33	ging	gehen	VVFIN	1	1	1	1
+34	.	.	$.	*	*	*	*
+
+# article_id = T960718.135
+# text = Aber Haveldampfer sind robust und fahren unbeirrt weiter - vermutlich selbst dann , wenn einer über Bord geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	aber	KON	*	*	*	*
+2	Haveldampfer	Haveldampfer	NN	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	robust	robust	ADJD	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	fahren	fahren	VVFIN	*	*	*	*
+7	unbeirrt	unbeirrt	ADJD	*	*	*	*
+8	weiter	weiter	PTKVZ	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	vermutlich	vermutlich	ADV	*	*	*	*
+11	selbst	selbst	ADV	*	*	*	*
+12	dann	dann	ADV	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wenn	wenn	KOUS	*	*	*	*
+15	einer	eine	PIS	*	*	*	*
+16	über	über	APPR	1	1	1	1
+17	Bord	Bord	NN	1	1	1	1
+18	geht	gehen	VVFIN	1	1	1	1
+19	.	.	$.	*	*	*	*
+
+# article_id = T960309.87
+# text = Daß zukunftsfähige Arbeitsplätze nur im Einklang mit den ökologischen Erfordernissen zu schaffen sind , geht dabei über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	zukunftsfähige	zukunftsfähig	ADJA	*	*	*	*
+3	Arbeitsplätze	Arbeitsplatz	NN	*	*	*	*
+4	nur	nur	ADV	*	*	*	*
+5	im	in	APPRART	*	*	*	*
+6	Einklang	Einklang	NN	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	den	die	ART	*	*	*	*
+9	ökologischen	ökologisch	ADJA	*	*	*	*
+10	Erfordernissen	Erfordernis	NN	*	*	*	*
+11	zu	zu	PTKZU	*	*	*	*
+12	schaffen	schaffen	VVINF	*	*	*	*
+13	sind	sein	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	geht	gehen	VVFIN	2	2	2	2
+16	dabei	dabei	PAV	*	*	*	*
+17	über	über	APPR	2	2	2	2
+18	Bord	Bord	NN	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T960321.78
+# text = Bei so viel Einsatz geht die vielzitierte journalistische Objektivität schon mal über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	so	so	ADV	*	*	*	*
+3	viel	viele	PIAT	*	*	*	*
+4	Einsatz	Einsatz	NN	*	*	*	*
+5	geht	gehen	VVFIN	2	2	2	2
+6	die	die	ART	*	*	*	*
+7	vielzitierte	vielzitiert	ADJA	*	*	*	*
+8	journalistische	journalistisch	ADJA	*	*	*	*
+9	Objektivität	Objektivität	NN	*	*	*	*
+10	schon	schon	ADV	*	*	*	*
+11	mal	mal	ADV	*	*	*	*
+12	über	über	APPR	2	2	2	2
+13	Bord	Bord	NN	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T960209.266
+# text = Als Kapitäne haben sie gelernt , wie man Müll , Öl und Kacke über Bord gehen läßt , ohne erwischt zu werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOKOM	*	*	*	*
+2	Kapitäne	Kapitän	NN	*	*	*	*
+3	haben	haben	VAFIN	*	*	*	*
+4	sie	sie	PPER	*	*	*	*
+5	gelernt	lernen	VVPP	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wie	wie	KOUS	*	*	*	*
+8	man	man	PIS	*	*	*	*
+9	Müll	Müll	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Öl	ÖlÖl	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Kacke	Kacke	NN	*	*	*	*
+14	über	über	APPR	1	1	1	1
+15	Bord	Bord	NN	1	1	1	1
+16	gehen	gehen	VVINF	1	1	1	1
+17	läßt	lassen	VVFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	ohne	ohne	KOUI	*	*	*	*
+20	erwischt	erwischen	VVPP	*	*	*	*
+21	zu	zu	PTKZU	*	*	*	*
+22	werden	werden	VAINF	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T960226.68
+# text = In der Nordsee kommen auf einen Kilo Fisch , der angelandet wird , vier Kilo , die wieder über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Nordsee	Nordsee	NE	*	*	*	*
+4	kommen	kommen	VVFIN	*	*	*	*
+5	auf	auf	APPR	*	*	*	*
+6	einen	eine	ART	*	*	*	*
+7	Kilo	Kilo	NN	*	*	*	*
+8	Fisch	Fisch	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	der	die	PRELS	*	*	*	*
+11	angelandet	anlanden	VVPP	*	*	*	*
+12	wird	werden	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	vier	vier	CARD	*	*	*	*
+15	Kilo	Kilo	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	PRELS	*	*	*	*
+18	wieder	wieder	ADV	*	*	*	*
+19	über	über	APPR	1	1	1	1
+20	Bord	Bord	NN	1	1	1	1
+21	gehen	gehen	VVINF	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T980523.282
+# text = Deshalb wird von vielen Frauenbewegten der Verstoß gegen das Gleichheitsgebot fanatisch verteidigt - so schnell gehen bei mancher die Prinzipien der Aufklärung über Bord , wenn es nur zum eigenen Nutzen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Deshalb	deshalb	PAV	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	vielen	viele	PIAT	*	*	*	*
+5	Frauenbewegten	Frauenbewegte	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Verstoß	Verstoß	NN	*	*	*	*
+8	gegen	gegen	APPR	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	Gleichheitsgebot	Gleichheitsgebot	NN	*	*	*	*
+11	fanatisch	fanatisch	ADJD	*	*	*	*
+12	verteidigt	verteidigen	VVPP	*	*	*	*
+13	-	-	$(	*	*	*	*
+14	so	so	ADV	*	*	*	*
+15	schnell	schnell	ADJD	*	*	*	*
+16	gehen	gehen	VVFIN	2	2	2	2
+17	bei	bei	APPR	*	*	*	*
+18	mancher	manche	PIS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Prinzipien	Prinzip	NN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Aufklärung	Aufklärung	NN	*	*	*	*
+23	über	über	APPR	2	2	2	2
+24	Bord	Bord	NN	2	2	2	2
+25	,	,	$,	*	*	*	*
+26	wenn	wenn	KOUS	*	*	*	*
+27	es	es	PPER	*	*	*	*
+28	nur	nur	ADV	*	*	*	*
+29	zum	zu	APPRART	*	*	*	*
+30	eigenen	eigen	ADJA	*	*	*	*
+31	Nutzen	Nutzen	NN	*	*	*	*
+32	ist	sein	VAFIN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T980605.197
+# text = Trennen sich aber die Eltern , ohne daß dabei " die Prinzipien der Aufklärung über Bord gehen " , das heißt , ohne daß sie in irrationale Kämpfe um die Kinder verfallen - auch gut , dann werden sie schon eine Regelung finden , wie sie ihre Elternschaft zum Wohle der Kinder weiterhin organisieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Trennen	trennen	VVFIN	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	aber	aber	ADV	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Eltern	Eltern	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	ohne	ohne	APPR	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	dabei	dabei	PAV	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Prinzipien	Prinzip	NN	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Aufklärung	Aufklärung	NN	*	*	*	*
+15	über	über	APPR	2	2	2	2
+16	Bord	Bord	NN	2	2	2	2
+17	gehen	gehen	VVINF	2	2	2	2
+18	"	"	$(	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	das	die	PDS	*	*	*	*
+21	heißt	heißen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	ohne	ohne	APPR	*	*	*	*
+24	daß	dass	KOUS	*	*	*	*
+25	sie	sie	PPER	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	irrationale	irrational	ADJA	*	*	*	*
+28	Kämpfe	Kampf	NN	*	*	*	*
+29	um	um	APPR	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	Kinder	Kind	NN	*	*	*	*
+32	verfallen	verfallen	VVPP	*	*	*	*
+33	-	-	$(	*	*	*	*
+34	auch	auch	ADV	*	*	*	*
+35	gut	gut	ADJD	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	dann	dann	ADV	*	*	*	*
+38	werden	werden	VAFIN	*	*	*	*
+39	sie	sie	PPER	*	*	*	*
+40	schon	schon	ADV	*	*	*	*
+41	eine	eine	ART	*	*	*	*
+42	Regelung	Regelung	NN	*	*	*	*
+43	finden	finden	VVINF	*	*	*	*
+44	,	,	$,	*	*	*	*
+45	wie	wie	KOUS	*	*	*	*
+46	sie	sie	PPER	*	*	*	*
+47	ihre	ihr	PPOSAT	*	*	*	*
+48	Elternschaft	Elternschaft	NN	*	*	*	*
+49	zum	zu	APPRART	*	*	*	*
+50	Wohle	Wohl	NN	*	*	*	*
+51	der	die	ART	*	*	*	*
+52	Kinder	Kind	NN	*	*	*	*
+53	weiterhin	weiterhin	ADV	*	*	*	*
+54	organisieren	organisieren	VVINF	*	*	*	*
+55	.	.	$.	*	*	*	*
+
+# article_id = T980921.67
+# text = Angetrieben von Sprechchören und Trillerpfeifenkonzerten enterten " Panzerknacker " das Schiff " MS Regierung " und ließen Kanzler und Minister über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Angetrieben	angetrieben	ADJD	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	Sprechchören	Sprechchor	NN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	Trillerpfeifenkonzerten	<unknown>	NN	*	*	*	*
+6	enterten	entern	VVFIN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	Panzerknacker	Panzerknacker	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	das	die	ART	*	*	*	*
+11	Schiff	Schiff	NN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	MS	MS	NE	*	*	*	*
+14	Regierung	Regierung	NN	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	ließen	lassen	VVFIN	*	*	*	*
+18	Kanzler	Kanzler	NN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Minister	Minister	NN	*	*	*	*
+21	über	über	APPR	1	2	2	2
+22	Bord	Bord	NN	1	2	2	2
+23	gehen	gehen	VVINF	1	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T980925.115
+# text = " Waigel und Kohl gingen über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Waigel	Waigel	NE	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	Kohl	Kohl	NE	*	*	*	*
+5	gingen	gehen	VVFIN	1	2	2	2
+6	über	über	APPR	1	2	2	2
+7	Bord	Bord	NN	1	2	2	2
+8	.	.	$.	*	*	*	*
+
+# article_id = T980903.36
+# text = Leider geht das Gör auf der Schiffsreise über Bord und ertrinkt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Leider	leider	ADV	*	*	*	*
+2	geht	gehen	VVFIN	1	1	1	1
+3	das	die	ART	*	*	*	*
+4	Gör	<unknown>	ADJA	*	*	*	*
+5	auf	auf	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Schiffsreise	Schiffsreise	NN	*	*	*	*
+8	über	über	APPR	1	1	1	1
+9	Bord	Bord	NN	1	1	1	1
+10	und	und	KON	*	*	*	*
+11	ertrinkt	ertrinken	VVFIN	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T980107.95
+# text = Die neun Besatzungsmitglieder gingen über Bord , konnten aber unverletzt geborgen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	neun	neun	CARD	*	*	*	*
+3	Besatzungsmitglieder	Besatzungsmitglied	NN	*	*	*	*
+4	gingen	gehen	VVFIN	1	1	1	1
+5	über	über	APPR	1	1	1	1
+6	Bord	Bord	NN	1	1	1	1
+7	,	,	$,	*	*	*	*
+8	konnten	können	VMFIN	*	*	*	*
+9	aber	aber	ADV	*	*	*	*
+10	unverletzt	unverletzt	ADJD	*	*	*	*
+11	geborgen	bergen	VVPP	*	*	*	*
+12	werden	werden	VAINF	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T980404.219
+# text = Jedenfalls ein Wesen , das sich mit Lust und Vorliebe im Meer tummelt und mit etwas anderen , kaleidoskopisch organisierten Augen aus dem Wasser heraus perspektivisch stark verzerrte Ansichten vom Ufer festhält , gesunkenen Schiffen nachspürt , beobachtet , wie ein Matrose über Bord geht , oder einfach eine Yacht mit Beiboot im Schlepptau als Motiv entdeckt , so bei " Vollendung " , 1993 .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jedenfalls	jedenfalls	ADV	*	*	*	*
+2	ein	eine	ART	*	*	*	*
+3	Wesen	Wesen	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	das	die	PRELS	*	*	*	*
+6	sich	sich	PRF	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	Lust	Lust	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Vorliebe	Vorliebe	NN	*	*	*	*
+11	im	in	APPRART	*	*	*	*
+12	Meer	Meer	NN	*	*	*	*
+13	tummelt	tummeln	VVFIN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	etwas	etwas	PIS	*	*	*	*
+17	anderen	andere	PIS	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	kaleidoskopisch	kaleidoskopisch	ADJD	*	*	*	*
+20	organisierten	organisiert	ADJA	*	*	*	*
+21	Augen	Auge	NN	*	*	*	*
+22	aus	aus	APPR	*	*	*	*
+23	dem	die	ART	*	*	*	*
+24	Wasser	Wasser	NN	*	*	*	*
+25	heraus	heraus	ADV	*	*	*	*
+26	perspektivisch	perspektivisch	ADJD	*	*	*	*
+27	stark	stark	ADJD	*	*	*	*
+28	verzerrte	verzerrt	ADJA	*	*	*	*
+29	Ansichten	Ansicht	NN	*	*	*	*
+30	vom	von	APPRART	*	*	*	*
+31	Ufer	Ufer	NN	*	*	*	*
+32	festhält	festhalten	VVFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	gesunkenen	gesunken	ADJA	*	*	*	*
+35	Schiffen	Schiff	NN	*	*	*	*
+36	nachspürt	nachspüren	VVFIN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	beobachtet	beobachten	VVPP	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	wie	wie	KOUS	*	*	*	*
+41	ein	eine	ART	*	*	*	*
+42	Matrose	Matrose	NN	*	*	*	*
+43	über	über	APPR	1	1	1	1
+44	Bord	Bord	NN	1	1	1	1
+45	geht	gehen	VVFIN	1	1	1	1
+46	,	,	$,	*	*	*	*
+47	oder	oder	KON	*	*	*	*
+48	einfach	einfach	ADJD	*	*	*	*
+49	eine	eine	ART	*	*	*	*
+50	Yacht	Yacht	NN	*	*	*	*
+51	mit	mit	APPR	*	*	*	*
+52	Beiboot	Beiboot	NN	*	*	*	*
+53	im	in	APPRART	*	*	*	*
+54	Schlepptau	Schlepptau	NN	*	*	*	*
+55	als	als	KOKOM	*	*	*	*
+56	Motiv	Motiv	NN	*	*	*	*
+57	entdeckt	entdecken	VVPP	*	*	*	*
+58	,	,	$,	*	*	*	*
+59	so	so	ADV	*	*	*	*
+60	bei	bei	APPR	*	*	*	*
+61	"	"	$(	*	*	*	*
+62	Vollendung	Vollendung	NE	*	*	*	*
+63	"	"	$(	*	*	*	*
+64	,	,	$,	*	*	*	*
+65	1993	@card@	CARD	*	*	*	*
+66	.	.	$.	*	*	*	*
+
+# article_id = T980721.159
+# text = Ein 18jähriger ging über Bord und nahm ein unfreiwilliges Bad , wie die Polizei mitteilte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	18jähriger	18jährig	ADJA	*	*	*	*
+3	ging	gehen	VVFIN	1	1	1	1
+4	über	über	APPR	1	1	1	1
+5	Bord	Bord	NN	1	1	1	1
+6	und	und	KON	*	*	*	*
+7	nahm	nehmen	VVFIN	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	unfreiwilliges	unfreiwillig	ADJA	*	*	*	*
+10	Bad	Bad	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	wie	wie	KOUS	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Polizei	Polizei	NN	*	*	*	*
+15	mitteilte	mitteilen	VVFIN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T981219.75
+# text = Und schon schaukelt alles ungeheuerlich , zwei Matrosen gehen fast über Bord , und in Kapitän Fritjofs Kajüte macht es rumpeldipumpel .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	schon	schon	ADV	*	*	*	*
+3	schaukelt	schaukeln	VVFIN	*	*	*	*
+4	alles	alle	PIS	*	*	*	*
+5	ungeheuerlich	ungeheuerlich	ADJD	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	zwei	zwei	CARD	*	*	*	*
+8	Matrosen	Matrose	NN	*	*	*	*
+9	gehen	gehen	VVFIN	1	1	1	1
+10	fast	fast	ADV	*	*	*	*
+11	über	über	APPR	1	1	1	1
+12	Bord	Bord	NN	1	1	1	1
+13	,	,	$,	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	Kapitän	Kapitän	NN	*	*	*	*
+17	Fritjofs	<unknown>	NE	*	*	*	*
+18	Kajüte	Kajüte	NN	*	*	*	*
+19	macht	machen	VVFIN	*	*	*	*
+20	es	es	PPER	*	*	*	*
+21	rumpeldipumpel	<unknown>	NN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T980803.77
+# text = Möglicherweise stammen sie aus einer über Bord gegangenen Ladung eines spanischen Schiffes .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Möglicherweise	möglicherweise	ADV	*	*	*	*
+2	stammen	stammen	VVFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	aus	aus	APPR	*	*	*	*
+5	einer	eine	ART	*	*	*	*
+6	über	über	APPR	1	1	1	1
+7	Bord	Bord	NN	1	1	1	1
+8	gegangenen	gegangen	ADJA	1	1	1	1
+9	Ladung	Ladung	NN	*	*	*	*
+10	eines	eine	ART	*	*	*	*
+11	spanischen	spanisch	ADJA	*	*	*	*
+12	Schiffes	Schiff	NN	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T980824.119
+# text = Dieser Politikverzicht war , wie bei der SPD , aus der Angst geboren , daß dann , je härter man politisch am Wind segelt , der ganze Kahn kentert und einige über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dieser	dies	PDAT	*	*	*	*
+2	Politikverzicht	Politikverzicht	NN	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	wie	wie	KOUS	*	*	*	*
+6	bei	bei	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	SPD	SPD	NE	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	aus	aus	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Angst	Angst	NN	*	*	*	*
+13	geboren	gebären	VVPP	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	daß	dass	KOUS	*	*	*	*
+16	dann	dann	ADV	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	je	je	ADV	*	*	*	*
+19	härter	hart	ADJD	*	*	*	*
+20	man	man	PIS	*	*	*	*
+21	politisch	politisch	ADJD	*	*	*	*
+22	am	an	APPRART	*	*	*	*
+23	Wind	Wind	NN	*	*	*	*
+24	segelt	segeln	VVFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	ganze	ganz	ADJA	*	*	*	*
+28	Kahn	Kahn	NN	*	*	*	*
+29	kentert	kentern	VVFIN	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	einige	einige	PIS	*	*	*	*
+32	über	über	APPR	2	2	2	2
+33	Bord	Bord	NN	2	2	2	2
+34	gehen	gehen	VVINF	2	2	2	2
+35	.	.	$.	*	*	*	*
+
+# article_id = T980218.218
+# text = Der Skipper war im Oktober 1997 während einer Fahrt von Hooksiel ( Kreis Friesland ) nach Bremerhaven bei stürmischem Wind über Bord gegangen und ertrunken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Skipper	<unknown>	NN	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Oktober	Oktober	NN	*	*	*	*
+6	1997	@card@	CARD	*	*	*	*
+7	während	während	APPR	*	*	*	*
+8	einer	eine	ART	*	*	*	*
+9	Fahrt	Fahrt	NN	*	*	*	*
+10	von	von	APPR	*	*	*	*
+11	Hooksiel	<unknown>	NE	*	*	*	*
+12	(	(	$(	*	*	*	*
+13	Kreis	Kreis	NN	*	*	*	*
+14	Friesland	Friesland	NE	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	nach	nach	APPR	*	*	*	*
+17	Bremerhaven	Bremerhaven	NE	*	*	*	*
+18	bei	bei	APPR	*	*	*	*
+19	stürmischem	stürmisch	ADJA	*	*	*	*
+20	Wind	Wind	NN	*	*	*	*
+21	über	über	APPR	1	1	1	1
+22	Bord	Bord	NN	1	1	1	1
+23	gegangen	gehen	VVPP	1	1	1	1
+24	und	und	KON	*	*	*	*
+25	ertrunken	ertrinken	VVPP	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T970503.263
+# text = Als ein lautdröhnendes Motorboot am Kahn vorbeifährt , geht sein " Essen " über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOUS	*	*	*	*
+2	ein	eine	ART	*	*	*	*
+3	lautdröhnendes	<unknown>	ADJA	*	*	*	*
+4	Motorboot	Motorboot	NN	*	*	*	*
+5	am	an	APPRART	*	*	*	*
+6	Kahn	Kahn	NN	*	*	*	*
+7	vorbeifährt	vorbeifahren	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	geht	gehen	VVFIN	1	1	1	1
+10	sein	sein	PPOSAT	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	Essen	Essen	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	über	über	APPR	1	1	1	1
+15	Bord	Bord	NN	1	1	1	1
+16	.	.	$.	*	*	*	*
+
+# article_id = T970612.172
+# text = Durch ihn kam ein neuer Ton in die kulturpolitische Szene , die sich nach Kräften bemühte , ihre Erbschaft aus den siebziger Jahren zwanglos über Bord gehen zu lassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Durch	durch	APPR	*	*	*	*
+2	ihn	er	PPER	*	*	*	*
+3	kam	kommen	VVFIN	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	neuer	neu	ADJA	*	*	*	*
+6	Ton	Ton	NN	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	kulturpolitische	kulturpolitisch	ADJA	*	*	*	*
+10	Szene	Szene	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	nach	nach	APPR	*	*	*	*
+15	Kräften	Kraft	NN	*	*	*	*
+16	bemühte	bemühen	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	ihre	ihr	PPOSAT	*	*	*	*
+19	Erbschaft	Erbschaft	NN	*	*	*	*
+20	aus	aus	APPR	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	siebziger	siebziger	ADJA	*	*	*	*
+23	Jahren	Jahr	NN	*	*	*	*
+24	zwanglos	zwanglos	ADJD	*	*	*	*
+25	über	über	APPR	2	2	2	2
+26	Bord	Bord	NN	2	2	2	2
+27	gehen	gehen	VVINF	2	2	2	2
+28	zu	zu	PTKZU	*	*	*	*
+29	lassen	lassen	VVINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T970613.205
+# text = Betriebsräte der Genossenschaftsinstitute verweisen darauf , daß bei derartigen Zusammenschlüssen erfahrungsgemäß " mindestens zehn Prozent der Stellen " über Bord gingen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Betriebsräte	Betriebsrat	NN	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Genossenschaftsinstitute	<unknown>	NN	*	*	*	*
+4	verweisen	verweisen	VVFIN	*	*	*	*
+5	darauf	darauf	PAV	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	bei	bei	APPR	*	*	*	*
+9	derartigen	derartig	ADJA	*	*	*	*
+10	Zusammenschlüssen	Zusammenschluss	NN	*	*	*	*
+11	erfahrungsgemäß	erfahrungsgemäß	ADJD	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	mindestens	mindestens	ADV	*	*	*	*
+14	zehn	zehn	CARD	*	*	*	*
+15	Prozent	Prozent	NN	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Stellen	Stelle|Stellen	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	über	über	APPR	2	2	2	2
+20	Bord	Bord	NN	2	2	2	2
+21	gingen	gehen	VVFIN	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T971013.295
+# text = Dabei ging nach Angaben der Wasserschutzpolizei Bremerhaven der 39jährige aus bislang unbekannter Ursache über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dabei	dabei	PAV	*	*	*	*
+2	ging	gehen	VVFIN	1	1	1	1
+3	nach	nach	APPR	*	*	*	*
+4	Angaben	Angabe	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Wasserschutzpolizei	Wasserschutzpolizei	NN	*	*	*	*
+7	Bremerhaven	Bremerhaven	NE	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	39jährige	39jährig	ADJA	*	*	*	*
+10	aus	aus	APPR	*	*	*	*
+11	bislang	bislang	ADV	*	*	*	*
+12	unbekannter	unbekannt	ADJA	*	*	*	*
+13	Ursache	Ursache	NN	*	*	*	*
+14	über	über	APPR	1	1	1	1
+15	Bord	Bord	NN	1	1	1	1
+16	.	.	$.	*	*	*	*
+
+# article_id = T971014.141
+# text = Besonders stolz sind die WNBA-Managerinnen darauf , wieder Emotionen in den US-Profi-Basketball zurückgebracht zu haben , die in der NBA über Bord gegangen sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Besonders	besonders	ADV	*	*	*	*
+2	stolz	stolz	ADJD	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	WNBA-Managerinnen	<unknown>	NN	*	*	*	*
+6	darauf	darauf	PAV	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	wieder	wieder	ADV	*	*	*	*
+9	Emotionen	Emotion	NN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	US-Profi-Basketball	<unknown>	NN	*	*	*	*
+13	zurückgebracht	zurückbringen	VVPP	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	haben	haben	VAINF	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	PRELS	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	NBA	<unknown>	NN	*	*	*	*
+21	über	über	APPR	2	2	2	2
+22	Bord	Bord	NN	2	2	2	2
+23	gegangen	gehen	VVPP	2	2	2	2
+24	sind	sein	VAFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T970922.277
+# text = Ich will nicht ausschließen , daß hier und da mal ein Farbeimer über Bord gegangen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	ich	PPER	*	*	*	*
+2	will	wollen	VMFIN	*	*	*	*
+3	nicht	nicht	PTKNEG	*	*	*	*
+4	ausschließen	ausschließen	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	hier	hier	ADV	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	da	da	ADV	*	*	*	*
+10	mal	mal	ADV	*	*	*	*
+11	ein	eine	ART	*	*	*	*
+12	Farbeimer	Farbeimer	NN	*	*	*	*
+13	über	über	APPR	1	1	2	1
+14	Bord	Bord	NN	1	1	2	1
+15	gegangen	gehen	VVPP	1	1	2	1
+16	ist	sein	VAFIN	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T970115.99
+# text = Ob die Fischer hier etwas von über Bord gegangenen Leuten wissen ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ob	ob	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Fischer	Fischer	NE	*	*	*	*
+4	hier	hier	ADV	*	*	*	*
+5	etwas	etwas	ADV	*	*	*	*
+6	von	von	APPR	*	*	*	*
+7	über	über	APPR	1	1	1	1
+8	Bord	Bord	NN	1	1	1	1
+9	gegangenen	gegangen	ADJA	*	*	*	*
+10	Leuten	Leute	NN	1	1	1	1
+11	wissen	wissen	VVINF	*	*	*	*
+12	?	?	$.	*	*	*	*
+
+# article_id = T970115.99
+# text = " Wir wissen , daß Ihnen Personen über Bord gegangen sind " , schreit Berghini , " und wenn Sie nicht sofort weitermachen mit der Suche nach ihnen , verhafte ich Sie , notfalls auch hier außerhalb der Zehnmeilenzone .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wir	wir	PPER	*	*	*	*
+3	wissen	wissen	VVFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	Ihnen	Sie	PPER	*	*	*	*
+7	Personen	Person	NN	*	*	*	*
+8	über	über	APPR	1	1	1	1
+9	Bord	Bord	NN	1	1	1	1
+10	gegangen	gehen	VVPP	1	1	1	1
+11	sind	sein	VAFIN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	schreit	schreien	VVFIN	*	*	*	*
+15	Berghini	<unknown>	NE	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	wenn	wenn	KOUS	*	*	*	*
+20	Sie	Sie	PPER	*	*	*	*
+21	nicht	nicht	PTKNEG	*	*	*	*
+22	sofort	sofort	ADV	*	*	*	*
+23	weitermachen	weitermachen	VVFIN	*	*	*	*
+24	mit	mit	APPR	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Suche	Suche	NN	*	*	*	*
+27	nach	nach	APPR	*	*	*	*
+28	ihnen	sie	PPER	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	verhafte	verhaften	VVFIN	*	*	*	*
+31	ich	ich	PPER	*	*	*	*
+32	Sie	Sie	PPER	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	notfalls	notfalls	ADV	*	*	*	*
+35	auch	auch	ADV	*	*	*	*
+36	hier	hier	ADV	*	*	*	*
+37	außerhalb	außerhalb	APPR	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	Zehnmeilenzone	<unknown>	NN	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T970703.257
+# text = Wer unter mannschaftlichem Druck über Bord geht oder zur Strafe festgezurrt auf dem Mastbaum kauert , hatte die Hackordnungen der Männergemeinschaft diffamiert , die Schatzkarte heimlich an sich genommen oder die dünnhäutige Adelsdame mit ausgelassener Kneipenderbheit beleidigt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wer	wer	PWS	*	*	*	*
+2	unter	unter	APPR	*	*	*	*
+3	mannschaftlichem	<unknown>	ADJA	*	*	*	*
+4	Druck	Druck	NN	*	*	*	*
+5	über	über	APPR	1	2	1	1
+6	Bord	Bord	NN	1	2	1	1
+7	geht	gehen	VVFIN	1	2	1	1
+8	oder	oder	KON	*	*	*	*
+9	zur	zu	APPRART	*	*	*	*
+10	Strafe	Strafe	NN	*	*	*	*
+11	festgezurrt	<unknown>	VVPP	*	*	*	*
+12	auf	auf	APPR	*	*	*	*
+13	dem	die	ART	*	*	*	*
+14	Mastbaum	Mastbaum	NN	*	*	*	*
+15	kauert	kauern	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	hatte	haben	VAFIN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Hackordnungen	Hackordnung	NN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Männergemeinschaft	Männergemeinschaft	NN	*	*	*	*
+22	diffamiert	diffamieren	VVPP	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Schatzkarte	Schatzkarte	NN	*	*	*	*
+26	heimlich	heimlich	ADJD	*	*	*	*
+27	an	an	APPR	*	*	*	*
+28	sich	sich	PRF	*	*	*	*
+29	genommen	nehmen	VVPP	*	*	*	*
+30	oder	oder	KON	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	dünnhäutige	dünnhäutig	ADJA	*	*	*	*
+33	Adelsdame	Adelsdame	NN	*	*	*	*
+34	mit	mit	APPR	*	*	*	*
+35	ausgelassener	ausgelassen	ADJA	*	*	*	*
+36	Kneipenderbheit	<unknown>	NN	*	*	*	*
+37	beleidigt	beleidigen	VVPP	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T970809.276
+# text = Kapitän Johann Behrens vom Bestattungsschiff " Pax Mare " braucht drei Stunden für die Tour , inklusive Ehrenrunde um die Stelle , an der die Urne über Bord geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kapitän	Kapitän	NN	*	*	*	*
+2	Johann	Johann	NE	*	*	*	*
+3	Behrens	Behrens	NE	*	*	*	*
+4	vom	von	APPRART	*	*	*	*
+5	Bestattungsschiff	<unknown>	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	Pax	Pax	NN	*	*	*	*
+8	Mare	Mare	NE	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	braucht	brauchen	VVFIN	*	*	*	*
+11	drei	drei	CARD	*	*	*	*
+12	Stunden	Stunde|Stunden	NN	*	*	*	*
+13	für	für	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Tour	Tour	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	inklusive	inklusive	APPR	*	*	*	*
+18	Ehrenrunde	Ehrenrunde	NN	*	*	*	*
+19	um	um	APPR	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Stelle	Stelle	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	an	an	APPR	*	*	*	*
+24	der	die	PRELS	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Urne	Urne	NN	*	*	*	*
+27	über	über	APPR	1	1	1	1
+28	Bord	Bord	NN	1	1	1	1
+29	geht	gehen	VVFIN	1	1	1	1
+30	.	.	$.	*	*	*	*
+
+# article_id = T970306.265
+# text = Der größte Teil des Fangs wird jedoch nicht vermarktet , sondern geht als Beifang tot oder verletzt wieder über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	größte	groß	ADJA	*	*	*	*
+3	Teil	Teil	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	Fangs	Fang	NN	*	*	*	*
+6	wird	werden	VAFIN	*	*	*	*
+7	jedoch	jedoch	ADV	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	vermarktet	vermarkten	VVPP	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	sondern	sondern	KON	*	*	*	*
+12	geht	gehen	VVFIN	1	1	1	1
+13	als	als	KOKOM	*	*	*	*
+14	Beifang	Beifang	NN	*	*	*	*
+15	tot	tot	ADJD	*	*	*	*
+16	oder	oder	KON	*	*	*	*
+17	verletzt	verletzen	VVFIN	*	*	*	*
+18	wieder	wieder	ADV	*	*	*	*
+19	über	über	APPR	1	1	1	1
+20	Bord	Bord	NN	1	1	1	1
+21	.	.	$.	*	*	*	*
+
+# article_id = T940919.87
+# text = Für den Bundessprecher der Grünen , Peter Pilz , ist die Ankündigung einer Teilnahme Österreichs an der Nato-Partnerschaft das " Eingeständnis , daß mit dem EU-Beitritt auch die Neutralität über Bord geht " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Für	für	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Bundessprecher	Bundessprecher	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Grünen	Grüne	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Peter	Peter	NE	*	*	*	*
+8	Pilz	Pilz	NE	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	ist	sein	VAFIN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Ankündigung	Ankündigung	NN	*	*	*	*
+13	einer	eine	ART	*	*	*	*
+14	Teilnahme	Teilnahme	NN	*	*	*	*
+15	Österreichs	Österreich	NE	*	*	*	*
+16	an	an	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Nato-Partnerschaft	Nato-Partnerschaft	NN	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	Eingeständnis	Eingeständnis	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	daß	dass	KOUS	*	*	*	*
+24	mit	mit	APPR	*	*	*	*
+25	dem	die	ART	*	*	*	*
+26	EU-Beitritt	EU-Beitritt	NN	*	*	*	*
+27	auch	auch	ADV	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Neutralität	Neutralität	NN	*	*	*	*
+30	über	über	APPR	2	2	2	2
+31	Bord	Bord	NN	2	2	2	2
+32	geht	gehen	VVFIN	2	2	2	2
+33	"	"	$(	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T940122.256
+# text = Die Gift-Beutel waren von dem französischen Frachter " Sherbro " in der Nacht zum 10. Dezember 1993 bei stürmischer See über Bord gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Gift-Beutel	<unknown>	NN	*	*	*	*
+3	waren	sein	VAFIN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	dem	die	ART	*	*	*	*
+6	französischen	französisch	ADJA	*	*	*	*
+7	Frachter	Frachter	NN	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	Sherbro	<unknown>	NE	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Nacht	Nacht	NN	*	*	*	*
+14	zum	zu	APPRART	*	*	*	*
+15	10	@card@	CARD	*	*	*	*
+16	.	.	$.	*	*	*	*
+17	Dezember	Dezember	NN	*	*	*	*
+18	1993	@card@	CARD	*	*	*	*
+19	bei	bei	APPR	*	*	*	*
+20	stürmischer	stürmisch	ADJA	*	*	*	*
+21	See	See	NN	*	*	*	*
+22	über	über	APPR	1	1	1	1
+23	Bord	Bord	NN	1	1	1	1
+24	gegangen	gehen	VVPP	1	1	1	1
+25	.	.	$.	*	*	*	*
+
+# article_id = T940125.2
+# text = Hamburg / Juist ( taz / dpa / AP ) - Verwirrung um die auch der deutschen Nordseeküste drohende Beutelpest aus dem Hause Ciba-Geigy : Greenpeace hatte zunächst erklärt , daß es sich bei vier auf der Insel Juist gestrandeten Behältnissen um Tüten mit dem Pestizid " Apron Plus 50 DS " handele , die aus der über Bord gegangenen hochgiftigen Ladung des Frachters " Sherbro " stammten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hamburg	Hamburg	NE	*	*	*	*
+2	/	/	$(	*	*	*	*
+3	Juist	<unknown>	NN	*	*	*	*
+4	(	(	$(	*	*	*	*
+5	taz	<unknown>	NE	*	*	*	*
+6	/	/	$(	*	*	*	*
+7	dpa	dpa	NE	*	*	*	*
+8	/	/	$(	*	*	*	*
+9	AP	AP	NE	*	*	*	*
+10	)	)	$(	*	*	*	*
+11	-	-	$(	*	*	*	*
+12	Verwirrung	Verwirrung	NN	*	*	*	*
+13	um	um	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	auch	auch	ADV	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	deutschen	deutsch	ADJA	1	1	1	1
+18	Nordseeküste	Nordseeküste	NN	*	*	*	*
+19	drohende	drohend	ADJA	*	*	*	*
+20	Beutelpest	Beutelpest	NN	*	*	*	*
+21	aus	aus	APPR	*	*	*	*
+22	dem	die	ART	*	*	*	*
+23	Hause	Haus	NN	*	*	*	*
+24	Ciba-Geigy	<unknown>	NE	*	*	*	*
+25	:	:	$.	*	*	*	*
+26	Greenpeace	Greenpeace	NE	*	*	*	*
+27	hatte	haben	VAFIN	*	*	*	*
+28	zunächst	zunächst	ADV	*	*	*	*
+29	erklärt	erklären	VVPP	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	daß	dass	KOUS	*	*	*	*
+32	es	es	PPER	*	*	*	*
+33	sich	sich	PRF	*	*	*	*
+34	bei	bei	APPR	*	*	*	*
+35	vier	vier	CARD	*	*	*	*
+36	auf	auf	APPR	*	*	*	*
+37	der	die	ART	*	*	*	*
+38	Insel	Insel	NN	*	*	*	*
+39	Juist	<unknown>	NN	*	*	*	*
+40	gestrandeten	gestrandet	ADJA	*	*	*	*
+41	Behältnissen	Behältnis	NN	*	*	*	*
+42	um	um	APPR	*	*	*	*
+43	Tüten	Tüte	NN	*	*	*	*
+44	mit	mit	APPR	*	*	*	*
+45	dem	die	ART	*	*	*	*
+46	Pestizid	Pestizid	NN	*	*	*	*
+47	"	"	$(	*	*	*	*
+48	Apron	<unknown>	NN	*	*	*	*
+49	Plus	Plus	NE	*	*	*	*
+50	50	@card@	CARD	*	*	*	*
+51	DS	D	NN	*	*	*	*
+52	"	"	$(	*	*	*	*
+53	handele	handeln	VVFIN	*	*	*	*
+54	,	,	$,	*	*	*	*
+55	die	die	PRELS	*	*	*	*
+56	aus	aus	APPR	*	*	*	*
+57	der	die	ART	*	*	*	*
+58	über	über	APPR	1	1	1	1
+59	Bord	Bord	NN	1	1	1	1
+60	gegangenen	gegangen	ADJA	*	*	*	*
+61	hochgiftigen	hochgiftig	ADJA	*	*	*	*
+62	Ladung	Ladung	NN	*	*	*	*
+63	des	die	ART	*	*	*	*
+64	Frachters	Frachter	NN	*	*	*	*
+65	"	"	$(	*	*	*	*
+66	Sherbro	<unknown>	NE	*	*	*	*
+67	"	"	$(	*	*	*	*
+68	stammten	stammen	VVFIN	*	*	*	*
+69	.	.	$.	*	*	*	*
+
+# article_id = T940125.2
+# text = Nach Berechnungen von Greenpeace hat der über Bord gegangene Container 7,2 Tonnen Ladung gehabt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	Berechnungen	Berechnung	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Greenpeace	Greenpeace	NE	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	über	über	APPR	1	1	1	1
+8	Bord	Bord	NN	1	1	1	1
+9	gegangene	gegangen	ADJA	1	1	1	1
+10	Container	Container	NN	*	*	*	*
+11	7,2	@card@	CARD	*	*	*	*
+12	Tonnen	Tonne	NN	*	*	*	*
+13	Ladung	Ladung	NN	*	*	*	*
+14	gehabt	haben	VAPP	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T940125.50
+# text = " Über Deck könne man gefährliche Ladung in kritischen Situationen einfach über Bord gehen lassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Über	über	APPR	*	*	*	*
+3	Deck	Deck	NN	*	*	*	*
+4	könne	können	VMFIN	*	*	*	*
+5	man	man	PIS	*	*	*	*
+6	gefährliche	gefährlich	ADJA	*	*	*	*
+7	Ladung	Ladung	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	kritischen	kritisch	ADJA	*	*	*	*
+10	Situationen	Situation	NN	*	*	*	*
+11	einfach	einfach	ADJD	*	*	*	*
+12	über	über	APPR	1	1	1	1
+13	Bord	Bord	NN	1	1	1	1
+14	gehen	gehen	VVINF	1	1	1	1
+15	lassen	lassen	VVINF	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T940125.88
+# text = Doch das gesellschaftlich legitimierte Gewinnstreben verschärft das Risiko : Das Gift wird über Deck verstaut , lieber läßt der Reeder es über Bord gehen , als sein Schiff bei einem Unfall zu verlieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	gesellschaftlich	gesellschaftlich	ADJD	*	*	*	*
+4	legitimierte	legitimiert	ADJA	*	*	*	*
+5	Gewinnstreben	Gewinnstreben	NN	*	*	*	*
+6	verschärft	verschärfen	VVFIN	*	*	*	*
+7	das	die	ART	*	*	*	*
+8	Risiko	Risiko	NN	*	*	*	*
+9	:	:	$.	*	*	*	*
+10	Das	die	ART	*	*	*	*
+11	Gift	Gift	NN	*	*	*	*
+12	wird	werden	VAFIN	*	*	*	*
+13	über	über	APPR	*	*	*	*
+14	Deck	Deck	NN	*	*	*	*
+15	verstaut	verstauen	VVPP	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	lieber	lieb	ADJD	*	*	*	*
+18	läßt	lassen	VVFIN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Reeder	Reeder	NN	*	*	*	*
+21	es	es	PPER	*	*	*	*
+22	über	über	APPR	1	1	1	1
+23	Bord	Bord	NN	1	1	1	1
+24	gehen	gehen	VVINF	1	1	1	1
+25	,	,	$,	*	*	*	*
+26	als	als	KOUS	*	*	*	*
+27	sein	sein	PPOSAT	*	*	*	*
+28	Schiff	Schiff	NN	*	*	*	*
+29	bei	bei	APPR	*	*	*	*
+30	einem	eine	ART	*	*	*	*
+31	Unfall	Unfall	NN	*	*	*	*
+32	zu	zu	PTKZU	*	*	*	*
+33	verlieren	verlieren	VVINF	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T940131.89
+# text = In den 70er Jahren , als die KPF noch die zweitgrößte kommunistische Partei des Westens war , ging auf diese Art die " Diktatur des Proletariats " über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	70er	70er	ADJA	*	*	*	*
+4	Jahren	Jahr	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	als	als	KOUS	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	KPF	<unknown>	NN	*	*	*	*
+9	noch	noch	ADV	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	zweitgrößte	zweitgrößt	ADJA	*	*	*	*
+12	kommunistische	kommunistisch	ADJA	*	*	*	*
+13	Partei	Partei	NN	*	*	*	*
+14	des	die	ART	*	*	*	*
+15	Westens	Westen	NN	*	*	*	*
+16	war	sein	VAFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	ging	gehen	VVFIN	2	2	2	2
+19	auf	auf	APPR	*	*	*	*
+20	diese	dies	PDAT	*	*	*	*
+21	Art	Art	NN	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Diktatur	Diktatur	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	Proletariats	Proletariat	NN	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	über	über	APPR	2	2	2	2
+29	Bord	Bord	NN	2	2	2	2
+30	.	.	$.	*	*	*	*
+
+# article_id = T940126.24
+# text = Vor der französischen Kanalküste gingen sie dem Frachter " Sherbro " der großen französischen Privatreederei Delmas Vieljeux über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	französischen	französisch	ADJA	*	*	*	*
+4	Kanalküste	Kanalküste	NN	*	*	*	*
+5	gingen	gehen	VVFIN	1	1	1	1
+6	sie	sie	PPER	*	*	*	*
+7	dem	die	ART	*	*	*	*
+8	Frachter	Frachter	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Sherbro	<unknown>	NE	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	großen	groß	ADJA	*	*	*	*
+14	französischen	französisch	ADJA	*	*	*	*
+15	Privatreederei	<unknown>	NN	*	*	*	*
+16	Delmas	<unknown>	NE	*	*	*	*
+17	Vieljeux	<unknown>	NN	*	*	*	*
+18	über	über	APPR	1	1	1	1
+19	Bord	Bord	NN	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T940126.24
+# text = Normalerweise gehen auch bei schwerer See nur einzelne Container über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Normalerweise	normalerweise	ADV	*	*	*	*
+2	gehen	gehen	VVFIN	1	1	1	1
+3	auch	auch	ADV	*	*	*	*
+4	bei	bei	APPR	*	*	*	*
+5	schwerer	schwer	ADJA	*	*	*	*
+6	See	See	NN	*	*	*	*
+7	nur	nur	ADV	*	*	*	*
+8	einzelne	einzeln	ADJA	*	*	*	*
+9	Container	Container	NN	*	*	*	*
+10	über	über	APPR	1	1	1	1
+11	Bord	Bord	NN	1	1	1	1
+12	.	.	$.	*	*	*	*
+
+# article_id = T940126.131
+# text = Auch die Ziele von Bürgernähe und Transparenz seien " ziemlich über Bord gegangen " zugunsten von Strukturen , die sehr den Altparteien glichen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Ziele	Ziel	NN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	Bürgernähe	Bürgernähe	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	Transparenz	Transparenz	NN	*	*	*	*
+8	seien	sein	VAFIN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	ziemlich	ziemlich	ADV	*	*	*	*
+11	über	über	APPR	2	2	2	2
+12	Bord	Bord	NN	2	2	2	2
+13	gegangen	gehen	VVPP	2	2	2	2
+14	"	"	$(	*	*	*	*
+15	zugunsten	zugunsten	APPR	*	*	*	*
+16	von	von	APPR	*	*	*	*
+17	Strukturen	Struktur	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	die	die	PRELS	*	*	*	*
+20	sehr	sehr	ADV	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	Altparteien	Altpartei	NN	*	*	*	*
+23	glichen	gleichen	VVFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T940121.56
+# text = Die Sherbro hatte bei einem Sturm Anfang Dezember mindestens 88 Container verloren oder über Bord gehen lassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Sherbro	<unknown>	NN	*	*	*	*
+3	hatte	haben	VAFIN	*	*	*	*
+4	bei	bei	APPR	*	*	*	*
+5	einem	eine	ART	*	*	*	*
+6	Sturm	Sturm	NN	*	*	*	*
+7	Anfang	Anfang	NN	*	*	*	*
+8	Dezember	Dezember	NN	*	*	*	*
+9	mindestens	mindestens	ADV	*	*	*	*
+10	88	@card@	CARD	*	*	*	*
+11	Container	Container	NN	*	*	*	*
+12	verloren	verlieren	VVPP	*	*	*	*
+13	oder	oder	KON	*	*	*	*
+14	über	über	APPR	1	1	1	1
+15	Bord	Bord	NN	1	1	1	1
+16	gehen	gehen	VVINF	1	1	1	1
+17	lassen	lassen	VVINF	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T940121.56
+# text = Sprengzünder , die mit über Bord gegangen waren und zu Tausenden an Frankreichs Stränden auftauchten , haben die niederländischen Behörden bislang nicht gefunden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sprengzünder	Sprengzünder	NN	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	die	die	PRELS	*	*	*	*
+4	mit	mit	APPR	*	*	*	*
+5	über	über	APPR	1	1	1	1
+6	Bord	Bord	NN	1	1	1	1
+7	gegangen	gehen	VVPP	1	1	1	1
+8	waren	sein	VAFIN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	zu	zu	APPR	*	*	*	*
+11	Tausenden	Tausend	NN	*	*	*	*
+12	an	an	APPR	*	*	*	*
+13	Frankreichs	Frankreich	NE	*	*	*	*
+14	Stränden	Strand	NN	*	*	*	*
+15	auftauchten	auftauchen	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	haben	haben	VAFIN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	niederländischen	niederländisch	ADJA	*	*	*	*
+20	Behörden	Behörde	NN	*	*	*	*
+21	bislang	bislang	ADV	*	*	*	*
+22	nicht	nicht	PTKNEG	*	*	*	*
+23	gefunden	finden	VVPP	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T940121.56
+# text = Rainer Alpers von der Seeberufsgenossenschaft in Hamburg zumindest glaubt nicht , daß die Giftbeutel schon vor der französischen Küste über Bord gegangen sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rainer	Rainer	NE	*	*	*	*
+2	Alpers	<unknown>	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Seeberufsgenossenschaft	Seeberufsgenossenschaft	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Hamburg	Hamburg	NE	*	*	*	*
+8	zumindest	zumindest	ADV	*	*	*	*
+9	glaubt	glauben	VVFIN	*	*	*	*
+10	nicht	nicht	PTKNEG	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	daß	dass	KOUS	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Giftbeutel	Giftbeutel	NN	*	*	*	*
+15	schon	schon	ADV	*	*	*	*
+16	vor	vor	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	französischen	französisch	ADJA	*	*	*	*
+19	Küste	Küste	NN	*	*	*	*
+20	über	über	APPR	1	1	1	1
+21	Bord	Bord	NN	1	1	1	1
+22	gegangen	gehen	VVPP	1	1	1	1
+23	sind	sein	VAFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T940127.188
+# text = Daß ein Container mit Gefahrgut über Bord geht , das ist nach den Transportvorschriften sogar gewollt , sagt Peter Ulrich vom Arbeitskreis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	ein	eine	ART	*	*	*	*
+3	Container	Container	NN	*	*	*	*
+4	mit	mit	APPR	*	*	*	*
+5	Gefahrgut	Gefahrgut	NN	*	*	*	*
+6	über	über	APPR	1	1	1	1
+7	Bord	Bord	NN	1	1	1	1
+8	geht	gehen	VVFIN	1	1	1	1
+9	,	,	$,	*	*	*	*
+10	das	die	PDS	*	*	*	*
+11	ist	sein	VAFIN	*	*	*	*
+12	nach	nach	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Transportvorschriften	Transportvorschrift	NN	*	*	*	*
+15	sogar	sogar	ADV	*	*	*	*
+16	gewollt	gewollt	ADJD	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	sagt	sagen	VVFIN	*	*	*	*
+19	Peter	Peter	NE	*	*	*	*
+20	Ulrich	Ulrich	NE	*	*	*	*
+21	vom	von	APPRART	*	*	*	*
+22	Arbeitskreis	Arbeitskreis	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T941231.56
+# text = Die Fracht ging vor der niederländischen Küste über Bord und sank auf Grund .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Fracht	Fracht	NN	*	*	*	*
+3	ging	gehen	VVFIN	1	1	1	1
+4	vor	vor	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	niederländischen	niederländisch	ADJA	*	*	*	*
+7	Küste	Küste	NN	*	*	*	*
+8	über	über	APPR	1	1	1	1
+9	Bord	Bord	NN	1	1	1	1
+10	und	und	KON	*	*	*	*
+11	sank	sinken	VVFIN	*	*	*	*
+12	auf	auf	APPR	*	*	*	*
+13	Grund	Grund	NN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T941231.56
+# text = Vierzig Fässer seien über Bord gegangen ; die restlichen , an Bord gebliebenen , seien in Goole geborgen worden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vierzig	vierzig	CARD	*	*	*	*
+2	Fässer	Fass	NN	*	*	*	*
+3	seien	sein	VAFIN	*	*	*	*
+4	über	über	APPR	1	1	1	1
+5	Bord	Bord	NN	1	1	1	1
+6	gegangen	gehen	VVPP	1	1	1	1
+7	;	;	$.	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	restlichen	restlich	ADJA	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	an	an	APPR	*	*	*	*
+12	Bord	Bord	NN	*	*	*	*
+13	gebliebenen	geblieben	ADJA	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	seien	sein	VAFIN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	Goole	<unknown>	NN	*	*	*	*
+18	geborgen	bergen	VVPP	*	*	*	*
+19	worden	werden	VAPP	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T940822.64
+# text = Da wird einiges Wir-Gefühl über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	einiges	einige	PIAT	*	*	*	*
+4	Wir-Gefühl	Wir-Gefühl	NN	*	*	*	*
+5	über	über	APPR	2	2	2	2
+6	Bord	Bord	NN	2	2	2	2
+7	gehen	gehen	VVINF	2	2	2	2
+8	.	.	$.	*	*	*	*
+
+# article_id = T940318.95
+# text = Weil es angeblich um die Arbeitsplätze bei VW geht , wirft ein von grüner Last befreiter Landesvater Schröder ( SPD ) die Verkehrspolitik seiner Partei über Bord .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Weil	weil	KOUS	*	*	*	*
+2	es	es	PPER	*	*	*	*
+3	angeblich	angeblich	ADJD	*	*	*	*
+4	um	um	APPR	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Arbeitsplätze	Arbeitsplatz	NN	*	*	*	*
+7	bei	bei	APPR	*	*	*	*
+8	VW	VW	NE	*	*	*	*
+9	geht	gehen	VVFIN	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	wirft	werfen	VVFIN	*	*	*	*
+12	ein	eine	ART	*	*	*	*
+13	von	von	APPR	*	*	*	*
+14	grüner	grün	ADJA	*	*	*	*
+15	Last	Last	NN	*	*	*	*
+16	befreiter	befreit	ADJA	*	*	*	*
+17	Landesvater	Landesvater	NN	*	*	*	*
+18	Schröder	Schröder	NE	*	*	*	*
+19	(	(	$(	*	*	*	*
+20	SPD	SPD	NE	*	*	*	*
+21	)	)	$(	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Verkehrspolitik	Verkehrspolitik	NN	*	*	*	*
+24	seiner	sein	PPOSAT	*	*	*	*
+25	Partei	Partei	NN	*	*	*	*
+26	über	über	APPR	2	2	2	2
+27	Bord	Bord	NN	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T941123.171
+# text = Gemeinsam improvisatorisch erarbeitet , entstand eine vollständig entzauberte Fassung des Stoffes , in welcher zusammen mit den Mythen leider auch die Spannung über Bord ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gemeinsam	gemeinsam	ADJD	*	*	*	*
+2	improvisatorisch	<unknown>	ADJD	*	*	*	*
+3	erarbeitet	erarbeiten	VVPP	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	entstand	entstehen	VVFIN	*	*	*	*
+6	eine	eine	ART	*	*	*	*
+7	vollständig	vollständig	ADJD	*	*	*	*
+8	entzauberte	entzaubert	ADJA	*	*	*	*
+9	Fassung	Fassung	NN	*	*	*	*
+10	des	die	ART	*	*	*	*
+11	Stoffes	Stoff	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	welcher	welche	PRELS	*	*	*	*
+15	zusammen	zusammen	ADV	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Mythen	Mythos	NN	*	*	*	*
+19	leider	leider	ADV	*	*	*	*
+20	auch	auch	ADV	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Spannung	Spannung	NN	*	*	*	*
+23	über	über	APPR	2	2	2	2
+24	Bord	Bord	NN	2	2	2	2
+25	ging	gehen	VVFIN	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T940221.50
+# text = Cuxhaven ( dpa ) - Das deutsche Ölbekämpfungsschiff Scharhörn hat sieben vom norwegischen Frachter Marine Trader über Bord gegangene Chemiecontainer geborgen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Cuxhaven	Cuxhaven	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	dpa	dpa	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Das	<unknown>	ADJA	*	*	*	*
+7	deutsche	deutsch	ADJA	*	*	*	*
+8	Ölbekämpfungsschiff	Ölbekämpfungsschiff	NN	*	*	*	*
+9	Scharhörn	<unknown>	NN	*	*	*	*
+10	hat	haben	VAFIN	*	*	*	*
+11	sieben	sieben	CARD	*	*	*	*
+12	vom	von	APPRART	*	*	*	*
+13	norwegischen	norwegisch	ADJA	*	*	*	*
+14	Frachter	Frachter	NN	*	*	*	*
+15	Marine	Marine	NN	*	*	*	*
+16	Trader	<unknown>	NN	*	*	*	*
+17	über	über	APPR	1	1	1	1
+18	Bord	Bord	NN	1	1	1	1
+19	gegangene	gegangen	ADJA	*	*	*	*
+20	Chemiecontainer	<unknown>	NN	*	*	*	*
+21	geborgen	bergen	VVPP	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T940221.230
+# text = Cuxhaven Das deutsche Ölbekämpfungsschiff " Scharhörn " hat sieben vom norwegischen Frachter " Marine Trader " über Bord gegangene Chemie-Container geborgen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Cuxhaven	Cuxhaven	NE	*	*	*	*
+2	Das	<unknown>	VVFIN	*	*	*	*
+3	deutsche	deutsch	ADJA	*	*	*	*
+4	Ölbekämpfungsschiff	Ölbekämpfungsschiff	NN	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Scharhörn	<unknown>	NE	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	hat	haben	VAFIN	*	*	*	*
+9	sieben	sieben	CARD	*	*	*	*
+10	vom	von	APPRART	*	*	*	*
+11	norwegischen	norwegisch	ADJA	*	*	*	*
+12	Frachter	Frachter	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	Marine	Marine	NN	*	*	*	*
+15	Trader	<unknown>	NN	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	über	über	APPR	1	1	1	1
+18	Bord	Bord	NN	1	1	1	1
+19	gegangene	gegangen	ADJA	*	*	*	*
+20	Chemie-Container	<unknown>	NN	*	*	*	*
+21	geborgen	bergen	VVPP	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T950615.72
+# text = Bei Schiffsunfällen und dem illegalen Auswaschen der Treibstofftanks auf dem Meer gehen jährlich zwischen 15.000 und 20.000 Tonnen über Bord , durch Flüsse und direkte Einleitung von Industrieunternehmen an der Küste wälzen sich weitere 23.000 bis 65.000 Tonnen in die Nordsee .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	Schiffsunfällen	Schiffsunfall	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	dem	die	ART	*	*	*	*
+5	illegalen	illegal	ADJA	*	*	*	*
+6	Auswaschen	Auswaschen	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Treibstofftanks	Treibstofftank	NN	*	*	*	*
+9	auf	auf	APPR	*	*	*	*
+10	dem	die	ART	*	*	*	*
+11	Meer	Meer	NN	*	*	*	*
+12	gehen	gehen	VVFIN	1	1	1	1
+13	jährlich	jährlich	ADJD	*	*	*	*
+14	zwischen	zwischen	APPR	*	*	*	*
+15	15.000	@card@	CARD	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	20.000	@card@	CARD	*	*	*	*
+18	Tonnen	Tonne	NN	*	*	*	*
+19	über	über	APPR	1	1	1	1
+20	Bord	Bord	NN	1	1	1	1
+21	,	,	$,	*	*	*	*
+22	durch	durch	APPR	*	*	*	*
+23	Flüsse	Fluss	NN	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	direkte	direkt	ADJA	*	*	*	*
+26	Einleitung	Einleitung	NN	*	*	*	*
+27	von	von	APPR	*	*	*	*
+28	Industrieunternehmen	Industrieunternehmen	NN	*	*	*	*
+29	an	an	APPR	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	Küste	Küste	NN	*	*	*	*
+32	wälzen	wälzen	VVFIN	*	*	*	*
+33	sich	sich	PRF	*	*	*	*
+34	weitere	weit	ADJA	*	*	*	*
+35	23.000	@card@	CARD	*	*	*	*
+36	bis	bis	KON	*	*	*	*
+37	65.000	@card@	CARD	*	*	*	*
+38	Tonnen	Tonne	NN	*	*	*	*
+39	in	in	APPR	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	Nordsee	Nordsee	NE	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T950627.198
+# text = Ein 42jähriger Segler , der bei einem Wendemanöver über Bord gegangen war , konnte nach mehreren Stunden nur noch tot geborgen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	42jähriger	42jährig	ADJA	*	*	*	*
+3	Segler	Segler	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	der	die	PRELS	*	*	*	*
+6	bei	bei	APPR	*	*	*	*
+7	einem	eine	ART	*	*	*	*
+8	Wendemanöver	Wendemanöver	NN	*	*	*	*
+9	über	über	APPR	1	1	1	1
+10	Bord	Bord	NN	1	1	1	1
+11	gegangen	gehen	VVPP	1	1	1	1
+12	war	sein	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	konnte	können	VMFIN	*	*	*	*
+15	nach	nach	APPR	*	*	*	*
+16	mehreren	mehrere	PIAT	*	*	*	*
+17	Stunden	Stunde|Stunden	NN	*	*	*	*
+18	nur	nur	ADV	*	*	*	*
+19	noch	noch	ADV	*	*	*	*
+20	tot	tot	ADJD	*	*	*	*
+21	geborgen	bergen	VVPP	*	*	*	*
+22	werden	werden	VAINF	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T951014.164
+# text = Mit über Bord ging dabei auch das bis dato äußerst angesehene SFB-Magazin " Moskito " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	über	über	APPR	2	2	2	2
+3	Bord	Bord	NN	2	2	2	2
+4	ging	gehen	VVFIN	2	2	2	2
+5	dabei	dabei	PAV	*	*	*	*
+6	auch	auch	ADV	*	*	*	*
+7	das	die	ART	*	*	*	*
+8	bis	bis	APPR	*	*	*	*
+9	dato	<unknown>	NE	*	*	*	*
+10	äußerst	äußerst	ADV	*	*	*	*
+11	angesehene	angesehen	ADJA	*	*	*	*
+12	SFB-Magazin	SFB-Magazin	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	Moskito	Moskito	NN	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T951013.320
+# text = Die nicht durch Leinen gesicherte Besatzung sei über Bord gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	nicht	nicht	PTKNEG	*	*	*	*
+3	durch	durch	APPR	*	*	*	*
+4	Leinen	Leine|Leinen	NN	*	*	*	*
+5	gesicherte	gesichert	ADJA	*	*	*	*
+6	Besatzung	Besatzung	NN	*	*	*	*
+7	sei	sein	VAFIN	*	*	*	*
+8	über	über	APPR	1	1	1	1
+9	Bord	Bord	NN	1	1	1	1
+10	gegangen	gehen	VVPP	1	1	1	1
+11	.	.	$.	*	*	*	*
+
+# article_id = T950921.101
+# text = Die Grundidee des Staates als des allgemein zu Regelnden sollte bei aller Staatskritik nicht mit über Bord gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Grundidee	Grundidee	NN	*	*	*	*
+3	des	die	ART	*	*	*	*
+4	Staates	Staat	NN	*	*	*	*
+5	als	als	KOKOM	*	*	*	*
+6	des	die	ART	*	*	*	*
+7	allgemein	allgemein	ADJD	*	*	*	*
+8	zu	zu	APPR	*	*	*	*
+9	Regelnden	<unknown>	NN	*	*	*	*
+10	sollte	sollen	VMFIN	*	*	*	*
+11	bei	bei	APPR	*	*	*	*
+12	aller	alle	PIAT	*	*	*	*
+13	Staatskritik	Staatskritik	NN	*	*	*	*
+14	nicht	nicht	PTKNEG	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	über	über	APPR	2	2	2	2
+17	Bord	Bord	NN	2	2	2	2
+18	gehen	gehen	VVINF	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T950103.22
+# text = Bremen ( AFP ) - Auf der Rückfahrt von einer Rettungsfahrt sind zwei Besatzungsmitglieder des deutschen Seenotkreuzers " Alfried Krupp " am späten Sonntagabend bei einem Sturm auf der Nordsee über Bord gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bremen	Bremen	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	AFP	AFP	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Auf	<unknown>	VVFIN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Rückfahrt	Rückfahrt	NN	*	*	*	*
+9	von	von	APPR	*	*	*	*
+10	einer	eine	ART	*	*	*	*
+11	Rettungsfahrt	Rettungsfahrt	NN	*	*	*	*
+12	sind	sein	VAFIN	*	*	*	*
+13	zwei	zwei	CARD	*	*	*	*
+14	Besatzungsmitglieder	Besatzungsmitglied	NN	*	*	*	*
+15	des	die	ART	*	*	*	*
+16	deutschen	deutsch	ADJA	*	*	*	*
+17	Seenotkreuzers	Seenotkreuzer	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	Alfried	Alfried	NE	*	*	*	*
+20	Krupp	Krupp	NE	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	am	an	APPRART	*	*	*	*
+23	späten	spät	ADJA	*	*	*	*
+24	Sonntagabend	Sonntagabend	NN	*	*	*	*
+25	bei	bei	APPR	*	*	*	*
+26	einem	eine	ART	*	*	*	*
+27	Sturm	Sturm	NN	*	*	*	*
+28	auf	auf	APPR	*	*	*	*
+29	der	die	ART	*	*	*	*
+30	Nordsee	Nordsee	NN	*	*	*	*
+31	über	über	APPR	1	1	1	1
+32	Bord	Bord	NN	1	1	1	1
+33	gegangen	gehen	VVPP	1	1	1	1
+34	.	.	$.	*	*	*	*
+
+# article_id = T950103.22
+# text = Der deutsche Seenotkreuzer hatte sich an der Rettung eines niederländischen Seemannes beteiligt , der bei schwerem Wetter über Bord gegangen war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	deutsche	deutsch	ADJA	*	*	*	*
+3	Seenotkreuzer	Seenotkreuzer	NN	*	*	*	*
+4	hatte	haben	VAFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	an	an	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Rettung	Rettung	NN	*	*	*	*
+9	eines	eine	ART	*	*	*	*
+10	niederländischen	niederländisch	ADJA	*	*	*	*
+11	Seemannes	Seemann	NN	*	*	*	*
+12	beteiligt	beteiligen	VVPP	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	der	die	PRELS	*	*	*	*
+15	bei	bei	APPR	*	*	*	*
+16	schwerem	schwer	ADJA	*	*	*	*
+17	Wetter	Wetter	NN	*	*	*	*
+18	über	über	APPR	1	1	1	1
+19	Bord	Bord	NN	1	1	1	1
+20	gegangen	gehen	VVPP	1	1	1	1
+21	war	sein	VAFIN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T950103.195
+# text = Der Seenotkreuzer " Alfried Krupp " war ausgelaufen , um dem niederländischen Seenotkreuzer bei der Suche nach dem über Bord gegangenen Rettungsmann zu helfen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Seenotkreuzer	Seenotkreuzer	NE	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	Alfried	Alfried	NE	*	*	*	*
+5	Krupp	Krupp	NE	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	war	sein	VAFIN	*	*	*	*
+8	ausgelaufen	auslaufen	VVPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	um	um	KOUI	*	*	*	*
+11	dem	die	ART	*	*	*	*
+12	niederländischen	niederländisch	ADJA	*	*	*	*
+13	Seenotkreuzer	Seenotkreuzer	NN	*	*	*	*
+14	bei	bei	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Suche	Suche	NN	*	*	*	*
+17	nach	nach	APPR	*	*	*	*
+18	dem	die	ART	*	*	*	*
+19	über	über	APPR	1	1	1	1
+20	Bord	Bord	NN	1	1	1	1
+21	gegangenen	gegangen	ADJA	*	*	*	*
+22	Rettungsmann	<unknown>	NN	*	*	*	*
+23	zu	zu	PTKZU	*	*	*	*
+24	helfen	helfen	VVINF	1	1	1	1
+25	.	.	$.	*	*	*	*
+
+# article_id = T950102.214
+# text = " Letztes Jahr hatten wir noch - ne echte Tanne , aber die ist nach Weihnachten mit den Kugeln über Bord gegangen , weil keiner sie abschmücken wollte " , erzählt der Käpt'n .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Letztes	letzt	ADJA	*	*	*	*
+3	Jahr	Jahr	NN	*	*	*	*
+4	hatten	haben	VAFIN	*	*	*	*
+5	wir	wir	PPER	*	*	*	*
+6	noch	noch	ADV	*	*	*	*
+7	-	-	$(	*	*	*	*
+8	ne	eine	ART	*	*	*	*
+9	echte	echt	ADJA	*	*	*	*
+10	Tanne	Tanne	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	aber	aber	KON	*	*	*	*
+13	die	die	PDS	*	*	*	*
+14	ist	sein	VAFIN	*	*	*	*
+15	nach	nach	APPR	*	*	*	*
+16	Weihnachten	Weihnachten	NN	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	den	die	ART	*	*	*	*
+19	Kugeln	Kugel	NN	*	*	*	*
+20	über	über	APPR	1	1	1	1
+21	Bord	Bord	NN	1	1	1	1
+22	gegangen	gehen	VVPP	1	1	1	1
+23	,	,	$,	*	*	*	*
+24	weil	weil	KOUS	*	*	*	*
+25	keiner	keine	PIS	*	*	*	*
+26	sie	sie	PPER	*	*	*	*
+27	abschmücken	<unknown>	VVINF	*	*	*	*
+28	wollte	wollen	VMFIN	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	erzählt	erzählen	VVFIN	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	Käpt'n	<unknown>	NE	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T950124.11
+# text = " Grüne Essentials zum Paragraph 218 gehen über Bord "
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Grüne	Grüne	NN	*	*	*	*
+3	Essentials	Essentials	FM	*	*	*	*
+4	zum	zu	APPRART	*	*	*	*
+5	Paragraph	Paragraph	NN	*	*	*	*
+6	218	@card@	CARD	*	*	*	*
+7	gehen	gehen	VVFIN	2	2	2	2
+8	über	über	APPR	2	2	2	2
+9	Bord	Bord	NN	2	2	2	2
+10	"	"	$(	*	*	*	*
+
+# article_id = T950107.313
+# text = Bei diesem Durchkentern , das gilt der DGzRS inzwischen als sicher , ging der erste Mann über Bord : Der Maschinist , der sich gerade auf dem Weg unter Deck befand , weil ein Maschinenschaden gemeldet worden war , wurde vom Wasser vom Achterdeck gerissen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	diesem	dies	PDAT	*	*	*	*
+3	Durchkentern	<unknown>	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	das	die	PRELS	*	*	*	*
+6	gilt	gelten	VVFIN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	DGzRS	<unknown>	NN	*	*	*	*
+9	inzwischen	inzwischen	ADV	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	sicher	sicher	ADJD	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	ging	gehen	VVFIN	1	1	1	1
+14	der	die	ART	*	*	*	*
+15	erste	erst	ADJA	*	*	*	*
+16	Mann	Mann	NN	*	*	*	*
+17	über	über	APPR	1	1	1	1
+18	Bord	Bord	NN	1	1	1	1
+19	:	:	$.	*	*	*	*
+20	Der	die	ART	*	*	*	*
+21	Maschinist	Maschinist	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	der	die	PRELS	*	*	*	*
+24	sich	sich	PRF	*	*	*	*
+25	gerade	gerade	ADV	*	*	*	*
+26	auf	auf	APPR	*	*	*	*
+27	dem	die	ART	*	*	*	*
+28	Weg	Weg	NN	*	*	*	*
+29	unter	unter	APPR	*	*	*	*
+30	Deck	Deck	NN	*	*	*	*
+31	befand	befinden	VVFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	weil	weil	KOUS	*	*	*	*
+34	ein	eine	ART	*	*	*	*
+35	Maschinenschaden	Maschinenschaden	NN	*	*	*	*
+36	gemeldet	melden	VVPP	*	*	*	*
+37	worden	werden	VAPP	*	*	*	*
+38	war	sein	VAFIN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	wurde	werden	VAFIN	*	*	*	*
+41	vom	von	APPRART	*	*	*	*
+42	Wasser	Wasser	NN	*	*	*	*
+43	vom	von	APPRART	*	*	*	*
+44	Achterdeck	Achterdeck	NN	*	*	*	*
+45	gerissen	reißen	VVPP	*	*	*	*
+46	.	.	$.	*	*	*	*
+
+# article_id = T950731.219
+# text = Oder irgendeines Ansehens des Westens , weil das in Bosnien-Herzegowina längst über Bord gegangen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Oder	oder	KON	*	*	*	*
+2	irgendeines	irgendeine	PIS	*	*	*	*
+3	Ansehens	Ansehen	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	Westens	Westen	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	weil	weil	KOUS	*	*	*	*
+8	das	die	PDS	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	Bosnien-Herzegowina	Bosnien-Herzegowina	NE	*	*	*	*
+11	längst	längst	ADV	*	*	*	*
+12	über	über	APPR	2	2	2	2
+13	Bord	Bord	NN	2	2	2	2
+14	gegangen	gehen	VVPP	2	2	2	2
+15	ist	sein	VAFIN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T950825.60
+# text = Schön werden sie es haben : Es gibt nicht genügend Betten , und der Seegang ist so hoch , daß so mancher Mageninhalt schon über Bord gegangen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schön	schön	ADJD	*	*	*	*
+2	werden	werden	VAFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	es	es	PPER	*	*	*	*
+5	haben	haben	VAINF	*	*	*	*
+6	:	:	$.	*	*	*	*
+7	Es	es	PPER	*	*	*	*
+8	gibt	geben	VVFIN	*	*	*	*
+9	nicht	nicht	PTKNEG	*	*	*	*
+10	genügend	genügend	ADJD	*	*	*	*
+11	Betten	Bett|Betten	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Seegang	Seegang	NN	*	*	*	*
+16	ist	sein	VAFIN	*	*	*	*
+17	so	so	ADV	*	*	*	*
+18	hoch	hoch	ADJD	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	daß	dass	KOUS	*	*	*	*
+21	so	so	ADV	*	*	*	*
+22	mancher	manche	PIAT	*	*	*	*
+23	Mageninhalt	Mageninhalt	NN	*	*	*	*
+24	schon	schon	ADV	*	*	*	*
+25	über	über	APPR	1	1	1	1
+26	Bord	Bord	NN	1	1	1	1
+27	gegangen	gehen	VVPP	1	1	1	1
+28	ist	sein	VAFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T950831.192
+# text = Der Kapitän mußte immer aufpassen , daß ich dabei nicht über Bord ging .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Der	die	ART	*	*	*	*
+2	Kapitän	Kapitän	NN	*	*	*	*
+3	mußte	müssen	VMFIN	*	*	*	*
+4	immer	immer	ADV	*	*	*	*
+5	aufpassen	aufpassen	VVINF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	ich	ich	PPER	*	*	*	*
+9	dabei	dabei	PAV	*	*	*	*
+10	nicht	nicht	PTKNEG	*	*	*	*
+11	über	über	APPR	1	3	3	3
+12	Bord	Bord	NN	1	3	3	3
+13	ging	gehen	VVFIN	1	3	3	3
+14	.	.	$.	*	*	*	*
+
+# article_id = T951115.277
+# text = Vermutet wird , daß das Kokain zwischen Helgoland und St. Peter-Ording über Bord gegangen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vermutet	vermuten	VVPP	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	daß	dass	KOUS	*	*	*	*
+5	das	die	ART	*	*	*	*
+6	Kokain	Kokain	NN	*	*	*	*
+7	zwischen	zwischen	APPR	*	*	*	*
+8	Helgoland	<unknown>	NE	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	St.	St.	NE	*	*	*	*
+11	Peter-Ording	<unknown>	NN	*	*	*	*
+12	über	über	APPR	1	1	1	1
+13	Bord	Bord	NN	1	1	1	1
+14	gegangen	gehen	VVPP	1	1	1	1
+15	ist	sein	VAFIN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T990311.114
+# text = Für den Fall , daß Mindeststandards über Bord gehen , haben einige Parlamentarier schon damit gedroht , die Wasserrahmenrichtlinie platzen zu lassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Für	für	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Fall	Fall	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	Mindeststandards	Mindeststandard	NN	*	*	*	*
+7	über	über	APPR	2	2	2	2
+8	Bord	Bord	NN	2	2	2	2
+9	gehen	gehen	VVINF	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	haben	haben	VAFIN	*	*	*	*
+12	einige	einige	PIAT	*	*	*	*
+13	Parlamentarier	Parlamentarier	NN	*	*	*	*
+14	schon	schon	ADV	*	*	*	*
+15	damit	damit	PAV	*	*	*	*
+16	gedroht	drohen	VVPP	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Wasserrahmenrichtlinie	<unknown>	NN	*	*	*	*
+20	platzen	platzen	VVINF	*	*	*	*
+21	zu	zu	PTKZU	*	*	*	*
+22	lassen	lassen	VVINF	*	*	*	*
+23	.	.	$.	*	*	*	*
+

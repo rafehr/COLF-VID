@@ -1,0 +1,1396 @@
+# article_id = T890808.94
+# text = Tausende dieser Kassen sind in den letzten Jahren wegen widriger Zinsentwicklungen und als Folge großzügigen Entgegenkommens der Regierung , die Spekulationsgeschäfte zuließ und selbst dabei den Sparern die Sicherheit ihrer Einlagen garantierte , durch Mißwirtschaft in eine Schieflage geraten , die ihre Existenz bedroht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Tausende	Tausend	NN	*	*	*	*
+2	dieser	dies	PDAT	*	*	*	*
+3	Kassen	Kasse	NN	*	*	*	*
+4	sind	sein	VAFIN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	letzten	letzt	ADJA	*	*	*	*
+8	Jahren	Jahr	NN	*	*	*	*
+9	wegen	wegen	APPR	*	*	*	*
+10	widriger	widrig	ADJA	*	*	*	*
+11	Zinsentwicklungen	<unknown>	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	als	als	KOKOM	*	*	*	*
+14	Folge	Folge	NN	*	*	*	*
+15	großzügigen	großzügig	ADJA	*	*	*	*
+16	Entgegenkommens	Entgegenkommen	NN	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Regierung	Regierung	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Spekulationsgeschäfte	Spekulationsgeschäft	NN	*	*	*	*
+22	zuließ	zulassen	VVFIN	*	*	*	*
+23	und	und	KON	*	*	*	*
+24	selbst	selbst	ADV	*	*	*	*
+25	dabei	dabei	PAV	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Sparern	Sparer	NN	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Sicherheit	Sicherheit	NN	*	*	*	*
+30	ihrer	ihr	PPOSAT	*	*	*	*
+31	Einlagen	Einlage	NN	*	*	*	*
+32	garantierte	garantieren	VVFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	durch	durch	APPR	*	*	*	*
+35	Mißwirtschaft	Misswirtschaft	NN	*	*	*	*
+36	in	in	APPR	2	2	2	2
+37	eine	eine	ART	*	*	*	*
+38	Schieflage	Schieflage	NN	2	2	2	2
+39	geraten	geraten|raten	VVPP	2	2	2	2
+40	,	,	$,	*	*	*	*
+41	die	die	PRELS	*	*	*	*
+42	ihre	ihr	PPOSAT	*	*	*	*
+43	Existenz	Existenz	NN	*	*	*	*
+44	bedroht	bedrohen	VVPP	*	*	*	*
+45	.	.	$.	*	*	*	*
+
+# article_id = T911024.80
+# text = Zwar bemühte sich Triumph-Adler schon früh , bei der Produktion elektrischer Schreibmaschinen mit der Entwicklung Schritt zu halten , geriet jedoch immer wieder in wirtschaftliche Schieflagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zwar	zwar	ADV	*	*	*	*
+2	bemühte	bemühen	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	Triumph-Adler	Triumph-Adler	NE	*	*	*	*
+5	schon	schon	ADV	*	*	*	*
+6	früh	früh	ADJD	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	bei	bei	APPR	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Produktion	Produktion	NN	*	*	*	*
+11	elektrischer	elektrisch	ADJA	*	*	*	*
+12	Schreibmaschinen	Schreibmaschine	NN	*	*	*	*
+13	mit	mit	APPR	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Entwicklung	Entwicklung	NN	*	*	*	*
+16	Schritt	Schritt	NN	*	*	*	*
+17	zu	zu	PTKZU	*	*	*	*
+18	halten	halten	VVINF	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	geriet	geraten	VVFIN	2	2	2	2
+21	jedoch	jedoch	ADV	*	*	*	*
+22	immer	immer	ADV	*	*	*	*
+23	wieder	wieder	ADV	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	wirtschaftliche	wirtschaftlich	ADJA	*	*	*	*
+26	Schieflagen	Schieflage	NN	2	2	2	2
+27	.	.	$.	*	*	*	*
+
+# article_id = T900813.196
+# text = Gott ist der Loch in im Käse unseres Leben , ( wobei ich einräumen muß : spätestestens ab hier schien mir das gewählte Bild in Schieflage zu geraten ) ein Spalt zwischen privat bewußtlosem Dahindümpeln und in Unordnung geratener Welt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gott	Gott	NN	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Loch	Loch	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	Käse	Käse	NN	*	*	*	*
+8	unseres	unser	PPOSAT	*	*	*	*
+9	Leben	Leben	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	(	(	$(	*	*	*	*
+12	wobei	wobei	PWAV	*	*	*	*
+13	ich	ich	PPER	*	*	*	*
+14	einräumen	einräumen	VVINF	*	*	*	*
+15	muß	müssen	VMFIN	*	*	*	*
+16	:	:	$.	*	*	*	*
+17	spätestestens	<unknown>	ADV	*	*	*	*
+18	ab	ab	APPR	*	*	*	*
+19	hier	hier	ADV	*	*	*	*
+20	schien	scheinen	VVFIN	*	*	*	*
+21	mir	ich	PPER	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	gewählte	gewählt	ADJA	*	*	*	*
+24	Bild	Bild	NN	*	*	*	*
+25	in	in	APPR	2	2	2	2
+26	Schieflage	Schieflage	NN	2	2	2	2
+27	zu	zu	PTKZU	*	*	*	*
+28	geraten	geraten	VVINF	2	2	2	2
+29	)	)	$(	*	*	*	*
+30	ein	eine	ART	*	*	*	*
+31	Spalt	Spalt	NN	*	*	*	*
+32	zwischen	zwischen	APPR	*	*	*	*
+33	privat	privat	ADJD	*	*	*	*
+34	bewußtlosem	bewusstlos	ADJA	*	*	*	*
+35	Dahindümpeln	<unknown>	NN	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	in	in	APPR	*	*	*	*
+38	Unordnung	Unordnung	NN	*	*	*	*
+39	geratener	geraten	ADJA	*	*	*	*
+40	Welt	Welt	NN	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T920527.123
+# text = Dynamisch sprintet er kreuz und quer , aktiviert , als ob er die vielen Fäden eines in Schieflage geratenen Unternehmens aufzugreifen hätte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dynamisch	dynamisch	ADJD	*	*	*	*
+2	sprintet	sprinten	VVFIN	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	kreuz	kreuz	ADV	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	quer	quer	ADJD	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	aktiviert	aktivieren	VVPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	ob	ob	KOUS	*	*	*	*
+12	er	er	PPER	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	vielen	viele	PIAT	*	*	*	*
+15	Fäden	Faden	NN	*	*	*	*
+16	eines	eine	ART	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	Schieflage	Schieflage	NN	2	2	2	2
+19	geratenen	geraten	ADJA	2	2	2	2
+20	Unternehmens	Unternehmen	NN	*	*	*	*
+21	aufzugreifen	aufgreifen	VVIZU	*	*	*	*
+22	hätte	haben	VAFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T920923.162
+# text = Firmenchefs , die dem Psycho-Kult angehören , haben häufig nichts Besseres zu tun , als der Sekte so viel Geld zu spenden , daß das Unternehmen in die wirtschaftliche Schieflage gerät .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Firmenchefs	Firmenchef	NN	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	die	die	PRELS	*	*	*	*
+4	dem	die	ART	*	*	*	*
+5	Psycho-Kult	Psycho-Kult	NN	*	*	*	*
+6	angehören	angehören	VVINF	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	haben	haben	VAFIN	*	*	*	*
+9	häufig	häufig	ADJD	*	*	*	*
+10	nichts	nichts	PIAT	*	*	*	*
+11	Besseres	Bessere	NN	*	*	*	*
+12	zu	zu	PTKZU	*	*	*	*
+13	tun	tun	VVINF	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	als	als	KOUS	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Sekte	Sekt|Sekte	NN	*	*	*	*
+18	so	so	ADV	*	*	*	*
+19	viel	viele	PIAT	*	*	*	*
+20	Geld	Geld	NN	*	*	*	*
+21	zu	zu	PTKZU	*	*	*	*
+22	spenden	spenden	VVINF	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	daß	dass	KOUS	*	*	*	*
+25	das	die	ART	*	*	*	*
+26	Unternehmen	Unternehmen	NN	*	*	*	*
+27	in	in	APPR	2	2	2	2
+28	die	die	ART	*	*	*	*
+29	wirtschaftliche	wirtschaftlich	ADJA	*	*	*	*
+30	Schieflage	Schieflage	NN	2	2	2	2
+31	gerät	geraten	VVFIN	2	2	2	2
+32	.	.	$.	*	*	*	*
+
+# article_id = T921123.86
+# text = Hamburg ( taz ) - In den nächsten drei Jahren will die Großgewerkschaft ÖTV mit Hilfe eines drastischen Sparprogramms ihre in Schieflage geratenen Finanzen wieder in Ordnung bringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hamburg	Hamburg	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	taz	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	In	in	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	nächsten	nah	ADJA	*	*	*	*
+9	drei	drei	CARD	*	*	*	*
+10	Jahren	Jahr	NN	*	*	*	*
+11	will	wollen	VMFIN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Großgewerkschaft	Großgewerkschaft	NN	*	*	*	*
+14	ÖTV	ÖTV	NE	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	Hilfe	Hilfe	NN	*	*	*	*
+17	eines	eine	ART	*	*	*	*
+18	drastischen	drastisch	ADJA	*	*	*	*
+19	Sparprogramms	Sparprogramm	NN	*	*	*	*
+20	ihre	ihr	PPOSAT	*	*	*	*
+21	in	in	APPR	2	2	2	2
+22	Schieflage	Schieflage	NN	2	2	2	2
+23	geratenen	geraten	ADJA	2	2	2	2
+24	Finanzen	Finanz	NN	*	*	*	*
+25	wieder	wieder	ADV	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	Ordnung	Ordnung	NN	*	*	*	*
+28	bringen	bringen	VVINF	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T920214.190
+# text = Denn die Bevölkerungsstruktur ist in eine ziemliche Schieflage geraten , die Wirtschaft ist völlig marode .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Bevölkerungsstruktur	Bevölkerungsstruktur	NN	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	eine	eine	ART	*	*	*	*
+7	ziemliche	ziemlich	ADJA	*	*	*	*
+8	Schieflage	Schieflage	NN	2	2	2	2
+9	geraten	geraten|raten	VVPP	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Wirtschaft	Wirtschaft	NN	*	*	*	*
+13	ist	sein	VAFIN	*	*	*	*
+14	völlig	völlig	ADJD	*	*	*	*
+15	marode	marode	ADJD	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T930514.203
+# text = Seit 1983 die AG Weser schloß , geriet der Stadtteil immer mehr in die soziale Schieflage .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	1983	@card@	CARD	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	AG	AG	NN	*	*	*	*
+5	Weser	Weser	NE	*	*	*	*
+6	schloß	schließen	VVFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	geriet	geraten	VVFIN	2	2	2	2
+9	der	die	ART	*	*	*	*
+10	Stadtteil	Stadtteil	NN	*	*	*	*
+11	immer	immer	ADV	*	*	*	*
+12	mehr	mehr	ADV	*	*	*	*
+13	in	in	APPR	2	2	2	2
+14	die	die	ART	*	*	*	*
+15	soziale	sozial	ADJA	*	*	*	*
+16	Schieflage	Schieflage	NN	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T930617.125
+# text = [ ... ] Nach der Anmoderation des ZDF-Reporters am 30.5. in der Sendung " heute journal spezial " , welche lautete : " Im Bonner Außenministerium heute ebenfalls Entsetzen über die Gewalttat , ist doch abzusehen , daß erneut das Bild Deutschlands im Ausland in eine Schieflage geraten könnte " , erschienen Sie auf dem Bildschirm und sagten : " Ja , dies wird uns sicher ansehensmäßig im Ausland und im Inland schaden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	[	[	$(	*	*	*	*
+2	...	...	$.	*	*	*	*
+3	]	]	$(	*	*	*	*
+4	Nach	<unknown>	VVFIN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Anmoderation	<unknown>	NN	*	*	*	*
+7	des	die	ART	*	*	*	*
+8	ZDF-Reporters	ZDF-Reporter	NN	*	*	*	*
+9	am	an	APPRART	*	*	*	*
+10	30.5	@card@	CARD	*	*	*	*
+11	.	.	$.	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Sendung	Sendung	NN	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	heute	heute	ADV	*	*	*	*
+17	journal	<unknown>	ADJD	*	*	*	*
+18	spezial	spezial	ADJD	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	welche	welche	PRELS	*	*	*	*
+22	lautete	lauten	VVFIN	*	*	*	*
+23	:	:	$.	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	Im	in	APPRART	*	*	*	*
+26	Bonner	Bonner	ADJA	*	*	*	*
+27	Außenministerium	Außenministerium	NN	*	*	*	*
+28	heute	heute	ADV	*	*	*	*
+29	ebenfalls	ebenfalls	ADV	*	*	*	*
+30	Entsetzen	Entsetzen	NN	*	*	*	*
+31	über	über	APPR	*	*	*	*
+32	die	die	ART	*	*	*	*
+33	Gewalttat	Gewalttat	NN	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	ist	sein	VAFIN	*	*	*	*
+36	doch	doch	ADV	*	*	*	*
+37	abzusehen	absehen	VVIZU	*	*	*	*
+38	,	,	$,	*	*	*	*
+39	daß	dass	KOUS	*	*	*	*
+40	erneut	erneut	ADJD	*	*	*	*
+41	das	die	ART	*	*	*	*
+42	Bild	Bild	NN	*	*	*	*
+43	Deutschlands	Deutschland	NE	*	*	*	*
+44	im	in	APPRART	*	*	*	*
+45	Ausland	Ausland	NN	*	*	*	*
+46	in	in	APPR	2	2	2	2
+47	eine	eine	ART	*	*	*	*
+48	Schieflage	Schieflage	NN	2	2	2	2
+49	geraten	geraten	VVINF	2	2	2	2
+50	könnte	können	VMFIN	*	*	*	*
+51	"	"	$(	*	*	*	*
+52	,	,	$,	*	*	*	*
+53	erschienen	erscheinen	VVFIN	*	*	*	*
+54	Sie	Sie	PPER	*	*	*	*
+55	auf	auf	APPR	*	*	*	*
+56	dem	die	ART	*	*	*	*
+57	Bildschirm	Bildschirm	NN	*	*	*	*
+58	und	und	KON	*	*	*	*
+59	sagten	sagen	VVFIN	*	*	*	*
+60	:	:	$.	*	*	*	*
+61	"	"	$(	*	*	*	*
+62	Ja	ja	PTKANT	*	*	*	*
+63	,	,	$,	*	*	*	*
+64	dies	dies	PDS	*	*	*	*
+65	wird	werden	VAFIN	*	*	*	*
+66	uns	wir	PPER	*	*	*	*
+67	sicher	sicher	ADJD	*	*	*	*
+68	ansehensmäßig	<unknown>	ADJD	*	*	*	*
+69	im	in	APPRART	*	*	*	*
+70	Ausland	Ausland	NN	*	*	*	*
+71	und	und	KON	*	*	*	*
+72	im	in	APPRART	*	*	*	*
+73	Inland	Inland	NN	*	*	*	*
+74	schaden	schaden	VVINF	*	*	*	*
+75	.	.	$.	*	*	*	*
+
+# article_id = T931002.311
+# text = Durch die schleppende Zahlungsmoral der Produkt-Hersteller , die eifrig Grüne Punkte auf ihre Waren druckten , die fälligen Lizenz-Gebühren aber nur teilweise abführten , war das DSD in ökonomische Schieflage geraten und stellte seine Zahlungen an die kommunalen Müllsortierer ein .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Durch	durch	APPR	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	schleppende	schleppend	ADJA	*	*	*	*
+4	Zahlungsmoral	Zahlungsmoral	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Produkt-Hersteller	<unknown>	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	eifrig	eifrig	ADJD	*	*	*	*
+10	Grüne	Grüne	NN	*	*	*	*
+11	Punkte	Punkt	NN	*	*	*	*
+12	auf	auf	APPR	*	*	*	*
+13	ihre	ihr	PPOSAT	*	*	*	*
+14	Waren	Ware	NN	*	*	*	*
+15	druckten	drucken	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	fälligen	fällig	ADJA	*	*	*	*
+19	Lizenz-Gebühren	<unknown>	NN	*	*	*	*
+20	aber	aber	ADV	*	*	*	*
+21	nur	nur	ADV	*	*	*	*
+22	teilweise	teilweise	ADV	*	*	*	*
+23	abführten	abführen	VVFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	war	sein	VAFIN	*	*	*	*
+26	das	die	ART	*	*	*	*
+27	DSD	DSD	NE	*	*	*	*
+28	in	in	APPR	2	2	2	2
+29	ökonomische	ökonomisch	ADJA	*	*	*	*
+30	Schieflage	Schieflage	NN	2	2	2	2
+31	geraten	geraten|raten	VVPP	2	2	2	2
+32	und	und	KON	*	*	*	*
+33	stellte	stellen	VVFIN	*	*	*	*
+34	seine	sein	PPOSAT	*	*	*	*
+35	Zahlungen	Zahlung	NN	*	*	*	*
+36	an	an	APPR	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	kommunalen	kommunal	ADJA	*	*	*	*
+39	Müllsortierer	Müllsortierer	NN	*	*	*	*
+40	ein	ein	PTKVZ	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T930903.292
+# text = Ein Hilfskonstrukt , um die Dinge aus einer Schieflage zu befreien , in die sie in den 70ern geraten waren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Hilfskonstrukt	<unknown>	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	um	um	KOUI	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Dinge	Ding	NN	*	*	*	*
+7	aus	aus	APPR	2	2	2	2
+8	einer	eine	ART	*	*	*	*
+9	Schieflage	Schieflage	NN	2	2	2	2
+10	zu	zu	PTKZU	*	*	*	*
+11	befreien	befreien	VVINF	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	die	die	PRELS	*	*	*	*
+15	sie	sie	PPER	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	70ern	70er	NN	*	*	*	*
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	waren	sein	VAFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T930208.47
+# text = Der Wohnungsmarkt in Polen ist durch die Wirtschaftsreform und besonders die Politik des knappen Geldes in eine kuriose Schieflage geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Wohnungsmarkt	Wohnungsmarkt	NN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	Polen	Polen	NE	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	durch	durch	APPR	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Wirtschaftsreform	Wirtschaftsreform	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	besonders	besonders	ADV	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Politik	Politik	NN	*	*	*	*
+13	des	die	ART	*	*	*	*
+14	knappen	knapp	ADJA	*	*	*	*
+15	Geldes	Geld	NN	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	eine	eine	ART	*	*	*	*
+18	kuriose	kurios	ADJA	*	*	*	*
+19	Schieflage	Schieflage	NN	2	2	2	2
+20	geraten	geraten|raten	VVPP	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T960106.79
+# text = Ohne Andrej Kosyrew gerät die russische Außenpolitik in eine Schieflage .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ohne	ohne	APPR	*	*	*	*
+2	Andrej	Andrej	NE	*	*	*	*
+3	Kosyrew	<unknown>	NE	*	*	*	*
+4	gerät	geraten	VVFIN	2	2	2	2
+5	die	die	ART	*	*	*	*
+6	russische	russisch	ADJA	*	*	*	*
+7	Außenpolitik	Außenpolitik	NN	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	eine	eine	ART	*	*	*	*
+10	Schieflage	Schieflage	NN	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T960113.262
+# text = Ein Schlepper des Schiffahrtsunternehmens Fehner war dort in Schieflage geraten , nachdem Wasser in das Boot eingedrungen war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Schlepper	Schlepper	NN	*	*	*	*
+3	des	die	ART	*	*	*	*
+4	Schiffahrtsunternehmens	<unknown>	NN	*	*	*	*
+5	Fehner	<unknown>	NN	*	*	*	*
+6	war	sein	VAFIN	*	*	*	*
+7	dort	dort	ADV	*	*	*	*
+8	in	in	APPR	1	1	1	1
+9	Schieflage	Schieflage	NN	1	1	1	1
+10	geraten	geraten|raten	VVPP	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	nachdem	nachdem	KOUS	*	*	*	*
+13	Wasser	Wasser	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	das	die	ART	*	*	*	*
+16	Boot	Boot	NN	*	*	*	*
+17	eingedrungen	eindringen	VVPP	*	*	*	*
+18	war	sein	VAFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T960124.219
+# text = Schließlich seien alle Länder und Kommunen inzwischen in die gleiche haushaltspolitische Schieflage geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schließlich	schließlich	ADV	*	*	*	*
+2	seien	sein	VAFIN	*	*	*	*
+3	alle	alle	PIAT	*	*	*	*
+4	Länder	Land	NN	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	Kommunen	Kommune	NN	*	*	*	*
+7	inzwischen	inzwischen	ADV	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	die	die	ART	*	*	*	*
+10	gleiche	gleich	ADJA	*	*	*	*
+11	haushaltspolitische	haushaltspolitisch	ADJA	*	*	*	*
+12	Schieflage	Schieflage	NN	2	2	2	2
+13	geraten	geraten|raten	VVPP	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T960115.78
+# text = Ein richtiger Immobiliencrash , wie jüngst in Norwegen , Teilen Großbritanniens , den USA und Tokio , steht Hamburg jedoch nicht bevor , weil die Banken fester stehen : Große Immobilienkrisen brechen gewöhnlich erst dann aus , wenn einzelne Banken in Schieflage geraten und anfangen , ihre nicht bedienten Hypotheken mit Zwangsversteigerungen zu versilbern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	richtiger	richtig	ADJA	*	*	*	*
+3	Immobiliencrash	<unknown>	NE	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	wie	wie	KOKOM	*	*	*	*
+6	jüngst	jungüngst	ADJD	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Norwegen	Norwegen	NE	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	Teilen	Teil|Teilen	NN	*	*	*	*
+11	Großbritanniens	Großbritannien	NE	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	USA	USA	NE	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	Tokio	Tokio	NE	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	steht	stehen	VVFIN	*	*	*	*
+19	Hamburg	Hamburg	NE	*	*	*	*
+20	jedoch	jedoch	ADV	*	*	*	*
+21	nicht	nicht	PTKNEG	*	*	*	*
+22	bevor	bevor	PTKVZ	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	weil	weil	KOUS	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Banken	Bank	NN	*	*	*	*
+27	fester	fest	ADJD	*	*	*	*
+28	stehen	stehen	VVINF	*	*	*	*
+29	:	:	$.	*	*	*	*
+30	Große	groß	ADJA	*	*	*	*
+31	Immobilienkrisen	<unknown>	NN	*	*	*	*
+32	brechen	brechen	VVFIN	*	*	*	*
+33	gewöhnlich	gewöhnlich	ADJD	*	*	*	*
+34	erst	erst	ADV	*	*	*	*
+35	dann	dann	ADV	*	*	*	*
+36	aus	aus	PTKVZ	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	wenn	wenn	KOUS	*	*	*	*
+39	einzelne	einzeln	ADJA	*	*	*	*
+40	Banken	Bank	NN	*	*	*	*
+41	in	in	APPR	2	2	2	2
+42	Schieflage	Schieflage	NN	2	2	2	2
+43	geraten	geraten|raten	VVPP	2	2	2	2
+44	und	und	KON	*	*	*	*
+45	anfangen	anfangen	VVFIN	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	ihre	ihr	PPOSAT	*	*	*	*
+48	nicht	nicht	PTKNEG	*	*	*	*
+49	bedienten	bedient	ADJA	*	*	*	*
+50	Hypotheken	Hypothek	NN	*	*	*	*
+51	mit	mit	APPR	*	*	*	*
+52	Zwangsversteigerungen	Zwangsversteigerung	NN	*	*	*	*
+53	zu	zu	PTKZU	*	*	*	*
+54	versilbern	versilbern	VVINF	*	*	*	*
+55	.	.	$.	*	*	*	*
+
+# article_id = T960402.205
+# text = Der Immobilienmarkt ist nach Ansicht des Chefs der Berliner Bankgesellschaft , Hubertus Moser , in eine Schieflage geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Immobilienmarkt	Immobilienmarkt	NN	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	nach	nach	APPR	*	*	*	*
+5	Ansicht	Ansicht	NN	*	*	*	*
+6	des	die	ART	*	*	*	*
+7	Chefs	Chef	NN	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Berliner	Berliner	ADJA	*	*	*	*
+10	Bankgesellschaft	Bankgesellschaft	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	Hubertus	Hubertus	NE	*	*	*	*
+13	Moser	Moser	NE	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	eine	eine	ART	*	*	*	*
+17	Schieflage	Schieflage	NN	2	2	2	2
+18	geraten	geraten|raten	VVPP	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T960419.284
+# text = Die Vereinsführung ist nicht gut auf den JU-Chef zu sprechen , seit die BSI , an der auch der TuS beteiligt ist , in eine finanzielle Schieflage geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Vereinsführung	Vereinsführung	NN	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	gut	gut	ADJD	*	*	*	*
+6	auf	auf	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	JU-Chef	JU-Chef	NN	*	*	*	*
+9	zu	zu	PTKZU	*	*	*	*
+10	sprechen	sprechen	VVINF	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	seit	seit	APPR	*	*	*	*
+13	die	die	PRELS	*	*	*	*
+14	BSI	BSI	NE	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	an	an	APPR	*	*	*	*
+17	der	die	PRELS	*	*	*	*
+18	auch	auch	ADV	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	TuS	<unknown>	NN	*	*	*	*
+21	beteiligt	beteiligen	VVPP	*	*	*	*
+22	ist	sein	VAFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	eine	eine	ART	*	*	*	*
+26	finanzielle	finanziell	ADJA	*	*	*	*
+27	Schieflage	Schieflage	NN	2	2	2	2
+28	geraten	geraten|raten	VVPP	2	2	2	2
+29	ist	sein	VAFIN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T961112.276
+# text = Dadurch gerät die Sozialneid-Parabel in Schieflage : Die irrationale Logik , nach der einem , der nicht deutsch aussieht , Rechte , Glück und Zuwendung abspenstig gemacht werden , erschließt sich nicht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dadurch	dadurch	PAV	*	*	*	*
+2	gerät	geraten	VVFIN	2	2	2	2
+3	die	die	ART	*	*	*	*
+4	Sozialneid-Parabel	<unknown>	NN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	Schieflage	Schieflage	NN	2	2	2	2
+7	:	:	$.	*	*	*	*
+8	Die	die	ART	*	*	*	*
+9	irrationale	irrational	ADJA	*	*	*	*
+10	Logik	Logik	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	nach	nach	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	einem	eine	PIS	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	der	die	PRELS	*	*	*	*
+17	nicht	nicht	PTKNEG	*	*	*	*
+18	deutsch	deutsch	ADJD	*	*	*	*
+19	aussieht	aussehen	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	Rechte	Recht|Rechte	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	Glück	Glück	NN	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	Zuwendung	Zuwendung	NN	*	*	*	*
+26	abspenstig	abspenstig	ADJD	*	*	*	*
+27	gemacht	machen	VVPP	*	*	*	*
+28	werden	werden	VAINF	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	erschließt	erschließen	VVFIN	*	*	*	*
+31	sich	sich	PRF	*	*	*	*
+32	nicht	nicht	PTKNEG	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T980902.148
+# text = Und selbst wenn McDonald's weniger Bouletten in Moskau verkauft , wird der Konzern deswegen nicht in finanzielle Schieflage geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	selbst	selbst	ADV	*	*	*	*
+3	wenn	wenn	KOUS	*	*	*	*
+4	McDonald	<unknown>	VVFIN	*	*	*	*
+5	's	es	PPER	*	*	*	*
+6	weniger	wenige	PIAT	*	*	*	*
+7	Bouletten	<unknown>	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	Moskau	Moskau	NE	*	*	*	*
+10	verkauft	verkaufen	VVPP	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	wird	werden	VAFIN	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Konzern	Konzern	NN	*	*	*	*
+15	deswegen	deswegen	PAV	*	*	*	*
+16	nicht	nicht	PTKNEG	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	finanzielle	finanziell	ADJA	*	*	*	*
+19	Schieflage	Schieflage	NN	2	2	2	2
+20	geraten	geraten|raten	VVPP	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T980425.83
+# text = Paul Breuer ( CDU ) sagte an die Adresse der SPD : Wer mit " derartigen Chaoten Politik machen will " , gerate in eine politische Schieflage .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Paul	Paul	NE	*	*	*	*
+2	Breuer	Breuer	NE	*	*	*	*
+3	(	(	$(	*	*	*	*
+4	CDU	CDU	NE	*	*	*	*
+5	)	)	$(	*	*	*	*
+6	sagte	sagen	VVFIN	*	*	*	*
+7	an	an	APPR	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Adresse	Adresse	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	SPD	SPD	NE	*	*	*	*
+12	:	:	$.	*	*	*	*
+13	Wer	wer	PWS	*	*	*	*
+14	mit	mit	APPR	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	derartigen	derartig	ADJA	*	*	*	*
+17	Chaoten	Chaot	NN	*	*	*	*
+18	Politik	Politik	NN	*	*	*	*
+19	machen	machen	VVINF	*	*	*	*
+20	will	wollen	VMFIN	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	gerate	geraten	VVFIN	2	2	2	2
+24	in	in	APPR	2	2	2	2
+25	eine	eine	ART	*	*	*	*
+26	politische	politisch	ADJA	*	*	*	*
+27	Schieflage	Schieflage	NN	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T981208.158
+# text = Dieser habe viel zu spät bei der in Schieflage geratenen britischen Tochter eingegriffen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dieser	diese	PDS	*	*	*	*
+2	habe	haben	VAFIN	*	*	*	*
+3	viel	viel	ADV	*	*	*	*
+4	zu	zu	PTKA	*	*	*	*
+5	spät	spät	ADJD	*	*	*	*
+6	bei	bei	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	Schieflage	Schieflage	NN	2	2	2	2
+10	geratenen	geraten	ADJA	2	2	2	2
+11	britischen	britisch	ADJA	*	*	*	*
+12	Tochter	Tochter	NN	*	*	*	*
+13	eingegriffen	eingreifen	VVPP	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T980803.132
+# text = Das 120 Millionen Mark teure und privat geführte Festspielhaus war in den vergangenen Wochen in eine finanzielle Schieflage geraten , weil angeblich zwischen 6 und 6,5 Millionen Mark fehlen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	120	@card@	ADJA	*	*	*	*
+3	Millionen	Million	NN	*	*	*	*
+4	Mark	Mark	NN	*	*	*	*
+5	teure	teuer	ADJA	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	privat	privat	ADJD	*	*	*	*
+8	geführte	geführt	ADJA	*	*	*	*
+9	Festspielhaus	Festspielhaus	NN	*	*	*	*
+10	war	sein	VAFIN	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	vergangenen	vergangen	ADJA	*	*	*	*
+14	Wochen	Woche	NN	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	eine	eine	ART	*	*	*	*
+17	finanzielle	finanziell	ADJA	*	*	*	*
+18	Schieflage	Schieflage	NN	2	2	2	2
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	weil	weil	KOUS	*	*	*	*
+22	angeblich	angeblich	ADJD	*	*	*	*
+23	zwischen	zwischen	APPR	*	*	*	*
+24	6	@card@	CARD	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	6,5	@card@	CARD	*	*	*	*
+27	Millionen	Million	NN	*	*	*	*
+28	Mark	Mark	NN	*	*	*	*
+29	fehlen	fehlen	VVINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T980303.203
+# text = Auch Situationen , die es in Wirklichkeit nicht gibt : Im verbotenen Tiefflug über Berlin ist die Boeing737 in gefährliche Schieflage geraten , droht hinter dem Schloß in die Spree zu stürzen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Auch	auch	ADV	*	*	*	*
+2	Situationen	Situation	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	es	es	PPER	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Wirklichkeit	Wirklichkeit	NN	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	gibt	geben	VVFIN	*	*	*	*
+10	:	:	$.	*	*	*	*
+11	Im	in	APPRART	*	*	*	*
+12	verbotenen	verboten	ADJA	*	*	*	*
+13	Tiefflug	Tiefflug	NN	*	*	*	*
+14	über	über	APPR	*	*	*	*
+15	Berlin	Berlin	NE	*	*	*	*
+16	ist	sein	VAFIN	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Boeing737	<unknown>	NN	*	*	*	*
+19	in	in	APPR	1	1	1	1
+20	gefährliche	gefährlich	ADJA	*	*	*	*
+21	Schieflage	Schieflage	NN	1	1	1	1
+22	geraten	geraten|raten	VVPP	1	1	1	1
+23	,	,	$,	*	*	*	*
+24	droht	drohen	VVFIN	*	*	*	*
+25	hinter	hinter	APPR	*	*	*	*
+26	dem	die	ART	*	*	*	*
+27	Schloß	Schloss	NN	*	*	*	*
+28	in	in	APPR	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	Spree	Spree	NE	*	*	*	*
+31	zu	zu	PTKZU	*	*	*	*
+32	stürzen	stürzen	VVINF	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T981103.79
+# text = Auch Abschreibungen der Bank in Höhe von 240 Millionen Mark wegen ihres Engagements bei dem in Schieflage geratenen Hedge Fonds LTCM belasteten das Ergebnis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	Abschreibungen	Abschreibung	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Bank	Bank	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Höhe	Höhe	NN	*	*	*	*
+7	von	von	APPR	*	*	*	*
+8	240	@card@	CARD	*	*	*	*
+9	Millionen	Million	NN	*	*	*	*
+10	Mark	Mark	NN	*	*	*	*
+11	wegen	wegen	APPR	*	*	*	*
+12	ihres	ihr	PPOSAT	*	*	*	*
+13	Engagements	Engagement	NN	*	*	*	*
+14	bei	bei	APPR	*	*	*	*
+15	dem	die	ART	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	Schieflage	Schieflage	NN	2	2	2	2
+18	geratenen	geraten	ADJA	2	2	2	2
+19	Hedge	<unknown>	NN	*	*	*	*
+20	Fonds	Fonds	NN	*	*	*	*
+21	LTCM	<unknown>	NE	*	*	*	*
+22	belasteten	belasten	VVFIN	*	*	*	*
+23	das	die	ART	*	*	*	*
+24	Ergebnis	Ergebnis	NN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T981123.251
+# text = Unter Kohls Regentschaft geriet die Partei in eine Schieflage , das Goldene Zeitalter der Schwarzen ist vorüber .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unter	unter	APPR	*	*	*	*
+2	Kohls	Kohl	NE	*	*	*	*
+3	Regentschaft	Regentschaft	NN	*	*	*	*
+4	geriet	geraten	VVFIN	2	2	2	2
+5	die	die	ART	*	*	*	*
+6	Partei	Partei	NN	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	eine	eine	ART	*	*	*	*
+9	Schieflage	Schieflage	NN	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	das	die	ART	*	*	*	*
+12	Goldene	Goldene	NN	*	*	*	*
+13	Zeitalter	Zeitalter	NN	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Schwarzen	Schwarze	NN	*	*	*	*
+16	ist	sein	VAFIN	*	*	*	*
+17	vorüber	vorüber	ADV	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T970117.299
+# text = Ist gefangen , gebannt , macht mit , schiebt den Körper in die Gegenrichtung , sobald das Ei in Schieflage gerät , und spürt der inneren Mitte nach .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Ist	sein	VAFIN	*	*	*	*
+2	gefangen	gefangen	PTKVZ	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	gebannt	bannen	VVPP	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	macht	machen	VVFIN	*	*	*	*
+7	mit	mit	PTKVZ	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	schiebt	schieben	VVFIN	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Körper	Körper	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Gegenrichtung	Gegenrichtung	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	sobald	sobald	KOUS	*	*	*	*
+17	das	die	ART	*	*	*	*
+18	Ei	Ei	NN	*	*	*	*
+19	in	in	APPR	1	1	1	1
+20	Schieflage	Schieflage	NN	1	1	1	1
+21	gerät	geraten	VVFIN	1	1	1	1
+22	,	,	$,	*	*	*	*
+23	und	und	KON	*	*	*	*
+24	spürt	spüren	VVFIN	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	inneren	inner	ADJA	*	*	*	*
+27	Mitte	Mitte	NN	*	*	*	*
+28	nach	nach	PTKVZ	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T970411.132
+# text = " Lesbierinnen " allerdings kommen kaum vor ( wahrscheinlich wegen der Kostüme , gell ) , weswegen der Film als historisches Vehikel etwas in Schieflage gerät .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Lesbierinnen	Lesbierin	NN	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	allerdings	allerdings	ADV	*	*	*	*
+5	kommen	kommen	VVFIN	*	*	*	*
+6	kaum	kaum	ADV	*	*	*	*
+7	vor	vor	PTKVZ	*	*	*	*
+8	(	(	$(	*	*	*	*
+9	wahrscheinlich	wahrscheinlich	ADJD	*	*	*	*
+10	wegen	wegen	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Kostüme	Kostüm	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	gell	gell	ITJ	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	weswegen	weswegen	PWAV	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Film	Film	NN	*	*	*	*
+20	als	als	KOKOM	*	*	*	*
+21	historisches	historisch	ADJA	*	*	*	*
+22	Vehikel	Vehikel	NN	*	*	*	*
+23	etwas	etwas	ADV	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	Schieflage	Schieflage	NN	2	2	2	2
+26	gerät	geraten	VVFIN	2	2	2	2
+27	.	.	$.	*	*	*	*
+
+# article_id = T970815.182
+# text = " Doch nach weiteren Sitzungen sei die Konzeption in eine " Schieflage zugunsten der üblichen Struktur des Stadtforums geraten " , bemängelt der Politikprofessor .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Doch	doch	KON	*	*	*	*
+3	nach	nach	APPR	*	*	*	*
+4	weiteren	weit	ADJA	*	*	*	*
+5	Sitzungen	Sitzung	NN	*	*	*	*
+6	sei	sein	VAFIN	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Konzeption	Konzeption	NN	*	*	*	*
+9	in	in	APPR	2	2	2	2
+10	eine	eine	ART	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	Schieflage	Schieflage	NN	2	2	2	2
+13	zugunsten	zugunsten	APPR	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	üblichen	üblich	ADJA	*	*	*	*
+16	Struktur	Struktur	NN	*	*	*	*
+17	des	die	ART	*	*	*	*
+18	Stadtforums	Stadtforum	NN	*	*	*	*
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	"	"	$(	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	bemängelt	bemängeln	VVFIN	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Politikprofessor	Politikprofessor	NN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T970213.325
+# text = Die Ermittlungen beziehen sich aber auf Vorgänge aus dem Jahre 1995 , nachdem der Vulkan schon in Schieflage geraten war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Ermittlungen	Ermittlung	NN	*	*	*	*
+3	beziehen	beziehen	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	aber	aber	ADV	*	*	*	*
+6	auf	auf	APPR	*	*	*	*
+7	Vorgänge	Vorgang	NN	*	*	*	*
+8	aus	aus	APPR	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	Jahre	Jahr	NN	*	*	*	*
+11	1995	@card@	CARD	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	nachdem	nachdem	KOUS	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Vulkan	Vulkan	NN	*	*	*	*
+16	schon	schon	ADV	*	*	*	*
+17	in	in	APPR	2	2	1	2
+18	Schieflage	Schieflage	NN	2	2	1	2
+19	geraten	geraten|raten	VVPP	2	2	1	2
+20	war	sein	VAFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T941019.143
+# text = Zwar wird Nathans Tochter vom jungen Tempelritter aus den Flammen errettet , doch der Feuerschein brennt ins Gedächtnis ein : Die Welt ist in die Schieflage geraten und auf die Maße eines Zwischendecks geschrumpft , unrettbar .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zwar	zwar	ADV	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	Nathans	<unknown>	NE	*	*	*	*
+4	Tochter	Tochter	NN	*	*	*	*
+5	vom	von	APPRART	*	*	*	*
+6	jungen	jung	ADJA	*	*	*	*
+7	Tempelritter	Tempelritter	NN	*	*	*	*
+8	aus	aus	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Flammen	Flamme	NN	*	*	*	*
+11	errettet	erretten	VVPP	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	doch	doch	KON	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Feuerschein	Feuerschein	NN	*	*	*	*
+16	brennt	brennen	VVFIN	*	*	*	*
+17	ins	in	APPRART	*	*	*	*
+18	Gedächtnis	Gedächtnis	NN	*	*	*	*
+19	ein	ein	PTKVZ	*	*	*	*
+20	:	:	$.	*	*	*	*
+21	Die	die	ART	*	*	*	*
+22	Welt	Welt	NN	*	*	*	*
+23	ist	sein	VAFIN	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	die	die	ART	*	*	*	*
+26	Schieflage	Schieflage	NN	2	2	2	2
+27	geraten	geraten|raten	VVPP	2	2	2	2
+28	und	und	KON	*	*	*	*
+29	auf	auf	APPR	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	Maße	Maß	NN	*	*	*	*
+32	eines	eine	ART	*	*	*	*
+33	Zwischendecks	Zwischendeck	NN	*	*	*	*
+34	geschrumpft	schrumpfen	VVPP	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	unrettbar	unrettbar	ADJD	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T940709.272
+# text = Es rückt vieles gerade , das auch im Zusammenhang mit dem UKE-Strahlenskandal in eine gehörige Schieflage geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	rückt	rücken	VVFIN	*	*	*	*
+3	vieles	viele	PIS	*	*	*	*
+4	gerade	gerade	ADV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	das	die	PRELS	*	*	*	*
+7	auch	auch	ADV	*	*	*	*
+8	im	in	APPRART	*	*	*	*
+9	Zusammenhang	Zusammenhang	NN	*	*	*	*
+10	mit	mit	APPR	*	*	*	*
+11	dem	die	ART	*	*	*	*
+12	UKE-Strahlenskandal	<unknown>	NN	*	*	*	*
+13	in	in	APPR	2	2	2	2
+14	eine	eine	ART	*	*	*	*
+15	gehörige	gehörig	ADJA	*	*	*	*
+16	Schieflage	Schieflage	NN	2	2	2	2
+17	geraten	geraten|raten	VVPP	2	2	2	2
+18	ist	sein	VAFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T940727.196
+# text = So gerät die Kunstszene , die man eigentlich besser nach außen präsentieren will , in eine gefährliche Schieflage .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	so	ADV	*	*	*	*
+2	gerät	geraten	VVFIN	2	2	2	2
+3	die	die	ART	*	*	*	*
+4	Kunstszene	Kunstszene	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	die	die	PRELS	*	*	*	*
+7	man	man	PIS	*	*	*	*
+8	eigentlich	eigentlich	ADV	*	*	*	*
+9	besser	gut	ADJD	*	*	*	*
+10	nach	nach	APPR	*	*	*	*
+11	außen	außen	ADV	*	*	*	*
+12	präsentieren	präsentieren	VVINF	*	*	*	*
+13	will	wollen	VMFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	eine	eine	ART	*	*	*	*
+17	gefährliche	gefährlich	ADJA	*	*	*	*
+18	Schieflage	Schieflage	NN	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T940325.273
+# text = Die Interessen von Kreditgebern ( Banken , Immobilienfonds und Versicherungen ) und Spekulanten sind so eng miteinander verflochten , daß Immobilienkrisen meist erst dann ausbrechen , wenn einzelne Banken in Schieflage geraten und in Panik anfangen , ihre nicht bedienten Hypotheken durch Zwangsversteigerungen zu Geld zu machen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Interessen	Interesse	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Kreditgebern	Kreditgeber	NN	*	*	*	*
+5	(	(	$(	*	*	*	*
+6	Banken	Bank	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	Immobilienfonds	Immobilienfonds	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Versicherungen	Versicherung	NN	*	*	*	*
+11	)	)	$(	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Spekulanten	Spekulant	NN	*	*	*	*
+14	sind	sein	VAFIN	*	*	*	*
+15	so	so	ADV	*	*	*	*
+16	eng	eng	ADJD	*	*	*	*
+17	miteinander	miteinander	ADV	*	*	*	*
+18	verflochten	verflechten	VVPP	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	daß	dass	KOUS	*	*	*	*
+21	Immobilienkrisen	<unknown>	NN	*	*	*	*
+22	meist	meist	ADV	*	*	*	*
+23	erst	erst	ADV	*	*	*	*
+24	dann	dann	ADV	*	*	*	*
+25	ausbrechen	ausbrechen	VVINF	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	wenn	wenn	KOUS	*	*	*	*
+28	einzelne	einzeln	ADJA	*	*	*	*
+29	Banken	Bank	NN	*	*	*	*
+30	in	in	APPR	2	2	2	2
+31	Schieflage	Schieflage	NN	2	2	2	2
+32	geraten	geraten|raten	VVPP	2	2	2	2
+33	und	und	KON	*	*	*	*
+34	in	in	APPR	*	*	*	*
+35	Panik	Panik	NN	*	*	*	*
+36	anfangen	anfangen	VVINF	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	ihre	ihr	PPOSAT	*	*	*	*
+39	nicht	nicht	PTKNEG	*	*	*	*
+40	bedienten	bedient	ADJA	*	*	*	*
+41	Hypotheken	Hypothek	NN	*	*	*	*
+42	durch	durch	APPR	*	*	*	*
+43	Zwangsversteigerungen	Zwangsversteigerung	NN	*	*	*	*
+44	zu	zu	APPR	*	*	*	*
+45	Geld	Geld	NN	*	*	*	*
+46	zu	zu	PTKZU	*	*	*	*
+47	machen	machen	VVINF	*	*	*	*
+48	.	.	$.	*	*	*	*
+
+# article_id = T940326.84
+# text = Die Frage also , ob ein Verein aufgrund unglücklicher Umstände in die Schieflage geraten ist oder über einen längeren Zeitraum fragwürdig gewirtschaftet hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Frage	Frage	NN	*	*	*	*
+3	also	also	ADV	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	ob	ob	KOUS	*	*	*	*
+6	ein	eine	ART	*	*	*	*
+7	Verein	Verein	NN	*	*	*	*
+8	aufgrund	aufgrund	APPR	*	*	*	*
+9	unglücklicher	unglücklich	ADJA	*	*	*	*
+10	Umstände	Umstand	NN	*	*	*	*
+11	in	in	APPR	2	2	2	2
+12	die	die	ART	*	*	*	*
+13	Schieflage	Schieflage	NN	2	2	2	2
+14	geraten	geraten|raten	VVPP	2	2	2	2
+15	ist	sein	VAFIN	*	*	*	*
+16	oder	oder	KON	*	*	*	*
+17	über	über	APPR	*	*	*	*
+18	einen	eine	ART	*	*	*	*
+19	längeren	lang	ADJA	*	*	*	*
+20	Zeitraum	Zeitraum	NN	*	*	*	*
+21	fragwürdig	fragwürdig	ADJD	*	*	*	*
+22	gewirtschaftet	wirtschaften	VVPP	*	*	*	*
+23	hat	haben	VAFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T950523.200
+# text = Solange der deutsche Staat nicht um diese Menschen wirbt , braucht man sich über die Schieflage , in die manche türkischen Bürger in Deutschland geraten , nicht zu wundern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Solange	solange	KOUS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	deutsche	deutsch	ADJA	*	*	*	*
+4	Staat	Staat	NN	*	*	*	*
+5	nicht	nicht	PTKNEG	*	*	*	*
+6	um	um	APPR	*	*	*	*
+7	diese	dies	PDAT	*	*	*	*
+8	Menschen	Mensch	NN	*	*	*	*
+9	wirbt	werben	VVFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	braucht	brauchen	VVFIN	*	*	*	*
+12	man	man	PIS	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	über	über	APPR	2	2	2	2
+15	die	die	ART	*	*	*	*
+16	Schieflage	Schieflage	NN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	die	die	PRELS	*	*	*	*
+20	manche	manche	PIAT	*	*	*	*
+21	türkischen	türkisch	ADJA	*	*	*	*
+22	Bürger	Bürger	NN	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	Deutschland	Deutschland	NE	*	*	*	*
+25	geraten	geraten|raten	VVPP	2	2	2	2
+26	,	,	$,	*	*	*	*
+27	nicht	nicht	PTKNEG	*	*	*	*
+28	zu	zu	PTKZU	*	*	*	*
+29	wundern	wundern	VVINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T951005.6
+# text = Nick Leeson war am 26. Februar in die Schlagzeilen geraten , als die Sunday Times die Schieflage der 1762 gegründeten Barings Bank meldete .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nick	Nick	NE	*	*	*	*
+2	Leeson	<unknown>	NE	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	am	an	APPRART	*	*	*	*
+5	26	@card@	CARD	*	*	*	*
+6	.	.	$.	*	*	*	*
+7	Februar	Februar	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Schlagzeilen	Schlagzeile	NN	*	*	*	*
+11	geraten	geraten|raten	VVPP	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	als	als	KOUS	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Sunday	Sunday	NE	*	*	*	*
+16	Times	Times	NE	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Schieflage	Schieflage	NN	2	2	2	2
+19	der	die	ART	*	*	*	*
+20	1762	@card@	CARD	*	*	*	*
+21	gegründeten	gegründet	ADJA	*	*	*	*
+22	Barings	<unknown>	NE	*	*	*	*
+23	Bank	Bank	NN	*	*	*	*
+24	meldete	melden	VVFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T950902.68
+# text = Bosnien ist ein Schiff , das in Schieflage geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bosnien	Bosnien	NE	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	Schiff	Schiff	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	das	die	PRELS	*	*	*	*
+7	in	in	APPR	2	1	2	2
+8	Schieflage	Schieflage	NN	2	1	2	2
+9	geraten	geraten|raten	VVPP	2	1	2	2
+10	ist	sein	VAFIN	*	*	*	*
+11	.	.	$.	*	*	*	*
+
+# article_id = T950428.156
+# text = " Das Finanzierungssystem des ZDF ist insgesamt in eine strukturelle Schieflage geraten " , sagte Stolte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Das	die	ART	*	*	*	*
+3	Finanzierungssystem	Finanzierungssystem	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	ZDF	ZDF	NE	*	*	*	*
+6	ist	sein	VAFIN	*	*	*	*
+7	insgesamt	insgesamt	ADV	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	eine	eine	ART	*	*	*	*
+10	strukturelle	strukturell	ADJA	*	*	*	*
+11	Schieflage	Schieflage	NN	2	2	2	2
+12	geraten	geraten|raten	VVPP	2	2	2	2
+13	"	"	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	sagte	sagen	VVFIN	*	*	*	*
+16	Stolte	Stolte	NE	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T950708.23
+# text = Berlin ( taz ) - Leicht schräg sollte es sein , doch jetzt gerät das geplante Holocaust-Mahnmal in eine bedenkliche Schieflage .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Berlin	Berlin	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	taz	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Leicht	<unknown>	NN	*	*	*	*
+7	schräg	schräg	ADJD	*	*	*	*
+8	sollte	sollen	VMFIN	*	*	*	*
+9	es	es	PPER	*	*	*	*
+10	sein	sein	VAINF	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	doch	doch	KON	*	*	*	*
+13	jetzt	jetzt	ADV	*	*	*	*
+14	gerät	geraten	VVFIN	2	3	3	3
+15	das	die	ART	*	*	*	*
+16	geplante	geplant	ADJA	*	*	*	*
+17	Holocaust-Mahnmal	Holocaust-Mahnmal	NN	*	*	*	*
+18	in	in	APPR	2	3	3	3
+19	eine	eine	ART	*	*	*	*
+20	bedenkliche	bedenklich	ADJA	*	*	*	*
+21	Schieflage	Schieflage	NN	2	3	3	3
+22	.	.	$.	*	*	*	*
+
+# article_id = T951205.43
+# text = Der Zwickel-Vorstoß lasse außer acht , daß Unternehmen bei schlechter Auftragslage aufgrund der zusätzlichen Personalkosten in wirtschaftliche Schieflagen geraten könnten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Zwickel-Vorstoß	<unknown>	NN	*	*	*	*
+3	lasse	lassen	VVFIN	*	*	*	*
+4	außer	außer	APPR	*	*	*	*
+5	acht	acht	CARD	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	Unternehmen	Unternehmen	NN	*	*	*	*
+9	bei	bei	APPR	*	*	*	*
+10	schlechter	schlecht	ADJA	*	*	*	*
+11	Auftragslage	Auftragslage	NN	*	*	*	*
+12	aufgrund	aufgrund	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	zusätzlichen	zusätzlich	ADJA	*	*	*	*
+15	Personalkosten	Personalkosten	NN	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	wirtschaftliche	wirtschaftlich	ADJA	*	*	*	*
+18	Schieflagen	Schieflage	NN	2	2	2	2
+19	geraten	geraten	VVINF	2	2	2	2
+20	könnten	können	VMFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T950831.58
+# text = Beide Institute sollen durch Kredite für Immobiliengeschäfte in finanzielle Schieflagen geraten sein .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beide	beide	PIAT	*	*	*	*
+2	Institute	Institut	NN	*	*	*	*
+3	sollen	sollen	VMFIN	*	*	*	*
+4	durch	durch	APPR	*	*	*	*
+5	Kredite	Kredit	NN	*	*	*	*
+6	für	für	APPR	*	*	*	*
+7	Immobiliengeschäfte	Immobiliengeschäft	NN	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	finanzielle	finanziell	ADJA	*	*	*	*
+10	Schieflagen	Schieflage	NN	2	2	2	2
+11	geraten	geraten|raten	VVPP	2	2	2	2
+12	sein	sein	VAINF	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T990413.131
+# text = Es ist ein bißchen schade , wenn ein sorgfältig recherchierter Artikel durch seine unglückliche Überschrift in Schieflage gerät .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	bißchen	bisschen	ADV	*	*	*	*
+5	schade	schade	ADJD	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wenn	wenn	KOUS	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	sorgfältig	sorgfältig	ADJD	*	*	*	*
+10	recherchierter	recherchiert	ADJA	*	*	*	*
+11	Artikel	Artikel	NN	*	*	*	*
+12	durch	durch	APPR	*	*	*	*
+13	seine	sein	PPOSAT	*	*	*	*
+14	unglückliche	unglücklich	ADJA	*	*	*	*
+15	Überschrift	Überschrift	NN	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	Schieflage	Schieflage	NN	2	2	2	2
+18	gerät	geraten	VVFIN	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T990414.170
+# text = Wie schnell es gehen kann , wenn die Basisindikatoren , wie Haushaltsbilanz oder Verschuldung in eine Schieflage geraten , hatten sowohl Brasilien als auch Ecuador in jüngster Zeit erleben müssen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	schnell	schnell	ADJD	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	gehen	gehen	VVINF	*	*	*	*
+5	kann	können	VMFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wenn	wenn	KOUS	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Basisindikatoren	<unknown>	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	wie	wie	KOKOM	*	*	*	*
+12	Haushaltsbilanz	<unknown>	NN	*	*	*	*
+13	oder	oder	KON	*	*	*	*
+14	Verschuldung	Verschuldung	NN	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	eine	eine	ART	*	*	*	*
+17	Schieflage	Schieflage	NN	2	2	2	2
+18	geraten	geraten|raten	VVPP	2	2	2	2
+19	,	,	$,	*	*	*	*
+20	hatten	haben	VAFIN	*	*	*	*
+21	sowohl	sowohl	KON	*	*	*	*
+22	Brasilien	Brasilien	NE	*	*	*	*
+23	als	als	KOKOM	*	*	*	*
+24	auch	auch	ADV	*	*	*	*
+25	Ecuador	Ecuador	NE	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	jüngster	jung	ADJA	*	*	*	*
+28	Zeit	Zeit	NN	*	*	*	*
+29	erleben	erleben	VVINF	*	*	*	*
+30	müssen	müssen	VMINF	*	*	*	*
+31	.	.	$.	*	*	*	*
+

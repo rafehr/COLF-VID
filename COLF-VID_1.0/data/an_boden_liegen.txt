@@ -1,0 +1,1870 @@
+# article_id = T890622.70
+# text = Der Vergewaltiger habe zu diesem Zeitpunk't bedingt durch Verletzungen an den Hoden , entkräftet am Boden gelegen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Vergewaltiger	Vergewaltiger	NN	*	*	*	*
+3	habe	haben	VAFIN	*	*	*	*
+4	zu	zu	APPR	*	*	*	*
+5	diesem	dies	PDAT	*	*	*	*
+6	Zeitpunk't	<unknown>	NN	*	*	*	*
+7	bedingt	bedingen	VVFIN	*	*	*	*
+8	durch	durch	APPR	*	*	*	*
+9	Verletzungen	Verletzung	NN	*	*	*	*
+10	an	an	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Hoden	Hoden	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	entkräftet	entkräften	VVFIN	*	*	*	*
+15	am	an	APPRART	1	1	1	1
+16	Boden	Boden	NN	1	1	1	1
+17	gelegen	liegen	VVPP	1	1	1	1
+18	.	.	$.	*	*	*	*
+
+# article_id = T891027.129
+# text = Der Italiener Paolo klammert sich , nackt am Boden liegend , an eine Amphore .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Italiener	Italiener	NN	*	*	*	*
+3	Paolo	Paolo	NE	*	*	*	*
+4	klammert	klammern	VVFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	nackt	nackt	ADJD	*	*	*	*
+8	am	an	APPRART	1	1	1	1
+9	Boden	Boden	NN	1	1	1	1
+10	liegend	liegend	ADJD	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	an	an	APPR	*	*	*	*
+13	eine	eine	ART	*	*	*	*
+14	Amphore	Amphore	NN	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T890711.167
+# text = Die Kartoffeln fallen ihm aus der Hand , rollen in den Raum , stoßen an am Boden liegende , ineinander verknäulte oder in einen Stuhl eingesperrte Gestalten an : Vincents Umgebung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Kartoffeln	Kartoffel	NN	*	*	*	*
+3	fallen	fallen	VVFIN	*	*	*	*
+4	ihm	er	PPER	*	*	*	*
+5	aus	aus	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Hand	Hand	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	rollen	rollen	VVFIN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Raum	Raum	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	stoßen	stoßen	VVFIN	*	*	*	*
+15	an	an	APPR	*	*	*	*
+16	am	an	APPRART	1	4	1	1
+17	Boden	Boden	NN	1	4	1	1
+18	liegende	liegend	ADJA	1	4	1	1
+19	,	,	$,	*	*	*	*
+20	ineinander	ineinander	ADV	*	*	*	*
+21	verknäulte	<unknown>	ADJD	*	*	*	*
+22	oder	oder	KON	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	einen	eine	ART	*	*	*	*
+25	Stuhl	Stuhl	NN	*	*	*	*
+26	eingesperrte	eingesperrt	ADJA	*	*	*	*
+27	Gestalten	Gestalt|Gestalten	NN	*	*	*	*
+28	an	an	PTKVZ	*	*	*	*
+29	:	:	$.	*	*	*	*
+30	Vincents	Vincent	NE	*	*	*	*
+31	Umgebung	Umgebung	NN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T891101.122
+# text = Wer wie ich gesehen hat , wie eine Frau , die schon minutenlang regungslos am Boden lag , von mehreren Zivilen abwechselnd in den Bauch getreten wurde , wer gesehen hat , wie Einige zwanzig , dreißig Meter an den Haaren übers Pflaster geschleift wurden , für den war Staatsfeindlichkeit von nun an keine Frage der politischen Gesinnung mehr , sondern schlicht eine Frage der Moral .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wer	wer	PWS	*	*	*	*
+2	wie	wie	KOKOM	*	*	*	*
+3	ich	ich	PPER	*	*	*	*
+4	gesehen	sehen	VVPP	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wie	wie	KOUS	*	*	*	*
+8	eine	eine	ART	*	*	*	*
+9	Frau	Frau	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	die	die	PRELS	*	*	*	*
+12	schon	schon	ADV	*	*	*	*
+13	minutenlang	minutenlang	ADJD	*	*	*	*
+14	regungslos	regungslos	ADJD	*	*	*	*
+15	am	an	APPRART	1	1	1	1
+16	Boden	Boden	NN	1	1	1	1
+17	lag	liegen	VVFIN	1	1	1	1
+18	,	,	$,	*	*	*	*
+19	von	von	APPR	*	*	*	*
+20	mehreren	mehrere	PIAT	*	*	*	*
+21	Zivilen	Zivile	NN	*	*	*	*
+22	abwechselnd	abwechselnd	ADJD	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	den	die	ART	*	*	*	*
+25	Bauch	Bauch	NN	*	*	*	*
+26	getreten	treten	VVPP	*	*	*	*
+27	wurde	werden	VAFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	wer	wer	PWS	*	*	*	*
+30	gesehen	sehen	VVPP	*	*	*	*
+31	hat	haben	VAFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	wie	wie	KOKOM	*	*	*	*
+34	Einige	<unknown>	NN	*	*	*	*
+35	zwanzig	zwanzig	CARD	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	dreißig	dreißig	CARD	*	*	*	*
+38	Meter	Meter	NN	*	*	*	*
+39	an	an	APPR	*	*	*	*
+40	den	die	ART	*	*	*	*
+41	Haaren	Haar	NN	*	*	*	*
+42	übers	übers	APPRART	*	*	*	*
+43	Pflaster	Pflaster	NN	*	*	*	*
+44	geschleift	schleifen	VVPP	*	*	*	*
+45	wurden	werden	VAFIN	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	für	für	APPR	*	*	*	*
+48	den	die	PRELS	*	*	*	*
+49	war	sein	VAFIN	*	*	*	*
+50	Staatsfeindlichkeit	Staatsfeindlichkeit	NN	*	*	*	*
+51	von	von	APPR	*	*	*	*
+52	nun	nun	ADV	*	*	*	*
+53	an	an	APPR	*	*	*	*
+54	keine	keine	PIAT	*	*	*	*
+55	Frage	Frage	NN	*	*	*	*
+56	der	die	ART	*	*	*	*
+57	politischen	politisch	ADJA	*	*	*	*
+58	Gesinnung	Gesinnung	NN	*	*	*	*
+59	mehr	mehr	ADV	*	*	*	*
+60	,	,	$,	*	*	*	*
+61	sondern	sondern	KON	*	*	*	*
+62	schlicht	schlicht	ADJD	*	*	*	*
+63	eine	eine	ART	*	*	*	*
+64	Frage	Frage	NN	*	*	*	*
+65	der	die	ART	*	*	*	*
+66	Moral	Moral	NN	*	*	*	*
+67	.	.	$.	*	*	*	*
+
+# article_id = T891103.100
+# text = Der Ball ging an Freund und Feind vorbei , prallte an den rechten Außenpfosten , sprang zurück an den Kopf des am Boden liegenden Butragueno und landete schließlich im Tor .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Ball	Ball	NN	*	*	*	*
+3	ging	gehen	VVFIN	*	*	*	*
+4	an	an	APPR	*	*	*	*
+5	Freund	Freund	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	Feind	Feind	NN	*	*	*	*
+8	vorbei	vorbei	PTKVZ	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	prallte	prallen	VVFIN	*	*	*	*
+11	an	an	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	rechten	recht|rechts	ADJA	*	*	*	*
+14	Außenpfosten	Außenpfosten	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	sprang	springen	VVFIN	*	*	*	*
+17	zurück	zurück	ADV	*	*	*	*
+18	an	an	APPR	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	Kopf	Kopf	NN	*	*	*	*
+21	des	die	ART	*	*	*	*
+22	am	an	APPRART	1	1	1	1
+23	Boden	Boden	NN	1	1	1	1
+24	liegenden	liegend	ADJA	1	1	1	1
+25	Butragueno	<unknown>	NE	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	landete	landen	VVFIN	*	*	*	*
+28	schließlich	schließlich	ADV	*	*	*	*
+29	im	in	APPRART	*	*	*	*
+30	Tor	Tor	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T910611.123
+# text = Aus unserer Sicht liegt der Tisch , an dem man dort droben Karten spielt , am Boden , sub specie aeternitatis aber steht er .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Aus	aus	APPR	*	*	*	*
+2	unserer	unser	PPOSAT	*	*	*	*
+3	Sicht	Sicht	NN	*	*	*	*
+4	liegt	liegen	VVFIN	1	1	1	1
+5	der	die	ART	*	*	*	*
+6	Tisch	Tisch	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	dem	die	PRELS	*	*	*	*
+10	man	man	PIS	*	*	*	*
+11	dort	dort	ADV	*	*	*	*
+12	droben	droben	ADV	*	*	*	*
+13	Karten	Karte	NN	*	*	*	*
+14	spielt	spielen	VVFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	am	an	APPRART	1	1	1	1
+17	Boden	Boden	NN	1	1	1	1
+18	,	,	$,	*	*	*	*
+19	sub	<unknown>	NN	*	*	*	*
+20	specie	<unknown>	ADJD	*	*	*	*
+21	aeternitatis	<unknown>	ADJD	*	*	*	*
+22	aber	aber	KON	*	*	*	*
+23	steht	stehen	VVFIN	*	*	*	*
+24	er	er	PPER	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T911007.90
+# text = Mit blutender Wunde lag er am Boden , das Publikum schloß messerscharf : Wenn der was aus der Kurve an den Kopf gekriegt hat , gibt 's einen Kölner Protest auf Spielannullierung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	blutender	blutend	ADJA	*	*	*	*
+3	Wunde	Wunde	NN	*	*	*	*
+4	lag	liegen	VVFIN	1	1	1	1
+5	er	er	PPER	*	*	*	*
+6	am	an	APPRART	1	1	1	1
+7	Boden	Boden	NN	1	1	1	1
+8	,	,	$,	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	Publikum	Publikum	NN	*	*	*	*
+11	schloß	schließen	VVFIN	*	*	*	*
+12	messerscharf	messerscharf	ADJD	*	*	*	*
+13	:	:	$.	*	*	*	*
+14	Wenn	wenn	KOUS	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	was	was	PIS	*	*	*	*
+17	aus	aus	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Kurve	Kurve	NN	*	*	*	*
+20	an	an	APPR	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	Kopf	Kopf	NN	*	*	*	*
+23	gekriegt	kriegen	VVPP	*	*	*	*
+24	hat	haben	VAFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	gibt	geben	VVFIN	*	*	*	*
+27	's	es	PPER	*	*	*	*
+28	einen	eine	ART	*	*	*	*
+29	Kölner	Kölner	ADJA	*	*	*	*
+30	Protest	Protest	NN	*	*	*	*
+31	auf	auf	APPR	*	*	*	*
+32	Spielannullierung	Spielannullierung	NN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T910711.86
+# text = Das Land liegt wirtschaftlich am Boden , an allen Arten von Medikamenten herrscht Mangel , darunter auch an Verhütungsmitteln , die ausschließlich auf dem Schwarzmarkt zu erstehen sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	Land	Land	NN	*	*	*	*
+3	liegt	liegen	VVFIN	2	2	2	2
+4	wirtschaftlich	wirtschaftlich	ADJD	*	*	*	*
+5	am	an	APPRART	2	2	2	2
+6	Boden	Boden	NN	2	2	2	2
+7	,	,	$,	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	allen	alle	PIAT	*	*	*	*
+10	Arten	Art	NN	*	*	*	*
+11	von	von	APPR	*	*	*	*
+12	Medikamenten	Medikament	NN	*	*	*	*
+13	herrscht	herrschen	VVFIN	*	*	*	*
+14	Mangel	Mangel	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	darunter	darunter	ADV	*	*	*	*
+17	auch	auch	ADV	*	*	*	*
+18	an	an	APPR	*	*	*	*
+19	Verhütungsmitteln	Verhütungsmittel	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	die	die	PRELS	*	*	*	*
+22	ausschließlich	ausschließlich	ADV	*	*	*	*
+23	auf	auf	APPR	*	*	*	*
+24	dem	die	ART	*	*	*	*
+25	Schwarzmarkt	Schwarzmarkt	NN	*	*	*	*
+26	zu	zu	PTKZU	*	*	*	*
+27	erstehen	erstehen	VVINF	*	*	*	*
+28	sind	sein	VAFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T911202.148
+# text = Die Brandflaschen zerschellten an der Außenwand und entzündeten am Boden liegendes Gerümpel .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Brandflaschen	Brandflasche	NN	*	*	*	*
+3	zerschellten	zerschellen	VVFIN	*	*	*	*
+4	an	an	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Außenwand	Außenwand	NN	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	entzündeten	entzünden	VVFIN	*	*	*	*
+9	am	an	APPRART	1	1	1	1
+10	Boden	Boden	NN	1	1	1	1
+11	liegendes	liegend	ADJA	1	1	1	1
+12	Gerümpel	Gerümpel	NN	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T901027.235
+# text = Als er ausstieg - die Fahrerin mit aufgeschlagenen Knien und verdrehtem Lenker am Boden liegend - , sagte er zu ihr : » Tja , an Fahrradfahrer müssen wir uns eben erst gewöhnen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOKOM	*	*	*	*
+2	er	er	PPER	*	*	*	*
+3	ausstieg	aussteigen	VVFIN	*	*	*	*
+4	-	-	$(	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Fahrerin	Fahrerin	NN	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	aufgeschlagenen	aufgeschlagen	ADJA	*	*	*	*
+9	Knien	Knie|Knien	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	verdrehtem	verdreht	ADJA	*	*	*	*
+12	Lenker	Lenker	NN	*	*	*	*
+13	am	an	APPRART	1	1	1	1
+14	Boden	Boden	NN	1	1	1	1
+15	liegend	liegend	ADJD	1	1	1	1
+16	-	-	$(	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	sagte	sagen	VVFIN	*	*	*	*
+19	er	er	PPER	*	*	*	*
+20	zu	zu	APPR	*	*	*	*
+21	ihr	ihr	PPER	*	*	*	*
+22	:	:	$.	*	*	*	*
+23	»	<unknown>	NN	*	*	*	*
+24	Tja	<unknown>	NE	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	an	an	APPR	*	*	*	*
+27	Fahrradfahrer	Fahrradfahrer	NN	*	*	*	*
+28	müssen	müssen	VMFIN	*	*	*	*
+29	wir	wir	PPER	*	*	*	*
+30	uns	wir	PRF	*	*	*	*
+31	eben	eben	ADV	*	*	*	*
+32	erst	erst	ADV	*	*	*	*
+33	gewöhnen	gewöhnen	VVINF	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T900109.100
+# text = Die Soldaten trieben die verschreckten Anwohner aus ihren Häusern und ließen sie im Gänsemarsch an einem Jeep vorbeidefilieren , neben dem drei mit Handschellen gefesselte Männer am Boden lagen , die von ihren Bewachern mit Kolbenhieben und Fußtritten mißhandelt wurden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Soldaten	Soldat	NN	*	*	*	*
+3	trieben	treiben	VVFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	verschreckten	verschreckt	ADJA	*	*	*	*
+6	Anwohner	Anwohner	NN	*	*	*	*
+7	aus	aus	APPR	*	*	*	*
+8	ihren	ihr	PPOSAT	*	*	*	*
+9	Häusern	Haus	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	ließen	lassen	VVFIN	*	*	*	*
+12	sie	sie	PPER	*	*	*	*
+13	im	in	APPRART	*	*	*	*
+14	Gänsemarsch	Gänsemarsch	NN	*	*	*	*
+15	an	an	APPR	*	*	*	*
+16	einem	eine	ART	*	*	*	*
+17	Jeep	Jeep	NN	*	*	*	*
+18	vorbeidefilieren	vorbeidefilieren	VVINF	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	neben	neben	APPR	*	*	*	*
+21	dem	die	PRELS	*	*	*	*
+22	drei	drei	CARD	*	*	*	*
+23	mit	mit	APPR	*	*	*	*
+24	Handschellen	Handschelle	NN	*	*	*	*
+25	gefesselte	gefesselt	ADJA	*	*	*	*
+26	Männer	Mann	NN	*	*	*	*
+27	am	an	APPRART	1	1	1	1
+28	Boden	Boden	NN	1	1	1	1
+29	lagen	liegen	VVFIN	1	1	1	1
+30	,	,	$,	*	*	*	*
+31	die	die	PRELS	*	*	*	*
+32	von	von	APPR	*	*	*	*
+33	ihren	ihr	PPOSAT	*	*	*	*
+34	Bewachern	<unknown>	NN	*	*	*	*
+35	mit	mit	APPR	*	*	*	*
+36	Kolbenhieben	<unknown>	NN	*	*	*	*
+37	und	und	KON	*	*	*	*
+38	Fußtritten	Fußtritt	NN	*	*	*	*
+39	mißhandelt	misshandeln	VVPP	*	*	*	*
+40	wurden	werden	VAFIN	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T900108.31
+# text = In der immer heftiger werdenden Kritik an der SED-PDS schwingt auch ein ganzes Stück Überraschung darüber mit , daß die für die desolate Lage der DDR verantwortliche Partei nicht moralisch und organisatorisch zerstört am Boden liegt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	immer	immer	ADV	*	*	*	*
+4	heftiger	heftig	ADJA	*	*	*	*
+5	werdenden	werdend	ADJA	*	*	*	*
+6	Kritik	Kritik	NN	*	*	*	*
+7	an	an	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	SED-PDS	SED-PDS	NE	*	*	*	*
+10	schwingt	schwingen	VVFIN	*	*	*	*
+11	auch	auch	ADV	*	*	*	*
+12	ein	eine	ART	*	*	*	*
+13	ganzes	ganz	ADJA	*	*	*	*
+14	Stück	Stück	NN	*	*	*	*
+15	Überraschung	Überraschung	NN	*	*	*	*
+16	darüber	darüber	PAV	*	*	*	*
+17	mit	mit	PTKVZ	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	daß	dass	KOUS	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	für	für	APPR	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	desolate	desolat	ADJA	*	*	*	*
+24	Lage	Lage	NN	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	DDR	DDR	NE	*	*	*	*
+27	verantwortliche	verantwortlich	ADJA	*	*	*	*
+28	Partei	Partei	NN	*	*	*	*
+29	nicht	nicht	PTKNEG	*	*	*	*
+30	moralisch	moralisch	ADJD	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	organisatorisch	organisatorisch	ADJD	*	*	*	*
+33	zerstört	zerstören	VVPP	*	*	*	*
+34	am	an	APPRART	2	2	2	2
+35	Boden	Boden	NN	2	2	2	2
+36	liegt	liegen	VVFIN	2	2	2	2
+37	.	.	$.	*	*	*	*
+
+# article_id = T901212.179
+# text = Die seit den Ereignissen in der Mainzer Straße offensichtlich völlig enthemmten Beamten traten dabei noch am Boden liegende Personen - darunter mehrere Frauen - in den Unterleib und schleiften sie an den Haaren aus dem Saal .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	seit	seit	APPR	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	Ereignissen	Ereignis	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Mainzer	Mainzer	ADJA	*	*	*	*
+8	Straße	Straße	NN	*	*	*	*
+9	offensichtlich	offensichtlich	ADJD	*	*	*	*
+10	völlig	völlig	ADJD	*	*	*	*
+11	enthemmten	enthemmt	ADJA	*	*	*	*
+12	Beamten	Beamter	NN	*	*	*	*
+13	traten	treten	VVFIN	*	*	*	*
+14	dabei	dabei	PAV	*	*	*	*
+15	noch	noch	ADV	*	*	*	*
+16	am	an	APPRART	1	1	1	1
+17	Boden	Boden	NN	1	1	1	1
+18	liegende	liegend	ADJA	1	1	1	1
+19	Personen	Person	NN	*	*	*	*
+20	-	-	$(	*	*	*	*
+21	darunter	darunter	ADV	*	*	*	*
+22	mehrere	mehrere	PIAT	*	*	*	*
+23	Frauen	Frau	NN	*	*	*	*
+24	-	-	$(	*	*	*	*
+25	in	in	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Unterleib	Unterleib	NN	*	*	*	*
+28	und	und	KON	*	*	*	*
+29	schleiften	<unknown>	VVFIN	*	*	*	*
+30	sie	sie	PPER	*	*	*	*
+31	an	an	APPR	*	*	*	*
+32	den	die	ART	*	*	*	*
+33	Haaren	Haar	NN	*	*	*	*
+34	aus	aus	APPR	*	*	*	*
+35	dem	die	ART	*	*	*	*
+36	Saal	Saal	NN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T901107.76
+# text = Nach dem Schußwaffeneinsatz lagen blutende Menschen an Boden , der 18jährige Mike Polley wurde tödlich ins Herz getroffen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	Schußwaffeneinsatz	Schusswaffeneinsatz	NN	*	*	*	*
+4	lagen	liegen	VVFIN	1	1	1	1
+5	blutende	blutend	ADJA	*	*	*	*
+6	Menschen	Mensch	NN	*	*	*	*
+7	an	an	APPR	1	1	1	1
+8	Boden	Boden	NN	1	1	1	1
+9	,	,	$,	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	18jährige	18jährig	ADJA	*	*	*	*
+12	Mike	Mike	NE	*	*	*	*
+13	Polley	Polley	NE	*	*	*	*
+14	wurde	werden	VAFIN	*	*	*	*
+15	tödlich	tödlich	ADJD	*	*	*	*
+16	ins	in	APPRART	*	*	*	*
+17	Herz	Herz	NN	*	*	*	*
+18	getroffen	treffen|triefen	VVPP	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T901116.105
+# text = Er liegt am Boden , sie hat nur das blaue Leibchen mit den Leopardensprenkeln an ... " ) und sind - trotz der suggestiven Beschwörung erotischer Intensitätskurven - sterbenslangweilig .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	liegt	liegen	VVFIN	1	1	1	1
+3	am	an	APPRART	1	1	1	1
+4	Boden	Boden	NN	1	1	1	1
+5	,	,	$,	*	*	*	*
+6	sie	sie	PPER	*	*	*	*
+7	hat	haben	VAFIN	*	*	*	*
+8	nur	nur	ADV	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	blaue	blau	ADJA	*	*	*	*
+11	Leibchen	<unknown>	NN	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Leopardensprenkeln	<unknown>	NN	*	*	*	*
+15	an	an	PTKVZ	*	*	*	*
+16	...	...	$.	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	)	)	$(	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	sind	sein	VAFIN	*	*	*	*
+21	-	-	$(	*	*	*	*
+22	trotz	trotz	APPR	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	suggestiven	suggestiv	ADJA	*	*	*	*
+25	Beschwörung	Beschwörung	NN	*	*	*	*
+26	erotischer	erotisch	ADJA	*	*	*	*
+27	Intensitätskurven	<unknown>	NN	*	*	*	*
+28	-	-	$(	*	*	*	*
+29	sterbenslangweilig	sterbenslangweilig	ADJD	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T920917.91
+# text = Minute fiel das kurioseste Tor : Als Torwart Kristinsson die Situation schon bereinigt hatte , schoß Sveinsson den am Boden liegenden Witeczek so unglücklich an , daß der Ball ins Tor prallte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Minute	Minute	NN	*	*	*	*
+2	fiel	fallen	VVFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	kurioseste	kurios	ADJA	*	*	*	*
+5	Tor	Tor	NN	*	*	*	*
+6	:	:	$.	*	*	*	*
+7	Als	als	KOKOM	*	*	*	*
+8	Torwart	Torwart	NN	*	*	*	*
+9	Kristinsson	<unknown>	NN	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Situation	Situation	NN	*	*	*	*
+12	schon	schon	ADV	*	*	*	*
+13	bereinigt	bereinigen	VVPP	*	*	*	*
+14	hatte	haben	VAFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	schoß	schießen	VVFIN	*	*	*	*
+17	Sveinsson	<unknown>	NE	*	*	*	*
+18	den	die	ART	*	*	*	*
+19	am	an	APPRART	1	1	1	1
+20	Boden	Boden	NN	1	1	1	1
+21	liegenden	liegend	ADJA	1	1	1	1
+22	Witeczek	<unknown>	NE	*	*	*	*
+23	so	so	ADV	*	*	*	*
+24	unglücklich	unglücklich	ADJD	*	*	*	*
+25	an	an	PTKVZ	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	daß	dass	KOUS	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Ball	Ball	NN	*	*	*	*
+30	ins	in	APPRART	*	*	*	*
+31	Tor	Tor	NN	*	*	*	*
+32	prallte	prallen	VVFIN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T920108.161
+# text = An die » Produktionsfirmen im Westen « wandte sich der Puschkiner Bürgermeister mit der Bitte , der am Boden liegenden » sowjetischen Wirtschaft « unter die Arme zu greifen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	An	an	APPR	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	»	<unknown>	ADJA	*	*	*	*
+4	Produktionsfirmen	Produktionsfirma	NN	*	*	*	*
+5	im	in	APPRART	*	*	*	*
+6	Westen	Weste|Westen	NN	*	*	*	*
+7	«	<unknown>	NN	*	*	*	*
+8	wandte	wenden	VVFIN	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Puschkiner	<unknown>	NN	*	*	*	*
+12	Bürgermeister	Bürgermeister	NN	*	*	*	*
+13	mit	mit	APPR	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Bitte	Bitte	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	der	die	PRELS	*	*	*	*
+18	am	an	APPRART	2	2	2	2
+19	Boden	Boden	NN	2	2	2	2
+20	liegenden	liegend	ADJA	2	2	2	2
+21	»	<unknown>	NN	*	*	*	*
+22	sowjetischen	sowjetisch	ADJA	*	*	*	*
+23	Wirtschaft	Wirtschaft	NN	*	*	*	*
+24	«	<unknown>	ADJD	*	*	*	*
+25	unter	unter	APPR	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	Arme	Arm|Arme	NN	*	*	*	*
+28	zu	zu	PTKZU	*	*	*	*
+29	greifen	greifen	VVINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T920711.12
+# text = Kroatien , dessen Industrie im Krieg zu einem großen Teil zerstört wurde , liegt wirtschaftlich am Boden , nachdem die Haupteinnahmequelle - der Tourismus an den Stränden der adriatischen Küste - versiegt ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kroatien	Kroatien	NE	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	dessen	die	PRELAT	*	*	*	*
+4	Industrie	Industrie	NN	*	*	*	*
+5	im	in	APPRART	*	*	*	*
+6	Krieg	Krieg	NN	*	*	*	*
+7	zu	zu	APPR	*	*	*	*
+8	einem	eine	ART	*	*	*	*
+9	großen	groß	ADJA	*	*	*	*
+10	Teil	Teil	NN	*	*	*	*
+11	zerstört	zerstören	VVPP	*	*	*	*
+12	wurde	werden	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	liegt	liegen	VVFIN	2	2	2	2
+15	wirtschaftlich	wirtschaftlich	ADJD	*	*	*	*
+16	am	an	APPRART	2	2	2	2
+17	Boden	Boden	NN	2	2	2	2
+18	,	,	$,	*	*	*	*
+19	nachdem	nachdem	KOUS	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Haupteinnahmequelle	Haupteinnahmequelle	NN	*	*	*	*
+22	-	-	$(	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Tourismus	Tourismus	NN	*	*	*	*
+25	an	an	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Stränden	Strand	NN	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	adriatischen	adriatisch	ADJA	*	*	*	*
+30	Küste	Küste	NN	*	*	*	*
+31	-	-	$(	*	*	*	*
+32	versiegt	versiegen	VVPP	*	*	*	*
+33	ist	sein	VAFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T920807.58
+# text = Was sich in den letzten sechzehn Jahren in diesem Land abgespielte , ist an Brutalität und Perspektivlosigkeit kaum zu überbieten : Massenmorde , Massenfluchten , Tausende zerstörter Dörfer , eine am Boden liegende Wirtschaft .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Was	was	PWS	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	letzten	letzt	ADJA	*	*	*	*
+6	sechzehn	sechzehn	CARD	*	*	*	*
+7	Jahren	Jahr	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	diesem	dies	PDAT	*	*	*	*
+10	Land	Land	NN	*	*	*	*
+11	abgespielte	abgespielt	ADJA	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	ist	sein	VAFIN	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	Brutalität	Brutalität	NN	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Perspektivlosigkeit	<unknown>	NN	*	*	*	*
+18	kaum	kaum	ADV	*	*	*	*
+19	zu	zu	PTKZU	*	*	*	*
+20	überbieten	überbieten	VVINF	*	*	*	*
+21	:	:	$.	*	*	*	*
+22	Massenmorde	Massenmord	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	Massenfluchten	Massenflucht	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	Tausende	Tausend	NN	*	*	*	*
+27	zerstörter	zerstört	ADJA	*	*	*	*
+28	Dörfer	Dorf	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	eine	eine	ART	*	*	*	*
+31	am	an	APPRART	2	2	2	2
+32	Boden	Boden	NN	2	2	2	2
+33	liegende	liegend	ADJA	2	2	2	2
+34	Wirtschaft	Wirtschaft	NN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T920324.68
+# text = Kurze Zeit später liegt ein 18jähriger erschlagen am Boden - tödlich an Hals und Schläfe getroffen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kurze	kurz	ADJA	*	*	*	*
+2	Zeit	Zeit	NN	*	*	*	*
+3	später	spät	ADJD	*	*	*	*
+4	liegt	liegen	VVFIN	1	1	1	1
+5	ein	eine	ART	*	*	*	*
+6	18jähriger	18jährig	ADJA	*	*	*	*
+7	erschlagen	erschlagen	VVFIN	*	*	*	*
+8	am	an	APPRART	1	1	1	1
+9	Boden	Boden	NN	1	1	1	1
+10	-	-	$(	*	*	*	*
+11	tödlich	tödlich	ADJD	*	*	*	*
+12	an	an	APPR	*	*	*	*
+13	Hals	Hals	NN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	Schläfe	Schläfe	NN	*	*	*	*
+16	getroffen	treffen|triefen	VVPP	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T880916.163
+# text = " Don Carlos " in Bremerhaven - das waren vier Stunden Langeweile bis auf einen Knall zehn Minuten vor Schluß , der das Publikum aus dem Schlummer riß , eine unfreiwillige Pointe , aber kein " finaler Rettungsschuß " , wie bissige Stimmen flüsterten , denn an dieser Inszenierung war nichts mehr zu retten , und am Boden lag am Ende nicht nur der Marquis , sondern der Ruf des Theaters .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	"	"	$(	*	*	*	*
+2	Don	Don	NE	*	*	*	*
+3	Carlos	Carlos	NE	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Bremerhaven	Bremerhaven	NE	*	*	*	*
+7	-	-	$(	*	*	*	*
+8	das	die	PDS	*	*	*	*
+9	waren	sein	VAFIN	*	*	*	*
+10	vier	vier	CARD	*	*	*	*
+11	Stunden	Stunde|Stunden	NN	*	*	*	*
+12	Langeweile	Langeweile	NN	*	*	*	*
+13	bis	bis	KON	*	*	*	*
+14	auf	auf	APPR	*	*	*	*
+15	einen	eine	ART	*	*	*	*
+16	Knall	Knall	NN	*	*	*	*
+17	zehn	zehn	CARD	*	*	*	*
+18	Minuten	Minute	NN	*	*	*	*
+19	vor	vor	APPR	*	*	*	*
+20	Schluß	Schluss	NN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	der	die	PRELS	*	*	*	*
+23	das	die	ART	*	*	*	*
+24	Publikum	Publikum	NN	*	*	*	*
+25	aus	aus	APPR	*	*	*	*
+26	dem	die	ART	*	*	*	*
+27	Schlummer	Schlummer	NN	*	*	*	*
+28	riß	reißen	VVFIN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	eine	eine	ART	*	*	*	*
+31	unfreiwillige	unfreiwillig	ADJA	*	*	*	*
+32	Pointe	Pointe	NN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	aber	aber	ADV	*	*	*	*
+35	kein	keine	PIAT	*	*	*	*
+36	"	"	$(	*	*	*	*
+37	finaler	final	ADJA	*	*	*	*
+38	Rettungsschuß	Rettungsschuss	NN	*	*	*	*
+39	"	"	$(	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	wie	wie	KOKOM	*	*	*	*
+42	bissige	bissig	ADJA	*	*	*	*
+43	Stimmen	Stimme|Stimmen	NN	*	*	*	*
+44	flüsterten	flüstern	VVFIN	*	*	*	*
+45	,	,	$,	*	*	*	*
+46	denn	denn	KON	*	*	*	*
+47	an	an	APPR	*	*	*	*
+48	dieser	dies	PDAT	*	*	*	*
+49	Inszenierung	Inszenierung	NN	*	*	*	*
+50	war	sein	VAFIN	*	*	*	*
+51	nichts	nichts	PIS	*	*	*	*
+52	mehr	mehr	ADV	*	*	*	*
+53	zu	zu	PTKZU	*	*	*	*
+54	retten	retten	VVINF	*	*	*	*
+55	,	,	$,	*	*	*	*
+56	und	und	KON	*	*	*	*
+57	am	an	APPRART	3	1	1	1
+58	Boden	Boden	NN	3	1	1	1
+59	lag	liegen	VVFIN	3	1	1	1
+60	am	an	APPRART	*	*	*	*
+61	Ende	Ende	NN	*	*	*	*
+62	nicht	nicht	PTKNEG	*	*	*	*
+63	nur	nur	ADV	*	*	*	*
+64	der	die	ART	*	*	*	*
+65	Marquis	<unknown>	NN	*	*	*	*
+66	,	,	$,	*	*	*	*
+67	sondern	sondern	KON	*	*	*	*
+68	der	die	ART	*	*	*	*
+69	Ruf	Ruf	NN	*	*	*	*
+70	des	die	ART	*	*	*	*
+71	Theaters	Theater	NN	*	*	*	*
+72	.	.	$.	*	*	*	*
+
+# article_id = T881105.28
+# text = Das gesamte Regenwaldgebiet an der Costa Atlantica ist gefällt , rund eine Million Kubikmeter Holz liegt am Boden und wird dort wahrscheinlich verfaulend Myriaden von Bakterien nähren , die das empfindliche Ökosystem dieses Waldes vollends zum Zusammenbruch bringen , während andernorts mangels Bergungs- und Transportmöglichkeiten Brennholz und Bretter fehlen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	gesamte	gesamt	ADJA	*	*	*	*
+3	Regenwaldgebiet	Regenwaldgebiet	NN	*	*	*	*
+4	an	an	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Costa	Costa	NE	*	*	*	*
+7	Atlantica	<unknown>	NE	*	*	*	*
+8	ist	sein	VAFIN	*	*	*	*
+9	gefällt	fällen	VVPP	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	rund	rund	ADV	*	*	*	*
+12	eine	eine	ART	*	*	*	*
+13	Million	Million	NN	*	*	*	*
+14	Kubikmeter	Kubikmeter	NN	*	*	*	*
+15	Holz	Holz	NN	*	*	*	*
+16	liegt	liegen	VVFIN	1	1	1	1
+17	am	an	APPRART	1	1	1	1
+18	Boden	Boden	NN	1	1	1	1
+19	und	und	KON	*	*	*	*
+20	wird	werden	VAFIN	*	*	*	*
+21	dort	dort	ADV	*	*	*	*
+22	wahrscheinlich	wahrscheinlich	ADJD	*	*	*	*
+23	verfaulend	<unknown>	ADJD	*	*	*	*
+24	Myriaden	Myriade	NN	*	*	*	*
+25	von	von	APPR	*	*	*	*
+26	Bakterien	Bakterium	NN	*	*	*	*
+27	nähren	nähren	VVFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	die	die	PRELS	*	*	*	*
+30	das	die	ART	*	*	*	*
+31	empfindliche	empfindlich	ADJA	*	*	*	*
+32	Ökosystem	Ökosystem	NN	*	*	*	*
+33	dieses	dies	PDAT	*	*	*	*
+34	Waldes	Wald	NN	*	*	*	*
+35	vollends	vollends	ADV	*	*	*	*
+36	zum	zu	APPRART	*	*	*	*
+37	Zusammenbruch	Zusammenbruch	NN	*	*	*	*
+38	bringen	bringen	VVINF	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	während	während	KOUS	*	*	*	*
+41	andernorts	andernorts	ADV	*	*	*	*
+42	mangels	mangels	APPR	*	*	*	*
+43	Bergungs-	Bergungs-	TRUNC	*	*	*	*
+44	und	und	KON	*	*	*	*
+45	Transportmöglichkeiten	Transportmöglichkeit	NN	*	*	*	*
+46	Brennholz	Brennholz	NN	*	*	*	*
+47	und	und	KON	*	*	*	*
+48	Bretter	Brett	NN	*	*	*	*
+49	fehlen	fehlen	VVINF	*	*	*	*
+50	werden	werden	VAFIN	*	*	*	*
+51	.	.	$.	*	*	*	*
+
+# article_id = T861223.80
+# text = Die Iraner wußten gleichfalls , woran ihnen gelegen war : an Ersatzteilen für die weitgehend am Boden liegende Luftwaffe , die noch aus Zeiten des Schah stammte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Iraner	Iraner	NN	*	*	*	*
+3	wußten	wissen	VVFIN	*	*	*	*
+4	gleichfalls	gleichfalls	ADV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	woran	woran	PWAV	*	*	*	*
+7	ihnen	sie	PPER	*	*	*	*
+8	gelegen	liegen	VVPP	2	1	2	2
+9	war	sein	VAFIN	*	*	*	*
+10	:	:	$.	*	*	*	*
+11	an	an	APPR	*	*	*	*
+12	Ersatzteilen	Ersatzteil	NN	*	*	*	*
+13	für	für	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	weitgehend	weitgehend	ADJD	*	*	*	*
+16	am	an	APPRART	2	1	2	2
+17	Boden	Boden	NN	2	1	2	2
+18	liegende	liegend	ADJA	*	*	*	*
+19	Luftwaffe	Luftwaffe	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	die	die	PRELS	*	*	*	*
+22	noch	noch	ADV	*	*	*	*
+23	aus	aus	APPR	*	*	*	*
+24	Zeiten	Zeit	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	Schah	Schah	NN	*	*	*	*
+27	stammte	stammen	VVFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T930617.79
+# text = Pakistanische Soldaten schießen in eine aufgebrachte Menge von Zivilisten , Frauen und Kinder bleiben tot oder verletzt am Boden liegen - geradezu atavistische Rache für den Mord an 23 UN-pakistanischen Soldaten kurze Zeit zuvor .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Pakistanische	pakistanisch	ADJA	*	*	*	*
+2	Soldaten	Soldat	NN	*	*	*	*
+3	schießen	schießen	VVFIN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	aufgebrachte	aufgebracht	ADJA	*	*	*	*
+7	Menge	Menge	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Zivilisten	Zivilist	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Frauen	Frau	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Kinder	Kind	NN	*	*	*	*
+14	bleiben	bleiben	VVFIN	*	*	*	*
+15	tot	tot	ADJD	*	*	*	*
+16	oder	oder	KON	*	*	*	*
+17	verletzt	verletzen	VVFIN	*	*	*	*
+18	am	an	APPRART	1	1	1	1
+19	Boden	Boden	NN	1	1	1	1
+20	liegen	liegen	VVFIN	1	1	1	1
+21	-	-	$(	*	*	*	*
+22	geradezu	geradezu	ADV	*	*	*	*
+23	atavistische	atavistisch	ADJA	*	*	*	*
+24	Rache	Rache	NN	*	*	*	*
+25	für	für	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	Mord	Mord	NN	*	*	*	*
+28	an	an	APPR	*	*	*	*
+29	23	@card@	CARD	*	*	*	*
+30	UN-pakistanischen	<unknown>	NN	*	*	*	*
+31	Soldaten	Soldat	NN	*	*	*	*
+32	kurze	kurz	ADJA	*	*	*	*
+33	Zeit	Zeit	NN	*	*	*	*
+34	zuvor	zuvor	PTKVZ	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T930116.80
+# text = Aber an wen sollen sich die gequälten Staatsbürger wenden , wenn Leviathan am Boden liegt , Behemoth triumphiert und weit und breit kein starker Arm zu sehen ist ?
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Aber	aber	ADV	*	*	*	*
+2	an	an	PTKVZ	*	*	*	*
+3	wen	wer	PWS	*	*	*	*
+4	sollen	sollen	VMFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	gequälten	gequält	ADJA	*	*	*	*
+8	Staatsbürger	Staatsbürger	NN	*	*	*	*
+9	wenden	wenden	VVINF	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	wenn	wenn	KOUS	*	*	*	*
+12	Leviathan	<unknown>	NE	*	*	*	*
+13	am	an	APPRART	2	2	2	2
+14	Boden	Boden	NN	2	2	2	2
+15	liegt	liegen	VVFIN	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	Behemoth	<unknown>	NN	*	*	*	*
+18	triumphiert	triumphieren	VVPP	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	weit	weit	ADJD	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	breit	breit	ADJD	*	*	*	*
+23	kein	keine	PIAT	*	*	*	*
+24	starker	stark	ADJA	*	*	*	*
+25	Arm	Arm	NN	*	*	*	*
+26	zu	zu	PTKZU	*	*	*	*
+27	sehen	sehen	VVINF	*	*	*	*
+28	ist	sein	VAFIN	*	*	*	*
+29	?	?	$.	*	*	*	*
+
+# article_id = T930703.6
+# text = Wie das Innenministerium erklärte , haben alle sechs an der Aktion in Bad Kleinen beteiligten GSG-9-Beamten bestritten , den am Boden liegenden Wolfgang Grams erschossen zu haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	Innenministerium	Innenministerium	NN	*	*	*	*
+4	erklärte	erklären	VVFIN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	haben	haben	VAFIN	*	*	*	*
+7	alle	alle	PIAT	*	*	*	*
+8	sechs	sechs	CARD	*	*	*	*
+9	an	an	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Aktion	Aktion	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	Bad	Bad	NE	*	*	*	*
+14	Kleinen	Kleine	NN	*	*	*	*
+15	beteiligten	beteiligt	ADJA	*	*	*	*
+16	GSG-9-Beamten	GSG-9-Beamter	NN	*	*	*	*
+17	bestritten	bestreiten	VVPP	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	den	die	PRELS	*	*	*	*
+20	am	an	APPRART	1	1	1	1
+21	Boden	Boden	NN	1	1	1	1
+22	liegenden	liegend	ADJA	1	1	1	1
+23	Wolfgang	Wolfgang	NE	*	*	*	*
+24	Grams	Gram	NN	*	*	*	*
+25	erschossen	erschießen	VVPP	*	*	*	*
+26	zu	zu	PTKZU	*	*	*	*
+27	haben	haben	VAINF	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T930703.22
+# text = Ministeriumssprecher Bachmaier betonte gestern , daß eine nochmalige Befragung der sechs " an Zugriff und Schußwechsel " beteiligten GSG 9-Beamten ergeben habe , daß keiner von ihnen auf den am Boden liegenden Grams geschossen oder einen " aufgesetzten Schuß " abgegeben haben will .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ministeriumssprecher	Ministeriumssprecher	NN	*	*	*	*
+2	Bachmaier	Bachmaier	NE	*	*	*	*
+3	betonte	betonen	VVFIN	*	*	*	*
+4	gestern	gestern	ADV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	eine	eine	ART	*	*	*	*
+8	nochmalige	nochmalig	ADJA	*	*	*	*
+9	Befragung	Befragung	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	sechs	sechs	CARD	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	an	an	APPR	*	*	*	*
+14	Zugriff	Zugriff	NN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	Schußwechsel	Schusswechsel	NN	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	beteiligten	beteiligen	VVFIN	*	*	*	*
+19	GSG	<unknown>	NE	*	*	*	*
+20	9-Beamten	9-Beamter	NN	*	*	*	*
+21	ergeben	ergeben	VVPP	*	*	*	*
+22	habe	haben	VAFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	daß	dass	KOUS	*	*	*	*
+25	keiner	keine	PIS	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	ihnen	sie	PPER	*	*	*	*
+28	auf	auf	APPR	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	am	an	APPRART	1	1	1	1
+31	Boden	Boden	NN	1	1	1	1
+32	liegenden	liegend	ADJA	1	1	1	1
+33	Grams	Gram	NN	*	*	*	*
+34	geschossen	schießen	VVPP	*	*	*	*
+35	oder	oder	KON	*	*	*	*
+36	einen	eine	ART	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	aufgesetzten	aufgesetzt	ADJA	*	*	*	*
+39	Schuß	Schuss	NN	*	*	*	*
+40	"	"	$(	*	*	*	*
+41	abgegeben	abgeben	VVPP	*	*	*	*
+42	haben	haben	VAINF	*	*	*	*
+43	will	wollen	VMFIN	*	*	*	*
+44	.	.	$.	*	*	*	*
+
+# article_id = T930727.85
+# text = Die ehemals zahlreichen Touristen bleiben aus , tägliche Stromsperren an der Küste verändern und erschweren den Tagesablauf , das Wirtschaftsleben liegt am Boden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	ehemals	ehemals	ADV	*	*	*	*
+3	zahlreichen	zahlreich	ADJA	*	*	*	*
+4	Touristen	Tourist	NN	*	*	*	*
+5	bleiben	bleiben	VVFIN	*	*	*	*
+6	aus	aus	PTKVZ	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	tägliche	täglich	ADJA	*	*	*	*
+9	Stromsperren	Stromsperre	NN	*	*	*	*
+10	an	an	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Küste	Küste	NN	*	*	*	*
+13	verändern	verändern	VVINF	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	erschweren	erschweren	VVFIN	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	Tagesablauf	Tagesablauf	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	Wirtschaftsleben	Wirtschaftsleben	NN	*	*	*	*
+21	liegt	liegen	VVFIN	2	2	2	2
+22	am	an	APPRART	2	2	2	2
+23	Boden	Boden	NN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T930707.80
+# text = Beide , eine Kioskbesitzerin auf dem Bahnhof und ein beim Einsatz anwesender Polizeibeamter , führten unabhängig voneinander an , der reglos am Boden liegende Grams sei von einem Polizisten aus nächster Nähe in den Kopf geschossen worden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beide	beide	PIS	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	eine	eine	ART	*	*	*	*
+4	Kioskbesitzerin	Kioskbesitzerin	NN	*	*	*	*
+5	auf	auf	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	Bahnhof	Bahnhof	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	beim	bei	APPRART	*	*	*	*
+11	Einsatz	Einsatz	NN	*	*	*	*
+12	anwesender	anwesend	ADJA	*	*	*	*
+13	Polizeibeamter	Polizeibeamte	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	führten	führen	VVFIN	*	*	*	*
+16	unabhängig	unabhängig	ADJD	*	*	*	*
+17	voneinander	voneinander	ADV	*	*	*	*
+18	an	an	PTKVZ	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	der	die	PRELS	*	*	*	*
+21	reglos	reglos	ADJD	*	*	*	*
+22	am	an	APPRART	1	1	1	1
+23	Boden	Boden	NN	1	1	1	1
+24	liegende	liegend	ADJA	1	1	1	1
+25	Grams	Gram	NN	*	*	*	*
+26	sei	sein	VAFIN	*	*	*	*
+27	von	von	APPR	*	*	*	*
+28	einem	eine	ART	*	*	*	*
+29	Polizisten	Polizist	NN	*	*	*	*
+30	aus	aus	APPR	*	*	*	*
+31	nächster	nah	ADJA	*	*	*	*
+32	Nähe	Nähe	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	den	die	ART	*	*	*	*
+35	Kopf	Kopf	NN	*	*	*	*
+36	geschossen	schießen	VVPP	*	*	*	*
+37	worden	werden	VAPP	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T931116.95
+# text = Auch bevor er sich auf den am Boden liegenden Sohn legt und ihn so mit der eigenen Körperfülle ersticken will , kündigt er seine Handlung leise , wie resigniert an : " Jetzt aber mach ich 's kurz .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Auch	auch	ADV	*	*	*	*
+2	bevor	bevor	KOUS	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	auf	auf	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	am	an	APPRART	1	1	1	1
+8	Boden	Boden	NN	1	1	1	1
+9	liegenden	liegend	ADJA	1	1	1	1
+10	Sohn	Sohn	NN	*	*	*	*
+11	legt	legen	VVFIN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	ihn	er	PPER	*	*	*	*
+14	so	so	ADV	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	eigenen	eigen	ADJA	*	*	*	*
+18	Körperfülle	Körperfülle	NN	*	*	*	*
+19	ersticken	ersticken	VVINF	*	*	*	*
+20	will	wollen	VMFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	kündigt	kündigen	VVFIN	*	*	*	*
+23	er	er	PPER	*	*	*	*
+24	seine	sein	PPOSAT	*	*	*	*
+25	Handlung	Handlung	NN	*	*	*	*
+26	leise	leise	ADJD	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	wie	wie	KOKOM	*	*	*	*
+29	resigniert	resigniert	ADJD	*	*	*	*
+30	an	an	PTKVZ	*	*	*	*
+31	:	:	$.	*	*	*	*
+32	"	"	$(	*	*	*	*
+33	Jetzt	jetzt	ADV	*	*	*	*
+34	aber	aber	KON	*	*	*	*
+35	mach	machen	VVIMP	*	*	*	*
+36	ich	ich	PPER	*	*	*	*
+37	's	es	PPER	*	*	*	*
+38	kurz	kurz	ADJD	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T961012.252
+# text = Ein Mann liegt bäuchlings ausgestreckt am Boden , ein anderer kriecht auf Knien an der Wand entlang .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Mann	Mann	NN	*	*	*	*
+3	liegt	liegen	VVFIN	1	1	1	1
+4	bäuchlings	bäuchlings	ADV	*	*	*	*
+5	ausgestreckt	ausstrecken	VVPP	*	*	*	*
+6	am	an	APPRART	1	1	1	1
+7	Boden	Boden	NN	1	1	1	1
+8	,	,	$,	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	anderer	andere	PIS	*	*	*	*
+11	kriecht	kriechen	VVFIN	*	*	*	*
+12	auf	auf	APPR	*	*	*	*
+13	Knien	Knie|Knien	NN	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Wand	Wand	NN	*	*	*	*
+17	entlang	entlang	PTKVZ	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T960712.378
+# text = Doch selbst wenn gerichtlich festgestellt würde , daß Aslam tatsächlich geschlagen und , wie er selbst zu Protokoll gab , am Boden liegend getreten worden ist , würde das nichts an seinem Schicksal ändern : " Es handelt sich um eine ausländerrechtlich klare Entscheidung " , sagt Norbert Smekal , Pressesprecher der Ausländerbehörde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	selbst	selbst	ADV	*	*	*	*
+3	wenn	wenn	KOUS	*	*	*	*
+4	gerichtlich	gerichtlich	ADJD	*	*	*	*
+5	festgestellt	feststellen	VVPP	*	*	*	*
+6	würde	werden	VAFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	Aslam	<unknown>	NN	*	*	*	*
+10	tatsächlich	tatsächlich	ADJD	*	*	*	*
+11	geschlagen	schlagen	VVPP	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wie	wie	KOUS	*	*	*	*
+15	er	er	PPER	*	*	*	*
+16	selbst	selbst	ADV	*	*	*	*
+17	zu	zu	APPR	*	*	*	*
+18	Protokoll	Protokoll	NN	*	*	*	*
+19	gab	geben	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	am	an	APPRART	1	1	1	1
+22	Boden	Boden	NN	1	1	1	1
+23	liegend	liegend	ADJD	1	1	1	1
+24	getreten	treten	VVPP	*	*	*	*
+25	worden	werden	VAPP	*	*	*	*
+26	ist	sein	VAFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	würde	werden	VAFIN	*	*	*	*
+29	das	die	ART	*	*	*	*
+30	nichts	nichts	PIS	*	*	*	*
+31	an	an	APPR	*	*	*	*
+32	seinem	sein	PPOSAT	*	*	*	*
+33	Schicksal	Schicksal	NN	*	*	*	*
+34	ändern	ändern	VVINF	*	*	*	*
+35	:	:	$.	*	*	*	*
+36	"	"	$(	*	*	*	*
+37	Es	es	PPER	*	*	*	*
+38	handelt	handeln	VVFIN	*	*	*	*
+39	sich	sich	PRF	*	*	*	*
+40	um	um	APPR	*	*	*	*
+41	eine	eine	ART	*	*	*	*
+42	ausländerrechtlich	ausländerrechtlich	ADJD	*	*	*	*
+43	klare	klar	ADJA	*	*	*	*
+44	Entscheidung	Entscheidung	NN	*	*	*	*
+45	"	"	$(	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	sagt	sagen	VVFIN	*	*	*	*
+48	Norbert	Norbert	NE	*	*	*	*
+49	Smekal	<unknown>	VVFIN	*	*	*	*
+50	,	,	$,	*	*	*	*
+51	Pressesprecher	Pressesprecher	NN	*	*	*	*
+52	der	die	ART	*	*	*	*
+53	Ausländerbehörde	Ausländerbehörde	NN	*	*	*	*
+54	.	.	$.	*	*	*	*
+
+# article_id = T981022.309
+# text = Dieser " magische Realismus " nimmt nach der Emigration in die Vereinigten Staaten zum Teil bedrohliche Züge an : In " Back of Things " wird ein Mann , am Boden liegend , von zwei Dominas bedroht .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Dieser	dies	PDAT	*	*	*	*
+2	"	"	$(	*	*	*	*
+3	magische	magisch	ADJA	*	*	*	*
+4	Realismus	Realismus	NN	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	nimmt	nehmen	VVFIN	*	*	*	*
+7	nach	nach	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Emigration	Emigration	NN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Vereinigten	Vereinigter	NN	*	*	*	*
+13	Staaten	Staat	NN	*	*	*	*
+14	zum	zu	APPRART	*	*	*	*
+15	Teil	Teil	NN	*	*	*	*
+16	bedrohliche	bedrohlich	ADJA	*	*	*	*
+17	Züge	Zug	NN	*	*	*	*
+18	an	an	PTKVZ	*	*	*	*
+19	:	:	$.	*	*	*	*
+20	In	in	APPR	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	Back	Back	NN	*	*	*	*
+23	of	of	FM	*	*	*	*
+24	Things	<unknown>	NE	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	wird	werden	VAFIN	*	*	*	*
+27	ein	eine	ART	*	*	*	*
+28	Mann	Mann	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	am	an	APPRART	1	1	3	1
+31	Boden	Boden	NN	1	1	3	1
+32	liegend	liegend	ADJD	1	1	3	1
+33	,	,	$,	*	*	*	*
+34	von	von	APPR	*	*	*	*
+35	zwei	zwei	CARD	*	*	*	*
+36	Dominas	Domina	NN	*	*	*	*
+37	bedroht	bedrohen	VVPP	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T980815.294
+# text = Der eine , Thon , war eine Art Spielmacher und Dribbler , veränderte Arbeitsauffassung und Stil , paßte sie den modernen , internationalen Gegebenheiten des Spiels an , führte das am Boden liegende Schalke mit etwas Glück und viel System zu internationalem Erfolg .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	eine	eine	PIS	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	Thon	Thon	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	war	sein	VAFIN	*	*	*	*
+7	eine	eine	ART	*	*	*	*
+8	Art	Art	NN	*	*	*	*
+9	Spielmacher	Spielmacher	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Dribbler	<unknown>	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	veränderte	verändert	ADJA	*	*	*	*
+14	Arbeitsauffassung	Arbeitsauffassung	NN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	Stil	Stil	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	paßte	passen	VVFIN	*	*	*	*
+19	sie	sie	PPER	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	modernen	modern	ADJA	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	internationalen	international	ADJA	*	*	*	*
+24	Gegebenheiten	Gegebenheit	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	Spiels	Spiel	NN	*	*	*	*
+27	an	an	PTKVZ	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	führte	führen	VVFIN	*	*	*	*
+30	das	die	PDS	*	*	*	*
+31	am	an	APPRART	2	2	2	2
+32	Boden	Boden	NN	2	2	2	2
+33	liegende	liegend	ADJA	2	2	2	2
+34	Schalke	Schalk	NN	*	*	*	*
+35	mit	mit	APPR	*	*	*	*
+36	etwas	etwas	PIAT	*	*	*	*
+37	Glück	Glück	NN	*	*	*	*
+38	und	und	KON	*	*	*	*
+39	viel	viele	PIAT	*	*	*	*
+40	System	System	NN	*	*	*	*
+41	zu	zu	APPR	*	*	*	*
+42	internationalem	international	ADJA	*	*	*	*
+43	Erfolg	Erfolg	NN	*	*	*	*
+44	.	.	$.	*	*	*	*
+
+# article_id = T980814.216
+# text = Da der Mann ein talentierter Erzähler ist , muß der Wanderer fast eine Stunde lang teilhaben an jenen Bildern von Granaten und Napalmbomben , die auf alles abgeworfen werden , was sich in der Sperrzone bewegt , Männer , Frauen , Tiere ; Dutzende am Boden liegende Körper , Massengräber , die mit Bulldozern ausgehoben und wieder zugeschüttet und mit Planierraupen eingeebnet wurden , so daß heute nichts mehr von ihnen zu erkennen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	KOUS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Mann	Mann	NN	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	talentierter	talentiert	ADJA	*	*	*	*
+6	Erzähler	Erzähler	NN	*	*	*	*
+7	ist	sein	VAFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	muß	müssen	VMFIN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Wanderer	Wanderer	NN	*	*	*	*
+12	fast	fast	ADV	*	*	*	*
+13	eine	eine	ART	*	*	*	*
+14	Stunde	Stunde	NN	*	*	*	*
+15	lang	lang	ADJD	*	*	*	*
+16	teilhaben	teilhaben	VVFIN	*	*	*	*
+17	an	an	APPR	*	*	*	*
+18	jenen	jen	PDAT	*	*	*	*
+19	Bildern	Bild	NN	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	Granaten	Granat|Granate	NN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	Napalmbomben	Napalmbombe	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	die	die	PRELS	*	*	*	*
+26	auf	auf	APPR	*	*	*	*
+27	alles	alle	PIS	*	*	*	*
+28	abgeworfen	abwerfen	VVPP	*	*	*	*
+29	werden	werden	VAINF	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	was	was	PRELS	*	*	*	*
+32	sich	sich	PRF	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	Sperrzone	Sperrzone	NN	*	*	*	*
+36	bewegt	bewegen	VVFIN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	Männer	Mann	NN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	Frauen	Frau	NN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	Tiere	Tier	NN	*	*	*	*
+43	;	;	$.	*	*	*	*
+44	Dutzende	Dutzend	NN	*	*	*	*
+45	am	an	APPRART	1	1	1	1
+46	Boden	Boden	NN	1	1	1	1
+47	liegende	liegend	ADJA	1	1	1	1
+48	Körper	Körper	NN	*	*	*	*
+49	,	,	$,	*	*	*	*
+50	Massengräber	Massengrab	NN	*	*	*	*
+51	,	,	$,	*	*	*	*
+52	die	die	PRELS	*	*	*	*
+53	mit	mit	APPR	*	*	*	*
+54	Bulldozern	Bulldozer	NN	*	*	*	*
+55	ausgehoben	ausheben	VVPP	*	*	*	*
+56	und	und	KON	*	*	*	*
+57	wieder	wieder	ADV	*	*	*	*
+58	zugeschüttet	zuschütten	VVPP	*	*	*	*
+59	und	und	KON	*	*	*	*
+60	mit	mit	APPR	*	*	*	*
+61	Planierraupen	Planierraupe	NN	*	*	*	*
+62	eingeebnet	einebnen	VVPP	*	*	*	*
+63	wurden	werden	VAFIN	*	*	*	*
+64	,	,	$,	*	*	*	*
+65	so	so	ADV	*	*	*	*
+66	daß	dass	KOUS	*	*	*	*
+67	heute	heute	ADV	*	*	*	*
+68	nichts	nichts	PIS	*	*	*	*
+69	mehr	mehr	ADV	*	*	*	*
+70	von	von	APPR	*	*	*	*
+71	ihnen	sie	PPER	*	*	*	*
+72	zu	zu	PTKZU	*	*	*	*
+73	erkennen	erkennen	VVINF	*	*	*	*
+74	ist	sein	VAFIN	*	*	*	*
+75	.	.	$.	*	*	*	*
+
+# article_id = T980219.272
+# text = Sekunden später liegt Marie ausgestreckt am Boden , krampfhaft preßt sie ein Stück Seide an ihre Brust , auf ihrem Gesicht ekstatische Glückseligkeit .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Sekunden	Sekunde	NN	*	*	*	*
+2	später	spät	ADJD	*	*	*	*
+3	liegt	liegen	VVFIN	1	1	1	1
+4	Marie	Marie	NE	*	*	*	*
+5	ausgestreckt	ausstrecken	VVPP	*	*	*	*
+6	am	an	APPRART	1	1	1	1
+7	Boden	Boden	NN	1	1	1	1
+8	,	,	$,	*	*	*	*
+9	krampfhaft	krampfhaft	ADJD	*	*	*	*
+10	preßt	pressen	VVFIN	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	ein	eine	ART	*	*	*	*
+13	Stück	Stück	NN	*	*	*	*
+14	Seide	Seide	NN	*	*	*	*
+15	an	an	APPR	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Brust	Brust	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	auf	auf	APPR	*	*	*	*
+20	ihrem	ihr	PPOSAT	*	*	*	*
+21	Gesicht	Gesicht	NN	*	*	*	*
+22	ekstatische	ekstatisch	ADJA	*	*	*	*
+23	Glückseligkeit	Glückseligkeit	NN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T970802.52
+# text = Die Anti- AKW-Bewegung , die 60.000 Menschen an den Bauplatz mobilisiert hatte , lag am Boden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Anti-	Anti-	TRUNC	*	*	*	*
+3	AKW-Bewegung	AKW-Bewegung	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	60.000	@card@	CARD	*	*	*	*
+7	Menschen	Mensch	NN	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Bauplatz	Bauplatz	NN	*	*	*	*
+11	mobilisiert	mobilisieren	VVPP	*	*	*	*
+12	hatte	haben	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	lag	liegen	VVFIN	2	2	2	2
+15	am	an	APPRART	2	2	2	2
+16	Boden	Boden	NN	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T970207.145
+# text = Die kalkulierte Ausgewogenheit zwischen Folk-Wurzeln und kosmopolitischem Rockpop-Potential , die auf " Ne La Thiass " im dezenten Einsatz akustischer und elektrischer Instrumentierung zum Ausdruck kommt , birgt das Modell , mit dem die senegalesische Musikindustrie den Anschluß an andere Exportgüter sucht : Das wirtschaftlich am Boden liegende Land ist größter Erdnußexporteur der Welt und senegalesische Musik Spitzenreiter im allerdings marginalen Weltmusikmarkt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	kalkulierte	kalkuliert	ADJA	*	*	*	*
+3	Ausgewogenheit	Ausgewogenheit	NN	*	*	*	*
+4	zwischen	zwischen	APPR	*	*	*	*
+5	Folk-Wurzeln	Folk-Wurzel	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	kosmopolitischem	kosmopolitisch	ADJA	*	*	*	*
+8	Rockpop-Potential	<unknown>	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	die	die	PRELS	*	*	*	*
+11	auf	auf	APPR	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	Ne	<unknown>	ADJA	*	*	*	*
+14	La	La	NE	*	*	*	*
+15	Thiass	<unknown>	NE	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	im	in	APPRART	*	*	*	*
+18	dezenten	dezent	ADJA	*	*	*	*
+19	Einsatz	Einsatz	NN	*	*	*	*
+20	akustischer	akustisch	ADJA	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	elektrischer	elektrisch	ADJA	*	*	*	*
+23	Instrumentierung	Instrumentierung	NN	*	*	*	*
+24	zum	zu	APPRART	*	*	*	*
+25	Ausdruck	Ausdruck	NN	*	*	*	*
+26	kommt	kommen	VVFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	birgt	bergen	VVFIN	*	*	*	*
+29	das	die	ART	*	*	*	*
+30	Modell	Modell	NN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	mit	mit	APPR	*	*	*	*
+33	dem	die	PRELS	*	*	*	*
+34	die	die	ART	*	*	*	*
+35	senegalesische	senegalesisch	ADJA	*	*	*	*
+36	Musikindustrie	Musikindustrie	NN	*	*	*	*
+37	den	die	ART	*	*	*	*
+38	Anschluß	Anschluss	NN	*	*	*	*
+39	an	an	APPR	*	*	*	*
+40	andere	andere	PIS	*	*	*	*
+41	Exportgüter	Exportgut	NN	*	*	*	*
+42	sucht	suchen	VVFIN	*	*	*	*
+43	:	:	$.	*	*	*	*
+44	Das	die	PRELS	*	*	*	*
+45	wirtschaftlich	wirtschaftlich	ADJD	*	*	*	*
+46	am	an	APPRART	2	2	2	2
+47	Boden	Boden	NN	2	2	2	2
+48	liegende	liegend	ADJA	2	2	2	2
+49	Land	Land	NN	*	*	*	*
+50	ist	sein	VAFIN	*	*	*	*
+51	größter	groß	ADJA	*	*	*	*
+52	Erdnußexporteur	<unknown>	NN	*	*	*	*
+53	der	die	ART	*	*	*	*
+54	Welt	Welt	NN	*	*	*	*
+55	und	und	KON	*	*	*	*
+56	senegalesische	senegalesisch	ADJA	*	*	*	*
+57	Musik	Musik	NN	*	*	*	*
+58	Spitzenreiter	Spitzenreiter	NN	*	*	*	*
+59	im	in	APPRART	*	*	*	*
+60	allerdings	allerdings	ADV	*	*	*	*
+61	marginalen	marginal	ADJA	*	*	*	*
+62	Weltmusikmarkt	<unknown>	NN	*	*	*	*
+63	.	.	$.	*	*	*	*
+
+# article_id = T940604.351
+# text = Das kündigte gestern der innenpolitische Sprecher der Grünen und " Kritische Polizist " Manfred Mahr an : " Beamte , die wehrlos am Boden liegende Demonstranten mißhandeln , haben in diesem Beruf nichts zu suchen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	kündigte	kündigen	VVFIN	*	*	*	*
+3	gestern	gestern	ADV	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	innenpolitische	innenpolitisch	ADJA	*	*	*	*
+6	Sprecher	Sprecher	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Grünen	Grüne	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Kritische	kritisch	ADJA	*	*	*	*
+12	Polizist	Polizist	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	Manfred	Manfred	NE	*	*	*	*
+15	Mahr	Mahr	NN	*	*	*	*
+16	an	an	PTKVZ	*	*	*	*
+17	:	:	$.	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	Beamte	Beamter	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	die	die	PRELS	*	*	*	*
+22	wehrlos	wehrlos	ADJD	*	*	*	*
+23	am	an	APPRART	1	1	1	1
+24	Boden	Boden	NN	1	1	1	1
+25	liegende	liegend	ADJA	1	1	1	1
+26	Demonstranten	Demonstrant	NN	*	*	*	*
+27	mißhandeln	misshandeln	VVINF	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	haben	haben	VAFIN	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	diesem	dies	PDAT	*	*	*	*
+32	Beruf	Beruf	NN	*	*	*	*
+33	nichts	nichts	PIS	*	*	*	*
+34	zu	zu	PTKZU	*	*	*	*
+35	suchen	suchen	VVINF	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T940603.174
+# text = Einer gab an , nach einer Feuerpause von einer zweiten Kugel getroffen worden zu sein , als er bereits verwundet am Boden gelegen habe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Einer	eine	PIS	*	*	*	*
+2	gab	geben	VVFIN	*	*	*	*
+3	an	an	PTKVZ	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	nach	nach	APPR	*	*	*	*
+6	einer	eine	ART	*	*	*	*
+7	Feuerpause	Feuerpause	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	einer	eine	ART	*	*	*	*
+10	zweiten	zweit	ADJA	*	*	*	*
+11	Kugel	Kugel	NN	*	*	*	*
+12	getroffen	getroffen	ADJD	*	*	*	*
+13	worden	werden	VAPP	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	sein	sein	VAINF	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	als	als	KOUS	*	*	*	*
+18	er	er	PPER	*	*	*	*
+19	bereits	bereits	ADV	*	*	*	*
+20	verwundet	verwunden	VVPP	*	*	*	*
+21	am	an	APPRART	1	1	1	1
+22	Boden	Boden	NN	1	1	1	1
+23	gelegen	liegen	VVPP	1	1	1	1
+24	habe	haben	VAFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T941221.173
+# text = Die Inszenierung von Holger Papp - seine erste eigene Regiearbeit nach der Regieassistenz an den Hamburger Kammerspielen - erfindet weitere Symbole : Zu Beginn stellt die Frau eine zerbrochen am Boden liegende Statue aufs Piedestal , die am Ende wieder umgestoßen wird .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Die	die	ART	*	*	*	*
+2	Inszenierung	Inszenierung	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Holger	Holger	NE	*	*	*	*
+5	Papp	Papp	NN	*	*	*	*
+6	-	-	$(	*	*	*	*
+7	seine	sein	PPOSAT	*	*	*	*
+8	erste	erst	ADJA	*	*	*	*
+9	eigene	eigen	ADJA	*	*	*	*
+10	Regiearbeit	Regiearbeit	NN	*	*	*	*
+11	nach	nach	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Regieassistenz	Regieassistenz	NN	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	Hamburger	Hamburger	ADJA	*	*	*	*
+17	Kammerspielen	Kammerspiel	NN	*	*	*	*
+18	-	-	$(	*	*	*	*
+19	erfindet	erfinden	VVFIN	*	*	*	*
+20	weitere	weit	ADJA	*	*	*	*
+21	Symbole	Symbol	NN	*	*	*	*
+22	:	:	$.	*	*	*	*
+23	Zu	zu	APPR	*	*	*	*
+24	Beginn	Beginn	NN	*	*	*	*
+25	stellt	stellen	VVFIN	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	Frau	Frau	NN	*	*	*	*
+28	eine	eine	PIS	*	*	*	*
+29	zerbrochen	zerbrechen	VVPP	*	*	*	*
+30	am	an	APPRART	1	1	1	1
+31	Boden	Boden	NN	1	1	1	1
+32	liegende	liegend	ADJA	1	1	1	1
+33	Statue	Statue	NN	*	*	*	*
+34	aufs	aufs	APPRART	*	*	*	*
+35	Piedestal	Piedestal	NN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	die	die	PRELS	*	*	*	*
+38	am	an	APPRART	*	*	*	*
+39	Ende	Ende	NN	*	*	*	*
+40	wieder	wieder	ADV	*	*	*	*
+41	umgestoßen	umstoßen	VVPP	*	*	*	*
+42	wird	werden	VAFIN	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T940312.237
+# text = Eine Wende kündigt sich in Zeitlupe an : Die Gedemütigte tritt zu , bis die Herrin mit zersplittertem Schienbein am Boden liegt , verletzt und auf Hilfe angewiesen ; das Bibbelreich stürzt zusammen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	eine	ART	*	*	*	*
+2	Wende	Wende	NN	*	*	*	*
+3	kündigt	kündigen	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Zeitlupe	Zeitlupe	NN	*	*	*	*
+7	an	an	PTKVZ	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	Die	die	ART	*	*	*	*
+10	Gedemütigte	<unknown>	NN	*	*	*	*
+11	tritt	treten	VVFIN	*	*	*	*
+12	zu	zu	PTKVZ	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	bis	bis	KOUS	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Herrin	Herrin	NN	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	zersplittertem	zersplittert	ADJA	*	*	*	*
+19	Schienbein	Schienbein	NN	*	*	*	*
+20	am	an	APPRART	1	1	1	1
+21	Boden	Boden	NN	1	1	1	1
+22	liegt	liegen	VVFIN	1	1	1	1
+23	,	,	$,	*	*	*	*
+24	verletzt	verletzen	VVPP	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	auf	auf	APPR	*	*	*	*
+27	Hilfe	Hilfe	NN	*	*	*	*
+28	angewiesen	anweisen	VVPP	*	*	*	*
+29	;	;	$.	*	*	*	*
+30	das	die	ART	*	*	*	*
+31	Bibbelreich	<unknown>	NN	*	*	*	*
+32	stürzt	stürzen	VVFIN	*	*	*	*
+33	zusammen	zusammen	PTKVZ	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T950614.52
+# text = Einer dieser Personen habe sich neben die am Boden liegende Person gekniet , dieser eine Waffe an den Kopf gesetzt und abgedrückt " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Einer	eine	ART	*	*	*	*
+2	dieser	dies	PDAT	*	*	*	*
+3	Personen	Person	NN	*	*	*	*
+4	habe	haben	VAFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	neben	neben	APPR	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	am	an	APPRART	1	1	1	1
+9	Boden	Boden	NN	1	1	1	1
+10	liegende	liegend	ADJA	1	1	1	1
+11	Person	Person	NN	*	*	*	*
+12	gekniet	knieen	VVPP	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	dieser	diese	PDS	*	*	*	*
+15	eine	eine	ART	*	*	*	*
+16	Waffe	Waffe	NN	*	*	*	*
+17	an	an	APPR	*	*	*	*
+18	den	die	ART	*	*	*	*
+19	Kopf	Kopf	NN	*	*	*	*
+20	gesetzt	setzen	VVPP	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	abgedrückt	abdrücken	VVPP	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T950311.261
+# text = Mich erinnerten die am Boden liegenden Lemuren und Zerberusse , der Mann im Vogelkäfig und die Frau im Polyestervorhang entfernt an Fura dels Baus , Yesim fand das alles nur " Kaspar-Hauser-mäßig " .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Mich	ich	PPER	*	*	*	*
+2	erinnerten	erinnern	VVFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	am	an	APPRART	1	1	1	1
+5	Boden	Boden	NN	1	1	1	1
+6	liegenden	liegend	ADJA	1	1	1	1
+7	Lemuren	<unknown>	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Zerberusse	Zerberus	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Mann	Mann	NN	*	*	*	*
+13	im	in	APPRART	*	*	*	*
+14	Vogelkäfig	Vogelkäfig	NN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Frau	Frau	NN	*	*	*	*
+18	im	in	APPRART	*	*	*	*
+19	Polyestervorhang	<unknown>	NN	*	*	*	*
+20	entfernt	entfernt	ADJD	*	*	*	*
+21	an	an	APPR	*	*	*	*
+22	Fura	<unknown>	NN	*	*	*	*
+23	dels	<unknown>	NN	*	*	*	*
+24	Baus	Bau	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	Yesim	Yesim	NE	*	*	*	*
+27	fand	finden	VVFIN	*	*	*	*
+28	das	die	PDS	*	*	*	*
+29	alles	alle	PIS	*	*	*	*
+30	nur	nur	ADV	*	*	*	*
+31	"	"	$(	*	*	*	*
+32	Kaspar-Hauser-mäßig	<unknown>	ADJD	*	*	*	*
+33	"	"	$(	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T951103.116
+# text =  Ein Spiel , an das man sich noch lange erinnern kann " , freute sich Svetislav Pesic , " alle haben sie am Boden gelegen , und sie sind wieder aufgestanden .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	*	*	XY	*	*	*	*
+2	Ein	<unknown>	VVFIN	*	*	*	*
+3	Spiel	Spiel	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	an	an	APPR	*	*	*	*
+6	das	die	PRELS	*	*	*	*
+7	man	man	PIS	*	*	*	*
+8	sich	sich	PRF	*	*	*	*
+9	noch	noch	ADV	*	*	*	*
+10	lange	lange	ADV	*	*	*	*
+11	erinnern	erinnern	VVINF	*	*	*	*
+12	kann	können	VMFIN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	freute	freuen	VVFIN	*	*	*	*
+16	sich	sich	PRF	*	*	*	*
+17	Svetislav	Svetislav	NE	*	*	*	*
+18	Pesic	<unknown>	NE	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	alle	alle	PIS	*	*	*	*
+22	haben	haben	VAFIN	*	*	*	*
+23	sie	sie	PPER	2	4	4	4
+24	am	an	APPRART	2	4	4	4
+25	Boden	Boden	NN	2	4	4	4
+26	gelegen	liegen	VVPP	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	und	und	KON	*	*	*	*
+29	sie	sie	PPER	*	*	*	*
+30	sind	sein	VAFIN	*	*	*	*
+31	wieder	wieder	ADV	*	*	*	*
+32	aufgestanden	aufstehen	VVPP	*	*	*	*
+
+# article_id = T990422.44
+# text = An den Krieg im Kosovo ließ denken , was am Dienstag nachmittag über Amerikas Bildschirme flimmerte : Gepanzerte Fahrzeuge , hinter denen schwerbewaffnete Polizeitruppen vorrücken , leblose Körper , die am Boden liegen , blutüberströmte Verletzte , die abtransportiert werden , ganze Gruppen von Menschen , die mit erhobenen Armen im Laufschritt aus einem umkämpften Gebäude geführt werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	An	an	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Krieg	Krieg	NN	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Kosovo	Kosovo	NE	*	*	*	*
+6	ließ	lassen	VVFIN	*	*	*	*
+7	denken	denken	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	was	was	PRELS	*	*	*	*
+10	am	an	APPRART	*	*	*	*
+11	Dienstag	Dienstag	NN	*	*	*	*
+12	nachmittag	nachmittag	ADV	*	*	*	*
+13	über	über	APPR	*	*	*	*
+14	Amerikas	Amerika	NE	*	*	*	*
+15	Bildschirme	Bildschirm	NN	*	*	*	*
+16	flimmerte	flimmern	VVFIN	*	*	*	*
+17	:	:	$.	*	*	*	*
+18	Gepanzerte	gepanzert	ADJA	*	*	*	*
+19	Fahrzeuge	Fahrzeug	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	hinter	hinter	APPR	*	*	*	*
+22	denen	die	PRELS	*	*	*	*
+23	schwerbewaffnete	schwerbewaffnet	ADJA	*	*	*	*
+24	Polizeitruppen	Polizeitruppe	NN	*	*	*	*
+25	vorrücken	vorrücken	VVINF	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	leblose	leblos	ADJA	*	*	*	*
+28	Körper	Körper	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	die	die	PRELS	*	*	*	*
+31	am	an	APPRART	1	1	1	1
+32	Boden	Boden	NN	1	1	1	1
+33	liegen	liegen	VVFIN	1	1	1	1
+34	,	,	$,	*	*	*	*
+35	blutüberströmte	<unknown>	ADJA	*	*	*	*
+36	Verletzte	Verletzte	NN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	die	die	PRELS	*	*	*	*
+39	abtransportiert	abtransportieren	VVPP	*	*	*	*
+40	werden	werden	VAINF	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	ganze	ganz	ADJA	*	*	*	*
+43	Gruppen	Gruppe	NN	*	*	*	*
+44	von	von	APPR	*	*	*	*
+45	Menschen	Mensch	NN	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	die	die	PRELS	*	*	*	*
+48	mit	mit	APPR	*	*	*	*
+49	erhobenen	erhoben	ADJA	*	*	*	*
+50	Armen	Arm|Arme	NN	*	*	*	*
+51	im	in	APPRART	*	*	*	*
+52	Laufschritt	Laufschritt	NN	*	*	*	*
+53	aus	aus	APPR	*	*	*	*
+54	einem	eine	ART	*	*	*	*
+55	umkämpften	umkämpft	ADJA	*	*	*	*
+56	Gebäude	Gebäude	NN	*	*	*	*
+57	geführt	führen	VVPP	*	*	*	*
+58	werden	werden	VAINF	*	*	*	*
+59	.	.	$.	*	*	*	*
+
+# article_id = T990217.210
+# text = Während der Türke blutüberströmt am Boden liegt , flüchtet der Täter an der nächsten U-Bahn- Station .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	KOUS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Türke	Türke	NN	*	*	*	*
+4	blutüberströmt	blutüberströmt	ADJD	*	*	*	*
+5	am	an	APPRART	1	1	1	1
+6	Boden	Boden	NN	1	1	1	1
+7	liegt	liegen	VVFIN	1	1	1	1
+8	,	,	$,	*	*	*	*
+9	flüchtet	flüchten	VVFIN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Täter	Täter	NN	*	*	*	*
+12	an	an	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	nächsten	nah	ADJA	*	*	*	*
+15	U-Bahn-	U-Bahn-	TRUNC	*	*	*	*
+16	Station	Station	NN	*	*	*	*
+17	.	.	$.	*	*	*	*
+

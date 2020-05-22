@@ -1,0 +1,3703 @@
+# article_id = T890128.188
+# text = " Bisher hatte sich die intensive Schweinehaltung gelohnt , aber jetzt geht der Preis in den Keller " , legte einer der Bauern , Alois Schwarz , den Sinn des Ganzen of
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Bisher	bisher	ADV	*	*	*	*
+3	hatte	haben	VAFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	intensive	intensiv	ADJA	*	*	*	*
+7	Schweinehaltung	Schweinehaltung	NN	*	*	*	*
+8	gelohnt	lohnen	VVPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	aber	aber	KON	*	*	*	*
+11	jetzt	jetzt	ADV	*	*	*	*
+12	geht	gehen	VVFIN	2	2	2	2
+13	der	die	ART	*	*	*	*
+14	Preis	Preis	NN	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Keller	Keller	NN	2	2	2	2
+18	"	"	$(	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	legte	legen	VVFIN	*	*	*	*
+21	einer	eine	PIS	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Bauern	Bauer	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	Alois	Alois	NE	*	*	*	*
+26	Schwarz	Schwarz	NE	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	den	die	ART	*	*	*	*
+29	Sinn	Sinn	NN	*	*	*	*
+30	des	die	ART	*	*	*	*
+31	Ganzen	Ganze	NN	*	*	*	*
+32	of	of	FM	*	*	*	*
+
+# article_id = T890127.124
+# text = Hinzu kommt der starke Wettbewerb in der Bürocomputer-Branche - IBM legt die Standards fest , und im scharfen Wettbewerb gehen die Preise in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hinzu	hinzu	ADV	*	*	*	*
+2	kommt	kommen	VVFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	starke	stark	ADJA	*	*	*	*
+5	Wettbewerb	Wettbewerb	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Bürocomputer-Branche	<unknown>	NN	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	IBM	IBM	NE	*	*	*	*
+11	legt	legen	VVFIN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Standards	Standard	NN	*	*	*	*
+14	fest	fest	PTKVZ	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	im	in	APPRART	*	*	*	*
+18	scharfen	scharf	ADJA	*	*	*	*
+19	Wettbewerb	Wettbewerb	NN	*	*	*	*
+20	gehen	gehen	VVFIN	2	2	2	2
+21	die	die	ART	*	*	*	*
+22	Preise	Preis	NN	*	*	*	*
+23	in	in	APPR	2	2	2	2
+24	den	die	ART	*	*	*	*
+25	Keller	Keller	NN	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T890715.147
+# text = " " Geh in den Keller , statt Kaffee zu trinken , wenn du dich langweilst , und grab einen Fluchttunnel .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Hinzu	hinzu	ADV	*	*	*	*
+2	kommt	kommen	VVFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	starke	stark	ADJA	*	*	*	*
+5	Wettbewerb	Wettbewerb	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Bürocomputer-Branche	<unknown>	NN	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	IBM	IBM	NE	*	*	*	*
+11	legt	legen	VVFIN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Standards	Standard	NN	*	*	*	*
+14	fest	fest	PTKVZ	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	im	in	APPRART	*	*	*	*
+18	scharfen	scharf	ADJA	*	*	*	*
+19	Wettbewerb	Wettbewerb	NN	*	*	*	*
+20	gehen	gehen	VVFIN	2	1	1	1
+21	die	die	ART	*	*	*	*
+22	Preise	Preis	NN	*	*	*	*
+23	in	in	APPR	2	1	1	1
+24	den	die	ART	*	*	*	*
+25	Keller	Keller	NN	2	1	1	1
+26	.	.	$.	*	*	*	*
+
+# article_id = T890725.94
+# text = K.O.-Sieg in 37 Profikämpfen , " wenn er glaubt , mich schlagen zu können , gehen wir in den Keller , und der , der mit dem Schlüssel wieder hochkommt , ist Champion .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	K.O.-Sieg	<unknown>	NN	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	37	@card@	CARD	*	*	*	*
+4	Profikämpfen	Profikampf	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	wenn	wenn	KOUS	*	*	*	*
+8	er	er	PPER	*	*	*	*
+9	glaubt	glauben	VVFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	mich	ich	PRF	*	*	*	*
+12	schlagen	schlagen	VVINF	*	*	*	*
+13	zu	zu	PTKZU	*	*	*	*
+14	können	können	VMINF	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	gehen	gehen	VVFIN	1	2	2	2
+17	wir	wir	PPER	*	*	*	*
+18	in	in	APPR	1	2	2	2
+19	den	die	ART	*	*	*	*
+20	Keller	Keller	NN	1	2	2	2
+21	,	,	$,	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	der	die	PRELS	*	*	*	*
+26	mit	mit	APPR	*	*	*	*
+27	dem	die	ART	*	*	*	*
+28	Schlüssel	Schlüssel	NN	*	*	*	*
+29	wieder	wieder	ADV	*	*	*	*
+30	hochkommt	hochkommen	VVFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	ist	sein	VAFIN	*	*	*	*
+33	Champion	Champion	NN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T891223.210
+# text = Damit trösten wir uns und beschließen , allen angestammten Vorlieben in der politischen Landschaft Lebewohl zu sagen und gehen in Auerbachs Keller .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Damit	damit	PAV	*	*	*	*
+2	trösten	trösten	VVFIN	*	*	*	*
+3	wir	wir	PPER	*	*	*	*
+4	uns	wir	PRF	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	beschließen	beschließen	VVFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	allen	alle	PIAT	*	*	*	*
+9	angestammten	angestammt	ADJA	*	*	*	*
+10	Vorlieben	Vorliebe	NN	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	politischen	politisch	ADJA	*	*	*	*
+14	Landschaft	Landschaft	NN	*	*	*	*
+15	Lebewohl	Lebewohl	NN	*	*	*	*
+16	zu	zu	PTKZU	*	*	*	*
+17	sagen	sagen	VVINF	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	gehen	gehen	VVFIN	1	2	2	2
+20	in	in	APPR	1	2	2	2
+21	Auerbachs	Auerbach	NE	*	*	*	*
+22	Keller	Keller	NE	1	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T891123.162
+# text = Wer in der Drehe Sophie - Charlotte-Platz , Stutti , Lietzensee lebt oder arbeitet und mittags schlicht knüppelsatt werden will , geht zum dicken Koch in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wer	wer	PWS	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Drehe	<unknown>	NN	*	*	*	*
+5	Sophie	Sophie	NE	*	*	*	*
+6	-	-	$(	*	*	*	*
+7	Charlotte-Platz	Charlotte-Platz	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Stutti	<unknown>	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Lietzensee	<unknown>	NN	*	*	*	*
+12	lebt	leben	VVFIN	*	*	*	*
+13	oder	oder	KON	*	*	*	*
+14	arbeitet	arbeiten	VVFIN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	mittags	mittags	ADV	*	*	*	*
+17	schlicht	schlicht	ADJD	*	*	*	*
+18	knüppelsatt	<unknown>	ADJD	*	*	*	*
+19	werden	werden	VAINF	*	*	*	*
+20	will	wollen	VMFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	geht	gehen	VVFIN	1	1	2	1
+23	zum	zu	APPRART	*	*	*	*
+24	dicken	dick	ADJA	*	*	*	*
+25	Koch	Koch	NN	*	*	*	*
+26	in	in	APPR	1	1	2	1
+27	den	die	ART	*	*	*	*
+28	Keller	Keller	NN	1	1	2	1
+29	.	.	$.	*	*	*	*
+
+# article_id = T890215.75
+# text = Als die Ölpreise dann 1986 in den Keller gingen , stimmten alle hochgerechneten Zukunftserwartungen nicht mehr .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Ölpreise	Ölpreis	NN	*	*	*	*
+4	dann	dann	ADV	*	*	*	*
+5	1986	@card@	CARD	*	*	*	*
+6	in	in	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Keller	Keller	NN	2	2	2	2
+9	gingen	gehen	VVFIN	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	stimmten	stimmen	VVFIN	*	*	*	*
+12	alle	alle	PIAT	*	*	*	*
+13	hochgerechneten	hochgerechnet	ADJA	*	*	*	*
+14	Zukunftserwartungen	Zukunftserwartung	NN	*	*	*	*
+15	nicht	nicht	PTKNEG	*	*	*	*
+16	mehr	mehr	ADV	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T890206.153
+# text = Die größte Überraschung war ja , wie die CDU in den Keller gegangen ist und daß die FDP rausgeflogen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	größte	groß	ADJA	*	*	*	*
+3	Überraschung	Überraschung	NN	*	*	*	*
+4	war	sein	VAFIN	*	*	*	*
+5	ja	ja	ADV	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wie	wie	KOUS	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	CDU	CDU	NE	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Keller	Keller	NN	2	2	2	2
+13	gegangen	gehen	VVPP	2	2	2	2
+14	ist	sein	VAFIN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	daß	dass	KOUS	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	FDP	FDP	NE	*	*	*	*
+19	rausgeflogen	rausfliegen	VVPP	*	*	*	*
+20	ist	sein	VAFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T910511.192
+# text = Wenn du auffällst , sind sie ganz schnell dabei und sagen , du nicht mehr , du bist ausgeladen , du gehst in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	größte	groß	ADJA	*	*	*	*
+3	Überraschung	Überraschung	NN	*	*	*	*
+4	war	sein	VAFIN	*	*	*	*
+5	ja	ja	ADV	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wie	wie	KOUS	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	CDU	CDU	NE	*	*	*	*
+10	in	in	APPR	2	1	2	2
+11	den	die	ART	*	*	*	*
+12	Keller	Keller	NN	2	1	2	2
+13	gegangen	gehen	VVPP	2	1	2	2
+14	ist	sein	VAFIN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	daß	dass	KOUS	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	FDP	FDP	NE	*	*	*	*
+19	rausgeflogen	rausfliegen	VVPP	*	*	*	*
+20	ist	sein	VAFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T911008.195
+# text = Das Deutschland der kriminellen Elemente liegt zwischen der Mutlosigkeit von einem , der in den Keller geht und weiß , daß er jetzt zwei Kohlentragen bis in den vierten Stock hochschleppen muß , und dem sexy Zynismus von Heiner Müller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	Deutschland	Deutschland	NE	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	kriminellen	kriminell	ADJA	*	*	*	*
+5	Elemente	Element	NN	*	*	*	*
+6	liegt	liegen	VVFIN	*	*	*	*
+7	zwischen	zwischen	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Mutlosigkeit	Mutlosigkeit	NN	*	*	*	*
+10	von	von	APPR	*	*	*	*
+11	einem	eine	ART	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	der	die	PRELS	*	*	*	*
+14	in	in	APPR	1	1	2	1
+15	den	die	ART	*	*	*	*
+16	Keller	Keller	NN	1	1	2	1
+17	geht	gehen	VVFIN	1	1	2	1
+18	und	und	KON	*	*	*	*
+19	weiß	wissen	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	daß	dass	KOUS	*	*	*	*
+22	er	er	PPER	*	*	*	*
+23	jetzt	jetzt	ADV	*	*	*	*
+24	zwei	zwei	CARD	*	*	*	*
+25	Kohlentragen	Kohlentragen	NN	*	*	*	*
+26	bis	bis	KON	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	den	die	ART	*	*	*	*
+29	vierten	viert	ADJA	*	*	*	*
+30	Stock	Stock	NN	*	*	*	*
+31	hochschleppen	hochschleppen	VVINF	*	*	*	*
+32	muß	müssen	VMFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	dem	die	ART	*	*	*	*
+36	sexy	sexy	ADJD	*	*	*	*
+37	Zynismus	Zynismus	NN	*	*	*	*
+38	von	von	APPR	*	*	*	*
+39	Heiner	Heiner	NE	*	*	*	*
+40	Müller	Müller	NE	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T911014.26
+# text = Genau wie in den anderen osteuropäischen Ländern " wird der Stromverbrauch auch dort durch den wirtschaftlichen Strukturwandel in den Keller gehen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Genau	genau	ADJD	*	*	*	*
+2	wie	wie	KOKOM	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	anderen	andere	PIS	*	*	*	*
+6	osteuropäischen	osteuropäisch	ADJA	*	*	*	*
+7	Ländern	Land	NN	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	wird	werden	VAFIN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Stromverbrauch	Stromverbrauch	NN	*	*	*	*
+12	auch	auch	ADV	*	*	*	*
+13	dort	dort	ADV	*	*	*	*
+14	durch	durch	APPR	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	wirtschaftlichen	wirtschaftlich	ADJA	*	*	*	*
+17	Strukturwandel	Strukturwandel	NN	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	Keller	Keller	NN	2	2	2	2
+21	gehen	gehen	VVINF	2	2	2	2
+22	"	"	$(	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T910115.105
+# text = Zum anderen rechnet ohnehin kaum ein Händler damit , daß der Dollar seinen Charakter als ausgesprochene Krisenwährung behält - eher über kurz als über lang wird er dank Rezession in den USA wieder in den Keller gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zum	zu	APPRART	*	*	*	*
+2	anderen	andere	PIS	*	*	*	*
+3	rechnet	rechnen	VVFIN	*	*	*	*
+4	ohnehin	ohnehin	ADV	*	*	*	*
+5	kaum	kaum	ADV	*	*	*	*
+6	ein	eine	ART	*	*	*	*
+7	Händler	Händler	NN	*	*	*	*
+8	damit	damit	PAV	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	daß	dass	KOUS	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Dollar	Dollar	NN	*	*	*	*
+13	seinen	sein	PPOSAT	*	*	*	*
+14	Charakter	Charakter	NN	*	*	*	*
+15	als	als	KOKOM	*	*	*	*
+16	ausgesprochene	ausgesprochen	ADJA	*	*	*	*
+17	Krisenwährung	Krisenwährung	NN	*	*	*	*
+18	behält	behalten	VVFIN	*	*	*	*
+19	-	-	$(	*	*	*	*
+20	eher	eher	ADV	*	*	*	*
+21	über	über	APPR	*	*	*	*
+22	kurz	kurz	ADJD	*	*	*	*
+23	als	als	KOKOM	*	*	*	*
+24	über	über	APPR	*	*	*	*
+25	lang	lang	ADJD	*	*	*	*
+26	wird	werden	VAFIN	*	*	*	*
+27	er	er	PPER	*	*	*	*
+28	dank	dank	APPR	*	*	*	*
+29	Rezession	Rezession	NN	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	den	die	ART	*	*	*	*
+32	USA	USA	NE	*	*	*	*
+33	wieder	wieder	ADV	*	*	*	*
+34	in	in	APPR	2	2	2	2
+35	den	die	ART	*	*	*	*
+36	Keller	Keller	NN	2	2	2	2
+37	gehen	gehen	VVINF	2	2	2	2
+38	.	.	$.	*	*	*	*
+
+# article_id = T910118.107
+# text = Als der Krieg am Golf begann , gingen die Aktienkurse in Tokio , wo die Börse gerade geöffnet war , in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOUS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Krieg	Krieg	NN	*	*	*	*
+4	am	an	APPRART	*	*	*	*
+5	Golf	Golf	NN	*	*	*	*
+6	begann	beginnen	VVFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	gingen	gehen	VVFIN	2	2	2	2
+9	die	die	ART	*	*	*	*
+10	Aktienkurse	Aktienkurs	NN	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	Tokio	Tokio	NE	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wo	wo	PWAV	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Börse	Börse	NN	*	*	*	*
+17	gerade	gerade	ADV	*	*	*	*
+18	geöffnet	öffnen	VVPP	*	*	*	*
+19	war	sein	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	in	in	APPR	2	2	2	2
+22	den	die	ART	*	*	*	*
+23	Keller	Keller	NN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T910117.14
+# text = Gestern nun ging dort der Nikkei- Aktienindex um 3,3 Prozent in den Keller und endete mit minus 770,53 bei 22.442,70 Punkten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gestern	gestern	ADV	*	*	*	*
+2	nun	nun	ADV	*	*	*	*
+3	ging	gehen	VVFIN	2	2	2	2
+4	dort	dort	ADV	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Nikkei-	Nikkei-	TRUNC	*	*	*	*
+7	Aktienindex	Aktienindex	NN	*	*	*	*
+8	um	um	APPR	*	*	*	*
+9	3,3	@card@	CARD	*	*	*	*
+10	Prozent	Prozent	NN	*	*	*	*
+11	in	in	APPR	2	2	2	2
+12	den	die	ART	*	*	*	*
+13	Keller	Keller	NN	2	2	2	2
+14	und	und	KON	*	*	*	*
+15	endete	enden	VVFIN	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	minus	minus	ADV	*	*	*	*
+18	770,53	@card@	CARD	*	*	*	*
+19	bei	bei	APPR	*	*	*	*
+20	22.442,70	@card@	CARD	*	*	*	*
+21	Punkten	Punkt	NN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T911203.80
+# text = Am 1. Januar 1990 hatte der Tokioter Aktienindex seinen Höhepunkt erreicht , und fortan ging es bis tief in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	1	@card@	CARD	*	*	*	*
+3	.	.	$.	*	*	*	*
+4	Januar	Januar	NN	*	*	*	*
+5	1990	@card@	CARD	*	*	*	*
+6	hatte	haben	VAFIN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Tokioter	Tokioter	NN	*	*	*	*
+9	Aktienindex	Aktienindex	NN	*	*	*	*
+10	seinen	sein	PPOSAT	*	*	*	*
+11	Höhepunkt	Höhepunkt	NN	*	*	*	*
+12	erreicht	erreichen	VVPP	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	fortan	fortan	ADV	*	*	*	*
+16	ging	gehen	VVFIN	2	2	2	2
+17	es	es	PPER	*	*	*	*
+18	bis	bis	APPR	*	*	*	*
+19	tief	tief	ADJD	*	*	*	*
+20	in	in	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	Keller	Keller	NN	2	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T911214.230
+# text = Den Menschen im weiteren Umfeld der Fundstellte wird empfohlen , die Fenster zu öffnen und in den inneren Bereich der Wohnungen oder in den Keller zu gehen , während Sprengmeister Harry Warrelmann die Bombe entweder entschärft oder auch sprengen muß .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Den	die	ART	*	*	*	*
+2	Menschen	Mensch	NN	*	*	*	*
+3	im	in	APPRART	*	*	*	*
+4	weiteren	weit	ADJA	*	*	*	*
+5	Umfeld	Umfeld	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Fundstellte	<unknown>	NN	*	*	*	*
+8	wird	werden	VAFIN	*	*	*	*
+9	empfohlen	empfehlen	VVPP	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Fenster	Fenster	NN	*	*	*	*
+13	zu	zu	PTKZU	*	*	*	*
+14	öffnen	öffnen	VVINF	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	inneren	inner	ADJA	*	*	*	*
+19	Bereich	Bereich	NN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Wohnungen	Wohnung	NN	*	*	*	*
+22	oder	oder	KON	*	*	*	*
+23	in	in	APPR	1	1	1	1
+24	den	die	ART	*	*	*	*
+25	Keller	Keller	NN	1	1	1	1
+26	zu	zu	PTKZU	*	*	*	*
+27	gehen	gehen	VVINF	1	1	1	1
+28	,	,	$,	*	*	*	*
+29	während	während	KOUS	*	*	*	*
+30	Sprengmeister	Sprengmeister	NN	*	*	*	*
+31	Harry	Harry	NE	*	*	*	*
+32	Warrelmann	<unknown>	NE	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	Bombe	Bombe	NN	*	*	*	*
+35	entweder	entweder	KON	*	*	*	*
+36	entschärft	entschärfen	VVFIN	*	*	*	*
+37	oder	oder	KON	*	*	*	*
+38	auch	auch	ADV	*	*	*	*
+39	sprengen	sprengen	VVINF	*	*	*	*
+40	muß	müssen	VMFIN	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T911112.194
+# text = Wie immer ging ich mit Katja in den Keller , um die Milch zu holen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	immer	immer	ADV	*	*	*	*
+3	ging	gehen	VVFIN	1	1	1	1
+4	ich	ich	PPER	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	Katja	Katja	NE	*	*	*	*
+7	in	in	APPR	1	1	1	1
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	1	1	1	1
+10	,	,	$,	*	*	*	*
+11	um	um	KOUI	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Milch	Milch	NN	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	holen	holen	VVINF	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T910228.268
+# text = Auch vom Umweltressort wäre Geld zu holen gewesen : Mit 50 Mark pro Tonne wollte Umwelt einspringen , als der Papierpreis in den Keller ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	vom	von	APPRART	*	*	*	*
+3	Umweltressort	Umweltressort	NN	*	*	*	*
+4	wäre	sein	VAFIN	*	*	*	*
+5	Geld	Geld	NN	*	*	*	*
+6	zu	zu	PTKZU	*	*	*	*
+7	holen	holen	VVINF	*	*	*	*
+8	gewesen	sein	VAPP	*	*	*	*
+9	:	:	$.	*	*	*	*
+10	Mit	mit	APPR	*	*	*	*
+11	50	@card@	CARD	*	*	*	*
+12	Mark	Mark	NN	*	*	*	*
+13	pro	pro	APPR	*	*	*	*
+14	Tonne	Tonne	NN	*	*	*	*
+15	wollte	wollen	VMFIN	*	*	*	*
+16	Umwelt	Umwelt	NN	*	*	*	*
+17	einspringen	einspringen	VVINF	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	als	als	KOUS	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Papierpreis	Papierpreis	NN	*	*	*	*
+22	in	in	APPR	2	2	2	2
+23	den	die	ART	*	*	*	*
+24	Keller	Keller	NN	2	2	2	2
+25	ging	gehen	VVFIN	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T910226.117
+# text = Bereits in dieser Woche seien die Preise von 40 Dollar pro Barrel um 17 Dollar gesunken , und Hamar schätzt , daß sie nach Kriegsende weiter in den Keller gehen werden , sollte es der OPEC nicht gelingen , die Förderquoten weiter einzuschränken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bereits	bereits	ADV	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	dieser	dies	PDAT	*	*	*	*
+4	Woche	Woche	NN	*	*	*	*
+5	seien	sein	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Preise	Preis	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	40	@card@	CARD	*	*	*	*
+10	Dollar	Dollar	NN	*	*	*	*
+11	pro	pro	APPR	*	*	*	*
+12	Barrel	Barrel	NN	*	*	*	*
+13	um	um	APPR	*	*	*	*
+14	17	@card@	CARD	*	*	*	*
+15	Dollar	Dollar	NN	*	*	*	*
+16	gesunken	sinken	VVPP	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	Hamar	Hamar	NE	*	*	*	*
+20	schätzt	schätzen	VVFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	daß	dass	KOUS	*	*	*	*
+23	sie	sie	PPER	*	*	*	*
+24	nach	nach	APPR	*	*	*	*
+25	Kriegsende	Kriegsende	NN	*	*	*	*
+26	weiter	weiter	ADV	*	*	*	*
+27	in	in	APPR	2	2	2	2
+28	den	die	ART	*	*	*	*
+29	Keller	Keller	NN	2	2	2	2
+30	gehen	gehen	VVINF	2	2	2	2
+31	werden	werden	VAFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	sollte	sollen	VMFIN	*	*	*	*
+34	es	es	PPER	*	*	*	*
+35	der	die	ART	*	*	*	*
+36	OPEC	OPEC	NE	*	*	*	*
+37	nicht	nicht	PTKNEG	*	*	*	*
+38	gelingen	gelingen	VVINF	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	Förderquoten	Förderquote	NN	*	*	*	*
+42	weiter	weiter	ADV	*	*	*	*
+43	einzuschränken	einschränken	VVIZU	*	*	*	*
+44	.	.	$.	*	*	*	*
+
+# article_id = T910202.204
+# text = Ute Baran : Es gibt von offizieller Seite die Empfehlung , im Falle eines Bombenangriffs in den Keller zu gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ute	Ute	NE	*	*	*	*
+2	Baran	Baran	NE	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	Es	es	PPER	*	*	*	*
+5	gibt	geben	VVFIN	*	*	*	*
+6	von	von	APPR	*	*	*	*
+7	offizieller	offiziell	ADJA	*	*	*	*
+8	Seite	Seite	NN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Empfehlung	Empfehlung	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	Falle	Falle	NN	*	*	*	*
+14	eines	eine	ART	*	*	*	*
+15	Bombenangriffs	Bombenangriff	NN	*	*	*	*
+16	in	in	APPR	1	1	1	1
+17	den	die	ART	*	*	*	*
+18	Keller	Keller	NN	1	1	1	1
+19	zu	zu	PTKZU	*	*	*	*
+20	gehen	gehen	VVINF	1	1	1	1
+21	.	.	$.	*	*	*	*
+
+# article_id = T910205.113
+# text = Prompte Folge : Der Dollar geht in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Prompte	prompt	ADJA	*	*	*	*
+2	Folge	Folge	NN	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	Der	die	ART	*	*	*	*
+5	Dollar	Dollar	NN	*	*	*	*
+6	geht	gehen	VVFIN	2	2	2	2
+7	in	in	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T900512.262
+# text = " Mein Mann ist immer extra in den Keller gegangen " , erinnert sich Frau J. gut .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Mein	mein	PPOSAT	*	*	*	*
+3	Mann	Mann	NN	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	immer	immer	ADV	*	*	*	*
+6	extra	extra	ADJD	*	*	*	*
+7	in	in	APPR	1	1	1	1
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	1	1	1	1
+10	gegangen	gehen	VVPP	1	1	1	1
+11	"	"	$(	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	erinnert	erinnern	VVFIN	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	Frau	Frau	NN	*	*	*	*
+16	J.	J.	NE	*	*	*	*
+17	gut	gut	ADJD	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T900612.55
+# text = Unklar sei außerdem , ob die OPEC auseinanderbricht und der Ölpreis dadurch in den Keller geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unklar	unklar	ADJD	*	*	*	*
+2	sei	sein	VAFIN	*	*	*	*
+3	außerdem	außerdem	ADV	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	ob	ob	KOUS	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	OPEC	OPEC	NE	*	*	*	*
+8	auseinanderbricht	auseinanderbrechen	VVFIN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Ölpreis	Ölpreis	NN	*	*	*	*
+12	dadurch	dadurch	PAV	*	*	*	*
+13	in	in	APPR	2	2	2	2
+14	den	die	ART	*	*	*	*
+15	Keller	Keller	NN	2	2	2	2
+16	geht	gehen	VVFIN	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T900929.130
+# text = Kein Olympia : Nach dem Abblitzen Athens beim IOC gingen dort die Börsenkurse in den Keller - aber die wenigen Bäume atmeten auf / Eine Möchtegern-Olympiastadt eine Woche nach dem Schock
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kein	keine	PIAT	*	*	*	*
+2	Olympia	Olympia	NN	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	Nach	nach	APPR	*	*	*	*
+5	dem	die	ART	*	*	*	*
+6	Abblitzen	Abblitzen	NN	*	*	*	*
+7	Athens	Athen	NE	*	*	*	*
+8	beim	bei	APPRART	*	*	*	*
+9	IOC	IOC	NE	*	*	*	*
+10	gingen	gehen	VVFIN	2	2	2	2
+11	dort	dort	ADV	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Börsenkurse	Börsenkurs	NN	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	den	die	ART	*	*	*	*
+16	Keller	Keller	NN	2	2	2	2
+17	-	-	$(	*	*	*	*
+18	aber	aber	ADV	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	wenigen	wenige	PIAT	*	*	*	*
+21	Bäume	Baum	NN	*	*	*	*
+22	atmeten	atmen	VVFIN	*	*	*	*
+23	auf	auf	APPR	*	*	*	*
+24	/	/	$(	*	*	*	*
+25	Eine	eine	ART	*	*	*	*
+26	Möchtegern-Olympiastadt	Möchtegern-Olympiastadt	NN	*	*	*	*
+27	eine	eine	ART	*	*	*	*
+28	Woche	Woche	NN	*	*	*	*
+29	nach	nach	APPR	*	*	*	*
+30	dem	die	ART	*	*	*	*
+31	Schock	Schock	NN	*	*	*	*
+
+# article_id = T900111.246
+# text = Als sich in Bremen das Rennen Jahr für Jahr steigerte , gingen woanders , in Berlin und Dortmund zum Beispiel , die Zuschauerzahlen , die Atmosphäre in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOUS	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	Bremen	Bremen	NE	*	*	*	*
+5	das	die	ART	*	*	*	*
+6	Rennen	Rennen	NN	*	*	*	*
+7	Jahr	Jahr	NN	*	*	*	*
+8	für	für	APPR	*	*	*	*
+9	Jahr	Jahr	NN	*	*	*	*
+10	steigerte	steigern	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	gingen	gehen	VVFIN	2	2	2	2
+13	woanders	woanders	ADV	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	Berlin	Berlin	NE	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	Dortmund	Dortmund	NE	*	*	*	*
+19	zum	zu	APPRART	*	*	*	*
+20	Beispiel	Beispiel	NN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Zuschauerzahlen	Zuschauerzahl	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Atmosphäre	Atmosphäre	NN	*	*	*	*
+27	in	in	APPR	2	2	2	2
+28	den	die	ART	*	*	*	*
+29	Keller	Keller	NN	2	2	2	2
+30	.	.	$.	*	*	*	*
+
+# article_id = T900717.240
+# text = Ihre Leistungen gingen in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ihre	ihr	PPOSAT	*	*	*	*
+2	Leistungen	Leistung	NN	*	*	*	*
+3	gingen	gehen	VVFIN	2	2	2	2
+4	in	in	APPR	2	2	2	2
+5	den	die	ART	*	*	*	*
+6	Keller	Keller	NN	2	2	2	2
+7	.	.	$.	*	*	*	*
+
+# article_id = T900703.77
+# text = Karstadt-Papiere stiegen um 11,50 DM , in den Keller ging es allerdings mit Konkurrent Horten ( minus 9,50 ) .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Karstadt-Papiere	<unknown>	NN	*	*	*	*
+2	stiegen	steigen	VVFIN	*	*	*	*
+3	um	um	APPR	*	*	*	*
+4	11,50	@card@	CARD	*	*	*	*
+5	DM	DM	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	2	2	2	2
+10	ging	gehen	VVFIN	2	2	2	2
+11	es	es	PPER	*	*	*	*
+12	allerdings	allerdings	ADV	*	*	*	*
+13	mit	mit	APPR	*	*	*	*
+14	Konkurrent	Konkurrent	NN	*	*	*	*
+15	Horten	Horten	NE	*	*	*	*
+16	(	(	$(	*	*	*	*
+17	minus	minus	ADV	*	*	*	*
+18	9,50	@card@	CARD	*	*	*	*
+19	)	)	$(	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T901217.224
+# text = Rechts im Seitenflügel geht 's in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rechts	rechts	ADV	*	*	*	*
+2	im	in	APPRART	*	*	*	*
+3	Seitenflügel	Seitenflügel	NN	*	*	*	*
+4	geht	gehen	VVFIN	1	1	1	1
+5	's	es	PPER	*	*	*	*
+6	in	in	APPR	1	1	1	1
+7	den	die	ART	*	*	*	*
+8	Keller	Keller	NN	1	1	1	1
+9	.	.	$.	*	*	*	*
+
+# article_id = T900818.143
+# text = Während minutenlanger Sequenzen , da LKW-Kolonnen monoton durch Wüstensand brummen , kann man getrost in den Keller Bier holen gehen , ohne etwas zu verpassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	APPR	*	*	*	*
+2	minutenlanger	minutenlang	ADJA	*	*	*	*
+3	Sequenzen	Sequenz	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	da	da	KOUS	*	*	*	*
+6	LKW-Kolonnen	LKW-Kolonne	NN	*	*	*	*
+7	monoton	monoton	ADJD	*	*	*	*
+8	durch	durch	APPR	*	*	*	*
+9	Wüstensand	Wüstensand	NN	*	*	*	*
+10	brummen	brummen	VVINF	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	kann	können	VMFIN	*	*	*	*
+13	man	man	PIS	*	*	*	*
+14	getrost	getrost	ADV	*	*	*	*
+15	in	in	APPR	1	1	1	1
+16	den	die	ART	*	*	*	*
+17	Keller	Keller	NN	1	1	1	1
+18	Bier	Bier	NN	*	*	*	*
+19	holen	holen	VVINF	*	*	*	*
+20	gehen	gehen	VVINF	1	1	1	1
+21	,	,	$,	*	*	*	*
+22	ohne	ohne	KOUI	*	*	*	*
+23	etwas	etwas	PIS	*	*	*	*
+24	zu	zu	PTKZU	*	*	*	*
+25	verpassen	verpassen	VVINF	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T900201.262
+# text = Ergebnis : Die Zensuren gehen in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ergebnis	Ergebnis	NN	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	Die	die	ART	*	*	*	*
+4	Zensuren	Zensur	NN	*	*	*	*
+5	gehen	gehen	VVFIN	2	2	2	2
+6	in	in	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Keller	Keller	NN	2	2	2	2
+9	.	.	$.	*	*	*	*
+
+# article_id = T900221.56
+# text = Der Nudelhersteller protestierte , doch es half nichts - der Absatz ging in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Nudelhersteller	Nudelhersteller	NN	*	*	*	*
+3	protestierte	protestieren	VVFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	doch	doch	KON	*	*	*	*
+6	es	es	PPER	*	*	*	*
+7	half	helfen	VVFIN	*	*	*	*
+8	nichts	nichts	PIS	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Absatz	Absatz	NN	*	*	*	*
+12	ging	gehen	VVFIN	2	2	2	2
+13	in	in	APPR	2	2	2	2
+14	den	die	ART	*	*	*	*
+15	Keller	Keller	NN	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T921021.68
+# text = Mit scharfer Stimme präsentiert sie ihren Zuhörern ein verheerendes Resümee der letzten zwölf "Reagan-Bush-und-Specter"-Jahre : Arbeitsmarkt , Lohnentwicklung , Gesundheitsversorgung und industrielle Infrastruktur - " alles ist in den Keller gegangen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	scharfer	scharf	ADJA	*	*	*	*
+3	Stimme	Stimme	NN	*	*	*	*
+4	präsentiert	präsentieren	VVFIN	*	*	*	*
+5	sie	sie	PPER	*	*	*	*
+6	ihren	ihr	PPOSAT	*	*	*	*
+7	Zuhörern	Zuhörer	NN	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	verheerendes	verheerend	ADJA	*	*	*	*
+10	Resümee	Resümee	NN	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	letzten	letzt	ADJA	*	*	*	*
+13	zwölf	zwölf	CARD	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	Reagan-Bush-und-Specter"-Jahre	<unknown>	NN	*	*	*	*
+16	:	:	$.	*	*	*	*
+17	Arbeitsmarkt	Arbeitsmarkt	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	Lohnentwicklung	Lohnentwicklung	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	Gesundheitsversorgung	Gesundheitsversorgung	NN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	industrielle	industriell	ADJA	*	*	*	*
+24	Infrastruktur	Infrastruktur	NN	*	*	*	*
+25	-	-	$(	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	alles	alle	PIS	*	*	*	*
+28	ist	sein	VAFIN	*	*	*	*
+29	in	in	APPR	2	2	2	2
+30	den	die	ART	*	*	*	*
+31	Keller	Keller	NN	2	2	2	2
+32	gegangen	gehen	VVPP	2	2	2	2
+33	"	"	$(	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T921002.62
+# text = Die Industrieproduktion sank um 70 Prozent , und das Bruttoinlandsprodukt ( BIP ) , also der Wert aller Güter und Dienstleistungen , die von Inländern in den neuen Bundesländern produziert wurden , ging um rund 45 Prozent in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Industrieproduktion	Industrieproduktion	NN	*	*	*	*
+3	sank	sinken	VVFIN	*	*	*	*
+4	um	um	APPR	*	*	*	*
+5	70	@card@	CARD	*	*	*	*
+6	Prozent	Prozent	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	Bruttoinlandsprodukt	Bruttoinlandsprodukt	NN	*	*	*	*
+11	(	(	$(	*	*	*	*
+12	BIP	BIP	NE	*	*	*	*
+13	)	)	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	also	also	ADV	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Wert	Wert	NN	*	*	*	*
+18	aller	alle	PIAT	*	*	*	*
+19	Güter	Gut	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	Dienstleistungen	Dienstleistung	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	die	die	PRELS	*	*	*	*
+24	von	von	APPR	*	*	*	*
+25	Inländern	Inländer	NN	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	den	die	ART	*	*	*	*
+28	neuen	neu	ADJA	*	*	*	*
+29	Bundesländern	Bundesland	NN	*	*	*	*
+30	produziert	produzieren	VVPP	*	*	*	*
+31	wurden	werden	VAFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	ging	gehen	VVFIN	2	2	2	2
+34	um	um	APPR	*	*	*	*
+35	rund	rund	ADV	*	*	*	*
+36	45	@card@	CARD	*	*	*	*
+37	Prozent	Prozent	NN	*	*	*	*
+38	in	in	APPR	2	2	2	2
+39	den	die	ART	*	*	*	*
+40	Keller	Keller	NN	2	2	2	2
+41	.	.	$.	*	*	*	*
+
+# article_id = T920404.161
+# text = Nur wenn ich morgens in unseren Keller gegangen bin , da waren sie mir eklig .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nur	nur	ADV	*	*	*	*
+2	wenn	wenn	KOUS	*	*	*	*
+3	ich	ich	PPER	*	*	*	*
+4	morgens	morgens	ADV	*	*	*	*
+5	in	in	APPR	1	1	1	1
+6	unseren	unser	PPOSAT	*	*	*	*
+7	Keller	Keller	NN	1	1	1	1
+8	gegangen	gehen	VVPP	1	1	1	1
+9	bin	sein	VAFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	da	da	KOUS	*	*	*	*
+12	waren	sein	VAFIN	*	*	*	*
+13	sie	sie	PPER	*	*	*	*
+14	mir	ich	PRF	*	*	*	*
+15	eklig	eklig	ADJD	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T880506.86
+# text = Gegen allerlei Unpäßlichkeiten soll auch eine Taschenlampe helfen - aber bitte nicht die , mit der man nachts in den Keller geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gegen	gegen	APPR	*	*	*	*
+2	allerlei	allerlei	PIAT	*	*	*	*
+3	Unpäßlichkeiten	Unpässlichkeit	NN	*	*	*	*
+4	soll	sollen	VMFIN	*	*	*	*
+5	auch	auch	ADV	*	*	*	*
+6	eine	eine	ART	*	*	*	*
+7	Taschenlampe	Taschenlampe	NN	*	*	*	*
+8	helfen	helfen	VVINF	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	aber	aber	ADV	*	*	*	*
+11	bitte	bitte	ADV	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	der	die	PRELS	*	*	*	*
+17	man	man	PIS	*	*	*	*
+18	nachts	nachts	ADV	*	*	*	*
+19	in	in	APPR	1	1	1	1
+20	den	die	ART	*	*	*	*
+21	Keller	Keller	NN	1	1	1	1
+22	geht	gehen	VVFIN	1	1	1	1
+23	.	.	$.	*	*	*	*
+
+# article_id = T881008.65
+# text = Ein früheres Vorstandsmitglied des 'Communale'-Vereins " Forum der Bürger " erklärt : " Immerhin hat es zwei Jahre lang keine Einmischung sondern eine Masse Geld gegeben , und das Projekt ging trotzdem immer weiter in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	früheres	früh	ADJA	*	*	*	*
+3	Vorstandsmitglied	Vorstandsmitglied	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	'	'	$(	*	*	*	*
+6	Communale'-Vereins	<unknown>	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	Forum	Forum	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Bürger	Bürger	NN	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	erklärt	erklären	VVPP	*	*	*	*
+13	:	:	$.	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	Immerhin	immerhin	ADV	*	*	*	*
+16	hat	haben	VAFIN	*	*	*	*
+17	es	es	PPER	*	*	*	*
+18	zwei	zwei	CARD	*	*	*	*
+19	Jahre	Jahr	NN	*	*	*	*
+20	lang	lang	ADJD	*	*	*	*
+21	keine	keine	PIAT	*	*	*	*
+22	Einmischung	Einmischung	NN	*	*	*	*
+23	sondern	sondern	KON	*	*	*	*
+24	eine	eine	ART	*	*	*	*
+25	Masse	Masse	NN	*	*	*	*
+26	Geld	Geld	NN	*	*	*	*
+27	gegeben	geben	VVPP	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	das	die	ART	*	*	*	*
+31	Projekt	Projekt	NN	*	*	*	*
+32	ging	gehen	VVFIN	2	2	2	2
+33	trotzdem	trotzdem	PAV	*	*	*	*
+34	immer	immer	ADV	*	*	*	*
+35	weiter	weiter	ADV	*	*	*	*
+36	in	in	APPR	2	2	2	2
+37	den	die	ART	*	*	*	*
+38	Keller	Keller	NN	2	2	2	2
+39	.	.	$.	*	*	*	*
+
+# article_id = T880916.144
+# text = Prompt gehen die Preise für ihre Produkte in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Prompt	prompt	ADJD	*	*	*	*
+2	gehen	gehen	VVFIN	2	2	2	2
+3	die	die	ART	*	*	*	*
+4	Preise	Preis	NN	*	*	*	*
+5	für	für	APPR	*	*	*	*
+6	ihre	ihr	PPOSAT	*	*	*	*
+7	Produkte	Produkt	NN	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	Keller	Keller	NN	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T881205.125
+# text = Weil es daran in der DDR mangele , gehe die Produktivität in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Weil	weil	KOUS	*	*	*	*
+2	es	es	PPER	*	*	*	*
+3	daran	daran	PAV	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	DDR	DDR	NE	*	*	*	*
+7	mangele	mangeln	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	gehe	gehen	VVFIN	2	2	2	2
+10	die	die	ART	*	*	*	*
+11	Produktivität	Produktivität	NN	*	*	*	*
+12	in	in	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Keller	Keller	NN	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T881101.86
+# text = Wenn dann abends um 22 Uhr der Salon geschlossen wird und alles gesagt , aber noch längst nicht alles getrunken ist , geht man hinunter in den Keller , wo im " Cabaret de la Derniere Chance " drei Bands bis zum Morgengrauen dafür sorgen , daß das Festival auch Fest ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	dann	dann	ADV	*	*	*	*
+3	abends	abends	ADV	*	*	*	*
+4	um	um	APPR	*	*	*	*
+5	22	@card@	CARD	*	*	*	*
+6	Uhr	Uhr	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Salon	Salon	NN	*	*	*	*
+9	geschlossen	schließen	VVPP	*	*	*	*
+10	wird	werden	VAFIN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	alles	alle	PIS	*	*	*	*
+13	gesagt	sagen	VVPP	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	aber	aber	KON	*	*	*	*
+16	noch	noch	ADV	*	*	*	*
+17	längst	längst	ADV	*	*	*	*
+18	nicht	nicht	PTKNEG	*	*	*	*
+19	alles	alle	PIS	*	*	*	*
+20	getrunken	trinken	VVPP	*	*	*	*
+21	ist	sein	VAFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	geht	gehen	VVFIN	1	1	1	1
+24	man	man	PIS	*	*	*	*
+25	hinunter	hinunter	ADV	*	*	*	*
+26	in	in	APPR	1	1	1	1
+27	den	die	ART	*	*	*	*
+28	Keller	Keller	NN	1	1	1	1
+29	,	,	$,	*	*	*	*
+30	wo	wo	PWAV	*	*	*	*
+31	im	in	APPRART	*	*	*	*
+32	"	"	$(	*	*	*	*
+33	Cabaret	Cabaret	NN	*	*	*	*
+34	de	de	FM	*	*	*	*
+35	la	la	FM	*	*	*	*
+36	Derniere	<unknown>	ADJA	*	*	*	*
+37	Chance	Chance	NN	*	*	*	*
+38	"	"	$(	*	*	*	*
+39	drei	drei	CARD	*	*	*	*
+40	Bands	Band	NN	*	*	*	*
+41	bis	bis	KON	*	*	*	*
+42	zum	zu	APPRART	*	*	*	*
+43	Morgengrauen	Morgengrauen	NN	*	*	*	*
+44	dafür	dafür	PAV	*	*	*	*
+45	sorgen	sorgen	VVINF	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	daß	dass	KOUS	*	*	*	*
+48	das	die	ART	*	*	*	*
+49	Festival	Festival	NN	*	*	*	*
+50	auch	auch	ADV	*	*	*	*
+51	Fest	Fest	NN	*	*	*	*
+52	ist	sein	VAFIN	*	*	*	*
+53	.	.	$.	*	*	*	*
+
+# article_id = T870509.56
+# text = Erste Blitzumfragen beweisen ein gesundes Urteil der amerikanischen Leser : Der Herald bekommt schlechte Noten , weil er jeden Respekt vor der Privatsphäre eines Menschen vermissen ließ ; doch gleichzeitig deuten sie an , daß Harts Reputation tief in den Keller gegangen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Erste	erst	ADJA	*	*	*	*
+2	Blitzumfragen	Blitzumfrage	NN	*	*	*	*
+3	beweisen	beweisen	VVFIN	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	gesundes	gesund	ADJA	*	*	*	*
+6	Urteil	Urteil	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	amerikanischen	amerikanisch	ADJA	*	*	*	*
+9	Leser	Leser	NN	*	*	*	*
+10	:	:	$.	*	*	*	*
+11	Der	die	ART	*	*	*	*
+12	Herald	Herald	NE	*	*	*	*
+13	bekommt	bekommen	VVFIN	*	*	*	*
+14	schlechte	schlecht	ADJA	*	*	*	*
+15	Noten	Note	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	weil	weil	KOUS	*	*	*	*
+18	er	er	PPER	*	*	*	*
+19	jeden	jede	PIAT	*	*	*	*
+20	Respekt	Respekt	NN	*	*	*	*
+21	vor	vor	APPR	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Privatsphäre	Privatsphäre	NN	*	*	*	*
+24	eines	eine	ART	*	*	*	*
+25	Menschen	Mensch	NN	*	*	*	*
+26	vermissen	vermissen	VVINF	*	*	*	*
+27	ließ	lassen	VVFIN	*	*	*	*
+28	;	;	$.	*	*	*	*
+29	doch	doch	ADV	*	*	*	*
+30	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
+31	deuten	deuten	VVFIN	*	*	*	*
+32	sie	sie	PPER	*	*	*	*
+33	an	an	PTKVZ	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	daß	dass	KOUS	*	*	*	*
+36	Harts	<unknown>	NN	*	*	*	*
+37	Reputation	Reputation	NN	*	*	*	*
+38	tief	tief	ADJD	*	*	*	*
+39	in	in	APPR	2	2	2	2
+40	den	die	ART	*	*	*	*
+41	Keller	Keller	NN	2	2	2	2
+42	gegangen	gehen	VVPP	2	2	2	2
+43	ist	sein	VAFIN	*	*	*	*
+44	.	.	$.	*	*	*	*
+
+# article_id = T870616.73
+# text = Jetzt geht der Ölpreis auch im RGW-Absatzgebiet in den Keller , aber die hohen Preise für Maschinenbauerzeugnisse , die Moskau aus diesem Raum bezieht , sind unangetastet geblieben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jetzt	jetzt	ADV	*	*	*	*
+2	geht	gehen	VVFIN	2	2	2	2
+3	der	die	ART	*	*	*	*
+4	Ölpreis	Ölpreis	NN	*	*	*	*
+5	auch	auch	ADV	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	RGW-Absatzgebiet	<unknown>	NN	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	Keller	Keller	NN	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	aber	aber	KON	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	hohen	hoch	ADJA	*	*	*	*
+15	Preise	Preis	NN	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	Maschinenbauerzeugnisse	<unknown>	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	die	die	PRELS	*	*	*	*
+20	Moskau	Moskau	NE	*	*	*	*
+21	aus	aus	APPR	*	*	*	*
+22	diesem	dies	PDAT	*	*	*	*
+23	Raum	Raum	NN	*	*	*	*
+24	bezieht	beziehen	VVFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	sind	sein	VAFIN	*	*	*	*
+27	unangetastet	unangetastet	ADJD	*	*	*	*
+28	geblieben	bleiben	VVPP	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T870605.70
+# text = Die arbeiten fanatisch daran , daß dieses Airbus-Projekt etwas wird , aber sie sehen auch , daß das Management nichts taugt , um das mal deutlich zu sagen , daß das eigentlich in den Keller gehen muß .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	PDS	*	*	*	*
+2	arbeiten	arbeiten	VVFIN	*	*	*	*
+3	fanatisch	fanatisch	ADJD	*	*	*	*
+4	daran	daran	PAV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	dieses	dies	PDAT	*	*	*	*
+8	Airbus-Projekt	<unknown>	NN	*	*	*	*
+9	etwas	etwas	ADV	*	*	*	*
+10	wird	werden	VAFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	aber	aber	KON	*	*	*	*
+13	sie	sie	PPER	*	*	*	*
+14	sehen	sehen	VVFIN	*	*	*	*
+15	auch	auch	ADV	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	daß	dass	KOUS	*	*	*	*
+18	das	die	ART	*	*	*	*
+19	Management	Management	NN	*	*	*	*
+20	nichts	nichts	PIS	*	*	*	*
+21	taugt	taugen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	um	um	APPR	*	*	*	*
+24	das	die	PRELS	*	*	*	*
+25	mal	mal	ADV	*	*	*	*
+26	deutlich	deutlich	ADJD	*	*	*	*
+27	zu	zu	PTKZU	*	*	*	*
+28	sagen	sagen	VVINF	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	daß	dass	KOUS	*	*	*	*
+31	das	die	PDS	*	*	*	*
+32	eigentlich	eigentlich	ADV	*	*	*	*
+33	in	in	APPR	2	2	2	2
+34	den	die	ART	*	*	*	*
+35	Keller	Keller	NN	2	2	2	2
+36	gehen	gehen	VVINF	2	2	2	2
+37	muß	müssen	VMFIN	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T871013.78
+# text = Natürlich kann auch eine Quellenbesteuerung ins Leere laufen , wenn daraufhin die Kapitalanleger ins Ausland ziehen , wodurch auch die Kurse der Staatsanleihen in den Keller gehen dürften .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Natürlich	natürlich	ADV	*	*	*	*
+2	kann	können	VMFIN	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	eine	eine	ART	*	*	*	*
+5	Quellenbesteuerung	<unknown>	NN	*	*	*	*
+6	ins	in	APPRART	*	*	*	*
+7	Leere	Leere	NN	*	*	*	*
+8	laufen	laufen	VVFIN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	wenn	wenn	KOUS	*	*	*	*
+11	daraufhin	daraufhin	PAV	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Kapitalanleger	Kapitalanleger	NN	*	*	*	*
+14	ins	in	APPRART	*	*	*	*
+15	Ausland	Ausland	NN	*	*	*	*
+16	ziehen	ziehen	VVINF	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	wodurch	wodurch	PWAV	*	*	*	*
+19	auch	auch	ADV	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Kurse	Kurs	NN	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Staatsanleihen	Staatsanleihe	NN	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	den	die	ART	*	*	*	*
+26	Keller	Keller	NN	2	2	2	2
+27	gehen	gehen	VVINF	2	2	2	2
+28	dürften	dürfen	VMFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T871023.15
+# text = Berlin ( taz ) - Kaum haben sich die Aktienkurse an den internationalen Wertpapierbörsen wieder erholt , da geht es auch schon wieder in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berlin	Berlin	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	taz	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Kaum	<unknown>	NN	*	*	*	*
+7	haben	haben	VAFIN	*	*	*	*
+8	sich	sich	PRF	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Aktienkurse	Aktienkurs	NN	*	*	*	*
+11	an	an	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	internationalen	international	ADJA	*	*	*	*
+14	Wertpapierbörsen	Wertpapierbörse	NN	*	*	*	*
+15	wieder	wieder	ADV	*	*	*	*
+16	erholt	erholen	VVPP	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	da	da	ADV	*	*	*	*
+19	geht	gehen	VVFIN	2	2	2	2
+20	es	es	PPER	*	*	*	*
+21	auch	auch	ADV	*	*	*	*
+22	schon	schon	ADV	*	*	*	*
+23	wieder	wieder	ADV	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	den	die	ART	*	*	*	*
+26	Keller	Keller	NN	2	2	2	2
+27	.	.	$.	*	*	*	*
+
+# article_id = T870127.24
+# text = " Doch gleich nach Straußens TV-Auftritt geht die Stimmung im Ehrengastbereich des Olympiastadions - dem Ort angemessen - wieder in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Doch	doch	ADV	*	*	*	*
+3	gleich	gleich	ADJD	*	*	*	*
+4	nach	nach	APPR	*	*	*	*
+5	Straußens	<unknown>	NN	*	*	*	*
+6	TV-Auftritt	TV-Auftritt	NN	*	*	*	*
+7	geht	gehen	VVFIN	2	2	2	2
+8	die	die	ART	*	*	*	*
+9	Stimmung	Stimmung	NN	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	Ehrengastbereich	Ehrengastbereich	NN	*	*	*	*
+12	des	die	ART	*	*	*	*
+13	Olympiastadions	Olympiastadien	NN	*	*	*	*
+14	-	-	$(	*	*	*	*
+15	dem	die	ART	*	*	*	*
+16	Ort	Ort	NN	*	*	*	*
+17	angemessen	anmessen	VVPP	*	*	*	*
+18	-	-	$(	*	*	*	*
+19	wieder	wieder	ADV	*	*	*	*
+20	in	in	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	Keller	Keller	NN	2	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T870121.29
+# text = Denn in der vom Kabelrat zugewiesenen Sendezeit von 19 bis 23 Uhr gehen die Einschaltquoten im Hörfunk in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	vom	von	APPRART	*	*	*	*
+5	Kabelrat	Kabelrat	NN	*	*	*	*
+6	zugewiesenen	zugewiesen	ADJA	*	*	*	*
+7	Sendezeit	Sendezeit	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	19	@card@	CARD	*	*	*	*
+10	bis	bis	KON	*	*	*	*
+11	23	@card@	CARD	*	*	*	*
+12	Uhr	Uhr	NN	*	*	*	*
+13	gehen	gehen	VVFIN	2	2	2	2
+14	die	die	ART	*	*	*	*
+15	Einschaltquoten	Einschaltquote	NN	*	*	*	*
+16	im	in	APPRART	*	*	*	*
+17	Hörfunk	Hörfunk	NN	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	Keller	Keller	NN	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T930517.160
+# text = Jeannettes schulische Leistungen gingen in den Keller , als sich ihre Eltern trennten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jeannettes	<unknown>	ADJA	*	*	*	*
+2	schulische	schulisch	ADJA	*	*	*	*
+3	Leistungen	Leistung	NN	*	*	*	*
+4	gingen	gehen	VVFIN	2	2	2	2
+5	in	in	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	Keller	Keller	NN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	als	als	KOUS	*	*	*	*
+10	sich	sich	PRF	*	*	*	*
+11	ihre	ihr	PPOSAT	*	*	*	*
+12	Eltern	Eltern	NN	*	*	*	*
+13	trennten	trennen	VVFIN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T931021.115
+# text = Nur wenn sie auf die Toilette mußten , hätten sie in den Keller gehen dürfen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nur	nur	ADV	*	*	*	*
+2	wenn	wenn	KOUS	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	auf	auf	APPR	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Toilette	Toilette	NN	*	*	*	*
+7	mußten	müssen	VMFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	hätten	haben	VAFIN	*	*	*	*
+10	sie	sie	PPER	*	*	*	*
+11	in	in	APPR	1	1	1	1
+12	den	die	ART	*	*	*	*
+13	Keller	Keller	NN	1	1	1	1
+14	gehen	gehen	VVINF	1	1	1	1
+15	dürfen	dürfen	VMINF	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T930918.138
+# text = " ändern daran nichts , zumal sich das lebensbejahende Motto wie das Pfeifen des in den Keller gehenden Kindes anmutet .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nur	nur	ADV	*	*	*	*
+2	wenn	wenn	KOUS	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	auf	auf	APPR	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Toilette	Toilette	NN	*	*	*	*
+7	mußten	müssen	VMFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	hätten	haben	VAFIN	*	*	*	*
+10	sie	sie	PPER	*	*	*	*
+11	in	in	APPR	1	1	2	1
+12	den	die	ART	*	*	*	*
+13	Keller	Keller	NN	1	1	2	1
+14	gehen	gehen	VVINF	1	1	2	1
+15	dürfen	dürfen	VMINF	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T930908.105
+# text = Tagsüber wird es dort bis zu 40 Grad heiß , nachts gehen die Temperaturen bei fünf Grad in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Tagsüber	tagsüber	ADV	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	dort	dort	ADV	*	*	*	*
+5	bis	bis	APPR	*	*	*	*
+6	zu	zu	APPR	*	*	*	*
+7	40	@card@	CARD	*	*	*	*
+8	Grad	Grad	NN	*	*	*	*
+9	heiß	heiß	ADJD	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	nachts	nachts	ADV	*	*	*	*
+12	gehen	gehen	VVFIN	2	2	2	2
+13	die	die	ART	*	*	*	*
+14	Temperaturen	Temperatur	NN	*	*	*	*
+15	bei	bei	APPR	*	*	*	*
+16	fünf	fünf	CARD	*	*	*	*
+17	Grad	Grad	NN	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	Keller	Keller	NN	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T930125.53
+# text = Seit dem " schwarzen Donnerstag " im vergangenen Herbst , als das Pfund in den Keller ging , ist die Lobby für eine unabhängige Bank gewachsen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	schwarzen	schwarz	ADJA	*	*	*	*
+5	Donnerstag	Donnerstag	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	im	in	APPRART	*	*	*	*
+8	vergangenen	vergangen	ADJA	*	*	*	*
+9	Herbst	Herbst	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	als	als	KOUS	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	Pfund	Pfund	NN	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	den	die	ART	*	*	*	*
+16	Keller	Keller	NN	2	2	2	2
+17	ging	gehen	VVFIN	2	2	2	2
+18	,	,	$,	*	*	*	*
+19	ist	sein	VAFIN	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Lobby	Lobby	NN	*	*	*	*
+22	für	für	APPR	*	*	*	*
+23	eine	eine	ART	*	*	*	*
+24	unabhängige	unabhängig	ADJA	*	*	*	*
+25	Bank	Bank	NN	*	*	*	*
+26	gewachsen	wachsen	VVPP	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T930108.191
+# text = Schließlich geht es in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schließlich	schließlich	ADV	*	*	*	*
+2	geht	gehen	VVFIN	1	2	1	1
+3	es	es	PPER	*	*	*	*
+4	in	in	APPR	1	2	1	1
+5	den	die	ART	*	*	*	*
+6	Keller	Keller	NN	1	2	1	1
+7	.	.	$.	*	*	*	*
+
+# article_id = T930116.221
+# text = Aber seit einem Jahr sind die Preise für Rohöl in den Keller gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	aber	KON	*	*	*	*
+2	seit	seit	APPR	*	*	*	*
+3	einem	eine	ART	*	*	*	*
+4	Jahr	Jahr	NN	*	*	*	*
+5	sind	sein	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Preise	Preis	NN	*	*	*	*
+8	für	für	APPR	*	*	*	*
+9	Rohöl	Rohöl	NN	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Keller	Keller	NN	2	2	2	2
+13	gegangen	gehen	VVPP	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T930724.291
+# text = Wenn die Sirenen heulen , geht es eben " ab in den Keller " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Sirenen	Sirene	NN	*	*	*	*
+4	heulen	heulen	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	geht	gehen	VVFIN	1	1	1	1
+7	es	es	PPER	*	*	*	*
+8	eben	eben	ADV	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	ab	ab	ADV	*	*	*	*
+11	in	in	APPR	1	1	1	1
+12	den	die	ART	*	*	*	*
+13	Keller	Keller	NN	1	1	1	1
+14	"	"	$(	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T931216.16
+# text = Ich gehe nicht ins Treppenhaus und auch nicht in den Keller , ich fühle mich besser , wenn ich lese , während die Granaten niedergehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	ich	PPER	*	*	*	*
+2	gehe	gehen	VVFIN	1	1	1	1
+3	nicht	nicht	PTKNEG	*	*	*	*
+4	ins	in	APPRART	*	*	*	*
+5	Treppenhaus	Treppenhaus	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	auch	auch	ADV	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	in	in	APPR	1	1	1	1
+10	den	die	ART	*	*	*	*
+11	Keller	Keller	NN	1	1	1	1
+12	,	,	$,	*	*	*	*
+13	ich	ich	PPER	*	*	*	*
+14	fühle	fühlen	VVFIN	*	*	*	*
+15	mich	ich	PRF	*	*	*	*
+16	besser	gut	ADJD	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	wenn	wenn	KOUS	*	*	*	*
+19	ich	ich	PPER	*	*	*	*
+20	lese	lesen	VVFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	während	während	KOUS	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	Granaten	Granat|Granate	NN	*	*	*	*
+25	niedergehen	niedergehen	VVINF	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T931216.16
+# text = Und sie sitzt , bis sie mich so wütend gemacht hat , daß auch ich ins Treppenhaus oder in den Keller gehe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	sie	sie	PPER	*	*	*	*
+3	sitzt	sitzen	VVFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	bis	bis	KOUS	*	*	*	*
+6	sie	sie	PPER	*	*	*	*
+7	mich	ich	PRF	*	*	*	*
+8	so	so	ADV	*	*	*	*
+9	wütend	wütend	ADJD	*	*	*	*
+10	gemacht	machen	VVPP	*	*	*	*
+11	hat	haben	VAFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	daß	dass	KOUS	*	*	*	*
+14	auch	auch	ADV	*	*	*	*
+15	ich	ich	PPER	*	*	*	*
+16	ins	in	APPRART	*	*	*	*
+17	Treppenhaus	Treppenhaus	NN	*	*	*	*
+18	oder	oder	KON	*	*	*	*
+19	in	in	APPR	1	1	1	1
+20	den	die	ART	*	*	*	*
+21	Keller	Keller	NN	1	1	1	1
+22	gehe	gehen	VVFIN	1	1	1	1
+23	.	.	$.	*	*	*	*
+
+# article_id = T930302.159
+# text = Vorbei an einer rotbeleuchteten Heiligenfigur ging es in den Keller hinunter .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vorbei	vorbei	ADV	*	*	*	*
+2	an	an	APPR	*	*	*	*
+3	einer	eine	ART	*	*	*	*
+4	rotbeleuchteten	<unknown>	ADJA	*	*	*	*
+5	Heiligenfigur	Heiligenfigur	NN	*	*	*	*
+6	ging	gehen	VVFIN	1	1	1	1
+7	es	es	PPER	*	*	*	*
+8	in	in	APPR	1	1	1	1
+9	den	die	ART	*	*	*	*
+10	Keller	Keller	NN	1	1	1	1
+11	hinunter	hinunter	PTKVZ	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T930324.222
+# text = Da auch die Steuereinnahmen in den Keller gehen , rechnen Bürgermeister und Finanzsenator bereits 1994 mit einer Deckungslücke von 510 Millionen Mark im Hamburger Haushalt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	auch	auch	ADV	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Steuereinnahmen	Steuereinnahme	NN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	Keller	Keller	NN	2	2	2	2
+8	gehen	gehen	VVINF	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	rechnen	rechnen	VVFIN	*	*	*	*
+11	Bürgermeister	Bürgermeister	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Finanzsenator	Finanzsenator	NN	*	*	*	*
+14	bereits	bereits	ADV	*	*	*	*
+15	1994	@card@	CARD	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	einer	eine	ART	*	*	*	*
+18	Deckungslücke	Deckungslücke	NN	*	*	*	*
+19	von	von	APPR	*	*	*	*
+20	510	@card@	CARD	*	*	*	*
+21	Millionen	Million	NN	*	*	*	*
+22	Mark	Mark	NN	*	*	*	*
+23	im	in	APPRART	*	*	*	*
+24	Hamburger	Hamburger	ADJA	*	*	*	*
+25	Haushalt	Haushalt	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T930303.25
+# text = Hans Eichel : Die CDU geht heute tatsächlich wieder tief in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hans	Hans	NE	*	*	*	*
+2	Eichel	Eichel	NN	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	Die	die	ART	*	*	*	*
+5	CDU	CDU	NE	*	*	*	*
+6	geht	gehen	VVFIN	1	2	2	2
+7	heute	heute	ADV	*	*	*	*
+8	tatsächlich	tatsächlich	ADJD	*	*	*	*
+9	wieder	wieder	ADV	*	*	*	*
+10	tief	tief	ADJD	*	*	*	*
+11	in	in	APPR	1	2	2	2
+12	den	die	ART	*	*	*	*
+13	Keller	Keller	NN	1	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T930201.43
+# text = Es war bereits die fünfte Abwertung einer EWS-Währung seit September : Nach dem Ausstieg Großbritanniens und Italiens aus dem EWS gingen Sterling und Lira in den Keller , und im November wurden die spanische Peseta und der portugiesische Escudo um jeweils sechs Prozent abgewertet .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	bereits	bereits	ADV	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	fünfte	fünft	ADJA	*	*	*	*
+6	Abwertung	Abwertung	NN	*	*	*	*
+7	einer	eine	ART	*	*	*	*
+8	EWS-Währung	EWS-Währung	NN	*	*	*	*
+9	seit	seit	APPR	*	*	*	*
+10	September	September	NN	*	*	*	*
+11	:	:	$.	*	*	*	*
+12	Nach	nach	APPR	*	*	*	*
+13	dem	die	ART	*	*	*	*
+14	Ausstieg	Ausstieg	NN	*	*	*	*
+15	Großbritanniens	Großbritannien	NE	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Italiens	Italien	NE	*	*	*	*
+18	aus	aus	APPR	*	*	*	*
+19	dem	die	ART	*	*	*	*
+20	EWS	EWS	NE	*	*	*	*
+21	gingen	gehen	VVFIN	2	2	2	2
+22	Sterling	Sterling	NN	*	*	*	*
+23	und	und	KON	*	*	*	*
+24	Lira	Lira	NN	*	*	*	*
+25	in	in	APPR	2	2	2	2
+26	den	die	ART	*	*	*	*
+27	Keller	Keller	NN	2	2	2	2
+28	,	,	$,	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	im	in	APPRART	*	*	*	*
+31	November	November	NN	*	*	*	*
+32	wurden	werden	VAFIN	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	spanische	spanisch	ADJA	*	*	*	*
+35	Peseta	<unknown>	NE	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	der	die	ART	*	*	*	*
+38	portugiesische	portugiesisch	ADJA	*	*	*	*
+39	Escudo	<unknown>	NN	*	*	*	*
+40	um	um	APPR	*	*	*	*
+41	jeweils	jeweils	ADV	*	*	*	*
+42	sechs	sechs	CARD	*	*	*	*
+43	Prozent	Prozent	NN	*	*	*	*
+44	abgewertet	abwerten	VVPP	*	*	*	*
+45	.	.	$.	*	*	*	*
+
+# article_id = T960419.340
+# text = Die never ending story geht inzwischen in ihre x-te Runde , das Niveau dabei vollends in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	never	<unknown>	ADJA	*	*	*	*
+3	ending	<unknown>	NN	*	*	*	*
+4	story	Story	NN	*	*	*	*
+5	geht	gehen	VVFIN	2	2	2	2
+6	inzwischen	inzwischen	ADV	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	ihre	ihr	PPOSAT	*	*	*	*
+9	x-te	<unknown>	ADJA	*	*	*	*
+10	Runde	Runde	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	Niveau	Niveau	NN	*	*	*	*
+14	dabei	dabei	PAV	*	*	*	*
+15	vollends	vollends	ADV	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	den	die	ART	*	*	*	*
+18	Keller	Keller	NN	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T961214.360
+# text = Gehen die Strompreise in den Keller , amortisieren sich Energieeinspar-Investitionen für Betriebe und Verbraucher erst nach vielen Jahren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gehen	gehen	VVFIN	2	2	2	2
+2	die	die	ART	*	*	*	*
+3	Strompreise	Strompreis	NN	*	*	*	*
+4	in	in	APPR	2	2	2	2
+5	den	die	ART	*	*	*	*
+6	Keller	Keller	NN	2	2	2	2
+7	,	,	$,	*	*	*	*
+8	amortisieren	amortisieren	VVFIN	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	Energieeinspar-Investitionen	<unknown>	NN	*	*	*	*
+11	für	für	APPR	*	*	*	*
+12	Betriebe	Betrieb	NN	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	Verbraucher	Verbraucher	NN	*	*	*	*
+15	erst	erst	ADV	*	*	*	*
+16	nach	nach	APPR	*	*	*	*
+17	vielen	viele	PIAT	*	*	*	*
+18	Jahren	Jahr	NN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T961224.214
+# text = " Hier kann man seine Krisen ausleben , um fünf Uhr morgens auf den Jüdischen Friedhof gehen oder in den Keller und ein paar Stunden abschreien .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Hier	hier	ADV	*	*	*	*
+3	kann	können	VMFIN	*	*	*	*
+4	man	man	PIS	*	*	*	*
+5	seine	sein	PPOSAT	*	*	*	*
+6	Krisen	Krise	NN	*	*	*	*
+7	ausleben	ausleben	VVINF	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	um	um	APPR	*	*	*	*
+10	fünf	fünf	CARD	*	*	*	*
+11	Uhr	Uhr	NN	*	*	*	*
+12	morgens	morgens	ADV	*	*	*	*
+13	auf	auf	APPR	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Jüdischen	jüdisch	ADJA	*	*	*	*
+16	Friedhof	Friedhof	NN	*	*	*	*
+17	gehen	gehen	VVINF	1	1	1	1
+18	oder	oder	KON	*	*	*	*
+19	in	in	APPR	1	1	1	1
+20	den	die	ART	*	*	*	*
+21	Keller	Keller	NN	1	1	1	1
+22	und	und	KON	*	*	*	*
+23	ein	eine	ART	*	*	*	*
+24	paar	paar	PIAT	*	*	*	*
+25	Stunden	Stunde|Stunden	NN	*	*	*	*
+26	abschreien	<unknown>	VVFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T960812.206
+# text = Kaum ein Sender verschleudert seine teuren Eigenproduktionen an die wenigen Daheimgebliebenen - wenn schon die Quoten in den Keller gehen , steigt der Programmplaner lieber gleich mit hinab ins Archiv und hebt kostenneutrale Wiederholungen auf die verwaisten Sendeplätze .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kaum	kaum	ADV	*	*	*	*
+2	ein	eine	ART	*	*	*	*
+3	Sender	Sender	NN	*	*	*	*
+4	verschleudert	verschleudern	VVFIN	*	*	*	*
+5	seine	sein	PPOSAT	*	*	*	*
+6	teuren	teuer	ADJA	*	*	*	*
+7	Eigenproduktionen	Eigenproduktion	NN	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	wenigen	wenige	PIAT	*	*	*	*
+11	Daheimgebliebenen	Daheimgebliebenen	NN	*	*	*	*
+12	-	-	$(	*	*	*	*
+13	wenn	wenn	KOUS	*	*	*	*
+14	schon	schon	ADV	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Quoten	Quote	NN	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	den	die	ART	*	*	*	*
+19	Keller	Keller	NN	2	2	2	2
+20	gehen	gehen	VVINF	2	2	2	2
+21	,	,	$,	*	*	*	*
+22	steigt	steigen	VVFIN	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Programmplaner	Programmplaner	NN	*	*	*	*
+25	lieber	lieb	ADJD	*	*	*	*
+26	gleich	gleich	ADJD	*	*	*	*
+27	mit	mit	APPR	*	*	*	*
+28	hinab	hinab	ADV	*	*	*	*
+29	ins	in	APPRART	*	*	*	*
+30	Archiv	Archiv	NN	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	hebt	heben	VVFIN	*	*	*	*
+33	kostenneutrale	kostenneutral	ADJA	*	*	*	*
+34	Wiederholungen	Wiederholung	NN	*	*	*	*
+35	auf	auf	APPR	*	*	*	*
+36	die	die	ART	*	*	*	*
+37	verwaisten	verwaist	ADJA	*	*	*	*
+38	Sendeplätze	Sendeplatz	NN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T960806.182
+# text = Ein ganz kleiner Vorgeschmack war's , was auf uns zukommt , wenn Deutschland in wenigen Jahren ins Mittelfeld der Industrienationen zurückgefallen sein wird und das Selbstwertgefühl der Bürger gemeinsam mit dem Wechselkurs der D-Mark in den Keller geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	ganz	ganz	ADV	*	*	*	*
+3	kleiner	klein	ADJA	*	*	*	*
+4	Vorgeschmack	Vorgeschmack	NN	*	*	*	*
+5	war	sein	VAFIN	*	*	*	*
+6	's	es	PPER	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	was	was	PRELS	*	*	*	*
+9	auf	auf	APPR	*	*	*	*
+10	uns	wir	PPER	*	*	*	*
+11	zukommt	zukommen	VVFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	wenn	wenn	KOUS	*	*	*	*
+14	Deutschland	Deutschland	NE	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	wenigen	wenige	PIAT	*	*	*	*
+17	Jahren	Jahr	NN	*	*	*	*
+18	ins	in	APPRART	*	*	*	*
+19	Mittelfeld	Mittelfeld	NN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Industrienationen	Industrienation	NN	*	*	*	*
+22	zurückgefallen	zurückfallen	VVPP	*	*	*	*
+23	sein	sein	VAINF	*	*	*	*
+24	wird	werden	VAFIN	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	das	die	ART	*	*	*	*
+27	Selbstwertgefühl	Selbstwertgefühl	NN	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Bürger	Bürger	NN	*	*	*	*
+30	gemeinsam	gemeinsam	ADJD	*	*	*	*
+31	mit	mit	APPR	*	*	*	*
+32	dem	die	ART	*	*	*	*
+33	Wechselkurs	Wechselkurs	NN	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	D-Mark	D-Mark	NN	*	*	*	*
+36	in	in	APPR	2	2	2	2
+37	den	die	ART	*	*	*	*
+38	Keller	Keller	NN	2	2	2	2
+39	geht	gehen	VVFIN	2	2	2	2
+40	.	.	$.	*	*	*	*
+
+# article_id = T960813.109
+# text = Die Arzneimittelkosten , zumindest solche in Form von Suppositorien , gehen schlagartig in den Keller , denn für Sadomasospielzeug zahlt schließlich auch keine Kasse !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Arzneimittelkosten	Arzneimittelkosten	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	zumindest	zumindest	ADV	*	*	*	*
+5	solche	solche	PIS	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Form	Form	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Suppositorien	<unknown>	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	gehen	gehen	VVFIN	2	2	2	2
+12	schlagartig	schlagartig	ADJD	*	*	*	*
+13	in	in	APPR	2	2	2	2
+14	den	die	ART	*	*	*	*
+15	Keller	Keller	NN	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	denn	denn	KON	*	*	*	*
+18	für	für	APPR	*	*	*	*
+19	Sadomasospielzeug	<unknown>	NN	*	*	*	*
+20	zahlt	zahlen	VVFIN	*	*	*	*
+21	schließlich	schließlich	ADV	*	*	*	*
+22	auch	auch	ADV	*	*	*	*
+23	keine	keine	PIAT	*	*	*	*
+24	Kasse	Kasse	NN	*	*	*	*
+25	!	!	$.	*	*	*	*
+
+# article_id = T960821.48
+# text = Allerdings war die Stimmung unter den engagierten Asyl-Anwälten ziemlich in den Keller gegangen , nachdem das BVerfG im Mai diesen Jahres die Grundgesetzänderung zum Asylrecht ohne größere Skrupel abgesegnet hatte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Allerdings	allerdings	ADV	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Stimmung	Stimmung	NN	*	*	*	*
+5	unter	unter	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	engagierten	engagiert	ADJA	*	*	*	*
+8	Asyl-Anwälten	<unknown>	NN	*	*	*	*
+9	ziemlich	ziemlich	ADV	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Keller	Keller	NN	2	2	2	2
+13	gegangen	gehen	VVPP	2	2	2	2
+14	,	,	$,	*	*	*	*
+15	nachdem	nachdem	KOUS	*	*	*	*
+16	das	die	ART	*	*	*	*
+17	BVerfG	<unknown>	NN	*	*	*	*
+18	im	in	APPRART	*	*	*	*
+19	Mai	Mai	NN	*	*	*	*
+20	diesen	dies	PDAT	*	*	*	*
+21	Jahres	Jahr	NN	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Grundgesetzänderung	Grundgesetzänderung	NN	*	*	*	*
+24	zum	zu	APPRART	*	*	*	*
+25	Asylrecht	Asylrecht	NN	*	*	*	*
+26	ohne	ohne	APPR	*	*	*	*
+27	größere	groß	ADJA	*	*	*	*
+28	Skrupel	Skrupel	NN	*	*	*	*
+29	abgesegnet	absegnen	VVPP	*	*	*	*
+30	hatte	haben	VAFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T960808.246
+# text = " Gerade die Spätshows sind auch als Wartesaal für Zuschauer gedacht , die den Höhepunkt des Abends schon hinter oder noch vor sich haben : " Manche lassen den Abend hier ausklingen , für andere ist es der Auftakt , bevor sie in irgendeinen Techno- Keller gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Gerade	gerade	ADV	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Spätshows	<unknown>	NN	*	*	*	*
+5	sind	sein	VAFIN	*	*	*	*
+6	auch	auch	ADV	*	*	*	*
+7	als	als	KOKOM	*	*	*	*
+8	Wartesaal	Wartesaal	NN	*	*	*	*
+9	für	für	APPR	*	*	*	*
+10	Zuschauer	Zuschauer	NN	*	*	*	*
+11	gedacht	denken|gedenken	VVPP	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	die	die	PRELS	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Höhepunkt	Höhepunkt	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	Abends	Abend	NN	*	*	*	*
+18	schon	schon	ADV	*	*	*	*
+19	hinter	hinter	APPR	*	*	*	*
+20	oder	oder	KON	*	*	*	*
+21	noch	noch	ADV	*	*	*	*
+22	vor	vor	APPR	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	haben	haben	VAFIN	*	*	*	*
+25	:	:	$.	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	Manche	manche	PIS	*	*	*	*
+28	lassen	lassen	VVFIN	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	Abend	Abend	NN	*	*	*	*
+31	hier	hier	ADV	*	*	*	*
+32	ausklingen	ausklingen	VVINF	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	für	für	APPR	*	*	*	*
+35	andere	andere	PIS	*	*	*	*
+36	ist	sein	VAFIN	*	*	*	*
+37	es	es	PPER	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	Auftakt	Auftakt	NN	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	bevor	bevor	KOUS	*	*	*	*
+42	sie	sie	PPER	*	*	*	*
+43	in	in	APPR	1	1	2	1
+44	irgendeinen	irgendeine	PIAT	*	*	*	*
+45	Techno-	Techno-	TRUNC	*	*	*	*
+46	Keller	Keller	NN	1	1	2	1
+47	gehen	gehen	VVINF	1	1	2	1
+48	.	.	$.	*	*	*	*
+
+# article_id = T960323.265
+# text = Der Wert ihrer Häuschen ist in den Keller gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Wert	Wert	NN	*	*	*	*
+3	ihrer	ihr	PPOSAT	*	*	*	*
+4	Häuschen	Häuschen	NN	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	in	in	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Keller	Keller	NN	2	2	2	2
+9	gegangen	gehen	VVPP	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T960321.20
+# text = Aber die beruhigenden Worte werden nicht verhindern , daß der Verkauf von Rindfleisch in den Keller gehen wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	aber	KON	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	beruhigenden	beruhigend	ADJA	*	*	*	*
+4	Worte	Wort	NN	*	*	*	*
+5	werden	werden	VAFIN	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	verhindern	verhindern	VVINF	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	daß	dass	KOUS	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Verkauf	Verkauf	NN	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	Rindfleisch	Rindfleisch	NN	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	den	die	ART	*	*	*	*
+16	Keller	Keller	NN	2	2	2	2
+17	gehen	gehen	VVINF	2	2	2	2
+18	wird	werden	VAFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T960325.56
+# text = Sollten die Experten empfehlen , sämtliche 11,8 Millionen britische Rinder zu töten , würde der Sterling in den Keller gehen , die Inflation um eineinhalb Prozent ansteigen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sollten	sollen	VMFIN	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Experten	Experte	NN	*	*	*	*
+4	empfehlen	empfehlen	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	sämtliche	sämtliche	PIAT	*	*	*	*
+7	11,8	@card@	CARD	*	*	*	*
+8	Millionen	Million	NN	*	*	*	*
+9	britische	britisch	ADJA	*	*	*	*
+10	Rinder	Rind	NN	*	*	*	*
+11	zu	zu	PTKZU	*	*	*	*
+12	töten	töten	VVINF	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	würde	werden	VAFIN	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Sterling	Sterling	NN	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	den	die	ART	*	*	*	*
+19	Keller	Keller	NN	2	2	2	2
+20	gehen	gehen	VVINF	2	2	2	2
+21	,	,	$,	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Inflation	Inflation	NN	*	*	*	*
+24	um	um	APPR	*	*	*	*
+25	eineinhalb	eineinhalb	CARD	*	*	*	*
+26	Prozent	Prozent	NN	*	*	*	*
+27	ansteigen	ansteigen	VVINF	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T960325.71
+# text = " Man hätte doch nur in den Keller gehen müssen und in den Akten nachschauen müssen " , argumentiert Gudrun Lehmann .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Man	man	PIS	*	*	*	*
+3	hätte	haben	VAFIN	*	*	*	*
+4	doch	doch	ADV	*	*	*	*
+5	nur	nur	ADV	*	*	*	*
+6	in	in	APPR	1	1	1	1
+7	den	die	ART	*	*	*	*
+8	Keller	Keller	NN	1	1	1	1
+9	gehen	gehen	VVINF	1	1	1	1
+10	müssen	müssen	VMINF	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Akten	Akt|Akte	NN	*	*	*	*
+15	nachschauen	nachschauen	VVINF	*	*	*	*
+16	müssen	müssen	VMINF	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	argumentiert	argumentieren	VVFIN	*	*	*	*
+20	Gudrun	Gudrun	NE	*	*	*	*
+21	Lehmann	Lehmann	NE	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T961106.109
+# text = Er biegt in einen Hinterhof ein , es geht einige Stufen hinunter in einen Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	biegt	biegen	VVFIN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	einen	eine	ART	*	*	*	*
+5	Hinterhof	Hinterhof	NN	*	*	*	*
+6	ein	ein	PTKVZ	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	es	es	PPER	*	*	*	*
+9	geht	gehen	VVFIN	1	1	1	1
+10	einige	einige	PIAT	*	*	*	*
+11	Stufen	Stufe	NN	*	*	*	*
+12	hinunter	hinunter	ADV	*	*	*	*
+13	in	in	APPR	1	1	1	1
+14	einen	eine	ART	*	*	*	*
+15	Keller	Keller	NN	1	1	1	1
+16	.	.	$.	*	*	*	*
+
+# article_id = T980514.256
+# text = Sie haben Paris erwähnt , dort werden Museen als Ereignisse inszeniert - hier geht die Berlinische Galerie in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	haben	haben	VAFIN	*	*	*	*
+3	Paris	Paris	NE	*	*	*	*
+4	erwähnt	erwähnen	VVPP	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	dort	dort	ADV	*	*	*	*
+7	werden	werden	VAFIN	*	*	*	*
+8	Museen	Museum	NN	*	*	*	*
+9	als	als	KOKOM	*	*	*	*
+10	Ereignisse	Ereignis	NN	*	*	*	*
+11	inszeniert	inszenieren	VVPP	*	*	*	*
+12	-	-	$(	*	*	*	*
+13	hier	hier	ADV	*	*	*	*
+14	geht	gehen	VVFIN	2	2	2	2
+15	die	die	ART	*	*	*	*
+16	Berlinische	<unknown>	ADJA	*	*	*	*
+17	Galerie	Galerie	NN	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	Keller	Keller	NN	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T981019.221
+# text = Ein Winzer war in seinen Keller gegangen , in dem mehrere Fuder des Mostes gärten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Winzer	Winzer	NN	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	in	in	APPR	1	1	1	1
+5	seinen	sein	PPOSAT	*	*	*	*
+6	Keller	Keller	NN	1	1	1	1
+7	gegangen	gehen	VVPP	1	1	1	1
+8	,	,	$,	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	dem	die	PRELS	*	*	*	*
+11	mehrere	mehrere	PIAT	*	*	*	*
+12	Fuder	<unknown>	NN	*	*	*	*
+13	des	die	ART	*	*	*	*
+14	Mostes	Most	NN	*	*	*	*
+15	gärten	gären	VVFIN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T980905.206
+# text = Dann geht es in den Keller runter .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dann	dann	ADV	*	*	*	*
+2	geht	gehen	VVFIN	1	1	1	1
+3	es	es	PPER	*	*	*	*
+4	in	in	APPR	1	1	1	1
+5	den	die	ART	*	*	*	*
+6	Keller	Keller	NN	1	1	1	1
+7	runter	runter	PTKVZ	*	*	*	*
+8	.	.	$.	*	*	*	*
+
+# article_id = T980427.97
+# text = Mit dem Aufstieg der Neonazis wird eine große Koalition in Magdeburg wahrscheinlich - und das , obwohl die CDU von bisher 34 auf rund 22 Prozent in den Keller ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	Aufstieg	Aufstieg	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Neonazis	Neonazi	NN	*	*	*	*
+6	wird	werden	VAFIN	*	*	*	*
+7	eine	eine	ART	*	*	*	*
+8	große	groß	ADJA	*	*	*	*
+9	Koalition	Koalition	NN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	Magdeburg	Magdeburg	NE	*	*	*	*
+12	wahrscheinlich	wahrscheinlich	ADJD	*	*	*	*
+13	-	-	$(	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	das	die	PDS	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	obwohl	obwohl	KOUS	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	CDU	CDU	NE	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	bisher	bisher	ADV	*	*	*	*
+22	34	@card@	CARD	*	*	*	*
+23	auf	auf	APPR	*	*	*	*
+24	rund	rund	ADV	*	*	*	*
+25	22	@card@	CARD	*	*	*	*
+26	Prozent	Prozent	NN	*	*	*	*
+27	in	in	APPR	2	2	2	2
+28	den	die	ART	*	*	*	*
+29	Keller	Keller	NN	2	2	2	2
+30	ging	gehen	VVFIN	2	2	2	2
+31	.	.	$.	*	*	*	*
+
+# article_id = T981212.332
+# text = Denn der Verbrauch an Kerzen , so lehrt uns die Erfahrung , geht nach Beendigung der Christenzeremonie rapide in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Verbrauch	Verbrauch	NN	*	*	*	*
+4	an	an	APPR	*	*	*	*
+5	Kerzen	Kerze	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	so	so	ADV	*	*	*	*
+8	lehrt	lehren	VVFIN	*	*	*	*
+9	uns	wir	PPER	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Erfahrung	Erfahrung	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	geht	gehen	VVFIN	2	2	2	2
+14	nach	nach	APPR	*	*	*	*
+15	Beendigung	Beendigung	NN	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Christenzeremonie	<unknown>	NN	*	*	*	*
+18	rapide	rapide	ADJD	*	*	*	*
+19	in	in	APPR	2	2	2	2
+20	den	die	ART	*	*	*	*
+21	Keller	Keller	NN	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T981229.33
+# text = Gehen die Gebühren bis auf sechs Pfennig in den Keller , gehört Telekom zu den billigsten Verbindern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gehen	gehen	VVFIN	2	2	2	2
+2	die	die	ART	*	*	*	*
+3	Gebühren	Gebühr	NN	*	*	*	*
+4	bis	bis	KON	*	*	*	*
+5	auf	auf	APPR	*	*	*	*
+6	sechs	sechs	CARD	*	*	*	*
+7	Pfennig	Pfennig	NN	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	Keller	Keller	NN	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	gehört	gehören	VVFIN	*	*	*	*
+13	Telekom	Telekom	NE	*	*	*	*
+14	zu	zu	APPR	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	billigsten	billig	ADJA	*	*	*	*
+17	Verbindern	<unknown>	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T980811.131
+# text = Im Juni und Juli gingen die CD-Verkäufe derart in den Keller , daß sich die Manager ernsthaft Sorgen machen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Juni	Juni	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	Juli	Juli	NN	*	*	*	*
+5	gingen	gehen	VVFIN	2	2	2	2
+6	die	die	ART	*	*	*	*
+7	CD-Verkäufe	<unknown>	NN	*	*	*	*
+8	derart	derart	ADV	*	*	*	*
+9	in	in	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	Keller	Keller	NN	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	daß	dass	KOUS	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Manager	Manager	NN	*	*	*	*
+17	ernsthaft	ernsthaft	ADJD	*	*	*	*
+18	Sorgen	Sorge|Sorgen	NN	*	*	*	*
+19	machen	machen	VVINF	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T980302.279
+# text = Wenn man alle paar Tage in den Keller geht , um Kohlen zu holen , kommt auch oft eine grimmige Befriedigung daher , denn man heizt ja sozusagen mit eigener Kraft .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	man	man	PIS	*	*	*	*
+3	alle	alle	PIAT	*	*	*	*
+4	paar	paar	PIAT	*	*	*	*
+5	Tage	Tag	NN	*	*	*	*
+6	in	in	APPR	1	1	1	1
+7	den	die	ART	*	*	*	*
+8	Keller	Keller	NN	1	1	1	1
+9	geht	gehen	VVFIN	1	1	1	1
+10	,	,	$,	*	*	*	*
+11	um	um	KOUI	*	*	*	*
+12	Kohlen	Kohle	NN	*	*	*	*
+13	zu	zu	PTKZU	*	*	*	*
+14	holen	holen	VVINF	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	kommt	kommen	VVFIN	*	*	*	*
+17	auch	auch	ADV	*	*	*	*
+18	oft	oft	ADV	*	*	*	*
+19	eine	eine	ART	*	*	*	*
+20	grimmige	grimmig	ADJA	*	*	*	*
+21	Befriedigung	Befriedigung	NN	*	*	*	*
+22	daher	daher	PAV	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	denn	denn	KON	*	*	*	*
+25	man	man	PIS	*	*	*	*
+26	heizt	heizen	VVFIN	*	*	*	*
+27	ja	ja	ADV	*	*	*	*
+28	sozusagen	sozusagen	ADV	*	*	*	*
+29	mit	mit	APPR	*	*	*	*
+30	eigener	eigen	ADJA	*	*	*	*
+31	Kraft	Kraft	NN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T981111.83
+# text = Als der Aktienkurs des Berliner Instituts im Zuge der weltweiten Finanzkrise in den Keller ging , nahmen die NordLB-Eigner das als Vorwand für den Ausstieg .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOUS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Aktienkurs	Aktienkurs	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	Berliner	Berliner	ADJA	*	*	*	*
+6	Instituts	Institut	NN	*	*	*	*
+7	im	in	APPRART	*	*	*	*
+8	Zuge	Zug	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	weltweiten	weltweit	ADJA	*	*	*	*
+11	Finanzkrise	Finanzkrise	NN	*	*	*	*
+12	in	in	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Keller	Keller	NN	2	2	2	2
+15	ging	gehen	VVFIN	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	nahmen	nehmen	VVFIN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	NordLB-Eigner	<unknown>	NN	*	*	*	*
+20	das	die	ART	*	*	*	*
+21	als	als	KOKOM	*	*	*	*
+22	Vorwand	Vorwand	NN	*	*	*	*
+23	für	für	APPR	*	*	*	*
+24	den	die	ART	*	*	*	*
+25	Ausstieg	Ausstieg	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T980213.381
+# text = Die thailändische Währung , der Baht , sackte ab , und diese Depression erfaßte die übrigen Währungen der Region : Der malaysische Ringgit , der philippinische Peso , die indonesische Rupiah und selbst der Singapur-Dollar verzeichneten starke Verluste , die Börsenkurse gingen steil in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	thailändische	thailändisch	ADJA	*	*	*	*
+3	Währung	Währung	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Baht	<unknown>	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	sackte	sacken	VVFIN	*	*	*	*
+9	ab	ab	PTKVZ	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	diese	dies	PDAT	*	*	*	*
+13	Depression	Depression	NN	*	*	*	*
+14	erfaßte	erfassen	VVFIN	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	übrigen	übrig	ADJA	*	*	*	*
+17	Währungen	Währung	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Region	Region	NN	*	*	*	*
+20	:	:	$.	*	*	*	*
+21	Der	die	ART	*	*	*	*
+22	malaysische	malaysisch	ADJA	*	*	*	*
+23	Ringgit	<unknown>	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	philippinische	philippinisch	ADJA	*	*	*	*
+27	Peso	<unknown>	NE	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	indonesische	indonesisch	ADJA	*	*	*	*
+31	Rupiah	<unknown>	NE	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	selbst	selbst	ADV	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	Singapur-Dollar	Singapur-Dollar	NN	*	*	*	*
+36	verzeichneten	verzeichnen	VVFIN	*	*	*	*
+37	starke	stark	ADJA	*	*	*	*
+38	Verluste	Verlust	NN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	Börsenkurse	Börsenkurs	NN	*	*	*	*
+42	gingen	gehen	VVFIN	2	2	2	2
+43	steil	steil	ADJD	*	*	*	*
+44	in	in	APPR	2	2	2	2
+45	den	die	ART	*	*	*	*
+46	Keller	Keller	NN	2	2	2	2
+47	.	.	$.	*	*	*	*
+
+# article_id = T980223.211
+# text = An jenen Tagen , an denen die Times verschleudert wird , geht der Independent-Absatz in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	An	an	APPR	*	*	*	*
+2	jenen	jen	PDAT	*	*	*	*
+3	Tagen	Tag	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	an	an	APPR	*	*	*	*
+6	denen	die	PRELS	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Times	Times	NE	*	*	*	*
+9	verschleudert	verschleudern	VVPP	*	*	*	*
+10	wird	werden	VAFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	geht	gehen	VVFIN	2	2	2	2
+13	der	die	ART	*	*	*	*
+14	Independent-Absatz	<unknown>	NN	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Keller	Keller	NN	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T970617.42
+# text = IL-2 stimuliert das Immunsystem , regt die Vermehrung und Reifung der T4-Helferzellen an , deren Zahl bei Aids dramatisch in den Keller geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	IL-2	<unknown>	NN	*	*	*	*
+2	stimuliert	stimulieren	VVFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	Immunsystem	Immunsystem	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	regt	regen	VVFIN	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Vermehrung	Vermehrung	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Reifung	Reifung	NN	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	T4-Helferzellen	<unknown>	NN	*	*	*	*
+13	an	an	PTKVZ	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	deren	die	PRELAT	*	*	*	*
+16	Zahl	Zahl	NN	*	*	*	*
+17	bei	bei	APPR	*	*	*	*
+18	Aids	Aids	NN	*	*	*	*
+19	dramatisch	dramatisch	ADJD	*	*	*	*
+20	in	in	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	Keller	Keller	NN	2	2	2	2
+23	geht	gehen	VVFIN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T970607.301
+# text = Die Folge : Die Entsorgungspreise gingen in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Folge	Folge	NN	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	Die	die	ART	*	*	*	*
+5	Entsorgungspreise	Entsorgungspreis	NN	*	*	*	*
+6	gingen	gehen	VVFIN	2	2	2	2
+7	in	in	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T971013.25
+# text = Die Rendite geht in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Rendite	Rendite	NN	*	*	*	*
+3	geht	gehen	VVFIN	2	2	2	2
+4	in	in	APPR	2	2	2	2
+5	den	die	ART	*	*	*	*
+6	Keller	Keller	NN	2	2	2	2
+7	.	.	$.	*	*	*	*
+
+# article_id = T971018.80
+# text = So daß vielleicht sogar ein neuer Schwarzer Montag herbeizuwünschen ist : damit die Aktienrenditen so weit in den Keller gehen , daß sich produktive Investitionen wieder lohnen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	so	ADV	*	*	*	*
+2	daß	dass	KOUS	*	*	*	*
+3	vielleicht	vielleicht	ADV	*	*	*	*
+4	sogar	sogar	ADV	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	neuer	neu	ADJA	*	*	*	*
+7	Schwarzer	Schwarze	NN	*	*	*	*
+8	Montag	Montag	NN	*	*	*	*
+9	herbeizuwünschen	herbeiwünschen	VVIZU	*	*	*	*
+10	ist	sein	VAFIN	*	*	*	*
+11	:	:	$.	*	*	*	*
+12	damit	damit	KOUS	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Aktienrenditen	Aktienrendite	NN	*	*	*	*
+15	so	so	ADV	*	*	*	*
+16	weit	weit	ADJD	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	den	die	ART	*	*	*	*
+19	Keller	Keller	NN	2	2	2	2
+20	gehen	gehen	VVINF	2	2	2	2
+21	,	,	$,	*	*	*	*
+22	daß	dass	KOUS	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	produktive	produktiv	ADJA	*	*	*	*
+25	Investitionen	Investition	NN	*	*	*	*
+26	wieder	wieder	ADV	*	*	*	*
+27	lohnen	lohnen	VVINF	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T970925.126
+# text = Das zeigt Wirkung : Von den acht Reedereien , deren Schiffe regelmäßig in Liverpool anlegten , sind nur noch sechs übrig , die MDHC-Aktien gingen in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	zeigt	zeigen	VVFIN	*	*	*	*
+3	Wirkung	Wirkung	NN	*	*	*	*
+4	:	:	$.	*	*	*	*
+5	Von	von	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	acht	acht	CARD	*	*	*	*
+8	Reedereien	Reederei	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	deren	die	PRELAT	*	*	*	*
+11	Schiffe	Schiff	NN	*	*	*	*
+12	regelmäßig	regelmäßig	ADJD	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Liverpool	Liverpool	NE	*	*	*	*
+15	anlegten	anlegen	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	sind	sein	VAFIN	*	*	*	*
+18	nur	nur	ADV	*	*	*	*
+19	noch	noch	ADV	*	*	*	*
+20	sechs	sechs	CARD	*	*	*	*
+21	übrig	übrig	ADJD	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	MDHC-Aktien	<unknown>	NN	*	*	*	*
+25	gingen	gehen	VVFIN	2	2	2	2
+26	in	in	APPR	2	2	2	2
+27	den	die	ART	*	*	*	*
+28	Keller	Keller	NN	2	2	2	2
+29	.	.	$.	*	*	*	*
+
+# article_id = T970729.245
+# text = " Der 26jährige , Mitglied der KonsumentInnengruppe " Testasy " , kennt auch das Phänomen der sogenannten " Ecstasy-Depression " : Ist das Wochenende um , der Rave vorbei und der Rausch beendet , geht die Stimmung in den Keller - bis zur nächsten Party , der nächsten " E " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Der	die	ART	*	*	*	*
+3	26jährige	26jährig	ADJA	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	Mitglied	Mitglied	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	KonsumentInnengruppe	<unknown>	NN	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	Testasy	<unknown>	NN	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	kennt	kennen	VVFIN	*	*	*	*
+13	auch	auch	ADV	*	*	*	*
+14	das	die	ART	*	*	*	*
+15	Phänomen	Phänomen	NN	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	sogenannten	sogenannt	ADJA	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	Ecstasy-Depression	<unknown>	NN	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	:	:	$.	*	*	*	*
+22	Ist	sein	VAFIN	*	*	*	*
+23	das	die	ART	*	*	*	*
+24	Wochenende	Wochenende	NN	*	*	*	*
+25	um	um	PTKVZ	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Rave	Rave	NN	*	*	*	*
+29	vorbei	vorbei	PTKVZ	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	Rausch	Rausch	NN	*	*	*	*
+33	beendet	beenden	VVPP	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	geht	gehen	VVFIN	2	2	2	2
+36	die	die	ART	*	*	*	*
+37	Stimmung	Stimmung	NN	*	*	*	*
+38	in	in	APPR	2	2	2	2
+39	den	die	ART	*	*	*	*
+40	Keller	Keller	NN	2	2	2	2
+41	-	-	$(	*	*	*	*
+42	bis	bis	KON	*	*	*	*
+43	zur	zu	APPRART	*	*	*	*
+44	nächsten	nah	ADJA	*	*	*	*
+45	Party	Party	NN	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	der	die	ART	*	*	*	*
+48	nächsten	nah	ADJA	*	*	*	*
+49	"	"	$(	*	*	*	*
+50	E	E	NN	*	*	*	*
+51	"	"	$(	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T970711.154
+# text = Ihr Umsatz geht in den Keller , von Profit keine Spur mehr .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ihr	ihr	PPOSAT	*	*	*	*
+2	Umsatz	Umsatz	NN	*	*	*	*
+3	geht	gehen	VVFIN	2	2	2	2
+4	in	in	APPR	2	2	2	2
+5	den	die	ART	*	*	*	*
+6	Keller	Keller	NN	2	2	2	2
+7	,	,	$,	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Profit	Profit	NN	*	*	*	*
+10	keine	keine	PIAT	*	*	*	*
+11	Spur	Spur	NN	*	*	*	*
+12	mehr	mehr	ADV	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T971224.35
+# text = Ganz vorne liegen da bekanntlich Pink Floyd und Genesis , die es beide hingekriegt haben , jeweils zweimal das Aussteigen ihres wichtigsten Mannes zu verkraften , ohne daß daraufhin auch nur im geringsten die Verkaufszahlen in den Keller gingen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ganz	ganz	ADV	*	*	*	*
+2	vorne	vorne	ADV	*	*	*	*
+3	liegen	liegen	VVFIN	*	*	*	*
+4	da	da	ADV	*	*	*	*
+5	bekanntlich	bekanntlich	ADV	*	*	*	*
+6	Pink	<unknown>	ADJA	*	*	*	*
+7	Floyd	<unknown>	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Genesis	Genesis	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	die	die	PRELS	*	*	*	*
+12	es	es	PPER	*	*	*	*
+13	beide	beide	PIAT	*	*	*	*
+14	hingekriegt	hinkriegen	VVPP	*	*	*	*
+15	haben	haben	VAFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	jeweils	jeweils	ADV	*	*	*	*
+18	zweimal	zweimal	ADV	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	Aussteigen	Aussteigen	NN	*	*	*	*
+21	ihres	ihr	PPOSAT	*	*	*	*
+22	wichtigsten	wichtig	ADJA	*	*	*	*
+23	Mannes	Mann	NN	*	*	*	*
+24	zu	zu	PTKZU	*	*	*	*
+25	verkraften	verkraften	VVINF	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	ohne	ohne	APPR	*	*	*	*
+28	daß	dass	KOUS	*	*	*	*
+29	daraufhin	daraufhin	PAV	*	*	*	*
+30	auch	auch	ADV	*	*	*	*
+31	nur	nur	ADV	*	*	*	*
+32	im	in	APPRART	*	*	*	*
+33	geringsten	gering	ADJA	*	*	*	*
+34	die	die	ART	*	*	*	*
+35	Verkaufszahlen	Verkaufszahl	NN	*	*	*	*
+36	in	in	APPR	2	2	2	2
+37	den	die	ART	*	*	*	*
+38	Keller	Keller	NN	2	2	2	2
+39	gingen	gehen	VVFIN	2	2	2	2
+40	.	.	$.	*	*	*	*
+
+# article_id = T971204.172
+# text = Soll ich dazu diskret in den Keller gehen , damit meine Freundin nicht mitkriegt , wie teuer der Ball war ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Soll	sollen	VMFIN	*	*	*	*
+2	ich	ich	PPER	*	*	*	*
+3	dazu	dazu	PAV	*	*	*	*
+4	diskret	diskret	ADJD	*	*	*	*
+5	in	in	APPR	1	1	1	1
+6	den	die	ART	*	*	*	*
+7	Keller	Keller	NN	1	1	1	1
+8	gehen	gehen	VVINF	1	1	1	1
+9	,	,	$,	*	*	*	*
+10	damit	damit	KOUS	*	*	*	*
+11	meine	mein	PPOSAT	*	*	*	*
+12	Freundin	Freundin	NN	*	*	*	*
+13	nicht	nicht	PTKNEG	*	*	*	*
+14	mitkriegt	mitkriegen	VVFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	wie	wie	KOKOM	*	*	*	*
+17	teuer	teuer	ADJD	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Ball	Ball	NN	*	*	*	*
+20	war	sein	VAFIN	*	*	*	*
+21	?	?	$.	*	*	*	*
+
+# article_id = T971201.137
+# text = Wenn's Richtung Keller gehen soll , wären Krautzun , Saftig oder Roggensack die richtigen Herren für den vakanten Posten .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wenn	wenn	KOUS	*	*	*	*
+2	's	es	PPER	*	*	*	*
+3	Richtung	Richtung	NN	*	*	*	*
+4	Keller	Keller	NN	2	2	2	2
+5	gehen	gehen	VVINF	2	2	2	2
+6	soll	sollen	VMFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	wären	sein	VAFIN	*	*	*	*
+9	Krautzun	<unknown>	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Saftig	<unknown>	NN	*	*	*	*
+12	oder	oder	KON	*	*	*	*
+13	Roggensack	Roggensack	NN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	richtigen	richtig	ADJA	*	*	*	*
+16	Herren	Herr	NN	*	*	*	*
+17	für	für	APPR	*	*	*	*
+18	den	die	ART	*	*	*	*
+19	vakanten	vakant	ADJA	*	*	*	*
+20	Posten	Posten	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T970828.236
+# text = Damit gehen wir jetzt in den Keller , so ganz tief runter , basteln das schlimmste Schema kommerzieller Stückelarbeit zusammen und schmücken es mit ein paar Namen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Damit	damit	PAV	*	*	*	*
+2	gehen	gehen	VVFIN	2	2	2	2
+3	wir	wir	PPER	*	*	*	*
+4	jetzt	jetzt	ADV	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	Keller	Keller	NN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	so	so	ADV	*	*	*	*
+10	ganz	ganz	ADV	*	*	*	*
+11	tief	tief	ADJD	*	*	*	*
+12	runter	runter	PTKVZ	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	basteln	basteln	VVFIN	*	*	*	*
+15	das	die	ART	*	*	*	*
+16	schlimmste	schlimm	ADJA	*	*	*	*
+17	Schema	Schema	NN	*	*	*	*
+18	kommerzieller	kommerziell	ADJA	*	*	*	*
+19	Stückelarbeit	<unknown>	NN	*	*	*	*
+20	zusammen	zusammen	PTKVZ	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	schmücken	schmücken	VVFIN	*	*	*	*
+23	es	es	PPER	*	*	*	*
+24	mit	mit	APPR	*	*	*	*
+25	ein	eine	ART	*	*	*	*
+26	paar	paar	PIAT	*	*	*	*
+27	Namen	Name	NN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T970801.68
+# text = Die Erfolge von Jan Ullrich und Co. sind für die Branche gerade richtig gekommen , bevor die Umsätze weiter in den Keller gehen können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Erfolge	Erfolg	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Jan	Jan	NE	*	*	*	*
+5	Ullrich	Ullrich	NE	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	Co.	Co.	NN	*	*	*	*
+8	sind	sein	VAFIN	*	*	*	*
+9	für	für	APPR	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Branche	Branche	NN	*	*	*	*
+12	gerade	gerade	ADV	*	*	*	*
+13	richtig	richtig	ADJD	*	*	*	*
+14	gekommen	kommen	VVPP	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	bevor	bevor	KOUS	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Umsätze	Umsatz	NN	*	*	*	*
+19	weiter	weiter	ADV	*	*	*	*
+20	in	in	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	Keller	Keller	NN	2	2	2	2
+23	gehen	gehen	VVINF	2	2	2	2
+24	können	können	VMINF	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T970324.84
+# text = Nach der guten Ernte des letzten Jahres seien die Preise für normale Kartoffeln kräftig in den Keller gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	guten	gut	ADJA	*	*	*	*
+4	Ernte	Ernte	NN	*	*	*	*
+5	des	die	ART	*	*	*	*
+6	letzten	letzt	ADJA	*	*	*	*
+7	Jahres	Jahr	NN	*	*	*	*
+8	seien	sein	VAFIN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Preise	Preis	NN	*	*	*	*
+11	für	für	APPR	*	*	*	*
+12	normale	normal	ADJA	*	*	*	*
+13	Kartoffeln	Kartoffel	NN	*	*	*	*
+14	kräftig	kräftig	ADJD	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Keller	Keller	NN	2	2	2	2
+18	gegangen	gehen	VVPP	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T970204.140
+# text = Dann geht es runter in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dann	dann	ADV	*	*	*	*
+2	geht	gehen	VVFIN	1	1	1	1
+3	es	es	PPER	*	*	*	*
+4	runter	runter	ADV	*	*	*	*
+5	in	in	APPR	1	1	1	1
+6	den	die	ART	*	*	*	*
+7	Keller	Keller	NN	1	1	1	1
+8	.	.	$.	*	*	*	*
+
+# article_id = T940607.210
+# text = Durch das BSE-Virus sind allerdings auch die Preise für Galloway-Rinder jetzt in den Keller gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Durch	durch	APPR	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	BSE-Virus	BSE-Virus	NN	*	*	*	*
+4	sind	sein	VAFIN	*	*	*	*
+5	allerdings	allerdings	ADV	*	*	*	*
+6	auch	auch	ADV	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Preise	Preis	NN	*	*	*	*
+9	für	für	APPR	*	*	*	*
+10	Galloway-Rinder	Galloway-Rind	NN	*	*	*	*
+11	jetzt	jetzt	ADV	*	*	*	*
+12	in	in	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Keller	Keller	NN	2	2	2	2
+15	gegangen	gehen	VVPP	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T941007.314
+# text = Seitdem gingen die Leistungen Sawitschews kontinuierlich in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seitdem	seitdem	PAV	*	*	*	*
+2	gingen	gehen	VVFIN	2	2	2	2
+3	die	die	ART	*	*	*	*
+4	Leistungen	Leistung	NN	*	*	*	*
+5	Sawitschews	<unknown>	NN	*	*	*	*
+6	kontinuierlich	kontinuierlich	ADJD	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T941014.300
+# text = Hat sich eine Mannschaft erst einmal im unteren Tabellendrittel festgesetzt , greift der Fluch des Kellersyndroms um sich : Das Selbstbewußtsein sinkt , das Abstiegsgespenst beginnt in den Köpfen der Spieler herumzugeistern , der Druck von außen wächst , und die Leistung der Mannschaft geht noch weiter in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hat	haben	VAFIN	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	eine	eine	ART	*	*	*	*
+4	Mannschaft	Mannschaft	NN	*	*	*	*
+5	erst	erst	ADV	*	*	*	*
+6	einmal	einmal	ADV	*	*	*	*
+7	im	in	APPRART	*	*	*	*
+8	unteren	unter	ADJA	*	*	*	*
+9	Tabellendrittel	Tabellendrittel	NN	*	*	*	*
+10	festgesetzt	festsetzen	VVPP	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	greift	greifen	VVFIN	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Fluch	Fluch	NN	*	*	*	*
+15	des	die	ART	*	*	*	*
+16	Kellersyndroms	<unknown>	NN	*	*	*	*
+17	um	um	APPR	*	*	*	*
+18	sich	sich	PRF	*	*	*	*
+19	:	:	$.	*	*	*	*
+20	Das	die	ART	*	*	*	*
+21	Selbstbewußtsein	Selbstbewusstsein	NN	*	*	*	*
+22	sinkt	sinken	VVFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	das	die	ART	*	*	*	*
+25	Abstiegsgespenst	Abstiegsgespenst	NN	*	*	*	*
+26	beginnt	beginnen	VVFIN	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	den	die	ART	*	*	*	*
+29	Köpfen	Kopf|Köpfen	NN	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	Spieler	Spieler	NN	*	*	*	*
+32	herumzugeistern	<unknown>	VVFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	Druck	Druck	NN	*	*	*	*
+36	von	von	APPR	*	*	*	*
+37	außen	außen	ADV	*	*	*	*
+38	wächst	wachsen	VVFIN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	und	und	KON	*	*	*	*
+41	die	die	ART	*	*	*	*
+42	Leistung	Leistung	NN	*	*	*	*
+43	der	die	ART	*	*	*	*
+44	Mannschaft	Mannschaft	NN	*	*	*	*
+45	geht	gehen	VVFIN	2	2	2	2
+46	noch	noch	ADV	*	*	*	*
+47	weiter	weiter	ADV	*	*	*	*
+48	in	in	APPR	2	2	2	2
+49	den	die	ART	*	*	*	*
+50	Keller	Keller	NN	2	2	2	2
+51	.	.	$.	*	*	*	*
+
+# article_id = T940115.95
+# text = Durch die Auswirkungen des Golfkriegs im Ferntourismus , die politischen Unruhen im Mai 1992 und die weltweite Rezession sind die Preise noch tiefer in den Keller gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Durch	durch	APPR	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Auswirkungen	Auswirkung	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	Golfkriegs	Golfkrieg	NN	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	Ferntourismus	Ferntourismus	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	politischen	politisch	ADJA	*	*	*	*
+11	Unruhen	Unruhe	NN	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	Mai	Mai	NN	*	*	*	*
+14	1992	@card@	CARD	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	weltweite	weltweit	ADJA	*	*	*	*
+18	Rezession	Rezession	NN	*	*	*	*
+19	sind	sein	VAFIN	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Preise	Preis	NN	*	*	*	*
+22	noch	noch	ADV	*	*	*	*
+23	tiefer	tief	ADJD	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	den	die	ART	*	*	*	*
+26	Keller	Keller	NN	2	2	2	2
+27	gegangen	gehen	VVPP	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T940429.298
+# text = " Aber die internationalen Preise sind in den Keller gegangen und die Anbaukosten steigen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Aber	aber	KON	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	internationalen	international	ADJA	*	*	*	*
+5	Preise	Preis	NN	*	*	*	*
+6	sind	sein	VAFIN	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	2	2	2	2
+10	gegangen	gehen	VVPP	2	2	2	2
+11	und	und	KON	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Anbaukosten	<unknown>	NN	*	*	*	*
+14	steigen	steigen	VVINF	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T940427.190
+# text = Man kommt durch Räume , die der Reihe nach beschrieben werden mit allem , was sie enthalten , man wird von Mitspielern " angesprochen " , und man kann " handeln " , indem man einfache Sätze eingibt : " Gehe in den Keller hinunter " , dann " Was siehst du jetzt ?
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	"	"	$(	*	*	*	*
+2	Aber	aber	KON	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	internationalen	international	ADJA	*	*	*	*
+5	Preise	Preis	NN	*	*	*	*
+6	sind	sein	VAFIN	*	*	*	*
+7	in	in	APPR	2	1	1	1
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	2	1	1	1
+10	gegangen	gehen	VVPP	2	1	1	1
+11	und	und	KON	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Anbaukosten	<unknown>	NN	*	*	*	*
+14	steigen	steigen	VVINF	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T940728.230
+# text = Bei einer beginnenden Massenproduktion werden die Preise ähnlich radikal in den Keller gehen wie damals bei den Taschenrechnern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	einer	eine	ART	*	*	*	*
+3	beginnenden	beginnend	ADJA	*	*	*	*
+4	Massenproduktion	Massenproduktion	NN	*	*	*	*
+5	werden	werden	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Preise	Preis	NN	*	*	*	*
+8	ähnlich	ähnlich	ADJD	*	*	*	*
+9	radikal	radikal	ADJD	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Keller	Keller	NN	2	2	2	2
+13	gehen	gehen	VVFIN	2	2	2	2
+14	wie	wie	KOKOM	*	*	*	*
+15	damals	damals	ADV	*	*	*	*
+16	bei	bei	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Taschenrechnern	Taschenrechner	NN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T941228.210
+# text = Die Mühe der Käufer war indes vergebens : Im heißen Sommer 1994 mochte kaum jemand Kaffee trinken , der gehortete Kaffee wurde nicht zügig verbraucht , und der Absatz ging noch weiter in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Mühe	Mühe	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Käufer	Käufer	NN	*	*	*	*
+5	war	sein	VAFIN	*	*	*	*
+6	indes	indes	ADV	*	*	*	*
+7	vergebens	vergebens	ADV	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	Im	in	APPRART	*	*	*	*
+10	heißen	heiß	ADJA	*	*	*	*
+11	Sommer	Sommer	NN	*	*	*	*
+12	1994	@card@	CARD	*	*	*	*
+13	mochte	mögen	VMFIN	*	*	*	*
+14	kaum	kaum	ADV	*	*	*	*
+15	jemand	jemand	PIS	*	*	*	*
+16	Kaffee	Kaffee	NN	*	*	*	*
+17	trinken	trinken	VVINF	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	gehortete	gehortet	ADJA	*	*	*	*
+21	Kaffee	Kaffee	NN	*	*	*	*
+22	wurde	werden	VAFIN	*	*	*	*
+23	nicht	nicht	PTKNEG	*	*	*	*
+24	zügig	zügig	ADJD	*	*	*	*
+25	verbraucht	verbrauchen	VVPP	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Absatz	Absatz	NN	*	*	*	*
+30	ging	gehen	VVFIN	2	2	2	2
+31	noch	noch	ADV	*	*	*	*
+32	weiter	weiter	ADV	*	*	*	*
+33	in	in	APPR	2	2	2	2
+34	den	die	ART	*	*	*	*
+35	Keller	Keller	NN	2	2	2	2
+36	.	.	$.	*	*	*	*
+
+# article_id = T941203.262
+# text = Daß das damit zusammenhängen könnte , daß im Vorjahr Bremen in der Konjunkturkrise besonders in den Keller gegangen war , meldet das StaLa nicht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	das	die	PDS	*	*	*	*
+3	damit	damit	PAV	*	*	*	*
+4	zusammenhängen	zusammenhängen	VVINF	*	*	*	*
+5	könnte	können	VMFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	im	in	APPRART	*	*	*	*
+9	Vorjahr	Vorjahr	NN	*	*	*	*
+10	Bremen	Bremen	NE	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Konjunkturkrise	Konjunkturkrise	NN	*	*	*	*
+14	besonders	besonders	ADV	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	Keller	Keller	NN	2	2	2	2
+18	gegangen	gehen	VVPP	2	2	2	2
+19	war	sein	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	meldet	melden	VVFIN	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	StaLa	<unknown>	NN	*	*	*	*
+24	nicht	nicht	PTKNEG	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T940314.281
+# text = Sollte es in den Keller gehen , könnte dieser für den DHSRC Landesligaheißen , da der Jahresetat ( 100.000 Mark ) des Teams nur von einem einzigen Sponsoren aufgefüllt wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sollte	sollen	VMFIN	*	*	*	*
+2	es	es	PPER	*	*	*	*
+3	in	in	APPR	2	2	2	2
+4	den	die	ART	*	*	*	*
+5	Keller	Keller	NN	2	2	2	2
+6	gehen	gehen	VVINF	2	2	2	2
+7	,	,	$,	*	*	*	*
+8	könnte	können	VMFIN	*	*	*	*
+9	dieser	dies	PDAT	*	*	*	*
+10	für	für	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	DHSRC	<unknown>	NN	*	*	*	*
+13	Landesligaheißen	<unknown>	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	da	da	KOUS	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Jahresetat	Jahresetat	NN	*	*	*	*
+18	(	(	$(	*	*	*	*
+19	100.000	@card@	CARD	*	*	*	*
+20	Mark	Mark	NN	*	*	*	*
+21	)	)	$(	*	*	*	*
+22	des	die	ART	*	*	*	*
+23	Teams	Team	NN	*	*	*	*
+24	nur	nur	ADV	*	*	*	*
+25	von	von	APPR	*	*	*	*
+26	einem	eine	ART	*	*	*	*
+27	einzigen	einzig	ADJA	*	*	*	*
+28	Sponsoren	Sponsor	NN	*	*	*	*
+29	aufgefüllt	auffüllen	VVPP	*	*	*	*
+30	wird	werden	VAFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T940311.36
+# text = Von Wahl zu Wahl ging es tiefer in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Von	von	APPR	*	*	*	*
+2	Wahl	Wahl	NN	*	*	*	*
+3	zu	zu	APPR	*	*	*	*
+4	Wahl	Wahl	NN	*	*	*	*
+5	ging	gehen	VVFIN	2	2	2	2
+6	es	es	PPER	*	*	*	*
+7	tiefer	tief	ADJD	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	Keller	Keller	NN	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T951027.48
+# text = Im Osten wie im Westen , auf dem linken wie auf dem rechten Parteiflügel ist die Sorge groß , in einer Koalition mit den Christdemokraten gehe es mit den Sozialdemokraten in der Hauptstadt weiter in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Osten	Osten	NN	*	*	*	*
+3	wie	wie	KOKOM	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Westen	Weste|Westen	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	auf	auf	APPR	*	*	*	*
+8	dem	die	ART	*	*	*	*
+9	linken	links	ADJA	*	*	*	*
+10	wie	wie	KOKOM	*	*	*	*
+11	auf	auf	APPR	*	*	*	*
+12	dem	die	ART	*	*	*	*
+13	rechten	recht|rechts	ADJA	*	*	*	*
+14	Parteiflügel	Parteiflügel	NN	*	*	*	*
+15	ist	sein	VAFIN	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Sorge	Sorge	NN	*	*	*	*
+18	groß	groß	ADJD	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	einer	eine	ART	*	*	*	*
+22	Koalition	Koalition	NN	*	*	*	*
+23	mit	mit	APPR	*	*	*	*
+24	den	die	ART	*	*	*	*
+25	Christdemokraten	Christdemokrat	NN	*	*	*	*
+26	gehe	gehen	VVFIN	2	2	2	2
+27	es	es	PPER	*	*	*	*
+28	mit	mit	APPR	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	Sozialdemokraten	Sozialdemokrat	NN	*	*	*	*
+31	in	in	APPR	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	Hauptstadt	Hauptstadt	NN	*	*	*	*
+34	weiter	weiter	ADV	*	*	*	*
+35	in	in	APPR	2	2	2	2
+36	den	die	ART	*	*	*	*
+37	Keller	Keller	NN	2	2	2	2
+38	.	.	$.	*	*	*	*
+
+# article_id = T950928.125
+# text = Location bleibt der Bunker , das kommt echt gruftig , paßt auch viel besser dazu als diese blöde Asylscheiße , hat mir eh gestunken , das Ding , wirste nur depressiv von , und die Quote geht saumäßig in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Location	<unknown>	NN	*	*	*	*
+2	bleibt	bleiben	VVFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Bunker	Bunker	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	das	die	PRELS	*	*	*	*
+7	kommt	kommen	VVFIN	*	*	*	*
+8	echt	echt	ADJD	*	*	*	*
+9	gruftig	gruftig	ADJD	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	paßt	passen	VVFIN	*	*	*	*
+12	auch	auch	ADV	*	*	*	*
+13	viel	viel	ADV	*	*	*	*
+14	besser	gut	ADJD	*	*	*	*
+15	dazu	dazu	PAV	*	*	*	*
+16	als	als	KOKOM	*	*	*	*
+17	diese	dies	PDAT	*	*	*	*
+18	blöde	blöd	ADJA	*	*	*	*
+19	Asylscheiße	<unknown>	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	hat	haben	VAFIN	*	*	*	*
+22	mir	ich	PPER	*	*	*	*
+23	eh	eh	ADV	*	*	*	*
+24	gestunken	stinken	VVPP	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	das	die	ART	*	*	*	*
+27	Ding	Ding	NN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	wirste	<unknown>	NN	*	*	*	*
+30	nur	nur	ADV	*	*	*	*
+31	depressiv	depressiv	ADJD	*	*	*	*
+32	von	von	NE	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	die	die	ART	*	*	*	*
+36	Quote	Quote	NN	*	*	*	*
+37	geht	gehen	VVFIN	2	2	2	2
+38	saumäßig	saumäßig	ADJD	*	*	*	*
+39	in	in	APPR	2	2	2	2
+40	den	die	ART	*	*	*	*
+41	Keller	Keller	NN	2	2	2	2
+42	.	.	$.	*	*	*	*
+
+# article_id = T950906.44
+# text = " So eine zerstrittene Partei ist nicht wählbar , wenn nicht schnell etwas passiert , dann geht es ganz böse in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	So	so	ADV	*	*	*	*
+3	eine	eine	ART	*	*	*	*
+4	zerstrittene	zerstritten	ADJA	*	*	*	*
+5	Partei	Partei	NN	*	*	*	*
+6	ist	sein	VAFIN	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	wählbar	wählbar	ADJD	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	wenn	wenn	KOUS	*	*	*	*
+11	nicht	nicht	PTKNEG	*	*	*	*
+12	schnell	schnell	ADJD	*	*	*	*
+13	etwas	etwas	ADV	*	*	*	*
+14	passiert	passieren	VVPP	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	dann	dann	ADV	*	*	*	*
+17	geht	gehen	VVFIN	2	2	2	2
+18	es	es	PPER	*	*	*	*
+19	ganz	ganz	ADV	*	*	*	*
+20	böse	böse	ADJD	*	*	*	*
+21	in	in	APPR	2	2	2	2
+22	den	die	ART	*	*	*	*
+23	Keller	Keller	NN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T950106.311
+# text = Geht der Sauerstoffgehalt nicht in den Keller , wenn 6.000 Fußballfans da sind , von denen viele Bier trinken und auch mal rülpsen müssen ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Geht	gehen	VVFIN	2	2	2	2
+2	der	die	ART	*	*	*	*
+3	Sauerstoffgehalt	Sauerstoffgehalt	NN	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	Keller	Keller	NN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	wenn	wenn	KOUS	*	*	*	*
+10	6.000	@card@	CARD	*	*	*	*
+11	Fußballfans	Fußballfan	NN	*	*	*	*
+12	da	da	ADV	*	*	*	*
+13	sind	sein	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	von	von	APPR	*	*	*	*
+16	denen	die	PRELS	*	*	*	*
+17	viele	viele	PIAT	*	*	*	*
+18	Bier	Bier	NN	*	*	*	*
+19	trinken	trinken	VVINF	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	auch	auch	ADV	*	*	*	*
+22	mal	mal	ADV	*	*	*	*
+23	rülpsen	rülpsen	VVINF	*	*	*	*
+24	müssen	müssen	VMINF	*	*	*	*
+25	?	?	$.	*	*	*	*
+
+# article_id = T950421.178
+# text = Nachmittags kam Herr Mietusch ( ein Stock unter mir ) , der seit Freitag aktiv beim Volkssturm war , und sagte , Goebbels habe nochmals eine Rede gehalten ; heute abend ab 8 Uhr sei Artilleriebeschuß ; man müsse in den Keller gehen , Lebensmittel mitnehmen , da man vielleicht über Nacht bleiben müsse .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nachmittags	nachmittags	ADV	*	*	*	*
+2	kam	kommen	VVFIN	*	*	*	*
+3	Herr	Herr	NN	*	*	*	*
+4	Mietusch	<unknown>	NN	*	*	*	*
+5	(	(	$(	*	*	*	*
+6	ein	eine	ART	*	*	*	*
+7	Stock	Stock	NN	*	*	*	*
+8	unter	unter	APPR	*	*	*	*
+9	mir	ich	PPER	*	*	*	*
+10	)	)	$(	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	seit	seit	APPR	*	*	*	*
+14	Freitag	Freitag	NN	*	*	*	*
+15	aktiv	aktiv	ADJD	*	*	*	*
+16	beim	bei	APPRART	*	*	*	*
+17	Volkssturm	Volkssturm	NN	*	*	*	*
+18	war	sein	VAFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	sagte	sagen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	Goebbels	Goebbels	NE	*	*	*	*
+24	habe	haben	VAFIN	*	*	*	*
+25	nochmals	nochmals	ADV	*	*	*	*
+26	eine	eine	ART	*	*	*	*
+27	Rede	Rede	NN	*	*	*	*
+28	gehalten	halten	VVPP	*	*	*	*
+29	;	;	$.	*	*	*	*
+30	heute	heute	ADV	*	*	*	*
+31	abend	abend	ADV	*	*	*	*
+32	ab	ab	APPR	*	*	*	*
+33	8	@card@	CARD	*	*	*	*
+34	Uhr	Uhr	NN	*	*	*	*
+35	sei	sein	VAFIN	*	*	*	*
+36	Artilleriebeschuß	Artilleriebeschuss	NN	*	*	*	*
+37	;	;	$.	*	*	*	*
+38	man	man	PIS	*	*	*	*
+39	müsse	müssen	VMFIN	*	*	*	*
+40	in	in	APPR	1	1	1	1
+41	den	die	ART	*	*	*	*
+42	Keller	Keller	NN	1	1	1	1
+43	gehen	gehen	VVINF	1	1	1	1
+44	,	,	$,	*	*	*	*
+45	Lebensmittel	Lebensmittel	NN	*	*	*	*
+46	mitnehmen	mitnehmen	VVINF	*	*	*	*
+47	,	,	$,	*	*	*	*
+48	da	da	KOUS	*	*	*	*
+49	man	man	PIS	*	*	*	*
+50	vielleicht	vielleicht	ADV	*	*	*	*
+51	über	über	APPR	*	*	*	*
+52	Nacht	Nacht	NN	*	*	*	*
+53	bleiben	bleiben	VVINF	*	*	*	*
+54	müsse	müssen	VMFIN	*	*	*	*
+55	.	.	$.	*	*	*	*
+
+# article_id = T950421.178
+# text = Woher will der Goebbels wissen , wann die Russen schießen ; außerdem geht es noch nicht gerade in die Wundtstraße ; ich gehe erst in den Keller , wenn der erste Schuß in meine Wohnung gefallen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Woher	woher	PWAV	*	*	*	*
+2	will	wollen	VMFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Goebbels	Goebbels	NE	*	*	*	*
+5	wissen	wissen	VVFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wann	wann	PWAV	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Russen	Russe	NN	*	*	*	*
+10	schießen	schießen	VVINF	*	*	*	*
+11	;	;	$.	*	*	*	*
+12	außerdem	außerdem	ADV	*	*	*	*
+13	geht	gehen	VVFIN	*	*	*	*
+14	es	es	PPER	*	*	*	*
+15	noch	noch	ADV	*	*	*	*
+16	nicht	nicht	PTKNEG	*	*	*	*
+17	gerade	gerade	ADV	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Wundtstraße	<unknown>	NN	*	*	*	*
+21	;	;	$.	*	*	*	*
+22	ich	ich	PPER	*	*	*	*
+23	gehe	gehen	VVFIN	1	1	1	1
+24	erst	erst	ADV	*	*	*	*
+25	in	in	APPR	1	1	1	1
+26	den	die	ART	*	*	*	*
+27	Keller	Keller	NN	1	1	1	1
+28	,	,	$,	*	*	*	*
+29	wenn	wenn	KOUS	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	erste	erst	ADJA	*	*	*	*
+32	Schuß	Schuss	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	meine	mein	PPOSAT	*	*	*	*
+35	Wohnung	Wohnung	NN	*	*	*	*
+36	gefallen	fallen|gefallen	VVPP	*	*	*	*
+37	ist	sein	VAFIN	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T950727.167
+# text = Und dann geht euer " Arbeitsmarktwert " sehr schnell in den Keller !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	dann	dann	ADV	*	*	*	*
+3	geht	gehen	VVFIN	2	2	2	2
+4	euer	euer	PPOSAT	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Arbeitsmarktwert	<unknown>	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	sehr	sehr	ADV	*	*	*	*
+9	schnell	schnell	ADJD	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Keller	Keller	NN	2	2	2	2
+13	!	!	$.	*	*	*	*
+
+# article_id = T951223.54
+# text = Obwohl die Erzeugerstaaten bereits Anfang des Jahres 20 Prozent ihrer Ernten einbehielten , gingen die Preise seitdem kontinuierlich in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Obwohl	obwohl	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Erzeugerstaaten	Erzeugerstaat	NN	*	*	*	*
+4	bereits	bereits	ADV	*	*	*	*
+5	Anfang	Anfang	NN	*	*	*	*
+6	des	die	ART	*	*	*	*
+7	Jahres	Jahr	NN	*	*	*	*
+8	20	@card@	CARD	*	*	*	*
+9	Prozent	Prozent	NN	*	*	*	*
+10	ihrer	ihr	PPOSAT	*	*	*	*
+11	Ernten	Ernte|Ernten	NN	*	*	*	*
+12	einbehielten	<unknown>	VVFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	gingen	gehen	VVFIN	2	2	2	2
+15	die	die	ART	*	*	*	*
+16	Preise	Preis	NN	*	*	*	*
+17	seitdem	seitdem	PAV	*	*	*	*
+18	kontinuierlich	kontinuierlich	ADJD	*	*	*	*
+19	in	in	APPR	2	2	2	2
+20	den	die	ART	*	*	*	*
+21	Keller	Keller	NN	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T950811.408
+# text = So , und jetzt geht es wirklich in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	so	ADV	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	jetzt	jetzt	ADV	*	*	*	*
+5	geht	gehen	VVFIN	1	1	2	1
+6	es	es	PPER	*	*	*	*
+7	wirklich	wirklich	ADJD	*	*	*	*
+8	in	in	APPR	1	1	2	1
+9	den	die	ART	*	*	*	*
+10	Keller	Keller	NN	1	1	2	1
+11	.	.	$.	*	*	*	*
+
+# article_id = T950308.203
+# text = Nur in Mecklenburg-Vorpommern geht es weiter in den Keller , dort liegt die Arbeitslosenquote inzwischen bei 15,7 Prozent .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nur	nur	ADV	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	Mecklenburg-Vorpommern	Mecklenburg-Vorpommern	NE	*	*	*	*
+4	geht	gehen	VVFIN	2	2	2	2
+5	es	es	PPER	*	*	*	*
+6	weiter	weiter	ADV	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Keller	Keller	NN	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	dort	dort	ADV	*	*	*	*
+12	liegt	liegen	VVFIN	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Arbeitslosenquote	Arbeitslosenquote	NN	*	*	*	*
+15	inzwischen	inzwischen	ADV	*	*	*	*
+16	bei	bei	APPR	*	*	*	*
+17	15,7	@card@	CARD	*	*	*	*
+18	Prozent	Prozent	NN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T950317.100
+# text = Plötzlich geht der Franc in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Plötzlich	plötzlich	ADJD	*	*	*	*
+2	geht	gehen	VVFIN	2	2	2	2
+3	der	die	ART	*	*	*	*
+4	Franc	Franc	NN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	Keller	Keller	NN	2	2	2	2
+8	.	.	$.	*	*	*	*
+
+# article_id = T990417.199
+# text = Die Aktien des Unternehmens gehen in den Keller
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Aktien	Aktie	NN	*	*	*	*
+3	des	die	ART	*	*	*	*
+4	Unternehmens	Unternehmen	NN	*	*	*	*
+5	gehen	gehen	VVFIN	2	2	2	2
+6	in	in	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Keller	Keller	NN	2	2	2	2
+
+# article_id = T990417.199
+# text = Nach einem Jahresverlust von 250 Millionen bei 8,6 Milliarden Dollar Umsatz 1998 und einer gescheiterten Fusion mit " American Home Products " gingen die Aktien in den Keller .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	einem	eine	ART	*	*	*	*
+3	Jahresverlust	Jahresverlust	NN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	250	@card@	CARD	*	*	*	*
+6	Millionen	Million	NN	*	*	*	*
+7	bei	bei	APPR	*	*	*	*
+8	8,6	@card@	CARD	*	*	*	*
+9	Milliarden	Milliarde	NN	*	*	*	*
+10	Dollar	Dollar	NN	*	*	*	*
+11	Umsatz	Umsatz	NN	*	*	*	*
+12	1998	@card@	CARD	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	einer	eine	ART	*	*	*	*
+15	gescheiterten	gescheitert	ADJA	*	*	*	*
+16	Fusion	Fusion	NN	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	American	<unknown>	NE	*	*	*	*
+20	Home	<unknown>	NN	*	*	*	*
+21	Products	<unknown>	NN	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	gingen	gehen	VVFIN	2	2	2	2
+24	die	die	ART	*	*	*	*
+25	Aktien	Aktie	NN	*	*	*	*
+26	in	in	APPR	2	2	2	2
+27	den	die	ART	*	*	*	*
+28	Keller	Keller	NN	2	2	2	2
+29	.	.	$.	*	*	*	*
+
+# article_id = T990306.28
+# text = " Na , dann geh ' mal in den Keller .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nach	nach	APPR	*	*	*	*
+2	einem	eine	ART	*	*	*	*
+3	Jahresverlust	Jahresverlust	NN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	250	@card@	CARD	*	*	*	*
+6	Millionen	Million	NN	*	*	*	*
+7	bei	bei	APPR	*	*	*	*
+8	8,6	@card@	CARD	*	*	*	*
+9	Milliarden	Milliarde	NN	*	*	*	*
+10	Dollar	Dollar	NN	*	*	*	*
+11	Umsatz	Umsatz	NN	*	*	*	*
+12	1998	@card@	CARD	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	einer	eine	ART	*	*	*	*
+15	gescheiterten	gescheitert	ADJA	*	*	*	*
+16	Fusion	Fusion	NN	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	American	<unknown>	NE	*	*	*	*
+20	Home	<unknown>	NN	*	*	*	*
+21	Products	<unknown>	NN	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	gingen	gehen	VVFIN	2	1	1	1
+24	die	die	ART	*	*	*	*
+25	Aktien	Aktie	NN	*	*	*	*
+26	in	in	APPR	2	1	1	1
+27	den	die	ART	*	*	*	*
+28	Keller	Keller	NN	2	1	1	1
+29	.	.	$.	*	*	*	*
+
+# article_id = T990227.13
+# text = Eine ältere Hausfrau , so berichteten mir entsetzte , trauernde Nachbarn , war in den Keller ihres Einfamilienhauses gegangen , um dort die Waschmaschine anzustellen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	eine	ART	*	*	*	*
+2	ältere	alt	ADJA	*	*	*	*
+3	Hausfrau	Hausfrau	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	so	so	ADV	*	*	*	*
+6	berichteten	berichten	VVFIN	*	*	*	*
+7	mir	ich	PPER	*	*	*	*
+8	entsetzte	entsetzt	ADJA	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	trauernde	trauernd	ADJA	*	*	*	*
+11	Nachbarn	Nachbar	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	war	sein	VAFIN	*	*	*	*
+14	in	in	APPR	1	1	1	1
+15	den	die	ART	*	*	*	*
+16	Keller	Keller	NN	1	1	1	1
+17	ihres	ihr	PPOSAT	*	*	*	*
+18	Einfamilienhauses	Einfamilienhaus	NN	*	*	*	*
+19	gegangen	gehen	VVPP	1	1	1	1
+20	,	,	$,	*	*	*	*
+21	um	um	KOUI	*	*	*	*
+22	dort	dort	ADV	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	Waschmaschine	Waschmaschine	NN	*	*	*	*
+25	anzustellen	anstellen	VVIZU	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T990211.326
+# text = Allerdings drängt sich die Frage auf , weshalb ausgerechnet das Knust , dessen Programm im letzten Jahr vollkommen in den Keller gegangen ist , mit der höchsten Prämie bedacht wurde , während das Molotow , wo zur Zeit die spannendsten Rock-Veranstaltungen stattfinden , gar nicht auftaucht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Allerdings	allerdings	ADV	*	*	*	*
+2	drängt	drängen	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Frage	Frage	NN	*	*	*	*
+6	auf	auf	PTKVZ	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	weshalb	weshalb	PWAV	*	*	*	*
+9	ausgerechnet	ausgerechnet	ADJD	*	*	*	*
+10	das	die	ART	*	*	*	*
+11	Knust	<unknown>	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	dessen	die	PRELAT	*	*	*	*
+14	Programm	Programm	NN	*	*	*	*
+15	im	in	APPRART	*	*	*	*
+16	letzten	letzt	ADJA	*	*	*	*
+17	Jahr	Jahr	NN	*	*	*	*
+18	vollkommen	vollkommen	ADJD	*	*	*	*
+19	in	in	APPR	2	2	2	2
+20	den	die	ART	*	*	*	*
+21	Keller	Keller	NN	2	2	2	2
+22	gegangen	gehen	VVPP	2	2	2	2
+23	ist	sein	VAFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	mit	mit	APPR	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	höchsten	hoch	ADJA	*	*	*	*
+28	Prämie	Prämie	NN	*	*	*	*
+29	bedacht	bedachen|bedenken	VVPP	*	*	*	*
+30	wurde	werden	VAFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	während	während	KOUS	*	*	*	*
+33	das	die	ART	*	*	*	*
+34	Molotow	Molotow	NE	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	wo	wo	PWAV	*	*	*	*
+37	zur	zu	APPRART	*	*	*	*
+38	Zeit	Zeit	NN	*	*	*	*
+39	die	die	ART	*	*	*	*
+40	spannendsten	spannend	ADJA	*	*	*	*
+41	Rock-Veranstaltungen	<unknown>	NN	*	*	*	*
+42	stattfinden	stattfinden	VVFIN	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	gar	gar	ADV	*	*	*	*
+45	nicht	nicht	PTKNEG	*	*	*	*
+46	auftaucht	auftauchen	VVFIN	*	*	*	*
+47	.	.	$.	*	*	*	*
+

@@ -1,0 +1,611 @@
+# article_id = T910418.108
+# text = Auf der Ersatzbank saßen Nachwuchskräfte namens Markus Münch und Markus Babbel , der selbst in München unbekannt ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	1	1	1	1
+2	der	*	*	*	*
+3	Ersatzbank	1	1	1	1
+4	saßen	1	1	1	1
+5	Nachwuchskräfte	*	*	*	*
+6	namens	*	*	*	*
+7	Markus	*	*	*	*
+8	Münch	*	*	*	*
+9	und	*	*	*	*
+10	Markus	*	*	*	*
+11	Babbel	*	*	*	*
+12	,	*	*	*	*
+13	der	*	*	*	*
+14	selbst	*	*	*	*
+15	in	*	*	*	*
+16	München	*	*	*	*
+17	unbekannt	*	*	*	*
+18	ist	*	*	*	*
+19	.	*	*	*	*
+
+# article_id = T900507.155
+# text = So saßen auf der Ersatzbank gleich drei Amateure aus der Verbandsliga .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	*	*	*	*
+2	saßen	1	1	1	1
+3	auf	1	1	1	1
+4	der	*	*	*	*
+5	Ersatzbank	1	1	1	1
+6	gleich	*	*	*	*
+7	drei	*	*	*	*
+8	Amateure	*	*	*	*
+9	aus	*	*	*	*
+10	der	*	*	*	*
+11	Verbandsliga	*	*	*	*
+12	.	*	*	*	*
+
+# article_id = T960807.109
+# text = Seitdem sitzt der Gouverneur nur noch auf der Ersatzbank der Verlautbarer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seitdem	*	*	*	*
+2	sitzt	2	2	2	2
+3	der	*	*	*	*
+4	Gouverneur	*	*	*	*
+5	nur	*	*	*	*
+6	noch	*	*	*	*
+7	auf	2	2	2	2
+8	der	*	*	*	*
+9	Ersatzbank	2	2	2	2
+10	der	*	*	*	*
+11	Verlautbarer	*	*	*	*
+12	.	*	*	*	*
+
+# article_id = T960801.301
+# text = Glatter und Poller saßen auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Glatter	*	*	*	*
+2	und	*	*	*	*
+3	Poller	*	*	*	*
+4	saßen	2	2	1	2
+5	auf	2	2	1	2
+6	der	*	*	*	*
+7	Ersatzbank	2	2	1	2
+8	.	*	*	*	*
+
+# article_id = T960628.278
+# text = Zwei der Brüder saßen bekanntlich auf der Ersatzbank der Engländer , später durften die kompletten Brothers Tell Me Like It Is im Hamburger Dudelfunk zum Besten geben - aber das war lange nach Spielschluß , als wir vor den Autocorsos und ähnlichen " deutschen Tugenden " in einen Billardsalon geflüchtet waren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zwei	*	*	*	*
+2	der	*	*	*	*
+3	Brüder	*	*	*	*
+4	saßen	1	1	1	1
+5	bekanntlich	*	*	*	*
+6	auf	1	1	1	1
+7	der	*	*	*	*
+8	Ersatzbank	1	1	1	1
+9	der	*	*	*	*
+10	Engländer	*	*	*	*
+11	,	*	*	*	*
+12	später	*	*	*	*
+13	durften	*	*	*	*
+14	die	*	*	*	*
+15	kompletten	*	*	*	*
+16	Brothers	*	*	*	*
+17	Tell	*	*	*	*
+18	Me	*	*	*	*
+19	Like	*	*	*	*
+20	It	*	*	*	*
+21	Is	*	*	*	*
+22	im	*	*	*	*
+23	Hamburger	*	*	*	*
+24	Dudelfunk	*	*	*	*
+25	zum	*	*	*	*
+26	Besten	*	*	*	*
+27	geben	*	*	*	*
+28	-	*	*	*	*
+29	aber	*	*	*	*
+30	das	*	*	*	*
+31	war	*	*	*	*
+32	lange	*	*	*	*
+33	nach	*	*	*	*
+34	Spielschluß	*	*	*	*
+35	,	*	*	*	*
+36	als	*	*	*	*
+37	wir	*	*	*	*
+38	vor	*	*	*	*
+39	den	*	*	*	*
+40	Autocorsos	*	*	*	*
+41	und	*	*	*	*
+42	ähnlichen	*	*	*	*
+43	"	*	*	*	*
+44	deutschen	*	*	*	*
+45	Tugenden	*	*	*	*
+46	"	*	*	*	*
+47	in	*	*	*	*
+48	einen	*	*	*	*
+49	Billardsalon	*	*	*	*
+50	geflüchtet	*	*	*	*
+51	waren	*	*	*	*
+52	.	*	*	*	*
+
+# article_id = T930216.83
+# text = Auf der Ersatzbank des Dürkheimer HC , des Finalgegners aus diesem und dem letzten Jahr , saß derweil Christian Mayerhöfer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	1	1	1	1
+2	der	*	*	*	*
+3	Ersatzbank	1	1	1	1
+4	des	*	*	*	*
+5	Dürkheimer	*	*	*	*
+6	HC	*	*	*	*
+7	,	*	*	*	*
+8	des	*	*	*	*
+9	Finalgegners	*	*	*	*
+10	aus	*	*	*	*
+11	diesem	*	*	*	*
+12	und	*	*	*	*
+13	dem	*	*	*	*
+14	letzten	*	*	*	*
+15	Jahr	*	*	*	*
+16	,	*	*	*	*
+17	saß	1	1	1	1
+18	derweil	*	*	*	*
+19	Christian	*	*	*	*
+20	Mayerhöfer	*	*	*	*
+21	.	*	*	*	*
+
+# article_id = T930224.95
+# text = Die nämlich sitzen dann bei Berlusconi und seinen Freunden auf Ersatzbank oder Tribüne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	nämlich	*	*	*	*
+3	sitzen	2	1	2	2
+4	dann	*	*	*	*
+5	bei	*	*	*	*
+6	Berlusconi	*	*	*	*
+7	und	*	*	*	*
+8	seinen	*	*	*	*
+9	Freunden	*	*	*	*
+10	auf	2	1	2	2
+11	Ersatzbank	2	1	2	2
+12	oder	*	*	*	*
+13	Tribüne	*	*	*	*
+14	.	*	*	*	*
+
+# article_id = T931004.176
+# text = Denn sein Meisterstück ( die Hauptstadt ) sitzt immer noch auf der Ersatzbank von / für Deutschland .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	*	*	*	*
+2	sein	*	*	*	*
+3	Meisterstück	*	*	*	*
+4	(	*	*	*	*
+5	die	*	*	*	*
+6	Hauptstadt	*	*	*	*
+7	)	*	*	*	*
+8	sitzt	2	2	2	2
+9	immer	*	*	*	*
+10	noch	*	*	*	*
+11	auf	2	2	2	2
+12	der	*	*	*	*
+13	Ersatzbank	2	2	2	2
+14	von	*	*	*	*
+15	/	*	*	*	*
+16	für	*	*	*	*
+17	Deutschland	*	*	*	*
+18	.	*	*	*	*
+
+# article_id = T930522.319
+# text = Beim vermeintlichen Abstiegskick in Duisburg treffen die Paulianer Toni Sailer wieder - der sitzt dort auf der Ersatzbank
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beim	*	*	*	*
+2	vermeintlichen	*	*	*	*
+3	Abstiegskick	*	*	*	*
+4	in	*	*	*	*
+5	Duisburg	*	*	*	*
+6	treffen	*	*	*	*
+7	die	*	*	*	*
+8	Paulianer	*	*	*	*
+9	Toni	*	*	*	*
+10	Sailer	*	*	*	*
+11	wieder	*	*	*	*
+12	-	*	*	*	*
+13	der	*	*	*	*
+14	sitzt	1	1	1	1
+15	dort	*	*	*	*
+16	auf	1	1	1	1
+17	der	*	*	*	*
+18	Ersatzbank	1	1	1	1
+
+# article_id = T970102.106
+# text = Berlin , 6. September : Nachdem er bisher nur auf der Ersatzbank saß und schon damit gedroht hatte , Australier zu werden , schlägt beim WM-Qualifikationsspiel gegen Portugal endlich die große Stunde von Sean Dundee .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berlin	*	*	*	*
+2	,	*	*	*	*
+3	6	*	*	*	*
+4	.	*	*	*	*
+5	September	*	*	*	*
+6	:	*	*	*	*
+7	Nachdem	*	*	*	*
+8	er	*	*	*	*
+9	bisher	*	*	*	*
+10	nur	*	*	*	*
+11	auf	1	1	1	1
+12	der	*	*	*	*
+13	Ersatzbank	1	1	1	1
+14	saß	1	1	1	1
+15	und	*	*	*	*
+16	schon	*	*	*	*
+17	damit	*	*	*	*
+18	gedroht	*	*	*	*
+19	hatte	*	*	*	*
+20	,	*	*	*	*
+21	Australier	*	*	*	*
+22	zu	*	*	*	*
+23	werden	*	*	*	*
+24	,	*	*	*	*
+25	schlägt	*	*	*	*
+26	beim	*	*	*	*
+27	WM-Qualifikationsspiel	*	*	*	*
+28	gegen	*	*	*	*
+29	Portugal	*	*	*	*
+30	endlich	*	*	*	*
+31	die	*	*	*	*
+32	große	*	*	*	*
+33	Stunde	*	*	*	*
+34	von	*	*	*	*
+35	Sean	*	*	*	*
+36	Dundee	*	*	*	*
+37	.	*	*	*	*
+
+# article_id = T970919.358
+# text = Den Ersatztorwart Frank Rost werden auch seine flotten Sprüche im Sportmagazin " Kicker " nicht von der Ersatzbank ins Tor befördern , prophezeit Werder-Sprecherin Marita Hanke : " Am Samstag gegen Borussia Dortmund sitzt Rost auf der Bank , und Reck steht im Tor .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Den	*	*	*	*
+2	Ersatztorwart	*	*	*	*
+3	Frank	*	*	*	*
+4	Rost	*	*	*	*
+5	werden	*	*	*	*
+6	auch	*	*	*	*
+7	seine	*	*	*	*
+8	flotten	*	*	*	*
+9	Sprüche	*	*	*	*
+10	im	*	*	*	*
+11	Sportmagazin	*	*	*	*
+12	"	*	*	*	*
+13	Kicker	*	*	*	*
+14	"	*	*	*	*
+15	nicht	*	*	*	*
+16	von	1	1	1	1
+17	der	*	*	*	*
+18	Ersatzbank	1	1	1	1
+19	ins	*	*	*	*
+20	Tor	*	*	*	*
+21	befördern	*	*	*	*
+22	,	*	*	*	*
+23	prophezeit	*	*	*	*
+24	Werder-Sprecherin	*	*	*	*
+25	Marita	*	*	*	*
+26	Hanke	*	*	*	*
+27	:	*	*	*	*
+28	"	*	*	*	*
+29	Am	*	*	*	*
+30	Samstag	*	*	*	*
+31	gegen	*	*	*	*
+32	Borussia	*	*	*	*
+33	Dortmund	*	*	*	*
+34	sitzt	1	1	1	1
+35	Rost	*	*	*	*
+36	auf	*	*	*	*
+37	der	*	*	*	*
+38	Bank	*	*	*	*
+39	,	*	*	*	*
+40	und	*	*	*	*
+41	Reck	*	*	*	*
+42	steht	*	*	*	*
+43	im	*	*	*	*
+44	Tor	*	*	*	*
+45	.	*	*	*	*
+
+# article_id = T970923.117
+# text = Im vierten Saisonspiel gegen die Bolton Wanderers saß der Deutsche wie gewohnt auf der Ersatzbank , " richtig cool , ich wollte mir einen schönen Nachmittag machen " - doch auf einmal lag Barnsleys erster Torwart verletzt am Boden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	*	*	*	*
+2	vierten	*	*	*	*
+3	Saisonspiel	*	*	*	*
+4	gegen	*	*	*	*
+5	die	*	*	*	*
+6	Bolton	*	*	*	*
+7	Wanderers	*	*	*	*
+8	saß	1	1	1	1
+9	der	*	*	*	*
+10	Deutsche	*	*	*	*
+11	wie	*	*	*	*
+12	gewohnt	*	*	*	*
+13	auf	1	1	1	1
+14	der	*	*	*	*
+15	Ersatzbank	1	1	1	1
+16	,	*	*	*	*
+17	"	*	*	*	*
+18	richtig	*	*	*	*
+19	cool	*	*	*	*
+20	,	*	*	*	*
+21	ich	*	*	*	*
+22	wollte	*	*	*	*
+23	mir	*	*	*	*
+24	einen	*	*	*	*
+25	schönen	*	*	*	*
+26	Nachmittag	*	*	*	*
+27	machen	*	*	*	*
+28	"	*	*	*	*
+29	-	*	*	*	*
+30	doch	*	*	*	*
+31	auf	*	*	*	*
+32	einmal	*	*	*	*
+33	lag	*	*	*	*
+34	Barnsleys	*	*	*	*
+35	erster	*	*	*	*
+36	Torwart	*	*	*	*
+37	verletzt	*	*	*	*
+38	am	*	*	*	*
+39	Boden	*	*	*	*
+40	.	*	*	*	*
+
+# article_id = T950227.121
+# text = Doch der saß des taktischen Kalküls wegen auf der Ersatzbank und mußte zusehen : etwa wie Pavel Hapal , der des taktischen Kalküls wegen mitmachen durfte , das freie Tor ( 3. ) oder schlicht den Ball ( 9. ) nicht traf , über die eigenen Beine stolperte und überhaupt eine mitleiderregende Figur abgab .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	*	*	*	*
+2	der	*	*	*	*
+3	saß	1	1	1	1
+4	des	*	*	*	*
+5	taktischen	*	*	*	*
+6	Kalküls	*	*	*	*
+7	wegen	*	*	*	*
+8	auf	1	1	1	1
+9	der	*	*	*	*
+10	Ersatzbank	1	1	1	1
+11	und	*	*	*	*
+12	mußte	*	*	*	*
+13	zusehen	*	*	*	*
+14	:	*	*	*	*
+15	etwa	*	*	*	*
+16	wie	*	*	*	*
+17	Pavel	*	*	*	*
+18	Hapal	*	*	*	*
+19	,	*	*	*	*
+20	der	*	*	*	*
+21	des	*	*	*	*
+22	taktischen	*	*	*	*
+23	Kalküls	*	*	*	*
+24	wegen	*	*	*	*
+25	mitmachen	1	1	1	1
+26	durfte	*	*	*	*
+27	,	*	*	*	*
+28	das	*	*	*	*
+29	freie	*	*	*	*
+30	Tor	*	*	*	*
+31	(	*	*	*	*
+32	3	*	*	*	*
+33	.	*	*	*	*
+34	)	*	*	*	*
+35	oder	*	*	*	*
+36	schlicht	*	*	*	*
+37	den	*	*	*	*
+38	Ball	*	*	*	*
+39	(	*	*	*	*
+40	9	*	*	*	*
+41	.	*	*	*	*
+42	)	*	*	*	*
+43	nicht	*	*	*	*
+44	traf	*	*	*	*
+45	,	*	*	*	*
+46	über	*	*	*	*
+47	die	*	*	*	*
+48	eigenen	*	*	*	*
+49	Beine	*	*	*	*
+50	stolperte	*	*	*	*
+51	und	*	*	*	*
+52	überhaupt	*	*	*	*
+53	eine	*	*	*	*
+54	mitleiderregende	*	*	*	*
+55	Figur	*	*	*	*
+56	abgab	*	*	*	*
+57	.	*	*	*	*
+
+# article_id = T950814.223
+# text = Gegen Düsseldorf saßen mit Beiersdorfer , Borowka , Neubarth , Schulz und Votava fünf Ex-Nationalspieler und Rehagel-Stars auf der Ersatzbank oder der Tribüne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gegen	*	*	*	*
+2	Düsseldorf	*	*	*	*
+3	saßen	1	1	1	1
+4	mit	*	*	*	*
+5	Beiersdorfer	*	*	*	*
+6	,	*	*	*	*
+7	Borowka	*	*	*	*
+8	,	*	*	*	*
+9	Neubarth	*	*	*	*
+10	,	*	*	*	*
+11	Schulz	*	*	*	*
+12	und	*	*	*	*
+13	Votava	*	*	*	*
+14	fünf	*	*	*	*
+15	Ex-Nationalspieler	*	*	*	*
+16	und	*	*	*	*
+17	Rehagel-Stars	*	*	*	*
+18	auf	1	1	1	1
+19	der	*	*	*	*
+20	Ersatzbank	1	1	1	1
+21	oder	*	*	*	*
+22	der	*	*	*	*
+23	Tribüne	*	*	*	*
+24	.	*	*	*	*
+
+# article_id = T980124.40
+# text = Die Bremer sitzen auf jeden Fall erstmal auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Bremer	*	*	*	*
+3	sitzen	2	2	2	2
+4	auf	*	*	*	*
+5	jeden	*	*	*	*
+6	Fall	*	*	*	*
+7	erstmal	*	*	*	*
+8	auf	2	2	2	2
+9	der	*	*	*	*
+10	Ersatzbank	2	2	2	2
+11	.	*	*	*	*
+
+# article_id = T980807.111
+# text = Nach fünf Trainingseinheiten in Tel Aviv können sie jetzt zwar leidlich dribbeln , sitzen aber die meiste Zeit auf der Ersatzbank .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nach	*	*	*	*
+2	fünf	*	*	*	*
+3	Trainingseinheiten	*	*	*	*
+4	in	*	*	*	*
+5	Tel	*	*	*	*
+6	Aviv	*	*	*	*
+7	können	*	*	*	*
+8	sie	*	*	*	*
+9	jetzt	*	*	*	*
+10	zwar	*	*	*	*
+11	leidlich	*	*	*	*
+12	dribbeln	*	*	*	*
+13	,	*	*	*	*
+14	sitzen	1	1	1	1
+15	aber	*	*	*	*
+16	die	*	*	*	*
+17	meiste	*	*	*	*
+18	Zeit	*	*	*	*
+19	auf	1	1	1	1
+20	der	*	*	*	*
+21	Ersatzbank	1	1	1	1
+22	.	*	*	*	*
+
+# article_id = T980807.277
+# text = Der Pröpper-Nachfolger sitzt auch am Sonntag wieder auf der Ersatzbank .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Der	*	*	*	*
+2	Pröpper-Nachfolger	*	*	*	*
+3	sitzt	1	1	1	1
+4	auch	*	*	*	*
+5	am	*	*	*	*
+6	Sonntag	*	*	*	*
+7	wieder	*	*	*	*
+8	auf	1	1	1	1
+9	der	*	*	*	*
+10	Ersatzbank	1	1	1	1
+11	.	*	*	*	*
+
+# article_id = T980605.163
+# text = Ich saß auf der Ersatzbank , als wir 1966 in Hannover 0:2 verloren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	*	*	*	*
+2	saß	1	1	1	1
+3	auf	1	1	1	1
+4	der	*	*	*	*
+5	Ersatzbank	1	1	1	1
+6	,	*	*	*	*
+7	als	*	*	*	*
+8	wir	*	*	*	*
+9	1966	*	*	*	*
+10	in	*	*	*	*
+11	Hannover	*	*	*	*
+12	0:2	*	*	*	*
+13	verloren	*	*	*	*
+14	.	*	*	*	*
+
+# article_id = T980626.131
+# text = Da werden Spieler aufgestellt , die in ihrem Club nur auf der Ersatzbank sitzen , große Stars bleiben zu Hause .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	*	*	*	*
+2	werden	*	*	*	*
+3	Spieler	*	*	*	*
+4	aufgestellt	*	*	*	*
+5	,	*	*	*	*
+6	die	*	*	*	*
+7	in	*	*	*	*
+8	ihrem	*	*	*	*
+9	Club	*	*	*	*
+10	nur	*	*	*	*
+11	auf	1	1	1	1
+12	der	*	*	*	*
+13	Ersatzbank	1	1	1	1
+14	sitzen	1	1	1	1
+15	,	*	*	*	*
+16	große	*	*	*	*
+17	Stars	*	*	*	*
+18	bleiben	*	*	*	*
+19	zu	*	*	*	*
+20	Hause	*	*	*	*
+21	.	*	*	*	*
+
+# article_id = T980613.146
+# text = Der nach blamablen Testspiel-Niederlagen von einigen Spielern scharf kritisierte Serbe gewann die Machtprobe mit den " Revoluzzern " und zog erste Konsequenzen : Der frühere Frankfurter Bundesligaspieler Jay-Jay Okocha sitzt gegen Spanien auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	nach	*	*	*	*
+3	blamablen	*	*	*	*
+4	Testspiel-Niederlagen	*	*	*	*
+5	von	*	*	*	*
+6	einigen	*	*	*	*
+7	Spielern	*	*	*	*
+8	scharf	*	*	*	*
+9	kritisierte	*	*	*	*
+10	Serbe	*	*	*	*
+11	gewann	*	*	*	*
+12	die	*	*	*	*
+13	Machtprobe	*	*	*	*
+14	mit	*	*	*	*
+15	den	*	*	*	*
+16	"	*	*	*	*
+17	Revoluzzern	*	*	*	*
+18	"	*	*	*	*
+19	und	*	*	*	*
+20	zog	*	*	*	*
+21	erste	*	*	*	*
+22	Konsequenzen	*	*	*	*
+23	:	*	*	*	*
+24	Der	*	*	*	*
+25	frühere	*	*	*	*
+26	Frankfurter	*	*	*	*
+27	Bundesligaspieler	*	*	*	*
+28	Jay-Jay	*	*	*	*
+29	Okocha	*	*	*	*
+30	sitzt	1	1	1	1
+31	gegen	*	*	*	*
+32	Spanien	*	*	*	*
+33	auf	1	1	1	1
+34	der	*	*	*	*
+35	Ersatzbank	1	1	1	1
+36	.	*	*	*	*
+
+# article_id = T980428.56
+# text = Bei den Bayern sitzen die dann die ganze Saison nur auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	*	*	*	*
+2	den	*	*	*	*
+3	Bayern	*	*	*	*
+4	sitzen	1	1	1	1
+5	die	*	*	*	*
+6	dann	*	*	*	*
+7	die	*	*	*	*
+8	ganze	*	*	*	*
+9	Saison	*	*	*	*
+10	nur	*	*	*	*
+11	auf	1	1	1	1
+12	der	*	*	*	*
+13	Ersatzbank	1	1	1	1
+14	.	*	*	*	*
+

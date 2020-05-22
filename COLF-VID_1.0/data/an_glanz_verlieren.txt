@@ -1,0 +1,518 @@
+# article_id = T890512.153
+# text = Allerdings hat das Experiment , über den Bildschirm das Evangelium zu verkünden - sei es als Varietevorstellung oder als bibelversdonnernde Predigt - , in letzter Zeit durch einige Predigeraffären erheblich an Glanz und damit auch an Geld verloren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Allerdings	allerdings	ADV	*	*	*	*
+2	hat	haben	VAFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	Experiment	Experiment	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	über	über	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Bildschirm	Bildschirm	NN	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	Evangelium	Evangelium	NN	*	*	*	*
+11	zu	zu	PTKZU	*	*	*	*
+12	verkünden	verkünden	VVINF	*	*	*	*
+13	-	-	$(	*	*	*	*
+14	sei	sein	VAFIN	*	*	*	*
+15	es	es	PPER	*	*	*	*
+16	als	als	KOKOM	*	*	*	*
+17	Varietevorstellung	<unknown>	NN	*	*	*	*
+18	oder	oder	KON	*	*	*	*
+19	als	als	KOKOM	*	*	*	*
+20	bibelversdonnernde	<unknown>	ADJA	*	*	*	*
+21	Predigt	Predigt	NN	*	*	*	*
+22	-	-	$(	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	letzter	letzt	ADJA	*	*	*	*
+26	Zeit	Zeit	NN	*	*	*	*
+27	durch	durch	APPR	*	*	*	*
+28	einige	einige	PIAT	*	*	*	*
+29	Predigeraffären	<unknown>	NN	*	*	*	*
+30	erheblich	erheblich	ADJD	*	*	*	*
+31	an	an	APPR	2	2	2	2
+32	Glanz	Glanz	NN	2	2	2	2
+33	und	und	KON	*	*	*	*
+34	damit	damit	PAV	*	*	*	*
+35	auch	auch	ADV	*	*	*	*
+36	an	an	APPR	*	*	*	*
+37	Geld	Geld	NN	*	*	*	*
+38	verloren	verlieren	VVPP	2	2	2	2
+39	.	.	$.	*	*	*	*
+
+# article_id = T900531.61
+# text = Die großen Hoffnungsträger in der Regierung verlieren an Glanz .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	großen	groß	ADJA	*	*	*	*
+3	Hoffnungsträger	Hoffnungsträger	NN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Regierung	Regierung	NN	*	*	*	*
+7	verlieren	verlieren	VVFIN	2	2	2	2
+8	an	an	APPR	2	2	2	2
+9	Glanz	Glanz	NN	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T900405.131
+# text = Der Brillanteffekt verliert an Glanz .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Der	die	ART	*	*	*	*
+2	Brillanteffekt	<unknown>	NN	*	*	*	*
+3	verliert	verlieren	VVFIN	2	2	2	2
+4	an	an	APPR	2	2	2	2
+5	Glanz	Glanz	NN	2	2	2	2
+6	.	.	$.	*	*	*	*
+
+# article_id = T920131.75
+# text = Aber die Zweifel an der mechanistischen Landwirtschaft und Medizin wachsen , die Vision von der Unterwerfung der Natur verliert ihren Glanz , und das Klima ändert sich - im wörtlichen wie im übertragenen Sinne .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Aber	aber	KON	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Zweifel	Zweifel	NN	*	*	*	*
+4	an	an	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	mechanistischen	<unknown>	ADJA	*	*	*	*
+7	Landwirtschaft	Landwirtschaft	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Medizin	Medizin	NN	*	*	*	*
+10	wachsen	wachsen	VVINF	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Vision	Vision	NN	*	*	*	*
+14	von	von	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Unterwerfung	Unterwerfung	NN	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Natur	Natur	NN	*	*	*	*
+19	verliert	verlieren	VVFIN	2	2	2	2
+20	ihren	ihr	PPOSAT	*	*	*	*
+21	Glanz	Glanz	NN	2	2	2	2
+22	,	,	$,	*	*	*	*
+23	und	und	KON	*	*	*	*
+24	das	die	ART	*	*	*	*
+25	Klima	Klima	NN	*	*	*	*
+26	ändert	ändern	VVFIN	*	*	*	*
+27	sich	sich	PRF	*	*	*	*
+28	-	-	$(	*	*	*	*
+29	im	in	APPRART	*	*	*	*
+30	wörtlichen	wörtlich	ADJA	*	*	*	*
+31	wie	wie	KOKOM	*	*	*	*
+32	im	in	APPRART	*	*	*	*
+33	übertragenen	übertragen	ADJA	*	*	*	*
+34	Sinne	Sinn	NN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T880628.150
+# text = Der Effekt ist verblüffend : Saint-Saens Musik verliert an virtuosem Glanz und gewinnt an Substanz .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Effekt	Effekt	NN	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	verblüffend	verblüffend	ADJD	*	*	*	*
+5	:	:	$.	*	*	*	*
+6	Saint-Saens	<unknown>	ADJA	*	*	*	*
+7	Musik	Musik	NN	*	*	*	*
+8	verliert	verlieren	VVFIN	2	2	2	2
+9	an	an	APPR	2	2	2	2
+10	virtuosem	virtuos	ADJA	*	*	*	*
+11	Glanz	Glanz	NN	2	2	2	2
+12	und	und	KON	*	*	*	*
+13	gewinnt	gewinnen	VVFIN	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	Substanz	Substanz	NN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T881006.31
+# text = Die Tracht der Partei verliert an Glanz , doch der Apparat steht bis ins letzte Dorf
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Tracht	Tracht	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Partei	Partei	NN	*	*	*	*
+5	verliert	verlieren	VVFIN	2	2	2	2
+6	an	an	APPR	2	2	2	2
+7	Glanz	Glanz	NN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	doch	doch	KON	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Apparat	Apparat	NN	*	*	*	*
+12	steht	stehen	VVFIN	*	*	*	*
+13	bis	bis	KON	*	*	*	*
+14	ins	in	APPRART	*	*	*	*
+15	letzte	letzt	ADJA	*	*	*	*
+16	Dorf	Dorf	NN	*	*	*	*
+
+# article_id = T881006.31
+# text = Wenn jetzt durch das Abtreten von Strauß die Tracht an Glanz verliert und damit als beruhigendes Element der Tradition wegfällt , weil sie keiner seiner Nachfolger mehr erfolgreich als Deckmantel benützen kann , verliert auch die CSU nach und nach an Faszination .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	jetzt	jetzt	ADV	*	*	*	*
+3	durch	durch	APPR	*	*	*	*
+4	das	die	ART	*	*	*	*
+5	Abtreten	Abtreten	NN	*	*	*	*
+6	von	von	APPR	*	*	*	*
+7	Strauß	Strauß	NE	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Tracht	Tracht	NN	*	*	*	*
+10	an	an	APPR	2	2	2	2
+11	Glanz	Glanz	NN	2	2	2	2
+12	verliert	verlieren	VVFIN	2	2	2	2
+13	und	und	KON	*	*	*	*
+14	damit	damit	PAV	*	*	*	*
+15	als	als	KOKOM	*	*	*	*
+16	beruhigendes	beruhigend	ADJA	*	*	*	*
+17	Element	Element	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Tradition	Tradition	NN	*	*	*	*
+20	wegfällt	wegfallen	VVFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	weil	weil	KOUS	*	*	*	*
+23	sie	sie	PPER	*	*	*	*
+24	keiner	keine	PIS	*	*	*	*
+25	seiner	sein	PPOSAT	*	*	*	*
+26	Nachfolger	Nachfolger	NN	*	*	*	*
+27	mehr	mehr	ADV	*	*	*	*
+28	erfolgreich	erfolgreich	ADJD	*	*	*	*
+29	als	als	KOKOM	*	*	*	*
+30	Deckmantel	Deckmantel	NN	*	*	*	*
+31	benützen	benützen	VVINF	*	*	*	*
+32	kann	können	VMFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	verliert	verlieren	VVFIN	*	*	*	*
+35	auch	auch	ADV	*	*	*	*
+36	die	die	ART	*	*	*	*
+37	CSU	CSU	NE	*	*	*	*
+38	nach	nach	PTKVZ	*	*	*	*
+39	und	und	KON	*	*	*	*
+40	nach	nach	ADV	*	*	*	*
+41	an	an	APPR	*	*	*	*
+42	Faszination	Faszination	NN	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T930324.49
+# text = Doch heute ist alles ganz anders : Der Rohstoff hat längst an Glanz und Anziehungskraft verloren .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Doch	doch	KON	*	*	*	*
+2	heute	heute	ADV	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	alles	alle	PIS	*	*	*	*
+5	ganz	ganz	ADV	*	*	*	*
+6	anders	anders	ADV	*	*	*	*
+7	:	:	$.	*	*	*	*
+8	Der	die	ART	*	*	*	*
+9	Rohstoff	Rohstoff	NN	*	*	*	*
+10	hat	haben	VAFIN	*	*	*	*
+11	längst	längst	ADV	*	*	*	*
+12	an	an	APPR	2	2	2	2
+13	Glanz	Glanz	NN	2	2	2	2
+14	und	und	KON	*	*	*	*
+15	Anziehungskraft	Anziehungskraft	NN	*	*	*	*
+16	verloren	verlieren	VVPP	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T960219.170
+# text = Dieses Leid- Motiv ist tatsächlich das Leitmotiv des Films , der die Wandlung des englischen Simplicissimus vom eitlen , aber nicht völlig an den Glanz verlorenen Gecken zum Heiler und Aufklärer beschreibt .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Dieses	dies	PDAT	*	*	*	*
+2	Leid-	<unknown>	TRUNC	*	*	*	*
+3	Motiv	Motiv	NN	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	tatsächlich	tatsächlich	ADJD	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Leitmotiv	Leitmotiv	NN	*	*	*	*
+8	des	die	ART	*	*	*	*
+9	Films	Film	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	PRELS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Wandlung	Wandlung	NN	*	*	*	*
+14	des	die	ART	*	*	*	*
+15	englischen	englisch	ADJA	*	*	*	*
+16	Simplicissimus	<unknown>	NN	*	*	*	*
+17	vom	von	APPRART	*	*	*	*
+18	eitlen	eitel	ADJA	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	aber	aber	ADV	*	*	*	*
+21	nicht	nicht	PTKNEG	*	*	*	*
+22	völlig	völlig	ADJD	*	*	*	*
+23	an	an	APPR	2	2	2	2
+24	den	die	ART	*	*	*	*
+25	Glanz	Glanz	NN	2	2	2	2
+26	verlorenen	verloren	ADJA	2	2	2	2
+27	Gecken	Geck	NN	*	*	*	*
+28	zum	zu	APPRART	*	*	*	*
+29	Heiler	Heile	NN	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	Aufklärer	Aufklärer	NN	*	*	*	*
+32	beschreibt	beschreiben	VVFIN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T980415.221
+# text = Doch läßt sich das prominente BBC-Programm , das dort seit 34 Jahren läuft und läuft und läuft , auf deutsche Verhältnisse übertragen , ohne daß es dabei an Glanz verliert ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	ADV	*	*	*	*
+2	läßt	lassen	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	das	die	ART	*	*	*	*
+5	prominente	prominent	ADJA	*	*	*	*
+6	BBC-Programm	BBC-Programm	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	das	die	PRELS	*	*	*	*
+9	dort	dort	ADV	*	*	*	*
+10	seit	seit	APPR	*	*	*	*
+11	34	@card@	CARD	*	*	*	*
+12	Jahren	Jahr	NN	*	*	*	*
+13	läuft	laufen	VVFIN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	läuft	laufen	VVFIN	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	läuft	laufen	VVFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	auf	auf	APPR	*	*	*	*
+20	deutsche	deutsch	ADJA	*	*	*	*
+21	Verhältnisse	Verhältnis	NN	*	*	*	*
+22	übertragen	übertragen	VVPP	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	ohne	ohne	APPR	*	*	*	*
+25	daß	dass	KOUS	*	*	*	*
+26	es	es	PPER	*	*	*	*
+27	dabei	dabei	PAV	*	*	*	*
+28	an	an	APPR	2	2	2	2
+29	Glanz	Glanz	NN	2	2	2	2
+30	verliert	verlieren	VVFIN	2	2	2	2
+31	?	?	$.	*	*	*	*
+
+# article_id = T981221.79
+# text = Das von Luschkow reklamierte " Wirtschaftswunder " in Moskau dürfte bald an Glanz verlieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	Luschkow	<unknown>	NE	*	*	*	*
+4	reklamierte	reklamiert	ADJA	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Wirtschaftswunder	Wirtschaftswunder	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	Moskau	Moskau	NE	*	*	*	*
+10	dürfte	dürfen	VMFIN	*	*	*	*
+11	bald	bald	ADV	*	*	*	*
+12	an	an	APPR	2	2	2	2
+13	Glanz	Glanz	NN	2	2	2	2
+14	verlieren	verlieren	VVINF	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T971004.302
+# text = Im selben Moment wurde Azraa'eels Körper übersät mit den Augen aller lebenden Wesen , und wenn ein Wesen starb , verloren die Augen des toten Wesens ihren Glanz und fielen von Azraa'eels Körper ab , und die Augen eines neugeborenen Wesens erschienen an ihrer Stelle .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Im	in	APPRART	*	*	*	*
+2	selben	selb	PDAT	*	*	*	*
+3	Moment	Moment	NN	*	*	*	*
+4	wurde	werden	VAFIN	*	*	*	*
+5	Azraa'eels	<unknown>	NN	*	*	*	*
+6	Körper	Körper	NN	*	*	*	*
+7	übersät	übersät	ADJD	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Augen	Auge	NN	*	*	*	*
+11	aller	alle	PIAT	*	*	*	*
+12	lebenden	lebend	ADJA	*	*	*	*
+13	Wesen	Wesen	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	wenn	wenn	KOUS	*	*	*	*
+17	ein	eine	ART	*	*	*	*
+18	Wesen	Wesen	NN	*	*	*	*
+19	starb	sterben	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	verloren	verlieren	VVFIN	1	4	2	3
+22	die	die	ART	*	*	*	*
+23	Augen	Auge	NN	*	*	*	*
+24	des	die	ART	*	*	*	*
+25	toten	tot	ADJA	*	*	*	*
+26	Wesens	Wesen	NN	*	*	*	*
+27	ihren	ihr	PPOSAT	*	*	*	*
+28	Glanz	Glanz	NN	1	4	2	3
+29	und	und	KON	*	*	*	*
+30	fielen	fallen	VVFIN	*	*	*	*
+31	von	von	APPR	*	*	*	*
+32	Azraa'eels	<unknown>	NN	*	*	*	*
+33	Körper	Körper	NN	*	*	*	*
+34	ab	ab	PTKVZ	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Augen	Auge	NN	*	*	*	*
+39	eines	eine	ART	*	*	*	*
+40	neugeborenen	neugeboren	ADJA	*	*	*	*
+41	Wesens	Wesen	NN	*	*	*	*
+42	erschienen	erscheinen	VVPP	*	*	*	*
+43	an	an	APPR	*	*	*	*
+44	ihrer	ihr	PPOSAT	*	*	*	*
+45	Stelle	Stelle	NN	*	*	*	*
+46	.	.	$.	*	*	*	*
+
+# article_id = T940219.317
+# text = Diese traute Idylle von Politik und Planung verliert jedoch schnell an Glanz , wendet man sich den Innereien des Gutachtens und seinen voraussichtlichen Konsequenzen zu .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Diese	dies	PDAT	*	*	*	*
+2	traute	traut	ADJA	*	*	*	*
+3	Idylle	Idylle	NN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	Politik	Politik	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	Planung	Planung	NN	*	*	*	*
+8	verliert	verlieren	VVFIN	2	2	2	2
+9	jedoch	jedoch	ADV	*	*	*	*
+10	schnell	schnell	ADJD	*	*	*	*
+11	an	an	APPR	2	2	2	2
+12	Glanz	Glanz	NN	2	2	2	2
+13	,	,	$,	*	*	*	*
+14	wendet	wenden	VVFIN	*	*	*	*
+15	man	man	PIS	*	*	*	*
+16	sich	sich	PRF	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Innereien	Innerei	NN	*	*	*	*
+19	des	die	ART	*	*	*	*
+20	Gutachtens	Gutachten	NN	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	seinen	sein	PPOSAT	*	*	*	*
+23	voraussichtlichen	voraussichtlich	ADJA	*	*	*	*
+24	Konsequenzen	Konsequenz	NN	*	*	*	*
+25	zu	zu	PTKVZ	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T950505.245
+# text = Jeder der drei Tänzer darf einmal mit der einen Tänzerin im Duett sich als Macho zeigen , während eine Million Papierschnipsel auf dem Boden liegen - das ist ein bißchen glatt , zu klischeehaft auch , und die Bewegungen gehen zu sehr ins Sportive und verlieren an Glanz .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Jeder	jede	PIS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	drei	drei	CARD	*	*	*	*
+4	Tänzer	Tänzer	NN	*	*	*	*
+5	darf	dürfen	VMFIN	*	*	*	*
+6	einmal	einmal	ADV	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	einen	einen	ADJA	*	*	*	*
+10	Tänzerin	Tänzerin	NN	*	*	*	*
+11	im	in	APPRART	*	*	*	*
+12	Duett	Duett	NN	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	als	als	KOKOM	*	*	*	*
+15	Macho	Macho	NN	*	*	*	*
+16	zeigen	zeigen	VVINF	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	während	während	KOUS	*	*	*	*
+19	eine	eine	ART	*	*	*	*
+20	Million	Million	NN	*	*	*	*
+21	Papierschnipsel	<unknown>	NN	*	*	*	*
+22	auf	auf	APPR	*	*	*	*
+23	dem	die	ART	*	*	*	*
+24	Boden	Boden	NN	*	*	*	*
+25	liegen	liegen	VVFIN	*	*	*	*
+26	-	-	$(	*	*	*	*
+27	das	die	PDS	*	*	*	*
+28	ist	sein	VAFIN	*	*	*	*
+29	ein	eine	ART	*	*	*	*
+30	bißchen	bisschen	ADV	*	*	*	*
+31	glatt	glatt	ADJD	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	zu	zu	APPR	*	*	*	*
+34	klischeehaft	klischeehaft	ADJD	*	*	*	*
+35	auch	auch	ADV	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	und	und	KON	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	Bewegungen	Bewegung	NN	*	*	*	*
+40	gehen	gehen	VVFIN	*	*	*	*
+41	zu	zu	APPR	*	*	*	*
+42	sehr	sehr	ADV	*	*	*	*
+43	ins	in	APPRART	*	*	*	*
+44	Sportive	Sportive	NN	*	*	*	*
+45	und	und	KON	*	*	*	*
+46	verlieren	verlieren	VVFIN	2	2	2	2
+47	an	an	APPR	2	2	2	2
+48	Glanz	Glanz	NN	2	2	2	2
+49	.	.	$.	*	*	*	*
+
+# article_id = T951223.340
+# text = Wenn uns unsere Erinnerung nicht täuscht , war dies auch genau der Zeitpunkt , an dem der Heilige Abend insgesamt an Glanz verlor .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wenn	wenn	KOUS	*	*	*	*
+2	uns	wir	PPER	*	*	*	*
+3	unsere	unser	PPOSAT	*	*	*	*
+4	Erinnerung	Erinnerung	NN	*	*	*	*
+5	nicht	nicht	PTKNEG	*	*	*	*
+6	täuscht	täuschen	VVFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	war	sein	VAFIN	*	*	*	*
+9	dies	dies	PDS	*	*	*	*
+10	auch	auch	ADV	*	*	*	*
+11	genau	genau	ADJD	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Zeitpunkt	Zeitpunkt	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	an	an	APPR	*	*	*	*
+16	dem	die	PRELS	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Heilige	Heilige	NN	*	*	*	*
+19	Abend	Abend	NN	*	*	*	*
+20	insgesamt	insgesamt	ADV	*	*	*	*
+21	an	an	APPR	2	2	2	2
+22	Glanz	Glanz	NN	2	2	2	2
+23	verlor	verlieren	VVFIN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T990409.146
+# text = Der Auftritt der Münchner am Mittwoch abend in Kiew zeigte nämlich kraß , daß alles , was in der Bundesliga so überirdisch wirkt , in Europas Spitzenregionen rapide an Glanz verliert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Auftritt	Auftritt	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Münchner	Münchner	NN	*	*	*	*
+5	am	an	APPRART	*	*	*	*
+6	Mittwoch	Mittwoch	NN	*	*	*	*
+7	abend	abend	ADV	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	Kiew	Kiew	NE	*	*	*	*
+10	zeigte	zeigen	VVFIN	*	*	*	*
+11	nämlich	nämlich	ADV	*	*	*	*
+12	kraß	krass	ADJD	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	daß	dass	KOUS	*	*	*	*
+15	alles	alle	PIS	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	was	was	PRELS	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Bundesliga	Bundesliga	NN	*	*	*	*
+21	so	so	ADV	*	*	*	*
+22	überirdisch	überirdisch	ADJD	*	*	*	*
+23	wirkt	wirken	VVFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	in	in	APPR	*	*	*	*
+26	Europas	Europa	NE	*	*	*	*
+27	Spitzenregionen	<unknown>	NN	*	*	*	*
+28	rapide	rapide	ADJD	*	*	*	*
+29	an	an	APPR	2	2	2	2
+30	Glanz	Glanz	NN	2	2	2	2
+31	verliert	verlieren	VVFIN	2	2	2	2
+32	.	.	$.	*	*	*	*
+

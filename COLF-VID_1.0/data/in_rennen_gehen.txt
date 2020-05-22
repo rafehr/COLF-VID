@@ -1,0 +1,2152 @@
+# article_id = T890607.99
+# text = Der Dollar , von den entäuschenden US-Arbeitslosenzahlen geschwächt , erhielt am Montag durch die politischen Ereignisse Unterstützung und ging in Tokio , Singapur und Hongkong nach starkem Auf und Ab halbwegs stabil aus dem Rennen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Dollar	Dollar	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	entäuschenden	<unknown>	ADJA	*	*	*	*
+7	US-Arbeitslosenzahlen	US-Arbeitslosenzahl	NN	*	*	*	*
+8	geschwächt	schwächen	VVPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	erhielt	erhalten	VVFIN	*	*	*	*
+11	am	an	APPRART	*	*	*	*
+12	Montag	Montag	NN	*	*	*	*
+13	durch	durch	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	politischen	politisch	ADJA	*	*	*	*
+16	Ereignisse	Ereignis	NN	*	*	*	*
+17	Unterstützung	Unterstützung	NN	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	ging	gehen	VVFIN	2	2	2	2
+20	in	in	APPR	*	*	*	*
+21	Tokio	Tokio	NE	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	Singapur	Singapur	NE	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	Hongkong	Hongkong	NE	*	*	*	*
+26	nach	nach	APPR	*	*	*	*
+27	starkem	stark	ADJA	*	*	*	*
+28	Auf	<unknown>	ADJA	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	Ab	<unknown>	ADJA	*	*	*	*
+31	halbwegs	halbwegs	ADV	*	*	*	*
+32	stabil	stabil	ADJD	*	*	*	*
+33	aus	aus	APPR	2	2	2	2
+34	dem	die	ART	*	*	*	*
+35	Rennen	Rennen	NN	2	2	2	2
+36	.	.	$.	*	*	*	*
+
+# article_id = T890117.78
+# text = Ganz zu schweigen von der 21jährigen Deutschen Meisterin Petra Becker , die grippegeschwächt in die Rennen gegangen war , aber immerhin den Sprung ins Finale am Sonntag schaffte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ganz	ganz	ADV	*	*	*	*
+2	zu	zu	PTKZU	*	*	*	*
+3	schweigen	schweigen	VVINF	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	21jährigen	21jährig	ADJA	*	*	*	*
+7	Deutschen	deutsch	ADJA	*	*	*	*
+8	Meisterin	Meisterin	NN	*	*	*	*
+9	Petra	Petra	NE	*	*	*	*
+10	Becker	Becker	NE	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	grippegeschwächt	grippegeschwächt	ADJD	*	*	*	*
+14	in	in	APPR	1	1	1	1
+15	die	die	ART	*	*	*	*
+16	Rennen	Rennen	NN	1	1	1	1
+17	gegangen	gehen	VVPP	1	1	1	1
+18	war	sein	VAFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	aber	aber	KON	*	*	*	*
+21	immerhin	immerhin	ADV	*	*	*	*
+22	den	die	ART	*	*	*	*
+23	Sprung	Sprung	NN	*	*	*	*
+24	ins	in	APPRART	*	*	*	*
+25	Finale	Finale	NN	*	*	*	*
+26	am	an	APPRART	*	*	*	*
+27	Sonntag	Sonntag	NN	*	*	*	*
+28	schaffte	schaffen	VVFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T891113.59
+# text = Der Beschluß , die geplante Parteikonferenz in einen Sonderparteitag umzuwandeln , geht in die gleiche Richtung : Er nimmt nicht nur Druck von Seiten der Parteibasis weg , sondern eröffnet auch die Möglichkeit , mit einer weniger kompromittierten Führungsmannschaft - vielleicht sogar einigen Frauen - und besser motivierten Mitgliedern ins politische Rennen zu gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Beschluß	Beschluss	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	geplante	geplant	ADJA	*	*	*	*
+6	Parteikonferenz	Parteikonferenz	NN	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	einen	eine	ART	*	*	*	*
+9	Sonderparteitag	Sonderparteitag	NN	*	*	*	*
+10	umzuwandeln	umwandeln	VVIZU	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	geht	gehen	VVFIN	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	gleiche	gleich	ADJA	*	*	*	*
+16	Richtung	Richtung	NN	*	*	*	*
+17	:	:	$.	*	*	*	*
+18	Er	er	PPER	*	*	*	*
+19	nimmt	nehmen	VVFIN	*	*	*	*
+20	nicht	nicht	PTKNEG	*	*	*	*
+21	nur	nur	ADV	*	*	*	*
+22	Druck	Druck	NN	*	*	*	*
+23	von	von	APPR	*	*	*	*
+24	Seiten	Seite	NN	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Parteibasis	Parteibasis	NN	*	*	*	*
+27	weg	weg	PTKVZ	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	sondern	sondern	KON	*	*	*	*
+30	eröffnet	eröffnen	VVFIN	*	*	*	*
+31	auch	auch	ADV	*	*	*	*
+32	die	die	ART	*	*	*	*
+33	Möglichkeit	Möglichkeit	NN	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	mit	mit	APPR	*	*	*	*
+36	einer	eine	ART	*	*	*	*
+37	weniger	weniger	ADV	*	*	*	*
+38	kompromittierten	kompromittiert	ADJA	*	*	*	*
+39	Führungsmannschaft	Führungsmannschaft	NN	*	*	*	*
+40	-	-	$(	*	*	*	*
+41	vielleicht	vielleicht	ADV	*	*	*	*
+42	sogar	sogar	ADV	*	*	*	*
+43	einigen	einige	PIAT	*	*	*	*
+44	Frauen	Frau	NN	*	*	*	*
+45	-	-	$(	*	*	*	*
+46	und	und	KON	*	*	*	*
+47	besser	gut	ADJD	*	*	*	*
+48	motivierten	motiviert	ADJA	*	*	*	*
+49	Mitgliedern	Mitglied	NN	*	*	*	*
+50	ins	in	APPRART	2	2	2	2
+51	politische	politisch	ADJA	*	*	*	*
+52	Rennen	Rennen	NN	2	2	2	2
+53	zu	zu	PTKZU	*	*	*	*
+54	gehen	gehen	VVINF	2	2	2	2
+55	.	.	$.	*	*	*	*
+
+# article_id = T910109.118
+# text = Die deutschen DDR-Schwimmer besiegten schon 1986 in Madrid die Amerikaner , Steffen Zeßner ging somit als Titelverteidiger ins Rennen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	deutschen	deutsch	ADJA	*	*	*	*
+3	DDR-Schwimmer	DDR-Schwimmer	NN	*	*	*	*
+4	besiegten	besiegen	VVFIN	*	*	*	*
+5	schon	schon	ADV	*	*	*	*
+6	1986	@card@	CARD	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Madrid	Madrid	NE	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Amerikaner	Amerikaner	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	Steffen	Steffen	NE	*	*	*	*
+13	Zeßner	<unknown>	NE	*	*	*	*
+14	ging	gehen	VVFIN	1	1	1	1
+15	somit	somit	ADV	*	*	*	*
+16	als	als	KOKOM	*	*	*	*
+17	Titelverteidiger	Titelverteidiger	NN	*	*	*	*
+18	ins	in	APPRART	1	1	1	1
+19	Rennen	Rennen	NN	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T910122.25
+# text = Sie war eher schwach ins hessische Rennen gegangen : Das Ergebnis der Bundestagswahl war für die CDU nicht so , daß es ihr am Sonntag in Hessen den Rücken besonders hätte stärken können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	eher	eher	ADV	*	*	*	*
+4	schwach	schwach	ADJD	*	*	*	*
+5	ins	in	APPRART	2	2	2	2
+6	hessische	hessisch	ADJA	*	*	*	*
+7	Rennen	Rennen	NN	2	2	2	2
+8	gegangen	gehen	VVPP	2	2	2	2
+9	:	:	$.	*	*	*	*
+10	Das	die	ART	*	*	*	*
+11	Ergebnis	Ergebnis	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Bundestagswahl	Bundestagswahl	NN	*	*	*	*
+14	war	sein	VAFIN	*	*	*	*
+15	für	für	APPR	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	CDU	CDU	NE	*	*	*	*
+18	nicht	nicht	PTKNEG	*	*	*	*
+19	so	so	ADV	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	daß	dass	KOUS	*	*	*	*
+22	es	es	PPER	*	*	*	*
+23	ihr	ihr	PPER	*	*	*	*
+24	am	an	APPRART	*	*	*	*
+25	Sonntag	Sonntag	NN	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	Hessen	Hessen	NE	*	*	*	*
+28	den	die	ART	*	*	*	*
+29	Rücken	Rücken	NN	*	*	*	*
+30	besonders	besonders	ADV	*	*	*	*
+31	hätte	haben	VAFIN	*	*	*	*
+32	stärken	stärken	VVINF	*	*	*	*
+33	können	können	VMINF	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T910311.143
+# text = 1Ford ist dagegen nur mit verminderter Energie ins Rennen gegangen , 80 Millionen Dollar wurden in Ungarn investiert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	1Ford	<unknown>	NE	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	dagegen	dagegen	PAV	*	*	*	*
+4	nur	nur	ADV	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	verminderter	vermindert	ADJA	*	*	*	*
+7	Energie	Energie	NN	*	*	*	*
+8	ins	in	APPRART	2	2	2	2
+9	Rennen	Rennen	NN	2	2	2	2
+10	gegangen	gehen	VVPP	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	80	@card@	CARD	*	*	*	*
+13	Millionen	Million	NN	*	*	*	*
+14	Dollar	Dollar	NN	*	*	*	*
+15	wurden	werden	VAFIN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	Ungarn	Ungarn	NE	*	*	*	*
+18	investiert	investieren	VVPP	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T911107.58
+# text = Im US-Bundesstaat von Pennsylvania schlug der nahezu unbekannte demokratische Kandidat Harris Wofford George Bushs ehemaligen Justizminister Richard Thornburgh , der als ehemaliger Gouverneur des Arbeiterstaates mit einem Vorsprung von über 40 % in den Meinungsumfragen ins Rennen gegangen war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	US-Bundesstaat	US-Bundesstaat	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Pennsylvania	Pennsylvania	NE	*	*	*	*
+5	schlug	schlagen	VVFIN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	nahezu	nahezu	ADV	*	*	*	*
+8	unbekannte	unbekannt	ADJA	*	*	*	*
+9	demokratische	demokratisch	ADJA	*	*	*	*
+10	Kandidat	Kandidat	NN	*	*	*	*
+11	Harris	Harris	NE	*	*	*	*
+12	Wofford	<unknown>	NE	*	*	*	*
+13	George	George	NE	*	*	*	*
+14	Bushs	Bush	NE	*	*	*	*
+15	ehemaligen	ehemalig	ADJA	*	*	*	*
+16	Justizminister	Justizminister	NN	*	*	*	*
+17	Richard	Richard	NE	*	*	*	*
+18	Thornburgh	<unknown>	NE	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	der	die	PRELS	*	*	*	*
+21	als	als	KOKOM	*	*	*	*
+22	ehemaliger	ehemalig	ADJA	*	*	*	*
+23	Gouverneur	Gouverneur	NN	*	*	*	*
+24	des	die	ART	*	*	*	*
+25	Arbeiterstaates	<unknown>	NN	*	*	*	*
+26	mit	mit	APPR	*	*	*	*
+27	einem	eine	ART	*	*	*	*
+28	Vorsprung	Vorsprung	NN	*	*	*	*
+29	von	von	APPR	*	*	*	*
+30	über	über	APPR	*	*	*	*
+31	40	@card@	CARD	*	*	*	*
+32	%	%	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	den	die	ART	*	*	*	*
+35	Meinungsumfragen	Meinungsumfrage	NN	*	*	*	*
+36	ins	in	APPRART	2	2	2	2
+37	Rennen	Rennen	NN	2	2	2	2
+38	gegangen	gehen	VVPP	2	2	2	2
+39	war	sein	VAFIN	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T910216.124
+# text = Hoppe sollte in der Vierer-Entscheidung ins Rennen gehen , bummelte aber im Training .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hoppe	Hoppe	NE	*	*	*	*
+2	sollte	sollen	VMFIN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Vierer-Entscheidung	<unknown>	NN	*	*	*	*
+6	ins	in	APPRART	1	1	1	1
+7	Rennen	Rennen	NN	1	1	1	1
+8	gehen	gehen	VVINF	1	1	1	1
+9	,	,	$,	*	*	*	*
+10	bummelte	bummeln	VVFIN	*	*	*	*
+11	aber	aber	ADV	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	Training	Training	NN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T900507.255
+# text = Neben den bekannten Parteien gingen zwei Bürgerinitiativen aus Babelsberg und der Deutsche Anglerverband in das Rennen um die Wählergunst .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Neben	neben	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	bekannten	bekannt	ADJA	*	*	*	*
+4	Parteien	Partei	NN	*	*	*	*
+5	gingen	gehen	VVFIN	2	2	2	2
+6	zwei	zwei	CARD	*	*	*	*
+7	Bürgerinitiativen	Bürgerinitiative	NN	*	*	*	*
+8	aus	aus	APPR	*	*	*	*
+9	Babelsberg	Babelsberg	NE	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Deutsche	deutsch	ADJA	*	*	*	*
+13	Anglerverband	Anglerverband	NN	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	das	die	ART	*	*	*	*
+16	Rennen	Rennen	NN	2	2	2	2
+17	um	um	APPR	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Wählergunst	Wählergunst	NN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T901205.106
+# text = Wenn er wirklich - wie er angibt - psychisch und physisch dazu nicht in der Lage sein sollte , dann hätte er sich auch nicht überreden lassen dürfen , als Kanzlerkandidat ins Rennen zu gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	er	er	PPER	*	*	*	*
+3	wirklich	wirklich	ADJD	*	*	*	*
+4	-	-	$(	*	*	*	*
+5	wie	wie	KOUS	*	*	*	*
+6	er	er	PPER	*	*	*	*
+7	angibt	angeben	VVFIN	*	*	*	*
+8	-	-	$(	*	*	*	*
+9	psychisch	psychisch	ADJD	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	physisch	physisch	ADJD	*	*	*	*
+12	dazu	dazu	PAV	*	*	*	*
+13	nicht	nicht	PTKNEG	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Lage	Lage	NN	*	*	*	*
+17	sein	sein	VAINF	*	*	*	*
+18	sollte	sollen	VMFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	dann	dann	ADV	*	*	*	*
+21	hätte	haben	VAFIN	*	*	*	*
+22	er	er	PPER	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	auch	auch	ADV	*	*	*	*
+25	nicht	nicht	PTKNEG	*	*	*	*
+26	überreden	überreden	VVINF	*	*	*	*
+27	lassen	lassen	VVINF	*	*	*	*
+28	dürfen	dürfen	VMINF	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	als	als	KOKOM	*	*	*	*
+31	Kanzlerkandidat	Kanzlerkandidat	NN	*	*	*	*
+32	ins	in	APPRART	2	2	2	2
+33	Rennen	Rennen	NN	2	2	2	2
+34	zu	zu	PTKZU	*	*	*	*
+35	gehen	gehen	VVINF	2	2	2	2
+36	.	.	$.	*	*	*	*
+
+# article_id = T901211.84
+# text = In der zweiten Runde der Parlamentswahlen in Ägypten am vergangenen Donnerstag kämpfte die regierende Nationaldemokratische Partei ( NDP ) vor allem mit sich selber : Ihren offiziellen Kandidaten standen " Unabhängige " gegenüber , die auf eigene Kosten ins Rennen gegangen waren , nachdem die NDP ihnen die Unterstützung verweigert hatte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	zweiten	zweit	ADJA	*	*	*	*
+4	Runde	Runde	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Parlamentswahlen	Parlamentswahl	NN	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Ägypten	Ägypten	NE	*	*	*	*
+9	am	an	APPRART	*	*	*	*
+10	vergangenen	vergangen	ADJA	*	*	*	*
+11	Donnerstag	Donnerstag	NN	*	*	*	*
+12	kämpfte	kämpfen	VVFIN	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	regierende	regierend	ADJA	*	*	*	*
+15	Nationaldemokratische	nationaldemokratisch	ADJA	*	*	*	*
+16	Partei	Partei	NN	*	*	*	*
+17	(	(	$(	*	*	*	*
+18	NDP	NDP	NE	*	*	*	*
+19	)	)	$(	*	*	*	*
+20	vor	vor	APPR	*	*	*	*
+21	allem	alle	PIS	*	*	*	*
+22	mit	mit	APPR	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	selber	selber	ADV	*	*	*	*
+25	:	:	$.	*	*	*	*
+26	Ihren	ihr	PPOSAT	*	*	*	*
+27	offiziellen	offiziell	ADJA	*	*	*	*
+28	Kandidaten	Kandidat	NN	*	*	*	*
+29	standen	stehen	VVFIN	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	Unabhängige	Unabhängige	NN	*	*	*	*
+32	"	"	$(	*	*	*	*
+33	gegenüber	gegenüber	PTKVZ	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	die	die	PRELS	*	*	*	*
+36	auf	auf	APPR	*	*	*	*
+37	eigene	eigen	ADJA	*	*	*	*
+38	Kosten	Kosten	NN	*	*	*	*
+39	ins	in	APPRART	2	2	2	2
+40	Rennen	Rennen	NN	2	2	2	2
+41	gegangen	gehen	VVPP	2	2	2	2
+42	waren	sein	VAFIN	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	nachdem	nachdem	KOUS	*	*	*	*
+45	die	die	ART	*	*	*	*
+46	NDP	NDP	NE	*	*	*	*
+47	ihnen	sie	PPER	*	*	*	*
+48	die	die	ART	*	*	*	*
+49	Unterstützung	Unterstützung	NN	*	*	*	*
+50	verweigert	verweigern	VVPP	*	*	*	*
+51	hatte	haben	VAFIN	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T900807.32
+# text = Friedhelm Farthmann soll in Thüringen ins Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Friedhelm	Friedhelm	NN	*	*	*	*
+2	Farthmann	<unknown>	NE	*	*	*	*
+3	soll	sollen	VMFIN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Thüringen	Thüringen	NE	*	*	*	*
+6	ins	in	APPRART	2	2	2	2
+7	Rennen	Rennen	NN	2	2	2	2
+8	gehen	gehen	VVINF	2	2	2	2
+9	.	.	$.	*	*	*	*
+
+# article_id = T900827.30
+# text = In Sachsen wird der politisierende Professor Biedenkopf für die CDU ins Rennen gegen die ungeliebte SPD-Bundesgeschäftsführerin Anke Fuchs gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Sachsen	Sachsen	NE	*	*	*	*
+3	wird	werden	VAFIN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	politisierende	politisierend	ADJA	*	*	*	*
+6	Professor	Professor	NN	*	*	*	*
+7	Biedenkopf	Biedenkopf	NE	*	*	*	*
+8	für	für	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	CDU	CDU	NE	*	*	*	*
+11	ins	in	APPRART	2	2	2	2
+12	Rennen	Rennen	NN	2	2	2	2
+13	gegen	gegen	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	ungeliebte	ungeliebt	ADJA	*	*	*	*
+16	SPD-Bundesgeschäftsführerin	SPD-Bundesgeschäftsführerin	NN	*	*	*	*
+17	Anke	Anke	NE	*	*	*	*
+18	Fuchs	Fuchs	NE	*	*	*	*
+19	gehen	gehen	VVFIN	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T921028.37
+# text = Nicht wahr , freut er sich , das sei selbst bei den Grünen schwierig , als Außenseiter in das Rennen zu gehen und sich dann gegen längst getroffene Absprachen einfach durchzusetzen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	wahr	wahr	ADJD	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	freut	freuen	VVFIN	*	*	*	*
+5	er	er	PPER	*	*	*	*
+6	sich	sich	PRF	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	das	die	PDS	*	*	*	*
+9	sei	sein	VAFIN	*	*	*	*
+10	selbst	selbst	ADV	*	*	*	*
+11	bei	bei	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Grünen	Grüne	NN	*	*	*	*
+14	schwierig	schwierig	ADJD	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	als	als	KOKOM	*	*	*	*
+17	Außenseiter	Außenseiter	NN	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	das	die	ART	*	*	*	*
+20	Rennen	Rennen	NN	2	2	2	2
+21	zu	zu	PTKZU	*	*	*	*
+22	gehen	gehen	VVINF	2	2	2	2
+23	und	und	KON	*	*	*	*
+24	sich	sich	PRF	*	*	*	*
+25	dann	dann	ADV	*	*	*	*
+26	gegen	gegen	APPR	*	*	*	*
+27	längst	längst	ADV	*	*	*	*
+28	getroffene	getroffen	ADJA	*	*	*	*
+29	Absprachen	Absprache	NN	*	*	*	*
+30	einfach	einfach	ADJD	*	*	*	*
+31	durchzusetzen	durchsetzen	VVIZU	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T920115.107
+# text = Schweden als Veranstalter geht in GruppeI ebenso gesetzt ins Rennen wie Titelverteidiger Niederlande in GruppeII .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Schweden	Schwede	NN	*	*	*	*
+2	als	als	KOKOM	*	*	*	*
+3	Veranstalter	Veranstalter	NN	*	*	*	*
+4	geht	gehen	VVFIN	2	2	2	2
+5	in	in	APPR	*	*	*	*
+6	GruppeI	<unknown>	NN	*	*	*	*
+7	ebenso	ebenso	ADV	*	*	*	*
+8	gesetzt	setzen	VVPP	*	*	*	*
+9	ins	in	APPRART	2	2	2	2
+10	Rennen	Rennen	NN	2	2	2	2
+11	wie	wie	KOKOM	*	*	*	*
+12	Titelverteidiger	Titelverteidiger	NN	*	*	*	*
+13	Niederlande	Niederlande	NE	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	GruppeII	<unknown>	NE	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T920117.100
+# text = Das stimmte auch , aber in der Bewältigung gab es dann doch erhebliche Unterschiede : Das russische Red-Star-Syndikat ging mit 13 Millionen Dollar ins Rennen , der Italiener Raul Gardini ließ sich den Spaß immerhin 150 Millionen kosten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	stimmte	stimmen	VVFIN	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	aber	aber	ADV	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Bewältigung	Bewältigung	NN	*	*	*	*
+9	gab	geben	VVFIN	*	*	*	*
+10	es	es	PPER	*	*	*	*
+11	dann	dann	ADV	*	*	*	*
+12	doch	doch	ADV	*	*	*	*
+13	erhebliche	erheblich	ADJA	*	*	*	*
+14	Unterschiede	Unterschied	NN	*	*	*	*
+15	:	:	$.	*	*	*	*
+16	Das	die	ART	*	*	*	*
+17	russische	russisch	ADJA	*	*	*	*
+18	Red-Star-Syndikat	<unknown>	NN	*	*	*	*
+19	ging	gehen	VVFIN	2	2	1	2
+20	mit	mit	APPR	*	*	*	*
+21	13	@card@	CARD	*	*	*	*
+22	Millionen	Million	NN	*	*	*	*
+23	Dollar	Dollar	NN	*	*	*	*
+24	ins	in	APPRART	2	2	1	2
+25	Rennen	Rennen	NN	2	2	1	2
+26	,	,	$,	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Italiener	Italiener	NN	*	*	*	*
+29	Raul	Raul	NE	*	*	*	*
+30	Gardini	<unknown>	NN	*	*	*	*
+31	ließ	lassen	VVFIN	*	*	*	*
+32	sich	sich	PRF	*	*	*	*
+33	den	die	ART	*	*	*	*
+34	Spaß	Spaß	NN	*	*	*	*
+35	immerhin	immerhin	ADV	*	*	*	*
+36	150	@card@	CARD	*	*	*	*
+37	Millionen	Million	NN	*	*	*	*
+38	kosten	kosten	VVINF	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T920109.65
+# text = Seinen Parteifreunden , vor allem dem auf Mitterrands Ablösung in drei Jahren hoffenden Rocard , versicherte Fabius jedoch , er werden 1995 noch nicht ins Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seinen	sein	PPOSAT	*	*	*	*
+2	Parteifreunden	Parteifreund	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	vor	vor	APPR	*	*	*	*
+5	allem	alle	PIS	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	auf	auf	APPR	*	*	*	*
+8	Mitterrands	Mitterrand	NE	*	*	*	*
+9	Ablösung	Ablösung	NN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	drei	drei	CARD	*	*	*	*
+12	Jahren	Jahr	NN	*	*	*	*
+13	hoffenden	hoffend	ADJA	*	*	*	*
+14	Rocard	<unknown>	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	versicherte	versichern	VVFIN	*	*	*	*
+17	Fabius	Fabius	NE	*	*	*	*
+18	jedoch	jedoch	ADV	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	er	er	PPER	*	*	*	*
+21	werden	werden	VAFIN	*	*	*	*
+22	1995	@card@	CARD	*	*	*	*
+23	noch	noch	ADV	*	*	*	*
+24	nicht	nicht	PTKNEG	*	*	*	*
+25	ins	in	APPRART	2	2	2	2
+26	Rennen	Rennen	NN	2	2	2	2
+27	gehen	gehen	VVINF	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T920729.77
+# text = Durchaus mit Gold-Ambitionen ins Rennen gegangen , brach Glücklich in der letzten Runde ein und kam schließlich nur auf den vierten Platz .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Durchaus	durchaus	ADV	*	*	*	*
+2	mit	mit	APPR	*	*	*	*
+3	Gold-Ambitionen	<unknown>	NN	*	*	*	*
+4	ins	in	APPRART	1	1	1	1
+5	Rennen	Rennen	NN	1	1	1	1
+6	gegangen	gehen	VVPP	1	1	1	1
+7	,	,	$,	*	*	*	*
+8	brach	brechen	VVFIN	*	*	*	*
+9	Glücklich	glücklich	ADJD	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	letzten	letzt	ADJA	*	*	*	*
+13	Runde	Runde	NN	*	*	*	*
+14	ein	ein	PTKVZ	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	kam	kommen	VVFIN	*	*	*	*
+17	schließlich	schließlich	ADV	*	*	*	*
+18	nur	nur	ADV	*	*	*	*
+19	auf	auf	APPR	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	vierten	viert	ADJA	*	*	*	*
+22	Platz	Platz	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T920217.103
+# text = Dabei hatte die 19jährige Favoritin , die in dieser Saison schon zwei Abfahrten gewonnen hatte und mit der Startnummer 10 ins Rennen gegangen war , noch bei der letzen Zeitnahme vor der Zieleinfahrt die weitaus beste Zwischenzeit gehabt : stolze 17 Hundertstel schneller als die spätere Siegerin Kerrin Lee- Gartner aus Kanada .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dabei	dabei	PAV	*	*	*	*
+2	hatte	haben	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	19jährige	19jährig	ADJA	*	*	*	*
+5	Favoritin	Favoritin	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	dieser	dies	PDAT	*	*	*	*
+10	Saison	Saison	NN	*	*	*	*
+11	schon	schon	ADV	*	*	*	*
+12	zwei	zwei	CARD	*	*	*	*
+13	Abfahrten	Abfahrt	NN	*	*	*	*
+14	gewonnen	gewinnen	VVPP	*	*	*	*
+15	hatte	haben	VAFIN	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Startnummer	Startnummer	NN	*	*	*	*
+20	10	@card@	CARD	*	*	*	*
+21	ins	in	APPRART	1	1	1	1
+22	Rennen	Rennen	NN	1	1	1	1
+23	gegangen	gehen	VVPP	1	1	1	1
+24	war	sein	VAFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	noch	noch	ADV	*	*	*	*
+27	bei	bei	APPR	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	letzen	<unknown>	ADJA	*	*	*	*
+30	Zeitnahme	<unknown>	NN	*	*	*	*
+31	vor	vor	APPR	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	Zieleinfahrt	Zieleinfahrt	NN	*	*	*	*
+34	die	die	ART	*	*	*	*
+35	weitaus	weitaus	ADV	*	*	*	*
+36	beste	gut	ADJA	*	*	*	*
+37	Zwischenzeit	Zwischenzeit	NN	*	*	*	*
+38	gehabt	haben	VAPP	*	*	*	*
+39	:	:	$.	*	*	*	*
+40	stolze	stolz	ADJA	*	*	*	*
+41	17	@card@	CARD	*	*	*	*
+42	Hundertstel	Hundertstel	NN	*	*	*	*
+43	schneller	schnell	ADJD	*	*	*	*
+44	als	als	KOKOM	*	*	*	*
+45	die	die	ART	*	*	*	*
+46	spätere	spät	ADJA	*	*	*	*
+47	Siegerin	Siegerin	NN	*	*	*	*
+48	Kerrin	Kerrin	NE	*	*	*	*
+49	Lee-	Lee-	TRUNC	*	*	*	*
+50	Gartner	<unknown>	NN	*	*	*	*
+51	aus	aus	APPR	*	*	*	*
+52	Kanada	Kanada	NE	*	*	*	*
+53	.	.	$.	*	*	*	*
+
+# article_id = T880614.60
+# text = In Marseille gingen durchschnittlich zwei Drittel der bürgerlichen Stimmen vom ersten Wahlgang an die im Rennen gebliebenen Kandidaten der " Front National " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Marseille	Marseille	NE	*	*	*	*
+3	gingen	gehen	VVFIN	2	2	2	2
+4	durchschnittlich	durchschnittlich	ADJD	*	*	*	*
+5	zwei	zwei	CARD	*	*	*	*
+6	Drittel	Drittel	NN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	bürgerlichen	bürgerlich	ADJA	*	*	*	*
+9	Stimmen	Stimme|Stimmen	NN	*	*	*	*
+10	vom	von	APPRART	*	*	*	*
+11	ersten	erst	ADJA	*	*	*	*
+12	Wahlgang	Wahlgang	NN	*	*	*	*
+13	an	an	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	im	in	APPRART	2	2	2	2
+16	Rennen	Rennen	NN	2	2	2	2
+17	gebliebenen	geblieben	ADJA	*	*	*	*
+18	Kandidaten	Kandidat	NN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	Front	Front	NN	*	*	*	*
+22	National	National	FM	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T870209.66
+# text = Der nun gewählte Hernandez Mancha war dabei erst in letzter Minute ins Rennen gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	nun	nun	ADV	*	*	*	*
+3	gewählte	gewählt	ADJA	*	*	*	*
+4	Hernandez	Hernandez	NE	*	*	*	*
+5	Mancha	<unknown>	NE	*	*	*	*
+6	war	sein	VAFIN	*	*	*	*
+7	dabei	dabei	PAV	*	*	*	*
+8	erst	erst	ADV	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	letzter	letzt	ADJA	*	*	*	*
+11	Minute	Minute	NN	*	*	*	*
+12	ins	in	APPRART	2	2	2	2
+13	Rennen	Rennen	NN	2	2	2	2
+14	gegangen	gehen	VVPP	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T930506.95
+# text = Ihnen verdankt er , daß er als Favorit in das Rennen um die Nachfolge Arthur Dunkels als Gatt-Generaldirektor geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ihnen	Sie	PPER	*	*	*	*
+2	verdankt	verdanken	VVFIN	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	er	er	PPER	*	*	*	*
+7	als	als	KOKOM	*	*	*	*
+8	Favorit	Favorit	NN	*	*	*	*
+9	in	in	APPR	2	2	2	2
+10	das	die	ART	*	*	*	*
+11	Rennen	Rennen	NN	2	2	2	2
+12	um	um	APPR	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Nachfolge	Nachfolge	NN	*	*	*	*
+15	Arthur	Arthur	NE	*	*	*	*
+16	Dunkels	Dunkel	NN	*	*	*	*
+17	als	als	KOKOM	*	*	*	*
+18	Gatt-Generaldirektor	Gatt-Generaldirektor	NN	*	*	*	*
+19	geht	gehen	VVFIN	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T930603.242
+# text = Denkbar wären zum Beispiel zehn internationale Programme , in denen nicht mehr nach den bisherigen Kategorien zwangssortiert wird , und in denen neben geförderten Werken gleichberechtigt auch No-Budget-Produktionen und Trash ins Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denkbar	denkbar	ADJD	*	*	*	*
+2	wären	sein	VAFIN	*	*	*	*
+3	zum	zu	APPRART	*	*	*	*
+4	Beispiel	Beispiel	NN	*	*	*	*
+5	zehn	zehn	CARD	*	*	*	*
+6	internationale	international	ADJA	*	*	*	*
+7	Programme	Programm	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	denen	die	PRELS	*	*	*	*
+11	nicht	nicht	PTKNEG	*	*	*	*
+12	mehr	mehr	ADV	*	*	*	*
+13	nach	nach	APPR	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	bisherigen	bisherig	ADJA	*	*	*	*
+16	Kategorien	Kategorie	NN	*	*	*	*
+17	zwangssortiert	<unknown>	ADJD	*	*	*	*
+18	wird	werden	VAFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	denen	die	PDS	*	*	*	*
+23	neben	neben	APPR	*	*	*	*
+24	geförderten	gefördert	ADJA	*	*	*	*
+25	Werken	Werk	NN	*	*	*	*
+26	gleichberechtigt	gleichberechtigt	ADJD	*	*	*	*
+27	auch	auch	ADV	*	*	*	*
+28	No-Budget-Produktionen	<unknown>	NN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	Trash	Trash	NN	*	*	*	*
+31	ins	in	APPRART	2	2	2	2
+32	Rennen	Rennen	NN	2	2	2	2
+33	gehen	gehen	VVINF	2	2	2	2
+34	.	.	$.	*	*	*	*
+
+# article_id = T930626.156
+# text = In das zweite - unverschämte - Rennen ging er darum nur zum Schein .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	2	2	2	2
+2	das	die	ART	*	*	*	*
+3	zweite	zweit	ADJA	*	*	*	*
+4	-	-	$(	*	*	*	*
+5	unverschämte	unverschämt	ADJA	*	*	*	*
+6	-	-	$(	*	*	*	*
+7	Rennen	Rennen	NN	2	2	2	2
+8	ging	gehen	VVFIN	2	2	2	2
+9	er	er	PPER	*	*	*	*
+10	darum	darum	PAV	*	*	*	*
+11	nur	nur	ADV	*	*	*	*
+12	zum	zu	APPRART	*	*	*	*
+13	Schein	Schein	NN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T930604.189
+# text = Daß die SPD mit der Leiterin des Bremer Brüssel-Büros Karin Jöns eine qualifizierte Kandidatin hat , die sich bestens in der Brüsseler Politik auskennt , wiegt offensichtlich wenig , wenn Kandidaten des eigenen Unterbezirks oder Ortsvereins ins Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	SPD	SPD	NE	*	*	*	*
+4	mit	mit	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Leiterin	Leiterin	NN	*	*	*	*
+7	des	die	ART	*	*	*	*
+8	Bremer	Bremer	NN	*	*	*	*
+9	Brüssel-Büros	<unknown>	NN	*	*	*	*
+10	Karin	Karin	NE	*	*	*	*
+11	Jöns	Jöns	NE	*	*	*	*
+12	eine	eine	ART	*	*	*	*
+13	qualifizierte	qualifiziert	ADJA	*	*	*	*
+14	Kandidatin	Kandidatin	NN	*	*	*	*
+15	hat	haben	VAFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	PRELS	*	*	*	*
+18	sich	sich	PRF	*	*	*	*
+19	bestens	bestens	ADV	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Brüsseler	Brüsseler	ADJA	*	*	*	*
+23	Politik	Politik	NN	*	*	*	*
+24	auskennt	auskennen	VVFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	wiegt	wiegen	VVFIN	*	*	*	*
+27	offensichtlich	offensichtlich	ADJD	*	*	*	*
+28	wenig	wenige	PIS	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	wenn	wenn	KOUS	*	*	*	*
+31	Kandidaten	Kandidat	NN	*	*	*	*
+32	des	die	ART	*	*	*	*
+33	eigenen	eigen	ADJA	*	*	*	*
+34	Unterbezirks	Unterbezirk	NN	*	*	*	*
+35	oder	oder	KON	*	*	*	*
+36	Ortsvereins	Ortsverein	NN	*	*	*	*
+37	ins	in	APPRART	2	2	2	2
+38	Rennen	Rennen	NN	2	2	2	2
+39	gehen	gehen	VVINF	2	2	2	2
+40	.	.	$.	*	*	*	*
+
+# article_id = T930114.28
+# text = Sie wollen in 480 der 577 Wahlkreise mit gemeinsamen Kandidaten ins Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	wollen	wollen	VMFIN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	480	@card@	CARD	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	577	@card@	ADJA	*	*	*	*
+7	Wahlkreise	Wahlkreis	NN	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	gemeinsamen	gemeinsam	ADJA	*	*	*	*
+10	Kandidaten	Kandidat	NN	*	*	*	*
+11	ins	in	APPRART	2	2	2	2
+12	Rennen	Rennen	NN	2	2	2	2
+13	gehen	gehen	VVINF	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T930701.228
+# text = Die Pferde gehen in das erste Rennen - eine Amateurveranstaltung , benannt nach dem Rennclubmitglied Otto Traun .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Pferde	Pferd	NN	*	*	*	*
+3	gehen	gehen	VVFIN	1	1	1	1
+4	in	in	APPR	1	1	1	1
+5	das	die	ART	*	*	*	*
+6	erste	erst	ADJA	*	*	*	*
+7	Rennen	Rennen	NN	1	1	1	1
+8	-	-	$(	*	*	*	*
+9	eine	eine	ART	*	*	*	*
+10	Amateurveranstaltung	<unknown>	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	benannt	benennen	VVPP	*	*	*	*
+13	nach	nach	APPR	*	*	*	*
+14	dem	die	ART	*	*	*	*
+15	Rennclubmitglied	<unknown>	NN	*	*	*	*
+16	Otto	Otto	NE	*	*	*	*
+17	Traun	<unknown>	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T930308.111
+# text = Wieder anders in den sechziger Jahren : Jeder Titel ging in doppelter Version ins Rennen , eine wurde vorgetragen von einem Einheimischen , die andere von einem Gast aus dem Ausland .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wieder	wieder	ADV	*	*	*	*
+2	anders	anders	ADV	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	sechziger	sechziger	ADJA	*	*	*	*
+6	Jahren	Jahr	NN	*	*	*	*
+7	:	:	$.	*	*	*	*
+8	Jeder	jede	PIAT	*	*	*	*
+9	Titel	Titel	NN	*	*	*	*
+10	ging	gehen	VVFIN	2	2	2	2
+11	in	in	APPR	*	*	*	*
+12	doppelter	doppelt	ADJA	*	*	*	*
+13	Version	Version	NN	*	*	*	*
+14	ins	in	APPRART	2	2	2	2
+15	Rennen	Rennen	NN	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	eine	eine	PIS	*	*	*	*
+18	wurde	werden	VAFIN	*	*	*	*
+19	vorgetragen	vortragen	VVPP	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	einem	eine	ART	*	*	*	*
+22	Einheimischen	Einheimische	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	die	die	PRELS	*	*	*	*
+25	andere	andere	PIS	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	einem	eine	ART	*	*	*	*
+28	Gast	Gast	NN	*	*	*	*
+29	aus	aus	APPR	*	*	*	*
+30	dem	die	ART	*	*	*	*
+31	Ausland	Ausland	NN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T931104.75
+# text = Terry war laut Meinungsumfragen mit großem Vorsprung in dieses Rennen um die Nachfolge des demokratischen Gouverneurs Douglas Wilder gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Terry	Terry	NE	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	laut	laut	APPR	*	*	*	*
+4	Meinungsumfragen	Meinungsumfrage	NN	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	großem	groß	ADJA	*	*	*	*
+7	Vorsprung	Vorsprung	NN	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	dieses	dies	PDAT	*	*	*	*
+10	Rennen	Rennen	NN	2	2	2	2
+11	um	um	APPR	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Nachfolge	Nachfolge	NN	*	*	*	*
+14	des	die	ART	*	*	*	*
+15	demokratischen	demokratisch	ADJA	*	*	*	*
+16	Gouverneurs	Gouverneur	NN	*	*	*	*
+17	Douglas	Douglas	NE	*	*	*	*
+18	Wilder	Wilder	NE	*	*	*	*
+19	gegangen	gehen	VVPP	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T961024.117
+# text = Und freut sich im Moment vor allem darüber , welchen Wirbel er damit in " seiner " SPD auslöste , die mit dem braven Parteisoldaten Rainer Brechtken ins Rennen gegangen war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	freut	freuen	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Moment	Moment	NN	*	*	*	*
+6	vor	vor	APPR	*	*	*	*
+7	allem	alle	PIS	*	*	*	*
+8	darüber	darüber	PAV	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	welchen	welche	PWAT	*	*	*	*
+11	Wirbel	Wirbel	NN	*	*	*	*
+12	er	er	PPER	*	*	*	*
+13	damit	damit	PAV	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	seiner	sein	PPOSAT	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	SPD	SPD	NE	*	*	*	*
+19	auslöste	auslösen	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	die	die	PRELS	*	*	*	*
+22	mit	mit	APPR	*	*	*	*
+23	dem	die	ART	*	*	*	*
+24	braven	brav	ADJA	*	*	*	*
+25	Parteisoldaten	Parteisoldat	NN	*	*	*	*
+26	Rainer	Rainer	NE	*	*	*	*
+27	Brechtken	<unknown>	NE	*	*	*	*
+28	ins	in	APPRART	2	2	2	2
+29	Rennen	Rennen	NN	2	2	2	2
+30	gegangen	gehen	VVPP	2	2	2	2
+31	war	sein	VAFIN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T960917.100
+# text = Niemand weiß , wer gegen Premierminister Ryutaro Hashimoto ins Rennen um das höchste Regierungsamt geht , geschweige denn welche Parteienkoalition in wenigen Wochen die Macht in Tokio übernimmt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Niemand	niemand	PIS	*	*	*	*
+2	weiß	wissen	VVFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	wer	wer	PWS	*	*	*	*
+5	gegen	gegen	APPR	*	*	*	*
+6	Premierminister	Premierminister	NN	*	*	*	*
+7	Ryutaro	Ryutaro	NE	*	*	*	*
+8	Hashimoto	Hashimoto	NE	*	*	*	*
+9	ins	in	APPRART	2	2	2	2
+10	Rennen	Rennen	NN	2	2	2	2
+11	um	um	APPR	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	höchste	hoch	ADJA	*	*	*	*
+14	Regierungsamt	Regierungsamt	NN	*	*	*	*
+15	geht	gehen	VVFIN	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	geschweige	geschweige	ADV	*	*	*	*
+18	denn	denn	ADV	*	*	*	*
+19	welche	welche	PIAT	*	*	*	*
+20	Parteienkoalition	Parteienkoalition	NN	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	wenigen	wenige	PIAT	*	*	*	*
+23	Wochen	Woche	NN	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Macht	Macht	NN	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	Tokio	Tokio	NE	*	*	*	*
+28	übernimmt	übernehmen	VVFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T960119.26
+# text = Simitis war zwar als Favorit ins Rennen gegangen , hatte aber in der ersten Wahlrunde nur 53 Stimmen erzielt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Simitis	<unknown>	NE	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	zwar	zwar	ADV	*	*	*	*
+4	als	als	KOKOM	*	*	*	*
+5	Favorit	Favorit	NN	*	*	*	*
+6	ins	in	APPRART	2	2	2	2
+7	Rennen	Rennen	NN	2	2	2	2
+8	gegangen	gehen	VVPP	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	hatte	haben	VAFIN	*	*	*	*
+11	aber	aber	ADV	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	ersten	erst	ADJA	*	*	*	*
+15	Wahlrunde	Wahlrunde	NN	*	*	*	*
+16	nur	nur	ADV	*	*	*	*
+17	53	@card@	CARD	*	*	*	*
+18	Stimmen	Stimme|Stimmen	NN	*	*	*	*
+19	erzielt	erzielen	VVPP	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T960809.273
+# text = Neben den etablierten Parteien CDU , SPD , Bündnis 90 / Die Grünen und FDP gehen 15 weitere Gruppierungen ins Rennen um die Gunst der WahlbürgerInnen in Gemeinden und Landkreisen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Neben	neben	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	etablierten	etabliert	ADJA	*	*	*	*
+4	Parteien	Partei	NN	*	*	*	*
+5	CDU	CDU	NE	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	SPD	SPD	NE	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Bündnis	Bündnis	NN	*	*	*	*
+10	90	@card@	CARD	*	*	*	*
+11	/	/	$(	*	*	*	*
+12	Die	<unknown>	ADJA	*	*	*	*
+13	Grünen	Grüne	NN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	FDP	FDP	NE	*	*	*	*
+16	gehen	gehen	VVFIN	2	2	2	2
+17	15	@card@	CARD	*	*	*	*
+18	weitere	weit	ADJA	*	*	*	*
+19	Gruppierungen	Gruppierung	NN	*	*	*	*
+20	ins	in	APPRART	2	2	2	2
+21	Rennen	Rennen	NN	2	2	2	2
+22	um	um	APPR	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	Gunst	Gunst	NN	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	WahlbürgerInnen	<unknown>	NN	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	Gemeinden	Gemeinde	NN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	Landkreisen	Landkreis	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T960222.93
+# text = Doch in New Hampshire entscheidet sich meist , ob ein Kandidat mit Rückenwind oder mit Beulen ins Rennen durch die anderen Bundesstaaten geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	New	New	NE	*	*	*	*
+4	Hampshire	<unknown>	NE	*	*	*	*
+5	entscheidet	entscheiden	VVFIN	*	*	*	*
+6	sich	sich	PRF	*	*	*	*
+7	meist	meist	ADV	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	ob	ob	KOUS	*	*	*	*
+10	ein	eine	ART	*	*	*	*
+11	Kandidat	Kandidat	NN	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	Rückenwind	Rückenwind	NN	*	*	*	*
+14	oder	oder	KON	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	Beulen	Beule	NN	*	*	*	*
+17	ins	in	APPRART	2	2	2	2
+18	Rennen	Rennen	NN	2	2	2	2
+19	durch	durch	APPR	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	anderen	andere	PIAT	*	*	*	*
+22	Bundesstaaten	Bundesstaat	NN	*	*	*	*
+23	geht	gehen	VVFIN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T980518.135
+# text = Telekom-Star Riis war ohnehin nur ins Rennen gegangen , um sich bei einer für ihn mittelschweren Rundfahrt über zehn Etappen und 1.608 km nach einer Handverletzung im Frühjahr für die Tour in Form zu bringen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Telekom-Star	<unknown>	NE	*	*	*	*
+2	Riis	<unknown>	NE	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	ohnehin	ohnehin	ADV	*	*	*	*
+5	nur	nur	ADV	*	*	*	*
+6	ins	in	APPRART	1	1	1	1
+7	Rennen	Rennen	NN	1	1	1	1
+8	gegangen	gehen	VVPP	1	1	1	1
+9	,	,	$,	*	*	*	*
+10	um	um	KOUI	*	*	*	*
+11	sich	sich	PRF	*	*	*	*
+12	bei	bei	APPR	*	*	*	*
+13	einer	eine	ART	*	*	*	*
+14	für	für	APPR	*	*	*	*
+15	ihn	er	PPER	*	*	*	*
+16	mittelschweren	mittelschwer	ADJA	*	*	*	*
+17	Rundfahrt	Rundfahrt	NN	*	*	*	*
+18	über	über	APPR	*	*	*	*
+19	zehn	zehn	CARD	*	*	*	*
+20	Etappen	Etappe	NN	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	1.608	@card@	CARD	*	*	*	*
+23	km	km	NN	*	*	*	*
+24	nach	nach	APPR	*	*	*	*
+25	einer	eine	ART	*	*	*	*
+26	Handverletzung	Handverletzung	NN	*	*	*	*
+27	im	in	APPRART	*	*	*	*
+28	Frühjahr	Frühjahr	NN	*	*	*	*
+29	für	für	APPR	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	Tour	Tour	NN	*	*	*	*
+32	in	in	APPR	*	*	*	*
+33	Form	Form	NN	*	*	*	*
+34	zu	zu	PTKZU	*	*	*	*
+35	bringen	bringen	VVINF	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T981009.185
+# text = Statt bloß auf die Urwahl im Januar zu schielen und dabei mit einem ( faulen ) Kompromißkadidaten ins eigentliche Rennen um die Abgeordnetenhauswahl im Herbst 1999 zu gehen , sollte in der Partei der Diskurs um Inhalte und Personen erst einmal beginnen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Statt	statt	APPR	*	*	*	*
+2	bloß	bloß	ADJD	*	*	*	*
+3	auf	auf	APPR	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Urwahl	Urwahl	NN	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	Januar	Januar	NN	*	*	*	*
+8	zu	zu	PTKZU	*	*	*	*
+9	schielen	schielen	VVINF	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	dabei	dabei	PAV	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	einem	eine	ART	*	*	*	*
+14	(	(	$(	*	*	*	*
+15	faulen	faul	ADJA	*	*	*	*
+16	)	)	$(	*	*	*	*
+17	Kompromißkadidaten	<unknown>	NN	*	*	*	*
+18	ins	in	APPRART	2	2	2	2
+19	eigentliche	eigentlich	ADJA	*	*	*	*
+20	Rennen	Rennen	NN	2	2	2	2
+21	um	um	APPR	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Abgeordnetenhauswahl	Abgeordnetenhauswahl	NN	*	*	*	*
+24	im	in	APPRART	*	*	*	*
+25	Herbst	Herbst	NN	*	*	*	*
+26	1999	@card@	ADV	*	*	*	*
+27	zu	zu	PTKZU	*	*	*	*
+28	gehen	gehen	VVINF	2	2	2	2
+29	,	,	$,	*	*	*	*
+30	sollte	sollen	VMFIN	*	*	*	*
+31	in	in	APPR	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	Partei	Partei	NN	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	Diskurs	Diskurs	NN	*	*	*	*
+36	um	um	APPR	*	*	*	*
+37	Inhalte	Inhalt	NN	*	*	*	*
+38	und	und	KON	*	*	*	*
+39	Personen	Person	NN	*	*	*	*
+40	erst	erst	ADV	*	*	*	*
+41	einmal	einmal	ADV	*	*	*	*
+42	beginnen	beginnen	VVINF	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T980917.109
+# text = New York ( AP / AFP ) - Die Demokraten im US-Staat New York gehen mit Charles Schumer in das Rennen gegen den republikanischen Senator Alfonse D'Amato .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	New	New	NE	*	*	*	*
+2	York	York	NE	*	*	*	*
+3	(	(	$(	*	*	*	*
+4	AP	AP	NE	*	*	*	*
+5	/	/	$(	*	*	*	*
+6	AFP	AFP	NE	*	*	*	*
+7	)	)	$(	*	*	*	*
+8	-	-	$(	*	*	*	*
+9	Die	<unknown>	ADJA	*	*	*	*
+10	Demokraten	Demokrat	NN	*	*	*	*
+11	im	in	APPRART	*	*	*	*
+12	US-Staat	US-Staat	NN	*	*	*	*
+13	New	New	NE	*	*	*	*
+14	York	York	NE	*	*	*	*
+15	gehen	gehen	VVFIN	2	2	2	2
+16	mit	mit	APPR	*	*	*	*
+17	Charles	Charles	NE	*	*	*	*
+18	Schumer	<unknown>	NN	*	*	*	*
+19	in	in	APPR	2	2	2	2
+20	das	die	ART	*	*	*	*
+21	Rennen	Rennen	NN	2	2	2	2
+22	gegen	gegen	APPR	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	republikanischen	republikanisch	ADJA	*	*	*	*
+25	Senator	Senator	NN	*	*	*	*
+26	Alfonse	<unknown>	NE	*	*	*	*
+27	D'Amato	<unknown>	NE	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T980131.374
+# text = Die neuen Länder weisen aufgrund ihrer Geschichte eine extrem niedrige Wirtschafts- und Finanzkraft aus , sie würden mit einem gewaltigen Handicap in das Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	neuen	neu	ADJA	*	*	*	*
+3	Länder	Land	NN	*	*	*	*
+4	weisen	weisen	VVFIN	*	*	*	*
+5	aufgrund	aufgrund	APPR	*	*	*	*
+6	ihrer	ihr	PPOSAT	*	*	*	*
+7	Geschichte	Geschichte	NN	*	*	*	*
+8	eine	eine	ART	*	*	*	*
+9	extrem	extrem	ADJD	*	*	*	*
+10	niedrige	niedrig	ADJA	*	*	*	*
+11	Wirtschafts-	Wirtschafts-	TRUNC	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Finanzkraft	Finanzkraft	NN	*	*	*	*
+14	aus	aus	PTKVZ	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	sie	sie	PPER	*	*	*	*
+17	würden	werden	VAFIN	*	*	*	*
+18	mit	mit	APPR	*	*	*	*
+19	einem	eine	ART	*	*	*	*
+20	gewaltigen	gewaltig	ADJA	*	*	*	*
+21	Handicap	Handicap	NN	*	*	*	*
+22	in	in	APPR	2	2	2	2
+23	das	die	ART	*	*	*	*
+24	Rennen	Rennen	NN	2	2	2	2
+25	gehen	gehen	VVINF	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T980307.234
+# text = Die Wut der Basis hatte der Bundesvorstand in dieser Woche noch damit geschürt , daß PDS- Wahlkampfleiter Andre Brie angekündigt hatte , am kommenden Dienstag sämtliche Kandidaten für den Bundestagswahlkampf zu präsentieren - und somit auch jenen , der am 27. September gegen Wolfgang Thierse ( SPD ) , Günter Nooke ( CDU ) und Marianne Birthler ( Bündnisgrüne ) ins Rennen gehen soll .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Wut	Wut	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Basis	Basis	NN	*	*	*	*
+5	hatte	haben	VAFIN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Bundesvorstand	Bundesvorstand	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	dieser	dies	PDAT	*	*	*	*
+10	Woche	Woche	NN	*	*	*	*
+11	noch	noch	ADV	*	*	*	*
+12	damit	damit	PAV	*	*	*	*
+13	geschürt	schüren	VVPP	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	daß	dass	KOUS	*	*	*	*
+16	PDS-	PDS-	TRUNC	*	*	*	*
+17	Wahlkampfleiter	Wahlkampfleiter	NN	*	*	*	*
+18	Andre	Andre	NE	*	*	*	*
+19	Brie	Brie	NN	*	*	*	*
+20	angekündigt	ankündigen	VVPP	*	*	*	*
+21	hatte	haben	VAFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	am	an	APPRART	*	*	*	*
+24	kommenden	kommend	ADJA	*	*	*	*
+25	Dienstag	Dienstag	NN	*	*	*	*
+26	sämtliche	sämtliche	PIAT	*	*	*	*
+27	Kandidaten	Kandidat	NN	*	*	*	*
+28	für	für	APPR	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	Bundestagswahlkampf	Bundestagswahlkampf	NN	*	*	*	*
+31	zu	zu	PTKZU	*	*	*	*
+32	präsentieren	präsentieren	VVINF	*	*	*	*
+33	-	-	$(	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	somit	somit	ADV	*	*	*	*
+36	auch	auch	ADV	*	*	*	*
+37	jenen	jen	PDS	*	*	*	*
+38	,	,	$,	*	*	*	*
+39	der	die	PRELS	*	*	*	*
+40	am	an	APPRART	*	*	*	*
+41	27	@card@	CARD	*	*	*	*
+42	.	.	$.	*	*	*	*
+43	September	September	NN	*	*	*	*
+44	gegen	gegen	APPR	*	*	*	*
+45	Wolfgang	Wolfgang	NE	*	*	*	*
+46	Thierse	Thierse	NE	*	*	*	*
+47	(	(	$(	*	*	*	*
+48	SPD	SPD	NE	*	*	*	*
+49	)	)	$(	*	*	*	*
+50	,	,	$,	*	*	*	*
+51	Günter	Günter	NE	*	*	*	*
+52	Nooke	<unknown>	NE	*	*	*	*
+53	(	(	$(	*	*	*	*
+54	CDU	CDU	NE	*	*	*	*
+55	)	)	$(	*	*	*	*
+56	und	und	KON	*	*	*	*
+57	Marianne	Marianne	NE	*	*	*	*
+58	Birthler	<unknown>	NE	*	*	*	*
+59	(	(	$(	*	*	*	*
+60	Bündnisgrüne	Bündnisgrüne	NN	*	*	*	*
+61	)	)	$(	*	*	*	*
+62	ins	in	APPRART	2	2	2	2
+63	Rennen	Rennen	NN	2	2	2	2
+64	gehen	gehen	VVINF	2	2	2	2
+65	soll	sollen	VMFIN	*	*	*	*
+66	.	.	$.	*	*	*	*
+
+# article_id = T980312.283
+# text = In diesem Jahr werden erstmals Läufer , Rollstuhlfahrer und Inline-Skater gemeinsam ins 42,195 Kilometer lange Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	diesem	dies	PDAT	*	*	*	*
+3	Jahr	Jahr	NN	*	*	*	*
+4	werden	werden	VAFIN	*	*	*	*
+5	erstmals	erstmals	ADV	*	*	*	*
+6	Läufer	Läufer	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	Rollstuhlfahrer	Rollstuhlfahrer	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Inline-Skater	<unknown>	NN	*	*	*	*
+11	gemeinsam	gemeinsam	ADJD	*	*	*	*
+12	ins	in	APPRART	1	1	1	1
+13	42,195	@card@	ADJA	*	*	*	*
+14	Kilometer	Kilometer	NN	*	*	*	*
+15	lange	lang	ADJA	*	*	*	*
+16	Rennen	Rennen	NN	1	1	1	1
+17	gehen	gehen	VVINF	1	1	1	1
+18	.	.	$.	*	*	*	*
+
+# article_id = T980303.131
+# text = Gerhard Schröder geht nach seinem furiosen Sieg in Hannover nun auch gegen Kohl ins Rennen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gerhard	Gerhard	NE	*	*	*	*
+2	Schröder	Schröder	NE	*	*	*	*
+3	geht	gehen	VVFIN	2	2	2	2
+4	nach	nach	APPR	*	*	*	*
+5	seinem	sein	PPOSAT	*	*	*	*
+6	furiosen	<unknown>	ADJA	*	*	*	*
+7	Sieg	Sieg	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	Hannover	Hannover	NE	*	*	*	*
+10	nun	nun	ADV	*	*	*	*
+11	auch	auch	ADV	*	*	*	*
+12	gegen	gegen	APPR	*	*	*	*
+13	Kohl	Kohl	NE	*	*	*	*
+14	ins	in	APPRART	2	2	2	2
+15	Rennen	Rennen	NN	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T971015.22
+# text = An zwei oder drei Prozent weniger in Niedersachsen werde sich nicht entscheiden , wer für die SPD bundesweit ins Rennen geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	An	an	APPR	*	*	*	*
+2	zwei	zwei	CARD	*	*	*	*
+3	oder	oder	KON	*	*	*	*
+4	drei	drei	CARD	*	*	*	*
+5	Prozent	Prozent	NN	*	*	*	*
+6	weniger	weniger	ADV	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Niedersachsen	Niedersachsen	NE	*	*	*	*
+9	werde	werden	VAFIN	*	*	*	*
+10	sich	sich	PRF	*	*	*	*
+11	nicht	nicht	PTKNEG	*	*	*	*
+12	entscheiden	entscheiden	VVINF	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wer	wer	PWS	*	*	*	*
+15	für	für	APPR	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	SPD	SPD	NE	*	*	*	*
+18	bundesweit	bundesweit	ADJD	*	*	*	*
+19	ins	in	APPRART	2	2	2	2
+20	Rennen	Rennen	NN	2	2	2	2
+21	geht	gehen	VVFIN	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T971029.67
+# text = Oder geht man auf Nummer Sicher und läßt noch einmal den mittlerweile 68jährigen Urbaniak ins Rennen gehen , der in der nächsten Legislaturperiode gute Chancen hat , Alterspräsident des Bundestages zu werden ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Oder	oder	KON	*	*	*	*
+2	geht	gehen	VVFIN	*	*	*	*
+3	man	man	PIS	*	*	*	*
+4	auf	auf	APPR	*	*	*	*
+5	Nummer	Nummer	NN	*	*	*	*
+6	Sicher	<unknown>	NN	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	läßt	lassen	VVFIN	*	*	*	*
+9	noch	noch	ADV	*	*	*	*
+10	einmal	einmal	ADV	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	mittlerweile	mittlerweile	ADV	*	*	*	*
+13	68jährigen	68jährig	ADJA	*	*	*	*
+14	Urbaniak	<unknown>	NN	*	*	*	*
+15	ins	in	APPRART	2	2	2	2
+16	Rennen	Rennen	NN	2	2	2	2
+17	gehen	gehen	VVINF	2	2	2	2
+18	,	,	$,	*	*	*	*
+19	der	die	PRELS	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	nächsten	nah	ADJA	*	*	*	*
+23	Legislaturperiode	Legislaturperiode	NN	*	*	*	*
+24	gute	gut	ADJA	*	*	*	*
+25	Chancen	Chance	NN	*	*	*	*
+26	hat	haben	VAFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	Alterspräsident	Alterspräsident	NN	*	*	*	*
+29	des	die	ART	*	*	*	*
+30	Bundestages	Bundestag	NN	*	*	*	*
+31	zu	zu	PTKZU	*	*	*	*
+32	werden	werden	VAINF	*	*	*	*
+33	?	?	$.	*	*	*	*
+
+# article_id = T971029.187
+# text = Als Kandidat der SPD geht der Parteivize und das ostdeutsches Gewissen der Sozialdemokratie , Wolfgang Thierse , ins Rennen um ein Direktmandat , die Bündnisgrünen wollen von dort - nachdem Marianne Birthler nicht gegen Thierse kandidieren mag - dennoch eine Ostdeutsche in den Bundestag schicken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KOKOM	*	*	*	*
+2	Kandidat	Kandidat	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	SPD	SPD	NE	*	*	*	*
+5	geht	gehen	VVFIN	2	2	2	2
+6	der	die	ART	*	*	*	*
+7	Parteivize	<unknown>	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	ostdeutsches	ostdeutsch	ADJA	*	*	*	*
+11	Gewissen	Gewissen	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Sozialdemokratie	Sozialdemokratie	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	Wolfgang	Wolfgang	NE	*	*	*	*
+16	Thierse	Thierse	NE	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	ins	in	APPRART	2	2	2	2
+19	Rennen	Rennen	NN	2	2	2	2
+20	um	um	APPR	*	*	*	*
+21	ein	eine	ART	*	*	*	*
+22	Direktmandat	Direktmandat	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Bündnisgrünen	Bündnisgrüne	NN	*	*	*	*
+26	wollen	wollen	VMFIN	*	*	*	*
+27	von	von	APPR	*	*	*	*
+28	dort	dort	ADV	*	*	*	*
+29	-	-	$(	*	*	*	*
+30	nachdem	nachdem	KOUS	*	*	*	*
+31	Marianne	Marianne	NE	*	*	*	*
+32	Birthler	<unknown>	NE	*	*	*	*
+33	nicht	nicht	PTKNEG	*	*	*	*
+34	gegen	gegen	APPR	*	*	*	*
+35	Thierse	Thierse	NE	*	*	*	*
+36	kandidieren	kandidieren	VVINF	*	*	*	*
+37	mag	mögen	VMFIN	*	*	*	*
+38	-	-	$(	*	*	*	*
+39	dennoch	dennoch	ADV	*	*	*	*
+40	eine	eine	ART	*	*	*	*
+41	Ostdeutsche	Ostdeutsche	NN	*	*	*	*
+42	in	in	APPR	*	*	*	*
+43	den	die	ART	*	*	*	*
+44	Bundestag	Bundestag	NN	*	*	*	*
+45	schicken	schicken	VVINF	*	*	*	*
+46	.	.	$.	*	*	*	*
+
+# article_id = T970924.133
+# text = Der Giro-Sieger war schon mit einer Magen-Darm-Grippe ins Rennen gegangen , kassierte nach einem Schwächeanfall in der ersten Woche fast eine halbe Stunde Rückstand , hielt aber dennoch durch und ließ sich letzte Woche auch durch die Geburt seines Sohnes ( " er ist so häßlich wie ich " ) nicht stoppen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Giro-Sieger	Giro-Sieger	NN	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	schon	schon	ADV	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	einer	eine	ART	*	*	*	*
+7	Magen-Darm-Grippe	Magen-Darm-Grippe	NN	*	*	*	*
+8	ins	in	APPRART	1	1	1	1
+9	Rennen	Rennen	NN	1	1	1	1
+10	gegangen	gehen	VVPP	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	kassierte	kassieren	VVFIN	*	*	*	*
+13	nach	nach	APPR	*	*	*	*
+14	einem	eine	ART	*	*	*	*
+15	Schwächeanfall	Schwächeanfall	NN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	ersten	erst	ADJA	*	*	*	*
+19	Woche	Woche	NN	*	*	*	*
+20	fast	fast	ADV	*	*	*	*
+21	eine	eine	ART	*	*	*	*
+22	halbe	halb	ADJA	*	*	*	*
+23	Stunde	Stunde	NN	*	*	*	*
+24	Rückstand	Rückstand	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	hielt	halten	VVFIN	*	*	*	*
+27	aber	aber	ADV	*	*	*	*
+28	dennoch	dennoch	ADV	*	*	*	*
+29	durch	durch	APPR	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	ließ	lassen	VVFIN	*	*	*	*
+32	sich	sich	PRF	*	*	*	*
+33	letzte	letzt	ADJA	*	*	*	*
+34	Woche	Woche	NN	*	*	*	*
+35	auch	auch	ADV	*	*	*	*
+36	durch	durch	APPR	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Geburt	Geburt	NN	*	*	*	*
+39	seines	sein	PPOSAT	*	*	*	*
+40	Sohnes	Sohn	NN	*	*	*	*
+41	(	(	$(	*	*	*	*
+42	"	"	$(	*	*	*	*
+43	er	er	PPER	*	*	*	*
+44	ist	sein	VAFIN	*	*	*	*
+45	so	so	ADV	*	*	*	*
+46	häßlich	hässlich	ADJD	*	*	*	*
+47	wie	wie	KOKOM	*	*	*	*
+48	ich	ich	PPER	*	*	*	*
+49	"	"	$(	*	*	*	*
+50	)	)	$(	*	*	*	*
+51	nicht	nicht	PTKNEG	*	*	*	*
+52	stoppen	stoppen	VVFIN	*	*	*	*
+53	.	.	$.	*	*	*	*
+
+# article_id = T970929.189
+# text = In der PDS-Hochburg Marzahn / Hellersdorf wird die stellvertretende Kreisvorsitzende von Marzahn , Kerstin Raschke , ins Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	PDS-Hochburg	<unknown>	NN	*	*	*	*
+4	Marzahn	<unknown>	NN	*	*	*	*
+5	/	/	$(	*	*	*	*
+6	Hellersdorf	Hellersdorf	NN	*	*	*	*
+7	wird	werden	VAFIN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	stellvertretende	stellvertretend	ADJA	*	*	*	*
+10	Kreisvorsitzende	Kreisvorsitzende	NN	*	*	*	*
+11	von	von	APPR	*	*	*	*
+12	Marzahn	<unknown>	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	Kerstin	Kerstin	NE	*	*	*	*
+15	Raschke	<unknown>	NE	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	ins	in	APPRART	2	2	2	2
+18	Rennen	Rennen	NN	2	2	2	2
+19	gehen	gehen	VVINF	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T970227.143
+# text = Stuttgart ( dpa ) - Der Deutsche Leichtathletik-Verband ( DLV ) muß bei den Hallen-Weltmeisterschaften vom 7. bis 9. März in Paris ohne Dieter Baumann ins Rennen gehen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Stuttgart	Stuttgart	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	dpa	dpa	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Der	<unknown>	ADJA	*	*	*	*
+7	Deutsche	deutsch	ADJA	*	*	*	*
+8	Leichtathletik-Verband	Leichtathletik-Verband	NN	*	*	*	*
+9	(	(	$(	*	*	*	*
+10	DLV	DLV	NE	*	*	*	*
+11	)	)	$(	*	*	*	*
+12	muß	müssen	VMFIN	*	*	*	*
+13	bei	bei	APPR	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Hallen-Weltmeisterschaften	Hallen-Weltmeisterschaft	NN	*	*	*	*
+16	vom	von	APPRART	*	*	*	*
+17	7	@card@	CARD	*	*	*	*
+18	.	.	$.	*	*	*	*
+19	bis	bis	APPR	*	*	*	*
+20	9	@card@	CARD	*	*	*	*
+21	.	.	$.	*	*	*	*
+22	März	März	NN	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	Paris	Paris	NE	*	*	*	*
+25	ohne	ohne	APPR	*	*	*	*
+26	Dieter	Dieter	NE	*	*	*	*
+27	Baumann	Baumann	NE	*	*	*	*
+28	ins	in	APPRART	2	1	1	1
+29	Rennen	Rennen	NN	2	1	1	1
+30	gehen	gehen	VVINF	2	1	1	1
+31	.	.	$.	*	*	*	*
+
+# article_id = T940919.121
+# text = Streppelhoff / Hoeltzenbein gingen nach der Devise " alles oder nichts " in das Rennen und legten mit einer 38er-Schlagfrequenz los .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Streppelhoff	<unknown>	NE	*	*	*	*
+2	/	/	$(	*	*	*	*
+3	Hoeltzenbein	<unknown>	NN	*	*	*	*
+4	gingen	gehen	VVFIN	1	1	1	1
+5	nach	nach	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Devise	Devise	NN	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	alles	alle	PIS	*	*	*	*
+10	oder	oder	KON	*	*	*	*
+11	nichts	nichts	PIS	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	in	in	APPR	1	1	1	1
+14	das	die	ART	*	*	*	*
+15	Rennen	Rennen	NN	1	1	1	1
+16	und	und	KON	*	*	*	*
+17	legten	legen	VVFIN	*	*	*	*
+18	mit	mit	APPR	*	*	*	*
+19	einer	eine	ART	*	*	*	*
+20	38er-Schlagfrequenz	<unknown>	NN	*	*	*	*
+21	los	los	PTKVZ	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T940929.202
+# text = Blauauge Paul Newman sowie Regisseur und Autor Robert Benton könnten mit " Nobody's Fool " ins Rennen gehen , und Sir Anthony Hopkins ' Leistung in " Willkommen in Welville " gilt als stark oscarverdächtig .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Blauauge	Blauauge	NN	*	*	*	*
+2	Paul	Paul	NE	*	*	*	*
+3	Newman	<unknown>	NE	*	*	*	*
+4	sowie	sowie	KON	*	*	*	*
+5	Regisseur	Regisseur	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	Autor	Autor	NN	*	*	*	*
+8	Robert	Robert	NE	*	*	*	*
+9	Benton	<unknown>	NE	*	*	*	*
+10	könnten	können	VMFIN	*	*	*	*
+11	mit	mit	APPR	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	Nobody	<unknown>	NN	*	*	*	*
+14	's	es	PPER	*	*	*	*
+15	Fool	<unknown>	NE	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	ins	in	APPRART	2	2	2	2
+18	Rennen	Rennen	NN	2	2	2	2
+19	gehen	gehen	VVINF	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	Sir	Sir	NN	*	*	*	*
+23	Anthony	Anthony	NE	*	*	*	*
+24	Hopkins	<unknown>	NE	*	*	*	*
+25	'	'	$(	*	*	*	*
+26	Leistung	Leistung	NN	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	Willkommen	Willkommen	NN	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	Welville	<unknown>	NN	*	*	*	*
+32	"	"	$(	*	*	*	*
+33	gilt	gelten	VVFIN	*	*	*	*
+34	als	als	KOKOM	*	*	*	*
+35	stark	stark	ADJD	*	*	*	*
+36	oscarverdächtig	<unknown>	ADJD	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T940818.73
+# text = Er geht nun mit dem Stigma eines Verlierers in dieses Rennen - falls sich der 78jährige Politiker überhaupt noch der Wahl stellt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	geht	gehen	VVFIN	2	2	2	2
+3	nun	nun	ADV	*	*	*	*
+4	mit	mit	APPR	*	*	*	*
+5	dem	die	ART	*	*	*	*
+6	Stigma	Stigma	NN	*	*	*	*
+7	eines	eine	ART	*	*	*	*
+8	Verlierers	Verlierer	NN	*	*	*	*
+9	in	in	APPR	2	2	2	2
+10	dieses	dies	PDAT	*	*	*	*
+11	Rennen	Rennen	NN	2	2	2	2
+12	-	-	$(	*	*	*	*
+13	falls	falls	KOUS	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	78jährige	78jährig	ADJA	*	*	*	*
+17	Politiker	Politiker	NN	*	*	*	*
+18	überhaupt	überhaupt	ADV	*	*	*	*
+19	noch	noch	ADV	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Wahl	Wahl	NN	*	*	*	*
+22	stellt	stellen	VVFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T940211.281
+# text = Jetzt geht der HTHC nach nur einer Niederlage in der Bundesliga gegen Halbfinalgegner Limburger HC sowie Titelverteidiger Rot-Weiß Köln und Feldmeister Dürkheimer HC , die sich im zweiten Semifinale gegenüberstehen , als Favorit ins Rennen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jetzt	jetzt	ADV	*	*	*	*
+2	geht	gehen	VVFIN	2	2	2	2
+3	der	die	ART	*	*	*	*
+4	HTHC	<unknown>	NE	*	*	*	*
+5	nach	nach	APPR	*	*	*	*
+6	nur	nur	ADV	*	*	*	*
+7	einer	eine	ART	*	*	*	*
+8	Niederlage	Niederlage	NN	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Bundesliga	Bundesliga	NN	*	*	*	*
+12	gegen	gegen	APPR	*	*	*	*
+13	Halbfinalgegner	Halbfinalgegner	NN	*	*	*	*
+14	Limburger	Limburger	NN	*	*	*	*
+15	HC	HC	NE	*	*	*	*
+16	sowie	sowie	KON	*	*	*	*
+17	Titelverteidiger	Titelverteidiger	NN	*	*	*	*
+18	Rot-Weiß	Rot-Weiß	NN	*	*	*	*
+19	Köln	Köln	NE	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	Feldmeister	Feldmeister	NN	*	*	*	*
+22	Dürkheimer	<unknown>	NE	*	*	*	*
+23	HC	HC	NE	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	die	die	PRELS	*	*	*	*
+26	sich	sich	PRF	*	*	*	*
+27	im	in	APPRART	*	*	*	*
+28	zweiten	zweit	ADJA	*	*	*	*
+29	Semifinale	Semifinale	NN	*	*	*	*
+30	gegenüberstehen	gegenüberstehen	VVFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	als	als	KOKOM	*	*	*	*
+33	Favorit	Favorit	NN	*	*	*	*
+34	ins	in	APPRART	2	2	2	2
+35	Rennen	Rennen	NN	2	2	2	2
+36	.	.	$.	*	*	*	*
+
+# article_id = T940228.39
+# text = Für die SPD geht in Berlin-Mitte Wolfgang Thierse ins Rennen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Für	für	APPR	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	SPD	SPD	NE	*	*	*	*
+4	geht	gehen	VVFIN	2	2	2	2
+5	in	in	APPR	*	*	*	*
+6	Berlin-Mitte	Berlin-Mitte	NN	*	*	*	*
+7	Wolfgang	Wolfgang	NE	*	*	*	*
+8	Thierse	Thierse	NE	*	*	*	*
+9	ins	in	APPRART	2	2	2	2
+10	Rennen	Rennen	NN	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T950612.268
+# text = Die Nummer zwei in Golfdeutschland ging gut ins Rennen , fiel am Schluß aber noch auf Rang 55 zurück und resümierte : " Es war schlimmer als schrecklich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Nummer	Nummer	NN	*	*	*	*
+3	zwei	zwei	CARD	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Golfdeutschland	<unknown>	NN	*	*	*	*
+6	ging	gehen	VVFIN	2	2	2	2
+7	gut	gut	ADJD	*	*	*	*
+8	ins	in	APPRART	2	2	2	2
+9	Rennen	Rennen	NN	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	fiel	fallen	VVFIN	*	*	*	*
+12	am	an	APPRART	*	*	*	*
+13	Schluß	Schluss	NN	*	*	*	*
+14	aber	aber	ADV	*	*	*	*
+15	noch	noch	ADV	*	*	*	*
+16	auf	auf	APPR	*	*	*	*
+17	Rang	Rang	NN	*	*	*	*
+18	55	@card@	CARD	*	*	*	*
+19	zurück	zurück	PTKVZ	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	resümierte	resümieren	VVFIN	*	*	*	*
+22	:	:	$.	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Es	es	PPER	*	*	*	*
+25	war	sein	VAFIN	*	*	*	*
+26	schlimmer	schlimm	ADJD	*	*	*	*
+27	als	als	KOKOM	*	*	*	*
+28	schrecklich	schrecklich	ADJD	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T950603.244
+# text = Darf Finanzsenator Manfred Fluß nach dem Absturz als Bürgermeisterkandidat jetzt bald wieder in seiner Firma Regenwürmer einführen , oder geht er als Bürgerschaftspräsident ins Rennen ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Darf	dürfen	VMFIN	*	*	*	*
+2	Finanzsenator	Finanzsenator	NN	*	*	*	*
+3	Manfred	Manfred	NE	*	*	*	*
+4	Fluß	Fluss	NN	*	*	*	*
+5	nach	nach	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	Absturz	Absturz	NN	*	*	*	*
+8	als	als	KOKOM	*	*	*	*
+9	Bürgermeisterkandidat	Bürgermeisterkandidat	NN	*	*	*	*
+10	jetzt	jetzt	ADV	*	*	*	*
+11	bald	bald	ADV	*	*	*	*
+12	wieder	wieder	ADV	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	seiner	sein	PPOSAT	*	*	*	*
+15	Firma	Firma	NN	*	*	*	*
+16	Regenwürmer	Regenwurm	NN	*	*	*	*
+17	einführen	einführen	VVINF	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	oder	oder	KON	*	*	*	*
+20	geht	gehen	VVFIN	2	2	2	2
+21	er	er	PPER	*	*	*	*
+22	als	als	KOKOM	*	*	*	*
+23	Bürgerschaftspräsident	Bürgerschaftspräsident	NN	*	*	*	*
+24	ins	in	APPRART	2	2	2	2
+25	Rennen	Rennen	NN	2	2	2	2
+26	?	?	$.	*	*	*	*
+
+# article_id = T951016.199
+# text = Die Ökologisch- Demokratische Partei ( ÖDP ) , stramm auf Anti-Abtreibungs- Kurs , geht mit einer Landesliste ins Rennen , schaffte es aber mangels Personal nur zur Aufstellung von Wahlkreisbewerbern in 8 der 24 Berliner Bezirke .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Ökologisch-	<unknown>	NN	*	*	*	*
+3	Demokratische	demokratisch	ADJA	*	*	*	*
+4	Partei	Partei	NN	*	*	*	*
+5	(	(	$(	*	*	*	*
+6	ÖDP	<unknown>	NE	*	*	*	*
+7	)	)	$(	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	stramm	stramm	ADJD	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	Anti-Abtreibungs-	<unknown>	TRUNC	*	*	*	*
+12	Kurs	Kurs	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	geht	gehen	VVFIN	2	2	2	2
+15	mit	mit	APPR	*	*	*	*
+16	einer	eine	ART	*	*	*	*
+17	Landesliste	Landesliste	NN	*	*	*	*
+18	ins	in	APPRART	2	2	2	2
+19	Rennen	Rennen	NN	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	schaffte	schaffen	VVFIN	*	*	*	*
+22	es	es	PPER	*	*	*	*
+23	aber	aber	ADV	*	*	*	*
+24	mangels	mangels	APPR	*	*	*	*
+25	Personal	Personal	NN	*	*	*	*
+26	nur	nur	ADV	*	*	*	*
+27	zur	zu	APPRART	*	*	*	*
+28	Aufstellung	Aufstellung	NN	*	*	*	*
+29	von	von	APPR	*	*	*	*
+30	Wahlkreisbewerbern	<unknown>	NN	*	*	*	*
+31	in	in	APPR	*	*	*	*
+32	8	@card@	CARD	*	*	*	*
+33	der	die	ART	*	*	*	*
+34	24	@card@	CARD	*	*	*	*
+35	Berliner	Berliner	ADJA	*	*	*	*
+36	Bezirke	Bezirk	NN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T950731.63
+# text = In über 70 Städten und Kommunen , so schätzt der Deutsche Städtetag , wollen lokale Unternehmen mit rechtlich eigenständigen Gesellschaften ins Rennen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	über	über	APPR	*	*	*	*
+3	70	@card@	CARD	*	*	*	*
+4	Städten	Stadt	NN	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	Kommunen	Kommune	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	so	so	ADV	*	*	*	*
+9	schätzt	schätzen	VVFIN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Deutsche	deutsch	ADJA	*	*	*	*
+12	Städtetag	Städtetag	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wollen	wollen	VMFIN	*	*	*	*
+15	lokale	lokal	ADJA	*	*	*	*
+16	Unternehmen	Unternehmen	NN	*	*	*	*
+17	mit	mit	APPR	*	*	*	*
+18	rechtlich	rechtlich	ADJD	*	*	*	*
+19	eigenständigen	eigenständig	ADJA	*	*	*	*
+20	Gesellschaften	Gesellschaft	NN	*	*	*	*
+21	ins	in	APPRART	2	2	2	2
+22	Rennen	Rennen	NN	2	2	2	2
+23	gehen	gehen	VVINF	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T950811.224
+# text = Die meisten stellen einfach neue Kreditforderungen , so als sei die Arbeiterpartei noch an der Macht , andere gehen gleich richtig ins kapitalistische Rennen , stürzen sich in finanzielle Transaktionen und fangen , ohne alle Gewissensbisse , die wildesten Börsenspekulationen an .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	meisten	meiste	PIS	*	*	*	*
+3	stellen	stellen	VVFIN	*	*	*	*
+4	einfach	einfach	ADJD	*	*	*	*
+5	neue	neu	ADJA	*	*	*	*
+6	Kreditforderungen	Kreditforderung	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	so	so	ADV	*	*	*	*
+9	als	als	KOUS	*	*	*	*
+10	sei	sein	VAFIN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Arbeiterpartei	Arbeiterpartei	NN	*	*	*	*
+13	noch	noch	ADV	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Macht	Macht	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	andere	andere	PIS	*	*	*	*
+19	gehen	gehen	VVFIN	2	2	2	2
+20	gleich	gleich	ADJD	*	*	*	*
+21	richtig	richtig	ADJD	*	*	*	*
+22	ins	in	APPRART	2	2	2	2
+23	kapitalistische	kapitalistisch	ADJA	*	*	*	*
+24	Rennen	Rennen	NN	2	2	2	2
+25	,	,	$,	*	*	*	*
+26	stürzen	stürzen	VVFIN	*	*	*	*
+27	sich	sich	PRF	*	*	*	*
+28	in	in	APPR	*	*	*	*
+29	finanzielle	finanziell	ADJA	*	*	*	*
+30	Transaktionen	Transaktion	NN	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	fangen	fangen	VVFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	ohne	ohne	APPR	*	*	*	*
+35	alle	alle	PIAT	*	*	*	*
+36	Gewissensbisse	Gewissensbiss	NN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	wildesten	wild	ADJA	*	*	*	*
+40	Börsenspekulationen	Börsenspekulation	NN	*	*	*	*
+41	an	an	PTKVZ	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T950308.80
+# text = Die Frauen , die ins politische Rennen gingen , leiden unter akuter Atemnot in der dünnen Luft der Macht oder haben sich ganz aus dem " Kriegsgebiet " der Frauenpolitik zurückgezogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Frauen	Frau	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	ins	in	APPRART	2	2	2	2
+6	politische	politisch	ADJA	*	*	*	*
+7	Rennen	Rennen	NN	2	2	2	2
+8	gingen	gehen	VVFIN	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	leiden	leiden	VVFIN	*	*	*	*
+11	unter	unter	APPR	*	*	*	*
+12	akuter	akut	ADJA	*	*	*	*
+13	Atemnot	Atemnot	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	dünnen	dünn	ADJA	*	*	*	*
+17	Luft	Luft	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Macht	Macht	NN	*	*	*	*
+20	oder	oder	KON	*	*	*	*
+21	haben	haben	VAFIN	*	*	*	*
+22	sich	sich	PRF	*	*	*	*
+23	ganz	ganz	ADV	*	*	*	*
+24	aus	aus	APPR	*	*	*	*
+25	dem	die	ART	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	Kriegsgebiet	Kriegsgebiet	NN	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	der	die	ART	*	*	*	*
+30	Frauenpolitik	Frauenpolitik	NN	*	*	*	*
+31	zurückgezogen	zurückziehen	VVPP	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T951115.128
+# text = Frisierte Softwareprogramme werden als " trojanische Pferde " auf den 350 Seiten ins Rennen geschickt ; es wird erzählt , wie höchste Regierungsstellen in den Vereinigten Staaten einer kleinen Softwarefirma ein Computerprogramm mit Namen " Promis " stehlen und mit der geklauten Software anschließend exklusiv und weltweit auf die elektronische Schleppnetzfahndung gehen und dazu System um System knacken und hacken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Frisierte	frisiert	ADJA	*	*	*	*
+2	Softwareprogramme	Softwareprogramm	NN	*	*	*	*
+3	werden	werden	VAINF	*	*	*	*
+4	als	als	KOKOM	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	trojanische	trojanisch	ADJA	*	*	*	*
+7	Pferde	Pferd	NN	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	auf	auf	APPR	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	350	@card@	ADJA	*	*	*	*
+12	Seiten	Seite	NN	*	*	*	*
+13	ins	in	APPRART	2	2	2	2
+14	Rennen	Rennen	NN	2	2	2	2
+15	geschickt	schicken	VVPP	*	*	*	*
+16	;	;	$.	*	*	*	*
+17	es	es	PPER	*	*	*	*
+18	wird	werden	VAFIN	*	*	*	*
+19	erzählt	erzählen	VVPP	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	wie	wie	KOKOM	*	*	*	*
+22	höchste	hoch	ADJA	*	*	*	*
+23	Regierungsstellen	Regierungsstelle	NN	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	den	die	ART	*	*	*	*
+26	Vereinigten	Vereinigter	NN	*	*	*	*
+27	Staaten	Staat	NN	*	*	*	*
+28	einer	eine	ART	*	*	*	*
+29	kleinen	klein	ADJA	*	*	*	*
+30	Softwarefirma	Softwarefirma	NN	*	*	*	*
+31	ein	eine	ART	*	*	*	*
+32	Computerprogramm	Computerprogramm	NN	*	*	*	*
+33	mit	mit	APPR	*	*	*	*
+34	Namen	Name	NN	*	*	*	*
+35	"	"	$(	*	*	*	*
+36	Promis	<unknown>	NE	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	stehlen	stehlen	VVINF	*	*	*	*
+39	und	und	KON	*	*	*	*
+40	mit	mit	APPR	*	*	*	*
+41	der	die	ART	*	*	*	*
+42	geklauten	geklaut	ADJA	*	*	*	*
+43	Software	Software	NN	*	*	*	*
+44	anschließend	anschließend	ADJD	*	*	*	*
+45	exklusiv	exklusiv	ADJD	*	*	*	*
+46	und	und	KON	*	*	*	*
+47	weltweit	weltweit	ADJD	*	*	*	*
+48	auf	auf	APPR	*	*	*	*
+49	die	die	ART	*	*	*	*
+50	elektronische	elektronisch	ADJA	*	*	*	*
+51	Schleppnetzfahndung	Schleppnetzfahndung	NN	*	*	*	*
+52	gehen	gehen	VVINF	2	2	2	2
+53	und	und	KON	*	*	*	*
+54	dazu	dazu	PAV	*	*	*	*
+55	System	System	NN	*	*	*	*
+56	um	um	APPR	*	*	*	*
+57	System	System	NN	*	*	*	*
+58	knacken	knacken	VVINF	*	*	*	*
+59	und	und	KON	*	*	*	*
+60	hacken	hacken	VVFIN	*	*	*	*
+61	.	.	$.	*	*	*	*
+
+# article_id = T990123.12
+# text = Zeitgleich ging auch Hamburg ins Rennen , nachdem GAL-Umweltsenator Alexander Porschke das Umwelt-Glück in die landeseigene Lottogesellschaft puschte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zeitgleich	zeitgleich	ADJD	*	*	*	*
+2	ging	gehen	VVFIN	2	2	2	2
+3	auch	auch	ADV	*	*	*	*
+4	Hamburg	Hamburg	NE	*	*	*	*
+5	ins	in	APPRART	2	2	2	2
+6	Rennen	Rennen	NN	2	2	2	2
+7	,	,	$,	*	*	*	*
+8	nachdem	nachdem	KOUS	*	*	*	*
+9	GAL-Umweltsenator	<unknown>	NN	*	*	*	*
+10	Alexander	Alexander	NE	*	*	*	*
+11	Porschke	<unknown>	NN	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	Umwelt-Glück	<unknown>	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	landeseigene	landeseigen	ADJA	*	*	*	*
+17	Lottogesellschaft	Lottogesellschaft	NN	*	*	*	*
+18	puschte	<unknown>	VVFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T990119.150
+# text = Mit Walter Momper , so lautet ihre Hoffnung , wird einer ins Rennen gehen , der nicht nur den Schröder-Effekt in die Hauptstadt bringen , sondern den Wählern den Willen zu einem rot-grünen Wechsel als einziger glaubhaft vermitteln kann .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	Walter	Walter	NE	*	*	*	*
+3	Momper	Momper	NE	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	so	so	ADV	*	*	*	*
+6	lautet	lauten	VVFIN	*	*	*	*
+7	ihre	ihr	PPOSAT	*	*	*	*
+8	Hoffnung	Hoffnung	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	wird	werden	VAFIN	*	*	*	*
+11	einer	eine	PIS	*	*	*	*
+12	ins	in	APPRART	2	2	2	2
+13	Rennen	Rennen	NN	2	2	2	2
+14	gehen	gehen	VVINF	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	der	die	PRELS	*	*	*	*
+17	nicht	nicht	PTKNEG	*	*	*	*
+18	nur	nur	ADV	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	Schröder-Effekt	<unknown>	NN	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Hauptstadt	Hauptstadt	NN	*	*	*	*
+24	bringen	bringen	VVINF	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	sondern	sondern	KON	*	*	*	*
+27	den	die	ART	*	*	*	*
+28	Wählern	Wähler	NN	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	Willen	Wille	NN	*	*	*	*
+31	zu	zu	APPR	*	*	*	*
+32	einem	eine	ART	*	*	*	*
+33	rot-grünen	rot-grün	ADJA	*	*	*	*
+34	Wechsel	Wechsel	NN	*	*	*	*
+35	als	als	KOKOM	*	*	*	*
+36	einziger	einzig	ADJA	*	*	*	*
+37	glaubhaft	glaubhaft	ADJD	*	*	*	*
+38	vermitteln	vermitteln	VVINF	*	*	*	*
+39	kann	können	VMFIN	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T990215.271
+# text = Die jetzige Lübecker Umweltsenatorin Beate Hoffmann ( parteilos ) soll für die CDU in das Rennen um das Bürgermeisteramt der Stadt gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	jetzige	jetzig	ADJA	*	*	*	*
+3	Lübecker	Lübecker	NN	*	*	*	*
+4	Umweltsenatorin	Umweltsenatorin	NN	*	*	*	*
+5	Beate	Beate	NE	*	*	*	*
+6	Hoffmann	Hoffmann	NE	*	*	*	*
+7	(	(	$(	*	*	*	*
+8	parteilos	parteilos	ADJD	*	*	*	*
+9	)	)	$(	*	*	*	*
+10	soll	sollen	VMFIN	*	*	*	*
+11	für	für	APPR	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	CDU	CDU	NE	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	das	die	ART	*	*	*	*
+16	Rennen	Rennen	NN	2	2	2	2
+17	um	um	APPR	*	*	*	*
+18	das	die	ART	*	*	*	*
+19	Bürgermeisteramt	Bürgermeisteramt	NN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Stadt	Stadt	NN	*	*	*	*
+22	gehen	gehen	VVINF	2	2	2	2
+23	.	.	$.	*	*	*	*
+

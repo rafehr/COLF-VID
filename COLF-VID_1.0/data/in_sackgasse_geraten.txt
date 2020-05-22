@@ -1,0 +1,3504 @@
+# article_id = T890502.68
+# text = Die Sowjets , unter ihnen so prominente Wortführer der Reform wie Jewgenij Ambarzumow und Anatolj Butenko , ließen sich durch solche Einwände nicht davon abbringen , für die Erneuerung ihres in die Sackgasse geratenen Systems radikale Schritte ins Auge zu fassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Sowjets	Sowjet	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	unter	unter	APPR	*	*	*	*
+5	ihnen	sie	PPER	*	*	*	*
+6	so	so	ADV	*	*	*	*
+7	prominente	prominent	ADJA	*	*	*	*
+8	Wortführer	Wortführer	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Reform	Reform	NN	*	*	*	*
+11	wie	wie	KOKOM	*	*	*	*
+12	Jewgenij	<unknown>	NE	*	*	*	*
+13	Ambarzumow	<unknown>	NE	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	Anatolj	<unknown>	NE	*	*	*	*
+16	Butenko	<unknown>	NE	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	ließen	lassen	VVFIN	*	*	*	*
+19	sich	sich	PRF	*	*	*	*
+20	durch	durch	APPR	*	*	*	*
+21	solche	solche	PIAT	*	*	*	*
+22	Einwände	Einwand	NN	*	*	*	*
+23	nicht	nicht	PTKNEG	*	*	*	*
+24	davon	davon	PAV	*	*	*	*
+25	abbringen	abbringen	VVINF	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	für	für	APPR	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Erneuerung	Erneuerung	NN	*	*	*	*
+30	ihres	ihr	PPOSAT	*	*	*	*
+31	in	in	APPR	2	2	2	2
+32	die	die	ART	*	*	*	*
+33	Sackgasse	Sackgasse	NN	2	2	2	2
+34	geratenen	geraten	ADJA	2	2	2	2
+35	Systems	System	NN	*	*	*	*
+36	radikale	radikal	ADJA	*	*	*	*
+37	Schritte	Schritt	NN	*	*	*	*
+38	ins	in	APPRART	*	*	*	*
+39	Auge	Auge	NN	*	*	*	*
+40	zu	zu	PTKZU	*	*	*	*
+41	fassen	fassen	VVINF	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T890526.87
+# text = Casablanca ( afp ) - Die seit Dienstag in Casablanca tagende Konferenz der Arabischen Liga ist bei der Suche nach einem Kompromiß im Libanon-Konflikt am Donnerstag in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Casablanca	Casablanca	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	afp	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Die	<unknown>	VVFIN	*	*	*	*
+7	seit	seit	APPR	*	*	*	*
+8	Dienstag	Dienstag	NN	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	Casablanca	Casablanca	NE	*	*	*	*
+11	tagende	tagend	ADJA	*	*	*	*
+12	Konferenz	Konferenz	NN	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Arabischen	arabisch	ADJA	*	*	*	*
+15	Liga	Liga	NN	*	*	*	*
+16	ist	sein	VAFIN	*	*	*	*
+17	bei	bei	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Suche	Suche	NN	*	*	*	*
+20	nach	nach	APPR	*	*	*	*
+21	einem	eine	ART	*	*	*	*
+22	Kompromiß	Kompromiss	NN	*	*	*	*
+23	im	in	APPRART	*	*	*	*
+24	Libanon-Konflikt	Libanon-Konflikt	NN	*	*	*	*
+25	am	an	APPRART	*	*	*	*
+26	Donnerstag	Donnerstag	NN	*	*	*	*
+27	in	in	APPR	2	2	2	2
+28	eine	eine	ART	*	*	*	*
+29	Sackgasse	Sackgasse	NN	2	2	2	2
+30	geraten	geraten|raten	VVPP	2	2	2	2
+31	.	.	$.	*	*	*	*
+
+# article_id = T890602.87
+# text = Wenn wir natürlich in eine Sackgasse geraten , müssen wir uns sehr genau überlegen , was als nächstes getan werden muß .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	wir	wir	PPER	*	*	*	*
+3	natürlich	natürlich	ADV	*	*	*	*
+4	in	in	APPR	2	2	2	2
+5	eine	eine	ART	*	*	*	*
+6	Sackgasse	Sackgasse	NN	2	2	2	2
+7	geraten	geraten|raten	VVPP	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	müssen	müssen	VMFIN	*	*	*	*
+10	wir	wir	PPER	*	*	*	*
+11	uns	wir	PRF	*	*	*	*
+12	sehr	sehr	ADV	*	*	*	*
+13	genau	genau	ADJD	*	*	*	*
+14	überlegen	überlegen	ADJD	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	was	was	PWS	*	*	*	*
+17	als	als	KOKOM	*	*	*	*
+18	nächstes	nah	ADJA	*	*	*	*
+19	getan	tun	VVPP	*	*	*	*
+20	werden	werden	VAINF	*	*	*	*
+21	muß	müssen	VMFIN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T891031.109
+# text = Luxemburg ( afp ) - Die Verhandlungen über die Erneuerung des Entwicklungshilfeabkommens ( Lome-Abkommen ) zwischen der Europäischen Gemeinschaft und 66 Dritte-Welt-Staaten sind am späten Sonntag abend in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Luxemburg	Luxemburg	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	afp	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Die	<unknown>	ADJA	*	*	*	*
+7	Verhandlungen	Verhandlung	NN	*	*	*	*
+8	über	über	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Erneuerung	Erneuerung	NN	*	*	*	*
+11	des	die	ART	*	*	*	*
+12	Entwicklungshilfeabkommens	<unknown>	NN	*	*	*	*
+13	(	(	$(	*	*	*	*
+14	Lome-Abkommen	Lome-Abkommen	NN	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	zwischen	zwischen	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Europäischen	europäisch	ADJA	*	*	*	*
+19	Gemeinschaft	Gemeinschaft	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	66	@card@	CARD	*	*	*	*
+22	Dritte-Welt-Staaten	Dritte-Welt-Staat	NN	*	*	*	*
+23	sind	sein	VAFIN	*	*	*	*
+24	am	an	APPRART	*	*	*	*
+25	späten	spät	ADJA	*	*	*	*
+26	Sonntag	Sonntag	NN	*	*	*	*
+27	abend	abend	ADV	*	*	*	*
+28	in	in	APPR	2	2	2	2
+29	eine	eine	ART	*	*	*	*
+30	Sackgasse	Sackgasse	NN	2	2	2	2
+31	geraten	geraten|raten	VVPP	2	2	2	2
+32	.	.	$.	*	*	*	*
+
+# article_id = T891204.102
+# text = Es ist keine besonders neue Erkenntnis , daß die populäre Musik der letzten 35 Jahre ziemlich schnell in eine Sackgasse geraten war , was die Weiterentwicklung ihrer Grundstruktur betraf .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	keine	keine	PIAT	*	*	*	*
+4	besonders	besonders	ADV	*	*	*	*
+5	neue	neu	ADJA	*	*	*	*
+6	Erkenntnis	Erkenntnis	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	populäre	populär	ADJA	*	*	*	*
+11	Musik	Musik	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	letzten	letzt	ADJA	*	*	*	*
+14	35	@card@	CARD	*	*	*	*
+15	Jahre	Jahr	NN	*	*	*	*
+16	ziemlich	ziemlich	ADV	*	*	*	*
+17	schnell	schnell	ADJD	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	eine	eine	ART	*	*	*	*
+20	Sackgasse	Sackgasse	NN	2	2	2	2
+21	geraten	geraten|raten	VVPP	2	2	2	2
+22	war	sein	VAFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	was	was	PRELS	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Weiterentwicklung	Weiterentwicklung	NN	*	*	*	*
+27	ihrer	ihr	PPOSAT	*	*	*	*
+28	Grundstruktur	Grundstruktur	NN	*	*	*	*
+29	betraf	betreffen	VVFIN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T890829.120
+# text = Daß die Gespräche in eine Sackgasse geraten sind , bestätigte schon die Abwesenheit mehrerer Schlüsselminister , insbesondere die des Amerikaners James Baker .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Gespräche	Gespräch	NN	*	*	*	*
+4	in	in	APPR	2	2	2	2
+5	eine	eine	ART	*	*	*	*
+6	Sackgasse	Sackgasse	NN	2	2	2	2
+7	geraten	geraten|raten	VVPP	2	2	2	2
+8	sind	sein	VAFIN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	bestätigte	bestätigen	VVFIN	*	*	*	*
+11	schon	schon	ADV	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Abwesenheit	Abwesenheit	NN	*	*	*	*
+14	mehrerer	mehrere	PIAT	*	*	*	*
+15	Schlüsselminister	<unknown>	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	insbesondere	insbesondere	ADV	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	des	die	ART	*	*	*	*
+20	Amerikaners	Amerikaner	NN	*	*	*	*
+21	James	James	NE	*	*	*	*
+22	Baker	Baker	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T890814.65
+# text = Wegen des Streits um diese Frage ist auch die internationale Kambodschakonferenz in die Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wegen	wegen	APPR	*	*	*	*
+2	des	die	ART	*	*	*	*
+3	Streits	Streit	NN	*	*	*	*
+4	um	um	APPR	*	*	*	*
+5	diese	dies	PDAT	*	*	*	*
+6	Frage	Frage	NN	*	*	*	*
+7	ist	sein	VAFIN	*	*	*	*
+8	auch	auch	ADV	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	internationale	international	ADJA	*	*	*	*
+11	Kambodschakonferenz	Kambodschakonferenz	NN	*	*	*	*
+12	in	in	APPR	2	2	2	2
+13	die	die	ART	*	*	*	*
+14	Sackgasse	Sackgasse	NN	2	2	2	2
+15	geraten	geraten|raten	VVPP	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T890812.58
+# text = Paris ( afp ) - Zur Halbzeit scheint die einmonatige internationale Kambodscha-Konferenz in Paris , bei der eine Übergangsregelung für die Zeit nach dem vietnamesischen Truppenabzug aus Kambodscha gefunden werden soll , in eine Sackgasse geraten zu sein .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Paris	Paris	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	afp	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Zur	zu	APPRART	*	*	*	*
+7	Halbzeit	Halbzeit	NN	*	*	*	*
+8	scheint	scheinen	VVFIN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	einmonatige	einmonatig	ADJA	*	*	*	*
+11	internationale	international	ADJA	*	*	*	*
+12	Kambodscha-Konferenz	Kambodscha-Konferenz	NN	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Paris	Paris	NE	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	bei	bei	APPR	*	*	*	*
+17	der	die	PRELS	*	*	*	*
+18	eine	eine	ART	*	*	*	*
+19	Übergangsregelung	Übergangsregelung	NN	*	*	*	*
+20	für	für	APPR	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Zeit	Zeit	NN	*	*	*	*
+23	nach	nach	APPR	*	*	*	*
+24	dem	die	ART	*	*	*	*
+25	vietnamesischen	vietnamesisch	ADJA	*	*	*	*
+26	Truppenabzug	Truppenabzug	NN	*	*	*	*
+27	aus	aus	APPR	*	*	*	*
+28	Kambodscha	Kambodscha	NE	*	*	*	*
+29	gefunden	finden	VVPP	*	*	*	*
+30	werden	werden	VAINF	*	*	*	*
+31	soll	sollen	VMFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	in	in	APPR	2	2	2	2
+34	eine	eine	ART	*	*	*	*
+35	Sackgasse	Sackgasse	NN	2	2	2	2
+36	geraten	geraten|raten	VVPP	2	2	2	2
+37	zu	zu	PTKZU	*	*	*	*
+38	sein	sein	VAINF	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T890303.62
+# text = Nach Angaben eines Mitglieds der Gewerkschaft Solidarität sind die Verhandlungen im sogenannten Jugendausschuß am Dienstag in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	Angaben	Angabe	NN	*	*	*	*
+3	eines	eine	ART	*	*	*	*
+4	Mitglieds	Mitglied	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Gewerkschaft	Gewerkschaft	NN	*	*	*	*
+7	Solidarität	Solidarität	NN	*	*	*	*
+8	sind	sein	VAFIN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Verhandlungen	Verhandlung	NN	*	*	*	*
+11	im	in	APPRART	*	*	*	*
+12	sogenannten	sogenannt	ADJA	*	*	*	*
+13	Jugendausschuß	Jugendausschuss	NN	*	*	*	*
+14	am	an	APPRART	*	*	*	*
+15	Dienstag	Dienstag	NN	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	eine	eine	ART	*	*	*	*
+18	Sackgasse	Sackgasse	NN	2	2	2	2
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T910513.90
+# text = London ( afp ) - Die ersten Mehrparteiengespräche in Nordirland seit 16 Jahren sind in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	London	London	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	afp	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Die	<unknown>	ADJA	*	*	*	*
+7	ersten	erst	ADJA	*	*	*	*
+8	Mehrparteiengespräche	Mehrparteiengespräch	NN	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	Nordirland	Nordirland	NE	*	*	*	*
+11	seit	seit	APPR	*	*	*	*
+12	16	@card@	CARD	*	*	*	*
+13	Jahren	Jahr	NN	*	*	*	*
+14	sind	sein	VAFIN	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	eine	eine	ART	*	*	*	*
+17	Sackgasse	Sackgasse	NN	2	2	2	2
+18	geraten	geraten|raten	VVPP	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T910515.63
+# text = Baker bestritt auf der anschließenden Pressekonferenz , daß seine Bemühungen um eine Nahost-Friedenskonferenz in eine Sackgasse geraten seien , und Kollege Bessmertnych sprach sogar davon , daß die Wahrscheinlichkeit der Konferenz gestiegen sei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Baker	Baker	NN	*	*	*	*
+2	bestritt	bestreiten	VVFIN	*	*	*	*
+3	auf	auf	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	anschließenden	anschließend	ADJA	*	*	*	*
+6	Pressekonferenz	Pressekonferenz	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	seine	sein	PPOSAT	*	*	*	*
+10	Bemühungen	Bemühung	NN	*	*	*	*
+11	um	um	APPR	*	*	*	*
+12	eine	eine	ART	*	*	*	*
+13	Nahost-Friedenskonferenz	Nahost-Friedenskonferenz	NN	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	eine	eine	ART	*	*	*	*
+16	Sackgasse	Sackgasse	NN	2	2	2	2
+17	geraten	geraten|raten	VVPP	2	2	2	2
+18	seien	sein	VAFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	Kollege	Kollege	NN	*	*	*	*
+22	Bessmertnych	<unknown>	NN	*	*	*	*
+23	sprach	sprechen	VVFIN	*	*	*	*
+24	sogar	sogar	ADV	*	*	*	*
+25	davon	davon	PAV	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	daß	dass	KOUS	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Wahrscheinlichkeit	Wahrscheinlichkeit	NN	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	Konferenz	Konferenz	NN	*	*	*	*
+32	gestiegen	steigen	VVPP	*	*	*	*
+33	sei	sein	VAFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T910615.120
+# text = Ich fand , daß die Forschung in eine Sackgasse geraten war , daß wir Literaturwissenschaftler und Universitätsprofessoren uns nur noch wiederholten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	ich	PPER	*	*	*	*
+2	fand	finden	VVFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	daß	dass	KOUS	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Forschung	Forschung	NN	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	eine	eine	ART	*	*	*	*
+9	Sackgasse	Sackgasse	NN	2	2	2	2
+10	geraten	geraten|raten	VVPP	2	2	2	2
+11	war	sein	VAFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	daß	dass	KOUS	*	*	*	*
+14	wir	wir	PPER	*	*	*	*
+15	Literaturwissenschaftler	Literaturwissenschaftler	NN	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Universitätsprofessoren	Universitätsprofessor	NN	*	*	*	*
+18	uns	wir	PRF	*	*	*	*
+19	nur	nur	ADV	*	*	*	*
+20	noch	noch	ADV	*	*	*	*
+21	wiederholten	wiederholen	VVFIN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T911009.173
+# text = Der agile SPD-Medienpolitiker ist in Nordrhein-Westfalen gleichsam in eine Sackgasse geraten , denn an Wolfgang Clement , Leiter der Staatskanzlei und heimlichen Rau-Nachfolger , kommt er nicht vorbei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	agile	agil	ADJA	*	*	*	*
+3	SPD-Medienpolitiker	SPD-Medienpolitiker	NN	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Nordrhein-Westfalen	Nordrhein-Westfalen	NE	*	*	*	*
+7	gleichsam	gleichsam	ADJD	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	eine	eine	ART	*	*	*	*
+10	Sackgasse	Sackgasse	NN	2	2	2	2
+11	geraten	geraten|raten	VVPP	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	denn	denn	KON	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	Wolfgang	Wolfgang	NE	*	*	*	*
+16	Clement	Clement	NE	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	Leiter	Leiter	NN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Staatskanzlei	Staatskanzlei	NN	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	heimlichen	heimlich	ADJA	*	*	*	*
+23	Rau-Nachfolger	Rau-Nachfolger	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	kommt	kommen	VVFIN	*	*	*	*
+26	er	er	PPER	*	*	*	*
+27	nicht	nicht	PTKNEG	*	*	*	*
+28	vorbei	vorbei	PTKVZ	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T911025.63
+# text = Und damit würde der Dialog wieder in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	damit	damit	PAV	*	*	*	*
+3	würde	werden	VAFIN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Dialog	Dialog	NN	*	*	*	*
+6	wieder	wieder	ADV	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	eine	eine	ART	*	*	*	*
+9	Sackgasse	Sackgasse	NN	2	2	2	2
+10	geraten	geraten|raten	VVPP	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T911007.173
+# text = Es ist die typische Sackgasse , in die das Trompe- l'oeil , die Kunst des getäuschten und taumelnden Auges , immer zu geraten droht , und nicht wenige Kunstkritiker sind der Ansicht , des handele sich überhaupt nur um - wenn auch brillantes - Handwerk , nicht aber um Kunst , weil Kunst nicht an der Imitation , sondern an der Transformation von Wirklichkeit interessiert sein müsse .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	typische	typisch	ADJA	*	*	*	*
+5	Sackgasse	Sackgasse	NN	2	2	2	2
+6	,	,	$,	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	Trompe-	<unknown>	TRUNC	*	*	*	*
+11	l'oeil	<unknown>	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Kunst	Kunst	NN	*	*	*	*
+15	des	die	ART	*	*	*	*
+16	getäuschten	getäuscht	ADJA	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	taumelnden	taumelnd	ADJA	*	*	*	*
+19	Auges	Auge	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	immer	immer	ADV	*	*	*	*
+22	zu	zu	PTKZU	*	*	*	*
+23	geraten	geraten	VVINF	2	2	2	2
+24	droht	drohen	VVFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	nicht	nicht	PTKNEG	*	*	*	*
+28	wenige	wenige	PIAT	*	*	*	*
+29	Kunstkritiker	Kunstkritiker	NN	*	*	*	*
+30	sind	sein	VAFIN	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	Ansicht	Ansicht	NN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	des	die	ART	*	*	*	*
+35	handele	handeln	VVFIN	*	*	*	*
+36	sich	sich	PRF	*	*	*	*
+37	überhaupt	überhaupt	ADV	*	*	*	*
+38	nur	nur	ADV	*	*	*	*
+39	um	um	PTKVZ	*	*	*	*
+40	-	-	$(	*	*	*	*
+41	wenn	wenn	KOUS	*	*	*	*
+42	auch	auch	ADV	*	*	*	*
+43	brillantes	brillant	ADJA	*	*	*	*
+44	-	-	$(	*	*	*	*
+45	Handwerk	Handwerk	NN	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	nicht	nicht	PTKNEG	*	*	*	*
+48	aber	aber	ADV	*	*	*	*
+49	um	um	APPR	*	*	*	*
+50	Kunst	Kunst	NN	*	*	*	*
+51	,	,	$,	*	*	*	*
+52	weil	weil	KOUS	*	*	*	*
+53	Kunst	Kunst	NN	*	*	*	*
+54	nicht	nicht	PTKNEG	*	*	*	*
+55	an	an	APPR	*	*	*	*
+56	der	die	ART	*	*	*	*
+57	Imitation	Imitation	NN	*	*	*	*
+58	,	,	$,	*	*	*	*
+59	sondern	sondern	KON	*	*	*	*
+60	an	an	APPR	*	*	*	*
+61	der	die	ART	*	*	*	*
+62	Transformation	Transformation	NN	*	*	*	*
+63	von	von	APPR	*	*	*	*
+64	Wirklichkeit	Wirklichkeit	NN	*	*	*	*
+65	interessiert	interessieren	VVPP	*	*	*	*
+66	sein	sein	VAINF	*	*	*	*
+67	müsse	müssen	VMFIN	*	*	*	*
+68	.	.	$.	*	*	*	*
+
+# article_id = T910131.107
+# text = Dank der strategischen " Chirurgie " der alliierten Streitkräfte hoffen Militärs und Rüstungsfirmen auf einen Weg aus der Sackgasse , in die sie durch das Ende des Kalten Krieges geraten waren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dank	dank	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	strategischen	strategisch	ADJA	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Chirurgie	Chirurgie	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	alliierten	alliiert	ADJA	*	*	*	*
+9	Streitkräfte	Streitkraft	NN	*	*	*	*
+10	hoffen	hoffen	VVFIN	*	*	*	*
+11	Militärs	Militär	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Rüstungsfirmen	Rüstungsfirma	NN	*	*	*	*
+14	auf	auf	APPR	*	*	*	*
+15	einen	eine	ART	*	*	*	*
+16	Weg	Weg	NN	*	*	*	*
+17	aus	aus	APPR	2	2	2	2
+18	der	die	ART	*	*	*	*
+19	Sackgasse	Sackgasse	NN	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	die	die	PRELS	*	*	*	*
+23	sie	sie	PPER	*	*	*	*
+24	durch	durch	APPR	*	*	*	*
+25	das	die	ART	*	*	*	*
+26	Ende	Ende	NN	*	*	*	*
+27	des	die	ART	*	*	*	*
+28	Kalten	Kalte	NN	*	*	*	*
+29	Krieges	Krieg	NN	*	*	*	*
+30	geraten	geraten|raten	VVPP	2	2	2	2
+31	waren	sein	VAFIN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T910103.20
+# text = Er will bei seiner Europareise erreichen , daß die EG einen diplomatischen Vorstoß zu Gesprächen mit dem Irak unternimmt , da die Versuche zu amerikanisch-irakischen Gesprächen in eine Sackgasse geraten sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	will	wollen	VMFIN	*	*	*	*
+3	bei	bei	APPR	*	*	*	*
+4	seiner	sein	PPOSAT	*	*	*	*
+5	Europareise	Europareise	NN	*	*	*	*
+6	erreichen	erreichen	VVINF	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	EG	EG	NE	*	*	*	*
+11	einen	eine	ART	*	*	*	*
+12	diplomatischen	diplomatisch	ADJA	*	*	*	*
+13	Vorstoß	Vorstoß	NN	*	*	*	*
+14	zu	zu	APPR	*	*	*	*
+15	Gesprächen	Gespräch	NN	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	dem	die	ART	*	*	*	*
+18	Irak	Irak	NE	*	*	*	*
+19	unternimmt	unternehmen	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	da	da	KOUS	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Versuche	Versuch	NN	*	*	*	*
+24	zu	zu	APPR	*	*	*	*
+25	amerikanisch-irakischen	amerikanisch-irakisch	ADJA	*	*	*	*
+26	Gesprächen	Gespräch	NN	*	*	*	*
+27	in	in	APPR	2	2	2	2
+28	eine	eine	ART	*	*	*	*
+29	Sackgasse	Sackgasse	NN	2	2	2	2
+30	geraten	geraten|raten	VVPP	2	2	2	2
+31	sind	sein	VAFIN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T910103.101
+# text = Bislang wird ECAS von einem britischen Bauunternehmer , den Quäkern und britischen Verbraucherschutzorganisationen gesponsert , die über die Einflußnahme auf Brüsseler Entscheidungen aus der Sackgasse herauskommen möchten , in die die heimische Sozialpolitik geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bislang	bislang	ADV	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	ECAS	<unknown>	NE	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	einem	eine	ART	*	*	*	*
+6	britischen	britisch	ADJA	*	*	*	*
+7	Bauunternehmer	Bauunternehmer	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Quäkern	Quäker	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	britischen	britisch	ADJA	*	*	*	*
+13	Verbraucherschutzorganisationen	Verbraucherschutzorganisation	NN	*	*	*	*
+14	gesponsert	sponsern	VVPP	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	die	die	PRELS	*	*	*	*
+17	über	über	APPR	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Einflußnahme	Einflussnahme	NN	*	*	*	*
+20	auf	auf	APPR	*	*	*	*
+21	Brüsseler	Brüsseler	ADJA	*	*	*	*
+22	Entscheidungen	Entscheidung	NN	*	*	*	*
+23	aus	aus	APPR	2	2	2	2
+24	der	die	ART	*	*	*	*
+25	Sackgasse	Sackgasse	NN	2	2	2	2
+26	herauskommen	herauskommen	VVINF	*	*	*	*
+27	möchten	mögen	VMFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	die	die	PRELS	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	heimische	heimisch	ADJA	*	*	*	*
+33	Sozialpolitik	Sozialpolitik	NN	*	*	*	*
+34	geraten	geraten|raten	VVPP	2	2	2	2
+35	ist	sein	VAFIN	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T910109.57
+# text = Nach Auffasung der protestierenden Kurden wurde das zweite Verfahren in Celle nur eröffenet , weil der Düsseldorfer PKK-Prozeß in eine Sackgasse geraten und dort eine Verurteilung nach Paragraph 129a schwierig geworden ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	Auffasung	<unknown>	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	protestierenden	protestierend	ADJA	*	*	*	*
+5	Kurden	Kurde	NN	*	*	*	*
+6	wurde	werden	VAFIN	*	*	*	*
+7	das	die	ART	*	*	*	*
+8	zweite	zweit	ADJA	*	*	*	*
+9	Verfahren	Verfahren	NN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	Celle	Celle	NE	*	*	*	*
+12	nur	nur	ADV	*	*	*	*
+13	eröffenet	<unknown>	VVFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	weil	weil	KOUS	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Düsseldorfer	Düsseldorfer	ADJA	*	*	*	*
+18	PKK-Prozeß	PKK-Prozess	NN	*	*	*	*
+19	in	in	APPR	2	2	2	2
+20	eine	eine	ART	*	*	*	*
+21	Sackgasse	Sackgasse	NN	2	2	2	2
+22	geraten	geraten|raten	VVPP	2	2	2	2
+23	und	und	KON	*	*	*	*
+24	dort	dort	ADV	*	*	*	*
+25	eine	eine	ART	*	*	*	*
+26	Verurteilung	Verurteilung	NN	*	*	*	*
+27	nach	nach	APPR	*	*	*	*
+28	Paragraph	Paragraph	NN	*	*	*	*
+29	129a	<unknown>	NN	*	*	*	*
+30	schwierig	schwierig	ADJD	*	*	*	*
+31	geworden	werden	VAPP	*	*	*	*
+32	ist	sein	VAFIN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T910128.90
+# text = Die politische Linie , die die PLO seit mehr als zwei Jahren in Richtung Friedensverhandlungen eingeschlagen hat - und die weder von den USA noch von der israelischen Regierung honoriert wurde - ist in die Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	politische	politisch	ADJA	*	*	*	*
+3	Linie	Linie	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	PLO	PLO	NE	*	*	*	*
+8	seit	seit	APPR	*	*	*	*
+9	mehr	mehr	ADV	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	zwei	zwei	CARD	*	*	*	*
+12	Jahren	Jahr	NN	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Richtung	Richtung	NN	*	*	*	*
+15	Friedensverhandlungen	Friedensverhandlung	NN	*	*	*	*
+16	eingeschlagen	einschlagen	VVPP	*	*	*	*
+17	hat	haben	VAFIN	*	*	*	*
+18	-	-	$(	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	die	die	PDS	*	*	*	*
+21	weder	weder	KON	*	*	*	*
+22	von	von	APPR	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	USA	USA	NE	*	*	*	*
+25	noch	noch	ADV	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	israelischen	israelisch	ADJA	*	*	*	*
+29	Regierung	Regierung	NN	*	*	*	*
+30	honoriert	honorieren	VVPP	*	*	*	*
+31	wurde	werden	VAFIN	*	*	*	*
+32	-	-	$(	*	*	*	*
+33	ist	sein	VAFIN	*	*	*	*
+34	in	in	APPR	2	2	2	2
+35	die	die	ART	*	*	*	*
+36	Sackgasse	Sackgasse	NN	2	2	2	2
+37	geraten	geraten|raten	VVPP	2	2	2	2
+38	.	.	$.	*	*	*	*
+
+# article_id = T910419.54
+# text = Die sowjetische Nachrichtenagentur ' Interfax ` meldete am Donnerstag , nachdem Gespräche mit der Führung Weißrußlands in eine Sackgasse geraten seien , habe das " Republikanische Streikkomitee " angekündigt , am kommenden Dienstag den für die Dauer der Verhandlungen unterbrochenen Generalstreik in der Sowjetrepublik wiederaufzunehmen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	sowjetische	sowjetisch	ADJA	*	*	*	*
+3	Nachrichtenagentur	Nachrichtenagentur	NN	*	*	*	*
+4	'	'	$(	*	*	*	*
+5	Interfax	<unknown>	NN	*	*	*	*
+6	`	`	$(	*	*	*	*
+7	meldete	melden	VVFIN	*	*	*	*
+8	am	an	APPRART	*	*	*	*
+9	Donnerstag	Donnerstag	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	nachdem	nachdem	KOUS	*	*	*	*
+12	Gespräche	Gespräch	NN	*	*	*	*
+13	mit	mit	APPR	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Führung	Führung	NN	*	*	*	*
+16	Weißrußlands	Weißrußland	NN	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	eine	eine	ART	*	*	*	*
+19	Sackgasse	Sackgasse	NN	2	2	2	2
+20	geraten	geraten|raten	VVPP	2	2	2	2
+21	seien	sein	VAFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	habe	haben	VAFIN	*	*	*	*
+24	das	die	ART	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	Republikanische	republikanisch	ADJA	*	*	*	*
+27	Streikkomitee	Streikkomitee	NN	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	angekündigt	ankündigen	VVPP	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	am	an	APPRART	*	*	*	*
+32	kommenden	kommend	ADJA	*	*	*	*
+33	Dienstag	Dienstag	NN	*	*	*	*
+34	den	die	ART	*	*	*	*
+35	für	für	APPR	*	*	*	*
+36	die	die	ART	*	*	*	*
+37	Dauer	Dauer	NN	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	Verhandlungen	Verhandlung	NN	*	*	*	*
+40	unterbrochenen	unterbrochen	ADJA	*	*	*	*
+41	Generalstreik	Generalstreik	NN	*	*	*	*
+42	in	in	APPR	*	*	*	*
+43	der	die	ART	*	*	*	*
+44	Sowjetrepublik	Sowjetrepublik	NN	*	*	*	*
+45	wiederaufzunehmen	wiederaufnehmen	VVIZU	*	*	*	*
+46	.	.	$.	*	*	*	*
+
+# article_id = T911219.62
+# text = Viele Liberianer betrachten diese Zuckerbrot-und-Peitsche-Politik der ULIMO als den einzigen Weg , um Taylor doch noch zur Räson zu bringen , zumal die diplomatischen Bemühungen mehr und mehr in eine Sackgasse zu geraten scheinen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Viele	viele	PIAT	*	*	*	*
+2	Liberianer	<unknown>	NN	*	*	*	*
+3	betrachten	betrachten	VVFIN	*	*	*	*
+4	diese	dies	PDAT	*	*	*	*
+5	Zuckerbrot-und-Peitsche-Politik	Zuckerbrot-und-Peitsche-Politik	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	ULIMO	<unknown>	NN	*	*	*	*
+8	als	als	KOKOM	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	einzigen	einzig	ADJA	*	*	*	*
+11	Weg	Weg	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	um	um	KOUI	*	*	*	*
+14	Taylor	Taylor	NE	*	*	*	*
+15	doch	doch	ADV	*	*	*	*
+16	noch	noch	ADV	*	*	*	*
+17	zur	zu	APPRART	*	*	*	*
+18	Räson	Räson	NN	*	*	*	*
+19	zu	zu	PTKZU	*	*	*	*
+20	bringen	bringen	VVINF	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	zumal	zumal	KOUS	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	diplomatischen	diplomatisch	ADJA	*	*	*	*
+25	Bemühungen	Bemühung	NN	*	*	*	*
+26	mehr	mehr	ADV	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	mehr	mehr	ADV	*	*	*	*
+29	in	in	APPR	2	2	2	2
+30	eine	eine	ART	*	*	*	*
+31	Sackgasse	Sackgasse	NN	2	2	2	2
+32	zu	zu	PTKZU	*	*	*	*
+33	geraten	geraten	VVINF	2	2	2	2
+34	scheinen	scheinen	VVFIN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T911214.59
+# text = Die fünf Präsidenten erklärten , sie seien von dem am Sonntag in der weißrussischen Stadt Brest unterzeichneten Dreierabkommen überrascht worden , bewerteten diese Initiative aber insofern als positiv , als der nach den Beschlüssen des fünften Kongresses der Volksdeputierten in Gang gesetzte Prozeß einer Integration der bisherigen Gliedstaaten der UdSSR in eine Sackgasse geraten sei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	fünf	fünf	CARD	*	*	*	*
+3	Präsidenten	Präsident	NN	*	*	*	*
+4	erklärten	erklären	VVFIN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	sie	sie	PPER	*	*	*	*
+7	seien	sein	VAFIN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	am	an	APPRART	*	*	*	*
+11	Sonntag	Sonntag	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	weißrussischen	weißrussisch	ADJA	*	*	*	*
+15	Stadt	Stadt	NN	*	*	*	*
+16	Brest	<unknown>	VVFIN	*	*	*	*
+17	unterzeichneten	unterzeichnet	ADJA	*	*	*	*
+18	Dreierabkommen	Dreierabkommen	NN	*	*	*	*
+19	überrascht	überraschen	VVPP	*	*	*	*
+20	worden	werden	VAPP	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	bewerteten	bewerten	VVFIN	*	*	*	*
+23	diese	dies	PDAT	*	*	*	*
+24	Initiative	Initiative	NN	*	*	*	*
+25	aber	aber	ADV	*	*	*	*
+26	insofern	insofern	ADV	*	*	*	*
+27	als	als	KOKOM	*	*	*	*
+28	positiv	positiv	ADJD	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	als	als	KOUS	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	nach	nach	APPR	*	*	*	*
+33	den	die	ART	*	*	*	*
+34	Beschlüssen	Beschluss	NN	*	*	*	*
+35	des	die	ART	*	*	*	*
+36	fünften	fünft	ADJA	*	*	*	*
+37	Kongresses	Kongress	NN	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	Volksdeputierten	<unknown>	NN	*	*	*	*
+40	in	in	APPR	*	*	*	*
+41	Gang	Gang	NN	*	*	*	*
+42	gesetzte	gesetzt	ADJA	*	*	*	*
+43	Prozeß	Prozess	NN	*	*	*	*
+44	einer	eine	ART	*	*	*	*
+45	Integration	Integration	NN	*	*	*	*
+46	der	die	ART	*	*	*	*
+47	bisherigen	bisherig	ADJA	*	*	*	*
+48	Gliedstaaten	Gliedstaat	NN	*	*	*	*
+49	der	die	ART	*	*	*	*
+50	UdSSR	<unknown>	NN	*	*	*	*
+51	in	in	APPR	2	2	2	2
+52	eine	eine	ART	*	*	*	*
+53	Sackgasse	Sackgasse	NN	2	2	2	2
+54	geraten	geraten|raten	VVPP	2	2	2	2
+55	sei	sein	VAFIN	*	*	*	*
+56	.	.	$.	*	*	*	*
+
+# article_id = T910319.42
+# text = Ein Minimalprogramm , gewiß , aber vielleicht ein Weg aus der Sackgasse , in die die UNO nach dem in ihrem Namen geführten Krieg geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	Minimalprogramm	Minimalprogramm	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	gewiß	gewiss	ADJD	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	aber	aber	KON	*	*	*	*
+7	vielleicht	vielleicht	ADV	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	Weg	Weg	NN	*	*	*	*
+10	aus	aus	APPR	2	2	2	2
+11	der	die	ART	*	*	*	*
+12	Sackgasse	Sackgasse	NN	2	2	2	2
+13	,	,	$,	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	UNO	UNO	NE	*	*	*	*
+18	nach	nach	APPR	*	*	*	*
+19	dem	die	ART	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	ihrem	ihr	PPOSAT	*	*	*	*
+22	Namen	Name	NN	*	*	*	*
+23	geführten	geführt	ADJA	*	*	*	*
+24	Krieg	Krieg	NN	*	*	*	*
+25	geraten	geraten|raten	VVPP	2	2	2	2
+26	ist	sein	VAFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T911119.19
+# text = Unter diesen Bedingungen sind die Verhandlungen über die Kapitulation der Stadt in die Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unter	unter	APPR	*	*	*	*
+2	diesen	dies	PDAT	*	*	*	*
+3	Bedingungen	Bedingung	NN	*	*	*	*
+4	sind	sein	VAFIN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Verhandlungen	Verhandlung	NN	*	*	*	*
+7	über	über	APPR	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Kapitulation	Kapitulation	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Stadt	Stadt	NN	*	*	*	*
+12	in	in	APPR	2	2	2	2
+13	die	die	ART	*	*	*	*
+14	Sackgasse	Sackgasse	NN	2	2	2	2
+15	geraten	geraten|raten	VVPP	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T910202.175
+# text = Der » runde Tisch « mit Hausbesetzern , Bezirksstadträten und der zuständigen Wohnungsbaugesellschaft in Berlin-Mitte schien gestern in eine Sackgasse geraten zu sein .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	»	<unknown>	ADJA	*	*	*	*
+3	runde	rund	ADJA	*	*	*	*
+4	Tisch	Tisch	NN	*	*	*	*
+5	«	<unknown>	ADJD	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	Hausbesetzern	Hausbesetzer	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Bezirksstadträten	Bezirksstadtrat	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	zuständigen	zuständig	ADJA	*	*	*	*
+13	Wohnungsbaugesellschaft	Wohnungsbaugesellschaft	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Berlin-Mitte	Berlin-Mitte	NN	*	*	*	*
+16	schien	scheinen	VVFIN	*	*	*	*
+17	gestern	gestern	ADV	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	eine	eine	ART	*	*	*	*
+20	Sackgasse	Sackgasse	NN	2	2	2	2
+21	geraten	geraten|raten	VVPP	2	2	2	2
+22	zu	zu	PTKZU	*	*	*	*
+23	sein	sein	VAINF	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T910208.167
+# text = Wir sind nicht die einzige Nation , die hinters Licht geführt wurde , die mit oder ohne unsere Zustimmung in eine Sackgasse geriet : Wir brauchen uns nur in Osteuropa umzusehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wir	wir	PPER	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	nicht	nicht	PTKNEG	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	einzige	einzig	ADJA	*	*	*	*
+6	Nation	Nation	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	hinters	hinters	APPRART	*	*	*	*
+10	Licht	Licht	NN	*	*	*	*
+11	geführt	führen	VVPP	*	*	*	*
+12	wurde	werden	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	die	die	PRELS	*	*	*	*
+15	mit	mit	APPR	*	*	*	*
+16	oder	oder	KON	*	*	*	*
+17	ohne	ohne	APPR	*	*	*	*
+18	unsere	unser	PPOSAT	*	*	*	*
+19	Zustimmung	Zustimmung	NN	*	*	*	*
+20	in	in	APPR	2	2	2	2
+21	eine	eine	ART	*	*	*	*
+22	Sackgasse	Sackgasse	NN	2	2	2	2
+23	geriet	geraten	VVFIN	2	2	2	2
+24	:	:	$.	*	*	*	*
+25	Wir	wir	PPER	*	*	*	*
+26	brauchen	brauchen	VVFIN	*	*	*	*
+27	uns	wir	PPER	*	*	*	*
+28	nur	nur	ADV	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	Osteuropa	Osteuropa	NE	*	*	*	*
+31	umzusehen	umsehen	VVIZU	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T900102.77
+# text = Während ein Kommando der schnellen Einsatztruppe " Delta - Force " sich bereithält , die Nuntiatur notfalls zu stürmen , sind Verhandlungen mit dem Vatikan über eine Auslieferung Noriegas in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	KOUS	*	*	*	*
+2	ein	eine	ART	*	*	*	*
+3	Kommando	Kommando	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	schnellen	schnell	ADJA	*	*	*	*
+6	Einsatztruppe	Einsatztruppe	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	Delta	Delta	NN	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	Force	<unknown>	NN	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	sich	sich	PRF	*	*	*	*
+13	bereithält	bereithalten	VVFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Nuntiatur	Nuntiatur	NN	*	*	*	*
+17	notfalls	notfalls	ADV	*	*	*	*
+18	zu	zu	PTKZU	*	*	*	*
+19	stürmen	stürmen	VVINF	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	sind	sein	VAFIN	*	*	*	*
+22	Verhandlungen	Verhandlung	NN	*	*	*	*
+23	mit	mit	APPR	*	*	*	*
+24	dem	die	ART	*	*	*	*
+25	Vatikan	Vatikan	NN	*	*	*	*
+26	über	über	APPR	*	*	*	*
+27	eine	eine	ART	*	*	*	*
+28	Auslieferung	Auslieferung	NN	*	*	*	*
+29	Noriegas	<unknown>	NN	*	*	*	*
+30	in	in	APPR	2	2	2	2
+31	eine	eine	ART	*	*	*	*
+32	Sackgasse	Sackgasse	NN	2	2	2	2
+33	geraten	geraten|raten	VVPP	2	2	2	2
+34	.	.	$.	*	*	*	*
+
+# article_id = T900102.114
+# text = Genf , 7. Mai : Die Genfer Abrüstungskonferenz der Hooligans aus England und den Niederlanden im Vorfeld der Fußball-Weltmeisterschaft 1990 ist in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Genf	Genf	NE	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	7	@card@	CARD	*	*	*	*
+4	.	.	$.	*	*	*	*
+5	Mai	Mai	NE	*	*	*	*
+6	:	:	$.	*	*	*	*
+7	Die	die	ART	*	*	*	*
+8	Genfer	Genfer	ADJA	*	*	*	*
+9	Abrüstungskonferenz	Abrüstungskonferenz	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Hooligans	Hooligan	NN	*	*	*	*
+12	aus	aus	APPR	*	*	*	*
+13	England	England	NE	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	Niederlanden	Niederland	NN	*	*	*	*
+17	im	in	APPRART	*	*	*	*
+18	Vorfeld	Vorfeld	NN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Fußball-Weltmeisterschaft	Fußball-Weltmeisterschaft	NN	*	*	*	*
+21	1990	@card@	CARD	*	*	*	*
+22	ist	sein	VAFIN	*	*	*	*
+23	in	in	APPR	2	2	2	2
+24	eine	eine	ART	*	*	*	*
+25	Sackgasse	Sackgasse	NN	2	2	2	2
+26	geraten	geraten|raten	VVPP	2	2	2	2
+27	.	.	$.	*	*	*	*
+
+# article_id = T900302.43
+# text = Die Friedensgespräche zwischen Regierung und Unita sind seit dem vergangenen Sommer in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Friedensgespräche	Friedensgespräch	NN	*	*	*	*
+3	zwischen	zwischen	APPR	*	*	*	*
+4	Regierung	Regierung	NN	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	Unita	<unknown>	NN	*	*	*	*
+7	sind	sein	VAFIN	*	*	*	*
+8	seit	seit	APPR	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	vergangenen	vergangen	ADJA	*	*	*	*
+11	Sommer	Sommer	NN	*	*	*	*
+12	in	in	APPR	2	2	2	2
+13	eine	eine	ART	*	*	*	*
+14	Sackgasse	Sackgasse	NN	2	2	2	2
+15	geraten	geraten|raten	VVPP	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T900316.51
+# text = Daß der Sozialismus auch in seiner demokratischen Variante in die Sackgasse geraten ist , beweist gerade das Modell Schweden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Sozialismus	Sozialismus	NN	*	*	*	*
+4	auch	auch	ADV	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	seiner	sein	PPOSAT	*	*	*	*
+7	demokratischen	demokratisch	ADJA	*	*	*	*
+8	Variante	Variante	NN	*	*	*	*
+9	in	in	APPR	2	2	2	2
+10	die	die	ART	*	*	*	*
+11	Sackgasse	Sackgasse	NN	2	2	2	2
+12	geraten	geraten|raten	VVPP	2	2	2	2
+13	ist	sein	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	beweist	beweisen	VVFIN	*	*	*	*
+16	gerade	gerade	ADV	*	*	*	*
+17	das	die	ART	*	*	*	*
+18	Modell	Modell	NN	*	*	*	*
+19	Schweden	Schweden	NE	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T900326.160
+# text = Unglücklicherweise ist der Friedensprozeß , der vom früheren Präsidenten Carter durch die Treffen in Atlanta und Nairobi initiiert wurde , in eine Sackgasse geraten , weil das Regime in Addis Abeba eine Vereinbarung verletzt hat , nach der sieben Beobachter , darunter die UNO , eingeladen werden sollten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unglücklicherweise	unglücklicherweise	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Friedensprozeß	Friedensprozess	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	der	die	PRELS	*	*	*	*
+7	vom	von	APPRART	*	*	*	*
+8	früheren	früh	ADJA	*	*	*	*
+9	Präsidenten	Präsident	NN	*	*	*	*
+10	Carter	<unknown>	NN	*	*	*	*
+11	durch	durch	APPR	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Treffen	Treffen	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Atlanta	Atlanta	NE	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Nairobi	Nairobi	NE	*	*	*	*
+18	initiiert	initiieren	VVPP	*	*	*	*
+19	wurde	werden	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	in	in	APPR	2	2	2	2
+22	eine	eine	ART	*	*	*	*
+23	Sackgasse	Sackgasse	NN	2	2	2	2
+24	geraten	geraten|raten	VVPP	2	2	2	2
+25	,	,	$,	*	*	*	*
+26	weil	weil	KOUS	*	*	*	*
+27	das	die	ART	*	*	*	*
+28	Regime	Regime	NN	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	Addis	<unknown>	NE	*	*	*	*
+31	Abeba	<unknown>	NN	*	*	*	*
+32	eine	eine	ART	*	*	*	*
+33	Vereinbarung	Vereinbarung	NN	*	*	*	*
+34	verletzt	verletzen	VVPP	*	*	*	*
+35	hat	haben	VAFIN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	nach	nach	APPR	*	*	*	*
+38	der	die	PRELS	*	*	*	*
+39	sieben	sieben	CARD	*	*	*	*
+40	Beobachter	Beobachter	NN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	darunter	darunter	PAV	*	*	*	*
+43	die	die	ART	*	*	*	*
+44	UNO	UNO	NE	*	*	*	*
+45	,	,	$,	*	*	*	*
+46	eingeladen	einladen	VVPP	*	*	*	*
+47	werden	werden	VAINF	*	*	*	*
+48	sollten	sollen	VMFIN	*	*	*	*
+49	.	.	$.	*	*	*	*
+
+# article_id = T900321.119
+# text = Teheran ( afp ) - Für einen Waffeneinsatz gegen den Irak hat sich der Anführer des radikalen Flügels in der iranischen Führung , Mohtaschemi , ausgesprochen , um die in eine Sackgasse geratenen Friedensgespräche zu beenden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Teheran	Teheran	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	afp	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Für	für	APPR	*	*	*	*
+7	einen	eine	ART	*	*	*	*
+8	Waffeneinsatz	Waffeneinsatz	NN	*	*	*	*
+9	gegen	gegen	APPR	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Irak	Irak	NE	*	*	*	*
+12	hat	haben	VAFIN	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Anführer	Anführer	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	radikalen	radikal	ADJA	*	*	*	*
+18	Flügels	Flügel	NN	*	*	*	*
+19	in	in	APPR	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	iranischen	iranisch	ADJA	*	*	*	*
+22	Führung	Führung	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	Mohtaschemi	<unknown>	NE	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	ausgesprochen	aussprechen	VVPP	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	um	um	APPR	*	*	*	*
+29	die	die	PRELS	*	*	*	*
+30	in	in	APPR	2	2	2	2
+31	eine	eine	ART	*	*	*	*
+32	Sackgasse	Sackgasse	NN	2	2	2	2
+33	geratenen	geraten	ADJA	2	2	2	2
+34	Friedensgespräche	Friedensgespräch	NN	*	*	*	*
+35	zu	zu	PTKZU	*	*	*	*
+36	beenden	beenden	VVINF	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T900321.195
+# text = Slawomir Mrozek bemerkte wohl noch , daß er in eine Sackgasse geraten war , und legte den Rückwärtsgang ein .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Slawomir	Slawomir	NE	*	*	*	*
+2	Mrozek	<unknown>	NE	*	*	*	*
+3	bemerkte	bemerken	VVFIN	*	*	*	*
+4	wohl	wohl	ADV	*	*	*	*
+5	noch	noch	ADV	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	er	er	PPER	*	*	*	*
+9	in	in	APPR	2	2	2	2
+10	eine	eine	ART	*	*	*	*
+11	Sackgasse	Sackgasse	NN	2	2	2	2
+12	geraten	geraten|raten	VVPP	2	2	2	2
+13	war	sein	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	legte	legen	VVFIN	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Rückwärtsgang	Rückwärtsgang	NN	*	*	*	*
+19	ein	ein	PTKVZ	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T900215.138
+# text = Die Sackgasse , in die die diplomatischen Bemühungen der USA geraten sind und der daraus resultierende mögliche Rückzug der Vereinigten Staaten aus dem Friedensprozeß stärkt die Kräfte innerhalb der EG , die für eine aktivere Rolle Europas im Nahen Osten plädieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Sackgasse	Sackgasse	NN	2	2	2	2
+3	,	,	$,	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	diplomatischen	diplomatisch	ADJA	*	*	*	*
+8	Bemühungen	Bemühung	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	USA	USA	NE	*	*	*	*
+11	geraten	geraten|raten	VVPP	2	2	2	2
+12	sind	sein	VAFIN	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	daraus	daraus	PAV	*	*	*	*
+16	resultierende	resultierend	ADJA	*	*	*	*
+17	mögliche	möglich	ADJA	*	*	*	*
+18	Rückzug	Rückzug	NN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Vereinigten	Vereinigter	NN	*	*	*	*
+21	Staaten	Staat	NN	*	*	*	*
+22	aus	aus	APPR	*	*	*	*
+23	dem	die	ART	*	*	*	*
+24	Friedensprozeß	Friedensprozess	NN	*	*	*	*
+25	stärkt	stärken	VVFIN	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	Kräfte	Kraft	NN	*	*	*	*
+28	innerhalb	innerhalb	APPR	*	*	*	*
+29	der	die	ART	*	*	*	*
+30	EG	EG	NE	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	die	die	PRELS	*	*	*	*
+33	für	für	APPR	*	*	*	*
+34	eine	eine	ART	*	*	*	*
+35	aktivere	aktiv	ADJA	*	*	*	*
+36	Rolle	Rolle	NN	*	*	*	*
+37	Europas	Europa	NE	*	*	*	*
+38	im	in	APPRART	*	*	*	*
+39	Nahen	nah	ADJA	*	*	*	*
+40	Osten	Osten	NN	*	*	*	*
+41	plädieren	plädieren	VVINF	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T900214.41
+# text = Der seit Freitag aus der Haft entlassene Hüseyin Celebi sprach während einer Pressekonferenz am Dienstag davon , daß der Prozeß in eine " Sackgasse " geraten sei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	seit	seit	APPR	*	*	*	*
+3	Freitag	Freitag	NN	*	*	*	*
+4	aus	aus	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Haft	Haft	NN	*	*	*	*
+7	entlassene	entlassen	ADJA	*	*	*	*
+8	Hüseyin	Hüseyin	NE	*	*	*	*
+9	Celebi	Celebi	NE	*	*	*	*
+10	sprach	sprechen	VVFIN	*	*	*	*
+11	während	während	APPR	*	*	*	*
+12	einer	eine	ART	*	*	*	*
+13	Pressekonferenz	Pressekonferenz	NN	*	*	*	*
+14	am	an	APPRART	*	*	*	*
+15	Dienstag	Dienstag	NN	*	*	*	*
+16	davon	davon	PAV	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	daß	dass	KOUS	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Prozeß	Prozess	NN	*	*	*	*
+21	in	in	APPR	2	2	2	2
+22	eine	eine	ART	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Sackgasse	Sackgasse	NN	2	2	2	2
+25	"	"	$(	*	*	*	*
+26	geraten	geraten|raten	VVPP	2	2	2	2
+27	sei	sein	VAFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T920511.209
+# text = Das erklärt ein bißchen , warum unser Modell immer attraktiver wird , seit überall die Orchester in die Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	erklärt	erklären	VVFIN	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	bißchen	bisschen	PIS	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	warum	warum	PWAV	*	*	*	*
+7	unser	unser	PPOSAT	*	*	*	*
+8	Modell	Modell	NN	*	*	*	*
+9	immer	immer	ADV	*	*	*	*
+10	attraktiver	attraktiv	ADJD	*	*	*	*
+11	wird	werden	VAFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	seit	seit	KOUS	*	*	*	*
+14	überall	überall	ADV	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Orchester	Orchester	NN	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	die	die	ART	*	*	*	*
+19	Sackgasse	Sackgasse	NN	2	2	2	2
+20	geraten	geraten|raten	VVPP	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T920603.174
+# text = » Die Fische weichen aus , wenn sie Platz haben und nicht in eine Sackgasse geraten « , so Jürgens .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	»	<unknown>	ADJA	*	*	*	*
+2	Die	<unknown>	ADJA	*	*	*	*
+3	Fische	Fisch	NN	*	*	*	*
+4	weichen	weichen	VVFIN	*	*	*	*
+5	aus	aus	PTKVZ	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wenn	wenn	KOUS	*	*	*	*
+8	sie	sie	PPER	*	*	*	*
+9	Platz	Platz	NN	*	*	*	*
+10	haben	haben	VAFIN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	in	in	APPR	1	1	1	1
+14	eine	eine	ART	*	*	*	*
+15	Sackgasse	Sackgasse	NN	1	1	1	1
+16	geraten	geraten|raten	VVPP	1	1	1	1
+17	«	<unknown>	ADJD	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	so	so	ADV	*	*	*	*
+20	Jürgens	Jürgen	NE	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T920919.43
+# text = In Wirklichkeit sind die Gespräche in eine neue Sackgasse geraten , aus der - wie die Syrer behaupten - nur die amerikanische Intervention heraushelfen kann .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Wirklichkeit	Wirklichkeit	NN	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Gespräche	Gespräch	NN	*	*	*	*
+6	in	in	APPR	2	2	2	2
+7	eine	eine	ART	*	*	*	*
+8	neue	neu	ADJA	*	*	*	*
+9	Sackgasse	Sackgasse	NN	2	2	2	2
+10	geraten	geraten|raten	VVPP	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	aus	aus	APPR	*	*	*	*
+13	der	die	PRELS	*	*	*	*
+14	-	-	$(	*	*	*	*
+15	wie	wie	KOUS	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Syrer	Syrer	NN	*	*	*	*
+18	behaupten	behaupten	VVINF	*	*	*	*
+19	-	-	$(	*	*	*	*
+20	nur	nur	ADV	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	amerikanische	amerikanisch	ADJA	*	*	*	*
+23	Intervention	Intervention	NN	*	*	*	*
+24	heraushelfen	heraushelfen	VVINF	*	*	*	*
+25	kann	können	VMFIN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T920701.104
+# text = Eine wichtige ( Mit- ) Voraussetzung dafür , daß ökologisches Denken in eine Sackgasse geraten ist , hat Bernd Ulrich - möglicherweise mit Hintergedanken - vergessen zu erwähnen : es sind paradoxerweise die Grünen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	eine	ART	*	*	*	*
+2	wichtige	wichtig	ADJA	*	*	*	*
+3	(	(	$(	*	*	*	*
+4	Mit-	Mit-	TRUNC	*	*	*	*
+5	)	)	$(	*	*	*	*
+6	Voraussetzung	Voraussetzung	NN	*	*	*	*
+7	dafür	dafür	PAV	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	daß	dass	KOUS	*	*	*	*
+10	ökologisches	ökologisch	ADJA	*	*	*	*
+11	Denken	Denken	NN	*	*	*	*
+12	in	in	APPR	2	2	2	2
+13	eine	eine	ART	*	*	*	*
+14	Sackgasse	Sackgasse	NN	2	2	2	2
+15	geraten	geraten|raten	VVPP	2	2	2	2
+16	ist	sein	VAFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	hat	haben	VAFIN	*	*	*	*
+19	Bernd	Bernd	NE	*	*	*	*
+20	Ulrich	Ulrich	NE	*	*	*	*
+21	-	-	$(	*	*	*	*
+22	möglicherweise	möglicherweise	ADV	*	*	*	*
+23	mit	mit	APPR	*	*	*	*
+24	Hintergedanken	Hintergedanke	NN	*	*	*	*
+25	-	-	$(	*	*	*	*
+26	vergessen	vergessen	VVINF	*	*	*	*
+27	zu	zu	PTKZU	*	*	*	*
+28	erwähnen	erwähnen	VVINF	*	*	*	*
+29	:	:	$.	*	*	*	*
+30	es	es	PPER	*	*	*	*
+31	sind	sein	VAFIN	*	*	*	*
+32	paradoxerweise	paradoxerweise	ADV	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	Grünen	Grüne	NN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T920717.34
+# text = " Der Eindruck einer posthumen , Selektion ` der Opfer " müsse vermieden und die " in eine Sackgasse von Geschmacklosigkeit und Unsittlichkeit " geratene Behandlung des Themas müsse durch eine Diskussion aller " an einem Tisch " einer Lösung zugeführt werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Der	die	ART	*	*	*	*
+3	Eindruck	Eindruck	NN	*	*	*	*
+4	einer	eine	ART	*	*	*	*
+5	posthumen	<unknown>	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Selektion	Selektion	NN	*	*	*	*
+8	`	`	$(	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Opfer	Opfer	NN	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	müsse	müssen	VMFIN	*	*	*	*
+13	vermieden	vermeiden	VVPP	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	eine	eine	ART	*	*	*	*
+19	Sackgasse	Sackgasse	NN	2	2	2	2
+20	von	von	APPR	*	*	*	*
+21	Geschmacklosigkeit	Geschmacklosigkeit	NN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	Unsittlichkeit	Unsittlichkeit	NN	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	geratene	geraten	ADJA	2	2	2	2
+26	Behandlung	Behandlung	NN	*	*	*	*
+27	des	die	ART	*	*	*	*
+28	Themas	Thema	NN	*	*	*	*
+29	müsse	müssen	VMFIN	*	*	*	*
+30	durch	durch	APPR	*	*	*	*
+31	eine	eine	ART	*	*	*	*
+32	Diskussion	Diskussion	NN	*	*	*	*
+33	aller	alle	PIAT	*	*	*	*
+34	"	"	$(	*	*	*	*
+35	an	an	APPR	*	*	*	*
+36	einem	eine	ART	*	*	*	*
+37	Tisch	Tisch	NN	*	*	*	*
+38	"	"	$(	*	*	*	*
+39	einer	eine	ART	*	*	*	*
+40	Lösung	Lösung	NN	*	*	*	*
+41	zugeführt	zuführen	VVPP	*	*	*	*
+42	werden	werden	VAINF	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T920729.24
+# text = In eine Sackgasse gerieten die Gespräche , als der Außenminister erklärte , daß seine Regierung keiner Übereinkunft zustimmen werde , solange die Menschen in Gorazde dem Hungertod nahe seien .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	2	2	2	2
+2	eine	eine	ART	*	*	*	*
+3	Sackgasse	Sackgasse	NN	2	2	2	2
+4	gerieten	geraten	VVFIN	2	2	2	2
+5	die	die	ART	*	*	*	*
+6	Gespräche	Gespräch	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	als	als	KOUS	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Außenminister	Außenminister	NN	*	*	*	*
+11	erklärte	erklären	VVFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	daß	dass	KOUS	*	*	*	*
+14	seine	sein	PPOSAT	*	*	*	*
+15	Regierung	Regierung	NN	*	*	*	*
+16	keiner	keine	PIAT	*	*	*	*
+17	Übereinkunft	Übereinkunft	NN	*	*	*	*
+18	zustimmen	zustimmen	VVINF	*	*	*	*
+19	werde	werden	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	solange	solange	KOUS	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Menschen	Mensch	NN	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	Gorazde	<unknown>	NN	*	*	*	*
+26	dem	die	ART	*	*	*	*
+27	Hungertod	Hungertod	NN	*	*	*	*
+28	nahe	nahe	PTKVZ	*	*	*	*
+29	seien	sein	VAFIN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T920703.32
+# text = Im grünen " Rundbrief " vom 14. April führt er aus , daß " die Verhandlungen in die Sackgasse geraten " seien .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	grünen	grün	ADJA	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	Rundbrief	Rundbrief	NN	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	vom	von	APPRART	*	*	*	*
+7	14	@card@	CARD	*	*	*	*
+8	.	.	$.	*	*	*	*
+9	April	April	NN	*	*	*	*
+10	führt	führen	VVFIN	*	*	*	*
+11	er	er	PPER	*	*	*	*
+12	aus	aus	PTKVZ	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	daß	dass	KOUS	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Verhandlungen	Verhandlung	NN	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	die	die	ART	*	*	*	*
+20	Sackgasse	Sackgasse	NN	2	2	2	2
+21	geraten	geraten|raten	VVPP	2	2	2	2
+22	"	"	$(	*	*	*	*
+23	seien	sein	VAFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T920722.174
+# text = Auf der Nachbarinsel Karpathos war eine erste Umsetzung 1984 in eine Sackgasse geraten , weil die dortige Bevölkerung wenig Interesse an einem " sanften " Tourismus zeigte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	auf	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Nachbarinsel	Nachbarinsel	NN	*	*	*	*
+4	Karpathos	<unknown>	NN	*	*	*	*
+5	war	sein	VAFIN	*	*	*	*
+6	eine	eine	ART	*	*	*	*
+7	erste	erst	ADJA	*	*	*	*
+8	Umsetzung	Umsetzung	NN	*	*	*	*
+9	1984	@card@	CARD	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	eine	eine	ART	*	*	*	*
+12	Sackgasse	Sackgasse	NN	2	2	2	2
+13	geraten	geraten|raten	VVPP	2	2	2	2
+14	,	,	$,	*	*	*	*
+15	weil	weil	KOUS	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	dortige	dortig	ADJA	*	*	*	*
+18	Bevölkerung	Bevölkerung	NN	*	*	*	*
+19	wenig	wenige	PIAT	*	*	*	*
+20	Interesse	Interesse	NN	*	*	*	*
+21	an	an	APPR	*	*	*	*
+22	einem	eine	ART	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	sanften	sanft	ADJA	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	Tourismus	Tourismus	NN	*	*	*	*
+27	zeigte	zeigen	VVFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T921217.47
+# text = Das reichte Großbritanniens Industrieminister Tim Sainsbury jedoch nicht , der am Dienstag " Europas Fernsehen in eine Sackgasse geraten " sah , falls die EG die schon im Veralten begriffene hochauflösende Technik weiter fördern würde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	reichte	reichen	VVFIN	*	*	*	*
+3	Großbritanniens	Großbritannien	NE	*	*	*	*
+4	Industrieminister	Industrieminister	NN	*	*	*	*
+5	Tim	Tim	NE	*	*	*	*
+6	Sainsbury	<unknown>	NE	*	*	*	*
+7	jedoch	jedoch	ADV	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	der	die	PRELS	*	*	*	*
+11	am	an	APPRART	*	*	*	*
+12	Dienstag	Dienstag	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	Europas	Europa	NE	*	*	*	*
+15	Fernsehen	Fernsehen	NN	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	eine	eine	ART	*	*	*	*
+18	Sackgasse	Sackgasse	NN	2	2	2	2
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	"	"	$(	*	*	*	*
+21	sah	sehen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	falls	falls	KOUS	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	EG	EG	NE	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	schon	schon	ADV	*	*	*	*
+28	im	in	APPRART	*	*	*	*
+29	Veralten	Veralten	NN	*	*	*	*
+30	begriffene	begriffen	ADJA	*	*	*	*
+31	hochauflösende	hochauflösend	ADJA	*	*	*	*
+32	Technik	Technik	NN	*	*	*	*
+33	weiter	weiter	ADV	*	*	*	*
+34	fördern	fördern	VVINF	*	*	*	*
+35	würde	werden	VAFIN	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T920306.63
+# text = Fünf Jahre später , als die Verhandlungen über die Zukunft des Panama-Kanals in eine politische Sackgasse geraten waren , hatten Teller und seine Leute den Vorschlag für einen atomaren Kanal quer durch Mittelamerika parat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Fünf	fünf	CARD	*	*	*	*
+2	Jahre	Jahr	NN	*	*	*	*
+3	später	spät	ADJD	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	als	als	KOUS	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Verhandlungen	Verhandlung	NN	*	*	*	*
+8	über	über	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Zukunft	Zukunft	NN	*	*	*	*
+11	des	die	ART	*	*	*	*
+12	Panama-Kanals	Panama-Kanal	NN	*	*	*	*
+13	in	in	APPR	2	2	2	2
+14	eine	eine	ART	*	*	*	*
+15	politische	politisch	ADJA	*	*	*	*
+16	Sackgasse	Sackgasse	NN	2	2	2	2
+17	geraten	geraten|raten	VVPP	2	2	2	2
+18	waren	sein	VAFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	hatten	haben	VAFIN	*	*	*	*
+21	Teller	Teller	NN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	seine	sein	PPOSAT	*	*	*	*
+24	Leute	Leute	NN	*	*	*	*
+25	den	die	ART	*	*	*	*
+26	Vorschlag	Vorschlag	NN	*	*	*	*
+27	für	für	APPR	*	*	*	*
+28	einen	eine	ART	*	*	*	*
+29	atomaren	atomar	ADJA	*	*	*	*
+30	Kanal	Kanal	NN	*	*	*	*
+31	quer	quer	ADJD	*	*	*	*
+32	durch	durch	APPR	*	*	*	*
+33	Mittelamerika	Mittelamerika	NE	*	*	*	*
+34	parat	parat	ADJD	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T920214.68
+# text = Genf ( ap ) - Die Nahost-Friedensgespräche sind nach Ansicht von PLO-Führer Jassir Arafat wegen der Unnachgiebigkeit Israels in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Genf	Genf	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	ap	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Die	<unknown>	ADJA	*	*	*	*
+7	Nahost-Friedensgespräche	Nahost-Friedensgespräch	NN	*	*	*	*
+8	sind	sein	VAFIN	*	*	*	*
+9	nach	nach	APPR	*	*	*	*
+10	Ansicht	Ansicht	NN	*	*	*	*
+11	von	von	APPR	*	*	*	*
+12	PLO-Führer	PLO-Führer	NN	*	*	*	*
+13	Jassir	<unknown>	NN	*	*	*	*
+14	Arafat	Arafat	NE	*	*	*	*
+15	wegen	wegen	APPR	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Unnachgiebigkeit	Unnachgiebigkeit	NN	*	*	*	*
+18	Israels	Israel	NE	*	*	*	*
+19	in	in	APPR	2	2	2	2
+20	eine	eine	ART	*	*	*	*
+21	Sackgasse	Sackgasse	NN	2	2	2	2
+22	geraten	geraten|raten	VVPP	2	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T920215.201
+# text = Lindemann zeigte , wie rasch feministische Theorien , die mit Begriffen wie » Sex « und » Gender « , also mit der Unterscheidung von biologischem und sozialem Geschlecht argumentieren , in eine Sackgasse geraten können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Lindemann	Lindemann	NE	*	*	*	*
+2	zeigte	zeigen	VVFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	wie	wie	KOKOM	*	*	*	*
+5	rasch	rasch	ADJD	*	*	*	*
+6	feministische	feministisch	ADJA	*	*	*	*
+7	Theorien	Theorie	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	mit	mit	APPR	*	*	*	*
+11	Begriffen	Begriff	NN	*	*	*	*
+12	wie	wie	KOKOM	*	*	*	*
+13	»	<unknown>	ADJA	*	*	*	*
+14	Sex	Sex	NN	*	*	*	*
+15	«	<unknown>	ADJA	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	»	<unknown>	ADJA	*	*	*	*
+18	Gender	<unknown>	NN	*	*	*	*
+19	«	<unknown>	ADJD	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	also	also	ADV	*	*	*	*
+22	mit	mit	APPR	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Unterscheidung	Unterscheidung	NN	*	*	*	*
+25	von	von	APPR	*	*	*	*
+26	biologischem	biologisch	ADJA	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	sozialem	sozial	ADJA	*	*	*	*
+29	Geschlecht	Geschlecht	NN	*	*	*	*
+30	argumentieren	argumentieren	VVINF	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	in	in	APPR	2	2	2	2
+33	eine	eine	ART	*	*	*	*
+34	Sackgasse	Sackgasse	NN	2	2	2	2
+35	geraten	geraten	VVINF	2	2	2	2
+36	können	können	VMINF	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T920221.99
+# text = Die GATT-Verhandlungen seien in eine ernste Sackgasse geraten ; ein Scheitern würde bedrohliche Folgen für die Weltwirtschaft und Deutschland haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	GATT-Verhandlungen	GATT-Verhandlung	NN	*	*	*	*
+3	seien	sein	VAFIN	*	*	*	*
+4	in	in	APPR	2	2	2	2
+5	eine	eine	ART	*	*	*	*
+6	ernste	ernst	ADJA	*	*	*	*
+7	Sackgasse	Sackgasse	NN	2	2	2	2
+8	geraten	geraten|raten	VVPP	2	2	2	2
+9	;	;	$.	*	*	*	*
+10	ein	eine	ART	*	*	*	*
+11	Scheitern	Scheitern	NN	*	*	*	*
+12	würde	werden	VAFIN	*	*	*	*
+13	bedrohliche	bedrohlich	ADJA	*	*	*	*
+14	Folgen	Folge	NN	*	*	*	*
+15	für	für	APPR	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Weltwirtschaft	Weltwirtschaft	NN	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	Deutschland	Deutschland	NE	*	*	*	*
+20	haben	haben	VAINF	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T881117.110
+# text = Die Adern des menschlichen Körpers bilden kein komplizierteres Netz , jeden Augenblick gerät man in eine Sackgasse , und nur lange Umwege bringen einen zum Ausgangspunkt zurück .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Adern	Ader	NN	*	*	*	*
+3	des	die	ART	*	*	*	*
+4	menschlichen	menschlich	ADJA	*	*	*	*
+5	Körpers	Körper	NN	*	*	*	*
+6	bilden	bilden	VVFIN	*	*	*	*
+7	kein	keine	PIAT	*	*	*	*
+8	komplizierteres	kompliziert	ADJA	*	*	*	*
+9	Netz	Netz	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	jeden	jede	PIAT	*	*	*	*
+12	Augenblick	Augenblick	NN	*	*	*	*
+13	gerät	geraten	VVFIN	1	2	2	2
+14	man	man	PIS	*	*	*	*
+15	in	in	APPR	1	2	2	2
+16	eine	eine	ART	*	*	*	*
+17	Sackgasse	Sackgasse	NN	1	2	2	2
+18	,	,	$,	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	nur	nur	ADV	*	*	*	*
+21	lange	lang	ADJA	*	*	*	*
+22	Umwege	Umweg	NN	*	*	*	*
+23	bringen	bringen	VVFIN	*	*	*	*
+24	einen	eine	ART	*	*	*	*
+25	zum	zu	APPRART	*	*	*	*
+26	Ausgangspunkt	Ausgangspunkt	NN	*	*	*	*
+27	zurück	zurück	PTKVZ	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T870715.69
+# text = Etwa 80.000 Arbeiter der nationalen Metallarbeitergewerkschaft ( NUMSA ) hatten sich am Montag durch Urabstimmung für einen Streik ausgesprochen , nachdem die jährlichen Tarifverhandlungen in eine Sackgasse geraten waren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Etwa	etwa	ADV	*	*	*	*
+2	80.000	@card@	CARD	*	*	*	*
+3	Arbeiter	Arbeiter	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	nationalen	national	ADJA	*	*	*	*
+6	Metallarbeitergewerkschaft	Metallarbeitergewerkschaft	NN	*	*	*	*
+7	(	(	$(	*	*	*	*
+8	NUMSA	<unknown>	NN	*	*	*	*
+9	)	)	$(	*	*	*	*
+10	hatten	haben	VAFIN	*	*	*	*
+11	sich	sich	PRF	*	*	*	*
+12	am	an	APPRART	*	*	*	*
+13	Montag	Montag	NN	*	*	*	*
+14	durch	durch	APPR	*	*	*	*
+15	Urabstimmung	Urabstimmung	NN	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	einen	eine	ART	*	*	*	*
+18	Streik	Streik	NN	*	*	*	*
+19	ausgesprochen	aussprechen	VVPP	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	nachdem	nachdem	KOUS	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	jährlichen	jährlich	ADJA	*	*	*	*
+24	Tarifverhandlungen	Tarifverhandlung	NN	*	*	*	*
+25	in	in	APPR	2	2	2	2
+26	eine	eine	ART	*	*	*	*
+27	Sackgasse	Sackgasse	NN	2	2	2	2
+28	geraten	geraten|raten	VVPP	2	2	2	2
+29	waren	sein	VAFIN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T871223.59
+# text = Santo Domingo ( dpa ) - Die Verhandlungen über einen Waffenstillstand in Nicaragua , zu denen der SPD-Politiker Hans-Jürgen Wischnewski im Auftrag der nicaraguanischen Regierung in die Dominikanische Republik gereist war , sind in der Nacht zum Dienstag in Santo Domingo in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Santo	Santo	NE	*	*	*	*
+2	Domingo	Domingo	NE	*	*	*	*
+3	(	(	$(	*	*	*	*
+4	dpa	dpa	NE	*	*	*	*
+5	)	)	$(	*	*	*	*
+6	-	-	$(	*	*	*	*
+7	Die	<unknown>	ADJA	*	*	*	*
+8	Verhandlungen	Verhandlung	NN	*	*	*	*
+9	über	über	APPR	*	*	*	*
+10	einen	eine	ART	*	*	*	*
+11	Waffenstillstand	Waffenstillstand	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	Nicaragua	Nicaragua	NE	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	zu	zu	APPR	*	*	*	*
+16	denen	die	PRELS	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	SPD-Politiker	SPD-Politiker	NN	*	*	*	*
+19	Hans-Jürgen	<unknown>	NE	*	*	*	*
+20	Wischnewski	<unknown>	NE	*	*	*	*
+21	im	in	APPRART	*	*	*	*
+22	Auftrag	Auftrag	NN	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	nicaraguanischen	<unknown>	ADJA	*	*	*	*
+25	Regierung	Regierung	NN	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Dominikanische	<unknown>	NN	*	*	*	*
+29	Republik	Republik	NN	*	*	*	*
+30	gereist	reisen	VVPP	*	*	*	*
+31	war	sein	VAFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	sind	sein	VAFIN	*	*	*	*
+34	in	in	APPR	*	*	*	*
+35	der	die	ART	*	*	*	*
+36	Nacht	Nacht	NN	*	*	*	*
+37	zum	zu	APPRART	*	*	*	*
+38	Dienstag	Dienstag	NN	*	*	*	*
+39	in	in	APPR	*	*	*	*
+40	Santo	Santo	NE	*	*	*	*
+41	Domingo	Domingo	NE	*	*	*	*
+42	in	in	APPR	2	2	2	2
+43	eine	eine	ART	*	*	*	*
+44	Sackgasse	Sackgasse	NN	2	2	2	2
+45	geraten	geraten|raten	VVPP	2	2	2	2
+46	.	.	$.	*	*	*	*
+
+# article_id = T870227.65
+# text = Israel lehnt es daher ab , die internationale Konferenz als Vermittlungsinstanz auftreten zu lassen , wenn die Gespräche mit der Führung in Amman in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Israel	Israel	NE	*	*	*	*
+2	lehnt	lehnen	VVFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	daher	daher	PAV	*	*	*	*
+5	ab	ab	PTKVZ	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	internationale	international	ADJA	*	*	*	*
+9	Konferenz	Konferenz	NN	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	Vermittlungsinstanz	Vermittlungsinstanz	NN	*	*	*	*
+12	auftreten	auftreten	VVINF	*	*	*	*
+13	zu	zu	PTKZU	*	*	*	*
+14	lassen	lassen	VVINF	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	wenn	wenn	KOUS	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Gespräche	Gespräch	NN	*	*	*	*
+19	mit	mit	APPR	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Führung	Führung	NN	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	Amman	<unknown>	NN	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	eine	eine	ART	*	*	*	*
+26	Sackgasse	Sackgasse	NN	2	2	2	2
+27	geraten	geraten|raten	VVPP	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T861021.44
+# text = Kurz vor den Plädoyers ist das Revisionsverfahren gegen Peter Jürgen Boock fast aussichtslos in die Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kurz	kurz	ADJD	*	*	*	*
+2	vor	vor	APPR	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	Plädoyers	Plädoyer	NN	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Revisionsverfahren	Revisionsverfahren	NN	*	*	*	*
+8	gegen	gegen	APPR	*	*	*	*
+9	Peter	Peter	NE	*	*	*	*
+10	Jürgen	<unknown>	NE	*	*	*	*
+11	Boock	<unknown>	NN	*	*	*	*
+12	fast	fast	ADV	*	*	*	*
+13	aussichtslos	aussichtslos	ADJD	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	die	die	ART	*	*	*	*
+16	Sackgasse	Sackgasse	NN	2	2	2	2
+17	geraten	geraten|raten	VVPP	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T861224.55
+# text = Die in Damaskus laufenden Verhandlungen zwischen der syrischen Regierung , der Arafat-oppositionellen palästinensischen Rettungsfront und den sogenannten progressiven , patriotischen libanesischen Parteien um die iranische Friedensinitiative sind am Wochenende erneut in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	Damaskus	Damaskus	NE	*	*	*	*
+4	laufenden	laufend	ADJA	*	*	*	*
+5	Verhandlungen	Verhandlung	NN	*	*	*	*
+6	zwischen	zwischen	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	syrischen	syrisch	ADJA	*	*	*	*
+9	Regierung	Regierung	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Arafat-oppositionellen	<unknown>	NN	*	*	*	*
+13	palästinensischen	palästinensisch	ADJA	*	*	*	*
+14	Rettungsfront	Rettungsfront	NN	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	sogenannten	sogenannt	ADJA	*	*	*	*
+18	progressiven	progressiv	ADJA	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	patriotischen	patriotisch	ADJA	*	*	*	*
+21	libanesischen	libanesisch	ADJA	*	*	*	*
+22	Parteien	Partei	NN	*	*	*	*
+23	um	um	APPR	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	iranische	iranisch	ADJA	*	*	*	*
+26	Friedensinitiative	Friedensinitiative	NN	*	*	*	*
+27	sind	sein	VAFIN	*	*	*	*
+28	am	an	APPRART	*	*	*	*
+29	Wochenende	Wochenende	NN	*	*	*	*
+30	erneut	erneut	ADJD	*	*	*	*
+31	in	in	APPR	2	2	2	2
+32	eine	eine	ART	*	*	*	*
+33	Sackgasse	Sackgasse	NN	2	2	2	2
+34	geraten	geraten|raten	VVPP	2	2	2	2
+35	.	.	$.	*	*	*	*
+
+# article_id = T930528.80
+# text = Jedesmal wenn sie in der Frage des Übergangs vom Krieg zum Frieden in eine Sackgasse gerieten , fügten die Diplomaten dem Plan ein neues Programm hinzu , bis er zum ehrgeizigsten und kostspieligsten derartigen Projekt der Geschichte wurde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jedesmal	jedesmal	ADV	*	*	*	*
+2	wenn	wenn	KOUS	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Frage	Frage	NN	*	*	*	*
+7	des	die	ART	*	*	*	*
+8	Übergangs	Übergang	NN	*	*	*	*
+9	vom	von	APPRART	*	*	*	*
+10	Krieg	Krieg	NN	*	*	*	*
+11	zum	zu	APPRART	*	*	*	*
+12	Frieden	Frieden	NN	*	*	*	*
+13	in	in	APPR	2	2	2	2
+14	eine	eine	ART	*	*	*	*
+15	Sackgasse	Sackgasse	NN	2	2	2	2
+16	gerieten	geraten	VVFIN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	fügten	fügen	VVFIN	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Diplomaten	Diplomat	NN	*	*	*	*
+21	dem	die	ART	*	*	*	*
+22	Plan	Plan	NN	*	*	*	*
+23	ein	eine	ART	*	*	*	*
+24	neues	neu	ADJA	*	*	*	*
+25	Programm	Programm	NN	*	*	*	*
+26	hinzu	hinzu	PTKVZ	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	bis	bis	KOUS	*	*	*	*
+29	er	er	PPER	*	*	*	*
+30	zum	zu	APPRART	*	*	*	*
+31	ehrgeizigsten	ehrgeizig	ADJA	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	kostspieligsten	kostspielig	ADJA	*	*	*	*
+34	derartigen	derartig	ADJA	*	*	*	*
+35	Projekt	Projekt	NN	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	Geschichte	Geschichte	NN	*	*	*	*
+38	wurde	werden	VAFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T930528.87
+# text = Im Westen löste Ligeti 1961 mit seiner Klangflächenkomposition " Atmosphere " allergrößtes Erstaunen aus , überwand er doch damit die in die Sackgasse geratene serielle Musik .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Westen	Weste|Westen	NN	*	*	*	*
+3	löste	lösen	VVFIN	*	*	*	*
+4	Ligeti	<unknown>	NE	*	*	*	*
+5	1961	@card@	CARD	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	seiner	sein	PPOSAT	*	*	*	*
+8	Klangflächenkomposition	Klangflächenkomposition	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Atmosphere	<unknown>	NN	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	allergrößtes	allergrößt	ADJA	*	*	*	*
+13	Erstaunen	Erstaunen	NN	*	*	*	*
+14	aus	aus	PTKVZ	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	überwand	überwinden	VVFIN	*	*	*	*
+17	er	er	PPER	*	*	*	*
+18	doch	doch	ADV	*	*	*	*
+19	damit	damit	PAV	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	in	in	APPR	2	2	2	2
+22	die	die	ART	*	*	*	*
+23	Sackgasse	Sackgasse	NN	2	2	2	2
+24	geratene	geraten	ADJA	2	2	2	2
+25	serielle	seriell	ADJA	*	*	*	*
+26	Musik	Musik	NN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T931001.241
+# text = Weil die Bemühungen der Landesregierung in eine finanzielle Sackgasse geraten seien , habe sich die Arbeitsgemeinschaft selbständig um einen Sponsor aus der Wirtschaft Schleswig-Holsteins bemüht , sagte Naturschützer Volkher Looft .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Weil	weil	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Bemühungen	Bemühung	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Landesregierung	Landesregierung	NN	*	*	*	*
+6	in	in	APPR	2	2	2	2
+7	eine	eine	ART	*	*	*	*
+8	finanzielle	finanziell	ADJA	*	*	*	*
+9	Sackgasse	Sackgasse	NN	2	2	2	2
+10	geraten	geraten|raten	VVPP	2	2	2	2
+11	seien	sein	VAFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	habe	haben	VAFIN	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Arbeitsgemeinschaft	Arbeitsgemeinschaft	NN	*	*	*	*
+17	selbständig	selbständig	ADJD	*	*	*	*
+18	um	um	APPR	*	*	*	*
+19	einen	eine	ART	*	*	*	*
+20	Sponsor	Sponsor	NN	*	*	*	*
+21	aus	aus	APPR	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Wirtschaft	Wirtschaft	NN	*	*	*	*
+24	Schleswig-Holsteins	Schleswig-Holstein	NE	*	*	*	*
+25	bemüht	bemühen	VVPP	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	sagte	sagen	VVFIN	*	*	*	*
+28	Naturschützer	Naturschützer	NN	*	*	*	*
+29	Volkher	Volkher	NE	*	*	*	*
+30	Looft	<unknown>	ADV	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T931027.50
+# text = In Bonn wird jedoch angenommen , daß die Gesprächsrunde , die heute abend wieder zusammenkommt , in eine Sackgasse geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Bonn	Bonn	NE	*	*	*	*
+3	wird	werden	VAFIN	*	*	*	*
+4	jedoch	jedoch	ADV	*	*	*	*
+5	angenommen	annehmen	VVPP	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Gesprächsrunde	Gesprächsrunde	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	die	die	PRELS	*	*	*	*
+12	heute	heute	ADV	*	*	*	*
+13	abend	abend	ADV	*	*	*	*
+14	wieder	wieder	ADV	*	*	*	*
+15	zusammenkommt	zusammenkommen	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	eine	eine	ART	*	*	*	*
+19	Sackgasse	Sackgasse	NN	2	2	2	2
+20	geraten	geraten|raten	VVPP	2	2	2	2
+21	ist	sein	VAFIN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T931011.118
+# text = So setzt sich Heide Schlüpmann aufs ermutigendste mit der Sackgasse auseinander , in die die deutsche feministische Filmkritik durch ihre Vasallentreue zu den angelsächsischen Vorreiterinnen wie Laura Mulvey , Theresa de Lauretis und anderen geraten war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	so	ADV	*	*	*	*
+2	setzt	setzen	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	Heide	Heide	NE	*	*	*	*
+5	Schlüpmann	<unknown>	NN	*	*	*	*
+6	aufs	aufs	APPRART	*	*	*	*
+7	ermutigendste	ermutigend	ADJA	*	*	*	*
+8	mit	mit	APPR	2	2	2	2
+9	der	die	ART	*	*	*	*
+10	Sackgasse	Sackgasse	NN	2	2	2	2
+11	auseinander	auseinander	PTKVZ	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	die	die	PRELS	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	deutsche	deutsch	ADJA	*	*	*	*
+17	feministische	feministisch	ADJA	*	*	*	*
+18	Filmkritik	Filmkritik	NN	*	*	*	*
+19	durch	durch	APPR	*	*	*	*
+20	ihre	ihr	PPOSAT	*	*	*	*
+21	Vasallentreue	Vasallentreue	NN	*	*	*	*
+22	zu	zu	APPR	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	angelsächsischen	angelsächsisch	ADJA	*	*	*	*
+25	Vorreiterinnen	Vorreiterin	NN	*	*	*	*
+26	wie	wie	KOKOM	*	*	*	*
+27	Laura	Laura	NE	*	*	*	*
+28	Mulvey	<unknown>	NE	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	Theresa	Theresa	NE	*	*	*	*
+31	de	de	NE	*	*	*	*
+32	Lauretis	<unknown>	NE	*	*	*	*
+33	und	und	KON	*	*	*	*
+34	anderen	andere	PIS	*	*	*	*
+35	geraten	geraten|raten	VVPP	2	2	2	2
+36	war	sein	VAFIN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T930917.111
+# text = Wenn das Standbild gelungen ist , werden sie entlassen und nur noch eingerahmt von farbigen Horizonten und den schiefen Perspektiven der Requisiten : Vielleicht ist das ein Weg aus der Sackgasse , in die Wilsons Theater schon länger zu geraten drohte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	Standbild	Standbild	NN	*	*	*	*
+4	gelungen	gelingen	VVPP	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	werden	werden	VAFIN	*	*	*	*
+8	sie	sie	PPER	*	*	*	*
+9	entlassen	entlassen	VVPP	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	nur	nur	ADV	*	*	*	*
+12	noch	noch	ADV	*	*	*	*
+13	eingerahmt	einrahmen	VVPP	*	*	*	*
+14	von	von	APPR	*	*	*	*
+15	farbigen	farbig	ADJA	*	*	*	*
+16	Horizonten	Horizont	NN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	den	die	ART	*	*	*	*
+19	schiefen	schief	ADJA	*	*	*	*
+20	Perspektiven	Perspektive	NN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Requisiten	Requisit	NN	*	*	*	*
+23	:	:	$.	*	*	*	*
+24	Vielleicht	vielleicht	ADV	*	*	*	*
+25	ist	sein	VAFIN	*	*	*	*
+26	das	die	PDS	*	*	*	*
+27	ein	eine	ART	*	*	*	*
+28	Weg	Weg	NN	*	*	*	*
+29	aus	aus	APPR	2	2	2	2
+30	der	die	ART	*	*	*	*
+31	Sackgasse	Sackgasse	NN	2	2	2	2
+32	,	,	$,	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	die	die	PRELS	*	*	*	*
+35	Wilsons	Wilson	NE	*	*	*	*
+36	Theater	Theater	NN	*	*	*	*
+37	schon	schon	ADV	*	*	*	*
+38	länger	lang	ADJD	*	*	*	*
+39	zu	zu	PTKZU	*	*	*	*
+40	geraten	geraten	VVINF	2	2	2	2
+41	drohte	drohen	VVFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T931229.172
+# text = Während die Planung der neuen Verkehrsadern auf vollen Touren läuft , ist die innerstädtische Verkehrsberuhigung in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Planung	Planung	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	neuen	neu	ADJA	*	*	*	*
+6	Verkehrsadern	Verkehrsader	NN	*	*	*	*
+7	auf	auf	APPR	*	*	*	*
+8	vollen	voll	ADJA	*	*	*	*
+9	Touren	Tour	NN	*	*	*	*
+10	läuft	laufen	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	ist	sein	VAFIN	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	innerstädtische	innerstädtisch	ADJA	*	*	*	*
+15	Verkehrsberuhigung	Verkehrsberuhigung	NN	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	eine	eine	ART	*	*	*	*
+18	Sackgasse	Sackgasse	NN	2	2	2	2
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T930811.29
+# text = Mehrmals forderten US-Diplomaten von der palästinensischen Delegation , nicht zu beklagen , daß der Friedensprozeß in die Sackgasse geraten sei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mehrmals	mehrmals	ADV	*	*	*	*
+2	forderten	fordern	VVFIN	*	*	*	*
+3	US-Diplomaten	US-Diplomat	NN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	palästinensischen	palästinensisch	ADJA	*	*	*	*
+7	Delegation	Delegation	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	nicht	nicht	PTKNEG	*	*	*	*
+10	zu	zu	PTKZU	*	*	*	*
+11	beklagen	beklagen	VVINF	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	daß	dass	KOUS	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Friedensprozeß	Friedensprozess	NN	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	die	die	ART	*	*	*	*
+18	Sackgasse	Sackgasse	NN	2	2	2	2
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	sei	sein	VAFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T930301.203
+# text = Wedemeier kann sich zu Recht diesen Erfolg zuschreiben : Wenn der Rücktritt Koschnicks 1985 politischen Sinn macht , dann das Eingeständnis der finanzpolitischen Sackgasse , in die Bremen geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wedemeier	Wedemeier	NE	*	*	*	*
+2	kann	können	VMFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	zu	zu	APPR	*	*	*	*
+5	Recht	Recht	NN	*	*	*	*
+6	diesen	dies	PDAT	*	*	*	*
+7	Erfolg	Erfolg	NN	*	*	*	*
+8	zuschreiben	zuschreiben	VVINF	*	*	*	*
+9	:	:	$.	*	*	*	*
+10	Wenn	wenn	KOUS	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Rücktritt	Rücktritt	NN	*	*	*	*
+13	Koschnicks	<unknown>	NN	*	*	*	*
+14	1985	@card@	CARD	*	*	*	*
+15	politischen	politisch	ADJA	*	*	*	*
+16	Sinn	Sinn	NN	*	*	*	*
+17	macht	machen	VVFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	dann	dann	ADV	*	*	*	*
+20	das	die	ART	*	*	*	*
+21	Eingeständnis	Eingeständnis	NN	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	finanzpolitischen	finanzpolitisch	ADJA	*	*	*	*
+24	Sackgasse	Sackgasse	NN	2	2	2	2
+25	,	,	$,	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	die	die	PRELS	*	*	*	*
+28	Bremen	Bremen	NE	*	*	*	*
+29	geraten	geraten|raten	VVPP	2	2	2	2
+30	ist	sein	VAFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T930316.79
+# text = Militärisch war die Organisation in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Militärisch	militärisch	ADJD	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Organisation	Organisation	NN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	eine	eine	ART	*	*	*	*
+7	Sackgasse	Sackgasse	NN	2	2	2	2
+8	geraten	geraten|raten	VVPP	2	2	2	2
+9	.	.	$.	*	*	*	*
+
+# article_id = T960503.88
+# text = Kapstadt ( AFP ) - Die Gespräche über eine neue südafrikanische Verfassung sind offenbar in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kapstadt	Kapstadt	NN	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	AFP	AFP	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Die	<unknown>	ADJA	*	*	*	*
+7	Gespräche	Gespräch	NN	*	*	*	*
+8	über	über	APPR	*	*	*	*
+9	eine	eine	ART	*	*	*	*
+10	neue	neu	ADJA	*	*	*	*
+11	südafrikanische	südafrikanisch	ADJA	*	*	*	*
+12	Verfassung	Verfassung	NN	*	*	*	*
+13	sind	sein	VAFIN	*	*	*	*
+14	offenbar	offenbar	ADJD	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	eine	eine	ART	*	*	*	*
+17	Sackgasse	Sackgasse	NN	2	2	2	2
+18	geraten	geraten|raten	VVPP	2	2	2	2
+19	.	.	$.	*	*	*	*
+
+# article_id = T960129.221
+# text = Während die Gespräche über eine Arbeitszeitverkürzung ohne Lohnausgleich - " Solidarpakt " genannt - im Öffentlichen Dienst in die Sackgasse geraten sind , steht für etwa 3.000 BremerInnen schon fest , daß sie in diesem Jahr rund zehn Prozent weniger in der Lohntüte haben werden als im vergangenen Jahr - und das bei unveränderter Arbeitszeit .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Gespräche	Gespräch	NN	*	*	*	*
+4	über	über	APPR	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	Arbeitszeitverkürzung	Arbeitszeitverkürzung	NN	*	*	*	*
+7	ohne	ohne	APPR	*	*	*	*
+8	Lohnausgleich	Lohnausgleich	NN	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Solidarpakt	Solidarpakt	NN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	genannt	nennen	VVPP	*	*	*	*
+14	-	-	$(	*	*	*	*
+15	im	in	APPRART	*	*	*	*
+16	Öffentlichen	öffentlich	ADJA	*	*	*	*
+17	Dienst	Dienst	NN	*	*	*	*
+18	in	in	APPR	2	2	2	2
+19	die	die	ART	*	*	*	*
+20	Sackgasse	Sackgasse	NN	2	2	2	2
+21	geraten	geraten|raten	VVPP	2	2	2	2
+22	sind	sein	VAFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	steht	stehen	VVFIN	*	*	*	*
+25	für	für	APPR	*	*	*	*
+26	etwa	etwa	ADV	*	*	*	*
+27	3.000	@card@	CARD	*	*	*	*
+28	BremerInnen	Bremerin	NN	*	*	*	*
+29	schon	schon	ADV	*	*	*	*
+30	fest	fest	PTKVZ	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	daß	dass	KOUS	*	*	*	*
+33	sie	sie	PPER	*	*	*	*
+34	in	in	APPR	*	*	*	*
+35	diesem	dies	PDAT	*	*	*	*
+36	Jahr	Jahr	NN	*	*	*	*
+37	rund	rund	ADV	*	*	*	*
+38	zehn	zehn	CARD	*	*	*	*
+39	Prozent	Prozent	NN	*	*	*	*
+40	weniger	weniger	ADV	*	*	*	*
+41	in	in	APPR	*	*	*	*
+42	der	die	ART	*	*	*	*
+43	Lohntüte	Lohntüte	NN	*	*	*	*
+44	haben	haben	VAINF	*	*	*	*
+45	werden	werden	VAFIN	*	*	*	*
+46	als	als	KOKOM	*	*	*	*
+47	im	in	APPRART	*	*	*	*
+48	vergangenen	vergangen	ADJA	*	*	*	*
+49	Jahr	Jahr	NN	*	*	*	*
+50	-	-	$(	*	*	*	*
+51	und	und	KON	*	*	*	*
+52	das	die	PDS	*	*	*	*
+53	bei	bei	APPR	*	*	*	*
+54	unveränderter	unverändert	ADJA	*	*	*	*
+55	Arbeitszeit	Arbeitszeit	NN	*	*	*	*
+56	.	.	$.	*	*	*	*
+
+# article_id = T960109.43
+# text = Es gäbe dagegen auch nichts einzuwenden , wäre da nicht der hie und da aufkeimende Verdacht , daß die Verantwortlichen in beiden Ländern diese Art von Normalität zum höchsten Ziel und zur wichtigsten Tugend erklärt haben , ohne zu merken , daß die deutsch- polnischen Beziehungen dadurch Gefahr laufen , in eine Sackgasse zu geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	es	PPER	*	*	*	*
+2	gäbe	geben	VVFIN	*	*	*	*
+3	dagegen	dagegen	PAV	*	*	*	*
+4	auch	auch	ADV	*	*	*	*
+5	nichts	nichts	PIS	*	*	*	*
+6	einzuwenden	einwenden	VVIZU	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	wäre	sein	VAFIN	*	*	*	*
+9	da	da	ADV	*	*	*	*
+10	nicht	nicht	PTKNEG	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	hie	hie	NE	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	da	da	ADV	*	*	*	*
+15	aufkeimende	aufkeimend	ADJA	*	*	*	*
+16	Verdacht	Verdacht	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	daß	dass	KOUS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Verantwortlichen	Verantwortliche	NN	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	beiden	beide	PIAT	*	*	*	*
+23	Ländern	Land	NN	*	*	*	*
+24	diese	dies	PDAT	*	*	*	*
+25	Art	Art	NN	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	Normalität	Normalität	NN	*	*	*	*
+28	zum	zu	APPRART	*	*	*	*
+29	höchsten	hoch	ADJA	*	*	*	*
+30	Ziel	Ziel	NN	*	*	*	*
+31	und	und	KON	*	*	*	*
+32	zur	zu	APPRART	*	*	*	*
+33	wichtigsten	wichtig	ADJA	*	*	*	*
+34	Tugend	Tugend	NN	*	*	*	*
+35	erklärt	erklären	VVPP	*	*	*	*
+36	haben	haben	VAFIN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	ohne	ohne	KOUI	*	*	*	*
+39	zu	zu	PTKZU	*	*	*	*
+40	merken	merken	VVINF	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	daß	dass	KOUS	*	*	*	*
+43	die	die	ART	*	*	*	*
+44	deutsch-	deutsch-	TRUNC	*	*	*	*
+45	polnischen	polnisch	ADJA	*	*	*	*
+46	Beziehungen	Beziehung	NN	*	*	*	*
+47	dadurch	dadurch	PAV	*	*	*	*
+48	Gefahr	Gefahr	NN	*	*	*	*
+49	laufen	laufen	VVFIN	*	*	*	*
+50	,	,	$,	*	*	*	*
+51	in	in	APPR	2	2	2	2
+52	eine	eine	ART	*	*	*	*
+53	Sackgasse	Sackgasse	NN	2	2	2	2
+54	zu	zu	PTKZU	*	*	*	*
+55	geraten	geraten	VVINF	2	2	2	2
+56	.	.	$.	*	*	*	*
+
+# article_id = T960124.71
+# text = Seit Mitte Dezember berieten der frühere US-Senator George Mitchell , Finnlands Ex-Premier Harri Holkeri und der kanadische General John de Chastelain über einen Ausweg aus der Sackgasse , in die das Nordirland-Problem im Zuge des Waffenstreits geraten war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	Mitte	Mitte	NN	*	*	*	*
+3	Dezember	Dezember	NN	*	*	*	*
+4	berieten	beraten	VVFIN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	frühere	früh	ADJA	*	*	*	*
+7	US-Senator	US-Senator	NN	*	*	*	*
+8	George	George	NE	*	*	*	*
+9	Mitchell	Mitchell	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Finnlands	Finnland	NE	*	*	*	*
+12	Ex-Premier	Ex-Premier	NN	*	*	*	*
+13	Harri	Harri	NE	*	*	*	*
+14	Holkeri	<unknown>	NE	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	kanadische	kanadisch	ADJA	*	*	*	*
+18	General	General	NN	*	*	*	*
+19	John	John	NE	*	*	*	*
+20	de	de	NE	*	*	*	*
+21	Chastelain	<unknown>	NE	*	*	*	*
+22	über	über	APPR	*	*	*	*
+23	einen	eine	ART	*	*	*	*
+24	Ausweg	Ausweg	NN	*	*	*	*
+25	aus	aus	APPR	2	2	2	2
+26	der	die	ART	*	*	*	*
+27	Sackgasse	Sackgasse	NN	2	2	2	2
+28	,	,	$,	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	die	die	PRELS	*	*	*	*
+31	das	die	ART	*	*	*	*
+32	Nordirland-Problem	Nordirland-Problem	NN	*	*	*	*
+33	im	in	APPRART	*	*	*	*
+34	Zuge	Zug	NN	*	*	*	*
+35	des	die	ART	*	*	*	*
+36	Waffenstreits	<unknown>	NN	*	*	*	*
+37	geraten	geraten|raten	VVPP	2	2	2	2
+38	war	sein	VAFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T960718.264
+# text = Am 17. Juni 1995 schon war Peter Theo als Beifahrer in einem geklauten Ford Escort in eine Sackgasse geraten und geschnappt worden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	17	@card@	CARD	*	*	*	*
+3	.	.	$.	*	*	*	*
+4	Juni	Juni	NN	*	*	*	*
+5	1995	@card@	CARD	*	*	*	*
+6	schon	schon	ADV	*	*	*	*
+7	war	sein	VAFIN	*	*	*	*
+8	Peter	Peter	NE	*	*	*	*
+9	Theo	Theo	NE	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	Beifahrer	Beifahrer	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	einem	eine	ART	*	*	*	*
+14	geklauten	geklaut	ADJA	*	*	*	*
+15	Ford	Ford	NN	*	*	*	*
+16	Escort	<unknown>	NN	*	*	*	*
+17	in	in	APPR	1	1	1	1
+18	eine	eine	ART	*	*	*	*
+19	Sackgasse	Sackgasse	NN	1	1	1	1
+20	geraten	geraten|raten	VVPP	1	1	1	1
+21	und	und	KON	*	*	*	*
+22	geschnappt	schnappen	VVPP	*	*	*	*
+23	worden	werden	VAPP	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T961207.66
+# text = Er will aus der Sackgasse raus , in die er mit den Jahr für Jahr teureren Tag-X-Einsätzen geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	will	wollen	VMFIN	*	*	*	*
+3	aus	aus	APPR	2	2	2	2
+4	der	die	ART	*	*	*	*
+5	Sackgasse	Sackgasse	NN	2	2	2	2
+6	raus	raus	PTKVZ	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	er	er	PPER	*	*	*	*
+11	mit	mit	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Jahr	Jahr	NN	*	*	*	*
+14	für	für	APPR	*	*	*	*
+15	Jahr	Jahr	NN	*	*	*	*
+16	teureren	teuer	ADJA	*	*	*	*
+17	Tag-X-Einsätzen	<unknown>	NN	*	*	*	*
+18	geraten	geraten|raten	VVPP	2	2	2	2
+19	ist	sein	VAFIN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T960311.103
+# text = Deshalb sind übrigens die Verhandlungen in Washington in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Deshalb	deshalb	PAV	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	übrigens	übrigens	ADV	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Verhandlungen	Verhandlung	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Washington	Washington	NE	*	*	*	*
+8	in	in	APPR	2	2	2	2
+9	eine	eine	ART	*	*	*	*
+10	Sackgasse	Sackgasse	NN	2	2	2	2
+11	geraten	geraten|raten	VVPP	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T980117.306
+# text = Ja , sie ist eine Kunst , und exakt zu dem Zeitpunkt , als sie zu einem Betrieb wurde , als sie sich von der Kunst löste und schlicht zum Bauen als Management wurde , fiel sie in einen Abgrund , geriet sie in eine Sackgasse .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ja	ja	PTKANT	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	Kunst	Kunst	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	exakt	exakt	ADJD	*	*	*	*
+10	zu	zu	APPR	*	*	*	*
+11	dem	die	ART	*	*	*	*
+12	Zeitpunkt	Zeitpunkt	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	als	als	KOUS	*	*	*	*
+15	sie	sie	PPER	*	*	*	*
+16	zu	zu	APPR	*	*	*	*
+17	einem	eine	ART	*	*	*	*
+18	Betrieb	Betrieb	NN	*	*	*	*
+19	wurde	werden	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	als	als	KOUS	*	*	*	*
+22	sie	sie	PPER	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	von	von	APPR	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Kunst	Kunst	NN	*	*	*	*
+27	löste	lösen	VVFIN	*	*	*	*
+28	und	und	KON	*	*	*	*
+29	schlicht	schlicht	ADJD	*	*	*	*
+30	zum	zu	APPRART	*	*	*	*
+31	Bauen	Bauen	NN	*	*	*	*
+32	als	als	KOKOM	*	*	*	*
+33	Management	Management	NN	*	*	*	*
+34	wurde	werden	VAFIN	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	fiel	fallen	VVFIN	*	*	*	*
+37	sie	sie	PPER	*	*	*	*
+38	in	in	APPR	*	*	*	*
+39	einen	eine	ART	*	*	*	*
+40	Abgrund	Abgrund	NN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	geriet	geraten	VVFIN	2	2	2	2
+43	sie	sie	PPER	*	*	*	*
+44	in	in	APPR	2	2	2	2
+45	eine	eine	ART	*	*	*	*
+46	Sackgasse	Sackgasse	NN	2	2	2	2
+47	.	.	$.	*	*	*	*
+
+# article_id = T981219.199
+# text = Das starke Abbremsen des Tempos überfälliger Reformen und das kürzlich beschlossene Konjunkturpaket aus Infrastrukturinvestitionen zeigen , daß Chinas Führung in eine Sackgasse geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	starke	stark	ADJA	*	*	*	*
+3	Abbremsen	Abbremsen	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	Tempos	Tempo	NN	*	*	*	*
+6	überfälliger	überfällig	ADJA	*	*	*	*
+7	Reformen	Reform	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	das	die	ART	*	*	*	*
+10	kürzlich	kürzlich	ADJD	*	*	*	*
+11	beschlossene	beschlossen	ADJA	*	*	*	*
+12	Konjunkturpaket	Konjunkturpaket	NN	*	*	*	*
+13	aus	aus	APPR	*	*	*	*
+14	Infrastrukturinvestitionen	Infrastrukturinvestition	NN	*	*	*	*
+15	zeigen	zeigen	VVINF	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	daß	dass	KOUS	*	*	*	*
+18	Chinas	China	NE	*	*	*	*
+19	Führung	Führung	NN	*	*	*	*
+20	in	in	APPR	2	2	2	2
+21	eine	eine	ART	*	*	*	*
+22	Sackgasse	Sackgasse	NN	2	2	2	2
+23	geraten	geraten|raten	VVPP	2	2	2	2
+24	ist	sein	VAFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T981217.164
+# text = Naumann sucht einen Ausweg aus der Sackgasse , in die das Denkmal-Projekt geraten war , und ist in eine andere gerast : Eine Gedenkstätte , die für jeden etwas bereithält , und das noch kostenlos , schmerzfrei und mit internationalem Glamour - das wäre schiere Zauberei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Naumann	Naumann	NE	*	*	*	*
+2	sucht	suchen	VVFIN	*	*	*	*
+3	einen	eine	ART	*	*	*	*
+4	Ausweg	Ausweg	NN	*	*	*	*
+5	aus	aus	APPR	2	2	2	2
+6	der	die	ART	*	*	*	*
+7	Sackgasse	Sackgasse	NN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	die	die	PRELS	*	*	*	*
+11	das	die	ART	*	*	*	*
+12	Denkmal-Projekt	<unknown>	NN	*	*	*	*
+13	geraten	geraten|raten	VVPP	2	2	2	2
+14	war	sein	VAFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	ist	sein	VAFIN	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	eine	eine	ART	*	*	*	*
+20	andere	andere	PIS	*	*	*	*
+21	gerast	rasen	VVPP	*	*	*	*
+22	:	:	$.	*	*	*	*
+23	Eine	eine	ART	*	*	*	*
+24	Gedenkstätte	Gedenkstätte	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	die	die	PRELS	*	*	*	*
+27	für	für	APPR	*	*	*	*
+28	jeden	jede	PIAT	*	*	*	*
+29	etwas	etwas	PIS	*	*	*	*
+30	bereithält	bereithalten	VVFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	das	die	PDS	*	*	*	*
+34	noch	noch	ADV	*	*	*	*
+35	kostenlos	kostenlos	ADJD	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	schmerzfrei	schmerzfrei	ADJD	*	*	*	*
+38	und	und	KON	*	*	*	*
+39	mit	mit	APPR	*	*	*	*
+40	internationalem	international	ADJA	*	*	*	*
+41	Glamour	Glamour	NN	*	*	*	*
+42	-	-	$(	*	*	*	*
+43	das	die	PDS	*	*	*	*
+44	wäre	sein	VAFIN	*	*	*	*
+45	schiere	schier	ADJA	*	*	*	*
+46	Zauberei	Zauberei	NN	*	*	*	*
+47	.	.	$.	*	*	*	*
+
+# article_id = T981211.443
+# text = Die einzige wirkliche Bedrohung für den neuen Staatschef stellt der Konflikt um Berg-Karabach dar , der in eine diplomatische Sackgasse geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	einzige	einzig	ADJA	*	*	*	*
+3	wirkliche	wirklich	ADJA	*	*	*	*
+4	Bedrohung	Bedrohung	NN	*	*	*	*
+5	für	für	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	neuen	neu	ADJA	*	*	*	*
+8	Staatschef	Staatschef	NN	*	*	*	*
+9	stellt	stellen	VVFIN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Konflikt	Konflikt	NN	*	*	*	*
+12	um	um	APPR	*	*	*	*
+13	Berg-Karabach	<unknown>	NN	*	*	*	*
+14	dar	dar	PTKVZ	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	der	die	PRELS	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	eine	eine	ART	*	*	*	*
+19	diplomatische	diplomatisch	ADJA	*	*	*	*
+20	Sackgasse	Sackgasse	NN	2	2	2	2
+21	geraten	geraten|raten	VVPP	2	2	2	2
+22	ist	sein	VAFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T980824.59
+# text = Fünf Wochen vor den Bundestagswahlen waren SPD und Grün-Alternative Liste ( GAL ) nach monatelangem Streit in eine scheinbare Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Fünf	fünf	CARD	*	*	*	*
+2	Wochen	Woche	NN	*	*	*	*
+3	vor	vor	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Bundestagswahlen	Bundestagswahl	NN	*	*	*	*
+6	waren	sein	VAFIN	*	*	*	*
+7	SPD	SPD	NE	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Grün-Alternative	Grün-Alternative	NN	*	*	*	*
+10	Liste	Liste	NN	*	*	*	*
+11	(	(	$(	*	*	*	*
+12	GAL	<unknown>	NN	*	*	*	*
+13	)	)	$(	*	*	*	*
+14	nach	nach	APPR	*	*	*	*
+15	monatelangem	monatelang	ADJA	*	*	*	*
+16	Streit	Streit	NN	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	eine	eine	ART	*	*	*	*
+19	scheinbare	scheinbar	ADJA	*	*	*	*
+20	Sackgasse	Sackgasse	NN	2	2	2	2
+21	geraten	geraten|raten	VVPP	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T980817.128
+# text = Das Demokratiemodell Mali ist in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	Demokratiemodell	Demokratiemodell	NN	*	*	*	*
+3	Mali	Mali	NE	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	eine	eine	ART	*	*	*	*
+7	Sackgasse	Sackgasse	NN	2	2	2	2
+8	geraten	geraten|raten	VVPP	2	2	2	2
+9	.	.	$.	*	*	*	*
+
+# article_id = T980313.99
+# text = In der Vergangenheit haben nicht wenige in Berlin , weil der Diskurs um das " Denkmal für die ermordeten Juden Europas " in die Sackgasse geraten ist , dafür plädiert , am Jüdischen Museum die " Kranzabwurfstelle " einzurichten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Vergangenheit	Vergangenheit	NN	*	*	*	*
+4	haben	haben	VAFIN	*	*	*	*
+5	nicht	nicht	PTKNEG	*	*	*	*
+6	wenige	wenige	PIS	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Berlin	Berlin	NE	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	weil	weil	KOUS	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Diskurs	Diskurs	NN	*	*	*	*
+13	um	um	APPR	*	*	*	*
+14	das	die	ART	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	Denkmal	Denkmal	NN	*	*	*	*
+17	für	für	APPR	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	ermordeten	ermordet	ADJA	*	*	*	*
+20	Juden	Jude	NN	*	*	*	*
+21	Europas	Europa	NE	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	in	in	APPR	2	2	2	2
+24	die	die	ART	*	*	*	*
+25	Sackgasse	Sackgasse	NN	2	2	2	2
+26	geraten	geraten|raten	VVPP	2	2	2	2
+27	ist	sein	VAFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	dafür	dafür	PAV	*	*	*	*
+30	plädiert	plädieren	VVFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	am	an	APPRART	*	*	*	*
+33	Jüdischen	jüdisch	ADJA	*	*	*	*
+34	Museum	Museum	NN	*	*	*	*
+35	die	die	ART	*	*	*	*
+36	"	"	$(	*	*	*	*
+37	Kranzabwurfstelle	Kranzabwurfstelle	NN	*	*	*	*
+38	"	"	$(	*	*	*	*
+39	einzurichten	einrichten	VVIZU	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T981113.107
+# text = Dadurch besteht neuerlich die Gefahr , daß der Friedensprozeß in eine totale Sackgasse gerät .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dadurch	dadurch	PAV	*	*	*	*
+2	besteht	bestehen	VVFIN	*	*	*	*
+3	neuerlich	neuerlich	ADJD	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Gefahr	Gefahr	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Friedensprozeß	Friedensprozess	NN	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	eine	eine	ART	*	*	*	*
+12	totale	total	ADJA	*	*	*	*
+13	Sackgasse	Sackgasse	NN	2	2	2	2
+14	gerät	geraten	VVFIN	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T970516.240
+# text = In einem kürzlich erschienenen Artikel in Foreign Affairs haben die beiden auf die Sackgasse verwiesen , in die die Washingtoner Golfpolitik geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	einem	eine	ART	*	*	*	*
+3	kürzlich	kürzlich	ADJD	*	*	*	*
+4	erschienenen	erschienen	ADJA	*	*	*	*
+5	Artikel	Artikel	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Foreign	<unknown>	NN	*	*	*	*
+8	Affairs	<unknown>	NN	*	*	*	*
+9	haben	haben	VAFIN	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	beiden	beide	PIAT	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	die	die	ART	*	*	*	*
+14	Sackgasse	Sackgasse	NN	2	2	2	2
+15	verwiesen	verweisen	VVPP	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	in	in	APPR	*	*	*	*
+18	die	die	PRELS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Washingtoner	Washingtoner	NN	*	*	*	*
+21	Golfpolitik	Golfpolitik	NN	*	*	*	*
+22	geraten	geraten|raten	VVPP	2	2	2	2
+23	ist	sein	VAFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T970401.235
+# text = Nach dem obligatorischen Sprachkurs geriet sie trotz einer ergatterten Umschulung in eine Sackgasse .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	obligatorischen	obligatorisch	ADJA	*	*	*	*
+4	Sprachkurs	Sprachkurs	NN	*	*	*	*
+5	geriet	geraten	VVFIN	2	2	2	2
+6	sie	sie	PPER	*	*	*	*
+7	trotz	trotz	APPR	*	*	*	*
+8	einer	eine	ART	*	*	*	*
+9	ergatterten	ergattert	ADJA	*	*	*	*
+10	Umschulung	Umschulung	NN	*	*	*	*
+11	in	in	APPR	2	2	2	2
+12	eine	eine	ART	*	*	*	*
+13	Sackgasse	Sackgasse	NN	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T971206.432
+# text = Auch wer an keinem amerikanischen Bratklops vorbeikommt , ist ernährungstechnisch in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	wer	wer	PWS	*	*	*	*
+3	an	an	APPR	*	*	*	*
+4	keinem	keine	PIAT	*	*	*	*
+5	amerikanischen	amerikanisch	ADJA	*	*	*	*
+6	Bratklops	<unknown>	NN	*	*	*	*
+7	vorbeikommt	vorbeikommen	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	ist	sein	VAFIN	*	*	*	*
+10	ernährungstechnisch	<unknown>	ADJD	*	*	*	*
+11	in	in	APPR	2	2	2	2
+12	eine	eine	ART	*	*	*	*
+13	Sackgasse	Sackgasse	NN	2	2	2	2
+14	geraten	geraten|raten	VVPP	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T970307.119
+# text = Disco hat etwas mit der Sackgasse zu tun , in die die Party geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Disco	Disco	NN	*	*	*	*
+2	hat	haben	VAFIN	*	*	*	*
+3	etwas	etwas	ADV	*	*	*	*
+4	mit	mit	APPR	2	2	2	2
+5	der	die	ART	*	*	*	*
+6	Sackgasse	Sackgasse	NN	2	2	2	2
+7	zu	zu	PTKZU	*	*	*	*
+8	tun	tun	VVINF	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	die	die	PRELS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Party	Party	NN	*	*	*	*
+14	geraten	geraten|raten	VVPP	2	2	2	2
+15	ist	sein	VAFIN	*	*	*	*
+16	.	.	$.	*	*	*	*
+
+# article_id = T971106.121
+# text = In einer Phase , in der die ideologische Auseinandersetzung um die Politik im Deutschen Herbst 1977 in die Sackgasse geriet , entwickelte sich aus der Anti- AKW-Bewegung eine Umwälzung in der technischen Auseinandersetzung , die in Deutschland viel nachhaltiger wirkt als die Bemühungen der 68er-Revolte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	einer	eine	ART	*	*	*	*
+3	Phase	Phase	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	der	die	PRELS	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	ideologische	ideologisch	ADJA	*	*	*	*
+9	Auseinandersetzung	Auseinandersetzung	NN	*	*	*	*
+10	um	um	APPR	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Politik	Politik	NN	*	*	*	*
+13	im	in	APPRART	*	*	*	*
+14	Deutschen	deutsch	ADJA	*	*	*	*
+15	Herbst	Herbst	NN	*	*	*	*
+16	1977	@card@	CARD	*	*	*	*
+17	in	in	APPR	2	2	2	2
+18	die	die	ART	*	*	*	*
+19	Sackgasse	Sackgasse	NN	2	2	2	2
+20	geriet	geraten	VVFIN	2	2	2	2
+21	,	,	$,	*	*	*	*
+22	entwickelte	entwickeln	VVFIN	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	aus	aus	APPR	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Anti-	Anti-	TRUNC	*	*	*	*
+27	AKW-Bewegung	AKW-Bewegung	NN	*	*	*	*
+28	eine	eine	ART	*	*	*	*
+29	Umwälzung	Umwälzung	NN	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	technischen	technisch	ADJA	*	*	*	*
+33	Auseinandersetzung	Auseinandersetzung	NN	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	die	die	PRELS	*	*	*	*
+36	in	in	APPR	*	*	*	*
+37	Deutschland	Deutschland	NE	*	*	*	*
+38	viel	viel	ADV	*	*	*	*
+39	nachhaltiger	nachhaltig	ADJD	*	*	*	*
+40	wirkt	wirken	VVFIN	*	*	*	*
+41	als	als	KOKOM	*	*	*	*
+42	die	die	ART	*	*	*	*
+43	Bemühungen	Bemühung	NN	*	*	*	*
+44	der	die	ART	*	*	*	*
+45	68er-Revolte	68er-Revolte	NN	*	*	*	*
+46	.	.	$.	*	*	*	*
+
+# article_id = T970217.68
+# text = Beobachter erklärten , die Gespräche seien in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beobachter	Beobachter	NN	*	*	*	*
+2	erklärten	erklären	VVFIN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Gespräche	Gespräch	NN	*	*	*	*
+6	seien	sein	VAFIN	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	eine	eine	ART	*	*	*	*
+9	Sackgasse	Sackgasse	NN	2	2	2	2
+10	geraten	geraten|raten	VVPP	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T940531.90
+# text = Auch seien die Bemühungen um eine politische Lösung des Krajina-Konflikts in Kroatien " immer mehr in die Sackgasse geraten " , erklärte eine EU- Diplomat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	seien	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Bemühungen	Bemühung	NN	*	*	*	*
+5	um	um	APPR	*	*	*	*
+6	eine	eine	ART	*	*	*	*
+7	politische	politisch	ADJA	*	*	*	*
+8	Lösung	Lösung	NN	*	*	*	*
+9	des	die	ART	*	*	*	*
+10	Krajina-Konflikts	Krajina-Konflikt	NN	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	Kroatien	Kroatien	NE	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	immer	immer	ADV	*	*	*	*
+15	mehr	mehr	ADV	*	*	*	*
+16	in	in	APPR	2	2	2	2
+17	die	die	ART	*	*	*	*
+18	Sackgasse	Sackgasse	NN	2	2	2	2
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	"	"	$(	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	erklärte	erklären	VVFIN	*	*	*	*
+23	eine	eine	ART	*	*	*	*
+24	EU-	EU-	TRUNC	*	*	*	*
+25	Diplomat	Diplomat	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T941013.62
+# text = Längst ist die Umweltpolitik in eine Sackgasse geraten , weil sie mit Grenzwerten und einem Wust von Umweltvorschiften lediglich an den Symptomen herumdoktort .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Längst	längst	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Umweltpolitik	Umweltpolitik	NN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	eine	eine	ART	*	*	*	*
+7	Sackgasse	Sackgasse	NN	2	2	2	2
+8	geraten	geraten|raten	VVPP	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	weil	weil	KOUS	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	Grenzwerten	Grenzwert	NN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	einem	eine	ART	*	*	*	*
+16	Wust	Wust	NN	*	*	*	*
+17	von	von	APPR	*	*	*	*
+18	Umweltvorschiften	<unknown>	NN	*	*	*	*
+19	lediglich	lediglich	ADV	*	*	*	*
+20	an	an	APPR	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	Symptomen	Symptom	NN	*	*	*	*
+23	herumdoktort	<unknown>	NN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T941025.104
+# text = Die Karriere Dissanayakes , der für eine harte Linie gegenüber den Tamilen stand und zu jenen Politikern gehörte , die immer wieder der Korruption beschuldigt wurden , schien jedoch Ende der 80er Jahre in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Karriere	Karriere	NN	*	*	*	*
+3	Dissanayakes	<unknown>	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	der	die	PRELS	*	*	*	*
+6	für	für	APPR	*	*	*	*
+7	eine	eine	ART	*	*	*	*
+8	harte	hart	ADJA	*	*	*	*
+9	Linie	Linie	NN	*	*	*	*
+10	gegenüber	gegenüber	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Tamilen	Tamile	NN	*	*	*	*
+13	stand	stehen	VVFIN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	zu	zu	APPR	*	*	*	*
+16	jenen	jen	PDAT	*	*	*	*
+17	Politikern	Politiker	NN	*	*	*	*
+18	gehörte	gehören	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	die	die	PRELS	*	*	*	*
+21	immer	immer	ADV	*	*	*	*
+22	wieder	wieder	ADV	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Korruption	Korruption	NN	*	*	*	*
+25	beschuldigt	beschuldigen	VVPP	*	*	*	*
+26	wurden	werden	VAFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	schien	scheinen	VVFIN	*	*	*	*
+29	jedoch	jedoch	ADV	*	*	*	*
+30	Ende	Ende	NN	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	80er	80er	ADJA	*	*	*	*
+33	Jahre	Jahr	NN	*	*	*	*
+34	in	in	APPR	2	2	2	2
+35	eine	eine	ART	*	*	*	*
+36	Sackgasse	Sackgasse	NN	2	2	2	2
+37	geraten	geraten|raten	VVPP	2	2	2	2
+38	.	.	$.	*	*	*	*
+
+# article_id = T940923.130
+# text = Der Film sollte zum größten Teil von der französischen Firma UGC finanziert werden , deren Unerfahrenheit in Sachen Koproduktion mit China ein Grund dafür gewesen sein mag , daß das Projekt jetzt in diese Sackgasse geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Film	Film	NN	*	*	*	*
+3	sollte	sollen	VMFIN	*	*	*	*
+4	zum	zu	APPRART	*	*	*	*
+5	größten	groß	ADJA	*	*	*	*
+6	Teil	Teil	NN	*	*	*	*
+7	von	von	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	französischen	französisch	ADJA	*	*	*	*
+10	Firma	Firma	NN	*	*	*	*
+11	UGC	<unknown>	NE	*	*	*	*
+12	finanziert	finanzieren	VVPP	*	*	*	*
+13	werden	werden	VAINF	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	deren	die	PRELAT	*	*	*	*
+16	Unerfahrenheit	Unerfahrenheit	NN	*	*	*	*
+17	in	in	APPR	*	*	*	*
+18	Sachen	Sache	NN	*	*	*	*
+19	Koproduktion	Koproduktion	NN	*	*	*	*
+20	mit	mit	APPR	*	*	*	*
+21	China	China	NE	*	*	*	*
+22	ein	eine	ART	*	*	*	*
+23	Grund	Grund	NN	*	*	*	*
+24	dafür	dafür	PAV	*	*	*	*
+25	gewesen	sein	VAPP	*	*	*	*
+26	sein	sein	VAINF	*	*	*	*
+27	mag	mögen	VMFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	daß	dass	KOUS	*	*	*	*
+30	das	die	ART	*	*	*	*
+31	Projekt	Projekt	NN	*	*	*	*
+32	jetzt	jetzt	ADV	*	*	*	*
+33	in	in	APPR	2	2	2	2
+34	diese	dies	PDAT	*	*	*	*
+35	Sackgasse	Sackgasse	NN	2	2	2	2
+36	geraten	geraten|raten	VVPP	2	2	2	2
+37	ist	sein	VAFIN	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T940909.102
+# text = Und die eigentliche , die notwendige Diskussion darüber , nach welchen Kriterien die Europäische Union gestaffelt werden soll , die droht , nun in die Sackgasse zu geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	eigentliche	eigentlich	ADJA	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	notwendige	notwendig	ADJA	*	*	*	*
+7	Diskussion	Diskussion	NN	*	*	*	*
+8	darüber	darüber	PAV	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	nach	nach	APPR	*	*	*	*
+11	welchen	welche	PRELS	*	*	*	*
+12	Kriterien	Kriterium	NN	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Europäische	europäisch	ADJA	*	*	*	*
+15	Union	Union	NN	*	*	*	*
+16	gestaffelt	staffeln	VVPP	*	*	*	*
+17	werden	werden	VAINF	*	*	*	*
+18	soll	sollen	VMFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	die	die	PDS	*	*	*	*
+21	droht	drohen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	nun	nun	ADV	*	*	*	*
+24	in	in	APPR	2	2	2	2
+25	die	die	ART	*	*	*	*
+26	Sackgasse	Sackgasse	NN	2	2	2	2
+27	zu	zu	PTKZU	*	*	*	*
+28	geraten	geraten	VVINF	2	2	2	2
+29	.	.	$.	*	*	*	*
+
+# article_id = T940104.128
+# text = Harald Rimmele wird heute ab 19 Uhr im Lambda Berlin ( Ackerstraße 12 in Mitte , Hinterhaus , 1. Stock ) untersuchen , ob die Schwulenbewegung tatsächlich noch nach eigenen Lebensweisen sucht oder mit der Eheforderung in eine Sackgasse geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Harald	Harald	NE	*	*	*	*
+2	Rimmele	<unknown>	NN	*	*	*	*
+3	wird	werden	VAFIN	*	*	*	*
+4	heute	heute	ADV	*	*	*	*
+5	ab	ab	APPR	*	*	*	*
+6	19	@card@	CARD	*	*	*	*
+7	Uhr	Uhr	NN	*	*	*	*
+8	im	in	APPRART	*	*	*	*
+9	Lambda	Lambda	NN	*	*	*	*
+10	Berlin	Berlin	NE	*	*	*	*
+11	(	(	$(	*	*	*	*
+12	Ackerstraße	Ackerstraße	NN	*	*	*	*
+13	12	@card@	CARD	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Mitte	Mitte	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	Hinterhaus	Hinterhaus	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	1	@card@	CARD	*	*	*	*
+20	.	.	$.	*	*	*	*
+21	Stock	Stock	NN	*	*	*	*
+22	)	)	$(	*	*	*	*
+23	untersuchen	untersuchen	VVINF	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	ob	ob	KOUS	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	Schwulenbewegung	Schwulenbewegung	NN	*	*	*	*
+28	tatsächlich	tatsächlich	ADJD	*	*	*	*
+29	noch	noch	ADV	*	*	*	*
+30	nach	nach	APPR	*	*	*	*
+31	eigenen	eigen	ADJA	*	*	*	*
+32	Lebensweisen	Lebensweise	NN	*	*	*	*
+33	sucht	suchen	VVFIN	*	*	*	*
+34	oder	oder	KON	*	*	*	*
+35	mit	mit	APPR	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	Eheforderung	<unknown>	NN	*	*	*	*
+38	in	in	APPR	2	2	2	2
+39	eine	eine	ART	*	*	*	*
+40	Sackgasse	Sackgasse	NN	2	2	2	2
+41	geraten	geraten|raten	VVPP	2	2	2	2
+42	ist	sein	VAFIN	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T940127.210
+# text = Bei beiden habe ich den Verdacht , daß sie persönliche politische Karieren , die in Sackgassen geraten sind oder ins Abseits wie bei Brückner , über so eine neue Basis neu betreiben wollen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	beiden	beide	PIS	*	*	*	*
+3	habe	haben	VAFIN	*	*	*	*
+4	ich	ich	PPER	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	Verdacht	Verdacht	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	sie	sie	PPER	*	*	*	*
+10	persönliche	persönlich	ADJA	*	*	*	*
+11	politische	politisch	ADJA	*	*	*	*
+12	Karieren	<unknown>	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	die	die	PRELS	*	*	*	*
+15	in	in	APPR	2	2	2	2
+16	Sackgassen	Sackgasse	NN	2	2	2	2
+17	geraten	geraten|raten	VVPP	2	2	2	2
+18	sind	sein	VAFIN	*	*	*	*
+19	oder	oder	KON	*	*	*	*
+20	ins	in	APPRART	*	*	*	*
+21	Abseits	Abseits	NN	*	*	*	*
+22	wie	wie	KOKOM	*	*	*	*
+23	bei	bei	APPR	*	*	*	*
+24	Brückner	<unknown>	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	über	über	APPR	*	*	*	*
+27	so	so	ADV	*	*	*	*
+28	eine	eine	ART	*	*	*	*
+29	neue	neu	ADJA	*	*	*	*
+30	Basis	Basis	NN	*	*	*	*
+31	neu	neu	ADJD	*	*	*	*
+32	betreiben	betreiben	VVINF	*	*	*	*
+33	wollen	wollen	VMFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T950915.287
+# text = Als diese Politik in die Sackgasse geriet , wurde die Eiserne Lady 1990 durch John Major abgelöst .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KON	*	*	*	*
+2	diese	dies	PDAT	*	*	*	*
+3	Politik	Politik	NN	*	*	*	*
+4	in	in	APPR	2	2	2	2
+5	die	die	ART	*	*	*	*
+6	Sackgasse	Sackgasse	NN	2	2	2	2
+7	geriet	geraten	VVFIN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	wurde	werden	VAFIN	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Eiserne	Eiserne	NN	*	*	*	*
+12	Lady	Lady	NN	*	*	*	*
+13	1990	@card@	CARD	*	*	*	*
+14	durch	durch	APPR	*	*	*	*
+15	John	John	NE	*	*	*	*
+16	Major	Major	NN	*	*	*	*
+17	abgelöst	ablösen	VVPP	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T950117.159
+# text = Immerhin führt die derzeitige Sackgasse die Diskussion zurück in die richtige Richtung : Wer keinen Freibrief für das Kirchimperium will , muß dafür sorgen , daß die bisher verschleierten Verflechtungen aufgedeckt werden und daß auch die Macht desjenigen , der auf den Filmen sitzt , nicht in juristische Vergessenheit gerät .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Immerhin	immerhin	ADV	*	*	*	*
+2	führt	führen	VVFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	derzeitige	derzeitig	ADJA	*	*	*	*
+5	Sackgasse	Sackgasse	NN	2	2	2	2
+6	die	die	ART	*	*	*	*
+7	Diskussion	Diskussion	NN	*	*	*	*
+8	zurück	zurück	PTKVZ	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	richtige	richtig	ADJA	*	*	*	*
+12	Richtung	Richtung	NN	*	*	*	*
+13	:	:	$.	*	*	*	*
+14	Wer	wer	PWS	*	*	*	*
+15	keinen	keine	PIAT	*	*	*	*
+16	Freibrief	Freibrief	NN	*	*	*	*
+17	für	für	APPR	*	*	*	*
+18	das	die	ART	*	*	*	*
+19	Kirchimperium	<unknown>	NN	*	*	*	*
+20	will	wollen	VMFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	muß	müssen	VMFIN	*	*	*	*
+23	dafür	dafür	PAV	*	*	*	*
+24	sorgen	sorgen	VVINF	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	daß	dass	KOUS	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	bisher	bisher	ADV	*	*	*	*
+29	verschleierten	verschleiert	ADJA	*	*	*	*
+30	Verflechtungen	Verflechtung	NN	*	*	*	*
+31	aufgedeckt	aufdecken	VVPP	*	*	*	*
+32	werden	werden	VAFIN	*	*	*	*
+33	und	und	KON	*	*	*	*
+34	daß	dass	KOUS	*	*	*	*
+35	auch	auch	ADV	*	*	*	*
+36	die	die	ART	*	*	*	*
+37	Macht	Macht	NN	*	*	*	*
+38	desjenigen	derjenige	PDS	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	der	die	PRELS	*	*	*	*
+41	auf	auf	APPR	*	*	*	*
+42	den	die	ART	*	*	*	*
+43	Filmen	Film	NN	*	*	*	*
+44	sitzt	sitzen	VVFIN	*	*	*	*
+45	,	,	$,	*	*	*	*
+46	nicht	nicht	PTKNEG	*	*	*	*
+47	in	in	APPR	*	*	*	*
+48	juristische	juristisch	ADJA	*	*	*	*
+49	Vergessenheit	Vergessenheit	NN	*	*	*	*
+50	gerät	geraten	VVFIN	2	2	2	2
+51	.	.	$.	*	*	*	*
+
+# article_id = T951215.32
+# text = Das Land geriet dabei in eine Sackgasse , weil die angesammelten schwarzen Kapitalien nicht ohne Lebensgefahr für ihre Besitzer im Produktionsbereich reinvestiert werden konnten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	Land	Land	NN	*	*	*	*
+3	geriet	geraten	VVFIN	2	2	2	2
+4	dabei	dabei	PAV	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	eine	eine	ART	*	*	*	*
+7	Sackgasse	Sackgasse	NN	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	weil	weil	KOUS	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	angesammelten	angesammelt	ADJA	*	*	*	*
+12	schwarzen	schwarz	ADJA	*	*	*	*
+13	Kapitalien	Kapital	NN	*	*	*	*
+14	nicht	nicht	PTKNEG	*	*	*	*
+15	ohne	ohne	APPR	*	*	*	*
+16	Lebensgefahr	Lebensgefahr	NN	*	*	*	*
+17	für	für	APPR	*	*	*	*
+18	ihre	ihr	PPOSAT	*	*	*	*
+19	Besitzer	Besitzer	NN	*	*	*	*
+20	im	in	APPRART	*	*	*	*
+21	Produktionsbereich	Produktionsbereich	NN	*	*	*	*
+22	reinvestiert	<unknown>	VVPP	*	*	*	*
+23	werden	werden	VAINF	*	*	*	*
+24	konnten	können	VMFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T950315.114
+# text = Das hat mit der Eskalation der Gewalt zu tun , von der Sie eben sprachen , und mit der Sackgasse , in die das Land geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	hat	haben	VAFIN	*	*	*	*
+3	mit	mit	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Eskalation	Eskalation	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Gewalt	Gewalt	NN	*	*	*	*
+8	zu	zu	PTKZU	*	*	*	*
+9	tun	tun	VVINF	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	von	von	APPR	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	Sie	Sie	PPER	*	*	*	*
+14	eben	eben	ADV	*	*	*	*
+15	sprachen	sprechen	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	mit	mit	APPR	2	2	2	2
+19	der	die	ART	*	*	*	*
+20	Sackgasse	Sackgasse	NN	2	2	2	2
+21	,	,	$,	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	die	die	PRELS	*	*	*	*
+24	das	die	ART	*	*	*	*
+25	Land	Land	NN	*	*	*	*
+26	geraten	geraten|raten	VVPP	2	2	2	2
+27	ist	sein	VAFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T951118.173
+# text = Die Verhandlungen zwischen Bündnisgrünen und SPD in Kreuzberg sind in eine Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Verhandlungen	Verhandlung	NN	*	*	*	*
+3	zwischen	zwischen	APPR	*	*	*	*
+4	Bündnisgrünen	Bündnisgrüne	NN	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	SPD	SPD	NE	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	Kreuzberg	Kreuzberg	NE	*	*	*	*
+9	sind	sein	VAFIN	*	*	*	*
+10	in	in	APPR	2	2	2	2
+11	eine	eine	ART	*	*	*	*
+12	Sackgasse	Sackgasse	NN	2	2	2	2
+13	geraten	geraten|raten	VVPP	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T951106.183
+# text = Die Planung für den Wiederaufbau der Schinkelschen Bauakademie Unter den Linden ist in die Sackgasse geraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Planung	Planung	NN	*	*	*	*
+3	für	für	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Wiederaufbau	Wiederaufbau	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Schinkelschen	<unknown>	NN	*	*	*	*
+8	Bauakademie	Bauakademie	NN	*	*	*	*
+9	Unter	<unknown>	NN	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Linden	Linde	NN	*	*	*	*
+12	ist	sein	VAFIN	*	*	*	*
+13	in	in	APPR	2	2	2	2
+14	die	die	ART	*	*	*	*
+15	Sackgasse	Sackgasse	NN	2	2	2	2
+16	geraten	geraten|raten	VVPP	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T990325.242
+# text = Die Stillegung von Stade ist nicht erst durch die aktuellen Äußerungen des Bundeswirtschaftsministers in die " Sackgasse " geraten , sondern hier wird das ganze Drama der SPD-"Ausstiegspolitik" offenbar .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Stillegung	Stillegung	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Stade	<unknown>	NN	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	erst	erst	ADV	*	*	*	*
+8	durch	durch	APPR	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	aktuellen	aktuell	ADJA	*	*	*	*
+11	Äußerungen	Äußerung	NN	*	*	*	*
+12	des	die	ART	*	*	*	*
+13	Bundeswirtschaftsministers	Bundeswirtschaftsminister	NN	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	die	die	ART	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Sackgasse	Sackgasse	NN	2	2	2	2
+18	"	"	$(	*	*	*	*
+19	geraten	geraten|raten	VVPP	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	sondern	sondern	KON	*	*	*	*
+22	hier	hier	ADV	*	*	*	*
+23	wird	werden	VAFIN	*	*	*	*
+24	das	die	ART	*	*	*	*
+25	ganze	ganz	ADJA	*	*	*	*
+26	Drama	Drama	NN	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	SPD-"Ausstiegspolitik	<unknown>	NN	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	offenbar	offenbar	ADJD	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T990312.25
+# text = Nirgends allerdings ist die Kluft der südafrikanischen Außenpolitik - zwischen Idealismus einerseits und Machtwillen andererseits - so groß wie auf dem Kontinent selbst , wo der " Gigant " infolge des Machtwechsels in mehreren Ländern in eine Sackgasse geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nirgends	nirgends	ADV	*	*	*	*
+2	allerdings	allerdings	ADV	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Kluft	Kluft	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	südafrikanischen	südafrikanisch	ADJA	*	*	*	*
+8	Außenpolitik	Außenpolitik	NN	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	zwischen	zwischen	APPR	*	*	*	*
+11	Idealismus	Idealismus	NN	*	*	*	*
+12	einerseits	einerseits	ADV	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	Machtwillen	Machtwille	NN	*	*	*	*
+15	andererseits	andererseits	ADV	*	*	*	*
+16	-	-	$(	*	*	*	*
+17	so	so	ADV	*	*	*	*
+18	groß	groß	ADJD	*	*	*	*
+19	wie	wie	KOKOM	*	*	*	*
+20	auf	auf	APPR	*	*	*	*
+21	dem	die	ART	*	*	*	*
+22	Kontinent	Kontinent	NN	*	*	*	*
+23	selbst	selbst	ADV	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	wo	wo	PWAV	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	Gigant	Gigant	NN	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	infolge	infolge	APPR	*	*	*	*
+31	des	die	ART	*	*	*	*
+32	Machtwechsels	Machtwechsel	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	mehreren	mehrere	PIAT	*	*	*	*
+35	Ländern	Land	NN	*	*	*	*
+36	in	in	APPR	2	2	2	2
+37	eine	eine	ART	*	*	*	*
+38	Sackgasse	Sackgasse	NN	2	2	2	2
+39	geraten	geraten|raten	VVPP	2	2	2	2
+40	ist	sein	VAFIN	*	*	*	*
+41	.	.	$.	*	*	*	*
+

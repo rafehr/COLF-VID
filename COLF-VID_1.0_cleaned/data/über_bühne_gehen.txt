@@ -1,0 +1,6702 @@
+# article_id = T890505.114
+# text = Vor allem dann , als Kosugi einmal über die Bühne geht als wäre er der Geiger im Cafe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	*	*	*	*
+2	allem	*	*	*	*
+3	dann	*	*	*	*
+4	,	*	*	*	*
+5	als	*	*	*	*
+6	Kosugi	*	*	*	*
+7	einmal	*	*	*	*
+8	über	1	1	1	1
+9	die	*	*	*	*
+10	Bühne	1	1	1	1
+11	geht	1	1	1	1
+12	als	*	*	*	*
+13	wäre	*	*	*	*
+14	er	*	*	*	*
+15	der	*	*	*	*
+16	Geiger	*	*	*	*
+17	im	*	*	*	*
+18	Cafe	*	*	*	*
+19	.	*	*	*	*
+
+# article_id = T890502.40
+# text = " Daß der Ärztetag neun Jahre nach der Geburtsstunde der Gesundheitsbewegung relativ unbehelligt von Kontrastprogrammen über die Bühne gehen kann , hängt jedoch nicht nur mit einer zunehmenden Einbindung der kritischen Ärzteschaft in den Standesgremien zusammen , sondern auch mit einem Abflauen der Gesundheitsbewegung selber , die sich auf dem letzten " Gesundheitstag " in Kassel zusätzlich noch zu intern behakte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	*	*	*	*
+2	Daß	*	*	*	*
+3	der	*	*	*	*
+4	Ärztetag	*	*	*	*
+5	neun	*	*	*	*
+6	Jahre	*	*	*	*
+7	nach	*	*	*	*
+8	der	*	*	*	*
+9	Geburtsstunde	*	*	*	*
+10	der	*	*	*	*
+11	Gesundheitsbewegung	*	*	*	*
+12	relativ	*	*	*	*
+13	unbehelligt	*	*	*	*
+14	von	*	*	*	*
+15	Kontrastprogrammen	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	kann	*	*	*	*
+21	,	*	*	*	*
+22	hängt	*	*	*	*
+23	jedoch	*	*	*	*
+24	nicht	*	*	*	*
+25	nur	*	*	*	*
+26	mit	*	*	*	*
+27	einer	*	*	*	*
+28	zunehmenden	*	*	*	*
+29	Einbindung	*	*	*	*
+30	der	*	*	*	*
+31	kritischen	*	*	*	*
+32	Ärzteschaft	*	*	*	*
+33	in	*	*	*	*
+34	den	*	*	*	*
+35	Standesgremien	*	*	*	*
+36	zusammen	*	*	*	*
+37	,	*	*	*	*
+38	sondern	*	*	*	*
+39	auch	*	*	*	*
+40	mit	*	*	*	*
+41	einem	*	*	*	*
+42	Abflauen	*	*	*	*
+43	der	*	*	*	*
+44	Gesundheitsbewegung	*	*	*	*
+45	selber	*	*	*	*
+46	,	*	*	*	*
+47	die	*	*	*	*
+48	sich	*	*	*	*
+49	auf	*	*	*	*
+50	dem	*	*	*	*
+51	letzten	*	*	*	*
+52	"	*	*	*	*
+53	Gesundheitstag	*	*	*	*
+54	"	*	*	*	*
+55	in	*	*	*	*
+56	Kassel	*	*	*	*
+57	zusätzlich	*	*	*	*
+58	noch	*	*	*	*
+59	zu	*	*	*	*
+60	intern	*	*	*	*
+61	behakte	*	*	*	*
+62	.	*	*	*	*
+
+# article_id = T890517.27
+# text = Wer meint , das neuerliche G-7-Treffen ( USA , Kanada , Italien , Frankreich , Großbritannien , Japan und die Bundesrepublik ) auf Staatssekretärsebene , das Montag und Dienstag in New York über die Bühne ging , habe sich wie angekündigt vor allem über die Pläne des US-Finanzministers Nicholas Brady zur Entschuldung der Dritten Welt unterhalten , der irrt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wer	*	*	*	*
+2	meint	*	*	*	*
+3	,	*	*	*	*
+4	das	*	*	*	*
+5	neuerliche	*	*	*	*
+6	G-7-Treffen	*	*	*	*
+7	(	*	*	*	*
+8	USA	*	*	*	*
+9	,	*	*	*	*
+10	Kanada	*	*	*	*
+11	,	*	*	*	*
+12	Italien	*	*	*	*
+13	,	*	*	*	*
+14	Frankreich	*	*	*	*
+15	,	*	*	*	*
+16	Großbritannien	*	*	*	*
+17	,	*	*	*	*
+18	Japan	*	*	*	*
+19	und	*	*	*	*
+20	die	*	*	*	*
+21	Bundesrepublik	*	*	*	*
+22	)	*	*	*	*
+23	auf	*	*	*	*
+24	Staatssekretärsebene	*	*	*	*
+25	,	*	*	*	*
+26	das	*	*	*	*
+27	Montag	*	*	*	*
+28	und	*	*	*	*
+29	Dienstag	*	*	*	*
+30	in	*	*	*	*
+31	New	*	*	*	*
+32	York	*	*	*	*
+33	über	2	2	2	2
+34	die	*	*	*	*
+35	Bühne	2	2	2	2
+36	ging	2	2	2	2
+37	,	*	*	*	*
+38	habe	*	*	*	*
+39	sich	*	*	*	*
+40	wie	*	*	*	*
+41	angekündigt	*	*	*	*
+42	vor	*	*	*	*
+43	allem	*	*	*	*
+44	über	*	*	*	*
+45	die	*	*	*	*
+46	Pläne	*	*	*	*
+47	des	*	*	*	*
+48	US-Finanzministers	*	*	*	*
+49	Nicholas	*	*	*	*
+50	Brady	*	*	*	*
+51	zur	*	*	*	*
+52	Entschuldung	*	*	*	*
+53	der	*	*	*	*
+54	Dritten	*	*	*	*
+55	Welt	*	*	*	*
+56	unterhalten	*	*	*	*
+57	,	*	*	*	*
+58	der	*	*	*	*
+59	irrt	*	*	*	*
+60	.	*	*	*	*
+
+# article_id = T890531.38
+# text = Berlin ( taz ) - " Wenn die jetzt noch offenen Punkte in der nächsten Woche geklärt werden können , dann kann die Wiederaufnahme in die IGMetall schon im ersten Halbjahr 1989 komplett über die Bühne gegangen sein .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berlin	*	*	*	*
+2	(	*	*	*	*
+3	taz	*	*	*	*
+4	)	*	*	*	*
+5	-	*	*	*	*
+6	"	*	*	*	*
+7	Wenn	*	*	*	*
+8	die	*	*	*	*
+9	jetzt	*	*	*	*
+10	noch	*	*	*	*
+11	offenen	*	*	*	*
+12	Punkte	*	*	*	*
+13	in	*	*	*	*
+14	der	*	*	*	*
+15	nächsten	*	*	*	*
+16	Woche	*	*	*	*
+17	geklärt	*	*	*	*
+18	werden	*	*	*	*
+19	können	*	*	*	*
+20	,	*	*	*	*
+21	dann	*	*	*	*
+22	kann	*	*	*	*
+23	die	*	*	*	*
+24	Wiederaufnahme	*	*	*	*
+25	in	*	*	*	*
+26	die	*	*	*	*
+27	IGMetall	*	*	*	*
+28	schon	*	*	*	*
+29	im	*	*	*	*
+30	ersten	*	*	*	*
+31	Halbjahr	*	*	*	*
+32	1989	*	*	*	*
+33	komplett	*	*	*	*
+34	über	2	2	2	2
+35	die	*	*	*	*
+36	Bühne	2	2	2	2
+37	gegangen	2	2	2	2
+38	sein	*	*	*	*
+39	.	*	*	*	*
+
+# article_id = T890523.109
+# text = Das ist nicht nur der Traum der nicaraguanischen Regierung , die sich für die großen Wahlen vom kommenden Februar rüstet , sondern auch das Ergebnis der Studentenvertretungswahlen , die letzte Woche an allen Hochschulen des Landes über die Bühne gegangen sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	ist	*	*	*	*
+3	nicht	*	*	*	*
+4	nur	*	*	*	*
+5	der	*	*	*	*
+6	Traum	*	*	*	*
+7	der	*	*	*	*
+8	nicaraguanischen	*	*	*	*
+9	Regierung	*	*	*	*
+10	,	*	*	*	*
+11	die	*	*	*	*
+12	sich	*	*	*	*
+13	für	*	*	*	*
+14	die	*	*	*	*
+15	großen	*	*	*	*
+16	Wahlen	*	*	*	*
+17	vom	*	*	*	*
+18	kommenden	*	*	*	*
+19	Februar	*	*	*	*
+20	rüstet	*	*	*	*
+21	,	*	*	*	*
+22	sondern	*	*	*	*
+23	auch	*	*	*	*
+24	das	*	*	*	*
+25	Ergebnis	*	*	*	*
+26	der	*	*	*	*
+27	Studentenvertretungswahlen	*	*	*	*
+28	,	*	*	*	*
+29	die	*	*	*	*
+30	letzte	*	*	*	*
+31	Woche	*	*	*	*
+32	an	*	*	*	*
+33	allen	*	*	*	*
+34	Hochschulen	*	*	*	*
+35	des	*	*	*	*
+36	Landes	*	*	*	*
+37	über	2	2	2	2
+38	die	*	*	*	*
+39	Bühne	2	2	2	2
+40	gegangen	2	2	2	2
+41	sind	*	*	*	*
+42	.	*	*	*	*
+
+# article_id = T890508.145
+# text = Auch der ausgeschriebene Architektenwettbewerb wäre ohne die Mitentscheidung der Mieter über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	*	*	*	*
+2	der	*	*	*	*
+3	ausgeschriebene	*	*	*	*
+4	Architektenwettbewerb	*	*	*	*
+5	wäre	*	*	*	*
+6	ohne	*	*	*	*
+7	die	*	*	*	*
+8	Mitentscheidung	*	*	*	*
+9	der	*	*	*	*
+10	Mieter	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	gegangen	2	2	2	2
+15	.	*	*	*	*
+
+# article_id = T890621.29
+# text = Berlin ( taz ) - Ohne die bundesdeutsche Politik gegenüber der Türkei einer kritischen Würdigung zu unterziehen , ging am Wochenanfang im Unterauschuß des Bundestages für Menschenrechte und humanitäre Fragen ein Hearing zur Türkei über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berlin	*	*	*	*
+2	(	*	*	*	*
+3	taz	*	*	*	*
+4	)	*	*	*	*
+5	-	*	*	*	*
+6	Ohne	*	*	*	*
+7	die	*	*	*	*
+8	bundesdeutsche	*	*	*	*
+9	Politik	*	*	*	*
+10	gegenüber	*	*	*	*
+11	der	*	*	*	*
+12	Türkei	*	*	*	*
+13	einer	*	*	*	*
+14	kritischen	*	*	*	*
+15	Würdigung	*	*	*	*
+16	zu	*	*	*	*
+17	unterziehen	*	*	*	*
+18	,	*	*	*	*
+19	ging	2	2	2	2
+20	am	*	*	*	*
+21	Wochenanfang	*	*	*	*
+22	im	*	*	*	*
+23	Unterauschuß	*	*	*	*
+24	des	*	*	*	*
+25	Bundestages	*	*	*	*
+26	für	*	*	*	*
+27	Menschenrechte	*	*	*	*
+28	und	*	*	*	*
+29	humanitäre	*	*	*	*
+30	Fragen	*	*	*	*
+31	ein	*	*	*	*
+32	Hearing	*	*	*	*
+33	zur	*	*	*	*
+34	Türkei	*	*	*	*
+35	über	2	2	2	2
+36	die	*	*	*	*
+37	Bühne	2	2	2	2
+38	.	*	*	*	*
+
+# article_id = T891011.59
+# text = Das " Gesetz über das Lösungsverfahren bei kollektiven Arbeitsstreitigkeiten " ging ohne größere Änderungen der Vorlage über die Bühne , obwohl es an Zusatzanträgen und Verbesserungsvorschlägen nicht mangelte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	"	*	*	*	*
+3	Gesetz	*	*	*	*
+4	über	*	*	*	*
+5	das	*	*	*	*
+6	Lösungsverfahren	*	*	*	*
+7	bei	*	*	*	*
+8	kollektiven	*	*	*	*
+9	Arbeitsstreitigkeiten	*	*	*	*
+10	"	*	*	*	*
+11	ging	2	2	2	2
+12	ohne	*	*	*	*
+13	größere	*	*	*	*
+14	Änderungen	*	*	*	*
+15	der	*	*	*	*
+16	Vorlage	*	*	*	*
+17	über	2	2	2	2
+18	die	*	*	*	*
+19	Bühne	2	2	2	2
+20	,	*	*	*	*
+21	obwohl	*	*	*	*
+22	es	*	*	*	*
+23	an	*	*	*	*
+24	Zusatzanträgen	*	*	*	*
+25	und	*	*	*	*
+26	Verbesserungsvorschlägen	*	*	*	*
+27	nicht	*	*	*	*
+28	mangelte	*	*	*	*
+29	.	*	*	*	*
+
+# article_id = T891013.119
+# text = Und als am vergangenen Sonntag in Berlin das " 4. Internationale - Kraftsport-Kulturistik-Pokal-Turnier " über die Bühne ging , war der renommierteste Ort gerade recht : die Werner - Seelenbinder-Halle .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	*	*	*	*
+2	als	*	*	*	*
+3	am	*	*	*	*
+4	vergangenen	*	*	*	*
+5	Sonntag	*	*	*	*
+6	in	*	*	*	*
+7	Berlin	*	*	*	*
+8	das	*	*	*	*
+9	"	*	*	*	*
+10	4	*	*	*	*
+11	.	*	*	*	*
+12	Internationale	*	*	*	*
+13	-	*	*	*	*
+14	Kraftsport-Kulturistik-Pokal-Turnier	*	*	*	*
+15	"	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	ging	2	2	2	2
+20	,	*	*	*	*
+21	war	*	*	*	*
+22	der	*	*	*	*
+23	renommierteste	*	*	*	*
+24	Ort	*	*	*	*
+25	gerade	*	*	*	*
+26	recht	*	*	*	*
+27	:	*	*	*	*
+28	die	*	*	*	*
+29	Werner	*	*	*	*
+30	-	*	*	*	*
+31	Seelenbinder-Halle	*	*	*	*
+32	.	*	*	*	*
+
+# article_id = T891017.44
+# text = Bislang waren solche riskanten Finanzierungen mit " Dreckspapieren " fast immer einigermaßen sicher über die Bühne gegangen , weil die " Junkies " attraktiv ausgestattet , sprich : hoch verzinst wurden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bislang	*	*	*	*
+2	waren	*	*	*	*
+3	solche	*	*	*	*
+4	riskanten	*	*	*	*
+5	Finanzierungen	*	*	*	*
+6	mit	*	*	*	*
+7	"	*	*	*	*
+8	Dreckspapieren	*	*	*	*
+9	"	*	*	*	*
+10	fast	*	*	*	*
+11	immer	*	*	*	*
+12	einigermaßen	*	*	*	*
+13	sicher	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	gegangen	2	2	2	2
+18	,	*	*	*	*
+19	weil	*	*	*	*
+20	die	*	*	*	*
+21	"	*	*	*	*
+22	Junkies	*	*	*	*
+23	"	*	*	*	*
+24	attraktiv	*	*	*	*
+25	ausgestattet	*	*	*	*
+26	,	*	*	*	*
+27	sprich	*	*	*	*
+28	:	*	*	*	*
+29	hoch	*	*	*	*
+30	verzinst	*	*	*	*
+31	wurden	*	*	*	*
+32	.	*	*	*	*
+
+# article_id = T891003.7
+# text = Der Wechsel in Oslo soll auf dem Wege eines für Ende Oktober erwarteten Mißtrauensvotums über die parlamentarische Bühne gehen - " falls Frau Brundtland jetzt nicht umgehend freiwillig zurücktritt " , verkündete der bürgerliche Kandidat für das Ministerpräsidentenamt , Jan P. Syse , nach der Einigung der künftigen Koalitionspartner in der Nacht zum Montag .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Wechsel	*	*	*	*
+3	in	*	*	*	*
+4	Oslo	*	*	*	*
+5	soll	*	*	*	*
+6	auf	*	*	*	*
+7	dem	*	*	*	*
+8	Wege	*	*	*	*
+9	eines	*	*	*	*
+10	für	*	*	*	*
+11	Ende	*	*	*	*
+12	Oktober	*	*	*	*
+13	erwarteten	*	*	*	*
+14	Mißtrauensvotums	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	parlamentarische	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	-	*	*	*	*
+21	"	*	*	*	*
+22	falls	*	*	*	*
+23	Frau	*	*	*	*
+24	Brundtland	*	*	*	*
+25	jetzt	*	*	*	*
+26	nicht	*	*	*	*
+27	umgehend	*	*	*	*
+28	freiwillig	*	*	*	*
+29	zurücktritt	*	*	*	*
+30	"	*	*	*	*
+31	,	*	*	*	*
+32	verkündete	*	*	*	*
+33	der	*	*	*	*
+34	bürgerliche	*	*	*	*
+35	Kandidat	*	*	*	*
+36	für	*	*	*	*
+37	das	*	*	*	*
+38	Ministerpräsidentenamt	*	*	*	*
+39	,	*	*	*	*
+40	Jan	*	*	*	*
+41	P.	*	*	*	*
+42	Syse	*	*	*	*
+43	,	*	*	*	*
+44	nach	*	*	*	*
+45	der	*	*	*	*
+46	Einigung	*	*	*	*
+47	der	*	*	*	*
+48	künftigen	*	*	*	*
+49	Koalitionspartner	*	*	*	*
+50	in	*	*	*	*
+51	der	*	*	*	*
+52	Nacht	*	*	*	*
+53	zum	*	*	*	*
+54	Montag	*	*	*	*
+55	.	*	*	*	*
+
+# article_id = T890902.144
+# text = Das Mozart-Jubeljahr wird noch ohne sein neues , ernsthaft an den Werken orientiertes Konzept über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	Mozart-Jubeljahr	*	*	*	*
+3	wird	*	*	*	*
+4	noch	*	*	*	*
+5	ohne	*	*	*	*
+6	sein	*	*	*	*
+7	neues	*	*	*	*
+8	,	*	*	*	*
+9	ernsthaft	*	*	*	*
+10	an	*	*	*	*
+11	den	*	*	*	*
+12	Werken	*	*	*	*
+13	orientiertes	*	*	*	*
+14	Konzept	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	gehen	2	2	2	2
+19	.	*	*	*	*
+
+# article_id = T890923.140
+# text = Nachdem der sowjetische Botschafter im Juli Momper nach Moskau eingeladen hatte , war von seiten des Senats der Eindruck erweckt worden , als würde die Moskau-Reise ziemlich bald über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nachdem	*	*	*	*
+2	der	*	*	*	*
+3	sowjetische	*	*	*	*
+4	Botschafter	*	*	*	*
+5	im	*	*	*	*
+6	Juli	*	*	*	*
+7	Momper	*	*	*	*
+8	nach	*	*	*	*
+9	Moskau	*	*	*	*
+10	eingeladen	*	*	*	*
+11	hatte	*	*	*	*
+12	,	*	*	*	*
+13	war	*	*	*	*
+14	von	*	*	*	*
+15	seiten	*	*	*	*
+16	des	*	*	*	*
+17	Senats	*	*	*	*
+18	der	*	*	*	*
+19	Eindruck	*	*	*	*
+20	erweckt	*	*	*	*
+21	worden	*	*	*	*
+22	,	*	*	*	*
+23	als	*	*	*	*
+24	würde	*	*	*	*
+25	die	*	*	*	*
+26	Moskau-Reise	*	*	*	*
+27	ziemlich	*	*	*	*
+28	bald	*	*	*	*
+29	über	2	2	2	2
+30	die	*	*	*	*
+31	Bühne	2	2	2	2
+32	gehen	2	2	2	2
+33	.	*	*	*	*
+
+# article_id = T890905.73
+# text = Überraschend friedlich ging andererseits ein Protest gegen Rassentrennung an Stränden in der Hafenstadt Durban am Sonntag nachmittag über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Überraschend	*	*	*	*
+2	friedlich	*	*	*	*
+3	ging	2	2	2	2
+4	andererseits	*	*	*	*
+5	ein	*	*	*	*
+6	Protest	*	*	*	*
+7	gegen	*	*	*	*
+8	Rassentrennung	*	*	*	*
+9	an	*	*	*	*
+10	Stränden	*	*	*	*
+11	in	*	*	*	*
+12	der	*	*	*	*
+13	Hafenstadt	*	*	*	*
+14	Durban	*	*	*	*
+15	am	*	*	*	*
+16	Sonntag	*	*	*	*
+17	nachmittag	*	*	*	*
+18	über	2	2	2	2
+19	die	*	*	*	*
+20	Bühne	2	2	2	2
+21	.	*	*	*	*
+
+# article_id = T890909.111
+# text = Daß dieser gigantische Arbeitsplatzabbau ohne große Eruptionen über die Bühne ging
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	*	*	*	*
+2	dieser	*	*	*	*
+3	gigantische	*	*	*	*
+4	Arbeitsplatzabbau	*	*	*	*
+5	ohne	*	*	*	*
+6	große	*	*	*	*
+7	Eruptionen	*	*	*	*
+8	über	2	2	2	2
+9	die	*	*	*	*
+10	Bühne	2	2	2	2
+11	ging	2	2	2	2
+
+# article_id = T890922.74
+# text = Dessen modifizierte Fassung wird der Bundesrat heute verabschieden , und noch in diesem Herbst soll es nach den Plänen der Bundesregierung über die Bühne gegangen sein .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dessen	*	*	*	*
+2	modifizierte	*	*	*	*
+3	Fassung	*	*	*	*
+4	wird	*	*	*	*
+5	der	*	*	*	*
+6	Bundesrat	*	*	*	*
+7	heute	*	*	*	*
+8	verabschieden	*	*	*	*
+9	,	*	*	*	*
+10	und	*	*	*	*
+11	noch	*	*	*	*
+12	in	*	*	*	*
+13	diesem	*	*	*	*
+14	Herbst	*	*	*	*
+15	soll	*	*	*	*
+16	es	*	*	*	*
+17	nach	*	*	*	*
+18	den	*	*	*	*
+19	Plänen	*	*	*	*
+20	der	*	*	*	*
+21	Bundesregierung	*	*	*	*
+22	über	2	2	2	2
+23	die	*	*	*	*
+24	Bühne	2	2	2	2
+25	gegangen	2	2	2	2
+26	sein	*	*	*	*
+27	.	*	*	*	*
+
+# article_id = T890131.160
+# text = Mit einem bißchen Bangemachen von seiten der Unileitung und mit einem schriftlichen Entwurf zwischen Angebot und Ultimatum an den Rektor und den Bildungssenator von seiten der StudentInnen ging gestern die Vollversammlung ( VV ) in der Universität über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	*	*	*	*
+2	einem	*	*	*	*
+3	bißchen	*	*	*	*
+4	Bangemachen	*	*	*	*
+5	von	*	*	*	*
+6	seiten	*	*	*	*
+7	der	*	*	*	*
+8	Unileitung	*	*	*	*
+9	und	*	*	*	*
+10	mit	*	*	*	*
+11	einem	*	*	*	*
+12	schriftlichen	*	*	*	*
+13	Entwurf	*	*	*	*
+14	zwischen	*	*	*	*
+15	Angebot	*	*	*	*
+16	und	*	*	*	*
+17	Ultimatum	*	*	*	*
+18	an	*	*	*	*
+19	den	*	*	*	*
+20	Rektor	*	*	*	*
+21	und	*	*	*	*
+22	den	*	*	*	*
+23	Bildungssenator	*	*	*	*
+24	von	*	*	*	*
+25	seiten	*	*	*	*
+26	der	*	*	*	*
+27	StudentInnen	*	*	*	*
+28	ging	2	2	2	2
+29	gestern	*	*	*	*
+30	die	*	*	*	*
+31	Vollversammlung	*	*	*	*
+32	(	*	*	*	*
+33	VV	*	*	*	*
+34	)	*	*	*	*
+35	in	*	*	*	*
+36	der	*	*	*	*
+37	Universität	*	*	*	*
+38	über	2	2	2	2
+39	die	*	*	*	*
+40	Bühne	2	2	2	2
+41	.	*	*	*	*
+
+# article_id = T890106.189
+# text = Ob er glatt über die Bühne gehen wird , muß sich noch herausstellen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ob	*	*	*	*
+2	er	*	*	*	*
+3	glatt	*	*	*	*
+4	über	2	2	2	2
+5	die	*	*	*	*
+6	Bühne	2	2	2	2
+7	gehen	2	2	2	2
+8	wird	*	*	*	*
+9	,	*	*	*	*
+10	muß	*	*	*	*
+11	sich	*	*	*	*
+12	noch	*	*	*	*
+13	herausstellen	*	*	*	*
+14	.	*	*	*	*
+
+# article_id = T890124.278
+# text = Bei der Bremer Polizei war man hernach hochzufrieden , daß diese Geiselnahme ohne offensichtliche organisatorische Pannen über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	*	*	*	*
+2	der	*	*	*	*
+3	Bremer	*	*	*	*
+4	Polizei	*	*	*	*
+5	war	*	*	*	*
+6	man	*	*	*	*
+7	hernach	*	*	*	*
+8	hochzufrieden	*	*	*	*
+9	,	*	*	*	*
+10	daß	*	*	*	*
+11	diese	*	*	*	*
+12	Geiselnahme	*	*	*	*
+13	ohne	*	*	*	*
+14	offensichtliche	*	*	*	*
+15	organisatorische	*	*	*	*
+16	Pannen	*	*	*	*
+17	über	2	2	2	2
+18	die	*	*	*	*
+19	Bühne	2	2	2	2
+20	ging	2	2	2	2
+21	.	*	*	*	*
+
+# article_id = T890116.91
+# text = In Abwesenheit der Angeklagten konnte das Verfahren im Fall des ermordeten Renault-Chefs Georges Besse reibungslos über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	Abwesenheit	*	*	*	*
+3	der	*	*	*	*
+4	Angeklagten	*	*	*	*
+5	konnte	*	*	*	*
+6	das	*	*	*	*
+7	Verfahren	*	*	*	*
+8	im	*	*	*	*
+9	Fall	*	*	*	*
+10	des	*	*	*	*
+11	ermordeten	*	*	*	*
+12	Renault-Chefs	*	*	*	*
+13	Georges	*	*	*	*
+14	Besse	*	*	*	*
+15	reibungslos	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	.	*	*	*	*
+
+# article_id = T890118.51
+# text = Marburg ( taz ) - " Vielleicht hätte man die Geschichte gar nicht an die große Glocke hängen sollen , dann wäre sie genauso über die Bühne gegangen , wie so manche andere Personalentscheidung am Fachbereich Politikwissenschaften der Marburger Philipps-Universität " , spekuliert ein studentischer Gremienvertreter .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Marburg	*	*	*	*
+2	(	*	*	*	*
+3	taz	*	*	*	*
+4	)	*	*	*	*
+5	-	*	*	*	*
+6	"	*	*	*	*
+7	Vielleicht	*	*	*	*
+8	hätte	*	*	*	*
+9	man	*	*	*	*
+10	die	*	*	*	*
+11	Geschichte	*	*	*	*
+12	gar	*	*	*	*
+13	nicht	*	*	*	*
+14	an	*	*	*	*
+15	die	*	*	*	*
+16	große	*	*	*	*
+17	Glocke	*	*	*	*
+18	hängen	*	*	*	*
+19	sollen	*	*	*	*
+20	,	*	*	*	*
+21	dann	*	*	*	*
+22	wäre	*	*	*	*
+23	sie	*	*	*	*
+24	genauso	*	*	*	*
+25	über	2	2	2	2
+26	die	*	*	*	*
+27	Bühne	2	2	2	2
+28	gegangen	2	2	2	2
+29	,	*	*	*	*
+30	wie	*	*	*	*
+31	so	*	*	*	*
+32	manche	*	*	*	*
+33	andere	*	*	*	*
+34	Personalentscheidung	*	*	*	*
+35	am	*	*	*	*
+36	Fachbereich	*	*	*	*
+37	Politikwissenschaften	*	*	*	*
+38	der	*	*	*	*
+39	Marburger	*	*	*	*
+40	Philipps-Universität	*	*	*	*
+41	"	*	*	*	*
+42	,	*	*	*	*
+43	spekuliert	*	*	*	*
+44	ein	*	*	*	*
+45	studentischer	*	*	*	*
+46	Gremienvertreter	*	*	*	*
+47	.	*	*	*	*
+
+# article_id = T890104.239
+# text = Eine Ehrung Alfred Sohn Rethels kann nicht ohne Bitternisse und unzeitgemäße politische Betrachtungen über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	*	*	*	*
+2	Ehrung	*	*	*	*
+3	Alfred	*	*	*	*
+4	Sohn	*	*	*	*
+5	Rethels	*	*	*	*
+6	kann	*	*	*	*
+7	nicht	*	*	*	*
+8	ohne	*	*	*	*
+9	Bitternisse	*	*	*	*
+10	und	*	*	*	*
+11	unzeitgemäße	*	*	*	*
+12	politische	*	*	*	*
+13	Betrachtungen	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	gehen	2	2	2	2
+18	.	*	*	*	*
+
+# article_id = T890109.218
+# text = Und als der Kossmann zum erstenmal angezählt wurde , war klar , daß das Ding hier schnell über die Bühne gehen würde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	*	*	*	*
+2	als	*	*	*	*
+3	der	*	*	*	*
+4	Kossmann	*	*	*	*
+5	zum	*	*	*	*
+6	erstenmal	*	*	*	*
+7	angezählt	*	*	*	*
+8	wurde	*	*	*	*
+9	,	*	*	*	*
+10	war	*	*	*	*
+11	klar	*	*	*	*
+12	,	*	*	*	*
+13	daß	*	*	*	*
+14	das	*	*	*	*
+15	Ding	*	*	*	*
+16	hier	*	*	*	*
+17	schnell	*	*	*	*
+18	über	2	2	2	2
+19	die	*	*	*	*
+20	Bühne	2	2	2	2
+21	gehen	2	2	2	2
+22	würde	*	*	*	*
+23	.	*	*	*	*
+
+# article_id = T890427.155
+# text = Alles wolle man tun , sagte gestern Landespolizeidirektor Kittlaus , " damit der 1. Mai in Kreuzberg ganz friedlich über die Bühne geht " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Alles	*	*	*	*
+2	wolle	*	*	*	*
+3	man	*	*	*	*
+4	tun	*	*	*	*
+5	,	*	*	*	*
+6	sagte	*	*	*	*
+7	gestern	*	*	*	*
+8	Landespolizeidirektor	*	*	*	*
+9	Kittlaus	*	*	*	*
+10	,	*	*	*	*
+11	"	*	*	*	*
+12	damit	*	*	*	*
+13	der	*	*	*	*
+14	1	*	*	*	*
+15	.	*	*	*	*
+16	Mai	*	*	*	*
+17	in	*	*	*	*
+18	Kreuzberg	*	*	*	*
+19	ganz	*	*	*	*
+20	friedlich	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	geht	2	2	2	2
+25	"	*	*	*	*
+26	.	*	*	*	*
+
+# article_id = T890425.133
+# text = Die Auseinandersetzung geht über die Bühne , aber es bewegt sich nichts : " Das Messer steckt , aber das Herz schlägt weiter " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Auseinandersetzung	*	*	*	*
+3	geht	2	2	1	2
+4	über	2	2	1	2
+5	die	*	*	*	*
+6	Bühne	2	2	1	2
+7	,	*	*	*	*
+8	aber	*	*	*	*
+9	es	*	*	*	*
+10	bewegt	*	*	*	*
+11	sich	*	*	*	*
+12	nichts	*	*	*	*
+13	:	*	*	*	*
+14	"	*	*	*	*
+15	Das	*	*	*	*
+16	Messer	*	*	*	*
+17	steckt	*	*	*	*
+18	,	*	*	*	*
+19	aber	*	*	*	*
+20	das	*	*	*	*
+21	Herz	*	*	*	*
+22	schlägt	*	*	*	*
+23	weiter	*	*	*	*
+24	"	*	*	*	*
+25	.	*	*	*	*
+
+# article_id = T890728.110
+# text = Eigentlich hätte auch die diesjährige Hauptversammlung der Springer-Aktionäre am Mittwochnachmittag bereits um 16 Uhr glatt über die Bühne des blauen Saals im Internationalen Congreß-Centrum ( ICC ) Berlin gegangen sein können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eigentlich	*	*	*	*
+2	hätte	*	*	*	*
+3	auch	*	*	*	*
+4	die	*	*	*	*
+5	diesjährige	*	*	*	*
+6	Hauptversammlung	*	*	*	*
+7	der	*	*	*	*
+8	Springer-Aktionäre	*	*	*	*
+9	am	*	*	*	*
+10	Mittwochnachmittag	*	*	*	*
+11	bereits	*	*	*	*
+12	um	*	*	*	*
+13	16	*	*	*	*
+14	Uhr	*	*	*	*
+15	glatt	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	des	*	*	*	*
+20	blauen	*	*	*	*
+21	Saals	*	*	*	*
+22	im	*	*	*	*
+23	Internationalen	*	*	*	*
+24	Congreß-Centrum	*	*	*	*
+25	(	*	*	*	*
+26	ICC	*	*	*	*
+27	)	*	*	*	*
+28	Berlin	*	*	*	*
+29	gegangen	2	2	2	2
+30	sein	*	*	*	*
+31	können	*	*	*	*
+32	.	*	*	*	*
+
+# article_id = T890728.110
+# text = Nach all diesen Positiv-Meldungen berichtete der Aufsichtsrats-Vorsitzende Servatius den versammelten Aktionären , daß die Bilanzprüfung für 1988 ohne Beanstandungen glatt über die Bühne gegangenen sei und erklärte der Versammlung noch kurz und bündig die Formalitäten für die erforderliche Entlastung des Vorstands und des Aufsichtsrats , um sodann die Aussprache im blauen Saal zu eröffnen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	*	*	*	*
+2	all	*	*	*	*
+3	diesen	2	2	2	2
+4	Positiv-Meldungen	*	*	*	*
+5	berichtete	*	*	*	*
+6	der	*	*	*	*
+7	Aufsichtsrats-Vorsitzende	*	*	*	*
+8	Servatius	*	*	*	*
+9	den	*	*	*	*
+10	versammelten	*	*	*	*
+11	Aktionären	*	*	*	*
+12	,	*	*	*	*
+13	daß	*	*	*	*
+14	die	*	*	*	*
+15	Bilanzprüfung	*	*	*	*
+16	für	*	*	*	*
+17	1988	*	*	*	*
+18	ohne	*	*	*	*
+19	Beanstandungen	*	*	*	*
+20	glatt	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	gegangenen	*	*	*	*
+25	sei	*	*	*	*
+26	und	*	*	*	*
+27	erklärte	*	*	*	*
+28	der	*	*	*	*
+29	Versammlung	*	*	*	*
+30	noch	*	*	*	*
+31	kurz	*	*	*	*
+32	und	*	*	*	*
+33	bündig	*	*	*	*
+34	die	*	*	*	*
+35	Formalitäten	*	*	*	*
+36	für	*	*	*	*
+37	die	*	*	*	*
+38	erforderliche	*	*	*	*
+39	Entlastung	*	*	*	*
+40	des	*	*	*	*
+41	Vorstands	*	*	*	*
+42	und	*	*	*	*
+43	des	*	*	*	*
+44	Aufsichtsrats	*	*	*	*
+45	,	*	*	*	*
+46	um	*	*	*	*
+47	sodann	*	*	*	*
+48	die	*	*	*	*
+49	Aussprache	*	*	*	*
+50	im	*	*	*	*
+51	blauen	*	*	*	*
+52	Saal	*	*	*	*
+53	zu	*	*	*	*
+54	eröffnen	*	*	*	*
+55	.	*	*	*	*
+
+# article_id = T890728.110
+# text = Die Angelegenheit Monti konnte noch nicht behandelt werden , weil sie erst im Jahre 1989 über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Angelegenheit	*	*	*	*
+3	Monti	*	*	*	*
+4	konnte	*	*	*	*
+5	noch	*	*	*	*
+6	nicht	*	*	*	*
+7	behandelt	*	*	*	*
+8	werden	*	*	*	*
+9	,	*	*	*	*
+10	weil	*	*	*	*
+11	sie	*	*	*	*
+12	erst	*	*	*	*
+13	im	*	*	*	*
+14	Jahre	*	*	*	*
+15	1989	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	ging	2	2	2	2
+20	.	*	*	*	*
+
+# article_id = T890713.61
+# text = In diesem Jahr ging bisher alles reibungslos über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	diesem	*	*	*	*
+3	Jahr	*	*	*	*
+4	ging	2	2	2	2
+5	bisher	*	*	*	*
+6	alles	*	*	*	*
+7	reibungslos	*	*	*	*
+8	über	2	2	2	2
+9	die	*	*	*	*
+10	Bühne	2	2	2	2
+11	.	*	*	*	*
+
+# article_id = T891218.153
+# text = Obgleich auch im benachbarten Jahn-Sportpark solche Veranstaltungen über die Bühne gingen , dauerte es noch 13 Jahre , bis die Dynamo-Arena renoviert wurde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Obgleich	*	*	*	*
+2	auch	*	*	*	*
+3	im	*	*	*	*
+4	benachbarten	*	*	*	*
+5	Jahn-Sportpark	*	*	*	*
+6	solche	*	*	*	*
+7	Veranstaltungen	*	*	*	*
+8	über	2	2	2	2
+9	die	*	*	*	*
+10	Bühne	2	2	2	2
+11	gingen	2	2	2	2
+12	,	*	*	*	*
+13	dauerte	*	*	*	*
+14	es	*	*	*	*
+15	noch	*	*	*	*
+16	13	*	*	*	*
+17	Jahre	*	*	*	*
+18	,	*	*	*	*
+19	bis	*	*	*	*
+20	die	*	*	*	*
+21	Dynamo-Arena	*	*	*	*
+22	renoviert	*	*	*	*
+23	wurde	*	*	*	*
+24	.	*	*	*	*
+
+# article_id = T891204.91
+# text = Eine sofort eingeleitete Suchaktion verlief ergebnislos , so daß die Ehrung in Baden-Baden ohne die junge Frau über die Bühne gehen mußte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	*	*	*	*
+2	sofort	*	*	*	*
+3	eingeleitete	*	*	*	*
+4	Suchaktion	*	*	*	*
+5	verlief	*	*	*	*
+6	ergebnislos	*	*	*	*
+7	,	*	*	*	*
+8	so	*	*	*	*
+9	daß	*	*	*	*
+10	die	*	*	*	*
+11	Ehrung	*	*	*	*
+12	in	*	*	*	*
+13	Baden-Baden	*	*	*	*
+14	ohne	*	*	*	*
+15	die	*	*	*	*
+16	junge	*	*	*	*
+17	Frau	*	*	*	*
+18	über	2	2	2	2
+19	die	*	*	*	*
+20	Bühne	2	2	2	2
+21	gehen	2	2	2	2
+22	mußte	*	*	*	*
+23	.	*	*	*	*
+
+# article_id = T891222.121
+# text = Als Anfang Oktober zeitgleich die Tennis-Classics und das Golf-Masters über die Bühne gingen , saßen Sportmuffel Rommel und Tennisfreund Späth einträchtig in der Schleyer-Halle der SMK ( Eigner : 65 Prozent Stadt , 25 Prozent Land ) , das Filzspiel zu verfolgen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	*	*	*	*
+2	Anfang	*	*	*	*
+3	Oktober	*	*	*	*
+4	zeitgleich	*	*	*	*
+5	die	*	*	*	*
+6	Tennis-Classics	*	*	*	*
+7	und	*	*	*	*
+8	das	*	*	*	*
+9	Golf-Masters	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	gingen	2	2	2	2
+14	,	*	*	*	*
+15	saßen	*	*	*	*
+16	Sportmuffel	*	*	*	*
+17	Rommel	*	*	*	*
+18	und	*	*	*	*
+19	Tennisfreund	*	*	*	*
+20	Späth	*	*	*	*
+21	einträchtig	*	*	*	*
+22	in	*	*	*	*
+23	der	*	*	*	*
+24	Schleyer-Halle	*	*	*	*
+25	der	*	*	*	*
+26	SMK	*	*	*	*
+27	(	*	*	*	*
+28	Eigner	*	*	*	*
+29	:	*	*	*	*
+30	65	*	*	*	*
+31	Prozent	*	*	*	*
+32	Stadt	*	*	*	*
+33	,	*	*	*	*
+34	25	*	*	*	*
+35	Prozent	*	*	*	*
+36	Land	*	*	*	*
+37	)	*	*	*	*
+38	,	*	*	*	*
+39	das	*	*	*	*
+40	Filzspiel	*	*	*	*
+41	zu	*	*	*	*
+42	verfolgen	*	*	*	*
+43	.	*	*	*	*
+
+# article_id = T890815.164
+# text = Der 13. August ist ohne besondere Ereignisse über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	13	*	*	*	*
+3	.	*	*	*	*
+4	August	*	*	*	*
+5	ist	*	*	*	*
+6	ohne	*	*	*	*
+7	besondere	*	*	*	*
+8	Ereignisse	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	gegangen	2	2	2	2
+13	.	*	*	*	*
+
+# article_id = T890823.160
+# text = Spätestens wenn der Deal über die Bühne gegangen ist , sind Daimler und Bonn in ihrer Auftragsvergabe wieder frei , und wer dann noch anfängt zu meckern , macht sich lächerlich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Spätestens	*	*	*	*
+2	wenn	*	*	*	*
+3	der	*	*	*	*
+4	Deal	*	*	*	*
+5	über	2	2	2	2
+6	die	*	*	*	*
+7	Bühne	2	2	2	2
+8	gegangen	2	2	2	2
+9	ist	*	*	*	*
+10	,	*	*	*	*
+11	sind	*	*	*	*
+12	Daimler	*	*	*	*
+13	und	*	*	*	*
+14	Bonn	*	*	*	*
+15	in	*	*	*	*
+16	ihrer	*	*	*	*
+17	Auftragsvergabe	*	*	*	*
+18	wieder	*	*	*	*
+19	frei	*	*	*	*
+20	,	*	*	*	*
+21	und	*	*	*	*
+22	wer	*	*	*	*
+23	dann	*	*	*	*
+24	noch	*	*	*	*
+25	anfängt	*	*	*	*
+26	zu	*	*	*	*
+27	meckern	*	*	*	*
+28	,	*	*	*	*
+29	macht	*	*	*	*
+30	sich	*	*	*	*
+31	lächerlich	*	*	*	*
+32	.	*	*	*	*
+
+# article_id = T890818.149
+# text = " Tatsache ist , daß 300 Meter vom Verteidigungsministerium entfernt , die Warteschlangen vor dem Stadion an die Kasse drängten , während von rebellierenden Piloten gesteuerte MIG 23-Düsenjäger im Tiefflug über der Stadt die Schallmauer durchbrachen , ging das angekündigte Fußballspiel ohne Unterbrechung über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	*	*	*	*
+2	Tatsache	*	*	*	*
+3	ist	*	*	*	*
+4	,	*	*	*	*
+5	daß	*	*	*	*
+6	300	*	*	*	*
+7	Meter	*	*	*	*
+8	vom	*	*	*	*
+9	Verteidigungsministerium	*	*	*	*
+10	entfernt	*	*	*	*
+11	,	*	*	*	*
+12	die	*	*	*	*
+13	Warteschlangen	*	*	*	*
+14	vor	*	*	*	*
+15	dem	*	*	*	*
+16	Stadion	*	*	*	*
+17	an	*	*	*	*
+18	die	*	*	*	*
+19	Kasse	*	*	*	*
+20	drängten	*	*	*	*
+21	,	*	*	*	*
+22	während	*	*	*	*
+23	von	*	*	*	*
+24	rebellierenden	*	*	*	*
+25	Piloten	*	*	*	*
+26	gesteuerte	*	*	*	*
+27	MIG	*	*	*	*
+28	23-Düsenjäger	*	*	*	*
+29	im	*	*	*	*
+30	Tiefflug	*	*	*	*
+31	über	*	*	*	*
+32	der	*	*	*	*
+33	Stadt	*	*	*	*
+34	die	*	*	*	*
+35	Schallmauer	*	*	*	*
+36	durchbrachen	*	*	*	*
+37	,	*	*	*	*
+38	ging	2	2	2	2
+39	das	*	*	*	*
+40	angekündigte	*	*	*	*
+41	Fußballspiel	*	*	*	*
+42	ohne	*	*	*	*
+43	Unterbrechung	*	*	*	*
+44	über	2	2	2	2
+45	die	*	*	*	*
+46	Bühne	2	2	2	2
+47	.	*	*	*	*
+
+# article_id = T890304.31
+# text = Über eine einstweilige Anordnung will der Betriebsrat jetzt verhindern , daß der Deal in der nächsten Woche über die Bühne geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Über	*	*	*	*
+2	eine	*	*	*	*
+3	einstweilige	*	*	*	*
+4	Anordnung	*	*	*	*
+5	will	*	*	*	*
+6	der	*	*	*	*
+7	Betriebsrat	*	*	*	*
+8	jetzt	*	*	*	*
+9	verhindern	*	*	*	*
+10	,	*	*	*	*
+11	daß	*	*	*	*
+12	der	*	*	*	*
+13	Deal	*	*	*	*
+14	in	*	*	*	*
+15	der	*	*	*	*
+16	nächsten	*	*	*	*
+17	Woche	*	*	*	*
+18	über	2	2	2	2
+19	die	*	*	*	*
+20	Bühne	2	2	2	2
+21	geht	2	2	2	2
+22	.	*	*	*	*
+
+# article_id = T890323.93
+# text = Also ab nach Kassel , wo nach Dähnerts Frauenbad in Dieppe und Wisniewskis Der schwarze Zug nun innerhalb kürzester Zeit eine dritte bemerkenswerte Uraufführung über die Bühne geht - nicht in der schwedischen Heimat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Also	*	*	*	*
+2	ab	*	*	*	*
+3	nach	*	*	*	*
+4	Kassel	*	*	*	*
+5	,	*	*	*	*
+6	wo	*	*	*	*
+7	nach	*	*	*	*
+8	Dähnerts	*	*	*	*
+9	Frauenbad	*	*	*	*
+10	in	*	*	*	*
+11	Dieppe	*	*	*	*
+12	und	*	*	*	*
+13	Wisniewskis	*	*	*	*
+14	Der	*	*	*	*
+15	schwarze	*	*	*	*
+16	Zug	*	*	*	*
+17	nun	*	*	*	*
+18	innerhalb	*	*	*	*
+19	kürzester	*	*	*	*
+20	Zeit	*	*	*	*
+21	eine	*	*	*	*
+22	dritte	*	*	*	*
+23	bemerkenswerte	*	*	*	*
+24	Uraufführung	*	*	*	*
+25	über	2	2	2	2
+26	die	*	*	*	*
+27	Bühne	2	2	2	2
+28	geht	2	2	2	2
+29	-	*	*	*	*
+30	nicht	*	*	*	*
+31	in	*	*	*	*
+32	der	*	*	*	*
+33	schwedischen	*	*	*	*
+34	Heimat	*	*	*	*
+35	.	*	*	*	*
+
+# article_id = T890323.171
+# text = Die Haushaltsvorschläge für 1990 sind schon im letzten November erstellt worden , die hausinterne Abwägung zwischen den Ressorts ist schon im Januar über die Bühne gegangen und im Mai wird der neue Finanzsenator auf dieser Grundlage sein Prüfergebnis mitteilen , sprich den einzelnen Senatorinnen sagen , wie wenig Geld sie 1990 zur Verfügung haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Haushaltsvorschläge	*	*	*	*
+3	für	*	*	*	*
+4	1990	*	*	*	*
+5	sind	*	*	*	*
+6	schon	*	*	*	*
+7	im	*	*	*	*
+8	letzten	*	*	*	*
+9	November	*	*	*	*
+10	erstellt	*	*	*	*
+11	worden	*	*	*	*
+12	,	*	*	*	*
+13	die	*	*	*	*
+14	hausinterne	*	*	*	*
+15	Abwägung	*	*	*	*
+16	zwischen	*	*	*	*
+17	den	*	*	*	*
+18	Ressorts	*	*	*	*
+19	ist	*	*	*	*
+20	schon	*	*	*	*
+21	im	*	*	*	*
+22	Januar	*	*	*	*
+23	über	2	2	2	2
+24	die	*	*	*	*
+25	Bühne	2	2	2	2
+26	gegangen	2	2	2	2
+27	und	*	*	*	*
+28	im	*	*	*	*
+29	Mai	*	*	*	*
+30	wird	*	*	*	*
+31	der	*	*	*	*
+32	neue	*	*	*	*
+33	Finanzsenator	*	*	*	*
+34	auf	*	*	*	*
+35	dieser	*	*	*	*
+36	Grundlage	*	*	*	*
+37	sein	*	*	*	*
+38	Prüfergebnis	*	*	*	*
+39	mitteilen	*	*	*	*
+40	,	*	*	*	*
+41	sprich	*	*	*	*
+42	den	*	*	*	*
+43	einzelnen	*	*	*	*
+44	Senatorinnen	*	*	*	*
+45	sagen	*	*	*	*
+46	,	*	*	*	*
+47	wie	*	*	*	*
+48	wenig	*	*	*	*
+49	Geld	*	*	*	*
+50	sie	*	*	*	*
+51	1990	*	*	*	*
+52	zur	*	*	*	*
+53	Verfügung	*	*	*	*
+54	haben	*	*	*	*
+55	.	*	*	*	*
+
+# article_id = T890306.127
+# text = Ohne schwere Querelen , abseits der großen Streitpunkte , gingen dem Vernehmen nach die rot-grünen Verhandlungen zur Sportpolitik über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ohne	*	*	*	*
+2	schwere	*	*	*	*
+3	Querelen	*	*	*	*
+4	,	*	*	*	*
+5	abseits	*	*	*	*
+6	der	*	*	*	*
+7	großen	*	*	*	*
+8	Streitpunkte	*	*	*	*
+9	,	*	*	*	*
+10	gingen	2	2	2	2
+11	dem	*	*	*	*
+12	Vernehmen	*	*	*	*
+13	nach	*	*	*	*
+14	die	*	*	*	*
+15	rot-grünen	*	*	*	*
+16	Verhandlungen	*	*	*	*
+17	zur	*	*	*	*
+18	Sportpolitik	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	.	*	*	*	*
+
+# article_id = T890306.127
+# text = Zu den Bauplänen der SPD/AL-Sportpolitiker : Der Ausbau des Poststadions ( bisher waren 90 Millionen Mark veranschlagt ) würde - aus Geldmangel - wohl kaum in der vom alten Senat geplanten Form über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zu	*	*	*	*
+2	den	*	*	*	*
+3	Bauplänen	*	*	*	*
+4	der	*	*	*	*
+5	SPD/AL-Sportpolitiker	*	*	*	*
+6	:	*	*	*	*
+7	Der	*	*	*	*
+8	Ausbau	*	*	*	*
+9	des	*	*	*	*
+10	Poststadions	*	*	*	*
+11	(	*	*	*	*
+12	bisher	*	*	*	*
+13	waren	*	*	*	*
+14	90	*	*	*	*
+15	Millionen	*	*	*	*
+16	Mark	*	*	*	*
+17	veranschlagt	*	*	*	*
+18	)	*	*	*	*
+19	würde	*	*	*	*
+20	-	*	*	*	*
+21	aus	*	*	*	*
+22	Geldmangel	*	*	*	*
+23	-	*	*	*	*
+24	wohl	*	*	*	*
+25	kaum	*	*	*	*
+26	in	*	*	*	*
+27	der	*	*	*	*
+28	vom	*	*	*	*
+29	alten	*	*	*	*
+30	Senat	*	*	*	*
+31	geplanten	*	*	*	*
+32	Form	*	*	*	*
+33	über	2	2	2	2
+34	die	*	*	*	*
+35	Bühne	2	2	2	2
+36	gehen	2	2	2	2
+37	.	*	*	*	*
+
+# article_id = T890318.34
+# text = Die Wahl des neues Senats in Berlin , die so glatt über die Bühne ging wie keine in den letzten Jahren , war der konsequente vorläufige Endpunkt der Verhandlungsführung des Walter Momper .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Wahl	*	*	*	*
+3	des	*	*	*	*
+4	neues	*	*	*	*
+5	Senats	*	*	*	*
+6	in	*	*	*	*
+7	Berlin	*	*	*	*
+8	,	*	*	*	*
+9	die	*	*	*	*
+10	so	*	*	*	*
+11	glatt	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	ging	2	2	2	2
+16	wie	*	*	*	*
+17	keine	*	*	*	*
+18	in	*	*	*	*
+19	den	*	*	*	*
+20	letzten	*	*	*	*
+21	Jahren	*	*	*	*
+22	,	*	*	*	*
+23	war	*	*	*	*
+24	der	*	*	*	*
+25	konsequente	*	*	*	*
+26	vorläufige	*	*	*	*
+27	Endpunkt	*	*	*	*
+28	der	*	*	*	*
+29	Verhandlungsführung	*	*	*	*
+30	des	*	*	*	*
+31	Walter	*	*	*	*
+32	Momper	*	*	*	*
+33	.	*	*	*	*
+
+# article_id = T891118.11
+# text = Und wenn dieses Wochenende so freudig und friedlich über die Bühne gehen soll wie das letzte , wird ein jeder in dieser Stadt sein Höchstmaß an Geduld und guter Laune aufbieten müssen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	*	*	*	*
+2	wenn	*	*	*	*
+3	dieses	*	*	*	*
+4	Wochenende	*	*	*	*
+5	so	*	*	*	*
+6	freudig	*	*	*	*
+7	und	*	*	*	*
+8	friedlich	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	gehen	2	2	2	2
+13	soll	*	*	*	*
+14	wie	*	*	*	*
+15	das	*	*	*	*
+16	letzte	*	*	*	*
+17	,	*	*	*	*
+18	wird	*	*	*	*
+19	ein	*	*	*	*
+20	jeder	*	*	*	*
+21	in	*	*	*	*
+22	dieser	*	*	*	*
+23	Stadt	*	*	*	*
+24	sein	*	*	*	*
+25	Höchstmaß	*	*	*	*
+26	an	*	*	*	*
+27	Geduld	*	*	*	*
+28	und	*	*	*	*
+29	guter	*	*	*	*
+30	Laune	*	*	*	*
+31	aufbieten	*	*	*	*
+32	müssen	*	*	*	*
+33	.	*	*	*	*
+
+# article_id = T891116.53
+# text = Berlin / Brüssel ( taz ) - Direkt vor den Toren der Brüsseler Atomkontrolleure der Euratom sollte ein internationaler Deal mit illegal ausgeführten Spaltprodukten über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berlin	*	*	*	*
+2	/	*	*	*	*
+3	Brüssel	*	*	*	*
+4	(	*	*	*	*
+5	taz	*	*	*	*
+6	)	*	*	*	*
+7	-	*	*	*	*
+8	Direkt	*	*	*	*
+9	vor	*	*	*	*
+10	den	*	*	*	*
+11	Toren	*	*	*	*
+12	der	*	*	*	*
+13	Brüsseler	*	*	*	*
+14	Atomkontrolleure	*	*	*	*
+15	der	*	*	*	*
+16	Euratom	*	*	*	*
+17	sollte	*	*	*	*
+18	ein	*	*	*	*
+19	internationaler	*	*	*	*
+20	Deal	*	*	*	*
+21	mit	*	*	*	*
+22	illegal	*	*	*	*
+23	ausgeführten	*	*	*	*
+24	Spaltprodukten	*	*	*	*
+25	über	2	2	2	2
+26	die	*	*	*	*
+27	Bühne	2	2	2	2
+28	gehen	2	2	2	2
+29	.	*	*	*	*
+
+# article_id = T891116.129
+# text = Kurz und schmerzlos ging am Sonntag abend die Preisverleihung über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kurz	*	*	*	*
+2	und	*	*	*	*
+3	schmerzlos	*	*	*	*
+4	ging	2	2	2	2
+5	am	*	*	*	*
+6	Sonntag	*	*	*	*
+7	abend	*	*	*	*
+8	die	*	*	*	*
+9	Preisverleihung	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	.	*	*	*	*
+
+# article_id = T890208.78
+# text = Kein Wort über die größte Studentendemo in Stuttgart , die je über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kein	*	*	*	*
+2	Wort	*	*	*	*
+3	über	*	*	*	*
+4	die	*	*	*	*
+5	größte	*	*	*	*
+6	Studentendemo	*	*	*	*
+7	in	*	*	*	*
+8	Stuttgart	*	*	*	*
+9	,	*	*	*	*
+10	die	*	*	*	*
+11	je	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	ging	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T890206.90
+# text = Jahr erhält die Comic-Hauptstadt Europas durch den im März über die Bühne gehenden " Ersten Europäischen Comic - Salon " in Grenoble ernsthaft Konkurrenz .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jahr	*	*	*	*
+2	erhält	*	*	*	*
+3	die	*	*	*	*
+4	Comic-Hauptstadt	*	*	*	*
+5	Europas	*	*	*	*
+6	durch	*	*	*	*
+7	den	*	*	*	*
+8	im	*	*	*	*
+9	März	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	gehenden	2	2	2	2
+14	"	*	*	*	*
+15	Ersten	*	*	*	*
+16	Europäischen	*	*	*	*
+17	Comic	*	*	*	*
+18	-	*	*	*	*
+19	Salon	*	*	*	*
+20	"	*	*	*	*
+21	in	*	*	*	*
+22	Grenoble	*	*	*	*
+23	ernsthaft	*	*	*	*
+24	Konkurrenz	*	*	*	*
+25	.	*	*	*	*
+
+# article_id = T890213.160
+# text = Ein einwöchiges Architektur-Symposion mit internationalen und Berliner Architekturautoritäten und ehemaligen Querköpfen aus der Studentenbewegung ging letzte Woche über die Bühne des Fachbereichs , um den Gegenbeweis zur maroden Ausbildung zu führen : Nämlich daß Lehre mehr bedeutet als nur Büffeln hohler Formeln , daß der Anspruch auf selbstbestimmte Inhalte und strukturverändernde Formen besteht und schließlich , daß die Vision akademischer Utopie noch längst nicht ausgeträumt ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	*	*	*	*
+2	einwöchiges	*	*	*	*
+3	Architektur-Symposion	*	*	*	*
+4	mit	*	*	*	*
+5	internationalen	*	*	*	*
+6	und	*	*	*	*
+7	Berliner	*	*	*	*
+8	Architekturautoritäten	*	*	*	*
+9	und	*	*	*	*
+10	ehemaligen	*	*	*	*
+11	Querköpfen	*	*	*	*
+12	aus	*	*	*	*
+13	der	*	*	*	*
+14	Studentenbewegung	*	*	*	*
+15	ging	2	2	2	2
+16	letzte	*	*	*	*
+17	Woche	*	*	*	*
+18	über	2	2	2	2
+19	die	*	*	*	*
+20	Bühne	2	2	2	2
+21	des	*	*	*	*
+22	Fachbereichs	*	*	*	*
+23	,	*	*	*	*
+24	um	*	*	*	*
+25	den	*	*	*	*
+26	Gegenbeweis	*	*	*	*
+27	zur	*	*	*	*
+28	maroden	*	*	*	*
+29	Ausbildung	*	*	*	*
+30	zu	*	*	*	*
+31	führen	*	*	*	*
+32	:	*	*	*	*
+33	Nämlich	*	*	*	*
+34	daß	*	*	*	*
+35	Lehre	*	*	*	*
+36	mehr	*	*	*	*
+37	bedeutet	*	*	*	*
+38	als	*	*	*	*
+39	nur	*	*	*	*
+40	Büffeln	*	*	*	*
+41	hohler	*	*	*	*
+42	Formeln	*	*	*	*
+43	,	*	*	*	*
+44	daß	*	*	*	*
+45	der	*	*	*	*
+46	Anspruch	*	*	*	*
+47	auf	*	*	*	*
+48	selbstbestimmte	*	*	*	*
+49	Inhalte	*	*	*	*
+50	und	*	*	*	*
+51	strukturverändernde	*	*	*	*
+52	Formen	*	*	*	*
+53	besteht	*	*	*	*
+54	und	*	*	*	*
+55	schließlich	*	*	*	*
+56	,	*	*	*	*
+57	daß	*	*	*	*
+58	die	*	*	*	*
+59	Vision	*	*	*	*
+60	akademischer	*	*	*	*
+61	Utopie	*	*	*	*
+62	noch	*	*	*	*
+63	längst	*	*	*	*
+64	nicht	*	*	*	*
+65	ausgeträumt	*	*	*	*
+66	ist	*	*	*	*
+67	.	*	*	*	*
+
+# article_id = T890223.136
+# text = Dann darf der Feuerwehrmann von rechts nach links und von links nach rechts über die Bühne gehen , dann dürfen Schnüre sich vom Boden zur Decke spannen , dann dürfen Stimmen aus anderen Stücken Strindbergs und sonstige merkwürdige Geräusche über Lautsprecher tönen , dann dürfen die Schatten lang und länger werden , dann leuchten die Scheinwerfer ihr härtestes Licht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dann	*	*	*	*
+2	darf	*	*	*	*
+3	der	*	*	*	*
+4	Feuerwehrmann	*	*	*	*
+5	von	*	*	*	*
+6	rechts	*	*	*	*
+7	nach	*	*	*	*
+8	links	*	*	*	*
+9	und	*	*	*	*
+10	von	*	*	*	*
+11	links	*	*	*	*
+12	nach	*	*	*	*
+13	rechts	*	*	*	*
+14	über	1	1	1	1
+15	die	*	*	*	*
+16	Bühne	1	1	1	1
+17	gehen	1	1	1	1
+18	,	*	*	*	*
+19	dann	*	*	*	*
+20	dürfen	*	*	*	*
+21	Schnüre	*	*	*	*
+22	sich	*	*	*	*
+23	vom	*	*	*	*
+24	Boden	*	*	*	*
+25	zur	*	*	*	*
+26	Decke	*	*	*	*
+27	spannen	*	*	*	*
+28	,	*	*	*	*
+29	dann	*	*	*	*
+30	dürfen	*	*	*	*
+31	Stimmen	*	*	*	*
+32	aus	*	*	*	*
+33	anderen	*	*	*	*
+34	Stücken	*	*	*	*
+35	Strindbergs	*	*	*	*
+36	und	*	*	*	*
+37	sonstige	*	*	*	*
+38	merkwürdige	*	*	*	*
+39	Geräusche	*	*	*	*
+40	über	*	*	*	*
+41	Lautsprecher	*	*	*	*
+42	tönen	*	*	*	*
+43	,	*	*	*	*
+44	dann	*	*	*	*
+45	dürfen	*	*	*	*
+46	die	*	*	*	*
+47	Schatten	*	*	*	*
+48	lang	*	*	*	*
+49	und	*	*	*	*
+50	länger	*	*	*	*
+51	werden	*	*	*	*
+52	,	*	*	*	*
+53	dann	*	*	*	*
+54	leuchten	*	*	*	*
+55	die	*	*	*	*
+56	Scheinwerfer	*	*	*	*
+57	ihr	*	*	*	*
+58	härtestes	*	*	*	*
+59	Licht	*	*	*	*
+60	.	*	*	*	*
+
+# article_id = T890207.36
+# text = taz : Heute wird die zweite Gesprächsrunde zwischen AL und SPD über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	taz	*	*	*	*
+2	:	*	*	*	*
+3	Heute	*	*	*	*
+4	wird	*	*	*	*
+5	die	*	*	*	*
+6	zweite	*	*	*	*
+7	Gesprächsrunde	*	*	*	*
+8	zwischen	*	*	*	*
+9	AL	*	*	*	*
+10	und	*	*	*	*
+11	SPD	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	gehen	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T890207.97
+# text = Das Positiven-Treffen ging in München an streng geheimgehaltenen Orten über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	Positiven-Treffen	*	*	*	*
+3	ging	2	2	2	2
+4	in	*	*	*	*
+5	München	*	*	*	*
+6	an	*	*	*	*
+7	streng	*	*	*	*
+8	geheimgehaltenen	*	*	*	*
+9	Orten	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	.	*	*	*	*
+
+# article_id = T910517.233
+# text = Man kann nur hoffen , daß die Tortur wenigsten halbwegs reibungslos über die Bühne geht , für 's Publikum und die Akteure .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Man	*	*	*	*
+2	kann	*	*	*	*
+3	nur	*	*	*	*
+4	hoffen	*	*	*	*
+5	,	*	*	*	*
+6	daß	*	*	*	*
+7	die	*	*	*	*
+8	Tortur	*	*	*	*
+9	wenigsten	*	*	*	*
+10	halbwegs	*	*	*	*
+11	reibungslos	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	geht	2	2	2	2
+16	,	*	*	*	*
+17	für	*	*	*	*
+18	's	*	*	*	*
+19	Publikum	*	*	*	*
+20	und	*	*	*	*
+21	die	*	*	*	*
+22	Akteure	*	*	*	*
+23	.	*	*	*	*
+
+# article_id = T910525.203
+# text = Das allerdings wird nicht ohne Koalitionskrach über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	allerdings	*	*	*	*
+3	wird	*	*	*	*
+4	nicht	*	*	*	*
+5	ohne	*	*	*	*
+6	Koalitionskrach	*	*	*	*
+7	über	2	2	2	2
+8	die	*	*	*	*
+9	Bühne	2	2	2	2
+10	gehen	2	2	2	2
+11	.	*	*	*	*
+
+# article_id = T910513.143
+# text = " - das Plansoll an Volksliedfrohsinn , der in exakt 90 Minuten über die Bühne der Kurhaus-Wandelhalle rollt , " denn ohne Sangesfreude geht es nicht " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	*	*	*	*
+2	-	*	*	*	*
+3	das	*	*	*	*
+4	Plansoll	*	*	*	*
+5	an	*	*	*	*
+6	Volksliedfrohsinn	*	*	*	*
+7	,	*	*	*	*
+8	der	*	*	*	*
+9	in	*	*	*	*
+10	exakt	*	*	*	*
+11	90	*	*	*	*
+12	Minuten	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	Bühne	2	2	2	2
+16	der	*	*	*	*
+17	Kurhaus-Wandelhalle	*	*	*	*
+18	rollt	*	*	*	*
+19	,	*	*	*	*
+20	"	*	*	*	*
+21	denn	*	*	*	*
+22	ohne	*	*	*	*
+23	Sangesfreude	*	*	*	*
+24	geht	2	2	2	2
+25	es	*	*	*	*
+26	nicht	*	*	*	*
+27	"	*	*	*	*
+28	.	*	*	*	*
+
+# article_id = T910513.240
+# text = Am meisten beeindruckt hat sie , daß die ganze Fahrt ohne viel Organisation über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	*	*	*	*
+2	meisten	*	*	*	*
+3	beeindruckt	*	*	*	*
+4	hat	*	*	*	*
+5	sie	*	*	*	*
+6	,	*	*	*	*
+7	daß	*	*	*	*
+8	die	*	*	*	*
+9	ganze	*	*	*	*
+10	Fahrt	*	*	*	*
+11	ohne	*	*	*	*
+12	viel	*	*	*	*
+13	Organisation	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	ging	2	2	2	2
+18	.	*	*	*	*
+
+# article_id = T910513.250
+# text = Da sollte am Sonnabend im Wehrschloß ein Niederländisches Hard-Core-Festival über die Bühne gehen , doch eigentlich fand es einen Tag später statt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	*	*	*	*
+2	sollte	*	*	*	*
+3	am	*	*	*	*
+4	Sonnabend	*	*	*	*
+5	im	*	*	*	*
+6	Wehrschloß	*	*	*	*
+7	ein	*	*	*	*
+8	Niederländisches	*	*	*	*
+9	Hard-Core-Festival	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	gehen	2	2	2	2
+14	,	*	*	*	*
+15	doch	*	*	*	*
+16	eigentlich	*	*	*	*
+17	fand	*	*	*	*
+18	es	*	*	*	*
+19	einen	*	*	*	*
+20	Tag	*	*	*	*
+21	später	*	*	*	*
+22	statt	*	*	*	*
+23	.	*	*	*	*
+
+# article_id = T910522.79
+# text = Jahrestag der chinesischen Herrschaft über Tibet ungestört über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jahrestag	*	*	*	*
+2	der	*	*	*	*
+3	chinesischen	*	*	*	*
+4	Herrschaft	*	*	*	*
+5	über	*	*	*	*
+6	Tibet	*	*	*	*
+7	ungestört	*	*	*	*
+8	über	2	2	2	2
+9	die	*	*	*	*
+10	Bühne	2	2	2	2
+11	gehen	2	2	2	2
+12	.	*	*	*	*
+
+# article_id = T910514.198
+# text = So sind sie eben in Potsdam : Sagen nicht nur zu , wenn sie zum Abschluß der ersten Brandenburger Frauenwoche - die übrigens mit gutem Erfolg in zahlreichen Städten des Landes über die Bühne ging - zur Diskussion eingeladen werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	*	*	*	*
+2	sind	*	*	*	*
+3	sie	*	*	*	*
+4	eben	*	*	*	*
+5	in	*	*	*	*
+6	Potsdam	*	*	*	*
+7	:	*	*	*	*
+8	Sagen	*	*	*	*
+9	nicht	*	*	*	*
+10	nur	*	*	*	*
+11	zu	*	*	*	*
+12	,	*	*	*	*
+13	wenn	*	*	*	*
+14	sie	*	*	*	*
+15	zum	*	*	*	*
+16	Abschluß	*	*	*	*
+17	der	*	*	*	*
+18	ersten	*	*	*	*
+19	Brandenburger	*	*	*	*
+20	Frauenwoche	*	*	*	*
+21	-	*	*	*	*
+22	die	*	*	*	*
+23	übrigens	*	*	*	*
+24	mit	*	*	*	*
+25	gutem	*	*	*	*
+26	Erfolg	*	*	*	*
+27	in	*	*	*	*
+28	zahlreichen	*	*	*	*
+29	Städten	*	*	*	*
+30	des	*	*	*	*
+31	Landes	*	*	*	*
+32	über	2	2	2	2
+33	die	*	*	*	*
+34	Bühne	2	2	2	2
+35	ging	2	2	2	2
+36	-	*	*	*	*
+37	zur	*	*	*	*
+38	Diskussion	*	*	*	*
+39	eingeladen	*	*	*	*
+40	werden	*	*	*	*
+41	.	*	*	*	*
+
+# article_id = T910518.228
+# text = Es war alles andere als ein Zufall , daß Wicke von einer » Internationalen Konferenz zur Popmusikforschung « , die 1985 in Montreal über die Bühne ging , mit der Idee zu einer längerfristigen Kooperationsvereinbarung zwischen dem » Centre for Research on Culture and Society « an der Carleton University Ottawa und dem Forschungszentrum zurückkehrte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	*	*	*	*
+2	war	*	*	*	*
+3	alles	*	*	*	*
+4	andere	*	*	*	*
+5	als	*	*	*	*
+6	ein	*	*	*	*
+7	Zufall	*	*	*	*
+8	,	*	*	*	*
+9	daß	*	*	*	*
+10	Wicke	*	*	*	*
+11	von	*	*	*	*
+12	einer	*	*	*	*
+13	»	*	*	*	*
+14	Internationalen	*	*	*	*
+15	Konferenz	*	*	*	*
+16	zur	*	*	*	*
+17	Popmusikforschung	*	*	*	*
+18	«	*	*	*	*
+19	,	*	*	*	*
+20	die	*	*	*	*
+21	1985	*	*	*	*
+22	in	*	*	*	*
+23	Montreal	*	*	*	*
+24	über	2	2	2	2
+25	die	*	*	*	*
+26	Bühne	2	2	2	2
+27	ging	2	2	2	2
+28	,	*	*	*	*
+29	mit	*	*	*	*
+30	der	*	*	*	*
+31	Idee	*	*	*	*
+32	zu	*	*	*	*
+33	einer	*	*	*	*
+34	längerfristigen	*	*	*	*
+35	Kooperationsvereinbarung	*	*	*	*
+36	zwischen	*	*	*	*
+37	dem	*	*	*	*
+38	»	*	*	*	*
+39	Centre	*	*	*	*
+40	for	*	*	*	*
+41	Research	*	*	*	*
+42	on	*	*	*	*
+43	Culture	*	*	*	*
+44	and	*	*	*	*
+45	Society	*	*	*	*
+46	«	*	*	*	*
+47	an	*	*	*	*
+48	der	*	*	*	*
+49	Carleton	*	*	*	*
+50	University	*	*	*	*
+51	Ottawa	*	*	*	*
+52	und	*	*	*	*
+53	dem	*	*	*	*
+54	Forschungszentrum	*	*	*	*
+55	zurückkehrte	*	*	*	*
+56	.	*	*	*	*
+
+# article_id = T910507.53
+# text = " Ohne inhaltliche Debatte und ohne eine Kandidatenbefragung sei in Neumünster die Vorstandswahl über die Bühne gegangen und Christine Weiske von einer Mehrheit als " kleinstes Übel " gewählt worden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	*	*	*	*
+2	Ohne	*	*	*	*
+3	inhaltliche	*	*	*	*
+4	Debatte	*	*	*	*
+5	und	*	*	*	*
+6	ohne	*	*	*	*
+7	eine	*	*	*	*
+8	Kandidatenbefragung	*	*	*	*
+9	sei	*	*	*	*
+10	in	*	*	*	*
+11	Neumünster	*	*	*	*
+12	die	*	*	*	*
+13	Vorstandswahl	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	gegangen	2	2	2	2
+18	und	*	*	*	*
+19	Christine	*	*	*	*
+20	Weiske	*	*	*	*
+21	von	*	*	*	*
+22	einer	*	*	*	*
+23	Mehrheit	*	*	*	*
+24	als	*	*	*	*
+25	"	*	*	*	*
+26	kleinstes	*	*	*	*
+27	Übel	*	*	*	*
+28	"	*	*	*	*
+29	gewählt	*	*	*	*
+30	worden	*	*	*	*
+31	.	*	*	*	*
+
+# article_id = T910502.43
+# text = Am 8. und 9. Juni soll in der Ostberliner Humboldt-Universität unter dem Motto " Kein 218 in Ost und West " ein Kongreßtribunal mit anschließenden Arbeitsgruppen und Podiumsdiskussion über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	*	*	*	*
+2	8	*	*	*	*
+3	.	*	*	*	*
+4	und	*	*	*	*
+5	9	*	*	*	*
+6	.	*	*	*	*
+7	Juni	*	*	*	*
+8	soll	*	*	*	*
+9	in	*	*	*	*
+10	der	*	*	*	*
+11	Ostberliner	*	*	*	*
+12	Humboldt-Universität	*	*	*	*
+13	unter	*	*	*	*
+14	dem	*	*	*	*
+15	Motto	*	*	*	*
+16	"	*	*	*	*
+17	Kein	*	*	*	*
+18	218	*	*	*	*
+19	in	*	*	*	*
+20	Ost	*	*	*	*
+21	und	*	*	*	*
+22	West	*	*	*	*
+23	"	*	*	*	*
+24	ein	*	*	*	*
+25	Kongreßtribunal	*	*	*	*
+26	mit	*	*	*	*
+27	anschließenden	*	*	*	*
+28	Arbeitsgruppen	*	*	*	*
+29	und	*	*	*	*
+30	Podiumsdiskussion	*	*	*	*
+31	über	2	2	2	2
+32	die	*	*	*	*
+33	Bühne	2	2	2	2
+34	gehen	2	2	2	2
+35	.	*	*	*	*
+
+# article_id = T910629.43
+# text = Nachdem vor rund zwei Wochen aufgebrachte Bergleute eine Strohpuppe mit der Aufschrift Möllemann verbrannt hatten , gingen die Proteste gestern ohne jeden Zwischenfall über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nachdem	*	*	*	*
+2	vor	*	*	*	*
+3	rund	*	*	*	*
+4	zwei	*	*	*	*
+5	Wochen	*	*	*	*
+6	aufgebrachte	*	*	*	*
+7	Bergleute	*	*	*	*
+8	eine	*	*	*	*
+9	Strohpuppe	*	*	*	*
+10	mit	*	*	*	*
+11	der	*	*	*	*
+12	Aufschrift	*	*	*	*
+13	Möllemann	*	*	*	*
+14	verbrannt	*	*	*	*
+15	hatten	*	*	*	*
+16	,	*	*	*	*
+17	gingen	2	2	2	2
+18	die	*	*	*	*
+19	Proteste	*	*	*	*
+20	gestern	*	*	*	*
+21	ohne	*	*	*	*
+22	jeden	*	*	*	*
+23	Zwischenfall	*	*	*	*
+24	über	2	2	2	2
+25	die	*	*	*	*
+26	Bühne	2	2	2	2
+27	.	*	*	*	*
+
+# article_id = T910629.127
+# text = Ein Trauerspiel auch bei der Bürgerrechtsbewegung in den neuen Bundesländern , die die Privatisierung ihres Bodens sang- und klanglos über die Bühne gehen läßt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	*	*	*	*
+2	Trauerspiel	*	*	*	*
+3	auch	*	*	*	*
+4	bei	*	*	*	*
+5	der	*	*	*	*
+6	Bürgerrechtsbewegung	*	*	*	*
+7	in	*	*	*	*
+8	den	*	*	*	*
+9	neuen	*	*	*	*
+10	Bundesländern	*	*	*	*
+11	,	*	*	*	*
+12	die	*	*	*	*
+13	die	*	*	*	*
+14	Privatisierung	*	*	*	*
+15	ihres	*	*	*	*
+16	Bodens	*	*	*	*
+17	sang-	*	*	*	*
+18	und	*	*	*	*
+19	klanglos	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	gehen	2	2	2	2
+24	läßt	*	*	*	*
+25	.	*	*	*	*
+
+# article_id = T910614.54
+# text = Denn die Protestaktionen , die vorzugsweise in der ohnehin total verstopften Innenstadt über die Bühne gehen , führen immer wieder für Stunden zu endlosen Verkehrsstaus und verschlimmern dadurch noch den Smog über der Stadt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	*	*	*	*
+2	die	*	*	*	*
+3	Protestaktionen	*	*	*	*
+4	,	*	*	*	*
+5	die	*	*	*	*
+6	vorzugsweise	*	*	*	*
+7	in	*	*	*	*
+8	der	*	*	*	*
+9	ohnehin	*	*	*	*
+10	total	*	*	*	*
+11	verstopften	*	*	*	*
+12	Innenstadt	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	Bühne	2	2	2	2
+16	gehen	2	2	2	2
+17	,	*	*	*	*
+18	führen	*	*	*	*
+19	immer	*	*	*	*
+20	wieder	*	*	*	*
+21	für	*	*	*	*
+22	Stunden	*	*	*	*
+23	zu	*	*	*	*
+24	endlosen	*	*	*	*
+25	Verkehrsstaus	*	*	*	*
+26	und	*	*	*	*
+27	verschlimmern	*	*	*	*
+28	dadurch	*	*	*	*
+29	noch	*	*	*	*
+30	den	*	*	*	*
+31	Smog	*	*	*	*
+32	über	*	*	*	*
+33	der	*	*	*	*
+34	Stadt	*	*	*	*
+35	.	*	*	*	*
+
+# article_id = T910603.62
+# text = Allerdings rennt ihm die Zeit davon : Die Frist , in der sämtliche Gesprächsphasen über die Bühne gehen sollten , läuft in sechs Wochen ab .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Allerdings	*	*	*	*
+2	rennt	*	*	*	*
+3	ihm	*	*	*	*
+4	die	*	*	*	*
+5	Zeit	*	*	*	*
+6	davon	*	*	*	*
+7	:	*	*	*	*
+8	Die	*	*	*	*
+9	Frist	*	*	*	*
+10	,	*	*	*	*
+11	in	*	*	*	*
+12	der	*	*	*	*
+13	sämtliche	*	*	*	*
+14	Gesprächsphasen	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	gehen	2	2	2	2
+19	sollten	*	*	*	*
+20	,	*	*	*	*
+21	läuft	*	*	*	*
+22	in	*	*	*	*
+23	sechs	*	*	*	*
+24	Wochen	*	*	*	*
+25	ab	*	*	*	*
+26	.	*	*	*	*
+
+# article_id = T911001.75
+# text = Die Fusion hätte in Form einer Mehrheitsübernahme durch die Erste über die Bühne gehen sollen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Fusion	*	*	*	*
+3	hätte	*	*	*	*
+4	in	*	*	*	*
+5	Form	*	*	*	*
+6	einer	*	*	*	*
+7	Mehrheitsübernahme	*	*	*	*
+8	durch	*	*	*	*
+9	die	*	*	*	*
+10	Erste	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	gehen	2	2	2	2
+15	sollen	*	*	*	*
+16	.	*	*	*	*
+
+# article_id = T911008.208
+# text = Das Jazzfest Berlin kann trotz leicht verknappter Mittel - Bund gibt keinen Zuschuß mehr - mit 18 Acts , an diesmal sogar sechs Tagen , über zwei Bühnen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	Jazzfest	*	*	*	*
+3	Berlin	*	*	*	*
+4	kann	*	*	*	*
+5	trotz	*	*	*	*
+6	leicht	*	*	*	*
+7	verknappter	*	*	*	*
+8	Mittel	*	*	*	*
+9	-	*	*	*	*
+10	Bund	*	*	*	*
+11	gibt	*	*	*	*
+12	keinen	*	*	*	*
+13	Zuschuß	*	*	*	*
+14	mehr	*	*	*	*
+15	-	*	*	*	*
+16	mit	*	*	*	*
+17	18	*	*	*	*
+18	Acts	*	*	*	*
+19	,	*	*	*	*
+20	an	*	*	*	*
+21	diesmal	*	*	*	*
+22	sogar	*	*	*	*
+23	sechs	*	*	*	*
+24	Tagen	*	*	*	*
+25	,	*	*	*	*
+26	über	2	3	2	2
+27	zwei	*	*	*	*
+28	Bühnen	2	3	2	2
+29	gehen	2	3	2	2
+30	.	*	*	*	*
+
+# article_id = T911025.147
+# text = Der Verkauf soll , so eine Treuhandsprecherin , noch dieses Jahr über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Verkauf	*	*	*	*
+3	soll	*	*	*	*
+4	,	*	*	*	*
+5	so	*	*	*	*
+6	eine	*	*	*	*
+7	Treuhandsprecherin	*	*	*	*
+8	,	*	*	*	*
+9	noch	*	*	*	*
+10	dieses	*	*	*	*
+11	Jahr	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	gehen	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T910919.94
+# text = Diese Änderung , die unter anderem den Betrieb von ausgewählten , nichtkommerziellen Radioprojekten ermöglicht , soll Anfang 1992 über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Diese	*	*	*	*
+2	Änderung	*	*	*	*
+3	,	*	*	*	*
+4	die	*	*	*	*
+5	unter	*	*	*	*
+6	anderem	*	*	*	*
+7	den	*	*	*	*
+8	Betrieb	*	*	*	*
+9	von	*	*	*	*
+10	ausgewählten	*	*	*	*
+11	,	*	*	*	*
+12	nichtkommerziellen	*	*	*	*
+13	Radioprojekten	*	*	*	*
+14	ermöglicht	*	*	*	*
+15	,	*	*	*	*
+16	soll	*	*	*	*
+17	Anfang	*	*	*	*
+18	1992	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	gehen	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T910926.187
+# text = Das Kindermusical für die ganz Kleinen Ich bin dein Freund geht am 3. 10. um 15 Uhr über die Bühne .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Das	*	*	*	*
+2	Kindermusical	*	*	*	*
+3	für	*	*	*	*
+4	die	*	*	*	*
+5	ganz	*	*	*	*
+6	Kleinen	*	*	*	*
+7	Ich	*	*	*	*
+8	bin	*	*	*	*
+9	dein	*	*	*	*
+10	Freund	*	*	*	*
+11	geht	2	2	2	2
+12	am	*	*	*	*
+13	3	*	*	*	*
+14	.	*	*	*	*
+15	10	*	*	*	*
+16	.	*	*	*	*
+17	um	*	*	*	*
+18	15	*	*	*	*
+19	Uhr	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T910927.56
+# text = Gleich nachdem die Bundeswehr ihr Erbe am Rande des alten Kasernenviertels in " Sächsisches Soldatenheim " umbeschildert hatte , ging gar eine Strip-Show vor jauchzender Kulisse über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gleich	*	*	*	*
+2	nachdem	*	*	*	*
+3	die	*	*	*	*
+4	Bundeswehr	*	*	*	*
+5	ihr	*	*	*	*
+6	Erbe	*	*	*	*
+7	am	*	*	*	*
+8	Rande	*	*	*	*
+9	des	*	*	*	*
+10	alten	*	*	*	*
+11	Kasernenviertels	*	*	*	*
+12	in	*	*	*	*
+13	"	*	*	*	*
+14	Sächsisches	*	*	*	*
+15	Soldatenheim	*	*	*	*
+16	"	*	*	*	*
+17	umbeschildert	*	*	*	*
+18	hatte	*	*	*	*
+19	,	*	*	*	*
+20	ging	2	2	1	2
+21	gar	*	*	*	*
+22	eine	*	*	*	*
+23	Strip-Show	*	*	*	*
+24	vor	*	*	*	*
+25	jauchzender	*	*	*	*
+26	Kulisse	*	*	*	*
+27	über	2	2	1	2
+28	die	*	*	*	*
+29	Bühne	2	2	1	2
+30	.	*	*	*	*
+
+# article_id = T910111.253
+# text = Ohne den erwarteten Streit ging am Mittwoch abend die Anhörung des Gesamtelternbeirates der Bremer Kindertagesheime mit Sozialsenatorin Sabine Uhl über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ohne	*	*	*	*
+2	den	*	*	*	*
+3	erwarteten	*	*	*	*
+4	Streit	*	*	*	*
+5	ging	2	2	2	2
+6	am	*	*	*	*
+7	Mittwoch	*	*	*	*
+8	abend	*	*	*	*
+9	die	*	*	*	*
+10	Anhörung	*	*	*	*
+11	des	*	*	*	*
+12	Gesamtelternbeirates	*	*	*	*
+13	der	*	*	*	*
+14	Bremer	*	*	*	*
+15	Kindertagesheime	*	*	*	*
+16	mit	*	*	*	*
+17	Sozialsenatorin	*	*	*	*
+18	Sabine	*	*	*	*
+19	Uhl	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T910128.110
+# text = Jetzt sollte die Rodel-WM ursprünglich in der lettischen Stadt Sigulda über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jetzt	*	*	*	*
+2	sollte	*	*	*	*
+3	die	*	*	*	*
+4	Rodel-WM	*	*	*	*
+5	ursprünglich	*	*	*	*
+6	in	*	*	*	*
+7	der	*	*	*	*
+8	lettischen	*	*	*	*
+9	Stadt	*	*	*	*
+10	Sigulda	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	gehen	2	2	2	2
+15	.	*	*	*	*
+
+# article_id = T910422.63
+# text = Und trotz der überwältigenden Parlamentsmehrheit von CDU bis Grünen-Mehrheit wird auch im Rathaus nicht damit gerechnet , daß der geplante Abriß reibungslos über die städtische Bühne gehen wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	*	*	*	*
+2	trotz	*	*	*	*
+3	der	*	*	*	*
+4	überwältigenden	*	*	*	*
+5	Parlamentsmehrheit	*	*	*	*
+6	von	*	*	*	*
+7	CDU	*	*	*	*
+8	bis	*	*	*	*
+9	Grünen-Mehrheit	*	*	*	*
+10	wird	*	*	*	*
+11	auch	*	*	*	*
+12	im	*	*	*	*
+13	Rathaus	*	*	*	*
+14	nicht	*	*	*	*
+15	damit	*	*	*	*
+16	gerechnet	*	*	*	*
+17	,	*	*	*	*
+18	daß	*	*	*	*
+19	der	*	*	*	*
+20	geplante	*	*	*	*
+21	Abriß	*	*	*	*
+22	reibungslos	*	*	*	*
+23	über	2	2	2	2
+24	die	*	*	*	*
+25	städtische	*	*	*	*
+26	Bühne	2	2	2	2
+27	gehen	2	2	2	2
+28	wird	*	*	*	*
+29	.	*	*	*	*
+
+# article_id = T910429.25
+# text = Und dies hing mit der Bedeutung zusammen , die man dieser Bundesversammlung , die am Wochenende im schleswig-holsteinischen Neumünster über die Bühne ging , zugemessen hatte - der schicksalhaften Bedeutung für die Partei , besonders aber für die verschiedenen Strömungen in der Partei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	*	*	*	*
+2	dies	*	*	*	*
+3	hing	*	*	*	*
+4	mit	*	*	*	*
+5	der	*	*	*	*
+6	Bedeutung	*	*	*	*
+7	zusammen	*	*	*	*
+8	,	*	*	*	*
+9	die	*	*	*	*
+10	man	*	*	*	*
+11	dieser	*	*	*	*
+12	Bundesversammlung	*	*	*	*
+13	,	*	*	*	*
+14	die	*	*	*	*
+15	am	*	*	*	*
+16	Wochenende	*	*	*	*
+17	im	*	*	*	*
+18	schleswig-holsteinischen	*	*	*	*
+19	Neumünster	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	ging	2	2	2	2
+24	,	*	*	*	*
+25	zugemessen	*	*	*	*
+26	hatte	*	*	*	*
+27	-	*	*	*	*
+28	der	*	*	*	*
+29	schicksalhaften	*	*	*	*
+30	Bedeutung	*	*	*	*
+31	für	*	*	*	*
+32	die	*	*	*	*
+33	Partei	*	*	*	*
+34	,	*	*	*	*
+35	besonders	*	*	*	*
+36	aber	*	*	*	*
+37	für	*	*	*	*
+38	die	*	*	*	*
+39	verschiedenen	*	*	*	*
+40	Strömungen	*	*	*	*
+41	in	*	*	*	*
+42	der	*	*	*	*
+43	Partei	*	*	*	*
+44	.	*	*	*	*
+
+# article_id = T910701.168
+# text = London ( dpa / taz ) - Eingefleischte Traditionalisten , die gehofft hatten , die Tennisgötter würden mit Donner , Blitz und Wolkenbruch dreinschlagen und verhindern , daß zum ersten Mal seit 114 Jahren am ersten Sonntag des Turnieres von Wimbledon gespielt würde , sahen sich bitter enttäuscht : Reibungslos gingen die Spiele des Nachmittages über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	London	*	*	*	*
+2	(	*	*	*	*
+3	dpa	*	*	*	*
+4	/	*	*	*	*
+5	taz	*	*	*	*
+6	)	*	*	*	*
+7	-	*	*	*	*
+8	Eingefleischte	*	*	*	*
+9	Traditionalisten	*	*	*	*
+10	,	*	*	*	*
+11	die	*	*	*	*
+12	gehofft	*	*	*	*
+13	hatten	*	*	*	*
+14	,	*	*	*	*
+15	die	*	*	*	*
+16	Tennisgötter	*	*	*	*
+17	würden	*	*	*	*
+18	mit	*	*	*	*
+19	Donner	*	*	*	*
+20	,	*	*	*	*
+21	Blitz	*	*	*	*
+22	und	*	*	*	*
+23	Wolkenbruch	*	*	*	*
+24	dreinschlagen	*	*	*	*
+25	und	*	*	*	*
+26	verhindern	*	*	*	*
+27	,	*	*	*	*
+28	daß	*	*	*	*
+29	zum	*	*	*	*
+30	ersten	*	*	*	*
+31	Mal	*	*	*	*
+32	seit	*	*	*	*
+33	114	*	*	*	*
+34	Jahren	*	*	*	*
+35	am	*	*	*	*
+36	ersten	*	*	*	*
+37	Sonntag	*	*	*	*
+38	des	*	*	*	*
+39	Turnieres	*	*	*	*
+40	von	*	*	*	*
+41	Wimbledon	*	*	*	*
+42	gespielt	*	*	*	*
+43	würde	*	*	*	*
+44	,	*	*	*	*
+45	sahen	*	*	*	*
+46	sich	*	*	*	*
+47	bitter	*	*	*	*
+48	enttäuscht	*	*	*	*
+49	:	*	*	*	*
+50	Reibungslos	*	*	*	*
+51	gingen	2	2	2	2
+52	die	*	*	*	*
+53	Spiele	*	*	*	*
+54	des	*	*	*	*
+55	Nachmittages	*	*	*	*
+56	über	2	2	2	2
+57	die	*	*	*	*
+58	Bühne	2	2	2	2
+59	.	*	*	*	*
+
+# article_id = T910713.122
+# text = ls " Deutschlands schrillste Modemesse " bezeichnete der ' Spiegel ` die Münchner Modemesse " Avantgarde " , die im vergangenen Herbst mit viel Tamtam über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	ls	*	*	*	*
+2	"	*	*	*	*
+3	Deutschlands	*	*	*	*
+4	schrillste	*	*	*	*
+5	Modemesse	*	*	*	*
+6	"	*	*	*	*
+7	bezeichnete	*	*	*	*
+8	der	*	*	*	*
+9	'	*	*	*	*
+10	Spiegel	*	*	*	*
+11	`	*	*	*	*
+12	die	*	*	*	*
+13	Münchner	*	*	*	*
+14	Modemesse	*	*	*	*
+15	"	*	*	*	*
+16	Avantgarde	*	*	*	*
+17	"	*	*	*	*
+18	,	*	*	*	*
+19	die	*	*	*	*
+20	im	*	*	*	*
+21	vergangenen	*	*	*	*
+22	Herbst	*	*	*	*
+23	mit	*	*	*	*
+24	viel	*	*	*	*
+25	Tamtam	*	*	*	*
+26	über	2	2	2	2
+27	die	*	*	*	*
+28	Bühne	2	2	2	2
+29	ging	2	2	2	2
+30	.	*	*	*	*
+
+# article_id = T910705.37
+# text = So glatt wie vorgesehen ging Münchs Wahl zum Gies-Nachfolger dann doch nicht über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	*	*	*	*
+2	glatt	*	*	*	*
+3	wie	*	*	*	*
+4	vorgesehen	*	*	*	*
+5	ging	2	2	2	2
+6	Münchs	*	*	*	*
+7	Wahl	*	*	*	*
+8	zum	*	*	*	*
+9	Gies-Nachfolger	*	*	*	*
+10	dann	*	*	*	*
+11	doch	*	*	*	*
+12	nicht	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	Bühne	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T910708.117
+# text = Gesponsert von Mercedes-Benz und unter der Schirmherrschaft des baden-württembergischen Ministerpräsidenten Teufel ( CDU ) zählt das Freiburger Zelt-Musik-Festival , das dieses Jahr zum neunten Mal am Stadtrand der Breisgau-Metropole über die Bühne ging , wohl zu den " erfolgreichsten " Großveranstaltungen der alternativen Art. " Die unvergleichliche Atmosphäre der kleinen Zeltstadt im Grünen " - so die Programmzeitschrift - wolle Kultur bieten , die " den vielseitigen Programmwünschen eines breiten Publikums gerecht " wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gesponsert	*	*	*	*
+2	von	*	*	*	*
+3	Mercedes-Benz	*	*	*	*
+4	und	*	*	*	*
+5	unter	*	*	*	*
+6	der	*	*	*	*
+7	Schirmherrschaft	*	*	*	*
+8	des	*	*	*	*
+9	baden-württembergischen	*	*	*	*
+10	Ministerpräsidenten	*	*	*	*
+11	Teufel	*	*	*	*
+12	(	*	*	*	*
+13	CDU	*	*	*	*
+14	)	*	*	*	*
+15	zählt	*	*	*	*
+16	das	*	*	*	*
+17	Freiburger	*	*	*	*
+18	Zelt-Musik-Festival	*	*	*	*
+19	,	*	*	*	*
+20	das	*	*	*	*
+21	dieses	*	*	*	*
+22	Jahr	*	*	*	*
+23	zum	*	*	*	*
+24	neunten	*	*	*	*
+25	Mal	*	*	*	*
+26	am	*	*	*	*
+27	Stadtrand	*	*	*	*
+28	der	*	*	*	*
+29	Breisgau-Metropole	*	*	*	*
+30	über	2	2	2	2
+31	die	*	*	*	*
+32	Bühne	2	2	2	2
+33	ging	2	2	2	2
+34	,	*	*	*	*
+35	wohl	*	*	*	*
+36	zu	*	*	*	*
+37	den	*	*	*	*
+38	"	*	*	*	*
+39	erfolgreichsten	*	*	*	*
+40	"	*	*	*	*
+41	Großveranstaltungen	*	*	*	*
+42	der	*	*	*	*
+43	alternativen	*	*	*	*
+44	Art	*	*	*	*
+45	.	*	*	*	*
+46	"	*	*	*	*
+47	Die	*	*	*	*
+48	unvergleichliche	*	*	*	*
+49	Atmosphäre	*	*	*	*
+50	der	*	*	*	*
+51	kleinen	*	*	*	*
+52	Zeltstadt	*	*	*	*
+53	im	*	*	*	*
+54	Grünen	*	*	*	*
+55	"	*	*	*	*
+56	-	*	*	*	*
+57	so	*	*	*	*
+58	die	*	*	*	*
+59	Programmzeitschrift	*	*	*	*
+60	-	*	*	*	*
+61	wolle	*	*	*	*
+62	Kultur	*	*	*	*
+63	bieten	*	*	*	*
+64	,	*	*	*	*
+65	die	*	*	*	*
+66	"	*	*	*	*
+67	den	*	*	*	*
+68	vielseitigen	*	*	*	*
+69	Programmwünschen	*	*	*	*
+70	eines	*	*	*	*
+71	breiten	*	*	*	*
+72	Publikums	*	*	*	*
+73	gerecht	*	*	*	*
+74	"	*	*	*	*
+75	wird	*	*	*	*
+76	.	*	*	*	*
+
+# article_id = T911211.115
+# text = Doch was da unter dem Titel German Screenings auf einer Etage eines Kölner Nobelhotels über die Bühne ging , mutete doch eher an wie ein geselliges Beisammensein im kleinen Kreis .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	*	*	*	*
+2	was	*	*	*	*
+3	da	*	*	*	*
+4	unter	*	*	*	*
+5	dem	*	*	*	*
+6	Titel	*	*	*	*
+7	German	*	*	*	*
+8	Screenings	*	*	*	*
+9	auf	*	*	*	*
+10	einer	*	*	*	*
+11	Etage	*	*	*	*
+12	eines	*	*	*	*
+13	Kölner	*	*	*	*
+14	Nobelhotels	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	ging	2	2	2	2
+19	,	*	*	*	*
+20	mutete	*	*	*	*
+21	doch	*	*	*	*
+22	eher	*	*	*	*
+23	an	*	*	*	*
+24	wie	*	*	*	*
+25	ein	*	*	*	*
+26	geselliges	*	*	*	*
+27	Beisammensein	*	*	*	*
+28	im	*	*	*	*
+29	kleinen	*	*	*	*
+30	Kreis	*	*	*	*
+31	.	*	*	*	*
+
+# article_id = T911207.50
+# text = Was in früheren Jahren noch zu heftigen Protesten geführt hatte , geht nun geradezu routiniert über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Was	*	*	*	*
+2	in	*	*	*	*
+3	früheren	*	*	*	*
+4	Jahren	*	*	*	*
+5	noch	*	*	*	*
+6	zu	*	*	*	*
+7	heftigen	*	*	*	*
+8	Protesten	*	*	*	*
+9	geführt	*	*	*	*
+10	hatte	*	*	*	*
+11	,	*	*	*	*
+12	geht	2	2	2	2
+13	nun	*	*	*	*
+14	geradezu	*	*	*	*
+15	routiniert	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	.	*	*	*	*
+
+# article_id = T911205.172
+# text = Es gibt ja Fachbereiche , beispielsweise bei den Juristen , da ist der Selbsterneuerungsprozeß in geradezu beispielhafter Weise über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	*	*	*	*
+2	gibt	*	*	*	*
+3	ja	*	*	*	*
+4	Fachbereiche	*	*	*	*
+5	,	*	*	*	*
+6	beispielsweise	*	*	*	*
+7	bei	*	*	*	*
+8	den	*	*	*	*
+9	Juristen	*	*	*	*
+10	,	*	*	*	*
+11	da	*	*	*	*
+12	ist	*	*	*	*
+13	der	*	*	*	*
+14	Selbsterneuerungsprozeß	*	*	*	*
+15	in	*	*	*	*
+16	geradezu	*	*	*	*
+17	beispielhafter	*	*	*	*
+18	Weise	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	gegangen	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T910316.41
+# text = Doch ganz so glatt wie von der Parteispitze prognostiziert wird der Parteitag morgen doch nicht über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	*	*	*	*
+2	ganz	*	*	*	*
+3	so	*	*	*	*
+4	glatt	*	*	*	*
+5	wie	*	*	*	*
+6	von	*	*	*	*
+7	der	*	*	*	*
+8	Parteispitze	*	*	*	*
+9	prognostiziert	*	*	*	*
+10	wird	*	*	*	*
+11	der	*	*	*	*
+12	Parteitag	*	*	*	*
+13	morgen	*	*	*	*
+14	doch	*	*	*	*
+15	nicht	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	.	*	*	*	*
+
+# article_id = T911128.97
+# text = Rachearie heißt das neueste Stück des Schweden Lars Noren , dessen deutsche Erstaufführung in Darmstadt über die Bühne ging - und auf der ist wider aller Erwartung auch keine jener weitläufigen und teuer anmutenden Innendekorationen zu sehen , die Bühnenbildner für zeitgenössische Stücke aus dem Milieu des gehobenen Mittelstandes derzeit für gewöhnlich bauen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rachearie	*	*	*	*
+2	heißt	*	*	*	*
+3	das	*	*	*	*
+4	neueste	*	*	*	*
+5	Stück	*	*	*	*
+6	des	*	*	*	*
+7	Schweden	*	*	*	*
+8	Lars	*	*	*	*
+9	Noren	*	*	*	*
+10	,	*	*	*	*
+11	dessen	*	*	*	*
+12	deutsche	*	*	*	*
+13	Erstaufführung	*	*	*	*
+14	in	*	*	*	*
+15	Darmstadt	*	*	*	*
+16	über	2	2	1	2
+17	die	*	*	*	*
+18	Bühne	2	2	1	2
+19	ging	2	2	1	2
+20	-	*	*	*	*
+21	und	*	*	*	*
+22	auf	*	*	*	*
+23	der	*	*	*	*
+24	ist	*	*	*	*
+25	wider	*	*	*	*
+26	aller	*	*	*	*
+27	Erwartung	*	*	*	*
+28	auch	*	*	*	*
+29	keine	*	*	*	*
+30	jener	*	*	*	*
+31	weitläufigen	*	*	*	*
+32	und	*	*	*	*
+33	teuer	*	*	*	*
+34	anmutenden	*	*	*	*
+35	Innendekorationen	*	*	*	*
+36	zu	*	*	*	*
+37	sehen	*	*	*	*
+38	,	*	*	*	*
+39	die	*	*	*	*
+40	Bühnenbildner	*	*	*	*
+41	für	*	*	*	*
+42	zeitgenössische	*	*	*	*
+43	Stücke	*	*	*	*
+44	aus	*	*	*	*
+45	dem	*	*	*	*
+46	Milieu	*	*	*	*
+47	des	*	*	*	*
+48	gehobenen	*	*	*	*
+49	Mittelstandes	*	*	*	*
+50	derzeit	*	*	*	*
+51	für	*	*	*	*
+52	gewöhnlich	*	*	*	*
+53	bauen	*	*	*	*
+54	.	*	*	*	*
+
+# article_id = T911129.18
+# text = Der ganze Prozeß könnte - die Zustimmung Serbiens und Kroatiens zu der " Pufferzonen-Lösung " vorausgesetzt - binnen einer Woche über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	ganze	*	*	*	*
+3	Prozeß	*	*	*	*
+4	könnte	*	*	*	*
+5	-	*	*	*	*
+6	die	*	*	*	*
+7	Zustimmung	*	*	*	*
+8	Serbiens	*	*	*	*
+9	und	*	*	*	*
+10	Kroatiens	*	*	*	*
+11	zu	*	*	*	*
+12	der	*	*	*	*
+13	"	*	*	*	*
+14	Pufferzonen-Lösung	*	*	*	*
+15	"	*	*	*	*
+16	vorausgesetzt	*	*	*	*
+17	-	*	*	*	*
+18	binnen	*	*	*	*
+19	einer	*	*	*	*
+20	Woche	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	gehen	2	2	2	2
+25	.	*	*	*	*
+
+# article_id = T911107.44
+# text = Später am Nachmittag soll hier eine Kundgebung mit mehreren " Dosen-Reden " über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Später	*	*	*	*
+2	am	*	*	*	*
+3	Nachmittag	*	*	*	*
+4	soll	*	*	*	*
+5	hier	*	*	*	*
+6	eine	*	*	*	*
+7	Kundgebung	*	*	*	*
+8	mit	*	*	*	*
+9	mehreren	*	*	*	*
+10	"	*	*	*	*
+11	Dosen-Reden	*	*	*	*
+12	"	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	Bühne	2	2	2	2
+16	gehen	2	2	2	2
+17	.	*	*	*	*
+
+# article_id = T910218.176
+# text = Was die Schließung des Hauses für die Stadt Halle bedeutet , ist noch nicht abzusehen : Im Jahr nach der Wende gingen im ersten Haus am Platze in Halle mehr als 2.500 Veranstaltungen über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Was	*	*	*	*
+2	die	*	*	*	*
+3	Schließung	*	*	*	*
+4	des	*	*	*	*
+5	Hauses	*	*	*	*
+6	für	*	*	*	*
+7	die	*	*	*	*
+8	Stadt	*	*	*	*
+9	Halle	*	*	*	*
+10	bedeutet	*	*	*	*
+11	,	*	*	*	*
+12	ist	*	*	*	*
+13	noch	*	*	*	*
+14	nicht	*	*	*	*
+15	abzusehen	*	*	*	*
+16	:	*	*	*	*
+17	Im	*	*	*	*
+18	Jahr	*	*	*	*
+19	nach	*	*	*	*
+20	der	*	*	*	*
+21	Wende	*	*	*	*
+22	gingen	2	2	2	2
+23	im	*	*	*	*
+24	ersten	*	*	*	*
+25	Haus	*	*	*	*
+26	am	*	*	*	*
+27	Platze	*	*	*	*
+28	in	*	*	*	*
+29	Halle	*	*	*	*
+30	mehr	*	*	*	*
+31	als	*	*	*	*
+32	2.500	*	*	*	*
+33	Veranstaltungen	*	*	*	*
+34	über	2	2	2	2
+35	die	*	*	*	*
+36	Bühne	2	2	2	2
+37	.	*	*	*	*
+
+# article_id = T910214.84
+# text = Der Atomenergielobby fiel ein Stein vom Herzen , da die Genehmigung neuer Kraftwerke künftig schneller über die Bühne gehen soll .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Atomenergielobby	*	*	*	*
+3	fiel	*	*	*	*
+4	ein	*	*	*	*
+5	Stein	*	*	*	*
+6	vom	*	*	*	*
+7	Herzen	*	*	*	*
+8	,	*	*	*	*
+9	da	*	*	*	*
+10	die	*	*	*	*
+11	Genehmigung	*	*	*	*
+12	neuer	*	*	*	*
+13	Kraftwerke	*	*	*	*
+14	künftig	*	*	*	*
+15	schneller	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	soll	*	*	*	*
+21	.	*	*	*	*
+
+# article_id = T900519.339
+# text = Warum so schreiben gegen einen Mann , gegen seine Kunst , gegen sein Auftreten , gegen all die Menschen , die mit ihm dieses " Was ihr wollt " am Bremer Thater geschaffen haben , so wie es jetzt über die Bühne geht ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Warum	*	*	*	*
+2	so	*	*	*	*
+3	schreiben	*	*	*	*
+4	gegen	*	*	*	*
+5	einen	*	*	*	*
+6	Mann	*	*	*	*
+7	,	*	*	*	*
+8	gegen	*	*	*	*
+9	seine	*	*	*	*
+10	Kunst	*	*	*	*
+11	,	*	*	*	*
+12	gegen	*	*	*	*
+13	sein	*	*	*	*
+14	Auftreten	*	*	*	*
+15	,	*	*	*	*
+16	gegen	*	*	*	*
+17	all	*	*	*	*
+18	die	*	*	*	*
+19	Menschen	*	*	*	*
+20	,	*	*	*	*
+21	die	*	*	*	*
+22	mit	*	*	*	*
+23	ihm	*	*	*	*
+24	dieses	*	*	*	*
+25	"	*	*	*	*
+26	Was	*	*	*	*
+27	ihr	*	*	*	*
+28	wollt	*	*	*	*
+29	"	*	*	*	*
+30	am	*	*	*	*
+31	Bremer	*	*	*	*
+32	Thater	*	*	*	*
+33	geschaffen	*	*	*	*
+34	haben	*	*	*	*
+35	,	*	*	*	*
+36	so	*	*	*	*
+37	wie	*	*	*	*
+38	es	*	*	*	*
+39	jetzt	*	*	*	*
+40	über	2	2	2	2
+41	die	*	*	*	*
+42	Bühne	2	2	2	2
+43	geht	2	2	2	2
+44	?	*	*	*	*
+
+# article_id = T900522.203
+# text = So glatt und wenig demokratisch , wie dieser Deal über die Bühne ging , wird auch die nötige Grundgesetzänderung vonstatten gehen - wenn " der wahre Souverän , das Volk " nicht endlich beginnt , mitzureden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	*	*	*	*
+2	glatt	*	*	*	*
+3	und	*	*	*	*
+4	wenig	*	*	*	*
+5	demokratisch	*	*	*	*
+6	,	*	*	*	*
+7	wie	*	*	*	*
+8	dieser	*	*	*	*
+9	Deal	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	ging	2	2	2	2
+14	,	*	*	*	*
+15	wird	*	*	*	*
+16	auch	*	*	*	*
+17	die	*	*	*	*
+18	nötige	*	*	*	*
+19	Grundgesetzänderung	*	*	*	*
+20	vonstatten	*	*	*	*
+21	gehen	*	*	*	*
+22	-	*	*	*	*
+23	wenn	*	*	*	*
+24	"	*	*	*	*
+25	der	*	*	*	*
+26	wahre	*	*	*	*
+27	Souverän	*	*	*	*
+28	,	*	*	*	*
+29	das	*	*	*	*
+30	Volk	*	*	*	*
+31	"	*	*	*	*
+32	nicht	*	*	*	*
+33	endlich	*	*	*	*
+34	beginnt	*	*	*	*
+35	,	*	*	*	*
+36	mitzureden	*	*	*	*
+37	.	*	*	*	*
+
+# article_id = T900512.261
+# text = Wirklich Gutes geht am 6.7. über die Bühne des Sommergartens .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wirklich	*	*	*	*
+2	Gutes	*	*	*	*
+3	geht	2	2	2	2
+4	am	*	*	*	*
+5	6.7	*	*	*	*
+6	.	*	*	*	*
+7	über	2	2	2	2
+8	die	*	*	*	*
+9	Bühne	2	2	2	2
+10	des	*	*	*	*
+11	Sommergartens	*	*	*	*
+12	.	*	*	*	*
+
+# article_id = T900511.298
+# text = Dies alles soll mit Ost- und Westberliner Planern bzw. Beamten über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dies	*	*	*	*
+2	alles	*	*	*	*
+3	soll	*	*	*	*
+4	mit	*	*	*	*
+5	Ost-	*	*	*	*
+6	und	*	*	*	*
+7	Westberliner	*	*	*	*
+8	Planern	*	*	*	*
+9	bzw.	*	*	*	*
+10	Beamten	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	gehen	2	2	2	2
+15	.	*	*	*	*
+
+# article_id = T900503.130
+# text = Dabei schien es in den ersten beiden Dritteln so , als würde die Sache recht problemlos über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dabei	*	*	*	*
+2	schien	*	*	*	*
+3	es	*	*	*	*
+4	in	*	*	*	*
+5	den	*	*	*	*
+6	ersten	*	*	*	*
+7	beiden	*	*	*	*
+8	Dritteln	*	*	*	*
+9	so	*	*	*	*
+10	,	*	*	*	*
+11	als	*	*	*	*
+12	würde	*	*	*	*
+13	die	*	*	*	*
+14	Sache	*	*	*	*
+15	recht	*	*	*	*
+16	problemlos	*	*	*	*
+17	über	2	2	2	2
+18	die	*	*	*	*
+19	Bühne	2	2	2	2
+20	gehen	2	2	2	2
+21	.	*	*	*	*
+
+# article_id = T900529.196
+# text = In Leipzig ging am Wochenende das erste Aids-Benefiz über die Bühne / Rosa von Praunheims Aids-Trilogie vor den Augen der " negativen " Besucherschar
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	Leipzig	*	*	*	*
+3	ging	2	2	2	2
+4	am	*	*	*	*
+5	Wochenende	*	*	*	*
+6	das	*	*	*	*
+7	erste	*	*	*	*
+8	Aids-Benefiz	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	/	*	*	*	*
+13	Rosa	*	*	*	*
+14	von	*	*	*	*
+15	Praunheims	*	*	*	*
+16	Aids-Trilogie	*	*	*	*
+17	vor	*	*	*	*
+18	den	*	*	*	*
+19	Augen	*	*	*	*
+20	der	*	*	*	*
+21	"	*	*	*	*
+22	negativen	*	*	*	*
+23	"	*	*	*	*
+24	Besucherschar	*	*	*	*
+
+# article_id = T900529.246
+# text = Als sehr sozial im Sinne von Eigennutz gebärden sich die Veranstalter des Rock-Spektakels " The Wall " , das am 21. Juli auf dem " Führer-Bunker " über die Bühne gehen soll .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	*	*	*	*
+2	sehr	*	*	*	*
+3	sozial	*	*	*	*
+4	im	*	*	*	*
+5	Sinne	*	*	*	*
+6	von	*	*	*	*
+7	Eigennutz	*	*	*	*
+8	gebärden	*	*	*	*
+9	sich	*	*	*	*
+10	die	*	*	*	*
+11	Veranstalter	*	*	*	*
+12	des	*	*	*	*
+13	Rock-Spektakels	*	*	*	*
+14	"	*	*	*	*
+15	The	*	*	*	*
+16	Wall	*	*	*	*
+17	"	*	*	*	*
+18	,	*	*	*	*
+19	das	*	*	*	*
+20	am	*	*	*	*
+21	21	*	*	*	*
+22	.	*	*	*	*
+23	Juli	*	*	*	*
+24	auf	*	*	*	*
+25	dem	*	*	*	*
+26	"	*	*	*	*
+27	Führer-Bunker	*	*	*	*
+28	"	*	*	*	*
+29	über	2	2	2	2
+30	die	*	*	*	*
+31	Bühne	2	2	2	2
+32	gehen	2	2	2	2
+33	soll	*	*	*	*
+34	.	*	*	*	*
+
+# article_id = T900529.255
+# text = Auch die Wahl der fünf Beisitzer , die ebenfalls zum Präsidium der Stadtverordnetenversammlung gehören , ging en bloc glatt über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	*	*	*	*
+2	die	*	*	*	*
+3	Wahl	*	*	*	*
+4	der	*	*	*	*
+5	fünf	*	*	*	*
+6	Beisitzer	*	*	*	*
+7	,	*	*	*	*
+8	die	*	*	*	*
+9	ebenfalls	*	*	*	*
+10	zum	*	*	*	*
+11	Präsidium	*	*	*	*
+12	der	*	*	*	*
+13	Stadtverordnetenversammlung	*	*	*	*
+14	gehören	*	*	*	*
+15	,	*	*	*	*
+16	ging	2	2	2	2
+17	en	*	*	*	*
+18	bloc	*	*	*	*
+19	glatt	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T900523.379
+# text = In der Bundesrepublik soll er dagegen nach dem Motto " Giftgasmunition als Wahlkampfmunition " im Eiltempo noch vor der Bundestagswahl über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	der	*	*	*	*
+3	Bundesrepublik	*	*	*	*
+4	soll	*	*	*	*
+5	er	*	*	*	*
+6	dagegen	*	*	*	*
+7	nach	*	*	*	*
+8	dem	*	*	*	*
+9	Motto	*	*	*	*
+10	"	*	*	*	*
+11	Giftgasmunition	*	*	*	*
+12	als	*	*	*	*
+13	Wahlkampfmunition	*	*	*	*
+14	"	*	*	*	*
+15	im	*	*	*	*
+16	Eiltempo	*	*	*	*
+17	noch	*	*	*	*
+18	vor	*	*	*	*
+19	der	*	*	*	*
+20	Bundestagswahl	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	gehen	2	2	2	2
+25	.	*	*	*	*
+
+# article_id = T900531.2
+# text = Die Wahl des Magistrats ging gestern ohne Probleme über die Bühne : Alle KandidatInnen - fünf aus der CDU , neun aus der SPD - kamen im ersten Wahlgang durch .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Wahl	*	*	*	*
+3	des	*	*	*	*
+4	Magistrats	*	*	*	*
+5	ging	2	2	2	2
+6	gestern	*	*	*	*
+7	ohne	*	*	*	*
+8	Probleme	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	:	*	*	*	*
+13	Alle	*	*	*	*
+14	KandidatInnen	*	*	*	*
+15	-	*	*	*	*
+16	fünf	*	*	*	*
+17	aus	*	*	*	*
+18	der	*	*	*	*
+19	CDU	*	*	*	*
+20	,	*	*	*	*
+21	neun	*	*	*	*
+22	aus	*	*	*	*
+23	der	*	*	*	*
+24	SPD	*	*	*	*
+25	-	*	*	*	*
+26	kamen	*	*	*	*
+27	im	*	*	*	*
+28	ersten	*	*	*	*
+29	Wahlgang	*	*	*	*
+30	durch	*	*	*	*
+31	.	*	*	*	*
+
+# article_id = T900531.96
+# text = Berlin ( taz ) - Nach sechs Jahren Vorbereitung und zum Teil heftigen Auseinandersetzungen soll heute im Bundestag nun ein Gesetzespaket über die parlamentarische Bühne gehen , mit dem die Arbeit der bundesdeutschen Geheimdienste neu definiert wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berlin	*	*	*	*
+2	(	*	*	*	*
+3	taz	*	*	*	*
+4	)	*	*	*	*
+5	-	*	*	*	*
+6	Nach	*	*	*	*
+7	sechs	*	*	*	*
+8	Jahren	*	*	*	*
+9	Vorbereitung	*	*	*	*
+10	und	*	*	*	*
+11	zum	*	*	*	*
+12	Teil	*	*	*	*
+13	heftigen	*	*	*	*
+14	Auseinandersetzungen	*	*	*	*
+15	soll	*	*	*	*
+16	heute	*	*	*	*
+17	im	*	*	*	*
+18	Bundestag	*	*	*	*
+19	nun	*	*	*	*
+20	ein	*	*	*	*
+21	Gesetzespaket	*	*	*	*
+22	über	2	2	2	2
+23	die	*	*	*	*
+24	parlamentarische	*	*	*	*
+25	Bühne	2	2	2	2
+26	gehen	2	2	2	2
+27	,	*	*	*	*
+28	mit	*	*	*	*
+29	dem	*	*	*	*
+30	die	*	*	*	*
+31	Arbeit	*	*	*	*
+32	der	*	*	*	*
+33	bundesdeutschen	*	*	*	*
+34	Geheimdienste	*	*	*	*
+35	neu	*	*	*	*
+36	definiert	*	*	*	*
+37	wird	*	*	*	*
+38	.	*	*	*	*
+
+# article_id = T900531.223
+# text = Vizepräsident Stoll sprach von einer " Titanenarbeit " und bat um Verständnis und Bereitschaft aller , damit dieses Mammutprojekt möglichst reibungslos über die Bühne geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vizepräsident	*	*	*	*
+2	Stoll	*	*	*	*
+3	sprach	*	*	*	*
+4	von	*	*	*	*
+5	einer	*	*	*	*
+6	"	*	*	*	*
+7	Titanenarbeit	*	*	*	*
+8	"	*	*	*	*
+9	und	*	*	*	*
+10	bat	*	*	*	*
+11	um	*	*	*	*
+12	Verständnis	*	*	*	*
+13	und	*	*	*	*
+14	Bereitschaft	*	*	*	*
+15	aller	*	*	*	*
+16	,	*	*	*	*
+17	damit	*	*	*	*
+18	dieses	*	*	*	*
+19	Mammutprojekt	*	*	*	*
+20	möglichst	*	*	*	*
+21	reibungslos	*	*	*	*
+22	über	2	2	2	2
+23	die	*	*	*	*
+24	Bühne	2	2	2	2
+25	geht	2	2	2	2
+26	.	*	*	*	*
+
+# article_id = T900505.53
+# text = Im VMI-Lager ging die Göppinger Kompromißlinie nicht so glatt über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	*	*	*	*
+2	VMI-Lager	*	*	*	*
+3	ging	2	2	2	2
+4	die	*	*	*	*
+5	Göppinger	*	*	*	*
+6	Kompromißlinie	*	*	*	*
+7	nicht	*	*	*	*
+8	so	*	*	*	*
+9	glatt	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	.	*	*	*	*
+
+# article_id = T900526.56
+# text = In Berlin versammelten sich rund 150 Leute vor dem ICC , wo die Hauptaktionärsversammlung der Dresdner Bank über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	Berlin	*	*	*	*
+3	versammelten	*	*	*	*
+4	sich	*	*	*	*
+5	rund	*	*	*	*
+6	150	*	*	*	*
+7	Leute	*	*	*	*
+8	vor	*	*	*	*
+9	dem	*	*	*	*
+10	ICC	*	*	*	*
+11	,	*	*	*	*
+12	wo	*	*	*	*
+13	die	*	*	*	*
+14	Hauptaktionärsversammlung	*	*	*	*
+15	der	*	*	*	*
+16	Dresdner	*	*	*	*
+17	Bank	*	*	*	*
+18	über	2	2	2	2
+19	die	*	*	*	*
+20	Bühne	2	2	2	2
+21	ging	2	2	2	2
+22	.	*	*	*	*
+
+# article_id = T900528.110
+# text = " Det ist ja allet schön und jut , dat der Ullmann die DDR vor einem internationalen Jericht verklagen will , aber bis det über die Bühne geht , sitze ich mit meiner Frau und den drei Kindern vielleicht schon uff der Straße " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	*	*	*	*
+2	Det	*	*	*	*
+3	ist	*	*	*	*
+4	ja	*	*	*	*
+5	allet	*	*	*	*
+6	schön	*	*	*	*
+7	und	*	*	*	*
+8	jut	*	*	*	*
+9	,	*	*	*	*
+10	dat	*	*	*	*
+11	der	*	*	*	*
+12	Ullmann	*	*	*	*
+13	die	*	*	*	*
+14	DDR	*	*	*	*
+15	vor	*	*	*	*
+16	einem	*	*	*	*
+17	internationalen	*	*	*	*
+18	Jericht	*	*	*	*
+19	verklagen	*	*	*	*
+20	will	*	*	*	*
+21	,	*	*	*	*
+22	aber	*	*	*	*
+23	bis	*	*	*	*
+24	det	*	*	*	*
+25	über	2	2	2	2
+26	die	*	*	*	*
+27	Bühne	2	2	2	2
+28	geht	2	2	2	2
+29	,	*	*	*	*
+30	sitze	*	*	*	*
+31	ich	*	*	*	*
+32	mit	*	*	*	*
+33	meiner	*	*	*	*
+34	Frau	*	*	*	*
+35	und	*	*	*	*
+36	den	*	*	*	*
+37	drei	*	*	*	*
+38	Kindern	*	*	*	*
+39	vielleicht	*	*	*	*
+40	schon	*	*	*	*
+41	uff	*	*	*	*
+42	der	*	*	*	*
+43	Straße	*	*	*	*
+44	"	*	*	*	*
+45	.	*	*	*	*
+
+# article_id = T900516.147
+# text = Die Kanadier waren zweifellos Publikumsliebling Nr. 1 eines Theaterfestvals , das nun schon zum zweiten Mal seit 1988 in der Osterwoche in Bogota über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Kanadier	*	*	*	*
+3	waren	*	*	*	*
+4	zweifellos	*	*	*	*
+5	Publikumsliebling	*	*	*	*
+6	Nr.	*	*	*	*
+7	1	*	*	*	*
+8	eines	*	*	*	*
+9	Theaterfestvals	*	*	*	*
+10	,	*	*	*	*
+11	das	*	*	*	*
+12	nun	*	*	*	*
+13	schon	*	*	*	*
+14	zum	*	*	*	*
+15	zweiten	*	*	*	*
+16	Mal	*	*	*	*
+17	seit	*	*	*	*
+18	1988	*	*	*	*
+19	in	*	*	*	*
+20	der	*	*	*	*
+21	Osterwoche	*	*	*	*
+22	in	*	*	*	*
+23	Bogota	*	*	*	*
+24	über	2	2	2	2
+25	die	*	*	*	*
+26	Bühne	2	2	2	2
+27	ging	2	2	2	2
+28	.	*	*	*	*
+
+# article_id = T900609.170
+# text = Die Wahl des agilen Hannoveraners Lehmann-Grube , der des zähen Beamtenrechts wegen für die Leipziger Oberbürgermeisterei nur beurlaubt ist , und seines Stellvertreters Ahnert ( CDU ) ging ohne Tücken über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Wahl	*	*	*	*
+3	des	*	*	*	*
+4	agilen	*	*	*	*
+5	Hannoveraners	*	*	*	*
+6	Lehmann-Grube	*	*	*	*
+7	,	*	*	*	*
+8	der	*	*	*	*
+9	des	*	*	*	*
+10	zähen	*	*	*	*
+11	Beamtenrechts	*	*	*	*
+12	wegen	*	*	*	*
+13	für	*	*	*	*
+14	die	*	*	*	*
+15	Leipziger	*	*	*	*
+16	Oberbürgermeisterei	*	*	*	*
+17	nur	*	*	*	*
+18	beurlaubt	*	*	*	*
+19	ist	*	*	*	*
+20	,	*	*	*	*
+21	und	*	*	*	*
+22	seines	*	*	*	*
+23	Stellvertreters	*	*	*	*
+24	Ahnert	*	*	*	*
+25	(	*	*	*	*
+26	CDU	*	*	*	*
+27	)	*	*	*	*
+28	ging	2	2	2	2
+29	ohne	*	*	*	*
+30	Tücken	*	*	*	*
+31	über	2	2	2	2
+32	die	*	*	*	*
+33	Bühne	2	2	2	2
+34	.	*	*	*	*
+
+# article_id = T900618.63
+# text = " Weg mit dem 218 Frauen entscheiden selbst " , in der Bundeshauptstadt ging am Samstag die seit Jahren größte Demonstration für die Abschaffung des Abtreibungsparagraphen über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	*	*	*	*
+2	Weg	*	*	*	*
+3	mit	*	*	*	*
+4	dem	*	*	*	*
+5	218	*	*	*	*
+6	Frauen	*	*	*	*
+7	entscheiden	*	*	*	*
+8	selbst	*	*	*	*
+9	"	*	*	*	*
+10	,	*	*	*	*
+11	in	*	*	*	*
+12	der	*	*	*	*
+13	Bundeshauptstadt	*	*	*	*
+14	ging	2	2	2	2
+15	am	*	*	*	*
+16	Samstag	*	*	*	*
+17	die	*	*	*	*
+18	seit	*	*	*	*
+19	Jahren	*	*	*	*
+20	größte	*	*	*	*
+21	Demonstration	*	*	*	*
+22	für	*	*	*	*
+23	die	*	*	*	*
+24	Abschaffung	*	*	*	*
+25	des	*	*	*	*
+26	Abtreibungsparagraphen	*	*	*	*
+27	über	2	2	2	2
+28	die	*	*	*	*
+29	Bühne	2	2	2	2
+30	.	*	*	*	*
+
+# article_id = T900605.33
+# text = Die rot-grünen Verhandlungen in Niedersachsen sind bisher überraschend konfliktarm über die Bühne gegangen , und auch von außen sind es fast ausschließlich die Bürgerinitiativen aus dem AKW- und Müllbereich , die explizit Ansprüche anmelden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	rot-grünen	*	*	*	*
+3	Verhandlungen	*	*	*	*
+4	in	*	*	*	*
+5	Niedersachsen	*	*	*	*
+6	sind	*	*	*	*
+7	bisher	*	*	*	*
+8	überraschend	*	*	*	*
+9	konfliktarm	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	gegangen	2	2	2	2
+14	,	*	*	*	*
+15	und	*	*	*	*
+16	auch	*	*	*	*
+17	von	*	*	*	*
+18	außen	*	*	*	*
+19	sind	*	*	*	*
+20	es	*	*	*	*
+21	fast	*	*	*	*
+22	ausschließlich	*	*	*	*
+23	die	*	*	*	*
+24	Bürgerinitiativen	*	*	*	*
+25	aus	*	*	*	*
+26	dem	*	*	*	*
+27	AKW-	*	*	*	*
+28	und	*	*	*	*
+29	Müllbereich	*	*	*	*
+30	,	*	*	*	*
+31	die	*	*	*	*
+32	explizit	*	*	*	*
+33	Ansprüche	*	*	*	*
+34	anmelden	*	*	*	*
+35	.	*	*	*	*
+
+# article_id = T900605.264
+# text = Die Premiere geht dennoch über die Bühne .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Die	*	*	*	*
+2	Premiere	*	*	*	*
+3	geht	2	2	2	2
+4	dennoch	*	*	*	*
+5	über	2	2	2	2
+6	die	*	*	*	*
+7	Bühne	2	2	2	2
+8	.	*	*	*	*
+
+# article_id = T900626.210
+# text = Der Richter beglückwünschte die Parteien , daß es " so relativ problemlos über die Bühne gegangen ist " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Richter	*	*	*	*
+3	beglückwünschte	*	*	*	*
+4	die	*	*	*	*
+5	Parteien	*	*	*	*
+6	,	*	*	*	*
+7	daß	*	*	*	*
+8	es	*	*	*	*
+9	"	*	*	*	*
+10	so	*	*	*	*
+11	relativ	*	*	*	*
+12	problemlos	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	Bühne	2	2	2	2
+16	gegangen	2	2	2	2
+17	ist	*	*	*	*
+18	"	*	*	*	*
+19	.	*	*	*	*
+
+# article_id = T900627.44
+# text = Der Poddle fließt nämlich genau unter dem Dubliner Schloß , wo in den vergangenen zwei Tagen die Gipfelkonferenz der Europäischen Gemeinschaft über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Poddle	*	*	*	*
+3	fließt	*	*	*	*
+4	nämlich	*	*	*	*
+5	genau	*	*	*	*
+6	unter	*	*	*	*
+7	dem	*	*	*	*
+8	Dubliner	*	*	*	*
+9	Schloß	*	*	*	*
+10	,	*	*	*	*
+11	wo	*	*	*	*
+12	in	*	*	*	*
+13	den	*	*	*	*
+14	vergangenen	*	*	*	*
+15	zwei	*	*	*	*
+16	Tagen	*	*	*	*
+17	die	*	*	*	*
+18	Gipfelkonferenz	*	*	*	*
+19	der	*	*	*	*
+20	Europäischen	*	*	*	*
+21	Gemeinschaft	*	*	*	*
+22	über	2	2	2	2
+23	die	*	*	*	*
+24	Bühne	2	2	2	2
+25	ging	2	2	2	2
+26	.	*	*	*	*
+
+# article_id = T900627.86
+# text = Der im Volksmund bereits als " Aktion Lindwurm " bezeichnete Überlandtransport mit etwa 30 Fahrzeugkonvois von Clausen zum Zwischenlager im pfälzischen Miesau solle wie vorgesehen zwischen Juli und September über die Bühne gehen , hieß es aus amerikanischen Militärkreisen weiter .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	im	*	*	*	*
+3	Volksmund	*	*	*	*
+4	bereits	*	*	*	*
+5	als	*	*	*	*
+6	"	*	*	*	*
+7	Aktion	*	*	*	*
+8	Lindwurm	*	*	*	*
+9	"	*	*	*	*
+10	bezeichnete	*	*	*	*
+11	Überlandtransport	*	*	*	*
+12	mit	*	*	*	*
+13	etwa	*	*	*	*
+14	30	*	*	*	*
+15	Fahrzeugkonvois	*	*	*	*
+16	von	*	*	*	*
+17	Clausen	*	*	*	*
+18	zum	*	*	*	*
+19	Zwischenlager	*	*	*	*
+20	im	*	*	*	*
+21	pfälzischen	*	*	*	*
+22	Miesau	*	*	*	*
+23	solle	*	*	*	*
+24	wie	*	*	*	*
+25	vorgesehen	*	*	*	*
+26	zwischen	*	*	*	*
+27	Juli	*	*	*	*
+28	und	*	*	*	*
+29	September	*	*	*	*
+30	über	2	2	2	2
+31	die	*	*	*	*
+32	Bühne	2	2	2	2
+33	gehen	2	2	2	2
+34	,	*	*	*	*
+35	hieß	*	*	*	*
+36	es	*	*	*	*
+37	aus	*	*	*	*
+38	amerikanischen	*	*	*	*
+39	Militärkreisen	*	*	*	*
+40	weiter	*	*	*	*
+41	.	*	*	*	*
+
+# article_id = T900614.111
+# text = Parallel zur großen bundesweiten Demonstration in Bonn zur Abschaffung des § 218 wird am Samstag , den 16. Juni , eine zentrale Kundgebung auf dem Platz der Akademie in Ost-Berlin über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Parallel	*	*	*	*
+2	zur	*	*	*	*
+3	großen	*	*	*	*
+4	bundesweiten	*	*	*	*
+5	Demonstration	*	*	*	*
+6	in	*	*	*	*
+7	Bonn	*	*	*	*
+8	zur	*	*	*	*
+9	Abschaffung	*	*	*	*
+10	des	*	*	*	*
+11	§	*	*	*	*
+12	218	*	*	*	*
+13	wird	*	*	*	*
+14	am	*	*	*	*
+15	Samstag	*	*	*	*
+16	,	*	*	*	*
+17	den	*	*	*	*
+18	16	*	*	*	*
+19	.	*	*	*	*
+20	Juni	*	*	*	*
+21	,	*	*	*	*
+22	eine	*	*	*	*
+23	zentrale	*	*	*	*
+24	Kundgebung	*	*	*	*
+25	auf	*	*	*	*
+26	dem	*	*	*	*
+27	Platz	*	*	*	*
+28	der	*	*	*	*
+29	Akademie	*	*	*	*
+30	in	*	*	*	*
+31	Ost-Berlin	*	*	*	*
+32	über	2	2	2	2
+33	die	*	*	*	*
+34	Bühne	2	2	2	2
+35	gehen	2	2	2	2
+36	.	*	*	*	*
+
+# article_id = T900614.286
+# text = Karin : Heute steht in der Zeitung , daß ein Nachtragshaushalt über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Karin	*	*	*	*
+2	:	*	*	*	*
+3	Heute	*	*	*	*
+4	steht	*	*	*	*
+5	in	*	*	*	*
+6	der	*	*	*	*
+7	Zeitung	*	*	*	*
+8	,	*	*	*	*
+9	daß	*	*	*	*
+10	ein	*	*	*	*
+11	Nachtragshaushalt	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	ging	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T900629.373
+# text = Zeitgleich mit dem Viertelfinale lassen sie an diesem Wochenende ihr Roskilde-Festival über die Bühnen gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zeitgleich	*	*	*	*
+2	mit	*	*	*	*
+3	dem	*	*	*	*
+4	Viertelfinale	*	*	*	*
+5	lassen	*	*	*	*
+6	sie	*	*	*	*
+7	an	*	*	*	*
+8	diesem	*	*	*	*
+9	Wochenende	*	*	*	*
+10	ihr	*	*	*	*
+11	Roskilde-Festival	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühnen	2	2	2	2
+15	gehen	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T900607.47
+# text = Wie von der NRW-Verfassung vorgesehen , ging der Wahlakt ohne jede Debatte über die parlamentarische Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	*	*	*	*
+2	von	*	*	*	*
+3	der	*	*	*	*
+4	NRW-Verfassung	*	*	*	*
+5	vorgesehen	*	*	*	*
+6	,	*	*	*	*
+7	ging	2	2	2	2
+8	der	*	*	*	*
+9	Wahlakt	*	*	*	*
+10	ohne	*	*	*	*
+11	jede	*	*	*	*
+12	Debatte	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	parlamentarische	*	*	*	*
+16	Bühne	2	2	2	2
+17	.	*	*	*	*
+
+# article_id = T900613.77
+# text = Am Samstag , den 16. Juni , um 11Uhr startet die Demonstration von der Bonner Nordbrücke ; um 14Uhr wird am Münsterplatz eine Kundgebung mit " Kulturveranstaltung " über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	*	*	*	*
+2	Samstag	*	*	*	*
+3	,	*	*	*	*
+4	den	*	*	*	*
+5	16	*	*	*	*
+6	.	*	*	*	*
+7	Juni	*	*	*	*
+8	,	*	*	*	*
+9	um	*	*	*	*
+10	11Uhr	*	*	*	*
+11	startet	*	*	*	*
+12	die	*	*	*	*
+13	Demonstration	*	*	*	*
+14	von	*	*	*	*
+15	der	*	*	*	*
+16	Bonner	*	*	*	*
+17	Nordbrücke	*	*	*	*
+18	;	*	*	*	*
+19	um	*	*	*	*
+20	14Uhr	*	*	*	*
+21	wird	*	*	*	*
+22	am	*	*	*	*
+23	Münsterplatz	*	*	*	*
+24	eine	*	*	*	*
+25	Kundgebung	*	*	*	*
+26	mit	*	*	*	*
+27	"	*	*	*	*
+28	Kulturveranstaltung	*	*	*	*
+29	"	*	*	*	*
+30	über	2	2	2	2
+31	die	*	*	*	*
+32	Bühne	2	2	2	2
+33	gehen	2	2	2	2
+34	.	*	*	*	*
+
+# article_id = T900611.26
+# text = Aber dann ging der Gründungsakt der " ÖTV in der DDR " im Eiltempo über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	*	*	*	*
+2	dann	*	*	*	*
+3	ging	2	2	2	2
+4	der	*	*	*	*
+5	Gründungsakt	*	*	*	*
+6	der	*	*	*	*
+7	"	*	*	*	*
+8	ÖTV	*	*	*	*
+9	in	*	*	*	*
+10	der	*	*	*	*
+11	DDR	*	*	*	*
+12	"	*	*	*	*
+13	im	*	*	*	*
+14	Eiltempo	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	.	*	*	*	*
+
+# article_id = T901023.254
+# text = Die gehe leise über die Bühne , wird kritisiert , per Stellenstreichung und Dienstpostenreduzierung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	gehe	2	2	2	2
+3	leise	*	*	*	*
+4	über	2	2	2	2
+5	die	*	*	*	*
+6	Bühne	2	2	2	2
+7	,	*	*	*	*
+8	wird	*	*	*	*
+9	kritisiert	*	*	*	*
+10	,	*	*	*	*
+11	per	*	*	*	*
+12	Stellenstreichung	*	*	*	*
+13	und	*	*	*	*
+14	Dienstpostenreduzierung	*	*	*	*
+15	.	*	*	*	*
+
+# article_id = T901031.32
+# text = In diesen Tagen geht als einer der letzten Akte der Verkauf des früher von der Partei kontrollierten VerIagsimperiums " Ruch " über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	diesen	*	*	*	*
+3	Tagen	*	*	*	*
+4	geht	2	2	2	2
+5	als	*	*	*	*
+6	einer	*	*	*	*
+7	der	*	*	*	*
+8	letzten	*	*	*	*
+9	Akte	*	*	*	*
+10	der	*	*	*	*
+11	Verkauf	*	*	*	*
+12	des	*	*	*	*
+13	früher	*	*	*	*
+14	von	*	*	*	*
+15	der	*	*	*	*
+16	Partei	*	*	*	*
+17	kontrollierten	*	*	*	*
+18	VerIagsimperiums	*	*	*	*
+19	"	*	*	*	*
+20	Ruch	*	*	*	*
+21	"	*	*	*	*
+22	über	2	2	2	2
+23	die	*	*	*	*
+24	Bühne	2	2	2	2
+25	.	*	*	*	*
+
+# article_id = T901031.32
+# text = Im schroffen Gegensatz zu allen Ländern des ehemaligen Ostblocks ist die Säuberung des Sicherheitsapparats völlig geräuschlos über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	*	*	*	*
+2	schroffen	*	*	*	*
+3	Gegensatz	*	*	*	*
+4	zu	*	*	*	*
+5	allen	*	*	*	*
+6	Ländern	*	*	*	*
+7	des	*	*	*	*
+8	ehemaligen	*	*	*	*
+9	Ostblocks	*	*	*	*
+10	ist	*	*	*	*
+11	die	*	*	*	*
+12	Säuberung	*	*	*	*
+13	des	*	*	*	*
+14	Sicherheitsapparats	*	*	*	*
+15	völlig	*	*	*	*
+16	geräuschlos	*	*	*	*
+17	über	2	2	2	2
+18	die	*	*	*	*
+19	Bühne	2	2	2	2
+20	gegangen	2	2	2	2
+21	.	*	*	*	*
+
+# article_id = T901018.270
+# text = « Jetzt hofft er , daß die Verhandlungen zügig über die Bühne gehen , denn Reserven , um bis Ende des Jahres durchzuhalten , besitzt dieser Laden nicht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	«	*	*	*	*
+2	Jetzt	*	*	*	*
+3	hofft	*	*	*	*
+4	er	*	*	*	*
+5	,	*	*	*	*
+6	daß	*	*	*	*
+7	die	*	*	*	*
+8	Verhandlungen	*	*	*	*
+9	zügig	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	gehen	2	2	2	2
+14	,	*	*	*	*
+15	denn	*	*	*	*
+16	Reserven	*	*	*	*
+17	,	*	*	*	*
+18	um	*	*	*	*
+19	bis	*	*	*	*
+20	Ende	*	*	*	*
+21	des	*	*	*	*
+22	Jahres	*	*	*	*
+23	durchzuhalten	*	*	*	*
+24	,	*	*	*	*
+25	besitzt	*	*	*	*
+26	dieser	*	*	*	*
+27	Laden	*	*	*	*
+28	nicht	*	*	*	*
+29	.	*	*	*	*
+
+# article_id = T901019.142
+# text = Der erste ist ohne große Probleme über die Bühne gegangen , der zweite ist sehr stark zensiert worden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	erste	*	*	*	*
+3	ist	*	*	*	*
+4	ohne	*	*	*	*
+5	große	*	*	*	*
+6	Probleme	*	*	*	*
+7	über	2	2	2	2
+8	die	*	*	*	*
+9	Bühne	2	2	2	2
+10	gegangen	2	2	2	2
+11	,	*	*	*	*
+12	der	*	*	*	*
+13	zweite	*	*	*	*
+14	ist	*	*	*	*
+15	sehr	*	*	*	*
+16	stark	*	*	*	*
+17	zensiert	*	*	*	*
+18	worden	*	*	*	*
+19	.	*	*	*	*
+
+# article_id = T901013.145
+# text = Eine Premiere besonderer Art ging gestern im Haus des DGB über die Bühne : Erstmals saßen anläßlich der Betriebsrätekonferenz der IG Metall ArbeitnehmerInnen , Arbeitgeber und Mitglieder des rot-grünen Senats an einen Tisch .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	*	*	*	*
+2	Premiere	*	*	*	*
+3	besonderer	*	*	*	*
+4	Art	*	*	*	*
+5	ging	2	2	2	2
+6	gestern	*	*	*	*
+7	im	*	*	*	*
+8	Haus	*	*	*	*
+9	des	*	*	*	*
+10	DGB	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	:	*	*	*	*
+15	Erstmals	*	*	*	*
+16	saßen	*	*	*	*
+17	anläßlich	*	*	*	*
+18	der	*	*	*	*
+19	Betriebsrätekonferenz	*	*	*	*
+20	der	*	*	*	*
+21	IG	*	*	*	*
+22	Metall	*	*	*	*
+23	ArbeitnehmerInnen	*	*	*	*
+24	,	*	*	*	*
+25	Arbeitgeber	*	*	*	*
+26	und	*	*	*	*
+27	Mitglieder	*	*	*	*
+28	des	*	*	*	*
+29	rot-grünen	*	*	*	*
+30	Senats	*	*	*	*
+31	an	*	*	*	*
+32	einen	*	*	*	*
+33	Tisch	*	*	*	*
+34	.	*	*	*	*
+
+# article_id = T900905.171
+# text = Die erste Premiere geht dieser Tage mit Jacke wie Hose von Manfred Karge über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	erste	*	*	*	*
+3	Premiere	*	*	*	*
+4	geht	2	2	2	2
+5	dieser	*	*	*	*
+6	Tage	*	*	*	*
+7	mit	*	*	*	*
+8	Jacke	*	*	*	*
+9	wie	*	*	*	*
+10	Hose	*	*	*	*
+11	von	*	*	*	*
+12	Manfred	*	*	*	*
+13	Karge	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	.	*	*	*	*
+
+# article_id = T900925.92
+# text = Die anschließende Verlängerung ging endlich unter Polizeischutz über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	anschließende	*	*	*	*
+3	Verlängerung	*	*	*	*
+4	ging	2	2	2	2
+5	endlich	*	*	*	*
+6	unter	*	*	*	*
+7	Polizeischutz	*	*	*	*
+8	über	2	2	2	2
+9	die	*	*	*	*
+10	Bühne	2	2	2	2
+11	.	*	*	*	*
+
+# article_id = T900919.36
+# text = Diese sollte nach einer Vereinbarung zwischen Betreibern und Wirtschaftsministerium innerhalb von zwei Jahren über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Diese	*	*	*	*
+2	sollte	*	*	*	*
+3	nach	*	*	*	*
+4	einer	*	*	*	*
+5	Vereinbarung	*	*	*	*
+6	zwischen	*	*	*	*
+7	Betreibern	*	*	*	*
+8	und	*	*	*	*
+9	Wirtschaftsministerium	*	*	*	*
+10	innerhalb	*	*	*	*
+11	von	*	*	*	*
+12	zwei	*	*	*	*
+13	Jahren	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	gehen	2	2	2	2
+18	.	*	*	*	*
+
+# article_id = T900906.146
+# text = Die Gründung des ersten europäischen Gesamtbetriebsrats ging recht unspektakulär über die Bühne : Auf dem VW-Werksgelände in Wolfsburg kamen Ende letzter Woche die Belegschaftsvertreter der inländischen VW-Werke , von Audi - Neckarsulm , der spanischen VW-Tochter SEAT und von VW - Brüssel für zwei Tage zusammen , um einen europäischen VW - Konzernbetriebsrat abzusegnen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Gründung	*	*	*	*
+3	des	*	*	*	*
+4	ersten	*	*	*	*
+5	europäischen	*	*	*	*
+6	Gesamtbetriebsrats	*	*	*	*
+7	ging	2	2	2	2
+8	recht	*	*	*	*
+9	unspektakulär	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	:	*	*	*	*
+14	Auf	*	*	*	*
+15	dem	*	*	*	*
+16	VW-Werksgelände	*	*	*	*
+17	in	*	*	*	*
+18	Wolfsburg	*	*	*	*
+19	kamen	*	*	*	*
+20	Ende	*	*	*	*
+21	letzter	*	*	*	*
+22	Woche	*	*	*	*
+23	die	*	*	*	*
+24	Belegschaftsvertreter	*	*	*	*
+25	der	*	*	*	*
+26	inländischen	*	*	*	*
+27	VW-Werke	*	*	*	*
+28	,	*	*	*	*
+29	von	*	*	*	*
+30	Audi	*	*	*	*
+31	-	*	*	*	*
+32	Neckarsulm	*	*	*	*
+33	,	*	*	*	*
+34	der	*	*	*	*
+35	spanischen	*	*	*	*
+36	VW-Tochter	*	*	*	*
+37	SEAT	*	*	*	*
+38	und	*	*	*	*
+39	von	*	*	*	*
+40	VW	*	*	*	*
+41	-	*	*	*	*
+42	Brüssel	*	*	*	*
+43	für	*	*	*	*
+44	zwei	*	*	*	*
+45	Tage	*	*	*	*
+46	zusammen	*	*	*	*
+47	,	*	*	*	*
+48	um	*	*	*	*
+49	einen	*	*	*	*
+50	europäischen	*	*	*	*
+51	VW	*	*	*	*
+52	-	*	*	*	*
+53	Konzernbetriebsrat	*	*	*	*
+54	abzusegnen	*	*	*	*
+55	.	*	*	*	*
+
+# article_id = T900914.2
+# text = Während der erste Transport problemlos über die Bühne ging , häufen sich in Hessen die Proteste wegen des fehlenden Flugverbots an der " Rhein-Main-Airbase " und dem Großflughafen Frankfurt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	*	*	*	*
+2	der	*	*	*	*
+3	erste	*	*	*	*
+4	Transport	*	*	*	*
+5	problemlos	*	*	*	*
+6	über	2	2	2	2
+7	die	*	*	*	*
+8	Bühne	2	2	2	2
+9	ging	2	2	2	2
+10	,	*	*	*	*
+11	häufen	*	*	*	*
+12	sich	*	*	*	*
+13	in	*	*	*	*
+14	Hessen	*	*	*	*
+15	die	*	*	*	*
+16	Proteste	*	*	*	*
+17	wegen	*	*	*	*
+18	des	*	*	*	*
+19	fehlenden	*	*	*	*
+20	Flugverbots	*	*	*	*
+21	an	*	*	*	*
+22	der	*	*	*	*
+23	"	*	*	*	*
+24	Rhein-Main-Airbase	*	*	*	*
+25	"	*	*	*	*
+26	und	*	*	*	*
+27	dem	*	*	*	*
+28	Großflughafen	*	*	*	*
+29	Frankfurt	*	*	*	*
+30	.	*	*	*	*
+
+# article_id = T900922.130
+# text = Es sah so aus , als würde der Beitritt der DDR geordnet über die politische Bühne gehen - doch jetzt kommt Ärger von denen , an die bisher niemand dachte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	*	*	*	*
+2	sah	*	*	*	*
+3	so	*	*	*	*
+4	aus	*	*	*	*
+5	,	*	*	*	*
+6	als	*	*	*	*
+7	würde	*	*	*	*
+8	der	*	*	*	*
+9	Beitritt	*	*	*	*
+10	der	*	*	*	*
+11	DDR	*	*	*	*
+12	geordnet	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	politische	*	*	*	*
+16	Bühne	2	2	2	2
+17	gehen	2	2	2	2
+18	-	*	*	*	*
+19	doch	*	*	*	*
+20	jetzt	*	*	*	*
+21	kommt	*	*	*	*
+22	Ärger	*	*	*	*
+23	von	*	*	*	*
+24	denen	*	*	*	*
+25	,	*	*	*	*
+26	an	*	*	*	*
+27	die	*	*	*	*
+28	bisher	*	*	*	*
+29	niemand	*	*	*	*
+30	dachte	*	*	*	*
+31	.	*	*	*	*
+
+# article_id = T900912.109
+# text = Am Montag mittag ist in der Kupferrohhütte Helbra der letzte Abstich über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	*	*	*	*
+2	Montag	*	*	*	*
+3	mittag	*	*	*	*
+4	ist	*	*	*	*
+5	in	*	*	*	*
+6	der	*	*	*	*
+7	Kupferrohhütte	*	*	*	*
+8	Helbra	*	*	*	*
+9	der	*	*	*	*
+10	letzte	*	*	*	*
+11	Abstich	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	gegangen	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T900111.117
+# text = Keine Rehabilitierung der Dissidenten / Li Peng kündigt " neue Aufgaben " für die Volkspolizei an / Wiederherstellung der Beziehungen zu den wichtigsten Handelspartnern geht reibungslos über die Bühne / Britischer Gouverneur aus Hongkong erstmals wieder in der Volksrepublik
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Keine	*	*	*	*
+2	Rehabilitierung	*	*	*	*
+3	der	*	*	*	*
+4	Dissidenten	*	*	*	*
+5	/	*	*	*	*
+6	Li	*	*	*	*
+7	Peng	*	*	*	*
+8	kündigt	*	*	*	*
+9	"	*	*	*	*
+10	neue	*	*	*	*
+11	Aufgaben	*	*	*	*
+12	"	*	*	*	*
+13	für	*	*	*	*
+14	die	*	*	*	*
+15	Volkspolizei	*	*	*	*
+16	an	*	*	*	*
+17	/	*	*	*	*
+18	Wiederherstellung	*	*	*	*
+19	der	*	*	*	*
+20	Beziehungen	*	*	*	*
+21	zu	*	*	*	*
+22	den	*	*	*	*
+23	wichtigsten	*	*	*	*
+24	Handelspartnern	*	*	*	*
+25	geht	2	2	2	2
+26	reibungslos	*	*	*	*
+27	über	2	2	2	2
+28	die	*	*	*	*
+29	Bühne	2	2	2	2
+30	/	*	*	*	*
+31	Britischer	*	*	*	*
+32	Gouverneur	*	*	*	*
+33	aus	*	*	*	*
+34	Hongkong	*	*	*	*
+35	erstmals	*	*	*	*
+36	wieder	*	*	*	*
+37	in	*	*	*	*
+38	der	*	*	*	*
+39	Volksrepublik	*	*	*	*
+
+# article_id = T900122.57
+# text = Daß die Ost-CDU im Begriff ist dazuzustoßen , zeigte sich auch im Verlauf des Gründungsparteitags des Landesverbandes Thüringen , der ebenfalls am Samstag in Weimar über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	*	*	*	*
+2	die	*	*	*	*
+3	Ost-CDU	*	*	*	*
+4	im	*	*	*	*
+5	Begriff	*	*	*	*
+6	ist	*	*	*	*
+7	dazuzustoßen	*	*	*	*
+8	,	*	*	*	*
+9	zeigte	*	*	*	*
+10	sich	*	*	*	*
+11	auch	*	*	*	*
+12	im	*	*	*	*
+13	Verlauf	*	*	*	*
+14	des	*	*	*	*
+15	Gründungsparteitags	*	*	*	*
+16	des	*	*	*	*
+17	Landesverbandes	*	*	*	*
+18	Thüringen	*	*	*	*
+19	,	*	*	*	*
+20	der	*	*	*	*
+21	ebenfalls	*	*	*	*
+22	am	*	*	*	*
+23	Samstag	*	*	*	*
+24	in	*	*	*	*
+25	Weimar	*	*	*	*
+26	über	2	2	2	2
+27	die	*	*	*	*
+28	Bühne	2	2	2	2
+29	ging	2	2	2	2
+30	.	*	*	*	*
+
+# article_id = T900124.32
+# text = Eine offizielle Parteigründung , so wurde vereinbart , soll am 4. Februar in Berlin über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	*	*	*	*
+2	offizielle	*	*	*	*
+3	Parteigründung	*	*	*	*
+4	,	*	*	*	*
+5	so	*	*	*	*
+6	wurde	*	*	*	*
+7	vereinbart	*	*	*	*
+8	,	*	*	*	*
+9	soll	*	*	*	*
+10	am	*	*	*	*
+11	4	*	*	*	*
+12	.	*	*	*	*
+13	Februar	*	*	*	*
+14	in	*	*	*	*
+15	Berlin	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	.	*	*	*	*
+
+# article_id = T900126.207
+# text = Beispiel hierfür ist die lebendige Phase der späten 70er und frühen 80er Jahre , als im Zuge der Hausbesetzungen Bands wie Teller Bunte Knete oder Westend Sechs entstanden und im SO36 in der Kreuzberger Oranienstraße turbulente Konzerte über die Bühne gingen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beispiel	*	*	*	*
+2	hierfür	*	*	*	*
+3	ist	*	*	*	*
+4	die	*	*	*	*
+5	lebendige	*	*	*	*
+6	Phase	*	*	*	*
+7	der	*	*	*	*
+8	späten	*	*	*	*
+9	70er	*	*	*	*
+10	und	*	*	*	*
+11	frühen	*	*	*	*
+12	80er	*	*	*	*
+13	Jahre	*	*	*	*
+14	,	*	*	*	*
+15	als	*	*	*	*
+16	im	*	*	*	*
+17	Zuge	*	*	*	*
+18	der	*	*	*	*
+19	Hausbesetzungen	*	*	*	*
+20	Bands	*	*	*	*
+21	wie	*	*	*	*
+22	Teller	*	*	*	*
+23	Bunte	*	*	*	*
+24	Knete	*	*	*	*
+25	oder	*	*	*	*
+26	Westend	*	*	*	*
+27	Sechs	*	*	*	*
+28	entstanden	*	*	*	*
+29	und	*	*	*	*
+30	im	*	*	*	*
+31	SO36	*	*	*	*
+32	in	*	*	*	*
+33	der	*	*	*	*
+34	Kreuzberger	*	*	*	*
+35	Oranienstraße	*	*	*	*
+36	turbulente	*	*	*	*
+37	Konzerte	*	*	*	*
+38	über	2	2	2	2
+39	die	*	*	*	*
+40	Bühne	2	2	2	2
+41	gingen	2	2	2	2
+42	.	*	*	*	*
+
+# article_id = T900103.158
+# text = Im Juni '91 soll in Köln " Homululu II " über die Bühne gehen , benannt nach dem ersten schwulen Kulturspektakel 1979 in Frankfurt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	*	*	*	*
+2	Juni	*	*	*	*
+3	'	*	*	*	*
+4	91	*	*	*	*
+5	soll	*	*	*	*
+6	in	*	*	*	*
+7	Köln	*	*	*	*
+8	"	*	*	*	*
+9	Homululu	*	*	*	*
+10	II	*	*	*	*
+11	"	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	gehen	2	2	2	2
+16	,	*	*	*	*
+17	benannt	*	*	*	*
+18	nach	*	*	*	*
+19	dem	*	*	*	*
+20	ersten	*	*	*	*
+21	schwulen	*	*	*	*
+22	Kulturspektakel	*	*	*	*
+23	1979	*	*	*	*
+24	in	*	*	*	*
+25	Frankfurt	*	*	*	*
+26	.	*	*	*	*
+
+# article_id = T900116.224
+# text = Doch so ganz ohne größeres öffentliches Aufsehen , wie sich die Programmdirektorin das gewünscht haben mag , geht die Einstellung von Biz Bize nicht über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	*	*	*	*
+2	so	*	*	*	*
+3	ganz	*	*	*	*
+4	ohne	*	*	*	*
+5	größeres	*	*	*	*
+6	öffentliches	*	*	*	*
+7	Aufsehen	*	*	*	*
+8	,	*	*	*	*
+9	wie	*	*	*	*
+10	sich	*	*	*	*
+11	die	*	*	*	*
+12	Programmdirektorin	*	*	*	*
+13	das	*	*	*	*
+14	gewünscht	*	*	*	*
+15	haben	*	*	*	*
+16	mag	*	*	*	*
+17	,	*	*	*	*
+18	geht	2	2	2	2
+19	die	*	*	*	*
+20	Einstellung	*	*	*	*
+21	von	*	*	*	*
+22	Biz	*	*	*	*
+23	Bize	*	*	*	*
+24	nicht	*	*	*	*
+25	über	2	2	2	2
+26	die	*	*	*	*
+27	Bühne	2	2	2	2
+28	.	*	*	*	*
+
+# article_id = T900427.278
+# text = Nach Kreuzbergs Hausbesetzeraustausch mit dem Prenzlauer Berg geben sich im Mai auch die Kindertheater der beiden Bezirke die Klinke in die Hand : Anlaß ist das erste Gesamtberliner Kindertheaterfestival , daß vom 4. bis 6. Mai in Kreuzberg im Westen und vom 12. bis 13. Mai im Prenzlauer Berg im Osten über die Bühne geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	*	*	*	*
+2	Kreuzbergs	*	*	*	*
+3	Hausbesetzeraustausch	*	*	*	*
+4	mit	*	*	*	*
+5	dem	*	*	*	*
+6	Prenzlauer	*	*	*	*
+7	Berg	*	*	*	*
+8	geben	*	*	*	*
+9	sich	*	*	*	*
+10	im	*	*	*	*
+11	Mai	*	*	*	*
+12	auch	*	*	*	*
+13	die	*	*	*	*
+14	Kindertheater	*	*	*	*
+15	der	*	*	*	*
+16	beiden	*	*	*	*
+17	Bezirke	*	*	*	*
+18	die	*	*	*	*
+19	Klinke	*	*	*	*
+20	in	*	*	*	*
+21	die	*	*	*	*
+22	Hand	*	*	*	*
+23	:	*	*	*	*
+24	Anlaß	*	*	*	*
+25	ist	*	*	*	*
+26	das	*	*	*	*
+27	erste	*	*	*	*
+28	Gesamtberliner	*	*	*	*
+29	Kindertheaterfestival	*	*	*	*
+30	,	*	*	*	*
+31	daß	*	*	*	*
+32	vom	*	*	*	*
+33	4	*	*	*	*
+34	.	*	*	*	*
+35	bis	*	*	*	*
+36	6	*	*	*	*
+37	.	*	*	*	*
+38	Mai	*	*	*	*
+39	in	*	*	*	*
+40	Kreuzberg	*	*	*	*
+41	im	*	*	*	*
+42	Westen	*	*	*	*
+43	und	*	*	*	*
+44	vom	*	*	*	*
+45	12	*	*	*	*
+46	.	*	*	*	*
+47	bis	*	*	*	*
+48	13	*	*	*	*
+49	.	*	*	*	*
+50	Mai	*	*	*	*
+51	im	*	*	*	*
+52	Prenzlauer	*	*	*	*
+53	Berg	*	*	*	*
+54	im	*	*	*	*
+55	Osten	*	*	*	*
+56	über	2	2	2	2
+57	die	*	*	*	*
+58	Bühne	2	2	2	2
+59	geht	2	2	2	2
+60	.	*	*	*	*
+
+# article_id = T900419.129
+# text = Über eines sind sich die meisten Beobachter jedenfalls einig : daß der Vollzug der Währungsunion nicht erst zu dem Termin über die Bühne gehen wird , den die Bundesregierung nennt : 1 .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Über	*	*	*	*
+2	eines	*	*	*	*
+3	sind	*	*	*	*
+4	sich	*	*	*	*
+5	die	*	*	*	*
+6	meisten	*	*	*	*
+7	Beobachter	*	*	*	*
+8	jedenfalls	*	*	*	*
+9	einig	*	*	*	*
+10	:	*	*	*	*
+11	daß	*	*	*	*
+12	der	*	*	*	*
+13	Vollzug	*	*	*	*
+14	der	*	*	*	*
+15	Währungsunion	*	*	*	*
+16	nicht	*	*	*	*
+17	erst	*	*	*	*
+18	zu	*	*	*	*
+19	dem	*	*	*	*
+20	Termin	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	gehen	2	2	2	2
+25	wird	*	*	*	*
+26	,	*	*	*	*
+27	den	*	*	*	*
+28	die	*	*	*	*
+29	Bundesregierung	*	*	*	*
+30	nennt	*	*	*	*
+31	:	*	*	*	*
+32	1	*	*	*	*
+33	.	*	*	*	*
+
+# article_id = T900705.64
+# text = Immerhin - die konstituierende Sitzung der Anklamer Stadtverordneten ging schon glatt in Platt über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Immerhin	*	*	*	*
+2	-	*	*	*	*
+3	die	*	*	*	*
+4	konstituierende	*	*	*	*
+5	Sitzung	*	*	*	*
+6	der	*	*	*	*
+7	Anklamer	*	*	*	*
+8	Stadtverordneten	*	*	*	*
+9	ging	2	2	2	2
+10	schon	*	*	*	*
+11	glatt	*	*	*	*
+12	in	*	*	*	*
+13	Platt	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	.	*	*	*	*
+
+# article_id = T900709.197
+# text = Geburtstag wäre beim Fußball-Zweitligisten Blau-Weiß 90 beinahe als Begräbnis über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Geburtstag	*	*	*	*
+2	wäre	*	*	*	*
+3	beim	*	*	*	*
+4	Fußball-Zweitligisten	*	*	*	*
+5	Blau-Weiß	*	*	*	*
+6	90	*	*	*	*
+7	beinahe	*	*	*	*
+8	als	*	*	*	*
+9	Begräbnis	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	gegangen	2	2	2	2
+14	.	*	*	*	*
+
+# article_id = T900704.7
+# text = Der Umzug sollte bereits in der letzten Woche über die Bühne gehen , doch Schalck wartete erst den vollständigen Abbau der Grenzkontrollen am 1. Juli ab .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Umzug	*	*	*	*
+3	sollte	*	*	*	*
+4	bereits	*	*	*	*
+5	in	*	*	*	*
+6	der	*	*	*	*
+7	letzten	*	*	*	*
+8	Woche	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	gehen	2	2	2	2
+13	,	*	*	*	*
+14	doch	*	*	*	*
+15	Schalck	*	*	*	*
+16	wartete	*	*	*	*
+17	erst	*	*	*	*
+18	den	*	*	*	*
+19	vollständigen	*	*	*	*
+20	Abbau	*	*	*	*
+21	der	*	*	*	*
+22	Grenzkontrollen	*	*	*	*
+23	am	*	*	*	*
+24	1	*	*	*	*
+25	.	*	*	*	*
+26	Juli	*	*	*	*
+27	ab	*	*	*	*
+28	.	*	*	*	*
+
+# article_id = T900727.133
+# text = Wie gesagt , das könnte in guter Commedia-dell'arte-Manier über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	*	*	*	*
+2	gesagt	*	*	*	*
+3	,	*	*	*	*
+4	das	*	*	*	*
+5	könnte	*	*	*	*
+6	in	*	*	*	*
+7	guter	*	*	*	*
+8	Commedia-dell'arte-Manier	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	gehen	2	2	2	2
+13	.	*	*	*	*
+
+# article_id = T900713.145
+# text = Eine Fehleinschätzung , denn im Ruhrpott ging gerade zum drittenmal hintereinander - von der taz erneut unbeachtet der NRW Christopher-Street-Day über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	*	*	*	*
+2	Fehleinschätzung	*	*	*	*
+3	,	*	*	*	*
+4	denn	*	*	*	*
+5	im	*	*	*	*
+6	Ruhrpott	*	*	*	*
+7	ging	2	2	2	2
+8	gerade	*	*	*	*
+9	zum	*	*	*	*
+10	drittenmal	*	*	*	*
+11	hintereinander	*	*	*	*
+12	-	*	*	*	*
+13	von	*	*	*	*
+14	der	*	*	*	*
+15	taz	*	*	*	*
+16	erneut	*	*	*	*
+17	unbeachtet	*	*	*	*
+18	der	*	*	*	*
+19	NRW	*	*	*	*
+20	Christopher-Street-Day	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	.	*	*	*	*
+
+# article_id = T900712.225
+# text = Anstandslos wird dagegen die umstrittene Haus-Berufung von des bisherigen Abteilungsleiters Fritz Sehring zum neuen Stadtwerke-Vorstandsmitglied über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Anstandslos	*	*	*	*
+2	wird	*	*	*	*
+3	dagegen	*	*	*	*
+4	die	*	*	*	*
+5	umstrittene	*	*	*	*
+6	Haus-Berufung	*	*	*	*
+7	von	*	*	*	*
+8	des	*	*	*	*
+9	bisherigen	*	*	*	*
+10	Abteilungsleiters	*	*	*	*
+11	Fritz	*	*	*	*
+12	Sehring	*	*	*	*
+13	zum	*	*	*	*
+14	neuen	*	*	*	*
+15	Stadtwerke-Vorstandsmitglied	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	.	*	*	*	*
+
+# article_id = T901212.179
+# text = Der große Musiksaal des ehemaligen Kulturbundclubs , in dem die Auktion unter der Leitung des Westberliner Maklers Hans Peter Plettner über die Bühne gehen sollte , war bereits lange vor Auktionsbeginn hoffnungslos überfüllt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	große	*	*	*	*
+3	Musiksaal	*	*	*	*
+4	des	*	*	*	*
+5	ehemaligen	*	*	*	*
+6	Kulturbundclubs	*	*	*	*
+7	,	*	*	*	*
+8	in	*	*	*	*
+9	dem	*	*	*	*
+10	die	*	*	*	*
+11	Auktion	*	*	*	*
+12	unter	*	*	*	*
+13	der	*	*	*	*
+14	Leitung	*	*	*	*
+15	des	*	*	*	*
+16	Westberliner	*	*	*	*
+17	Maklers	*	*	*	*
+18	Hans	*	*	*	*
+19	Peter	*	*	*	*
+20	Plettner	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	gehen	2	2	2	2
+25	sollte	*	*	*	*
+26	,	*	*	*	*
+27	war	*	*	*	*
+28	bereits	*	*	*	*
+29	lange	*	*	*	*
+30	vor	*	*	*	*
+31	Auktionsbeginn	*	*	*	*
+32	hoffnungslos	*	*	*	*
+33	überfüllt	*	*	*	*
+34	.	*	*	*	*
+
+# article_id = T900807.131
+# text = " Der Herr von der städtischen Bestattung macht es sich leicht mit der Definition jener Haupt- und Staatszeremonie , die am heutigen Dienstag in der Wiener Innenstadt über die Bühne gehen wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	*	*	*	*
+2	Der	*	*	*	*
+3	Herr	*	*	*	*
+4	von	*	*	*	*
+5	der	*	*	*	*
+6	städtischen	*	*	*	*
+7	Bestattung	*	*	*	*
+8	macht	*	*	*	*
+9	es	*	*	*	*
+10	sich	*	*	*	*
+11	leicht	*	*	*	*
+12	mit	*	*	*	*
+13	der	*	*	*	*
+14	Definition	*	*	*	*
+15	jener	*	*	*	*
+16	Haupt-	*	*	*	*
+17	und	*	*	*	*
+18	Staatszeremonie	*	*	*	*
+19	,	*	*	*	*
+20	die	*	*	*	*
+21	am	*	*	*	*
+22	heutigen	*	*	*	*
+23	Dienstag	*	*	*	*
+24	in	*	*	*	*
+25	der	*	*	*	*
+26	Wiener	*	*	*	*
+27	Innenstadt	*	*	*	*
+28	über	2	2	2	2
+29	die	*	*	*	*
+30	Bühne	2	2	2	2
+31	gehen	2	2	2	2
+32	wird	*	*	*	*
+33	.	*	*	*	*
+
+# article_id = T900818.123
+# text = Am 24. November soll in Salzgitter der Piratenakt über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	*	*	*	*
+2	24	*	*	*	*
+3	.	*	*	*	*
+4	November	*	*	*	*
+5	soll	*	*	*	*
+6	in	*	*	*	*
+7	Salzgitter	*	*	*	*
+8	der	*	*	*	*
+9	Piratenakt	*	*	*	*
+10	über	2	2	2	2
+11	die	*	*	*	*
+12	Bühne	2	2	2	2
+13	gehen	2	2	2	2
+14	.	*	*	*	*
+
+# article_id = T900825.153
+# text = An der Spitze die Golfkrise , die auch ohne Korrespondenten anschaulich über die Bühne geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	An	*	*	*	*
+2	der	*	*	*	*
+3	Spitze	*	*	*	*
+4	die	*	*	*	*
+5	Golfkrise	*	*	*	*
+6	,	*	*	*	*
+7	die	*	*	*	*
+8	auch	*	*	*	*
+9	ohne	*	*	*	*
+10	Korrespondenten	*	*	*	*
+11	anschaulich	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	geht	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T900813.121
+# text = Und trotzdem - daß kaum jemand wirklich mit ihm brach , daß er immer wieder engagiert wurde ( unter anderem auch für das Großkonzert , das am Ostermontag in Anwesenheit von Nelson Mandela über die Bühne ging ) , zeugt von der künstlerischen Kraft , die Dudus Kompositionen und Arrangements innewohnte , von dem bewegenden Aufschrei des Protestes gegen die massive Unterdrückung von Kreativität durch die Apartheid , der sich diesem immer leicht verstimmt wirkenden Altsaxophon entrang .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	*	*	*	*
+2	trotzdem	*	*	*	*
+3	-	*	*	*	*
+4	daß	*	*	*	*
+5	kaum	*	*	*	*
+6	jemand	*	*	*	*
+7	wirklich	*	*	*	*
+8	mit	*	*	*	*
+9	ihm	*	*	*	*
+10	brach	*	*	*	*
+11	,	*	*	*	*
+12	daß	*	*	*	*
+13	er	*	*	*	*
+14	immer	*	*	*	*
+15	wieder	*	*	*	*
+16	engagiert	*	*	*	*
+17	wurde	*	*	*	*
+18	(	*	*	*	*
+19	unter	*	*	*	*
+20	anderem	*	*	*	*
+21	auch	*	*	*	*
+22	für	*	*	*	*
+23	das	*	*	*	*
+24	Großkonzert	*	*	*	*
+25	,	*	*	*	*
+26	das	*	*	*	*
+27	am	*	*	*	*
+28	Ostermontag	*	*	*	*
+29	in	*	*	*	*
+30	Anwesenheit	*	*	*	*
+31	von	*	*	*	*
+32	Nelson	*	*	*	*
+33	Mandela	*	*	*	*
+34	über	2	2	2	2
+35	die	*	*	*	*
+36	Bühne	2	2	2	2
+37	ging	2	2	2	2
+38	)	*	*	*	*
+39	,	*	*	*	*
+40	zeugt	*	*	*	*
+41	von	*	*	*	*
+42	der	*	*	*	*
+43	künstlerischen	*	*	*	*
+44	Kraft	*	*	*	*
+45	,	*	*	*	*
+46	die	*	*	*	*
+47	Dudus	*	*	*	*
+48	Kompositionen	*	*	*	*
+49	und	*	*	*	*
+50	Arrangements	*	*	*	*
+51	innewohnte	*	*	*	*
+52	,	*	*	*	*
+53	von	*	*	*	*
+54	dem	*	*	*	*
+55	bewegenden	*	*	*	*
+56	Aufschrei	*	*	*	*
+57	des	*	*	*	*
+58	Protestes	*	*	*	*
+59	gegen	*	*	*	*
+60	die	*	*	*	*
+61	massive	*	*	*	*
+62	Unterdrückung	*	*	*	*
+63	von	*	*	*	*
+64	Kreativität	*	*	*	*
+65	durch	*	*	*	*
+66	die	*	*	*	*
+67	Apartheid	*	*	*	*
+68	,	*	*	*	*
+69	der	*	*	*	*
+70	sich	*	*	*	*
+71	diesem	*	*	*	*
+72	immer	*	*	*	*
+73	leicht	*	*	*	*
+74	verstimmt	*	*	*	*
+75	wirkenden	*	*	*	*
+76	Altsaxophon	*	*	*	*
+77	entrang	*	*	*	*
+78	.	*	*	*	*
+
+# article_id = T900827.148
+# text = Schon gleich nach Vorliegen der 4.000 Seiten umfassenden Anklageschrift wurden ganz erstaunliche Aktivitäten entfaltet , das Gerichtsverfahren nicht , oder zumindest nicht so , wie jetzt geplant , über die Bühne gehen zu lassen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schon	*	*	*	*
+2	gleich	*	*	*	*
+3	nach	*	*	*	*
+4	Vorliegen	*	*	*	*
+5	der	*	*	*	*
+6	4.000	*	*	*	*
+7	Seiten	*	*	*	*
+8	umfassenden	*	*	*	*
+9	Anklageschrift	*	*	*	*
+10	wurden	*	*	*	*
+11	ganz	*	*	*	*
+12	erstaunliche	*	*	*	*
+13	Aktivitäten	*	*	*	*
+14	entfaltet	*	*	*	*
+15	,	*	*	*	*
+16	das	*	*	*	*
+17	Gerichtsverfahren	*	*	*	*
+18	nicht	*	*	*	*
+19	,	*	*	*	*
+20	oder	*	*	*	*
+21	zumindest	*	*	*	*
+22	nicht	*	*	*	*
+23	so	*	*	*	*
+24	,	*	*	*	*
+25	wie	*	*	*	*
+26	jetzt	*	*	*	*
+27	geplant	*	*	*	*
+28	,	*	*	*	*
+29	über	2	2	2	2
+30	die	*	*	*	*
+31	Bühne	2	2	2	2
+32	gehen	2	2	2	2
+33	zu	*	*	*	*
+34	lassen	*	*	*	*
+35	.	*	*	*	*
+
+# article_id = T900827.148
+# text = Auch die beispielhaft erwiesene Unfähigkeit der SÄPO kann nicht der Grund dafür sein , daß nun ein Geisterprozeß über die Bühne gehen wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	*	*	*	*
+2	die	*	*	*	*
+3	beispielhaft	*	*	*	*
+4	erwiesene	*	*	*	*
+5	Unfähigkeit	*	*	*	*
+6	der	*	*	*	*
+7	SÄPO	*	*	*	*
+8	kann	*	*	*	*
+9	nicht	*	*	*	*
+10	der	*	*	*	*
+11	Grund	*	*	*	*
+12	dafür	*	*	*	*
+13	sein	*	*	*	*
+14	,	*	*	*	*
+15	daß	*	*	*	*
+16	nun	*	*	*	*
+17	ein	*	*	*	*
+18	Geisterprozeß	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	gehen	2	2	2	2
+23	wird	*	*	*	*
+24	.	*	*	*	*
+
+# article_id = T900312.77
+# text = Die Modalitäten der ersten freien Wahl und das vorläufige Mediengesetz gingen im Konsens über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Modalitäten	*	*	*	*
+3	der	*	*	*	*
+4	ersten	*	*	*	*
+5	freien	*	*	*	*
+6	Wahl	*	*	*	*
+7	und	*	*	*	*
+8	das	*	*	*	*
+9	vorläufige	*	*	*	*
+10	Mediengesetz	*	*	*	*
+11	gingen	2	2	2	2
+12	im	*	*	*	*
+13	Konsens	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	.	*	*	*	*
+
+# article_id = T900331.281
+# text = Am nächsten Tag ging alles wie erwartet glatt über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	*	*	*	*
+2	nächsten	*	*	*	*
+3	Tag	*	*	*	*
+4	ging	2	2	2	2
+5	alles	*	*	*	*
+6	wie	*	*	*	*
+7	erwartet	*	*	*	*
+8	glatt	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	.	*	*	*	*
+
+# article_id = T900303.112
+# text = Bevor die erste Titelverteidigung des neuen Weltmeisters in Las Vegas , oder wo auch immer , über die Bühne gehen kann , steht jedenfalls erst mal ein langwieriger Rechtsstreit ins Haus .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bevor	*	*	*	*
+2	die	*	*	*	*
+3	erste	*	*	*	*
+4	Titelverteidigung	*	*	*	*
+5	des	*	*	*	*
+6	neuen	*	*	*	*
+7	Weltmeisters	*	*	*	*
+8	in	*	*	*	*
+9	Las	*	*	*	*
+10	Vegas	*	*	*	*
+11	,	*	*	*	*
+12	oder	*	*	*	*
+13	wo	*	*	*	*
+14	auch	*	*	*	*
+15	immer	*	*	*	*
+16	,	*	*	*	*
+17	über	2	2	2	2
+18	die	*	*	*	*
+19	Bühne	2	2	2	2
+20	gehen	2	2	2	2
+21	kann	*	*	*	*
+22	,	*	*	*	*
+23	steht	*	*	*	*
+24	jedenfalls	*	*	*	*
+25	erst	*	*	*	*
+26	mal	*	*	*	*
+27	ein	*	*	*	*
+28	langwieriger	*	*	*	*
+29	Rechtsstreit	*	*	*	*
+30	ins	*	*	*	*
+31	Haus	*	*	*	*
+32	.	*	*	*	*
+
+# article_id = T900309.87
+# text = Was die Bürokratie aus Mangel an Dringlichkeit in zehn jahren nicht bewältigt hat , muß nun im Schnellverfahren über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Was	*	*	*	*
+2	die	*	*	*	*
+3	Bürokratie	*	*	*	*
+4	aus	*	*	*	*
+5	Mangel	*	*	*	*
+6	an	*	*	*	*
+7	Dringlichkeit	*	*	*	*
+8	in	*	*	*	*
+9	zehn	*	*	*	*
+10	jahren	*	*	*	*
+11	nicht	*	*	*	*
+12	bewältigt	*	*	*	*
+13	hat	*	*	*	*
+14	,	*	*	*	*
+15	muß	*	*	*	*
+16	nun	*	*	*	*
+17	im	*	*	*	*
+18	Schnellverfahren	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	gehen	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T900309.230
+# text = Schon zum vierten Male wird hier heute abend ein Talk SchwuZ über die Bühne gehen , in einer Dekoration fast wie im richtigen Bildschirmleben : bequeme Sessel , ein Mikro für jeden , smarte Couchtische und Selters für die trockenen Kehlen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schon	*	*	*	*
+2	zum	*	*	*	*
+3	vierten	*	*	*	*
+4	Male	*	*	*	*
+5	wird	*	*	*	*
+6	hier	*	*	*	*
+7	heute	*	*	*	*
+8	abend	*	*	*	*
+9	ein	*	*	*	*
+10	Talk	*	*	*	*
+11	SchwuZ	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	gehen	2	2	2	2
+16	,	*	*	*	*
+17	in	*	*	*	*
+18	einer	*	*	*	*
+19	Dekoration	*	*	*	*
+20	fast	*	*	*	*
+21	wie	*	*	*	*
+22	im	*	*	*	*
+23	richtigen	*	*	*	*
+24	Bildschirmleben	*	*	*	*
+25	:	*	*	*	*
+26	bequeme	*	*	*	*
+27	Sessel	*	*	*	*
+28	,	*	*	*	*
+29	ein	*	*	*	*
+30	Mikro	*	*	*	*
+31	für	*	*	*	*
+32	jeden	*	*	*	*
+33	,	*	*	*	*
+34	smarte	*	*	*	*
+35	Couchtische	*	*	*	*
+36	und	*	*	*	*
+37	Selters	*	*	*	*
+38	für	*	*	*	*
+39	die	*	*	*	*
+40	trockenen	*	*	*	*
+41	Kehlen	*	*	*	*
+42	.	*	*	*	*
+
+# article_id = T900307.45
+# text = Verschiedene Bürgerinitiativen haben in der Vergangenheit immer wieder dagegen protestiert , daß die Vorbereitungen zum Abzug unter Ausschluß der Öffentlichkeit und ohne Anhörung der Betroffenen oder externer Gutachter über die Bühne gehen soll .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Verschiedene	*	*	*	*
+2	Bürgerinitiativen	*	*	*	*
+3	haben	*	*	*	*
+4	in	*	*	*	*
+5	der	*	*	*	*
+6	Vergangenheit	*	*	*	*
+7	immer	*	*	*	*
+8	wieder	*	*	*	*
+9	dagegen	*	*	*	*
+10	protestiert	*	*	*	*
+11	,	*	*	*	*
+12	daß	*	*	*	*
+13	die	*	*	*	*
+14	Vorbereitungen	*	*	*	*
+15	zum	*	*	*	*
+16	Abzug	*	*	*	*
+17	unter	*	*	*	*
+18	Ausschluß	*	*	*	*
+19	der	*	*	*	*
+20	Öffentlichkeit	*	*	*	*
+21	und	*	*	*	*
+22	ohne	*	*	*	*
+23	Anhörung	*	*	*	*
+24	der	*	*	*	*
+25	Betroffenen	*	*	*	*
+26	oder	*	*	*	*
+27	externer	*	*	*	*
+28	Gutachter	*	*	*	*
+29	über	2	2	2	2
+30	die	*	*	*	*
+31	Bühne	2	2	2	2
+32	gehen	2	2	2	2
+33	soll	*	*	*	*
+34	.	*	*	*	*
+
+# article_id = T900305.147
+# text = Angesichts der schlimmen Erfahrungen mit der Stasi bleibt zu hoffen , daß die Installation einer derartigen Überwachungstechnologie in der DDR doch nicht so glatt über die Bühne geht , wie zum Beispiel SEL erhofft .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Angesichts	*	*	*	*
+2	der	*	*	*	*
+3	schlimmen	*	*	*	*
+4	Erfahrungen	*	*	*	*
+5	mit	*	*	*	*
+6	der	*	*	*	*
+7	Stasi	*	*	*	*
+8	bleibt	*	*	*	*
+9	zu	*	*	*	*
+10	hoffen	*	*	*	*
+11	,	*	*	*	*
+12	daß	*	*	*	*
+13	die	*	*	*	*
+14	Installation	*	*	*	*
+15	einer	*	*	*	*
+16	derartigen	*	*	*	*
+17	Überwachungstechnologie	*	*	*	*
+18	in	*	*	*	*
+19	der	*	*	*	*
+20	DDR	*	*	*	*
+21	doch	*	*	*	*
+22	nicht	*	*	*	*
+23	so	*	*	*	*
+24	glatt	*	*	*	*
+25	über	2	2	2	2
+26	die	*	*	*	*
+27	Bühne	2	2	2	2
+28	geht	2	2	2	2
+29	,	*	*	*	*
+30	wie	*	*	*	*
+31	zum	*	*	*	*
+32	Beispiel	*	*	*	*
+33	SEL	*	*	*	*
+34	erhofft	*	*	*	*
+35	.	*	*	*	*
+
+# article_id = T901117.101
+# text = Dem Kohlschen Druck gab de Maiziere im Frühsommer nach , als das Ausmaß der wirtschaftlichen Misere sich abzeichnete , keine Volkskammersitzung ohne Demonstrationen über die Bühne ging .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dem	*	*	*	*
+2	Kohlschen	*	*	*	*
+3	Druck	*	*	*	*
+4	gab	*	*	*	*
+5	de	*	*	*	*
+6	Maiziere	*	*	*	*
+7	im	*	*	*	*
+8	Frühsommer	*	*	*	*
+9	nach	*	*	*	*
+10	,	*	*	*	*
+11	als	*	*	*	*
+12	das	*	*	*	*
+13	Ausmaß	*	*	*	*
+14	der	*	*	*	*
+15	wirtschaftlichen	*	*	*	*
+16	Misere	*	*	*	*
+17	sich	*	*	*	*
+18	abzeichnete	*	*	*	*
+19	,	*	*	*	*
+20	keine	*	*	*	*
+21	Volkskammersitzung	*	*	*	*
+22	ohne	*	*	*	*
+23	Demonstrationen	*	*	*	*
+24	über	2	2	2	2
+25	die	*	*	*	*
+26	Bühne	2	2	2	2
+27	ging	2	2	2	2
+28	.	*	*	*	*
+
+# article_id = T901124.204
+# text = Deshalb war die Rotlichtstunde nicht eine verdiente Zugabe zum harten Seminaristenalltag , wie ähnliches nach CDU-Parteitagen oder Medizinerkongressen mehr oder weniger heimlich über die Bühne geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Deshalb	*	*	*	*
+2	war	*	*	*	*
+3	die	*	*	*	*
+4	Rotlichtstunde	*	*	*	*
+5	nicht	*	*	*	*
+6	eine	*	*	*	*
+7	verdiente	*	*	*	*
+8	Zugabe	*	*	*	*
+9	zum	*	*	*	*
+10	harten	*	*	*	*
+11	Seminaristenalltag	*	*	*	*
+12	,	*	*	*	*
+13	wie	*	*	*	*
+14	ähnliches	*	*	*	*
+15	nach	*	*	*	*
+16	CDU-Parteitagen	*	*	*	*
+17	oder	*	*	*	*
+18	Medizinerkongressen	*	*	*	*
+19	mehr	*	*	*	*
+20	oder	*	*	*	*
+21	weniger	*	*	*	*
+22	heimlich	*	*	*	*
+23	über	2	2	2	2
+24	die	*	*	*	*
+25	Bühne	2	2	2	2
+26	geht	2	2	2	2
+27	.	*	*	*	*
+
+# article_id = T901105.186
+# text = In Ankara versprach man nun der Delegation , zumindest das Verfahren zu beschleunigen : Die von den deutschen Behörden geforderte Entlassung aus der türkischen Staatsbürgerschaft soll in Zukunft , wie auch die Wiedereinbürgerung , innerhalb weniger Monate über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	Ankara	*	*	*	*
+3	versprach	*	*	*	*
+4	man	*	*	*	*
+5	nun	*	*	*	*
+6	der	*	*	*	*
+7	Delegation	*	*	*	*
+8	,	*	*	*	*
+9	zumindest	*	*	*	*
+10	das	*	*	*	*
+11	Verfahren	*	*	*	*
+12	zu	*	*	*	*
+13	beschleunigen	*	*	*	*
+14	:	*	*	*	*
+15	Die	*	*	*	*
+16	von	*	*	*	*
+17	den	*	*	*	*
+18	deutschen	*	*	*	*
+19	Behörden	*	*	*	*
+20	geforderte	*	*	*	*
+21	Entlassung	*	*	*	*
+22	aus	*	*	*	*
+23	der	*	*	*	*
+24	türkischen	*	*	*	*
+25	Staatsbürgerschaft	*	*	*	*
+26	soll	*	*	*	*
+27	in	*	*	*	*
+28	Zukunft	*	*	*	*
+29	,	*	*	*	*
+30	wie	*	*	*	*
+31	auch	*	*	*	*
+32	die	*	*	*	*
+33	Wiedereinbürgerung	*	*	*	*
+34	,	*	*	*	*
+35	innerhalb	*	*	*	*
+36	weniger	*	*	*	*
+37	Monate	*	*	*	*
+38	über	2	2	2	2
+39	die	*	*	*	*
+40	Bühne	2	2	2	2
+41	gehen	2	2	2	2
+42	.	*	*	*	*
+
+# article_id = T900217.273
+# text = Der ganze Umlauf soll allerdings möglichst rasch über die Bühne gehen , denn letztendlich trachten Esalen-Besucher danach , ihre neugewonnenen Synthesen aus Seele und Gewissen daheim zum Beruf machen zu können , und zwar nach Möglichkeit zu einem , der das sanfte Gute und das erkenntnisreiche Heile in unseren fragmentierten Körpern und Geistern aufs holistischste wieder verquickt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	ganze	*	*	*	*
+3	Umlauf	*	*	*	*
+4	soll	*	*	*	*
+5	allerdings	*	*	*	*
+6	möglichst	*	*	*	*
+7	rasch	*	*	*	*
+8	über	2	2	2	2
+9	die	*	*	*	*
+10	Bühne	2	2	2	2
+11	gehen	2	2	2	2
+12	,	*	*	*	*
+13	denn	*	*	*	*
+14	letztendlich	*	*	*	*
+15	trachten	*	*	*	*
+16	Esalen-Besucher	*	*	*	*
+17	danach	*	*	*	*
+18	,	*	*	*	*
+19	ihre	*	*	*	*
+20	neugewonnenen	*	*	*	*
+21	Synthesen	*	*	*	*
+22	aus	*	*	*	*
+23	Seele	*	*	*	*
+24	und	*	*	*	*
+25	Gewissen	*	*	*	*
+26	daheim	*	*	*	*
+27	zum	*	*	*	*
+28	Beruf	*	*	*	*
+29	machen	*	*	*	*
+30	zu	*	*	*	*
+31	können	*	*	*	*
+32	,	*	*	*	*
+33	und	*	*	*	*
+34	zwar	*	*	*	*
+35	nach	*	*	*	*
+36	Möglichkeit	*	*	*	*
+37	zu	*	*	*	*
+38	einem	*	*	*	*
+39	,	*	*	*	*
+40	der	*	*	*	*
+41	das	*	*	*	*
+42	sanfte	*	*	*	*
+43	Gute	*	*	*	*
+44	und	*	*	*	*
+45	das	*	*	*	*
+46	erkenntnisreiche	*	*	*	*
+47	Heile	*	*	*	*
+48	in	*	*	*	*
+49	unseren	*	*	*	*
+50	fragmentierten	*	*	*	*
+51	Körpern	*	*	*	*
+52	und	*	*	*	*
+53	Geistern	*	*	*	*
+54	aufs	*	*	*	*
+55	holistischste	*	*	*	*
+56	wieder	*	*	*	*
+57	verquickt	*	*	*	*
+58	.	*	*	*	*
+
+# article_id = T900203.125
+# text = Es habe jedoch keinen Plan gegeben , wie der Widerstand der Panamaer zu brechen oder die Gefangenahme von Geiseln zu vereiteln sei ; und , wie die ' Times ` schrieb : " Außer daß in einigen Fällen Fallschirmtruppen über falschen Gebieten abgeworfen wurden , ging die Operation glatt über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Es	*	*	*	*
+2	habe	*	*	*	*
+3	jedoch	*	*	*	*
+4	keinen	*	*	*	*
+5	Plan	*	*	*	*
+6	gegeben	*	*	*	*
+7	,	*	*	*	*
+8	wie	*	*	*	*
+9	der	*	*	*	*
+10	Widerstand	*	*	*	*
+11	der	*	*	*	*
+12	Panamaer	*	*	*	*
+13	zu	*	*	*	*
+14	brechen	*	*	*	*
+15	oder	*	*	*	*
+16	die	*	*	*	*
+17	Gefangenahme	*	*	*	*
+18	von	*	*	*	*
+19	Geiseln	*	*	*	*
+20	zu	*	*	*	*
+21	vereiteln	*	*	*	*
+22	sei	*	*	*	*
+23	;	*	*	*	*
+24	und	*	*	*	*
+25	,	*	*	*	*
+26	wie	*	*	*	*
+27	die	*	*	*	*
+28	'	*	*	*	*
+29	Times	*	*	*	*
+30	`	*	*	*	*
+31	schrieb	*	*	*	*
+32	:	*	*	*	*
+33	"	*	*	*	*
+34	Außer	*	*	*	*
+35	daß	*	*	*	*
+36	in	*	*	*	*
+37	einigen	*	*	*	*
+38	Fällen	*	*	*	*
+39	Fallschirmtruppen	*	*	*	*
+40	über	*	*	*	*
+41	falschen	*	*	*	*
+42	Gebieten	*	*	*	*
+43	abgeworfen	*	*	*	*
+44	wurden	*	*	*	*
+45	,	*	*	*	*
+46	ging	2	2	2	2
+47	die	*	*	*	*
+48	Operation	*	*	*	*
+49	glatt	*	*	*	*
+50	über	2	2	2	2
+51	die	*	*	*	*
+52	Bühne	2	2	2	2
+53	.	*	*	*	*
+
+# article_id = T900202.121
+# text = Unter dem Motto " Lesben leben offen und fordern Aktzeptanz " sollen in der Woche vom 1.- 7. April überall in der Stadt Aktionen über die Bühne gehen : Multi-Media auf der Straße , Stadtrundfahrten , Podiumsdiskussionen ... LESBerlin versteht sich als Teil eines internationalen Netzwerks .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unter	*	*	*	*
+2	dem	*	*	*	*
+3	Motto	*	*	*	*
+4	"	*	*	*	*
+5	Lesben	*	*	*	*
+6	leben	*	*	*	*
+7	offen	*	*	*	*
+8	und	*	*	*	*
+9	fordern	*	*	*	*
+10	Aktzeptanz	*	*	*	*
+11	"	*	*	*	*
+12	sollen	*	*	*	*
+13	in	*	*	*	*
+14	der	*	*	*	*
+15	Woche	*	*	*	*
+16	vom	*	*	*	*
+17	1.-	*	*	*	*
+18	7	*	*	*	*
+19	.	*	*	*	*
+20	April	*	*	*	*
+21	überall	*	*	*	*
+22	in	*	*	*	*
+23	der	*	*	*	*
+24	Stadt	*	*	*	*
+25	Aktionen	*	*	*	*
+26	über	2	2	2	2
+27	die	*	*	*	*
+28	Bühne	2	2	2	2
+29	gehen	2	2	2	2
+30	:	*	*	*	*
+31	Multi-Media	*	*	*	*
+32	auf	*	*	*	*
+33	der	*	*	*	*
+34	Straße	*	*	*	*
+35	,	*	*	*	*
+36	Stadtrundfahrten	*	*	*	*
+37	,	*	*	*	*
+38	Podiumsdiskussionen	*	*	*	*
+39	...	*	*	*	*
+40	LESBerlin	*	*	*	*
+41	versteht	*	*	*	*
+42	sich	*	*	*	*
+43	als	*	*	*	*
+44	Teil	*	*	*	*
+45	eines	*	*	*	*
+46	internationalen	*	*	*	*
+47	Netzwerks	*	*	*	*
+48	.	*	*	*	*
+
+# article_id = T900219.77
+# text = Verbandsstatut und - programm gingen mit kleineren Änderungen und ohne Grundsatzdiskussionen über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Verbandsstatut	*	*	*	*
+2	und	*	*	*	*
+3	-	*	*	*	*
+4	programm	*	*	*	*
+5	gingen	2	2	2	2
+6	mit	*	*	*	*
+7	kleineren	*	*	*	*
+8	Änderungen	*	*	*	*
+9	und	*	*	*	*
+10	ohne	*	*	*	*
+11	Grundsatzdiskussionen	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	.	*	*	*	*
+
+# article_id = T900226.53
+# text = Die von den ALern mit Spannung erwartete und lange diskutierte Aktion ging zu deren eigener Überraschung völlig unspektakulär über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	von	*	*	*	*
+3	den	*	*	*	*
+4	ALern	*	*	*	*
+5	mit	*	*	*	*
+6	Spannung	*	*	*	*
+7	erwartete	*	*	*	*
+8	und	*	*	*	*
+9	lange	*	*	*	*
+10	diskutierte	*	*	*	*
+11	Aktion	*	*	*	*
+12	ging	2	2	2	2
+13	zu	*	*	*	*
+14	deren	*	*	*	*
+15	eigener	*	*	*	*
+16	Überraschung	*	*	*	*
+17	völlig	*	*	*	*
+18	unspektakulär	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	.	*	*	*	*
+
+# article_id = T920502.98
+# text = Außerdem soll im Februar 1993 Lothar Trolles " Wstawate , Lizzy , Wstawate " erstmals über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Außerdem	*	*	*	*
+2	soll	*	*	*	*
+3	im	*	*	*	*
+4	Februar	*	*	*	*
+5	1993	*	*	*	*
+6	Lothar	*	*	*	*
+7	Trolles	*	*	*	*
+8	"	*	*	*	*
+9	Wstawate	*	*	*	*
+10	,	*	*	*	*
+11	Lizzy	*	*	*	*
+12	,	*	*	*	*
+13	Wstawate	*	*	*	*
+14	"	*	*	*	*
+15	erstmals	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	.	*	*	*	*
+
+# article_id = T920514.141
+# text = ( Vom Sinn des Theaters , ZDF , 23.30 Uhr ) - Wenn alle Jahre wieder in Berlin das Theatertreffen über die Bühne geht , öffnet sich auch im Fernsehen der Vorhang für die Schauspielkunst .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	(	*	*	*	*
+2	Vom	*	*	*	*
+3	Sinn	*	*	*	*
+4	des	*	*	*	*
+5	Theaters	*	*	*	*
+6	,	*	*	*	*
+7	ZDF	*	*	*	*
+8	,	*	*	*	*
+9	23.30	*	*	*	*
+10	Uhr	*	*	*	*
+11	)	*	*	*	*
+12	-	*	*	*	*
+13	Wenn	*	*	*	*
+14	alle	*	*	*	*
+15	Jahre	*	*	*	*
+16	wieder	*	*	*	*
+17	in	*	*	*	*
+18	Berlin	*	*	*	*
+19	das	*	*	*	*
+20	Theatertreffen	*	*	*	*
+21	über	2	2	2	2
+22	die	*	*	*	*
+23	Bühne	2	2	2	2
+24	geht	2	2	2	2
+25	,	*	*	*	*
+26	öffnet	*	*	*	*
+27	sich	*	*	*	*
+28	auch	*	*	*	*
+29	im	*	*	*	*
+30	Fernsehen	*	*	*	*
+31	der	*	*	*	*
+32	Vorhang	*	*	*	*
+33	für	*	*	*	*
+34	die	*	*	*	*
+35	Schauspielkunst	*	*	*	*
+36	.	*	*	*	*
+
+# article_id = T920522.205
+# text = Mit einem Paukenschlag ist die diesjährige Mitgliederversammlung der Sparkasse am Montag über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	*	*	*	*
+2	einem	*	*	*	*
+3	Paukenschlag	*	*	*	*
+4	ist	*	*	*	*
+5	die	*	*	*	*
+6	diesjährige	*	*	*	*
+7	Mitgliederversammlung	*	*	*	*
+8	der	*	*	*	*
+9	Sparkasse	*	*	*	*
+10	am	*	*	*	*
+11	Montag	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	gegangen	2	2	2	2
+16	.	*	*	*	*
+
+# article_id = T920525.104
+# text = Ganz anders spielen sie unter Otto Klemperer : Da geht Beethovens Fünfte kühl analytisch über die Bühne des Wiener Musikvereins , jede Stimmführung für sich deutlich und direkt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ganz	*	*	*	*
+2	anders	*	*	*	*
+3	spielen	*	*	*	*
+4	sie	*	*	*	*
+5	unter	*	*	*	*
+6	Otto	*	*	*	*
+7	Klemperer	*	*	*	*
+8	:	*	*	*	*
+9	Da	*	*	*	*
+10	geht	2	2	2	2
+11	Beethovens	*	*	*	*
+12	Fünfte	*	*	*	*
+13	kühl	*	*	*	*
+14	analytisch	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	des	*	*	*	*
+19	Wiener	*	*	*	*
+20	Musikvereins	*	*	*	*
+21	,	*	*	*	*
+22	jede	*	*	*	*
+23	Stimmführung	*	*	*	*
+24	für	*	*	*	*
+25	sich	*	*	*	*
+26	deutlich	*	*	*	*
+27	und	*	*	*	*
+28	direkt	*	*	*	*
+29	.	*	*	*	*
+
+# article_id = T920529.42
+# text = Der Deal ging dennoch ohne Landtag über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Deal	*	*	*	*
+3	ging	2	2	2	2
+4	dennoch	*	*	*	*
+5	ohne	*	*	*	*
+6	Landtag	*	*	*	*
+7	über	2	2	2	2
+8	die	*	*	*	*
+9	Bühne	2	2	2	2
+10	.	*	*	*	*
+
+# article_id = T920523.189
+# text = Aber die ganze Show geht in einem solch rasanten Tempo über die Bühne , daß diese kleinen Hänger kaum auffallen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	*	*	*	*
+2	die	*	*	*	*
+3	ganze	*	*	*	*
+4	Show	*	*	*	*
+5	geht	2	2	2	2
+6	in	*	*	*	*
+7	einem	*	*	*	*
+8	solch	*	*	*	*
+9	rasanten	*	*	*	*
+10	Tempo	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	,	*	*	*	*
+15	daß	*	*	*	*
+16	diese	*	*	*	*
+17	kleinen	*	*	*	*
+18	Hänger	*	*	*	*
+19	kaum	*	*	*	*
+20	auffallen	*	*	*	*
+21	.	*	*	*	*
+
+# article_id = T920515.85
+# text = Als vorläufig letzte öffentliche Initiative der " Memorandumsgruppe " ging das Hearing im Dezember 1991 dennoch , auch ohne den Segen des Akademischen Senats , über die Bühne - und endete im Eklat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	*	*	*	*
+2	vorläufig	*	*	*	*
+3	letzte	*	*	*	*
+4	öffentliche	*	*	*	*
+5	Initiative	*	*	*	*
+6	der	*	*	*	*
+7	"	*	*	*	*
+8	Memorandumsgruppe	*	*	*	*
+9	"	*	*	*	*
+10	ging	2	2	2	2
+11	das	*	*	*	*
+12	Hearing	*	*	*	*
+13	im	*	*	*	*
+14	Dezember	*	*	*	*
+15	1991	*	*	*	*
+16	dennoch	*	*	*	*
+17	,	*	*	*	*
+18	auch	*	*	*	*
+19	ohne	*	*	*	*
+20	den	*	*	*	*
+21	Segen	*	*	*	*
+22	des	*	*	*	*
+23	Akademischen	*	*	*	*
+24	Senats	*	*	*	*
+25	,	*	*	*	*
+26	über	2	2	2	2
+27	die	*	*	*	*
+28	Bühne	2	2	2	2
+29	-	*	*	*	*
+30	und	*	*	*	*
+31	endete	*	*	*	*
+32	im	*	*	*	*
+33	Eklat	*	*	*	*
+34	.	*	*	*	*
+
+# article_id = T920604.201
+# text = Werder-Geschäftsführer Barkhausen auf Anfrage : " Wir haben gedacht , das geht locker über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Werder-Geschäftsführer	*	*	*	*
+2	Barkhausen	*	*	*	*
+3	auf	*	*	*	*
+4	Anfrage	*	*	*	*
+5	:	*	*	*	*
+6	"	*	*	*	*
+7	Wir	*	*	*	*
+8	haben	*	*	*	*
+9	gedacht	*	*	*	*
+10	,	*	*	*	*
+11	das	*	*	*	*
+12	geht	2	2	2	2
+13	locker	*	*	*	*
+14	über	2	2	2	2
+15	die	*	*	*	*
+16	Bühne	2	2	2	2
+17	.	*	*	*	*
+
+# article_id = T920611.171
+# text = Mit der Einstellung von Pawlowsky-Flodell , die voraussichtlich im Herbst über die Bühne geht , hätte die AGB nach zwei Jahren die DirektorInnenstelle wieder besetzt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	*	*	*	*
+2	der	*	*	*	*
+3	Einstellung	*	*	*	*
+4	von	*	*	*	*
+5	Pawlowsky-Flodell	*	*	*	*
+6	,	*	*	*	*
+7	die	*	*	*	*
+8	voraussichtlich	*	*	*	*
+9	im	*	*	*	*
+10	Herbst	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	geht	2	2	2	2
+15	,	*	*	*	*
+16	hätte	*	*	*	*
+17	die	*	*	*	*
+18	AGB	*	*	*	*
+19	nach	*	*	*	*
+20	zwei	*	*	*	*
+21	Jahren	*	*	*	*
+22	die	*	*	*	*
+23	DirektorInnenstelle	*	*	*	*
+24	wieder	*	*	*	*
+25	besetzt	*	*	*	*
+26	.	*	*	*	*
+
+# article_id = T920618.76
+# text = Wenn die EWR- Ratifizierung glatt über die Bühne geht , werden Schweden , Norwegen , Finnland , Island , Österreich und die Schweiz samt Liechtenstein ab Anfang nächsten Jahres am EG-Binnenmarkt teilhaben - von Ausnahmebereichen wie der Landwirtschaft abgesehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	*	*	*	*
+2	die	*	*	*	*
+3	EWR-	*	*	*	*
+4	Ratifizierung	*	*	*	*
+5	glatt	*	*	*	*
+6	über	2	2	2	2
+7	die	*	*	*	*
+8	Bühne	2	2	2	2
+9	geht	2	2	2	2
+10	,	*	*	*	*
+11	werden	*	*	*	*
+12	Schweden	*	*	*	*
+13	,	*	*	*	*
+14	Norwegen	*	*	*	*
+15	,	*	*	*	*
+16	Finnland	*	*	*	*
+17	,	*	*	*	*
+18	Island	*	*	*	*
+19	,	*	*	*	*
+20	Österreich	*	*	*	*
+21	und	*	*	*	*
+22	die	*	*	*	*
+23	Schweiz	*	*	*	*
+24	samt	*	*	*	*
+25	Liechtenstein	*	*	*	*
+26	ab	*	*	*	*
+27	Anfang	*	*	*	*
+28	nächsten	*	*	*	*
+29	Jahres	*	*	*	*
+30	am	*	*	*	*
+31	EG-Binnenmarkt	*	*	*	*
+32	teilhaben	*	*	*	*
+33	-	*	*	*	*
+34	von	*	*	*	*
+35	Ausnahmebereichen	*	*	*	*
+36	wie	*	*	*	*
+37	der	*	*	*	*
+38	Landwirtschaft	*	*	*	*
+39	abgesehen	*	*	*	*
+40	.	*	*	*	*
+
+# article_id = T921024.112
+# text = Vom 14. bis 21. November sollen an fünf Ost-Berliner Spielstätten acht Inszenierungen aus acht europäischen Ländern über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vom	*	*	*	*
+2	14	*	*	*	*
+3	.	*	*	*	*
+4	bis	*	*	*	*
+5	21	*	*	*	*
+6	.	*	*	*	*
+7	November	*	*	*	*
+8	sollen	*	*	*	*
+9	an	*	*	*	*
+10	fünf	*	*	*	*
+11	Ost-Berliner	*	*	*	*
+12	Spielstätten	*	*	*	*
+13	acht	*	*	*	*
+14	Inszenierungen	*	*	*	*
+15	aus	*	*	*	*
+16	acht	*	*	*	*
+17	europäischen	*	*	*	*
+18	Ländern	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	gehen	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T921001.240
+# text = Zum fünften Mal geht morgen und übermorgen im Wehrschloß das Bremer " Off-Festival " über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zum	*	*	*	*
+2	fünften	*	*	*	*
+3	Mal	*	*	*	*
+4	geht	2	2	2	2
+5	morgen	*	*	*	*
+6	und	*	*	*	*
+7	übermorgen	*	*	*	*
+8	im	*	*	*	*
+9	Wehrschloß	*	*	*	*
+10	das	*	*	*	*
+11	Bremer	*	*	*	*
+12	"	*	*	*	*
+13	Off-Festival	*	*	*	*
+14	"	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	.	*	*	*	*
+
+# article_id = T921015.165
+# text = Martina Ernst : " Wir fragen uns alle , wie das innerhalb von vierzehn Tagen über die Bühne gehen soll .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Martina	*	*	*	*
+2	Ernst	*	*	*	*
+3	:	*	*	*	*
+4	"	*	*	*	*
+5	Wir	*	*	*	*
+6	fragen	*	*	*	*
+7	uns	*	*	*	*
+8	alle	*	*	*	*
+9	,	*	*	*	*
+10	wie	*	*	*	*
+11	das	*	*	*	*
+12	innerhalb	*	*	*	*
+13	von	*	*	*	*
+14	vierzehn	*	*	*	*
+15	Tagen	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	gehen	2	2	2	2
+20	soll	*	*	*	*
+21	.	*	*	*	*
+
+# article_id = T921027.168
+# text = Ein Song , bei dem er sich als Rapper versucht , wirkt entsprechend halbherzig und verfehlt , aber von diesen wenigen Minuten abgesehen ging seine " oldie but goldie show " solide und peppig über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	*	*	*	*
+2	Song	*	*	*	*
+3	,	*	*	*	*
+4	bei	*	*	*	*
+5	dem	*	*	*	*
+6	er	*	*	*	*
+7	sich	*	*	*	*
+8	als	*	*	*	*
+9	Rapper	*	*	*	*
+10	versucht	*	*	*	*
+11	,	*	*	*	*
+12	wirkt	*	*	*	*
+13	entsprechend	*	*	*	*
+14	halbherzig	*	*	*	*
+15	und	*	*	*	*
+16	verfehlt	*	*	*	*
+17	,	*	*	*	*
+18	aber	*	*	*	*
+19	von	*	*	*	*
+20	diesen	*	*	*	*
+21	wenigen	*	*	*	*
+22	Minuten	*	*	*	*
+23	abgesehen	*	*	*	*
+24	ging	2	2	2	2
+25	seine	*	*	*	*
+26	"	*	*	*	*
+27	oldie	*	*	*	*
+28	but	*	*	*	*
+29	goldie	*	*	*	*
+30	show	*	*	*	*
+31	"	*	*	*	*
+32	solide	*	*	*	*
+33	und	*	*	*	*
+34	peppig	*	*	*	*
+35	über	2	2	2	2
+36	die	*	*	*	*
+37	Bühne	2	2	2	2
+38	.	*	*	*	*
+
+# article_id = T921013.123
+# text = Aber nein , das tut die Bundesregierung nicht , sie nennt die Zigeuner Rumänen , Scheinasylanten , damit die Abschiebung vor der Haustür problemlos über die Bühne geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	*	*	*	*
+2	nein	*	*	*	*
+3	,	*	*	*	*
+4	das	*	*	*	*
+5	tut	*	*	*	*
+6	die	*	*	*	*
+7	Bundesregierung	*	*	*	*
+8	nicht	*	*	*	*
+9	,	*	*	*	*
+10	sie	*	*	*	*
+11	nennt	*	*	*	*
+12	die	*	*	*	*
+13	Zigeuner	*	*	*	*
+14	Rumänen	*	*	*	*
+15	,	*	*	*	*
+16	Scheinasylanten	*	*	*	*
+17	,	*	*	*	*
+18	damit	*	*	*	*
+19	die	*	*	*	*
+20	Abschiebung	*	*	*	*
+21	vor	*	*	*	*
+22	der	*	*	*	*
+23	Haustür	*	*	*	*
+24	problemlos	*	*	*	*
+25	über	2	2	2	2
+26	die	*	*	*	*
+27	Bühne	2	2	2	2
+28	geht	2	2	2	2
+29	.	*	*	*	*
+
+# article_id = T921002.34
+# text = Auf einem Wiesenstück in der Nähe von Kusel , das die Kreisverwaltung auf eigene Kosten vom Bund gemietet hat , um die Roma und Sinti aus der Stadt herauszuhalten , sollte gestern in einem Baucontainer die Zinsauszahlung über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	*	*	*	*
+2	einem	*	*	*	*
+3	Wiesenstück	*	*	*	*
+4	in	*	*	*	*
+5	der	*	*	*	*
+6	Nähe	*	*	*	*
+7	von	*	*	*	*
+8	Kusel	*	*	*	*
+9	,	*	*	*	*
+10	das	*	*	*	*
+11	die	*	*	*	*
+12	Kreisverwaltung	*	*	*	*
+13	auf	*	*	*	*
+14	eigene	*	*	*	*
+15	Kosten	*	*	*	*
+16	vom	*	*	*	*
+17	Bund	*	*	*	*
+18	gemietet	*	*	*	*
+19	hat	*	*	*	*
+20	,	*	*	*	*
+21	um	*	*	*	*
+22	die	*	*	*	*
+23	Roma	*	*	*	*
+24	und	*	*	*	*
+25	Sinti	*	*	*	*
+26	aus	*	*	*	*
+27	der	*	*	*	*
+28	Stadt	*	*	*	*
+29	herauszuhalten	*	*	*	*
+30	,	*	*	*	*
+31	sollte	*	*	*	*
+32	gestern	*	*	*	*
+33	in	*	*	*	*
+34	einem	*	*	*	*
+35	Baucontainer	*	*	*	*
+36	die	*	*	*	*
+37	Zinsauszahlung	*	*	*	*
+38	über	2	2	2	2
+39	die	*	*	*	*
+40	Bühne	2	2	2	2
+41	gehen	2	2	2	2
+42	.	*	*	*	*
+
+# article_id = T920918.230
+# text = Der Umbau soll in der Sommerpause 1993 " über die Bühne gehen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	*	*	*	*
+2	Umbau	*	*	*	*
+3	soll	*	*	*	*
+4	in	*	*	*	*
+5	der	*	*	*	*
+6	Sommerpause	*	*	*	*
+7	1993	*	*	*	*
+8	"	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	gehen	2	2	2	2
+13	"	*	*	*	*
+14	.	*	*	*	*
+
+# article_id = T920925.83
+# text = Das Impeachment wird ohne Probleme über die Bühne gehen , " triumphiert Sozialdemokrat Miro Teixeira .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	Impeachment	*	*	*	*
+3	wird	*	*	*	*
+4	ohne	*	*	*	*
+5	Probleme	*	*	*	*
+6	über	2	2	2	2
+7	die	*	*	*	*
+8	Bühne	2	2	2	2
+9	gehen	2	2	2	2
+10	,	*	*	*	*
+11	"	*	*	*	*
+12	triumphiert	*	*	*	*
+13	Sozialdemokrat	*	*	*	*
+14	Miro	*	*	*	*
+15	Teixeira	*	*	*	*
+16	.	*	*	*	*
+
+# article_id = T920911.283
+# text = Das geht zwar auch nicht ohne Rastafari-Erklärungen und " ganya-smoke " über die Bühne , ist aber in seiner präzisen Sicht himmelweit vom üblichen Good-Vibration-Dämmerzustand entfernt , der auf schwer erkältete Norddeutsche so eine fatale Anziehungskraft hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	geht	2	2	2	2
+3	zwar	*	*	*	*
+4	auch	*	*	*	*
+5	nicht	*	*	*	*
+6	ohne	*	*	*	*
+7	Rastafari-Erklärungen	*	*	*	*
+8	und	*	*	*	*
+9	"	*	*	*	*
+10	ganya-smoke	*	*	*	*
+11	"	*	*	*	*
+12	über	2	2	2	2
+13	die	*	*	*	*
+14	Bühne	2	2	2	2
+15	,	*	*	*	*
+16	ist	*	*	*	*
+17	aber	*	*	*	*
+18	in	*	*	*	*
+19	seiner	*	*	*	*
+20	präzisen	*	*	*	*
+21	Sicht	*	*	*	*
+22	himmelweit	*	*	*	*
+23	vom	*	*	*	*
+24	üblichen	*	*	*	*
+25	Good-Vibration-Dämmerzustand	*	*	*	*
+26	entfernt	*	*	*	*
+27	,	*	*	*	*
+28	der	*	*	*	*
+29	auf	*	*	*	*
+30	schwer	*	*	*	*
+31	erkältete	*	*	*	*
+32	Norddeutsche	*	*	*	*
+33	so	*	*	*	*
+34	eine	*	*	*	*
+35	fatale	*	*	*	*
+36	Anziehungskraft	*	*	*	*
+37	hat	*	*	*	*
+38	.	*	*	*	*
+
+# article_id = T920911.283
+# text = Das Sommertheater-Festival im Zeichen Lateinamerikas ist gerade glücklich über die Bühne gegangen , da steht den Freunden des südamerikanischen Kontinents schon die nächste Festivität ins Haus .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	*	*	*	*
+2	Sommertheater-Festival	*	*	*	*
+3	im	*	*	*	*
+4	Zeichen	*	*	*	*
+5	Lateinamerikas	*	*	*	*
+6	ist	*	*	*	*
+7	gerade	*	*	*	*
+8	glücklich	*	*	*	*
+9	über	2	2	2	2
+10	die	*	*	*	*
+11	Bühne	2	2	2	2
+12	gegangen	2	2	2	2
+13	,	*	*	*	*
+14	da	*	*	*	*
+15	steht	*	*	*	*
+16	den	*	*	*	*
+17	Freunden	*	*	*	*
+18	des	*	*	*	*
+19	südamerikanischen	*	*	*	*
+20	Kontinents	*	*	*	*
+21	schon	*	*	*	*
+22	die	*	*	*	*
+23	nächste	*	*	*	*
+24	Festivität	*	*	*	*
+25	ins	*	*	*	*
+26	Haus	*	*	*	*
+27	.	*	*	*	*
+
+# article_id = T920911.284
+# text = Ich hoffe , daß die Verpflichtung von Jochen Heisig ( bisher 1860 München ) bald über die Bühne geht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	*	*	*	*
+2	hoffe	*	*	*	*
+3	,	*	*	*	*
+4	daß	*	*	*	*
+5	die	*	*	*	*
+6	Verpflichtung	*	*	*	*
+7	von	*	*	*	*
+8	Jochen	*	*	*	*
+9	Heisig	*	*	*	*
+10	(	*	*	*	*
+11	bisher	*	*	*	*
+12	1860	*	*	*	*
+13	München	*	*	*	*
+14	)	*	*	*	*
+15	bald	*	*	*	*
+16	über	2	2	2	2
+17	die	*	*	*	*
+18	Bühne	2	2	2	2
+19	geht	2	2	2	2
+20	.	*	*	*	*
+
+# article_id = T920905.28
+# text = Sonst müßten Wahlkampf und Bundestagswahl 1994 ohne die hämischen , die kritischen , die konstruktiven Einmischungen der taz über die Bühne einer langweiliger und konformer gewordenen Öffentlichkeit gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sonst	*	*	*	*
+2	müßten	*	*	*	*
+3	Wahlkampf	*	*	*	*
+4	und	*	*	*	*
+5	Bundestagswahl	*	*	*	*
+6	1994	*	*	*	*
+7	ohne	*	*	*	*
+8	die	*	*	*	*
+9	hämischen	*	*	*	*
+10	,	*	*	*	*
+11	die	*	*	*	*
+12	kritischen	*	*	*	*
+13	,	*	*	*	*
+14	die	*	*	*	*
+15	konstruktiven	*	*	*	*
+16	Einmischungen	*	*	*	*
+17	der	*	*	*	*
+18	taz	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	einer	*	*	*	*
+23	langweiliger	*	*	*	*
+24	und	*	*	*	*
+25	konformer	*	*	*	*
+26	gewordenen	*	*	*	*
+27	Öffentlichkeit	*	*	*	*
+28	gehen	2	2	2	2
+29	.	*	*	*	*
+
+# article_id = T920907.36
+# text = Im Gegensatz zu Daimler sei das Wettbewerbsverfahren bei Sony in kürzester Frist über die Bühne gegangen , es wurde sogar darauf verzichtet , der Jury alle Modelle vorzuführen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	*	*	*	*
+2	Gegensatz	*	*	*	*
+3	zu	*	*	*	*
+4	Daimler	*	*	*	*
+5	sei	*	*	*	*
+6	das	*	*	*	*
+7	Wettbewerbsverfahren	*	*	*	*
+8	bei	*	*	*	*
+9	Sony	*	*	*	*
+10	in	*	*	*	*
+11	kürzester	*	*	*	*
+12	Frist	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	Bühne	2	2	2	2
+16	gegangen	2	2	2	2
+17	,	*	*	*	*
+18	es	*	*	*	*
+19	wurde	*	*	*	*
+20	sogar	*	*	*	*
+21	darauf	*	*	*	*
+22	verzichtet	*	*	*	*
+23	,	*	*	*	*
+24	der	*	*	*	*
+25	Jury	*	*	*	*
+26	alle	*	*	*	*
+27	Modelle	*	*	*	*
+28	vorzuführen	*	*	*	*
+29	.	*	*	*	*
+
+# article_id = T920907.192
+# text = Da Sänger Björn Mohr auch noch im Besitz von Stimme und Melodieverständnis ist , kann die Party ohne Mißtöne über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	*	*	*	*
+2	Sänger	*	*	*	*
+3	Björn	*	*	*	*
+4	Mohr	*	*	*	*
+5	auch	*	*	*	*
+6	noch	*	*	*	*
+7	im	*	*	*	*
+8	Besitz	*	*	*	*
+9	von	*	*	*	*
+10	Stimme	*	*	*	*
+11	und	*	*	*	*
+12	Melodieverständnis	*	*	*	*
+13	ist	*	*	*	*
+14	,	*	*	*	*
+15	kann	*	*	*	*
+16	die	*	*	*	*
+17	Party	*	*	*	*
+18	ohne	*	*	*	*
+19	Mißtöne	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	gehen	2	2	2	2
+24	.	*	*	*	*
+
+# article_id = T920914.189
+# text = Zu dünn , zu kommerziell und zu sehr inszeniert war das Konzert der 60jährigen Afrikanerin in der Fabrik über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zu	*	*	*	*
+2	dünn	*	*	*	*
+3	,	*	*	*	*
+4	zu	*	*	*	*
+5	kommerziell	*	*	*	*
+6	und	*	*	*	*
+7	zu	*	*	*	*
+8	sehr	*	*	*	*
+9	inszeniert	*	*	*	*
+10	war	*	*	*	*
+11	das	*	*	*	*
+12	Konzert	*	*	*	*
+13	der	*	*	*	*
+14	60jährigen	*	*	*	*
+15	Afrikanerin	*	*	*	*
+16	in	*	*	*	*
+17	der	*	*	*	*
+18	Fabrik	*	*	*	*
+19	über	2	2	2	2
+20	die	*	*	*	*
+21	Bühne	2	2	2	2
+22	gegangen	2	2	2	2
+23	.	*	*	*	*
+
+# article_id = T920103.172
+# text = Auch die Grundstückstransaktionen , die noch zu Zeiten der Modrow-Regierung über die Bühne gingen , werden überprüft .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	*	*	*	*
+2	die	*	*	*	*
+3	Grundstückstransaktionen	*	*	*	*
+4	,	*	*	*	*
+5	die	*	*	*	*
+6	noch	*	*	*	*
+7	zu	*	*	*	*
+8	Zeiten	*	*	*	*
+9	der	*	*	*	*
+10	Modrow-Regierung	*	*	*	*
+11	über	2	2	2	2
+12	die	*	*	*	*
+13	Bühne	2	2	2	2
+14	gingen	2	2	2	2
+15	,	*	*	*	*
+16	werden	*	*	*	*
+17	überprüft	*	*	*	*
+18	.	*	*	*	*
+
+# article_id = T920415.65
+# text = Einen Tag nach dem Einzug der Rechtsextremen in die Landesparlamente von Schleswig-Holstein und Baden-Württemberg ging dann der Auszug der Flüchtlinge aus der TU fast ohne Interesse der Öffentlichkeit über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Einen	*	*	*	*
+2	Tag	*	*	*	*
+3	nach	*	*	*	*
+4	dem	*	*	*	*
+5	Einzug	*	*	*	*
+6	der	*	*	*	*
+7	Rechtsextremen	*	*	*	*
+8	in	*	*	*	*
+9	die	*	*	*	*
+10	Landesparlamente	*	*	*	*
+11	von	*	*	*	*
+12	Schleswig-Holstein	*	*	*	*
+13	und	*	*	*	*
+14	Baden-Württemberg	*	*	*	*
+15	ging	2	2	2	2
+16	dann	*	*	*	*
+17	der	*	*	*	*
+18	Auszug	*	*	*	*
+19	der	*	*	*	*
+20	Flüchtlinge	*	*	*	*
+21	aus	*	*	*	*
+22	der	*	*	*	*
+23	TU	*	*	*	*
+24	fast	*	*	*	*
+25	ohne	*	*	*	*
+26	Interesse	*	*	*	*
+27	der	*	*	*	*
+28	Öffentlichkeit	*	*	*	*
+29	über	2	2	2	2
+30	die	*	*	*	*
+31	Bühne	2	2	2	2
+32	.	*	*	*	*
+
+# article_id = T920427.83
+# text = In keinem einem anderen afrikanischen Land ist ein so tiefgreifender Wandel reibungslos über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	keinem	*	*	*	*
+3	einem	*	*	*	*
+4	anderen	*	*	*	*
+5	afrikanischen	*	*	*	*
+6	Land	*	*	*	*
+7	ist	*	*	*	*
+8	ein	*	*	*	*
+9	so	*	*	*	*
+10	tiefgreifender	*	*	*	*
+11	Wandel	*	*	*	*
+12	reibungslos	*	*	*	*
+13	über	2	2	2	2
+14	die	*	*	*	*
+15	Bühne	2	2	2	2
+16	gegangen	2	2	2	2
+17	.	*	*	*	*
+
+# article_id = T920403.110
+# text = Enten Variationen ist seine erste Regie auf dem glatten Parkett der Stadt- und Staatstheater ; daß sie ohne Ausrutscher über die Bühne ging , hat viel mit dem Mainzer Schauspielfrühling zu tun , also damit , daß die Fahrt in die konservativ-karnevalistische ZDF-Stadt inzwischen zur Theatermärchenreise geworden ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Enten	*	*	*	*
+2	Variationen	*	*	*	*
+3	ist	*	*	*	*
+4	seine	*	*	*	*
+5	erste	*	*	*	*
+6	Regie	*	*	*	*
+7	auf	*	*	*	*
+8	dem	*	*	*	*
+9	glatten	*	*	*	*
+10	Parkett	*	*	*	*
+11	der	*	*	*	*
+12	Stadt-	*	*	*	*
+13	und	*	*	*	*
+14	Staatstheater	*	*	*	*
+15	;	*	*	*	*
+16	daß	*	*	*	*
+17	sie	*	*	*	*
+18	ohne	*	*	*	*
+19	Ausrutscher	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	ging	2	2	2	2
+24	,	*	*	*	*
+25	hat	*	*	*	*
+26	viel	*	*	*	*
+27	mit	*	*	*	*
+28	dem	*	*	*	*
+29	Mainzer	*	*	*	*
+30	Schauspielfrühling	*	*	*	*
+31	zu	*	*	*	*
+32	tun	*	*	*	*
+33	,	*	*	*	*
+34	also	*	*	*	*
+35	damit	*	*	*	*
+36	,	*	*	*	*
+37	daß	*	*	*	*
+38	die	*	*	*	*
+39	Fahrt	*	*	*	*
+40	in	*	*	*	*
+41	die	*	*	*	*
+42	konservativ-karnevalistische	*	*	*	*
+43	ZDF-Stadt	*	*	*	*
+44	inzwischen	*	*	*	*
+45	zur	*	*	*	*
+46	Theatermärchenreise	*	*	*	*
+47	geworden	*	*	*	*
+48	ist	*	*	*	*
+49	.	*	*	*	*
+
+# article_id = T920413.95
+# text = Bei der Gründungsversammlung , die mit Hilfe der Vereinigung der Vertragsfußballspieler ( vdv ) über die Bühne ging , war die deutsche Nationalmannschaft mit 26 Spielern komplett vertreten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	*	*	*	*
+2	der	*	*	*	*
+3	Gründungsversammlung	*	*	*	*
+4	,	*	*	*	*
+5	die	*	*	*	*
+6	mit	*	*	*	*
+7	Hilfe	*	*	*	*
+8	der	*	*	*	*
+9	Vereinigung	*	*	*	*
+10	der	*	*	*	*
+11	Vertragsfußballspieler	*	*	*	*
+12	(	*	*	*	*
+13	vdv	*	*	*	*
+14	)	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	ging	2	2	2	2
+19	,	*	*	*	*
+20	war	*	*	*	*
+21	die	*	*	*	*
+22	deutsche	*	*	*	*
+23	Nationalmannschaft	*	*	*	*
+24	mit	*	*	*	*
+25	26	*	*	*	*
+26	Spielern	*	*	*	*
+27	komplett	*	*	*	*
+28	vertreten	*	*	*	*
+29	.	*	*	*	*
+
+# article_id = T920428.37
+# text = Die Wagner-Oper Lohengrin ging nur mit Notlicht über die Bühne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	*	*	*	*
+2	Wagner-Oper	*	*	*	*
+3	Lohengrin	*	*	*	*
+4	ging	2	2	2	2
+5	nur	*	*	*	*
+6	mit	*	*	*	*
+7	Notlicht	*	*	*	*
+8	über	2	2	2	2
+9	die	*	*	*	*
+10	Bühne	2	2	2	2
+11	.	*	*	*	*
+
+# article_id = T920428.42
+# text = In deren Räumlichkeiten soll der Kongreß vom 3. bis 5. Juli auch über die Bühne gehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	deren	*	*	*	*
+3	Räumlichkeiten	*	*	*	*
+4	soll	*	*	*	*
+5	der	*	*	*	*
+6	Kongreß	*	*	*	*
+7	vom	*	*	*	*
+8	3	*	*	*	*
+9	.	*	*	*	*
+10	bis	*	*	*	*
+11	5	*	*	*	*
+12	.	*	*	*	*
+13	Juli	*	*	*	*
+14	auch	*	*	*	*
+15	über	2	2	2	2
+16	die	*	*	*	*
+17	Bühne	2	2	2	2
+18	gehen	2	2	2	2
+19	.	*	*	*	*
+
+# article_id = T920424.199
+# text = Ein letztes Mal ging 1932 vor der Machtübernahme durch die Nationalsozialisten ein Werk Gerhart Hauptmanns über die Bühne des Deutschen Theaters .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	*	*	*	*
+2	letztes	*	*	*	*
+3	Mal	*	*	*	*
+4	ging	2	2	1	2
+5	1932	*	*	*	*
+6	vor	*	*	*	*
+7	der	*	*	*	*
+8	Machtübernahme	*	*	*	*
+9	durch	*	*	*	*
+10	die	*	*	*	*
+11	Nationalsozialisten	*	*	*	*
+12	ein	*	*	*	*
+13	Werk	*	*	*	*
+14	Gerhart	*	*	*	*
+15	Hauptmanns	*	*	*	*
+16	über	2	2	1	2
+17	die	*	*	*	*
+18	Bühne	2	2	1	2
+19	des	*	*	*	*
+20	Deutschen	*	*	*	*
+21	Theaters	*	*	*	*
+22	.	*	*	*	*
+
+# article_id = T920422.183
+# text = Daß die von Wissenschaftssenator Manfred Erhardt ( CDU ) angeordnete Evaluierung der Forschungsstudenten und Aspiranten im Eilverfahren nicht tadellos über die Bühne gegangen war , stand für die Universität schon im Herbst vergangenen Jahres fest .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	*	*	*	*
+2	die	*	*	*	*
+3	von	*	*	*	*
+4	Wissenschaftssenator	*	*	*	*
+5	Manfred	*	*	*	*
+6	Erhardt	*	*	*	*
+7	(	*	*	*	*
+8	CDU	*	*	*	*
+9	)	*	*	*	*
+10	angeordnete	*	*	*	*
+11	Evaluierung	*	*	*	*
+12	der	*	*	*	*
+13	Forschungsstudenten	*	*	*	*
+14	und	*	*	*	*
+15	Aspiranten	*	*	*	*
+16	im	*	*	*	*
+17	Eilverfahren	*	*	*	*
+18	nicht	*	*	*	*
+19	tadellos	*	*	*	*
+20	über	2	2	2	2
+21	die	*	*	*	*
+22	Bühne	2	2	2	2
+23	gegangen	2	2	2	2
+24	war	*	*	*	*
+25	,	*	*	*	*
+26	stand	*	*	*	*
+27	für	*	*	*	*
+28	die	*	*	*	*
+29	Universität	*	*	*	*
+30	schon	*	*	*	*
+31	im	*	*	*	*
+32	Herbst	*	*	*	*
+33	vergangenen	*	*	*	*
+34	Jahres	*	*	*	*
+35	fest	*	*	*	*
+36	.	*	*	*	*
+
+# article_id = T920408.84
+# text = In Peru ist ein veritabler Staatsstreich über die Bühne gegangen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	*	*	*	*
+2	Peru	*	*	*	*
+3	ist	*	*	*	*
+4	ein	*	*	*	*
+5	veritabler	*	*	*	*
+6	Staatsstreich	*	*	*	*
+7	über	2	2	2	2
+8	die	*	*	*	*
+9	Bühne	2	2	2	2
+10	gegangen	2	2	2	2
+11	.	*	*	*	*
+

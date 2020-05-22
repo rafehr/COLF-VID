@@ -1,0 +1,2118 @@
+# article_id = T910619.12
+# text = Denn die Konferenz für Sicherheit und Zusammenarbeit in Europa , beim Pariser Gipfel noch von Euphorie getragen , steht jetzt im Schatten der Nato .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Konferenz	Konferenz	NN	*	*	*	*
+4	für	für	APPR	*	*	*	*
+5	Sicherheit	Sicherheit	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	Zusammenarbeit	Zusammenarbeit	NN	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	Europa	Europa	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	beim	bei	APPRART	*	*	*	*
+12	Pariser	Pariser	NN	*	*	*	*
+13	Gipfel	Gipfel	NN	*	*	*	*
+14	noch	noch	ADV	*	*	*	*
+15	von	von	APPR	*	*	*	*
+16	Euphorie	Euphorie	NN	*	*	*	*
+17	getragen	tragen	VVPP	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	steht	stehen	VVFIN	2	2	2	2
+20	jetzt	jetzt	ADV	*	*	*	*
+21	im	in	APPRART	2	2	2	2
+22	Schatten	Schatten	NN	2	2	2	2
+23	der	die	ART	*	*	*	*
+24	Nato	Nato	NE	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T910928.89
+# text = In der touristischen Bekanntheitsskala steht die Marken weit im Schatten des benachbarten Umbrien oder der Toskana .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	touristischen	touristisch	ADJA	*	*	*	*
+4	Bekanntheitsskala	<unknown>	NN	*	*	*	*
+5	steht	stehen	VVFIN	2	2	2	2
+6	die	die	ART	*	*	*	*
+7	Marken	Marke	NN	*	*	*	*
+8	weit	weit	ADJD	*	*	*	*
+9	im	in	APPRART	2	2	2	2
+10	Schatten	Schatten	NN	2	2	2	2
+11	des	die	ART	*	*	*	*
+12	benachbarten	benachbart	ADJA	*	*	*	*
+13	Umbrien	Umbrien	NE	*	*	*	*
+14	oder	oder	KON	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Toskana	Toskana	NE	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T910104.230
+# text = Und dort im Schatten der Laterne stand er , den Pinsel mit dunkler Farbe noch in der Hand , das schwarze Lederjöppchen über dem eher schmalen Rücken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	dort	dort	ADV	*	*	*	*
+3	im	in	APPRART	1	1	1	1
+4	Schatten	Schatten	NN	1	1	1	1
+5	der	die	ART	*	*	*	*
+6	Laterne	Laterne	NN	*	*	*	*
+7	stand	stehen	VVFIN	1	1	1	1
+8	er	er	PPER	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Pinsel	Pinsel	NN	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	dunkler	dunkel	ADJA	*	*	*	*
+14	Farbe	Farbe	NN	*	*	*	*
+15	noch	noch	ADV	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Hand	Hand	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	das	die	ART	*	*	*	*
+21	schwarze	schwarz	ADJA	*	*	*	*
+22	Lederjöppchen	<unknown>	NN	*	*	*	*
+23	über	über	APPR	*	*	*	*
+24	dem	die	ART	*	*	*	*
+25	eher	eher	ADV	*	*	*	*
+26	schmalen	schmal	ADJA	*	*	*	*
+27	Rücken	Rücken	NN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T910409.100
+# text = Alle konsumnahen und technischen Bereiche liegen auf der Sonnenseite , während die Vorstufen im Schatten stehen , sagte Wolf Dieter Kruse , Präsident von Gesamttextil , am Montag in Frankfurt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Alle	alle	PIAT	*	*	*	*
+2	konsumnahen	konsumnah	ADJA	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	technischen	technisch	ADJA	*	*	*	*
+5	Bereiche	Bereich	NN	*	*	*	*
+6	liegen	liegen	VVFIN	*	*	*	*
+7	auf	auf	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Sonnenseite	Sonnenseite	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	während	während	KOUS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Vorstufen	Vorstufe	NN	*	*	*	*
+14	im	in	APPRART	2	2	2	2
+15	Schatten	Schatten	NN	2	2	2	2
+16	stehen	stehen	VVFIN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	sagte	sagen	VVFIN	*	*	*	*
+19	Wolf	Wolf	NE	*	*	*	*
+20	Dieter	Dieter	NE	*	*	*	*
+21	Kruse	Kruse	NE	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	Präsident	Präsident	NN	*	*	*	*
+24	von	von	APPR	*	*	*	*
+25	Gesamttextil	<unknown>	NN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	am	an	APPRART	*	*	*	*
+28	Montag	Montag	NN	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	Frankfurt	Frankfurt	NE	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T910418.111
+# text = Wieso denn nicht den Firmen jetzt das Ruder geben , die von vornherein keine oder nur wenig Rüstungsgüter produziert haben , ihnen den Lohn dafür geben , daß sie sich nicht in das schmutzige Geschäft gehängt haben und dafür , daß sie jahre- , jahrzehntelang im Schatten der Rüstungsgiganten standen ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wieso	wieso	PWAV	*	*	*	*
+2	denn	denn	ADV	*	*	*	*
+3	nicht	nicht	PTKNEG	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Firmen	Firma	NN	*	*	*	*
+6	jetzt	jetzt	ADV	*	*	*	*
+7	das	die	ART	*	*	*	*
+8	Ruder	Ruder	NN	*	*	*	*
+9	geben	geben	VVINF	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	die	die	PRELS	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	vornherein	vornherein	ADV	*	*	*	*
+14	keine	keine	PIAT	*	*	*	*
+15	oder	oder	KON	*	*	*	*
+16	nur	nur	ADV	*	*	*	*
+17	wenig	wenige	PIAT	*	*	*	*
+18	Rüstungsgüter	Rüstungsgut	NN	*	*	*	*
+19	produziert	produzieren	VVPP	*	*	*	*
+20	haben	haben	VAFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	ihnen	sie	PPER	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	Lohn	Lohn	NN	*	*	*	*
+25	dafür	dafür	PAV	*	*	*	*
+26	geben	geben	VVINF	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	daß	dass	KOUS	*	*	*	*
+29	sie	sie	PPER	*	*	*	*
+30	sich	sich	PRF	*	*	*	*
+31	nicht	nicht	PTKNEG	*	*	*	*
+32	in	in	APPR	*	*	*	*
+33	das	die	ART	*	*	*	*
+34	schmutzige	schmutzig	ADJA	*	*	*	*
+35	Geschäft	Geschäft	NN	*	*	*	*
+36	gehängt	hängen	VVPP	*	*	*	*
+37	haben	haben	VAFIN	*	*	*	*
+38	und	und	KON	*	*	*	*
+39	dafür	dafür	PAV	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	daß	dass	KOUS	*	*	*	*
+42	sie	sie	PPER	*	*	*	*
+43	jahre-	jahre-	TRUNC	*	*	*	*
+44	,	,	$,	*	*	*	*
+45	jahrzehntelang	jahrzehntelang	ADJD	*	*	*	*
+46	im	in	APPRART	2	2	2	2
+47	Schatten	Schatten	NN	2	2	2	2
+48	der	die	ART	*	*	*	*
+49	Rüstungsgiganten	Rüstungsgigant	NN	*	*	*	*
+50	standen	stehen	VVFIN	2	2	2	2
+51	?	?	$.	*	*	*	*
+
+# article_id = T910701.70
+# text = Gipfeltreffen der Staats- und Regierungschefs in Luxemburg stand im Schatten der Jugoslawien-Krise
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gipfeltreffen	Gipfeltreffen	NN	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Staats-	Staats-	TRUNC	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	Regierungschefs	Regierungschef	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Luxemburg	Luxemburg	NE	*	*	*	*
+8	stand	stehen	VVFIN	2	2	2	2
+9	im	in	APPRART	2	2	2	2
+10	Schatten	Schatten	NN	2	2	2	2
+11	der	die	ART	*	*	*	*
+12	Jugoslawien-Krise	Jugoslawien-Krise	NN	*	*	*	*
+
+# article_id = T911202.95
+# text = Stets im Schatten des großen Yannick Noah stehend , hatten seine Erfolge in Frankreich nie die gebührende Anerkennung gefunden , und selbst , als er 1988 ins Finale der French Open vordrang , bekam er nach einer glatten Dreisatzniederlage gegen Mats Wilander nichts als Schmähungen und gellende Pfiffe zu hören .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Stets	stets	ADV	*	*	*	*
+2	im	in	APPRART	2	2	2	2
+3	Schatten	Schatten	NN	2	2	2	2
+4	des	die	ART	*	*	*	*
+5	großen	groß	ADJA	*	*	*	*
+6	Yannick	Yannick	NE	*	*	*	*
+7	Noah	Noah	NE	*	*	*	*
+8	stehend	stehend	ADJD	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	hatten	haben	VAFIN	*	*	*	*
+11	seine	sein	PPOSAT	*	*	*	*
+12	Erfolge	Erfolg	NN	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Frankreich	Frankreich	NE	*	*	*	*
+15	nie	nie	ADV	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	gebührende	gebührend	ADJA	*	*	*	*
+18	Anerkennung	Anerkennung	NN	*	*	*	*
+19	gefunden	finden	VVPP	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	selbst	selbst	ADV	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	als	als	KOUS	*	*	*	*
+25	er	er	PPER	*	*	*	*
+26	1988	@card@	CARD	*	*	*	*
+27	ins	in	APPRART	*	*	*	*
+28	Finale	Finale	NN	*	*	*	*
+29	der	die	ART	*	*	*	*
+30	French	<unknown>	NN	*	*	*	*
+31	Open	<unknown>	NN	*	*	*	*
+32	vordrang	vordringen	VVFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	bekam	bekommen	VVFIN	*	*	*	*
+35	er	er	PPER	*	*	*	*
+36	nach	nach	APPR	*	*	*	*
+37	einer	eine	ART	*	*	*	*
+38	glatten	glatt	ADJA	*	*	*	*
+39	Dreisatzniederlage	Dreisatzniederlage	NN	*	*	*	*
+40	gegen	gegen	APPR	*	*	*	*
+41	Mats	Mats	NE	*	*	*	*
+42	Wilander	<unknown>	NE	*	*	*	*
+43	nichts	nichts	PIS	*	*	*	*
+44	als	als	KOKOM	*	*	*	*
+45	Schmähungen	Schmähung	NN	*	*	*	*
+46	und	und	KON	*	*	*	*
+47	gellende	gellend	ADJA	*	*	*	*
+48	Pfiffe	Pfiff	NN	*	*	*	*
+49	zu	zu	PTKZU	*	*	*	*
+50	hören	hören	VVINF	*	*	*	*
+51	.	.	$.	*	*	*	*
+
+# article_id = T911123.97
+# text = Damit steht sie im Frauenfußball noch im Schatten von Carolina Morace , die in Kürze als erste Spielerin der Welt ihr 100 .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Damit	damit	PAV	*	*	*	*
+2	steht	stehen	VVFIN	2	2	2	2
+3	sie	sie	PPER	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Frauenfußball	Frauenfußball	NN	*	*	*	*
+6	noch	noch	ADV	*	*	*	*
+7	im	in	APPRART	2	2	2	2
+8	Schatten	Schatten	NN	2	2	2	2
+9	von	von	APPR	*	*	*	*
+10	Carolina	Carolina	NE	*	*	*	*
+11	Morace	<unknown>	NE	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	die	die	PRELS	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Kürze	Kürze	NN	*	*	*	*
+16	als	als	KOKOM	*	*	*	*
+17	erste	erst	ADJA	*	*	*	*
+18	Spielerin	Spielerin	NN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Welt	Welt	NN	*	*	*	*
+21	ihr	ihr	PPOSAT	*	*	*	*
+22	100	@card@	CARD	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T911111.105
+# text = Drewermann , der eben noch die Rolle seines eigenen Priesterideals auf der Kanzel gespielt hat , steht jetzt im Schatten ( in spürbarer Nähe ) zum Redner , sein warmer Blick ruht konzentriert auf ihm , als der mit gebrochener Stimme fragt : " Aber woher nehme ich die Kraft , meinen Mitmenschen und mir selbst wirklich zu begegnen ?
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Drewermann	Drewermann	NE	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	der	die	PRELS	*	*	*	*
+4	eben	eben	ADV	*	*	*	*
+5	noch	noch	ADV	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Rolle	Rolle	NN	*	*	*	*
+8	seines	sein	PPOSAT	*	*	*	*
+9	eigenen	eigen	ADJA	*	*	*	*
+10	Priesterideals	<unknown>	NN	*	*	*	*
+11	auf	auf	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Kanzel	Kanzel	NN	*	*	*	*
+14	gespielt	spielen	VVPP	*	*	*	*
+15	hat	haben	VAFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	steht	stehen	VVFIN	1	1	1	1
+18	jetzt	jetzt	ADV	*	*	*	*
+19	im	in	APPRART	1	1	1	1
+20	Schatten	Schatten	NN	1	1	1	1
+21	(	(	$(	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	spürbarer	spürbar	ADJA	*	*	*	*
+24	Nähe	Nähe	NN	*	*	*	*
+25	)	)	$(	*	*	*	*
+26	zum	zu	APPRART	*	*	*	*
+27	Redner	Redner	NN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	sein	sein	PPOSAT	*	*	*	*
+30	warmer	warm	ADJA	*	*	*	*
+31	Blick	Blick	NN	*	*	*	*
+32	ruht	ruhen	VVFIN	*	*	*	*
+33	konzentriert	konzentrieren	VVFIN	*	*	*	*
+34	auf	auf	APPR	*	*	*	*
+35	ihm	er	PPER	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	als	als	KOUS	*	*	*	*
+38	der	die	ART	*	*	*	*
+39	mit	mit	APPR	*	*	*	*
+40	gebrochener	gebrochen	ADJA	*	*	*	*
+41	Stimme	Stimme	NN	*	*	*	*
+42	fragt	fragen	VVFIN	*	*	*	*
+43	:	:	$.	*	*	*	*
+44	"	"	$(	*	*	*	*
+45	Aber	aber	KON	*	*	*	*
+46	woher	woher	PWAV	*	*	*	*
+47	nehme	nehmen	VVFIN	*	*	*	*
+48	ich	ich	PPER	*	*	*	*
+49	die	die	ART	*	*	*	*
+50	Kraft	Kraft	NN	*	*	*	*
+51	,	,	$,	*	*	*	*
+52	meinen	mein	PPOSAT	*	*	*	*
+53	Mitmenschen	Mitmensch	NN	*	*	*	*
+54	und	und	KON	*	*	*	*
+55	mir	ich	PPER	*	*	*	*
+56	selbst	selbst	ADV	*	*	*	*
+57	wirklich	wirklich	ADJD	*	*	*	*
+58	zu	zu	PTKZU	*	*	*	*
+59	begegnen	begegnen	VVINF	*	*	*	*
+60	?	?	$.	*	*	*	*
+
+# article_id = T910202.138
+# text = Trotzdem stand Angouleme 91 weithin im Schatten des Infernos am Golf : Sowenig Besucher wie lange nicht mehr ( bis dato : mehr als 250.000 ) , verschärfte Sicherheitskontrollen an den Eingängen und nervöse Sicherheitskräfte prägten die Atmosphäre dieses ohnehin in ( intern bedingter ) Endzeitstimmung abgehaltenen europäischen Comic-Ereignisses .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Trotzdem	trotzdem	PAV	*	*	*	*
+2	stand	stehen	VVFIN	2	2	2	2
+3	Angouleme	<unknown>	NN	*	*	*	*
+4	91	@card@	CARD	*	*	*	*
+5	weithin	weithin	ADV	*	*	*	*
+6	im	in	APPRART	2	2	2	2
+7	Schatten	Schatten	NN	2	2	2	2
+8	des	die	ART	*	*	*	*
+9	Infernos	Inferno	NN	*	*	*	*
+10	am	an	APPRART	*	*	*	*
+11	Golf	Golf	NN	*	*	*	*
+12	:	:	$.	*	*	*	*
+13	Sowenig	sowenig	ADV	*	*	*	*
+14	Besucher	Besucher	NN	*	*	*	*
+15	wie	wie	KOKOM	*	*	*	*
+16	lange	lange	ADV	*	*	*	*
+17	nicht	nicht	PTKNEG	*	*	*	*
+18	mehr	mehr	ADV	*	*	*	*
+19	(	(	$(	*	*	*	*
+20	bis	bis	APPR	*	*	*	*
+21	dato	<unknown>	NE	*	*	*	*
+22	:	:	$.	*	*	*	*
+23	mehr	mehr	ADV	*	*	*	*
+24	als	als	KOKOM	*	*	*	*
+25	250.000	@card@	CARD	*	*	*	*
+26	)	)	$(	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	verschärfte	verschärfen	VVFIN	*	*	*	*
+29	Sicherheitskontrollen	Sicherheitskontrolle	NN	*	*	*	*
+30	an	an	APPR	*	*	*	*
+31	den	die	ART	*	*	*	*
+32	Eingängen	Eingang	NN	*	*	*	*
+33	und	und	KON	*	*	*	*
+34	nervöse	nervös	ADJA	*	*	*	*
+35	Sicherheitskräfte	Sicherheitskraft	NN	*	*	*	*
+36	prägten	prägen	VVFIN	*	*	*	*
+37	die	die	ART	*	*	*	*
+38	Atmosphäre	Atmosphäre	NN	*	*	*	*
+39	dieses	dies	PDAT	*	*	*	*
+40	ohnehin	ohnehin	ADV	*	*	*	*
+41	in	in	APPR	*	*	*	*
+42	(	(	$(	*	*	*	*
+43	intern	intern	ADJD	*	*	*	*
+44	bedingter	bedingt	ADJA	*	*	*	*
+45	)	)	$(	*	*	*	*
+46	Endzeitstimmung	Endzeitstimmung	NN	*	*	*	*
+47	abgehaltenen	abgehalten	ADJA	*	*	*	*
+48	europäischen	europäisch	ADJA	*	*	*	*
+49	Comic-Ereignisses	Comic-Ereignis	NN	*	*	*	*
+50	.	.	$.	*	*	*	*
+
+# article_id = T900507.186
+# text = In Nina Grosses Tote leben nicht allein ist es die sensibele Vera Bergmann ( Myriem Roussel ) , die ihr ganzes Leben im Schatten ihrer dominanten Cousine Simone ( Judith Pfistner ) stand .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Nina	Nina	NE	*	*	*	*
+3	Grosses	Große	NN	*	*	*	*
+4	Tote	Tote	NN	*	*	*	*
+5	leben	leben	VVFIN	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	allein	allein	ADV	*	*	*	*
+8	ist	sein	VAFIN	*	*	*	*
+9	es	es	PPER	*	*	*	*
+10	die	die	PDS	*	*	*	*
+11	sensibele	<unknown>	VVFIN	*	*	*	*
+12	Vera	Vera	NE	*	*	*	*
+13	Bergmann	Bergmann	NE	*	*	*	*
+14	(	(	$(	*	*	*	*
+15	Myriem	<unknown>	NE	*	*	*	*
+16	Roussel	Roussel	NE	*	*	*	*
+17	)	)	$(	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	die	die	PRELS	*	*	*	*
+20	ihr	ihr	PPOSAT	*	*	*	*
+21	ganzes	ganz	ADJA	*	*	*	*
+22	Leben	Leben	NN	*	*	*	*
+23	im	in	APPRART	2	2	2	2
+24	Schatten	Schatten	NN	2	2	2	2
+25	ihrer	ihr	PPOSAT	*	*	*	*
+26	dominanten	dominant	ADJA	*	*	*	*
+27	Cousine	Cousine	NN	*	*	*	*
+28	Simone	Simone	NE	*	*	*	*
+29	(	(	$(	*	*	*	*
+30	Judith	Judith	NE	*	*	*	*
+31	Pfistner	<unknown>	NN	*	*	*	*
+32	)	)	$(	*	*	*	*
+33	stand	stehen	VVFIN	2	2	2	2
+34	.	.	$.	*	*	*	*
+
+# article_id = T900123.53
+# text = Doch sie war in der Leipziger Zeit die politisch Aktivere , stand keineswegs im Schatten des großen Philosophen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	sie	sie	PPER	*	*	*	*
+3	war	sein	VAFIN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Leipziger	Leipziger	ADJA	*	*	*	*
+7	Zeit	Zeit	NN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	politisch	politisch	ADJD	*	*	*	*
+10	Aktivere	<unknown>	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	stand	stehen	VVFIN	2	2	2	2
+13	keineswegs	keineswegs	ADV	*	*	*	*
+14	im	in	APPRART	2	2	2	2
+15	Schatten	Schatten	NN	2	2	2	2
+16	des	die	ART	*	*	*	*
+17	großen	groß	ADJA	*	*	*	*
+18	Philosophen	Philosoph	NN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T900314.24
+# text = Letztere steht ganz im Schatten der DDR-Volkskammerwahlen , die CSU-Prominenz hält sich mehr bei ihren DSU-Parteifreunden in Sachsen und Thüringen auf als in heimischen Gefilden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Letztere	Letztere	NN	*	*	*	*
+2	steht	stehen	VVFIN	2	2	2	2
+3	ganz	ganz	ADV	*	*	*	*
+4	im	in	APPRART	2	2	2	2
+5	Schatten	Schatten	NN	2	2	2	2
+6	der	die	ART	*	*	*	*
+7	DDR-Volkskammerwahlen	DDR-Volkskammerwahl	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	CSU-Prominenz	CSU-Prominenz	NN	*	*	*	*
+11	hält	halten	VVFIN	*	*	*	*
+12	sich	sich	PRF	*	*	*	*
+13	mehr	mehr	ADV	*	*	*	*
+14	bei	bei	APPR	*	*	*	*
+15	ihren	ihr	PPOSAT	*	*	*	*
+16	DSU-Parteifreunden	<unknown>	NN	*	*	*	*
+17	in	in	APPR	*	*	*	*
+18	Sachsen	Sachsen	NE	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Thüringen	Thüringen	NE	*	*	*	*
+21	auf	auf	PTKVZ	*	*	*	*
+22	als	als	KOKOM	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	heimischen	heimisch	ADJA	*	*	*	*
+25	Gefilden	Gefilde	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T901108.75
+# text = Doch zum Abschluß eines verkorksten Jahres , in dem die Partei der Spaltung nahe war , sich in der Deutschlandpolitik nahezu abgemeldet hat und in der öffentlichen Wahrnehmung im Schatten stand , gilt allerorts die Parole " runterkochen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	zum	zu	APPRART	*	*	*	*
+3	Abschluß	Abschluss	NN	*	*	*	*
+4	eines	eine	ART	*	*	*	*
+5	verkorksten	verkorkst	ADJA	*	*	*	*
+6	Jahres	Jahr	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	in	in	APPR	*	*	*	*
+9	dem	die	PRELS	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Partei	Partei	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Spaltung	Spaltung	NN	*	*	*	*
+14	nahe	nahe	PTKVZ	*	*	*	*
+15	war	sein	VAFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	sich	sich	PRF	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Deutschlandpolitik	Deutschlandpolitik	NN	*	*	*	*
+21	nahezu	nahezu	ADV	*	*	*	*
+22	abgemeldet	abmelden	VVPP	*	*	*	*
+23	hat	haben	VAFIN	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	in	in	APPR	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	öffentlichen	öffentlich	ADJA	*	*	*	*
+28	Wahrnehmung	Wahrnehmung	NN	*	*	*	*
+29	im	in	APPRART	2	2	2	2
+30	Schatten	Schatten	NN	2	2	2	2
+31	stand	stehen	VVFIN	2	2	2	2
+32	,	,	$,	*	*	*	*
+33	gilt	gelten	VVFIN	*	*	*	*
+34	allerorts	allerorts	ADV	*	*	*	*
+35	die	die	ART	*	*	*	*
+36	Parole	Parole	NN	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	runterkochen	<unknown>	VVFIN	*	*	*	*
+39	"	"	$(	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T920506.146
+# text = » Die sitzen in der Sonne , und ich stehe im Schatten « , erregt er sich - in seiner Küche das Mahl für die Ersatzgruppe bereitend .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	»	<unknown>	ADJA	*	*	*	*
+2	Die	<unknown>	NN	*	*	*	*
+3	sitzen	sitzen	VVFIN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Sonne	Sonne	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	ich	ich	PPER	*	*	*	*
+10	stehe	stehen	VVFIN	1	1	2	1
+11	im	in	APPRART	1	1	2	1
+12	Schatten	Schatten	NN	1	1	2	1
+13	«	<unknown>	ADJD	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	erregt	erregen	VVFIN	*	*	*	*
+16	er	er	PPER	*	*	*	*
+17	sich	sich	PRF	*	*	*	*
+18	-	-	$(	*	*	*	*
+19	in	in	APPR	*	*	*	*
+20	seiner	sein	PPOSAT	*	*	*	*
+21	Küche	Küche	NN	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	Mahl	Mahl	NN	*	*	*	*
+24	für	für	APPR	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Ersatzgruppe	<unknown>	NN	*	*	*	*
+27	bereitend	<unknown>	ADJD	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T920527.119
+# text = Mit etwa 25 neu zu besetzenden Stellen im Orchester wird es bei den Berliner Philharmonikern in den nächsten vier Jahren einen größeren Wechsel geben , der aber im Schatten der gegenwärtigen schweren Finanzprobleme der Stadt steht : Im öffentlichen Dienst Berlins gibt es zur Zeit eine Stellensperre .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	etwa	etwa	ADV	*	*	*	*
+3	25	@card@	CARD	*	*	*	*
+4	neu	neu	ADJD	*	*	*	*
+5	zu	zu	PTKZU	*	*	*	*
+6	besetzenden	besetzend	ADJA	*	*	*	*
+7	Stellen	Stelle|Stellen	NN	*	*	*	*
+8	im	in	APPRART	*	*	*	*
+9	Orchester	Orchester	NN	*	*	*	*
+10	wird	werden	VAFIN	*	*	*	*
+11	es	es	PPER	*	*	*	*
+12	bei	bei	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Berliner	Berliner	ADJA	*	*	*	*
+15	Philharmonikern	Philharmoniker	NN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	nächsten	nah	ADJA	*	*	*	*
+19	vier	vier	CARD	*	*	*	*
+20	Jahren	Jahr	NN	*	*	*	*
+21	einen	eine	ART	*	*	*	*
+22	größeren	groß	ADJA	*	*	*	*
+23	Wechsel	Wechsel	NN	*	*	*	*
+24	geben	geben	VVINF	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	der	die	PRELS	*	*	*	*
+27	aber	aber	ADV	*	*	*	*
+28	im	in	APPRART	2	2	2	2
+29	Schatten	Schatten	NN	2	2	2	2
+30	der	die	ART	*	*	*	*
+31	gegenwärtigen	gegenwärtig	ADJA	*	*	*	*
+32	schweren	schwer	ADJA	*	*	*	*
+33	Finanzprobleme	Finanzproblem	NN	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	Stadt	Stadt	NN	*	*	*	*
+36	steht	stehen	VVFIN	2	2	2	2
+37	:	:	$.	*	*	*	*
+38	Im	in	APPRART	*	*	*	*
+39	öffentlichen	öffentlich	ADJA	*	*	*	*
+40	Dienst	Dienst	NN	*	*	*	*
+41	Berlins	Berlin	NE	*	*	*	*
+42	gibt	geben	VVFIN	*	*	*	*
+43	es	es	PPER	*	*	*	*
+44	zur	zu	APPRART	*	*	*	*
+45	Zeit	Zeit	NN	*	*	*	*
+46	eine	eine	ART	*	*	*	*
+47	Stellensperre	Stellensperre	NN	*	*	*	*
+48	.	.	$.	*	*	*	*
+
+# article_id = T920529.165
+# text = Bierkästen stehen noch halb voll unter den Sitzbänken im Schatten , Kühltruhen im Mittelgang , Scherben schwimmen in Bierpfützen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bierkästen	Bierkasten	NN	*	*	*	*
+2	stehen	stehen	VVFIN	1	1	1	1
+3	noch	noch	ADV	*	*	*	*
+4	halb	halb	ADJD	*	*	*	*
+5	voll	voll	ADJD	*	*	*	*
+6	unter	unter	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Sitzbänken	Sitzbank	NN	*	*	*	*
+9	im	in	APPRART	1	1	1	1
+10	Schatten	Schatten	NN	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	Kühltruhen	Kühltruhe	NN	*	*	*	*
+13	im	in	APPRART	*	*	*	*
+14	Mittelgang	Mittelgang	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	Scherben	Scherbe	NN	*	*	*	*
+17	schwimmen	schwimmen	VVFIN	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	Bierpfützen	Bierpfütze	NN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T920923.72
+# text = Im Schatten riesiger Bambusstauden steht ein Dutzend Bewaffneter , Frauen und Kinder drängen sich in den Türen der zehn Hütten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	1	1	1	1
+2	Schatten	Schatten	NN	1	1	1	1
+3	riesiger	riesig	ADJA	*	*	*	*
+4	Bambusstauden	Bambusstaude	NN	*	*	*	*
+5	steht	stehen	VVFIN	1	1	1	1
+6	ein	eine	ART	*	*	*	*
+7	Dutzend	Dutzend	NN	*	*	*	*
+8	Bewaffneter	Bewaffnete	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	Frauen	Frau	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	Kinder	Kind	NN	*	*	*	*
+13	drängen	dringen|drängen	VVFIN	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	Türen	Tür	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	zehn	zehn	CARD	*	*	*	*
+20	Hütten	Hütte	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T920106.96
+# text = Am Bergisel in Innsbruck stand Thoma wie die Vertreter fast aller anderen Nationen eindeutig im Schatten der Österreicher , die getragen vom Jubel der 25.000 Zuschauer , der Konkurrenz davonflogen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	Bergisel	<unknown>	NN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	Innsbruck	Innsbruck	NE	*	*	*	*
+5	stand	stehen	VVFIN	2	2	2	2
+6	Thoma	Thoma	NE	*	*	*	*
+7	wie	wie	KOKOM	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Vertreter	Vertreter	NN	*	*	*	*
+10	fast	fast	ADV	*	*	*	*
+11	aller	alle	PIAT	*	*	*	*
+12	anderen	andere	PIS	*	*	*	*
+13	Nationen	Nation	NN	*	*	*	*
+14	eindeutig	eindeutig	ADJD	*	*	*	*
+15	im	in	APPRART	2	2	2	2
+16	Schatten	Schatten	NN	2	2	2	2
+17	der	die	ART	*	*	*	*
+18	Österreicher	Österreicher	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	die	die	PRELS	*	*	*	*
+21	getragen	getragen	ADJD	*	*	*	*
+22	vom	von	APPRART	*	*	*	*
+23	Jubel	Jubel	NN	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	25.000	@card@	ADJA	*	*	*	*
+26	Zuschauer	Zuschauer	NN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Konkurrenz	Konkurrenz	NN	*	*	*	*
+30	davonflogen	<unknown>	VVPP	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T920106.100
+# text = Ebner , als Junioren-Nationaltorwart vom VfL Günzburg gekommen , stand in Essen immer im Schatten von Nationaltorhüter Stefan Hecker .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ebner	Ebner	NN	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	als	als	KOKOM	*	*	*	*
+4	Junioren-Nationaltorwart	Junioren-Nationaltorwart	NN	*	*	*	*
+5	vom	von	APPRART	*	*	*	*
+6	VfL	<unknown>	NN	*	*	*	*
+7	Günzburg	Günzburg	NE	*	*	*	*
+8	gekommen	kommen	VVPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	stand	stehen	VVFIN	2	2	2	2
+11	in	in	APPR	*	*	*	*
+12	Essen	Essen	NN	*	*	*	*
+13	immer	immer	ADV	*	*	*	*
+14	im	in	APPRART	2	2	2	2
+15	Schatten	Schatten	NN	2	2	2	2
+16	von	von	APPR	*	*	*	*
+17	Nationaltorhüter	Nationaltorhüter	NN	*	*	*	*
+18	Stefan	Stefan	NE	*	*	*	*
+19	Hecker	Hecker	NE	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T920123.183
+# text = Schön , dieses Ensemble in Berlin zu hören , steht es doch manchmal , obwohl längst auf allen wichtigen Festivals präsent , ein wenig im Schatten des ebenfalls in Köln ansässigen Ensemble Modern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schön	schön	ADJD	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	dieses	dies	PDAT	*	*	*	*
+4	Ensemble	Ensemble	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Berlin	Berlin	NE	*	*	*	*
+7	zu	zu	PTKZU	*	*	*	*
+8	hören	hören	VVINF	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	steht	stehen	VVFIN	2	2	2	2
+11	es	es	PPER	*	*	*	*
+12	doch	doch	ADV	*	*	*	*
+13	manchmal	manchmal	ADV	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	obwohl	obwohl	KOUS	*	*	*	*
+16	längst	längst	ADV	*	*	*	*
+17	auf	auf	APPR	*	*	*	*
+18	allen	alle	PIAT	*	*	*	*
+19	wichtigen	wichtig	ADJA	*	*	*	*
+20	Festivals	Festival	NN	*	*	*	*
+21	präsent	präsent	ADJD	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	ein	eine	ART	*	*	*	*
+24	wenig	wenige	PIS	*	*	*	*
+25	im	in	APPRART	2	2	2	2
+26	Schatten	Schatten	NN	2	2	2	2
+27	des	die	ART	*	*	*	*
+28	ebenfalls	ebenfalls	ADV	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	Köln	Köln	NE	*	*	*	*
+31	ansässigen	ansässig	ADJA	*	*	*	*
+32	Ensemble	Ensemble	NN	*	*	*	*
+33	Modern	Modern	NN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T920701.99
+# text = Das verschafft an dieser Stelle die Gelegenheit , durchaus ebenbürtige Persönlichkeiten des öffentlichen Lebens vorzustellen , die bislang in Quayles Schatten standen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	verschafft	verschaffen	VVFIN	*	*	*	*
+3	an	an	APPR	*	*	*	*
+4	dieser	dies	PDAT	*	*	*	*
+5	Stelle	Stelle	NN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Gelegenheit	Gelegenheit	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	durchaus	durchaus	ADV	*	*	*	*
+10	ebenbürtige	ebenbürtig	ADJA	*	*	*	*
+11	Persönlichkeiten	Persönlichkeit	NN	*	*	*	*
+12	des	die	ART	*	*	*	*
+13	öffentlichen	öffentlich	ADJA	*	*	*	*
+14	Lebens	Leben	NN	*	*	*	*
+15	vorzustellen	vorstellen	VVIZU	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	PRELS	*	*	*	*
+18	bislang	bislang	ADV	*	*	*	*
+19	in	in	APPR	2	2	2	2
+20	Quayles	<unknown>	NN	*	*	*	*
+21	Schatten	Schatten	NN	2	2	2	2
+22	standen	stehen	VVFIN	2	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T921208.95
+# text = Marktlage gibt das Stichwort für einen weiteren Themenschwerpunkt , der ein wenig im Schatten der " Formerneuerer " stand : Die Stimmung in Ostdeutschland wurde mal neorealistisch ( " Eine Hunds-Lektion " von Achim Scholz ) gespiegelt , mal im poetischen Realismus mit den " Birnen von Ribbeck " ( Friedrich Christian Delius ) heraufbeschworen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Marktlage	Marktlage	NN	*	*	*	*
+2	gibt	geben	VVFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	Stichwort	Stichwort	NN	*	*	*	*
+5	für	für	APPR	*	*	*	*
+6	einen	eine	ART	*	*	*	*
+7	weiteren	weit	ADJA	*	*	*	*
+8	Themenschwerpunkt	Themenschwerpunkt	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	der	die	PRELS	*	*	*	*
+11	ein	eine	ART	*	*	*	*
+12	wenig	wenige	PIS	*	*	*	*
+13	im	in	APPRART	2	2	2	2
+14	Schatten	Schatten	NN	2	2	2	2
+15	der	die	ART	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Formerneuerer	<unknown>	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	stand	stehen	VVFIN	2	2	2	2
+20	:	:	$.	*	*	*	*
+21	Die	die	ART	*	*	*	*
+22	Stimmung	Stimmung	NN	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	Ostdeutschland	Ostdeutschland	NE	*	*	*	*
+25	wurde	werden	VAFIN	*	*	*	*
+26	mal	mal	ADV	*	*	*	*
+27	neorealistisch	<unknown>	ADJD	*	*	*	*
+28	(	(	$(	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	Eine	eine	ART	*	*	*	*
+31	Hunds-Lektion	<unknown>	NN	*	*	*	*
+32	"	"	$(	*	*	*	*
+33	von	von	APPR	*	*	*	*
+34	Achim	Achim	NE	*	*	*	*
+35	Scholz	Scholz	NE	*	*	*	*
+36	)	)	$(	*	*	*	*
+37	gespiegelt	spiegeln	VVPP	*	*	*	*
+38	,	,	$,	*	*	*	*
+39	mal	mal	ADV	*	*	*	*
+40	im	in	APPRART	*	*	*	*
+41	poetischen	poetisch	ADJA	*	*	*	*
+42	Realismus	Realismus	NN	*	*	*	*
+43	mit	mit	APPR	*	*	*	*
+44	den	die	ART	*	*	*	*
+45	"	"	$(	*	*	*	*
+46	Birnen	Birne	NN	*	*	*	*
+47	von	von	APPR	*	*	*	*
+48	Ribbeck	<unknown>	NE	*	*	*	*
+49	"	"	$(	*	*	*	*
+50	(	(	$(	*	*	*	*
+51	Friedrich	Friedrich	NE	*	*	*	*
+52	Christian	Christian	NE	*	*	*	*
+53	Delius	<unknown>	NE	*	*	*	*
+54	)	)	$(	*	*	*	*
+55	heraufbeschworen	heraufbeschwören	VVPP	*	*	*	*
+56	.	.	$.	*	*	*	*
+
+# article_id = T920304.98
+# text = Alles , was in den folgenden Jahren bei Manchester United geschah , stand im Schatten dieser Tragödie .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Alles	alle	PIS	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	was	was	PRELS	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	folgenden	folgend	ADJA	*	*	*	*
+7	Jahren	Jahr	NN	*	*	*	*
+8	bei	bei	APPR	*	*	*	*
+9	Manchester	Manchester	NE	*	*	*	*
+10	United	<unknown>	NE	*	*	*	*
+11	geschah	geschehen	VVFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	stand	stehen	VVFIN	2	2	2	2
+14	im	in	APPRART	2	2	2	2
+15	Schatten	Schatten	NN	2	2	2	2
+16	dieser	dies	PDAT	*	*	*	*
+17	Tragödie	Tragödie	NN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T880827.81
+# text = Rund 190 Zeichnungen Modersohns , der gewöhnlich im Schatten seiner populäreren Frau , der Malerin Paula Becker-Modersohn steht , zeigt vom Sonntag an bis zum 30. Oktober das Westfälische Landesmuseum in Münster .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rund	rund	ADV	*	*	*	*
+2	190	@card@	CARD	*	*	*	*
+3	Zeichnungen	Zeichnung	NN	*	*	*	*
+4	Modersohns	Modersohn	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	der	die	PRELS	*	*	*	*
+7	gewöhnlich	gewöhnlich	ADJD	*	*	*	*
+8	im	in	APPRART	2	2	2	2
+9	Schatten	Schatten	NN	2	2	2	2
+10	seiner	sein	PPOSAT	*	*	*	*
+11	populäreren	populär	ADJA	*	*	*	*
+12	Frau	Frau	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Malerin	Malerin	NN	*	*	*	*
+16	Paula	Paula	NE	*	*	*	*
+17	Becker-Modersohn	Becker-Modersohn	NN	*	*	*	*
+18	steht	stehen	VVFIN	2	2	2	2
+19	,	,	$,	*	*	*	*
+20	zeigt	zeigen	VVFIN	*	*	*	*
+21	vom	von	APPRART	*	*	*	*
+22	Sonntag	Sonntag	NN	*	*	*	*
+23	an	an	PTKVZ	*	*	*	*
+24	bis	bis	KON	*	*	*	*
+25	zum	zu	APPRART	*	*	*	*
+26	30	@card@	CARD	*	*	*	*
+27	.	.	$.	*	*	*	*
+28	Oktober	Oktober	NN	*	*	*	*
+29	das	die	ART	*	*	*	*
+30	Westfälische	westfälisch	ADJA	*	*	*	*
+31	Landesmuseum	Landesmuseum	NN	*	*	*	*
+32	in	in	APPR	*	*	*	*
+33	Münster	Münster	NE	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T880804.69
+# text = " Ich habe keine Lust im Schatten einer spekulativen und skandalösen Arbeit wie Martin Scorseses Film ' The Last Temptation of Christ ` ( der ebenfalls in Venedig uraufgeführt wird ) zu stehen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Ich	ich	PPER	*	*	*	*
+3	habe	haben	VAFIN	*	*	*	*
+4	keine	keine	PIAT	*	*	*	*
+5	Lust	Lust	NN	*	*	*	*
+6	im	in	APPRART	2	2	2	2
+7	Schatten	Schatten	NN	2	2	2	2
+8	einer	eine	ART	*	*	*	*
+9	spekulativen	spekulativ	ADJA	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	skandalösen	skandalös	ADJA	*	*	*	*
+12	Arbeit	Arbeit	NN	*	*	*	*
+13	wie	wie	KOKOM	*	*	*	*
+14	Martin	Martin	NE	*	*	*	*
+15	Scorseses	<unknown>	NN	*	*	*	*
+16	Film	Film	NN	*	*	*	*
+17	'	'	$(	*	*	*	*
+18	The	The	FM	*	*	*	*
+19	Last	Last	NN	*	*	*	*
+20	Temptation	<unknown>	NN	*	*	*	*
+21	of	of	FM	*	*	*	*
+22	Christ	Christ	NE	*	*	*	*
+23	`	`	$(	*	*	*	*
+24	(	(	$(	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	ebenfalls	ebenfalls	ADV	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	Venedig	Venedig	NE	*	*	*	*
+29	uraufgeführt	uraufgeführt	ADJD	*	*	*	*
+30	wird	werden	VAFIN	*	*	*	*
+31	)	)	$(	*	*	*	*
+32	zu	zu	PTKZU	*	*	*	*
+33	stehen	stehen	VVINF	2	2	2	2
+34	.	.	$.	*	*	*	*
+
+# article_id = T870203.25
+# text = Damit bringt sich eine Behörde in Erinnerung , die seit Etablierung der Koalition immer im Schatten des Umweltministeriums stand und deshalb häufig herbe Kritik einstecken mußte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Damit	damit	PAV	*	*	*	*
+2	bringt	bringen	VVFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	eine	eine	ART	*	*	*	*
+5	Behörde	Behörde	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Erinnerung	Erinnerung	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	seit	seit	APPR	*	*	*	*
+11	Etablierung	Etablierung	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Koalition	Koalition	NN	*	*	*	*
+14	immer	immer	ADV	*	*	*	*
+15	im	in	APPRART	2	2	2	2
+16	Schatten	Schatten	NN	2	2	2	2
+17	des	die	ART	*	*	*	*
+18	Umweltministeriums	Umweltministerium	NN	*	*	*	*
+19	stand	stehen	VVFIN	2	2	2	2
+20	und	und	KON	*	*	*	*
+21	deshalb	deshalb	PAV	*	*	*	*
+22	häufig	häufig	ADJD	*	*	*	*
+23	herbe	herb	ADJA	*	*	*	*
+24	Kritik	Kritik	NN	*	*	*	*
+25	einstecken	einstecken	VVINF	*	*	*	*
+26	mußte	müssen	VMFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T930916.191
+# text = " Hilfe für Drogenabhängige darf nicht im Schatten strafrechtlicher Verfolgung stehen " , heißt es zum Beispiel in der drogenpolitischen Positionsbestimmung , wie etliche europäische Städte sie fordern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Hilfe	Hilfe	NN	*	*	*	*
+3	für	für	APPR	*	*	*	*
+4	Drogenabhängige	Drogenabhängige	NN	*	*	*	*
+5	darf	dürfen	VMFIN	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	im	in	APPRART	2	2	2	2
+8	Schatten	Schatten	NN	2	2	2	2
+9	strafrechtlicher	strafrechtlich	ADJA	*	*	*	*
+10	Verfolgung	Verfolgung	NN	*	*	*	*
+11	stehen	stehen	VVFIN	2	2	2	2
+12	"	"	$(	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	heißt	heißen	VVFIN	*	*	*	*
+15	es	es	PPER	*	*	*	*
+16	zum	zu	APPRART	*	*	*	*
+17	Beispiel	Beispiel	NN	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	drogenpolitischen	drogenpolitisch	ADJA	*	*	*	*
+21	Positionsbestimmung	Positionsbestimmung	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	wie	wie	KOUS	*	*	*	*
+24	etliche	etliche	PIAT	*	*	*	*
+25	europäische	europäisch	ADJA	*	*	*	*
+26	Städte	Stadt	NN	*	*	*	*
+27	sie	sie	PPER	*	*	*	*
+28	fordern	fordern	VVINF	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T930224.224
+# text = Der letzte Gig der Band in der Fabrik stand leider im Schatten des Diebstahls des Arbeitsgerätes von Sänger und Gitarrist Rick Sims .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	letzte	letzt	ADJA	*	*	*	*
+3	Gig	<unknown>	ADJD	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Band	Band	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Fabrik	Fabrik	NN	*	*	*	*
+9	stand	stehen	VVFIN	2	2	2	2
+10	leider	leider	ADV	*	*	*	*
+11	im	in	APPRART	2	2	2	2
+12	Schatten	Schatten	NN	2	2	2	2
+13	des	die	ART	*	*	*	*
+14	Diebstahls	Diebstahl	NN	*	*	*	*
+15	des	die	ART	*	*	*	*
+16	Arbeitsgerätes	Arbeitsgerät	NN	*	*	*	*
+17	von	von	APPR	*	*	*	*
+18	Sänger	Sänger	NN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	Gitarrist	Gitarrist	NN	*	*	*	*
+21	Rick	Rick	NE	*	*	*	*
+22	Sims	Sims	NN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T960515.269
+# text = Zusammen mit seinem Bruder Robert , in dessen Schatten er stets stand , verbrach er 1943 den B-Movie The Son Of Dracula .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zusammen	zusammen	ADV	*	*	*	*
+2	mit	mit	APPR	*	*	*	*
+3	seinem	sein	PPOSAT	*	*	*	*
+4	Bruder	Bruder	NN	*	*	*	*
+5	Robert	Robert	NE	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	in	in	APPR	2	2	2	2
+8	dessen	die	PRELAT	*	*	*	*
+9	Schatten	Schatten	NN	2	2	2	2
+10	er	er	PPER	*	*	*	*
+11	stets	stets	ADV	*	*	*	*
+12	stand	stehen	VVFIN	2	2	2	2
+13	,	,	$,	*	*	*	*
+14	verbrach	verbrechen	VVFIN	*	*	*	*
+15	er	er	PPER	*	*	*	*
+16	1943	@card@	CARD	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	B-Movie	<unknown>	NN	*	*	*	*
+19	The	The	FM	*	*	*	*
+20	Son	Son	NE	*	*	*	*
+21	Of	Of	FM	*	*	*	*
+22	Dracula	Dracula	NE	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T960612.157
+# text = Adolf Endler , der 1979 mit einem großen Essay die Dichterin Inge Müller einem breiteren Publikum vorstellte , meinte zu Biermanns Text : " Es wird ein feministisches Grundmuster in dem Gedicht bedient : Die Dichter-Frauen stehen nicht nur im Schatten ihrer Männer , sondern werden von ihnen ausgesaugt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Adolf	Adolf	NE	*	*	*	*
+2	Endler	<unknown>	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	der	die	PRELS	*	*	*	*
+5	1979	@card@	CARD	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	einem	eine	ART	*	*	*	*
+8	großen	groß	ADJA	*	*	*	*
+9	Essay	Essay	NN	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Dichterin	Dichterin	NN	*	*	*	*
+12	Inge	Inge	NE	*	*	*	*
+13	Müller	Müller	NE	*	*	*	*
+14	einem	eine	ART	*	*	*	*
+15	breiteren	breit	ADJA	*	*	*	*
+16	Publikum	Publikum	NN	*	*	*	*
+17	vorstellte	vorstellen	VVFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	meinte	meinen	VVFIN	*	*	*	*
+20	zu	zu	APPR	*	*	*	*
+21	Biermanns	Biermann	NE	*	*	*	*
+22	Text	Text	NN	*	*	*	*
+23	:	:	$.	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	Es	es	PPER	*	*	*	*
+26	wird	werden	VAFIN	*	*	*	*
+27	ein	eine	ART	*	*	*	*
+28	feministisches	feministisch	ADJA	*	*	*	*
+29	Grundmuster	Grundmuster	NN	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	dem	die	ART	*	*	*	*
+32	Gedicht	Gedicht	NN	*	*	*	*
+33	bedient	bedienen	VVPP	*	*	*	*
+34	:	:	$.	*	*	*	*
+35	Die	die	ART	*	*	*	*
+36	Dichter-Frauen	<unknown>	NN	*	*	*	*
+37	stehen	stehen	VVFIN	2	2	2	2
+38	nicht	nicht	PTKNEG	*	*	*	*
+39	nur	nur	ADV	*	*	*	*
+40	im	in	APPRART	2	2	2	2
+41	Schatten	Schatten	NN	2	2	2	2
+42	ihrer	ihr	PPOSAT	*	*	*	*
+43	Männer	Mann	NN	*	*	*	*
+44	,	,	$,	*	*	*	*
+45	sondern	sondern	KON	*	*	*	*
+46	werden	werden	VAFIN	*	*	*	*
+47	von	von	APPR	*	*	*	*
+48	ihnen	sie	PPER	*	*	*	*
+49	ausgesaugt	aussaugen	VVPP	*	*	*	*
+50	.	.	$.	*	*	*	*
+
+# article_id = T960722.297
+# text = Sie ließ zudem ihre große Rivalin , Deutschlands Schwimm-Star Franziska van Almsick , in deren Schatten die 22jährige seit Jahren steht , um drei Plätze hinter sich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	ließ	lassen	VVFIN	*	*	*	*
+3	zudem	zudem	ADV	*	*	*	*
+4	ihre	ihr	PPOSAT	*	*	*	*
+5	große	groß	ADJA	*	*	*	*
+6	Rivalin	Rivalin	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	Deutschlands	Deutschlands	NN	*	*	*	*
+9	Schwimm-Star	Schwimm-Star	NN	*	*	*	*
+10	Franziska	Franziska	NE	*	*	*	*
+11	van	van	NE	*	*	*	*
+12	Almsick	<unknown>	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	in	in	APPR	2	2	2	2
+15	deren	die	PRELAT	*	*	*	*
+16	Schatten	Schatten	NN	2	2	2	2
+17	die	die	ART	*	*	*	*
+18	22jährige	22jährig	ADJA	*	*	*	*
+19	seit	seit	APPR	*	*	*	*
+20	Jahren	Jahr	NN	*	*	*	*
+21	steht	stehen	VVFIN	2	2	2	2
+22	,	,	$,	*	*	*	*
+23	um	um	APPR	*	*	*	*
+24	drei	drei	CARD	*	*	*	*
+25	Plätze	Platz	NN	*	*	*	*
+26	hinter	hinter	APPR	*	*	*	*
+27	sich	sich	PRF	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T960725.282
+# text = Zu Unrecht stehe das Kulturleben in dieser Region im Schatten von Hamburg und Bremen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zu	zu	APPR	*	*	*	*
+2	Unrecht	Unrecht	NN	*	*	*	*
+3	stehe	stehen	VVFIN	2	2	2	2
+4	das	die	ART	*	*	*	*
+5	Kulturleben	Kulturleben	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	dieser	dies	PDAT	*	*	*	*
+8	Region	Region	NN	*	*	*	*
+9	im	in	APPRART	2	2	2	2
+10	Schatten	Schatten	NN	2	2	2	2
+11	von	von	APPR	*	*	*	*
+12	Hamburg	Hamburg	NE	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	Bremen	Bremen	NE	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T961203.180
+# text = Auch in der Lombardei ist die Industrie ansehnlich vertreten , steht allerdings stark im Schatten des Finanzsektors : Börse und Großbanken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Lombardei	Lombardei	NE	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Industrie	Industrie	NN	*	*	*	*
+8	ansehnlich	ansehnlich	ADJD	*	*	*	*
+9	vertreten	vertreten	VVPP	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	steht	stehen	VVFIN	2	2	2	2
+12	allerdings	allerdings	ADV	*	*	*	*
+13	stark	stark	ADJD	*	*	*	*
+14	im	in	APPRART	2	2	2	2
+15	Schatten	Schatten	NN	2	2	2	2
+16	des	die	ART	*	*	*	*
+17	Finanzsektors	Finanzsektor	NN	*	*	*	*
+18	:	:	$.	*	*	*	*
+19	Börse	Börse	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	Großbanken	Großbank	NN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T980506.74
+# text = Die Schenkung eines 7.000 Quadratmeter großen Areals , das den ehemaligen Appellplatz umfaßt , brachte zwar Bewegung in die Diskussion um die stets im Schatten von Dachau stehende Gedenkstätte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Schenkung	Schenkung	NN	*	*	*	*
+3	eines	eine	ART	*	*	*	*
+4	7.000	@card@	ADJA	*	*	*	*
+5	Quadratmeter	Quadratmeter	NN	*	*	*	*
+6	großen	groß	ADJA	*	*	*	*
+7	Areals	Areal	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	das	die	PRELS	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	ehemaligen	ehemalig	ADJA	*	*	*	*
+12	Appellplatz	Appellplatz	NN	*	*	*	*
+13	umfaßt	umfassen	VVFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	brachte	bringen	VVFIN	*	*	*	*
+16	zwar	zwar	ADV	*	*	*	*
+17	Bewegung	Bewegung	NN	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Diskussion	Diskussion	NN	*	*	*	*
+21	um	um	APPR	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	stets	stets	ADV	*	*	*	*
+24	im	in	APPRART	2	2	2	2
+25	Schatten	Schatten	NN	2	2	2	2
+26	von	von	APPR	*	*	*	*
+27	Dachau	Dachau	NE	*	*	*	*
+28	stehende	stehend	ADJA	2	2	2	2
+29	Gedenkstätte	Gedenkstätte	NN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T981001.140
+# text = Die diesjährige Tagung der beiden großen Finanzinstitutionen steht ganz im Schatten der Krisen in Asien und Rußland .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	diesjährige	diesjährig	ADJA	*	*	*	*
+3	Tagung	Tagung	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	beiden	beide	PIAT	*	*	*	*
+6	großen	groß	ADJA	*	*	*	*
+7	Finanzinstitutionen	Finanzinstitution	NN	*	*	*	*
+8	steht	stehen	VVFIN	2	2	2	2
+9	ganz	ganz	ADV	*	*	*	*
+10	im	in	APPRART	2	2	2	2
+11	Schatten	Schatten	NN	2	2	2	2
+12	der	die	ART	*	*	*	*
+13	Krisen	Krise	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Asien	Asien	NE	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Rußland	Russland	NE	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T980702.269
+# text = Schon bei seinem Einstieg in die große , bunte Welt des Jazz , als Altsaxophonist in Art Blakey's Jazz Messengers , stand er im Schatten seines ein gutes Jahr jüngeren Bruders Wynton .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schon	schon	ADV	*	*	*	*
+2	bei	bei	APPR	*	*	*	*
+3	seinem	sein	PPOSAT	*	*	*	*
+4	Einstieg	Einstieg	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	große	groß	ADJA	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	bunte	bunt	ADJA	*	*	*	*
+10	Welt	Welt	NN	*	*	*	*
+11	des	die	ART	*	*	*	*
+12	Jazz	Jazz	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	als	als	KOKOM	*	*	*	*
+15	Altsaxophonist	Altsaxophonist	NN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	Art	Art	NN	*	*	*	*
+18	Blakey	<unknown>	VVFIN	*	*	*	*
+19	's	es	PPER	*	*	*	*
+20	Jazz	Jazz	NN	*	*	*	*
+21	Messengers	Messenger	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	stand	stehen	VVFIN	2	2	2	2
+24	er	er	PPER	*	*	*	*
+25	im	in	APPRART	2	2	2	2
+26	Schatten	Schatten	NN	2	2	2	2
+27	seines	sein	PPOSAT	*	*	*	*
+28	ein	eine	ART	*	*	*	*
+29	gutes	gut	ADJA	*	*	*	*
+30	Jahr	Jahr	NN	*	*	*	*
+31	jüngeren	jung	ADJA	*	*	*	*
+32	Bruders	Bruder	NN	*	*	*	*
+33	Wynton	<unknown>	NE	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T980727.93
+# text = Die beiden jungen Mönche in ihren gelben Roben stehen ein bißchen abseits , im Schatten der Bäume , denn schon kurz vor sieben Uhr morgens brennt die Sonne vom Himmel .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	beiden	beide	PIAT	*	*	*	*
+3	jungen	jung	ADJA	*	*	*	*
+4	Mönche	Mönch	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	ihren	ihr	PPOSAT	*	*	*	*
+7	gelben	gelb	ADJA	*	*	*	*
+8	Roben	Robe	NN	*	*	*	*
+9	stehen	stehen	VVFIN	1	1	1	1
+10	ein	eine	ART	*	*	*	*
+11	bißchen	bisschen	ADV	*	*	*	*
+12	abseits	abseits	ADV	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	im	in	APPRART	1	1	1	1
+15	Schatten	Schatten	NN	1	1	1	1
+16	der	die	ART	*	*	*	*
+17	Bäume	Baum	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	denn	denn	KON	*	*	*	*
+20	schon	schon	ADV	*	*	*	*
+21	kurz	kurz	ADJD	*	*	*	*
+22	vor	vor	APPR	*	*	*	*
+23	sieben	sieben	CARD	*	*	*	*
+24	Uhr	Uhr	NN	*	*	*	*
+25	morgens	morgens	ADV	*	*	*	*
+26	brennt	brennen	VVFIN	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Sonne	Sonne	NN	*	*	*	*
+29	vom	von	APPRART	*	*	*	*
+30	Himmel	Himmel	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T980806.111
+# text = Und was sich momentan am Horizont abzeichnet , das sieht so recht nach einem Zeitenwechsel aus : Die 80er Jahre standen im Schatten von Politikern wie Reagan , Kohl und Thatcher , in den 90er Jahren schwingt das Pendel wieder zurück , und die Welt nähert sich unter der Führung neuer Köpfe , neuer Allianzen und unter neuen politischen Vorzeichen der Schwelle zum nächsten Jahrtausend .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	was	was	PRELS	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	momentan	momentan	ADJD	*	*	*	*
+5	am	an	APPRART	*	*	*	*
+6	Horizont	Horizont	NN	*	*	*	*
+7	abzeichnet	abzeichnen	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	das	die	PDS	*	*	*	*
+10	sieht	sehen	VVFIN	*	*	*	*
+11	so	so	ADV	*	*	*	*
+12	recht	recht	ADJD	*	*	*	*
+13	nach	nach	APPR	*	*	*	*
+14	einem	eine	ART	*	*	*	*
+15	Zeitenwechsel	Zeitenwechsel	NN	*	*	*	*
+16	aus	aus	PTKVZ	*	*	*	*
+17	:	:	$.	*	*	*	*
+18	Die	die	ART	*	*	*	*
+19	80er	80er	ADJA	*	*	*	*
+20	Jahre	Jahr	NN	*	*	*	*
+21	standen	stehen	VVFIN	2	2	2	2
+22	im	in	APPRART	2	2	2	2
+23	Schatten	Schatten	NN	2	2	2	2
+24	von	von	APPR	*	*	*	*
+25	Politikern	Politiker	NN	*	*	*	*
+26	wie	wie	KOKOM	*	*	*	*
+27	Reagan	Reagan	NE	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	Kohl	Kohl	NE	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	Thatcher	Thatcher	NE	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	den	die	ART	*	*	*	*
+35	90er	90er	ADJA	*	*	*	*
+36	Jahren	Jahr	NN	*	*	*	*
+37	schwingt	schwingen	VVFIN	*	*	*	*
+38	das	die	ART	*	*	*	*
+39	Pendel	Pendel	NN	*	*	*	*
+40	wieder	wieder	ADV	*	*	*	*
+41	zurück	zurück	PTKVZ	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	und	und	KON	*	*	*	*
+44	die	die	ART	*	*	*	*
+45	Welt	Welt	NN	*	*	*	*
+46	nähert	nähern	VVFIN	*	*	*	*
+47	sich	sich	PRF	*	*	*	*
+48	unter	unter	APPR	*	*	*	*
+49	der	die	ART	*	*	*	*
+50	Führung	Führung	NN	*	*	*	*
+51	neuer	neu	ADJA	*	*	*	*
+52	Köpfe	Kopf	NN	*	*	*	*
+53	,	,	$,	*	*	*	*
+54	neuer	neu	ADJA	*	*	*	*
+55	Allianzen	Allianz	NN	*	*	*	*
+56	und	und	KON	*	*	*	*
+57	unter	unter	APPR	*	*	*	*
+58	neuen	neu	ADJA	*	*	*	*
+59	politischen	politisch	ADJA	*	*	*	*
+60	Vorzeichen	Vorzeichen	NN	*	*	*	*
+61	der	die	ART	*	*	*	*
+62	Schwelle	Schwelle	NN	*	*	*	*
+63	zum	zu	APPRART	*	*	*	*
+64	nächsten	nah	ADJA	*	*	*	*
+65	Jahrtausend	Jahrtausend	NN	*	*	*	*
+66	.	.	$.	*	*	*	*
+
+# article_id = T980821.213
+# text = Im Kreis der vielen Nachahmer andernorts belegt es durchaus einen respektablen Platz , steht aber in Berlin ein wenig im Schatten des renommierteren DSO - zumal der Name des gestrengen Chefdirigenten Rafael Frühbeck de Burgos nach einer glanzlosen Amtsperiode als Generalmusikdirektor der Deutschen Oper ein wenig in Verruf geraten ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Kreis	Kreis	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	vielen	viele	PIAT	*	*	*	*
+5	Nachahmer	Nachahmer	NN	*	*	*	*
+6	andernorts	andernorts	ADV	*	*	*	*
+7	belegt	belegen	VVFIN	*	*	*	*
+8	es	es	PPER	*	*	*	*
+9	durchaus	durchaus	ADV	*	*	*	*
+10	einen	eine	ART	*	*	*	*
+11	respektablen	respektabel	ADJA	*	*	*	*
+12	Platz	Platz	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	steht	stehen	VVFIN	2	2	2	2
+15	aber	aber	ADV	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	Berlin	Berlin	NE	*	*	*	*
+18	ein	eine	ART	*	*	*	*
+19	wenig	wenige	PIS	*	*	*	*
+20	im	in	APPRART	2	2	2	2
+21	Schatten	Schatten	NN	2	2	2	2
+22	des	die	ART	*	*	*	*
+23	renommierteren	<unknown>	ADJA	*	*	*	*
+24	DSO	<unknown>	NN	*	*	*	*
+25	-	-	$(	*	*	*	*
+26	zumal	zumal	KOUS	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Name	Name	NN	*	*	*	*
+29	des	die	ART	*	*	*	*
+30	gestrengen	<unknown>	ADJA	*	*	*	*
+31	Chefdirigenten	Chefdirigent	NN	*	*	*	*
+32	Rafael	Rafael	NE	*	*	*	*
+33	Frühbeck	Frühbeck	NE	*	*	*	*
+34	de	de	NE	*	*	*	*
+35	Burgos	<unknown>	NE	*	*	*	*
+36	nach	nach	APPR	*	*	*	*
+37	einer	eine	ART	*	*	*	*
+38	glanzlosen	glanzlos	ADJA	*	*	*	*
+39	Amtsperiode	Amtsperiode	NN	*	*	*	*
+40	als	als	KOKOM	*	*	*	*
+41	Generalmusikdirektor	Generalmusikdirektor	NN	*	*	*	*
+42	der	die	ART	*	*	*	*
+43	Deutschen	deutsch	ADJA	*	*	*	*
+44	Oper	Oper	NN	*	*	*	*
+45	ein	eine	ART	*	*	*	*
+46	wenig	wenige	PIS	*	*	*	*
+47	in	in	APPR	*	*	*	*
+48	Verruf	Verruf	NN	*	*	*	*
+49	geraten	geraten|raten	VVPP	*	*	*	*
+50	ist	sein	VAFIN	*	*	*	*
+51	.	.	$.	*	*	*	*
+
+# article_id = T970618.87
+# text = Seit vergangene Woche in einem Briefing des Generalstabs die Regierung Erbakan und die Wohlfahrtspartei attackiert und offen mit einem Putsch gedroht wurde , steht das Parlament im Schatten der Generäle .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	vergangene	vergangen	ADJA	*	*	*	*
+3	Woche	Woche	NN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	einem	eine	ART	*	*	*	*
+6	Briefing	<unknown>	NN	*	*	*	*
+7	des	die	ART	*	*	*	*
+8	Generalstabs	Generalstab	NN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Regierung	Regierung	NN	*	*	*	*
+11	Erbakan	Erbakan	NE	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Wohlfahrtspartei	Wohlfahrtspartei	NN	*	*	*	*
+15	attackiert	attackieren	VVPP	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	offen	offen	ADJD	*	*	*	*
+18	mit	mit	APPR	*	*	*	*
+19	einem	eine	ART	*	*	*	*
+20	Putsch	Putsch	NN	*	*	*	*
+21	gedroht	drohen	VVPP	*	*	*	*
+22	wurde	werden	VAFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	steht	stehen	VVFIN	2	2	2	2
+25	das	die	ART	*	*	*	*
+26	Parlament	Parlament	NN	*	*	*	*
+27	im	in	APPRART	2	2	2	2
+28	Schatten	Schatten	NN	2	2	2	2
+29	der	die	ART	*	*	*	*
+30	Generäle	General	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T971018.387
+# text = " Es gibt auch in Deutschland gute Erzähler , doch die stehen im Schatten dieses furchtbaren , globalen Bestseller-Getues .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Es	es	PPER	*	*	*	*
+3	gibt	geben	VVFIN	*	*	*	*
+4	auch	auch	ADV	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Deutschland	Deutschland	NE	*	*	*	*
+7	gute	gut	ADJA	*	*	*	*
+8	Erzähler	Erzähler	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	doch	doch	KON	*	*	*	*
+11	die	die	PDS	*	*	*	*
+12	stehen	stehen	VVFIN	2	2	2	2
+13	im	in	APPRART	2	2	2	2
+14	Schatten	Schatten	NN	2	2	2	2
+15	dieses	dies	PDAT	*	*	*	*
+16	furchtbaren	furchtbar	ADJA	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	globalen	global	ADJA	*	*	*	*
+19	Bestseller-Getues	<unknown>	NN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T971023.246
+# text = Die Zeiten , in denen Maceo Parker im Schatten der " sex machine " stand , sind vorbei .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Zeiten	Zeit	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	denen	die	PRELS	*	*	*	*
+6	Maceo	<unknown>	NE	*	*	*	*
+7	Parker	<unknown>	NN	*	*	*	*
+8	im	in	APPRART	2	2	2	2
+9	Schatten	Schatten	NN	2	2	2	2
+10	der	die	ART	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	sex	Sex	NN	*	*	*	*
+13	machine	<unknown>	ADJD	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	stand	stehen	VVFIN	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	sind	sein	VAFIN	*	*	*	*
+18	vorbei	vorbei	ADV	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T970113.143
+# text = Ganz im Schatten dieser Ereignisse stand die Vorstellung von Ghedina , der sich mit seinem zweiten Saisonsieg zum zweiten Topfavoriten für die WM Anfang Februar in Sestriere neben dem Franzosen Luc Alphand aufschwang .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ganz	ganz	ADV	*	*	*	*
+2	im	in	APPRART	2	2	2	2
+3	Schatten	Schatten	NN	2	2	2	2
+4	dieser	dies	PDAT	*	*	*	*
+5	Ereignisse	Ereignis	NN	*	*	*	*
+6	stand	stehen	VVFIN	2	2	2	2
+7	die	die	ART	*	*	*	*
+8	Vorstellung	Vorstellung	NN	*	*	*	*
+9	von	von	APPR	*	*	*	*
+10	Ghedina	<unknown>	NE	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	sich	sich	PRF	*	*	*	*
+14	mit	mit	APPR	*	*	*	*
+15	seinem	sein	PPOSAT	*	*	*	*
+16	zweiten	zweit	ADJA	*	*	*	*
+17	Saisonsieg	Saisonsieg	NN	*	*	*	*
+18	zum	zu	APPRART	*	*	*	*
+19	zweiten	zweit	ADJA	*	*	*	*
+20	Topfavoriten	<unknown>	NN	*	*	*	*
+21	für	für	APPR	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	WM	WM	NE	*	*	*	*
+24	Anfang	Anfang	NN	*	*	*	*
+25	Februar	Februar	NN	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	Sestriere	<unknown>	NN	*	*	*	*
+28	neben	neben	APPR	*	*	*	*
+29	dem	die	ART	*	*	*	*
+30	Franzosen	Franzose	NN	*	*	*	*
+31	Luc	Luc	NE	*	*	*	*
+32	Alphand	Alphand	NN	*	*	*	*
+33	aufschwang	aufschwingen	VVFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T940917.149
+# text = Bassisten standen in den Golden Years of Rock'n'Roll zumeist im Schatten exaltierter Gitarrenvirtuosen , hielten ihr Sustain und sich selbst im Bühnenhintergrund , begnügten sich mit ihren vier Saiten und wiegten bedächtig den oftmals mähnenbehangenen Schädel ( Bill Wyman ) .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bassisten	Bassist	NN	*	*	*	*
+2	standen	stehen	VVFIN	2	2	2	2
+3	in	in	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Golden	<unknown>	NN	*	*	*	*
+6	Years	<unknown>	NE	*	*	*	*
+7	of	of	FM	*	*	*	*
+8	Rock'n'Roll	Rock'n'Roll	NN	*	*	*	*
+9	zumeist	zumeist	ADV	*	*	*	*
+10	im	in	APPRART	2	2	2	2
+11	Schatten	Schatten	NN	2	2	2	2
+12	exaltierter	exaltiert	ADJA	*	*	*	*
+13	Gitarrenvirtuosen	Gitarrenvirtuose	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	hielten	halten	VVFIN	*	*	*	*
+16	ihr	ihr	PPER	*	*	*	*
+17	Sustain	<unknown>	NE	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	sich	sich	PRF	*	*	*	*
+20	selbst	selbst	ADV	*	*	*	*
+21	im	in	APPRART	*	*	*	*
+22	Bühnenhintergrund	Bühnenhintergrund	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	begnügten	begnügen	VVFIN	*	*	*	*
+25	sich	sich	PRF	*	*	*	*
+26	mit	mit	APPR	*	*	*	*
+27	ihren	ihr	PPOSAT	*	*	*	*
+28	vier	vier	CARD	*	*	*	*
+29	Saiten	Saite	NN	*	*	*	*
+30	und	und	KON	*	*	*	*
+31	wiegten	<unknown>	VVFIN	*	*	*	*
+32	bedächtig	bedächtig	ADJD	*	*	*	*
+33	den	die	ART	*	*	*	*
+34	oftmals	oftmals	ADV	*	*	*	*
+35	mähnenbehangenen	<unknown>	ADJA	*	*	*	*
+36	Schädel	Schädel	NN	*	*	*	*
+37	(	(	$(	*	*	*	*
+38	Bill	Bill	NE	*	*	*	*
+39	Wyman	<unknown>	NE	*	*	*	*
+40	)	)	$(	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T940719.106
+# text = Zu sehr stand er im Schatten des übermächtigen Umberto Bossi , der die Ligen in fast monarchischer Manier leitet .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zu	zu	APPR	*	*	*	*
+2	sehr	sehr	ADV	*	*	*	*
+3	stand	stehen	VVFIN	2	2	2	2
+4	er	er	PPER	*	*	*	*
+5	im	in	APPRART	2	2	2	2
+6	Schatten	Schatten	NN	2	2	2	2
+7	des	die	ART	*	*	*	*
+8	übermächtigen	übermächtig	ADJA	*	*	*	*
+9	Umberto	Umberto	NE	*	*	*	*
+10	Bossi	<unknown>	NE	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	Ligen	Liga	NN	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	fast	fast	ADV	*	*	*	*
+17	monarchischer	monarchisch	ADJA	*	*	*	*
+18	Manier	Manier	NN	*	*	*	*
+19	leitet	leiten	VVFIN	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T940813.157
+# text = Kate Elder , genannt Bignose Kate , steht bis heute im Schatten ihres ständigen Begleiters Doc Holliday , der in die legendäre Schießerei am O.K. Corral verwickelt war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kate	Kate	NE	*	*	*	*
+2	Elder	<unknown>	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	genannt	nennen	VVPP	*	*	*	*
+5	Bignose	<unknown>	NN	*	*	*	*
+6	Kate	Kate	NE	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	steht	stehen	VVFIN	2	2	2	2
+9	bis	bis	APPR	*	*	*	*
+10	heute	heute	ADV	*	*	*	*
+11	im	in	APPRART	2	2	2	2
+12	Schatten	Schatten	NN	2	2	2	2
+13	ihres	ihr	PPOSAT	*	*	*	*
+14	ständigen	ständig	ADJA	*	*	*	*
+15	Begleiters	Begleiter	NN	*	*	*	*
+16	Doc	<unknown>	NE	*	*	*	*
+17	Holliday	<unknown>	NE	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	der	die	PRELS	*	*	*	*
+20	in	in	APPR	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	legendäre	legendär	ADJA	*	*	*	*
+23	Schießerei	Schießerei	NN	*	*	*	*
+24	am	an	APPRART	*	*	*	*
+25	O.K.	O.K.	NE	*	*	*	*
+26	Corral	<unknown>	NE	*	*	*	*
+27	verwickelt	verwickeln	VVPP	*	*	*	*
+28	war	sein	VAFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T941104.91
+# text = Selbst Bürgermeister Wolfgang Röken , auch ein Strippenzieher von hohen Gnaden , wenn es um das eigene Fortkommen ging , stand in seinem Schatten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Selbst	selbst	ADV	*	*	*	*
+2	Bürgermeister	Bürgermeister	NN	*	*	*	*
+3	Wolfgang	Wolfgang	NE	*	*	*	*
+4	Röken	<unknown>	NE	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	auch	auch	ADV	*	*	*	*
+7	ein	eine	ART	*	*	*	*
+8	Strippenzieher	Strippenzieher	NN	*	*	*	*
+9	von	von	APPR	*	*	*	*
+10	hohen	hoch	ADJA	*	*	*	*
+11	Gnaden	Gnade	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	wenn	wenn	KOUS	*	*	*	*
+14	es	es	PPER	*	*	*	*
+15	um	um	APPR	*	*	*	*
+16	das	die	ART	*	*	*	*
+17	eigene	eigen	ADJA	*	*	*	*
+18	Fortkommen	Fortkommen	NN	*	*	*	*
+19	ging	gehen	VVFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	stand	stehen	VVFIN	2	2	2	2
+22	in	in	APPR	2	2	2	2
+23	seinem	sein	PPOSAT	*	*	*	*
+24	Schatten	Schatten	NN	2	2	2	2
+25	.	.	$.	*	*	*	*
+
+# article_id = T950503.155
+# text = Fortan steht das Leben in ihrem Schatten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Fortan	fortan	ADV	*	*	*	*
+2	steht	stehen	VVFIN	2	2	2	2
+3	das	die	ART	*	*	*	*
+4	Leben	Leben	NN	*	*	*	*
+5	in	in	APPR	2	2	2	2
+6	ihrem	ihr	PPOSAT	*	*	*	*
+7	Schatten	Schatten	NN	2	2	2	2
+8	.	.	$.	*	*	*	*
+
+# article_id = T950622.101
+# text = Die Oilers , Houstons Footballteam , spielen seit Jahren im Mittelfeld der NFL und stehen im Schatten der Cowboys aus Dallas , die in den letzten Jahren zweimal den Superbowl gewannen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Oilers	<unknown>	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	Houstons	Houston	NE	*	*	*	*
+5	Footballteam	<unknown>	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	spielen	spielen	VVFIN	*	*	*	*
+8	seit	seit	APPR	*	*	*	*
+9	Jahren	Jahr	NN	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	Mittelfeld	Mittelfeld	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	NFL	<unknown>	NN	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	stehen	stehen	VVFIN	2	2	2	2
+16	im	in	APPRART	2	2	2	2
+17	Schatten	Schatten	NN	2	2	2	2
+18	der	die	ART	*	*	*	*
+19	Cowboys	Cowboy	NN	*	*	*	*
+20	aus	aus	APPR	*	*	*	*
+21	Dallas	Dallas	NE	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	die	die	PRELS	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	den	die	ART	*	*	*	*
+26	letzten	letzt	ADJA	*	*	*	*
+27	Jahren	Jahr	NN	*	*	*	*
+28	zweimal	zweimal	ADV	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	Superbowl	<unknown>	NN	*	*	*	*
+31	gewannen	gewinnen	VVFIN	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T951016.4
+# text = Die Abstimmung stand im Schatten einer großen Arbeiterdemonstration in Ankara , die gegen Ciller gerichtet war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Abstimmung	Abstimmung	NN	*	*	*	*
+3	stand	stehen	VVFIN	2	2	2	2
+4	im	in	APPRART	2	2	2	2
+5	Schatten	Schatten	NN	2	2	2	2
+6	einer	eine	ART	*	*	*	*
+7	großen	groß	ADJA	*	*	*	*
+8	Arbeiterdemonstration	Arbeiterdemonstration	NN	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	Ankara	Ankara	NE	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	gegen	gegen	APPR	*	*	*	*
+14	Ciller	<unknown>	NN	*	*	*	*
+15	gerichtet	richten	VVPP	*	*	*	*
+16	war	sein	VAFIN	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T950904.237
+# text = Sichtbarer Protest dagegen , daß das " denkmalgeschützte Gebäude-emsemble " in Zukunft im Schatten eines Bürokolosses stehen könnte , mit dem das Elbufer zugepflastert werden soll .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sichtbarer	sichtbar	ADJA	*	*	*	*
+2	Protest	Protest	NN	*	*	*	*
+3	dagegen	dagegen	PAV	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	denkmalgeschützte	denkmalgeschützt	ADJA	*	*	*	*
+9	Gebäude-emsemble	<unknown>	NN	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	Zukunft	Zukunft	NN	*	*	*	*
+13	im	in	APPRART	4	3	4	4
+14	Schatten	Schatten	NN	4	3	4	4
+15	eines	eine	ART	*	*	*	*
+16	Bürokolosses	<unknown>	NN	*	*	*	*
+17	stehen	stehen	VVINF	4	3	4	4
+18	könnte	können	VMFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	mit	mit	APPR	*	*	*	*
+21	dem	die	PRELS	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	Elbufer	<unknown>	NN	*	*	*	*
+24	zugepflastert	zupflastern	VVPP	*	*	*	*
+25	werden	werden	VAINF	*	*	*	*
+26	soll	sollen	VMFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T950107.160
+# text = In der Straße zum Ort verkauften Frauen Gebäck und Getränke , standen Menschengruppen im Schatten der Bäume beisammen , unterhielt man sich über die Masken , die Tänzer und die vielen Besucher - und darüber , daß Seydou , wenn er hier fremd sei , auch am See der Krokodile die beiden dicken Reptilien von ganz nah anschauen müsse .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Straße	Straße	NN	*	*	*	*
+4	zum	zu	APPRART	*	*	*	*
+5	Ort	Ort	NN	*	*	*	*
+6	verkauften	verkauft	ADJA	*	*	*	*
+7	Frauen	Frau	NN	*	*	*	*
+8	Gebäck	Gebäck	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Getränke	Getränk	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	standen	stehen	VVFIN	1	1	1	1
+13	Menschengruppen	Menschengruppe	NN	*	*	*	*
+14	im	in	APPRART	1	1	1	1
+15	Schatten	Schatten	NN	1	1	1	1
+16	der	die	ART	*	*	*	*
+17	Bäume	Baum	NN	*	*	*	*
+18	beisammen	beisammen	PTKVZ	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	unterhielt	unterhalten	VVFIN	*	*	*	*
+21	man	man	PIS	*	*	*	*
+22	sich	sich	PRF	*	*	*	*
+23	über	über	APPR	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Masken	Maske	NN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Tänzer	Tänzer	NN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	vielen	viele	PIAT	*	*	*	*
+32	Besucher	Besucher	NN	*	*	*	*
+33	-	-	$(	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	darüber	darüber	PAV	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	daß	dass	KOUS	*	*	*	*
+38	Seydou	<unknown>	NE	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	wenn	wenn	KOUS	*	*	*	*
+41	er	er	PPER	*	*	*	*
+42	hier	hier	ADV	*	*	*	*
+43	fremd	fremd	ADJD	*	*	*	*
+44	sei	sein	VAFIN	*	*	*	*
+45	,	,	$,	*	*	*	*
+46	auch	auch	ADV	*	*	*	*
+47	am	an	APPRART	*	*	*	*
+48	See	See	NN	*	*	*	*
+49	der	die	ART	*	*	*	*
+50	Krokodile	Krokodil	NN	*	*	*	*
+51	die	die	ART	*	*	*	*
+52	beiden	beide	PIAT	*	*	*	*
+53	dicken	dick	ADJA	*	*	*	*
+54	Reptilien	Reptil	NN	*	*	*	*
+55	von	von	APPR	*	*	*	*
+56	ganz	ganz	ADV	*	*	*	*
+57	nah	nah	ADJD	*	*	*	*
+58	anschauen	anschauen	VVINF	*	*	*	*
+59	müsse	müssen	VMFIN	*	*	*	*
+60	.	.	$.	*	*	*	*
+
+# article_id = T950121.149
+# text = Franz Kline , 1920 in Wilkes- Barre , Pennsylvania , geboren , stand in der Publikumsgunst immer im Schatten seines Freundes Jackson Pollock , beide Vertreter der sogenannten New York School beziehungsweise des " Abstract Expressionism " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Franz	Franz	NE	*	*	*	*
+2	Kline	Kline	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	1920	@card@	CARD	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Wilkes-	<unknown>	NE	*	*	*	*
+7	Barre	Barre	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Pennsylvania	Pennsylvania	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	geboren	gebären	VVPP	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	stand	stehen	VVFIN	2	2	2	2
+14	in	in	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Publikumsgunst	Publikumsgunst	NN	*	*	*	*
+17	immer	immer	ADV	*	*	*	*
+18	im	in	APPRART	2	2	2	2
+19	Schatten	Schatten	NN	2	2	2	2
+20	seines	sein	PPOSAT	*	*	*	*
+21	Freundes	Freund	NN	*	*	*	*
+22	Jackson	Jackson	NE	*	*	*	*
+23	Pollock	<unknown>	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	beide	beide	PIAT	*	*	*	*
+26	Vertreter	Vertreter	NN	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	sogenannten	sogenannt	ADJA	*	*	*	*
+29	New	New	NE	*	*	*	*
+30	York	York	NE	*	*	*	*
+31	School	School	NE	*	*	*	*
+32	beziehungsweise	beziehungsweise	KON	*	*	*	*
+33	des	die	ART	*	*	*	*
+34	"	"	$(	*	*	*	*
+35	Abstract	Abstract	NN	*	*	*	*
+36	Expressionism	<unknown>	NE	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T950724.258
+# text = Ohnehin werden beide Klubs gerne als Arbeitervereine verklärt , die sich als die kleineren Metropolenklubs gegen die Etablierten behaupten müssen : St. Pauli steht ( noch ) im Schatten des HSV , die Glasgow Rangers liefen Celtic in den vergangenen Jahren den Rang ab .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ohnehin	ohnehin	ADV	*	*	*	*
+2	werden	werden	VAFIN	*	*	*	*
+3	beide	beide	PIAT	*	*	*	*
+4	Klubs	Klub	NN	*	*	*	*
+5	gerne	gerne	ADV	*	*	*	*
+6	als	als	KOKOM	*	*	*	*
+7	Arbeitervereine	Arbeiterverein	NN	*	*	*	*
+8	verklärt	verklären	VVFIN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	die	die	PRELS	*	*	*	*
+11	sich	sich	PRF	*	*	*	*
+12	als	als	KOKOM	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	kleineren	klein	ADJA	*	*	*	*
+15	Metropolenklubs	<unknown>	NN	*	*	*	*
+16	gegen	gegen	APPR	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Etablierten	Etablierte	NN	*	*	*	*
+19	behaupten	behaupten	VVINF	*	*	*	*
+20	müssen	müssen	VMINF	*	*	*	*
+21	:	:	$.	*	*	*	*
+22	St.	St.	NE	*	*	*	*
+23	Pauli	Pauli	NE	*	*	*	*
+24	steht	stehen	VVFIN	2	2	2	2
+25	(	(	$(	*	*	*	*
+26	noch	noch	ADV	*	*	*	*
+27	)	)	$(	*	*	*	*
+28	im	in	APPRART	2	2	2	2
+29	Schatten	Schatten	NN	2	2	2	2
+30	des	die	ART	*	*	*	*
+31	HSV	HSV	NE	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	die	die	PRELS	*	*	*	*
+34	Glasgow	Glasgow	NE	*	*	*	*
+35	Rangers	<unknown>	NN	*	*	*	*
+36	liefen	laufen	VVFIN	*	*	*	*
+37	Celtic	<unknown>	NN	*	*	*	*
+38	in	in	APPR	*	*	*	*
+39	den	die	ART	*	*	*	*
+40	vergangenen	vergangen	ADJA	*	*	*	*
+41	Jahren	Jahr	NN	*	*	*	*
+42	den	die	ART	*	*	*	*
+43	Rang	Rang	NN	*	*	*	*
+44	ab	ab	PTKVZ	*	*	*	*
+45	.	.	$.	*	*	*	*
+
+# article_id = T951205.108
+# text = In Deutschland aber steht die sogenannte Ausländerfrage im Schatten der nationalsozialistischen Rassenpolitik .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	Deutschland	Deutschland	NE	*	*	*	*
+3	aber	aber	ADV	*	*	*	*
+4	steht	stehen	VVFIN	2	2	2	2
+5	die	die	ART	*	*	*	*
+6	sogenannte	sogenannt	ADJA	*	*	*	*
+7	Ausländerfrage	Ausländerfrage	NN	*	*	*	*
+8	im	in	APPRART	2	2	2	2
+9	Schatten	Schatten	NN	2	2	2	2
+10	der	die	ART	*	*	*	*
+11	nationalsozialistischen	nationalsozialistisch	ADJA	*	*	*	*
+12	Rassenpolitik	Rassenpolitik	NN	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T951207.105
+# text = Heute stehen sie ganz im Schatten der Verfahrenstricks , mit denen das neue Asylrecht versucht , Flüchtlingen sogar ein faires Asylverfahren in der Bundesrepublik zu verwehren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Heute	heute	ADV	*	*	*	*
+2	stehen	stehen	VVFIN	2	2	2	2
+3	sie	sie	PPER	*	*	*	*
+4	ganz	ganz	ADV	*	*	*	*
+5	im	in	APPRART	2	2	2	2
+6	Schatten	Schatten	NN	2	2	2	2
+7	der	die	ART	*	*	*	*
+8	Verfahrenstricks	Verfahrenstrick	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	mit	mit	APPR	*	*	*	*
+11	denen	die	PRELS	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	neue	neu	ADJA	*	*	*	*
+14	Asylrecht	Asylrecht	NN	*	*	*	*
+15	versucht	versuchen	VVPP	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	Flüchtlingen	Flüchtling	NN	*	*	*	*
+18	sogar	sogar	ADV	*	*	*	*
+19	ein	eine	ART	*	*	*	*
+20	faires	fair	ADJA	*	*	*	*
+21	Asylverfahren	Asylverfahren	NN	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Bundesrepublik	Bundesrepublik	NN	*	*	*	*
+25	zu	zu	PTKZU	*	*	*	*
+26	verwehren	verwehren	VVINF	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T951202.137
+# text = In den Augen der Öffentlichkeit steht Harry Evans längst im Schatten seiner Frau .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Augen	Auge	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Öffentlichkeit	Öffentlichkeit	NN	*	*	*	*
+6	steht	stehen	VVFIN	2	2	2	2
+7	Harry	Harry	NE	*	*	*	*
+8	Evans	<unknown>	NE	*	*	*	*
+9	längst	längst	ADV	*	*	*	*
+10	im	in	APPRART	2	2	2	2
+11	Schatten	Schatten	NN	2	2	2	2
+12	seiner	sein	PPOSAT	*	*	*	*
+13	Frau	Frau	NN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T990417.316
+# text = Und hinter Ulli Wickert steht abends in seinem Schatten Diemuth Roether , und wenn er was Schlaues sagt , ist 's von ihr .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	hinter	hinter	APPR	*	*	*	*
+3	Ulli	Ulli	NE	*	*	*	*
+4	Wickert	<unknown>	NN	*	*	*	*
+5	steht	stehen	VVFIN	3	2	2	2
+6	abends	abends	ADV	*	*	*	*
+7	in	in	APPR	3	2	2	2
+8	seinem	sein	PPOSAT	*	*	*	*
+9	Schatten	Schatten	NN	3	2	2	2
+10	Diemuth	Diemuth	NE	*	*	*	*
+11	Roether	<unknown>	NE	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	wenn	wenn	KOUS	*	*	*	*
+15	er	er	PPER	*	*	*	*
+16	was	was	PIAT	*	*	*	*
+17	Schlaues	Schlaue	NN	*	*	*	*
+18	sagt	sagen	VVFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	ist	sein	VAFIN	*	*	*	*
+21	's	es	PPER	*	*	*	*
+22	von	von	APPR	*	*	*	*
+23	ihr	ihr	PPER	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T990213.199
+# text = In ihrem Schatten steht die schmächtige pubertierenden Tochter ( Jane Horrocks ) .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	In	in	APPR	2	2	2	2
+2	ihrem	ihr	PPOSAT	*	*	*	*
+3	Schatten	Schatten	NN	2	2	2	2
+4	steht	stehen	VVFIN	2	2	2	2
+5	die	die	ART	*	*	*	*
+6	schmächtige	schmächtig	ADJA	*	*	*	*
+7	pubertierenden	pubertierend	ADJA	*	*	*	*
+8	Tochter	Tochter	NN	*	*	*	*
+9	(	(	$(	*	*	*	*
+10	Jane	Jane	NE	*	*	*	*
+11	Horrocks	<unknown>	NN	*	*	*	*
+12	)	)	$(	*	*	*	*
+13	.	.	$.	*	*	*	*
+

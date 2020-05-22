@@ -1,0 +1,1303 @@
+# article_id = T890427.171
+# text = Da muß der Kulturmuffel den Atem anhalten , wenn Batman in Aktion tritt , Dick Tracy sein Zwei-Kanal - Armbanduhr-Funkgerät mit Atombatterie in Betrieb nimmt und Supergirl gegen die surrealen Special Effects der achtziger Jahre zu kämpfen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	muß	müssen	VMFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Kulturmuffel	Kulturmuffel	NN	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	Atem	Atem	NN	2	2	2	2
+7	anhalten	anhalten	VVINF	2	2	2	2
+8	,	,	$,	*	*	*	*
+9	wenn	wenn	KOUS	*	*	*	*
+10	Batman	<unknown>	NE	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	Aktion	Aktion	NN	*	*	*	*
+13	tritt	treten	VVFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	Dick	Dick	NE	*	*	*	*
+16	Tracy	Tracy	NE	*	*	*	*
+17	sein	sein	PPOSAT	*	*	*	*
+18	Zwei-Kanal	Zwei-Kanal	NN	*	*	*	*
+19	-	-	$(	*	*	*	*
+20	Armbanduhr-Funkgerät	<unknown>	NN	*	*	*	*
+21	mit	mit	APPR	*	*	*	*
+22	Atombatterie	Atombatterie	NN	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	Betrieb	Betrieb	NN	*	*	*	*
+25	nimmt	nehmen	VVFIN	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	Supergirl	<unknown>	NN	*	*	*	*
+28	gegen	gegen	APPR	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	surrealen	<unknown>	ADJA	*	*	*	*
+31	Special	Special	NN	*	*	*	*
+32	Effects	<unknown>	NN	*	*	*	*
+33	der	die	ART	*	*	*	*
+34	achtziger	achtzig	ADJA	*	*	*	*
+35	Jahre	Jahr	NN	*	*	*	*
+36	zu	zu	PTKZU	*	*	*	*
+37	kämpfen	kämpfen	VVINF	*	*	*	*
+38	hat	haben	VAFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T890807.96
+# text = Und die fordern das Publikum - das einmal den Atem anhält : Einer läßt sich in einer Mut - / Vertrauensprobe von einer Wand fallen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	die	die	PDS	*	*	*	*
+3	fordern	fordern	VVFIN	*	*	*	*
+4	das	die	ART	*	*	*	*
+5	Publikum	Publikum	NN	*	*	*	*
+6	-	-	$(	*	*	*	*
+7	das	die	PRELS	*	*	*	*
+8	einmal	einmal	ADV	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Atem	Atem	NN	2	2	2	2
+11	anhält	anhalten	VVFIN	2	2	2	2
+12	:	:	$.	*	*	*	*
+13	Einer	eine	PIS	*	*	*	*
+14	läßt	lassen	VVFIN	*	*	*	*
+15	sich	sich	PRF	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	einer	eine	ART	*	*	*	*
+18	Mut	Mut	NN	*	*	*	*
+19	-	-	$(	*	*	*	*
+20	/	/	$(	*	*	*	*
+21	Vertrauensprobe	<unknown>	NN	*	*	*	*
+22	von	von	APPR	*	*	*	*
+23	einer	eine	ART	*	*	*	*
+24	Wand	Wand	NN	*	*	*	*
+25	fallen	fallen	VVINF	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T891113.114
+# text = In solchen historischen Situationen , wo die Ereignisse sich überschlagen und die Welt den Atem anhält , da hat vor allem das Radio die Nase vorn .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	solchen	solche	PIAT	*	*	*	*
+3	historischen	historisch	ADJA	*	*	*	*
+4	Situationen	Situation	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	wo	wo	PWAV	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Ereignisse	Ereignis	NN	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	überschlagen	überschlagen	VVINF	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Welt	Welt	NN	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Atem	Atem	NN	2	2	2	2
+16	anhält	anhalten	VVFIN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	da	da	KOUS	*	*	*	*
+19	hat	haben	VAFIN	*	*	*	*
+20	vor	vor	APPR	*	*	*	*
+21	allem	alle	PIS	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	Radio	Radio	NN	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Nase	Nase	NN	*	*	*	*
+26	vorn	vorn	ADV	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T890222.34
+# text = Die miserablen Umfrageergebnisse der Union lassen einige bereits jetzt den Atem anhalten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	miserablen	miserablen	ADJA	*	*	*	*
+3	Umfrageergebnisse	Umfrageergebnis	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Union	Union	NN	*	*	*	*
+6	lassen	lassen	VVFIN	*	*	*	*
+7	einige	einige	PIS	*	*	*	*
+8	bereits	bereits	ADV	*	*	*	*
+9	jetzt	jetzt	ADV	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Atem	Atem	NN	2	2	2	2
+12	anhalten	anhalten	VVINF	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T910517.108
+# text = ' De Volkskrant ` ( Holland ) : " Rotterdam hatte den Atem angehalten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	'	'	$(	*	*	*	*
+2	De	De	NE	*	*	*	*
+3	Volkskrant	<unknown>	NN	*	*	*	*
+4	`	`	$(	*	*	*	*
+5	(	(	$(	*	*	*	*
+6	Holland	Holland	NE	*	*	*	*
+7	)	)	$(	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Rotterdam	Rotterdam	NE	*	*	*	*
+11	hatte	haben	VAFIN	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Atem	Atem	NN	2	2	2	2
+14	angehalten	anhalten	VVPP	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T910611.126
+# text = Zuvorderst ist die hinreißende Musik zu rühmen : Lothar Zagrosek und das Gewandhausorchester legten eine Figaro-Ouvertüre vor , daß man den Atem anhalten mußte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zuvorderst	zuvorderst	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	hinreißende	hinreißend	ADJA	*	*	*	*
+5	Musik	Musik	NN	*	*	*	*
+6	zu	zu	PTKZU	*	*	*	*
+7	rühmen	rühmen	VVINF	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	Lothar	Lothar	NE	*	*	*	*
+10	Zagrosek	<unknown>	NE	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	Gewandhausorchester	Gewandhausorchester	NN	*	*	*	*
+14	legten	legen	VVFIN	*	*	*	*
+15	eine	eine	ART	*	*	*	*
+16	Figaro-Ouvertüre	<unknown>	NN	*	*	*	*
+17	vor	vor	PTKVZ	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	daß	dass	KOUS	*	*	*	*
+20	man	man	PIS	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	Atem	Atem	NN	2	2	2	2
+23	anhalten	anhalten	VVINF	2	2	2	2
+24	mußte	müssen	VMFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T911203.106
+# text = Im ersten Augenblick mußte ich den Atem anhalten .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Im	in	APPRART	*	*	*	*
+2	ersten	erst	ADJA	*	*	*	*
+3	Augenblick	Augenblick	NN	*	*	*	*
+4	mußte	müssen	VMFIN	*	*	*	*
+5	ich	ich	PPER	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	Atem	Atem	NN	1	1	1	1
+8	anhalten	anhalten	VVINF	1	1	1	1
+9	.	.	$.	*	*	*	*
+
+# article_id = T910327.204
+# text = Ich gehe zu dem Bäumchen gegenüber dem Haupteingang : Müllsack ( mit Decken gefüllt ) auf die feuchte Erde , Pappschild und Hut ( Baskenmütze ) in Position und dann den Atem anhalten .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Ich	ich	PPER	*	*	*	*
+2	gehe	gehen	VVFIN	*	*	*	*
+3	zu	zu	APPR	*	*	*	*
+4	dem	die	ART	*	*	*	*
+5	Bäumchen	Bäumchen	NN	*	*	*	*
+6	gegenüber	gegenüber	APPR	*	*	*	*
+7	dem	die	ART	*	*	*	*
+8	Haupteingang	Haupteingang	NN	*	*	*	*
+9	:	:	$.	*	*	*	*
+10	Müllsack	Müllsack	NN	*	*	*	*
+11	(	(	$(	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	Decken	Decke|Decken	NN	*	*	*	*
+14	gefüllt	füllen	VVPP	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	auf	auf	APPR	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	feuchte	feucht	ADJA	*	*	*	*
+19	Erde	Erde	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	Pappschild	Pappschild	NN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	Hut	Hut	NN	*	*	*	*
+24	(	(	$(	*	*	*	*
+25	Baskenmütze	Baskenmütze	NN	*	*	*	*
+26	)	)	$(	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	Position	Position	NN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	dann	dann	ADV	*	*	*	*
+31	den	die	ART	*	*	*	*
+32	Atem	Atem	NN	2	1	1	1
+33	anhalten	anhalten	VVINF	2	1	1	1
+34	.	.	$.	*	*	*	*
+
+# article_id = T911101.71
+# text = Sascha A. , der " Stasi-Spitzel " - da haben viele den Atem angehalten und gefragt , kann er das auch belegen , der Biermann , ist die Akte auffindbar , ist er nicht ein wenig zu weit gegangen ... Paart sich jetzt die Egozentrik , die wir dem Künstler Biermann immer verziehen haben , mit einer übermäßigen Prise Altersstarrsinn ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sascha	Sascha	NE	*	*	*	*
+2	A.	A.	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	Stasi-Spitzel	Stasi-Spitzel	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	-	-	$(	*	*	*	*
+9	da	da	ADV	*	*	*	*
+10	haben	haben	VAFIN	*	*	*	*
+11	viele	viele	PIS	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Atem	Atem	NN	2	2	2	2
+14	angehalten	anhalten	VVPP	2	2	2	2
+15	und	und	KON	*	*	*	*
+16	gefragt	fragen	VVPP	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	kann	können	VMFIN	*	*	*	*
+19	er	er	PPER	*	*	*	*
+20	das	die	PDS	*	*	*	*
+21	auch	auch	ADV	*	*	*	*
+22	belegen	belegen	VVINF	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	Biermann	Biermann	NE	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	ist	sein	VAFIN	*	*	*	*
+28	die	die	ART	*	*	*	*
+29	Akte	Akt|Akte	NN	*	*	*	*
+30	auffindbar	auffindbar	ADJD	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	ist	sein	VAFIN	*	*	*	*
+33	er	er	PPER	*	*	*	*
+34	nicht	nicht	PTKNEG	*	*	*	*
+35	ein	ein	PTKVZ	*	*	*	*
+36	wenig	wenig	ADV	*	*	*	*
+37	zu	zu	PTKA	*	*	*	*
+38	weit	weit	ADJD	*	*	*	*
+39	gegangen	gehen	VVPP	*	*	*	*
+40	...	...	$.	*	*	*	*
+41	Paart	<unknown>	NN	*	*	*	*
+42	sich	sich	PRF	*	*	*	*
+43	jetzt	jetzt	ADV	*	*	*	*
+44	die	die	ART	*	*	*	*
+45	Egozentrik	Egozentrik	NN	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	die	die	PRELS	*	*	*	*
+48	wir	wir	PPER	*	*	*	*
+49	dem	die	ART	*	*	*	*
+50	Künstler	Künstler	NN	*	*	*	*
+51	Biermann	Biermann	NE	*	*	*	*
+52	immer	immer	ADV	*	*	*	*
+53	verziehen	verzeihen	VVPP	*	*	*	*
+54	haben	haben	VAFIN	*	*	*	*
+55	,	,	$,	*	*	*	*
+56	mit	mit	APPR	*	*	*	*
+57	einer	eine	ART	*	*	*	*
+58	übermäßigen	übermäßig	ADJA	*	*	*	*
+59	Prise	Prise	NN	*	*	*	*
+60	Altersstarrsinn	Altersstarrsinn	NN	*	*	*	*
+61	?	?	$.	*	*	*	*
+
+# article_id = T900131.234
+# text = Koettlitz und sein Ensemble machen das schwierige Stück so leicht , so stimmig , so zärtlich und so kalt , daß die Zuschauer , wie Faßbinder es wollte , in ein Wechselbad von Gefühlen gestürzt werden , daß sie den Atem anhalten und heulen können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Koettlitz	<unknown>	NN	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	sein	sein	PPOSAT	*	*	*	*
+4	Ensemble	Ensemble	NN	*	*	*	*
+5	machen	machen	VVFIN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	schwierige	schwierig	ADJA	*	*	*	*
+8	Stück	Stück	NN	*	*	*	*
+9	so	so	ADV	*	*	*	*
+10	leicht	leicht	ADJD	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	so	so	ADV	*	*	*	*
+13	stimmig	stimmig	ADJD	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	so	so	ADV	*	*	*	*
+16	zärtlich	zärtlich	ADJD	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	so	so	ADV	*	*	*	*
+19	kalt	kalt	ADJD	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	daß	dass	KOUS	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Zuschauer	Zuschauer	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	wie	wie	KOKOM	*	*	*	*
+26	Faßbinder	Fassbinder	NN	*	*	*	*
+27	es	es	PPER	*	*	*	*
+28	wollte	wollen	VMFIN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	ein	eine	ART	*	*	*	*
+32	Wechselbad	Wechselbad	NN	*	*	*	*
+33	von	von	APPR	*	*	*	*
+34	Gefühlen	Gefühl	NN	*	*	*	*
+35	gestürzt	stürzen	VVPP	*	*	*	*
+36	werden	werden	VAINF	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	daß	dass	KOUS	*	*	*	*
+39	sie	sie	PPER	*	*	*	*
+40	den	die	ART	*	*	*	*
+41	Atem	Atem	NN	2	2	2	2
+42	anhalten	anhalten	VVINF	2	2	2	2
+43	und	und	KON	*	*	*	*
+44	heulen	heulen	VVINF	*	*	*	*
+45	können	können	VMINF	*	*	*	*
+46	.	.	$.	*	*	*	*
+
+# article_id = T900223.262
+# text = Louis Malles erstem und gleich genialem Film von 1957 ( Vorreiter der Nouvelle Vague ) hat das Leben scheinbar den Atem angehalten und doch läuft , irgendwo , die Zeit wie eine unsichtbare Uhr ab .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Louis	Louis	NE	*	*	*	*
+2	Malles	<unknown>	NE	*	*	*	*
+3	erstem	erst	ADJA	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	gleich	gleich	ADJD	*	*	*	*
+6	genialem	genial	ADJA	*	*	*	*
+7	Film	Film	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	1957	@card@	CARD	*	*	*	*
+10	(	(	$(	*	*	*	*
+11	Vorreiter	Vorreiter	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Nouvelle	<unknown>	NN	*	*	*	*
+14	Vague	<unknown>	NE	*	*	*	*
+15	)	)	$(	*	*	*	*
+16	hat	haben	VAFIN	*	*	*	*
+17	das	die	ART	*	*	*	*
+18	Leben	Leben	NN	*	*	*	*
+19	scheinbar	scheinbar	ADJD	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Atem	Atem	NN	2	2	2	2
+22	angehalten	anhalten	VVPP	2	2	2	2
+23	und	und	KON	*	*	*	*
+24	doch	doch	ADV	*	*	*	*
+25	läuft	laufen	VVFIN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	irgendwo	irgendwo	ADV	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	Zeit	Zeit	NN	*	*	*	*
+31	wie	wie	KOKOM	*	*	*	*
+32	eine	eine	ART	*	*	*	*
+33	unsichtbare	unsichtbar	ADJA	*	*	*	*
+34	Uhr	Uhr	NN	*	*	*	*
+35	ab	ab	PTKVZ	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T920102.159
+# text = Unter Hinweis auf den Krieg in Jugoslawien sagte er , wer auf » unsere Welt sieht , muß den Atem anhalten « .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unter	unter	APPR	*	*	*	*
+2	Hinweis	Hinweis	NN	*	*	*	*
+3	auf	auf	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Krieg	Krieg	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	Jugoslawien	Jugoslawien	NE	*	*	*	*
+8	sagte	sagen	VVFIN	*	*	*	*
+9	er	er	PPER	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	wer	wer	PWS	*	*	*	*
+12	auf	auf	APPR	*	*	*	*
+13	»	<unknown>	NN	*	*	*	*
+14	unsere	unser	PPOSAT	*	*	*	*
+15	Welt	Welt	NN	*	*	*	*
+16	sieht	sehen	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	muß	müssen	VMFIN	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	Atem	Atem	NN	2	2	2	2
+21	anhalten	anhalten	VVFIN	2	2	2	2
+22	«	<unknown>	ADJD	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T920129.69
+# text = Während Algier den Atem anhält unter der Bleikappe der " Securite militaire " , bereitet sich draußen , an den Gestaden des " Club des Pins " , die alte Einheitspartei FLN ein Begräbnis erster Klasse .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Während	während	KOUS	*	*	*	*
+2	Algier	Algier	NE	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	Atem	Atem	NN	2	1	1	1
+5	anhält	anhalten	VVFIN	2	1	1	1
+6	unter	unter	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Bleikappe	Bleikappe	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Securite	<unknown>	NN	*	*	*	*
+12	militaire	<unknown>	ADJD	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	bereitet	bereiten	VVFIN	*	*	*	*
+16	sich	sich	PRF	*	*	*	*
+17	draußen	draußen	ADV	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	an	an	APPR	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Gestaden	Gestade	NN	*	*	*	*
+22	des	die	ART	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Club	Club	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	Pins	<unknown>	NN	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	alte	alt	ADJA	*	*	*	*
+31	Einheitspartei	Einheitspartei	NN	*	*	*	*
+32	FLN	<unknown>	NN	*	*	*	*
+33	ein	eine	ART	*	*	*	*
+34	Begräbnis	Begräbnis	NN	*	*	*	*
+35	erster	erst	ADJA	*	*	*	*
+36	Klasse	Klasse	NN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T920729.112
+# text = 1Seit Wochen verfolgt Polens Öffentlichkeit nun schon mit angehaltenem Atem , wie Polens Polizei und Staatsanwaltschaft etwas aufzuklären versuchen , was offenbar gar kein Verbrechen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	KOUS	*	*	*	*
+2	Algier	Algier	NE	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	Atem	Atem	NN	2	2	2	2
+5	anhält	anhalten	VVFIN	2	2	2	2
+6	unter	unter	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Bleikappe	Bleikappe	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Securite	<unknown>	NN	*	*	*	*
+12	militaire	<unknown>	ADJD	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	bereitet	bereiten	VVFIN	*	*	*	*
+16	sich	sich	PRF	*	*	*	*
+17	draußen	draußen	ADV	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	an	an	APPR	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Gestaden	Gestade	NN	*	*	*	*
+22	des	die	ART	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	Club	Club	NN	*	*	*	*
+25	des	die	ART	*	*	*	*
+26	Pins	<unknown>	NN	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	alte	alt	ADJA	*	*	*	*
+31	Einheitspartei	Einheitspartei	NN	*	*	*	*
+32	FLN	<unknown>	NN	*	*	*	*
+33	ein	eine	ART	*	*	*	*
+34	Begräbnis	Begräbnis	NN	*	*	*	*
+35	erster	erst	ADJA	*	*	*	*
+36	Klasse	Klasse	NN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T870508.31
+# text = Und Mompers SPD-Opposition ist ein Wackelpudding , der eben in Windrichtung zittert : Soll jetzt etwa die Weltgeschichte den Atem anhalten , weil auch Momper empört absagt ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	Mompers	Momper	NE	*	*	*	*
+3	SPD-Opposition	SPD-Opposition	NN	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	Wackelpudding	<unknown>	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	PRELS	*	*	*	*
+9	eben	eben	ADV	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	Windrichtung	Windrichtung	NN	*	*	*	*
+12	zittert	zittern	VVFIN	*	*	*	*
+13	:	:	$.	*	*	*	*
+14	Soll	sollen	VMFIN	*	*	*	*
+15	jetzt	jetzt	ADV	*	*	*	*
+16	etwa	etwa	ADV	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Weltgeschichte	Weltgeschichte	NN	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	Atem	Atem	NN	2	2	2	2
+21	anhalten	anhalten	VVINF	2	2	2	2
+22	,	,	$,	*	*	*	*
+23	weil	weil	KOUS	*	*	*	*
+24	auch	auch	ADV	*	*	*	*
+25	Momper	Momper	NE	*	*	*	*
+26	empört	empört	ADJD	*	*	*	*
+27	absagt	absagen	VVFIN	*	*	*	*
+28	?	?	$.	*	*	*	*
+
+# article_id = T930625.70
+# text = Wer in verschiedenen Lebensabschnitten kurz den Atem angehalten und Bilanz gezogen hat , wird festgestellt haben , daß der Verlust immer größer ist als der Gewinn .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wer	wer	PWS	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	verschiedenen	verschieden	ADJA	*	*	*	*
+4	Lebensabschnitten	Lebensabschnitt	NN	*	*	*	*
+5	kurz	kurz	ADJD	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	Atem	Atem	NN	2	2	2	2
+8	angehalten	anhalten	VVPP	2	2	2	2
+9	und	und	KON	*	*	*	*
+10	Bilanz	Bilanz	NN	*	*	*	*
+11	gezogen	ziehen	VVPP	*	*	*	*
+12	hat	haben	VAFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wird	werden	VAFIN	*	*	*	*
+15	festgestellt	feststellen	VVPP	*	*	*	*
+16	haben	haben	VAFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	daß	dass	KOUS	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Verlust	Verlust	NN	*	*	*	*
+21	immer	immer	ADV	*	*	*	*
+22	größer	groß	ADJD	*	*	*	*
+23	ist	sein	VAFIN	*	*	*	*
+24	als	als	KOKOM	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Gewinn	Gewinn	NN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T930118.115
+# text = Sie füllt die Rolle aus mit jeder Geste , jedem Blick , jedem Ton - so daß die Leute den Atem anhalten müssen , solange sie noch lebt und singt , und , als sie stirbt , ein Stückchen mitsterben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	füllt	füllen	VVFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Rolle	Rolle	NN	*	*	*	*
+5	aus	aus	APPR	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	jeder	jede	PIAT	*	*	*	*
+8	Geste	Geste	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	jedem	jede	PIAT	*	*	*	*
+11	Blick	Blick	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	jedem	jede	PIAT	*	*	*	*
+14	Ton	Ton	NN	*	*	*	*
+15	-	-	$(	*	*	*	*
+16	so	so	ADV	*	*	*	*
+17	daß	dass	KOUS	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Leute	Leute	NN	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Atem	Atem	NN	2	2	2	2
+22	anhalten	anhalten	VVINF	2	2	2	2
+23	müssen	müssen	VMINF	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	solange	solange	KOUS	*	*	*	*
+26	sie	sie	PPER	*	*	*	*
+27	noch	noch	ADV	*	*	*	*
+28	lebt	leben	VVFIN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	singt	singen	VVFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	und	und	KON	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	als	als	KOUS	*	*	*	*
+35	sie	sie	PPER	*	*	*	*
+36	stirbt	sterben	VVFIN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	ein	eine	ART	*	*	*	*
+39	Stückchen	Stückchen	NN	*	*	*	*
+40	mitsterben	mitsterben	VVINF	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T930708.21
+# text = Sie und die anderen Lagerinsassen hatten den Atem angehalten , als der Jeep an der Eingangstür des Lagers vorgefahren war .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Sie	Sie	PPER	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	anderen	andere	PIAT	*	*	*	*
+5	Lagerinsassen	Lagerinsasse	NN	*	*	*	*
+6	hatten	haben	VAFIN	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Atem	Atem	NN	2	1	1	1
+9	angehalten	anhalten	VVPP	2	1	1	1
+10	,	,	$,	*	*	*	*
+11	als	als	KOUS	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Jeep	Jeep	NN	*	*	*	*
+14	an	an	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Eingangstür	Eingangstür	NN	*	*	*	*
+17	des	die	ART	*	*	*	*
+18	Lagers	Lager	NN	*	*	*	*
+19	vorgefahren	vorfahren	VVPP	*	*	*	*
+20	war	sein	VAFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T931209.72
+# text = Brasiliens Reiche haben allen Grund , den Atem anzuhalten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Brasiliens	Brasilien	NE	*	*	*	*
+2	Reiche	Reich|Reiche	NN	*	*	*	*
+3	haben	haben	VAFIN	*	*	*	*
+4	allen	alle	PIAT	*	*	*	*
+5	Grund	Grund	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Atem	Atem	NN	2	2	2	2
+9	anzuhalten	anhalten	VVIZU	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T960613.95
+# text = Das ganze Land würde den Atem anhalten wie zuletzt im Golfkrieg .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	ganze	ganz	ADJA	*	*	*	*
+3	Land	Land	NN	*	*	*	*
+4	würde	werden	VAFIN	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	Atem	Atem	NN	2	2	2	2
+7	anhalten	anhalten	VVFIN	2	2	2	2
+8	wie	wie	KOKOM	*	*	*	*
+9	zuletzt	zuletzt	ADV	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	Golfkrieg	Golfkrieg	NN	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T961016.246
+# text = Aber dann offenbarte Levin eine unbeschreibliche Fülle an Klangfarben , Artikulationen und besonders Rubati , die einen nicht selten den Atem anhalten ließen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	aber	KON	*	*	*	*
+2	dann	dann	ADV	*	*	*	*
+3	offenbarte	offenbaren	VVFIN	*	*	*	*
+4	Levin	Levin	NE	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	unbeschreibliche	unbeschreiblich	ADJA	*	*	*	*
+7	Fülle	Fülle	NN	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	Klangfarben	Klangfarbe	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Artikulationen	Artikulation	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	besonders	besonders	ADV	*	*	*	*
+14	Rubati	<unknown>	NE	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	die	die	PRELS	*	*	*	*
+17	einen	eine	ART	*	*	*	*
+18	nicht	nicht	PTKNEG	*	*	*	*
+19	selten	selten	ADJD	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Atem	Atem	NN	2	2	2	2
+22	anhalten	anhalten	VVINF	2	2	2	2
+23	ließen	lassen	VVFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T961022.102
+# text = Mit angehaltenem Atem linst der 20jährige durch den Spion .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	aber	KON	*	*	*	*
+2	dann	dann	ADV	*	*	*	*
+3	offenbarte	offenbaren	VVFIN	*	*	*	*
+4	Levin	Levin	NE	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	unbeschreibliche	unbeschreiblich	ADJA	*	*	*	*
+7	Fülle	Fülle	NN	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	Klangfarben	Klangfarbe	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Artikulationen	Artikulation	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	besonders	besonders	ADV	*	*	*	*
+14	Rubati	<unknown>	NE	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	die	die	PRELS	*	*	*	*
+17	einen	eine	ART	*	*	*	*
+18	nicht	nicht	PTKNEG	*	*	*	*
+19	selten	selten	ADJD	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Atem	Atem	NN	2	1	1	1
+22	anhalten	anhalten	VVINF	2	1	1	1
+23	ließen	lassen	VVFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T960801.270
+# text = Aber zweifellos durchlebt man Eau de la vie zehn Minuten lang mit angehaltenem Atem .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aber	aber	KON	*	*	*	*
+2	dann	dann	ADV	*	*	*	*
+3	offenbarte	offenbaren	VVFIN	*	*	*	*
+4	Levin	Levin	NE	*	*	*	*
+5	eine	eine	ART	*	*	*	*
+6	unbeschreibliche	unbeschreiblich	ADJA	*	*	*	*
+7	Fülle	Fülle	NN	*	*	*	*
+8	an	an	APPR	*	*	*	*
+9	Klangfarben	Klangfarbe	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Artikulationen	Artikulation	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	besonders	besonders	ADV	*	*	*	*
+14	Rubati	<unknown>	NE	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	die	die	PRELS	*	*	*	*
+17	einen	eine	ART	*	*	*	*
+18	nicht	nicht	PTKNEG	*	*	*	*
+19	selten	selten	ADJD	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Atem	Atem	NN	2	2	2	2
+22	anhalten	anhalten	VVINF	2	2	2	2
+23	ließen	lassen	VVFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T960315.274
+# text = Hierbei durchquert man die Vorstädte und ein Industriegebiet , wo man lieber den Atem anhält , und wechselt über auf das andere Ufer des Tiete , dieses neuzeitlichen Styx am Stadtrand von Sao Paulo .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hierbei	hierbei	PAV	*	*	*	*
+2	durchquert	durchqueren	VVFIN	*	*	*	*
+3	man	man	PIS	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Vorstädte	Vorstadt	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	ein	eine	ART	*	*	*	*
+8	Industriegebiet	Industriegebiet	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	wo	wo	PWAV	*	*	*	*
+11	man	man	PIS	*	*	*	*
+12	lieber	lieb	ADJD	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Atem	Atem	NN	1	1	2	1
+15	anhält	anhalten	VVFIN	1	1	2	1
+16	,	,	$,	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	wechselt	wechseln	VVFIN	*	*	*	*
+19	über	über	APPR	*	*	*	*
+20	auf	auf	APPR	*	*	*	*
+21	das	die	ART	*	*	*	*
+22	andere	andere	PIAT	*	*	*	*
+23	Ufer	Ufer	NN	*	*	*	*
+24	des	die	ART	*	*	*	*
+25	Tiete	<unknown>	NN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	dieses	dies	PDAT	*	*	*	*
+28	neuzeitlichen	neuzeitlich	ADJA	*	*	*	*
+29	Styx	<unknown>	NN	*	*	*	*
+30	am	an	APPRART	*	*	*	*
+31	Stadtrand	Stadtrand	NN	*	*	*	*
+32	von	von	APPR	*	*	*	*
+33	Sao	Sao	NE	*	*	*	*
+34	Paulo	Paulo	NE	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T960328.125
+# text = In vielen Ihrer Filme gibt es so einen Moment , wo man den Atem anhält .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	vielen	viele	PIAT	*	*	*	*
+3	Ihrer	ihr	PPOSAT	*	*	*	*
+4	Filme	Film	NN	*	*	*	*
+5	gibt	geben	VVFIN	*	*	*	*
+6	es	es	PPER	*	*	*	*
+7	so	so	ADV	*	*	*	*
+8	einen	eine	ART	*	*	*	*
+9	Moment	Moment	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	wo	wo	PWAV	*	*	*	*
+12	man	man	PIS	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Atem	Atem	NN	2	2	2	2
+15	anhält	anhalten	VVFIN	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T980131.159
+# text = - Nie den Atem anhalten !
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	-	-	$(	*	*	*	*
+2	Nie	nie	ADV	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	Atem	Atem	NN	1	1	1	1
+5	anhalten	anhalten	VVINF	1	1	1	1
+6	!	!	$.	*	*	*	*
+
+# article_id = T970526.220
+# text = Wenn Bremen den Atem anhält und tja - das ist nun die Frage .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	Bremen	Bremen	NE	*	*	*	*
+3	den	die	ART	*	*	*	*
+4	Atem	Atem	NN	2	2	2	2
+5	anhält	anhalten	VVFIN	2	2	2	2
+6	und	und	KON	*	*	*	*
+7	tja	tja	ITJ	*	*	*	*
+8	-	-	$(	*	*	*	*
+9	das	die	PDS	*	*	*	*
+10	ist	sein	VAFIN	*	*	*	*
+11	nun	nun	ADV	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Frage	Frage	NN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T971001.251
+# text = Zwischendurch gibt es immer wieder Phasen mit Tonnuancierungen , die uns den Atem anhalten lassen : Zum Beispiel den Schluß des ersten Satzes der G-Dur-Sonate .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zwischendurch	zwischendurch	ADV	*	*	*	*
+2	gibt	geben	VVFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	immer	immer	ADV	*	*	*	*
+5	wieder	wieder	ADV	*	*	*	*
+6	Phasen	Phase	NN	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	Tonnuancierungen	<unknown>	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	die	die	PRELS	*	*	*	*
+11	uns	wir	PRF	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Atem	Atem	NN	2	2	2	2
+14	anhalten	anhalten	VVINF	2	2	2	2
+15	lassen	lassen	VVINF	*	*	*	*
+16	:	:	$.	*	*	*	*
+17	Zum	zu	APPRART	*	*	*	*
+18	Beispiel	Beispiel	NN	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	Schluß	Schluss	NN	*	*	*	*
+21	des	die	ART	*	*	*	*
+22	ersten	erst	ADJA	*	*	*	*
+23	Satzes	Satz	NN	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	G-Dur-Sonate	<unknown>	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T971031.331
+# text = Ein mißglückter Start ist ein Mißerfolg aller , und so hielten alle auch in Bremen gestern den Atem an , als kaum mehr als 30 Sekunden vor dem Starttermin der Count-down angehalten wurde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ein	eine	ART	*	*	*	*
+2	mißglückter	missglückt	ADJA	*	*	*	*
+3	Start	Start	NN	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	Mißerfolg	Misserfolg	NN	*	*	*	*
+7	aller	alle	PIAT	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	so	so	ADV	*	*	*	*
+11	hielten	halten	VVFIN	*	*	*	*
+12	alle	alle	PIS	*	*	*	*
+13	auch	auch	ADV	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Bremen	Bremen	NE	*	*	*	*
+16	gestern	gestern	ADV	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Atem	Atem	NN	2	2	2	2
+19	an	an	PTKVZ	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	als	als	KOUS	*	*	*	*
+22	kaum	kaum	ADV	*	*	*	*
+23	mehr	mehr	ADV	*	*	*	*
+24	als	als	KOKOM	*	*	*	*
+25	30	@card@	CARD	*	*	*	*
+26	Sekunden	Sekunde	NN	*	*	*	*
+27	vor	vor	APPR	*	*	*	*
+28	dem	die	ART	*	*	*	*
+29	Starttermin	Starttermin	NN	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	Count-down	<unknown>	NN	*	*	*	*
+32	angehalten	anhalten	VVPP	2	2	2	2
+33	wurde	werden	VAFIN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T971117.34
+# text = Die Delegierten des grünen Parteitages unten im Festsaal der Stadthalle von Kassel scheinen kollektiv den Atem anzuhalten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Delegierten	Delegierte	NN	*	*	*	*
+3	des	die	ART	*	*	*	*
+4	grünen	grün	ADJA	*	*	*	*
+5	Parteitages	Parteitag	NN	*	*	*	*
+6	unten	unten	ADV	*	*	*	*
+7	im	in	APPRART	*	*	*	*
+8	Festsaal	Festsaal	NN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Stadthalle	Stadthalle	NN	*	*	*	*
+11	von	von	APPR	*	*	*	*
+12	Kassel	Kassel	NE	*	*	*	*
+13	scheinen	scheinen	VVFIN	*	*	*	*
+14	kollektiv	kollektiv	ADJD	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	Atem	Atem	NN	2	2	2	2
+17	anzuhalten	anhalten	VVIZU	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T940614.250
+# text = Dabei wirken sie bereits reifer als ihre Ziehväter und wagen es auch Mal , den Atem anzuhalten .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Dabei	dabei	PAV	*	*	*	*
+2	wirken	wirken	VVFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	bereits	bereits	ADV	*	*	*	*
+5	reifer	reif	ADJD	*	*	*	*
+6	als	als	KOKOM	*	*	*	*
+7	ihre	ihr	PPOSAT	*	*	*	*
+8	Ziehväter	Ziehvater	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	wagen	wagen	VVFIN	*	*	*	*
+11	es	es	PPER	*	*	*	*
+12	auch	auch	ADV	*	*	*	*
+13	Mal	Mal	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	Atem	Atem	NN	2	1	1	1
+17	anzuhalten	anhalten	VVIZU	2	1	1	1
+18	.	.	$.	*	*	*	*
+
+# article_id = T940607.214
+# text = Man möchte als Zuschauer den Atem anhalten , um nur ja nicht zu stören .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Man	man	PIS	*	*	*	*
+2	möchte	mögen	VMFIN	*	*	*	*
+3	als	als	KOKOM	*	*	*	*
+4	Zuschauer	Zuschauer	NN	*	*	*	*
+5	den	die	ART	*	*	*	*
+6	Atem	Atem	NN	2	1	2	2
+7	anhalten	anhalten	VVINF	2	1	2	2
+8	,	,	$,	*	*	*	*
+9	um	um	KOUI	*	*	*	*
+10	nur	nur	ADV	*	*	*	*
+11	ja	ja	ADV	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	zu	zu	PTKZU	*	*	*	*
+14	stören	stören	VVINF	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T941022.186
+# text = Das " River Cafe " , Water Street 1 , direkt am East River und in unmittelbarer Nähe der Brooklyn Bridge gelegen , bietet , so will uns die Pressemappe glauben machen , einen " Ausblick , bei dem die Welt den Atem anhält " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	"	"	$(	*	*	*	*
+3	River	<unknown>	NE	*	*	*	*
+4	Cafe	Cafe	NE	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Water	Water	NE	*	*	*	*
+8	Street	Street	NE	*	*	*	*
+9	1	@card@	CARD	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	direkt	direkt	ADJD	*	*	*	*
+12	am	an	APPRART	*	*	*	*
+13	East	<unknown>	NN	*	*	*	*
+14	River	<unknown>	NE	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	unmittelbarer	unmittelbar	ADJA	*	*	*	*
+18	Nähe	Nähe	NN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Brooklyn	<unknown>	NE	*	*	*	*
+21	Bridge	Bridge	NN	*	*	*	*
+22	gelegen	liegen	VVPP	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	bietet	bieten	VVFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	so	so	ADV	*	*	*	*
+27	will	wollen	VMFIN	*	*	*	*
+28	uns	wir	PPER	*	*	*	*
+29	die	die	ART	*	*	*	*
+30	Pressemappe	Pressemappe	NN	*	*	*	*
+31	glauben	glauben	VVINF	*	*	*	*
+32	machen	machen	VVINF	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	einen	eine	ART	*	*	*	*
+35	"	"	$(	*	*	*	*
+36	Ausblick	Ausblick	NN	*	*	*	*
+37	,	,	$,	*	*	*	*
+38	bei	bei	APPR	*	*	*	*
+39	dem	die	PRELS	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	Welt	Welt	NN	*	*	*	*
+42	den	die	ART	*	*	*	*
+43	Atem	Atem	NN	2	2	2	2
+44	anhält	anhalten	VVFIN	2	2	2	2
+45	"	"	$(	*	*	*	*
+46	.	.	$.	*	*	*	*
+
+# article_id = T950606.83
+# text = Aum-Brüder und - Schwestern meditieren mit dem Ziel , schwerelos in der Luft zu hängen oder unter Wasser sehr lange den Atem anzuhalten , aber auch , um den nächsten Weltkrieg zu überleben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Aum-Brüder	<unknown>	NN	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	-	-	$(	*	*	*	*
+4	Schwestern	Schwester	NN	*	*	*	*
+5	meditieren	meditieren	VVFIN	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	dem	die	ART	*	*	*	*
+8	Ziel	Ziel	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	schwerelos	schwerelos	ADJD	*	*	*	*
+11	in	in	APPR	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Luft	Luft	NN	*	*	*	*
+14	zu	zu	PTKZU	*	*	*	*
+15	hängen	hängen	VVINF	*	*	*	*
+16	oder	oder	KON	*	*	*	*
+17	unter	unter	APPR	*	*	*	*
+18	Wasser	Wasser	NN	*	*	*	*
+19	sehr	sehr	ADV	*	*	*	*
+20	lange	lange	ADV	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	Atem	Atem	NN	1	1	1	1
+23	anzuhalten	anhalten	VVIZU	1	1	1	1
+24	,	,	$,	*	*	*	*
+25	aber	aber	KON	*	*	*	*
+26	auch	auch	ADV	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	um	um	KOUI	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	nächsten	nah	ADJA	*	*	*	*
+31	Weltkrieg	Weltkrieg	NN	*	*	*	*
+32	zu	zu	PTKZU	*	*	*	*
+33	überleben	überleben	VVINF	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T950911.132
+# text = Beiden wohnt eine gewisse Schärfe inne , mit Strenge und Konsequenz wird eine hieb- und stichfeste Idee durchgezogen , die einen den Atem anhalten und zugleich spüren läßt , daß eine ungeheure Lust am Spiel im Spiel war .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beiden	beide	PIS	*	*	*	*
+2	wohnt	wohnen	VVFIN	*	*	*	*
+3	eine	eine	ART	*	*	*	*
+4	gewisse	gewiss	ADJA	*	*	*	*
+5	Schärfe	Schärfe	NN	*	*	*	*
+6	inne	inne	PTKVZ	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	Strenge	Strenge	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Konsequenz	Konsequenz	NN	*	*	*	*
+12	wird	werden	VAFIN	*	*	*	*
+13	eine	eine	ART	*	*	*	*
+14	hieb-	hieb-	TRUNC	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	stichfeste	stichfest	ADJA	*	*	*	*
+17	Idee	Idee	NN	*	*	*	*
+18	durchgezogen	durchziehen	VVPP	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	die	die	PRELS	*	*	*	*
+21	einen	eine	PIS	*	*	*	*
+22	den	die	ART	*	*	*	*
+23	Atem	Atem	NN	2	2	2	2
+24	anhalten	anhalten	VVINF	2	2	2	2
+25	und	und	KON	*	*	*	*
+26	zugleich	zugleich	ADV	*	*	*	*
+27	spüren	spüren	VVINF	*	*	*	*
+28	läßt	lassen	VVFIN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	daß	dass	KOUS	*	*	*	*
+31	eine	eine	ART	*	*	*	*
+32	ungeheure	ungeheuer	ADJA	*	*	*	*
+33	Lust	Lust	NN	*	*	*	*
+34	am	an	APPRART	*	*	*	*
+35	Spiel	Spiel	NN	*	*	*	*
+36	im	in	APPRART	*	*	*	*
+37	Spiel	Spiel	NN	*	*	*	*
+38	war	sein	VAFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T950307.102
+# text = Der Christdemokrat vergleicht die FDP mit griechischen Philosophen aus der Schule der Kyniker , die über Selbstmord grübelten und sich töteten , indem sie den Atem anhielten oder aufhörten zu essen : " In diesem Zustand befindet sich zur Zeit die FDP .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Christdemokrat	Christdemokrat	NN	*	*	*	*
+3	vergleicht	vergleichen	VVFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	FDP	FDP	NE	*	*	*	*
+6	mit	mit	APPR	*	*	*	*
+7	griechischen	griechisch	ADJA	*	*	*	*
+8	Philosophen	Philosoph	NN	*	*	*	*
+9	aus	aus	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Schule	Schule	NN	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Kyniker	<unknown>	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	über	über	APPR	*	*	*	*
+17	Selbstmord	Selbstmord	NN	*	*	*	*
+18	grübelten	grübeln	VVFIN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	sich	sich	PRF	*	*	*	*
+21	töteten	töten	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	indem	indem	KOUS	*	*	*	*
+24	sie	sie	PPER	*	*	*	*
+25	den	die	ART	*	*	*	*
+26	Atem	Atem	NN	1	1	1	1
+27	anhielten	anhalten	VVFIN	1	1	1	1
+28	oder	oder	KON	*	*	*	*
+29	aufhörten	aufhören	VVFIN	*	*	*	*
+30	zu	zu	PTKZU	*	*	*	*
+31	essen	essen	VVINF	*	*	*	*
+32	:	:	$.	*	*	*	*
+33	"	"	$(	*	*	*	*
+34	In	in	APPR	*	*	*	*
+35	diesem	dies	PDAT	*	*	*	*
+36	Zustand	Zustand	NN	*	*	*	*
+37	befindet	befinden	VVFIN	*	*	*	*
+38	sich	sich	PRF	*	*	*	*
+39	zur	zu	APPRART	*	*	*	*
+40	Zeit	Zeit	NN	*	*	*	*
+41	die	die	ART	*	*	*	*
+42	FDP	FDP	NE	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T950318.95
+# text = Zerbrochen ist auch die Fiktion nationaler Souveränität : eine " Demütigung gegenüber den USA " , wie die Wochenzeitschrift Proceso im Januar titelte , während die gesamte Nation den Atem anhielt und betete , daß der US-Kongreß sich ihrer erbarmen möge .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zerbrochen	zerbrechen	VVPP	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Fiktion	Fiktion	NN	*	*	*	*
+6	nationaler	national	ADJA	*	*	*	*
+7	Souveränität	Souveränität	NN	*	*	*	*
+8	:	:	$.	*	*	*	*
+9	eine	eine	ART	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Demütigung	Demütigung	NN	*	*	*	*
+12	gegenüber	gegenüber	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	USA	USA	NE	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	wie	wie	KOUS	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Wochenzeitschrift	Wochenzeitschrift	NN	*	*	*	*
+20	Proceso	<unknown>	NE	*	*	*	*
+21	im	in	APPRART	*	*	*	*
+22	Januar	Januar	NN	*	*	*	*
+23	titelte	titeln	VVFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	während	während	KOUS	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	gesamte	gesamt	ADJA	*	*	*	*
+28	Nation	Nation	NN	*	*	*	*
+29	den	die	ART	*	*	*	*
+30	Atem	Atem	NN	2	2	2	2
+31	anhielt	anhalten	VVFIN	2	2	2	2
+32	und	und	KON	*	*	*	*
+33	betete	beten	VVFIN	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	daß	dass	KOUS	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	US-Kongreß	US-Kongress	NN	*	*	*	*
+38	sich	sich	PRF	*	*	*	*
+39	ihrer	ihr	PPOSAT	*	*	*	*
+40	erbarmen	erbarmen	VVINF	*	*	*	*
+41	möge	mögen	VMFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T990122.109
+# text = Vertriebene Sudetendeutsche und deren Nachkommen brauchen nicht den Atem anzuhalten : " Unsere Entscheidung hat keinen Einfluß auf die Gültigkeit der Dekrete als solche " , so das Gericht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vertriebene	vertrieben	ADJA	*	*	*	*
+2	Sudetendeutsche	Sudetendeutsche	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	deren	die	PDAT	*	*	*	*
+5	Nachkommen	Nachkomme	NN	*	*	*	*
+6	brauchen	brauchen	VVFIN	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	den	die	ART	*	*	*	*
+9	Atem	Atem	NN	2	2	2	2
+10	anzuhalten	anhalten	VVIZU	2	2	2	2
+11	:	:	$.	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	Unsere	unser	PPOSAT	*	*	*	*
+14	Entscheidung	Entscheidung	NN	*	*	*	*
+15	hat	haben	VAFIN	*	*	*	*
+16	keinen	keine	PIAT	*	*	*	*
+17	Einfluß	Einfluss	NN	*	*	*	*
+18	auf	auf	APPR	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Gültigkeit	Gültigkeit	NN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Dekrete	Dekret	NN	*	*	*	*
+23	als	als	KOKOM	*	*	*	*
+24	solche	solche	PIS	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	so	so	ADV	*	*	*	*
+28	das	die	ART	*	*	*	*
+29	Gericht	Gericht	NN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T990429.111
+# text = 1Wer hat für einen Moment nicht den Atem angehalten : Rußland , so hieß es , habe seine Nuklearwaffen wieder auf westliche Ziele ausgerichtet .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	1Wer	<unknown>	NE	*	*	*	*
+2	hat	haben	VAFIN	*	*	*	*
+3	für	für	APPR	*	*	*	*
+4	einen	eine	ART	*	*	*	*
+5	Moment	Moment	NN	*	*	*	*
+6	nicht	nicht	PTKNEG	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Atem	Atem	NN	2	2	2	2
+9	angehalten	anhalten	VVPP	2	2	2	2
+10	:	:	$.	*	*	*	*
+11	Rußland	Russland	NE	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	so	so	ADV	*	*	*	*
+14	hieß	heißen	VVFIN	*	*	*	*
+15	es	es	PPER	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	habe	haben	VAFIN	*	*	*	*
+18	seine	sein	PPOSAT	*	*	*	*
+19	Nuklearwaffen	Nuklearwaffe	NN	*	*	*	*
+20	wieder	wieder	ADV	*	*	*	*
+21	auf	auf	APPR	*	*	*	*
+22	westliche	westlich	ADJA	*	*	*	*
+23	Ziele	Ziel	NN	*	*	*	*
+24	ausgerichtet	ausrichten	VVPP	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T990324.222
+# text = Pinnock schafft es , mit dem glänzend aufgelegten Orchester , Pianissimostrukturen aus dem Nichts herauszuholen , so daß man den Atem anhielt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Pinnock	<unknown>	NE	*	*	*	*
+2	schafft	schaffen	VVFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	glänzend	glänzend	ADJD	*	*	*	*
+8	aufgelegten	aufgelegt	ADJA	*	*	*	*
+9	Orchester	Orchester	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Pianissimostrukturen	<unknown>	NN	*	*	*	*
+12	aus	aus	APPR	*	*	*	*
+13	dem	die	ART	*	*	*	*
+14	Nichts	Nichts	NN	*	*	*	*
+15	herauszuholen	herausholen	VVIZU	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	so	so	ADV	*	*	*	*
+18	daß	dass	KOUS	*	*	*	*
+19	man	man	PIS	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Atem	Atem	NN	2	2	2	2
+22	anhielt	anhalten	VVFIN	2	2	2	2
+23	.	.	$.	*	*	*	*
+

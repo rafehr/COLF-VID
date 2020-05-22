@@ -1,0 +1,4568 @@
+# article_id = T891026.71
+# text = Auch Wolf klinkte sich darin ein : daß soviele ohne Reue auf den Zug in andere Richtung aufspringen , " kann dem Vertrauen nicht zuträglich sein " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	Wolf	Wolf	NE	*	*	*	*
+3	klinkte	klinken	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	darin	darin	PAV	*	*	*	*
+6	ein	ein	PTKVZ	*	*	*	*
+7	:	:	$.	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	soviele	<unknown>	VVFIN	*	*	*	*
+10	ohne	ohne	APPR	*	*	*	*
+11	Reue	Reue	NN	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Zug	Zug	NN	2	2	2	2
+15	in	in	APPR	*	*	*	*
+16	andere	andere	PIS	*	*	*	*
+17	Richtung	Richtung	NN	*	*	*	*
+18	aufspringen	aufspringen	VVINF	2	2	2	2
+19	,	,	$,	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	kann	können	VMFIN	*	*	*	*
+22	dem	die	ART	*	*	*	*
+23	Vertrauen	Vertrauen	NN	*	*	*	*
+24	nicht	nicht	PTKNEG	*	*	*	*
+25	zuträglich	zuträglich	ADJD	*	*	*	*
+26	sein	sein	VAINF	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T891007.13
+# text = ben sich am Mittwoch auf Bahnschienen gelegt , um auf Züge in Richtung Bayern aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	ben	<unknown>	VVFIN	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	am	an	APPRART	*	*	*	*
+4	Mittwoch	Mittwoch	NN	*	*	*	*
+5	auf	auf	APPR	*	*	*	*
+6	Bahnschienen	Bahnschiene	NN	*	*	*	*
+7	gelegt	legen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	um	um	KOUI	*	*	*	*
+10	auf	auf	APPR	1	1	1	1
+11	Züge	Zug	NN	1	1	1	1
+12	in	in	APPR	*	*	*	*
+13	Richtung	Richtung	NN	*	*	*	*
+14	Bayern	Bayern	NE	*	*	*	*
+15	aufzuspringen	aufspringen	VVIZU	1	1	1	1
+16	.	.	$.	*	*	*	*
+
+# article_id = T891023.23
+# text = Entgegen der Warnung des Redners Thomas Ebermann , die Linken sollten nicht die immergleichen Fehler wiederholen und nun auf einen Zug aufspringen , den andere gerade verlassen , sieht Stürmann Möglichkeiten bei den Grünen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Entgegen	entgegen	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Warnung	Warnung	NN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	Redners	Redner	NN	*	*	*	*
+6	Thomas	Thomas	NE	*	*	*	*
+7	Ebermann	Ebermann	NE	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Linken	Linke	NN	*	*	*	*
+11	sollten	sollen	VMFIN	*	*	*	*
+12	nicht	nicht	PTKNEG	*	*	*	*
+13	die	die	ART	*	*	*	*
+14	immergleichen	<unknown>	ADJA	*	*	*	*
+15	Fehler	Fehler	NN	*	*	*	*
+16	wiederholen	wiederholen	VVINF	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	nun	nun	ADV	*	*	*	*
+19	auf	auf	APPR	2	2	2	2
+20	einen	eine	ART	*	*	*	*
+21	Zug	Zug	NN	2	2	2	2
+22	aufspringen	aufspringen	VVINF	2	2	2	2
+23	,	,	$,	*	*	*	*
+24	den	die	PRELS	*	*	*	*
+25	andere	andere	PIS	*	*	*	*
+26	gerade	gerade	ADV	*	*	*	*
+27	verlassen	verlassen	VVPP	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	sieht	sehen	VVFIN	*	*	*	*
+30	Stürmann	<unknown>	NN	*	*	*	*
+31	Möglichkeiten	Möglichkeit	NN	*	*	*	*
+32	bei	bei	APPR	*	*	*	*
+33	den	die	ART	*	*	*	*
+34	Grünen	Grüne	NN	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T891005.1
+# text = Die lagen offenbar darin , daß zahlreiche DDRler Gleise und Bahnhöfe belagerten , um auf die Züge in den Westen aufspringen zu können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	PDS	*	*	*	*
+2	lagen	liegen	VVFIN	*	*	*	*
+3	offenbar	offenbar	ADJD	*	*	*	*
+4	darin	darin	PAV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	zahlreiche	zahlreich	ADJA	*	*	*	*
+8	DDRler	<unknown>	NN	*	*	*	*
+9	Gleise	Gleis	NN	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Bahnhöfe	Bahnhof	NN	*	*	*	*
+12	belagerten	belagern	VVFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	um	um	KOUI	*	*	*	*
+15	auf	auf	APPR	1	1	1	1
+16	die	die	ART	*	*	*	*
+17	Züge	Zug	NN	1	1	1	1
+18	in	in	APPR	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	Westen	Weste|Westen	NN	*	*	*	*
+21	aufspringen	aufspringen	VVINF	1	1	1	1
+22	zu	zu	PTKZU	*	*	*	*
+23	können	können	VMINF	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T891005.183
+# text = Beispielsweise indem man aufspringt auf " den Zug der Zeit , der voll im Fahren ist : die Kultur " , wobei an Kinos und Bowlingbahnen gedacht wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beispielsweise	beispielsweise	ADV	*	*	*	*
+2	indem	indem	KOUS	*	*	*	*
+3	man	man	PIS	*	*	*	*
+4	aufspringt	aufspringen	VVFIN	2	2	2	2
+5	auf	auf	APPR	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	der	die	ART	*	*	*	*
+10	Zeit	Zeit	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	voll	voll	ADJD	*	*	*	*
+14	im	in	APPRART	*	*	*	*
+15	Fahren	Fahren	NN	*	*	*	*
+16	ist	sein	VAFIN	*	*	*	*
+17	:	:	$.	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Kultur	Kultur	NN	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	wobei	wobei	PWAV	*	*	*	*
+23	an	an	APPR	*	*	*	*
+24	Kinos	Kino	NN	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	Bowlingbahnen	<unknown>	NN	*	*	*	*
+27	gedacht	denken|gedenken	VVPP	*	*	*	*
+28	wird	werden	VAFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T890912.85
+# text = Denn das chinesische Volk ist auf diesen Zug nur widerwillig aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	chinesische	chinesisch	ADJA	*	*	*	*
+4	Volk	Volk	NN	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	diesen	dies	PDAT	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	nur	nur	ADV	*	*	*	*
+10	widerwillig	widerwillig	ADJD	*	*	*	*
+11	aufgesprungen	aufspringen	VVPP	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T891204.42
+# text = Die SDP ist inzwischen auf den populistischen Zug aufgesprungen , und in Mecklenburg ist eine " Freie deutsche Union " aufgetaucht , die - unterstützt von der Bonner CDU - Zentrale - die Wiedervereinigung zur Hauptforderung erhoben hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	SDP	<unknown>	NN	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	inzwischen	inzwischen	ADV	*	*	*	*
+5	auf	auf	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	populistischen	populistisch	ADJA	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	aufgesprungen	aufspringen	VVPP	2	2	2	2
+10	,	,	$,	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	Mecklenburg	Mecklenburg	NE	*	*	*	*
+14	ist	sein	VAFIN	*	*	*	*
+15	eine	eine	ART	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Freie	Freie	NN	*	*	*	*
+18	deutsche	deutsch	ADJA	*	*	*	*
+19	Union	Union	NN	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	aufgetaucht	auftauchen	VVPP	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	die	die	PRELS	*	*	*	*
+24	-	-	$(	*	*	*	*
+25	unterstützt	unterstützen	VVFIN	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	der	die	ART	*	*	*	*
+28	Bonner	Bonner	ADJA	*	*	*	*
+29	CDU	CDU	NE	*	*	*	*
+30	-	-	$(	*	*	*	*
+31	Zentrale	Zentrale	NN	*	*	*	*
+32	-	-	$(	*	*	*	*
+33	die	die	ART	*	*	*	*
+34	Wiedervereinigung	Wiedervereinigung	NN	*	*	*	*
+35	zur	zu	APPRART	*	*	*	*
+36	Hauptforderung	Hauptforderung	NN	*	*	*	*
+37	erhoben	erheben	VVPP	*	*	*	*
+38	hat	haben	VAFIN	*	*	*	*
+39	.	.	$.	*	*	*	*
+
+# article_id = T890306.68
+# text = Wie bei anderen Umweltproblemen , so erklärten die " Friends of the Earth " , sei die Regierung auch hier nur auf den bereits fahrenden Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wie	wie	KOUS	*	*	*	*
+2	bei	bei	APPR	*	*	*	*
+3	anderen	andere	PIS	*	*	*	*
+4	Umweltproblemen	Umweltproblem	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	so	so	ADV	*	*	*	*
+7	erklärten	erklären	VVFIN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Friends	<unknown>	NN	*	*	*	*
+11	of	of	FM	*	*	*	*
+12	the	the	FM	*	*	*	*
+13	Earth	<unknown>	NE	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	sei	sein	VAFIN	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Regierung	Regierung	NN	*	*	*	*
+19	auch	auch	ADV	*	*	*	*
+20	hier	hier	ADV	*	*	*	*
+21	nur	nur	ADV	*	*	*	*
+22	auf	auf	APPR	2	2	2	2
+23	den	die	ART	*	*	*	*
+24	bereits	bereits	ADV	*	*	*	*
+25	fahrenden	fahrend	ADJA	*	*	*	*
+26	Zug	Zug	NN	2	2	2	2
+27	aufgesprungen	aufspringen	VVPP	2	2	2	2
+28	.	.	$.	*	*	*	*
+
+# article_id = T890316.80
+# text = Andererseits : " Grundsätzlich ist das Interesse von Forschern aber auch , auf einen Zug aufzuspringen , nämlich immer schnellere und größere Computer zu bauen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Andererseits	andererseits	ADV	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	Grundsätzlich	grundsätzlich	ADJD	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Interesse	Interesse	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Forschern	Forscher	NN	*	*	*	*
+10	aber	aber	ADV	*	*	*	*
+11	auch	auch	ADV	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	auf	auf	APPR	2	2	2	2
+14	einen	eine	ART	*	*	*	*
+15	Zug	Zug	NN	2	2	2	2
+16	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	nämlich	nämlich	ADV	*	*	*	*
+19	immer	immer	ADV	*	*	*	*
+20	schnellere	schnell	ADJA	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	größere	groß	ADJA	*	*	*	*
+23	Computer	Computer	NN	*	*	*	*
+24	zu	zu	PTKZU	*	*	*	*
+25	bauen	bauen	VVINF	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T891117.74
+# text = " Von Überholen ist jetzt natürlich nicht die Rede , aber auf den Zug aufspringen will man .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Von	von	APPR	*	*	*	*
+3	Überholen	Überholen	NN	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	jetzt	jetzt	ADV	*	*	*	*
+6	natürlich	natürlich	ADV	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Rede	Rede	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	aber	aber	ADV	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Zug	Zug	NN	2	2	2	2
+15	aufspringen	aufspringen	VVINF	2	2	2	2
+16	will	wollen	VMFIN	*	*	*	*
+17	man	man	PIS	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T890201.28
+# text = Nachdem Bundeskanzler Kohl und CSU-Chef Waigel die Ausländerpolitik wieder als prioritäres Anliegen entdeckten , versuchen jetzt auch die Neonazis , auf den anfahrenden Zug aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nachdem	nachdem	KOUS	*	*	*	*
+2	Bundeskanzler	Bundeskanzler	NN	*	*	*	*
+3	Kohl	Kohl	NE	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	CSU-Chef	CSU-Chef	NN	*	*	*	*
+6	Waigel	Waigel	NE	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Ausländerpolitik	Ausländerpolitik	NN	*	*	*	*
+9	wieder	wieder	ADV	*	*	*	*
+10	als	als	KOKOM	*	*	*	*
+11	prioritäres	<unknown>	ADJA	*	*	*	*
+12	Anliegen	Anliegen	NN	*	*	*	*
+13	entdeckten	entdecken	VVFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	versuchen	versuchen	VVFIN	*	*	*	*
+16	jetzt	jetzt	ADV	*	*	*	*
+17	auch	auch	ADV	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Neonazis	Neonazi	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	auf	auf	APPR	2	2	2	2
+22	den	die	ART	*	*	*	*
+23	anfahrenden	anfahrend	ADJA	*	*	*	*
+24	Zug	Zug	NN	2	2	2	2
+25	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+26	.	.	$.	*	*	*	*
+
+# article_id = T910507.208
+# text = Du mußt unbedingt versuchen , auf den neuen Zug aufzuspringen , entweder in der Arbeit oder durch Sex .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Du	du	PPER	*	*	*	*
+2	mußt	müssen	VMFIN	*	*	*	*
+3	unbedingt	unbedingt	ADJD	*	*	*	*
+4	versuchen	versuchen	VVINF	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	neuen	neu	ADJA	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	entweder	entweder	KON	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Arbeit	Arbeit	NN	*	*	*	*
+16	oder	oder	KON	*	*	*	*
+17	durch	durch	APPR	*	*	*	*
+18	Sex	Sex	NN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T910612.27
+# text = Er war einfach auf den nächsten Zug aufgesprungen und hatte sich an das Dach des Waggons hinter der Lokomotive geklammert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Er	er	PPER	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	einfach	einfach	ADJD	*	*	*	*
+4	auf	auf	APPR	1	1	1	1
+5	den	die	ART	*	*	*	*
+6	nächsten	nah	ADJA	*	*	*	*
+7	Zug	Zug	NN	1	1	1	1
+8	aufgesprungen	aufspringen	VVPP	1	1	1	1
+9	und	und	KON	*	*	*	*
+10	hatte	haben	VAFIN	*	*	*	*
+11	sich	sich	PRF	*	*	*	*
+12	an	an	APPR	*	*	*	*
+13	das	die	ART	*	*	*	*
+14	Dach	Dach	NN	*	*	*	*
+15	des	die	ART	*	*	*	*
+16	Waggons	Waggon	NN	*	*	*	*
+17	hinter	hinter	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Lokomotive	Lokomotive	NN	*	*	*	*
+20	geklammert	klammern	VVPP	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T910128.188
+# text = Ich persönlich fand Bel Ami schon immer besser , weil sie programmatisch zu ihrem Proletentum standen , während PVC krampfhaft versuchten , dies abzulegen , sich mit Leder und Nieten tarnten , um auf den gerade anrollenden Punk- Zug aufzuspringen und dabei vergaßen , die Schnurbärte abzurasieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	ich	PPER	*	*	*	*
+2	persönlich	persönlich	ADJD	*	*	*	*
+3	fand	finden	VVFIN	*	*	*	*
+4	Bel	Bel	NE	*	*	*	*
+5	Ami	Ami	NN	*	*	*	*
+6	schon	schon	ADV	*	*	*	*
+7	immer	immer	ADV	*	*	*	*
+8	besser	gut	ADJD	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	weil	weil	KOUS	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	programmatisch	programmatisch	ADJD	*	*	*	*
+13	zu	zu	APPR	*	*	*	*
+14	ihrem	ihr	PPOSAT	*	*	*	*
+15	Proletentum	<unknown>	NN	*	*	*	*
+16	standen	stehen	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	während	während	KOUS	*	*	*	*
+19	PVC	PVC	NE	*	*	*	*
+20	krampfhaft	krampfhaft	ADJD	*	*	*	*
+21	versuchten	versuchen	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	dies	dies	PDS	*	*	*	*
+24	abzulegen	ablegen	VVIZU	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	sich	sich	PRF	*	*	*	*
+27	mit	mit	APPR	*	*	*	*
+28	Leder	Leder	NN	*	*	*	*
+29	und	und	KON	*	*	*	*
+30	Nieten	Niete|Nieten	NN	*	*	*	*
+31	tarnten	tarnen	VVFIN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	um	um	KOUI	*	*	*	*
+34	auf	auf	APPR	2	2	2	2
+35	den	die	ART	*	*	*	*
+36	gerade	gerade	ADV	*	*	*	*
+37	anrollenden	anrollend	ADJA	*	*	*	*
+38	Punk-	Punk-	TRUNC	*	*	*	*
+39	Zug	Zug	NN	2	2	2	2
+40	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+41	und	und	KON	*	*	*	*
+42	dabei	dabei	PAV	*	*	*	*
+43	vergaßen	vergessen	VVFIN	*	*	*	*
+44	,	,	$,	*	*	*	*
+45	die	die	ART	*	*	*	*
+46	Schnurbärte	<unknown>	NN	*	*	*	*
+47	abzurasieren	<unknown>	VVIZU	*	*	*	*
+48	.	.	$.	*	*	*	*
+
+# article_id = T910417.48
+# text = Während Vogel noch einmal bekräftigte , die SPD erwarte bei den Gesprächen " erhebliche Zugeständnisse " , werde aber auch in Zukunft auf " massive Kritik " der Bundesregierung nicht verzichten , versuchte der parlamentarische Geschäftsführer der Unionsfraktion , Friedrich Bohl , das parteitaktische Kalkül der SPD zu entlarven : Die SPD versuche jetzt auf den " losgefahrenen Zug aufzuspringen " , weil sie erkannt habe , daß sich die Koalition auf " Erfolgskurs " befinde .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	APPR	*	*	*	*
+2	Vogel	Vogel	NN	*	*	*	*
+3	noch	noch	ADV	*	*	*	*
+4	einmal	einmal	ADV	*	*	*	*
+5	bekräftigte	bekräftigen	VVFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	SPD	SPD	NE	*	*	*	*
+9	erwarte	erwarten	VVFIN	*	*	*	*
+10	bei	bei	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Gesprächen	Gespräch	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	erhebliche	erheblich	ADJA	*	*	*	*
+15	Zugeständnisse	Zugeständnis	NN	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	werde	werden	VAFIN	*	*	*	*
+19	aber	aber	ADV	*	*	*	*
+20	auch	auch	ADV	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	Zukunft	Zukunft	NN	*	*	*	*
+23	auf	auf	APPR	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	massive	massiv	ADJA	*	*	*	*
+26	Kritik	Kritik	NN	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Bundesregierung	Bundesregierung	NN	*	*	*	*
+30	nicht	nicht	PTKNEG	*	*	*	*
+31	verzichten	verzichten	VVINF	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	versuchte	versuchen	VVFIN	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	parlamentarische	parlamentarisch	ADJA	*	*	*	*
+36	Geschäftsführer	Geschäftsführer	NN	*	*	*	*
+37	der	die	ART	*	*	*	*
+38	Unionsfraktion	Unionsfraktion	NN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	Friedrich	Friedrich	NE	*	*	*	*
+41	Bohl	<unknown>	NE	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	das	die	ART	*	*	*	*
+44	parteitaktische	parteitaktisch	ADJA	*	*	*	*
+45	Kalkül	Kalkül	NN	*	*	*	*
+46	der	die	ART	*	*	*	*
+47	SPD	SPD	NE	*	*	*	*
+48	zu	zu	PTKZU	*	*	*	*
+49	entlarven	entlarven	VVINF	*	*	*	*
+50	:	:	$.	*	*	*	*
+51	Die	die	ART	*	*	*	*
+52	SPD	SPD	NE	*	*	*	*
+53	versuche	versuchen	VVFIN	*	*	*	*
+54	jetzt	jetzt	ADV	*	*	*	*
+55	auf	auf	APPR	2	2	2	2
+56	den	die	ART	*	*	*	*
+57	"	"	$(	*	*	*	*
+58	losgefahrenen	<unknown>	ADJA	*	*	*	*
+59	Zug	Zug	NN	2	2	2	2
+60	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+61	"	"	$(	*	*	*	*
+62	,	,	$,	*	*	*	*
+63	weil	weil	KOUS	*	*	*	*
+64	sie	sie	PPER	*	*	*	*
+65	erkannt	erkennen	VVPP	*	*	*	*
+66	habe	haben	VAFIN	*	*	*	*
+67	,	,	$,	*	*	*	*
+68	daß	dass	KOUS	*	*	*	*
+69	sich	sich	PRF	*	*	*	*
+70	die	die	ART	*	*	*	*
+71	Koalition	Koalition	NN	*	*	*	*
+72	auf	auf	APPR	*	*	*	*
+73	"	"	$(	*	*	*	*
+74	Erfolgskurs	Erfolgskurs	NN	*	*	*	*
+75	"	"	$(	*	*	*	*
+76	befinde	befinden	VVFIN	*	*	*	*
+77	.	.	$.	*	*	*	*
+
+# article_id = T910316.106
+# text = Erweist sich der Marien-Verehrer mit seiner fast ins Mittelalter zurückreichenden Simpeltheologie als ein politischer Zwitter , der auch mal auf einen anderen Zug aufzuspringen vermag ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Erweist	erweisen	VVFIN	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Marien-Verehrer	<unknown>	NN	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	seiner	sein	PPOSAT	*	*	*	*
+7	fast	fast	ADV	*	*	*	*
+8	ins	in	APPRART	*	*	*	*
+9	Mittelalter	Mittelalter	NN	*	*	*	*
+10	zurückreichenden	zurückreichend	ADJA	*	*	*	*
+11	Simpeltheologie	<unknown>	NN	*	*	*	*
+12	als	als	KOKOM	*	*	*	*
+13	ein	eine	ART	*	*	*	*
+14	politischer	politisch	ADJA	*	*	*	*
+15	Zwitter	Zwitter	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	der	die	PRELS	*	*	*	*
+18	auch	auch	ADV	*	*	*	*
+19	mal	mal	ADV	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	einen	eine	ART	*	*	*	*
+22	anderen	andere	PIAT	*	*	*	*
+23	Zug	Zug	NN	2	2	2	2
+24	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+25	vermag	vermag	VVFIN	*	*	*	*
+26	?	?	$.	*	*	*	*
+
+# article_id = T910308.52
+# text = Schiitisch-fundamentalistische Organisationen im Ausland versuchen dabei , mit ihren Erklärungen auf den fahrenden Zug aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schiitisch-fundamentalistische	<unknown>	ADJA	*	*	*	*
+2	Organisationen	Organisation	NN	*	*	*	*
+3	im	in	APPRART	*	*	*	*
+4	Ausland	Ausland	NN	*	*	*	*
+5	versuchen	versuchen	VVFIN	*	*	*	*
+6	dabei	dabei	PAV	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	ihren	ihr	PPOSAT	*	*	*	*
+10	Erklärungen	Erklärung	NN	*	*	*	*
+11	auf	auf	APPR	2	2	2	2
+12	den	die	ART	*	*	*	*
+13	fahrenden	fahrend	ADJA	*	*	*	*
+14	Zug	Zug	NN	2	2	2	2
+15	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T910201.47
+# text = Heute scheinen es weniger die linken Gruppen zu sein , die auf den Zug jeder Befreiungsbewegung aufzuspringen suchen ; nein , in diesen Tagen sind es die Konservativen , die sich andernorts als Befreier unterdrückter Völker aufspielen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Heute	heute	ADV	*	*	*	*
+2	scheinen	scheinen	VVFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	weniger	weniger	ADV	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	linken	links	ADJA	*	*	*	*
+7	Gruppen	Gruppe	NN	*	*	*	*
+8	zu	zu	PTKZU	*	*	*	*
+9	sein	sein	VAINF	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	die	die	PRELS	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Zug	Zug	NN	2	2	2	2
+15	jeder	jede	PIAT	*	*	*	*
+16	Befreiungsbewegung	Befreiungsbewegung	NN	*	*	*	*
+17	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+18	suchen	suchen	VVINF	*	*	*	*
+19	;	;	$.	*	*	*	*
+20	nein	nein	PTKANT	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	diesen	dies	PDAT	*	*	*	*
+24	Tagen	Tag	NN	*	*	*	*
+25	sind	sein	VAFIN	*	*	*	*
+26	es	es	PPER	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Konservativen	Konservative	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	die	die	PRELS	*	*	*	*
+31	sich	sich	PRF	*	*	*	*
+32	andernorts	andernorts	ADV	*	*	*	*
+33	als	als	KOKOM	*	*	*	*
+34	Befreier	Befreier	NN	*	*	*	*
+35	unterdrückter	unterdrückt	ADJA	*	*	*	*
+36	Völker	Volk	NN	*	*	*	*
+37	aufspielen	aufspielen	VVINF	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T910207.116
+# text = Schwach ist der Versuch der PSI , noch auf den fahrenden Zug aufzuspringen und gleichzeitig mit dem Präsidialsystem auch eine Stärkung der Regionen - " alle internen Fragen betreffend " zu versprechen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schwach	schwach	ADJD	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Versuch	Versuch	NN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	PSI	Psi	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	noch	noch	ADV	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	fahrenden	fahrend	ADJA	*	*	*	*
+12	Zug	Zug	NN	2	2	2	2
+13	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+14	und	und	KON	*	*	*	*
+15	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	dem	die	ART	*	*	*	*
+18	Präsidialsystem	Präsidialsystem	NN	*	*	*	*
+19	auch	auch	ADV	*	*	*	*
+20	eine	eine	ART	*	*	*	*
+21	Stärkung	Stärkung	NN	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Regionen	Region	NN	*	*	*	*
+24	-	-	$(	*	*	*	*
+25	"	"	$(	*	*	*	*
+26	alle	alle	PIS	*	*	*	*
+27	internen	intern	ADJA	*	*	*	*
+28	Fragen	Frage	NN	*	*	*	*
+29	betreffend	betreffend	ADJD	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	zu	zu	PTKZU	*	*	*	*
+32	versprechen	versprechen	VVINF	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T900514.173
+# text = Weitere Feststellungen : Schon der Name Eures Konzepts " euro - taz " läßt befürchten , daß Ihr eher auf den neoimperialistischen Zug der Zeit aufgesprungen seid , anstatt den Tatort konsequent auszuleuchten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Weitere	weit	ADJA	*	*	*	*
+2	Feststellungen	Feststellung	NN	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	Schon	schon	ADV	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Name	Name	NN	*	*	*	*
+7	Eures	euer	PPOSAT	*	*	*	*
+8	Konzepts	Konzept	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	euro	<unknown>	NE	*	*	*	*
+11	-	-	$(	*	*	*	*
+12	taz	<unknown>	NE	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	läßt	lassen	VVFIN	*	*	*	*
+15	befürchten	befürchten	VVFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	daß	dass	KOUS	*	*	*	*
+18	Ihr	sie	PPER	*	*	*	*
+19	eher	eher	ADV	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	neoimperialistischen	<unknown>	ADJA	*	*	*	*
+23	Zug	Zug	NN	2	2	2	2
+24	der	die	ART	*	*	*	*
+25	Zeit	Zeit	NN	*	*	*	*
+26	aufgesprungen	aufspringen	VVPP	2	2	2	2
+27	seid	sein	VAFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	anstatt	anstatt	KOUI	*	*	*	*
+30	den	die	ART	*	*	*	*
+31	Tatort	Tatort	NN	*	*	*	*
+32	konsequent	konsequent	ADJD	*	*	*	*
+33	auszuleuchten	ausleuchten	VVIZU	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T900516.103
+# text = Doch noch ist nicht alles verloren : " Glücklicherweise haben wir mit Frau Thatcher einen Staatsmann , der die Gefahren sieht und sich weigert , auf den Zug in Richtung Katastrophe aufzuspringen " , meinte Tebbit .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	noch	noch	ADV	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	alles	alle	PIS	*	*	*	*
+6	verloren	verlieren	VVPP	*	*	*	*
+7	:	:	$.	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	Glücklicherweise	glücklicherweise	ADV	*	*	*	*
+10	haben	haben	VAFIN	*	*	*	*
+11	wir	wir	PPER	*	*	*	*
+12	mit	mit	APPR	*	*	*	*
+13	Frau	Frau	NN	*	*	*	*
+14	Thatcher	Thatcher	NE	*	*	*	*
+15	einen	eine	ART	*	*	*	*
+16	Staatsmann	Staatsmann	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	der	die	PRELS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Gefahren	Gefahr	NN	*	*	*	*
+21	sieht	sehen	VVFIN	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	weigert	weigern	VVFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	auf	auf	APPR	2	2	2	2
+27	den	die	ART	*	*	*	*
+28	Zug	Zug	NN	2	2	2	2
+29	in	in	APPR	*	*	*	*
+30	Richtung	Richtung	NN	*	*	*	*
+31	Katastrophe	Katastrophe	NN	*	*	*	*
+32	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+33	"	"	$(	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	meinte	meinen	VVFIN	*	*	*	*
+36	Tebbit	<unknown>	NN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T900411.95
+# text = Zugleich äußert er aber Sorge , daß der Wunsch vieler DDR-Bürger nach der Einheit ausschließlich materiell begründet ist : " Bedenklich ist aber , daß der Zug der Vereinigung so viele Fahrgäste hat , die wirkich nur auf den Westwagen aufspringen wollen , die bei der Wahl am 18. März wirklich nur die D-Mark gewählt haben , die wirklich sehr weit entfernt sind von den Gedanken der demokratischen Revolution .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zugleich	zugleich	ADV	*	*	*	*
+2	äußert	äußern	VVFIN	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	aber	aber	ADV	*	*	*	*
+5	Sorge	Sorge	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Wunsch	Wunsch	NN	*	*	*	*
+10	vieler	viele	PIAT	*	*	*	*
+11	DDR-Bürger	DDR-Bürger	NN	*	*	*	*
+12	nach	nach	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Einheit	Einheit	NN	*	*	*	*
+15	ausschließlich	ausschließlich	ADV	*	*	*	*
+16	materiell	materiell	ADJD	*	*	*	*
+17	begründet	begründen	VVPP	*	*	*	*
+18	ist	sein	VAFIN	*	*	*	*
+19	:	:	$.	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	Bedenklich	bedenklich	ADJD	*	*	*	*
+22	ist	sein	VAFIN	*	*	*	*
+23	aber	aber	ADV	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	daß	dass	KOUS	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	Zug	Zug	NN	2	2	2	2
+28	der	die	ART	*	*	*	*
+29	Vereinigung	Vereinigung	NN	*	*	*	*
+30	so	so	ADV	*	*	*	*
+31	viele	viele	PIAT	*	*	*	*
+32	Fahrgäste	Fahrgast	NN	*	*	*	*
+33	hat	haben	VAFIN	*	*	*	*
+34	,	,	$,	*	*	*	*
+35	die	die	PRELS	*	*	*	*
+36	wirkich	<unknown>	ADJD	*	*	*	*
+37	nur	nur	ADV	*	*	*	*
+38	auf	auf	APPR	*	*	*	*
+39	den	die	ART	*	*	*	*
+40	Westwagen	Westwagen	NN	*	*	*	*
+41	aufspringen	aufspringen	VVINF	2	2	2	2
+42	wollen	wollen	VMFIN	*	*	*	*
+43	,	,	$,	*	*	*	*
+44	die	die	PRELS	*	*	*	*
+45	bei	bei	APPR	*	*	*	*
+46	der	die	ART	*	*	*	*
+47	Wahl	Wahl	NN	*	*	*	*
+48	am	an	APPRART	*	*	*	*
+49	18	@card@	CARD	*	*	*	*
+50	.	.	$.	*	*	*	*
+51	März	März	NN	*	*	*	*
+52	wirklich	wirklich	ADJD	*	*	*	*
+53	nur	nur	ADV	*	*	*	*
+54	die	die	ART	*	*	*	*
+55	D-Mark	D-Mark	NN	*	*	*	*
+56	gewählt	wählen	VVPP	*	*	*	*
+57	haben	haben	VAFIN	*	*	*	*
+58	,	,	$,	*	*	*	*
+59	die	die	PRELS	*	*	*	*
+60	wirklich	wirklich	ADJD	*	*	*	*
+61	sehr	sehr	ADV	*	*	*	*
+62	weit	weit	ADJD	*	*	*	*
+63	entfernt	entfernen	VVPP	*	*	*	*
+64	sind	sein	VAFIN	*	*	*	*
+65	von	von	APPR	*	*	*	*
+66	den	die	ART	*	*	*	*
+67	Gedanken	Gedanke	NN	*	*	*	*
+68	der	die	ART	*	*	*	*
+69	demokratischen	demokratisch	ADJA	*	*	*	*
+70	Revolution	Revolution	NN	*	*	*	*
+71	.	.	$.	*	*	*	*
+
+# article_id = T900417.251
+# text = Bedenklich ist aber , daß der Zug der Vereinigung so viele Fahrgäste hat , die wirklich nur auf den Westwagen - als Synonym für alle anderen durchaus erklärlichen Wünsche - aufspringen wollen , die bei der Wahl am 18. März wirklich nur die D-Mark gewählt haben , und die wirklich sehr weit entfernt sind von den Gedanken der demokratischen Revolution , die ja in der DDR gemacht worden ist und nicht in Bonn .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bedenklich	bedenklich	ADJD	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	aber	aber	ADV	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Zug	Zug	NN	2	2	2	2
+8	der	die	ART	*	*	*	*
+9	Vereinigung	Vereinigung	NN	*	*	*	*
+10	so	so	ADV	*	*	*	*
+11	viele	viele	PIAT	*	*	*	*
+12	Fahrgäste	Fahrgast	NN	*	*	*	*
+13	hat	haben	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	wirklich	wirklich	ADJD	*	*	*	*
+17	nur	nur	ADV	*	*	*	*
+18	auf	auf	APPR	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	Westwagen	Westwagen	NN	*	*	*	*
+21	-	-	$(	*	*	*	*
+22	als	als	KOKOM	*	*	*	*
+23	Synonym	Synonym	NN	*	*	*	*
+24	für	für	APPR	*	*	*	*
+25	alle	alle	PIAT	*	*	*	*
+26	anderen	andere	PIS	*	*	*	*
+27	durchaus	durchaus	ADV	*	*	*	*
+28	erklärlichen	erklärlich	ADJA	*	*	*	*
+29	Wünsche	Wunsch	NN	*	*	*	*
+30	-	-	$(	*	*	*	*
+31	aufspringen	aufspringen	VVINF	2	2	2	2
+32	wollen	wollen	VMFIN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	die	die	PRELS	*	*	*	*
+35	bei	bei	APPR	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	Wahl	Wahl	NN	*	*	*	*
+38	am	an	APPRART	*	*	*	*
+39	18	@card@	CARD	*	*	*	*
+40	.	.	$.	*	*	*	*
+41	März	März	NN	*	*	*	*
+42	wirklich	wirklich	ADJD	*	*	*	*
+43	nur	nur	ADV	*	*	*	*
+44	die	die	ART	*	*	*	*
+45	D-Mark	D-Mark	NN	*	*	*	*
+46	gewählt	wählen	VVPP	*	*	*	*
+47	haben	haben	VAFIN	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	und	und	KON	*	*	*	*
+50	die	die	ART	*	*	*	*
+51	wirklich	wirklich	ADJD	*	*	*	*
+52	sehr	sehr	ADV	*	*	*	*
+53	weit	weit	ADJD	*	*	*	*
+54	entfernt	entfernen	VVPP	*	*	*	*
+55	sind	sein	VAFIN	*	*	*	*
+56	von	von	APPR	*	*	*	*
+57	den	die	ART	*	*	*	*
+58	Gedanken	Gedanke	NN	*	*	*	*
+59	der	die	ART	*	*	*	*
+60	demokratischen	demokratisch	ADJA	*	*	*	*
+61	Revolution	Revolution	NN	*	*	*	*
+62	,	,	$,	*	*	*	*
+63	die	die	PRELS	*	*	*	*
+64	ja	ja	ADV	*	*	*	*
+65	in	in	APPR	*	*	*	*
+66	der	die	ART	*	*	*	*
+67	DDR	DDR	NE	*	*	*	*
+68	gemacht	machen	VVPP	*	*	*	*
+69	worden	werden	VAPP	*	*	*	*
+70	ist	sein	VAFIN	*	*	*	*
+71	und	und	KON	*	*	*	*
+72	nicht	nicht	PTKNEG	*	*	*	*
+73	in	in	APPR	*	*	*	*
+74	Bonn	Bonn	NE	*	*	*	*
+75	.	.	$.	*	*	*	*
+
+# article_id = T901207.32
+# text = Noch bevor Slobodan Milosevic , der Wendekommunist und amtierende Präsident der Republik Serbien , auf den nationalen Zug aufsprang , hatte Draskovic Anfang der 80er Jahre erklärt , sein " linker Internationalismus " sei eine " Kinderkrankheit " gewesen , es gehe ihm um eine " Neubewertung des gesunden Nationalgefühls " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Noch	noch	ADV	*	*	*	*
+2	bevor	bevor	KOUS	*	*	*	*
+3	Slobodan	Slobodan	NE	*	*	*	*
+4	Milosevic	<unknown>	NE	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Wendekommunist	Wendekommunist	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	amtierende	amtierend	ADJA	*	*	*	*
+10	Präsident	Präsident	NN	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Republik	Republik	NN	*	*	*	*
+13	Serbien	Serbien	NE	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	nationalen	national	ADJA	*	*	*	*
+18	Zug	Zug	NN	2	2	2	2
+19	aufsprang	aufspringen	VVFIN	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	hatte	haben	VAFIN	*	*	*	*
+22	Draskovic	<unknown>	NE	*	*	*	*
+23	Anfang	Anfang	NN	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	80er	80er	ADJA	*	*	*	*
+26	Jahre	Jahr	NN	*	*	*	*
+27	erklärt	erklären	VVPP	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	sein	sein	PPOSAT	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	linker	links	ADJA	*	*	*	*
+32	Internationalismus	Internationalismus	NN	*	*	*	*
+33	"	"	$(	*	*	*	*
+34	sei	sein	VAFIN	*	*	*	*
+35	eine	eine	ART	*	*	*	*
+36	"	"	$(	*	*	*	*
+37	Kinderkrankheit	Kinderkrankheit	NN	*	*	*	*
+38	"	"	$(	*	*	*	*
+39	gewesen	sein	VAPP	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	es	es	PPER	*	*	*	*
+42	gehe	gehen	VVFIN	*	*	*	*
+43	ihm	er	PPER	*	*	*	*
+44	um	um	APPR	*	*	*	*
+45	eine	eine	ART	*	*	*	*
+46	"	"	$(	*	*	*	*
+47	Neubewertung	Neubewertung	NN	*	*	*	*
+48	des	die	ART	*	*	*	*
+49	gesunden	gesund	ADJA	*	*	*	*
+50	Nationalgefühls	Nationalgefühl	NN	*	*	*	*
+51	"	"	$(	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T901224.140
+# text = Die Kirchen - als die einzigen Institutionen im Ostblock , die in der zweiten Hälfte des Saeculum das Terrain sozialer Kommunikation " besetzt " hatten - werden jetzt zum Ort des Kampfs der nationalen Kräfte , des Kampfs um die Besetzung des " symbolischen Mehrwerts " Nation : Während sich die orthodoxen Staatskirchen , die sich in der Vergangenheit mit dem alten Regime ( etwa in Rumänien ) arrangiert hatten , heute beeilen , auf den nationalistischen Zug aufzuspringen , sind in den baltischen Republiken oder in der Ukraine die unter Stalin verfolgten Katholiken bzw. katholisch Unierten zu Bannerträgern der nationalen Selbstbestimmung geworden : die nationale Bewegung wird selbst zur Partei im Kirchenkampf .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Kirchen	Kirche	NN	*	*	*	*
+3	-	-	$(	*	*	*	*
+4	als	als	KOKOM	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	einzigen	einzig	ADJA	*	*	*	*
+7	Institutionen	Institution	NN	*	*	*	*
+8	im	in	APPRART	*	*	*	*
+9	Ostblock	Ostblock	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	die	die	PRELS	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	zweiten	zweit	ADJA	*	*	*	*
+15	Hälfte	Hälfte	NN	*	*	*	*
+16	des	die	ART	*	*	*	*
+17	Saeculum	<unknown>	NN	*	*	*	*
+18	das	die	ART	*	*	*	*
+19	Terrain	Terrain	NN	*	*	*	*
+20	sozialer	sozial	ADJA	*	*	*	*
+21	Kommunikation	Kommunikation	NN	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	besetzt	besetzen	VVPP	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	hatten	haben	VAFIN	*	*	*	*
+26	-	-	$(	*	*	*	*
+27	werden	werden	VAFIN	*	*	*	*
+28	jetzt	jetzt	ADV	*	*	*	*
+29	zum	zu	APPRART	*	*	*	*
+30	Ort	Ort	NN	*	*	*	*
+31	des	die	ART	*	*	*	*
+32	Kampfs	Kampf	NN	*	*	*	*
+33	der	die	ART	*	*	*	*
+34	nationalen	national	ADJA	*	*	*	*
+35	Kräfte	Kraft	NN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	des	die	ART	*	*	*	*
+38	Kampfs	Kampf	NN	*	*	*	*
+39	um	um	APPR	*	*	*	*
+40	die	die	ART	*	*	*	*
+41	Besetzung	Besetzung	NN	*	*	*	*
+42	des	die	ART	*	*	*	*
+43	"	"	$(	*	*	*	*
+44	symbolischen	symbolisch	ADJA	*	*	*	*
+45	Mehrwerts	Mehrwert	NN	*	*	*	*
+46	"	"	$(	*	*	*	*
+47	Nation	Nation	NN	*	*	*	*
+48	:	:	$.	*	*	*	*
+49	Während	während	KOUS	*	*	*	*
+50	sich	sich	PRF	*	*	*	*
+51	die	die	ART	*	*	*	*
+52	orthodoxen	orthodox	ADJA	*	*	*	*
+53	Staatskirchen	Staatskirche	NN	*	*	*	*
+54	,	,	$,	*	*	*	*
+55	die	die	PRELS	*	*	*	*
+56	sich	sich	PRF	*	*	*	*
+57	in	in	APPR	*	*	*	*
+58	der	die	ART	*	*	*	*
+59	Vergangenheit	Vergangenheit	NN	*	*	*	*
+60	mit	mit	APPR	*	*	*	*
+61	dem	die	ART	*	*	*	*
+62	alten	alt	ADJA	*	*	*	*
+63	Regime	Regime	NN	*	*	*	*
+64	(	(	$(	*	*	*	*
+65	etwa	etwa	ADV	*	*	*	*
+66	in	in	APPR	*	*	*	*
+67	Rumänien	Rumänien	NE	*	*	*	*
+68	)	)	$(	*	*	*	*
+69	arrangiert	arrangieren	VVPP	*	*	*	*
+70	hatten	haben	VAFIN	*	*	*	*
+71	,	,	$,	*	*	*	*
+72	heute	heute	ADV	*	*	*	*
+73	beeilen	beeilen	VVINF	*	*	*	*
+74	,	,	$,	*	*	*	*
+75	auf	auf	APPR	2	2	2	2
+76	den	die	ART	*	*	*	*
+77	nationalistischen	nationalistisch	ADJA	*	*	*	*
+78	Zug	Zug	NN	2	2	2	2
+79	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+80	,	,	$,	*	*	*	*
+81	sind	sein	VAFIN	*	*	*	*
+82	in	in	APPR	*	*	*	*
+83	den	die	ART	*	*	*	*
+84	baltischen	baltisch	ADJA	*	*	*	*
+85	Republiken	Republik	NN	*	*	*	*
+86	oder	oder	KON	*	*	*	*
+87	in	in	APPR	*	*	*	*
+88	der	die	ART	*	*	*	*
+89	Ukraine	Ukraine	NE	*	*	*	*
+90	die	die	ART	*	*	*	*
+91	unter	unter	APPR	*	*	*	*
+92	Stalin	Stalin	NE	*	*	*	*
+93	verfolgten	verfolgt	ADJA	*	*	*	*
+94	Katholiken	Katholik	NN	*	*	*	*
+95	bzw.	bzw.	KON	*	*	*	*
+96	katholisch	katholisch	ADJD	*	*	*	*
+97	Unierten	Unierte	NN	*	*	*	*
+98	zu	zu	APPR	*	*	*	*
+99	Bannerträgern	Bannerträger	NN	*	*	*	*
+100	der	die	ART	*	*	*	*
+101	nationalen	national	ADJA	*	*	*	*
+102	Selbstbestimmung	Selbstbestimmung	NN	*	*	*	*
+103	geworden	werden	VAPP	*	*	*	*
+104	:	:	$.	*	*	*	*
+105	die	die	ART	*	*	*	*
+106	nationale	national	ADJA	*	*	*	*
+107	Bewegung	Bewegung	NN	*	*	*	*
+108	wird	werden	VAFIN	*	*	*	*
+109	selbst	selbst	ADV	*	*	*	*
+110	zur	zu	APPRART	*	*	*	*
+111	Partei	Partei	NN	*	*	*	*
+112	im	in	APPRART	*	*	*	*
+113	Kirchenkampf	Kirchenkampf	NN	*	*	*	*
+114	.	.	$.	*	*	*	*
+
+# article_id = T900827.257
+# text = Daß aber all jene Frauen , die die gesellschaftlichen Strukturen des 19. Jahrhunderts radikal in Frage stellten und deren Gedanken in vielem richtig , in manchem falsch in die Ideologie der DDR aufgenommen , in dieser Ausstellung einfach unterschlagen werden , läßt keinen Zweifel mehr an der Art des Zuges , auf den da aufgesprungen wurde : " Yesterday Man " und " Oh bum bum bum " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	aber	aber	ADV	*	*	*	*
+3	all	alle	PIAT	*	*	*	*
+4	jene	jen	PDAT	*	*	*	*
+5	Frauen	Frau	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	gesellschaftlichen	gesellschaftlich	ADJA	*	*	*	*
+10	Strukturen	Struktur	NN	*	*	*	*
+11	des	die	ART	*	*	*	*
+12	19	@card@	CARD	*	*	*	*
+13	.	.	$.	*	*	*	*
+14	Jahrhunderts	Jahrhundert	NN	*	*	*	*
+15	radikal	radikal	ADJD	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	Frage	Frage	NN	*	*	*	*
+18	stellten	stellen	VVFIN	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	deren	die	PDAT	*	*	*	*
+21	Gedanken	Gedanke	NN	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	vielem	viele	PIS	*	*	*	*
+24	richtig	richtig	ADJD	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	in	in	APPR	*	*	*	*
+27	manchem	manche	PIS	*	*	*	*
+28	falsch	falsch	ADJD	*	*	*	*
+29	in	in	APPR	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	Ideologie	Ideologie	NN	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	DDR	DDR	NE	*	*	*	*
+34	aufgenommen	aufnehmen	VVPP	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	in	in	APPR	*	*	*	*
+37	dieser	dies	PDAT	*	*	*	*
+38	Ausstellung	Ausstellung	NN	*	*	*	*
+39	einfach	einfach	ADJD	*	*	*	*
+40	unterschlagen	unterschlagen	VVPP	*	*	*	*
+41	werden	werden	VAINF	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	läßt	lassen	VVFIN	*	*	*	*
+44	keinen	keine	PIAT	*	*	*	*
+45	Zweifel	Zweifel	NN	*	*	*	*
+46	mehr	mehr	ADV	*	*	*	*
+47	an	an	APPR	*	*	*	*
+48	der	die	ART	*	*	*	*
+49	Art	Art	NN	*	*	*	*
+50	des	die	ART	*	*	*	*
+51	Zuges	Zug	NN	2	2	2	2
+52	,	,	$,	*	*	*	*
+53	auf	auf	APPR	2	2	2	2
+54	den	die	PRELS	*	*	*	*
+55	da	da	ADV	*	*	*	*
+56	aufgesprungen	aufspringen	VVPP	2	2	2	2
+57	wurde	werden	VAFIN	*	*	*	*
+58	:	:	$.	*	*	*	*
+59	"	"	$(	*	*	*	*
+60	Yesterday	<unknown>	NE	*	*	*	*
+61	Man	<unknown>	NE	*	*	*	*
+62	"	"	$(	*	*	*	*
+63	und	und	KON	*	*	*	*
+64	"	"	$(	*	*	*	*
+65	Oh	oh	ITJ	*	*	*	*
+66	bum	<unknown>	NN	*	*	*	*
+67	bum	<unknown>	NN	*	*	*	*
+68	bum	<unknown>	NN	*	*	*	*
+69	"	"	$(	*	*	*	*
+70	.	.	$.	*	*	*	*
+
+# article_id = T901117.280
+# text = Fücks : " Oder wird Bremen auf den Zug aufspringen , bevor er abgefahren ist ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Fücks	<unknown>	NN	*	*	*	*
+2	:	:	$.	*	*	*	*
+3	"	"	$(	*	*	*	*
+4	Oder	oder	KON	*	*	*	*
+5	wird	werden	VAFIN	*	*	*	*
+6	Bremen	Bremen	NE	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	aufspringen	aufspringen	VVINF	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	bevor	bevor	KOUS	*	*	*	*
+13	er	er	PPER	*	*	*	*
+14	abgefahren	abfahren	VVPP	*	*	*	*
+15	ist	sein	VAFIN	*	*	*	*
+16	?	?	$.	*	*	*	*
+
+# article_id = T920513.74
+# text = Auf diesem Zug suchen derzeit allerdings auch schon andere aufzuspringen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Auf	auf	APPR	2	2	2	2
+2	diesem	dies	PDAT	*	*	*	*
+3	Zug	Zug	NN	2	2	2	2
+4	suchen	suchen	VVFIN	*	*	*	*
+5	derzeit	derzeit	ADV	*	*	*	*
+6	allerdings	allerdings	ADV	*	*	*	*
+7	auch	auch	ADV	*	*	*	*
+8	schon	schon	ADV	*	*	*	*
+9	andere	andere	PIS	*	*	*	*
+10	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T920526.118
+# text = Dennoch kann es nicht angehen , auf einen protestrevolutionären rechten Zug " Republikaner " aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dennoch	dennoch	ADV	*	*	*	*
+2	kann	können	VMFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	angehen	angehen	VVINF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	einen	eine	ART	*	*	*	*
+9	protestrevolutionären	<unknown>	ADJA	*	*	*	*
+10	rechten	recht|rechts	ADJA	*	*	*	*
+11	Zug	Zug	NN	2	2	2	2
+12	"	"	$(	*	*	*	*
+13	Republikaner	Republikaner	NN	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T920617.220
+# text = Sunny Ade tat sich nach seinem frühen Höhenflug über Europa und Amerika erstanlich schwer , auf den Zug der " Weltmusik " aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sunny	Sunny	NE	*	*	*	*
+2	Ade	Ade	NN	*	*	*	*
+3	tat	tun	VVFIN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	nach	nach	APPR	*	*	*	*
+6	seinem	sein	PPOSAT	*	*	*	*
+7	frühen	früh	ADJA	*	*	*	*
+8	Höhenflug	Höhenflug	NN	*	*	*	*
+9	über	über	APPR	*	*	*	*
+10	Europa	Europa	NE	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	Amerika	Amerika	NE	*	*	*	*
+13	erstanlich	<unknown>	ADJD	*	*	*	*
+14	schwer	schwer	ADJD	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	auf	auf	APPR	2	2	2	2
+17	den	die	ART	*	*	*	*
+18	Zug	Zug	NN	2	2	2	2
+19	der	die	ART	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	Weltmusik	Weltmusik	NN	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T921015.62
+# text = Der britische UNO-Botschafter Hannay betonte , dies sei " die letzte Chance für die Roten Khmer , auf den Zug aufzuspringen , der bald aus dem Bahnhof abfährt " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	britische	britisch	ADJA	*	*	*	*
+3	UNO-Botschafter	UNO-Botschafter	NN	*	*	*	*
+4	Hannay	<unknown>	NE	*	*	*	*
+5	betonte	betonen	VVFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	dies	dies	PDS	*	*	*	*
+8	sei	sein	VAFIN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	letzte	letzt	ADJA	*	*	*	*
+12	Chance	Chance	NN	*	*	*	*
+13	für	für	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	Roten	Rote	NN	*	*	*	*
+16	Khmer	<unknown>	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	auf	auf	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	Zug	Zug	NN	2	2	2	2
+21	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+22	,	,	$,	*	*	*	*
+23	der	die	PRELS	*	*	*	*
+24	bald	bald	ADV	*	*	*	*
+25	aus	aus	APPR	*	*	*	*
+26	dem	die	ART	*	*	*	*
+27	Bahnhof	Bahnhof	NN	*	*	*	*
+28	abfährt	abfahren	VVFIN	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T920917.75
+# text = Ich muß als Wissenschaftler auf den Zug aufspringen , um ihn umzulenken .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	ich	PPER	*	*	*	*
+2	muß	müssen	VMFIN	*	*	*	*
+3	als	als	KOKOM	*	*	*	*
+4	Wissenschaftler	Wissenschaftler	NN	*	*	*	*
+5	auf	auf	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	Zug	Zug	NN	2	2	2	2
+8	aufspringen	aufspringen	VVINF	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	um	um	KOUI	*	*	*	*
+11	ihn	er	PPER	*	*	*	*
+12	umzulenken	umlenken	VVIZU	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T920929.89
+# text = Die Wut , die mich in den letzten Jahren aufrecht hielt , ist gestorben , als sich mein Land plötzlich entschied , auf jenen Zug aufzuspringen , der gerade in der ganzen Welt in Mode ist ; als man sich entschied , eiligst in Richtung " Freiheit , Demokratie und Europa " aufzubrechen ; als man plötzlich begann , andere aus dem Zug zu werfen , um selbst drin zu bleiben ; als man allenthalben brüllte : " Wir sind gut , die andern schlecht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Wut	Wut	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	die	die	PRELS	*	*	*	*
+5	mich	ich	PRF	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	letzten	letzt	ADJA	*	*	*	*
+9	Jahren	Jahr	NN	*	*	*	*
+10	aufrecht	aufrecht	PTKVZ	*	*	*	*
+11	hielt	halten	VVFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	ist	sein	VAFIN	*	*	*	*
+14	gestorben	sterben	VVPP	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	als	als	KOUS	*	*	*	*
+17	sich	sich	PRF	*	*	*	*
+18	mein	mein	PPOSAT	*	*	*	*
+19	Land	Land	NN	*	*	*	*
+20	plötzlich	plötzlich	ADJD	*	*	*	*
+21	entschied	entscheiden	VVFIN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	auf	auf	APPR	2	2	2	2
+24	jenen	jen	PDAT	*	*	*	*
+25	Zug	Zug	NN	2	2	2	2
+26	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+27	,	,	$,	*	*	*	*
+28	der	die	PRELS	*	*	*	*
+29	gerade	gerade	ADV	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	ganzen	ganz	ADJA	*	*	*	*
+33	Welt	Welt	NN	*	*	*	*
+34	in	in	APPR	*	*	*	*
+35	Mode	Mode	NN	*	*	*	*
+36	ist	sein	VAFIN	*	*	*	*
+37	;	;	$.	*	*	*	*
+38	als	als	KOUS	*	*	*	*
+39	man	man	PIS	*	*	*	*
+40	sich	sich	PRF	*	*	*	*
+41	entschied	entscheiden	VVFIN	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	eiligst	eilig	ADJD	*	*	*	*
+44	in	in	APPR	*	*	*	*
+45	Richtung	Richtung	NN	*	*	*	*
+46	"	"	$(	*	*	*	*
+47	Freiheit	Freiheit	NN	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	Demokratie	Demokratie	NN	*	*	*	*
+50	und	und	KON	*	*	*	*
+51	Europa	Europa	NE	*	*	*	*
+52	"	"	$(	*	*	*	*
+53	aufzubrechen	aufbrechen	VVIZU	*	*	*	*
+54	;	;	$.	*	*	*	*
+55	als	als	KOUS	*	*	*	*
+56	man	man	PIS	*	*	*	*
+57	plötzlich	plötzlich	ADJD	*	*	*	*
+58	begann	beginnen	VVFIN	*	*	*	*
+59	,	,	$,	*	*	*	*
+60	andere	andere	PIS	*	*	*	*
+61	aus	aus	APPR	*	*	*	*
+62	dem	die	ART	*	*	*	*
+63	Zug	Zug	NN	*	*	*	*
+64	zu	zu	PTKZU	*	*	*	*
+65	werfen	werfen	VVINF	*	*	*	*
+66	,	,	$,	*	*	*	*
+67	um	um	KOUI	*	*	*	*
+68	selbst	selbst	ADV	*	*	*	*
+69	drin	drin	PAV	*	*	*	*
+70	zu	zu	PTKZU	*	*	*	*
+71	bleiben	bleiben	VVINF	*	*	*	*
+72	;	;	$.	*	*	*	*
+73	als	als	KOKOM	*	*	*	*
+74	man	man	PIS	*	*	*	*
+75	allenthalben	allenthalben	ADV	*	*	*	*
+76	brüllte	brüllen	VVFIN	*	*	*	*
+77	:	:	$.	*	*	*	*
+78	"	"	$(	*	*	*	*
+79	Wir	wir	PPER	*	*	*	*
+80	sind	sein	VAFIN	*	*	*	*
+81	gut	gut	ADJD	*	*	*	*
+82	,	,	$,	*	*	*	*
+83	die	die	PRELS	*	*	*	*
+84	andern	andere	PIS	*	*	*	*
+85	schlecht	schlecht	ADJD	*	*	*	*
+86	.	.	$.	*	*	*	*
+
+# article_id = T920731.174
+# text = Inzwischen sind sie aber - gute zwei Jahre zu spät - auf den jetzt doch ziemlich lahmenden Rave- Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Inzwischen	inzwischen	ADV	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	aber	aber	ADV	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	gute	gut	ADJA	*	*	*	*
+7	zwei	zwei	CARD	*	*	*	*
+8	Jahre	Jahr	NN	*	*	*	*
+9	zu	zu	PTKA	*	*	*	*
+10	spät	spät	ADJD	*	*	*	*
+11	-	-	$(	*	*	*	*
+12	auf	auf	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	jetzt	jetzt	ADV	*	*	*	*
+15	doch	doch	ADV	*	*	*	*
+16	ziemlich	ziemlich	ADV	*	*	*	*
+17	lahmenden	lahmend	ADJA	*	*	*	*
+18	Rave-	Rave-	TRUNC	*	*	*	*
+19	Zug	Zug	NN	2	2	2	2
+20	aufgesprungen	aufspringen	VVPP	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T920731.206
+# text = Wenn Wedemeier jetzt plötzlich seine Meinung ändert , dann höchstens aus Angst , den Zug zu verpassen , auf den seine prominenteren Parteigenossen ohnehin längst aufgesprungen sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	Wedemeier	Wedemeier	NE	*	*	*	*
+3	jetzt	jetzt	ADV	*	*	*	*
+4	plötzlich	plötzlich	ADJD	*	*	*	*
+5	seine	sein	PPOSAT	*	*	*	*
+6	Meinung	Meinung	NN	*	*	*	*
+7	ändert	ändern	VVFIN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	dann	dann	ADV	*	*	*	*
+10	höchstens	höchstens	ADV	*	*	*	*
+11	aus	aus	APPR	*	*	*	*
+12	Angst	Angst	NN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	Zug	Zug	NN	2	2	2	2
+16	zu	zu	PTKZU	*	*	*	*
+17	verpassen	verpassen	VVINF	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	auf	auf	APPR	*	*	*	*
+20	den	die	PRELS	*	*	*	*
+21	seine	sein	PPOSAT	*	*	*	*
+22	prominenteren	prominent	ADJA	*	*	*	*
+23	Parteigenossen	Parteigenosse	NN	*	*	*	*
+24	ohnehin	ohnehin	ADV	*	*	*	*
+25	längst	längst	ADV	*	*	*	*
+26	aufgesprungen	aufspringen	VVPP	2	2	2	2
+27	sind	sein	VAFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T921208.169
+# text = Die Sozialdemokraten , im Bund ohne Macht und deshalb auf der Suche nach einem energiepolitischen Ausstiegs-Konsens , sollten das Kleingedruckte der Rückzugs- Konzepte sehr genau lesen , bevor sie blind auf jeden Zug aufspringen , der den Ausstieg als Zielbahnhof hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Sozialdemokraten	Sozialdemokrat	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Bund	Bund	NN	*	*	*	*
+6	ohne	ohne	APPR	*	*	*	*
+7	Macht	Macht	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	deshalb	deshalb	PAV	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Suche	Suche	NN	*	*	*	*
+13	nach	nach	APPR	*	*	*	*
+14	einem	eine	ART	*	*	*	*
+15	energiepolitischen	energiepolitisch	ADJA	*	*	*	*
+16	Ausstiegs-Konsens	<unknown>	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	sollten	sollen	VMFIN	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	Kleingedruckte	Kleingedruckte	NN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Rückzugs-	Rückzugs-	TRUNC	*	*	*	*
+23	Konzepte	Konzept	NN	*	*	*	*
+24	sehr	sehr	ADV	*	*	*	*
+25	genau	genau	ADJD	*	*	*	*
+26	lesen	lesen	VVINF	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	bevor	bevor	KOUS	*	*	*	*
+29	sie	sie	PPER	*	*	*	*
+30	blind	blind	ADJD	*	*	*	*
+31	auf	auf	APPR	2	2	2	2
+32	jeden	jede	PIAT	*	*	*	*
+33	Zug	Zug	NN	2	2	2	2
+34	aufspringen	aufspringen	VVINF	2	2	2	2
+35	,	,	$,	*	*	*	*
+36	der	die	PRELS	*	*	*	*
+37	den	die	ART	*	*	*	*
+38	Ausstieg	Ausstieg	NN	*	*	*	*
+39	als	als	KOKOM	*	*	*	*
+40	Zielbahnhof	Zielbahnhof	NN	*	*	*	*
+41	hat	haben	VAFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T920801.28
+# text = Tatsächlich hatten sich 1990 viele Nutznießer und Träger des alten Systems rechtzeitig umorientiert und waren auf den Zug Tudjmans aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Tatsächlich	tatsächlich	ADJD	*	*	*	*
+2	hatten	haben	VAFIN	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	1990	@card@	ADV	*	*	*	*
+5	viele	viele	PIAT	*	*	*	*
+6	Nutznießer	Nutznießer	NN	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	Träger	Träger	NN	*	*	*	*
+9	des	die	ART	*	*	*	*
+10	alten	alt	ADJA	*	*	*	*
+11	Systems	System	NN	*	*	*	*
+12	rechtzeitig	rechtzeitig	ADJD	*	*	*	*
+13	umorientiert	umorientieren	VVPP	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	waren	sein	VAFIN	*	*	*	*
+16	auf	auf	APPR	2	2	2	2
+17	den	die	ART	*	*	*	*
+18	Zug	Zug	NN	2	2	2	2
+19	Tudjmans	Tudjman	NE	*	*	*	*
+20	aufgesprungen	aufspringen	VVPP	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T881024.30
+# text = Zu spät nämlich ist Kohl auf den Zug der neuen Detente aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zu	zu	PTKA	*	*	*	*
+2	spät	spät	ADJD	*	*	*	*
+3	nämlich	nämlich	ADV	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	Kohl	Kohl	NE	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	der	die	ART	*	*	*	*
+10	neuen	neu	ADJA	*	*	*	*
+11	Detente	Detente	NN	*	*	*	*
+12	aufgesprungen	aufspringen	VVPP	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T881028.66
+# text = Mit der Ankündigung , bei dem Besuch Gorbatschows im nächsten Jahr in der Bundesrepublik ein Investitionsschutzabkommen abzuschließen , werden weitere deutsche Firmen motiviert , auf den anrollenden Zug des Ostgeschäftes aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Ankündigung	Ankündigung	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	bei	bei	APPR	*	*	*	*
+6	dem	die	ART	*	*	*	*
+7	Besuch	Besuch	NN	*	*	*	*
+8	Gorbatschows	Gorbatschow	NE	*	*	*	*
+9	im	in	APPRART	*	*	*	*
+10	nächsten	nah	ADJA	*	*	*	*
+11	Jahr	Jahr	NN	*	*	*	*
+12	in	in	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Bundesrepublik	Bundesrepublik	NN	*	*	*	*
+15	ein	eine	ART	*	*	*	*
+16	Investitionsschutzabkommen	Investitionsschutzabkommen	NN	*	*	*	*
+17	abzuschließen	abschließen	VVIZU	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	werden	werden	VAFIN	*	*	*	*
+20	weitere	weit	ADJA	*	*	*	*
+21	deutsche	deutsch	ADJA	*	*	*	*
+22	Firmen	Firma	NN	*	*	*	*
+23	motiviert	motivieren	VVPP	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	auf	auf	APPR	2	2	2	2
+26	den	die	ART	*	*	*	*
+27	anrollenden	anrollend	ADJA	*	*	*	*
+28	Zug	Zug	NN	2	2	2	2
+29	des	die	ART	*	*	*	*
+30	Ostgeschäftes	Ostgeschäft	NN	*	*	*	*
+31	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+32	.	.	$.	*	*	*	*
+
+# article_id = T881022.91
+# text = Viele Urlaubsorte und Fremdenverkehrsregionen in den Alpen sind auf den fahrenden Zug " Mountain-Biking " aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Viele	viele	PIAT	*	*	*	*
+2	Urlaubsorte	Urlaubsort	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	Fremdenverkehrsregionen	Fremdenverkehrsregion	NN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	Alpen	Alp	NN	*	*	*	*
+8	sind	sein	VAFIN	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	fahrenden	fahrend	ADJA	*	*	*	*
+12	Zug	Zug	NN	2	2	2	2
+13	"	"	$(	*	*	*	*
+14	Mountain-Biking	<unknown>	NN	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	aufgesprungen	aufspringen	VVPP	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T880919.70
+# text = Statt mit großem Getöse auf irgendeinen Zug aufzuspringen , muß die Band über Jahre hinweg vom festen Glauben gezehrt haben , man müsse nur lange genug am selben Fleck bleiben , irgendwann käme der ZUG DER ZEIT schon wieder an einem vorbeigerumpelt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Statt	statt	APPR	*	*	*	*
+2	mit	mit	APPR	*	*	*	*
+3	großem	groß	ADJA	*	*	*	*
+4	Getöse	Getöse	NN	*	*	*	*
+5	auf	auf	APPR	2	2	2	2
+6	irgendeinen	irgendeine	PIAT	*	*	*	*
+7	Zug	Zug	NN	2	2	2	2
+8	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+9	,	,	$,	*	*	*	*
+10	muß	müssen	VMFIN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Band	Band	NN	*	*	*	*
+13	über	über	APPR	*	*	*	*
+14	Jahre	Jahr	NN	*	*	*	*
+15	hinweg	hinweg	ADV	*	*	*	*
+16	vom	von	APPRART	*	*	*	*
+17	festen	fest	ADJA	*	*	*	*
+18	Glauben	Glaube	NN	*	*	*	*
+19	gezehrt	zehren	VVPP	*	*	*	*
+20	haben	haben	VAFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	man	man	PIS	*	*	*	*
+23	müsse	müssen	VMFIN	*	*	*	*
+24	nur	nur	ADV	*	*	*	*
+25	lange	lange	ADV	*	*	*	*
+26	genug	genug	ADV	*	*	*	*
+27	am	an	APPRART	*	*	*	*
+28	selben	selb	PDAT	*	*	*	*
+29	Fleck	Fleck	NN	*	*	*	*
+30	bleiben	bleiben	VVINF	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	irgendwann	irgendwann	ADV	*	*	*	*
+33	käme	kommen	VVFIN	*	*	*	*
+34	der	die	ART	*	*	*	*
+35	ZUG	Zug	NN	*	*	*	*
+36	DER	<unknown>	NN	*	*	*	*
+37	ZEIT	Zeit	NN	*	*	*	*
+38	schon	schon	ADV	*	*	*	*
+39	wieder	wieder	ADV	*	*	*	*
+40	an	an	APPR	*	*	*	*
+41	einem	eine	ART	*	*	*	*
+42	vorbeigerumpelt	<unknown>	VVFIN	*	*	*	*
+43	.	.	$.	*	*	*	*
+
+# article_id = T880912.129
+# text = Nein , nein - sie seien nicht auf den fahrenden Zug der " mittelalterlichen Konjunktur " , wie sie derzeit durch die Lande schleimt , aufgesprungen , sie seien auch nicht die Nutznießer Umberto Ecos und trügen auch nicht den " Namen der Rose " , versichert Ali Ben Juffi , Märchenerzähler und Gewürzhändler aus fernen Landen ( eigentlich heißt er ja Walter , nun ja ) .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nein	nein	PTKANT	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	nein	nein	PTKANT	*	*	*	*
+4	-	-	$(	*	*	*	*
+5	sie	sie	PPER	*	*	*	*
+6	seien	sein	VAFIN	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	fahrenden	fahrend	ADJA	*	*	*	*
+11	Zug	Zug	NN	2	2	2	2
+12	der	die	ART	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	mittelalterlichen	mittelalterlich	ADJA	*	*	*	*
+15	Konjunktur	Konjunktur	NN	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	wie	wie	KOUS	*	*	*	*
+19	sie	sie	PPER	*	*	*	*
+20	derzeit	derzeit	ADV	*	*	*	*
+21	durch	durch	APPR	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Lande	Land	NN	*	*	*	*
+24	schleimt	schleimen	VVFIN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	aufgesprungen	aufspringen	VVPP	2	2	2	2
+27	,	,	$,	*	*	*	*
+28	sie	sie	PPER	*	*	*	*
+29	seien	sein	VAFIN	*	*	*	*
+30	auch	auch	ADV	*	*	*	*
+31	nicht	nicht	PTKNEG	*	*	*	*
+32	die	die	ART	*	*	*	*
+33	Nutznießer	Nutznießer	NN	*	*	*	*
+34	Umberto	Umberto	NE	*	*	*	*
+35	Ecos	<unknown>	NN	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	trügen	tragen|trügen	VVFIN	*	*	*	*
+38	auch	auch	ADV	*	*	*	*
+39	nicht	nicht	PTKNEG	*	*	*	*
+40	den	die	ART	*	*	*	*
+41	"	"	$(	*	*	*	*
+42	Namen	Name	NN	*	*	*	*
+43	der	die	ART	*	*	*	*
+44	Rose	Rose	NN	*	*	*	*
+45	"	"	$(	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	versichert	versichern	VVFIN	*	*	*	*
+48	Ali	Ali	NE	*	*	*	*
+49	Ben	Ben	NE	*	*	*	*
+50	Juffi	<unknown>	NE	*	*	*	*
+51	,	,	$,	*	*	*	*
+52	Märchenerzähler	Märchenerzähler	NN	*	*	*	*
+53	und	und	KON	*	*	*	*
+54	Gewürzhändler	Gewürzhändler	NN	*	*	*	*
+55	aus	aus	APPR	*	*	*	*
+56	fernen	fern	ADJA	*	*	*	*
+57	Landen	Land|Landen	NN	*	*	*	*
+58	(	(	$(	*	*	*	*
+59	eigentlich	eigentlich	ADV	*	*	*	*
+60	heißt	heißen	VVFIN	*	*	*	*
+61	er	er	PPER	*	*	*	*
+62	ja	ja	ADV	*	*	*	*
+63	Walter	Walter	NE	*	*	*	*
+64	,	,	$,	*	*	*	*
+65	nun	nun	ADV	*	*	*	*
+66	ja	ja	ADV	*	*	*	*
+67	)	)	$(	*	*	*	*
+68	.	.	$.	*	*	*	*
+
+# article_id = T880113.76
+# text = Ende der siebziger Jahre versuchte der McDonalds Konzern " auf den fahrenden Zug aufzuspringen " , wie es der Vorsitzende Eberitsch des Fördervereins formuliert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ende	Ende	NN	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	siebziger	siebziger	ADJA	*	*	*	*
+4	Jahre	Jahr	NN	*	*	*	*
+5	versuchte	versuchen	VVFIN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	McDonalds	Mcdonalds	NE	*	*	*	*
+8	Konzern	Konzern	NN	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	fahrenden	fahrend	ADJA	*	*	*	*
+13	Zug	Zug	NN	2	2	2	2
+14	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+15	"	"	$(	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	wie	wie	KOUS	*	*	*	*
+18	es	es	PPER	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Vorsitzende	Vorsitzende	NN	*	*	*	*
+21	Eberitsch	<unknown>	NN	*	*	*	*
+22	des	die	ART	*	*	*	*
+23	Fördervereins	Förderverein	NN	*	*	*	*
+24	formuliert	formulieren	VVPP	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T880105.73
+# text = Gefährlicher allerdings als die Front selbst ist die Wucht des Zuges , auf den sie aufspringt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gefährlicher	gefährlich	ADJD	*	*	*	*
+2	allerdings	allerdings	ADV	*	*	*	*
+3	als	als	KOKOM	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Front	Front	NN	*	*	*	*
+6	selbst	selbst	ADV	*	*	*	*
+7	ist	sein	VAFIN	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	Wucht	Wucht	NN	*	*	*	*
+10	des	die	ART	*	*	*	*
+11	Zuges	Zug	NN	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	auf	auf	APPR	2	2	2	2
+14	den	die	PRELS	*	*	*	*
+15	sie	sie	PPER	*	*	*	*
+16	aufspringt	aufspringen	VVFIN	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T881203.205
+# text = Von einem Aufspringen auf den lukrativen Zug weiß man dort noch nichts .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Von	von	APPR	*	*	*	*
+2	einem	eine	ART	*	*	*	*
+3	Aufspringen	Aufspringen	NN	2	2	2	2
+4	auf	auf	APPR	2	2	2	2
+5	den	die	ART	*	*	*	*
+6	lukrativen	lukrativ	ADJA	*	*	*	*
+7	Zug	Zug	NN	2	2	2	2
+8	weiß	wissen	VVFIN	*	*	*	*
+9	man	man	PIS	*	*	*	*
+10	dort	dort	ADV	*	*	*	*
+11	noch	noch	ADV	*	*	*	*
+12	nichts	nichts	PIS	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T880805.74
+# text = Einige Unternehmen versuchen noch auf den profitträchtigen Zug der großtechnischen Anwendung gentechnologischer Verfahren aufzuspringen , bevor nach der Gesetzesänderung im Herbst öffentliche Anhörungsverfahren bei derlei Plänen zwingend vorgeschrieben werden sollen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Einige	einige	PIAT	*	*	*	*
+2	Unternehmen	Unternehmen	NN	*	*	*	*
+3	versuchen	versuchen	VVFIN	*	*	*	*
+4	noch	noch	ADV	*	*	*	*
+5	auf	auf	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	profitträchtigen	profitträchtig	ADJA	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	der	die	ART	*	*	*	*
+10	großtechnischen	großtechnisch	ADJA	*	*	*	*
+11	Anwendung	Anwendung	NN	*	*	*	*
+12	gentechnologischer	gentechnologisch	ADJA	*	*	*	*
+13	Verfahren	Verfahren	NN	*	*	*	*
+14	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+15	,	,	$,	*	*	*	*
+16	bevor	bevor	KOUS	*	*	*	*
+17	nach	nach	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Gesetzesänderung	Gesetzesänderung	NN	*	*	*	*
+20	im	in	APPRART	*	*	*	*
+21	Herbst	Herbst	NN	*	*	*	*
+22	öffentliche	öffentlich	ADJA	*	*	*	*
+23	Anhörungsverfahren	Anhörungsverfahren	NN	*	*	*	*
+24	bei	bei	APPR	*	*	*	*
+25	derlei	derlei	PIAT	*	*	*	*
+26	Plänen	Plan	NN	*	*	*	*
+27	zwingend	zwingend	ADJD	*	*	*	*
+28	vorgeschrieben	vorschreiben	VVPP	*	*	*	*
+29	werden	werden	VAINF	*	*	*	*
+30	sollen	sollen	VMFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T881126.103
+# text = Das ist allerdings völlig unrichtig , Tatsache ist vielmehr , daß bei uns in krassem Gegensatz zu Paris oder Deutschland die Studenten ( bis auf ganz wenig vereinzelte ) gar nichts damit zu tun hatten und brav streberten - ; daß die damalige " Linke " auf einen fahrenden Zug aufgesprungen war , also erst von einer bestehenden Bewegung profitiert hat , um ihre ( unerwünschten ) Parolen und ( Machtablöser- ) Fähnchen reinzuhängen und die jugendlichen Köpfe mit Politmief zu traktieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	allerdings	allerdings	ADV	*	*	*	*
+4	völlig	völlig	ADJD	*	*	*	*
+5	unrichtig	unrichtig	ADJD	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Tatsache	Tatsache	NN	*	*	*	*
+8	ist	sein	VAFIN	*	*	*	*
+9	vielmehr	vielmehr	ADV	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	daß	dass	KOUS	*	*	*	*
+12	bei	bei	APPR	*	*	*	*
+13	uns	wir	PPER	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	krassem	krass	ADJA	*	*	*	*
+16	Gegensatz	Gegensatz	NN	*	*	*	*
+17	zu	zu	APPR	*	*	*	*
+18	Paris	Paris	NE	*	*	*	*
+19	oder	oder	KON	*	*	*	*
+20	Deutschland	Deutschland	NE	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Studenten	Student	NN	*	*	*	*
+23	(	(	$(	*	*	*	*
+24	bis	bis	KON	*	*	*	*
+25	auf	auf	APPR	*	*	*	*
+26	ganz	ganz	ADV	*	*	*	*
+27	wenig	wenige	PIS	*	*	*	*
+28	vereinzelte	vereinzeln	VVFIN	*	*	*	*
+29	)	)	$(	*	*	*	*
+30	gar	gar	ADV	*	*	*	*
+31	nichts	nichts	PIS	*	*	*	*
+32	damit	damit	PAV	*	*	*	*
+33	zu	zu	PTKZU	*	*	*	*
+34	tun	tun	VVINF	*	*	*	*
+35	hatten	haben	VAFIN	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	brav	brav	ADJD	*	*	*	*
+38	streberten	<unknown>	VVFIN	*	*	*	*
+39	-	-	$(	*	*	*	*
+40	;	;	$.	*	*	*	*
+41	daß	dass	KOUS	*	*	*	*
+42	die	die	ART	*	*	*	*
+43	damalige	damalig	ADJA	*	*	*	*
+44	"	"	$(	*	*	*	*
+45	Linke	Linke	NN	*	*	*	*
+46	"	"	$(	*	*	*	*
+47	auf	auf	APPR	2	2	2	2
+48	einen	eine	ART	*	*	*	*
+49	fahrenden	fahrend	ADJA	*	*	*	*
+50	Zug	Zug	NN	2	2	2	2
+51	aufgesprungen	aufspringen	VVPP	2	2	2	2
+52	war	sein	VAFIN	*	*	*	*
+53	,	,	$,	*	*	*	*
+54	also	also	ADV	*	*	*	*
+55	erst	erst	ADV	*	*	*	*
+56	von	von	APPR	*	*	*	*
+57	einer	eine	ART	*	*	*	*
+58	bestehenden	bestehend	ADJA	*	*	*	*
+59	Bewegung	Bewegung	NN	*	*	*	*
+60	profitiert	profitieren	VVPP	*	*	*	*
+61	hat	haben	VAFIN	*	*	*	*
+62	,	,	$,	*	*	*	*
+63	um	um	KOUI	*	*	*	*
+64	ihre	ihr	PPOSAT	*	*	*	*
+65	(	(	$(	*	*	*	*
+66	unerwünschten	unerwünscht	ADJA	*	*	*	*
+67	)	)	$(	*	*	*	*
+68	Parolen	Parole	NN	*	*	*	*
+69	und	und	KON	*	*	*	*
+70	(	(	$(	*	*	*	*
+71	Machtablöser-	<unknown>	NN	*	*	*	*
+72	)	)	$(	*	*	*	*
+73	Fähnchen	Fähnchen	NN	*	*	*	*
+74	reinzuhängen	reinhängen	VVIZU	*	*	*	*
+75	und	und	KON	*	*	*	*
+76	die	die	ART	*	*	*	*
+77	jugendlichen	jugendlich	ADJA	*	*	*	*
+78	Köpfe	Kopf	NN	*	*	*	*
+79	mit	mit	APPR	*	*	*	*
+80	Politmief	<unknown>	NN	*	*	*	*
+81	zu	zu	PTKZU	*	*	*	*
+82	traktieren	traktieren	VVINF	*	*	*	*
+83	.	.	$.	*	*	*	*
+
+# article_id = T880202.26
+# text = Auch vor dem Hintergrund des palästinensischen Aufstands werden sich arabische Staaten wie Ägypten oder Jordanien hüten , auf den israelisch-amerikanischen Zug aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	vor	vor	APPR	*	*	*	*
+3	dem	die	ART	*	*	*	*
+4	Hintergrund	Hintergrund	NN	*	*	*	*
+5	des	die	ART	*	*	*	*
+6	palästinensischen	palästinensisch	ADJA	*	*	*	*
+7	Aufstands	Aufstand	NN	*	*	*	*
+8	werden	werden	VAFIN	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	arabische	arabisch	ADJA	*	*	*	*
+11	Staaten	Staat	NN	*	*	*	*
+12	wie	wie	KOKOM	*	*	*	*
+13	Ägypten	Ägypten	NE	*	*	*	*
+14	oder	oder	KON	*	*	*	*
+15	Jordanien	Jordanien	NE	*	*	*	*
+16	hüten	hüten	VVINF	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	auf	auf	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	israelisch-amerikanischen	israelisch-amerikanisch	ADJA	*	*	*	*
+21	Zug	Zug	NN	2	2	2	2
+22	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T870928.9
+# text = Die Banken können also durch einen geringen Anteil die Sache ins Rollen bringen : für die Regierungen dürfte es schwierig sein , nicht auf den Zug aufzuspringen , wenn die profitorientierten Banken ihn anschieben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Banken	Bank	NN	*	*	*	*
+3	können	können	VMFIN	*	*	*	*
+4	also	also	ADV	*	*	*	*
+5	durch	durch	APPR	*	*	*	*
+6	einen	eine	ART	*	*	*	*
+7	geringen	gering	ADJA	*	*	*	*
+8	Anteil	Anteil	NN	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Sache	Sache	NN	*	*	*	*
+11	ins	in	APPRART	*	*	*	*
+12	Rollen	Rolle	NN	*	*	*	*
+13	bringen	bringen	VVINF	*	*	*	*
+14	:	:	$.	*	*	*	*
+15	für	für	APPR	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Regierungen	Regierung	NN	*	*	*	*
+18	dürfte	dürfen	VMFIN	*	*	*	*
+19	es	es	PPER	*	*	*	*
+20	schwierig	schwierig	ADJD	*	*	*	*
+21	sein	sein	VAINF	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	nicht	nicht	PTKNEG	*	*	*	*
+24	auf	auf	APPR	2	2	2	2
+25	den	die	ART	*	*	*	*
+26	Zug	Zug	NN	2	2	2	2
+27	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+28	,	,	$,	*	*	*	*
+29	wenn	wenn	KOUS	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	profitorientierten	profitorientiert	ADJA	*	*	*	*
+32	Banken	Bank	NN	*	*	*	*
+33	ihn	er	PPER	*	*	*	*
+34	anschieben	anschieben	VVINF	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T870921.24
+# text = Sein Verbands-Kollege Ralf Fücks : " Bremen war der verspätete Versuch , auf einen rot- grünen Zug aufzuspringen , der schon abgefahren ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sein	sein	PPOSAT	*	*	*	*
+2	Verbands-Kollege	<unknown>	NN	*	*	*	*
+3	Ralf	Ralf	NE	*	*	*	*
+4	Fücks	<unknown>	NN	*	*	*	*
+5	:	:	$.	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	Bremen	Bremen	NE	*	*	*	*
+8	war	sein	VAFIN	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	verspätete	verspätet	ADJA	*	*	*	*
+11	Versuch	Versuch	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	auf	auf	APPR	2	2	2	2
+14	einen	eine	ART	*	*	*	*
+15	rot-	rot-	TRUNC	*	*	*	*
+16	grünen	grün	ADJA	*	*	*	*
+17	Zug	Zug	NN	2	2	2	2
+18	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+19	,	,	$,	*	*	*	*
+20	der	die	PRELS	*	*	*	*
+21	schon	schon	ADV	*	*	*	*
+22	abgefahren	abfahren	VVPP	*	*	*	*
+23	ist	sein	VAFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T861129.69
+# text = Die Spekulanten hoffen auf weiteren Kursverfall , um kurz vor dem Wiederanstieg auf den Zug aufzuspringen , denn Sandoz ist trotz Brand ein prosperierendes Unternehmen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Spekulanten	Spekulant	NN	*	*	*	*
+3	hoffen	hoffen	VVFIN	*	*	*	*
+4	auf	auf	APPR	*	*	*	*
+5	weiteren	weit	ADJA	*	*	*	*
+6	Kursverfall	Kursverfall	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	um	um	KOUI	*	*	*	*
+9	kurz	kurz	ADJD	*	*	*	*
+10	vor	vor	APPR	*	*	*	*
+11	dem	die	ART	*	*	*	*
+12	Wiederanstieg	Wiederanstieg	NN	*	*	*	*
+13	auf	auf	APPR	2	2	2	2
+14	den	die	ART	*	*	*	*
+15	Zug	Zug	NN	2	2	2	2
+16	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	denn	denn	KON	*	*	*	*
+19	Sandoz	<unknown>	NE	*	*	*	*
+20	ist	sein	VAFIN	*	*	*	*
+21	trotz	trotz	APPR	*	*	*	*
+22	Brand	Brand	NE	*	*	*	*
+23	ein	eine	ART	*	*	*	*
+24	prosperierendes	prosperierend	ADJA	*	*	*	*
+25	Unternehmen	Unternehmen	NN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T930508.263
+# text = " Im Moment boomt es in dieser Richtung und wir sind auf diesen Zug aufgesprungen " , sagt Wiedemeyer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Im	in	APPRART	*	*	*	*
+3	Moment	Moment	NN	*	*	*	*
+4	boomt	boomen	VVFIN	*	*	*	*
+5	es	es	PPER	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	dieser	dies	PDAT	*	*	*	*
+8	Richtung	Richtung	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	wir	wir	PPER	*	*	*	*
+11	sind	sein	VAFIN	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	diesen	dies	PDAT	*	*	*	*
+14	Zug	Zug	NN	2	2	2	2
+15	aufgesprungen	aufspringen	VVPP	2	2	2	2
+16	"	"	$(	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	sagt	sagen	VVFIN	*	*	*	*
+19	Wiedemeyer	<unknown>	NE	*	*	*	*
+20	.	.	$.	*	*	*	*
+
+# article_id = T930624.59
+# text = Schließlich treffen die Verluste keine Kleinsparer , sondern Investoren aus der oberen Mittelschicht , die in der Hoffnung auf eine schnelle Mark auf den Zug aufgesprungen sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schließlich	schließlich	ADV	*	*	*	*
+2	treffen	treffen	VVFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Verluste	Verlust	NN	*	*	*	*
+5	keine	keine	PIAT	*	*	*	*
+6	Kleinsparer	Kleinsparer	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	sondern	sondern	KON	*	*	*	*
+9	Investoren	Investor	NN	*	*	*	*
+10	aus	aus	APPR	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	oberen	ober	ADJA	*	*	*	*
+13	Mittelschicht	Mittelschicht	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	die	die	PRELS	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Hoffnung	Hoffnung	NN	*	*	*	*
+19	auf	auf	APPR	*	*	*	*
+20	eine	eine	ART	*	*	*	*
+21	schnelle	schnell	ADJA	*	*	*	*
+22	Mark	Mark	NN	*	*	*	*
+23	auf	auf	APPR	2	2	2	2
+24	den	die	ART	*	*	*	*
+25	Zug	Zug	NN	2	2	2	2
+26	aufgesprungen	aufspringen	VVPP	2	2	2	2
+27	sind	sein	VAFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T930604.151
+# text = Die Frau hatte versucht , auf den bereits fahrenden Zug aufzuspringen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Die	die	ART	*	*	*	*
+2	Frau	Frau	NN	*	*	*	*
+3	hatte	haben	VAFIN	*	*	*	*
+4	versucht	versuchen	VVPP	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	auf	auf	APPR	1	1	1	1
+7	den	die	ART	*	*	*	*
+8	bereits	bereits	ADV	*	*	*	*
+9	fahrenden	fahrend	ADJA	*	*	*	*
+10	Zug	Zug	NN	1	1	1	1
+11	aufzuspringen	aufspringen	VVIZU	1	1	1	1
+12	.	.	$.	*	*	*	*
+
+# article_id = T931023.144
+# text = Irrt er sich einfach , oder ist es opportun , auf derzeit fahrende Züge aufzuspringen ?
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Irrt	irren	VVFIN	*	*	*	*
+2	er	er	PPER	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	einfach	einfach	ADJD	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	oder	oder	KON	*	*	*	*
+7	ist	sein	VAFIN	*	*	*	*
+8	es	es	PPER	*	*	*	*
+9	opportun	opportun	ADJD	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	auf	auf	APPR	2	2	2	2
+12	derzeit	derzeit	ADV	*	*	*	*
+13	fahrende	fahrend	ADJA	*	*	*	*
+14	Züge	Zug	NN	2	2	2	2
+15	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+16	?	?	$.	*	*	*	*
+
+# article_id = T930911.26
+# text = Allerdings soll es nach Informationen aus Damaskus tiefe Differenzen zwischen den Oppositionellen über die nächsten Schritte geben , zumal zu erwarten ist , daß ihre Schutzmacht Syrien über kurz oder lang ebenfalls auf den fahrenden Zug aufspringen und als Gegenleistung für einen Rückzug oder Teilrückzug aus dem Golan ebenfalls Israel anerkennen dürfte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Allerdings	allerdings	ADV	*	*	*	*
+2	soll	sollen	VMFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	nach	nach	APPR	*	*	*	*
+5	Informationen	Information	NN	*	*	*	*
+6	aus	aus	APPR	*	*	*	*
+7	Damaskus	Damaskus	NE	*	*	*	*
+8	tiefe	tief	ADJA	*	*	*	*
+9	Differenzen	Differenz	NN	*	*	*	*
+10	zwischen	zwischen	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Oppositionellen	Oppositionelle	NN	*	*	*	*
+13	über	über	APPR	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	nächsten	nah	ADJA	*	*	*	*
+16	Schritte	Schritt	NN	*	*	*	*
+17	geben	geben	VVINF	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	zumal	zumal	ADV	*	*	*	*
+20	zu	zu	PTKZU	*	*	*	*
+21	erwarten	erwarten	VVINF	*	*	*	*
+22	ist	sein	VAFIN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	daß	dass	KOUS	*	*	*	*
+25	ihre	ihr	PPOSAT	*	*	*	*
+26	Schutzmacht	Schutzmacht	NN	*	*	*	*
+27	Syrien	Syrien	NE	*	*	*	*
+28	über	über	APPR	*	*	*	*
+29	kurz	kurz	ADJD	*	*	*	*
+30	oder	oder	KON	*	*	*	*
+31	lang	lang	ADJD	*	*	*	*
+32	ebenfalls	ebenfalls	ADV	*	*	*	*
+33	auf	auf	APPR	2	2	2	2
+34	den	die	ART	*	*	*	*
+35	fahrenden	fahrend	ADJA	*	*	*	*
+36	Zug	Zug	NN	2	2	2	2
+37	aufspringen	aufspringen	VVINF	2	2	2	2
+38	und	und	KON	*	*	*	*
+39	als	als	KOKOM	*	*	*	*
+40	Gegenleistung	Gegenleistung	NN	*	*	*	*
+41	für	für	APPR	*	*	*	*
+42	einen	eine	ART	*	*	*	*
+43	Rückzug	Rückzug	NN	*	*	*	*
+44	oder	oder	KON	*	*	*	*
+45	Teilrückzug	Teilrückzug	NN	*	*	*	*
+46	aus	aus	APPR	*	*	*	*
+47	dem	die	ART	*	*	*	*
+48	Golan	Golan	NE	*	*	*	*
+49	ebenfalls	ebenfalls	ADV	*	*	*	*
+50	Israel	Israel	NE	*	*	*	*
+51	anerkennen	anerkennen	VVINF	*	*	*	*
+52	dürfte	dürfen	VMFIN	*	*	*	*
+53	.	.	$.	*	*	*	*
+
+# article_id = T930918.190
+# text = Das jähe Aufwachen derjenigen Journalisten , die unbewußt und ungewollt , unreflektiert und unsensibel auf diesen auflagensteigernden Zug aufgesprungen waren , sorgte für eine Welle von " positiver " Berichterstattung .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	jähe	jäh	ADJA	*	*	*	*
+3	Aufwachen	Aufwachen	NN	*	*	*	*
+4	derjenigen	diejenig	PDAT	*	*	*	*
+5	Journalisten	Journalist	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	unbewußt	unbewusst	ADJD	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	ungewollt	ungewollt	ADJD	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	unreflektiert	unreflektiert	ADJD	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	unsensibel	<unknown>	ADJD	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	diesen	dies	PDAT	*	*	*	*
+17	auflagensteigernden	auflagensteigernd	ADJA	*	*	*	*
+18	Zug	Zug	NN	2	2	2	2
+19	aufgesprungen	aufspringen	VVPP	2	2	2	2
+20	waren	sein	VAFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	sorgte	sorgen	VVFIN	*	*	*	*
+23	für	für	APPR	*	*	*	*
+24	eine	eine	ART	*	*	*	*
+25	Welle	Welle	NN	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	"	"	$(	*	*	*	*
+28	positiver	positiv	ADJA	*	*	*	*
+29	"	"	$(	*	*	*	*
+30	Berichterstattung	Berichterstattung	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T930129.1
+# text = Die SPD ist wie so oft auf den fahrenden Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	SPD	SPD	NE	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	wie	wie	KOKOM	*	*	*	*
+5	so	so	ADV	*	*	*	*
+6	oft	oft	ADV	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	fahrenden	fahrend	ADJA	*	*	*	*
+10	Zug	Zug	NN	2	2	2	2
+11	aufgesprungen	aufspringen	VVPP	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T930717.42
+# text = Dennoch sind etliche Enthusiasten auf den " Zug Klimasteuer " aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dennoch	dennoch	ADV	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	etliche	etliche	PIAT	*	*	*	*
+4	Enthusiasten	Enthusiast	NN	*	*	*	*
+5	auf	auf	APPR	*	*	*	*
+6	den	die	ART	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	Klimasteuer	Klimasteuer	NN	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	aufgesprungen	aufspringen	VVPP	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T930816.65
+# text = Noch am gleichen Tage war aber auch Ruslan Chasbulatow auf den fahrenden Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Noch	noch	ADV	*	*	*	*
+2	am	an	APPRART	*	*	*	*
+3	gleichen	gleich	ADJA	*	*	*	*
+4	Tage	Tag	NN	*	*	*	*
+5	war	sein	VAFIN	*	*	*	*
+6	aber	aber	ADV	*	*	*	*
+7	auch	auch	ADV	*	*	*	*
+8	Ruslan	<unknown>	NE	*	*	*	*
+9	Chasbulatow	<unknown>	NE	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	fahrenden	fahrend	ADJA	*	*	*	*
+13	Zug	Zug	NN	2	2	2	2
+14	aufgesprungen	aufspringen	VVPP	2	2	2	2
+15	.	.	$.	*	*	*	*
+
+# article_id = T930831.223
+# text = Unsere kleine Stadt , spätestens seit der "Peter"- Pleite geübt im Aufspringen auf entgleisende Züge , unsere kleine Stadt macht demnächst wieder einmal massig Zaster , jedenfalls wenn es nach dem Verkehrsverein und seinem Vorsitzenden Ulrich Nölle geht : Das Postamt 5 wird , wenn die Post auszieht , flugs umgebaut ; und Bremen wird Musicalstadt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unsere	unser	PPOSAT	*	*	*	*
+2	kleine	klein	ADJA	*	*	*	*
+3	Stadt	Stadt	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	spätestens	spätestens	ADV	*	*	*	*
+6	seit	seit	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	Peter"-	<unknown>	TRUNC	*	*	*	*
+10	Pleite	Pleite	NN	*	*	*	*
+11	geübt	üben	VVPP	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	Aufspringen	Aufspringen	NN	2	2	2	2
+14	auf	auf	APPR	2	2	2	2
+15	entgleisende	entgleisend	ADJA	*	*	*	*
+16	Züge	Zug	NN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	unsere	unser	PPOSAT	*	*	*	*
+19	kleine	klein	ADJA	*	*	*	*
+20	Stadt	Stadt	NN	*	*	*	*
+21	macht	machen	VVFIN	*	*	*	*
+22	demnächst	demnächst	ADV	*	*	*	*
+23	wieder	wieder	ADV	*	*	*	*
+24	einmal	einmal	ADV	*	*	*	*
+25	massig	massig	ADJD	*	*	*	*
+26	Zaster	Zaster	NN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	jedenfalls	jedenfalls	ADV	*	*	*	*
+29	wenn	wenn	KOUS	*	*	*	*
+30	es	es	PPER	*	*	*	*
+31	nach	nach	APPR	*	*	*	*
+32	dem	die	ART	*	*	*	*
+33	Verkehrsverein	Verkehrsverein	NN	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	seinem	sein	PPOSAT	*	*	*	*
+36	Vorsitzenden	Vorsitzende	NN	*	*	*	*
+37	Ulrich	Ulrich	NE	*	*	*	*
+38	Nölle	Nölle	NE	*	*	*	*
+39	geht	gehen	VVFIN	*	*	*	*
+40	:	:	$.	*	*	*	*
+41	Das	die	ART	*	*	*	*
+42	Postamt	Postamt	NN	*	*	*	*
+43	5	@card@	CARD	*	*	*	*
+44	wird	werden	VAFIN	*	*	*	*
+45	,	,	$,	*	*	*	*
+46	wenn	wenn	KOUS	*	*	*	*
+47	die	die	ART	*	*	*	*
+48	Post	Post	NN	*	*	*	*
+49	auszieht	ausziehen	VVFIN	*	*	*	*
+50	,	,	$,	*	*	*	*
+51	flugs	flugs	ADV	*	*	*	*
+52	umgebaut	umbauen	VVPP	*	*	*	*
+53	;	;	$.	*	*	*	*
+54	und	und	KON	*	*	*	*
+55	Bremen	Bremen	NE	*	*	*	*
+56	wird	werden	VAFIN	*	*	*	*
+57	Musicalstadt	<unknown>	NN	*	*	*	*
+58	.	.	$.	*	*	*	*
+
+# article_id = T930806.209
+# text = Der DFB sei mit seiner Aktion " Mein Freund ist Ausländer " nur auf fahrende Züge aufgesprungen , kritisierte der Journalist Dietrich Schulze-Marmeling .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	DFB	DFB	NE	*	*	*	*
+3	sei	sein	VAFIN	*	*	*	*
+4	mit	mit	APPR	*	*	*	*
+5	seiner	sein	PPOSAT	*	*	*	*
+6	Aktion	Aktion	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	Mein	<unknown>	ADJA	*	*	*	*
+9	Freund	Freund	NN	*	*	*	*
+10	ist	sein	VAFIN	*	*	*	*
+11	Ausländer	Ausländer	NN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	nur	nur	ADV	*	*	*	*
+14	auf	auf	APPR	2	2	2	2
+15	fahrende	fahrend	ADJA	*	*	*	*
+16	Züge	Zug	NN	2	2	2	2
+17	aufgesprungen	aufspringen	VVPP	2	2	2	2
+18	,	,	$,	*	*	*	*
+19	kritisierte	kritisieren	VVFIN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Journalist	Journalist	NN	*	*	*	*
+22	Dietrich	Dietrich	NE	*	*	*	*
+23	Schulze-Marmeling	<unknown>	NN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T930316.115
+# text = Dino Mikulandra , ein 33jähriger ehemaliger kommunistischer Jugendfunktionär , nämlich gilt bei den Kollegen als einer , der nun auf den nationalistischen Zug aufgesprungen ist und über beste Kontakte nach Zagreb verfügt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dino	Dino	NN	*	*	*	*
+2	Mikulandra	<unknown>	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	33jähriger	33jährig	ADJA	*	*	*	*
+6	ehemaliger	ehemalig	ADJA	*	*	*	*
+7	kommunistischer	kommunistisch	ADJA	*	*	*	*
+8	Jugendfunktionär	Jugendfunktionär	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	nämlich	nämlich	ADV	*	*	*	*
+11	gilt	gelten	VVFIN	*	*	*	*
+12	bei	bei	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	Kollegen	Kollege	NN	*	*	*	*
+15	als	als	KOKOM	*	*	*	*
+16	einer	eine	PIS	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	der	die	PRELS	*	*	*	*
+19	nun	nun	ADV	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	nationalistischen	nationalistisch	ADJA	*	*	*	*
+23	Zug	Zug	NN	2	2	2	2
+24	aufgesprungen	aufspringen	VVPP	2	2	2	2
+25	ist	sein	VAFIN	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	über	über	APPR	*	*	*	*
+28	beste	gut	ADJA	*	*	*	*
+29	Kontakte	Kontakt	NN	*	*	*	*
+30	nach	nach	APPR	*	*	*	*
+31	Zagreb	Zagreb	NE	*	*	*	*
+32	verfügt	verfügen	VVFIN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T930306.330
+# text = Doch nicht alle norddeutschen Firmen wollen auf den Gentech- Zug aufspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	nicht	nicht	PTKNEG	*	*	*	*
+3	alle	alle	PIAT	*	*	*	*
+4	norddeutschen	norddeutsch	ADJA	*	*	*	*
+5	Firmen	Firma	NN	*	*	*	*
+6	wollen	wollen	VMFIN	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Gentech-	Gentech-	TRUNC	*	*	*	*
+10	Zug	Zug	NN	2	2	2	2
+11	aufspringen	aufspringen	VVINF	2	2	2	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T931101.164
+# text = Was schiene also sinnvoller , als auf einen Zug ( steigende Besucherzahlen ) aufzuspringen und für eine solide und moderne Finanzierung der Besucherförderung für Kinder und Jugendliche zu sorgen , deren Zusatzbedarf vielleicht ein Dreißigstel oder ein Vierzigstel der Schiller-Subvention wäre .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Was	was	PWS	*	*	*	*
+2	schiene	scheinen	VVFIN	*	*	*	*
+3	also	also	ADV	*	*	*	*
+4	sinnvoller	sinnvoll	ADJD	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	als	als	KOUS	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	einen	eine	ART	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	(	(	$(	*	*	*	*
+11	steigende	steigend	ADJA	*	*	*	*
+12	Besucherzahlen	Besucherzahl	NN	*	*	*	*
+13	)	)	$(	*	*	*	*
+14	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+15	und	und	KON	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	eine	eine	ART	*	*	*	*
+18	solide	solide	ADJA	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	moderne	modern	ADJA	*	*	*	*
+21	Finanzierung	Finanzierung	NN	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Besucherförderung	Besucherförderung	NN	*	*	*	*
+24	für	für	APPR	*	*	*	*
+25	Kinder	Kind	NN	*	*	*	*
+26	und	und	KON	*	*	*	*
+27	Jugendliche	Jugendliche	NN	*	*	*	*
+28	zu	zu	PTKZU	*	*	*	*
+29	sorgen	sorgen	VVINF	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	deren	die	PRELAT	*	*	*	*
+32	Zusatzbedarf	Zusatzbedarf	NN	*	*	*	*
+33	vielleicht	vielleicht	ADV	*	*	*	*
+34	ein	eine	ART	*	*	*	*
+35	Dreißigstel	Dreißigstel	NN	*	*	*	*
+36	oder	oder	KON	*	*	*	*
+37	ein	eine	ART	*	*	*	*
+38	Vierzigstel	Vierzigstel	NN	*	*	*	*
+39	der	die	ART	*	*	*	*
+40	Schiller-Subvention	<unknown>	NN	*	*	*	*
+41	wäre	sein	VAFIN	*	*	*	*
+42	.	.	$.	*	*	*	*
+
+# article_id = T931124.69
+# text = Inzwischen ist die Permanente Kommission für den Nationalen Dialog ( CPDN ) , ein FMLN- freundlicher Zusammenschluß von kirchlichen und Volksbewegungen , auf den Zug aufgesprungen und organisiert eine Serie von Märschen und anderen Aktionen , die am 10. Dezember in einer Menschenkette durch San Salvador gipfeln sollen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Inzwischen	inzwischen	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Permanente	Permanente	NN	*	*	*	*
+5	Kommission	Kommission	NN	*	*	*	*
+6	für	für	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Nationalen	Nationale	NN	*	*	*	*
+9	Dialog	Dialog	NN	*	*	*	*
+10	(	(	$(	*	*	*	*
+11	CPDN	<unknown>	NE	*	*	*	*
+12	)	)	$(	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	ein	eine	ART	*	*	*	*
+15	FMLN-	FMLN-	TRUNC	*	*	*	*
+16	freundlicher	freundlich	ADJA	*	*	*	*
+17	Zusammenschluß	Zusammenschluss	NN	*	*	*	*
+18	von	von	APPR	*	*	*	*
+19	kirchlichen	kirchlich	ADJA	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	Volksbewegungen	Volksbewegung	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	auf	auf	APPR	2	2	2	2
+24	den	die	ART	*	*	*	*
+25	Zug	Zug	NN	2	2	2	2
+26	aufgesprungen	aufspringen	VVPP	2	2	2	2
+27	und	und	KON	*	*	*	*
+28	organisiert	organisieren	VVFIN	*	*	*	*
+29	eine	eine	ART	*	*	*	*
+30	Serie	Serie	NN	*	*	*	*
+31	von	von	APPR	*	*	*	*
+32	Märschen	Marsch	NN	*	*	*	*
+33	und	und	KON	*	*	*	*
+34	anderen	andere	PIS	*	*	*	*
+35	Aktionen	Aktion	NN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	die	die	PRELS	*	*	*	*
+38	am	an	APPRART	*	*	*	*
+39	10	@card@	CARD	*	*	*	*
+40	.	.	$.	*	*	*	*
+41	Dezember	Dezember	NN	*	*	*	*
+42	in	in	APPR	*	*	*	*
+43	einer	eine	ART	*	*	*	*
+44	Menschenkette	Menschenkette	NN	*	*	*	*
+45	durch	durch	APPR	*	*	*	*
+46	San	San	NE	*	*	*	*
+47	Salvador	Salvador	NE	*	*	*	*
+48	gipfeln	gipfeln	VVINF	*	*	*	*
+49	sollen	sollen	VMFIN	*	*	*	*
+50	.	.	$.	*	*	*	*
+
+# article_id = T931124.142
+# text = Stattdessen stellte Elisabeth Hackstein fest , daß " die CDU auf einen Zug aufgesprungen sei , den die SPD schon längst angehalten " habe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Stattdessen	stattdessen	ADV	*	*	*	*
+2	stellte	stellen	VVFIN	*	*	*	*
+3	Elisabeth	Elisabeth	NE	*	*	*	*
+4	Hackstein	Hackstein	NE	*	*	*	*
+5	fest	fest	PTKVZ	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	CDU	CDU	NE	*	*	*	*
+11	auf	auf	APPR	2	2	2	2
+12	einen	eine	ART	*	*	*	*
+13	Zug	Zug	NN	2	2	2	2
+14	aufgesprungen	aufspringen	VVPP	2	2	2	2
+15	sei	sein	VAFIN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	den	die	PRELS	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	SPD	SPD	NE	*	*	*	*
+20	schon	schon	ADV	*	*	*	*
+21	längst	längst	ADV	*	*	*	*
+22	angehalten	anhalten	VVPP	*	*	*	*
+23	"	"	$(	*	*	*	*
+24	habe	haben	VAFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T931106.262
+# text = Inzwischen sind auf den fahrenden Zug auch andere Emsfischer aufgesprungen : Nach der Regelung für die Ditzumer haben nun auch Emsfischer vom anderen Ufer aus Petkum Klage eingereicht .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Inzwischen	inzwischen	ADV	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	auf	auf	APPR	2	2	2	2
+4	den	die	ART	*	*	*	*
+5	fahrenden	fahrend	ADJA	*	*	*	*
+6	Zug	Zug	NN	2	2	2	2
+7	auch	auch	ADV	*	*	*	*
+8	andere	andere	PIAT	*	*	*	*
+9	Emsfischer	Emsfischer	NN	*	*	*	*
+10	aufgesprungen	aufspringen	VVPP	2	2	2	2
+11	:	:	$.	*	*	*	*
+12	Nach	nach	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Regelung	Regelung	NN	*	*	*	*
+15	für	für	APPR	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Ditzumer	<unknown>	NN	*	*	*	*
+18	haben	haben	VAFIN	*	*	*	*
+19	nun	nun	ADV	*	*	*	*
+20	auch	auch	ADV	*	*	*	*
+21	Emsfischer	Emsfischer	NN	*	*	*	*
+22	vom	von	APPRART	*	*	*	*
+23	anderen	andere	PIS	*	*	*	*
+24	Ufer	Ufer	NN	*	*	*	*
+25	aus	aus	APPR	*	*	*	*
+26	Petkum	<unknown>	NN	*	*	*	*
+27	Klage	Klage	NN	*	*	*	*
+28	eingereicht	einreichen	VVPP	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T960525.261
+# text = Doch auch die Bremer SPD ist jetzt auf den Zug aufgesprungen , entschied sich jedoch für die kleinere Lösung und forderte in einer Senatsanfrage einen " Sektenberater " auf einer mindestens halben Stelle .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	auch	auch	ADV	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	Bremer	Bremer	NE	*	*	*	*
+5	SPD	SPD	NE	*	*	*	*
+6	ist	sein	VAFIN	*	*	*	*
+7	jetzt	jetzt	ADV	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	Zug	Zug	NN	2	2	2	2
+11	aufgesprungen	aufspringen	VVPP	2	2	2	2
+12	,	,	$,	*	*	*	*
+13	entschied	entscheiden	VVFIN	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	jedoch	jedoch	ADV	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	kleinere	klein	ADJA	*	*	*	*
+19	Lösung	Lösung	NN	*	*	*	*
+20	und	und	KON	*	*	*	*
+21	forderte	fordern	VVFIN	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	einer	eine	ART	*	*	*	*
+24	Senatsanfrage	<unknown>	NN	*	*	*	*
+25	einen	eine	ART	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	Sektenberater	Sektenberater	NN	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	auf	auf	APPR	*	*	*	*
+30	einer	eine	ART	*	*	*	*
+31	mindestens	mindestens	ADV	*	*	*	*
+32	halben	halb	ADJA	*	*	*	*
+33	Stelle	Stelle	NN	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T960102.210
+# text = Der " Römer " ist ebenfalls kürzlich mit seinem " Dark Paradise " ( jeden zweiten monatlichen Samstag ) auf den Zug in die Hölle aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	"	"	$(	*	*	*	*
+3	Römer	Römer	NE	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	ebenfalls	ebenfalls	ADV	*	*	*	*
+7	kürzlich	kürzlich	ADJD	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	seinem	sein	PPOSAT	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Dark	<unknown>	NN	*	*	*	*
+12	Paradise	<unknown>	NN	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	(	(	$(	*	*	*	*
+15	jeden	jede	PIAT	*	*	*	*
+16	zweiten	zweit	ADJA	*	*	*	*
+17	monatlichen	monatlich	ADJA	*	*	*	*
+18	Samstag	Samstag	NN	*	*	*	*
+19	)	)	$(	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	Zug	Zug	NN	2	2	2	2
+23	in	in	APPR	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Hölle	Hölle	NN	*	*	*	*
+26	aufgesprungen	aufspringen	VVPP	2	2	2	2
+27	.	.	$.	*	*	*	*
+
+# article_id = T960119.68
+# text = Weil die Union sich schwertut , auf den Zug Richtung ökologische Marktwirtschaft aufzuspringen , will die SPD sie notfalls mit einer Gegenleistung ködern : SPD-Zustimmung für die Änderung des Unternehmenssteuergesetzes .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Weil	weil	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Union	Union	NN	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	schwertut	schwertun	VVFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	Richtung	Richtung	NN	*	*	*	*
+11	ökologische	ökologisch	ADJA	*	*	*	*
+12	Marktwirtschaft	Marktwirtschaft	NN	*	*	*	*
+13	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+14	,	,	$,	*	*	*	*
+15	will	wollen	VMFIN	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	SPD	SPD	NE	*	*	*	*
+18	sie	sie	PPER	*	*	*	*
+19	notfalls	notfalls	ADV	*	*	*	*
+20	mit	mit	APPR	*	*	*	*
+21	einer	eine	ART	*	*	*	*
+22	Gegenleistung	Gegenleistung	NN	*	*	*	*
+23	ködern	ködern	VVINF	*	*	*	*
+24	:	:	$.	*	*	*	*
+25	SPD-Zustimmung	SPD-Zustimmung	NN	*	*	*	*
+26	für	für	APPR	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Änderung	Änderung	NN	*	*	*	*
+29	des	die	ART	*	*	*	*
+30	Unternehmenssteuergesetzes	<unknown>	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T960729.235
+# text = Ihm wurde vorgehalten , er sei nach den ersten Kassenschlagern des Produzenten Horst Wendlandt - darunter " Der Schatz im Silbersee " und " Winnetou " - nur auf den Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ihm	er	PPER	*	*	*	*
+2	wurde	werden	VAFIN	*	*	*	*
+3	vorgehalten	vorhalten	VVPP	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	er	er	PPER	*	*	*	*
+6	sei	sein	VAFIN	*	*	*	*
+7	nach	nach	APPR	*	*	*	*
+8	den	die	ART	*	*	*	*
+9	ersten	erst	ADJA	*	*	*	*
+10	Kassenschlagern	Kassenschlager	NN	*	*	*	*
+11	des	die	ART	*	*	*	*
+12	Produzenten	Produzent	NN	*	*	*	*
+13	Horst	Horst	NE	*	*	*	*
+14	Wendlandt	<unknown>	NE	*	*	*	*
+15	-	-	$(	*	*	*	*
+16	darunter	darunter	ADV	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	Der	<unknown>	ADJA	*	*	*	*
+19	Schatz	Schatz	NN	*	*	*	*
+20	im	in	APPRART	*	*	*	*
+21	Silbersee	Silbersee	NN	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	und	und	KON	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	Winnetou	Winnetou	NE	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	-	-	$(	*	*	*	*
+28	nur	nur	ADV	*	*	*	*
+29	auf	auf	APPR	2	2	2	2
+30	den	die	ART	*	*	*	*
+31	Zug	Zug	NN	2	2	2	2
+32	aufgesprungen	aufspringen	VVPP	2	2	2	2
+33	.	.	$.	*	*	*	*
+
+# article_id = T960705.163
+# text = Renton alias Rent Boy , in der Filmversion zur eigentlichen Hauptfigur erhoben , ist der organische Intellektuelle im Milieu : Er liest Kierkegaard , denkt über die Neighbourhood nach , schlägt sich mit Eltern , Sozialarbeitern und Reha-Programmen herum - mit dem Ergebnis , daß er immer öfter auf den Zug aufspringt .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Renton	<unknown>	NN	*	*	*	*
+2	alias	alias	ADV	*	*	*	*
+3	Rent	Rent	NE	*	*	*	*
+4	Boy	Boy	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Filmversion	Filmversion	NN	*	*	*	*
+9	zur	zu	APPRART	*	*	*	*
+10	eigentlichen	eigentlich	ADJA	*	*	*	*
+11	Hauptfigur	Hauptfigur	NN	*	*	*	*
+12	erhoben	erheben	VVPP	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	ist	sein	VAFIN	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	organische	organisch	ADJA	*	*	*	*
+17	Intellektuelle	Intellektuelle	NN	*	*	*	*
+18	im	in	APPRART	*	*	*	*
+19	Milieu	Milieu	NN	*	*	*	*
+20	:	:	$.	*	*	*	*
+21	Er	er	PPER	*	*	*	*
+22	liest	lesen	VVFIN	*	*	*	*
+23	Kierkegaard	<unknown>	NE	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	denkt	denken	VVFIN	*	*	*	*
+26	über	über	APPR	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Neighbourhood	<unknown>	NN	*	*	*	*
+29	nach	nach	PTKVZ	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	schlägt	schlagen	VVFIN	*	*	*	*
+32	sich	sich	PRF	*	*	*	*
+33	mit	mit	APPR	*	*	*	*
+34	Eltern	Eltern	NN	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	Sozialarbeitern	Sozialarbeiter	NN	*	*	*	*
+37	und	und	KON	*	*	*	*
+38	Reha-Programmen	<unknown>	NN	*	*	*	*
+39	herum	herum	PTKVZ	*	*	*	*
+40	-	-	$(	*	*	*	*
+41	mit	mit	APPR	*	*	*	*
+42	dem	die	ART	*	*	*	*
+43	Ergebnis	Ergebnis	NN	*	*	*	*
+44	,	,	$,	*	*	*	*
+45	daß	dass	KOUS	*	*	*	*
+46	er	er	PPER	*	*	*	*
+47	immer	immer	ADV	*	*	*	*
+48	öfter	öfter	ADV	*	*	*	*
+49	auf	auf	APPR	2	2	2	2
+50	den	die	ART	*	*	*	*
+51	Zug	Zug	NN	2	2	2	2
+52	aufspringt	aufspringen	VVFIN	2	2	2	2
+53	.	.	$.	*	*	*	*
+
+# article_id = T960824.269
+# text = " Wir sind auf diesen Zug gar nicht erst aufgesprungen " , sagt Detlef Natusch von der Landesvertretung der Technikerkasse .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wir	wir	PPER	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	auf	auf	APPR	2	2	2	2
+5	diesen	dies	PDAT	*	*	*	*
+6	Zug	Zug	NN	2	2	2	2
+7	gar	gar	ADV	*	*	*	*
+8	nicht	nicht	PTKNEG	*	*	*	*
+9	erst	erst	ADV	*	*	*	*
+10	aufgesprungen	aufspringen	VVPP	2	2	2	2
+11	"	"	$(	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	sagt	sagen	VVFIN	*	*	*	*
+14	Detlef	Detlef	NE	*	*	*	*
+15	Natusch	<unknown>	NN	*	*	*	*
+16	von	von	APPR	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Landesvertretung	Landesvertretung	NN	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	Technikerkasse	<unknown>	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T960808.260
+# text = Sogar die Bahn AG ist auf diesen Zug aufgesprungen : In einem GVZ-Masterplan , der inzwischen in zweiter Fassung vorliegt , hat sie sich 35 GVZ-Standorte in ganz Deutschland ausgeguckt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sogar	sogar	ADV	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Bahn	Bahn	NN	*	*	*	*
+4	AG	AG	NN	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	diesen	dies	PDAT	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	aufgesprungen	aufspringen	VVPP	2	2	2	2
+10	:	:	$.	*	*	*	*
+11	In	in	APPR	*	*	*	*
+12	einem	eine	ART	*	*	*	*
+13	GVZ-Masterplan	<unknown>	NN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	der	die	PRELS	*	*	*	*
+16	inzwischen	inzwischen	ADV	*	*	*	*
+17	in	in	APPR	*	*	*	*
+18	zweiter	zweit	ADJA	*	*	*	*
+19	Fassung	Fassung	NN	*	*	*	*
+20	vorliegt	vorliegen	VVFIN	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	hat	haben	VAFIN	*	*	*	*
+23	sie	sie	PPER	*	*	*	*
+24	sich	sich	PRF	*	*	*	*
+25	35	@card@	ADJA	*	*	*	*
+26	GVZ-Standorte	<unknown>	NN	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	ganz	ganz	ADV	*	*	*	*
+29	Deutschland	Deutschland	NE	*	*	*	*
+30	ausgeguckt	ausgucken	VVPP	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T960313.162
+# text = Begriffsstutzigkeit als Waffe , als ein Mittel , sich erst mal alles in Ruhe anzuschauen , bevor auf den Zug aufgesprungen wird - also genau das , wofür wir die 3 1 / 2 LPs , die Tilman Rossmy mit seiner Band Die Regierung aufgenommen hat , immer geliebt haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Begriffsstutzigkeit	<unknown>	ADJD	*	*	*	*
+2	als	als	KOKOM	*	*	*	*
+3	Waffe	Waffe	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	als	als	KOUS	*	*	*	*
+6	ein	eine	ART	*	*	*	*
+7	Mittel	Mittel	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	sich	sich	PRF	*	*	*	*
+10	erst	erst	ADV	*	*	*	*
+11	mal	mal	ADV	*	*	*	*
+12	alles	alle	PIS	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Ruhe	Ruhe	NN	*	*	*	*
+15	anzuschauen	anschauen	VVIZU	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	bevor	bevor	KOUS	*	*	*	*
+18	auf	auf	APPR	2	2	2	2
+19	den	die	ART	*	*	*	*
+20	Zug	Zug	NN	2	2	2	2
+21	aufgesprungen	aufspringen	VVPP	2	2	2	2
+22	wird	werden	VAFIN	*	*	*	*
+23	-	-	$(	*	*	*	*
+24	also	also	ADV	*	*	*	*
+25	genau	genau	ADJD	*	*	*	*
+26	das	die	PDS	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	wofür	wofür	PWAV	*	*	*	*
+29	wir	wir	PPER	*	*	*	*
+30	die	die	ART	*	*	*	*
+31	3	@card@	CARD	*	*	*	*
+32	1	@card@	CARD	*	*	*	*
+33	/	/	$(	*	*	*	*
+34	2	@card@	CARD	*	*	*	*
+35	LPs	<unknown>	NN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	die	die	PRELS	*	*	*	*
+38	Tilman	Tilman	NE	*	*	*	*
+39	Rossmy	<unknown>	NE	*	*	*	*
+40	mit	mit	APPR	*	*	*	*
+41	seiner	sein	PPOSAT	*	*	*	*
+42	Band	Band	NN	*	*	*	*
+43	Die	<unknown>	ADJA	*	*	*	*
+44	Regierung	Regierung	NN	*	*	*	*
+45	aufgenommen	aufnehmen	VVPP	*	*	*	*
+46	hat	haben	VAFIN	*	*	*	*
+47	,	,	$,	*	*	*	*
+48	immer	immer	ADV	*	*	*	*
+49	geliebt	lieben	VVPP	*	*	*	*
+50	haben	haben	VAFIN	*	*	*	*
+51	.	.	$.	*	*	*	*
+
+# article_id = T961108.35
+# text = Die offiziell vorgetragene Skepsis anderer Firmen sei Augenwischerei ; auf den Zug würden alle aufspringen , sobald die Zulassungen erteilt seien .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	offiziell	offiziell	ADJD	*	*	*	*
+3	vorgetragene	vorgetragen	ADJA	*	*	*	*
+4	Skepsis	Skepsis	NN	*	*	*	*
+5	anderer	andere	PIAT	*	*	*	*
+6	Firmen	Firma	NN	*	*	*	*
+7	sei	sein	VAFIN	*	*	*	*
+8	Augenwischerei	Augenwischerei	NN	*	*	*	*
+9	;	;	$.	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Zug	Zug	NN	2	2	2	2
+13	würden	werden	VAFIN	*	*	*	*
+14	alle	alle	PIS	*	*	*	*
+15	aufspringen	aufspringen	VVINF	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	sobald	sobald	KOUS	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Zulassungen	Zulassung	NN	*	*	*	*
+20	erteilt	erteilen	VVPP	*	*	*	*
+21	seien	sein	VAFIN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T960219.124
+# text = Das wird dann zwar nicht leicht , aber wir sind es ja gewohnt , auf einen fahrenden Zug aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	PDS	*	*	*	*
+2	wird	werden	VAFIN	*	*	*	*
+3	dann	dann	ADV	*	*	*	*
+4	zwar	zwar	ADV	*	*	*	*
+5	nicht	nicht	PTKNEG	*	*	*	*
+6	leicht	leicht	ADJD	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	aber	aber	KON	*	*	*	*
+9	wir	wir	PPER	*	*	*	*
+10	sind	sein	VAFIN	*	*	*	*
+11	es	es	PPER	*	*	*	*
+12	ja	ja	ADV	*	*	*	*
+13	gewohnt	wohnen	VVPP	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	einen	eine	ART	*	*	*	*
+17	fahrenden	fahrend	ADJA	*	*	*	*
+18	Zug	Zug	NN	2	2	2	2
+19	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T960202.112
+# text = Daß bei diesem Aufstieg Trittbrettfahrer auf den grünen Zug aufgesprungen sind , denen die eigene Wohlfahrt wichtiger ist als die der Partei , will der Minister nicht in Abrede stellen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	bei	bei	APPR	*	*	*	*
+3	diesem	dies	PDAT	*	*	*	*
+4	Aufstieg	Aufstieg	NN	*	*	*	*
+5	Trittbrettfahrer	Trittbrettfahrer	NN	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	grünen	grün	ADJA	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	aufgesprungen	aufspringen	VVPP	2	2	2	2
+11	sind	sein	VAFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	denen	die	PRELS	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	eigene	eigen	ADJA	*	*	*	*
+16	Wohlfahrt	Wohlfahrt	NN	*	*	*	*
+17	wichtiger	wichtig	ADJD	*	*	*	*
+18	ist	sein	VAFIN	*	*	*	*
+19	als	als	KOKOM	*	*	*	*
+20	die	die	PDS	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Partei	Partei	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	will	wollen	VMFIN	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Minister	Minister	NN	*	*	*	*
+27	nicht	nicht	PTKNEG	*	*	*	*
+28	in	in	APPR	*	*	*	*
+29	Abrede	Abrede	NN	*	*	*	*
+30	stellen	stellen	VVINF	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T980612.420
+# text = Um die zunehmend politisierte Zuschauerschaft an sich zu binden , ist auch der Kommerzfilm auf den fahrenden Zug aufgesprungen , allerdings auf die ihm eigene manichäische Weise .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Um	um	KOUI	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	zunehmend	zunehmend	ADJD	*	*	*	*
+4	politisierte	politisiert	ADJA	*	*	*	*
+5	Zuschauerschaft	<unknown>	NN	*	*	*	*
+6	an	an	APPR	*	*	*	*
+7	sich	sich	PRF	*	*	*	*
+8	zu	zu	PTKZU	*	*	*	*
+9	binden	binden	VVINF	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	ist	sein	VAFIN	*	*	*	*
+12	auch	auch	ADV	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Kommerzfilm	<unknown>	NN	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	fahrenden	fahrend	ADJA	*	*	*	*
+18	Zug	Zug	NN	2	2	2	2
+19	aufgesprungen	aufspringen	VVPP	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	allerdings	allerdings	ADV	*	*	*	*
+22	auf	auf	APPR	*	*	*	*
+23	die	die	ART	*	*	*	*
+24	ihm	er	PPER	*	*	*	*
+25	eigene	eigen	ADJA	*	*	*	*
+26	manichäische	<unknown>	ADJA	*	*	*	*
+27	Weise	Weise	NN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T981014.184
+# text = " " Schönbohm hat nichts Besseres zu tun , als auf einen neuen Zug aufzuspringen , da sollte man doch vielleicht gleich eine größere Revision im Senat machen , wenn ein Nachfolger für Elmar Pieroth gewählt wird " , sagte ein anderes Vorstandsmitglied .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	"	"	$(	*	*	*	*
+3	Schönbohm	<unknown>	NN	*	*	*	*
+4	hat	haben	VAFIN	*	*	*	*
+5	nichts	nichts	PIAT	*	*	*	*
+6	Besseres	Bessere	NN	*	*	*	*
+7	zu	zu	PTKZU	*	*	*	*
+8	tun	tun	VVINF	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	als	als	KOUS	*	*	*	*
+11	auf	auf	APPR	2	2	2	2
+12	einen	eine	ART	*	*	*	*
+13	neuen	neu	ADJA	*	*	*	*
+14	Zug	Zug	NN	2	2	2	2
+15	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	da	da	KOUS	*	*	*	*
+18	sollte	sollen	VMFIN	*	*	*	*
+19	man	man	PIS	*	*	*	*
+20	doch	doch	ADV	*	*	*	*
+21	vielleicht	vielleicht	ADV	*	*	*	*
+22	gleich	gleich	ADJD	*	*	*	*
+23	eine	eine	ART	*	*	*	*
+24	größere	groß	ADJA	*	*	*	*
+25	Revision	Revision	NN	*	*	*	*
+26	im	in	APPRART	*	*	*	*
+27	Senat	Senat	NN	*	*	*	*
+28	machen	machen	VVINF	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	wenn	wenn	KOUS	*	*	*	*
+31	ein	eine	ART	*	*	*	*
+32	Nachfolger	Nachfolger	NN	*	*	*	*
+33	für	für	APPR	*	*	*	*
+34	Elmar	Elmar	NE	*	*	*	*
+35	Pieroth	<unknown>	NE	*	*	*	*
+36	gewählt	wählen	VVPP	*	*	*	*
+37	wird	werden	VAFIN	*	*	*	*
+38	"	"	$(	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	sagte	sagen	VVFIN	*	*	*	*
+41	ein	eine	ART	*	*	*	*
+42	anderes	andere	PIAT	*	*	*	*
+43	Vorstandsmitglied	Vorstandsmitglied	NN	*	*	*	*
+44	.	.	$.	*	*	*	*
+
+# article_id = T980417.340
+# text = Curiel aber hatte verstanden , daß die aufgestaute Forderung nach Unabhängigkeit zwangsläufig eine mächtige Dynamik enwickeln würde , daß man also auf den Zug aufspringen mußte , wenn man nicht unter die Räder geraten wollte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Curiel	<unknown>	NE	*	*	*	*
+2	aber	aber	ADV	*	*	*	*
+3	hatte	haben	VAFIN	*	*	*	*
+4	verstanden	verstehen	VVPP	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	daß	dass	KOUS	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	aufgestaute	aufgestaut	ADJA	*	*	*	*
+9	Forderung	Forderung	NN	*	*	*	*
+10	nach	nach	APPR	*	*	*	*
+11	Unabhängigkeit	Unabhängigkeit	NN	*	*	*	*
+12	zwangsläufig	zwangsläufig	ADJD	*	*	*	*
+13	eine	eine	ART	*	*	*	*
+14	mächtige	mächtig	ADJA	*	*	*	*
+15	Dynamik	Dynamik	NN	*	*	*	*
+16	enwickeln	<unknown>	VVPP	*	*	*	*
+17	würde	werden	VAFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	daß	dass	KOUS	*	*	*	*
+20	man	man	PIS	*	*	*	*
+21	also	also	ADV	*	*	*	*
+22	auf	auf	APPR	2	2	2	2
+23	den	die	ART	*	*	*	*
+24	Zug	Zug	NN	2	2	2	2
+25	aufspringen	aufspringen	VVINF	2	2	2	2
+26	mußte	müssen	VMFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	wenn	wenn	KOUS	*	*	*	*
+29	man	man	PIS	*	*	*	*
+30	nicht	nicht	PTKNEG	*	*	*	*
+31	unter	unter	APPR	*	*	*	*
+32	die	die	ART	*	*	*	*
+33	Räder	Rad	NN	*	*	*	*
+34	geraten	geraten	VVINF	*	*	*	*
+35	wollte	wollen	VMFIN	*	*	*	*
+36	.	.	$.	*	*	*	*
+
+# article_id = T980415.5
+# text = Da nichts klappte , mußten Schlagwörter her , wie Deutschland wird wieder High-Tech-Standort - ein Zug , auf den man auch in Bremen nur allzugerne aufgesprungen ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	nichts	nichts	PIS	*	*	*	*
+3	klappte	klappen	VVFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	mußten	müssen	VMFIN	*	*	*	*
+6	Schlagwörter	Schlagwort	NN	*	*	*	*
+7	her	her	PTKVZ	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	wie	wie	KOUS	*	*	*	*
+10	Deutschland	Deutschland	NE	*	*	*	*
+11	wird	werden	VAFIN	*	*	*	*
+12	wieder	wieder	ADV	*	*	*	*
+13	High-Tech-Standort	High-Tech-Standort	NN	*	*	*	*
+14	-	-	$(	*	*	*	*
+15	ein	eine	ART	*	*	*	*
+16	Zug	Zug	NN	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	auf	auf	APPR	*	*	*	*
+19	den	die	PRELS	*	*	*	*
+20	man	man	PIS	*	*	*	*
+21	auch	auch	ADV	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	Bremen	Bremen	NE	*	*	*	*
+24	nur	nur	ADV	*	*	*	*
+25	allzugerne	<unknown>	NN	*	*	*	*
+26	aufgesprungen	aufspringen	VVPP	2	2	2	2
+27	ist	sein	VAFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T980414.254
+# text = Seit Wochen dreschen die RedakteurInnen auf die Grünen ein , und nun , wo sich herausstellt , daß sie alle auf den ( in die falsche Richtung fahrenden ) Zug von Hintze aufgesprungen waren , haben sie nicht einmal den Mut , eine entsprechende " Richtigstellung " zu veröffentlichen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	Wochen	Woche	NN	*	*	*	*
+3	dreschen	dreschen	VVFIN	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	RedakteurInnen	Redakteurin	NN	*	*	*	*
+6	auf	auf	APPR	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Grünen	Grüne	NN	*	*	*	*
+9	ein	ein	PTKVZ	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	nun	nun	ADV	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wo	wo	PWAV	*	*	*	*
+15	sich	sich	PRF	*	*	*	*
+16	herausstellt	herausstellen	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	daß	dass	KOUS	*	*	*	*
+19	sie	sie	PPER	*	*	*	*
+20	alle	alle	PIS	*	*	*	*
+21	auf	auf	APPR	2	2	2	2
+22	den	die	ART	*	*	*	*
+23	(	(	$(	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	falsche	falsch	ADJA	*	*	*	*
+27	Richtung	Richtung	NN	*	*	*	*
+28	fahrenden	fahrend	ADJA	*	*	*	*
+29	)	)	$(	*	*	*	*
+30	Zug	Zug	NN	2	2	2	2
+31	von	von	APPR	*	*	*	*
+32	Hintze	Hintze	NE	*	*	*	*
+33	aufgesprungen	aufspringen	VVPP	2	2	2	2
+34	waren	sein	VAFIN	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	haben	haben	VAFIN	*	*	*	*
+37	sie	sie	PPER	*	*	*	*
+38	nicht	nicht	PTKNEG	*	*	*	*
+39	einmal	einmal	ADV	*	*	*	*
+40	den	die	ART	*	*	*	*
+41	Mut	Mut	NN	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	eine	eine	ART	*	*	*	*
+44	entsprechende	entsprechend	ADJA	*	*	*	*
+45	"	"	$(	*	*	*	*
+46	Richtigstellung	Richtigstellung	NN	*	*	*	*
+47	"	"	$(	*	*	*	*
+48	zu	zu	PTKZU	*	*	*	*
+49	veröffentlichen	veröffentlichen	VVINF	*	*	*	*
+50	.	.	$.	*	*	*	*
+
+# article_id = T980722.141
+# text = Vor der Abfahrt aus Langenwang versuchte der rasende Wüterich noch , auf den abfahrenden Zug mit dem flüchtenden Zugbegleiter aufzuspringen , was ihm jedoch mißlang .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Vor	vor	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Abfahrt	Abfahrt	NN	*	*	*	*
+4	aus	aus	APPR	*	*	*	*
+5	Langenwang	<unknown>	NN	*	*	*	*
+6	versuchte	versuchen	VVFIN	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	rasende	rasend	ADJA	*	*	*	*
+9	Wüterich	Wüterich	NN	*	*	*	*
+10	noch	noch	ADV	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	auf	auf	APPR	1	1	1	1
+13	den	die	ART	*	*	*	*
+14	abfahrenden	abfahrend	ADJA	*	*	*	*
+15	Zug	Zug	NN	1	1	1	1
+16	mit	mit	APPR	*	*	*	*
+17	dem	die	ART	*	*	*	*
+18	flüchtenden	flüchtend	ADJA	*	*	*	*
+19	Zugbegleiter	Zugbegleiter	NN	*	*	*	*
+20	aufzuspringen	aufspringen	VVIZU	1	1	1	1
+21	,	,	$,	*	*	*	*
+22	was	was	PRELS	*	*	*	*
+23	ihm	er	PPER	*	*	*	*
+24	jedoch	jedoch	ADV	*	*	*	*
+25	mißlang	misslingen	VVFIN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T980728.136
+# text = Nach Ullrichs Massenwahn auslösender Parforcejagd über Alpen und Pyrenäen im letzten Jahr wollte die gebeutelte Anstalt aufspringen auf einen Zug mit Erfolgsgarantie , kaufte sich für fünf Millionen Mark als Sponsor beim Team Telekom ein und räumte Sendezeit frei wie sonst nur bei Fußball-WM oder Olympia .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	Ullrichs	Ullrich	NE	*	*	*	*
+3	Massenwahn	Massenwahn	NN	*	*	*	*
+4	auslösender	auslösend	ADJA	*	*	*	*
+5	Parforcejagd	Parforcejagd	NN	*	*	*	*
+6	über	über	APPR	*	*	*	*
+7	Alpen	Alp	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Pyrenäen	<unknown>	NN	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	letzten	letzt	ADJA	*	*	*	*
+12	Jahr	Jahr	NN	*	*	*	*
+13	wollte	wollen	VMFIN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	gebeutelte	gebeutelt	ADJA	*	*	*	*
+16	Anstalt	Anstalt	NN	*	*	*	*
+17	aufspringen	aufspringen	VVFIN	2	2	2	2
+18	auf	auf	APPR	2	2	2	2
+19	einen	eine	ART	*	*	*	*
+20	Zug	Zug	NN	2	2	2	2
+21	mit	mit	APPR	*	*	*	*
+22	Erfolgsgarantie	Erfolgsgarantie	NN	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	kaufte	kaufen	VVFIN	*	*	*	*
+25	sich	sich	PRF	*	*	*	*
+26	für	für	APPR	*	*	*	*
+27	fünf	fünf	CARD	*	*	*	*
+28	Millionen	Million	NN	*	*	*	*
+29	Mark	Mark	NN	*	*	*	*
+30	als	als	KOKOM	*	*	*	*
+31	Sponsor	Sponsor	NN	*	*	*	*
+32	beim	bei	APPRART	*	*	*	*
+33	Team	Team	NN	*	*	*	*
+34	Telekom	Telekom	NE	*	*	*	*
+35	ein	ein	PTKVZ	*	*	*	*
+36	und	und	KON	*	*	*	*
+37	räumte	räumen	VVFIN	*	*	*	*
+38	Sendezeit	Sendezeit	NN	*	*	*	*
+39	frei	frei	ADJD	*	*	*	*
+40	wie	wie	KOKOM	*	*	*	*
+41	sonst	sonst	ADV	*	*	*	*
+42	nur	nur	ADV	*	*	*	*
+43	bei	bei	APPR	*	*	*	*
+44	Fußball-WM	Fußball-WM	NE	*	*	*	*
+45	oder	oder	KON	*	*	*	*
+46	Olympia	Olympia	NE	*	*	*	*
+47	.	.	$.	*	*	*	*
+
+# article_id = T980803.161
+# text = Senat und Bundesregierung müßten sich noch vor der Bundestagswahl am 27. September über die Finanzierung verständigen , forderte Dzembritzki im Privatsender Hundert , 6. Zu einem späteren Zeitpunkt wäre es nach Darstellung des SPD-Politkers " sehr schwierig , auf den Zug Fußball-Weltmeisterschaft aufzuspringen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Senat	Senat	NN	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	Bundesregierung	Bundesregierung	NN	*	*	*	*
+4	müßten	müssen	VMFIN	*	*	*	*
+5	sich	sich	PRF	*	*	*	*
+6	noch	noch	ADV	*	*	*	*
+7	vor	vor	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Bundestagswahl	Bundestagswahl	NN	*	*	*	*
+10	am	an	APPRART	*	*	*	*
+11	27	@card@	CARD	*	*	*	*
+12	.	.	$.	*	*	*	*
+13	September	September	NN	*	*	*	*
+14	über	über	APPR	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Finanzierung	Finanzierung	NN	*	*	*	*
+17	verständigen	verständigen	VVINF	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	forderte	fordern	VVFIN	*	*	*	*
+20	Dzembritzki	<unknown>	NE	*	*	*	*
+21	im	in	APPRART	*	*	*	*
+22	Privatsender	Privatsender	NN	*	*	*	*
+23	Hundert	Hundert	NN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	6	@card@	CARD	*	*	*	*
+26	.	.	$.	*	*	*	*
+27	Zu	zu	APPR	*	*	*	*
+28	einem	eine	ART	*	*	*	*
+29	späteren	spät	ADJA	*	*	*	*
+30	Zeitpunkt	Zeitpunkt	NN	*	*	*	*
+31	wäre	sein	VAFIN	*	*	*	*
+32	es	es	PPER	*	*	*	*
+33	nach	nach	APPR	*	*	*	*
+34	Darstellung	Darstellung	NN	*	*	*	*
+35	des	die	ART	*	*	*	*
+36	SPD-Politkers	<unknown>	NN	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	sehr	sehr	ADV	*	*	*	*
+39	schwierig	schwierig	ADJD	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	auf	auf	APPR	2	2	2	2
+42	den	die	ART	*	*	*	*
+43	Zug	Zug	NN	2	2	2	2
+44	Fußball-Weltmeisterschaft	Fußball-Weltmeisterschaft	NN	*	*	*	*
+45	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+46	"	"	$(	*	*	*	*
+47	.	.	$.	*	*	*	*
+
+# article_id = T980801.55
+# text = Auf diesen Zug nun wieder aufzuspringen - das wäre zu langweilig .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	auf	APPR	2	2	2	2
+2	diesen	dies	PDAT	*	*	*	*
+3	Zug	Zug	NN	2	2	2	2
+4	nun	nun	ADV	*	*	*	*
+5	wieder	wieder	ADV	*	*	*	*
+6	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+7	-	-	$(	*	*	*	*
+8	das	die	PDS	*	*	*	*
+9	wäre	sein	VAFIN	*	*	*	*
+10	zu	zu	PTKA	*	*	*	*
+11	langweilig	langweilig	ADJD	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T970516.80
+# text = Und Länder wie Indien , Peru und Uganda sind in den vergangenen Jahren auf den Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	Länder	Land	NN	*	*	*	*
+3	wie	wie	KOKOM	*	*	*	*
+4	Indien	Indien	NE	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	Peru	Peru	NE	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	Uganda	Uganda	NE	*	*	*	*
+9	sind	sein	VAFIN	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	vergangenen	vergangen	ADJA	*	*	*	*
+13	Jahren	Jahr	NN	*	*	*	*
+14	auf	auf	APPR	2	2	2	2
+15	den	die	ART	*	*	*	*
+16	Zug	Zug	NN	2	2	2	2
+17	aufgesprungen	aufspringen	VVPP	2	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T970628.115
+# text = Längst ist die liberale Gesellschaft auf diesen Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Längst	längst	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	liberale	liberal	ADJA	*	*	*	*
+5	Gesellschaft	Gesellschaft	NN	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	diesen	dies	PDAT	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	aufgesprungen	aufspringen	VVPP	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T970923.10
+# text = Die Grünen sind ja in Hamburg auch notgedrungen auf den Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Grünen	Grüne	NN	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	ja	ja	ADV	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Hamburg	Hamburg	NE	*	*	*	*
+7	auch	auch	ADV	*	*	*	*
+8	notgedrungen	notgedrungen	ADJD	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	Zug	Zug	NN	2	2	2	2
+12	aufgesprungen	aufspringen	VVPP	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T970903.174
+# text = Schlierer wörtlich : " Ich habe mit Genugtuung zur Kenntnis genommen , daß der Bürgermeister und sein Gegenkandidat auf unseren Zug aufgesprungen sind " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schlierer	<unknown>	NN	*	*	*	*
+2	wörtlich	wörtlich	ADJD	*	*	*	*
+3	:	:	$.	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Ich	ich	PPER	*	*	*	*
+6	habe	haben	VAFIN	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	Genugtuung	Genugtuung	NN	*	*	*	*
+9	zur	zu	APPRART	*	*	*	*
+10	Kenntnis	Kenntnis	NN	*	*	*	*
+11	genommen	nehmen	VVPP	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	daß	dass	KOUS	*	*	*	*
+14	der	die	ART	*	*	*	*
+15	Bürgermeister	Bürgermeister	NN	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	sein	sein	PPOSAT	*	*	*	*
+18	Gegenkandidat	Gegenkandidat	NN	*	*	*	*
+19	auf	auf	APPR	2	2	2	2
+20	unseren	unser	PPOSAT	*	*	*	*
+21	Zug	Zug	NN	2	2	2	2
+22	aufgesprungen	aufspringen	VVPP	2	2	2	2
+23	sind	sein	VAFIN	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T970908.53
+# text = Daß das Wahlkämpferduo " auf unseren Zug aufgesprungen ist " , könne am 21. September , dem Wahltag , " nur dem Orginal zugute " kommen , prophezeite der Chef der Reps : " Und das sind wir .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	Wahlkämpferduo	<unknown>	NN	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	auf	auf	APPR	2	2	2	2
+6	unseren	unser	PPOSAT	*	*	*	*
+7	Zug	Zug	NN	2	2	2	2
+8	aufgesprungen	aufspringen	VVPP	2	2	2	2
+9	ist	sein	VAFIN	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	könne	können	VMFIN	*	*	*	*
+13	am	an	APPRART	*	*	*	*
+14	21	@card@	CARD	*	*	*	*
+15	.	.	$.	*	*	*	*
+16	September	September	NN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	dem	die	ART	*	*	*	*
+19	Wahltag	Wahltag	NN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	nur	nur	ADV	*	*	*	*
+23	dem	die	ART	*	*	*	*
+24	Orginal	<unknown>	NN	*	*	*	*
+25	zugute	zugute	PTKVZ	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	kommen	kommen	VVFIN	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	prophezeite	prophezeien	VVFIN	*	*	*	*
+30	der	die	ART	*	*	*	*
+31	Chef	Chef	NN	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	Reps	Rep	NN	*	*	*	*
+34	:	:	$.	*	*	*	*
+35	"	"	$(	*	*	*	*
+36	Und	und	KON	*	*	*	*
+37	das	die	PDS	*	*	*	*
+38	sind	sein	VAFIN	*	*	*	*
+39	wir	wir	PPER	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T970925.336
+# text = Der SPD bleibt nun nichts anderes übrig , als auf den Zug aufzuspringen , den die CDU ins Rollen brachte .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	SPD	SPD	NE	*	*	*	*
+3	bleibt	bleiben	VVFIN	*	*	*	*
+4	nun	nun	ADV	*	*	*	*
+5	nichts	nichts	PIAT	*	*	*	*
+6	anderes	andere	PIS	*	*	*	*
+7	übrig	übrig	ADJD	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	als	als	KOUS	*	*	*	*
+10	auf	auf	APPR	2	2	2	2
+11	den	die	ART	*	*	*	*
+12	Zug	Zug	NN	2	2	2	2
+13	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+14	,	,	$,	*	*	*	*
+15	den	die	PRELS	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	CDU	CDU	NE	*	*	*	*
+18	ins	in	APPRART	*	*	*	*
+19	Rollen	Rolle	NN	*	*	*	*
+20	brachte	bringen	VVFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T970117.17
+# text = Schon seit langem fordere die Opposition etwa den Abbau der Überstunden , nun sei auch Bundeskanzler Helmut Kohl plötzlich auf den Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Schon	schon	ADV	*	*	*	*
+2	seit	seit	APPR	*	*	*	*
+3	langem	lang	ADJA	*	*	*	*
+4	fordere	fordern	VVFIN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Opposition	Opposition	NN	*	*	*	*
+7	etwa	etwa	ADV	*	*	*	*
+8	den	die	ART	*	*	*	*
+9	Abbau	Abbau	NN	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Überstunden	Überstunde	NN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	nun	nun	ADV	*	*	*	*
+14	sei	sein	VAFIN	*	*	*	*
+15	auch	auch	ADV	*	*	*	*
+16	Bundeskanzler	Bundeskanzler	NN	*	*	*	*
+17	Helmut	Helmut	NE	*	*	*	*
+18	Kohl	Kohl	NE	*	*	*	*
+19	plötzlich	plötzlich	ADJD	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	den	die	ART	*	*	*	*
+22	Zug	Zug	NN	2	2	2	2
+23	aufgesprungen	aufspringen	VVPP	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T970818.146
+# text = Andere Schreiber sind inzwischen auf den lukrativen Katzen- Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Andere	andere	PIAT	*	*	*	*
+2	Schreiber	Schreiber	NN	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	inzwischen	inzwischen	ADV	*	*	*	*
+5	auf	auf	APPR	2	2	2	2
+6	den	die	ART	*	*	*	*
+7	lukrativen	lukrativ	ADJA	*	*	*	*
+8	Katzen-	Katzen-	TRUNC	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	aufgesprungen	aufspringen	VVPP	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T970217.231
+# text = Landowsky war auf den Zug von Isolde Josipovici aufgesprungen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Landowsky	<unknown>	NE	*	*	*	*
+2	war	sein	VAFIN	*	*	*	*
+3	auf	auf	APPR	2	2	2	2
+4	den	die	ART	*	*	*	*
+5	Zug	Zug	NN	2	2	2	2
+6	von	von	APPR	*	*	*	*
+7	Isolde	Isolde	NE	*	*	*	*
+8	Josipovici	<unknown>	NE	*	*	*	*
+9	aufgesprungen	aufspringen	VVPP	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T970205.169
+# text = " Ich habe nicht vor , auf diesen Zug aufzuspringen " , versicherte er .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Ich	ich	PPER	*	*	*	*
+3	habe	haben	VAFIN	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	vor	vor	PTKVZ	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	diesen	dies	PDAT	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+11	"	"	$(	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	versicherte	versichern	VVFIN	*	*	*	*
+14	er	er	PPER	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T941028.253
+# text = ) Natürlich ist Stone auch auf den Serial - Killer - Zug aufgesprungen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	)	)	$(	*	*	*	*
+2	Natürlich	natürlich	ADJD	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	Stone	<unknown>	NN	*	*	*	*
+5	auch	auch	ADV	*	*	*	*
+6	auf	auf	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Serial	<unknown>	NN	*	*	*	*
+9	-	-	$(	*	*	*	*
+10	Killer	Killer	NN	*	*	*	*
+11	-	-	$(	*	*	*	*
+12	Zug	Zug	NN	2	2	2	2
+13	aufgesprungen	aufspringen	VVPP	2	2	2	2
+14	.	.	$.	*	*	*	*
+
+# article_id = T940902.261
+# text = Volker Kröning , als Ex-Finanzsenator bei den BremerInnen bekannt wie gefürchtet , wird sich ranhalten müssen , um auf den Zug nach Bonn aufspringen zu können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Volker	Volker	NE	*	*	*	*
+2	Kröning	<unknown>	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	als	als	KOKOM	*	*	*	*
+5	Ex-Finanzsenator	Ex-Finanzsenator	NN	*	*	*	*
+6	bei	bei	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	BremerInnen	Bremerin	NN	*	*	*	*
+9	bekannt	bekannt	ADJD	*	*	*	*
+10	wie	wie	KOKOM	*	*	*	*
+11	gefürchtet	fürchten	VVPP	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	wird	werden	VAFIN	*	*	*	*
+14	sich	sich	PRF	*	*	*	*
+15	ranhalten	ranhalten	VVINF	*	*	*	*
+16	müssen	müssen	VMINF	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	um	um	KOUI	*	*	*	*
+19	auf	auf	APPR	2	2	2	2
+20	den	die	ART	*	*	*	*
+21	Zug	Zug	NN	2	2	2	2
+22	nach	nach	APPR	*	*	*	*
+23	Bonn	Bonn	NE	*	*	*	*
+24	aufspringen	aufspringen	VVINF	2	2	2	2
+25	zu	zu	PTKZU	*	*	*	*
+26	können	können	VMINF	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T940903.10
+# text = Auch Naturschutzorganisationen wie der World Wild Fund for Nature sind mittlerweile auf den Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	Naturschutzorganisationen	Naturschutzorganisation	NN	*	*	*	*
+3	wie	wie	KOKOM	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	World	<unknown>	NN	*	*	*	*
+6	Wild	Wild	NN	*	*	*	*
+7	Fund	Fund	NN	*	*	*	*
+8	for	for	FM	*	*	*	*
+9	Nature	<unknown>	NN	*	*	*	*
+10	sind	sein	VAFIN	*	*	*	*
+11	mittlerweile	mittlerweile	ADV	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	Zug	Zug	NN	2	2	2	2
+15	aufgesprungen	aufspringen	VVPP	2	2	2	2
+16	.	.	$.	*	*	*	*
+
+# article_id = T940901.248
+# text = Auf den Zug wollen wir aber nicht aufspringen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Auf	auf	APPR	2	2	2	2
+2	den	die	ART	*	*	*	*
+3	Zug	Zug	NN	2	2	2	2
+4	wollen	wollen	VMFIN	*	*	*	*
+5	wir	wir	PPER	*	*	*	*
+6	aber	aber	ADV	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	aufspringen	aufspringen	VVINF	2	2	2	2
+9	.	.	$.	*	*	*	*
+
+# article_id = T940711.102
+# text = Eine exklusive Modernität , die all diejenigen am Wegesrand stehenläßt , die nicht in der Lage sind , auf den Zug des Fortschritts aufzuspringen ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	eine	ART	*	*	*	*
+2	exklusive	exklusiv	ADJA	*	*	*	*
+3	Modernität	Modernität	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	all	alle	PIAT	*	*	*	*
+7	diejenigen	diejenigen	PDS	*	*	*	*
+8	am	an	APPRART	*	*	*	*
+9	Wegesrand	<unknown>	NN	*	*	*	*
+10	stehenläßt	stehenlassen	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	die	die	PRELS	*	*	*	*
+13	nicht	nicht	PTKNEG	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Lage	Lage	NN	*	*	*	*
+17	sind	sein	VAFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	auf	auf	APPR	2	2	2	2
+20	den	die	ART	*	*	*	*
+21	Zug	Zug	NN	2	2	2	2
+22	des	die	ART	*	*	*	*
+23	Fortschritts	Fortschritt	NN	*	*	*	*
+24	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+25	?	?	$.	*	*	*	*
+
+# article_id = T941202.116
+# text = General Levy , ein Ragga-Star , der " auf den Zug aufgesprungen ist " und mit dem Titel " Incredible " die Top 10 gestürmt hat , dessen Erfolg viele der Hürden , die dem Jungle von den Medien , den offiziellen Radiosendern und sogar von MTV errichtet worden waren , abgebaut hat - dieser General Levy hat sich das Recht herausgenommen , sich als " König des Jungle " zu präsentieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	General	General	NN	*	*	*	*
+2	Levy	<unknown>	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	Ragga-Star	<unknown>	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	der	die	PRELS	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	Zug	Zug	NN	2	2	2	2
+12	aufgesprungen	aufspringen	VVPP	2	2	2	2
+13	ist	sein	VAFIN	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	mit	mit	APPR	*	*	*	*
+17	dem	die	ART	*	*	*	*
+18	Titel	Titel	NN	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	Incredible	<unknown>	NE	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Top	Top	NE	*	*	*	*
+24	10	@card@	CARD	*	*	*	*
+25	gestürmt	stürmen	VVPP	*	*	*	*
+26	hat	haben	VAFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	dessen	die	PRELAT	*	*	*	*
+29	Erfolg	Erfolg	NN	*	*	*	*
+30	viele	viele	PIS	*	*	*	*
+31	der	die	ART	*	*	*	*
+32	Hürden	Hürde	NN	*	*	*	*
+33	,	,	$,	*	*	*	*
+34	die	die	PRELS	*	*	*	*
+35	dem	die	ART	*	*	*	*
+36	Jungle	<unknown>	NN	*	*	*	*
+37	von	von	APPR	*	*	*	*
+38	den	die	ART	*	*	*	*
+39	Medien	Medium	NN	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	den	die	ART	*	*	*	*
+42	offiziellen	offiziell	ADJA	*	*	*	*
+43	Radiosendern	Radiosender	NN	*	*	*	*
+44	und	und	KON	*	*	*	*
+45	sogar	sogar	ADV	*	*	*	*
+46	von	von	APPR	*	*	*	*
+47	MTV	MTV	NE	*	*	*	*
+48	errichtet	errichten	VVPP	*	*	*	*
+49	worden	werden	VAPP	*	*	*	*
+50	waren	sein	VAFIN	*	*	*	*
+51	,	,	$,	*	*	*	*
+52	abgebaut	abbauen	VVPP	*	*	*	*
+53	hat	haben	VAFIN	*	*	*	*
+54	-	-	$(	*	*	*	*
+55	dieser	dies	PDAT	*	*	*	*
+56	General	General	NN	*	*	*	*
+57	Levy	<unknown>	NE	*	*	*	*
+58	hat	haben	VAFIN	*	*	*	*
+59	sich	sich	PRF	*	*	*	*
+60	das	die	ART	*	*	*	*
+61	Recht	Recht	NN	*	*	*	*
+62	herausgenommen	herausnehmen	VVPP	*	*	*	*
+63	,	,	$,	*	*	*	*
+64	sich	sich	PRF	*	*	*	*
+65	als	als	KOKOM	*	*	*	*
+66	"	"	$(	*	*	*	*
+67	König	König	NN	*	*	*	*
+68	des	die	ART	*	*	*	*
+69	Jungle	<unknown>	NN	*	*	*	*
+70	"	"	$(	*	*	*	*
+71	zu	zu	PTKZU	*	*	*	*
+72	präsentieren	präsentieren	VVINF	*	*	*	*
+73	.	.	$.	*	*	*	*
+
+# article_id = T941118.114
+# text = " Jetzt muß man sehen , wer auf diesen Zug aufspringt " , mimt von Stahl Gelassenheit , nachdem die gesamte FDP-Spitze seine nationalliberalen Ideen verschmäht hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Jetzt	jetzt	ADV	*	*	*	*
+3	muß	müssen	VMFIN	*	*	*	*
+4	man	man	PIS	*	*	*	*
+5	sehen	sehen	VVINF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wer	wer	PWS	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	diesen	dies	PDAT	*	*	*	*
+10	Zug	Zug	NN	2	2	2	2
+11	aufspringt	aufspringen	VVFIN	2	2	2	2
+12	"	"	$(	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	mimt	mimen	VVFIN	*	*	*	*
+15	von	von	APPR	*	*	*	*
+16	Stahl	Stahl	NE	*	*	*	*
+17	Gelassenheit	Gelassenheit	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	nachdem	nachdem	KOUS	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	gesamte	gesamt	ADJA	*	*	*	*
+22	FDP-Spitze	FDP-Spitze	NN	*	*	*	*
+23	seine	sein	PPOSAT	*	*	*	*
+24	nationalliberalen	nationalliberal	ADJA	*	*	*	*
+25	Ideen	Idee	NN	*	*	*	*
+26	verschmäht	verschmähen	VVPP	*	*	*	*
+27	hat	haben	VAFIN	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T940216.217
+# text = " Wissen Sie , wir dachten uns , die taz hat da schon drüber geschrieben , die wird ja auf diesen Zug sowieso nicht aufspringen !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wissen	wissen	VVFIN	*	*	*	*
+3	Sie	Sie	PPER	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	wir	wir	PPER	*	*	*	*
+6	dachten	denken	VVFIN	*	*	*	*
+7	uns	wir	PPER	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	taz	<unknown>	NE	*	*	*	*
+11	hat	haben	VAFIN	*	*	*	*
+12	da	da	ADV	*	*	*	*
+13	schon	schon	ADV	*	*	*	*
+14	drüber	drüber	PAV	*	*	*	*
+15	geschrieben	schreiben	VVPP	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	die	die	PDS	*	*	*	*
+18	wird	werden	VAFIN	*	*	*	*
+19	ja	ja	ADV	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	diesen	dies	PDAT	*	*	*	*
+22	Zug	Zug	NN	2	2	2	2
+23	sowieso	sowieso	ADV	*	*	*	*
+24	nicht	nicht	PTKNEG	*	*	*	*
+25	aufspringen	aufspringen	VVINF	2	2	2	2
+26	!	!	$.	*	*	*	*
+
+# article_id = T950526.38
+# text = Nicht zuletzt auf Druck von Matthiesen hat hier die SPD-Landesregierung die energie- und umweltpolitischen Weichen kurz vor der Wahl so falsch gestellt , daß die Grünen auf diesen Zug definitiv nicht aufspringen können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	zuletzt	zuletzt	ADV	*	*	*	*
+3	auf	auf	APPR	*	*	*	*
+4	Druck	Druck	NN	*	*	*	*
+5	von	von	APPR	*	*	*	*
+6	Matthiesen	Matthiesen	NE	*	*	*	*
+7	hat	haben	VAFIN	*	*	*	*
+8	hier	hier	ADV	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	SPD-Landesregierung	SPD-Landesregierung	NN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	energie-	energie-	TRUNC	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	umweltpolitischen	umweltpolitisch	ADJA	*	*	*	*
+15	Weichen	Weiche|Weichen	NN	*	*	*	*
+16	kurz	kurz	ADJD	*	*	*	*
+17	vor	vor	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Wahl	Wahl	NN	*	*	*	*
+20	so	so	ADV	*	*	*	*
+21	falsch	falsch	ADJD	*	*	*	*
+22	gestellt	stellen	VVPP	*	*	*	*
+23	,	,	$,	*	*	*	*
+24	daß	dass	KOUS	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Grünen	Grüne	NN	*	*	*	*
+27	auf	auf	APPR	2	2	2	2
+28	diesen	dies	PDAT	*	*	*	*
+29	Zug	Zug	NN	2	2	2	2
+30	definitiv	definitiv	ADJD	*	*	*	*
+31	nicht	nicht	PTKNEG	*	*	*	*
+32	aufspringen	aufspringen	VVINF	2	2	2	2
+33	können	können	VMINF	*	*	*	*
+34	.	.	$.	*	*	*	*
+
+# article_id = T950517.54
+# text = Hier hat die SPD-Landesregierung mit der Genehmigung von Garzweiler II kurz vor der Wahl die Weichen so gestellt , daß die Grünen auf diesen Zug definitiv nicht aufspringen können .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hier	hier	ADV	*	*	*	*
+2	hat	haben	VAFIN	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	SPD-Landesregierung	SPD-Landesregierung	NN	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Genehmigung	Genehmigung	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Garzweiler	<unknown>	NN	*	*	*	*
+10	II	II	CARD	*	*	*	*
+11	kurz	kurz	ADJD	*	*	*	*
+12	vor	vor	APPR	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Wahl	Wahl	NN	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	Weichen	Weiche|Weichen	NN	*	*	*	*
+17	so	so	ADV	*	*	*	*
+18	gestellt	stellen	VVPP	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	daß	dass	KOUS	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	Grünen	Grüne	NN	*	*	*	*
+23	auf	auf	APPR	2	2	2	2
+24	diesen	dies	PDAT	*	*	*	*
+25	Zug	Zug	NN	2	2	2	2
+26	definitiv	definitiv	ADJD	*	*	*	*
+27	nicht	nicht	PTKNEG	*	*	*	*
+28	aufspringen	aufspringen	VVINF	2	2	2	2
+29	können	können	VMINF	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T950614.99
+# text = Die Kampagne gegen die Versenkung der Ölplattform Brent Spar schlägt vor allem in Deutschland derart ein , daß sogar konservative PolitikerInnen , von Umweltministerin Angela Merkel über FDP-Generalsekretär Guido Westerwelle bis zu CSU-Chef Theo Waigel , auf den fahrenden Zug - oder sollte man sagen : die schwimmende Plattform - aufspringen und gegen die Versenkung der Sondermülldeponie zu Wasser protestieren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Kampagne	Kampagne	NN	*	*	*	*
+3	gegen	gegen	APPR	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	Versenkung	Versenkung	NN	*	*	*	*
+6	der	die	ART	*	*	*	*
+7	Ölplattform	Ölplattform	NN	*	*	*	*
+8	Brent	Brent	NE	*	*	*	*
+9	Spar	Spar	NE	*	*	*	*
+10	schlägt	schlagen	VVFIN	*	*	*	*
+11	vor	vor	APPR	*	*	*	*
+12	allem	alle	PIS	*	*	*	*
+13	in	in	APPR	*	*	*	*
+14	Deutschland	Deutschland	NE	*	*	*	*
+15	derart	derart	ADV	*	*	*	*
+16	ein	ein	PTKVZ	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	daß	dass	KOUS	*	*	*	*
+19	sogar	sogar	ADV	*	*	*	*
+20	konservative	konservativ	ADJA	*	*	*	*
+21	PolitikerInnen	Politikerin	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	von	von	APPR	*	*	*	*
+24	Umweltministerin	Umweltministerin	NN	*	*	*	*
+25	Angela	Angela	NE	*	*	*	*
+26	Merkel	Merkel	NE	*	*	*	*
+27	über	über	APPR	*	*	*	*
+28	FDP-Generalsekretär	FDP-Generalsekretär	NN	*	*	*	*
+29	Guido	Guido	NE	*	*	*	*
+30	Westerwelle	<unknown>	NN	*	*	*	*
+31	bis	bis	KON	*	*	*	*
+32	zu	zu	APPR	*	*	*	*
+33	CSU-Chef	CSU-Chef	NN	*	*	*	*
+34	Theo	Theo	NE	*	*	*	*
+35	Waigel	Waigel	NE	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	auf	auf	APPR	2	2	2	2
+38	den	die	ART	*	*	*	*
+39	fahrenden	fahrend	ADJA	*	*	*	*
+40	Zug	Zug	NN	2	2	2	2
+41	-	-	$(	*	*	*	*
+42	oder	oder	KON	*	*	*	*
+43	sollte	sollen	VMFIN	*	*	*	*
+44	man	man	PIS	*	*	*	*
+45	sagen	sagen	VVINF	*	*	*	*
+46	:	:	$.	*	*	*	*
+47	die	die	ART	*	*	*	*
+48	schwimmende	schwimmend	ADJA	*	*	*	*
+49	Plattform	Plattform	NN	*	*	*	*
+50	-	-	$(	*	*	*	*
+51	aufspringen	aufspringen	VVINF	2	2	2	2
+52	und	und	KON	*	*	*	*
+53	gegen	gegen	APPR	*	*	*	*
+54	die	die	ART	*	*	*	*
+55	Versenkung	Versenkung	NN	*	*	*	*
+56	der	die	ART	*	*	*	*
+57	Sondermülldeponie	Sondermülldeponie	NN	*	*	*	*
+58	zu	zu	APPR	*	*	*	*
+59	Wasser	Wasser	NN	*	*	*	*
+60	protestieren	protestieren	VVINF	*	*	*	*
+61	.	.	$.	*	*	*	*
+
+# article_id = T951025.5
+# text = Wie schon bei der Anti-Shell-Kampagne ist sie auf den fahrenden Zug aufgesprungen , um ihre Fahne hochzuhalten .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Wie	wie	KOKOM	*	*	*	*
+2	schon	schon	ADV	*	*	*	*
+3	bei	bei	APPR	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Anti-Shell-Kampagne	Anti-Shell-Kampagne	NN	*	*	*	*
+6	ist	sein	VAFIN	*	*	*	*
+7	sie	sie	PPER	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	den	die	ART	*	*	*	*
+10	fahrenden	fahrend	ADJA	*	*	*	*
+11	Zug	Zug	NN	2	2	2	2
+12	aufgesprungen	aufspringen	VVPP	2	2	2	2
+13	,	,	$,	*	*	*	*
+14	um	um	KOUI	*	*	*	*
+15	ihre	ihr	PPOSAT	*	*	*	*
+16	Fahne	Fahne	NN	*	*	*	*
+17	hochzuhalten	hochhalten	VVIZU	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T950131.112
+# text = Der Bürgermeister von Bayrischzell wäre sicher besser beraten , wenn er den Groll gegen den Lärcher begrübe und schnell auf dessen Zug aufspränge .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Bürgermeister	Bürgermeister	NN	*	*	*	*
+3	von	von	APPR	*	*	*	*
+4	Bayrischzell	Bayrischzell	NE	*	*	*	*
+5	wäre	sein	VAFIN	*	*	*	*
+6	sicher	sicher	ADJD	*	*	*	*
+7	besser	gut	ADJD	*	*	*	*
+8	beraten	beraten	VVPP	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	wenn	wenn	KOUS	*	*	*	*
+11	er	er	PPER	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Groll	Groll	NN	*	*	*	*
+14	gegen	gegen	APPR	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	Lärcher	<unknown>	NN	*	*	*	*
+17	begrübe	<unknown>	ADJD	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	schnell	schnell	ADJD	*	*	*	*
+20	auf	auf	APPR	2	2	2	2
+21	dessen	die	PDAT	*	*	*	*
+22	Zug	Zug	NN	2	2	2	2
+23	aufspränge	<unknown>	VVFIN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T950119.278
+# text = Alle , die zu spät auf den sich in rasender Geschwindigkeit befindenden Zug der Quentin-Tarantino-Begeisterung aufgesprungen sind , können jetzt Versäumtes nachholen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Alle	alle	PIS	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	die	die	PRELS	*	*	*	*
+4	zu	zu	APPR	*	*	*	*
+5	spät	spät	ADJD	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	sich	sich	PRF	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	rasender	rasend	ADJA	*	*	*	*
+11	Geschwindigkeit	Geschwindigkeit	NN	*	*	*	*
+12	befindenden	befindend	ADJA	*	*	*	*
+13	Zug	Zug	NN	2	2	2	2
+14	der	die	ART	*	*	*	*
+15	Quentin-Tarantino-Begeisterung	<unknown>	NN	*	*	*	*
+16	aufgesprungen	aufspringen	VVPP	2	2	2	2
+17	sind	sein	VAFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	können	können	VMFIN	*	*	*	*
+20	jetzt	jetzt	ADV	*	*	*	*
+21	Versäumtes	Versäumte	NN	*	*	*	*
+22	nachholen	nachholen	VVINF	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T950102.126
+# text = Das jüngste Beispiel dafür ist , wie wenig die Linke aus dem über alle Erwartungen gelungenen Generalstreik von Mitte Oktober zu machen wußte - während der aus der Zentrumspartei ( eine Art italienische CSU ) stammende Arbeitsminister Mastella sofort auf den Zug aufsprang und nun hauptsächlicher Vermittler zu den Gewerkschaften ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	jüngste	jung	ADJA	*	*	*	*
+3	Beispiel	Beispiel	NN	*	*	*	*
+4	dafür	dafür	PAV	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	wie	wie	KOUS	*	*	*	*
+8	wenig	wenige	PIS	*	*	*	*
+9	die	die	ART	*	*	*	*
+10	Linke	Linke	NN	*	*	*	*
+11	aus	aus	APPR	*	*	*	*
+12	dem	die	ART	*	*	*	*
+13	über	über	APPR	*	*	*	*
+14	alle	alle	PIAT	*	*	*	*
+15	Erwartungen	Erwartung	NN	*	*	*	*
+16	gelungenen	gelungen	ADJA	*	*	*	*
+17	Generalstreik	Generalstreik	NN	*	*	*	*
+18	von	von	APPR	*	*	*	*
+19	Mitte	Mitte	NN	*	*	*	*
+20	Oktober	Oktober	NN	*	*	*	*
+21	zu	zu	PTKZU	*	*	*	*
+22	machen	machen	VVINF	*	*	*	*
+23	wußte	wissen	VVFIN	*	*	*	*
+24	-	-	$(	*	*	*	*
+25	während	während	KOUS	*	*	*	*
+26	der	die	ART	*	*	*	*
+27	aus	aus	APPR	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Zentrumspartei	Zentrumspartei	NN	*	*	*	*
+30	(	(	$(	*	*	*	*
+31	eine	eine	ART	*	*	*	*
+32	Art	Art	NN	*	*	*	*
+33	italienische	italienisch	ADJA	*	*	*	*
+34	CSU	CSU	NE	*	*	*	*
+35	)	)	$(	*	*	*	*
+36	stammende	stammend	ADJA	*	*	*	*
+37	Arbeitsminister	Arbeitsminister	NN	*	*	*	*
+38	Mastella	<unknown>	NE	*	*	*	*
+39	sofort	sofort	ADV	*	*	*	*
+40	auf	auf	APPR	2	2	2	2
+41	den	die	ART	*	*	*	*
+42	Zug	Zug	NN	2	2	2	2
+43	aufsprang	aufspringen	VVFIN	2	2	2	2
+44	und	und	KON	*	*	*	*
+45	nun	nun	ADV	*	*	*	*
+46	hauptsächlicher	hauptsächlich	ADJA	*	*	*	*
+47	Vermittler	Vermittler	NN	*	*	*	*
+48	zu	zu	APPR	*	*	*	*
+49	den	die	ART	*	*	*	*
+50	Gewerkschaften	Gewerkschaft	NN	*	*	*	*
+51	ist	sein	VAFIN	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T950407.102
+# text = Für manche Besucherin war das Anreiz genug , doch noch auf den internationalen Konferenz- Zug aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Für	für	APPR	*	*	*	*
+2	manche	manche	PIAT	*	*	*	*
+3	Besucherin	Besucherin	NN	*	*	*	*
+4	war	sein	VAFIN	*	*	*	*
+5	das	die	ART	*	*	*	*
+6	Anreiz	Anreiz	NN	*	*	*	*
+7	genug	genug	ADV	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	doch	doch	KON	*	*	*	*
+10	noch	noch	ADV	*	*	*	*
+11	auf	auf	APPR	2	2	2	2
+12	den	die	ART	*	*	*	*
+13	internationalen	international	ADJA	*	*	*	*
+14	Konferenz-	Konferenz-	TRUNC	*	*	*	*
+15	Zug	Zug	NN	2	2	2	2
+16	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+17	.	.	$.	*	*	*	*
+
+# article_id = T950718.156
+# text = Dabei ist es viel leichter , auf einen Zug aufzuspringen , wenn er gerade erst angefahren ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dabei	dabei	PAV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	es	es	PPER	*	*	*	*
+4	viel	viel	ADV	*	*	*	*
+5	leichter	leicht	ADJD	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	einen	eine	ART	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	wenn	wenn	KOUS	*	*	*	*
+13	er	er	PPER	*	*	*	*
+14	gerade	gerade	ADV	*	*	*	*
+15	erst	erst	ADV	*	*	*	*
+16	angefahren	anfahren	VVPP	*	*	*	*
+17	ist	sein	VAFIN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T950729.123
+# text = Immerhin sind inzwischen selbst ehemals " hart " denkende Tourismusmacher wie der Fremdenverkehrsobmann Gabriel Obernosterer auf den " sanften " Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Immerhin	immerhin	ADV	*	*	*	*
+2	sind	sein	VAFIN	*	*	*	*
+3	inzwischen	inzwischen	ADV	*	*	*	*
+4	selbst	selbst	ADV	*	*	*	*
+5	ehemals	ehemals	ADV	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	hart	hart	ADJD	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	denkende	denkend	ADJA	*	*	*	*
+10	Tourismusmacher	<unknown>	NN	*	*	*	*
+11	wie	wie	KOKOM	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Fremdenverkehrsobmann	<unknown>	NN	*	*	*	*
+14	Gabriel	Gabriel	NE	*	*	*	*
+15	Obernosterer	<unknown>	NN	*	*	*	*
+16	auf	auf	APPR	2	2	2	2
+17	den	die	ART	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	sanften	sanft	ADJA	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	Zug	Zug	NN	2	2	2	2
+22	aufgesprungen	aufspringen	VVPP	2	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T951223.301
+# text = Daß dieses Buch erst jetzt auf den Markt kommt , als das Jubiläumsjahr fast vorüber ist , liegt an der ambitiösen Absicht des Verlages , gleich auf den Zug der Zeit aufzuspringen und ein Multi-Media-Buch vorzulegen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	dieses	dies	PDAT	*	*	*	*
+3	Buch	Buch	NN	*	*	*	*
+4	erst	erst	ADV	*	*	*	*
+5	jetzt	jetzt	ADV	*	*	*	*
+6	auf	auf	APPR	*	*	*	*
+7	den	die	ART	*	*	*	*
+8	Markt	Markt	NN	*	*	*	*
+9	kommt	kommen	VVFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	als	als	KOUS	*	*	*	*
+12	das	die	ART	*	*	*	*
+13	Jubiläumsjahr	Jubiläumsjahr	NN	*	*	*	*
+14	fast	fast	ADV	*	*	*	*
+15	vorüber	vorüber	ADV	*	*	*	*
+16	ist	sein	VAFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	liegt	liegen	VVFIN	*	*	*	*
+19	an	an	APPR	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	ambitiösen	ambitiös	ADJA	*	*	*	*
+22	Absicht	Absicht	NN	*	*	*	*
+23	des	die	ART	*	*	*	*
+24	Verlages	Verlag	NN	*	*	*	*
+25	,	,	$,	*	*	*	*
+26	gleich	gleich	ADJD	*	*	*	*
+27	auf	auf	APPR	2	2	2	2
+28	den	die	ART	*	*	*	*
+29	Zug	Zug	NN	2	2	2	2
+30	der	die	ART	*	*	*	*
+31	Zeit	Zeit	NN	*	*	*	*
+32	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+33	und	und	KON	*	*	*	*
+34	ein	eine	ART	*	*	*	*
+35	Multi-Media-Buch	<unknown>	NN	*	*	*	*
+36	vorzulegen	vorlegen	VVIZU	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T950815.187
+# text = Nun ist auch Linksdemokratenchef Massimo D'Alema auf den Zug aufgesprungen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nun	nun	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	auch	auch	ADV	*	*	*	*
+4	Linksdemokratenchef	<unknown>	NN	*	*	*	*
+5	Massimo	Massimo	NE	*	*	*	*
+6	D'Alema	<unknown>	NE	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	den	die	ART	*	*	*	*
+9	Zug	Zug	NN	2	2	2	2
+10	aufgesprungen	aufspringen	VVPP	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T950802.231
+# text = Voscherau und Runde muß man zugute halten , daß sie nicht auf den wahltaktischen Zug von CDU und SPD aufgesprungen sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Voscherau	<unknown>	NN	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	Runde	Runde	NN	*	*	*	*
+4	muß	müssen	VMFIN	*	*	*	*
+5	man	man	PIS	*	*	*	*
+6	zugute	zugute	ADV	*	*	*	*
+7	halten	halten	VVINF	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	daß	dass	KOUS	*	*	*	*
+10	sie	sie	PPER	*	*	*	*
+11	nicht	nicht	PTKNEG	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	wahltaktischen	wahltaktisch	ADJA	*	*	*	*
+15	Zug	Zug	NN	2	2	2	2
+16	von	von	APPR	*	*	*	*
+17	CDU	CDU	NE	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	SPD	SPD	NE	*	*	*	*
+20	aufgesprungen	aufspringen	VVPP	2	2	2	2
+21	sind	sein	VAFIN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T950811.419
+# text = Von der Schiene auf die Straße ; statt auf den Zug des neuen Umweltbewußtseins der Wirtschaft aufzuspringen , macht die Post es umgekehrt .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Von	von	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Schiene	Schiene	NN	*	*	*	*
+4	auf	auf	APPR	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Straße	Straße	NN	*	*	*	*
+7	;	;	$.	*	*	*	*
+8	statt	statt	APPR	*	*	*	*
+9	auf	auf	APPR	2	2	2	2
+10	den	die	ART	*	*	*	*
+11	Zug	Zug	NN	2	2	2	2
+12	des	die	ART	*	*	*	*
+13	neuen	neu	ADJA	*	*	*	*
+14	Umweltbewußtseins	Umweltbewusstsein	NN	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Wirtschaft	Wirtschaft	NN	*	*	*	*
+17	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+18	,	,	$,	*	*	*	*
+19	macht	machen	VVFIN	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Post	Post	NN	*	*	*	*
+22	es	es	PPER	*	*	*	*
+23	umgekehrt	umkehren	VVPP	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T950302.304
+# text = Der Statt Partei warf Mahr vor , mit ihrem neuen Vorsitzenden Achim Reichert " auf den populistischen Zug innere Sicherheit aufzuspringen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Statt	Statt	NN	*	*	*	*
+3	Partei	Partei	NN	*	*	*	*
+4	warf	werfen	VVFIN	*	*	*	*
+5	Mahr	Mahr	NN	*	*	*	*
+6	vor	vor	PTKVZ	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	ihrem	ihr	PPOSAT	*	*	*	*
+10	neuen	neu	ADJA	*	*	*	*
+11	Vorsitzenden	Vorsitzende	NN	*	*	*	*
+12	Achim	Achim	NE	*	*	*	*
+13	Reichert	Reichert	NE	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	auf	auf	APPR	2	2	2	2
+16	den	die	ART	*	*	*	*
+17	populistischen	populistisch	ADJA	*	*	*	*
+18	Zug	Zug	NN	2	2	2	2
+19	innere	inner	ADJA	*	*	*	*
+20	Sicherheit	Sicherheit	NN	*	*	*	*
+21	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+22	"	"	$(	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T950216.269
+# text = Warum etwa sollte ein Könner in der größer und größer gewordenen Welle der Singer / Songwriter aus San Francisco spurlos untergehen , nur weil er nicht rechtzeitig vor zwei Jahren auf den Zug aufsprang , sondern sich die Zeit nahm , seine Songs zu entwickeln , die er brauchte ?
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Warum	warum	PWAV	*	*	*	*
+2	etwa	etwa	ADV	*	*	*	*
+3	sollte	sollen	VMFIN	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	Könner	Könner	NN	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	größer	groß	ADJD	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	größer	groß	ADJD	*	*	*	*
+11	gewordenen	worden	ADJA	*	*	*	*
+12	Welle	Welle	NN	*	*	*	*
+13	der	die	ART	*	*	*	*
+14	Singer	Singer	NE	*	*	*	*
+15	/	/	$(	*	*	*	*
+16	Songwriter	<unknown>	NN	*	*	*	*
+17	aus	aus	APPR	*	*	*	*
+18	San	San	NE	*	*	*	*
+19	Francisco	Francisco	NE	*	*	*	*
+20	spurlos	spurlos	ADJD	*	*	*	*
+21	untergehen	untergehen	VVINF	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	nur	nur	ADV	*	*	*	*
+24	weil	weil	KOUS	*	*	*	*
+25	er	er	PPER	*	*	*	*
+26	nicht	nicht	PTKNEG	*	*	*	*
+27	rechtzeitig	rechtzeitig	ADJD	*	*	*	*
+28	vor	vor	APPR	*	*	*	*
+29	zwei	zwei	CARD	*	*	*	*
+30	Jahren	Jahr	NN	*	*	*	*
+31	auf	auf	APPR	2	2	2	2
+32	den	die	ART	*	*	*	*
+33	Zug	Zug	NN	2	2	2	2
+34	aufsprang	aufspringen	VVFIN	2	2	2	2
+35	,	,	$,	*	*	*	*
+36	sondern	sondern	KON	*	*	*	*
+37	sich	sich	PRF	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	Zeit	Zeit	NN	*	*	*	*
+40	nahm	nehmen	VVFIN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	seine	sein	PPOSAT	*	*	*	*
+43	Songs	Song	NN	*	*	*	*
+44	zu	zu	PTKZU	*	*	*	*
+45	entwickeln	entwickeln	VVINF	*	*	*	*
+46	,	,	$,	*	*	*	*
+47	die	die	PRELS	*	*	*	*
+48	er	er	PPER	*	*	*	*
+49	brauchte	brauchen	VVFIN	*	*	*	*
+50	?	?	$.	*	*	*	*
+
+# article_id = T950203.27
+# text = Während sich der Berliner Regierende Bürgermeister Eberhard Diepgen noch beeilte , auf den fahrenden Zug aufzuspringen , indem auch er eine Reform der ARD anmahnte , signalisierten Edmund Stoiber ( CSU ) und Kurt Biedenkopf ( CDU ) unterdes erstmals Kompromißbereitschaft : Im Streit um die ARD sei es nötig , so Stoiber , " zu einem Konsens zu kommen , wohl auch zu einem Kompromiß " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Während	während	KOUS	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Berliner	Berliner	ADJA	*	*	*	*
+5	Regierende	Regierende	NN	*	*	*	*
+6	Bürgermeister	Bürgermeister	NN	*	*	*	*
+7	Eberhard	Eberhard	NE	*	*	*	*
+8	Diepgen	Diepgen	NE	*	*	*	*
+9	noch	noch	ADV	*	*	*	*
+10	beeilte	beeilen	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	auf	auf	APPR	2	2	2	2
+13	den	die	ART	*	*	*	*
+14	fahrenden	fahrend	ADJA	*	*	*	*
+15	Zug	Zug	NN	2	2	2	2
+16	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+17	,	,	$,	*	*	*	*
+18	indem	indem	KOUS	*	*	*	*
+19	auch	auch	ADV	*	*	*	*
+20	er	er	PPER	*	*	*	*
+21	eine	eine	ART	*	*	*	*
+22	Reform	Reform	NN	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	ARD	ARD	NE	*	*	*	*
+25	anmahnte	anmahnen	VVFIN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	signalisierten	signalisieren	VVFIN	*	*	*	*
+28	Edmund	Edmund	NE	*	*	*	*
+29	Stoiber	Stoiber	NE	*	*	*	*
+30	(	(	$(	*	*	*	*
+31	CSU	CSU	NE	*	*	*	*
+32	)	)	$(	*	*	*	*
+33	und	und	KON	*	*	*	*
+34	Kurt	Kurt	NE	*	*	*	*
+35	Biedenkopf	Biedenkopf	NE	*	*	*	*
+36	(	(	$(	*	*	*	*
+37	CDU	CDU	NE	*	*	*	*
+38	)	)	$(	*	*	*	*
+39	unterdes	unterdes	ADV	*	*	*	*
+40	erstmals	erstmals	ADV	*	*	*	*
+41	Kompromißbereitschaft	Kompromissbereitschaft	NN	*	*	*	*
+42	:	:	$.	*	*	*	*
+43	Im	in	APPRART	*	*	*	*
+44	Streit	Streit	NN	*	*	*	*
+45	um	um	APPR	*	*	*	*
+46	die	die	ART	*	*	*	*
+47	ARD	ARD	NE	*	*	*	*
+48	sei	sein	VAFIN	*	*	*	*
+49	es	es	PPER	*	*	*	*
+50	nötig	nötig	ADJD	*	*	*	*
+51	,	,	$,	*	*	*	*
+52	so	so	ADV	*	*	*	*
+53	Stoiber	Stoiber	NE	*	*	*	*
+54	,	,	$,	*	*	*	*
+55	"	"	$(	*	*	*	*
+56	zu	zu	APPR	*	*	*	*
+57	einem	eine	ART	*	*	*	*
+58	Konsens	Konsens	NN	*	*	*	*
+59	zu	zu	PTKZU	*	*	*	*
+60	kommen	kommen	VVINF	*	*	*	*
+61	,	,	$,	*	*	*	*
+62	wohl	wohl	ADV	*	*	*	*
+63	auch	auch	ADV	*	*	*	*
+64	zu	zu	APPR	*	*	*	*
+65	einem	eine	ART	*	*	*	*
+66	Kompromiß	Kompromiss	NN	*	*	*	*
+67	"	"	$(	*	*	*	*
+68	.	.	$.	*	*	*	*
+
+# article_id = T950206.239
+# text = So sehr ich die taz schätze , ja liebe , so sehr geht mir auf den Geist , wie schnell ihr in Eurem Bemühen um Randgruppen unkritisch auf jeden Zug aufspringt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	so	ADV	*	*	*	*
+2	sehr	sehr	ADV	*	*	*	*
+3	ich	ich	PPER	*	*	*	*
+4	die	die	ART	*	*	*	*
+5	taz	<unknown>	NE	*	*	*	*
+6	schätze	schätzen	VVFIN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	ja	ja	ADV	*	*	*	*
+9	liebe	lieben	VVFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	so	so	ADV	*	*	*	*
+12	sehr	sehr	ADV	*	*	*	*
+13	geht	gehen	VVFIN	*	*	*	*
+14	mir	ich	PPER	*	*	*	*
+15	auf	auf	APPR	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	Geist	Geist	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	wie	wie	KOKOM	*	*	*	*
+20	schnell	schnell	ADJD	*	*	*	*
+21	ihr	ihr	PPOSAT	*	*	*	*
+22	in	in	APPR	*	*	*	*
+23	Eurem	euer	PPOSAT	*	*	*	*
+24	Bemühen	Bemühen	NN	*	*	*	*
+25	um	um	APPR	*	*	*	*
+26	Randgruppen	Randgruppe	NN	*	*	*	*
+27	unkritisch	unkritisch	ADJD	*	*	*	*
+28	auf	auf	APPR	2	2	2	2
+29	jeden	jede	PIAT	*	*	*	*
+30	Zug	Zug	NN	2	2	2	2
+31	aufspringt	aufspringen	VVFIN	2	2	2	2
+32	.	.	$.	*	*	*	*
+
+# article_id = T950213.170
+# text = Christa Wolf ist in Ungnade gefallen , da lohnt es sich , auch auf den längst schon abgefahrenen Zug aufzuspringen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Christa	Christa	NE	*	*	*	*
+2	Wolf	Wolf	NE	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Ungnade	Ungnade	NN	*	*	*	*
+6	gefallen	fallen|gefallen	VVPP	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	da	da	ADV	*	*	*	*
+9	lohnt	lohnen	VVFIN	*	*	*	*
+10	es	es	PPER	*	*	*	*
+11	sich	sich	PRF	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	auch	auch	ADV	*	*	*	*
+14	auf	auf	APPR	2	2	2	2
+15	den	die	ART	*	*	*	*
+16	längst	längst	ADV	*	*	*	*
+17	schon	schon	ADV	*	*	*	*
+18	abgefahrenen	abgefahren	ADJA	*	*	*	*
+19	Zug	Zug	NN	2	2	2	2
+20	aufzuspringen	aufspringen	VVIZU	2	2	2	2
+21	.	.	$.	*	*	*	*
+
+# article_id = T990111.158
+# text = " Wenn die RND nicht auf den Zug Bouteflikas aufspringt , wird sie von der politischen Szene verschwinden " , begründet einer der Vertreter der Abtrünnigen im Nationalrat ihre Position .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wenn	wenn	KOUS	*	*	*	*
+3	die	die	ART	*	*	*	*
+4	RND	<unknown>	NN	*	*	*	*
+5	nicht	nicht	PTKNEG	*	*	*	*
+6	auf	auf	APPR	2	2	2	2
+7	den	die	ART	*	*	*	*
+8	Zug	Zug	NN	2	2	2	2
+9	Bouteflikas	<unknown>	NE	*	*	*	*
+10	aufspringt	aufspringen	VVFIN	2	2	2	2
+11	,	,	$,	*	*	*	*
+12	wird	werden	VAFIN	*	*	*	*
+13	sie	sie	PPER	*	*	*	*
+14	von	von	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	politischen	politisch	ADJA	*	*	*	*
+17	Szene	Szene	NN	*	*	*	*
+18	verschwinden	verschwinden	VVINF	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	begründet	begründen	VVFIN	*	*	*	*
+22	einer	eine	PIS	*	*	*	*
+23	der	die	ART	*	*	*	*
+24	Vertreter	Vertreter	NN	*	*	*	*
+25	der	die	ART	*	*	*	*
+26	Abtrünnigen	Abtrünnige	NN	*	*	*	*
+27	im	in	APPRART	*	*	*	*
+28	Nationalrat	Nationalrat	NN	*	*	*	*
+29	ihre	ihr	PPOSAT	*	*	*	*
+30	Position	Position	NN	*	*	*	*
+31	.	.	$.	*	*	*	*
+

@@ -1,0 +1,611 @@
+# article_id = T910418.108
+# text = Auf der Ersatzbank saßen Nachwuchskräfte namens Markus Münch und Markus Babbel , der selbst in München unbekannt ist .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	auf	APPR	1	1	1	1
+2	der	die	ART	*	*	*	*
+3	Ersatzbank	Ersatzbank	NN	1	1	1	1
+4	saßen	sitzen	VVFIN	1	1	1	1
+5	Nachwuchskräfte	Nachwuchskraft	NN	*	*	*	*
+6	namens	namens	APPR	*	*	*	*
+7	Markus	Markus	NE	*	*	*	*
+8	Münch	<unknown>	NN	*	*	*	*
+9	und	und	KON	*	*	*	*
+10	Markus	Markus	NE	*	*	*	*
+11	Babbel	<unknown>	VVFIN	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	der	die	PRELS	*	*	*	*
+14	selbst	selbst	ADV	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	München	München	NE	*	*	*	*
+17	unbekannt	unbekannt	ADJD	*	*	*	*
+18	ist	sein	VAFIN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T900507.155
+# text = So saßen auf der Ersatzbank gleich drei Amateure aus der Verbandsliga .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	So	so	ADV	*	*	*	*
+2	saßen	sitzen	VVFIN	1	1	1	1
+3	auf	auf	APPR	1	1	1	1
+4	der	die	ART	*	*	*	*
+5	Ersatzbank	Ersatzbank	NN	1	1	1	1
+6	gleich	gleich	ADJD	*	*	*	*
+7	drei	drei	CARD	*	*	*	*
+8	Amateure	Amateur	NN	*	*	*	*
+9	aus	aus	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Verbandsliga	Verbandsliga	NN	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T960807.109
+# text = Seitdem sitzt der Gouverneur nur noch auf der Ersatzbank der Verlautbarer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seitdem	seitdem	PAV	*	*	*	*
+2	sitzt	sitzen	VVFIN	2	2	2	2
+3	der	die	ART	*	*	*	*
+4	Gouverneur	Gouverneur	NN	*	*	*	*
+5	nur	nur	ADV	*	*	*	*
+6	noch	noch	ADV	*	*	*	*
+7	auf	auf	APPR	2	2	2	2
+8	der	die	ART	*	*	*	*
+9	Ersatzbank	Ersatzbank	NN	2	2	2	2
+10	der	die	ART	*	*	*	*
+11	Verlautbarer	<unknown>	NN	*	*	*	*
+12	.	.	$.	*	*	*	*
+
+# article_id = T960801.301
+# text = Glatter und Poller saßen auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Glatter	Glatte	NN	*	*	*	*
+2	und	und	KON	*	*	*	*
+3	Poller	<unknown>	NN	*	*	*	*
+4	saßen	sitzen	VVFIN	2	2	1	2
+5	auf	auf	APPR	2	2	1	2
+6	der	die	ART	*	*	*	*
+7	Ersatzbank	Ersatzbank	NN	2	2	1	2
+8	.	.	$.	*	*	*	*
+
+# article_id = T960628.278
+# text = Zwei der Brüder saßen bekanntlich auf der Ersatzbank der Engländer , später durften die kompletten Brothers Tell Me Like It Is im Hamburger Dudelfunk zum Besten geben - aber das war lange nach Spielschluß , als wir vor den Autocorsos und ähnlichen " deutschen Tugenden " in einen Billardsalon geflüchtet waren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zwei	zwei	CARD	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Brüder	Bruder	NN	*	*	*	*
+4	saßen	sitzen	VVFIN	1	1	1	1
+5	bekanntlich	bekanntlich	ADV	*	*	*	*
+6	auf	auf	APPR	1	1	1	1
+7	der	die	ART	*	*	*	*
+8	Ersatzbank	Ersatzbank	NN	1	1	1	1
+9	der	die	ART	*	*	*	*
+10	Engländer	Engländer	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	später	spät	ADJD	*	*	*	*
+13	durften	dürfen	VMFIN	*	*	*	*
+14	die	die	ART	*	*	*	*
+15	kompletten	komplett	ADJA	*	*	*	*
+16	Brothers	<unknown>	NN	*	*	*	*
+17	Tell	Tell	NE	*	*	*	*
+18	Me	Me	NE	*	*	*	*
+19	Like	<unknown>	NN	*	*	*	*
+20	It	<unknown>	ADJA	*	*	*	*
+21	Is	I	NN	*	*	*	*
+22	im	in	APPRART	*	*	*	*
+23	Hamburger	Hamburger	ADJA	*	*	*	*
+24	Dudelfunk	<unknown>	NN	*	*	*	*
+25	zum	zu	APPRART	*	*	*	*
+26	Besten	Beste	NN	*	*	*	*
+27	geben	geben	VVINF	*	*	*	*
+28	-	-	$(	*	*	*	*
+29	aber	aber	KON	*	*	*	*
+30	das	die	PDS	*	*	*	*
+31	war	sein	VAFIN	*	*	*	*
+32	lange	lange	ADV	*	*	*	*
+33	nach	nach	APPR	*	*	*	*
+34	Spielschluß	Spielschluss	NN	*	*	*	*
+35	,	,	$,	*	*	*	*
+36	als	als	KOUS	*	*	*	*
+37	wir	wir	PPER	*	*	*	*
+38	vor	vor	APPR	*	*	*	*
+39	den	die	ART	*	*	*	*
+40	Autocorsos	<unknown>	NN	*	*	*	*
+41	und	und	KON	*	*	*	*
+42	ähnlichen	ähnlich	ADJA	*	*	*	*
+43	"	"	$(	*	*	*	*
+44	deutschen	deutsch	ADJA	*	*	*	*
+45	Tugenden	Tugend	NN	*	*	*	*
+46	"	"	$(	*	*	*	*
+47	in	in	APPR	*	*	*	*
+48	einen	eine	ART	*	*	*	*
+49	Billardsalon	Billardsalon	NN	*	*	*	*
+50	geflüchtet	flüchten	VVPP	*	*	*	*
+51	waren	sein	VAFIN	*	*	*	*
+52	.	.	$.	*	*	*	*
+
+# article_id = T930216.83
+# text = Auf der Ersatzbank des Dürkheimer HC , des Finalgegners aus diesem und dem letzten Jahr , saß derweil Christian Mayerhöfer .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	auf	APPR	1	1	1	1
+2	der	die	ART	*	*	*	*
+3	Ersatzbank	Ersatzbank	NN	1	1	1	1
+4	des	die	ART	*	*	*	*
+5	Dürkheimer	<unknown>	NN	*	*	*	*
+6	HC	HC	NE	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	des	die	ART	*	*	*	*
+9	Finalgegners	Finalgegner	NN	*	*	*	*
+10	aus	aus	APPR	*	*	*	*
+11	diesem	dies	PDAT	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	dem	die	ART	*	*	*	*
+14	letzten	letzt	ADJA	*	*	*	*
+15	Jahr	Jahr	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	saß	sitzen	VVFIN	1	1	1	1
+18	derweil	derweil	ADV	*	*	*	*
+19	Christian	Christian	NE	*	*	*	*
+20	Mayerhöfer	Mayerhöfer	NE	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T930224.95
+# text = Die nämlich sitzen dann bei Berlusconi und seinen Freunden auf Ersatzbank oder Tribüne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	PDS	*	*	*	*
+2	nämlich	nämlich	ADV	*	*	*	*
+3	sitzen	sitzen	VVFIN	2	1	2	2
+4	dann	dann	ADV	*	*	*	*
+5	bei	bei	APPR	*	*	*	*
+6	Berlusconi	<unknown>	NN	*	*	*	*
+7	und	und	KON	*	*	*	*
+8	seinen	sein	PPOSAT	*	*	*	*
+9	Freunden	Freund	NN	*	*	*	*
+10	auf	auf	APPR	2	1	2	2
+11	Ersatzbank	Ersatzbank	NN	2	1	2	2
+12	oder	oder	KON	*	*	*	*
+13	Tribüne	Tribüne	NN	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T931004.176
+# text = Denn sein Meisterstück ( die Hauptstadt ) sitzt immer noch auf der Ersatzbank von / für Deutschland .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	sein	sein	PPOSAT	*	*	*	*
+3	Meisterstück	Meisterstück	NN	*	*	*	*
+4	(	(	$(	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Hauptstadt	Hauptstadt	NN	*	*	*	*
+7	)	)	$(	*	*	*	*
+8	sitzt	sitzen	VVFIN	2	2	2	2
+9	immer	immer	ADV	*	*	*	*
+10	noch	noch	ADV	*	*	*	*
+11	auf	auf	APPR	2	2	2	2
+12	der	die	ART	*	*	*	*
+13	Ersatzbank	Ersatzbank	NN	2	2	2	2
+14	von	von	APPR	*	*	*	*
+15	/	/	$(	*	*	*	*
+16	für	für	APPR	*	*	*	*
+17	Deutschland	Deutschland	NE	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T930522.319
+# text = Beim vermeintlichen Abstiegskick in Duisburg treffen die Paulianer Toni Sailer wieder - der sitzt dort auf der Ersatzbank
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Beim	bei	APPRART	*	*	*	*
+2	vermeintlichen	vermeintlich	ADJA	*	*	*	*
+3	Abstiegskick	<unknown>	NN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Duisburg	Duisburg	NE	*	*	*	*
+6	treffen	treffen	VVFIN	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Paulianer	<unknown>	NN	*	*	*	*
+9	Toni	Toni	NE	*	*	*	*
+10	Sailer	<unknown>	VVFIN	*	*	*	*
+11	wieder	wieder	ADV	*	*	*	*
+12	-	-	$(	*	*	*	*
+13	der	die	PRELS	*	*	*	*
+14	sitzt	sitzen	VVFIN	1	1	1	1
+15	dort	dort	ADV	*	*	*	*
+16	auf	auf	APPR	1	1	1	1
+17	der	die	ART	*	*	*	*
+18	Ersatzbank	Ersatzbank	NN	1	1	1	1
+
+# article_id = T970102.106
+# text = Berlin , 6. September : Nachdem er bisher nur auf der Ersatzbank saß und schon damit gedroht hatte , Australier zu werden , schlägt beim WM-Qualifikationsspiel gegen Portugal endlich die große Stunde von Sean Dundee .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berlin	Berlin	NE	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	6	@card@	CARD	*	*	*	*
+4	.	.	$.	*	*	*	*
+5	September	September	NN	*	*	*	*
+6	:	:	$.	*	*	*	*
+7	Nachdem	nachdem	KOUS	*	*	*	*
+8	er	er	PPER	*	*	*	*
+9	bisher	bisher	ADV	*	*	*	*
+10	nur	nur	ADV	*	*	*	*
+11	auf	auf	APPR	1	1	1	1
+12	der	die	ART	*	*	*	*
+13	Ersatzbank	Ersatzbank	NN	1	1	1	1
+14	saß	sitzen	VVFIN	1	1	1	1
+15	und	und	KON	*	*	*	*
+16	schon	schon	ADV	*	*	*	*
+17	damit	damit	PAV	*	*	*	*
+18	gedroht	drohen	VVPP	*	*	*	*
+19	hatte	haben	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	Australier	Australier	NN	*	*	*	*
+22	zu	zu	PTKZU	*	*	*	*
+23	werden	werden	VAINF	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	schlägt	schlagen	VVFIN	*	*	*	*
+26	beim	bei	APPRART	*	*	*	*
+27	WM-Qualifikationsspiel	WM-Qualifikationsspiel	NN	*	*	*	*
+28	gegen	gegen	APPR	*	*	*	*
+29	Portugal	Portugal	NE	*	*	*	*
+30	endlich	endlich	ADV	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	große	groß	ADJA	*	*	*	*
+33	Stunde	Stunde	NN	*	*	*	*
+34	von	von	APPR	*	*	*	*
+35	Sean	Sean	NE	*	*	*	*
+36	Dundee	<unknown>	NN	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T970919.358
+# text = Den Ersatztorwart Frank Rost werden auch seine flotten Sprüche im Sportmagazin " Kicker " nicht von der Ersatzbank ins Tor befördern , prophezeit Werder-Sprecherin Marita Hanke : " Am Samstag gegen Borussia Dortmund sitzt Rost auf der Bank , und Reck steht im Tor .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Den	die	ART	*	*	*	*
+2	Ersatztorwart	Ersatztorwart	NN	*	*	*	*
+3	Frank	Frank	NE	*	*	*	*
+4	Rost	Rost	NE	*	*	*	*
+5	werden	werden	VAFIN	*	*	*	*
+6	auch	auch	ADV	*	*	*	*
+7	seine	sein	PPOSAT	*	*	*	*
+8	flotten	flott	ADJA	*	*	*	*
+9	Sprüche	Spruch	NN	*	*	*	*
+10	im	in	APPRART	*	*	*	*
+11	Sportmagazin	Sportmagazin	NN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	Kicker	Kicker	NN	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	nicht	nicht	PTKNEG	*	*	*	*
+16	von	von	APPR	1	1	1	1
+17	der	die	ART	*	*	*	*
+18	Ersatzbank	Ersatzbank	NN	1	1	1	1
+19	ins	in	APPRART	*	*	*	*
+20	Tor	Tor	NN	*	*	*	*
+21	befördern	befördern	VVINF	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	prophezeit	prophezeien	VVFIN	*	*	*	*
+24	Werder-Sprecherin	<unknown>	NN	*	*	*	*
+25	Marita	Marita	NE	*	*	*	*
+26	Hanke	Hanke	NE	*	*	*	*
+27	:	:	$.	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	Am	an	APPRART	*	*	*	*
+30	Samstag	Samstag	NN	*	*	*	*
+31	gegen	gegen	APPR	*	*	*	*
+32	Borussia	Borussia	NE	*	*	*	*
+33	Dortmund	Dortmund	NE	*	*	*	*
+34	sitzt	sitzen	VVFIN	1	1	1	1
+35	Rost	Rost	NE	*	*	*	*
+36	auf	auf	APPR	*	*	*	*
+37	der	die	ART	*	*	*	*
+38	Bank	Bank	NN	*	*	*	*
+39	,	,	$,	*	*	*	*
+40	und	und	KON	*	*	*	*
+41	Reck	Reck	NE	*	*	*	*
+42	steht	stehen	VVFIN	*	*	*	*
+43	im	in	APPRART	*	*	*	*
+44	Tor	Tor	NN	*	*	*	*
+45	.	.	$.	*	*	*	*
+
+# article_id = T970923.117
+# text = Im vierten Saisonspiel gegen die Bolton Wanderers saß der Deutsche wie gewohnt auf der Ersatzbank , " richtig cool , ich wollte mir einen schönen Nachmittag machen " - doch auf einmal lag Barnsleys erster Torwart verletzt am Boden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	vierten	viert	ADJA	*	*	*	*
+3	Saisonspiel	Saisonspiel	NN	*	*	*	*
+4	gegen	gegen	APPR	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Bolton	<unknown>	NN	*	*	*	*
+7	Wanderers	Wanderer	NN	*	*	*	*
+8	saß	sitzen	VVFIN	1	1	1	1
+9	der	die	ART	*	*	*	*
+10	Deutsche	Deutsche	NN	*	*	*	*
+11	wie	wie	KOKOM	*	*	*	*
+12	gewohnt	wohnen	VVPP	*	*	*	*
+13	auf	auf	APPR	1	1	1	1
+14	der	die	ART	*	*	*	*
+15	Ersatzbank	Ersatzbank	NN	1	1	1	1
+16	,	,	$,	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	richtig	richtig	ADJD	*	*	*	*
+19	cool	cool	ADJD	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	ich	ich	PPER	*	*	*	*
+22	wollte	wollen	VMFIN	*	*	*	*
+23	mir	ich	PPER	*	*	*	*
+24	einen	eine	ART	*	*	*	*
+25	schönen	schön	ADJA	*	*	*	*
+26	Nachmittag	Nachmittag	NN	*	*	*	*
+27	machen	machen	VVINF	*	*	*	*
+28	"	"	$(	*	*	*	*
+29	-	-	$(	*	*	*	*
+30	doch	doch	ADV	*	*	*	*
+31	auf	auf	APPR	*	*	*	*
+32	einmal	einmal	ADV	*	*	*	*
+33	lag	liegen	VVFIN	*	*	*	*
+34	Barnsleys	<unknown>	NE	*	*	*	*
+35	erster	erst	ADJA	*	*	*	*
+36	Torwart	Torwart	NN	*	*	*	*
+37	verletzt	verletzen	VVFIN	*	*	*	*
+38	am	an	APPRART	*	*	*	*
+39	Boden	Boden	NN	*	*	*	*
+40	.	.	$.	*	*	*	*
+
+# article_id = T950227.121
+# text = Doch der saß des taktischen Kalküls wegen auf der Ersatzbank und mußte zusehen : etwa wie Pavel Hapal , der des taktischen Kalküls wegen mitmachen durfte , das freie Tor ( 3. ) oder schlicht den Ball ( 9. ) nicht traf , über die eigenen Beine stolperte und überhaupt eine mitleiderregende Figur abgab .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Doch	doch	KON	*	*	*	*
+2	der	die	PDS	*	*	*	*
+3	saß	sitzen	VVFIN	*	*	*	*
+4	des	die	ART	*	*	*	*
+5	taktischen	taktisch	ADJA	*	*	*	*
+6	Kalküls	Kalkül	NN	*	*	*	*
+7	wegen	wegen	APPR	*	*	*	*
+8	auf	auf	APPR	1	1	1	1
+9	der	die	ART	*	*	*	*
+10	Ersatzbank	Ersatzbank	NN	1	1	1	1
+11	und	und	KON	*	*	*	*
+12	mußte	müssen	VMFIN	*	*	*	*
+13	zusehen	zusehen	VVINF	*	*	*	*
+14	:	:	$.	*	*	*	*
+15	etwa	etwa	ADV	*	*	*	*
+16	wie	wie	KOUS	*	*	*	*
+17	Pavel	Pavel	NE	*	*	*	*
+18	Hapal	<unknown>	NE	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	der	die	PRELS	*	*	*	*
+21	des	die	ART	*	*	*	*
+22	taktischen	taktisch	ADJA	*	*	*	*
+23	Kalküls	Kalkül	NN	*	*	*	*
+24	wegen	wegen	APPO	*	*	*	*
+25	mitmachen	mitmachen	VVINF	1	1	1	1
+26	durfte	dürfen	VMFIN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	das	die	ART	*	*	*	*
+29	freie	frei	ADJA	*	*	*	*
+30	Tor	Tor	NN	*	*	*	*
+31	(	(	$(	*	*	*	*
+32	3	@card@	CARD	*	*	*	*
+33	.	.	$.	*	*	*	*
+34	)	)	$(	*	*	*	*
+35	oder	oder	KON	*	*	*	*
+36	schlicht	schlicht	ADJD	*	*	*	*
+37	den	die	ART	*	*	*	*
+38	Ball	Ball	NN	*	*	*	*
+39	(	(	$(	*	*	*	*
+40	9	@card@	CARD	*	*	*	*
+41	.	.	$.	*	*	*	*
+42	)	)	$(	*	*	*	*
+43	nicht	nicht	PTKNEG	*	*	*	*
+44	traf	treffen	VVFIN	*	*	*	*
+45	,	,	$,	*	*	*	*
+46	über	über	APPR	*	*	*	*
+47	die	die	ART	*	*	*	*
+48	eigenen	eigen	ADJA	*	*	*	*
+49	Beine	Bein	NN	*	*	*	*
+50	stolperte	stolpern	VVFIN	*	*	*	*
+51	und	und	KON	*	*	*	*
+52	überhaupt	überhaupt	ADV	*	*	*	*
+53	eine	eine	ART	*	*	*	*
+54	mitleiderregende	mitleiderregend	ADJA	*	*	*	*
+55	Figur	Figur	NN	*	*	*	*
+56	abgab	abgeben	VVFIN	*	*	*	*
+57	.	.	$.	*	*	*	*
+
+# article_id = T950814.223
+# text = Gegen Düsseldorf saßen mit Beiersdorfer , Borowka , Neubarth , Schulz und Votava fünf Ex-Nationalspieler und Rehagel-Stars auf der Ersatzbank oder der Tribüne .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Gegen	gegen	APPR	*	*	*	*
+2	Düsseldorf	Düsseldorf	NE	*	*	*	*
+3	saßen	sitzen	VVFIN	1	1	1	1
+4	mit	mit	APPR	*	*	*	*
+5	Beiersdorfer	<unknown>	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Borowka	<unknown>	NE	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Neubarth	Neubarth	NE	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	Schulz	Schulz	NE	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Votava	<unknown>	NE	*	*	*	*
+14	fünf	fünf	CARD	*	*	*	*
+15	Ex-Nationalspieler	Ex-Nationalspieler	NN	*	*	*	*
+16	und	und	KON	*	*	*	*
+17	Rehagel-Stars	<unknown>	NN	*	*	*	*
+18	auf	auf	APPR	1	1	1	1
+19	der	die	ART	*	*	*	*
+20	Ersatzbank	Ersatzbank	NN	1	1	1	1
+21	oder	oder	KON	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Tribüne	Tribüne	NN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T980124.40
+# text = Die Bremer sitzen auf jeden Fall erstmal auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Bremer	Bremer	NN	*	*	*	*
+3	sitzen	sitzen	VVFIN	2	2	2	2
+4	auf	auf	APPR	*	*	*	*
+5	jeden	jede	PIAT	*	*	*	*
+6	Fall	Fall	NN	*	*	*	*
+7	erstmal	erstmal	ADV	*	*	*	*
+8	auf	auf	APPR	2	2	2	2
+9	der	die	ART	*	*	*	*
+10	Ersatzbank	Ersatzbank	NN	2	2	2	2
+11	.	.	$.	*	*	*	*
+
+# article_id = T980807.111
+# text = Nach fünf Trainingseinheiten in Tel Aviv können sie jetzt zwar leidlich dribbeln , sitzen aber die meiste Zeit auf der Ersatzbank .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nach	nach	APPR	*	*	*	*
+2	fünf	fünf	CARD	*	*	*	*
+3	Trainingseinheiten	Trainingseinheit	NN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Tel	Tel	NE	*	*	*	*
+6	Aviv	Aviv	NE	*	*	*	*
+7	können	können	VMFIN	*	*	*	*
+8	sie	sie	PPER	*	*	*	*
+9	jetzt	jetzt	ADV	*	*	*	*
+10	zwar	zwar	ADV	*	*	*	*
+11	leidlich	leidlich	ADJD	*	*	*	*
+12	dribbeln	dribbeln	VVINF	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	sitzen	sitzen	VVFIN	1	1	1	1
+15	aber	aber	ADV	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	meiste	meist	PIAT	*	*	*	*
+18	Zeit	Zeit	NN	*	*	*	*
+19	auf	auf	APPR	1	1	1	1
+20	der	die	ART	*	*	*	*
+21	Ersatzbank	Ersatzbank	NN	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T980807.277
+# text = Der Pröpper-Nachfolger sitzt auch am Sonntag wieder auf der Ersatzbank .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Der	die	ART	*	*	*	*
+2	Pröpper-Nachfolger	<unknown>	NN	*	*	*	*
+3	sitzt	sitzen	VVFIN	1	1	1	1
+4	auch	auch	ADV	*	*	*	*
+5	am	an	APPRART	*	*	*	*
+6	Sonntag	Sonntag	NN	*	*	*	*
+7	wieder	wieder	ADV	*	*	*	*
+8	auf	auf	APPR	1	1	1	1
+9	der	die	ART	*	*	*	*
+10	Ersatzbank	Ersatzbank	NN	1	1	1	1
+11	.	.	$.	*	*	*	*
+
+# article_id = T980605.163
+# text = Ich saß auf der Ersatzbank , als wir 1966 in Hannover 0:2 verloren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ich	ich	PPER	*	*	*	*
+2	saß	sitzen	VVFIN	1	1	1	1
+3	auf	auf	APPR	1	1	1	1
+4	der	die	ART	*	*	*	*
+5	Ersatzbank	Ersatzbank	NN	1	1	1	1
+6	,	,	$,	*	*	*	*
+7	als	als	KOUS	*	*	*	*
+8	wir	wir	PPER	*	*	*	*
+9	1966	@card@	CARD	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	Hannover	Hannover	NE	*	*	*	*
+12	0:2	@card@	CARD	*	*	*	*
+13	verloren	verlieren	VVPP	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T980626.131
+# text = Da werden Spieler aufgestellt , die in ihrem Club nur auf der Ersatzbank sitzen , große Stars bleiben zu Hause .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	werden	werden	VAFIN	*	*	*	*
+3	Spieler	Spieler	NN	*	*	*	*
+4	aufgestellt	aufstellen	VVPP	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	die	die	PRELS	*	*	*	*
+7	in	in	APPR	*	*	*	*
+8	ihrem	ihr	PPOSAT	*	*	*	*
+9	Club	Club	NN	*	*	*	*
+10	nur	nur	ADV	*	*	*	*
+11	auf	auf	APPR	1	1	1	1
+12	der	die	ART	*	*	*	*
+13	Ersatzbank	Ersatzbank	NN	1	1	1	1
+14	sitzen	sitzen	VVFIN	1	1	1	1
+15	,	,	$,	*	*	*	*
+16	große	groß	ADJA	*	*	*	*
+17	Stars	Star	NN	*	*	*	*
+18	bleiben	bleiben	VVFIN	*	*	*	*
+19	zu	zu	APPR	*	*	*	*
+20	Hause	Haus	NN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T980613.146
+# text = Der nach blamablen Testspiel-Niederlagen von einigen Spielern scharf kritisierte Serbe gewann die Machtprobe mit den " Revoluzzern " und zog erste Konsequenzen : Der frühere Frankfurter Bundesligaspieler Jay-Jay Okocha sitzt gegen Spanien auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	nach	nach	APPR	*	*	*	*
+3	blamablen	blamabel	ADJA	*	*	*	*
+4	Testspiel-Niederlagen	<unknown>	NN	*	*	*	*
+5	von	von	APPR	*	*	*	*
+6	einigen	einige	PIAT	*	*	*	*
+7	Spielern	Spieler	NN	*	*	*	*
+8	scharf	scharf	ADJD	*	*	*	*
+9	kritisierte	kritisiert	ADJA	*	*	*	*
+10	Serbe	Serbe	NN	*	*	*	*
+11	gewann	gewinnen	VVFIN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Machtprobe	Machtprobe	NN	*	*	*	*
+14	mit	mit	APPR	*	*	*	*
+15	den	die	ART	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Revoluzzern	Revoluzzer	NN	*	*	*	*
+18	"	"	$(	*	*	*	*
+19	und	und	KON	*	*	*	*
+20	zog	ziehen	VVFIN	*	*	*	*
+21	erste	erst	ADJA	*	*	*	*
+22	Konsequenzen	Konsequenz	NN	*	*	*	*
+23	:	:	$.	*	*	*	*
+24	Der	die	ART	*	*	*	*
+25	frühere	früh	ADJA	*	*	*	*
+26	Frankfurter	Frankfurter	ADJA	*	*	*	*
+27	Bundesligaspieler	Bundesligaspieler	NN	*	*	*	*
+28	Jay-Jay	<unknown>	NE	*	*	*	*
+29	Okocha	<unknown>	NE	*	*	*	*
+30	sitzt	sitzen	VVFIN	1	1	1	1
+31	gegen	gegen	APPR	*	*	*	*
+32	Spanien	Spanien	NE	*	*	*	*
+33	auf	auf	APPR	1	1	1	1
+34	der	die	ART	*	*	*	*
+35	Ersatzbank	Ersatzbank	NN	1	1	1	1
+36	.	.	$.	*	*	*	*
+
+# article_id = T980428.56
+# text = Bei den Bayern sitzen die dann die ganze Saison nur auf der Ersatzbank .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Bei	bei	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Bayern	Bayer	NN	*	*	*	*
+4	sitzen	sitzen	VVFIN	1	1	1	1
+5	die	die	PDS	*	*	*	*
+6	dann	dann	ADV	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	ganze	ganz	ADJA	*	*	*	*
+9	Saison	Saison	NN	*	*	*	*
+10	nur	nur	ADV	*	*	*	*
+11	auf	auf	APPR	1	1	1	1
+12	der	die	ART	*	*	*	*
+13	Ersatzbank	Ersatzbank	NN	1	1	1	1
+14	.	.	$.	*	*	*	*
+

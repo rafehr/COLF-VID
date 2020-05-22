@@ -1,0 +1,3237 @@
+# article_id = T890513.148
+# text = Sechs Wochen ist es her , daß die " Wilde Wutz " , so der Name der Besetzer , ihre Zelte auf dem Gelände am Spreebogen aufschlugen , um einen Abriß der halb verfallenen Häuser zu verhindern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sechs	sechs	CARD	*	*	*	*
+2	Wochen	Woche	NN	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	es	es	PPER	*	*	*	*
+5	her	her	PTKVZ	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	daß	dass	KOUS	*	*	*	*
+8	die	die	ART	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	Wilde	Wilde	NE	*	*	*	*
+11	Wutz	<unknown>	NE	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	so	so	ADV	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Name	Name	NN	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Besetzer	Besetzer	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	ihre	ihr	PPOSAT	*	*	*	*
+21	Zelte	Zelt	NN	1	1	1	1
+22	auf	auf	APPR	*	*	*	*
+23	dem	die	ART	*	*	*	*
+24	Gelände	Gelände	NN	*	*	*	*
+25	am	an	APPRART	*	*	*	*
+26	Spreebogen	Spreebogen	NN	*	*	*	*
+27	aufschlugen	aufschlagen	VVFIN	1	1	1	1
+28	,	,	$,	*	*	*	*
+29	um	um	KOUI	*	*	*	*
+30	einen	eine	ART	*	*	*	*
+31	Abriß	Abriss	NN	*	*	*	*
+32	der	die	ART	*	*	*	*
+33	halb	halb	ADJD	*	*	*	*
+34	verfallenen	verfallen	ADJA	*	*	*	*
+35	Häuser	Haus	NN	*	*	*	*
+36	zu	zu	PTKZU	*	*	*	*
+37	verhindern	verhindern	VVINF	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T890529.23
+# text = Zwischen dem Meer aus roten Fahnen , die symbolisch den Platz weiterbesetzen , haben die verbliebenen Studenten Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zwischen	zwischen	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	Meer	Meer	NN	*	*	*	*
+4	aus	aus	APPR	*	*	*	*
+5	roten	rot	ADJA	*	*	*	*
+6	Fahnen	Fahne	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	symbolisch	symbolisch	ADJD	*	*	*	*
+10	den	die	ART	*	*	*	*
+11	Platz	Platz	NN	*	*	*	*
+12	weiterbesetzen	<unknown>	VVFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	haben	haben	VAFIN	*	*	*	*
+15	die	die	ART	*	*	*	*
+16	verbliebenen	verblieben	ADJA	*	*	*	*
+17	Studenten	Student	NN	*	*	*	*
+18	Zelte	Zelt	NN	1	1	1	1
+19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T890531.105
+# text = Auf dem Tiananmen wurden gestern zusätzliche Zelte aufgeschlagen und mit Lastwagen Vorräte herbeigeschafft .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	auf	APPR	*	*	*	*
+2	dem	die	ART	*	*	*	*
+3	Tiananmen	<unknown>	NN	*	*	*	*
+4	wurden	werden	VAFIN	*	*	*	*
+5	gestern	gestern	ADV	*	*	*	*
+6	zusätzliche	zusätzlich	ADJA	*	*	*	*
+7	Zelte	Zelt	NN	1	1	1	1
+8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+9	und	und	KON	*	*	*	*
+10	mit	mit	APPR	*	*	*	*
+11	Lastwagen	Lastwagen	NN	*	*	*	*
+12	Vorräte	Vorrat	NN	*	*	*	*
+13	herbeigeschafft	herbeischaffen	VVPP	*	*	*	*
+14	.	.	$.	*	*	*	*
+
+# article_id = T890523.196
+# text = Die BesetzerInnen der Oranienstraße 192 , die - nachdem die Polizei sie am Samstag früh geräumt hatte - ihre Zelte auf dem Mariannenplatz aufgeschlagen haben , sind sich sicher : " Wir werden hier sowieso geräumt " , prophezeit einer der rund 35 BesetzerInnen düster und beklagt das Desinteresse des Bezirksamtes an ihrer Situation .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	BesetzerInnen	Besetzerin	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Oranienstraße	<unknown>	NN	*	*	*	*
+5	192	@card@	CARD	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	-	-	$(	*	*	*	*
+9	nachdem	nachdem	KOUS	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Polizei	Polizei	NN	*	*	*	*
+12	sie	sie	PPER	*	*	*	*
+13	am	an	APPRART	*	*	*	*
+14	Samstag	Samstag	NN	*	*	*	*
+15	früh	früh	ADJD	*	*	*	*
+16	geräumt	räumen	VVPP	*	*	*	*
+17	hatte	haben	VAFIN	*	*	*	*
+18	-	-	$(	*	*	*	*
+19	ihre	ihr	PPOSAT	*	*	*	*
+20	Zelte	Zelt	NN	1	1	1	1
+21	auf	auf	APPR	*	*	*	*
+22	dem	die	ART	*	*	*	*
+23	Mariannenplatz	Mariannenplatz	NN	*	*	*	*
+24	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+25	haben	haben	VAFIN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	sind	sein	VAFIN	*	*	*	*
+28	sich	sich	PRF	*	*	*	*
+29	sicher	sicher	ADJD	*	*	*	*
+30	:	:	$.	*	*	*	*
+31	"	"	$(	*	*	*	*
+32	Wir	wir	PPER	*	*	*	*
+33	werden	werden	VAFIN	*	*	*	*
+34	hier	hier	ADV	*	*	*	*
+35	sowieso	sowieso	ADV	*	*	*	*
+36	geräumt	räumen	VVPP	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	,	,	$,	*	*	*	*
+39	prophezeit	prophezeien	VVFIN	*	*	*	*
+40	einer	eine	PIS	*	*	*	*
+41	der	die	ART	*	*	*	*
+42	rund	rund	ADV	*	*	*	*
+43	35	@card@	CARD	*	*	*	*
+44	BesetzerInnen	Besetzerin	NN	*	*	*	*
+45	düster	düst	ADJD	*	*	*	*
+46	und	und	KON	*	*	*	*
+47	beklagt	beklagen	VVFIN	*	*	*	*
+48	das	die	ART	*	*	*	*
+49	Desinteresse	Desinteresse	NN	*	*	*	*
+50	des	die	ART	*	*	*	*
+51	Bezirksamtes	Bezirksamt	NN	*	*	*	*
+52	an	an	APPR	*	*	*	*
+53	ihrer	ihr	PPOSAT	*	*	*	*
+54	Situation	Situation	NN	*	*	*	*
+55	.	.	$.	*	*	*	*
+
+# article_id = T891007.202
+# text = Elf Personen haben bereits vor drei Monaten dort wegen Obdachlosigkeit ihre Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Elf	elf	CARD	*	*	*	*
+2	Personen	Person	NN	*	*	*	*
+3	haben	haben	VAFIN	*	*	*	*
+4	bereits	bereits	ADV	*	*	*	*
+5	vor	vor	APPR	*	*	*	*
+6	drei	drei	CARD	*	*	*	*
+7	Monaten	Monat	NN	*	*	*	*
+8	dort	dort	ADV	*	*	*	*
+9	wegen	wegen	APPR	*	*	*	*
+10	Obdachlosigkeit	Obdachlosigkeit	NN	*	*	*	*
+11	ihre	ihr	PPOSAT	*	*	*	*
+12	Zelte	Zelt	NN	1	1	1	1
+13	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+14	.	.	$.	*	*	*	*
+
+# article_id = T890912.52
+# text = Nicht zuletzt ist da noch die Frage , wo denn der Zirkus Karajani 1991 seine Zelte aufschlagen soll , wenn der Scharounbau wegen Asbests geschlossen wird .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	zuletzt	zuletzt	ADV	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	da	da	ADV	*	*	*	*
+5	noch	noch	ADV	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Frage	Frage	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	wo	wo	PWAV	*	*	*	*
+10	denn	denn	ADV	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Zirkus	Zirkus	NN	*	*	*	*
+13	Karajani	<unknown>	NE	*	*	*	*
+14	1991	@card@	CARD	*	*	*	*
+15	seine	sein	PPOSAT	*	*	*	*
+16	Zelte	Zelt	NN	2	1	1	1
+17	aufschlagen	aufschlagen	VVINF	2	1	1	1
+18	soll	sollen	VMFIN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	wenn	wenn	KOUS	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Scharounbau	<unknown>	NN	*	*	*	*
+23	wegen	wegen	APPR	*	*	*	*
+24	Asbests	Asbest	NN	*	*	*	*
+25	geschlossen	schließen	VVPP	*	*	*	*
+26	wird	werden	VAFIN	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T890116.209
+# text = Direkt hinter dem Garten des örtlichen Heizungsunternehmens Jürgens haben Bundeswehr-Soldaten zwei Zelte in den morastigen Wiesen aufgeschlagen , einen Steinwurf entfernt kampieren britische Wachmannschaften .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Direkt	direkt	ADJD	*	*	*	*
+2	hinter	hinter	APPR	*	*	*	*
+3	dem	die	ART	*	*	*	*
+4	Garten	Garten	NN	*	*	*	*
+5	des	die	ART	*	*	*	*
+6	örtlichen	örtlich	ADJA	*	*	*	*
+7	Heizungsunternehmens	<unknown>	NN	*	*	*	*
+8	Jürgens	Jürgen	NE	*	*	*	*
+9	haben	haben	VAFIN	*	*	*	*
+10	Bundeswehr-Soldaten	Bundeswehr-Soldat	NN	*	*	*	*
+11	zwei	zwei	CARD	*	*	*	*
+12	Zelte	Zelt	NN	1	1	1	1
+13	in	in	APPR	*	*	*	*
+14	den	die	ART	*	*	*	*
+15	morastigen	morastig	ADJA	*	*	*	*
+16	Wiesen	Wiese	NN	*	*	*	*
+17	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+18	,	,	$,	*	*	*	*
+19	einen	eine	ART	*	*	*	*
+20	Steinwurf	Steinwurf	NN	*	*	*	*
+21	entfernt	entfernt	ADJD	*	*	*	*
+22	kampieren	kampieren	VVFIN	*	*	*	*
+23	britische	britisch	ADJA	*	*	*	*
+24	Wachmannschaften	Wachmannschaft	NN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T890104.39
+# text = Am Ufer des Flusses , der entlang der Schotterpiste verläuft , sind einige Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	Ufer	Ufer	NN	*	*	*	*
+3	des	die	ART	*	*	*	*
+4	Flusses	Fluss	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	der	die	PRELS	*	*	*	*
+7	entlang	entlang	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Schotterpiste	Schotterpiste	NN	*	*	*	*
+10	verläuft	verlaufen	VVFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	sind	sein	VAFIN	*	*	*	*
+13	einige	einige	PIAT	*	*	*	*
+14	Zelte	Zelt	NN	1	1	1	1
+15	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+16	.	.	$.	*	*	*	*
+
+# article_id = T890717.61
+# text = Mit John Steinbecks The Pearl eröffnete das " Footsbarn Travelling Theatre " am Freitag abend die " Mir Karawane " , das internationale Festival freier Theatergruppen , das bis zum 30. Juli seine Zelte in West-Berlin zwischen Siegessäule und Brandenburger Tor aufgeschlagen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	John	John	NE	*	*	*	*
+3	Steinbecks	Steinbeck	NE	*	*	*	*
+4	The	The	FM	*	*	*	*
+5	Pearl	<unknown>	NE	*	*	*	*
+6	eröffnete	eröffnen	VVFIN	*	*	*	*
+7	das	die	ART	*	*	*	*
+8	"	"	$(	*	*	*	*
+9	Footsbarn	<unknown>	NN	*	*	*	*
+10	Travelling	<unknown>	NN	*	*	*	*
+11	Theatre	<unknown>	NN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	am	an	APPRART	*	*	*	*
+14	Freitag	Freitag	NN	*	*	*	*
+15	abend	abend	ADV	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	Mir	<unknown>	ADJA	*	*	*	*
+19	Karawane	Karawane	NN	*	*	*	*
+20	"	"	$(	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	internationale	international	ADJA	*	*	*	*
+24	Festival	Festival	NN	*	*	*	*
+25	freier	frei	ADJA	*	*	*	*
+26	Theatergruppen	Theatergruppe	NN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	das	die	PRELS	*	*	*	*
+29	bis	bis	APPR	*	*	*	*
+30	zum	zu	APPRART	*	*	*	*
+31	30	@card@	CARD	*	*	*	*
+32	.	.	$.	*	*	*	*
+33	Juli	Juli	NN	*	*	*	*
+34	seine	sein	PPOSAT	*	*	*	*
+35	Zelte	Zelt	NN	4	2	2	2
+36	in	in	APPR	*	*	*	*
+37	West-Berlin	West-Berlin	NE	*	*	*	*
+38	zwischen	zwischen	APPR	*	*	*	*
+39	Siegessäule	Siegessäule	NN	*	*	*	*
+40	und	und	KON	*	*	*	*
+41	Brandenburger	Brandenburger	NN	*	*	*	*
+42	Tor	Tor	NN	*	*	*	*
+43	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+44	hat	haben	VAFIN	*	*	*	*
+45	.	.	$.	*	*	*	*
+
+# article_id = T890729.93
+# text = Hunderte von Bergleuten sind Anfang Juli während der bundesweiten Ferienwochen der Bergarbeiter hergekommen und haben ihre Zelte und Wohnmobile im " Camp Solidarity " aufgeschlagen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Hunderte	Hundert	NN	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	Bergleuten	Bergleute	NN	*	*	*	*
+4	sind	sein	VAFIN	*	*	*	*
+5	Anfang	Anfang	NN	*	*	*	*
+6	Juli	Juli	NN	*	*	*	*
+7	während	während	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	bundesweiten	bundesweit	ADJA	*	*	*	*
+10	Ferienwochen	Ferienwoche	NN	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Bergarbeiter	Bergarbeiter	NN	*	*	*	*
+13	hergekommen	herkommen	VVPP	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	haben	haben	VAFIN	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Zelte	Zelt	NN	1	1	1	1
+18	und	und	KON	*	*	*	*
+19	Wohnmobile	Wohnmobile	NN	*	*	*	*
+20	im	in	APPRART	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	Camp	Camp	NN	*	*	*	*
+23	Solidarity	<unknown>	NN	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+26	.	.	$.	*	*	*	*
+
+# article_id = T890831.225
+# text = In ihrer Verzweifelung planen sie stattdessen jetzt , auf dem Marktplatz demonstrativ ihr Zelt aufzuschlagen , um auf ihre Notlage aufmerksam zu machen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hunderte	Hundert	NN	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	Bergleuten	Bergleute	NN	*	*	*	*
+4	sind	sein	VAFIN	*	*	*	*
+5	Anfang	Anfang	NN	*	*	*	*
+6	Juli	Juli	NN	*	*	*	*
+7	während	während	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	bundesweiten	bundesweit	ADJA	*	*	*	*
+10	Ferienwochen	Ferienwoche	NN	*	*	*	*
+11	der	die	ART	*	*	*	*
+12	Bergarbeiter	Bergarbeiter	NN	*	*	*	*
+13	hergekommen	herkommen	VVPP	*	*	*	*
+14	und	und	KON	*	*	*	*
+15	haben	haben	VAFIN	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Zelte	Zelt	NN	1	1	1	1
+18	und	und	KON	*	*	*	*
+19	Wohnmobile	Wohnmobile	NN	*	*	*	*
+20	im	in	APPRART	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	Camp	Camp	NN	*	*	*	*
+23	Solidarity	<unknown>	NN	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+26	.	.	$.	*	*	*	*
+
+# article_id = T890201.82
+# text = Entlang der Straße zum Flughafen waren Tausende von Zelten aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Entlang	entlang	APPR	*	*	*	*
+2	der	die	ART	*	*	*	*
+3	Straße	Straße	NN	*	*	*	*
+4	zum	zu	APPRART	*	*	*	*
+5	Flughafen	Flughafen	NN	*	*	*	*
+6	waren	sein	VAFIN	*	*	*	*
+7	Tausende	Tausend	NN	*	*	*	*
+8	von	von	APPR	*	*	*	*
+9	Zelten	Zelt|Zelten	NN	1	1	1	1
+10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+11	.	.	$.	*	*	*	*
+
+# article_id = T910524.209
+# text = Ein Brückenschlag ist bestimmt schon geglückt : Einige Stücke kennt man noch von Parody Paradise , der Wanderbühne , die letztes Jahr am Blücherplatz ihr Zelt aufgeschlagen hatte .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Ein	eine	ART	*	*	*	*
+2	Brückenschlag	Brückenschlag	NN	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	bestimmt	bestimmt	ADV	*	*	*	*
+5	schon	schon	ADV	*	*	*	*
+6	geglückt	glücken	VVPP	*	*	*	*
+7	:	:	$.	*	*	*	*
+8	Einige	einige	PIAT	*	*	*	*
+9	Stücke	Stück	NN	*	*	*	*
+10	kennt	kennen	VVFIN	*	*	*	*
+11	man	man	PIS	*	*	*	*
+12	noch	noch	ADV	*	*	*	*
+13	von	von	APPR	*	*	*	*
+14	Parody	<unknown>	NE	*	*	*	*
+15	Paradise	<unknown>	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Wanderbühne	Wanderbühne	NN	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	letztes	letzt	ADJA	*	*	*	*
+22	Jahr	Jahr	NN	*	*	*	*
+23	am	an	APPRART	*	*	*	*
+24	Blücherplatz	<unknown>	NN	*	*	*	*
+25	ihr	ihr	PPOSAT	*	*	*	*
+26	Zelt	Zelt	NN	2	2	2	2
+27	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+28	hatte	haben	VAFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T910502.60
+# text = In den grünen Wiesen haben die ersten Rückkehrer vor Tagen bereits ihr Zelte aufgeschlagen : " Wir warten auf die Erlaubnis der Alliierten , zurückzukehren " , erklärt eine Gruppe von Flüchtlingen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	grünen	grün	ADJA	*	*	*	*
+4	Wiesen	Wiese	NN	*	*	*	*
+5	haben	haben	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	ersten	erst	ADJA	*	*	*	*
+8	Rückkehrer	Rückkehrer	NE	*	*	*	*
+9	vor	vor	APPR	*	*	*	*
+10	Tagen	Tag	NN	*	*	*	*
+11	bereits	bereits	ADV	*	*	*	*
+12	ihr	ihr	PPOSAT	*	*	*	*
+13	Zelte	Zelt	NN	2	1	1	1
+14	aufgeschlagen	aufschlagen	VVPP	2	1	1	1
+15	:	:	$.	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Wir	wir	PPER	*	*	*	*
+18	warten	warten	VVFIN	*	*	*	*
+19	auf	auf	APPR	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Erlaubnis	Erlaubnis	NN	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Alliierten	alliiert	ADJA	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	zurückzukehren	zurückkehren	VVIZU	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	erklärt	erklären	VVFIN	*	*	*	*
+29	eine	eine	ART	*	*	*	*
+30	Gruppe	Gruppe	NN	*	*	*	*
+31	von	von	APPR	*	*	*	*
+32	Flüchtlingen	Flüchtling	NN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T910611.30
+# text = Die US-amerikanischen Militärbehörden aber , die auf den Philippinen mehrere Stützpunkte unterhalten , sie kannten die Gefahr - was sie offenbar nicht daran hinderte , nur etwa 16 Kilometer vom feuerspeienden Riesen entfernt ihre Zelte aufzuschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	grünen	grün	ADJA	*	*	*	*
+4	Wiesen	Wiese	NN	*	*	*	*
+5	haben	haben	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	ersten	erst	ADJA	*	*	*	*
+8	Rückkehrer	Rückkehrer	NE	*	*	*	*
+9	vor	vor	APPR	*	*	*	*
+10	Tagen	Tag	NN	*	*	*	*
+11	bereits	bereits	ADV	*	*	*	*
+12	ihr	ihr	PPOSAT	*	*	*	*
+13	Zelte	Zelt	NN	2	2	1	2
+14	aufgeschlagen	aufschlagen	VVPP	2	2	1	2
+15	:	:	$.	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	Wir	wir	PPER	*	*	*	*
+18	warten	warten	VVFIN	*	*	*	*
+19	auf	auf	APPR	*	*	*	*
+20	die	die	ART	*	*	*	*
+21	Erlaubnis	Erlaubnis	NN	*	*	*	*
+22	der	die	ART	*	*	*	*
+23	Alliierten	alliiert	ADJA	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	zurückzukehren	zurückkehren	VVIZU	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	erklärt	erklären	VVFIN	*	*	*	*
+29	eine	eine	ART	*	*	*	*
+30	Gruppe	Gruppe	NN	*	*	*	*
+31	von	von	APPR	*	*	*	*
+32	Flüchtlingen	Flüchtling	NN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T910618.20
+# text = Für die nächtliche Wache am Lager hatten zahlreiche Besetzer Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Für	für	APPR	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	nächtliche	nächtlich	ADJA	*	*	*	*
+4	Wache	Wache	NN	*	*	*	*
+5	am	an	APPRART	*	*	*	*
+6	Lager	Lager	NN	*	*	*	*
+7	hatten	haben	VAFIN	*	*	*	*
+8	zahlreiche	zahlreich	ADJA	*	*	*	*
+9	Besetzer	Besetzer	NN	*	*	*	*
+10	Zelte	Zelt	NN	1	1	1	1
+11	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+12	.	.	$.	*	*	*	*
+
+# article_id = T910618.172
+# text = Das Tempodrom , das genau in der heißen Zone zwischen Kongreßhalle und Reichstag seine Zelte aufgeschlagen hat , wurde laut Mabel erst am Freitag von den geplanten Maßnahmen informiert .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	Tempodrom	<unknown>	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	das	die	PRELS	*	*	*	*
+5	genau	genau	ADJD	*	*	*	*
+6	in	in	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	heißen	heiß	ADJA	*	*	*	*
+9	Zone	Zone	NN	*	*	*	*
+10	zwischen	zwischen	APPR	*	*	*	*
+11	Kongreßhalle	Kongresshalle	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	Reichstag	Reichstag	NN	*	*	*	*
+14	seine	sein	PPOSAT	*	*	*	*
+15	Zelte	Zelt	NN	2	2	2	2
+16	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+17	hat	haben	VAFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	wurde	werden	VAFIN	*	*	*	*
+20	laut	laut	APPR	*	*	*	*
+21	Mabel	Mabel	NE	*	*	*	*
+22	erst	erst	ADV	*	*	*	*
+23	am	an	APPRART	*	*	*	*
+24	Freitag	Freitag	NN	*	*	*	*
+25	von	von	APPR	*	*	*	*
+26	den	die	ART	*	*	*	*
+27	geplanten	geplant	ADJA	*	*	*	*
+28	Maßnahmen	Maßnahme	NN	*	*	*	*
+29	informiert	informieren	VVPP	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T911009.173
+# text = Kaum hatte er aber die Zelte aufgeschlagen , da steuerten auch schon alle Beteiligten auf einen Dauerclinch zu .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Kaum	kaum	ADV	*	*	*	*
+2	hatte	haben	VAFIN	*	*	*	*
+3	er	er	PPER	*	*	*	*
+4	aber	aber	ADV	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	Zelte	Zelt	NN	1	2	2	2
+7	aufgeschlagen	aufschlagen	VVPP	1	2	2	2
+8	,	,	$,	*	*	*	*
+9	da	da	ADV	*	*	*	*
+10	steuerten	steuern	VVFIN	*	*	*	*
+11	auch	auch	ADV	*	*	*	*
+12	schon	schon	ADV	*	*	*	*
+13	alle	alle	PIAT	*	*	*	*
+14	Beteiligten	Beteiligte	NN	*	*	*	*
+15	auf	auf	APPR	*	*	*	*
+16	einen	eine	ART	*	*	*	*
+17	Dauerclinch	Dauerclinch	NN	*	*	*	*
+18	zu	zu	PTKVZ	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T910129.173
+# text = In einem Brief » an die Gruppe , die zur Zeit ihr Zelt am neuen Turm der Kaiser-Wilhem-Gedächtniskirche aufgeschlagen hat « , so die Adressierung von Pfarrer Soppa , der auch Vorsitzender des Gemeindekirchenrates ist , werden die durchgefrorenen Demonstranten aufgefordert , » unser Kirchengelände zu verlassen « .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	einem	eine	ART	*	*	*	*
+3	Brief	Brief	NN	*	*	*	*
+4	»	<unknown>	ADJD	*	*	*	*
+5	an	an	APPR	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Gruppe	Gruppe	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	zur	zu	APPRART	*	*	*	*
+11	Zeit	Zeit	NN	*	*	*	*
+12	ihr	ihr	PPOSAT	*	*	*	*
+13	Zelt	Zelt	NN	1	2	1	1
+14	am	an	APPRART	*	*	*	*
+15	neuen	neu	ADJA	*	*	*	*
+16	Turm	Turm	NN	*	*	*	*
+17	der	die	ART	*	*	*	*
+18	Kaiser-Wilhem-Gedächtniskirche	<unknown>	NN	*	*	*	*
+19	aufgeschlagen	aufschlagen	VVPP	1	2	1	1
+20	hat	haben	VAFIN	*	*	*	*
+21	«	<unknown>	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	so	so	ADV	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Adressierung	<unknown>	NN	*	*	*	*
+26	von	von	APPR	*	*	*	*
+27	Pfarrer	Pfarrer	NN	*	*	*	*
+28	Soppa	<unknown>	NE	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	der	die	PRELS	*	*	*	*
+31	auch	auch	ADV	*	*	*	*
+32	Vorsitzender	Vorsitzende	NN	*	*	*	*
+33	des	die	ART	*	*	*	*
+34	Gemeindekirchenrates	Gemeindekirchenrat	NN	*	*	*	*
+35	ist	sein	VAFIN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	werden	werden	VAFIN	*	*	*	*
+38	die	die	ART	*	*	*	*
+39	durchgefrorenen	durchgefroren	ADJA	*	*	*	*
+40	Demonstranten	Demonstrant	NN	*	*	*	*
+41	aufgefordert	auffordern	VVPP	*	*	*	*
+42	,	,	$,	*	*	*	*
+43	»	<unknown>	NN	*	*	*	*
+44	unser	unser	PPOSAT	*	*	*	*
+45	Kirchengelände	Kirchengelände	NN	*	*	*	*
+46	zu	zu	PTKZU	*	*	*	*
+47	verlassen	verlassen	VVINF	*	*	*	*
+48	«	<unknown>	VVFIN	*	*	*	*
+49	.	.	$.	*	*	*	*
+
+# article_id = T910712.206
+# text = Direkt hinter der Kongresshalle haben rund 70 Künstler aller Couleur ihre Zelte aufgeschlagen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Direkt	direkt	ADJD	*	*	*	*
+2	hinter	hinter	APPR	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Kongresshalle	Kongresshalle	NN	*	*	*	*
+5	haben	haben	VAFIN	*	*	*	*
+6	rund	rund	ADV	*	*	*	*
+7	70	@card@	CARD	*	*	*	*
+8	Künstler	Künstler	NN	*	*	*	*
+9	aller	alle	PIAT	*	*	*	*
+10	Couleur	<unknown>	NN	*	*	*	*
+11	ihre	ihr	PPOSAT	*	*	*	*
+12	Zelte	Zelt	NN	2	3	1	3
+13	aufgeschlagen	aufschlagen	VVPP	2	3	1	3
+14	.	.	$.	*	*	*	*
+
+# article_id = T911104.192
+# text = Genau daran scheitert ein kleiner Wanderzirkus , der seine Zelte in irgendeinem Dorf Vietnams aufgeschlagen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Genau	genau	ADJD	*	*	*	*
+2	daran	daran	PAV	*	*	*	*
+3	scheitert	scheitern	VVFIN	*	*	*	*
+4	ein	eine	ART	*	*	*	*
+5	kleiner	klein	ADJA	*	*	*	*
+6	Wanderzirkus	Wanderzirkus	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	der	die	PRELS	*	*	*	*
+9	seine	sein	PPOSAT	*	*	*	*
+10	Zelte	Zelt	NN	4	1	2	3
+11	in	in	APPR	*	*	*	*
+12	irgendeinem	irgendeine	PIAT	*	*	*	*
+13	Dorf	Dorf	NN	*	*	*	*
+14	Vietnams	Vietnam	NE	*	*	*	*
+15	aufgeschlagen	aufschlagen	VVPP	4	1	2	3
+16	hat	haben	VAFIN	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T900502.231
+# text = Ganze zwei ( in Zahlen : 2 ) Zelte wurden unter den unbestechlichen Augen von drei TV-Teams schließlich aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ganze	ganz	ADJA	*	*	*	*
+2	zwei	zwei	CARD	*	*	*	*
+3	(	(	$(	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Zahlen	Zahl	NN	*	*	*	*
+6	:	:	$.	*	*	*	*
+7	2	@card@	CARD	*	*	*	*
+8	)	)	$(	*	*	*	*
+9	Zelte	Zelt	NN	1	1	1	1
+10	wurden	werden	VAFIN	*	*	*	*
+11	unter	unter	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	unbestechlichen	unbestechlich	ADJA	*	*	*	*
+14	Augen	Auge	NN	*	*	*	*
+15	von	von	APPR	*	*	*	*
+16	drei	drei	CARD	*	*	*	*
+17	TV-Teams	TV-Team	NN	*	*	*	*
+18	schließlich	schließlich	ADV	*	*	*	*
+19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T900502.241
+# text = In Bremen waren die Roma dagegen sogar vom Marktplatz vertrieben worden , als sie versuchten , dort Zelte für die Nacht aufzuschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ganze	ganz	ADJA	*	*	*	*
+2	zwei	zwei	CARD	*	*	*	*
+3	(	(	$(	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Zahlen	Zahl	NN	*	*	*	*
+6	:	:	$.	*	*	*	*
+7	2	@card@	CARD	*	*	*	*
+8	)	)	$(	*	*	*	*
+9	Zelte	Zelt	NN	1	1	1	1
+10	wurden	werden	VAFIN	*	*	*	*
+11	unter	unter	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	unbestechlichen	unbestechlich	ADJA	*	*	*	*
+14	Augen	Auge	NN	*	*	*	*
+15	von	von	APPR	*	*	*	*
+16	drei	drei	CARD	*	*	*	*
+17	TV-Teams	TV-Team	NN	*	*	*	*
+18	schließlich	schließlich	ADV	*	*	*	*
+19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+20	.	.	$.	*	*	*	*
+
+# article_id = T900905.99
+# text = Mit einem Zirkuseingang aus angemalten Pappwänden , mit eifrig angekarrten Palmen und frisch aufgeschlagenen Zelten ( für die Fernsehteams ) .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mit	mit	APPR	*	*	*	*
+2	einem	eine	ART	*	*	*	*
+3	Zirkuseingang	Zirkuseingang	NN	*	*	*	*
+4	aus	aus	APPR	*	*	*	*
+5	angemalten	angemalt	ADJA	*	*	*	*
+6	Pappwänden	Pappwand	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	mit	mit	APPR	*	*	*	*
+9	eifrig	eifrig	ADJD	*	*	*	*
+10	angekarrten	angekarrt	ADJA	*	*	*	*
+11	Palmen	Palme	NN	*	*	*	*
+12	und	und	KON	*	*	*	*
+13	frisch	frisch	ADJD	*	*	*	*
+14	aufgeschlagenen	aufgeschlagen	ADJA	1	1	1	1
+15	Zelten	Zelt|Zelten	NN	1	1	1	1
+16	(	(	$(	*	*	*	*
+17	für	für	APPR	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	Fernsehteams	Fernsehteam	NN	*	*	*	*
+20	)	)	$(	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T900919.22
+# text = Dort hatten bereits vor Tagen junge Leute ihre Zelte aufgeschlagen und halten seither eine Mahnwache ab .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Dort	dort	ADV	*	*	*	*
+2	hatten	haben	VAFIN	*	*	*	*
+3	bereits	bereits	ADV	*	*	*	*
+4	vor	vor	APPR	*	*	*	*
+5	Tagen	Tag	NN	*	*	*	*
+6	junge	jung	ADJA	*	*	*	*
+7	Leute	Leute	NN	*	*	*	*
+8	ihre	ihr	PPOSAT	*	*	*	*
+9	Zelte	Zelt	NN	4	1	1	1
+10	aufgeschlagen	aufschlagen	VVPP	4	1	1	1
+11	und	und	KON	*	*	*	*
+12	halten	halten	VVFIN	*	*	*	*
+13	seither	seither	ADV	*	*	*	*
+14	eine	eine	ART	*	*	*	*
+15	Mahnwache	Mahnwache	NN	*	*	*	*
+16	ab	ab	PTKVZ	*	*	*	*
+17	.	.	$.	*	*	*	*
+
+# article_id = T900705.71
+# text = Rostock ( dpa ) - 98 Zöllner aus dem Bundesgebiet haben vorübergehend ihre Zelte jenseits der ehemaligen innerdeutschen Grenze aufgeschlagen , um ihre DDR-Kollegen bis zum 10. August in berufsinternen Fragen zu beraten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Rostock	Rostock	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	dpa	dpa	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	98	@card@	CARD	*	*	*	*
+7	Zöllner	Zöllner	NN	*	*	*	*
+8	aus	aus	APPR	*	*	*	*
+9	dem	die	ART	*	*	*	*
+10	Bundesgebiet	Bundesgebiet	NN	*	*	*	*
+11	haben	haben	VAFIN	*	*	*	*
+12	vorübergehend	vorübergehend	ADJD	*	*	*	*
+13	ihre	ihr	PPOSAT	*	*	*	*
+14	Zelte	Zelt	NN	1	1	2	1
+15	jenseits	jenseits	APPR	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	ehemaligen	ehemalig	ADJA	*	*	*	*
+18	innerdeutschen	innerdeutsch	ADJA	*	*	*	*
+19	Grenze	Grenze	NN	*	*	*	*
+20	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+21	,	,	$,	*	*	*	*
+22	um	um	KOUI	*	*	*	*
+23	ihre	ihr	PPOSAT	*	*	*	*
+24	DDR-Kollegen	DDR-Kollege	NN	*	*	*	*
+25	bis	bis	KON	*	*	*	*
+26	zum	zu	APPRART	*	*	*	*
+27	10	@card@	CARD	*	*	*	*
+28	.	.	$.	*	*	*	*
+29	August	August	NN	*	*	*	*
+30	in	in	APPR	*	*	*	*
+31	berufsinternen	berufsintern	ADJA	*	*	*	*
+32	Fragen	Frage	NN	*	*	*	*
+33	zu	zu	PTKZU	*	*	*	*
+34	beraten	beraten	VVINF	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T900822.92
+# text = Vor zwei Wochen verhinderte die " Bürgergemeinschaft Ahmsen " , daß die Stadt in Ahmsen , ein anderer Ortsteil von Salzufflen , Zelte für die Roma aufschlug , um " die Lage in Schötmar zu entzerren " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	zwei	zwei	CARD	*	*	*	*
+3	Wochen	Woche	NN	*	*	*	*
+4	verhinderte	verhindern	VVFIN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	Bürgergemeinschaft	Bürgergemeinschaft	NN	*	*	*	*
+8	Ahmsen	<unknown>	NE	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	daß	dass	KOUS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Stadt	Stadt	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Ahmsen	<unknown>	NE	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	ein	eine	ART	*	*	*	*
+18	anderer	andere	PIAT	*	*	*	*
+19	Ortsteil	Ortsteil	NN	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	Salzufflen	<unknown>	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	Zelte	Zelt	NN	1	1	2	1
+24	für	für	APPR	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Roma	Roma	NE	*	*	*	*
+27	aufschlug	aufschlagen	VVFIN	1	1	2	1
+28	,	,	$,	*	*	*	*
+29	um	um	KOUI	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	Lage	Lage	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	Schötmar	<unknown>	NE	*	*	*	*
+35	zu	zu	PTKZU	*	*	*	*
+36	entzerren	entzerren	VVINF	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T900822.92
+# text = Am 8. August entschied der Salzuffler Hauptausschuß : Der " Dringlichkeitsbeschluß " , in Ahmsen Zelte für die Roma aufzuschlagen , wird bekräftigt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Vor	vor	APPR	*	*	*	*
+2	zwei	zwei	CARD	*	*	*	*
+3	Wochen	Woche	NN	*	*	*	*
+4	verhinderte	verhindern	VVFIN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	Bürgergemeinschaft	Bürgergemeinschaft	NN	*	*	*	*
+8	Ahmsen	<unknown>	NE	*	*	*	*
+9	"	"	$(	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	daß	dass	KOUS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Stadt	Stadt	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	Ahmsen	<unknown>	NE	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	ein	eine	ART	*	*	*	*
+18	anderer	andere	PIAT	*	*	*	*
+19	Ortsteil	Ortsteil	NN	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	Salzufflen	<unknown>	NN	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	Zelte	Zelt	NN	1	1	2	1
+24	für	für	APPR	*	*	*	*
+25	die	die	ART	*	*	*	*
+26	Roma	Roma	NE	*	*	*	*
+27	aufschlug	aufschlagen	VVFIN	1	1	2	1
+28	,	,	$,	*	*	*	*
+29	um	um	KOUI	*	*	*	*
+30	"	"	$(	*	*	*	*
+31	die	die	ART	*	*	*	*
+32	Lage	Lage	NN	*	*	*	*
+33	in	in	APPR	*	*	*	*
+34	Schötmar	<unknown>	NE	*	*	*	*
+35	zu	zu	PTKZU	*	*	*	*
+36	entzerren	entzerren	VVINF	*	*	*	*
+37	"	"	$(	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T900801.251
+# text = " Wenn wir abgeschoben werden , dann sollen es alle sehen " Foto : Wolfram Steinberg Rund 30 der 150 in Bremerhaven von Abschiebung bedrohten Roma haben gestern ihre Zelte in Bremen aufgeschlagen - und zwar direkt im Vorgarten des Innensenators an der Contrescarpe .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Wenn	wenn	KOUS	*	*	*	*
+3	wir	wir	PPER	*	*	*	*
+4	abgeschoben	abschieben	VVPP	*	*	*	*
+5	werden	werden	VAINF	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	dann	dann	ADV	*	*	*	*
+8	sollen	sollen	VMFIN	*	*	*	*
+9	es	es	PPER	*	*	*	*
+10	alle	alle	PIAT	*	*	*	*
+11	sehen	sehen	VVINF	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	Foto	Foto	NN	*	*	*	*
+14	:	:	$.	*	*	*	*
+15	Wolfram	Wolfram	NE	*	*	*	*
+16	Steinberg	Steinberg	NE	*	*	*	*
+17	Rund	Rund	NN	*	*	*	*
+18	30	@card@	CARD	*	*	*	*
+19	der	die	ART	*	*	*	*
+20	150	@card@	CARD	*	*	*	*
+21	in	in	APPR	*	*	*	*
+22	Bremerhaven	Bremerhaven	NE	*	*	*	*
+23	von	von	APPR	*	*	*	*
+24	Abschiebung	Abschiebung	NN	*	*	*	*
+25	bedrohten	bedrohen	VVFIN	*	*	*	*
+26	Roma	Roma	NE	*	*	*	*
+27	haben	haben	VAFIN	*	*	*	*
+28	gestern	gestern	ADV	*	*	*	*
+29	ihre	ihr	PPOSAT	*	*	*	*
+30	Zelte	Zelt	NN	4	1	2	3
+31	in	in	APPR	*	*	*	*
+32	Bremen	Bremen	NE	*	*	*	*
+33	aufgeschlagen	aufschlagen	VVPP	4	1	2	3
+34	-	-	$(	*	*	*	*
+35	und	und	KON	*	*	*	*
+36	zwar	zwar	ADV	*	*	*	*
+37	direkt	direkt	ADJD	*	*	*	*
+38	im	in	APPRART	*	*	*	*
+39	Vorgarten	Vorgarten	NN	*	*	*	*
+40	des	die	ART	*	*	*	*
+41	Innensenators	Innensenator	NN	*	*	*	*
+42	an	an	APPR	*	*	*	*
+43	der	die	ART	*	*	*	*
+44	Contrescarpe	<unknown>	NN	*	*	*	*
+45	.	.	$.	*	*	*	*
+
+# article_id = T900317.134
+# text = Hanns Joachim Friedrichs lädt Politprominenz ins Restaurant Spreeblick , Günter Jauch veranstaltet eine Party im Berliner Ballsaal , Sat1 hat seine Zelte im Palasthotel aufgeschlagen , und RTL plus berichtet aus dem Theater im Palast der Republik .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hanns	Hanns	NE	*	*	*	*
+2	Joachim	Joachim	NE	*	*	*	*
+3	Friedrichs	Friedrichs	NE	*	*	*	*
+4	lädt	laden	VVFIN	*	*	*	*
+5	Politprominenz	<unknown>	NN	*	*	*	*
+6	ins	in	APPRART	*	*	*	*
+7	Restaurant	Restaurant	NN	*	*	*	*
+8	Spreeblick	Spreeblick	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	Günter	Günter	NE	*	*	*	*
+11	Jauch	Jauch	NE	*	*	*	*
+12	veranstaltet	veranstalten	VVFIN	*	*	*	*
+13	eine	eine	ART	*	*	*	*
+14	Party	Party	NN	*	*	*	*
+15	im	in	APPRART	*	*	*	*
+16	Berliner	Berliner	ADJA	*	*	*	*
+17	Ballsaal	Ballsaal	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	Sat1	<unknown>	NN	*	*	*	*
+20	hat	haben	VAFIN	*	*	*	*
+21	seine	sein	PPOSAT	*	*	*	*
+22	Zelte	Zelt	NN	2	2	2	2
+23	im	in	APPRART	*	*	*	*
+24	Palasthotel	Palasthotel	NN	*	*	*	*
+25	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+26	,	,	$,	*	*	*	*
+27	und	und	KON	*	*	*	*
+28	RTL	RTL	NE	*	*	*	*
+29	plus	plus	ADV	*	*	*	*
+30	berichtet	berichten	VVFIN	*	*	*	*
+31	aus	aus	APPR	*	*	*	*
+32	dem	die	ART	*	*	*	*
+33	Theater	Theater	NN	*	*	*	*
+34	im	in	APPRART	*	*	*	*
+35	Palast	Palast	NN	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	Republik	Republik	NN	*	*	*	*
+38	.	.	$.	*	*	*	*
+
+# article_id = T920928.227
+# text = Ins Schußfeuer der Kritik ist vor allem der kleine " Cirkus Huberti " geraten , der an der Moorweide seine Zelte aufgeschlagen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ins	in	APPRART	*	*	*	*
+2	Schußfeuer	Schussfeuer	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Kritik	Kritik	NN	*	*	*	*
+5	ist	sein	VAFIN	*	*	*	*
+6	vor	vor	APPR	*	*	*	*
+7	allem	alle	PIS	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	kleine	klein	ADJA	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Cirkus	<unknown>	NN	*	*	*	*
+12	Huberti	<unknown>	NE	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	geraten	geraten|raten	VVPP	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	der	die	PRELS	*	*	*	*
+17	an	an	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	Moorweide	Moorweide	NN	*	*	*	*
+20	seine	sein	PPOSAT	*	*	*	*
+21	Zelte	Zelt	NN	4	3	1	3
+22	aufgeschlagen	aufschlagen	VVPP	4	3	1	3
+23	hat	haben	VAFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T920128.60
+# text = Israelische Polizisten und Soldaten haben am Sonntag Israelis von jordanischem Gebiet zurückgeholt , die dort nach Angaben der israelischen Armee mehrere Meter von der Grenze zu Israel entfernt zwei Zelte aufgeschlagen hatten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Israelische	israelisch	ADJA	*	*	*	*
+2	Polizisten	Polizist	NN	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	Soldaten	Soldat	NN	*	*	*	*
+5	haben	haben	VAFIN	*	*	*	*
+6	am	an	APPRART	*	*	*	*
+7	Sonntag	Sonntag	NN	*	*	*	*
+8	Israelis	Israeli	NN	*	*	*	*
+9	von	von	APPR	*	*	*	*
+10	jordanischem	jordanisch	ADJA	*	*	*	*
+11	Gebiet	Gebiet	NN	*	*	*	*
+12	zurückgeholt	zurückholen	VVPP	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	die	die	PRELS	*	*	*	*
+15	dort	dort	ADV	*	*	*	*
+16	nach	nach	APPR	*	*	*	*
+17	Angaben	Angabe	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	israelischen	israelisch	ADJA	*	*	*	*
+20	Armee	Armee	NN	*	*	*	*
+21	mehrere	mehrere	PIAT	*	*	*	*
+22	Meter	Meter	NN	*	*	*	*
+23	von	von	APPR	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	Grenze	Grenze	NN	*	*	*	*
+26	zu	zu	APPR	*	*	*	*
+27	Israel	Israel	NE	*	*	*	*
+28	entfernt	entfernt	ADJD	*	*	*	*
+29	zwei	zwei	CARD	*	*	*	*
+30	Zelte	Zelt	NN	1	1	1	1
+31	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+32	hatten	haben	VAFIN	*	*	*	*
+33	.	.	$.	*	*	*	*
+
+# article_id = T920408.231
+# text = Im Oktober sodann wird in Bremen ein großes Zelt aufgeschlagen , darinnen geht eine Buffalo Bill Show , wiewohl kritisch , mit Piff und Paff über die Manege .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Oktober	Oktober	NN	*	*	*	*
+3	sodann	sodann	ADV	*	*	*	*
+4	wird	werden	VAFIN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Bremen	Bremen	NE	*	*	*	*
+7	ein	eine	ART	*	*	*	*
+8	großes	groß	ADJA	*	*	*	*
+9	Zelt	Zelt	NN	1	1	1	1
+10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+11	,	,	$,	*	*	*	*
+12	darinnen	darinnen	VVINF	*	*	*	*
+13	geht	gehen	VVFIN	*	*	*	*
+14	eine	eine	ART	*	*	*	*
+15	Buffalo	Buffalo	NE	*	*	*	*
+16	Bill	Bill	NE	*	*	*	*
+17	Show	Show	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	wiewohl	wiewohl	KOUS	*	*	*	*
+20	kritisch	kritisch	ADJD	*	*	*	*
+21	,	,	$,	*	*	*	*
+22	mit	mit	APPR	*	*	*	*
+23	Piff	<unknown>	NN	*	*	*	*
+24	und	und	KON	*	*	*	*
+25	Paff	<unknown>	NN	*	*	*	*
+26	über	über	APPR	*	*	*	*
+27	die	die	ART	*	*	*	*
+28	Manege	Manege	NN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T920806.175
+# text = Die Compagnia Buffo hat ihr Zelt in Bremen aufgeschlagen , und die " Parade " über den Bremer Markt erinnert daran , was " Markt " auch mal war : Gesang , Musik und Lustbarkeit , Gegaukel und derber Spaß .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Compagnia	<unknown>	NE	*	*	*	*
+3	Buffo	<unknown>	NE	*	*	*	*
+4	hat	haben	VAFIN	*	*	*	*
+5	ihr	ihr	PPOSAT	*	*	*	*
+6	Zelt	Zelt	NN	4	2	2	2
+7	in	in	APPR	*	*	*	*
+8	Bremen	Bremen	NE	*	*	*	*
+9	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+10	,	,	$,	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	"	"	$(	*	*	*	*
+14	Parade	Parade	NN	*	*	*	*
+15	"	"	$(	*	*	*	*
+16	über	über	APPR	*	*	*	*
+17	den	die	ART	*	*	*	*
+18	Bremer	Bremer	NN	*	*	*	*
+19	Markt	Markt	NN	*	*	*	*
+20	erinnert	erinnern	VVFIN	*	*	*	*
+21	daran	daran	PAV	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	was	was	PRELS	*	*	*	*
+24	"	"	$(	*	*	*	*
+25	Markt	Markt	NN	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	auch	auch	ADV	*	*	*	*
+28	mal	mal	ADV	*	*	*	*
+29	war	sein	VAFIN	*	*	*	*
+30	:	:	$.	*	*	*	*
+31	Gesang	Gesang	NN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	Musik	Musik	NN	*	*	*	*
+34	und	und	KON	*	*	*	*
+35	Lustbarkeit	Lustbarkeit	NN	*	*	*	*
+36	,	,	$,	*	*	*	*
+37	Gegaukel	<unknown>	NN	*	*	*	*
+38	und	und	KON	*	*	*	*
+39	derber	derb	ADJA	*	*	*	*
+40	Spaß	Spaß	NN	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T921113.82
+# text = " Die Gelegenheit dazu findet er , als er 1979 für ein Jahr nach Deutschland eingeladen wird und seine Zelte im Ruhrgebiet aufschlägt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Die	die	ART	*	*	*	*
+3	Gelegenheit	Gelegenheit	NN	*	*	*	*
+4	dazu	dazu	PAV	*	*	*	*
+5	findet	finden	VVFIN	*	*	*	*
+6	er	er	PPER	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	als	als	KOUS	*	*	*	*
+9	er	er	PPER	*	*	*	*
+10	1979	@card@	CARD	*	*	*	*
+11	für	für	APPR	*	*	*	*
+12	ein	eine	ART	*	*	*	*
+13	Jahr	Jahr	NN	*	*	*	*
+14	nach	nach	APPR	*	*	*	*
+15	Deutschland	Deutschland	NE	*	*	*	*
+16	eingeladen	einladen	VVPP	*	*	*	*
+17	wird	werden	VAFIN	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	seine	sein	PPOSAT	*	*	*	*
+20	Zelte	Zelt	NN	2	2	2	2
+21	im	in	APPRART	*	*	*	*
+22	Ruhrgebiet	Ruhrgebiet	NE	*	*	*	*
+23	aufschlägt	aufschlagen	VVFIN	2	2	2	2
+24	.	.	$.	*	*	*	*
+
+# article_id = T921104.64
+# text = Die Grabenkämpfe bei den Torys werden aus dem Oberhaus gesteuert , wo Majors Vorgängerin , Baronin Margaret Thatcher , inzwischen ihre Zelte aufgeschlagen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Grabenkämpfe	Grabenkampf	NN	*	*	*	*
+3	bei	bei	APPR	*	*	*	*
+4	den	die	ART	*	*	*	*
+5	Torys	Tory	NN	*	*	*	*
+6	werden	werden	VAFIN	*	*	*	*
+7	aus	aus	APPR	*	*	*	*
+8	dem	die	ART	*	*	*	*
+9	Oberhaus	Oberhaus	NN	*	*	*	*
+10	gesteuert	steuern	VVPP	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	wo	wo	PWAV	*	*	*	*
+13	Majors	Major	NN	*	*	*	*
+14	Vorgängerin	Vorgängerin	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	Baronin	Baronin	NE	*	*	*	*
+17	Margaret	Margaret	NE	*	*	*	*
+18	Thatcher	Thatcher	NE	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	inzwischen	inzwischen	ADV	*	*	*	*
+21	ihre	ihr	PPOSAT	*	*	*	*
+22	Zelte	Zelt	NN	2	2	2	2
+23	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+24	hat	haben	VAFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T921121.100
+# text = Als im letzten Sommer die weltweit erfolgreichste US-Male-Strip- Truppe " Chippendales " am Stadtrand ihr Zelt aufschlug , sorgten noch die vielen hier stationierten Amerikanerinnen für stundenlanges ohrenbetäubendes Soprankreischen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Als	als	KON	*	*	*	*
+2	im	in	APPRART	*	*	*	*
+3	letzten	letzt	ADJA	*	*	*	*
+4	Sommer	Sommer	NN	*	*	*	*
+5	die	die	ART	*	*	*	*
+6	weltweit	weltweit	ADJD	*	*	*	*
+7	erfolgreichste	erfolgreich	ADJA	*	*	*	*
+8	US-Male-Strip-	<unknown>	NN	*	*	*	*
+9	Truppe	Truppe	NN	*	*	*	*
+10	"	"	$(	*	*	*	*
+11	Chippendales	<unknown>	NN	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	am	an	APPRART	*	*	*	*
+14	Stadtrand	Stadtrand	NN	*	*	*	*
+15	ihr	ihr	PPOSAT	*	*	*	*
+16	Zelt	Zelt	NN	2	2	2	2
+17	aufschlug	aufschlagen	VVFIN	2	2	2	2
+18	,	,	$,	*	*	*	*
+19	sorgten	sorgen	VVFIN	*	*	*	*
+20	noch	noch	ADV	*	*	*	*
+21	die	die	ART	*	*	*	*
+22	vielen	viele	PIAT	*	*	*	*
+23	hier	hier	ADV	*	*	*	*
+24	stationierten	stationiert	ADJA	*	*	*	*
+25	Amerikanerinnen	Amerikanerin	NN	*	*	*	*
+26	für	für	APPR	*	*	*	*
+27	stundenlanges	stundenlang	ADJA	*	*	*	*
+28	ohrenbetäubendes	ohrenbetäubend	ADJA	*	*	*	*
+29	Soprankreischen	<unknown>	NN	*	*	*	*
+30	.	.	$.	*	*	*	*
+
+# article_id = T880118.61
+# text = Da weder ein Zirkus seine Zelte aufgeschlagen hat noch die Bevölkerung auf den unausweichlich scheinenden Entscheidungskampf gegen die linken Guerilleros eingestimmt werden soll , kann es sich nur um Wahlen handeln .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Da	da	ADV	*	*	*	*
+2	weder	weder	KON	*	*	*	*
+3	ein	eine	ART	*	*	*	*
+4	Zirkus	Zirkus	NN	*	*	*	*
+5	seine	sein	PPOSAT	*	*	*	*
+6	Zelte	Zelt	NN	1	2	2	2
+7	aufgeschlagen	aufschlagen	VVPP	1	2	2	2
+8	hat	haben	VAFIN	*	*	*	*
+9	noch	noch	KON	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Bevölkerung	Bevölkerung	NN	*	*	*	*
+12	auf	auf	APPR	*	*	*	*
+13	den	die	ART	*	*	*	*
+14	unausweichlich	unausweichlich	ADJD	*	*	*	*
+15	scheinenden	scheinend	ADJA	*	*	*	*
+16	Entscheidungskampf	Entscheidungskampf	NN	*	*	*	*
+17	gegen	gegen	APPR	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	linken	links	ADJA	*	*	*	*
+20	Guerilleros	Guerillero	NN	*	*	*	*
+21	eingestimmt	einstimmen	VVPP	*	*	*	*
+22	werden	werden	VAINF	*	*	*	*
+23	soll	sollen	VMFIN	*	*	*	*
+24	,	,	$,	*	*	*	*
+25	kann	können	VMFIN	*	*	*	*
+26	es	es	PPER	*	*	*	*
+27	sich	sich	PRF	*	*	*	*
+28	nur	nur	ADV	*	*	*	*
+29	um	um	APPR	*	*	*	*
+30	Wahlen	Wahl	NN	*	*	*	*
+31	handeln	handeln	VVINF	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T881221.176
+# text = Werner Alfke , Pressesprecher des Sozialsenators , tags darauf : " Wir machen es trotzdem " , weil sonst vielleicht bald Zelte auf der Bürgerweide aufgeschlagen werden müßten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Werner	Werner	NE	*	*	*	*
+2	Alfke	<unknown>	NE	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	Pressesprecher	Pressesprecher	NN	*	*	*	*
+5	des	die	ART	*	*	*	*
+6	Sozialsenators	Sozialsenator	NN	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	tags	tags	ADV	*	*	*	*
+9	darauf	darauf	PAV	*	*	*	*
+10	:	:	$.	*	*	*	*
+11	"	"	$(	*	*	*	*
+12	Wir	wir	PPER	*	*	*	*
+13	machen	machen	VVFIN	*	*	*	*
+14	es	es	PPER	*	*	*	*
+15	trotzdem	trotzdem	PAV	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	weil	weil	KOUS	*	*	*	*
+19	sonst	sonst	ADV	*	*	*	*
+20	vielleicht	vielleicht	ADV	*	*	*	*
+21	bald	bald	ADV	*	*	*	*
+22	Zelte	Zelt	NN	1	1	1	1
+23	auf	auf	APPR	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	Bürgerweide	Bürgerweide	NN	*	*	*	*
+26	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+27	werden	werden	VAINF	*	*	*	*
+28	müßten	müssen	VMFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T881117.152
+# text = " Eine Frau und vier Männer aus der Türkei haben am Montag nachmittag zwischen der Bürgerschaft und dem Rathaus ein kleines Zelt aufgeschlagen und nehmen keine Nahrung mehr zu sich .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Eine	eine	ART	*	*	*	*
+3	Frau	Frau	NN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	vier	vier	CARD	*	*	*	*
+6	Männer	Mann	NN	*	*	*	*
+7	aus	aus	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Türkei	Türkei	NE	*	*	*	*
+10	haben	haben	VAFIN	*	*	*	*
+11	am	an	APPRART	*	*	*	*
+12	Montag	Montag	NN	*	*	*	*
+13	nachmittag	nachmittag	ADV	*	*	*	*
+14	zwischen	zwischen	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Bürgerschaft	Bürgerschaft	NN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	dem	die	ART	*	*	*	*
+19	Rathaus	Rathaus	NN	*	*	*	*
+20	ein	eine	ART	*	*	*	*
+21	kleines	klein	ADJA	*	*	*	*
+22	Zelt	Zelt	NN	1	1	1	1
+23	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+24	und	und	KON	*	*	*	*
+25	nehmen	nehmen	VVFIN	*	*	*	*
+26	keine	keine	PIAT	*	*	*	*
+27	Nahrung	Nahrung	NN	*	*	*	*
+28	mehr	mehr	ADV	*	*	*	*
+29	zu	zu	APPR	*	*	*	*
+30	sich	sich	PRF	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T870623.36
+# text = Die ehemaligen Bewohner der besetzten Häuser planen jetzt , auf der Wiese neben dem Obdachlosenheim Zelte aufzuschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Eine	eine	ART	*	*	*	*
+3	Frau	Frau	NN	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	vier	vier	CARD	*	*	*	*
+6	Männer	Mann	NN	*	*	*	*
+7	aus	aus	APPR	*	*	*	*
+8	der	die	ART	*	*	*	*
+9	Türkei	Türkei	NE	*	*	*	*
+10	haben	haben	VAFIN	*	*	*	*
+11	am	an	APPRART	*	*	*	*
+12	Montag	Montag	NN	*	*	*	*
+13	nachmittag	nachmittag	ADV	*	*	*	*
+14	zwischen	zwischen	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Bürgerschaft	Bürgerschaft	NN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	dem	die	ART	*	*	*	*
+19	Rathaus	Rathaus	NN	*	*	*	*
+20	ein	eine	ART	*	*	*	*
+21	kleines	klein	ADJA	*	*	*	*
+22	Zelt	Zelt	NN	1	1	1	1
+23	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+24	und	und	KON	*	*	*	*
+25	nehmen	nehmen	VVFIN	*	*	*	*
+26	keine	keine	PIAT	*	*	*	*
+27	Nahrung	Nahrung	NN	*	*	*	*
+28	mehr	mehr	ADV	*	*	*	*
+29	zu	zu	APPR	*	*	*	*
+30	sich	sich	PRF	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T870917.10
+# text = Seit gut einer Woche hat das jüdische Ehepaar Gina und Michael Düllmann ein Zelt auf den Fundamenten der ehemaligen Synagoge aufgeschlagen , um die Bauarbeiten zu behindern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Seit	seit	APPR	*	*	*	*
+2	gut	gut	ADJD	*	*	*	*
+3	einer	eine	ART	*	*	*	*
+4	Woche	Woche	NN	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	jüdische	jüdisch	ADJA	*	*	*	*
+8	Ehepaar	Ehepaar	NN	*	*	*	*
+9	Gina	Gina	NE	*	*	*	*
+10	und	und	KON	*	*	*	*
+11	Michael	Michael	NE	*	*	*	*
+12	Düllmann	<unknown>	NE	*	*	*	*
+13	ein	eine	ART	*	*	*	*
+14	Zelt	Zelt	NN	1	1	1	1
+15	auf	auf	APPR	*	*	*	*
+16	den	die	ART	*	*	*	*
+17	Fundamenten	Fundament	NN	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	ehemaligen	ehemalig	ADJA	*	*	*	*
+20	Synagoge	Synagoge	NN	*	*	*	*
+21	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+22	,	,	$,	*	*	*	*
+23	um	um	KOUI	*	*	*	*
+24	die	die	ART	*	*	*	*
+25	Bauarbeiten	Bauarbeit	NN	*	*	*	*
+26	zu	zu	PTKZU	*	*	*	*
+27	behindern	behindern	VVINF	*	*	*	*
+28	.	.	$.	*	*	*	*
+
+# article_id = T871209.79
+# text = Hunderte von kleinen Garküchen und Ausschankstellen für das Volksgetränk Makkoli haben am Rand des Platzes ihre Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Hunderte	Hundert	NN	*	*	*	*
+2	von	von	APPR	*	*	*	*
+3	kleinen	klein	ADJA	*	*	*	*
+4	Garküchen	Garküche	NN	*	*	*	*
+5	und	und	KON	*	*	*	*
+6	Ausschankstellen	<unknown>	NN	*	*	*	*
+7	für	für	APPR	*	*	*	*
+8	das	die	ART	*	*	*	*
+9	Volksgetränk	Volksgetränk	NN	*	*	*	*
+10	Makkoli	<unknown>	NE	*	*	*	*
+11	haben	haben	VAFIN	*	*	*	*
+12	am	an	APPRART	*	*	*	*
+13	Rand	Rand	NN	*	*	*	*
+14	des	die	ART	*	*	*	*
+15	Platzes	Platz	NN	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Zelte	Zelt	NN	4	3	2	3
+18	aufgeschlagen	aufschlagen	VVPP	4	3	2	3
+19	.	.	$.	*	*	*	*
+
+# article_id = T860918.18
+# text = In dreißig Meter Höhe montierten die Besetzer eine Plattform , auf der sie ein Zelt aufschlugen und sich häuslich niederließen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	dreißig	dreißig	CARD	*	*	*	*
+3	Meter	Meter	NN	*	*	*	*
+4	Höhe	Höhe	NN	*	*	*	*
+5	montierten	montieren	VVFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Besetzer	Besetzer	NN	*	*	*	*
+8	eine	eine	ART	*	*	*	*
+9	Plattform	Plattform	NN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	auf	auf	APPR	*	*	*	*
+12	der	die	PRELS	*	*	*	*
+13	sie	sie	PPER	*	*	*	*
+14	ein	eine	ART	*	*	*	*
+15	Zelt	Zelt	NN	1	1	1	1
+16	aufschlugen	aufschlagen	VVFIN	1	1	1	1
+17	und	und	KON	*	*	*	*
+18	sich	sich	PRF	*	*	*	*
+19	häuslich	häuslich	ADJD	*	*	*	*
+20	niederließen	niederlassen	VVFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T860911.30
+# text = In den Dörfern wird ein großes Zelt aufgeschlagen , die Kader des DERG erscheinen , die Verfassung wird verlesen , ein paar Fragen oberflächlich beantwortet .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Dörfern	Dorf	NN	*	*	*	*
+4	wird	werden	VAFIN	*	*	*	*
+5	ein	eine	ART	*	*	*	*
+6	großes	groß	ADJA	*	*	*	*
+7	Zelt	Zelt	NN	1	1	1	1
+8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+9	,	,	$,	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	Kader	Kader	NN	*	*	*	*
+12	des	die	ART	*	*	*	*
+13	DERG	<unknown>	NN	*	*	*	*
+14	erscheinen	erscheinen	VVFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Verfassung	Verfassung	NN	*	*	*	*
+18	wird	werden	VAFIN	*	*	*	*
+19	verlesen	verlesen	VVPP	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	ein	eine	ART	*	*	*	*
+22	paar	paar	PIAT	*	*	*	*
+23	Fragen	Frage	NN	*	*	*	*
+24	oberflächlich	oberflächlich	ADJD	*	*	*	*
+25	beantwortet	beantworten	VVPP	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T930626.110
+# text = Daß bei Übernachtungen im Freien das Zelt auf einer zugbrückensicheren Pfahlkonstruktion aufgeschlagen werden sollte , versteht sich ja wohl von selbst .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Daß	dass	KOUS	*	*	*	*
+2	bei	bei	APPR	*	*	*	*
+3	Übernachtungen	Übernachtung	NN	*	*	*	*
+4	im	in	APPRART	*	*	*	*
+5	Freien	Freie	NN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Zelt	Zelt	NN	1	1	1	1
+8	auf	auf	APPR	*	*	*	*
+9	einer	eine	ART	*	*	*	*
+10	zugbrückensicheren	<unknown>	ADJA	*	*	*	*
+11	Pfahlkonstruktion	<unknown>	NN	*	*	*	*
+12	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+13	werden	werden	VAINF	*	*	*	*
+14	sollte	sollen	VMFIN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	versteht	verstehen	VVFIN	*	*	*	*
+17	sich	sich	PRF	*	*	*	*
+18	ja	ja	ADV	*	*	*	*
+19	wohl	wohl	ADV	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	selbst	selbst	ADV	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T931022.102
+# text = Ach , Hollywood und Seattle ( wo sie auch mal ihre Zelte aufschlug ) und San Francisco : all diese Namen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Ach	ach	ITJ	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	Hollywood	Hollywood	NE	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	Seattle	Seattle	NE	*	*	*	*
+6	(	(	$(	*	*	*	*
+7	wo	wo	PWAV	*	*	*	*
+8	sie	sie	PPER	*	*	*	*
+9	auch	auch	ADV	*	*	*	*
+10	mal	mal	ADV	*	*	*	*
+11	ihre	ihr	PPOSAT	*	*	*	*
+12	Zelte	Zelt	NN	2	2	2	2
+13	aufschlug	aufschlagen	VVFIN	2	2	2	2
+14	)	)	$(	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	San	San	NE	*	*	*	*
+17	Francisco	Francisco	NE	*	*	*	*
+18	:	:	$.	*	*	*	*
+19	all	alle	PIAT	*	*	*	*
+20	diese	dies	PDAT	*	*	*	*
+21	Namen	Name	NN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T930925.85
+# text = In den Tälern kann das Zelt aufgeschlagen oder ein Gasthof aufgesucht werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	In	in	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Tälern	Tal	NN	*	*	*	*
+4	kann	können	VMFIN	*	*	*	*
+5	das	die	ART	*	*	*	*
+6	Zelt	Zelt	NN	1	1	1	1
+7	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+8	oder	oder	KON	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	Gasthof	Gasthof	NN	*	*	*	*
+11	aufgesucht	aufsuchen	VVPP	*	*	*	*
+12	werden	werden	VAINF	*	*	*	*
+13	.	.	$.	*	*	*	*
+
+# article_id = T930918.53
+# text = 167 taiwanesische Aussteller haben in Köln ihre Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	167	@card@	CARD	*	*	*	*
+2	taiwanesische	taiwanesisch	ADJA	*	*	*	*
+3	Aussteller	Aussteller	NN	*	*	*	*
+4	haben	haben	VAFIN	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Köln	Köln	NE	*	*	*	*
+7	ihre	ihr	PPOSAT	*	*	*	*
+8	Zelte	Zelt	NN	2	2	2	2
+9	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+10	.	.	$.	*	*	*	*
+
+# article_id = T930422.111
+# text = Weil es sich ja doch irgendwie nicht so rasend gut debattieren läßt , wenn einem die Kugeln um die Ohren pfeifen , hat der PEN-Kongress seine Zelte nun doch nicht in Dubrovnik aufgeschlagen , sondern auf der kroatischen Insel Hvar .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Weil	weil	KOUS	*	*	*	*
+2	es	es	PPER	*	*	*	*
+3	sich	sich	PRF	*	*	*	*
+4	ja	ja	ADV	*	*	*	*
+5	doch	doch	ADV	*	*	*	*
+6	irgendwie	irgendwie	ADV	*	*	*	*
+7	nicht	nicht	PTKNEG	*	*	*	*
+8	so	so	ADV	*	*	*	*
+9	rasend	rasend	ADJD	*	*	*	*
+10	gut	gut	ADJD	*	*	*	*
+11	debattieren	debattieren	VVINF	*	*	*	*
+12	läßt	lassen	VVFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	wenn	wenn	KOUS	*	*	*	*
+15	einem	eine	PIS	*	*	*	*
+16	die	die	ART	*	*	*	*
+17	Kugeln	Kugel	NN	*	*	*	*
+18	um	um	APPR	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Ohren	Ohr	NN	*	*	*	*
+21	pfeifen	pfeifen	VVINF	*	*	*	*
+22	,	,	$,	*	*	*	*
+23	hat	haben	VAFIN	*	*	*	*
+24	der	die	ART	*	*	*	*
+25	PEN-Kongress	PEN-Kongress	NN	*	*	*	*
+26	seine	sein	PPOSAT	*	*	*	*
+27	Zelte	Zelt	NN	2	2	2	2
+28	nun	nun	ADV	*	*	*	*
+29	doch	doch	ADV	*	*	*	*
+30	nicht	nicht	PTKNEG	*	*	*	*
+31	in	in	APPR	*	*	*	*
+32	Dubrovnik	Dubrovnik	NE	*	*	*	*
+33	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+34	,	,	$,	*	*	*	*
+35	sondern	sondern	KON	*	*	*	*
+36	auf	auf	APPR	*	*	*	*
+37	der	die	ART	*	*	*	*
+38	kroatischen	kroatisch	ADJA	*	*	*	*
+39	Insel	Insel	NN	*	*	*	*
+40	Hvar	<unknown>	NE	*	*	*	*
+41	.	.	$.	*	*	*	*
+
+# article_id = T930715.20
+# text = Noch gibt das Kehler Sozialamt täglich Essensgutscheine aus , bringen Bürger Spenden zum ehemaligen Truppenübungsgelände , auf dem die Flüchtlinge ihre Zelte aufgeschlagen haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Noch	noch	ADV	*	*	*	*
+2	gibt	geben	VVFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	Kehler	<unknown>	NN	*	*	*	*
+5	Sozialamt	Sozialamt	NN	*	*	*	*
+6	täglich	täglich	ADJD	*	*	*	*
+7	Essensgutscheine	Essensgutschein	NN	*	*	*	*
+8	aus	aus	PTKVZ	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	bringen	bringen	VVFIN	*	*	*	*
+11	Bürger	Bürger	NN	*	*	*	*
+12	Spenden	Spende|Spenden	NN	*	*	*	*
+13	zum	zu	APPRART	*	*	*	*
+14	ehemaligen	ehemalig	ADJA	*	*	*	*
+15	Truppenübungsgelände	Truppenübungsgelände	NN	*	*	*	*
+16	,	,	$,	*	*	*	*
+17	auf	auf	APPR	*	*	*	*
+18	dem	die	PRELS	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Flüchtlinge	Flüchtling	NN	*	*	*	*
+21	ihre	ihr	PPOSAT	*	*	*	*
+22	Zelte	Zelt	NN	4	1	1	1
+23	aufgeschlagen	aufschlagen	VVPP	4	1	1	1
+24	haben	haben	VAFIN	*	*	*	*
+25	.	.	$.	*	*	*	*
+
+# article_id = T930726.36
+# text = Im Schutz der Baumreihe werden die Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Schutz	Schutz	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Baumreihe	Baumreihe	NN	*	*	*	*
+5	werden	werden	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Zelte	Zelt	NN	1	1	1	1
+8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+9	.	.	$.	*	*	*	*
+
+# article_id = T931215.125
+# text = Das Hochbauamt des Bezirksamts Mitte hatte zuvor untersagt , ein solches Zelt aufzuschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Im	in	APPRART	*	*	*	*
+2	Schutz	Schutz	NN	*	*	*	*
+3	der	die	ART	*	*	*	*
+4	Baumreihe	Baumreihe	NN	*	*	*	*
+5	werden	werden	VAFIN	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	Zelte	Zelt	NN	1	1	1	1
+8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+9	.	.	$.	*	*	*	*
+
+# article_id = T930311.116
+# text = Jedenfalls hat also dieser Spielberg seine Zelte vor den Toren des ehemaligen Konzentrationslagers Auschwitz aufgeschlagen , wo er mit den Dreharbeiten zu seinem Film Die Schindler-Liste begonnen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jedenfalls	jedenfalls	ADV	*	*	*	*
+2	hat	haben	VAFIN	*	*	*	*
+3	also	also	ADV	*	*	*	*
+4	dieser	dies	PDAT	*	*	*	*
+5	Spielberg	Spielberg	NN	*	*	*	*
+6	seine	sein	PPOSAT	*	*	*	*
+7	Zelte	Zelt	NN	2	2	2	2
+8	vor	vor	APPR	*	*	*	*
+9	den	die	ART	*	*	*	*
+10	Toren	Tor	NN	*	*	*	*
+11	des	die	ART	*	*	*	*
+12	ehemaligen	ehemalig	ADJA	*	*	*	*
+13	Konzentrationslagers	Konzentrationslager	NN	*	*	*	*
+14	Auschwitz	Auschwitz	NE	*	*	*	*
+15	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+16	,	,	$,	*	*	*	*
+17	wo	wo	PWAV	*	*	*	*
+18	er	er	PPER	*	*	*	*
+19	mit	mit	APPR	*	*	*	*
+20	den	die	ART	*	*	*	*
+21	Dreharbeiten	Dreharbeit	NN	*	*	*	*
+22	zu	zu	APPR	*	*	*	*
+23	seinem	sein	PPOSAT	*	*	*	*
+24	Film	Film	NN	*	*	*	*
+25	Die	<unknown>	ADJA	*	*	*	*
+26	Schindler-Liste	Schindler-Liste	NN	*	*	*	*
+27	begonnen	beginnen	VVPP	*	*	*	*
+28	hat	haben	VAFIN	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T960506.230
+# text = Die ersten fünf Zelte sind inzwischen aufgeschlagen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Die	die	ART	*	*	*	*
+2	ersten	erst	ADJA	*	*	*	*
+3	fünf	fünf	CARD	*	*	*	*
+4	Zelte	Zelt	NN	1	1	1	1
+5	sind	sein	VAFIN	*	*	*	*
+6	inzwischen	inzwischen	ADV	*	*	*	*
+7	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+8	.	.	$.	*	*	*	*
+
+# article_id = T961011.236
+# text = Nicht nur Born und Buch , die beide in der Dickhardtstraße 48 wohnten , hatten in Friedenau ihre Zelte aufgeschlagen , sondern auch Hans Magnus Enzensberger , Günter Herburger , Christoph Meckel oder Günter Bruno Fuchs .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Nicht	nicht	PTKNEG	*	*	*	*
+2	nur	nur	ADV	*	*	*	*
+3	Born	Born	NE	*	*	*	*
+4	und	und	KON	*	*	*	*
+5	Buch	Buch	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	die	die	PRELS	*	*	*	*
+8	beide	beide	PIS	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Dickhardtstraße	<unknown>	NN	*	*	*	*
+12	48	@card@	CARD	*	*	*	*
+13	wohnten	wohnen	VVFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	hatten	haben	VAFIN	*	*	*	*
+16	in	in	APPR	*	*	*	*
+17	Friedenau	<unknown>	NE	*	*	*	*
+18	ihre	ihr	PPOSAT	*	*	*	*
+19	Zelte	Zelt	NN	2	2	2	2
+20	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+21	,	,	$,	*	*	*	*
+22	sondern	sondern	KON	*	*	*	*
+23	auch	auch	ADV	*	*	*	*
+24	Hans	Hans	NE	*	*	*	*
+25	Magnus	Magnus	NE	*	*	*	*
+26	Enzensberger	Enzensberger	NE	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	Günter	Günter	NE	*	*	*	*
+29	Herburger	<unknown>	NE	*	*	*	*
+30	,	,	$,	*	*	*	*
+31	Christoph	Christoph	NE	*	*	*	*
+32	Meckel	<unknown>	NN	*	*	*	*
+33	oder	oder	KON	*	*	*	*
+34	Günter	Günter	NE	*	*	*	*
+35	Bruno	Bruno	NE	*	*	*	*
+36	Fuchs	Fuchs	NE	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T960927.196
+# text = Allen gemeinsam ist , daß sie ihre Zelte in einem Hausprojekt aufgeschlagen haben , für das sie selber verantwortlich sind .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Allen	alle	PIAT	*	*	*	*
+2	gemeinsam	gemeinsam	ADJD	*	*	*	*
+3	ist	sein	VAFIN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	daß	dass	KOUS	*	*	*	*
+6	sie	sie	PPER	*	*	*	*
+7	ihre	ihr	PPOSAT	*	*	*	*
+8	Zelte	Zelt	NN	2	2	2	2
+9	in	in	APPR	*	*	*	*
+10	einem	eine	ART	*	*	*	*
+11	Hausprojekt	Hausprojekt	NN	*	*	*	*
+12	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+13	haben	haben	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	für	für	APPR	*	*	*	*
+16	das	die	PRELS	*	*	*	*
+17	sie	sie	PPER	*	*	*	*
+18	selber	selber	ADV	*	*	*	*
+19	verantwortlich	verantwortlich	ADJD	*	*	*	*
+20	sind	sein	VAFIN	*	*	*	*
+21	.	.	$.	*	*	*	*
+
+# article_id = T960706.245
+# text = 367 Dauercamper haben dieses Jahr hier ihre Zelte aufgeschlagen , das sind etwa doppelt so viele wie noch vor vier Jahren .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	367	@card@	CARD	*	*	*	*
+2	Dauercamper	Dauercamper	NN	*	*	*	*
+3	haben	haben	VAFIN	*	*	*	*
+4	dieses	dies	PDAT	*	*	*	*
+5	Jahr	Jahr	NN	*	*	*	*
+6	hier	hier	ADV	*	*	*	*
+7	ihre	ihr	PPOSAT	*	*	*	*
+8	Zelte	Zelt	NN	1	1	2	1
+9	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+10	,	,	$,	*	*	*	*
+11	das	die	PDS	*	*	*	*
+12	sind	sein	VAFIN	*	*	*	*
+13	etwa	etwa	ADV	*	*	*	*
+14	doppelt	doppelt	ADJD	*	*	*	*
+15	so	so	ADV	*	*	*	*
+16	viele	viele	PIS	*	*	*	*
+17	wie	wie	KOKOM	*	*	*	*
+18	noch	noch	ADV	*	*	*	*
+19	vor	vor	APPR	*	*	*	*
+20	vier	vier	CARD	*	*	*	*
+21	Jahren	Jahr	NN	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T960726.86
+# text = Allein in Aguas Blancas - im Juni 1995 Schauplatz des Bauern-Massakers - haben rund 500 Soldaten ihre Zelte aufgeschlagen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Allein	allein	ADV	*	*	*	*
+2	in	in	APPR	*	*	*	*
+3	Aguas	<unknown>	NE	*	*	*	*
+4	Blancas	<unknown>	NE	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	Juni	Juni	NN	*	*	*	*
+8	1995	@card@	CARD	*	*	*	*
+9	Schauplatz	Schauplatz	NN	*	*	*	*
+10	des	die	ART	*	*	*	*
+11	Bauern-Massakers	<unknown>	NN	*	*	*	*
+12	-	-	$(	*	*	*	*
+13	haben	haben	VAFIN	*	*	*	*
+14	rund	rund	ADV	*	*	*	*
+15	500	@card@	CARD	*	*	*	*
+16	Soldaten	Soldat	NN	*	*	*	*
+17	ihre	ihr	PPOSAT	*	*	*	*
+18	Zelte	Zelt	NN	2	2	3	2
+19	aufgeschlagen	aufschlagen	VVPP	2	2	3	2
+20	.	.	$.	*	*	*	*
+
+# article_id = T960306.146
+# text = Eines Nachmittags , als man die ganze Sache wieder einmal gründlich durchging und Espinosas Witwe auch im Laden war , sagte sie mit geheimnisvoller Miene , daß ihrer Meinung nach etwas viel Schrecklicheres passiert sei ; der junge Mann hatte , wie wir alle ja wüßten , sein Zelt in der Nähe ihres Hauses aufgeschlagen , und obwohl sie , genau wie wir , ihn lange nicht mehr gesehen hätte , wäre sein Zelt immer noch da , und es käme ihr doch sehr seltsam - sie wiederholte die Worte : sehr seltsam - vor , daß sie das Zelt nicht mitgenommen hätten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eines	eine	ART	*	*	*	*
+2	Nachmittags	Nachmittags	NN	*	*	*	*
+3	,	,	$,	*	*	*	*
+4	als	als	KOUS	*	*	*	*
+5	man	man	PIS	*	*	*	*
+6	die	die	ART	*	*	*	*
+7	ganze	ganz	ADJA	*	*	*	*
+8	Sache	Sache	NN	*	*	*	*
+9	wieder	wieder	ADV	*	*	*	*
+10	einmal	einmal	ADV	*	*	*	*
+11	gründlich	gründlich	ADJD	*	*	*	*
+12	durchging	durchgehen	VVFIN	*	*	*	*
+13	und	und	KON	*	*	*	*
+14	Espinosas	<unknown>	NN	*	*	*	*
+15	Witwe	Witwe	NN	*	*	*	*
+16	auch	auch	ADV	*	*	*	*
+17	im	in	APPRART	*	*	*	*
+18	Laden	Laden	NN	*	*	*	*
+19	war	sein	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	sagte	sagen	VVFIN	*	*	*	*
+22	sie	sie	PPER	*	*	*	*
+23	mit	mit	APPR	*	*	*	*
+24	geheimnisvoller	geheimnisvoll	ADJA	*	*	*	*
+25	Miene	Miene	NN	*	*	*	*
+26	,	,	$,	*	*	*	*
+27	daß	dass	KOUS	*	*	*	*
+28	ihrer	ihr	PPOSAT	*	*	*	*
+29	Meinung	Meinung	NN	*	*	*	*
+30	nach	nach	APPR	*	*	*	*
+31	etwas	etwas	ADV	*	*	*	*
+32	viel	viele	PIAT	*	*	*	*
+33	Schrecklicheres	Schrecklicheres	NN	*	*	*	*
+34	passiert	passieren	VVPP	*	*	*	*
+35	sei	sein	VAFIN	*	*	*	*
+36	;	;	$.	*	*	*	*
+37	der	die	ART	*	*	*	*
+38	junge	jung	ADJA	*	*	*	*
+39	Mann	Mann	NN	*	*	*	*
+40	hatte	haben	VAFIN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	wie	wie	KOUS	*	*	*	*
+43	wir	wir	PPER	*	*	*	*
+44	alle	alle	PIS	*	*	*	*
+45	ja	ja	ADV	*	*	*	*
+46	wüßten	wissen	VVFIN	*	*	*	*
+47	,	,	$,	*	*	*	*
+48	sein	sein	PPOSAT	*	*	*	*
+49	Zelt	Zelt	NN	1	1	1	1
+50	in	in	APPR	*	*	*	*
+51	der	die	ART	*	*	*	*
+52	Nähe	Nähe	NN	*	*	*	*
+53	ihres	ihr	PPOSAT	*	*	*	*
+54	Hauses	Haus	NN	*	*	*	*
+55	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+56	,	,	$,	*	*	*	*
+57	und	und	KON	*	*	*	*
+58	obwohl	obwohl	KOUS	*	*	*	*
+59	sie	sie	PPER	*	*	*	*
+60	,	,	$,	*	*	*	*
+61	genau	genau	ADJD	*	*	*	*
+62	wie	wie	KOKOM	*	*	*	*
+63	wir	wir	PPER	*	*	*	*
+64	,	,	$,	*	*	*	*
+65	ihn	er	PPER	*	*	*	*
+66	lange	langen	VVFIN	*	*	*	*
+67	nicht	nicht	PTKNEG	*	*	*	*
+68	mehr	mehr	ADV	*	*	*	*
+69	gesehen	sehen	VVPP	*	*	*	*
+70	hätte	haben	VAFIN	*	*	*	*
+71	,	,	$,	*	*	*	*
+72	wäre	sein	VAFIN	*	*	*	*
+73	sein	sein	PPOSAT	*	*	*	*
+74	Zelt	Zelt	NN	*	*	*	*
+75	immer	immer	ADV	*	*	*	*
+76	noch	noch	ADV	*	*	*	*
+77	da	da	ADV	*	*	*	*
+78	,	,	$,	*	*	*	*
+79	und	und	KON	*	*	*	*
+80	es	es	PPER	*	*	*	*
+81	käme	kommen	VVFIN	*	*	*	*
+82	ihr	ihr	PPER	*	*	*	*
+83	doch	doch	ADV	*	*	*	*
+84	sehr	sehr	ADV	*	*	*	*
+85	seltsam	seltsam	ADJD	*	*	*	*
+86	-	-	$(	*	*	*	*
+87	sie	sie	PPER	*	*	*	*
+88	wiederholte	wiederholen	VVFIN	*	*	*	*
+89	die	die	ART	*	*	*	*
+90	Worte	Wort	NN	*	*	*	*
+91	:	:	$.	*	*	*	*
+92	sehr	sehr	ADV	*	*	*	*
+93	seltsam	seltsam	ADJD	*	*	*	*
+94	-	-	$(	*	*	*	*
+95	vor	vor	PTKVZ	*	*	*	*
+96	,	,	$,	*	*	*	*
+97	daß	dass	KOUS	*	*	*	*
+98	sie	sie	PPER	*	*	*	*
+99	das	die	ART	*	*	*	*
+100	Zelt	Zelt	NN	*	*	*	*
+101	nicht	nicht	PTKNEG	*	*	*	*
+102	mitgenommen	mitnehmen	VVPP	*	*	*	*
+103	hätten	haben	VAFIN	*	*	*	*
+104	.	.	$.	*	*	*	*
+
+# article_id = T980507.268
+# text = Das " Atelier Blauschimmel " hat seine Zelte in der Oldenburger Kulturetage aufgeschlagen und bietet allen Normalen und Verrückten Kurse und Workshops in den Bereichen Musik , Theater , Tanz , Masken etc an .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	"	"	$(	*	*	*	*
+3	Atelier	Atelier	NN	*	*	*	*
+4	Blauschimmel	Blauschimmel	NN	*	*	*	*
+5	"	"	$(	*	*	*	*
+6	hat	haben	VAFIN	*	*	*	*
+7	seine	sein	PPOSAT	*	*	*	*
+8	Zelte	Zelt	NN	2	2	2	2
+9	in	in	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Oldenburger	Oldenburger	NN	*	*	*	*
+12	Kulturetage	Kulturetage	NN	*	*	*	*
+13	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+14	und	und	KON	*	*	*	*
+15	bietet	bieten	VVFIN	*	*	*	*
+16	allen	alle	PIAT	*	*	*	*
+17	Normalen	Normale	NN	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	Verrückten	Verrückte	NN	*	*	*	*
+20	Kurse	Kurs	NN	*	*	*	*
+21	und	und	KON	*	*	*	*
+22	Workshops	Workshop	NN	*	*	*	*
+23	in	in	APPR	*	*	*	*
+24	den	die	ART	*	*	*	*
+25	Bereichen	Bereich	NN	*	*	*	*
+26	Musik	Musik	NN	*	*	*	*
+27	,	,	$,	*	*	*	*
+28	Theater	Theater	NN	*	*	*	*
+29	,	,	$,	*	*	*	*
+30	Tanz	Tanz	NN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	Masken	Maske	NN	*	*	*	*
+33	etc	etc.	ADV	*	*	*	*
+34	an	an	PTKVZ	*	*	*	*
+35	.	.	$.	*	*	*	*
+
+# article_id = T980516.378
+# text = Zwischen den buntbemalten Häuserfassaden hat das Rote Kreuz ein riesiges Zelt aufgeschlagen , weiter unten spielen Jugendliche Basketball .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zwischen	zwischen	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	buntbemalten	buntbemalt	ADJA	*	*	*	*
+4	Häuserfassaden	Häuserfassade	NN	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Rote	Rote	NN	*	*	*	*
+8	Kreuz	Kreuz	NN	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	riesiges	riesig	ADJA	*	*	*	*
+11	Zelt	Zelt	NN	1	1	1	1
+12	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+13	,	,	$,	*	*	*	*
+14	weiter	weiter	ADV	*	*	*	*
+15	unten	unten	ADV	*	*	*	*
+16	spielen	spielen	VVFIN	*	*	*	*
+17	Jugendliche	jugendlich	ADJA	*	*	*	*
+18	Basketball	Basketball	NN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T980502.231
+# text = Außerdem liege ein Angebot der Berliner Bäder-Betriebe ( BBB ) vor , die Zelte dauerhaft vor einem der Bäder aufzuschlagen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Zwischen	zwischen	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	buntbemalten	buntbemalt	ADJA	*	*	*	*
+4	Häuserfassaden	Häuserfassade	NN	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	das	die	ART	*	*	*	*
+7	Rote	Rote	NN	*	*	*	*
+8	Kreuz	Kreuz	NN	*	*	*	*
+9	ein	eine	ART	*	*	*	*
+10	riesiges	riesig	ADJA	*	*	*	*
+11	Zelt	Zelt	NN	1	1	2	1
+12	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+13	,	,	$,	*	*	*	*
+14	weiter	weiter	ADV	*	*	*	*
+15	unten	unten	ADV	*	*	*	*
+16	spielen	spielen	VVFIN	*	*	*	*
+17	Jugendliche	jugendlich	ADJA	*	*	*	*
+18	Basketball	Basketball	NN	*	*	*	*
+19	.	.	$.	*	*	*	*
+
+# article_id = T980529.343
+# text = Wenn die Band nicht gerade auf irgendeiner Bühne steht , werden die Zelte in San Francisco aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wenn	wenn	KOUS	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Band	Band	NN	*	*	*	*
+4	nicht	nicht	PTKNEG	*	*	*	*
+5	gerade	gerade	ADV	*	*	*	*
+6	auf	auf	APPR	*	*	*	*
+7	irgendeiner	irgendeine	PIAT	*	*	*	*
+8	Bühne	Bühne	NN	*	*	*	*
+9	steht	stehen	VVFIN	*	*	*	*
+10	,	,	$,	*	*	*	*
+11	werden	werden	VAFIN	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Zelte	Zelt	NN	4	2	2	2
+14	in	in	APPR	*	*	*	*
+15	San	San	NE	*	*	*	*
+16	Francisco	Francisco	NE	*	*	*	*
+17	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+18	.	.	$.	*	*	*	*
+
+# article_id = T980127.210
+# text = Wer sich aus traditionell milde verengter fränkischer Perspektive ( auch mir ist Nau nur allzu vertraut , und damals war der Besenbeck ein Haushaltswarengeschäft und die Wurst kaufte man beim Henninger ) schwer tut mit der Gewöhnung an die Sprachökonomisierung , der war noch nicht in Tü , also im sprichwörtlich sparsamen Schwaben , woselbst man mit dem Tübus von Hegel zu Bloch kutschiert wird , freilich verkehrsmäßig in Schwierigkeiten geraten kann , sofern man in Kadingen ( Kusterdingen ) oder gar dem zungenbrechenden Kafurt ( Kirchentellinsfurt ) seine Zelte aufgeschlagen hat !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wer	wer	PWS	*	*	*	*
+2	sich	sich	PRF	*	*	*	*
+3	aus	aus	APPR	*	*	*	*
+4	traditionell	traditionell	ADJD	*	*	*	*
+5	milde	mild	ADJA	*	*	*	*
+6	verengter	verengt	ADJA	*	*	*	*
+7	fränkischer	<unknown>	ADJA	*	*	*	*
+8	Perspektive	Perspektive	NN	*	*	*	*
+9	(	(	$(	*	*	*	*
+10	auch	auch	ADV	*	*	*	*
+11	mir	ich	PPER	*	*	*	*
+12	ist	sein	VAFIN	*	*	*	*
+13	Nau	<unknown>	ADJD	*	*	*	*
+14	nur	nur	ADV	*	*	*	*
+15	allzu	allzu	PTKA	*	*	*	*
+16	vertraut	vertraut	ADJD	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	damals	damals	ADV	*	*	*	*
+20	war	sein	VAFIN	*	*	*	*
+21	der	die	ART	*	*	*	*
+22	Besenbeck	<unknown>	NN	*	*	*	*
+23	ein	eine	ART	*	*	*	*
+24	Haushaltswarengeschäft	Haushaltswarengeschäft	NN	*	*	*	*
+25	und	und	KON	*	*	*	*
+26	die	die	ART	*	*	*	*
+27	Wurst	Wurst	NN	*	*	*	*
+28	kaufte	kaufen	VVFIN	*	*	*	*
+29	man	man	PIS	*	*	*	*
+30	beim	bei	APPRART	*	*	*	*
+31	Henninger	<unknown>	NN	*	*	*	*
+32	)	)	$(	*	*	*	*
+33	schwer	schwer	ADJD	*	*	*	*
+34	tut	tun	VVFIN	*	*	*	*
+35	mit	mit	APPR	*	*	*	*
+36	der	die	ART	*	*	*	*
+37	Gewöhnung	Gewöhnung	NN	*	*	*	*
+38	an	an	APPR	*	*	*	*
+39	die	die	ART	*	*	*	*
+40	Sprachökonomisierung	<unknown>	NN	*	*	*	*
+41	,	,	$,	*	*	*	*
+42	der	die	PRELS	*	*	*	*
+43	war	sein	VAFIN	*	*	*	*
+44	noch	noch	ADV	*	*	*	*
+45	nicht	nicht	PTKNEG	*	*	*	*
+46	in	in	APPR	*	*	*	*
+47	Tü	<unknown>	NE	*	*	*	*
+48	,	,	$,	*	*	*	*
+49	also	also	ADV	*	*	*	*
+50	im	in	APPRART	*	*	*	*
+51	sprichwörtlich	sprichwörtlich	ADJD	*	*	*	*
+52	sparsamen	sparsam	ADJA	*	*	*	*
+53	Schwaben	Schwabe	NN	*	*	*	*
+54	,	,	$,	*	*	*	*
+55	woselbst	woselbst	ADV	*	*	*	*
+56	man	man	PIS	*	*	*	*
+57	mit	mit	APPR	*	*	*	*
+58	dem	die	ART	*	*	*	*
+59	Tübus	<unknown>	NN	*	*	*	*
+60	von	von	APPR	*	*	*	*
+61	Hegel	Hegel	NE	*	*	*	*
+62	zu	zu	APPR	*	*	*	*
+63	Bloch	Bloch	NN	*	*	*	*
+64	kutschiert	kutschieren	VVPP	*	*	*	*
+65	wird	werden	VAFIN	*	*	*	*
+66	,	,	$,	*	*	*	*
+67	freilich	freilich	ADV	*	*	*	*
+68	verkehrsmäßig	verkehrsmäßig	ADJD	*	*	*	*
+69	in	in	APPR	*	*	*	*
+70	Schwierigkeiten	Schwierigkeit	NN	*	*	*	*
+71	geraten	geraten	VVINF	*	*	*	*
+72	kann	können	VMFIN	*	*	*	*
+73	,	,	$,	*	*	*	*
+74	sofern	sofern	KOUS	*	*	*	*
+75	man	man	PIS	*	*	*	*
+76	in	in	APPR	*	*	*	*
+77	Kadingen	<unknown>	NE	*	*	*	*
+78	(	(	$(	*	*	*	*
+79	Kusterdingen	<unknown>	NE	*	*	*	*
+80	)	)	$(	*	*	*	*
+81	oder	oder	KON	*	*	*	*
+82	gar	gar	ADV	*	*	*	*
+83	dem	die	ART	*	*	*	*
+84	zungenbrechenden	<unknown>	ADJA	*	*	*	*
+85	Kafurt	<unknown>	NN	*	*	*	*
+86	(	(	$(	*	*	*	*
+87	Kirchentellinsfurt	<unknown>	NN	*	*	*	*
+88	)	)	$(	*	*	*	*
+89	seine	sein	PPOSAT	*	*	*	*
+90	Zelte	Zelt	NN	2	2	2	2
+91	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+92	hat	haben	VAFIN	*	*	*	*
+93	!	!	$.	*	*	*	*
+
+# article_id = T980715.174
+# text = Ist ja schließlich öffentlich-rechtliches , pädagogisch wertvolles Terrain , auf dem der Zirkus sein Zelt aufgeschlagen hat .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Ist	sein	VAFIN	*	*	*	*
+2	ja	ja	ADV	*	*	*	*
+3	schließlich	schließlich	ADV	*	*	*	*
+4	öffentlich-rechtliches	Öffentlich-rechtlich	ADJA	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	pädagogisch	pädagogisch	ADJD	*	*	*	*
+7	wertvolles	wertvoll	ADJA	*	*	*	*
+8	Terrain	Terrain	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	dem	die	PRELS	*	*	*	*
+12	der	die	ART	*	*	*	*
+13	Zirkus	Zirkus	NN	*	*	*	*
+14	sein	sein	PPOSAT	*	*	*	*
+15	Zelt	Zelt	NN	1	1	2	1
+16	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+17	hat	haben	VAFIN	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T980707.91
+# text = Auf den Feldern nebenan , die mit drei Reihen Stacheldraht und einem Graben von der Garvaghy Road getrennt sind , haben die Oranier ihre Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auf	auf	APPR	*	*	*	*
+2	den	die	ART	*	*	*	*
+3	Feldern	Feld	NN	*	*	*	*
+4	nebenan	nebenan	ADV	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	die	die	PRELS	*	*	*	*
+7	mit	mit	APPR	*	*	*	*
+8	drei	drei	CARD	*	*	*	*
+9	Reihen	Reihe	NN	*	*	*	*
+10	Stacheldraht	Stacheldraht	NN	*	*	*	*
+11	und	und	KON	*	*	*	*
+12	einem	eine	ART	*	*	*	*
+13	Graben	Graben	NN	*	*	*	*
+14	von	von	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Garvaghy	<unknown>	NE	*	*	*	*
+17	Road	<unknown>	NE	*	*	*	*
+18	getrennt	trennen	VVPP	*	*	*	*
+19	sind	sein	VAFIN	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	haben	haben	VAFIN	*	*	*	*
+22	die	die	ART	*	*	*	*
+23	Oranier	<unknown>	NN	*	*	*	*
+24	ihre	ihr	PPOSAT	*	*	*	*
+25	Zelte	Zelt	NN	1	1	1	1
+26	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+27	.	.	$.	*	*	*	*
+
+# article_id = T980714.132
+# text = " Die Kirche von Drumcree und die Felder , auf denen die Oranier ihre Zelte aufgeschlagen haben , gehören der Church of Ireland .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Die	die	ART	*	*	*	*
+3	Kirche	Kirche	NN	*	*	*	*
+4	von	von	APPR	*	*	*	*
+5	Drumcree	<unknown>	NN	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	die	die	ART	*	*	*	*
+8	Felder	Feld	NN	*	*	*	*
+9	,	,	$,	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	denen	die	PRELS	*	*	*	*
+12	die	die	ART	*	*	*	*
+13	Oranier	<unknown>	NN	*	*	*	*
+14	ihre	ihr	PPOSAT	*	*	*	*
+15	Zelte	Zelt	NN	1	1	1	1
+16	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+17	haben	haben	VAFIN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	gehören	gehören	VVFIN	*	*	*	*
+20	der	die	ART	*	*	*	*
+21	Church	Church	NE	*	*	*	*
+22	of	of	FM	*	*	*	*
+23	Ireland	<unknown>	NE	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T981229.191
+# text = Hatte sie ursprünglich ihre Zelte an der Moldau nur deshalb aufgeschlagen , um bald , vor Ort , über einen anstehenden slowakisch-tschechischen Bürgerkrieg zu berichten ?
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Hatte	haben	VAFIN	*	*	*	*
+2	sie	sie	PPER	*	*	*	*
+3	ursprünglich	ursprünglich	ADJD	*	*	*	*
+4	ihre	ihr	PPOSAT	*	*	*	*
+5	Zelte	Zelt	NN	2	1	2	2
+6	an	an	APPR	*	*	*	*
+7	der	die	ART	*	*	*	*
+8	Moldau	Moldau	NN	*	*	*	*
+9	nur	nur	ADV	*	*	*	*
+10	deshalb	deshalb	PAV	*	*	*	*
+11	aufgeschlagen	aufschlagen	VVPP	2	1	2	2
+12	,	,	$,	*	*	*	*
+13	um	um	KOUI	*	*	*	*
+14	bald	bald	ADV	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	vor	vor	APPR	*	*	*	*
+17	Ort	Ort	NN	*	*	*	*
+18	,	,	$,	*	*	*	*
+19	über	über	APPR	*	*	*	*
+20	einen	eine	ART	*	*	*	*
+21	anstehenden	anstehend	ADJA	*	*	*	*
+22	slowakisch-tschechischen	<unknown>	ADJA	*	*	*	*
+23	Bürgerkrieg	Bürgerkrieg	NN	*	*	*	*
+24	zu	zu	PTKZU	*	*	*	*
+25	berichten	berichten	VVINF	*	*	*	*
+26	?	?	$.	*	*	*	*
+
+# article_id = T980805.140
+# text = Masahiko T. und sein Kollege Hiroshi K. haben mit rund 1.500 anderen Obdachlosen unter Bäumen ihr Zelt aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Masahiko	<unknown>	NE	*	*	*	*
+2	T.	T.	NE	*	*	*	*
+3	und	und	KON	*	*	*	*
+4	sein	sein	PPOSAT	*	*	*	*
+5	Kollege	Kollege	NN	*	*	*	*
+6	Hiroshi	Hiroshi	NE	*	*	*	*
+7	K.	K.	NE	*	*	*	*
+8	haben	haben	VAFIN	*	*	*	*
+9	mit	mit	APPR	*	*	*	*
+10	rund	rund	ADV	*	*	*	*
+11	1.500	@card@	CARD	*	*	*	*
+12	anderen	andere	PIAT	*	*	*	*
+13	Obdachlosen	Obdachlosen	NN	*	*	*	*
+14	unter	unter	APPR	*	*	*	*
+15	Bäumen	Baum	NN	*	*	*	*
+16	ihr	ihr	PPOSAT	*	*	*	*
+17	Zelt	Zelt	NN	1	1	1	1
+18	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+19	.	.	$.	*	*	*	*
+
+# article_id = T980807.216
+# text = Warum er nun ausgerechnet in Berlin seine Zelte aufschlagen mußte , ist ein Rätsel , das bei der "Popstar"-Record- Release-Party vielleicht seine Auflösung erfährt .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Warum	warum	PWAV	*	*	*	*
+2	er	er	PPER	*	*	*	*
+3	nun	nun	ADV	*	*	*	*
+4	ausgerechnet	ausgerechnet	ADJD	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Berlin	Berlin	NE	*	*	*	*
+7	seine	sein	PPOSAT	*	*	*	*
+8	Zelte	Zelt	NN	2	2	2	2
+9	aufschlagen	aufschlagen	VVINF	2	2	2	2
+10	mußte	müssen	VMFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	ist	sein	VAFIN	*	*	*	*
+13	ein	eine	ART	*	*	*	*
+14	Rätsel	Rätsel	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	das	die	PRELS	*	*	*	*
+17	bei	bei	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	Popstar"-Record-	<unknown>	TRUNC	*	*	*	*
+21	Release-Party	Release-Party	NN	*	*	*	*
+22	vielleicht	vielleicht	ADV	*	*	*	*
+23	seine	sein	PPOSAT	*	*	*	*
+24	Auflösung	Auflösung	NN	*	*	*	*
+25	erfährt	erfahren	VVFIN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T980813.187
+# text = Dieser Umstand ändere jedoch nichts an der erklärten Absicht , das Zelt bis zum 31. Juli 1999 auf dem Schloßplatz aufzuschlagen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Warum	warum	PWAV	*	*	*	*
+2	er	er	PPER	*	*	*	*
+3	nun	nun	ADV	*	*	*	*
+4	ausgerechnet	ausgerechnet	ADJD	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Berlin	Berlin	NE	*	*	*	*
+7	seine	sein	PPOSAT	*	*	*	*
+8	Zelte	Zelt	NN	2	1	1	1
+9	aufschlagen	aufschlagen	VVINF	2	1	1	1
+10	mußte	müssen	VMFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	ist	sein	VAFIN	*	*	*	*
+13	ein	eine	ART	*	*	*	*
+14	Rätsel	Rätsel	NN	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	das	die	PRELS	*	*	*	*
+17	bei	bei	APPR	*	*	*	*
+18	der	die	ART	*	*	*	*
+19	"	"	$(	*	*	*	*
+20	Popstar"-Record-	<unknown>	TRUNC	*	*	*	*
+21	Release-Party	Release-Party	NN	*	*	*	*
+22	vielleicht	vielleicht	ADV	*	*	*	*
+23	seine	sein	PPOSAT	*	*	*	*
+24	Auflösung	Auflösung	NN	*	*	*	*
+25	erfährt	erfahren	VVFIN	*	*	*	*
+26	.	.	$.	*	*	*	*
+
+# article_id = T980828.32
+# text = Nach vertraulichen Informationen hat der Krasnojarsker Gouverneur und Ex-General Alexander Lebed im Vorzimmer Wiktor Stepanowitschs schon " ein Zelt aufgeschlagen " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Nach	nach	APPR	*	*	*	*
+2	vertraulichen	vertraulich	ADJA	*	*	*	*
+3	Informationen	Information	NN	*	*	*	*
+4	hat	haben	VAFIN	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Krasnojarsker	<unknown>	NN	*	*	*	*
+7	Gouverneur	Gouverneur	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Ex-General	Ex-General	NN	*	*	*	*
+10	Alexander	Alexander	NE	*	*	*	*
+11	Lebed	<unknown>	NE	*	*	*	*
+12	im	in	APPRART	*	*	*	*
+13	Vorzimmer	Vorzimmer	NN	*	*	*	*
+14	Wiktor	Wiktor	NE	*	*	*	*
+15	Stepanowitschs	<unknown>	NE	*	*	*	*
+16	schon	schon	ADV	*	*	*	*
+17	"	"	$(	*	*	*	*
+18	ein	eine	ART	*	*	*	*
+19	Zelt	Zelt	NN	2	2	2	2
+20	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+21	"	"	$(	*	*	*	*
+22	.	.	$.	*	*	*	*
+
+# article_id = T981109.78
+# text = Sie arbeitet in einem der Zelte , die neben der Turiner Kongreßhalle aufgeschlagen wurden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	arbeitet	arbeiten	VVFIN	*	*	*	*
+3	in	in	APPR	*	*	*	*
+4	einem	eine	PIS	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Zelte	Zelt	NN	1	1	1	1
+7	,	,	$,	*	*	*	*
+8	die	die	PRELS	*	*	*	*
+9	neben	neben	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Turiner	Turiner	NN	*	*	*	*
+12	Kongreßhalle	Kongresshalle	NN	*	*	*	*
+13	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+14	wurden	werden	VAFIN	*	*	*	*
+15	.	.	$.	*	*	*	*
+
+# article_id = T980216.232
+# text = Denn im Oval der Stadthalle hatte offenbar ein Baumarkthändler seine Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Denn	denn	KON	*	*	*	*
+2	im	in	APPRART	*	*	*	*
+3	Oval	Oval	NN	*	*	*	*
+4	der	die	ART	*	*	*	*
+5	Stadthalle	Stadthalle	NN	*	*	*	*
+6	hatte	haben	VAFIN	*	*	*	*
+7	offenbar	offenbar	ADJD	*	*	*	*
+8	ein	eine	ART	*	*	*	*
+9	Baumarkthändler	<unknown>	NN	*	*	*	*
+10	seine	sein	PPOSAT	*	*	*	*
+11	Zelte	Zelt	NN	2	2	2	2
+12	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+13	.	.	$.	*	*	*	*
+
+# article_id = T971002.228
+# text = Jeden Abend haben wir unsere Zelte in einem gewissen Abstand zu den Salzmännern aufgeschlagen , um sie und die Tiere nicht zu stören .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Jeden	jede	PIAT	*	*	*	*
+2	Abend	Abend	NN	*	*	*	*
+3	haben	haben	VAFIN	*	*	*	*
+4	wir	wir	PPER	*	*	*	*
+5	unsere	unser	PPOSAT	*	*	*	*
+6	Zelte	Zelt	NN	1	1	1	1
+7	in	in	APPR	*	*	*	*
+8	einem	eine	ART	*	*	*	*
+9	gewissen	gewiss	ADJA	*	*	*	*
+10	Abstand	Abstand	NN	*	*	*	*
+11	zu	zu	APPR	*	*	*	*
+12	den	die	ART	*	*	*	*
+13	Salzmännern	<unknown>	NN	*	*	*	*
+14	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+15	,	,	$,	*	*	*	*
+16	um	um	KOUI	*	*	*	*
+17	sie	sie	PPER	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	die	die	ART	*	*	*	*
+20	Tiere	Tier	NN	*	*	*	*
+21	nicht	nicht	PTKNEG	*	*	*	*
+22	zu	zu	PTKZU	*	*	*	*
+23	stören	stören	VVINF	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T971031.96
+# text = Dort haben hungerstreikende rumänische Revolutionäre Anfang Oktober ihre Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dort	dort	ADV	*	*	*	*
+2	haben	haben	VAFIN	*	*	*	*
+3	hungerstreikende	hungerstreikend	ADJA	*	*	*	*
+4	rumänische	rumänisch	ADJA	*	*	*	*
+5	Revolutionäre	Revolutionär	NN	*	*	*	*
+6	Anfang	Anfang	NN	*	*	*	*
+7	Oktober	Oktober	NN	*	*	*	*
+8	ihre	ihr	PPOSAT	*	*	*	*
+9	Zelte	Zelt	NN	1	1	1	1
+10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+11	.	.	$.	*	*	*	*
+
+# article_id = T970906.121
+# text = Mittlerweile ist das " Meerkabarett " , das bereits zum vierten Mal sein Zelt auf der Insel aufschlägt und von den " Fliegenden Bauten Produktionen " aus Hamburg organisiert wird , zu einer feststehenden Einrichtung geworden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Mittlerweile	mittlerweile	ADV	*	*	*	*
+2	ist	sein	VAFIN	*	*	*	*
+3	das	die	ART	*	*	*	*
+4	"	"	$(	*	*	*	*
+5	Meerkabarett	<unknown>	NN	*	*	*	*
+6	"	"	$(	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	das	die	PRELS	*	*	*	*
+9	bereits	bereits	ADV	*	*	*	*
+10	zum	zu	APPRART	*	*	*	*
+11	vierten	viert	ADJA	*	*	*	*
+12	Mal	Mal	NN	*	*	*	*
+13	sein	sein	PPOSAT	*	*	*	*
+14	Zelt	Zelt	NN	4	2	2	2
+15	auf	auf	APPR	*	*	*	*
+16	der	die	ART	*	*	*	*
+17	Insel	Insel	NN	*	*	*	*
+18	aufschlägt	aufschlagen	VVFIN	4	2	2	2
+19	und	und	KON	*	*	*	*
+20	von	von	APPR	*	*	*	*
+21	den	die	ART	*	*	*	*
+22	"	"	$(	*	*	*	*
+23	Fliegenden	Fliegende	NN	*	*	*	*
+24	Bauten	Bau	NN	*	*	*	*
+25	Produktionen	Produktion	NN	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	aus	aus	APPR	*	*	*	*
+28	Hamburg	Hamburg	NE	*	*	*	*
+29	organisiert	organisieren	VVPP	*	*	*	*
+30	wird	werden	VAFIN	*	*	*	*
+31	,	,	$,	*	*	*	*
+32	zu	zu	APPR	*	*	*	*
+33	einer	eine	ART	*	*	*	*
+34	feststehenden	feststehend	ADJA	*	*	*	*
+35	Einrichtung	Einrichtung	NN	*	*	*	*
+36	geworden	werden	VAPP	*	*	*	*
+37	.	.	$.	*	*	*	*
+
+# article_id = T970726.114
+# text = Unten am Strand haben sie Zelte aufgeschlagen , vor denen sie , manche haben sogar ihre Kinder dabei , Marihuana rauchen und den ganzen Tag reglos in der Sonne liegen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unten	unten	ADV	*	*	*	*
+2	am	an	APPRART	*	*	*	*
+3	Strand	Strand	NN	*	*	*	*
+4	haben	haben	VAFIN	*	*	*	*
+5	sie	sie	PPER	*	*	*	*
+6	Zelte	Zelt	NN	1	1	1	1
+7	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+8	,	,	$,	*	*	*	*
+9	vor	vor	APPR	*	*	*	*
+10	denen	die	PRELS	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	manche	manche	PIS	*	*	*	*
+14	haben	haben	VAFIN	*	*	*	*
+15	sogar	sogar	ADV	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Kinder	Kind	NN	*	*	*	*
+18	dabei	dabei	PAV	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	Marihuana	Marihuana	NN	*	*	*	*
+21	rauchen	rauchen	VVINF	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	ganzen	ganz	ADJA	*	*	*	*
+25	Tag	Tag	NN	*	*	*	*
+26	reglos	reglos	ADJD	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Sonne	Sonne	NN	*	*	*	*
+30	liegen	liegen	VVFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T970721.171
+# text = Seit der sogenannte Kanzler mit einem einfachen Spatenstich das größte Freizeitvergnügen , den Sonntagsmittagskick vor dem Reichstag , einfach unterbunden hat und das Tempodrom seine neuen Zelte auf dem Platz vor dem Anhalter Bahnhof aufzuschlagen plant , ist man auf der Suche nach einer neuen adäquaten Freizeitbeschäftigung und hat sie nun also am Rande des Volksparks Friedrichshain , auf der Werneuchener Wiese , gefunden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Unten	unten	ADV	*	*	*	*
+2	am	an	APPRART	*	*	*	*
+3	Strand	Strand	NN	*	*	*	*
+4	haben	haben	VAFIN	*	*	*	*
+5	sie	sie	PPER	*	*	*	*
+6	Zelte	Zelt	NN	1	2	2	2
+7	aufgeschlagen	aufschlagen	VVPP	1	2	2	2
+8	,	,	$,	*	*	*	*
+9	vor	vor	APPR	*	*	*	*
+10	denen	die	PRELS	*	*	*	*
+11	sie	sie	PPER	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	manche	manche	PIS	*	*	*	*
+14	haben	haben	VAFIN	*	*	*	*
+15	sogar	sogar	ADV	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Kinder	Kind	NN	*	*	*	*
+18	dabei	dabei	PAV	*	*	*	*
+19	,	,	$,	*	*	*	*
+20	Marihuana	Marihuana	NN	*	*	*	*
+21	rauchen	rauchen	VVINF	*	*	*	*
+22	und	und	KON	*	*	*	*
+23	den	die	ART	*	*	*	*
+24	ganzen	ganz	ADJA	*	*	*	*
+25	Tag	Tag	NN	*	*	*	*
+26	reglos	reglos	ADJD	*	*	*	*
+27	in	in	APPR	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Sonne	Sonne	NN	*	*	*	*
+30	liegen	liegen	VVFIN	*	*	*	*
+31	.	.	$.	*	*	*	*
+
+# article_id = T970703.261
+# text = Dieser West Port , für den das Zelt wieder am Deichtorplatz aufgeschlagen wird , könnte jedoch trotz eines nicht immer spannenden Programms künstlerisch wie kommerziell ein Erfolg werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Dieser	dies	PDAT	*	*	*	*
+2	West	West	NN	*	*	*	*
+3	Port	Port	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	für	für	APPR	*	*	*	*
+6	den	die	PRELS	*	*	*	*
+7	das	die	ART	*	*	*	*
+8	Zelt	Zelt	NN	1	1	2	1
+9	wieder	wieder	ADV	*	*	*	*
+10	am	an	APPRART	*	*	*	*
+11	Deichtorplatz	Deichtorplatz	NN	*	*	*	*
+12	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+13	wird	werden	VAFIN	*	*	*	*
+14	,	,	$,	*	*	*	*
+15	könnte	können	VMFIN	*	*	*	*
+16	jedoch	jedoch	ADV	*	*	*	*
+17	trotz	trotz	APPR	*	*	*	*
+18	eines	eine	ART	*	*	*	*
+19	nicht	nicht	PTKNEG	*	*	*	*
+20	immer	immer	ADV	*	*	*	*
+21	spannenden	spannend	ADJA	*	*	*	*
+22	Programms	Programm	NN	*	*	*	*
+23	künstlerisch	künstlerisch	ADJD	*	*	*	*
+24	wie	wie	KOKOM	*	*	*	*
+25	kommerziell	kommerziell	ADJD	*	*	*	*
+26	ein	eine	ART	*	*	*	*
+27	Erfolg	Erfolg	NN	*	*	*	*
+28	werden	werden	VAINF	*	*	*	*
+29	.	.	$.	*	*	*	*
+
+# article_id = T971205.355
+# text = Und alle anderen , die ihre Zelte in der Hansestadt aufschlagen wollen , bräuchten sich doch nur an das großzügige Einwanderungsgesetz zu halten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Und	und	KON	*	*	*	*
+2	alle	alle	PIAT	*	*	*	*
+3	anderen	andere	PIS	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	die	die	PRELS	*	*	*	*
+6	ihre	ihr	PPOSAT	*	*	*	*
+7	Zelte	Zelt	NN	2	2	2	2
+8	in	in	APPR	*	*	*	*
+9	der	die	ART	*	*	*	*
+10	Hansestadt	Hansestadt	NN	*	*	*	*
+11	aufschlagen	aufschlagen	VVINF	2	2	2	2
+12	wollen	wollen	VMFIN	*	*	*	*
+13	,	,	$,	*	*	*	*
+14	bräuchten	brauchen	VVFIN	*	*	*	*
+15	sich	sich	PRF	*	*	*	*
+16	doch	doch	ADV	*	*	*	*
+17	nur	nur	ADV	*	*	*	*
+18	an	an	APPR	*	*	*	*
+19	das	die	ART	*	*	*	*
+20	großzügige	großzügig	ADJA	*	*	*	*
+21	Einwanderungsgesetz	Einwanderungsgesetz	NN	*	*	*	*
+22	zu	zu	PTKZU	*	*	*	*
+23	halten	halten	VVINF	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T940509.83
+# text = Ihre siebenköpfige Familie hat hier seit 40 Jahren ihr Zelt aufgeschlagen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Ihre	ihr	PPOSAT	*	*	*	*
+2	siebenköpfige	siebenköpfig	ADJA	*	*	*	*
+3	Familie	Familie	NN	*	*	*	*
+4	hat	haben	VAFIN	*	*	*	*
+5	hier	hier	ADV	*	*	*	*
+6	seit	seit	APPR	*	*	*	*
+7	40	@card@	CARD	*	*	*	*
+8	Jahren	Jahr	NN	*	*	*	*
+9	ihr	ihr	PPOSAT	*	*	*	*
+10	Zelt	Zelt	NN	2	2	1	2
+11	aufgeschlagen	aufschlagen	VVPP	2	2	1	2
+12	.	.	$.	*	*	*	*
+
+# article_id = T940905.243
+# text = Eine Woche lang ist das schräge Stück ab heute auf den Osterdeichwiesen zu erleben , wo die Narrenkarawane ihre Zelte aufgeschlagen hat .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Eine	eine	ART	*	*	*	*
+2	Woche	Woche	NN	*	*	*	*
+3	lang	lang	ADJD	*	*	*	*
+4	ist	sein	VAFIN	*	*	*	*
+5	das	die	ART	*	*	*	*
+6	schräge	schräg	ADJA	*	*	*	*
+7	Stück	Stück	NN	*	*	*	*
+8	ab	ab	APPR	*	*	*	*
+9	heute	heute	ADV	*	*	*	*
+10	auf	auf	APPR	*	*	*	*
+11	den	die	ART	*	*	*	*
+12	Osterdeichwiesen	Osterdeichwiese	NN	*	*	*	*
+13	zu	zu	PTKZU	*	*	*	*
+14	erleben	erleben	VVINF	*	*	*	*
+15	,	,	$,	*	*	*	*
+16	wo	wo	PWAV	*	*	*	*
+17	die	die	ART	*	*	*	*
+18	Narrenkarawane	<unknown>	NN	*	*	*	*
+19	ihre	ihr	PPOSAT	*	*	*	*
+20	Zelte	Zelt	NN	4	2	2	2
+21	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+22	hat	haben	VAFIN	*	*	*	*
+23	.	.	$.	*	*	*	*
+
+# article_id = T940118.162
+# text = Berufsnarren , Pantomimen , Tänzer , Akrobaten und Clowns haben ab morgen bis 20. Januar ihre Zelte im Tagungszentrum Berlin-Mitte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Berufsnarren	<unknown>	NN	*	*	*	*
+2	,	,	$,	*	*	*	*
+3	Pantomimen	Pantomime	NN	*	*	*	*
+4	,	,	$,	*	*	*	*
+5	Tänzer	Tänzer	NN	*	*	*	*
+6	,	,	$,	*	*	*	*
+7	Akrobaten	Akrobat	NN	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	Clowns	Clown	NN	*	*	*	*
+10	haben	haben	VAFIN	*	*	*	*
+11	ab	ab	ADV	*	*	*	*
+12	morgen	morgen	ADV	*	*	*	*
+13	bis	bis	APPR	*	*	*	*
+14	20	@card@	CARD	*	*	*	*
+15	.	.	$.	*	*	*	*
+16	Januar	Januar	NN	*	*	*	*
+17	ihre	ihr	PPOSAT	*	*	*	*
+18	Zelte	Zelt	NN	4	2	2	2
+19	im	in	APPRART	*	*	*	*
+20	Tagungszentrum	Tagungszentrum	NN	*	*	*	*
+21	Berlin-Mitte	Berlin-Mitte	NN	*	*	*	*
+22	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+23	.	.	$.	*	*	*	*
+
+# article_id = T940716.59
+# text = Zuvor hatte man sich in Trebel getroffen , wo jetzt die Bewohner des geräumten Hüttendorfes ihre Zelte aufgeschlagen haben : " das Castornix im Exil " .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Zuvor	zuvor	ADV	*	*	*	*
+2	hatte	haben	VAFIN	*	*	*	*
+3	man	man	PIS	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	in	in	APPR	*	*	*	*
+6	Trebel	<unknown>	NN	*	*	*	*
+7	getroffen	treffen|triefen	VVPP	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	wo	wo	PWAV	*	*	*	*
+10	jetzt	jetzt	ADV	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	Bewohner	Bewohner	NN	*	*	*	*
+13	des	die	ART	*	*	*	*
+14	geräumten	geräumt	ADJA	*	*	*	*
+15	Hüttendorfes	Hüttendorf	NN	*	*	*	*
+16	ihre	ihr	PPOSAT	*	*	*	*
+17	Zelte	Zelt	NN	4	2	2	2
+18	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+19	haben	haben	VAFIN	*	*	*	*
+20	:	:	$.	*	*	*	*
+21	"	"	$(	*	*	*	*
+22	das	die	ART	*	*	*	*
+23	Castornix	<unknown>	NN	*	*	*	*
+24	im	in	APPRART	*	*	*	*
+25	Exil	Exil	NN	*	*	*	*
+26	"	"	$(	*	*	*	*
+27	.	.	$.	*	*	*	*
+
+# article_id = T940726.121
+# text = Der Mann aus Faenza , bester Juniorenspieler , hat seine Zelte trotz Heimweh artig in Wien und Monte Carlo aufgeschlagen und darf sich jetzt immerhin darüber freuen , daß seine Landsleute , für die ein anständiger Ball immer mit dem Fuß und nicht mit dem Schläger befördert wird , von seiner ersten Finalteilnahme in Kenntnis gesetzt wurden : Das Sportblatt schlechthin , Gazzetta dello sport , hat den verlorenen Sohn Andrea Gaudenzi via Telefon zum Interview gebeten .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Der	die	ART	*	*	*	*
+2	Mann	Mann	NN	*	*	*	*
+3	aus	aus	APPR	*	*	*	*
+4	Faenza	<unknown>	NN	*	*	*	*
+5	,	,	$,	*	*	*	*
+6	bester	gut	ADJA	*	*	*	*
+7	Juniorenspieler	Juniorenspieler	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	hat	haben	VAFIN	*	*	*	*
+10	seine	sein	PPOSAT	*	*	*	*
+11	Zelte	Zelt	NN	2	2	2	2
+12	trotz	trotz	APPR	*	*	*	*
+13	Heimweh	Heimweh	NN	*	*	*	*
+14	artig	artig	ADJD	*	*	*	*
+15	in	in	APPR	*	*	*	*
+16	Wien	Wien	NE	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	Monte	Monte	NE	*	*	*	*
+19	Carlo	Carlo	NE	*	*	*	*
+20	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+21	und	und	KON	*	*	*	*
+22	darf	dürfen	VMFIN	*	*	*	*
+23	sich	sich	PRF	*	*	*	*
+24	jetzt	jetzt	ADV	*	*	*	*
+25	immerhin	immerhin	ADV	*	*	*	*
+26	darüber	darüber	PAV	*	*	*	*
+27	freuen	freuen	VVINF	*	*	*	*
+28	,	,	$,	*	*	*	*
+29	daß	dass	KOUS	*	*	*	*
+30	seine	sein	PPOSAT	*	*	*	*
+31	Landsleute	Landsleute	NN	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	für	für	APPR	*	*	*	*
+34	die	die	PRELS	*	*	*	*
+35	ein	eine	ART	*	*	*	*
+36	anständiger	anständig	ADJA	*	*	*	*
+37	Ball	Ball	NN	*	*	*	*
+38	immer	immer	ADV	*	*	*	*
+39	mit	mit	APPR	*	*	*	*
+40	dem	die	ART	*	*	*	*
+41	Fuß	Fuß	NN	*	*	*	*
+42	und	und	KON	*	*	*	*
+43	nicht	nicht	PTKNEG	*	*	*	*
+44	mit	mit	APPR	*	*	*	*
+45	dem	die	ART	*	*	*	*
+46	Schläger	Schläger	NN	*	*	*	*
+47	befördert	befördern	VVPP	*	*	*	*
+48	wird	werden	VAFIN	*	*	*	*
+49	,	,	$,	*	*	*	*
+50	von	von	APPR	*	*	*	*
+51	seiner	sein	PPOSAT	*	*	*	*
+52	ersten	erst	ADJA	*	*	*	*
+53	Finalteilnahme	Finalteilnahme	NN	*	*	*	*
+54	in	in	APPR	*	*	*	*
+55	Kenntnis	Kenntnis	NN	*	*	*	*
+56	gesetzt	setzen	VVPP	*	*	*	*
+57	wurden	werden	VAFIN	*	*	*	*
+58	:	:	$.	*	*	*	*
+59	Das	die	ART	*	*	*	*
+60	Sportblatt	Sportblatt	NN	*	*	*	*
+61	schlechthin	schlechthin	ADV	*	*	*	*
+62	,	,	$,	*	*	*	*
+63	Gazzetta	<unknown>	VVFIN	*	*	*	*
+64	dello	<unknown>	NE	*	*	*	*
+65	sport	<unknown>	ADJD	*	*	*	*
+66	,	,	$,	*	*	*	*
+67	hat	haben	VAFIN	*	*	*	*
+68	den	die	ART	*	*	*	*
+69	verlorenen	verloren	ADJA	*	*	*	*
+70	Sohn	Sohn	NN	*	*	*	*
+71	Andrea	Andrea	NE	*	*	*	*
+72	Gaudenzi	<unknown>	NE	*	*	*	*
+73	via	via	APPR	*	*	*	*
+74	Telefon	Telefon	NN	*	*	*	*
+75	zum	zu	APPRART	*	*	*	*
+76	Interview	Interview	NN	*	*	*	*
+77	gebeten	bitten	VVPP	*	*	*	*
+78	.	.	$.	*	*	*	*
+
+# article_id = T940317.91
+# text = " Leicht mulmig in der Magengegend " wird es Berninger dennoch , wenn er daran denkt , nach dem ersten Staatsexamen im Herbst tatsächlich seine Zelte in Bonn aufschlagen zu müssen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Leicht	leicht	ADJD	*	*	*	*
+3	mulmig	mulmig	ADJD	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Magengegend	Magengegend	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	wird	werden	VAFIN	*	*	*	*
+9	es	es	PPER	*	*	*	*
+10	Berninger	<unknown>	NE	*	*	*	*
+11	dennoch	dennoch	ADV	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	wenn	wenn	KOUS	*	*	*	*
+14	er	er	PPER	*	*	*	*
+15	daran	daran	PAV	*	*	*	*
+16	denkt	denken	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	nach	nach	APPR	*	*	*	*
+19	dem	die	ART	*	*	*	*
+20	ersten	erst	ADJA	*	*	*	*
+21	Staatsexamen	Staatsexamen	NN	*	*	*	*
+22	im	in	APPRART	*	*	*	*
+23	Herbst	Herbst	NN	*	*	*	*
+24	tatsächlich	tatsächlich	ADJD	*	*	*	*
+25	seine	sein	PPOSAT	*	*	*	*
+26	Zelte	Zelt	NN	2	2	2	2
+27	in	in	APPR	*	*	*	*
+28	Bonn	Bonn	NE	*	*	*	*
+29	aufschlagen	aufschlagen	VVINF	2	2	2	2
+30	zu	zu	PTKZU	*	*	*	*
+31	müssen	müssen	VMINF	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T941124.53
+# text = Dafür müssen sie allerdings bereit sein , künftig an einem anderen der sechs VW-Standorte in Deutschland ihre Zelte aufzuschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Leicht	leicht	ADJD	*	*	*	*
+3	mulmig	mulmig	ADJD	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Magengegend	Magengegend	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	wird	werden	VAFIN	*	*	*	*
+9	es	es	PPER	*	*	*	*
+10	Berninger	<unknown>	NE	*	*	*	*
+11	dennoch	dennoch	ADV	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	wenn	wenn	KOUS	*	*	*	*
+14	er	er	PPER	*	*	*	*
+15	daran	daran	PAV	*	*	*	*
+16	denkt	denken	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	nach	nach	APPR	*	*	*	*
+19	dem	die	ART	*	*	*	*
+20	ersten	erst	ADJA	*	*	*	*
+21	Staatsexamen	Staatsexamen	NN	*	*	*	*
+22	im	in	APPRART	*	*	*	*
+23	Herbst	Herbst	NN	*	*	*	*
+24	tatsächlich	tatsächlich	ADJD	*	*	*	*
+25	seine	sein	PPOSAT	*	*	*	*
+26	Zelte	Zelt	NN	2	2	2	2
+27	in	in	APPR	*	*	*	*
+28	Bonn	Bonn	NE	*	*	*	*
+29	aufschlagen	aufschlagen	VVINF	2	2	2	2
+30	zu	zu	PTKZU	*	*	*	*
+31	müssen	müssen	VMINF	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T950515.104
+# text = Damals waren die Stämme aus allen Teilen des Landes in Omdurman zusammengekommen , um dort ihre Zelte aufzuschlagen , und das von den Briten besetzte Khartum am jenseitigen Ufer zu belagern und am Ende zu erobern .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	"	"	$(	*	*	*	*
+2	Leicht	leicht	ADJD	*	*	*	*
+3	mulmig	mulmig	ADJD	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Magengegend	Magengegend	NN	*	*	*	*
+7	"	"	$(	*	*	*	*
+8	wird	werden	VAFIN	*	*	*	*
+9	es	es	PPER	*	*	*	*
+10	Berninger	<unknown>	NE	*	*	*	*
+11	dennoch	dennoch	ADV	*	*	*	*
+12	,	,	$,	*	*	*	*
+13	wenn	wenn	KOUS	*	*	*	*
+14	er	er	PPER	*	*	*	*
+15	daran	daran	PAV	*	*	*	*
+16	denkt	denken	VVFIN	*	*	*	*
+17	,	,	$,	*	*	*	*
+18	nach	nach	APPR	*	*	*	*
+19	dem	die	ART	*	*	*	*
+20	ersten	erst	ADJA	*	*	*	*
+21	Staatsexamen	Staatsexamen	NN	*	*	*	*
+22	im	in	APPRART	*	*	*	*
+23	Herbst	Herbst	NN	*	*	*	*
+24	tatsächlich	tatsächlich	ADJD	*	*	*	*
+25	seine	sein	PPOSAT	*	*	*	*
+26	Zelte	Zelt	NN	2	2	2	2
+27	in	in	APPR	*	*	*	*
+28	Bonn	Bonn	NE	*	*	*	*
+29	aufschlagen	aufschlagen	VVINF	2	2	2	2
+30	zu	zu	PTKZU	*	*	*	*
+31	müssen	müssen	VMINF	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T950608.184
+# text = Die Magnetschnellbahn Planungsgesellschaft GmbH hat im Oktober vergangenen Jahres bereits ihre Zelte in Schwerin und dann in Hamburg aufgeschlagen , heute soll ein Büro in Reinickendorf an der Nonnendammallee eröffnet werden .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Die	die	ART	*	*	*	*
+2	Magnetschnellbahn	Magnetschnellbahn	NN	*	*	*	*
+3	Planungsgesellschaft	Planungsgesellschaft	NN	*	*	*	*
+4	GmbH	GmbH	NN	*	*	*	*
+5	hat	haben	VAFIN	*	*	*	*
+6	im	in	APPRART	*	*	*	*
+7	Oktober	Oktober	NN	*	*	*	*
+8	vergangenen	vergangen	ADJA	*	*	*	*
+9	Jahres	Jahr	NN	*	*	*	*
+10	bereits	bereits	ADV	*	*	*	*
+11	ihre	ihr	PPOSAT	*	*	*	*
+12	Zelte	Zelt	NN	2	2	2	2
+13	in	in	APPR	*	*	*	*
+14	Schwerin	Schwerin	NE	*	*	*	*
+15	und	und	KON	*	*	*	*
+16	dann	dann	ADV	*	*	*	*
+17	in	in	APPR	*	*	*	*
+18	Hamburg	Hamburg	NE	*	*	*	*
+19	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+20	,	,	$,	*	*	*	*
+21	heute	heute	ADV	*	*	*	*
+22	soll	sollen	VMFIN	*	*	*	*
+23	ein	eine	ART	*	*	*	*
+24	Büro	Büro	NN	*	*	*	*
+25	in	in	APPR	*	*	*	*
+26	Reinickendorf	<unknown>	NN	*	*	*	*
+27	an	an	APPR	*	*	*	*
+28	der	die	ART	*	*	*	*
+29	Nonnendammallee	Nonnendammallee	NN	*	*	*	*
+30	eröffnet	eröffnen	VVPP	*	*	*	*
+31	werden	werden	VAINF	*	*	*	*
+32	.	.	$.	*	*	*	*
+
+# article_id = T950715.69
+# text = Tomislavgrad ( taz ) - In einem Talkessel in der Nähe von Tomislavgrad in der Westherzegowina haben die französischen Truppen ihre Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Tomislavgrad	<unknown>	NE	*	*	*	*
+2	(	(	$(	*	*	*	*
+3	taz	<unknown>	NE	*	*	*	*
+4	)	)	$(	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	In	in	APPR	*	*	*	*
+7	einem	eine	ART	*	*	*	*
+8	Talkessel	Talkessel	NN	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	der	die	ART	*	*	*	*
+11	Nähe	Nähe	NN	*	*	*	*
+12	von	von	APPR	*	*	*	*
+13	Tomislavgrad	<unknown>	NN	*	*	*	*
+14	in	in	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Westherzegowina	Westherzegowina	NE	*	*	*	*
+17	haben	haben	VAFIN	*	*	*	*
+18	die	die	ART	*	*	*	*
+19	französischen	französisch	ADJA	*	*	*	*
+20	Truppen	Truppe	NN	*	*	*	*
+21	ihre	ihr	PPOSAT	*	*	*	*
+22	Zelte	Zelt	NN	4	1	2	3
+23	aufgeschlagen	aufschlagen	VVPP	4	1	2	3
+24	.	.	$.	*	*	*	*
+
+# article_id = T950725.95
+# text = Heruntergetraut haben sie sich erst wieder , als Anfang März die ersten unabhängigen " Friedensbeobachter " ihre Zelte im Dorf aufschlugen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Heruntergetraut	<unknown>	NE	*	*	*	*
+2	haben	haben	VAFIN	*	*	*	*
+3	sie	sie	PPER	*	*	*	*
+4	sich	sich	PRF	*	*	*	*
+5	erst	erst	ADV	*	*	*	*
+6	wieder	wieder	ADV	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	als	als	KOKOM	*	*	*	*
+9	Anfang	Anfang	NN	*	*	*	*
+10	März	März	NN	*	*	*	*
+11	die	die	ART	*	*	*	*
+12	ersten	erst	ADJA	*	*	*	*
+13	unabhängigen	unabhängig	ADJA	*	*	*	*
+14	"	"	$(	*	*	*	*
+15	Friedensbeobachter	Friedensbeobachter	NN	*	*	*	*
+16	"	"	$(	*	*	*	*
+17	ihre	ihr	PPOSAT	*	*	*	*
+18	Zelte	Zelt	NN	4	2	2	2
+19	im	in	APPRART	*	*	*	*
+20	Dorf	Dorf	NN	*	*	*	*
+21	aufschlugen	aufschlagen	VVFIN	4	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T950724.181
+# text = Sie gastierten bereits in Amsterdam und München und haben jetzt für zwei Wochen auf dem Potsdamer Platz ihr strahlendweißes Zelt aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Sie	Sie	PPER	*	*	*	*
+2	gastierten	gastieren	VVFIN	*	*	*	*
+3	bereits	bereits	ADV	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	Amsterdam	Amsterdam	NE	*	*	*	*
+6	und	und	KON	*	*	*	*
+7	München	München	NE	*	*	*	*
+8	und	und	KON	*	*	*	*
+9	haben	haben	VAFIN	*	*	*	*
+10	jetzt	jetzt	ADV	*	*	*	*
+11	für	für	APPR	*	*	*	*
+12	zwei	zwei	CARD	*	*	*	*
+13	Wochen	Woche	NN	*	*	*	*
+14	auf	auf	APPR	*	*	*	*
+15	dem	die	ART	*	*	*	*
+16	Potsdamer	Potsdamer	NN	*	*	*	*
+17	Platz	Platz	NN	*	*	*	*
+18	ihr	ihr	PPOSAT	*	*	*	*
+19	strahlendweißes	<unknown>	ADJA	*	*	*	*
+20	Zelt	Zelt	NN	1	1	1	1
+21	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+22	.	.	$.	*	*	*	*
+
+# article_id = T951215.245
+# text = Und nun bietet man Ihnen an , daß Sie in Ihrem eigenen Hinterhof ein Zelt aufschlagen dürfen .
+# context_judgement_1 = 1
+# context_judgement_2 = 1
+1	Und	und	KON	*	*	*	*
+2	nun	nun	ADV	*	*	*	*
+3	bietet	bieten	VVFIN	*	*	*	*
+4	man	man	PIS	*	*	*	*
+5	Ihnen	Sie	PPER	*	*	*	*
+6	an	an	PTKVZ	*	*	*	*
+7	,	,	$,	*	*	*	*
+8	daß	dass	KOUS	*	*	*	*
+9	Sie	Sie	PPER	*	*	*	*
+10	in	in	APPR	*	*	*	*
+11	Ihrem	ihr	PPOSAT	*	*	*	*
+12	eigenen	eigen	ADJA	*	*	*	*
+13	Hinterhof	Hinterhof	NN	*	*	*	*
+14	ein	eine	ART	*	*	*	*
+15	Zelt	Zelt	NN	1	1	1	1
+16	aufschlagen	aufschlagen	VVINF	1	1	1	1
+17	dürfen	dürfen	VMINF	*	*	*	*
+18	.	.	$.	*	*	*	*
+
+# article_id = T950831.198
+# text = Auch die Fernsehsender haben an jeder Ecke ihre Zelte aufgeschlagen : " Und hier ist er : Max Schautzer !
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Auch	auch	ADV	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	Fernsehsender	Fernsehsender	NN	*	*	*	*
+4	haben	haben	VAFIN	*	*	*	*
+5	an	an	APPR	*	*	*	*
+6	jeder	jede	PIAT	*	*	*	*
+7	Ecke	Ecke	NN	*	*	*	*
+8	ihre	ihr	PPOSAT	*	*	*	*
+9	Zelte	Zelt	NN	2	1	2	2
+10	aufgeschlagen	aufschlagen	VVPP	2	1	2	2
+11	:	:	$.	*	*	*	*
+12	"	"	$(	*	*	*	*
+13	Und	und	KON	*	*	*	*
+14	hier	hier	ADV	*	*	*	*
+15	ist	sein	VAFIN	*	*	*	*
+16	er	er	PPER	*	*	*	*
+17	:	:	$.	*	*	*	*
+18	Max	Max	NE	*	*	*	*
+19	Schautzer	<unknown>	NN	*	*	*	*
+20	!	!	$.	*	*	*	*
+
+# article_id = T950821.97
+# text = Am Ende sind es etwa dreitausend Menschen , die ihre Zelte und Tipis auf der Wiese und in den angrenzenden Waldstreifen aufgeschlagen haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Am	an	APPRART	*	*	*	*
+2	Ende	Ende	NN	*	*	*	*
+3	sind	sein	VAFIN	*	*	*	*
+4	es	es	PPER	*	*	*	*
+5	etwa	etwa	ADV	*	*	*	*
+6	dreitausend	dreitausend	CARD	*	*	*	*
+7	Menschen	Mensch	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	die	die	PRELS	*	*	*	*
+10	ihre	ihr	PPOSAT	*	*	*	*
+11	Zelte	Zelt	NN	1	1	1	1
+12	und	und	KON	*	*	*	*
+13	Tipis	<unknown>	NN	*	*	*	*
+14	auf	auf	APPR	*	*	*	*
+15	der	die	ART	*	*	*	*
+16	Wiese	Wiese	NN	*	*	*	*
+17	und	und	KON	*	*	*	*
+18	in	in	APPR	*	*	*	*
+19	den	die	ART	*	*	*	*
+20	angrenzenden	angrenzend	ADJA	*	*	*	*
+21	Waldstreifen	Waldstreifen	NN	*	*	*	*
+22	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+23	haben	haben	VAFIN	*	*	*	*
+24	.	.	$.	*	*	*	*
+
+# article_id = T950327.220
+# text = Um die großen Kulturdörfer - Bremer Theater , Philharmonusche Gesellschaft , Kunstverein - haben sich Kulturbeduinen niedergelassen und ihre Zelte aufgeschlagen .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Um	um	APPR	*	*	*	*
+2	die	die	ART	*	*	*	*
+3	großen	groß	ADJA	*	*	*	*
+4	Kulturdörfer	<unknown>	NN	*	*	*	*
+5	-	-	$(	*	*	*	*
+6	Bremer	Bremer	NE	*	*	*	*
+7	Theater	Theater	NN	*	*	*	*
+8	,	,	$,	*	*	*	*
+9	Philharmonusche	<unknown>	NN	*	*	*	*
+10	Gesellschaft	Gesellschaft	NN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	Kunstverein	Kunstverein	NN	*	*	*	*
+13	-	-	$(	*	*	*	*
+14	haben	haben	VAFIN	*	*	*	*
+15	sich	sich	PRF	*	*	*	*
+16	Kulturbeduinen	<unknown>	NN	*	*	*	*
+17	niedergelassen	niederlassen	VVPP	*	*	*	*
+18	und	und	KON	*	*	*	*
+19	ihre	ihr	PPOSAT	*	*	*	*
+20	Zelte	Zelt	NN	2	2	2	2
+21	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+22	.	.	$.	*	*	*	*
+
+# article_id = T951106.175
+# text = Das Versprechen wurde nun mit Hilfe aller Medien in die deutsche Welt hinaustrompetet : Er komme ohne Lisa Presley , seine Frau werde in einem Kölner Hotel eine ganze Suite belegen , zudem würden seine Fans mit Getränken versorgt , wenn sie ihre Zelte vor der Herberge aufgeschlagen haben .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Das	die	ART	*	*	*	*
+2	Versprechen	Versprechen	NN	*	*	*	*
+3	wurde	werden	VAFIN	*	*	*	*
+4	nun	nun	ADV	*	*	*	*
+5	mit	mit	APPR	*	*	*	*
+6	Hilfe	Hilfe	NN	*	*	*	*
+7	aller	alle	PIAT	*	*	*	*
+8	Medien	Medium	NN	*	*	*	*
+9	in	in	APPR	*	*	*	*
+10	die	die	ART	*	*	*	*
+11	deutsche	deutsch	ADJA	*	*	*	*
+12	Welt	Welt	NN	*	*	*	*
+13	hinaustrompetet	<unknown>	VVFIN	*	*	*	*
+14	:	:	$.	*	*	*	*
+15	Er	er	PPER	*	*	*	*
+16	komme	kommen	VVFIN	*	*	*	*
+17	ohne	ohne	APPR	*	*	*	*
+18	Lisa	Lisa	NE	*	*	*	*
+19	Presley	<unknown>	NE	*	*	*	*
+20	,	,	$,	*	*	*	*
+21	seine	sein	PPOSAT	*	*	*	*
+22	Frau	Frau	NN	*	*	*	*
+23	werde	werden	VAFIN	*	*	*	*
+24	in	in	APPR	*	*	*	*
+25	einem	eine	ART	*	*	*	*
+26	Kölner	Kölner	ADJA	*	*	*	*
+27	Hotel	Hotel	NN	*	*	*	*
+28	eine	eine	ART	*	*	*	*
+29	ganze	ganz	ADJA	*	*	*	*
+30	Suite	Suite	NN	*	*	*	*
+31	belegen	belegen	VVINF	*	*	*	*
+32	,	,	$,	*	*	*	*
+33	zudem	zudem	ADV	*	*	*	*
+34	würden	werden	VAFIN	*	*	*	*
+35	seine	sein	PPOSAT	*	*	*	*
+36	Fans	Fan	NN	*	*	*	*
+37	mit	mit	APPR	*	*	*	*
+38	Getränken	Getränk	NN	*	*	*	*
+39	versorgt	versorgen	VVPP	*	*	*	*
+40	,	,	$,	*	*	*	*
+41	wenn	wenn	KOUS	*	*	*	*
+42	sie	sie	PPER	*	*	*	*
+43	ihre	ihr	PPOSAT	*	*	*	*
+44	Zelte	Zelt	NN	1	1	1	1
+45	vor	vor	APPR	*	*	*	*
+46	der	die	ART	*	*	*	*
+47	Herberge	Herberge	NN	*	*	*	*
+48	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+49	haben	haben	VAFIN	*	*	*	*
+50	.	.	$.	*	*	*	*
+
+# article_id = T990205.198
+# text = Wo das Temprodrom in der Zwischenzeit seine Zelte aufschlagen kann , ist nach wie vor unklar .
+# context_judgement_1 = 0
+# context_judgement_2 = 0
+1	Wo	wo	PWAV	*	*	*	*
+2	das	die	ART	*	*	*	*
+3	Temprodrom	<unknown>	NN	*	*	*	*
+4	in	in	APPR	*	*	*	*
+5	der	die	ART	*	*	*	*
+6	Zwischenzeit	Zwischenzeit	NN	*	*	*	*
+7	seine	sein	PPOSAT	*	*	*	*
+8	Zelte	Zelt	NN	2	2	2	2
+9	aufschlagen	aufschlagen	VVINF	2	2	2	2
+10	kann	können	VMFIN	*	*	*	*
+11	,	,	$,	*	*	*	*
+12	ist	sein	VAFIN	*	*	*	*
+13	nach	nach	ADV	*	*	*	*
+14	wie	wie	KOKOM	*	*	*	*
+15	vor	vor	ADV	*	*	*	*
+16	unklar	unklar	ADJD	*	*	*	*
+17	.	.	$.	*	*	*	*
+

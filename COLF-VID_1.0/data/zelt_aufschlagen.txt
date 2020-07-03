@@ -1,4 +1,5 @@
-# article_id = T890513.148
+# tuepp_article_id = T890513.148
+# sent_id = 6128
 # text = Sechs Wochen ist es her , daß die " Wilde Wutz " , so der Name der Besetzer , ihre Zelte auf dem Gelände am Spreebogen aufschlugen , um einen Abriß der halb verfallenen Häuser zu verhindern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -41,7 +42,8 @@
 37	verhindern	verhindern	VVINF	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T890529.23
+# tuepp_article_id = T890529.23
+# sent_id = 6129
 # text = Zwischen dem Meer aus roten Fahnen , die symbolisch den Platz weiterbesetzen , haben die verbliebenen Studenten Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -66,7 +68,8 @@
 19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T890531.105
+# tuepp_article_id = T890531.105
+# sent_id = 6130
 # text = Auf dem Tiananmen wurden gestern zusätzliche Zelte aufgeschlagen und mit Lastwagen Vorräte herbeigeschafft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -85,7 +88,8 @@
 13	herbeigeschafft	herbeischaffen	VVPP	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T890523.196
+# tuepp_article_id = T890523.196
+# sent_id = 6131
 # text = Die BesetzerInnen der Oranienstraße 192 , die - nachdem die Polizei sie am Samstag früh geräumt hatte - ihre Zelte auf dem Mariannenplatz aufgeschlagen haben , sind sich sicher : " Wir werden hier sowieso geräumt " , prophezeit einer der rund 35 BesetzerInnen düster und beklagt das Desinteresse des Bezirksamtes an ihrer Situation .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -145,7 +149,8 @@
 54	Situation	Situation	NN	*	*	*	*
 55	.	.	$.	*	*	*	*
 
-# article_id = T891007.202
+# tuepp_article_id = T891007.202
+# sent_id = 6132
 # text = Elf Personen haben bereits vor drei Monaten dort wegen Obdachlosigkeit ihre Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -164,7 +169,8 @@
 13	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 14	.	.	$.	*	*	*	*
 
-# article_id = T890912.52
+# tuepp_article_id = T890912.52
+# sent_id = 6133
 # text = Nicht zuletzt ist da noch die Frage , wo denn der Zirkus Karajani 1991 seine Zelte aufschlagen soll , wenn der Scharounbau wegen Asbests geschlossen wird .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -196,7 +202,8 @@
 26	wird	werden	VAFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T890116.209
+# tuepp_article_id = T890116.209
+# sent_id = 6134
 # text = Direkt hinter dem Garten des örtlichen Heizungsunternehmens Jürgens haben Bundeswehr-Soldaten zwei Zelte in den morastigen Wiesen aufgeschlagen , einen Steinwurf entfernt kampieren britische Wachmannschaften .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -226,7 +233,8 @@
 24	Wachmannschaften	Wachmannschaft	NN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T890104.39
+# tuepp_article_id = T890104.39
+# sent_id = 6135
 # text = Am Ufer des Flusses , der entlang der Schotterpiste verläuft , sind einige Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -247,7 +255,8 @@
 15	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 16	.	.	$.	*	*	*	*
 
-# article_id = T890717.61
+# tuepp_article_id = T890717.61
+# sent_id = 6136
 # text = Mit John Steinbecks The Pearl eröffnete das " Footsbarn Travelling Theatre " am Freitag abend die " Mir Karawane " , das internationale Festival freier Theatergruppen , das bis zum 30. Juli seine Zelte in West-Berlin zwischen Siegessäule und Brandenburger Tor aufgeschlagen hat .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -297,9 +306,10 @@
 44	hat	haben	VAFIN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
-# article_id = T890729.93
+# tuepp_article_id = T890729.93
+# sent_id = 6137
 # text = Hunderte von Bergleuten sind Anfang Juli während der bundesweiten Ferienwochen der Bergarbeiter hergekommen und haben ihre Zelte und Wohnmobile im " Camp Solidarity " aufgeschlagen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Hunderte	Hundert	NN	*	*	*	*
 2	von	von	APPR	*	*	*	*
@@ -328,7 +338,8 @@
 25	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 26	.	.	$.	*	*	*	*
 
-# article_id = T890831.225
+# tuepp_article_id = T890831.225
+# sent_id = 6138
 # text = In ihrer Verzweifelung planen sie stattdessen jetzt , auf dem Marktplatz demonstrativ ihr Zelt aufzuschlagen , um auf ihre Notlage aufmerksam zu machen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -359,7 +370,8 @@
 25	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 26	.	.	$.	*	*	*	*
 
-# article_id = T890201.82
+# tuepp_article_id = T890201.82
+# sent_id = 6139
 # text = Entlang der Straße zum Flughafen waren Tausende von Zelten aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -375,9 +387,10 @@
 10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 11	.	.	$.	*	*	*	*
 
-# article_id = T910524.209
+# tuepp_article_id = T910524.209
+# sent_id = 6140
 # text = Ein Brückenschlag ist bestimmt schon geglückt : Einige Stücke kennt man noch von Parody Paradise , der Wanderbühne , die letztes Jahr am Blücherplatz ihr Zelt aufgeschlagen hatte .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Ein	eine	ART	*	*	*	*
 2	Brückenschlag	Brückenschlag	NN	*	*	*	*
@@ -409,7 +422,8 @@
 28	hatte	haben	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T910502.60
+# tuepp_article_id = T910502.60
+# sent_id = 6141
 # text = In den grünen Wiesen haben die ersten Rückkehrer vor Tagen bereits ihr Zelte aufgeschlagen : " Wir warten auf die Erlaubnis der Alliierten , zurückzukehren " , erklärt eine Gruppe von Flüchtlingen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -447,7 +461,8 @@
 32	Flüchtlingen	Flüchtling	NN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T910611.30
+# tuepp_article_id = T910611.30
+# sent_id = 6142
 # text = Die US-amerikanischen Militärbehörden aber , die auf den Philippinen mehrere Stützpunkte unterhalten , sie kannten die Gefahr - was sie offenbar nicht daran hinderte , nur etwa 16 Kilometer vom feuerspeienden Riesen entfernt ihre Zelte aufzuschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -485,7 +500,8 @@
 32	Flüchtlingen	Flüchtling	NN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T910618.20
+# tuepp_article_id = T910618.20
+# sent_id = 6143
 # text = Für die nächtliche Wache am Lager hatten zahlreiche Besetzer Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -502,7 +518,8 @@
 11	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 12	.	.	$.	*	*	*	*
 
-# article_id = T910618.172
+# tuepp_article_id = T910618.172
+# sent_id = 6144
 # text = Das Tempodrom , das genau in der heißen Zone zwischen Kongreßhalle und Reichstag seine Zelte aufgeschlagen hat , wurde laut Mabel erst am Freitag von den geplanten Maßnahmen informiert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -537,7 +554,8 @@
 29	informiert	informieren	VVPP	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T911009.173
+# tuepp_article_id = T911009.173
+# sent_id = 6145
 # text = Kaum hatte er aber die Zelte aufgeschlagen , da steuerten auch schon alle Beteiligten auf einen Dauerclinch zu .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -561,7 +579,8 @@
 18	zu	zu	PTKVZ	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T910129.173
+# tuepp_article_id = T910129.173
+# sent_id = 6146
 # text = In einem Brief » an die Gruppe , die zur Zeit ihr Zelt am neuen Turm der Kaiser-Wilhem-Gedächtniskirche aufgeschlagen hat « , so die Adressierung von Pfarrer Soppa , der auch Vorsitzender des Gemeindekirchenrates ist , werden die durchgefrorenen Demonstranten aufgefordert , » unser Kirchengelände zu verlassen « .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -615,9 +634,10 @@
 48	«	<unknown>	VVFIN	*	*	*	*
 49	.	.	$.	*	*	*	*
 
-# article_id = T910712.206
+# tuepp_article_id = T910712.206
+# sent_id = 6147
 # text = Direkt hinter der Kongresshalle haben rund 70 Künstler aller Couleur ihre Zelte aufgeschlagen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Direkt	direkt	ADJD	*	*	*	*
 2	hinter	hinter	APPR	*	*	*	*
@@ -634,7 +654,8 @@
 13	aufgeschlagen	aufschlagen	VVPP	2	3	1	3
 14	.	.	$.	*	*	*	*
 
-# article_id = T911104.192
+# tuepp_article_id = T911104.192
+# sent_id = 6148
 # text = Genau daran scheitert ein kleiner Wanderzirkus , der seine Zelte in irgendeinem Dorf Vietnams aufgeschlagen hat .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -656,7 +677,8 @@
 16	hat	haben	VAFIN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T900502.231
+# tuepp_article_id = T900502.231
+# sent_id = 6149
 # text = Ganze zwei ( in Zahlen : 2 ) Zelte wurden unter den unbestechlichen Augen von drei TV-Teams schließlich aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -681,7 +703,8 @@
 19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T900502.241
+# tuepp_article_id = T900502.241
+# sent_id = 6150
 # text = In Bremen waren die Roma dagegen sogar vom Marktplatz vertrieben worden , als sie versuchten , dort Zelte für die Nacht aufzuschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -706,7 +729,8 @@
 19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T900905.99
+# tuepp_article_id = T900905.99
+# sent_id = 6151
 # text = Mit einem Zirkuseingang aus angemalten Pappwänden , mit eifrig angekarrten Palmen und frisch aufgeschlagenen Zelten ( für die Fernsehteams ) .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -732,9 +756,10 @@
 20	)	)	$(	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T900919.22
+# tuepp_article_id = T900919.22
+# sent_id = 6152
 # text = Dort hatten bereits vor Tagen junge Leute ihre Zelte aufgeschlagen und halten seither eine Mahnwache ab .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Dort	dort	ADV	*	*	*	*
 2	hatten	haben	VAFIN	*	*	*	*
@@ -754,7 +779,8 @@
 16	ab	ab	PTKVZ	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T900705.71
+# tuepp_article_id = T900705.71
+# sent_id = 6153
 # text = Rostock ( dpa ) - 98 Zöllner aus dem Bundesgebiet haben vorübergehend ihre Zelte jenseits der ehemaligen innerdeutschen Grenze aufgeschlagen , um ihre DDR-Kollegen bis zum 10. August in berufsinternen Fragen zu beraten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -794,7 +820,8 @@
 34	beraten	beraten	VVINF	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T900822.92
+# tuepp_article_id = T900822.92
+# sent_id = 6154
 # text = Vor zwei Wochen verhinderte die " Bürgergemeinschaft Ahmsen " , daß die Stadt in Ahmsen , ein anderer Ortsteil von Salzufflen , Zelte für die Roma aufschlug , um " die Lage in Schötmar zu entzerren " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -837,7 +864,8 @@
 37	"	"	$(	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T900822.92
+# tuepp_article_id = T900822.92
+# sent_id = 6155
 # text = Am 8. August entschied der Salzuffler Hauptausschuß : Der " Dringlichkeitsbeschluß " , in Ahmsen Zelte für die Roma aufzuschlagen , wird bekräftigt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -880,7 +908,8 @@
 37	"	"	$(	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T900801.251
+# tuepp_article_id = T900801.251
+# sent_id = 6156
 # text = " Wenn wir abgeschoben werden , dann sollen es alle sehen " Foto : Wolfram Steinberg Rund 30 der 150 in Bremerhaven von Abschiebung bedrohten Roma haben gestern ihre Zelte in Bremen aufgeschlagen - und zwar direkt im Vorgarten des Innensenators an der Contrescarpe .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -930,9 +959,10 @@
 44	Contrescarpe	<unknown>	NN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
-# article_id = T900317.134
+# tuepp_article_id = T900317.134
+# sent_id = 6157
 # text = Hanns Joachim Friedrichs lädt Politprominenz ins Restaurant Spreeblick , Günter Jauch veranstaltet eine Party im Berliner Ballsaal , Sat1 hat seine Zelte im Palasthotel aufgeschlagen , und RTL plus berichtet aus dem Theater im Palast der Republik .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Hanns	Hanns	NE	*	*	*	*
 2	Joachim	Joachim	NE	*	*	*	*
@@ -973,7 +1003,8 @@
 37	Republik	Republik	NN	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T920928.227
+# tuepp_article_id = T920928.227
+# sent_id = 6158
 # text = Ins Schußfeuer der Kritik ist vor allem der kleine " Cirkus Huberti " geraten , der an der Moorweide seine Zelte aufgeschlagen hat .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1002,7 +1033,8 @@
 23	hat	haben	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T920128.60
+# tuepp_article_id = T920128.60
+# sent_id = 6159
 # text = Israelische Polizisten und Soldaten haben am Sonntag Israelis von jordanischem Gebiet zurückgeholt , die dort nach Angaben der israelischen Armee mehrere Meter von der Grenze zu Israel entfernt zwei Zelte aufgeschlagen hatten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1040,7 +1072,8 @@
 32	hatten	haben	VAFIN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T920408.231
+# tuepp_article_id = T920408.231
+# sent_id = 6160
 # text = Im Oktober sodann wird in Bremen ein großes Zelt aufgeschlagen , darinnen geht eine Buffalo Bill Show , wiewohl kritisch , mit Piff und Paff über die Manege .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1074,7 +1107,8 @@
 28	Manege	Manege	NN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T920806.175
+# tuepp_article_id = T920806.175
+# sent_id = 6161
 # text = Die Compagnia Buffo hat ihr Zelt in Bremen aufgeschlagen , und die " Parade " über den Bremer Markt erinnert daran , was " Markt " auch mal war : Gesang , Musik und Lustbarkeit , Gegaukel und derber Spaß .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1120,7 +1154,8 @@
 40	Spaß	Spaß	NN	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T921113.82
+# tuepp_article_id = T921113.82
+# sent_id = 6162
 # text = " Die Gelegenheit dazu findet er , als er 1979 für ein Jahr nach Deutschland eingeladen wird und seine Zelte im Ruhrgebiet aufschlägt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1149,7 +1184,8 @@
 23	aufschlägt	aufschlagen	VVFIN	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T921104.64
+# tuepp_article_id = T921104.64
+# sent_id = 6163
 # text = Die Grabenkämpfe bei den Torys werden aus dem Oberhaus gesteuert , wo Majors Vorgängerin , Baronin Margaret Thatcher , inzwischen ihre Zelte aufgeschlagen hat .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1179,7 +1215,8 @@
 24	hat	haben	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T921121.100
+# tuepp_article_id = T921121.100
+# sent_id = 6164
 # text = Als im letzten Sommer die weltweit erfolgreichste US-Male-Strip- Truppe " Chippendales " am Stadtrand ihr Zelt aufschlug , sorgten noch die vielen hier stationierten Amerikanerinnen für stundenlanges ohrenbetäubendes Soprankreischen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1214,7 +1251,8 @@
 29	Soprankreischen	<unknown>	NN	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T880118.61
+# tuepp_article_id = T880118.61
+# sent_id = 6165
 # text = Da weder ein Zirkus seine Zelte aufgeschlagen hat noch die Bevölkerung auf den unausweichlich scheinenden Entscheidungskampf gegen die linken Guerilleros eingestimmt werden soll , kann es sich nur um Wahlen handeln .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1251,7 +1289,8 @@
 31	handeln	handeln	VVINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T881221.176
+# tuepp_article_id = T881221.176
+# sent_id = 6166
 # text = Werner Alfke , Pressesprecher des Sozialsenators , tags darauf : " Wir machen es trotzdem " , weil sonst vielleicht bald Zelte auf der Bürgerweide aufgeschlagen werden müßten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1285,7 +1324,8 @@
 28	müßten	müssen	VMFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T881117.152
+# tuepp_article_id = T881117.152
+# sent_id = 6167
 # text = " Eine Frau und vier Männer aus der Türkei haben am Montag nachmittag zwischen der Bürgerschaft und dem Rathaus ein kleines Zelt aufgeschlagen und nehmen keine Nahrung mehr zu sich .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1321,7 +1361,8 @@
 30	sich	sich	PRF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T870623.36
+# tuepp_article_id = T870623.36
+# sent_id = 6168
 # text = Die ehemaligen Bewohner der besetzten Häuser planen jetzt , auf der Wiese neben dem Obdachlosenheim Zelte aufzuschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1357,7 +1398,8 @@
 30	sich	sich	PRF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T870917.10
+# tuepp_article_id = T870917.10
+# sent_id = 6169
 # text = Seit gut einer Woche hat das jüdische Ehepaar Gina und Michael Düllmann ein Zelt auf den Fundamenten der ehemaligen Synagoge aufgeschlagen , um die Bauarbeiten zu behindern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1390,7 +1432,8 @@
 27	behindern	behindern	VVINF	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T871209.79
+# tuepp_article_id = T871209.79
+# sent_id = 6170
 # text = Hunderte von kleinen Garküchen und Ausschankstellen für das Volksgetränk Makkoli haben am Rand des Platzes ihre Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1414,7 +1457,8 @@
 18	aufgeschlagen	aufschlagen	VVPP	4	3	2	3
 19	.	.	$.	*	*	*	*
 
-# article_id = T860918.18
+# tuepp_article_id = T860918.18
+# sent_id = 6171
 # text = In dreißig Meter Höhe montierten die Besetzer eine Plattform , auf der sie ein Zelt aufschlugen und sich häuslich niederließen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1440,7 +1484,8 @@
 20	niederließen	niederlassen	VVFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T860911.30
+# tuepp_article_id = T860911.30
+# sent_id = 6172
 # text = In den Dörfern wird ein großes Zelt aufgeschlagen , die Kader des DERG erscheinen , die Verfassung wird verlesen , ein paar Fragen oberflächlich beantwortet .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1471,7 +1516,8 @@
 25	beantwortet	beantworten	VVPP	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T930626.110
+# tuepp_article_id = T930626.110
+# sent_id = 6173
 # text = Daß bei Übernachtungen im Freien das Zelt auf einer zugbrückensicheren Pfahlkonstruktion aufgeschlagen werden sollte , versteht sich ja wohl von selbst .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1498,7 +1544,8 @@
 21	selbst	selbst	ADV	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T931022.102
+# tuepp_article_id = T931022.102
+# sent_id = 6174
 # text = Ach , Hollywood und Seattle ( wo sie auch mal ihre Zelte aufschlug ) und San Francisco : all diese Namen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1525,7 +1572,8 @@
 21	Namen	Name	NN	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T930925.85
+# tuepp_article_id = T930925.85
+# sent_id = 6175
 # text = In den Tälern kann das Zelt aufgeschlagen oder ein Gasthof aufgesucht werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1543,7 +1591,8 @@
 12	werden	werden	VAINF	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T930918.53
+# tuepp_article_id = T930918.53
+# sent_id = 6176
 # text = 167 taiwanesische Aussteller haben in Köln ihre Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1558,7 +1607,8 @@
 9	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T930422.111
+# tuepp_article_id = T930422.111
+# sent_id = 6177
 # text = Weil es sich ja doch irgendwie nicht so rasend gut debattieren läßt , wenn einem die Kugeln um die Ohren pfeifen , hat der PEN-Kongress seine Zelte nun doch nicht in Dubrovnik aufgeschlagen , sondern auf der kroatischen Insel Hvar .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1604,7 +1654,8 @@
 40	Hvar	<unknown>	NE	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T930715.20
+# tuepp_article_id = T930715.20
+# sent_id = 6178
 # text = Noch gibt das Kehler Sozialamt täglich Essensgutscheine aus , bringen Bürger Spenden zum ehemaligen Truppenübungsgelände , auf dem die Flüchtlinge ihre Zelte aufgeschlagen haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1634,7 +1685,8 @@
 24	haben	haben	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T930726.36
+# tuepp_article_id = T930726.36
+# sent_id = 6179
 # text = Im Schutz der Baumreihe werden die Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1648,7 +1700,8 @@
 8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 9	.	.	$.	*	*	*	*
 
-# article_id = T931215.125
+# tuepp_article_id = T931215.125
+# sent_id = 6180
 # text = Das Hochbauamt des Bezirksamts Mitte hatte zuvor untersagt , ein solches Zelt aufzuschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1662,7 +1715,8 @@
 8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 9	.	.	$.	*	*	*	*
 
-# article_id = T930311.116
+# tuepp_article_id = T930311.116
+# sent_id = 6181
 # text = Jedenfalls hat also dieser Spielberg seine Zelte vor den Toren des ehemaligen Konzentrationslagers Auschwitz aufgeschlagen , wo er mit den Dreharbeiten zu seinem Film Die Schindler-Liste begonnen hat .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1696,9 +1750,10 @@
 28	hat	haben	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T960506.230
+# tuepp_article_id = T960506.230
+# sent_id = 6182
 # text = Die ersten fünf Zelte sind inzwischen aufgeschlagen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	ersten	erst	ADJA	*	*	*	*
@@ -1709,9 +1764,10 @@
 7	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 8	.	.	$.	*	*	*	*
 
-# article_id = T961011.236
+# tuepp_article_id = T961011.236
+# sent_id = 6183
 # text = Nicht nur Born und Buch , die beide in der Dickhardtstraße 48 wohnten , hatten in Friedenau ihre Zelte aufgeschlagen , sondern auch Hans Magnus Enzensberger , Günter Herburger , Christoph Meckel oder Günter Bruno Fuchs .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Nicht	nicht	PTKNEG	*	*	*	*
 2	nur	nur	ADV	*	*	*	*
@@ -1751,7 +1807,8 @@
 36	Fuchs	Fuchs	NE	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T960927.196
+# tuepp_article_id = T960927.196
+# sent_id = 6184
 # text = Allen gemeinsam ist , daß sie ihre Zelte in einem Hausprojekt aufgeschlagen haben , für das sie selber verantwortlich sind .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1777,7 +1834,8 @@
 20	sind	sein	VAFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T960706.245
+# tuepp_article_id = T960706.245
+# sent_id = 6185
 # text = 367 Dauercamper haben dieses Jahr hier ihre Zelte aufgeschlagen , das sind etwa doppelt so viele wie noch vor vier Jahren .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1804,9 +1862,10 @@
 21	Jahren	Jahr	NN	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T960726.86
+# tuepp_article_id = T960726.86
+# sent_id = 6186
 # text = Allein in Aguas Blancas - im Juni 1995 Schauplatz des Bauern-Massakers - haben rund 500 Soldaten ihre Zelte aufgeschlagen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Allein	allein	ADV	*	*	*	*
 2	in	in	APPR	*	*	*	*
@@ -1829,7 +1888,8 @@
 19	aufgeschlagen	aufschlagen	VVPP	2	2	3	2
 20	.	.	$.	*	*	*	*
 
-# article_id = T960306.146
+# tuepp_article_id = T960306.146
+# sent_id = 6187
 # text = Eines Nachmittags , als man die ganze Sache wieder einmal gründlich durchging und Espinosas Witwe auch im Laden war , sagte sie mit geheimnisvoller Miene , daß ihrer Meinung nach etwas viel Schrecklicheres passiert sei ; der junge Mann hatte , wie wir alle ja wüßten , sein Zelt in der Nähe ihres Hauses aufgeschlagen , und obwohl sie , genau wie wir , ihn lange nicht mehr gesehen hätte , wäre sein Zelt immer noch da , und es käme ihr doch sehr seltsam - sie wiederholte die Worte : sehr seltsam - vor , daß sie das Zelt nicht mitgenommen hätten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1938,7 +1998,8 @@
 103	hätten	haben	VAFIN	*	*	*	*
 104	.	.	$.	*	*	*	*
 
-# article_id = T980507.268
+# tuepp_article_id = T980507.268
+# sent_id = 6188
 # text = Das " Atelier Blauschimmel " hat seine Zelte in der Oldenburger Kulturetage aufgeschlagen und bietet allen Normalen und Verrückten Kurse und Workshops in den Bereichen Musik , Theater , Tanz , Masken etc an .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1978,7 +2039,8 @@
 34	an	an	PTKVZ	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T980516.378
+# tuepp_article_id = T980516.378
+# sent_id = 6189
 # text = Zwischen den buntbemalten Häuserfassaden hat das Rote Kreuz ein riesiges Zelt aufgeschlagen , weiter unten spielen Jugendliche Basketball .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2002,9 +2064,10 @@
 18	Basketball	Basketball	NN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T980502.231
+# tuepp_article_id = T980502.231
+# sent_id = 6190
 # text = Außerdem liege ein Angebot der Berliner Bäder-Betriebe ( BBB ) vor , die Zelte dauerhaft vor einem der Bäder aufzuschlagen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Zwischen	zwischen	APPR	*	*	*	*
 2	den	die	ART	*	*	*	*
@@ -2026,7 +2089,8 @@
 18	Basketball	Basketball	NN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T980529.343
+# tuepp_article_id = T980529.343
+# sent_id = 6191
 # text = Wenn die Band nicht gerade auf irgendeiner Bühne steht , werden die Zelte in San Francisco aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2049,7 +2113,8 @@
 17	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T980127.210
+# tuepp_article_id = T980127.210
+# sent_id = 6192
 # text = Wer sich aus traditionell milde verengter fränkischer Perspektive ( auch mir ist Nau nur allzu vertraut , und damals war der Besenbeck ein Haushaltswarengeschäft und die Wurst kaufte man beim Henninger ) schwer tut mit der Gewöhnung an die Sprachökonomisierung , der war noch nicht in Tü , also im sprichwörtlich sparsamen Schwaben , woselbst man mit dem Tübus von Hegel zu Bloch kutschiert wird , freilich verkehrsmäßig in Schwierigkeiten geraten kann , sofern man in Kadingen ( Kusterdingen ) oder gar dem zungenbrechenden Kafurt ( Kirchentellinsfurt ) seine Zelte aufgeschlagen hat !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2147,9 +2212,10 @@
 92	hat	haben	VAFIN	*	*	*	*
 93	!	!	$.	*	*	*	*
 
-# article_id = T980715.174
+# tuepp_article_id = T980715.174
+# sent_id = 6193
 # text = Ist ja schließlich öffentlich-rechtliches , pädagogisch wertvolles Terrain , auf dem der Zirkus sein Zelt aufgeschlagen hat .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Ist	sein	VAFIN	*	*	*	*
 2	ja	ja	ADV	*	*	*	*
@@ -2170,7 +2236,8 @@
 17	hat	haben	VAFIN	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T980707.91
+# tuepp_article_id = T980707.91
+# sent_id = 6194
 # text = Auf den Feldern nebenan , die mit drei Reihen Stacheldraht und einem Graben von der Garvaghy Road getrennt sind , haben die Oranier ihre Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2202,7 +2269,8 @@
 26	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 27	.	.	$.	*	*	*	*
 
-# article_id = T980714.132
+# tuepp_article_id = T980714.132
+# sent_id = 6195
 # text = " Die Kirche von Drumcree und die Felder , auf denen die Oranier ihre Zelte aufgeschlagen haben , gehören der Church of Ireland .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2231,9 +2299,10 @@
 23	Ireland	<unknown>	NE	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T981229.191
+# tuepp_article_id = T981229.191
+# sent_id = 6196
 # text = Hatte sie ursprünglich ihre Zelte an der Moldau nur deshalb aufgeschlagen , um bald , vor Ort , über einen anstehenden slowakisch-tschechischen Bürgerkrieg zu berichten ?
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Hatte	haben	VAFIN	*	*	*	*
 2	sie	sie	PPER	*	*	*	*
@@ -2262,7 +2331,8 @@
 25	berichten	berichten	VVINF	*	*	*	*
 26	?	?	$.	*	*	*	*
 
-# article_id = T980805.140
+# tuepp_article_id = T980805.140
+# sent_id = 6197
 # text = Masahiko T. und sein Kollege Hiroshi K. haben mit rund 1.500 anderen Obdachlosen unter Bäumen ihr Zelt aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2286,7 +2356,8 @@
 18	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 19	.	.	$.	*	*	*	*
 
-# article_id = T980807.216
+# tuepp_article_id = T980807.216
+# sent_id = 6198
 # text = Warum er nun ausgerechnet in Berlin seine Zelte aufschlagen mußte , ist ein Rätsel , das bei der "Popstar"-Record- Release-Party vielleicht seine Auflösung erfährt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2317,9 +2388,10 @@
 25	erfährt	erfahren	VVFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T980813.187
+# tuepp_article_id = T980813.187
+# sent_id = 6199
 # text = Dieser Umstand ändere jedoch nichts an der erklärten Absicht , das Zelt bis zum 31. Juli 1999 auf dem Schloßplatz aufzuschlagen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Warum	warum	PWAV	*	*	*	*
 2	er	er	PPER	*	*	*	*
@@ -2348,7 +2420,8 @@
 25	erfährt	erfahren	VVFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T980828.32
+# tuepp_article_id = T980828.32
+# sent_id = 6200
 # text = Nach vertraulichen Informationen hat der Krasnojarsker Gouverneur und Ex-General Alexander Lebed im Vorzimmer Wiktor Stepanowitschs schon " ein Zelt aufgeschlagen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2375,7 +2448,8 @@
 21	"	"	$(	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T981109.78
+# tuepp_article_id = T981109.78
+# sent_id = 6201
 # text = Sie arbeitet in einem der Zelte , die neben der Turiner Kongreßhalle aufgeschlagen wurden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2395,7 +2469,8 @@
 14	wurden	werden	VAFIN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T980216.232
+# tuepp_article_id = T980216.232
+# sent_id = 6202
 # text = Denn im Oval der Stadthalle hatte offenbar ein Baumarkthändler seine Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2413,7 +2488,8 @@
 12	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T971002.228
+# tuepp_article_id = T971002.228
+# sent_id = 6203
 # text = Jeden Abend haben wir unsere Zelte in einem gewissen Abstand zu den Salzmännern aufgeschlagen , um sie und die Tiere nicht zu stören .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2442,7 +2518,8 @@
 23	stören	stören	VVINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T971031.96
+# tuepp_article_id = T971031.96
+# sent_id = 6204
 # text = Dort haben hungerstreikende rumänische Revolutionäre Anfang Oktober ihre Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2458,7 +2535,8 @@
 10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 11	.	.	$.	*	*	*	*
 
-# article_id = T970906.121
+# tuepp_article_id = T970906.121
+# sent_id = 6205
 # text = Mittlerweile ist das " Meerkabarett " , das bereits zum vierten Mal sein Zelt auf der Insel aufschlägt und von den " Fliegenden Bauten Produktionen " aus Hamburg organisiert wird , zu einer feststehenden Einrichtung geworden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2500,7 +2578,8 @@
 36	geworden	werden	VAPP	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T970726.114
+# tuepp_article_id = T970726.114
+# sent_id = 6206
 # text = Unten am Strand haben sie Zelte aufgeschlagen , vor denen sie , manche haben sogar ihre Kinder dabei , Marihuana rauchen und den ganzen Tag reglos in der Sonne liegen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2536,7 +2615,8 @@
 30	liegen	liegen	VVFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T970721.171
+# tuepp_article_id = T970721.171
+# sent_id = 6207
 # text = Seit der sogenannte Kanzler mit einem einfachen Spatenstich das größte Freizeitvergnügen , den Sonntagsmittagskick vor dem Reichstag , einfach unterbunden hat und das Tempodrom seine neuen Zelte auf dem Platz vor dem Anhalter Bahnhof aufzuschlagen plant , ist man auf der Suche nach einer neuen adäquaten Freizeitbeschäftigung und hat sie nun also am Rande des Volksparks Friedrichshain , auf der Werneuchener Wiese , gefunden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2572,7 +2652,8 @@
 30	liegen	liegen	VVFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T970703.261
+# tuepp_article_id = T970703.261
+# sent_id = 6208
 # text = Dieser West Port , für den das Zelt wieder am Deichtorplatz aufgeschlagen wird , könnte jedoch trotz eines nicht immer spannenden Programms künstlerisch wie kommerziell ein Erfolg werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2606,7 +2687,8 @@
 28	werden	werden	VAINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T971205.355
+# tuepp_article_id = T971205.355
+# sent_id = 6209
 # text = Und alle anderen , die ihre Zelte in der Hansestadt aufschlagen wollen , bräuchten sich doch nur an das großzügige Einwanderungsgesetz zu halten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2635,9 +2717,10 @@
 23	halten	halten	VVINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T940509.83
+# tuepp_article_id = T940509.83
+# sent_id = 6210
 # text = Ihre siebenköpfige Familie hat hier seit 40 Jahren ihr Zelt aufgeschlagen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Ihre	ihr	PPOSAT	*	*	*	*
 2	siebenköpfige	siebenköpfig	ADJA	*	*	*	*
@@ -2652,7 +2735,8 @@
 11	aufgeschlagen	aufschlagen	VVPP	2	2	1	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T940905.243
+# tuepp_article_id = T940905.243
+# sent_id = 6211
 # text = Eine Woche lang ist das schräge Stück ab heute auf den Osterdeichwiesen zu erleben , wo die Narrenkarawane ihre Zelte aufgeschlagen hat .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2680,7 +2764,8 @@
 22	hat	haben	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T940118.162
+# tuepp_article_id = T940118.162
+# sent_id = 6212
 # text = Berufsnarren , Pantomimen , Tänzer , Akrobaten und Clowns haben ab morgen bis 20. Januar ihre Zelte im Tagungszentrum Berlin-Mitte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2708,7 +2793,8 @@
 22	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
 23	.	.	$.	*	*	*	*
 
-# article_id = T940716.59
+# tuepp_article_id = T940716.59
+# sent_id = 6213
 # text = Zuvor hatte man sich in Trebel getroffen , wo jetzt die Bewohner des geräumten Hüttendorfes ihre Zelte aufgeschlagen haben : " das Castornix im Exil " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2740,7 +2826,8 @@
 26	"	"	$(	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T940726.121
+# tuepp_article_id = T940726.121
+# sent_id = 6214
 # text = Der Mann aus Faenza , bester Juniorenspieler , hat seine Zelte trotz Heimweh artig in Wien und Monte Carlo aufgeschlagen und darf sich jetzt immerhin darüber freuen , daß seine Landsleute , für die ein anständiger Ball immer mit dem Fuß und nicht mit dem Schläger befördert wird , von seiner ersten Finalteilnahme in Kenntnis gesetzt wurden : Das Sportblatt schlechthin , Gazzetta dello sport , hat den verlorenen Sohn Andrea Gaudenzi via Telefon zum Interview gebeten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2823,7 +2910,8 @@
 77	gebeten	bitten	VVPP	*	*	*	*
 78	.	.	$.	*	*	*	*
 
-# article_id = T940317.91
+# tuepp_article_id = T940317.91
+# sent_id = 6215
 # text = " Leicht mulmig in der Magengegend " wird es Berninger dennoch , wenn er daran denkt , nach dem ersten Staatsexamen im Herbst tatsächlich seine Zelte in Bonn aufschlagen zu müssen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2860,7 +2948,8 @@
 31	müssen	müssen	VMINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T941124.53
+# tuepp_article_id = T941124.53
+# sent_id = 6216
 # text = Dafür müssen sie allerdings bereit sein , künftig an einem anderen der sechs VW-Standorte in Deutschland ihre Zelte aufzuschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2897,7 +2986,8 @@
 31	müssen	müssen	VMINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T950515.104
+# tuepp_article_id = T950515.104
+# sent_id = 6217
 # text = Damals waren die Stämme aus allen Teilen des Landes in Omdurman zusammengekommen , um dort ihre Zelte aufzuschlagen , und das von den Briten besetzte Khartum am jenseitigen Ufer zu belagern und am Ende zu erobern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2934,7 +3024,8 @@
 31	müssen	müssen	VMINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T950608.184
+# tuepp_article_id = T950608.184
+# sent_id = 6218
 # text = Die Magnetschnellbahn Planungsgesellschaft GmbH hat im Oktober vergangenen Jahres bereits ihre Zelte in Schwerin und dann in Hamburg aufgeschlagen , heute soll ein Büro in Reinickendorf an der Nonnendammallee eröffnet werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2971,7 +3062,8 @@
 31	werden	werden	VAINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T950715.69
+# tuepp_article_id = T950715.69
+# sent_id = 6219
 # text = Tomislavgrad ( taz ) - In einem Talkessel in der Nähe von Tomislavgrad in der Westherzegowina haben die französischen Truppen ihre Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3000,7 +3092,8 @@
 23	aufgeschlagen	aufschlagen	VVPP	4	1	2	3
 24	.	.	$.	*	*	*	*
 
-# article_id = T950725.95
+# tuepp_article_id = T950725.95
+# sent_id = 6220
 # text = Heruntergetraut haben sie sich erst wieder , als Anfang März die ersten unabhängigen " Friedensbeobachter " ihre Zelte im Dorf aufschlugen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3027,7 +3120,8 @@
 21	aufschlugen	aufschlagen	VVFIN	4	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T950724.181
+# tuepp_article_id = T950724.181
+# sent_id = 6221
 # text = Sie gastierten bereits in Amsterdam und München und haben jetzt für zwei Wochen auf dem Potsdamer Platz ihr strahlendweißes Zelt aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3054,9 +3148,10 @@
 21	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
 22	.	.	$.	*	*	*	*
 
-# article_id = T951215.245
+# tuepp_article_id = T951215.245
+# sent_id = 6222
 # text = Und nun bietet man Ihnen an , daß Sie in Ihrem eigenen Hinterhof ein Zelt aufschlagen dürfen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Und	und	KON	*	*	*	*
 2	nun	nun	ADV	*	*	*	*
@@ -3077,7 +3172,8 @@
 17	dürfen	dürfen	VMINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T950831.198
+# tuepp_article_id = T950831.198
+# sent_id = 6223
 # text = Auch die Fernsehsender haben an jeder Ecke ihre Zelte aufgeschlagen : " Und hier ist er : Max Schautzer !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3102,7 +3198,8 @@
 19	Schautzer	<unknown>	NN	*	*	*	*
 20	!	!	$.	*	*	*	*
 
-# article_id = T950821.97
+# tuepp_article_id = T950821.97
+# sent_id = 6224
 # text = Am Ende sind es etwa dreitausend Menschen , die ihre Zelte und Tipis auf der Wiese und in den angrenzenden Waldstreifen aufgeschlagen haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3131,7 +3228,8 @@
 23	haben	haben	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T950327.220
+# tuepp_article_id = T950327.220
+# sent_id = 6225
 # text = Um die großen Kulturdörfer - Bremer Theater , Philharmonusche Gesellschaft , Kunstverein - haben sich Kulturbeduinen niedergelassen und ihre Zelte aufgeschlagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3158,7 +3256,8 @@
 21	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T951106.175
+# tuepp_article_id = T951106.175
+# sent_id = 6226
 # text = Das Versprechen wurde nun mit Hilfe aller Medien in die deutsche Welt hinaustrompetet : Er komme ohne Lisa Presley , seine Frau werde in einem Kölner Hotel eine ganze Suite belegen , zudem würden seine Fans mit Getränken versorgt , wenn sie ihre Zelte vor der Herberge aufgeschlagen haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3213,7 +3312,8 @@
 49	haben	haben	VAFIN	*	*	*	*
 50	.	.	$.	*	*	*	*
 
-# article_id = T990205.198
+# tuepp_article_id = T990205.198
+# sent_id = 6227
 # text = Wo das Temprodrom in der Zwischenzeit seine Zelte aufschlagen kann , ist nach wie vor unklar .
 # context_judgement_1 = 0
 # context_judgement_2 = 0

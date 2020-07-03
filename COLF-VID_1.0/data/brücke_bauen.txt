@@ -1,4 +1,5 @@
-# article_id = T890508.235
+# tuepp_article_id = T890508.235
+# sent_id = 2453
 # text = " Befürchtete Folge : Der Baustopp könnte aufgehoben , die breite Version der Brücke mit geringfügigen Auflagen gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -23,7 +24,8 @@
 19	werden	werden	VAINF	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T890607.105
+# tuepp_article_id = T890607.105
+# sent_id = 2454
 # text = Jedes Tier kann es , aber sie können es nicht mehr ... Sie überfallen uns , anstatt uns zu umarmen , sie kaufen uns , anstatt uns zu gewinnen , sie betreiben uns wie ein Geschäft , bei dem etwas herauskommen soll ... Sie können Brücken bauen und Eisenbahnen und Städte soviel sie wollen ; sie können Geld scheffeln , Rekorde aufstellen und Kriege anzetteln , einer blutiger als der andere - für uns sind sie keine Männer .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -107,9 +109,10 @@
 78	Männer	Mann	NN	*	*	*	*
 79	.	.	$.	*	*	*	*
 
-# article_id = T891031.99
+# tuepp_article_id = T891031.99
+# sent_id = 2455
 # text = Er hat Brücken gebaut .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Er	er	PPER	*	*	*	*
 2	hat	haben	VAFIN	*	*	*	*
@@ -117,7 +120,8 @@
 4	gebaut	bauen	VVPP	2	1	2	2
 5	.	.	$.	*	*	*	*
 
-# article_id = T890914.85
+# tuepp_article_id = T890914.85
+# sent_id = 2456
 # text = " Lubowski hat in diesem geteilten Land Brücken gebaut zwischen Schwarzen und Weißen " , sagte gestern Hage Geingob , Leiter der Swapo-Wahlkampagne in Namibia .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -148,9 +152,10 @@
 25	Namibia	Namibia	NE	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T890421.149
+# tuepp_article_id = T890421.149
+# sent_id = 2457
 # text = Kewenig-Nachfolger Turner baute Borrmann eine goldene Brücke .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Kewenig-Nachfolger	<unknown>	NN	*	*	*	*
 2	Turner	Turner	NN	*	*	*	*
@@ -161,7 +166,8 @@
 7	Brücke	Brücke	NN	2	2	2	2
 8	.	.	$.	*	*	*	*
 
-# article_id = T890705.100
+# tuepp_article_id = T890705.100
+# sent_id = 2458
 # text = " Falls die beteiligten Regierungen meinen , daß trotzdem eine Brücke gebaut werden soll , müssen die Autofahrer und Steuerzahler die Kosten tragen , die SJ hat nichts mehr damit zu tun " , so Stig Larsson .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -204,7 +210,8 @@
 37	Larsson	<unknown>	NE	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T890829.110
+# tuepp_article_id = T890829.110
+# sent_id = 2459
 # text = Ist Sambias Staatschef Kaunda , der seit 25 Jahren davon träumt , " Brücken zwischen Schwarzafrika und der weißen Bastion am Kap " zu bauen , so weit gegangen , de Klerk Druck auf den ANC zu versprechen , sofern er in Südafrika ein glaubwürdiges Reformprogramm ankündigt ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -257,9 +264,10 @@
 47	ankündigt	ankündigen	VVFIN	*	*	*	*
 48	?	?	$.	*	*	*	*
 
-# article_id = T890331.128
+# tuepp_article_id = T890331.128
+# sent_id = 2460
 # text = Eine Kostprobe : " Mit dem Beton , der für die Mauer gebraucht wurde , könnte man ein Brücke bauen vom KuDamm bis zum Alex .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Eine	eine	ART	*	*	*	*
 2	Kostprobe	Kostprobe	NN	*	*	*	*
@@ -288,7 +296,8 @@
 25	Alex	Alex	NE	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T890323.225
+# tuepp_article_id = T890323.225
+# sent_id = 2461
 # text = Die beiden müssen weg , raus aus dem Film , man muß ihnen eine Brücke bauen , einen guten Abgang , denn verlassen darf Francis sie nicht einfach und schnöde , schon wegen der Moral .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -329,7 +338,8 @@
 35	Moral	Moral	NN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T890306.2
+# tuepp_article_id = T890306.2
+# sent_id = 2462
 # text = " Brücken über menschentrennende Abgründe " habe der jüdische Dirigent und Geigenvirtuose mit seiner Musik gebaut , hieß es in der Laudatio .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -357,9 +367,10 @@
 22	Laudatio	Laudatio	NN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T891101.92
+# tuepp_article_id = T891101.92
+# sent_id = 2463
 # text = Gewaltige Brücken und Viadukte werden im Land gebaut .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Gewaltige	gewaltig	ADJA	*	*	*	*
 2	Brücken	Brücke	NN	1	1	1	1
@@ -371,7 +382,8 @@
 8	gebaut	bauen	VVPP	1	1	1	1
 9	.	.	$.	*	*	*	*
 
-# article_id = T891104.190
+# tuepp_article_id = T891104.190
+# sent_id = 2464
 # text = Galinski appellierte dabei an alle Gruppierungen in der Gemeinde , unterschiedliche Lebensgewohnheiten nicht als trennende Faktoren wirken zu lassen , sondern gegenseitig Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -402,7 +414,8 @@
 25	bauen	bauen	VVINF	2	2	2	2
 26	.	.	$.	*	*	*	*
 
-# article_id = T891104.288
+# tuepp_article_id = T891104.288
+# sent_id = 2465
 # text = Ihm wollte der Senator eine Brücke bauen und verwies auf den Posten des Polizeidirektors in Bremerhaven , der demnächst neu zu besetzen ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -431,7 +444,8 @@
 23	ist	sein	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T891107.147
+# tuepp_article_id = T891107.147
+# sent_id = 2466
 # text = Wer in Zukunft ein möglicher Partner eines echten Dialogs von seiten der Partei werden wird , der muß sich die Brücken selbst bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -460,7 +474,8 @@
 23	bauen	bauen	VVINF	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T890208.136
+# tuepp_article_id = T890208.136
+# sent_id = 2467
 # text = Drohte die geistige Ebene sowie die räumliche Distanz zwischen Darstellenden und Publikum unendlich groß zu werden , baute das Ensemble durch possierliche Einfälle eine Brücke aus Heiterkeit .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -493,7 +508,8 @@
 27	Heiterkeit	Heiterkeit	NN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T890216.181
+# tuepp_article_id = T890216.181
+# sent_id = 2468
 # text = Logik der Behörde : Ist die Brücke erst gebaut , nutzen wir sie anschließend in voller Breite für den Straßenverkehr .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -519,7 +535,8 @@
 20	Straßenverkehr	Straßenverkehr	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T890216.181
+# tuepp_article_id = T890216.181
+# sent_id = 2469
 # text = Auch bei dieser Argumentation , sozusagen auf Verdacht mal irgendwo eine neue Brücke möglichst breit zu bauen , meldetet das Gericht einige Zweifel an .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -549,7 +566,8 @@
 24	an	an	PTKVZ	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T910523.197
+# tuepp_article_id = T910523.197
+# sent_id = 2470
 # text = » Wir bauen uns Brücken aus Relativierungen und Differenzierungen , damit wir irgendwie schadlos durchkommen ; Frau Dworkin beschreibt uns den Abgrund « , hatte Ann- Kathrin Scheerer in ihrem einleitenden Referat angekündigt und sich damit in den schwierigen Spagat begeben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -596,7 +614,8 @@
 41	begeben	begeben	VVPP	*	*	*	*
 42	.	.	$.	*	*	*	*
 
-# article_id = T910531.87
+# tuepp_article_id = T910531.87
+# sent_id = 2471
 # text = So ließe sich die Pluralität repräsentieren und könnten gleichzeitig Brücken gebaut werden zu unterschiedlichen Gruppen , die für die Grünen relevant sind .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -624,7 +643,8 @@
 22	sind	sein	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T910502.157
+# tuepp_article_id = T910502.157
+# sent_id = 2472
 # text = Eventuell müßten fünf Brücken saniert oder sogar neu gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -640,7 +660,8 @@
 10	werden	werden	VAINF	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T910607.160
+# tuepp_article_id = T910607.160
+# sent_id = 2473
 # text = Die Kunst als " das emotionalste aller Medien " sei am besten dazu geeignet , tragfähige Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -665,7 +686,8 @@
 19	bauen	bauen	VVINF	2	2	2	2
 20	.	.	$.	*	*	*	*
 
-# article_id = T910626.212
+# tuepp_article_id = T910626.212
+# sent_id = 2474
 # text = Als " ein weiteres Beispiel dafür , daß die Baubehörde unter Senator Kunick noch nicht einmal in der Lage ist , eine einfache Brücke termingerecht zu bauen " , wollte CDU-Sprecher Helmut Pflugradt die Verzögerung gewertet wissen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -708,7 +730,8 @@
 37	wissen	wissen	VVINF	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T910604.78
+# tuepp_article_id = T910604.78
+# sent_id = 2475
 # text = So also , wie die Kronzeugenregelung die Angeklagte und das Gericht vor eine Unmöglichkeit stellt , inszeniert sie die gesamte Verhandlung : Da gibt es den überaus bemühten Vorsitzenden , Dr. Breucker , der versucht , ihre Erinnerung zu beflügeln , ihr Brücken zu bauen , damit ihr noch etwas einfiele , was entweder entlastend sein könnte für ihre eigenen Tatbeiträge oder aber eine großzügige Anwendung der Kronzeugenregelung ermöglichte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -783,7 +806,8 @@
 69	ermöglichte	ermöglichen	VVFIN	*	*	*	*
 70	.	.	$.	*	*	*	*
 
-# article_id = T910618.12
+# tuepp_article_id = T910618.12
+# sent_id = 2476
 # text = Brücken bauen zwischen Polen und Deutschland !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -795,7 +819,8 @@
 6	Deutschland	Deutschland	NE	*	*	*	*
 7	!	!	$.	*	*	*	*
 
-# article_id = T911008.85
+# tuepp_article_id = T911008.85
+# sent_id = 2477
 # text = " Wenn wir uns zunächst auf den Wechsel zur Marktwirtschaft in Mitteleuropa konzentrieren , können wir eine Brücke bauen , über die eines Tages Marktwirtschaft , Know-how und Kapital weiter nach Osten gelangen kann " , meinte der VW-Chef .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -840,7 +865,8 @@
 39	VW-Chef	VW-Chef	NN	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T910129.127
+# tuepp_article_id = T910129.127
+# sent_id = 2478
 # text = Es sind von Frankreich und anderen Ländern Versuche gemacht worden , eine Brücke zu bauen , und das ist schroff von den Amerikanern zurückgewiesen worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -871,7 +897,8 @@
 25	worden	werden	VAPP	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T910109.134
+# tuepp_article_id = T910109.134
+# sent_id = 2479
 # text = Unterrichten bedeute für sie " aktives Einfühlen in die Lebenswelten anderer Menschen " , um Brücken gegenseitigen Verständnisses zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -897,7 +924,8 @@
 20	bauen	bauen	VVINF	2	2	2	2
 21	.	.	$.	*	*	*	*
 
-# article_id = T910403.88
+# tuepp_article_id = T910403.88
+# sent_id = 2480
 # text = Die Brücke über den Öresund wird gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -910,7 +938,8 @@
 7	gebaut	bauen	VVPP	1	1	1	1
 8	.	.	$.	*	*	*	*
 
-# article_id = T910427.127
+# tuepp_article_id = T910427.127
+# sent_id = 2481
 # text = Reisewege im heutigen Sinne gibt es nicht ; die Frauen müssen Brücken bauen , gegen Indianer kämpfen und Hunger und Durst überstehen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -938,9 +967,10 @@
 22	überstehen	überstehen	VVINF	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T910706.114
+# tuepp_article_id = T910706.114
+# sent_id = 2482
 # text = Die Stimmung litt kaum darunter ; die Veranstalter verkauften ein paar Tausend Gummistiefel und 10.000 Tennissocken , und gaben ungefähr 170.000 Mark aus , um ( in Zusammenarbeit mit der Armee ) Holzsplitter über den Platz zu streuen , Planen über die Sümpfe zu breiten , Brücken zu bauen für die , die - stolz auf ihre schlammkrustige Kleidung und raffinierte Plastiktütengamaschen - im nordischen Sturm über den Platz trotteten .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	Stimmung	Stimmung	NN	*	*	*	*
@@ -1014,7 +1044,8 @@
 70	trotteten	trotten	VVFIN	*	*	*	*
 71	.	.	$.	*	*	*	*
 
-# article_id = T911223.130
+# tuepp_article_id = T911223.130
+# sent_id = 2483
 # text = Als erstes versuchen am 29. Dezember Ludger Pistor und sein Ensemble » Voila « um 20 Uhr im Hebbel-Theater , eine Brücke zwischen Boulevard und » ernstem « Theater zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1052,7 +1083,8 @@
 32	bauen	bauen	VVINF	2	2	2	2
 33	.	.	$.	*	*	*	*
 
-# article_id = T910305.243
+# tuepp_article_id = T910305.243
+# sent_id = 2484
 # text = Berlin brauche ein Symbol » wie den Pariser Eiffelturm oder die Freiheitsstatue in New York « , und deshalb wolle er eine riesige gläserne Brücke bauen lassen , die zwei Musiktheater mit 2.000 Plätzen und fünf kleinere Sprechbühnen aufnehmen könne .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1098,7 +1130,8 @@
 40	könne	können	VMFIN	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T910304.24
+# tuepp_article_id = T910304.24
+# sent_id = 2485
 # text = Wimmer erinnerte daran , daß deutsche Pioniere schon früher bei Erdbeben auch außerhalb des Nato-Gebiets , etwa in Iran und Schwarzafrika , Straßen , Brücken und Krankenhäuser gebaut habe .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1133,7 +1166,8 @@
 29	habe	haben	VAFIN	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T911109.77
+# tuepp_article_id = T911109.77
+# sent_id = 2486
 # text = Die Brücke über den Großen Belt wird gebaut , die Vereins- und Westbank und die Warburg-Bank schauen sich besonders an der Ostsee um , denn dort finden zwanzig Prozent des Welthandels statt ( am Mittelmeer hingegen nur acht Prozent ) .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1179,7 +1213,8 @@
 40	)	)	$(	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T911104.160
+# tuepp_article_id = T911104.160
+# sent_id = 2487
 # text = Das Gericht ließ DDR-Gesetze und - Befehle als Rechtfertigung nicht gelten , baute dem jungen Angeklagten aber eine » goldene Brücke « : Im Gegensatz zu den » Machthabern des Sowjetzonenregimes als eigentlich Verantwortliche « habe der Angeklagte , » der letztlich ein Opfer der unseligen Spaltung Deutschlands wurde « , » die volle Tragweite seines Tuns nicht übersehen können « , urteilten die Richter .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1250,7 +1285,8 @@
 65	Richter	Richter	NN	*	*	*	*
 66	.	.	$.	*	*	*	*
 
-# article_id = T910228.97
+# tuepp_article_id = T910228.97
+# sent_id = 2488
 # text = Seine Vorschläge zur Tarifpolitik im öffentlichen Dienst zielen dabei immer darauf , eine Brücke der materiellen Solidarität zwischen verschiedenen Beschäftigten bzw. Personengruppen zu bauen , zwischen Arbeitenden und Arbeitslosen , zwischen besser und schlechter Verdienenden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1291,7 +1327,8 @@
 35	Verdienenden	Verdienende	NN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T900525.30
+# tuepp_article_id = T900525.30
+# sent_id = 2489
 # text = Lorenz Schwegler , Vorsitzender der HBV , schlug die Hände über dem Kopf zusammen : " Es waren ihm doch goldene Brücken gebaut worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1321,7 +1358,8 @@
 24	worden	werden	VAPP	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T900523.108
+# tuepp_article_id = T900523.108
+# sent_id = 2490
 # text = Romberg erklärte , er sei " überzeugt , daß mit dem Staatsvertrag als Kompromiß eine feste Brücke für den Übergang in die neue Ordnung gebaut worden ist " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1355,7 +1393,8 @@
 28	"	"	$(	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T900531.133
+# tuepp_article_id = T900531.133
+# sent_id = 2491
 # text = Wer sich verbal und kosmetisch von der eigenen Vergangenheit lossagt , wie die PDS , aber auf die Wahrung des internen Kader- und Besitzstandes peinlich bedacht ist , wird einen erzkonservativen Innenminister nicht ins Aus schicken , der einem personalpolitisch so viele Brücken baut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1405,7 +1444,8 @@
 44	baut	bauen	VVFIN	2	2	2	2
 45	.	.	$.	*	*	*	*
 
-# article_id = T900608.136
+# tuepp_article_id = T900608.136
+# sent_id = 2492
 # text = Ich vermute , daß ein Interesse von Ingrid Warburg beim Schreiben dieses Buches war , den Geist sozialer Verantwortlichkeit im Judentum herauszustellen und so eine Brücke zwischen religiösen und post-religiösen Juden zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1444,7 +1484,8 @@
 33	bauen	bauen	VVINF	2	2	2	2
 34	.	.	$.	*	*	*	*
 
-# article_id = T900613.232
+# tuepp_article_id = T900613.232
+# sent_id = 2493
 # text = Vielmehr heißt es darin : " Das wiedervereinigte Berlin will helfen , Brücken zwischen Völkern , Nationen und Kulturen zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1471,7 +1512,8 @@
 21	bauen	bauen	VVINF	2	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T901012.29
+# tuepp_article_id = T901012.29
+# sent_id = 2494
 # text = Späth hat aber erklärt , er wolle dem SPD-Kanzlerkandidaten , der diese Vorschläge in die Diskussion geworfen habe , eine Brücke bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1499,7 +1541,8 @@
 22	bauen	bauen	VVINF	2	2	2	2
 23	.	.	$.	*	*	*	*
 
-# article_id = T901013.124
+# tuepp_article_id = T901013.124
+# sent_id = 2495
 # text = Mit einem Appell an sozialdemokratische Neigungen baute er wendebegabten Untergebenen eine Brücke , die sich nachträglich als Holzweg erwies .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1524,7 +1567,8 @@
 19	erwies	erweisen	VVFIN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T900918.176
+# tuepp_article_id = T900918.176
+# sent_id = 2496
 # text = Nach dem Zweiten Weltkrieg wurden Brücken vor allem zweckmäßig gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1540,7 +1584,8 @@
 10	gebaut	bauen	VVPP	1	1	1	1
 11	.	.	$.	*	*	*	*
 
-# article_id = T900915.102
+# tuepp_article_id = T900915.102
+# sent_id = 2497
 # text = Wenn es zwischen Nord- und Südkorea tatsächlich eines Tages zur Wiedervereinigung kommt , wird man hier mit Sicherheit als erstes eine neue Brücke bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1570,7 +1615,8 @@
 24	bauen	bauen	VVINF	1	1	1	1
 25	.	.	$.	*	*	*	*
 
-# article_id = T900908.182
+# tuepp_article_id = T900908.182
+# sent_id = 2498
 # text = Außerdem müßten nur etwa 65 Brücken gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1584,7 +1630,8 @@
 8	werden	werden	VAINF	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T900127.320
+# tuepp_article_id = T900127.320
+# sent_id = 2499
 # text = Havemann sind sehr viele Brücken gebaut worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1597,7 +1644,8 @@
 7	worden	werden	VAPP	*	*	*	*
 8	.	.	$.	*	*	*	*
 
-# article_id = T900105.55
+# tuepp_article_id = T900105.55
+# sent_id = 2500
 # text = Mit dem Nachbarschaftswiderspruch habe seine Mandantin der Stadt " goldene Brücken " gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1616,7 +1664,8 @@
 13	gebaut	bauen	VVPP	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T900417.205
+# tuepp_article_id = T900417.205
+# sent_id = 2501
 # text = " Selbst gute Freunde wollten mir eine verständnisvolle Brücke bauen : Du kannst es doch sagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1638,7 +1687,8 @@
 16	sagen	sagen	VVINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T900714.99
+# tuepp_article_id = T900714.99
+# sent_id = 2502
 # text = Darüber hinaus baute ihm Jelzin noch eine Brücke .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1652,7 +1702,8 @@
 8	Brücke	Brücke	NN	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T900723.32
+# tuepp_article_id = T900723.32
+# sent_id = 2503
 # text = Die DDR-Regierung - so wollte man de Maiziere eine Brücke bauen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1668,7 +1719,8 @@
 10	Brücke	Brücke	NN	2	2	2	2
 11	bauen	bauen	VVINF	2	2	2	2
 
-# article_id = T900717.98
+# tuepp_article_id = T900717.98
+# sent_id = 2504
 # text = Ihre Rechtsanwältin Silke Gärtner schreibt den Kollegen an : " Wir wollten ihm eine goldene Brücke bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1691,7 +1743,8 @@
 17	bauen	bauen	VVINF	2	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T900814.74
+# tuepp_article_id = T900814.74
+# sent_id = 2505
 # text = Sie lud die Damen aller Fraktionen zum " parteiübergreifenden " Gespräch und verkündete , ihre Frauenrunde würde den Schwestern von der CDU / CSU " gerne eine Brücke bauen " und " einer Zwangsberatung zustimmen " , wenn nötig .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1736,7 +1789,8 @@
 39	nötig	nötig	ADJD	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T900323.225
+# tuepp_article_id = T900323.225
+# sent_id = 2506
 # text = Es werden ja noch nicht einmal ein Tunnel oder neue Brücken gebaut , was lange dauert , sondern nur Gleise neu gelegt und der Unterbau neu gemacht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1769,7 +1823,8 @@
 27	gemacht	machen	VVPP	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T900317.105
+# tuepp_article_id = T900317.105
+# sent_id = 2507
 # text = Der Verfassungsschutz kann nicht mutig durch den Fluß schreiten , wenn überall Brücken gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1790,7 +1845,8 @@
 15	werden	werden	VAINF	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T900326.71
+# tuepp_article_id = T900326.71
+# sent_id = 2508
 # text = Was diese Frage anbelangt , so sind interessierte Kreise bereits bemüht , der SPD goldene Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1814,7 +1870,8 @@
 18	bauen	bauen	VVINF	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T900305.305
+# tuepp_article_id = T900305.305
+# sent_id = 2509
 # text = Die Sandinisten mochten in demokratische Wahlen unter internationaler Kontrolle einwilligen , den Contras goldene Brücken bauen , Gorbatschow mochte die Waffenlieferungen einstellen , die Gringos zurrten den Würgegriff nur noch enger .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1851,9 +1908,10 @@
 31	enger	eng	ADJD	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T901107.144
+# tuepp_article_id = T901107.144
+# sent_id = 2510
 # text = Brücken und Straßen baut Horn keine mehr , und in Mannheim sieht es eher so aus , als hätten er und sein Ingenieur sich selbst hermetisch eingebaut , um die störenden Urwaldgeräusche fernzuhalten .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Brücken	Brücke	NN	1	1	1	1
 2	und	und	KON	*	*	*	*
@@ -1890,7 +1948,8 @@
 33	fernzuhalten	fernhalten	VVIZU	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T901117.97
+# tuepp_article_id = T901117.97
+# sent_id = 2511
 # text = Nachdem die AL nun gezeigt hat , daß mit ihrer Identität nicht zu spaßen ist , müssen schleunigst Brücken gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1917,7 +1976,8 @@
 21	werden	werden	VAINF	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T900201.144
+# tuepp_article_id = T900201.144
+# sent_id = 2512
 # text = Er baut unserem mörderischen Geschlecht Brücken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1929,7 +1989,8 @@
 6	Brücken	Brücke	NN	2	2	2	2
 7	.	.	$.	*	*	*	*
 
-# article_id = T920513.267
+# tuepp_article_id = T920513.267
+# sent_id = 2513
 # text = Der Staatsanwalt versucht , goldene Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1943,7 +2004,8 @@
 8	bauen	bauen	VVINF	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T920511.40
+# tuepp_article_id = T920511.40
+# sent_id = 2514
 # text = Der Staatsanwalt baut dem Angeklagten goldene Brücken : ob er vielleicht finanzielle Schwierigkeiten hatte , fragt er ihn .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1967,7 +2029,8 @@
 18	ihn	er	PPER	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T920508.136
+# tuepp_article_id = T920508.136
+# sent_id = 2515
 # text = Bauen Sie den visuellen Typen eine goldene Brücke , damit sie besser verstehen können , was auditiv geschieht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1991,7 +2054,8 @@
 18	geschieht	geschehen	VVFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T921005.41
+# tuepp_article_id = T921005.41
+# sent_id = 2516
 # text = Sie will , so ihre Plattform , " Brücken zwischen den Kontrahenten " bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2011,7 +2075,8 @@
 14	bauen	bauen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T921019.136
+# tuepp_article_id = T921019.136
+# sent_id = 2517
 # text = Über ein Jahr lang hatte sich der Senat nicht nur damit Zeit gelassen , den Antrag auf Zweckentfremdung zu entscheiden , nein , er hatte den Eigentümern sogar eine Brücke gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2048,7 +2113,8 @@
 31	gebaut	bauen	VVPP	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T921016.90
+# tuepp_article_id = T921016.90
+# sent_id = 2518
 # text = " Und auch : " Wo können wir vor dem Hintergrund unserer eigenen Geschichte Brücken bauen ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2070,7 +2136,8 @@
 16	bauen	bauen	VVINF	2	2	2	2
 17	?	?	$.	*	*	*	*
 
-# article_id = T921008.128
+# tuepp_article_id = T921008.128
+# sent_id = 2519
 # text = F. Z. baut uns hier eine Brücke .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2083,7 +2150,8 @@
 7	Brücke	Brücke	NN	2	2	2	2
 8	.	.	$.	*	*	*	*
 
-# article_id = T921008.226
+# tuepp_article_id = T921008.226
+# sent_id = 2520
 # text = Seine vielschichtigen Kompositionen entfalten sich auf vielen Klangebenen , irgendwo zwischen indonesischer Gamelan-Musik und ' schonungslosem ' Rhythm'n'Blues ; er baut Brücken zwischen rauhen Stadtklängen und melodischer Landidylle .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2117,7 +2185,8 @@
 28	Landidylle	Landidylle	NN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T921013.24
+# tuepp_article_id = T921013.24
+# sent_id = 2521
 # text = Wer anders als Hans- Jochen Vogel wäre in dieser Situation noch imstande , in einer gespaltenen SPD Brücken zu bauen ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2143,7 +2212,8 @@
 20	bauen	bauen	VVINF	2	2	2	2
 21	?	?	$.	*	*	*	*
 
-# article_id = T920917.104
+# tuepp_article_id = T920917.104
+# sent_id = 2522
 # text = Der Traum ist wichtig : Er könnte auch davon träumen , Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2163,7 +2233,8 @@
 14	bauen	bauen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T920908.204
+# tuepp_article_id = T920908.204
+# sent_id = 2523
 # text = Die Leistung der Lemonheads bleibt , schöne Brücken von Hard Core zu West Coast gebaut zu haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2186,7 +2257,8 @@
 17	haben	haben	VAINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T920903.186
+# tuepp_article_id = T920903.186
+# sent_id = 2524
 # text = Wie berichtet , empfiehlt die Bauverwaltung dem Ausschuß , den Autoverkehr vierspurig über die Brücke fahren zu lassen und für die geforderte Straßenbahn eine neue Brücke zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2220,9 +2292,10 @@
 28	bauen	bauen	VVINF	1	1	1	1
 29	.	.	$.	*	*	*	*
 
-# article_id = T920902.225
+# tuepp_article_id = T920902.225
+# sent_id = 2525
 # text = Indem man Brücken baut .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Indem	indem	KOUS	*	*	*	*
 2	man	man	PIS	*	*	*	*
@@ -2230,7 +2303,8 @@
 4	baut	bauen	VVFIN	2	2	2	2
 5	.	.	$.	*	*	*	*
 
-# article_id = T920128.40
+# tuepp_article_id = T920128.40
+# sent_id = 2526
 # text = Der Kölner Islamwissenschaftler Prof. Falaturi bemühte sich , Gemeinsamkeiten zwischen dem westlichen Menschenrechtsverständnis und dem Koran nachzuweisen , mit deren Hilfe kulturelle Brücken gebaut werden könnten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2262,9 +2336,10 @@
 26	könnten	können	VMFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T920116.96
+# tuepp_article_id = T920116.96
+# sent_id = 2527
 # text = Schlagt Brücken , baut Brücken , Brücken sind " herausragende Bauwerke und wurden schon immer mit dem Überwinden von Grenzen und Hindernissen in Verbindung gebracht " , ja , sie " ermöglichen Begegnungen " .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Schlagt	schlagen	VVFIN	*	*	*	*
 2	Brücken	Brücke	NN	*	*	*	*
@@ -2302,7 +2377,8 @@
 34	"	"	$(	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T920131.214
+# tuepp_article_id = T920131.214
+# sent_id = 2528
 # text = Nachdem die Bundesbehörde " Wasser- und Schiffahrtsdirektion " davon überzeugt werden konnte , daß größere Passagierdampfer in der Stadtmitte nicht zu erwarten sind und deshalb die vorgesehene Höhe zwischen Brücke und Wasser durchaus ausreichend ist , wurde jetzt auch eine Übereinkunft mit der Teerhof GmbH gefunden , die die Stadt vielleicht aus den ärgsten Zwängen befreit : Die GmbH , hinter der sich die Sparkasse und die Weser-Wohnbau GmbH , verbergen , baut die Brücke in Eigenregie und damit unbelastet von bürokratischen Zwängen , denen die Stadt als Bauherrin unterworfen wäre .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2399,9 +2475,10 @@
 91	wäre	sein	VAFIN	*	*	*	*
 92	.	.	$.	*	*	*	*
 
-# article_id = T920131.214
+# tuepp_article_id = T920131.214
+# sent_id = 2529
 # text = " Ich will zwar , daß die Brücke grade gebaut wird " , sagt Lütge , " aber wenn wir vor Gericht unterliegen , dann bauen wir sie eben schief , knapp an der Welle vorbei .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
 2	Ich	ich	PPER	*	*	*	*
@@ -2441,7 +2518,8 @@
 36	vorbei	vorbei	PTKVZ	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T920121.47
+# tuepp_article_id = T920121.47
+# sent_id = 2530
 # text = Zwei Varianten stehen nämlich zur Diskussion : Zum einen könnte als Verbindung zwischen Mittelland- und Elbe-Havel-Kanal eine Brücke über die Elbe gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2470,7 +2548,8 @@
 23	werden	werden	VAINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T920427.102
+# tuepp_article_id = T920427.102
+# sent_id = 2531
 # text = Und im Museumsgebäude befand sich das Offizierskasino der Pionierschule 1 , das war so eine Art technisch-militärischer Dienst , der die Aufgabe hatte , Straßen zu verminen , Brücken zu bauen - oder auch zu sprengen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2512,7 +2591,8 @@
 36	sprengen	sprengen	VVINF	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T920428.61
+# tuepp_article_id = T920428.61
+# sent_id = 2532
 # text = Während der Nationalkonferenz im vergangenen Sommer und während der langgezogenen Wahlkämpfe Anfang dieses Jahres suchte er Brücken zu bauen zu den Nachfolgern des " alten Regimes " und sah sich demzufolge immer wieder Anwürfen der radikaleren Militärgegner ausgesetzt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2556,7 +2636,8 @@
 38	ausgesetzt	aussetzen	VVPP	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T920401.31
+# tuepp_article_id = T920401.31
+# sent_id = 2533
 # text = Kohl sagte , es müßten zwischen den beiden Staaten " möglichst viele Brücken " gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2578,7 +2659,8 @@
 16	werden	werden	VAINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T920402.53
+# tuepp_article_id = T920402.53
+# sent_id = 2534
 # text = Jetzt sei es die wichtigste Aufgabe eines Wirtschaftsministers , die Folgen der deutschen Einheit zu bewältigen und Brücken zwischen Gewerkschaften und Arbeitgebern zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2608,7 +2690,8 @@
 24	bauen	bauen	VVINF	2	2	2	2
 25	.	.	$.	*	*	*	*
 
-# article_id = T920408.208
+# tuepp_article_id = T920408.208
+# sent_id = 2535
 # text = Zwar stünde der Teerhof-GmbH eine Ausgleichszahlung von drei bis fünf Millionen Mark für den Fall zu , daß die vertraglich vereinbarte Brücke in das neue Wohngebiet nicht gebaut wird , doch das sei allemal weniger als die heute gerechneten Baukosten von 11,25 Millionen Mark , die am Ende sicher noch einmal weit überschritten würden , erklärte Ortsamtsleiter Hucky Heck .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2673,7 +2756,8 @@
 59	Heck	Heck	NN	*	*	*	*
 60	.	.	$.	*	*	*	*
 
-# article_id = T920408.208
+# tuepp_article_id = T920408.208
+# sent_id = 2536
 # text = Doch dann sei die gute Idee durch die Auflage der Schiffahrtsdirektion , die Brücke deutlich höher bauen zu müssen als die benachbarten beiden Straßenbrücken , zerstört worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2706,7 +2790,8 @@
 27	worden	werden	VAPP	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T920701.42
+# tuepp_article_id = T920701.42
+# sent_id = 2537
 # text = Nachdem zähe Verhandlungen zwischen Treuhand , Landesregierung und IG Metall gescheitert sind , wollen nun die ABS versuchen , allein mit dem Geld der Landesregierung die " Brücke " zu bauen und schnellstens konkrete Projekte auf die Beine zu stellen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2752,7 +2837,8 @@
 40	stellen	stellen	VVINF	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T920701.42
+# tuepp_article_id = T920701.42
+# sent_id = 2538
 # text = Wer kann eine Brücke zwischen der Treuhandanstalt , die sich schnell ihres Kaffeesatzes entledigen möchte , und dem Land bauen , das mit mäßigem Erfolg bei Investoren aller Länder Klinken putzen ging und nun noch , kurz bevor das Licht ausgeht , seine letzten Glasperlen aufwerten muß ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2805,7 +2891,8 @@
 47	muß	müssen	VMFIN	*	*	*	*
 48	?	?	$.	*	*	*	*
 
-# article_id = T920728.64
+# tuepp_article_id = T920728.64
+# sent_id = 2539
 # text = Die Devise lautet : Brücken bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2817,7 +2904,8 @@
 6	bauen	bauen	VVINF	2	2	2	2
 7	.	.	$.	*	*	*	*
 
-# article_id = T920707.134
+# tuepp_article_id = T920707.134
+# sent_id = 2540
 # text = Tatsächlich würde die Brücke nur gebaut , damit der Individualverkehr bevorzugt fahren kann .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2836,7 +2924,8 @@
 13	kann	können	VMFIN	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T920711.33
+# tuepp_article_id = T920711.33
+# sent_id = 2541
 # text = Sellach : " Wir haben Roussel-Uclaf und der Hoechst AG zum Wohle der Frauen diese Brücke gebaut , damit es zur unverzüglichen Erprobung und Zulassung des Medikaments kommen kann .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2871,7 +2960,8 @@
 29	kann	können	VMFIN	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T920725.283
+# tuepp_article_id = T920725.283
+# sent_id = 2542
 # text = Auch wenn sie offiziell nicht dagegen sein konnten , ging es Vollzugsbeamten gegen den Strich , daß wir versuchten , Brücken zu bauen zwischen uns und den Opfern von Verbrechen , daß wir Alternativen suchten , die uns nach unserer Entlassung helfen würden , uns in die Gemeinschaft zu integrieren , daß wir einen Dialog versuchten , der von der Möglichkeit der Versöhnung ausging .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2941,7 +3031,8 @@
 64	ausging	ausgehen	VVFIN	*	*	*	*
 65	.	.	$.	*	*	*	*
 
-# article_id = T921211.86
+# tuepp_article_id = T921211.86
+# sent_id = 2543
 # text = Mein Teil hier ist , Brücken zu bauen zwischen den Kulturen , über den Tanz hinaus .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2963,7 +3054,8 @@
 16	hinaus	hinaus	PTKVZ	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T921214.159
+# tuepp_article_id = T921214.159
+# sent_id = 2544
 # text = Sie sind vielmehr der Ausdruck einer tiefen Unfähigkeit , die Brücke von einem ungelebten Leben in der Vergangenheit zum lebenswerten Leben heute zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2993,7 +3085,8 @@
 24	bauen	bauen	VVINF	2	2	2	2
 25	.	.	$.	*	*	*	*
 
-# article_id = T921214.159
+# tuepp_article_id = T921214.159
+# sent_id = 2545
 # text = Neben der Gewährung von Freiheit und einem offenen Raum könnte uns Kirche heute eine wesentliche Stütze sein , um wieder Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3022,7 +3115,8 @@
 23	bauen	bauen	VVINF	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T921219.254
+# tuepp_article_id = T921219.254
+# sent_id = 2546
 # text = Es geht kein Weg daran vorbei , daß die neuen Entwicklungen in Deutschland Brücken zwischen den Ereignissen von 1933 und den heutigen gebaut haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3052,7 +3146,8 @@
 24	haben	haben	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T920804.145
+# tuepp_article_id = T920804.145
+# sent_id = 2547
 # text = In diesem Fachgebiet würden Brücken gebaut » zwischen der makroskopischen Welt der Dinge und der mikroskopischen Welt der Atome und Moleküle « , sagte Prof. Siegfried Hess von der gastgebenden Technischen Universität Berlin .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3091,7 +3186,8 @@
 33	Berlin	Berlin	NE	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T920811.54
+# tuepp_article_id = T920811.54
+# sent_id = 2548
 # text = Also werden die japanischen Blauhelme in Kambodscha voraussichtlich nur Straßen und Brücken bauen , noch dazu im südöstlichen Landesteil , der von Pol Pot und seinen Männern am weitesten entfernt liegt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3128,7 +3224,8 @@
 31	liegt	liegen	VVFIN	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T920812.138
+# tuepp_article_id = T920812.138
+# sent_id = 2549
 # text = Hier im Zentrum hat sich eine Diskussionskultur herausgebildet , die das gemeinsame Anliegen , Brücken zu bauen , deutlich macht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3154,7 +3251,8 @@
 20	macht	machen	VVFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T920803.63
+# tuepp_article_id = T920803.63
+# sent_id = 2550
 # text =  Falls das eine versucht hätte , sie hätte schnell gemerkt , daß auch ein Dolmetscher derzeit kaum eine Brücke des Verständnisses bauen kann .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3183,7 +3281,8 @@
 23	bauen	bauen	VVINF	*	*	*	*
 24	kann	können	VMFIN	*	*	*	*
 
-# article_id = T920313.203
+# tuepp_article_id = T920313.203
+# sent_id = 2551
 # text = Zwei gestandene Staatsräte und viele Stunden Zeit brauchte es , dann stand es schließlich fest : Die neue Brücke über den Teerhof kann doch ganz schnurgerade und muß nicht nicht a la Pisa über die Weser gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3227,7 +3326,8 @@
 38	werden	werden	VAINF	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T920313.203
+# tuepp_article_id = T920313.203
+# sent_id = 2552
 # text = Die Brücke soll dann im Akkordtempo gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3241,7 +3341,8 @@
 8	werden	werden	VAINF	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T920309.154
+# tuepp_article_id = T920309.154
+# sent_id = 2553
 # text = Brücken zwischen Berlinern und den Bewohnern des Balkans will das neue Süd- Ost-Zentrum bauen , das am Samstag abend in der Kreuzberger Großbeerenstraße 88 eröffnet wurde .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3273,7 +3374,8 @@
 26	wurde	werden	VAFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T921126.226
+# tuepp_article_id = T921126.226
+# sent_id = 2554
 # text = Eine Brücke zwischen künstlerischer Ausbildung und beruflicher Praxis will Bohm mit dem Studium bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3293,7 +3395,8 @@
 14	bauen	bauen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T920229.60
+# tuepp_article_id = T920229.60
+# sent_id = 2555
 # text = Visegrad ( taz ) - Im Jahre 1571 ließ Mehmed Pascha Sokolovic in Visegrad eine Brücke über die Drina bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3319,7 +3422,8 @@
 20	bauen	bauen	VVINF	1	1	1	1
 21	.	.	$.	*	*	*	*
 
-# article_id = T920229.60
+# tuepp_article_id = T920229.60
+# sent_id = 2556
 # text = Und diese verschwand erst , als er am Ende seines Lebens eine Brücke über die Drina bauen ließ .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3343,7 +3447,8 @@
 18	ließ	lassen	VVFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T920229.61
+# tuepp_article_id = T920229.61
+# sent_id = 2557
 # text = Die großen Religionsgemeinschaften , Orthodoxie , Islam und Katholizismus , haben auch keine Brücken bauen können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3365,7 +3470,8 @@
 16	können	können	VMINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T880627.29
+# tuepp_article_id = T880627.29
+# sent_id = 2558
 # text = " Traute hat den Dissens stets gefördert , sie hat , statt Brücken zu bauen , Gräben aufgerissen und vertieft " , schrieb ihr Rainer Witt aus Bergedorf ins Stammbuch .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3401,7 +3507,8 @@
 30	Stammbuch	Stammbuch	NN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T880625.155
+# tuepp_article_id = T880625.155
+# sent_id = 2559
 # text = Sein Rechtsanwalt Henning Schmidt versucht Frank S. eine Brücke von Mann zu Mann zu bauen : " Könnte es sein , daß die Frage nach Kleingeld sie animiert hat ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3436,7 +3543,8 @@
 29	hat	haben	VAFIN	*	*	*	*
 30	?	?	$.	*	*	*	*
 
-# article_id = T880102.48
+# tuepp_article_id = T880102.48
+# sent_id = 2560
 # text = Nach einer Meldung der afghanischen Nachrichtenagentur Bakhtar vom Donnerstag wurden fünf neue Brücken gebaut , um den Nachschubtransport zu vereinfachen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3462,7 +3570,8 @@
 20	vereinfachen	vereinfachen	VVINF	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T880405.23
+# tuepp_article_id = T880405.23
+# sent_id = 2561
 # text = Diese Formulierung baut dem Staat Brücken und ermöglicht die Toleranz gegenüber vielfältigen Ausdrucksformen , die er bislang vermissen ließ - was so viele Kreative vertrieb .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3493,7 +3602,8 @@
 25	vertrieb	vertreiben	VVFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T881205.126
+# tuepp_article_id = T881205.126
+# sent_id = 2562
 # text = Unter den Brücken müßten wir Rührwerke bauen , damit wieder Sauerstoff ins Wasser kommt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3513,7 +3623,8 @@
 14	kommt	kommen	VVFIN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T881207.103
+# tuepp_article_id = T881207.103
+# sent_id = 2563
 # text = Einige haben versucht , ihnen eine Brücke zu bauen : daß sie vielleicht nur Angst gehabt hätten , sich in der verhärteten Diskussion - von Inquisition war die Rede - noch zu äußern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3552,7 +3663,8 @@
 33	äußern	äußern	VVINF	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T881213.172
+# tuepp_article_id = T881213.172
+# sent_id = 2564
 # text = Da sich die Menschen im Land der aufgehenden Sonne für bahnbrechende Zivilisationsneuerungen nie zu schade sind , geht die Kompensation der Enge sogar soweit , daß über Stadtautobahnen schalenförmige Brücken gebaut werden , auf ( oder besser in ) denen Tote bestattet werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3601,7 +3713,8 @@
 43	werden	werden	VAINF	*	*	*	*
 44	.	.	$.	*	*	*	*
 
-# article_id = T880825.63
+# tuepp_article_id = T880825.63
+# sent_id = 2565
 # text = Wenn es je eine Begegnung in Würde und Respekt zwischen diesen beiden Kontinenten geben sollte , dann hat einer wie Jürg dazu die Brücken gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3632,7 +3745,8 @@
 25	gebaut	bauen	VVPP	2	2	2	2
 26	.	.	$.	*	*	*	*
 
-# article_id = T880312.11
+# tuepp_article_id = T880312.11
+# sent_id = 2566
 # text = Über den " Abgrund zwischen den Völkern der Deutschen und der Juden " seien " instabile Brücken gebaut " worden - auch Israelis und Araber könnten ihre Feindschaft ähnlich überwinden , meinte Stercken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3671,7 +3785,8 @@
 33	Stercken	<unknown>	NN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T881122.101
+# tuepp_article_id = T881122.101
+# sent_id = 2567
 # text = Zwar wird bei jeder sich bietenden Gelegenheit von " Brüderlichkeit und Brücken bauen " gesprochen , aber das Thema des Holocaust wird bis heute in der gebotenen Konsequenz nicht aufgearbeitet .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3707,7 +3822,8 @@
 30	aufgearbeitet	aufarbeiten	VVPP	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T870626.27
+# tuepp_article_id = T870626.27
+# sent_id = 2568
 # text = Indem er historische Schuld auf sich nahm ( " Auf die glorreiche Idee , auch nur mit einem Opfer der Zwangssterilisation zu reden , bin ich erst vor zwei Jahren gekommen " ) , baute er Brücken , beschämte er und definierte das Hearing vorab als historischen Fortschritt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3761,9 +3877,10 @@
 48	Fortschritt	Fortschritt	NN	*	*	*	*
 49	.	.	$.	*	*	*	*
 
-# article_id = T871015.72
+# tuepp_article_id = T871015.72
+# sent_id = 2569
 # text = Also müsse man ihnen Brücken bauen .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Also	also	ADV	*	*	*	*
 2	müsse	müssen	VMFIN	*	*	*	*
@@ -3773,7 +3890,8 @@
 6	bauen	bauen	VVINF	2	2	2	2
 7	.	.	$.	*	*	*	*
 
-# article_id = T870117.68
+# tuepp_article_id = T870117.68
+# sent_id = 2570
 # text = Wenn viele Zuschauer von seinen Stoffen aus keine Brücke zu ihrer individuellen Realität bauen können , so liegt das daran , daß seine Filme , wie jede große Kunst , nicht Wahrheit suchen , sondern ihre Essenz , die jeder Rezipient für seine eigenen Verhältnisse verdünnen kann - oder auch nicht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3830,7 +3948,8 @@
 51	nicht	nicht	PTKNEG	*	*	*	*
 52	.	.	$.	*	*	*	*
 
-# article_id = T870126.40
+# tuepp_article_id = T870126.40
+# sent_id = 2571
 # text = Gemeinsam mit 100 bereits im Dezember eingeflogenen US-Soldaten sollen sie nach amtlichen Angaben im Süden des Landes sieben Brücken bauen und eine Straße zur Grenze Panamas ausbauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3863,7 +3982,8 @@
 27	ausbauen	ausbauen	VVINF	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T870415.46
+# tuepp_article_id = T870415.46
+# sent_id = 2572
 # text = Wie in vielen anderen Fällen hatte das " Institut für ländliches Wohlergehen " ( IBR ) die Landbesetzung in Tavapy II insofern genehmigt , daß sie den Bauern , die Mais und Bohnen anpflanzten , Schulen , Kirchen , Straßen und Brücken bauten , eine " Besetzungsgebühr " abverlangte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3918,7 +4038,8 @@
 49	abverlangte	abverlangen	VVFIN	*	*	*	*
 50	.	.	$.	*	*	*	*
 
-# article_id = T870309.22
+# tuepp_article_id = T870309.22
+# sent_id = 2573
 # text = Die Bauern errichteten in der Wildnis vier Schulen , eine Werkstatt , vier Kir chen , elf Öfen , sie bauten vier Brücken und 40 Kilometer Straße .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3951,7 +4072,8 @@
 27	Straße	Straße	NN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T870325.63
+# tuepp_article_id = T870325.63
+# sent_id = 2574
 # text = Aber gerade die Linke hat es bisher versäumt , aus der unwiderruflichen kontinentalen Assimilation die Konsequenzen zu ziehen und Brücken zu bauen - Brücken des Widerstandes .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3983,7 +4105,8 @@
 26	Widerstandes	Widerstand	NN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T871102.30
+# tuepp_article_id = T871102.30
+# sent_id = 2575
 # text = Nicht , daß man einsichtige und reuige Mörder straffrei ausgehen lassen will , aber für viele ließe sich auch nach Ansicht der Strafverfolger eine akzeptable Brücke zurück in die Legalität bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4020,7 +4143,8 @@
 31	bauen	bauen	VVINF	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T861022.34
+# tuepp_article_id = T861022.34
+# sent_id = 2576
 # text = Diesen jungen Menschen wolle er " eine Brücke bauen " ( taz-Interview vom 26.11.83 ) .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4041,7 +4165,8 @@
 15	)	)	$(	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T861216.54
+# tuepp_article_id = T861216.54
+# sent_id = 2577
 # text = Der Knesset-Abgeordnete von der Demokratischen Front , Charlie Bitton , bemerkte dazu , daß sich immer mehr Israelis sefardischer ( also orientalischer ) Herkunft ihrer Aufgabe bewußt werden , Brücken zu bauen für den Frieden mit den arabischen Ländern und insbesondere mit dem palästinensischen Volk .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4092,7 +4217,8 @@
 45	Volk	Volk	NN	*	*	*	*
 46	.	.	$.	*	*	*	*
 
-# article_id = T930511.31
+# tuepp_article_id = T930511.31
+# sent_id = 2578
 # text = Durch das Zentrum sollen neue "Ost-West"-Straßen gezogen , das Brandenburger Tor umfahren und eine neue Brücke über die Spree gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4120,7 +4246,8 @@
 22	werden	werden	VAINF	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T930514.16
+# tuepp_article_id = T930514.16
+# sent_id = 2579
 # text = " Wenn ich ein Bataillon hierherbekomme , werden die Soldaten Straßen und Brücken bauen und ein Kommunikationsnetz installieren " , freute sich General Abshir Musse , der die nordöstliche Hafenstadt Bosaso kontrolliert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4158,9 +4285,10 @@
 32	kontrolliert	kontrollieren	VVPP	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T930514.18
+# tuepp_article_id = T930514.18
+# sent_id = 2580
 # text = Wenn da einer eine Brücke baut und runterfällt , fällt das selbstverständlich unter den Versicherungsschutz .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Wenn	wenn	KOUS	*	*	*	*
 2	da	da	ADV	*	*	*	*
@@ -4179,7 +4307,8 @@
 15	Versicherungsschutz	Versicherungsschutz	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T930515.116
+# tuepp_article_id = T930515.116
+# sent_id = 2581
 # text = Eine Pädagogik , die Brücken baut , aber keine fertigen Einsichten und Programme liefert , sondern die Auseinandersetzung mit dem Fremden über das eigenständige Aktivwerden , Erleben , und Fragenstellen ermöglicht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4216,7 +4345,8 @@
 31	ermöglicht	ermöglichen	VVPP	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T930515.192
+# tuepp_article_id = T930515.192
+# sent_id = 2582
 # text = So werden dem künftigen Bankkunden goldene Brücken bis zu Zinssparen und Dispokredit gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4235,7 +4365,8 @@
 13	gebaut	bauen	VVPP	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T930616.166
+# tuepp_article_id = T930616.166
+# sent_id = 2583
 # text = Der Rat zum Theater : Brücken bauen statt Gräben ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4250,7 +4381,8 @@
 9	Gräben	Graben	NN	*	*	*	*
 10	ziehen	ziehen	VVINF	*	*	*	*
 
-# article_id = T930616.166
+# tuepp_article_id = T930616.166
+# sent_id = 2584
 # text = Und daß die Kultur- Brücken sich aus den freien Projekt-Mitteln ( z.B. dem Glücksspiel-Töpfchen ) bauen lassen - daran hat Schäfer seine Zweifel : Er befürchtet , " daß dort , wo neue Projekte entstehen könnten , die Förderung hinten runterfällt " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4298,7 +4430,8 @@
 42	"	"	$(	*	*	*	*
 43	.	.	$.	*	*	*	*
 
-# article_id = T931027.78
+# tuepp_article_id = T931027.78
+# sent_id = 2585
 # text = Hier müssen beide Seiten noch eine starke Brücke bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4313,7 +4446,8 @@
 9	bauen	bauen	VVINF	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T931025.71
+# tuepp_article_id = T931025.71
+# sent_id = 2586
 # text = Die USA bauten ein paar Brücken , besserten Straßen aus und vollendeten den " Point Salines " - Flughafen , den die Kubaner begonnen hatten und der den Amerikanern einen Vorwand für die Invasion geliefert hatte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4355,7 +4489,8 @@
 36	hatte	haben	VAFIN	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T931026.43
+# tuepp_article_id = T931026.43
+# sent_id = 2587
 # text = BMW wertete die Gesamtentwicklung dieses Jahres positiv und meinte , der Konzern habe " eine Brücke über das Konjunkturtal " bauen und sich vom Branchentrend abkoppeln können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4388,7 +4523,8 @@
 27	können	können	VMINF	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T931006.158
+# tuepp_article_id = T931006.158
+# sent_id = 2588
 # text = Die Brücken , die er baut , sind Versuche , den oft beschworenen Abgrund zu queren , die ständig unterbrochenen Verbindungen unter den Menschen wiederherzustellen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4419,9 +4555,10 @@
 25	wiederherzustellen	wiederherstellen	VVIZU	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T930913.153
+# tuepp_article_id = T930913.153
+# sent_id = 2589
 # text = So lautete das Ergebnis der Runde am Vormittag : Wir müssen Brücken bauen , über die nicht nur Einbahn- sondern auch Zweibahnstraßen führen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	So	so	ADV	*	*	*	*
 2	lautete	lauten	VVFIN	*	*	*	*
@@ -4448,7 +4585,8 @@
 23	führen	führen	VVINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T930915.71
+# tuepp_article_id = T930915.71
+# sent_id = 2590
 # text = " Und außerdem würden sie um Jerusalem neue Brücken und Straßen bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4466,7 +4604,8 @@
 12	bauen	bauen	VVINF	1	1	1	1
 13	.	.	$.	*	*	*	*
 
-# article_id = T930922.203
+# tuepp_article_id = T930922.203
+# sent_id = 2591
 # text = Vielmehr baut er Brücken in die Isolation der Rechten , sucht ihnen durch Ernsthaftigkeit gesellschaftliches Interesse zu vermitteln , und erhält so Reden , die sich vielfach nur in entscheidenden Winzigkeiten von der Rede deutscher Politiker unterscheiden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4509,9 +4648,10 @@
 37	unterscheiden	unterscheiden	VVINF	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T930908.121
+# tuepp_article_id = T930908.121
+# sent_id = 2592
 # text = Feuer machen ohne Streichhölzer und Brücken bauen ohne Ingenieure .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Feuer	Feuer	NN	*	*	*	*
 2	machen	machen	VVFIN	*	*	*	*
@@ -4524,7 +4664,8 @@
 9	Ingenieure	Ingenieur	NN	*	*	*	*
 10	.	.	$.	*	*	*	*
 
-# article_id = T930111.110
+# tuepp_article_id = T930111.110
+# sent_id = 2593
 # text = Wie baut er die Brücke zwischen historischer Wirklichkeit und Kriminalroman ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4540,7 +4681,8 @@
 10	Kriminalroman	Kriminalroman	NN	*	*	*	*
 11	?	?	$.	*	*	*	*
 
-# article_id = T930108.36
+# tuepp_article_id = T930108.36
+# sent_id = 2594
 # text = Mit den neuerlichen Gutachten will sich das Gericht jetzt die " goldene Brücke " ( Becker ) bauen : " Sie wollen sagen können : es gab am 21,12 .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4575,7 +4717,8 @@
 29	21,12	@card@	CARD	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T930116.39
+# tuepp_article_id = T930116.39
+# sent_id = 2595
 # text = Wir wollen Brücken bauen , nicht einreißen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4588,7 +4731,8 @@
 7	einreißen	einreißen	VVINF	*	*	*	*
 8	.	.	$.	*	*	*	*
 
-# article_id = T930121.29
+# tuepp_article_id = T930121.29
+# sent_id = 2596
 # text = Indem die politische Klasse den Diskurs der Straße aufnimmt und etwa dem " Wildwuchs " bei den Sozialleistungen das Wort redet , baut sie eine gefährliche Brücke zwischen den wirtschaftspolitischen Krisenstrategien und rassistischen Exzessen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4628,7 +4772,8 @@
 34	Exzessen	Exzess	NN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T930121.159
+# tuepp_article_id = T930121.159
+# sent_id = 2597
 # text = Eine Stimme aus dem Publikum versuchte - spürbar erschüttert - eine Brücke zu bauen : Ob die Medien nicht manches Wort verdreht wiedergegeben hätten , ob Monika Maron ihre Kritik denn wirklich so stehenlassen wolle ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4669,7 +4814,8 @@
 35	wolle	wollen	VMFIN	*	*	*	*
 36	?	?	$.	*	*	*	*
 
-# article_id = T930407.123
+# tuepp_article_id = T930407.123
+# sent_id = 2598
 # text = Noch ist nicht entschieden , wie viele Tore geöffnet , Brücken gebaut und Asphaltschneisen durch Häuserblöcke geschlagen werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4693,7 +4839,8 @@
 18	werden	werden	VAINF	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T930417.82
+# tuepp_article_id = T930417.82
+# sent_id = 2599
 # text = Besser wäre noch einmal : Brücken bauen für einen sturen Bock .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4710,7 +4857,8 @@
 11	Bock	Bock	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
 
-# article_id = T930716.83
+# tuepp_article_id = T930716.83
+# sent_id = 2600
 # text = Warum hat Oberländer nie die goldene Brücke betreten , die die Bonner Staatsanwaltschaft ihm baute ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4731,7 +4879,8 @@
 15	baute	bauen	VVFIN	2	2	2	2
 16	?	?	$.	*	*	*	*
 
-# article_id = T930717.64
+# tuepp_article_id = T930717.64
+# sent_id = 2601
 # text = Es ging also , entnehmen wir diesen Aussagen , von vornherein gar nicht um den Charakter des Blauhelm-Einsatzes , um das Gefährdungspotential oder um die Frage , ob man dort Brücken baut oder Bomben schmeißt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4772,7 +4921,8 @@
 35	schmeißt	schmeißen	VVFIN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T930701.151
+# tuepp_article_id = T930701.151
+# sent_id = 2602
 # text = Über den Humboldhafen müßte zu diesem Zweck eine neue Brücke gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4790,7 +4940,8 @@
 12	werden	werden	VAINF	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T930707.113
+# tuepp_article_id = T930707.113
+# sent_id = 2603
 # text = Zu diesem Zweck wird eine Brücke über den Humboldthafen gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4806,7 +4957,8 @@
 10	gebaut	bauen	VVPP	1	1	1	1
 11	.	.	$.	*	*	*	*
 
-# article_id = T931202.164
+# tuepp_article_id = T931202.164
+# sent_id = 2604
 # text = Rempe hofft sogar immer noch , daß man vielleicht eine Brücke für Layer bauen könnte : " Das sind ja alles nur auslaufende Verpflichtungen , die ihn hindern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4840,7 +4992,8 @@
 28	hindern	hindern	VVINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T931214.69
+# tuepp_article_id = T931214.69
+# sent_id = 2605
 # text = Vorsichtig werden im Andeutungsnebel schon mal geistige Brücken zur PDS gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4857,7 +5010,8 @@
 11	gebaut	bauen	VVPP	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T931201.46
+# tuepp_article_id = T931201.46
+# sent_id = 2606
 # text = Bergner baute die Brücken und verzichtete auf den noch vor wenigen Tagen als für ihn nahezu unverzichtbar geltenden Sachverstand der drei Ex-Ressortchefs .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4885,7 +5039,8 @@
 22	Ex-Ressortchefs	<unknown>	NN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T930301.161
+# tuepp_article_id = T930301.161
+# sent_id = 2607
 # text = Für 50 Millionen Mark wird eine Brücke über die Uferstraßen und den Landwehrkanal gebaut und auf diese Weise eine kreuzungsfreie Transportverbindung zwischen den Baugeländen und den Lagern und Produktionsstätten geschaffen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4921,7 +5076,8 @@
 30	geschaffen	schaffen	VVPP	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T930306.246
+# tuepp_article_id = T930306.246
+# sent_id = 2608
 # text = Wir haben nur noch wenig Zeit , Zeitzeugen zuzuhören - vielleicht kann man mit der dringenden Frage zu Bosnien heute eine Brücke zwischen den Generationen bauen : Was können wir tun ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4958,7 +5114,8 @@
 31	tun	tun	VVINF	*	*	*	*
 32	?	?	$.	*	*	*	*
 
-# article_id = T931113.181
+# tuepp_article_id = T931113.181
+# sent_id = 2609
 # text = Es wurden eine Brücke , eine Sprungschanze und ein öffentliches Waschhaus gebaut und eine Armenküche eingerichtet .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4980,7 +5137,8 @@
 16	eingerichtet	einrichten	VVPP	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T931111.15
+# tuepp_article_id = T931111.15
+# sent_id = 2610
 # text = Nun wollen sie zusammen mit dem Komitee " Cap Anamur " und dem bosnischen Verein " Merhamed " eine neue " Brücke der Hoffnung " nach Bosnien bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5014,7 +5172,8 @@
 28	bauen	bauen	VVINF	2	2	2	2
 29	.	.	$.	*	*	*	*
 
-# article_id = T931122.138
+# tuepp_article_id = T931122.138
+# sent_id = 2611
 # text = Die Kosten sind noch nicht geklärt , aber um eine Größenordnung zu verdeutlichen , nannte Wolfgang Müller , stellvertretender Projektleiter bei der Bauverwaltung , eine Summe von 15 Millionen Mark , wenn das Land Berlin die Brücke selber baut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5059,7 +5218,8 @@
 39	baut	bauen	VVFIN	1	1	1	1
 40	.	.	$.	*	*	*	*
 
-# article_id = T931122.138
+# tuepp_article_id = T931122.138
+# sent_id = 2612
 # text = Wer die Brücke baut , ist bislang unklar .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5073,7 +5233,8 @@
 8	unklar	unklar	ADJD	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T930217.151
+# tuepp_article_id = T930217.151
+# sent_id = 2613
 # text = " Damit kann man eine Brücke bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5086,7 +5247,8 @@
 7	bauen	bauen	VVINF	2	2	2	2
 8	.	.	$.	*	*	*	*
 
-# article_id = T960517.129
+# tuepp_article_id = T960517.129
+# sent_id = 2614
 # text = Er baute auch Brücken zu anderen Parteien , die es ihm erlaubten , das Stigma der BJP als Paria zu durchbrechen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5113,7 +5275,8 @@
 21	durchbrechen	durchbrechen	VVINF	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T960515.65
+# tuepp_article_id = T960515.65
+# sent_id = 2615
 # text = Man muß ihnen jetzt Brücken bauen , damit sie es wieder aufheben können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5132,7 +5295,8 @@
 13	können	können	VMINF	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T960621.21
+# tuepp_article_id = T960621.21
+# sent_id = 2616
 # text = Arbeitsminister Norbert Blüm ( CDU ) verteidigte die Reform im Bundestag mit dem Hinweis , es gehe darum , vor allem den Langzeitarbeitslosen Brücken in den Arbeitsmarkt zu bauen und den Mißbrauch der Arbeitslosenunterstützung zu unterbinden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5174,7 +5338,8 @@
 36	unterbinden	unterbinden	VVINF	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T960607.242
+# tuepp_article_id = T960607.242
+# sent_id = 2617
 # text = Und : " Es war die menschliche Größe von Miriam Gillis-Carlebach , die über die Vernichtung ihrer Familie und ihres Volkes hinweg die Brücke zu einem neuen Dialog baute , der jetzt die Universität Hamburg mit der Bar-Ilan Universität verbindet .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5220,9 +5385,10 @@
 40	verbindet	verbinden	VVFIN	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T961021.81
+# tuepp_article_id = T961021.81
+# sent_id = 2618
 # text = Um Brücken bauen zu helfen , bedarf es einer klugen Politik .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Um	um	APPR	*	*	*	*
 2	Brücken	Brücke	NN	2	2	1	2
@@ -5237,7 +5403,8 @@
 11	Politik	Politik	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
 
-# article_id = T961008.87
+# tuepp_article_id = T961008.87
+# sent_id = 2619
 # text = Gespickt mit Daten über neue Jobs , Fortschritte bei der Krankenversicherung , Kredite für Studenten , den Abbau des Defizits , die Ausweitung der Todesstrafe und die sogenannte Reform des Sozialhilfewesens präsentierte er sich als optimistischer und erfolgreicher Amtsinhaber , der weitere vier Jahre verdiene , weil er " Amerikas Brücke ins 21. Jahrhundert " bauen will .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5301,7 +5468,8 @@
 58	will	wollen	VMFIN	*	*	*	*
 59	.	.	$.	*	*	*	*
 
-# article_id = T960918.181
+# tuepp_article_id = T960918.181
+# sent_id = 2620
 # text = Dabei wurden die Brücken von Ost nach West mit Zwischentönen statt rauher Polemik gebaut - zu einer Zeit , als kaum 20 Prozent der Westdeutschen Kontakte in die DDR pflegten und nur wenig Wissen übereinander bestand .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5343,7 +5511,8 @@
 36	bestand	bestehen	VVFIN	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T960123.182
+# tuepp_article_id = T960123.182
+# sent_id = 2621
 # text = Rosenthal übersetzt den Philosoph ganz einfach als den " Freund des Wissens " und baut dem Abendland damit goldene Brücken zur Technophilie .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5371,9 +5540,10 @@
 22	Technophilie	<unknown>	NN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T960108.164
+# tuepp_article_id = T960108.164
+# sent_id = 2622
 # text = Brücken bauen haben die Amerikaner ja schon gelernt .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Brücken	Brücke	NN	2	2	2	2
 2	bauen	bauen	VVINF	2	2	2	2
@@ -5385,9 +5555,10 @@
 8	gelernt	lernen	VVPP	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T960415.96
+# tuepp_article_id = T960415.96
+# sent_id = 2623
 # text = Mit der Vereinbarung von Sarajevo vom 31. März sollen in der muslimisch-kroatischen Föderation Brücken gebaut werden , sollen die Gemeinschaften wieder zusammenwachsen , sollen Polizei und Armee vereinheitlicht , soll die Wirtschaft wieder angekurbelt werden .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Mit	mit	APPR	*	*	*	*
 2	der	die	ART	*	*	*	*
@@ -5427,7 +5598,8 @@
 36	werden	werden	VAINF	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T960424.266
+# tuepp_article_id = T960424.266
+# sent_id = 2624
 # text = Nach dem klassischen Studium der Kalligrafie in China studierte er in den 80er Jahren an der HfbK in Hamburg und versucht , ein malerisches Bildsystem zu entwickeln , das beiden Traditions-Erfahrungen gerecht wird , eine visuelle Brücke zu bauen zwischen den so grundsätzlich unterschiedlichen Kunstauffassungen Asiens und Europas .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5481,7 +5653,8 @@
 48	Europas	Europa	NE	*	*	*	*
 49	.	.	$.	*	*	*	*
 
-# article_id = T960424.266
+# tuepp_article_id = T960424.266
+# sent_id = 2625
 # text = Shan Fan baut so eine Brücke zwischen dem chinesischen Erfassen des Lebensatems und dem europäischen Skeptizismus .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5503,7 +5676,8 @@
 16	Skeptizismus	Skeptizismus	NN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T960719.324
+# tuepp_article_id = T960719.324
+# sent_id = 2626
 # text = " Neue Brücken bauen zu anderen Nationen " ist einer der Schwerpunkte , die sich die Veranstalter gesetzt haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5528,9 +5702,10 @@
 19	haben	haben	VAFIN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T960729.119
+# tuepp_article_id = T960729.119
+# sent_id = 2627
 # text = Den Experten aus Schweden ist es nun gelungen , aus unzähligen feinen Nerven " Brücken " zwischen bestimmten Nervenzellen im Rückenmark zu bauen .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
 2	Experten	Experte	NN	*	*	*	*
@@ -5557,7 +5732,8 @@
 23	bauen	bauen	VVINF	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T960701.215
+# tuepp_article_id = T960701.215
+# sent_id = 2628
 # text = Däke bezifferte die Kosten hierfür auf bislang 90 Millionen Mark und warf der Bundesregierung vor , den Beamten eine " goldene Brücke " in die Hauptstadt bauen zu wollen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5592,7 +5768,8 @@
 29	wollen	wollen	VMINF	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T961221.87
+# tuepp_article_id = T961221.87
+# sent_id = 2629
 # text = Die Pioniereinheiten machten sich im Laufe des Frühjahrs und Sommers 1995 daran , neun Brücken zu bauen sowie Straßen von insgesamt mehr als 56 Kilometer Länge .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5624,7 +5801,8 @@
 26	Länge	Länge	NN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T961209.13
+# tuepp_article_id = T961209.13
+# sent_id = 2630
 # text = Das war der Versuch , Milosevic eine goldene Brücke zu bauen ( oder ein brüchige ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5645,9 +5823,10 @@
 15	brüchige	brüchig	ADJA	*	*	*	*
 16	?	?	$.	*	*	*	*
 
-# article_id = T961213.234
+# tuepp_article_id = T961213.234
+# sent_id = 2631
 # text = Man muß unter Beschuß Brücken bauen , über Flüsse , deren Gegenufer man noch nicht kennt .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Man	man	PIS	*	*	*	*
 2	muß	müssen	VMFIN	*	*	*	*
@@ -5667,7 +5846,8 @@
 16	kennt	kennen	VVFIN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T960828.233
+# tuepp_article_id = T960828.233
+# sent_id = 2632
 # text = Mit ihren Bildwelten ( Malerei , Zeichnung , Foto-Installationen , Film ) baut sie eine visuelle Brücke zwischen fremden Kulturen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5693,7 +5873,8 @@
 20	Kulturen	Kultur	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T960803.292
+# tuepp_article_id = T960803.292
+# sent_id = 2633
 # text = Es müßten Brücken zu den Menschen gebaut werden , um die " Tragfähigkeit des alten Glaubens " zu vermitteln .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5718,7 +5899,8 @@
 19	vermitteln	vermitteln	VVINF	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T960831.305
+# tuepp_article_id = T960831.305
+# sent_id = 2634
 # text = Das birgt die Gefahr , daß man sich als Zuschauer mit diesen starken Bildern und diffusem Wissen um südamerikanische Diktatur , Müllersche Chiffren und deutsche Vergangenheit einfache Brücken und Weltsichten baut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5755,7 +5937,8 @@
 31	baut	bauen	VVFIN	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T960318.125
+# tuepp_article_id = T960318.125
+# sent_id = 2635
 # text = Die Brücke wurde , wie die eingemeißelte Inschrift verkündet , im Jahre 1571 aus robustem Bimsstein gebaut , auf Geheiß des osmanischen Großwesirs Mehmet Pascha .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5786,7 +5969,8 @@
 25	Pascha	Pascha	NN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T960302.105
+# tuepp_article_id = T960302.105
+# sent_id = 2636
 # text = Die ausgemergelten Menschen in Ostmostar , die fast ein Jahr lang von kroatisch-bosnischen und serbisch-bosnischen Truppen eingeschlossen gewesen waren , die verwüstete Altstadt , die zerschossene " Stari Most " - die berühmte , von den Osmanen gebaute , hochgeschwungene Brücke über der Neretva - die Massen von Flüchtlingen auf beiden Seiten , all diese beschwerlichen Hinterlassenschaften eines Krieges sollte Koschnick zum Besseren wenden .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -5817,7 +6001,8 @@
 25	Pascha	Pascha	NN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T960326.188
+# tuepp_article_id = T960326.188
+# sent_id = 2637
 # text = Der gemeinsame Vorschlag von Deutschland und Frankreich zur Einführung einer " konstruktiven Enthaltung " versucht hier Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5842,7 +6027,8 @@
 19	bauen	bauen	VVINF	2	2	2	2
 20	.	.	$.	*	*	*	*
 
-# article_id = T960323.152
+# tuepp_article_id = T960323.152
+# sent_id = 2638
 # text = Ortiz setzt auf die anrührende Geste , den liebevollen Blick , der auch in Patina und Fragment den Anhauch der Zeit verspürt : Daraus baut er seine Brücken zwischen Ägyptern , Sumerern , den Epochen der griechischen Kultur , Römern und Artefakten aus Afrika , Südamerika , Pazifik .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5896,7 +6082,8 @@
 48	Pazifik	Pazifik	NE	*	*	*	*
 49	.	.	$.	*	*	*	*
 
-# article_id = T960321.219
+# tuepp_article_id = T960321.219
+# sent_id = 2639
 # text = Jetzt heißt es , die Brücke müsse abgetragen und neu gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5914,7 +6101,8 @@
 12	werden	werden	VAINF	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T960321.289
+# tuepp_article_id = T960321.289
+# sent_id = 2640
 # text = Die Orientierungshilfe ist nach Auskunft der Kirche ein Versuch , Brücken zwischen den zwei extremen Positionen zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5938,7 +6126,8 @@
 18	bauen	bauen	VVINF	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T961107.13
+# tuepp_article_id = T961107.13
+# sent_id = 2641
 # text = " Wir haben eine Brücke ins nächste Jahrhundert zu bauen , und ich bin bereit dazu " , rief er auf einer Wahlparty in seiner Heimatstadt Little Rock in Arkansas am Morgen Tausenden jubelnden Anhängern zu .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5980,7 +6169,8 @@
 36	zu	zu	PTKVZ	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T961105.5
+# tuepp_article_id = T961105.5
+# sent_id = 2642
 # text = Das sind keine rosigen Aussichten für sein derzeitiges Lieblingsprojekt , mit allen Landsleuten " eine Brücke ins 21. Jahrhundert zu bauen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6009,7 +6199,8 @@
 23	"	"	$(	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T961121.257
+# tuepp_article_id = T961121.257
+# sent_id = 2643
 # text = Beim Kulturprogramm in Bremen solle aber eine Umsteuerung stattfinden : Man habe sich bisher " amateurhaft im soziokulturellen Bereich " bewegt , stattdessen soll der Kultursaal mehr genutzt werden , um Brücken für die Angebote der professionellen Träger zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6055,7 +6246,8 @@
 40	bauen	bauen	VVINF	2	2	2	2
 41	.	.	$.	*	*	*	*
 
-# article_id = T960222.124
+# tuepp_article_id = T960222.124
+# sent_id = 2644
 # text = Dabei konkurrieren sie mit den Telefongesellschaften , die ebenfalls eine Brücke zum Internet bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6075,7 +6267,8 @@
 14	bauen	bauen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T960207.57
+# tuepp_article_id = T960207.57
+# sent_id = 2645
 # text = Er schließt am Ende mit der sehr christlichen Wendung : " Es gibt in der Mythologie viele Beispiele dafür , wie sich Bäume neigen , um Brücken zu bauen , und sich Felsen erweichen lassen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6116,7 +6309,8 @@
 35	lassen	lassen	VVINF	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T980527.118
+# tuepp_article_id = T980527.118
+# sent_id = 2646
 # text = Im Kosovo hat sich eine zivile Gesellschaft , die in der Lage ist , sich gegen die Manipulation zu wehren und zwischen beiden Seiten Brücken zu bauen , nicht durchsetzen können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6153,7 +6347,8 @@
 31	können	können	VMINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T980527.190
+# tuepp_article_id = T980527.190
+# sent_id = 2647
 # text = " Brücken zwischen all den verschiedenen Gesichtern des Tanzes " zu bauen war ein Traum von Amos Hetz , Choreograph und Bewegungslehrer aus Israel .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6183,7 +6378,8 @@
 24	Israel	Israel	NE	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T980617.43
+# tuepp_article_id = T980617.43
+# sent_id = 2648
 # text = Bauhouse wird musikalisch und visuell gleichermaßen intelligent eine Brücke zu den Inseln bauen : Räume öffnen für gemeinsame Visionen zwischen den Zeichen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6211,7 +6407,8 @@
 22	Zeichen	Zeichen	NN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T980624.213
+# tuepp_article_id = T980624.213
+# sent_id = 2649
 # text = Obwohl das Planfeststellungsverfahren in Berlin für das umstrittene Milliardenprojekt noch nicht begonnen hat , baut die " DB Projekt Knoten Berlin " die Brücke Nennhauser Damm am Bahnhof Staaken 12 Meter länger als ursprünglich geplant - um Platz zu schaffen für die Transrapid- Trasse .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6261,7 +6458,8 @@
 44	Trasse	Trasse	NN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
-# article_id = T980609.264
+# tuepp_article_id = T980609.264
+# sent_id = 2650
 # text = Jetzt soll mit Hilfe der Europäischen Union eine bewegliche Brücke gebaut werden , um den Hafen wieder befahrbar zu machen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6287,7 +6485,8 @@
 20	machen	machen	VVINF	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T980605.68
+# tuepp_article_id = T980605.68
+# sent_id = 2651
 # text = Aber irgendwann in den 70er Jahren wurden meterhohe Rampen aufgeschüttet und eine Brücke über die Bahnlinie Hannover-Hamburg gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6311,7 +6510,8 @@
 18	gebaut	bauen	VVPP	1	1	1	1
 19	.	.	$.	*	*	*	*
 
-# article_id = T980605.111
+# tuepp_article_id = T980605.111
+# sent_id = 2652
 # text = Bonn ( AP ) - Zwei Ärzte aus Indien und Pakistan appellierten gestern in Bonn an die Regierungen weltweit , zu helfen , Brücken der Verständigung zwischen Indien und Pakistan zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6349,7 +6549,8 @@
 32	bauen	bauen	VVINF	2	2	2	2
 33	.	.	$.	*	*	*	*
 
-# article_id = T980109.147
+# tuepp_article_id = T980109.147
+# sent_id = 2653
 # text = Bisweilen wirkte es , als wolle sie Irans Präsidenten goldene Brücken bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6367,7 +6568,8 @@
 12	bauen	bauen	VVINF	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T980124.67
+# tuepp_article_id = T980124.67
+# sent_id = 2654
 # text = Die Aktionstage sollen helfen , " Brücken für Verständnis zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6384,7 +6586,8 @@
 11	bauen	bauen	VVINF	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T980424.97
+# tuepp_article_id = T980424.97
+# sent_id = 2655
 # text = Seine Partei wolle " die Brücke ins Solarzeitalter bauen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6400,7 +6603,8 @@
 10	"	"	$(	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T980731.299
+# tuepp_article_id = T980731.299
+# sent_id = 2656
 # text = Großbaustelle Hamburger U-Bahn : Dutzende von Brücken und Viadukten aus Stahl sollen in den nächsten zwölf Jahren neu gebaut werden ; zum Teil über mehrere Monate werden die entsprechenden Strecken dafür außer Betrieb genommen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6440,7 +6644,8 @@
 34	genommen	nehmen	VVPP	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T980706.79
+# tuepp_article_id = T980706.79
+# sent_id = 2657
 # text = Für seine Nutzung mußten Brücken , Tunnel , eine Autobahn und eine U-Bahnlinie gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6461,7 +6666,8 @@
 15	werden	werden	VAINF	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T981208.138
+# tuepp_article_id = T981208.138
+# sent_id = 2658
 # text = Entscheidend für die Auflösung von ethnischen Kolonien ist für mich die Frage , welche Brücken eine Gesellschaft baut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6485,7 +6691,8 @@
 18	baut	bauen	VVFIN	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T981208.271
+# tuepp_article_id = T981208.271
+# sent_id = 2659
 # text = Denn es geht darum , Brücken zu bauen zu anderen jüdischen und nicht-jüdischen Gemeinschaften , zu anderen Minderheiten in Europa .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6511,7 +6718,8 @@
 20	Europa	Europa	NE	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T981212.11
+# tuepp_article_id = T981212.11
+# sent_id = 2660
 # text = Er strafte damit den Präsidenten der Ärztekammer Hamburg , Frank- Ulrich Montgomery , der versucht hatte , goldene Brücken für Vilmar zu bauen : Der habe wohl nur versucht , " im Radio ironisch zu sein , und das kommt nicht rüber " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6560,7 +6768,8 @@
 43	"	"	$(	*	*	*	*
 44	.	.	$.	*	*	*	*
 
-# article_id = T981223.81
+# tuepp_article_id = T981223.81
+# sent_id = 2661
 # text = " Wir versuchen natürlich , ihm eine goldene Brücke zu bauen , so daß er mit Anstand nein sagen kann " , räumt Joop ein .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6591,7 +6800,8 @@
 25	ein	ein	PTKVZ	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T980803.219
+# tuepp_article_id = T980803.219
+# sent_id = 2662
 # text = " Brücken zwischen den Generationen " wolle sie bauen , gab Birgit Locnikar zu epd-Protokoll .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6612,7 +6822,8 @@
 15	epd-Protokoll	<unknown>	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T980803.219
+# tuepp_article_id = T980803.219
+# sent_id = 2663
 # text = In ihrem jetzigen Job wird sie vor allem Brücken zwischen den Nationalitäten bauen müssen , weiß sie : " Wir sind wohl das einzige Haus hier in Bremen , wo sich die Menschen über alle Grenzen hinweg austauschen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6656,7 +6867,8 @@
 38	austauschen	austauschen	VVINF	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T980829.224
+# tuepp_article_id = T980829.224
+# sent_id = 2664
 # text = Die Rahmenhandlung wirkt vor diesem Hintergrund wie eine Notlösung , derer sich Heym bedienen muß , um eine plausible Brücke zu den Aufzeichnungen Pargfriders zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6688,7 +6900,8 @@
 26	bauen	bauen	VVINF	2	2	2	2
 27	.	.	$.	*	*	*	*
 
-# article_id = T980828.208
+# tuepp_article_id = T980828.208
+# sent_id = 2665
 # text = Nicht unter der Regie der Veranstalter freilich , doch der Hanfparade eine derartige goldene Brücke zu bauen , kommt für den Senator nicht Frage .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6718,7 +6931,8 @@
 24	Frage	Frage	NN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T981117.218
+# tuepp_article_id = T981117.218
+# sent_id = 2666
 # text = Eine direkte Brücke zwischen Skandinavien und Deutschland baut der finnisch-jüdische Schriftsteller Daniel Katz ( heute , 18 Uhr ) .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6743,7 +6957,8 @@
 19	)	)	$(	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T980204.33
+# tuepp_article_id = T980204.33
+# sent_id = 2667
 # text = " Die Bremer CDU hätte dann die merkwürdige Rolle , die Brücke zu bauen über den Graben zwischen SPD-Ländern " , sagte Bremens zweiter Bürgermeister Hartmut Perschau ( CDU ) auf der anschließenden Pressekonferenz .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6783,7 +6998,8 @@
 34	Pressekonferenz	Pressekonferenz	NN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T980206.21
+# tuepp_article_id = T980206.21
+# sent_id = 2668
 # text = In dieser Situation haben die Grünen ihrerseits Druck gemacht : " Wir bauen Scherf keine goldene Brücke " , erklärte gestern der grüne Parteisprecher .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6813,7 +7029,8 @@
 24	Parteisprecher	Parteisprecher	NN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T980206.31
+# tuepp_article_id = T980206.31
+# sent_id = 2669
 # text = Der SPD und besonders dem zögernden Bremer Bürgermeister Henning Scherf solle keine " Brücke " gebaut werden , mit der die erforderliche Grundgesetzänderung gerechtfertigt werden könnte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6845,7 +7062,8 @@
 26	könnte	können	VMFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T980206.154
+# tuepp_article_id = T980206.154
+# sent_id = 2670
 # text = Soldaten bauten eine eiserne Brücke zu einem Nachbarhaus , das Teil der Siedlungsbauten von Avraham Avinu ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6868,7 +7086,8 @@
 17	ist	sein	VAFIN	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T970517.222
+# tuepp_article_id = T970517.222
+# sent_id = 2671
 # text = Nach dem bisherigen Planungsstand werden auf der Nordtrasse von den vorhandenen Brücken sieben angehoben und drei neu gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6892,7 +7111,8 @@
 18	gebaut	bauen	VVPP	1	1	1	1
 19	.	.	$.	*	*	*	*
 
-# article_id = T970517.222
+# tuepp_article_id = T970517.222
+# sent_id = 2672
 # text = Auf der Südtrasse sollen neun Brücken neu gebaut sowie acht Brücken angehoben werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6911,7 +7131,8 @@
 13	werden	werden	VAINF	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T970526.263
+# tuepp_article_id = T970526.263
+# sent_id = 2673
 # text = Mit dem von der Deutschen Gesellschaft für Psychiatrie , Psychotherapie und Nervenheilkunde veranstalteten Kongreß wollten die rund 1.200 Teilnehmer in der vergangenen Woche eine Brücke zwischen den kranken Menschen und der Öffentlichkeit bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6950,7 +7171,8 @@
 33	bauen	bauen	VVINF	2	2	2	2
 34	.	.	$.	*	*	*	*
 
-# article_id = T971014.133
+# tuepp_article_id = T971014.133
+# sent_id = 2674
 # text = Möge Weigerts Wunsch in Erfüllung gehen , daß er seinen Landsleuten eine Brücke gebaut habe , die von den " Generationen des Hasses und Blutvergießens zu einem friedlichen Zusammenleben mit den arabischen Nachbarn im gleichen heiligen Land " führt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6995,7 +7217,8 @@
 39	führt	führen	VVFIN	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T971002.169
+# tuepp_article_id = T971002.169
+# sent_id = 2675
 # text = Die Rolling Stones bauen grundsolide Brücken nach Babylon
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7008,7 +7231,8 @@
 7	nach	nach	APPR	*	*	*	*
 8	Babylon	Babylon	NE	*	*	*	*
 
-# article_id = T971022.9
+# tuepp_article_id = T971022.9
+# sent_id = 2676
 # text = Auch Lafontaines Ankündigung , man wolle jetzt die " Brücke ins Solarzeitalter bauen " , klingt nicht gerade glaubwürdig .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7033,7 +7257,8 @@
 19	glaubwürdig	glaubwürdig	ADJD	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T971023.72
+# tuepp_article_id = T971023.72
+# sent_id = 2677
 # text = Die damalige ZdK- Präsidentin Rita Waschbüsch hatte protestiert : Beide hätten " keine Brücken zwischen der Partei und der Kirche gebaut " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7061,7 +7286,8 @@
 22	"	"	$(	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T970903.217
+# tuepp_article_id = T970903.217
+# sent_id = 2678
 # text = Natürlich kann die " Innenseite " nicht mehr als ein Versuch sein , Brücken zwischen Hip-Hop und Hochkultur zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7087,7 +7313,8 @@
 20	bauen	bauen	VVINF	2	2	2	2
 21	.	.	$.	*	*	*	*
 
-# article_id = T970927.171
+# tuepp_article_id = T970927.171
+# sent_id = 2679
 # text = Jetzt sind die Zulus schließlich ganz aus dem Häuschen : Die Weißen werden uns endlich eine Brücke über den Fluß bauen !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7114,7 +7341,8 @@
 21	bauen	bauen	VVINF	1	1	1	1
 22	!	!	$.	*	*	*	*
 
-# article_id = T970925.295
+# tuepp_article_id = T970925.295
+# sent_id = 2680
 # text = Klug , scharfsinnig und umsichtig , wie er ist , hätte er eine Brücke zwischen der großen sich Volkspartei nennenden SPD und der großen türkischen Minderheit bauen können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7148,7 +7376,8 @@
 28	können	können	VMINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T970116.136
+# tuepp_article_id = T970116.136
+# sent_id = 2681
 # text = Der junge irische Ingenieur John Patterson ( Val Kilmer ) erhält im Jahre 1897 den Auftrag , in Afrika eine Brücke zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7177,7 +7406,8 @@
 23	bauen	bauen	VVINF	1	1	1	1
 24	.	.	$.	*	*	*	*
 
-# article_id = T970116.345
+# tuepp_article_id = T970116.345
+# sent_id = 2682
 # text = " Um für eine britische Bahngesellschaft eine Brücke zu bauen , geht Ende des 19. Jahrhunderts ein Architekt nach Ostafrika .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7204,7 +7434,8 @@
 21	Ostafrika	Ostafrika	NE	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T970123.193
+# tuepp_article_id = T970123.193
+# sent_id = 2683
 # text = Köppl , der als entschiedenster Verfechter einer PDS-Kooperation gilt , wollte den Bündnisgrünen aus dem Ostteil der Stadt eine Brücke bauen : In einer rot-grünen Regierungserklärung müßten eine Reihe von klaren Bekenntnissen zu Menschenrechtsfragen und eine eindeutige Kritik an den DDR- Verbrechen formuliert werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7254,7 +7485,8 @@
 44	werden	werden	VAINF	*	*	*	*
 45	.	.	$.	*	*	*	*
 
-# article_id = T970123.270
+# tuepp_article_id = T970123.270
+# sent_id = 2684
 # text = " Um für eine britische Bahngesellschaft eine Brücke zu bauen , geht Ende des 19. Jahrhunderts ein Architekt nach Ostafrika .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7281,7 +7513,8 @@
 21	Ostafrika	Ostafrika	NE	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T970121.240
+# tuepp_article_id = T970121.240
+# sent_id = 2685
 # text = Der Bremer Kneipentingler Oktay Kocamaz will mit sage und schreibe 562 Liedern im Programm eine Brücke zu Frauen bauen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7305,7 +7538,8 @@
 18	Frauen	Frau	NN	*	*	*	*
 19	bauen	bauen	VVINF	2	2	2	2
 
-# article_id = T970121.240
+# tuepp_article_id = T970121.240
+# sent_id = 2686
 # text = " Musik , Literatur , Malerei , das war immer der Versuch , eine Brücke zwischen mir und den Frauen zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7333,7 +7567,8 @@
 22	bauen	bauen	VVINF	2	2	2	2
 23	.	.	$.	*	*	*	*
 
-# article_id = T970417.7
+# tuepp_article_id = T970417.7
+# sent_id = 2687
 # text = Arafat wirft Israel vor , anstatt Brücken des Vertrauens zu bauen , eine wütende Siedlungskampagne zu beginnen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7356,7 +7591,8 @@
 17	beginnen	beginnen	VVINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T970403.57
+# tuepp_article_id = T970403.57
+# sent_id = 2688
 # text = Schon vor hundert Jahren existierten Pläne , an der breitesten Ausbuchtung der Elbe im Osten der Stadt eine Brücke zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7383,7 +7619,8 @@
 21	bauen	bauen	VVINF	1	1	1	1
 22	.	.	$.	*	*	*	*
 
-# article_id = T970405.146
+# tuepp_article_id = T970405.146
+# sent_id = 2689
 # text = " Wenn der Bau einer Brücke das Bewußtsein derer , die daran arbeiten , nicht erweitert , dann soll die Brücke nicht gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7413,7 +7650,8 @@
 24	werden	werden	VAINF	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T970428.59
+# tuepp_article_id = T970428.59
+# sent_id = 2690
 # text = Thailand , interessiert an Erdgas , Holz und anderen Rohstoffen , wird künftig wichtige Straßen und Brücken in Birma bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7439,7 +7677,8 @@
 20	bauen	bauen	VVINF	1	1	1	1
 21	.	.	$.	*	*	*	*
 
-# article_id = T970702.124
+# tuepp_article_id = T970702.124
+# sent_id = 2691
 # text = Um eine " Brücke " zwischen dem stets verantwortlichen Ich und der Unendlichkeit zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7460,7 +7699,8 @@
 15	bauen	bauen	VVINF	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T970703.112
+# tuepp_article_id = T970703.112
+# sent_id = 2692
 # text = Jürgen Rüttgers , der sich einst als Zukunftsminister ins Amt loben ließ , hat vor dem Bundestag Brücken ins nächste Jahrtausend gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7488,7 +7728,8 @@
 22	gebaut	bauen	VVPP	2	2	2	2
 23	.	.	$.	*	*	*	*
 
-# article_id = T971213.63
+# tuepp_article_id = T971213.63
+# sent_id = 2693
 # text = Während Ministerpräsident Johannes Rau und Wirtschaftsminister Wolfgang Clement bemüht sind , Brücken zu den Grünen zu bauen , um einen einvernehmlichen Umgang mit dem umstrittenen Braunkohletagebauprojekt Garzweiler II zu ermöglichen , nutzt SPD-Fraktionschef Klaus Matthiesen jede Möglichkeit , um die rot-grüne Koalition auseinanderzusprengen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7537,7 +7778,8 @@
 43	auseinanderzusprengen	auseinandersprengen	VVIZU	*	*	*	*
 44	.	.	$.	*	*	*	*
 
-# article_id = T971227.160
+# tuepp_article_id = T971227.160
+# sent_id = 2694
 # text = Küstenmacher baut lediglich die Brücke zwischen Science-Fiction und Realität , beschreibt " ganz realistisch , wann der Mondtourismus starten könnte " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7564,7 +7806,8 @@
 21	"	"	$(	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T971206.118
+# tuepp_article_id = T971206.118
+# sent_id = 2695
 # text = Noch bevor der Bundestag seinen Segen gab , wurden die ersten Brücken gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7583,7 +7826,8 @@
 13	gebaut	bauen	VVPP	1	1	1	1
 14	.	.	$.	*	*	*	*
 
-# article_id = T971211.147
+# tuepp_article_id = T971211.147
+# sent_id = 2696
 # text = Zuvor hatte Gehrke Schneider in einem ausgiebigen Dialog goldene Brücken gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7600,7 +7844,8 @@
 11	gebaut	bauen	VVPP	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T971209.86
+# tuepp_article_id = T971209.86
+# sent_id = 2697
 # text = Dem 71jährigen , der weiterhin in den USA leben , aber einmal im Monat nach Berlin kommen will , ist es wichtig , " eine Brücke zu den unterschiedlichsten Menschen zu bauen " , wie er sich salomonisch ausdrückte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7645,7 +7890,8 @@
 39	ausdrückte	ausdrücken	VVFIN	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T971217.155
+# tuepp_article_id = T971217.155
+# sent_id = 2698
 # text = Das gleiche Blatt fühlte sich aber auch bemüßigt , dem Staatspräsidenten eine Brücke zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7666,7 +7912,8 @@
 15	bauen	bauen	VVINF	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T970802.219
+# tuepp_article_id = T970802.219
+# sent_id = 2699
 # text = Die Barriere der Bahnlinie nach Achim wollen die Grünen an mehreren Stellen durchbrechen , unter anderem solle am Bruchweg eine Brücke über die Bahn gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7698,7 +7945,8 @@
 26	werden	werden	VAINF	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T970814.187
+# tuepp_article_id = T970814.187
+# sent_id = 2700
 # text = Und hier kommt KRS-One ins Bild : " Der Mann , der zwischen allen verschiedenen Rap-Fangemeinden eine Brücke bauen konnte " , so die knappe Einschätzung von David Toop im Standardwerk " Rap-Attack " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7738,7 +7986,8 @@
 34	"	"	$(	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T970818.237
+# tuepp_article_id = T970818.237
+# sent_id = 2701
 # text = Straßen , Brücken müßten neu gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7751,7 +8000,8 @@
 7	werden	werden	VAINF	*	*	*	*
 8	.	.	$.	*	*	*	*
 
-# article_id = T970801.169
+# tuepp_article_id = T970801.169
+# sent_id = 2702
 # text = Unter fachkundiger Betreuung können sie auch Mauern hochziehen , Straßen pflastern , Brücken bauen und Rohre verlegen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7774,7 +8024,8 @@
 17	verlegen	verlegen	VVINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T971127.80
+# tuepp_article_id = T971127.80
+# sent_id = 2703
 # text = Sein Entgegenkommen erklärte er so : " Damit will ich Ihnen eine Brücke bauen , damit sie Ihr Gesicht wahren können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7801,7 +8052,8 @@
 21	können	können	VMINF	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T971114.378
+# tuepp_article_id = T971114.378
+# sent_id = 2704
 # text = Zwar geht es dem emsigen Musiker vor allem darum , Werbung für das friedliche Zusammenleben zu machen , indem er musikalische Brücken baut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7830,7 +8082,8 @@
 23	baut	bauen	VVFIN	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T971108.23
+# tuepp_article_id = T971108.23
+# sent_id = 2705
 # text = Gutausgebildeten Minenräumteams passieren aber nicht mehr Unfälle als Bautrupps , die Brücken und Straßen in Afrika bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7853,7 +8106,8 @@
 17	bauen	bauen	VVINF	1	1	1	1
 18	.	.	$.	*	*	*	*
 
-# article_id = T970218.322
+# tuepp_article_id = T970218.322
+# sent_id = 2706
 # text = Die neue Brücke an der Straße Billhorner Deich wird nur für Pkw , Fußgänger und Radfahrer gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7876,7 +8130,8 @@
 17	gebaut	bauen	VVPP	1	1	1	1
 18	.	.	$.	*	*	*	*
 
-# article_id = T970203.279
+# tuepp_article_id = T970203.279
+# sent_id = 2707
 # text = Und vielleicht ist die Braut mit ihrem wertkonservativen Faßt-euch-an-die-Hände-Programm ja auch einmal dabei , wenn es darum geht , mit Musik ein deutsches Gegenstück zu der von Bill Clinton anvisierten " Brücke ins 21ste Jahrhundert " zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7920,7 +8175,8 @@
 38	bauen	bauen	VVINF	2	2	2	2
 39	.	.	$.	*	*	*	*
 
-# article_id = T940503.164
+# tuepp_article_id = T940503.164
+# sent_id = 2708
 # text = Außerdem müssen Signal- und Telekommunikationstechnik komplett erneuert sowie u.a. 23 Brücken neu gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7940,7 +8196,8 @@
 14	werden	werden	VAINF	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T940503.185
+# tuepp_article_id = T940503.185
+# sent_id = 2709
 # text = Zunächst können die Groß-Schiffe nur halb beladen ( mit zwei Lagen Containern ) fahren , richtig rentabel wird es dann aber erst , wenn alle Brücken neu gebaut sind .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7975,9 +8232,10 @@
 29	sind	sein	VAFIN	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T940521.290
+# tuepp_article_id = T940521.290
+# sent_id = 2710
 # text = " Brücke bauen " heißt das hier .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
 2	Brücke	Brücke	NN	2	2	2	2
@@ -7988,7 +8246,8 @@
 7	hier	hier	ADV	*	*	*	*
 8	.	.	$.	*	*	*	*
 
-# article_id = T940509.66
+# tuepp_article_id = T940509.66
+# sent_id = 2711
 # text = Brücken und Tunnels müssen gebaut werden , wie es sie seit der Erfindung der Eisenbahn noch nicht gegeben hat .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8013,7 +8272,8 @@
 19	hat	haben	VAFIN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T940527.113
+# tuepp_article_id = T940527.113
+# sent_id = 2712
 # text = Ich möchte darauf hinwirken , daß die Brücken zwischen den Bevölkerungsgruppen wieder gebaut werden , daß die Bevölkerung wieder zusammen lebt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8040,7 +8300,8 @@
 21	lebt	leben	VVFIN	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T940602.212
+# tuepp_article_id = T940602.212
+# sent_id = 2713
 # text = Mit der Veröffentlichung sollte eine Brücke zur " nichtjüdischen Welt " gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8059,7 +8320,8 @@
 13	werden	werden	VAINF	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T940609.158
+# tuepp_article_id = T940609.158
+# sent_id = 2714
 # text = Für diesen Betrag werden die beiden Bauherren in sieben Bezirken neue Grün- und Freiflächen anlegen , Bäume pflanzen und eine Brücke für Fußgänger- und Radfahrer bauen , kündigte gestern Ullrich von Bismark von der Bauverwaltung an .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8101,7 +8363,8 @@
 36	an	an	PTKVZ	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T940617.77
+# tuepp_article_id = T940617.77
+# sent_id = 2715
 # text = Dieser grundsätzliche Konflikt zwischen Regierung und Opposition bestimmt den Wahlkampf und verdeckt , daß es am Wochenende gar nicht um große Politik , sondern darum geht , ob mit lokalen Steuergeldern eine neue Brücke oder lieber ein Klärwerk gebaut werden soll .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8148,7 +8411,8 @@
 41	soll	sollen	VMFIN	*	*	*	*
 42	.	.	$.	*	*	*	*
 
-# article_id = T940603.171
+# tuepp_article_id = T940603.171
+# sent_id = 2716
 # text = In dem Mega-Bauvorhaben werden zehn Brücken neu gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8162,7 +8426,8 @@
 8	gebaut	bauen	VVPP	1	1	1	1
 9	.	.	$.	*	*	*	*
 
-# article_id = T940621.200
+# tuepp_article_id = T940621.200
+# sent_id = 2717
 # text = " Trotzig wandte sich Younghi Pagh-Paan ab , begann Mathe und Physik zu pauken , wollte plötzlich wie ihr Vater Brücken bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8190,7 +8455,8 @@
 22	bauen	bauen	VVINF	1	1	1	1
 23	.	.	$.	*	*	*	*
 
-# article_id = T941027.26
+# tuepp_article_id = T941027.26
+# sent_id = 2718
 # text = Der Baukonzern Dong Ah Constructions bot an , eine neue Brücke im Wert von 186 Millionen Dollar zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8215,7 +8481,8 @@
 19	bauen	bauen	VVINF	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T941007.140
+# tuepp_article_id = T941007.140
+# sent_id = 2719
 # text = Nun endlich schaltete ich , der Mann wollte mir offenbar eine Brücke bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8234,7 +8501,8 @@
 13	bauen	bauen	VVINF	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T941022.292
+# tuepp_article_id = T941022.292
+# sent_id = 2720
 # text = Eine Brücke zu bauen ohne ausreichende Anbindung sei " offenkundig eine problemschaffende Halbplanung " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8254,7 +8522,8 @@
 14	"	"	$(	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T941022.292
+# tuepp_article_id = T941022.292
+# sent_id = 2721
 # text = " Im Klartext : Wer nicht weiß , wie der Verkehr weiterfließen soll , darf auch keine Brücke bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8279,7 +8548,8 @@
 19	bauen	bauen	VVINF	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T941019.184
+# tuepp_article_id = T941019.184
+# sent_id = 2722
 # text = Aufgrund der schweren Hochgeschwindigkeitszüge , die zukünftig über die Strecke donnern sollen , müssen über 500 Viaduktbögen erneuert , 44 Brücken instandgesetzt und 10 Brücken neu gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8313,7 +8583,8 @@
 28	werden	werden	VAINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T940924.211
+# tuepp_article_id = T940924.211
+# sent_id = 2723
 # text = Die einst staatliche Anstalt TF 1 gehört seit 1986 dem größten französischen Betonunternehmen , Bouygues , das ansonsten Arbeitervorstädte , Stadien und Brücken baut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8343,7 +8614,8 @@
 24	baut	bauen	VVFIN	1	1	1	1
 25	.	.	$.	*	*	*	*
 
-# article_id = T940923.226
+# tuepp_article_id = T940923.226
+# sent_id = 2724
 # text = Ausstellungskonzept ) angekommen ist - der sieht sich dann doch wieder den " Nachtfalken " gegenüber : Um den Besuchern " eine Brücke zu bauen " , hat man das populärste aller Hopperbilder von zwei heimischen Künstlern nachpinseln lassen ; eine entbehrliche Peinlichkeit , die aber den Wert der übrigen Schau nicht schmälern kann .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8403,7 +8675,8 @@
 54	kann	können	VMFIN	*	*	*	*
 55	.	.	$.	*	*	*	*
 
-# article_id = T940921.178
+# tuepp_article_id = T940921.178
+# sent_id = 2725
 # text = OVG : Planungsfehler der Behörde , Brücke ohne Anschluß zu bauen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8419,7 +8692,8 @@
 10	zu	zu	PTKZU	*	*	*	*
 11	bauen	bauen	VVINF	1	1	1	1
 
-# article_id = T940921.178
+# tuepp_article_id = T940921.178
+# sent_id = 2726
 # text = Aber wenn sie 1966 eine Brücke bauen , dann hatten sie rund 20 Jahre Zeit den Anschluß zu bauen " , sagte er .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8448,9 +8722,10 @@
 23	er	er	PPER	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T940913.72
+# tuepp_article_id = T940913.72
+# sent_id = 2727
 # text = Auf der Westseite von Mostar , wo etwa 35.000 Menschen vor allem kroatischer Nationalität leben , haben extremistische Kräfte immer wieder versucht , den durch Koschnick und die EU-Administration vorgeschlagenen Weg , buchstäblich " Brücken zwischen den ehemaligen Kriegsgegnern " zu bauen , zu sabotieren .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Auf	auf	APPR	*	*	*	*
 2	der	die	ART	*	*	*	*
@@ -8499,7 +8774,8 @@
 45	sabotieren	sabotieren	VVINF	*	*	*	*
 46	.	.	$.	*	*	*	*
 
-# article_id = T940901.261
+# tuepp_article_id = T940901.261
+# sent_id = 2728
 # text = " Das würden selbst Ihre Gefolgsleute akzeptieren " , wurde dem grünen Senator eine Brücke gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8521,7 +8797,8 @@
 16	gebaut	bauen	VVPP	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T940919.179
+# tuepp_article_id = T940919.179
+# sent_id = 2729
 # text = Ist das nicht schon mehr als die symbolische Beerdigung der Trambahn , für die erst eine zweite Brücke an der Warschauer Straße gebaut werden müßte ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8552,7 +8829,8 @@
 25	müßte	müssen	VMFIN	*	*	*	*
 26	?	?	$.	*	*	*	*
 
-# article_id = T940114.66
+# tuepp_article_id = T940114.66
+# sent_id = 2730
 # text = Sie bot damals sogar an , die Brücke auf eigene Kosten zu bauen und nach Rückfluß der Baukosten durch Brückenbenutzungsgebühren an den dänischen und schwedischen Staat zu schenken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8586,7 +8864,8 @@
 28	schenken	schenken	VVINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T940114.116
+# tuepp_article_id = T940114.116
+# sent_id = 2731
 # text = Er allein baut allmählich Brücken , die auf der letzten LP-Seite wiederum fast Pink-Floydesk mit " a huge ever growing pulsating brain that rules from the centre of the ultraworld " und einem laxen " loving u " enden , das vielleicht ehrlicher gemeint ist als alle Prince- Schmeicheleien .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8641,7 +8920,8 @@
 49	Schmeicheleien	Schmeichelei	NN	*	*	*	*
 50	.	.	$.	*	*	*	*
 
-# article_id = T940103.198
+# tuepp_article_id = T940103.198
+# sent_id = 2732
 # text = Zwischen Sozialismus und Christentum gebe es viele Parallelen , beide blickten auf eine widersprüchliche Geschichte mit Licht und Schatten zurück , hatte Gysi der Gemeinde mitzuteilen und schon war die Brücke gebaut , von der aus der Abgeordnete zu seinen Zuhörern und Zuhörerinnen sprach .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8691,7 +8971,8 @@
 44	sprach	sprechen	VVFIN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
-# article_id = T940129.192
+# tuepp_article_id = T940129.192
+# sent_id = 2733
 # text = Nördlich dieser Brücke wurde 1988 eine zweite Brücke gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8706,7 +8987,8 @@
 9	gebaut	bauen	VVPP	1	1	1	1
 10	.	.	$.	*	*	*	*
 
-# article_id = T940129.199
+# tuepp_article_id = T940129.199
+# sent_id = 2734
 # text = Andere Menschen , Völker , Nationen bauen Brücken , um Grenzen zu überwinden , um Kontinente zu verbinden , um Gefangene auszutauschen oder auch um Kriege ins Nachbarland zu tragen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8742,9 +9024,10 @@
 30	tragen	tragen	VVINF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T940129.199
+# tuepp_article_id = T940129.199
+# sent_id = 2735
 # text = Oft bauten sie Brücken aus schierer Lust , der Natur zu trotzen , öfter aber noch , um ihr etwas abzutrotzen ; in jedem Falle hatten Brücken bei ihnen einen " überbrückenden " Sinn .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Oft	oft	ADV	*	*	*	*
 2	bauten	bauen	VVFIN	1	2	2	2
@@ -8782,7 +9065,8 @@
 34	Sinn	Sinn	NN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T940129.303
+# tuepp_article_id = T940129.303
+# sent_id = 2736
 # text = Diejenigen , die sich bemühen , Brücken zu bauen , sind häufig relativ isoliert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8802,7 +9086,8 @@
 14	isoliert	isolieren	VVPP	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T940106.218
+# tuepp_article_id = T940106.218
+# sent_id = 2737
 # text = Offensichtlich bemüht , eine Brücke zu bauen , fragt Schaberg : " War die Scheidung ein schlimmer Schlag für Sie ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8828,7 +9113,8 @@
 20	Sie	Sie	PPER	*	*	*	*
 21	?	?	$.	*	*	*	*
 
-# article_id = T940112.49
+# tuepp_article_id = T940112.49
+# sent_id = 2738
 # text = Bei dieser Ausgangslage , so heißt es aus IG- Metall-Kreisen , " kann kein Schlichter eine tragfähige Brücke zwischen beiden Lagern bauen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8857,7 +9143,8 @@
 23	"	"	$(	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T940725.92
+# tuepp_article_id = T940725.92
+# sent_id = 2739
 # text = Die neu zu bauenden Brücken sollten aber nicht nur diesen beiden Gruppen offenstehen , auch die ehemaligen serbischen Bewohner der Stadt müßten hier ihren Platz wieder finden können .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -8886,7 +9173,8 @@
 23	"	"	$(	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T940722.90
+# tuepp_article_id = T940722.90
+# sent_id = 2740
 # text = Um bis dahin die gewünschte " Verbesserung " der bosnisch-serbischen Position zu erreichen , wollen Rußland und Großbritannien den Serben in den nächsten Tagen noch " Brücken bauen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8921,7 +9209,8 @@
 29	"	"	$(	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T940702.15
+# tuepp_article_id = T940702.15
+# sent_id = 2741
 # text = D'Alema versucht bereits seit Jahren , eine Brücke zwischen der alten PCI und der neuen Linken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8945,7 +9234,8 @@
 18	bauen	bauen	VVINF	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T941217.214
+# tuepp_article_id = T941217.214
+# sent_id = 2742
 # text = Dabei hatte Ingo Koopmann versucht , seinen Kreuzberger Parteikollegen eine Brücke zu bauen , indem er eine Reihe von Bedingungen formuliert hatte , unter denen sie dem Bau auf dem Anhalter Bahnhof zustimmen könnten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -8985,7 +9275,8 @@
 34	könnten	können	VMFIN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T940817.12
+# tuepp_article_id = T940817.12
+# sent_id = 2743
 # text = Gericht und Staatsanwaltschaft versuchten im gestrigen zweiten Prozeß vergeblich , Heiko K. goldene Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9007,7 +9298,8 @@
 16	bauen	bauen	VVINF	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T940801.232
+# tuepp_article_id = T940801.232
+# sent_id = 2744
 # text = Der Teufel baute die Brücke , bekam aber statt der Seele nur eine Ratte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9027,7 +9319,8 @@
 14	Ratte	Ratte	NN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T940824.104
+# tuepp_article_id = T940824.104
+# sent_id = 2745
 # text = Diese Erfahrungen will er künftig noch stärker nutzen , um behutsam zwischen Kulturen und Religionen Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9051,7 +9344,8 @@
 18	bauen	bauen	VVINF	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T940315.228
+# tuepp_article_id = T940315.228
+# sent_id = 2746
 # text = Neben den über 1000 Fachvorträgen sollen mit Ausstellungen und öffentlichen Vorträgen ein paar Brücken aus dem Elfenbeinturm gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9076,7 +9370,8 @@
 19	werden	werden	VAINF	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T940328.72
+# tuepp_article_id = T940328.72
+# sent_id = 2747
 # text = Eine Brücke muß da gebaut werden , andere Projekte , die jedem zeigen : Es geht aufwärts , und es muß jemand da sein , der mit allen kann , der allen zuhört .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9115,7 +9410,8 @@
 33	zuhört	zuhören	VVFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T940329.137
+# tuepp_article_id = T940329.137
+# sent_id = 2748
 # text = Dazu müßten , wie Verkehrssprecher Tomas Spahn bestätigte , erst die Verbindung und " eine zweite Brücke an der Warschauer Straße gebaut werden " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9145,7 +9441,8 @@
 24	"	"	$(	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T941111.174
+# tuepp_article_id = T941111.174
+# sent_id = 2749
 # text = Dennoch : Die Ermöglichung der doppelten Staatsbürgerschaft würde sich konfliktentschärfend auswirken und könnte eine Brücke zwischen verschiedenen Gruppen bauen , auf der man sich begegnen könnte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9177,7 +9474,8 @@
 26	könnte	können	VMFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T941112.203
+# tuepp_article_id = T941112.203
+# sent_id = 2750
 # text = Cetin : Es ging vor allem darum , Brücken zwischen deutschen und ausländischen Jugendlichen zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9199,7 +9497,8 @@
 16	bauen	bauen	VVINF	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T941101.172
+# tuepp_article_id = T941101.172
+# sent_id = 2751
 # text = Dabei werden sämtliche Gleis- und Signalanlagen und 530 Viaduktbögen erneuert , 44 Brücken werden instandgesetzt , 10 Brücken neu gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9225,7 +9524,8 @@
 20	gebaut	bauen	VVPP	1	1	1	1
 21	.	.	$.	*	*	*	*
 
-# article_id = T940225.54
+# tuepp_article_id = T940225.54
+# sent_id = 2752
 # text = Investoren sollen künftig Brücken und Tunnel an Fernstraßen und Autobahnen bauen und für deren Nutzung Gebühren verlangen können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9249,7 +9549,8 @@
 18	können	können	VMINF	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T940219.202
+# tuepp_article_id = T940219.202
+# sent_id = 2753
 # text = Doch die Sprache ist , vor allem in der ersten Phase , nicht immer das wichtigste , oft auch nicht die beste Brücke , die man zu den Patienten bauen kann .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9286,7 +9587,8 @@
 31	kann	können	VMFIN	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T950524.102
+# tuepp_article_id = T950524.102
+# sent_id = 2754
 # text = Vorher müßten eigentlich noch Brücken gebaut , Minen geräumt und Straßen repariert werden , damit sich die Soldaten überhaupt im Land bewegen können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9315,7 +9617,8 @@
 23	können	können	VMINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T950511.301
+# tuepp_article_id = T950511.301
+# sent_id = 2755
 # text = Für das normale Verhältnis in der Zukunft unserer zweier Völker ist es notwendig , daß alles gesagt wird und eine Brücke gebaut wird .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9344,7 +9647,8 @@
 23	wird	werden	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T951012.97
+# tuepp_article_id = T951012.97
+# sent_id = 2756
 # text = Parteiintern wird er wegen seiner " Zuverlässigkeit " und seiner Fähigkeit , " Brücken zu bauen " , gerühmt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9369,7 +9673,8 @@
 19	gerühmt	rühmen	VVPP	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T951016.50
+# tuepp_article_id = T951016.50
+# sent_id = 2757
 # text = Die Beamten bauten den missionarischen Poxdorfern goldene Brücken und empfahlen " ein Zeichen von echter Toleranz , das von einer wahren christlichen Einstellung zeigt " , indem sie anboten , vor und nicht zu Beginn der Sitzung zu beten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9414,7 +9719,8 @@
 39	beten	beten	VVINF	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T950911.228
+# tuepp_article_id = T950911.228
+# sent_id = 2758
 # text = Sein Beitrag wird , neben Ausbildung der Mitarbeiter , Forschung , Kontakte knüpfen und eine " Brücke " nach Bremen bauen , eine mehr künstlerisch ausgerichtete Therapie sein : Musik , Malen , Maskenbau .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9454,7 +9760,8 @@
 34	Maskenbau	Maskenbau	NN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T950107.320
+# tuepp_article_id = T950107.320
+# sent_id = 2759
 # text = Ein paar Sätze darf er in Deutsch sagen , dann springt die Dolmetscherin Ingrid ein und baut eine Brücke zum Dritten in der kleinen Runde - dem Agenten , für dessen Selbstdarstellung .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9492,7 +9799,8 @@
 32	Selbstdarstellung	Selbstdarstellung	NN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T950118.48
+# tuepp_article_id = T950118.48
+# sent_id = 2760
 # text = Der vorsitzende Amtsrichter Rudolph versuchte dem Verfahren die politische Dimension zu nehmen und den , seiner Meinung nach , " heranwachsenden " Angeklagten goldene Brücken zur Selbstverteidigung zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9527,9 +9835,10 @@
 29	bauen	bauen	VVINF	2	2	2	2
 30	.	.	$.	*	*	*	*
 
-# article_id = T950415.205
+# tuepp_article_id = T950415.205
+# sent_id = 2761
 # text = Obwohl die Herrscher der Stadthälften verfeindet sind , freunden sich die beiden an und bauen am Schluß eine Brücke .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Obwohl	obwohl	KOUS	*	*	*	*
 2	die	die	ART	*	*	*	*
@@ -9552,7 +9861,8 @@
 19	Brücke	Brücke	NN	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T950428.42
+# tuepp_article_id = T950428.42
+# sent_id = 2762
 # text = Warum soll nicht der , der Brücken geplant und gebaut hat , künftig Radwege planen ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9573,7 +9883,8 @@
 15	planen	planen	VVINF	*	*	*	*
 16	?	?	$.	*	*	*	*
 
-# article_id = T950726.59
+# tuepp_article_id = T950726.59
+# sent_id = 2763
 # text = Ja , deren Humankapital zählt nur , wenn sie sich über Umschulungen eine Brücke bauen , mit der der Einstieg möglich wird .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9601,7 +9912,8 @@
 22	wird	werden	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T950705.76
+# tuepp_article_id = T950705.76
+# sent_id = 2764
 # text = Nirgendwo soll aber eine hochgepflasterte Straßenbahntrasse einer Autospur geopfert werden , keine neue Brücke soll über die Weser gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9627,7 +9939,8 @@
 20	werden	werden	VAINF	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T950713.66
+# tuepp_article_id = T950713.66
+# sent_id = 2765
 # text = Bisher wollte die goldenen Brücken , die die Amerikaner bauen , in Bonn und München offenbar niemand betreten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9651,7 +9964,8 @@
 18	betreten	betreten	VVPP	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T951209.32
+# tuepp_article_id = T951209.32
+# sent_id = 2766
 # text = Wer hat die größte , die schönste Brücke gebaut ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9666,7 +9980,8 @@
 9	gebaut	bauen	VVPP	2	2	2	2
 10	?	?	$.	*	*	*	*
 
-# article_id = T951209.32
+# tuepp_article_id = T951209.32
+# sent_id = 2767
 # text = Eine der " Brücken " hatte Fraktionssprecherin Müller gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9681,7 +9996,8 @@
 9	gebaut	bauen	VVPP	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T951202.86
+# tuepp_article_id = T951202.86
+# sent_id = 2768
 # text = " Alles , was im Leben wichtig ist , kommt in der Schule nicht vor " , weiß auch der Direktor des Deutschen Jugendinstituts , Ingo Richter , und fordert die Schulen auf , " Brücken zur Wirklichkeit zu bauen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9728,7 +10044,8 @@
 41	"	"	$(	*	*	*	*
 42	.	.	$.	*	*	*	*
 
-# article_id = T951213.119
+# tuepp_article_id = T951213.119
+# sent_id = 2769
 # text = Diesen jungen Linken bauen die Autoren eine Brücke zwischen dem politischen Erbe der späten 60er , der 70er , der 80er Jahre und heute .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9758,7 +10075,8 @@
 24	heute	heute	ADV	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T950824.113
+# tuepp_article_id = T950824.113
+# sent_id = 2770
 # text = Wenn er aber meint , Joschka würde nun die Brücken zwischen seinen Außenpolitikern wie Verheugen und Lafontaine und den Kritikern Voigt und Klose bauen , dann tut er Joschka unrecht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9794,9 +10112,10 @@
 30	unrecht	unrecht	ADJD	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T950812.295
+# tuepp_article_id = T950812.295
+# sent_id = 2771
 # text = Taucher werden im Seerosenteich ausgesetzt , neue Wege angelegt , Brücken gebaut und eine riesige , sanft gebogene Treppe für die Bühne zwischen den romantischsten Baumgruppen abgesenkt .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Taucher	Taucher	NN	*	*	*	*
 2	werden	werden	VAFIN	*	*	*	*
@@ -9827,7 +10146,8 @@
 27	abgesenkt	absenken	VVPP	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T950816.156
+# tuepp_article_id = T950816.156
+# sent_id = 2772
 # text = Rund 40 Millionen Mark wird diese " Ordnung " kosten , denn soviel muß investiert werden , ehe mit den eigentlichen Baustellen begonnen werden kann : Ein eigenes Betonwerk wird neben dem Humboldthafen gebaut , die Invalidenstraße , Alt Moabit und die Moltkestraße werden untertunnelt und zwei Brücken gebaut , um kreuzungsfrei vom Stadtverkehr die Materialien und den Abraum transportieren zu können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9895,9 +10215,10 @@
 62	können	können	VMINF	*	*	*	*
 63	.	.	$.	*	*	*	*
 
-# article_id = T950815.249
+# tuepp_article_id = T950815.249
+# sent_id = 2773
 # text = So haben wir zwischen dem Unterschiedlichsten , was man sich an Malerei und Plastik vorstellen kann , eine Art Brücke gebaut .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	So	so	ADV	*	*	*	*
 2	haben	haben	VAFIN	*	*	*	*
@@ -9922,7 +10243,8 @@
 21	gebaut	bauen	VVPP	2	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T950324.69
+# tuepp_article_id = T950324.69
+# sent_id = 2774
 # text = Oxfam-Vertreter weisen diese Kritik zurück und versuchen nun , Brücken zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9940,7 +10262,8 @@
 12	bauen	bauen	VVINF	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T950304.256
+# tuepp_article_id = T950304.256
+# sent_id = 2775
 # text = Wir finden es absurd , daß an den Freizeitangeboten gespart wird , und für circa 15 Millionen die " Teerhofbrücke " gebaut wird , wo 50 Meter weiter eine andere Brücke ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -9978,7 +10301,8 @@
 32	ist	sein	VAFIN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T950315.69
+# tuepp_article_id = T950315.69
+# sent_id = 2776
 # text = Und da hat der Staat große Verantwortung : Durch Qualifikation , Bildung und durch arbeitsmarktpolitische Maßnahmen Brücken zu bauen in den regulären Arbeitsmarkt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10007,7 +10331,8 @@
 23	Arbeitsmarkt	Arbeitsmarkt	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T950325.96
+# tuepp_article_id = T950325.96
+# sent_id = 2777
 # text = Den Job bei der Weltfirma habe er einst angenommen , um " Brücken zwischen den Völkern zu bauen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10032,7 +10357,8 @@
 19	"	"	$(	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T950318.40
+# tuepp_article_id = T950318.40
+# sent_id = 2778
 # text = Der Bundesgerichtshof bestätigte die Entscheidung , baute aber gleichzeitig eine Brücke für das künftige Vorgehen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10053,7 +10379,8 @@
 15	Vorgehen	Vorgehen	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T951117.134
+# tuepp_article_id = T951117.134
+# sent_id = 2779
 # text = Den Initiatorinnen gelang es , in dem verminten Gelände der Geschichtsschreibung Brücken zu bauen , auf denen sich Deutsche und Polen begegnen konnten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10082,17 +10409,19 @@
 23	konnten	können	VMFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T951116.108
+# tuepp_article_id = T951116.108
+# sent_id = 2780
 # text = Wir müssen Brücken bauen .
 # context_judgement_1 = 0
-# context_judgement_2 = 0
+# context_judgement_2 = 1
 1	Wir	wir	PPER	*	*	*	*
 2	müssen	müssen	VMFIN	*	*	*	*
 3	Brücken	Brücke	NN	2	2	2	2
 4	bauen	bauen	VVINF	2	2	2	2
 5	.	.	$.	*	*	*	*
 
-# article_id = T951111.225
+# tuepp_article_id = T951111.225
+# sent_id = 2781
 # text = Die 200 Meter lange und 50 Millionen Mark teure Brücke wird nach den Plänen des Ingenieurbüros Fink und der Architekten Dörr , Ludolf und Wimmer gebaut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10124,7 +10453,8 @@
 26	gebaut	bauen	VVPP	1	1	1	1
 27	.	.	$.	*	*	*	*
 
-# article_id = T950202.151
+# tuepp_article_id = T950202.151
+# sent_id = 2782
 # text = Sie hatten in den vergangenen Wochen gute Vorarbeit geleistet : Um über zwei Gräben zu gelangen , hatte man behelfsmäßige Brücken aus Eisenbahnbohlen und Stahlblechen gebaut , den Zaun gelockert und die davor wachsenden Brombeerbüsche beschnitten , so daß sie wie eine Gardine weggezogen werden konnten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10176,7 +10506,8 @@
 46	konnten	können	VMFIN	*	*	*	*
 47	.	.	$.	*	*	*	*
 
-# article_id = T950222.36
+# tuepp_article_id = T950222.36
+# sent_id = 2783
 # text = Offenbar um den Sozialdemokraten goldene Brücken zu bauen , verzichtet Lutz Sikorski , der seit seinen kritisch-hämischen Kommentaren zum Kommunalwahlverlierer SPD bei rechtslastigen Genossen zum " Feindbild " avancierte , auf eine neuerliche Kandidatur .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10216,7 +10547,8 @@
 34	Kandidatur	Kandidatur	NN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T990115.181
+# tuepp_article_id = T990115.181
+# sent_id = 2784
 # text = Berlin komme die wichtige Rolle zu , Brücken zu bauen zwischen Ost und West .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10236,7 +10568,8 @@
 14	West	West	NN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T990113.100
+# tuepp_article_id = T990113.100
+# sent_id = 2785
 # text = Immerhin baute Santer am Ende seiner Rede den Kritikern im Plenum eine goldene Brücke , über die viele gerne gehen werden : Er kündigte einen Acht-Punkte-Plan an , der die Brüsseler Behörde reformieren soll .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10276,7 +10609,8 @@
 34	soll	sollen	VMFIN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T990113.120
+# tuepp_article_id = T990113.120
+# sent_id = 2786
 # text = Wenn sich zum Beispiel Hunderttausende von jungen Menschen türkischer Herkunft den deutschen Paß wünschen , dies aber mit Rücksicht auf ihre Eltern und Großeltern nicht anpacken - warum sollen wir ihnen da nicht die legale Brücke des Doppelpasses bauen ( der Doppelpaß über die Konsulate ist illegal ) ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10330,7 +10664,8 @@
 48	)	)	$(	*	*	*	*
 49	?	?	$.	*	*	*	*
 
-# article_id = T990128.150
+# tuepp_article_id = T990128.150
+# sent_id = 2787
 # text = Everding habe " wie kein anderer Brücken bauen können zwischen Kunst , Politik und Öffentlichkeit " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10352,7 +10687,8 @@
 16	"	"	$(	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T990406.83
+# tuepp_article_id = T990406.83
+# sent_id = 2788
 # text = Immer wieder mußte diese 1945 von deutschen Kriegsgefangenen gebaute Brücke repariert werden , damit sie überhaupt den zivilen Straßenverkehr aushält .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10374,7 +10710,8 @@
 16	"	"	$(	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T990429.60
+# tuepp_article_id = T990429.60
+# sent_id = 2789
 # text = Wird diesen Menschen keine Brücke ins " normale " Leben gebaut , werden sie zu einem reinen Kostenfaktor : Sie zahlen keine Steuern und kosten nur Sozialhilfe .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10407,7 +10744,8 @@
 27	Sozialhilfe	Sozialhilfe	NN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T990417.14
+# tuepp_article_id = T990417.14
+# sent_id = 2790
 # text = Weil Männer überhaupt lieber Hochhäuser und Brücken bauen oder zum Mond fliegen , bloß weit weg .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10429,7 +10767,8 @@
 16	weg	weg	PTKVZ	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T990327.291
+# tuepp_article_id = T990327.291
+# sent_id = 2791
 # text = Die Berliner müssen sich jetzt überlegen , ob sie übers Demonstrieren hinaus ihre Kontakte nach Rußland nutzen , um eine Brücke zu bauen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10458,7 +10797,8 @@
 23	bauen	bauen	VVINF	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T990312.64
+# tuepp_article_id = T990312.64
+# sent_id = 2792
 # text = " Dazu wird aber sicher das Bemühen gehören , Brücken zu bauen zwischen den Generationen und zwischen Ost und West .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10484,7 +10824,8 @@
 20	West	West	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T990213.64
+# tuepp_article_id = T990213.64
+# sent_id = 2793
 # text = Um dem Regime die Teilnahme zu ermöglichen , wollte die Bundesregierung der birmesischen Junta " eine Brücke bauen " , so ein westlicher Diplomat gegenüber der taz .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10517,7 +10858,8 @@
 27	taz	<unknown>	NE	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T990213.154
+# tuepp_article_id = T990213.154
+# sent_id = 2794
 # text = Und dennoch : Mozafferis These ist aus zwei Gründen geradezu genial : Zum einen baut er den schiitischen Geistlichen eine elegante Brücke , um die " Fatwa " endgültig zu kassieren , ohne an der " Unfehlbarkeit " Chomeinis allzusehr zu kratzen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10565,7 +10907,8 @@
 42	kratzen	kratzen	VVINF	*	*	*	*
 43	.	.	$.	*	*	*	*
 
-# article_id = T990213.329
+# tuepp_article_id = T990213.329
+# sent_id = 2795
 # text = " Falls tatsächlich ein Tunnel oder eine Brücke durch den Fehmarn-Sund gebaut würde , sieht er für die Insel Fehmarn daher schwarz .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10593,7 +10936,8 @@
 22	schwarz	schwarz	ADJD	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T990208.170
+# tuepp_article_id = T990208.170
+# sent_id = 2796
 # text = Bevor in den 70er Jahren die erste Brücke über den Bosporus gebaut wurde und Europa mit Asien verband , waren die Fähren die einzige Möglichkeit , den Kontinent zu wechseln .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10629,7 +10973,8 @@
 30	wechseln	wechseln	VVINF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T990215.130
+# tuepp_article_id = T990215.130
+# sent_id = 2797
 # text = " Er hat es torpediert , wo er nur konnte , und wir haben goldene Brücken gebaut noch und noch .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10655,7 +11000,8 @@
 20	noch	noch	ADV	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T990205.1
+# tuepp_article_id = T990205.1
+# sent_id = 2798
 # text = Die Firmen , die in Auschwitz Brücken , Tunnel , Abflußleitungen , Gleisanlagen und Hallen bauten , hinterlegten ihre genauen Auftragsbücher bei der Deutschen Bank und traten die Forderungen der Auftraggeber an sie ab .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10695,7 +11041,8 @@
 34	ab	ab	PTKVZ	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T990204.148
+# tuepp_article_id = T990204.148
+# sent_id = 2799
 # text = Der Aufbau kann eine Brücke bauen und Verständigungshilfe leisten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -10710,7 +11057,8 @@
 9	leisten	leisten	VVINF	*	*	*	*
 10	.	.	$.	*	*	*	*
 
-# article_id = T990201.94
+# tuepp_article_id = T990201.94
+# sent_id = 2800
 # text = Denn dies war das Anliegen des tiefgläubigen Turowicz : Brücken zu bauen zwischen geistigen Welten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0

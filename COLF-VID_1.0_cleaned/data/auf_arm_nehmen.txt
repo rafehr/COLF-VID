@@ -1,7 +1,8 @@
-# article_id = T890609.187
-# text = " Auf den Arm nehmen kann ich mich alleine , " meinte er zusehends zornig und begann eine heftige Befragung .
+# tuepp_article_id = T890609.187
+# sent_id = 395
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Auf den Arm nehmen kann ich mich alleine , " meinte er zusehends zornig und begann eine heftige Befragung .
 1	"	*	*	*	*
 2	Auf	2	2	2	2
 3	den	*	*	*	*
@@ -24,10 +25,11 @@
 20	Befragung	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T890614.45
-# text = Die abgenutzten Versatzstücke eines diplomatischen Zeremoniells sind da ; auch jenes verlogene Beiwerk eingeplanter " menschlicher Begegnungen " : Der kleine Junge , der auf Befehl Blumen bringt und auf den Arm genommen wird ; das Winken in die Menge gemeinsam mit Frau Gorbatschowa .
-# context_judgement_1 = 0
+# tuepp_article_id = T890614.45
+# sent_id = 396
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Die abgenutzten Versatzstücke eines diplomatischen Zeremoniells sind da ; auch jenes verlogene Beiwerk eingeplanter " menschlicher Begegnungen " : Der kleine Junge , der auf Befehl Blumen bringt und auf den Arm genommen wird ; das Winken in die Menge gemeinsam mit Frau Gorbatschowa .
 1	Die	*	*	*	*
 2	abgenutzten	*	*	*	*
 3	Versatzstücke	*	*	*	*
@@ -74,10 +76,11 @@
 44	Gorbatschowa	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T890727.65
-# text = Güllner zur taz : " Die Leute fühlen sich doch auf den Arm genommen , wenn die Realitäten so weggewischt werden .
+# tuepp_article_id = T890727.65
+# sent_id = 397
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Güllner zur taz : " Die Leute fühlen sich doch auf den Arm genommen , wenn die Realitäten so weggewischt werden .
 1	Güllner	*	*	*	*
 2	zur	*	*	*	*
 3	taz	*	*	*	*
@@ -101,10 +104,11 @@
 21	werden	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T891102.156
-# text = Wollen Sie mich auf den Arm nehmen ?
-# context_judgement_1 = 1
+# tuepp_article_id = T891102.156
+# sent_id = 398
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Wollen Sie mich auf den Arm nehmen ?
 1	Wollen	*	*	*	*
 2	Sie	*	*	*	*
 3	mich	*	*	*	*
@@ -114,10 +118,11 @@
 7	nehmen	2	2	2	2
 8	?	*	*	*	*
 
-# article_id = T910515.186
-# text = Ihr Mann nimmt sie auf den Arm und dreht sich mit ihr in einen Tanz ein , den die ganze Welt immer schon tanzt .
-# context_judgement_1 = 1
+# tuepp_article_id = T910515.186
+# sent_id = 399
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Ihr Mann nimmt sie auf den Arm und dreht sich mit ihr in einen Tanz ein , den die ganze Welt immer schon tanzt .
 1	Ihr	*	*	*	*
 2	Mann	*	*	*	*
 3	nimmt	1	1	1	1
@@ -144,10 +149,11 @@
 24	tanzt	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T910119.87
-# text = Abgesehen davon fühlen sich die Leute durch das , was jetzt gemacht wird und vor der Wahl gesagt wurde - und das ist mit das Schlimmste , was eine Partei oder eine Regierung machen kann - , auf den Arm genommen .
+# tuepp_article_id = T910119.87
+# sent_id = 400
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Abgesehen davon fühlen sich die Leute durch das , was jetzt gemacht wird und vor der Wahl gesagt wurde - und das ist mit das Schlimmste , was eine Partei oder eine Regierung machen kann - , auf den Arm genommen .
 1	Abgesehen	*	*	*	*
 2	davon	*	*	*	*
 3	fühlen	*	*	*	*
@@ -191,10 +197,11 @@
 41	genommen	2	2	2	2
 42	.	*	*	*	*
 
-# article_id = T910418.92
-# text = Qureisha wird in eine Decke eingehüllt , bevor der Vater sie zum letztenmal auf die Arme nimmt und fortträgt .
+# tuepp_article_id = T910418.92
+# sent_id = 401
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Qureisha wird in eine Decke eingehüllt , bevor der Vater sie zum letztenmal auf die Arme nimmt und fortträgt .
 1	Qureisha	*	*	*	*
 2	wird	*	*	*	*
 3	in	*	*	*	*
@@ -216,10 +223,11 @@
 19	fortträgt	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T910712.222
-# text = Nur einmal , als ein junger Mann " nur mal so wissen will , wo-s denn hier wohl Stoff gibt " und ihr " auf den Zahn fühlen " will , ob sie überhaupt Bescheid weiß , wovon sie redet - da wird sie kurz angebunden : " Sie wollen mich wohl auf den Arm nehmen !
+# tuepp_article_id = T910712.222
+# sent_id = 402
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nur einmal , als ein junger Mann " nur mal so wissen will , wo-s denn hier wohl Stoff gibt " und ihr " auf den Zahn fühlen " will , ob sie überhaupt Bescheid weiß , wovon sie redet - da wird sie kurz angebunden : " Sie wollen mich wohl auf den Arm nehmen !
 1	Nur	*	*	*	*
 2	einmal	*	*	*	*
 3	,	*	*	*	*
@@ -278,10 +286,11 @@
 56	nehmen	2	2	2	2
 57	!	*	*	*	*
 
-# article_id = T911223.84
-# text = Rollentausch : die Sächsin , die ihn um Gnade für ihren desertierten Mann bittet , wird entsprechend von einem kräftigen Mann mit Frauenperücke und Kleid verkörpert , der die kleine Friederike mal eben auf den Arm nimmt und in Embryohaltung wiegt .
+# tuepp_article_id = T911223.84
+# sent_id = 403
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Rollentausch : die Sächsin , die ihn um Gnade für ihren desertierten Mann bittet , wird entsprechend von einem kräftigen Mann mit Frauenperücke und Kleid verkörpert , der die kleine Friederike mal eben auf den Arm nimmt und in Embryohaltung wiegt .
 1	Rollentausch	*	*	*	*
 2	:	*	*	*	*
 3	die	*	*	*	*
@@ -325,10 +334,11 @@
 41	wiegt	*	*	*	*
 42	.	*	*	*	*
 
-# article_id = T911112.26
-# text = Der kleine Peter schaut verängstigt , die Mutter läßt das Telefon klingeln , nimmt ihren Sohn auf den Arm .
+# tuepp_article_id = T911112.26
+# sent_id = 404
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der kleine Peter schaut verängstigt , die Mutter läßt das Telefon klingeln , nimmt ihren Sohn auf den Arm .
 1	Der	*	*	*	*
 2	kleine	*	*	*	*
 3	Peter	*	*	*	*
@@ -350,10 +360,11 @@
 19	Arm	1	1	1	1
 20	.	*	*	*	*
 
-# article_id = T911109.147
-# text = Als Bundespäsident Weizsäcker ein arabisches Kind auf den Arm nahm , flackerten mindestens 80 Blitzlichter auf .
+# tuepp_article_id = T911109.147
+# sent_id = 405
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als Bundespäsident Weizsäcker ein arabisches Kind auf den Arm nahm , flackerten mindestens 80 Blitzlichter auf .
 1	Als	*	*	*	*
 2	Bundespäsident	*	*	*	*
 3	Weizsäcker	*	*	*	*
@@ -372,10 +383,11 @@
 16	auf	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T910207.171
-# text = Der so viel besser gestellte Westdeutsche nimmt den armen Bruder und die arme Schwester auf den besagten Arm .
-# context_judgement_1 = 0
+# tuepp_article_id = T910207.171
+# sent_id = 406
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Der so viel besser gestellte Westdeutsche nimmt den armen Bruder und die arme Schwester auf den besagten Arm .
 1	Der	*	*	*	*
 2	so	*	*	*	*
 3	viel	*	*	*	*
@@ -396,10 +408,11 @@
 18	Arm	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T900507.88
-# text = Die Friedenstruppen , die seit November in Zentralamerika stationiert sind , um die Waffen der Contras entgegenzunehmen , fühlen sich langsam auf den Arm genommen .
+# tuepp_article_id = T900507.88
+# sent_id = 407
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Friedenstruppen , die seit November in Zentralamerika stationiert sind , um die Waffen der Contras entgegenzunehmen , fühlen sich langsam auf den Arm genommen .
 1	Die	*	*	*	*
 2	Friedenstruppen	*	*	*	*
 3	,	*	*	*	*
@@ -427,10 +440,11 @@
 25	genommen	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T901001.63
-# text = Man kann sie auf den Arm nehmen und vor den Fernsehkameras liebevoll küssen , man kann sie als Kulisse für Fototermine benutzen - nur füttern und am Leben erhalten kann man sie offenbar nicht .
+# tuepp_article_id = T901001.63
+# sent_id = 408
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Man kann sie auf den Arm nehmen und vor den Fernsehkameras liebevoll küssen , man kann sie als Kulisse für Fototermine benutzen - nur füttern und am Leben erhalten kann man sie offenbar nicht .
 1	Man	*	*	*	*
 2	kann	*	*	*	*
 3	sie	*	*	*	*
@@ -467,10 +481,11 @@
 34	nicht	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T900924.167
-# text = Der jungenhafte Fernsehschwätzer nimmt das Kleine auf dem Arm , während sich Mutti hektisch und verbissen die Finger klemmt .
+# tuepp_article_id = T900924.167
+# sent_id = 409
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der jungenhafte Fernsehschwätzer nimmt das Kleine auf dem Arm , während sich Mutti hektisch und verbissen die Finger klemmt .
 1	Der	*	*	*	*
 2	jungenhafte	*	*	*	*
 3	Fernsehschwätzer	*	*	*	*
@@ -492,10 +507,11 @@
 19	klemmt	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T901113.126
-# text = Italien : Während Rudi Völler ( AS Rom ) als zweifacher Torschütze brillierte und ihm " weltmeisterliche Form " bescheinigt wurde , Jürgen Klinsmann ( Inter Mailand ) zu hören bekam , daß er " zu viel Staub " aufwirbele und Lothar Matthäus für Inter einen Elfmeter verwandelte , fürchtet sich Karl-Heinz Riedle trotz des schmeichelhaften 1:0 seines Lazio Rom in Cagliari durch eine Eigentor mittlerweile vor Spott : " Wir müssen in den Europacup , sonst nehmen mich meine Bremer Freunde auf den Arm " .
-# context_judgement_1 = 0
+# tuepp_article_id = T901113.126
+# sent_id = 410
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Italien : Während Rudi Völler ( AS Rom ) als zweifacher Torschütze brillierte und ihm " weltmeisterliche Form " bescheinigt wurde , Jürgen Klinsmann ( Inter Mailand ) zu hören bekam , daß er " zu viel Staub " aufwirbele und Lothar Matthäus für Inter einen Elfmeter verwandelte , fürchtet sich Karl-Heinz Riedle trotz des schmeichelhaften 1:0 seines Lazio Rom in Cagliari durch eine Eigentor mittlerweile vor Spott : " Wir müssen in den Europacup , sonst nehmen mich meine Bremer Freunde auf den Arm " .
 1	Italien	*	*	*	*
 2	:	*	*	*	*
 3	Während	*	*	*	*
@@ -584,10 +600,11 @@
 86	"	*	*	*	*
 87	.	*	*	*	*
 
-# article_id = T901108.78
-# text = Die beiden Gestalten sind typisch für zwei unterschiedliche Politikerkarrieren : Rajiv Gandhi auf der einen Seite , mit dem Silberlöffel im Mund geboren , der bereits als Kind von Staatsmännern auf den Arm genommen wurde .
-# context_judgement_1 = 0
+# tuepp_article_id = T901108.78
+# sent_id = 411
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Die beiden Gestalten sind typisch für zwei unterschiedliche Politikerkarrieren : Rajiv Gandhi auf der einen Seite , mit dem Silberlöffel im Mund geboren , der bereits als Kind von Staatsmännern auf den Arm genommen wurde .
 1	Die	*	*	*	*
 2	beiden	*	*	*	*
 3	Gestalten	*	*	*	*
@@ -625,10 +642,11 @@
 35	wurde	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T900203.104
-# text = Dabei reicht es schon , wenn ein Erwachsener ihm permanent über die Haare streicht , es ständig auf den Arm nehmen oder abknutschen zu müssen meint .
+# tuepp_article_id = T900203.104
+# sent_id = 412
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dabei reicht es schon , wenn ein Erwachsener ihm permanent über die Haare streicht , es ständig auf den Arm nehmen oder abknutschen zu müssen meint .
 1	Dabei	*	*	*	*
 2	reicht	*	*	*	*
 3	es	*	*	*	*
@@ -657,10 +675,11 @@
 26	meint	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T920527.188
-# text = Das war vor Jahren camp und Attitüde , heute nehmen sich gestandene Werbetexter damit gegenseitig auf den Arm .
+# tuepp_article_id = T920527.188
+# sent_id = 413
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das war vor Jahren camp und Attitüde , heute nehmen sich gestandene Werbetexter damit gegenseitig auf den Arm .
 1	Das	*	*	*	*
 2	war	*	*	*	*
 3	vor	*	*	*	*
@@ -681,10 +700,11 @@
 18	Arm	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T920623.175
-# text = Auffallend ist die hohe Politikverdrossenheit der Bürger : » Von Politikern wurden wir zu lange auf den Arm genommen , sehen Sie sich doch nur mal den Dorfanger an , die Eisenbahn fährt mitten durch den Dorfteich .
+# tuepp_article_id = T920623.175
+# sent_id = 414
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auffallend ist die hohe Politikverdrossenheit der Bürger : » Von Politikern wurden wir zu lange auf den Arm genommen , sehen Sie sich doch nur mal den Dorfanger an , die Eisenbahn fährt mitten durch den Dorfteich .
 1	Auffallend	*	*	*	*
 2	ist	*	*	*	*
 3	die	*	*	*	*
@@ -724,10 +744,11 @@
 37	Dorfteich	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T921001.147
-# text = Es ist ein Abenteuer- und fast ein Schelmenroman , der die Gelegenheit des Themas , den Kunstbetrieb zum x-ten Male auf den Arm zu nehmen , Gott sei Dank nahezu ungenützt vorübergehen läßt .
-# context_judgement_1 = 0
+# tuepp_article_id = T921001.147
+# sent_id = 415
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Es ist ein Abenteuer- und fast ein Schelmenroman , der die Gelegenheit des Themas , den Kunstbetrieb zum x-ten Male auf den Arm zu nehmen , Gott sei Dank nahezu ungenützt vorübergehen läßt .
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	ein	*	*	*	*
@@ -763,10 +784,11 @@
 33	läßt	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T920915.219
-# text = Der zweite Hauptbelastungszeuge im Verfahren gegen die beiden Rote-Flora-Aktivisten Ralf Gauger und Knud Andresen , dieser Eindruck drängte sich geradezu auf , nahm das Gericht gehörig auf den Arm .
+# tuepp_article_id = T920915.219
+# sent_id = 416
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der zweite Hauptbelastungszeuge im Verfahren gegen die beiden Rote-Flora-Aktivisten Ralf Gauger und Knud Andresen , dieser Eindruck drängte sich geradezu auf , nahm das Gericht gehörig auf den Arm .
 1	Der	*	*	*	*
 2	zweite	*	*	*	*
 3	Hauptbelastungszeuge	*	*	*	*
@@ -798,10 +820,11 @@
 29	Arm	2	2	2	2
 30	.	*	*	*	*
 
-# article_id = T920106.50
-# text = Sie nimmt das Kind auf den Arm , um es bis zum Füttern zu beruhigen .
+# tuepp_article_id = T920106.50
+# sent_id = 417
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie nimmt das Kind auf den Arm , um es bis zum Füttern zu beruhigen .
 1	Sie	*	*	*	*
 2	nimmt	1	1	1	1
 3	das	*	*	*	*
@@ -819,10 +842,11 @@
 15	beruhigen	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T920123.106
-# text = Hanna streckt Eveline demonstrativ den Hintern entgegen , nimmt dann die körperlich Unterlegene , hilflos Zappelnde auf den Arm , läßt sie kreisen wie ein Kind .
+# tuepp_article_id = T920123.106
+# sent_id = 418
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Hanna streckt Eveline demonstrativ den Hintern entgegen , nimmt dann die körperlich Unterlegene , hilflos Zappelnde auf den Arm , läßt sie kreisen wie ein Kind .
 1	Hanna	*	*	*	*
 2	streckt	*	*	*	*
 3	Eveline	*	*	*	*
@@ -851,10 +875,11 @@
 26	Kind	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T920116.154
-# text = Weil ich sie nicht an den Zähnen hinter mir herziehen will , nehme ich sie auf den Arm .
+# tuepp_article_id = T920116.154
+# sent_id = 419
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Weil ich sie nicht an den Zähnen hinter mir herziehen will , nehme ich sie auf den Arm .
 1	Weil	*	*	*	*
 2	ich	*	*	*	*
 3	sie	*	*	*	*
@@ -875,10 +900,11 @@
 18	Arm	1	1	1	1
 19	.	*	*	*	*
 
-# article_id = T920718.111
-# text = Anschließend werden die Eltern der Welpen vorgestellt , währenddessen Rudi einen der Welpen liebevoll auf den Arm nimmt .
+# tuepp_article_id = T920718.111
+# sent_id = 420
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Anschließend werden die Eltern der Welpen vorgestellt , währenddessen Rudi einen der Welpen liebevoll auf den Arm nimmt .
 1	Anschließend	*	*	*	*
 2	werden	*	*	*	*
 3	die	*	*	*	*
@@ -899,10 +925,11 @@
 18	nimmt	1	1	1	1
 19	.	*	*	*	*
 
-# article_id = T921203.177
-# text = Nein , Sie werden nicht auf den Arm genommen , der Oberton- Guru Michael Vetter schlägt zu mit einer Uraufführung .
+# tuepp_article_id = T921203.177
+# sent_id = 421
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nein , Sie werden nicht auf den Arm genommen , der Oberton- Guru Michael Vetter schlägt zu mit einer Uraufführung .
 1	Nein	*	*	*	*
 2	,	*	*	*	*
 3	Sie	*	*	*	*
@@ -925,10 +952,11 @@
 20	Uraufführung	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T920302.29
-# text = Wie Puderbach erklärte , wurden sie von dem anonymen Anrufer möglicherweise " auf den Arm genommen " .
+# tuepp_article_id = T920302.29
+# sent_id = 422
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie Puderbach erklärte , wurden sie von dem anonymen Anrufer möglicherweise " auf den Arm genommen " .
 1	Wie	*	*	*	*
 2	Puderbach	*	*	*	*
 3	erklärte	*	*	*	*
@@ -948,10 +976,11 @@
 17	"	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T920325.38
-# text = Sie mustert kritisch den Besuch und nimmt die kleine Trang auf den Arm , die schon wieder weint .
+# tuepp_article_id = T920325.38
+# sent_id = 423
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie mustert kritisch den Besuch und nimmt die kleine Trang auf den Arm , die schon wieder weint .
 1	Sie	*	*	*	*
 2	mustert	*	*	*	*
 3	kritisch	*	*	*	*
@@ -972,10 +1001,11 @@
 18	weint	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T921102.244
-# text = Erzieherin Sabine Stemmler geht es wenig anders : Auch sie verbringt einen Großteil des Tages in gebückter Haltung , muß öfter die Sprößlinge hochheben und auf den Arm nehmen .
+# tuepp_article_id = T921102.244
+# sent_id = 424
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Erzieherin Sabine Stemmler geht es wenig anders : Auch sie verbringt einen Großteil des Tages in gebückter Haltung , muß öfter die Sprößlinge hochheben und auf den Arm nehmen .
 1	Erzieherin	*	*	*	*
 2	Sabine	*	*	*	*
 3	Stemmler	*	*	*	*
@@ -1007,10 +1037,11 @@
 29	nehmen	1	1	1	1
 30	.	*	*	*	*
 
-# article_id = T921105.44
-# text = " Wir fühlen uns als Branche auf den Arm genommen " , so der Sprecher des Bundesverbands Druck , Peter Klemm .
+# tuepp_article_id = T921105.44
+# sent_id = 425
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wir fühlen uns als Branche auf den Arm genommen " , so der Sprecher des Bundesverbands Druck , Peter Klemm .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	fühlen	*	*	*	*
@@ -1034,10 +1065,11 @@
 21	Klemm	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T921128.283
-# text = Das korpulente Energiebündel nahm aber auch sich selbst auf den Arm .
+# tuepp_article_id = T921128.283
+# sent_id = 426
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das korpulente Energiebündel nahm aber auch sich selbst auf den Arm .
 1	Das	*	*	*	*
 2	korpulente	*	*	*	*
 3	Energiebündel	*	*	*	*
@@ -1051,10 +1083,11 @@
 11	Arm	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T881017.191
-# text = Jetzt nimmt Liane eine Amme auf den Arm und hebt sie vom Grund auf .
+# tuepp_article_id = T881017.191
+# sent_id = 427
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Jetzt nimmt Liane eine Amme auf den Arm und hebt sie vom Grund auf .
 1	Jetzt	*	*	*	*
 2	nimmt	1	1	1	1
 3	Liane	*	*	*	*
@@ -1071,10 +1104,11 @@
 14	auf	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T870428.79
-# text = " ruft Ibu Hartini ihrer Nachbarin zu , nimmt ihr jüngstes Kind auf den Arm und eilt im Laufschritt zu einer nahegelegenen Schnellstraße , von der donnerndes Motorengeräusch zu vernehmen ist .
-# context_judgement_1 = 0
+# tuepp_article_id = T870428.79
+# sent_id = 428
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = " ruft Ibu Hartini ihrer Nachbarin zu , nimmt ihr jüngstes Kind auf den Arm und eilt im Laufschritt zu einer nahegelegenen Schnellstraße , von der donnerndes Motorengeräusch zu vernehmen ist .
 1	"	*	*	*	*
 2	ruft	*	*	*	*
 3	Ibu	*	*	*	*
@@ -1108,10 +1142,11 @@
 31	ist	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T871224.70
-# text = " Wollen Sie mich auf den Arm nehmen ?
+# tuepp_article_id = T871224.70
+# sent_id = 429
 # context_judgement_1 = 0
-# context_judgement_2 = 0
+# context_judgement_2 = 1
+# text = " Wollen Sie mich auf den Arm nehmen ?
 1	"	*	*	*	*
 2	Wollen	*	*	*	*
 3	Sie	*	*	*	*
@@ -1122,10 +1157,11 @@
 8	nehmen	2	2	2	2
 9	?	*	*	*	*
 
-# article_id = T870303.68
-# text = Am Schluß kam ein leicht kriegsverletzter Vater ins Zimmer , der glücksstrahlend beide Kinder auf den Arm nahm .
+# tuepp_article_id = T870303.68
+# sent_id = 430
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Am Schluß kam ein leicht kriegsverletzter Vater ins Zimmer , der glücksstrahlend beide Kinder auf den Arm nahm .
 1	Am	*	*	*	*
 2	Schluß	*	*	*	*
 3	kam	*	*	*	*
@@ -1146,10 +1182,11 @@
 18	nahm	1	1	1	1
 19	.	*	*	*	*
 
-# article_id = T931028.236
-# text = Aber das Publikum weiß , wie es von Schneider in die Irre geführt und auf den Arm genommen werden will , während der Meister gesteht : " Ich selber würde jetzt hier nicht hingegangen sein , ich bin so müde .
+# tuepp_article_id = T931028.236
+# sent_id = 431
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber das Publikum weiß , wie es von Schneider in die Irre geführt und auf den Arm genommen werden will , während der Meister gesteht : " Ich selber würde jetzt hier nicht hingegangen sein , ich bin so müde .
 1	Aber	*	*	*	*
 2	das	*	*	*	*
 3	Publikum	*	*	*	*
@@ -1192,10 +1229,11 @@
 40	müde	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T930917.110
-# text = Ethnische Musik nimmt man am besten auf den Arm , kommentiert er seine Platte " Country Music in the World of Islam , Vol .
+# tuepp_article_id = T930917.110
+# sent_id = 432
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ethnische Musik nimmt man am besten auf den Arm , kommentiert er seine Platte " Country Music in the World of Islam , Vol .
 1	Ethnische	*	*	*	*
 2	Musik	*	*	*	*
 3	nimmt	2	2	2	2
@@ -1222,10 +1260,11 @@
 24	Vol	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T930129.179
-# text = Doch bestünde Tschierschs Programm " Armsein ist asozial " nur daraus , gewichtige Männer auf den Arm zu nehmen , wäre geradezu der Vergleich zu einem Trockentraining mit Luftballonhanteln angebracht .
+# tuepp_article_id = T930129.179
+# sent_id = 433
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch bestünde Tschierschs Programm " Armsein ist asozial " nur daraus , gewichtige Männer auf den Arm zu nehmen , wäre geradezu der Vergleich zu einem Trockentraining mit Luftballonhanteln angebracht .
 1	Doch	*	*	*	*
 2	bestünde	*	*	*	*
 3	Tschierschs	*	*	*	*
@@ -1258,10 +1297,11 @@
 30	angebracht	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T931111.139
-# text = Umweltsenator Volker Hassemer ( CDU ) soll 85.000 Berliner auf den Arm genommen haben .
+# tuepp_article_id = T931111.139
+# sent_id = 434
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Umweltsenator Volker Hassemer ( CDU ) soll 85.000 Berliner auf den Arm genommen haben .
 1	Umweltsenator	*	*	*	*
 2	Volker	*	*	*	*
 3	Hassemer	*	*	*	*
@@ -1278,10 +1318,11 @@
 14	haben	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T930206.225
-# text = Beko nimmt sie auf den Arm , und irgendwie erreicht er Europa .
+# tuepp_article_id = T930206.225
+# sent_id = 435
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Beko nimmt sie auf den Arm , und irgendwie erreicht er Europa .
 1	Beko	*	*	*	*
 2	nimmt	1	1	1	1
 3	sie	*	*	*	*
@@ -1296,10 +1337,11 @@
 12	Europa	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T960118.66
-# text = Am neuen Volkssport " Telekom-Bashing " sei Sommer selber schuld , sagte Bury , der Bürger habe sich " auf den Arm genommen gefühlt " .
+# tuepp_article_id = T960118.66
+# sent_id = 436
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Am neuen Volkssport " Telekom-Bashing " sei Sommer selber schuld , sagte Bury , der Bürger habe sich " auf den Arm genommen gefühlt " .
 1	Am	*	*	*	*
 2	neuen	*	*	*	*
 3	Volkssport	*	*	*	*
@@ -1327,10 +1369,11 @@
 25	"	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T960729.117
-# text = Neugeborene werden von den Eltern fast immer auf den linken Arm genommen .
+# tuepp_article_id = T960729.117
+# sent_id = 437
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Neugeborene werden von den Eltern fast immer auf den linken Arm genommen .
 1	Neugeborene	*	*	*	*
 2	werden	*	*	*	*
 3	von	*	*	*	*
@@ -1345,10 +1388,11 @@
 12	genommen	1	1	1	1
 13	.	*	*	*	*
 
-# article_id = T960816.187
-# text = Freiwillig würde sich Sielmann dieser Fototermin genannten Prozedur wohl kaum aussetzen , aber es gilt für eine neue Staffel von Tierfilmen zu werben , und Vertrag ist Vertrag : Artig nimmt er immer wieder den Affen auf den Arm , lächelt in die Objektive und zuckt telegen mit den graumelierten Augenbrauen .
+# tuepp_article_id = T960816.187
+# sent_id = 438
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Freiwillig würde sich Sielmann dieser Fototermin genannten Prozedur wohl kaum aussetzen , aber es gilt für eine neue Staffel von Tierfilmen zu werben , und Vertrag ist Vertrag : Artig nimmt er immer wieder den Affen auf den Arm , lächelt in die Objektive und zuckt telegen mit den graumelierten Augenbrauen .
 1	Freiwillig	*	*	*	*
 2	würde	*	*	*	*
 3	sich	*	*	*	*
@@ -1402,10 +1446,11 @@
 51	Augenbrauen	*	*	*	*
 52	.	*	*	*	*
 
-# article_id = T960215.400
-# text = Wenn nach einer halben Stunde eine junge , hübsche Amerikanerin das Kind unbedingt auf den Arm nehmen will , weiß man schon genau , worum es im Rest des Films geht , aber das hat bei romantischen Komödien ja noch nie gestört .
+# tuepp_article_id = T960215.400
+# sent_id = 439
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn nach einer halben Stunde eine junge , hübsche Amerikanerin das Kind unbedingt auf den Arm nehmen will , weiß man schon genau , worum es im Rest des Films geht , aber das hat bei romantischen Komödien ja noch nie gestört .
 1	Wenn	*	*	*	*
 2	nach	*	*	*	*
 3	einer	*	*	*	*
@@ -1450,10 +1495,11 @@
 42	gestört	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T980505.125
-# text = Es ist eine einfache , eingängige Rede in der Nationalsprache Tagalog , gewürzt mit Scherzen , bei denen er sich selbst auf den Arm nimmt .
+# tuepp_article_id = T980505.125
+# sent_id = 440
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es ist eine einfache , eingängige Rede in der Nationalsprache Tagalog , gewürzt mit Scherzen , bei denen er sich selbst auf den Arm nimmt .
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	eine	*	*	*	*
@@ -1481,10 +1527,11 @@
 25	nimmt	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T980612.62
-# text = Die SPD nimmt mit ihren Programmen die Arbeitnehmer doch auf den Arm .
+# tuepp_article_id = T980612.62
+# sent_id = 441
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die SPD nimmt mit ihren Programmen die Arbeitnehmer doch auf den Arm .
 1	Die	*	*	*	*
 2	SPD	*	*	*	*
 3	nimmt	2	2	2	2
@@ -1499,10 +1546,11 @@
 12	Arm	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T980921.177
-# text = " Da haben wir uns auf den Arm genommen gefühlt " , empört sich Richter Neuschild .
+# tuepp_article_id = T980921.177
+# sent_id = 442
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Da haben wir uns auf den Arm genommen gefühlt " , empört sich Richter Neuschild .
 1	"	*	*	*	*
 2	Da	*	*	*	*
 3	haben	*	*	*	*
@@ -1521,10 +1569,11 @@
 16	Neuschild	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T980401.272
-# text = Der nämlich wollte das Leben seines Dackels retten , nahm diesen auf den Arm und wurde mit Bissen in die Wade und den Oberarm abgestraft .
+# tuepp_article_id = T980401.272
+# sent_id = 443
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der nämlich wollte das Leben seines Dackels retten , nahm diesen auf den Arm und wurde mit Bissen in die Wade und den Oberarm abgestraft .
 1	Der	*	*	*	*
 2	nämlich	*	*	*	*
 3	wollte	*	*	*	*
@@ -1552,10 +1601,11 @@
 25	abgestraft	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T980714.246
-# text = Und nehme ich eines der Welpen liebevoll auf den Arm , steht ihr das Wort " Kindesentführung " ins Gesicht geschrieben .
+# tuepp_article_id = T980714.246
+# sent_id = 444
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und nehme ich eines der Welpen liebevoll auf den Arm , steht ihr das Wort " Kindesentführung " ins Gesicht geschrieben .
 1	Und	*	*	*	*
 2	nehme	1	1	1	1
 3	ich	*	*	*	*
@@ -1579,10 +1629,11 @@
 21	geschrieben	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T981223.164
-# text = Die deutsche Sprache , hat Stickel festgestellt , ist nämlich großen Gefahren ausgesetzt : " Immer mehr Menschen , nicht nur ältere , fühlen sich durch die Flut sogenannter Anglizismen auf den Arm genommen !
+# tuepp_article_id = T981223.164
+# sent_id = 445
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die deutsche Sprache , hat Stickel festgestellt , ist nämlich großen Gefahren ausgesetzt : " Immer mehr Menschen , nicht nur ältere , fühlen sich durch die Flut sogenannter Anglizismen auf den Arm genommen !
 1	Die	*	*	*	*
 2	deutsche	*	*	*	*
 3	Sprache	*	*	*	*
@@ -1619,10 +1670,11 @@
 34	genommen	2	2	2	2
 35	!	*	*	*	*
 
-# article_id = T980323.89
-# text = Der den Einsatz leitende Polizeidirektor Horst Haase räumte am Samstag in Ahaus ein , daß sich " die Bürger womöglich von uns auf den Arm genommen " fühlten .
+# tuepp_article_id = T980323.89
+# sent_id = 446
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der den Einsatz leitende Polizeidirektor Horst Haase räumte am Samstag in Ahaus ein , daß sich " die Bürger womöglich von uns auf den Arm genommen " fühlten .
 1	Der	*	*	*	*
 2	den	*	*	*	*
 3	Einsatz	*	*	*	*
@@ -1653,10 +1705,11 @@
 28	fühlten	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T981109.215
-# text = Nach dieser Ausflipp-Einlage nahm sie ihr männlicher Kollege auf die Arme und trug das zappelnde Bündel weg .
+# tuepp_article_id = T981109.215
+# sent_id = 447
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach dieser Ausflipp-Einlage nahm sie ihr männlicher Kollege auf die Arme und trug das zappelnde Bündel weg .
 1	Nach	*	*	*	*
 2	dieser	*	*	*	*
 3	Ausflipp-Einlage	*	*	*	*
@@ -1676,10 +1729,11 @@
 17	weg	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T980207.313
-# text = " Man wird glaubwürdiger , wenn man nicht nur austeilt , sondern auch sich selber auf den Arm nimmt " , so lautet die Devise des türkischen Kabarettisten Mushin Omurca .
+# tuepp_article_id = T980207.313
+# sent_id = 448
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Man wird glaubwürdiger , wenn man nicht nur austeilt , sondern auch sich selber auf den Arm nimmt " , so lautet die Devise des türkischen Kabarettisten Mushin Omurca .
 1	"	*	*	*	*
 2	Man	*	*	*	*
 3	wird	*	*	*	*
@@ -1712,10 +1766,11 @@
 30	Omurca	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T970512.120
-# text = Achtjährige steigen auf die Biertische oder werden von Muttern zwecks besserer Sicht auf den Arm genommen , als sich die " Stribberinnen " heißes Wachs auf die Brust träufeln .
+# tuepp_article_id = T970512.120
+# sent_id = 449
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Achtjährige steigen auf die Biertische oder werden von Muttern zwecks besserer Sicht auf den Arm genommen , als sich die " Stribberinnen " heißes Wachs auf die Brust träufeln .
 1	Achtjährige	*	*	*	*
 2	steigen	*	*	*	*
 3	auf	*	*	*	*
@@ -1747,10 +1802,11 @@
 29	träufeln	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T970916.185
-# text = Das sei ein " Klaps " , der Henning Voscherau " aufjaulen " lasse , schließlich sei die Kabel seit Jahrzehnten mit dessen Familie gut bekannt und habe schon " den lütten Henning " auf den Arm genommen .
-# context_judgement_1 = 1
+# tuepp_article_id = T970916.185
+# sent_id = 450
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Das sei ein " Klaps " , der Henning Voscherau " aufjaulen " lasse , schließlich sei die Kabel seit Jahrzehnten mit dessen Familie gut bekannt und habe schon " den lütten Henning " auf den Arm genommen .
 1	Das	*	*	*	*
 2	sei	*	*	*	*
 3	ein	*	*	*	*
@@ -1791,10 +1847,11 @@
 38	genommen	2	1	2	2
 39	.	*	*	*	*
 
-# article_id = T970412.57
-# text = Seine Mutter nahm ihn auf den Arm und mit in die Wahlkabine .
+# tuepp_article_id = T970412.57
+# sent_id = 451
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seine Mutter nahm ihn auf den Arm und mit in die Wahlkabine .
 1	Seine	*	*	*	*
 2	Mutter	*	*	*	*
 3	nahm	1	1	1	1
@@ -1809,10 +1866,11 @@
 12	Wahlkabine	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T970412.174
-# text = Die versammelten Egos wollen bei dieser Zeremonie nicht auf den Arm genommen , sondern auf die Bühne gerufen werden , um mit Pathos in der Stimme ihr " Ich danke Gott , meiner Mutter und dem Produzenten " - Sprüchlein loszuwerden .
+# tuepp_article_id = T970412.174
+# sent_id = 452
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die versammelten Egos wollen bei dieser Zeremonie nicht auf den Arm genommen , sondern auf die Bühne gerufen werden , um mit Pathos in der Stimme ihr " Ich danke Gott , meiner Mutter und dem Produzenten " - Sprüchlein loszuwerden .
 1	Die	*	*	*	*
 2	versammelten	*	*	*	*
 3	Egos	*	*	*	*
@@ -1856,10 +1914,11 @@
 41	loszuwerden	*	*	*	*
 42	.	*	*	*	*
 
-# article_id = T970415.188
-# text = Die eigene Geschichte auf den Arm , auf die Schippe und die leichte Schulter nehmend , hielten sie tapfer ein " Kicken Kicken Kicken " - Transparent in die Höhe .
+# tuepp_article_id = T970415.188
+# sent_id = 453
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die eigene Geschichte auf den Arm , auf die Schippe und die leichte Schulter nehmend , hielten sie tapfer ein " Kicken Kicken Kicken " - Transparent in die Höhe .
 1	Die	*	*	*	*
 2	eigene	*	*	*	*
 3	Geschichte	*	*	*	*
@@ -1892,10 +1951,11 @@
 30	Höhe	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T970428.192
-# text = Stücke wie " Take Me Baby " oder das stompernde " Sugardaddy " sind so eher die Ausnahmen , das Sounduniversum von Jimi Tenor ist ansonsten warm , smoothy , zum Andächtig-Lauschen ; man kann sich aber auch wichtigen Tätigkeiten im Haushalt widmen und ein bißchen auf den Arm genommen fühlen .
+# tuepp_article_id = T970428.192
+# sent_id = 454
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Stücke wie " Take Me Baby " oder das stompernde " Sugardaddy " sind so eher die Ausnahmen , das Sounduniversum von Jimi Tenor ist ansonsten warm , smoothy , zum Andächtig-Lauschen ; man kann sich aber auch wichtigen Tätigkeiten im Haushalt widmen und ein bißchen auf den Arm genommen fühlen .
 1	Stücke	*	*	*	*
 2	wie	*	*	*	*
 3	"	*	*	*	*
@@ -1949,10 +2009,11 @@
 51	fühlen	*	*	*	*
 52	.	*	*	*	*
 
-# article_id = T970712.130
-# text = Raphaela , das zweimonatige Baby , wird auf Mutters Arm genommen .
+# tuepp_article_id = T970712.130
+# sent_id = 455
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Raphaela , das zweimonatige Baby , wird auf Mutters Arm genommen .
 1	Raphaela	*	*	*	*
 2	,	*	*	*	*
 3	das	*	*	*	*
@@ -1966,10 +2027,11 @@
 11	genommen	1	1	1	1
 12	.	*	*	*	*
 
-# article_id = T971209.110
-# text = Als wäre er schon im Wahlkampf , nahm er als erstes vor den Fernsehkameras sein Töchterlein auf den Arm und küßte seine blonde US-amerikanische Frau .
+# tuepp_article_id = T971209.110
+# sent_id = 456
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als wäre er schon im Wahlkampf , nahm er als erstes vor den Fernsehkameras sein Töchterlein auf den Arm und küßte seine blonde US-amerikanische Frau .
 1	Als	*	*	*	*
 2	wäre	*	*	*	*
 3	er	*	*	*	*
@@ -1997,10 +2059,11 @@
 25	Frau	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T970814.226
-# text = Als Manager Lemke kürzlich verkündete , daß Werder bis zu sieben Millionen Mark für einen Torjäger ausgeben wolle , habe er sich " auf den Arm genommen gefühlt " .
+# tuepp_article_id = T970814.226
+# sent_id = 457
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als Manager Lemke kürzlich verkündete , daß Werder bis zu sieben Millionen Mark für einen Torjäger ausgeben wolle , habe er sich " auf den Arm genommen gefühlt " .
 1	Als	*	*	*	*
 2	Manager	*	*	*	*
 3	Lemke	*	*	*	*
@@ -2032,10 +2095,11 @@
 29	"	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T940503.150
-# text = Außer Atem begegnet ein junges Paar immer neuen Institutionen und Zwängen des Alltags , die dabei hemmungslos auf den Arm genommen werden .
-# context_judgement_1 = 0
+# tuepp_article_id = T940503.150
+# sent_id = 458
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Außer Atem begegnet ein junges Paar immer neuen Institutionen und Zwängen des Alltags , die dabei hemmungslos auf den Arm genommen werden .
 1	Außer	*	*	*	*
 2	Atem	*	*	*	*
 3	begegnet	*	*	*	*
@@ -2060,10 +2124,11 @@
 22	werden	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T940516.118
-# text = Die Patienten , die wir seit Jahren mit AZT behandeln , fühlen sich natürlich auf den Arm genommen .
+# tuepp_article_id = T940516.118
+# sent_id = 459
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Patienten , die wir seit Jahren mit AZT behandeln , fühlen sich natürlich auf den Arm genommen .
 1	Die	*	*	*	*
 2	Patienten	*	*	*	*
 3	,	*	*	*	*
@@ -2084,10 +2149,11 @@
 18	genommen	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T940603.151
-# text = Die Polizei , die sich nicht von ihm auf den Arm nehmen lassen wollte , forderte eine psychiatrische Untersuchung .
+# tuepp_article_id = T940603.151
+# sent_id = 460
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Polizei , die sich nicht von ihm auf den Arm nehmen lassen wollte , forderte eine psychiatrische Untersuchung .
 1	Die	*	*	*	*
 2	Polizei	*	*	*	*
 3	,	*	*	*	*
@@ -2109,10 +2175,11 @@
 19	Untersuchung	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T940402.48
-# text = Kannenportionen gewohnte Nordlichter fühlen sich beim erstmaligen Anblick eines Espressos regelrecht auf den Arm genommen .
+# tuepp_article_id = T940402.48
+# sent_id = 461
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kannenportionen gewohnte Nordlichter fühlen sich beim erstmaligen Anblick eines Espressos regelrecht auf den Arm genommen .
 1	Kannenportionen	*	*	*	*
 2	gewohnte	*	*	*	*
 3	Nordlichter	*	*	*	*
@@ -2130,10 +2197,11 @@
 15	genommen	2	2	2	2
 16	.	*	*	*	*
 
-# article_id = T940406.87
-# text = In den Arm nehmen , um auf den Arm zu nehmen - und von dort runterplumpsen zu lassen : ein glattes drei zu null für den Altmeister , bevor auch nur ein inhaltliches Argument ausgetauscht wird .
+# tuepp_article_id = T940406.87
+# sent_id = 462
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = In den Arm nehmen , um auf den Arm zu nehmen - und von dort runterplumpsen zu lassen : ein glattes drei zu null für den Altmeister , bevor auch nur ein inhaltliches Argument ausgetauscht wird .
 1	In	*	*	*	*
 2	den	*	*	*	*
 3	Arm	*	*	*	*
@@ -2172,10 +2240,11 @@
 36	wird	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T940826.19
-# text = Der fühlt sich offenbar von seinem Mandanten auf den Arm genommen .
+# tuepp_article_id = T940826.19
+# sent_id = 463
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der fühlt sich offenbar von seinem Mandanten auf den Arm genommen .
 1	Der	*	*	*	*
 2	fühlt	*	*	*	*
 3	sich	*	*	*	*
@@ -2189,10 +2258,11 @@
 11	genommen	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T940326.92
-# text = " gellt da der Entsetzensschrei einer überwinternden Rentnerin , die ihren Purzel vorsichtshalber auf den Arm genommen hat .
+# tuepp_article_id = T940326.92
+# sent_id = 464
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " gellt da der Entsetzensschrei einer überwinternden Rentnerin , die ihren Purzel vorsichtshalber auf den Arm genommen hat .
 1	"	*	*	*	*
 2	gellt	*	*	*	*
 3	da	*	*	*	*
@@ -2213,10 +2283,11 @@
 18	hat	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T940319.126
-# text = Die einzig vorstellbare Grenze für mich ist , Dinge auf den Arm zu nehmen , für die das Opfer meiner Ironien offensichtlich nichts kann .
+# tuepp_article_id = T940319.126
+# sent_id = 465
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die einzig vorstellbare Grenze für mich ist , Dinge auf den Arm zu nehmen , für die das Opfer meiner Ironien offensichtlich nichts kann .
 1	Die	*	*	*	*
 2	einzig	*	*	*	*
 3	vorstellbare	*	*	*	*
@@ -2243,10 +2314,11 @@
 24	kann	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T940223.92
-# text = Als Sture Sivertsen , Vegard Ulvang , Thomas Alsgaard und Björn Dählie Mikrofonen ihre Niederlage zu erklären suchen , nehmen sich die italienischen Altmeister gegenseitig auf den Arm , wissen nicht , wohin mit ihrem Freudentaumel .
+# tuepp_article_id = T940223.92
+# sent_id = 466
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Als Sture Sivertsen , Vegard Ulvang , Thomas Alsgaard und Björn Dählie Mikrofonen ihre Niederlage zu erklären suchen , nehmen sich die italienischen Altmeister gegenseitig auf den Arm , wissen nicht , wohin mit ihrem Freudentaumel .
 1	Als	*	*	*	*
 2	Sture	*	*	*	*
 3	Sivertsen	*	*	*	*
@@ -2285,10 +2357,11 @@
 36	Freudentaumel	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T940217.225
-# text = Eine ältere CDU-Vertreterin des Ortsausschusses will sich von dort notfalls auch wegtragen lassen : " Die einzige Chance für eine Frau meines Alters , nochmal von einem jungen Polizisten auf den Arm genommen zu werden " .
-# context_judgement_1 = 0
+# tuepp_article_id = T940217.225
+# sent_id = 467
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Eine ältere CDU-Vertreterin des Ortsausschusses will sich von dort notfalls auch wegtragen lassen : " Die einzige Chance für eine Frau meines Alters , nochmal von einem jungen Polizisten auf den Arm genommen zu werden " .
 1	Eine	*	*	*	*
 2	ältere	*	*	*	*
 3	CDU-Vertreterin	*	*	*	*
@@ -2327,10 +2400,11 @@
 36	"	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T951011.271
-# text = Daß dabei hin und wieder eine Ikone des Rock und Pop auf den Arm genommen wird , beweist nur , daß " Kick la Luna " auch schauspielerisch betrachtet als bühnenfest zu bezeichnen ist .
-# context_judgement_1 = 0
+# tuepp_article_id = T951011.271
+# sent_id = 468
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Daß dabei hin und wieder eine Ikone des Rock und Pop auf den Arm genommen wird , beweist nur , daß " Kick la Luna " auch schauspielerisch betrachtet als bühnenfest zu bezeichnen ist .
 1	Daß	*	*	*	*
 2	dabei	*	*	*	*
 3	hin	*	*	*	*
@@ -2367,10 +2441,11 @@
 34	ist	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T951014.160
-# text = Dem Kritiker von Variety schwante was , und doch traute er den eigenen Augen nicht so recht : " Könnte sein , daß Clint Eastwood und sein Team sich mit diesem Film den Spaß erlaubt haben , sich ein bißchen selbst auf den Arm zu nehmen .
+# tuepp_article_id = T951014.160
+# sent_id = 469
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dem Kritiker von Variety schwante was , und doch traute er den eigenen Augen nicht so recht : " Könnte sein , daß Clint Eastwood und sein Team sich mit diesem Film den Spaß erlaubt haben , sich ein bißchen selbst auf den Arm zu nehmen .
 1	Dem	*	*	*	*
 2	Kritiker	*	*	*	*
 3	von	*	*	*	*
@@ -2419,10 +2494,11 @@
 46	nehmen	2	2	2	2
 47	.	*	*	*	*
 
-# article_id = T950111.30
-# text = Pikanterweise erklärt der sich ausgerechnet aus Attentatsdrohungen der Islamisten - denn das Stück nahm das Verhältnis von Islamisten und Staatsmacht auf den Arm .
+# tuepp_article_id = T950111.30
+# sent_id = 470
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Pikanterweise erklärt der sich ausgerechnet aus Attentatsdrohungen der Islamisten - denn das Stück nahm das Verhältnis von Islamisten und Staatsmacht auf den Arm .
 1	Pikanterweise	*	*	*	*
 2	erklärt	*	*	*	*
 3	der	*	*	*	*
@@ -2448,10 +2524,11 @@
 23	Arm	2	2	2	2
 24	.	*	*	*	*
 
-# article_id = T951207.240
-# text = Wedemeier war eigens ans Rednerpult gegangen , um seiner Empörung über den Innensenator Ralf Borttscheller Luft zu machen : " Sie haben lediglich das Parlament auf den Arm genommen , das ist das einzige , was sie hier geleistet haben .
+# tuepp_article_id = T951207.240
+# sent_id = 471
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wedemeier war eigens ans Rednerpult gegangen , um seiner Empörung über den Innensenator Ralf Borttscheller Luft zu machen : " Sie haben lediglich das Parlament auf den Arm genommen , das ist das einzige , was sie hier geleistet haben .
 1	Wedemeier	*	*	*	*
 2	war	*	*	*	*
 3	eigens	*	*	*	*
@@ -2494,10 +2571,11 @@
 40	haben	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T950828.144
-# text = Gerd : Ihr nehmt mich auf den Arm , das ist nicht fair !
+# tuepp_article_id = T950828.144
+# sent_id = 472
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gerd : Ihr nehmt mich auf den Arm , das ist nicht fair !
 1	Gerd	*	*	*	*
 2	:	*	*	*	*
 3	Ihr	*	*	*	*
@@ -2513,10 +2591,11 @@
 13	fair	*	*	*	*
 14	!	*	*	*	*
 
-# article_id = T950816.212
-# text = Zum Abschied ein Huhn auf den Arm nehmen möchte sie nicht : " Das widerstrebt mir .
+# tuepp_article_id = T950816.212
+# sent_id = 473
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zum Abschied ein Huhn auf den Arm nehmen möchte sie nicht : " Das widerstrebt mir .
 1	Zum	*	*	*	*
 2	Abschied	*	*	*	*
 3	ein	*	*	*	*
@@ -2535,10 +2614,11 @@
 16	mir	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T950829.147
-# text = Sydney ( AP / taz ) - Die Koalas in den Tierparks des australischen Staates New South Wales dürfen von Zoobesuchern nicht mehr auf den Arm genommen werden .
+# tuepp_article_id = T950829.147
+# sent_id = 474
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sydney ( AP / taz ) - Die Koalas in den Tierparks des australischen Staates New South Wales dürfen von Zoobesuchern nicht mehr auf den Arm genommen werden .
 1	Sydney	*	*	*	*
 2	(	*	*	*	*
 3	AP	*	*	*	*
@@ -2569,10 +2649,11 @@
 28	werden	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T950811.287
-# text = Es ist ein ambivalentes Bild , das zwischen dem Ideal einer Presse , wie es der Canard enchaine5 verkörpert , und dem karikierten Sumpf des Fernsehjournalismus , der täglich erneut auf den Arm genommen wird , oszilliert .
-# context_judgement_1 = 0
+# tuepp_article_id = T950811.287
+# sent_id = 475
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Es ist ein ambivalentes Bild , das zwischen dem Ideal einer Presse , wie es der Canard enchaine5 verkörpert , und dem karikierten Sumpf des Fernsehjournalismus , der täglich erneut auf den Arm genommen wird , oszilliert .
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	ein	*	*	*	*
@@ -2612,10 +2693,11 @@
 37	oszilliert	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T950204.132
-# text = Wichtigstes Requisit : die Stühle , die kleinen , die man auf den Arm nehmen kann wie ein Baby , die riesigen , die Marie kleiner scheinen lassen , als sie ist , und den Verführer größer , als er ist .
+# tuepp_article_id = T950204.132
+# sent_id = 476
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wichtigstes Requisit : die Stühle , die kleinen , die man auf den Arm nehmen kann wie ein Baby , die riesigen , die Marie kleiner scheinen lassen , als sie ist , und den Verführer größer , als er ist .
 1	Wichtigstes	*	*	*	*
 2	Requisit	*	*	*	*
 3	:	*	*	*	*
@@ -2659,10 +2741,11 @@
 41	ist	*	*	*	*
 42	.	*	*	*	*
 
-# article_id = T990419.242
-# text = Vor Gericht erinnerte sich Trzebinski später : " Frahm nahm den Jungen auf den Arm und sagte zu den anderen : Er wird jetzt ins Bett gebracht .
+# tuepp_article_id = T990419.242
+# sent_id = 477
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vor Gericht erinnerte sich Trzebinski später : " Frahm nahm den Jungen auf den Arm und sagte zu den anderen : Er wird jetzt ins Bett gebracht .
 1	Vor	*	*	*	*
 2	Gericht	*	*	*	*
 3	erinnerte	*	*	*	*
@@ -2692,10 +2775,11 @@
 27	gebracht	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T990421.136
-# text = Wie die 35jährige Mutter des kleinen Franz am ersten Verhandlungstag berichtete , war ihr Sohn ein kleines Stück vorausgelaufen , als er von einem fremden Mann mit einer tief ins Gesicht gezogenen Mütze auf den Arm genommen wurde .
+# tuepp_article_id = T990421.136
+# sent_id = 478
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie die 35jährige Mutter des kleinen Franz am ersten Verhandlungstag berichtete , war ihr Sohn ein kleines Stück vorausgelaufen , als er von einem fremden Mann mit einer tief ins Gesicht gezogenen Mütze auf den Arm genommen wurde .
 1	Wie	*	*	*	*
 2	die	*	*	*	*
 3	35jährige	*	*	*	*
@@ -2736,10 +2820,11 @@
 38	wurde	*	*	*	*
 39	.	*	*	*	*
 
-# article_id = T990311.21
-# text = Thomas : " Dann habe ich JD auf den Arm genommen und so schnell wie möglich aus dem Wasser getragen .
+# tuepp_article_id = T990311.21
+# sent_id = 479
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Thomas : " Dann habe ich JD auf den Arm genommen und so schnell wie möglich aus dem Wasser getragen .
 1	Thomas	*	*	*	*
 2	:	*	*	*	*
 3	"	*	*	*	*
@@ -2762,10 +2847,11 @@
 20	getragen	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T990306.10
-# text = " Als sich der eine Mitbewerber mit seinem tatsächlichen Namen , " Toni Sailer " , und der andere ganz ehrlich als " Andreas Hofer " vorgestellt hatte , fühlte sich der Chef bereits auf den Arm genommen .
+# tuepp_article_id = T990306.10
+# sent_id = 480
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Als sich der eine Mitbewerber mit seinem tatsächlichen Namen , " Toni Sailer " , und der andere ganz ehrlich als " Andreas Hofer " vorgestellt hatte , fühlte sich der Chef bereits auf den Arm genommen .
 1	"	*	*	*	*
 2	Als	*	*	*	*
 3	sich	*	*	*	*
@@ -2806,10 +2892,11 @@
 38	genommen	2	2	2	2
 39	.	*	*	*	*
 
-# article_id = T990218.250
-# text = " Sicher " , antwortet er mit einem Blick , als wolle man ihn auf den Arm nehmen .
+# tuepp_article_id = T990218.250
+# sent_id = 481
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Sicher " , antwortet er mit einem Blick , als wolle man ihn auf den Arm nehmen .
 1	"	*	*	*	*
 2	Sicher	*	*	*	*
 3	"	*	*	*	*
@@ -2830,10 +2917,11 @@
 18	nehmen	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T990205.186
-# text = TU-Präsident Hans-Jürgen Ewers fühlt sich " von der Politik auf den Arm genommen "
+# tuepp_article_id = T990205.186
+# sent_id = 482
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = TU-Präsident Hans-Jürgen Ewers fühlt sich " von der Politik auf den Arm genommen "
 1	TU-Präsident	*	*	*	*
 2	Hans-Jürgen	*	*	*	*
 3	Ewers	*	*	*	*
@@ -2849,10 +2937,11 @@
 13	genommen	2	2	2	2
 14	"	*	*	*	*
 
-# article_id = T990205.186
-# text = " Wir fühlen uns von der Politik auf den Arm genommen " , klagt der Präsident der Technischen Universität ( TU ) , Hans-Jürgen Ewers .
+# tuepp_article_id = T990205.186
+# sent_id = 483
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wir fühlen uns von der Politik auf den Arm genommen " , klagt der Präsident der Technischen Universität ( TU ) , Hans-Jürgen Ewers .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	fühlen	*	*	*	*

@@ -1,7 +1,8 @@
-# article_id = T890509.160
-# text = Mit Karla , seinem sowjetischen Widersacher , hat er noch eine alte Rechnung zu begleichen .
+# tuepp_article_id = T890509.160
+# sent_id = 5184
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit Karla , seinem sowjetischen Widersacher , hat er noch eine alte Rechnung zu begleichen .
 1	Mit	*	*	*	*
 2	Karla	*	*	*	*
 3	,	*	*	*	*
@@ -19,10 +20,11 @@
 15	begleichen	2	2	2	2
 16	.	*	*	*	*
 
-# article_id = T890505.58
-# text = Nach Angaben aus Palästinenserkreisen wird innerhalb der El Fatah seit zwei Wochen ein Machtkampf ausgetragen , bei dem rivalisierende Arafat-Anhänger " Rechnungen begleichen " .
+# tuepp_article_id = T890505.58
+# sent_id = 5185
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach Angaben aus Palästinenserkreisen wird innerhalb der El Fatah seit zwei Wochen ein Machtkampf ausgetragen , bei dem rivalisierende Arafat-Anhänger " Rechnungen begleichen " .
 1	Nach	*	*	*	*
 2	Angaben	*	*	*	*
 3	aus	*	*	*	*
@@ -49,10 +51,11 @@
 24	"	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T890624.65
-# text = Die Rechnung begleicht de facto die Zentralbank .
-# context_judgement_1 = 1
+# tuepp_article_id = T890624.65
+# sent_id = 5186
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Die Rechnung begleicht de facto die Zentralbank .
 1	Die	*	*	*	*
 2	Rechnung	1	1	1	1
 3	begleicht	1	1	1	1
@@ -62,10 +65,11 @@
 7	Zentralbank	*	*	*	*
 8	.	*	*	*	*
 
-# article_id = T890907.219
+# tuepp_article_id = T890907.219
+# sent_id = 5187
+# context_judgement_1 = 0
+# context_judgement_2 = 1
 # text = Doch der Gastwirt Burghard Klettke setzte sich selbst auf die Spur des ehrenwerten Amtmanns und kam schnell zu einem wichtigen Faustpfand : die eidesstattliche Versicherung einer Bardame des " Inkognito " , die vergeblich versucht hatte , Kunze zum Begleichen seiner Rechnung von über 500 Mark zu bewegen .
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	Doch	*	*	*	*
 2	der	*	*	*	*
 3	Gastwirt	*	*	*	*
@@ -116,10 +120,11 @@
 48	bewegen	*	*	*	*
 49	.	*	*	*	*
 
-# article_id = T890927.91
-# text = Er war zu dem Zeitpunkt irgendwo in Afrika , um eine Rechnung mit einem ehemaligen SS-Offizier zu begleichen .
+# tuepp_article_id = T890927.91
+# sent_id = 5189
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er war zu dem Zeitpunkt irgendwo in Afrika , um eine Rechnung mit einem ehemaligen SS-Offizier zu begleichen .
 1	Er	*	*	*	*
 2	war	*	*	*	*
 3	zu	*	*	*	*
@@ -140,10 +145,11 @@
 18	begleichen	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T890414.180
-# text = " Nicht auszuschließen " , erklärt der MSI-Mann in Rom , " daß da einige nicht nur zum Feiern hinfahren , sondern auch , um ein paar ältere Rechnungen zu begleichen !
-# context_judgement_1 = 1
+# tuepp_article_id = T890414.180
+# sent_id = 5190
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = " Nicht auszuschließen " , erklärt der MSI-Mann in Rom , " daß da einige nicht nur zum Feiern hinfahren , sondern auch , um ein paar ältere Rechnungen zu begleichen !
 1	"	*	*	*	*
 2	Nicht	*	*	*	*
 3	auszuschließen	*	*	*	*
@@ -177,10 +183,11 @@
 31	begleichen	2	2	2	2
 32	!	*	*	*	*
 
-# article_id = T890405.85
-# text = So wie Nazi - Deutschland sich über die Gelegenheit freute , neue Waffen und Truppeneinsätze auf fremdem Territorium zu trainieren , so fand die Sowjetführung Gefallen daran , offene Rechnungen mit abtrünnigen Kommunisten zu begleichen .
+# tuepp_article_id = T890405.85
+# sent_id = 5191
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = So wie Nazi - Deutschland sich über die Gelegenheit freute , neue Waffen und Truppeneinsätze auf fremdem Territorium zu trainieren , so fand die Sowjetführung Gefallen daran , offene Rechnungen mit abtrünnigen Kommunisten zu begleichen .
 1	So	*	*	*	*
 2	wie	*	*	*	*
 3	Nazi	*	*	*	*
@@ -218,10 +225,11 @@
 35	begleichen	2	2	2	2
 36	.	*	*	*	*
 
-# article_id = T890722.86
-# text = Als die Rechnungen endlich beglichen werden mußten , stellte sich heraus , daß der chrustschowsche Versuch der Quadratur des Kreises - das Regime zu reformieren , ohne es wesentlich zu ändern - die Krise des Kommunismus , gegen die der Versuch doch gerichtet war , nur verschärft reproduzierte .
+# tuepp_article_id = T890722.86
+# sent_id = 5192
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als die Rechnungen endlich beglichen werden mußten , stellte sich heraus , daß der chrustschowsche Versuch der Quadratur des Kreises - das Regime zu reformieren , ohne es wesentlich zu ändern - die Krise des Kommunismus , gegen die der Versuch doch gerichtet war , nur verschärft reproduzierte .
 1	Als	*	*	*	*
 2	die	*	*	*	*
 3	Rechnungen	1	2	2	2
@@ -272,10 +280,11 @@
 48	reproduzierte	*	*	*	*
 49	.	*	*	*	*
 
-# article_id = T891207.75
-# text = Es amüsierte mich köstlich , weil ich bereits wußte , daß der inzwischen auf normalem Weg in seine Aufgabe des Sprechers hineingewachsene junge Slowake Ivan es besser meistern wird als ich : Er hatte keine alten Rechnungen zu begleichen , ihm waren die Beamten absolut egal , er ließ es nur nicht zu , daß sie seine Kreise störten .
+# tuepp_article_id = T891207.75
+# sent_id = 5193
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es amüsierte mich köstlich , weil ich bereits wußte , daß der inzwischen auf normalem Weg in seine Aufgabe des Sprechers hineingewachsene junge Slowake Ivan es besser meistern wird als ich : Er hatte keine alten Rechnungen zu begleichen , ihm waren die Beamten absolut egal , er ließ es nur nicht zu , daß sie seine Kreise störten .
 1	Es	*	*	*	*
 2	amüsierte	*	*	*	*
 3	mich	*	*	*	*
@@ -337,10 +346,11 @@
 59	störten	*	*	*	*
 60	.	*	*	*	*
 
-# article_id = T890817.112
-# text = Zierer glaubt deswegen , daß in der SPD jetzt " alte Rechnungen beglichen " werden , seine homosexuellen Neigungen dienten als Vehikel im innerparteilichen politischen Linienstreit .
+# tuepp_article_id = T890817.112
+# sent_id = 5194
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zierer glaubt deswegen , daß in der SPD jetzt " alte Rechnungen beglichen " werden , seine homosexuellen Neigungen dienten als Vehikel im innerparteilichen politischen Linienstreit .
 1	Zierer	*	*	*	*
 2	glaubt	*	*	*	*
 3	deswegen	*	*	*	*
@@ -369,10 +379,11 @@
 26	Linienstreit	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T890325.94
-# text = Dies wirft nun selbstverständlich ein sehr anderes Licht auf die Rolle der kommunistischen Intellektuellen für das Jahr 1968 : War es für sie etwa vor allem um den Versuch gegangen , alte Rechnungen mit den Herrschenden und ihrer eigenen Vergangenheit zu begleichen ?
+# tuepp_article_id = T890325.94
+# sent_id = 5195
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dies wirft nun selbstverständlich ein sehr anderes Licht auf die Rolle der kommunistischen Intellektuellen für das Jahr 1968 : War es für sie etwa vor allem um den Versuch gegangen , alte Rechnungen mit den Herrschenden und ihrer eigenen Vergangenheit zu begleichen ?
 1	Dies	*	*	*	*
 2	wirft	*	*	*	*
 3	nun	*	*	*	*
@@ -417,10 +428,11 @@
 42	begleichen	2	2	2	2
 43	?	*	*	*	*
 
-# article_id = T891109.133
-# text = " Der israelischen Seite kam es entsprechend darauf an , ein Exempel zu statuieren , die Vergeblichkeit des Aufbegehrens zu zeigen und alte Rechnungen mit den renitenten Bürgern zu begleichen : Die Steuerrevolte mußte niedergewalzt werden , sollten Recht und Ordnung , das heißt das Funktionieren der Besatzung nach israelischen Spielregeln , garantiert bleiben .
+# tuepp_article_id = T891109.133
+# sent_id = 5196
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Der israelischen Seite kam es entsprechend darauf an , ein Exempel zu statuieren , die Vergeblichkeit des Aufbegehrens zu zeigen und alte Rechnungen mit den renitenten Bürgern zu begleichen : Die Steuerrevolte mußte niedergewalzt werden , sollten Recht und Ordnung , das heißt das Funktionieren der Besatzung nach israelischen Spielregeln , garantiert bleiben .
 1	"	*	*	*	*
 2	Der	*	*	*	*
 3	israelischen	*	*	*	*
@@ -477,10 +489,11 @@
 54	bleiben	*	*	*	*
 55	.	*	*	*	*
 
-# article_id = T890222.30
-# text = Für Senatoren ist die Gelegenheit günstig , noch offenstehende Rechnungen mit einem ehemaligen Kollegen zu begleichen , der sie häufig reingelegt hat .
+# tuepp_article_id = T890222.30
+# sent_id = 5197
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Für Senatoren ist die Gelegenheit günstig , noch offenstehende Rechnungen mit einem ehemaligen Kollegen zu begleichen , der sie häufig reingelegt hat .
 1	Für	*	*	*	*
 2	Senatoren	*	*	*	*
 3	ist	*	*	*	*
@@ -505,10 +518,11 @@
 22	hat	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T890217.134
-# text = Wenngleich längst noch nicht alle Rechnungen beglichen seien , bestünde " kein Grund zur Panik " .
+# tuepp_article_id = T890217.134
+# sent_id = 5198
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenngleich längst noch nicht alle Rechnungen beglichen seien , bestünde " kein Grund zur Panik " .
 1	Wenngleich	*	*	*	*
 2	längst	*	*	*	*
 3	noch	*	*	*	*
@@ -527,10 +541,11 @@
 16	"	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T910528.69
-# text = Viele AlgerierInnen wollen ihre Rechnung mit der alten Herrschaft an der Urne begleichen .
+# tuepp_article_id = T910528.69
+# sent_id = 5199
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Viele AlgerierInnen wollen ihre Rechnung mit der alten Herrschaft an der Urne begleichen .
 1	Viele	*	*	*	*
 2	AlgerierInnen	*	*	*	*
 3	wollen	*	*	*	*
@@ -546,10 +561,11 @@
 13	begleichen	2	2	2	2
 14	.	*	*	*	*
 
-# article_id = T910525.180
-# text = Immer mehr Energieverbraucher weigern sich , ihre Rechnung bei der Südthüringer Energieversorgungs AG ( SEAG ) zu begleichen .
+# tuepp_article_id = T910525.180
+# sent_id = 5200
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Immer mehr Energieverbraucher weigern sich , ihre Rechnung bei der Südthüringer Energieversorgungs AG ( SEAG ) zu begleichen .
 1	Immer	*	*	*	*
 2	mehr	*	*	*	*
 3	Energieverbraucher	*	*	*	*
@@ -570,10 +586,11 @@
 18	begleichen	1	1	1	1
 19	.	*	*	*	*
 
-# article_id = T910511.247
-# text = Marie-Luise Beck-Oberdorf als Grüne Landesvorstands-Sprecherin schickte einen Brief herum und bat bis zum 6. Mai um Überweisungen für das Plakat : " Wir gehen selbstverständlich davon aus , daß sich keine Organisation , die in dem Bremer Friedensbündnis mit aktiv war , der Verpflichtung entziehen wird , nun auch die offene Rechnung zu begleichen ... "
+# tuepp_article_id = T910511.247
+# sent_id = 5201
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Marie-Luise Beck-Oberdorf als Grüne Landesvorstands-Sprecherin schickte einen Brief herum und bat bis zum 6. Mai um Überweisungen für das Plakat : " Wir gehen selbstverständlich davon aus , daß sich keine Organisation , die in dem Bremer Friedensbündnis mit aktiv war , der Verpflichtung entziehen wird , nun auch die offene Rechnung zu begleichen ... "
 1	Marie-Luise	*	*	*	*
 2	Beck-Oberdorf	*	*	*	*
 3	als	*	*	*	*
@@ -632,10 +649,11 @@
 56	...	*	*	*	*
 57	"	*	*	*	*
 
-# article_id = T910522.211
-# text = Mit minimalstem Budget und der tatkräftigen Hilfe treuer Freunde hat er immerhin elf Filme realisiert , wovon eine Produktion das Labor zurückhielt , weil Wood die Rechnungen für die Entwicklung nicht begleichen konnte .
+# tuepp_article_id = T910522.211
+# sent_id = 5202
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit minimalstem Budget und der tatkräftigen Hilfe treuer Freunde hat er immerhin elf Filme realisiert , wovon eine Produktion das Labor zurückhielt , weil Wood die Rechnungen für die Entwicklung nicht begleichen konnte .
 1	Mit	*	*	*	*
 2	minimalstem	*	*	*	*
 3	Budget	*	*	*	*
@@ -671,10 +689,11 @@
 33	konnte	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T910627.109
-# text = Die Kreditkarte wird nicht mehr anerkannt , das Hotel will seine Rechnung beglichen sehen , allein , außer Geld besaßen die beiden nichts , was sich jetzt dazu machen ließe .
+# tuepp_article_id = T910627.109
+# sent_id = 5203
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Kreditkarte wird nicht mehr anerkannt , das Hotel will seine Rechnung beglichen sehen , allein , außer Geld besaßen die beiden nichts , was sich jetzt dazu machen ließe .
 1	Die	*	*	*	*
 2	Kreditkarte	*	*	*	*
 3	wird	*	*	*	*
@@ -707,10 +726,11 @@
 30	ließe	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T910628.33
-# text = Die Rechnungen seien nur versehentlich mit CDU-Mitteln beglichen worden .
+# tuepp_article_id = T910628.33
+# sent_id = 5204
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Rechnungen seien nur versehentlich mit CDU-Mitteln beglichen worden .
 1	Die	*	*	*	*
 2	Rechnungen	1	2	1	1
 3	seien	*	*	*	*
@@ -722,10 +742,11 @@
 9	worden	*	*	*	*
 10	.	*	*	*	*
 
-# article_id = T911009.120
-# text = Wie kommt es , daß er nicht verstört ist über den Zusammenbruch der vertrauten Lebenswelt , sich nicht zur Trauerarbeit genötigt fühlt , keine alten Rechnungen begleichen will und nicht von Zukunftsängsten gequält wird ?
+# tuepp_article_id = T911009.120
+# sent_id = 5205
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie kommt es , daß er nicht verstört ist über den Zusammenbruch der vertrauten Lebenswelt , sich nicht zur Trauerarbeit genötigt fühlt , keine alten Rechnungen begleichen will und nicht von Zukunftsängsten gequält wird ?
 1	Wie	*	*	*	*
 2	kommt	*	*	*	*
 3	es	*	*	*	*
@@ -762,10 +783,11 @@
 34	wird	*	*	*	*
 35	?	*	*	*	*
 
-# article_id = T911018.71
-# text = Die Versicherung garantiert dem Exporteur die Bezahlung seiner Ware aus der Staatskasse , falls der Empfänger die Rechnung nicht begleichen sollte .
+# tuepp_article_id = T911018.71
+# sent_id = 5206
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Versicherung garantiert dem Exporteur die Bezahlung seiner Ware aus der Staatskasse , falls der Empfänger die Rechnung nicht begleichen sollte .
 1	Die	*	*	*	*
 2	Versicherung	*	*	*	*
 3	garantiert	*	*	*	*
@@ -789,10 +811,11 @@
 21	sollte	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T910923.28
-# text = Für Manfred Gnecko , einen der Drahtzieher hinter der Gewalt in Hoyerswerda , werden " alte Rechnungen " beglichen
+# tuepp_article_id = T910923.28
+# sent_id = 5207
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Für Manfred Gnecko , einen der Drahtzieher hinter der Gewalt in Hoyerswerda , werden " alte Rechnungen " beglichen
 1	Für	*	*	*	*
 2	Manfred	*	*	*	*
 3	Gnecko	*	*	*	*
@@ -813,10 +836,11 @@
 18	"	*	*	*	*
 19	beglichen	2	2	2	2
 
-# article_id = T910923.28
-# text = Mit der offenen Randale werde auch eine " alte Rechnung " beglichen .
+# tuepp_article_id = T910923.28
+# sent_id = 5208
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit der offenen Randale werde auch eine " alte Rechnung " beglichen .
 1	Mit	*	*	*	*
 2	der	*	*	*	*
 3	offenen	*	*	*	*
@@ -831,10 +855,11 @@
 12	beglichen	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T910107.136
-# text = Außerdem hatte ich eine persönliche Rechnung mit der DDR offen , die nun von der Geschichte beglichen wurde .
+# tuepp_article_id = T910107.136
+# sent_id = 5209
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Außerdem hatte ich eine persönliche Rechnung mit der DDR offen , die nun von der Geschichte beglichen wurde .
 1	Außerdem	*	*	*	*
 2	hatte	*	*	*	*
 3	ich	*	*	*	*
@@ -855,10 +880,11 @@
 18	wurde	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T910112.135
-# text = Dokumente können gefälscht sein , um den Gegner zu verwirren , Briefe können unter Zwang geschrieben worden sein und Zeugnisse nur Interpretationen eines Zeitgenossen , den die Eitelkeit verführt , die Erinnerung in Stich gelassen oder der noch eine alte Rechnung zu begleichen hat .
+# tuepp_article_id = T910112.135
+# sent_id = 5210
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dokumente können gefälscht sein , um den Gegner zu verwirren , Briefe können unter Zwang geschrieben worden sein und Zeugnisse nur Interpretationen eines Zeitgenossen , den die Eitelkeit verführt , die Erinnerung in Stich gelassen oder der noch eine alte Rechnung zu begleichen hat .
 1	Dokumente	*	*	*	*
 2	können	*	*	*	*
 3	gefälscht	*	*	*	*
@@ -905,10 +931,11 @@
 44	hat	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T910112.135
-# text = Himmler war klar , daß die Mitglieder der Roten Kapelle laut ihres Chefs " mit den Nazis eine besondere Rechnung zu begleichen hatten " , und deshalb beauftragte er seine Polizei nicht nur , " mit dem jüdischen Pack aufzuräumen " , sondern er erließ auch die schriftliche Order , " alle Mittel aufzuwenden , um ein Geständnis zu erzwingen " , der einzige Fall , in dem der Reichsführer-SS seine Unterschrift unter ein Dokument gesetzt hat , das die Folter bis zum Eintritt des Todes ausdrücklich erlaubte .
+# tuepp_article_id = T910112.135
+# sent_id = 5211
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Himmler war klar , daß die Mitglieder der Roten Kapelle laut ihres Chefs " mit den Nazis eine besondere Rechnung zu begleichen hatten " , und deshalb beauftragte er seine Polizei nicht nur , " mit dem jüdischen Pack aufzuräumen " , sondern er erließ auch die schriftliche Order , " alle Mittel aufzuwenden , um ein Geständnis zu erzwingen " , der einzige Fall , in dem der Reichsführer-SS seine Unterschrift unter ein Dokument gesetzt hat , das die Folter bis zum Eintritt des Todes ausdrücklich erlaubte .
 1	Himmler	*	*	*	*
 2	war	*	*	*	*
 3	klar	*	*	*	*
@@ -999,10 +1026,11 @@
 88	erlaubte	*	*	*	*
 89	.	*	*	*	*
 
-# article_id = T910117.122
-# text = Allerdings sollen mit " kostenloser " Rückgabe offene Rechnungen der Interflug beglichen werden : weder millionenschwere Reparaturen noch zwei 1989 erworbene Flugzeugen vom Typ IL-62 sind bezahlt .
+# tuepp_article_id = T910117.122
+# sent_id = 5212
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Allerdings sollen mit " kostenloser " Rückgabe offene Rechnungen der Interflug beglichen werden : weder millionenschwere Reparaturen noch zwei 1989 erworbene Flugzeugen vom Typ IL-62 sind bezahlt .
 1	Allerdings	*	*	*	*
 2	sollen	*	*	*	*
 3	mit	*	*	*	*
@@ -1032,10 +1060,11 @@
 27	bezahlt	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T910409.84
-# text = Es gibt jetzt zwei Völker , die mit den Arabern und dem Westen eine Rechnung zu begleichen haben : die Palästinenser und die Kurden .
+# tuepp_article_id = T910409.84
+# sent_id = 5213
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es gibt jetzt zwei Völker , die mit den Arabern und dem Westen eine Rechnung zu begleichen haben : die Palästinenser und die Kurden .
 1	Es	*	*	*	*
 2	gibt	*	*	*	*
 3	jetzt	*	*	*	*
@@ -1062,10 +1091,11 @@
 24	Kurden	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T910412.169
-# text = In den Kommissionen wurden zum Teil alte Rechnungen beglichen .
-# context_judgement_1 = 1
+# tuepp_article_id = T910412.169
+# sent_id = 5214
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = In den Kommissionen wurden zum Teil alte Rechnungen beglichen .
 1	In	*	*	*	*
 2	den	*	*	*	*
 3	Kommissionen	*	*	*	*
@@ -1077,10 +1107,11 @@
 9	beglichen	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T910424.188
-# text = Die erste Ausgabe der ' DAZ ` erschien am 31. Januar 1990 und wurde innerhalb weniger Stunden 40.000 mal verkauft , weshalb die ersten Rechnungen noch vom Verkauf der ersten Nummern beglichen werden konnten .
+# tuepp_article_id = T910424.188
+# sent_id = 5215
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die erste Ausgabe der ' DAZ ` erschien am 31. Januar 1990 und wurde innerhalb weniger Stunden 40.000 mal verkauft , weshalb die ersten Rechnungen noch vom Verkauf der ersten Nummern beglichen werden konnten .
 1	Die	*	*	*	*
 2	erste	*	*	*	*
 3	Ausgabe	*	*	*	*
@@ -1118,10 +1149,11 @@
 35	konnten	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T910706.159
-# text = Gerade Ungarn ist als Reiseland im Osten beliebter denn je : billig , sonnig , ja , und außerdem hat man ja doch noch die eine oder andere alte Rechnung zu begleichen .
+# tuepp_article_id = T910706.159
+# sent_id = 5216
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gerade Ungarn ist als Reiseland im Osten beliebter denn je : billig , sonnig , ja , und außerdem hat man ja doch noch die eine oder andere alte Rechnung zu begleichen .
 1	Gerade	*	*	*	*
 2	Ungarn	*	*	*	*
 3	ist	*	*	*	*
@@ -1156,10 +1188,11 @@
 32	begleichen	2	2	2	2
 33	.	*	*	*	*
 
-# article_id = T910702.41
+# tuepp_article_id = T910702.41
+# sent_id = 5217
+# context_judgement_1 = 0
+# context_judgement_2 = 0
 # text = Der dir meistens maulfaul und mürrisch den Teller mit der halb erkalteten Roulade , das Glas Bier hinknallt und ungeduldig wartet , bis du dich nach Begleichen der Rechnung in Dankbarkeit verneigst .
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	Der	*	*	*	*
 2	dir	*	*	*	*
 3	meistens	*	*	*	*
@@ -1194,10 +1227,11 @@
 32	verneigst	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T911221.181
-# text = Denn Friedrich Steinhauer ist jemand , der ritterlich zwar die Rechnung seiner Gäste begleicht , geschwind wie der Wind und » schneller als die Polizei erlaubt « ( Friedrich ) jedoch verschwindet , um die Zeche fürs eigene Essen zu prellen .
+# tuepp_article_id = T911221.181
+# sent_id = 5218
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Denn Friedrich Steinhauer ist jemand , der ritterlich zwar die Rechnung seiner Gäste begleicht , geschwind wie der Wind und » schneller als die Polizei erlaubt « ( Friedrich ) jedoch verschwindet , um die Zeche fürs eigene Essen zu prellen .
 1	Denn	*	*	*	*
 2	Friedrich	*	*	*	*
 3	Steinhauer	*	*	*	*
@@ -1241,10 +1275,11 @@
 41	prellen	*	*	*	*
 42	.	*	*	*	*
 
-# article_id = T911206.235
-# text = Dies ist nach Angaben des Hamburger Rechtsanwalts Sieghard von Saldern der geringere Teil der Kosten , denn für die aufwendige Reinigung des dioxinhaltigen Materials ist eine Rechnung von über 511.000 Mark zu begleichen .
+# tuepp_article_id = T911206.235
+# sent_id = 5219
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dies ist nach Angaben des Hamburger Rechtsanwalts Sieghard von Saldern der geringere Teil der Kosten , denn für die aufwendige Reinigung des dioxinhaltigen Materials ist eine Rechnung von über 511.000 Mark zu begleichen .
 1	Dies	*	*	*	*
 2	ist	*	*	*	*
 3	nach	*	*	*	*
@@ -1280,10 +1315,11 @@
 33	begleichen	1	1	1	1
 34	.	*	*	*	*
 
-# article_id = T910322.98
-# text = Jetzt muß es diese Güter zu Weltmarktpreisen kaufen und die Rechnungen in harter Währung begleichen .
+# tuepp_article_id = T910322.98
+# sent_id = 5220
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jetzt muß es diese Güter zu Weltmarktpreisen kaufen und die Rechnungen in harter Währung begleichen .
 1	Jetzt	*	*	*	*
 2	muß	*	*	*	*
 3	es	*	*	*	*
@@ -1301,10 +1337,11 @@
 15	begleichen	1	2	1	1
 16	.	*	*	*	*
 
-# article_id = T910302.122
-# text = Jahrzehnte später kehrt Noodles zurück , um eine alte Rechnung zu begleichen ...
+# tuepp_article_id = T910302.122
+# sent_id = 5221
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jahrzehnte später kehrt Noodles zurück , um eine alte Rechnung zu begleichen ...
 1	Jahrzehnte	*	*	*	*
 2	später	*	*	*	*
 3	kehrt	*	*	*	*
@@ -1319,10 +1356,11 @@
 12	begleichen	2	2	2	2
 13	...	*	*	*	*
 
-# article_id = T911101.52
-# text = Liegen diesen Taten nur politische Motive zugrunde - oder werden hier auch persönliche Rechnungen beglichen ?
+# tuepp_article_id = T911101.52
+# sent_id = 5222
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Liegen diesen Taten nur politische Motive zugrunde - oder werden hier auch persönliche Rechnungen beglichen ?
 1	Liegen	*	*	*	*
 2	diesen	*	*	*	*
 3	Taten	*	*	*	*
@@ -1340,10 +1378,11 @@
 15	beglichen	2	2	2	2
 16	?	*	*	*	*
 
-# article_id = T910202.291
-# text = Aus diesem Fonds wurden allerdings auch die Rechnungen der Gästehäuser beglichen , in denen Harry Tisch Urlaub machte .
+# tuepp_article_id = T910202.291
+# sent_id = 5223
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aus diesem Fonds wurden allerdings auch die Rechnungen der Gästehäuser beglichen , in denen Harry Tisch Urlaub machte .
 1	Aus	*	*	*	*
 2	diesem	*	*	*	*
 3	Fonds	*	*	*	*
@@ -1364,10 +1403,11 @@
 18	machte	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T910202.291
-# text = Nach Angaben der Zeugin hatte sie es für selbstverständlich gehalten , auf Anweisung für ein Politbüromitglied und den Gewerkschaftschef diese Rechnungen zu begleichen .
+# tuepp_article_id = T910202.291
+# sent_id = 5224
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach Angaben der Zeugin hatte sie es für selbstverständlich gehalten , auf Anweisung für ein Politbüromitglied und den Gewerkschaftschef diese Rechnungen zu begleichen .
 1	Nach	*	*	*	*
 2	Angaben	*	*	*	*
 3	der	*	*	*	*
@@ -1393,10 +1433,11 @@
 23	begleichen	1	2	1	1
 24	.	*	*	*	*
 
-# article_id = T910209.135
-# text = Doch in den 80er Jahren begann sie auch hier neue Märkte mit Gewehren und Pistolen abzustecken - und alte Rechnungen zu begleichen .
+# tuepp_article_id = T910209.135
+# sent_id = 5225
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch in den 80er Jahren begann sie auch hier neue Märkte mit Gewehren und Pistolen abzustecken - und alte Rechnungen zu begleichen .
 1	Doch	*	*	*	*
 2	in	*	*	*	*
 3	den	*	*	*	*
@@ -1421,10 +1462,11 @@
 22	begleichen	2	2	2	2
 23	.	*	*	*	*
 
-# article_id = T910213.31
-# text = Ein günstiger Zeitpunkt für die politische Führung in Peking , eine seit eineinhalb Jahren ausstehende Rechnung zu begleichen .
+# tuepp_article_id = T910213.31
+# sent_id = 5226
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein günstiger Zeitpunkt für die politische Führung in Peking , eine seit eineinhalb Jahren ausstehende Rechnung zu begleichen .
 1	Ein	*	*	*	*
 2	günstiger	*	*	*	*
 3	Zeitpunkt	*	*	*	*
@@ -1445,10 +1487,11 @@
 18	begleichen	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T910219.224
-# text = Wer Rechnungen mithilfe eines Postgirokontos begleicht , muß mit langen Bearbeitungszeiten oder sogar mit Mahngebühren rechnen .
+# tuepp_article_id = T910219.224
+# sent_id = 5227
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wer Rechnungen mithilfe eines Postgirokontos begleicht , muß mit langen Bearbeitungszeiten oder sogar mit Mahngebühren rechnen .
 1	Wer	*	*	*	*
 2	Rechnungen	1	1	1	1
 3	mithilfe	*	*	*	*
@@ -1467,10 +1510,11 @@
 16	rechnen	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T900519.165
-# text = Er begleicht so seine Rechnung mit seinen Landsleuten .
+# tuepp_article_id = T900519.165
+# sent_id = 5228
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er begleicht so seine Rechnung mit seinen Landsleuten .
 1	Er	*	*	*	*
 2	begleicht	2	2	2	2
 3	so	*	*	*	*
@@ -1481,10 +1525,11 @@
 8	Landsleuten	*	*	*	*
 9	.	*	*	*	*
 
-# article_id = T900507.191
-# text = Alte Rechnungen werden beglichen , das Verhängnis nimmt seinen Lauf .
+# tuepp_article_id = T900507.191
+# sent_id = 5229
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Alte Rechnungen werden beglichen , das Verhängnis nimmt seinen Lauf .
 1	Alte	*	*	*	*
 2	Rechnungen	2	2	2	2
 3	werden	*	*	*	*
@@ -1497,10 +1542,11 @@
 10	Lauf	*	*	*	*
 11	.	*	*	*	*
 
-# article_id = T900523.202
-# text = Kein Fuzzelchen von inhaltlicher Auseinandersetzung , und dann die kleinen fiesen Rechnungen , die da beglichen werden .
+# tuepp_article_id = T900523.202
+# sent_id = 5230
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kein Fuzzelchen von inhaltlicher Auseinandersetzung , und dann die kleinen fiesen Rechnungen , die da beglichen werden .
 1	Kein	*	*	*	*
 2	Fuzzelchen	*	*	*	*
 3	von	*	*	*	*
@@ -1520,10 +1566,11 @@
 17	werden	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T900526.206
-# text = Das wundersame an diesem Geld : Auch wenn man Tiefkühlkost und Dosenbier im Supermarkt der Hauptstadt Colonia mit US-Dollar bezahlt , so kann man doch mit dem alten Steingeld ( " Rai " ) heute noch Rechnungen begleichen - etwa ein Haus kaufen , eine Tanzgruppe aus dem Nachbardorf entlohnen oder sich auch schon mal einen größeren Posten Palm-Grog brauen lassen .
+# tuepp_article_id = T900526.206
+# sent_id = 5231
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das wundersame an diesem Geld : Auch wenn man Tiefkühlkost und Dosenbier im Supermarkt der Hauptstadt Colonia mit US-Dollar bezahlt , so kann man doch mit dem alten Steingeld ( " Rai " ) heute noch Rechnungen begleichen - etwa ein Haus kaufen , eine Tanzgruppe aus dem Nachbardorf entlohnen oder sich auch schon mal einen größeren Posten Palm-Grog brauen lassen .
 1	Das	*	*	*	*
 2	wundersame	*	*	*	*
 3	an	*	*	*	*
@@ -1587,10 +1634,11 @@
 61	lassen	*	*	*	*
 62	.	*	*	*	*
 
-# article_id = T901023.3
-# text = Im Schatten der syrischen Panzer werden alte Rechnungen beglichen .
+# tuepp_article_id = T901023.3
+# sent_id = 5232
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Schatten der syrischen Panzer werden alte Rechnungen beglichen .
 1	Im	*	*	*	*
 2	Schatten	*	*	*	*
 3	der	*	*	*	*
@@ -1602,10 +1650,11 @@
 9	beglichen	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T901023.90
-# text = Und schon Mitte vergangener Woche wußte man in Ost-Beirut , daß alte Rechnungen beglichen werden .
+# tuepp_article_id = T901023.90
+# sent_id = 5233
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und schon Mitte vergangener Woche wußte man in Ost-Beirut , daß alte Rechnungen beglichen werden .
 1	Und	*	*	*	*
 2	schon	*	*	*	*
 3	Mitte	*	*	*	*
@@ -1623,10 +1672,11 @@
 15	werden	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T901009.66
-# text = Aber das begleicht noch nicht die Rechnung .
-# context_judgement_1 = 1
+# tuepp_article_id = T901009.66
+# sent_id = 5234
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Aber das begleicht noch nicht die Rechnung .
 1	Aber	*	*	*	*
 2	das	*	*	*	*
 3	begleicht	1	2	2	2
@@ -1636,10 +1686,11 @@
 7	Rechnung	1	2	2	2
 8	.	*	*	*	*
 
-# article_id = T900929.20
-# text = " Ich komme nicht zurück , um alte Rechnungen zu begleichen " , meinte Ben Bella auf der Überfahrt , als er im großen Salon der " Hoggar " mit einigen alten Genossen zusammentraf .
+# tuepp_article_id = T900929.20
+# sent_id = 5235
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Ich komme nicht zurück , um alte Rechnungen zu begleichen " , meinte Ben Bella auf der Überfahrt , als er im großen Salon der " Hoggar " mit einigen alten Genossen zusammentraf .
 1	"	*	*	*	*
 2	Ich	*	*	*	*
 3	komme	*	*	*	*
@@ -1676,10 +1727,11 @@
 34	zusammentraf	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T900928.55
-# text = Der Heimkehrer meinte , er wolle nicht " alte Rechnungen " begleichen .
+# tuepp_article_id = T900928.55
+# sent_id = 5236
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Heimkehrer meinte , er wolle nicht " alte Rechnungen " begleichen .
 1	Der	*	*	*	*
 2	Heimkehrer	*	*	*	*
 3	meinte	*	*	*	*
@@ -1694,10 +1746,11 @@
 12	begleichen	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T900911.75
-# text = Ich wollte , ich sage es noch einmal , in die Causa Waldheim nicht einsteigen , aber da Sie die Vereinten Nationen erwähnen , Ihre Tätigkeit als Sekretär : Glauben Sie , es haben irgendwelche Leute oder Gruppen mit Ihnen alte Rechnungen zu begleichen gehabt und die Chance Ihrer Kandidatur in Österreich benutzt , diese alten Rechnungen wieder aufzutischen ?
+# tuepp_article_id = T900911.75
+# sent_id = 5237
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ich wollte , ich sage es noch einmal , in die Causa Waldheim nicht einsteigen , aber da Sie die Vereinten Nationen erwähnen , Ihre Tätigkeit als Sekretär : Glauben Sie , es haben irgendwelche Leute oder Gruppen mit Ihnen alte Rechnungen zu begleichen gehabt und die Chance Ihrer Kandidatur in Österreich benutzt , diese alten Rechnungen wieder aufzutischen ?
 1	Ich	*	*	*	*
 2	wollte	*	*	*	*
 3	,	*	*	*	*
@@ -1759,10 +1812,11 @@
 59	aufzutischen	*	*	*	*
 60	?	*	*	*	*
 
-# article_id = T900112.183
-# text = " Offensichtlich der untaugliche Versuch , alte Rechnungen im Zuge der Andres-Affäre zu begleichen " , meint Pagel zu der Erklärung .
+# tuepp_article_id = T900112.183
+# sent_id = 5238
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Offensichtlich der untaugliche Versuch , alte Rechnungen im Zuge der Andres-Affäre zu begleichen " , meint Pagel zu der Erklärung .
 1	"	*	*	*	*
 2	Offensichtlich	*	*	*	*
 3	der	*	*	*	*
@@ -1786,10 +1840,11 @@
 21	Erklärung	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T900407.79
-# text = Besitzer Alfred Löffler bittet die westdeutschen Gäste auf einer Papptafel freundlich , doch wegen der hohen eigenen Kosten die Rechnung in D-Mark zu begleichen .
+# tuepp_article_id = T900407.79
+# sent_id = 5239
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Besitzer Alfred Löffler bittet die westdeutschen Gäste auf einer Papptafel freundlich , doch wegen der hohen eigenen Kosten die Rechnung in D-Mark zu begleichen .
 1	Besitzer	*	*	*	*
 2	Alfred	*	*	*	*
 3	Löffler	*	*	*	*
@@ -1816,10 +1871,11 @@
 24	begleichen	1	1	1	1
 25	.	*	*	*	*
 
-# article_id = T900419.378
-# text = Die hatte sich bereit erklärt , einen Posten aus der umfangreichen Rechnung zu begleichen : 6 mal 12 Mark für die Reinemachefrau , die die Pulverspuren entfernte .
+# tuepp_article_id = T900419.378
+# sent_id = 5240
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die hatte sich bereit erklärt , einen Posten aus der umfangreichen Rechnung zu begleichen : 6 mal 12 Mark für die Reinemachefrau , die die Pulverspuren entfernte .
 1	Die	*	*	*	*
 2	hatte	*	*	*	*
 3	sich	*	*	*	*
@@ -1849,10 +1905,11 @@
 27	entfernte	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T901221.103
-# text = Daraufhin quartierten die irakischen Behörden die Leute in einem Fünfsternehotel ein und forderten von der britischen Regierung , die Rechnung dafür zu begleichen , sonst würde man die " guests " in die Kategorie " special guests " herabstufen .
+# tuepp_article_id = T901221.103
+# sent_id = 5241
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Daraufhin quartierten die irakischen Behörden die Leute in einem Fünfsternehotel ein und forderten von der britischen Regierung , die Rechnung dafür zu begleichen , sonst würde man die " guests " in die Kategorie " special guests " herabstufen .
 1	Daraufhin	*	*	*	*
 2	quartierten	*	*	*	*
 3	die	*	*	*	*
@@ -1894,10 +1951,11 @@
 39	herabstufen	*	*	*	*
 40	.	*	*	*	*
 
-# article_id = T901221.118
-# text = Dann nämlich muß die Rechnung trotz der hohen Preise von der Ost-AOK beglichen werden .
+# tuepp_article_id = T901221.118
+# sent_id = 5242
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dann nämlich muß die Rechnung trotz der hohen Preise von der Ost-AOK beglichen werden .
 1	Dann	*	*	*	*
 2	nämlich	*	*	*	*
 3	muß	*	*	*	*
@@ -1914,10 +1972,11 @@
 14	werden	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T900809.20
-# text = Schlecht ist es aber um die Unternehmen bestellt , die in Bagdad eine Rechnung offen haben - derzeit hat die Hussein - Regierung keinerlei Anlaß , die ausstehenden Beträge zu begleichen .
+# tuepp_article_id = T900809.20
+# sent_id = 5243
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Schlecht ist es aber um die Unternehmen bestellt , die in Bagdad eine Rechnung offen haben - derzeit hat die Hussein - Regierung keinerlei Anlaß , die ausstehenden Beträge zu begleichen .
 1	Schlecht	*	*	*	*
 2	ist	*	*	*	*
 3	es	*	*	*	*
@@ -1951,10 +2010,11 @@
 31	begleichen	1	1	1	1
 32	.	*	*	*	*
 
-# article_id = T900811.145
-# text = Etwa 100.000 Handelsbeschäftigte hatten im Juli republikweit dagegen protestiert , daß alte politische Rechnungen mit neuen ökonomischen Methoden auf dem Rücken des Handels beglichen werden .
+# tuepp_article_id = T900811.145
+# sent_id = 5244
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Etwa 100.000 Handelsbeschäftigte hatten im Juli republikweit dagegen protestiert , daß alte politische Rechnungen mit neuen ökonomischen Methoden auf dem Rücken des Handels beglichen werden .
 1	Etwa	*	*	*	*
 2	100.000	*	*	*	*
 3	Handelsbeschäftigte	*	*	*	*
@@ -1982,10 +2042,11 @@
 25	werden	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T900818.111
-# text = Polizei und Militär nutzten die Gelegenheit dazu , persönliche Rechnungen zu begleichen , es gab zahlreiche sogenannte " Verschwundene " .
+# tuepp_article_id = T900818.111
+# sent_id = 5245
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Polizei und Militär nutzten die Gelegenheit dazu , persönliche Rechnungen zu begleichen , es gab zahlreiche sogenannte " Verschwundene " .
 1	Polizei	*	*	*	*
 2	und	*	*	*	*
 3	Militär	*	*	*	*
@@ -2008,10 +2069,11 @@
 20	"	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T900815.153
-# text = Versuchen Sie doch mal , in einem Provinznest offene Rechnungen mit einem Basquiat zu begleichen .
+# tuepp_article_id = T900815.153
+# sent_id = 5246
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Versuchen Sie doch mal , in einem Provinznest offene Rechnungen mit einem Basquiat zu begleichen .
 1	Versuchen	*	*	*	*
 2	Sie	*	*	*	*
 3	doch	*	*	*	*
@@ -2029,10 +2091,11 @@
 15	begleichen	1	2	2	2
 16	.	*	*	*	*
 
-# article_id = T900823.287
-# text = Vorübergehend übernahm es daher die Werft , die zu den großen Bremer Rüstungsbetrieben zählt , die Rechnungen des beliefernden Schiffshändlers zu begleichen .
+# tuepp_article_id = T900823.287
+# sent_id = 5247
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vorübergehend übernahm es daher die Werft , die zu den großen Bremer Rüstungsbetrieben zählt , die Rechnungen des beliefernden Schiffshändlers zu begleichen .
 1	Vorübergehend	*	*	*	*
 2	übernahm	*	*	*	*
 3	es	*	*	*	*
@@ -2057,10 +2120,11 @@
 22	begleichen	1	1	1	1
 23	.	*	*	*	*
 
-# article_id = T900219.252
-# text = Republikaner-Chef Franz Schönhuber schwebte bereits wieder Richtung München , als am Samstag abend im Oelper Waldgasthaus bei seinen niedersächsischen Parteifreunden die Fäuste flogen : Einige Rechtsradikale hatten nutzten die Abwesenheit des Chefs , um bei der Landesversammlung offene Rechnungen miteinander zu begleichen .
+# tuepp_article_id = T900219.252
+# sent_id = 5249
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Republikaner-Chef Franz Schönhuber schwebte bereits wieder Richtung München , als am Samstag abend im Oelper Waldgasthaus bei seinen niedersächsischen Parteifreunden die Fäuste flogen : Einige Rechtsradikale hatten nutzten die Abwesenheit des Chefs , um bei der Landesversammlung offene Rechnungen miteinander zu begleichen .
 1	Republikaner-Chef	*	*	*	*
 2	Franz	*	*	*	*
 3	Schönhuber	*	*	*	*
@@ -2105,10 +2169,11 @@
 42	begleichen	2	2	2	2
 43	.	*	*	*	*
 
-# article_id = T900216.121
-# text = Das Unternehmen hat die Rechnung der finanzpolitischen Perversitäten der Reagan-Ära nicht begleichen können .
+# tuepp_article_id = T900216.121
+# sent_id = 5250
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das Unternehmen hat die Rechnung der finanzpolitischen Perversitäten der Reagan-Ära nicht begleichen können .
 1	Das	*	*	*	*
 2	Unternehmen	*	*	*	*
 3	hat	*	*	*	*
@@ -2124,10 +2189,11 @@
 13	können	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T900221.191
-# text = Zur Entschärfung des Sondermüllnotstandes haben Wagner , Mitzscherling und die BSR mit ihrem hinhaltenden Widerstand folglich nichts beigetragen - aber dafür ist es ihnen gelungen , einige alte Rechnungen zu begleichen und Schreyer eins auszuwischen .
+# tuepp_article_id = T900221.191
+# sent_id = 5251
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zur Entschärfung des Sondermüllnotstandes haben Wagner , Mitzscherling und die BSR mit ihrem hinhaltenden Widerstand folglich nichts beigetragen - aber dafür ist es ihnen gelungen , einige alte Rechnungen zu begleichen und Schreyer eins auszuwischen .
 1	Zur	*	*	*	*
 2	Entschärfung	*	*	*	*
 3	des	*	*	*	*
@@ -2165,10 +2231,11 @@
 35	auszuwischen	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T920507.64
-# text = Einerseits glauben bewaffnete Gruppen , daß gerade jetzt der Augenblick für Aktionen gekommen ist , währenddessen noch vor dem Ende des Krieges alte Rechnungen beglichen werden können .
+# tuepp_article_id = T920507.64
+# sent_id = 5252
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Einerseits glauben bewaffnete Gruppen , daß gerade jetzt der Augenblick für Aktionen gekommen ist , währenddessen noch vor dem Ende des Krieges alte Rechnungen beglichen werden können .
 1	Einerseits	*	*	*	*
 2	glauben	*	*	*	*
 3	bewaffnete	*	*	*	*
@@ -2198,10 +2265,11 @@
 27	können	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T920511.100
-# text = Minute die 2:1 Führung der Hanseaten mit einem geschickten Kopfstoß gegen die Laufrichtung von Torwart Ulli Stein erzielte , hatte es den Anschein , als würde hier eine alte Rechnung beglichen werden .
+# tuepp_article_id = T920511.100
+# sent_id = 5253
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Minute die 2:1 Führung der Hanseaten mit einem geschickten Kopfstoß gegen die Laufrichtung von Torwart Ulli Stein erzielte , hatte es den Anschein , als würde hier eine alte Rechnung beglichen werden .
 1	Minute	*	*	*	*
 2	die	*	*	*	*
 3	2:1	*	*	*	*
@@ -2236,10 +2304,11 @@
 32	werden	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T920612.67
-# text = Kanada , die Bundesrepublik , Österreich , eine brasilianische Bank und Fernsehanstalt erklärten sich bereit , die Rechnungen zu begleichen .
+# tuepp_article_id = T920612.67
+# sent_id = 5254
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kanada , die Bundesrepublik , Österreich , eine brasilianische Bank und Fernsehanstalt erklärten sich bereit , die Rechnungen zu begleichen .
 1	Kanada	*	*	*	*
 2	,	*	*	*	*
 3	die	*	*	*	*
@@ -2262,10 +2331,11 @@
 20	begleichen	1	2	1	1
 21	.	*	*	*	*
 
-# article_id = T920604.82
-# text = Offen ist in Schweden immer noch , wie die Rechnungen für das fünftägige Trainingslager der Jugoslawen , die bereits vergangene Woche nach Schweden gekommen waren , in Leksand beglichen werden sollen .
+# tuepp_article_id = T920604.82
+# sent_id = 5255
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Offen ist in Schweden immer noch , wie die Rechnungen für das fünftägige Trainingslager der Jugoslawen , die bereits vergangene Woche nach Schweden gekommen waren , in Leksand beglichen werden sollen .
 1	Offen	*	*	*	*
 2	ist	*	*	*	*
 3	in	*	*	*	*
@@ -2299,10 +2369,11 @@
 31	sollen	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T920604.82
-# text = Die Jugoslawen wollten diese Rechnungen mit ihrem Anteil aus dem EM-Gewinn begleichen .
+# tuepp_article_id = T920604.82
+# sent_id = 5256
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Jugoslawen wollten diese Rechnungen mit ihrem Anteil aus dem EM-Gewinn begleichen .
 1	Die	*	*	*	*
 2	Jugoslawen	*	*	*	*
 3	wollten	*	*	*	*
@@ -2317,10 +2388,11 @@
 12	begleichen	1	2	1	1
 13	.	*	*	*	*
 
-# article_id = T921031.255
-# text = Die Koalition der Verlierer in der SPD hat bereits die Messer gewetzt , um dem zur Zeit führungsschwachen und kraftlosen Präsidenten des Senats , mit dem sie noch eine alte Rechnung zu begleichen haben , einen ehrenvollen Abgang zu verschaffen , bevor sie mit der CDU das Bremer Regierungsboot übernehmen .
+# tuepp_article_id = T921031.255
+# sent_id = 5257
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Koalition der Verlierer in der SPD hat bereits die Messer gewetzt , um dem zur Zeit führungsschwachen und kraftlosen Präsidenten des Senats , mit dem sie noch eine alte Rechnung zu begleichen haben , einen ehrenvollen Abgang zu verschaffen , bevor sie mit der CDU das Bremer Regierungsboot übernehmen .
 1	Die	*	*	*	*
 2	Koalition	*	*	*	*
 3	der	*	*	*	*
@@ -2373,10 +2445,11 @@
 50	übernehmen	*	*	*	*
 51	.	*	*	*	*
 
-# article_id = T920918.126
-# text = Für Rechtsanwalt Rüdiger Jung ist die Inhaftierung Croissants gleichfalls » ein klarer Ausdruck dafür « , daß die Bundesanwaltschaft » nach wie vor auf dem rechten Auge blind ist und alte Rechnungen begleicht « .
+# tuepp_article_id = T920918.126
+# sent_id = 5258
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Für Rechtsanwalt Rüdiger Jung ist die Inhaftierung Croissants gleichfalls » ein klarer Ausdruck dafür « , daß die Bundesanwaltschaft » nach wie vor auf dem rechten Auge blind ist und alte Rechnungen begleicht « .
 1	Für	*	*	*	*
 2	Rechtsanwalt	*	*	*	*
 3	Rüdiger	*	*	*	*
@@ -2413,10 +2486,11 @@
 34	«	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T920113.83
-# text = Sie setzen immer wieder die gleiche Geschichte fort , wonach Kroaten und Serben ihre alten Rechnungen begleichen .
+# tuepp_article_id = T920113.83
+# sent_id = 5259
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie setzen immer wieder die gleiche Geschichte fort , wonach Kroaten und Serben ihre alten Rechnungen begleichen .
 1	Sie	*	*	*	*
 2	setzen	*	*	*	*
 3	immer	*	*	*	*
@@ -2436,10 +2510,11 @@
 17	begleichen	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T920107.117
-# text = Bis hin zum letzten Manöverbeobachter im Pantoffelkino war die Rollenverteilung klar - keinen Augenblick bestand die Gefahr , daß einem Iraks Überfall auf Kuwait genauso am Arsch vorbeigehen könnte wie die alten Rechnungen , die man jetzt auf dem Balkan mit gegenseitigen Überfällen begleicht .
+# tuepp_article_id = T920107.117
+# sent_id = 5260
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Bis hin zum letzten Manöverbeobachter im Pantoffelkino war die Rollenverteilung klar - keinen Augenblick bestand die Gefahr , daß einem Iraks Überfall auf Kuwait genauso am Arsch vorbeigehen könnte wie die alten Rechnungen , die man jetzt auf dem Balkan mit gegenseitigen Überfällen begleicht .
 1	Bis	*	*	*	*
 2	hin	*	*	*	*
 3	zum	*	*	*	*
@@ -2486,10 +2561,11 @@
 44	begleicht	2	2	2	2
 45	.	*	*	*	*
 
-# article_id = T920127.39
-# text = Auch der Streit um die Finanzierung des Familienlastenausgleichs stellt sich aus dieser Perspektive betrachtet nicht nur als politische Auseinandersetzung um soziale Gerechtigkeit dar , sondern als knallharte Kalkulation , wer die Rechnung zu begleichen hat .
+# tuepp_article_id = T920127.39
+# sent_id = 5261
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch der Streit um die Finanzierung des Familienlastenausgleichs stellt sich aus dieser Perspektive betrachtet nicht nur als politische Auseinandersetzung um soziale Gerechtigkeit dar , sondern als knallharte Kalkulation , wer die Rechnung zu begleichen hat .
 1	Auch	*	*	*	*
 2	der	*	*	*	*
 3	Streit	*	*	*	*
@@ -2527,10 +2603,11 @@
 35	hat	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T920427.83
-# text = " Es gibt viele Leute , die alte Rechnungen zu begleichen haben " , sagt ein Journalist auf Sansibar : " Keine Seite will mit der anderen reden .
+# tuepp_article_id = T920427.83
+# sent_id = 5262
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Es gibt viele Leute , die alte Rechnungen zu begleichen haben " , sagt ein Journalist auf Sansibar : " Keine Seite will mit der anderen reden .
 1	"	*	*	*	*
 2	Es	*	*	*	*
 3	gibt	*	*	*	*
@@ -2561,10 +2638,11 @@
 28	reden	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T920403.193
-# text = Damit aber auch wirkliche Böse vorkommen , begleicht der KGB-Mann eine private Rechnung mit zwei alten Nazis und endet als ehrliche Haut tragisch - ohne Kopf .
+# tuepp_article_id = T920403.193
+# sent_id = 5263
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Damit aber auch wirkliche Böse vorkommen , begleicht der KGB-Mann eine private Rechnung mit zwei alten Nazis und endet als ehrliche Haut tragisch - ohne Kopf .
 1	Damit	*	*	*	*
 2	aber	*	*	*	*
 3	auch	*	*	*	*
@@ -2593,10 +2671,11 @@
 26	Kopf	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T920408.125
-# text = Demnach gehen in Korsika die meisten Bomben hoch , in Marseille begleicht offenbar das Gangster-Milieu gerne seine Rechnungen , und in Nordfrankreich kommt es häufig zu Vergehen gegen Familien und Kinder .
+# tuepp_article_id = T920408.125
+# sent_id = 5264
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Demnach gehen in Korsika die meisten Bomben hoch , in Marseille begleicht offenbar das Gangster-Milieu gerne seine Rechnungen , und in Nordfrankreich kommt es häufig zu Vergehen gegen Familien und Kinder .
 1	Demnach	*	*	*	*
 2	gehen	*	*	*	*
 3	in	*	*	*	*
@@ -2630,10 +2709,11 @@
 31	Kinder	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T921203.190
-# text = Zwei Menschen sterben , etliche werden obdachlos , und nebenbei werden private Rechnungen beglichen .
+# tuepp_article_id = T921203.190
+# sent_id = 5266
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zwei Menschen sterben , etliche werden obdachlos , und nebenbei werden private Rechnungen beglichen .
 1	Zwei	*	*	*	*
 2	Menschen	*	*	*	*
 3	sterben	*	*	*	*
@@ -2650,10 +2730,11 @@
 14	beglichen	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T920819.55
-# text = " Er hält einen Moment inne und fügt dann hinzu : " Aber wir können es uns nicht leisten , die alten Rechnungen zu begleichen .
+# tuepp_article_id = T920819.55
+# sent_id = 5267
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Er hält einen Moment inne und fügt dann hinzu : " Aber wir können es uns nicht leisten , die alten Rechnungen zu begleichen .
 1	"	*	*	*	*
 2	Er	*	*	*	*
 3	hält	*	*	*	*
@@ -2681,10 +2762,11 @@
 25	begleichen	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T920831.69
-# text = " Und Schäuble versucht mit seiner Forderung nach einer vorbeugenden Verschärfung des Haftrechts für " gewaltbereite " Demonstranten , die zukünftig bis zum Beweis mangelnder " Wiederholungsgefahr " eingesperrt werden können , aus Anlaß rechten Terrors alte Rechnungen mit linken Demonstranten zu begleichen .
+# tuepp_article_id = T920831.69
+# sent_id = 5268
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Und Schäuble versucht mit seiner Forderung nach einer vorbeugenden Verschärfung des Haftrechts für " gewaltbereite " Demonstranten , die zukünftig bis zum Beweis mangelnder " Wiederholungsgefahr " eingesperrt werden können , aus Anlaß rechten Terrors alte Rechnungen mit linken Demonstranten zu begleichen .
 1	"	*	*	*	*
 2	Und	*	*	*	*
 3	Schäuble	*	*	*	*
@@ -2730,10 +2812,11 @@
 43	begleichen	2	2	2	2
 44	.	*	*	*	*
 
-# article_id = T920814.52
-# text = Doch ist das Embargo für viele Libyer ein Anlaß , um alte Rechnungen mit dem Gaddafi-Regime zu begleichen .
+# tuepp_article_id = T920814.52
+# sent_id = 5269
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch ist das Embargo für viele Libyer ein Anlaß , um alte Rechnungen mit dem Gaddafi-Regime zu begleichen .
 1	Doch	*	*	*	*
 2	ist	*	*	*	*
 3	das	*	*	*	*
@@ -2754,10 +2837,11 @@
 18	begleichen	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T920827.202
-# text = Der Brief enthielt die freundliche Aufforderung , die Rechnungen umgehend zu begleichen .
-# context_judgement_1 = 1
+# tuepp_article_id = T920827.202
+# sent_id = 5270
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Der Brief enthielt die freundliche Aufforderung , die Rechnungen umgehend zu begleichen .
 1	Der	*	*	*	*
 2	Brief	*	*	*	*
 3	enthielt	*	*	*	*
@@ -2772,10 +2856,11 @@
 12	begleichen	1	1	1	1
 13	.	*	*	*	*
 
-# article_id = T920806.150
-# text = Bertoluccis schöne Panoramakamera-Ansichten belegen die uralte Teilung seiner Geburtsstadt Parma , mit der er » noch offene Rechnungen « zu begleichen glaubte , in Arm und Reich , in » diesseits und jenseits des Flusses « .
+# tuepp_article_id = T920806.150
+# sent_id = 5271
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Bertoluccis schöne Panoramakamera-Ansichten belegen die uralte Teilung seiner Geburtsstadt Parma , mit der er » noch offene Rechnungen « zu begleichen glaubte , in Arm und Reich , in » diesseits und jenseits des Flusses « .
 1	Bertoluccis	*	*	*	*
 2	schöne	*	*	*	*
 3	Panoramakamera-Ansichten	*	*	*	*
@@ -2814,10 +2899,11 @@
 36	«	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T920822.146
-# text = Im großen und ganzen aber dominiert die deutsche Lesart : Auf dem Balkan geht es nicht um die mörderische Auseinandersetzung von Nationalismen , die alte Rechnungen miteinander begleichen ; auf dem Balkan findet der Befreiungskampf unterdrückter ( und im Fall von Slowenen und Kroaten zu unserem Kulturkreis gehörender ) Völker gegen den großserbischen ( slawischen ) Chauvinismus statt .
+# tuepp_article_id = T920822.146
+# sent_id = 5272
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im großen und ganzen aber dominiert die deutsche Lesart : Auf dem Balkan geht es nicht um die mörderische Auseinandersetzung von Nationalismen , die alte Rechnungen miteinander begleichen ; auf dem Balkan findet der Befreiungskampf unterdrückter ( und im Fall von Slowenen und Kroaten zu unserem Kulturkreis gehörender ) Völker gegen den großserbischen ( slawischen ) Chauvinismus statt .
 1	Im	*	*	*	*
 2	großen	*	*	*	*
 3	und	*	*	*	*
@@ -2878,10 +2964,11 @@
 58	statt	*	*	*	*
 59	.	*	*	*	*
 
-# article_id = T920314.219
-# text = Ob damit die Rechnung beglichen ist , hat der Arbeitslose für sich noch nicht entschieden .
-# context_judgement_1 = 1
+# tuepp_article_id = T920314.219
+# sent_id = 5273
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Ob damit die Rechnung beglichen ist , hat der Arbeitslose für sich noch nicht entschieden .
 1	Ob	*	*	*	*
 2	damit	*	*	*	*
 3	die	*	*	*	*
@@ -2899,10 +2986,11 @@
 15	entschieden	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T920305.16
-# text = Der ehemalige Staatschef habe in seinem Land offene Rechnungen zu begleichen und solle sich dieser Situation selbst stellen , sagte Valdes .
+# tuepp_article_id = T920305.16
+# sent_id = 5274
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der ehemalige Staatschef habe in seinem Land offene Rechnungen zu begleichen und solle sich dieser Situation selbst stellen , sagte Valdes .
 1	Der	*	*	*	*
 2	ehemalige	*	*	*	*
 3	Staatschef	*	*	*	*
@@ -2926,10 +3014,11 @@
 21	Valdes	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T920306.227
-# text = Die DVU-Fraktion in der Bremischen Bürgerschaft ist allerdings durchaus in der Lage auch größere Rechnungen zu begleichen .
-# context_judgement_1 = 1
+# tuepp_article_id = T920306.227
+# sent_id = 5275
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Die DVU-Fraktion in der Bremischen Bürgerschaft ist allerdings durchaus in der Lage auch größere Rechnungen zu begleichen .
 1	Die	*	*	*	*
 2	DVU-Fraktion	*	*	*	*
 3	in	*	*	*	*
@@ -2949,10 +3038,11 @@
 17	begleichen	1	2	1	1
 18	.	*	*	*	*
 
-# article_id = T920214.25
-# text = " Es geht nicht an , daß Mertes über den Bildschirm private Rechnungen mit Wallraff begleicht " , sagte er der taz .
-# context_judgement_1 = 1
+# tuepp_article_id = T920214.25
+# sent_id = 5276
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = " Es geht nicht an , daß Mertes über den Bildschirm private Rechnungen mit Wallraff begleicht " , sagte er der taz .
 1	"	*	*	*	*
 2	Es	*	*	*	*
 3	geht	*	*	*	*
@@ -2977,10 +3067,11 @@
 22	taz	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T920211.139
-# text = Die Gefängnisse verfügten über so wenig Mittel , daß sie kaum die Nahrung für die Insassen bezahlen könnten , die Rechnungen für Heizung , Strom und Telefon nicht beglichen würden .
+# tuepp_article_id = T920211.139
+# sent_id = 5277
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Gefängnisse verfügten über so wenig Mittel , daß sie kaum die Nahrung für die Insassen bezahlen könnten , die Rechnungen für Heizung , Strom und Telefon nicht beglichen würden .
 1	Die	*	*	*	*
 2	Gefängnisse	*	*	*	*
 3	verfügten	*	*	*	*
@@ -3013,10 +3104,11 @@
 30	würden	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T880516.21
-# text = In Afghanistan selbst könnten die offenen Rechnungen schon sehr schnell beglichen werden .
-# context_judgement_1 = 1
+# tuepp_article_id = T880516.21
+# sent_id = 5278
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = In Afghanistan selbst könnten die offenen Rechnungen schon sehr schnell beglichen werden .
 1	In	*	*	*	*
 2	Afghanistan	*	*	*	*
 3	selbst	*	*	*	*
@@ -3031,10 +3123,11 @@
 12	werden	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T880516.71
-# text = " Pakistan hat mit Indien noch eine alte Rechnung aus den Zeiten der Separation zu begleichen .
+# tuepp_article_id = T880516.71
+# sent_id = 5279
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Pakistan hat mit Indien noch eine alte Rechnung aus den Zeiten der Separation zu begleichen .
 1	"	*	*	*	*
 2	Pakistan	*	*	*	*
 3	hat	*	*	*	*
@@ -3053,10 +3146,11 @@
 16	begleichen	2	2	2	2
 17	.	*	*	*	*
 
-# article_id = T880905.131
-# text = Besondere Bremer Note : Der Cousin und die Ehefrau des Herrn Galla nutzten diese umwegigen Firmenbeziehungen , um sich recht abstruse Rechnungen , wenn nicht gar Scheinrechnungen begleichen zu lassen .
-# context_judgement_1 = 1
+# tuepp_article_id = T880905.131
+# sent_id = 5280
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Besondere Bremer Note : Der Cousin und die Ehefrau des Herrn Galla nutzten diese umwegigen Firmenbeziehungen , um sich recht abstruse Rechnungen , wenn nicht gar Scheinrechnungen begleichen zu lassen .
 1	Besondere	*	*	*	*
 2	Bremer	*	*	*	*
 3	Note	*	*	*	*
@@ -3089,10 +3183,11 @@
 30	lassen	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T880922.44
-# text = Ab sofort wird die Universitätsverwaltung Passau die fällige Rechnung für das vom Sprecherrat der Hochschule bestellte taz-Abonnement begleichen müssen .
+# tuepp_article_id = T880922.44
+# sent_id = 5281
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ab sofort wird die Universitätsverwaltung Passau die fällige Rechnung für das vom Sprecherrat der Hochschule bestellte taz-Abonnement begleichen müssen .
 1	Ab	*	*	*	*
 2	sofort	*	*	*	*
 3	wird	*	*	*	*
@@ -3114,10 +3209,11 @@
 19	müssen	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T881223.148
-# text = Sie nutzte den technischen Zugriff auf die Zeitung , um in dem Artikel " Auffälliger Trend zu harten Drogen " ( Lokal-Teil S. 18 ) , eine private Rechnung mit der Autorin Eva Schweitzer zu begleichen , die in einem Zitty - Artikel in spitzer Form Conny Kolb und die taz aufs Korn genommen hatte .
+# tuepp_article_id = T881223.148
+# sent_id = 5282
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie nutzte den technischen Zugriff auf die Zeitung , um in dem Artikel " Auffälliger Trend zu harten Drogen " ( Lokal-Teil S. 18 ) , eine private Rechnung mit der Autorin Eva Schweitzer zu begleichen , die in einem Zitty - Artikel in spitzer Form Conny Kolb und die taz aufs Korn genommen hatte .
 1	Sie	*	*	*	*
 2	nutzte	*	*	*	*
 3	den	*	*	*	*
@@ -3175,10 +3271,11 @@
 55	hatte	*	*	*	*
 56	.	*	*	*	*
 
-# article_id = T880809.75
+# tuepp_article_id = T880809.75
+# sent_id = 5283
+# context_judgement_1 = 0
+# context_judgement_2 = 0
 # text = Saddam ergriff die Gelegenheit , alte und neue Rechnungen zu begleichen , unliebsame Weggefährten auszuschalten .
-# context_judgement_1 = 0
-# context_judgement_2 = 0
 1	Saddam	*	*	*	*
 2	ergriff	*	*	*	*
 3	die	*	*	*	*
@@ -3196,10 +3293,11 @@
 15	auszuschalten	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T880309.35
+# tuepp_article_id = T880309.35
+# sent_id = 5284
+# context_judgement_1 = 0
+# context_judgement_2 = 0
 # text = Während ein Sprecher der Firma Detia sofort Schuldzuweisungen in Richtung der Umweltschützer äußerte , erklärte die Kripo , ein Zusammenhang mit der Auseinandersetzung bei Detia liege zwar sehr nahe , man ermittle aber in alle Richtungen , da nicht auszuschließen sei , daß " Trittbrettfahrer " die Gelegenheit " zum Begleichen alter Rechnungen " ausgenutzt hätten .
-# context_judgement_1 = 0
-# context_judgement_2 = 0
 1	Saddam	*	*	*	*
 2	ergriff	*	*	*	*
 3	die	*	*	*	*
@@ -3217,10 +3315,11 @@
 15	auszuschalten	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T881119.88
-# text = Die freundliche Bankangestellte schaltet sich damit in den weltumspannenden Datenverbund der Kreditkarten-Organisation ein , und binnen weniger Sekunden ist geklärt , ob unser Entwicklungshelfer für die 1.000 Dollar daheim " Bonität " genießt , damit er bargeldlos die Rechnung für das Hotel begleichen kann .
+# tuepp_article_id = T881119.88
+# sent_id = 5285
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die freundliche Bankangestellte schaltet sich damit in den weltumspannenden Datenverbund der Kreditkarten-Organisation ein , und binnen weniger Sekunden ist geklärt , ob unser Entwicklungshelfer für die 1.000 Dollar daheim " Bonität " genießt , damit er bargeldlos die Rechnung für das Hotel begleichen kann .
 1	Die	*	*	*	*
 2	freundliche	*	*	*	*
 3	Bankangestellte	*	*	*	*
@@ -3267,10 +3366,11 @@
 44	kann	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T880217.42
-# text = Israels Botschafter in Zypern erklärte dazu , es sei nicht das erst Mal , daß man Israel beschuldige , wenn die eigenen Rechnungen beglichen werden .
+# tuepp_article_id = T880217.42
+# sent_id = 5286
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Israels Botschafter in Zypern erklärte dazu , es sei nicht das erst Mal , daß man Israel beschuldige , wenn die eigenen Rechnungen beglichen werden .
 1	Israels	*	*	*	*
 2	Botschafter	*	*	*	*
 3	in	*	*	*	*
@@ -3298,10 +3398,11 @@
 25	werden	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T870615.22
-# text = An dieser Stelle macht Brandt auch die Berufung der Griechin Margarita Mathiopoulos zur Pressesprecherin zum Thema , die bei den Genossinnen Neid hervorspülte und von Genossen des rechten Flügels zum Anlaß genommen wurde , alte Rechnungen zu begleichen .
+# tuepp_article_id = T870615.22
+# sent_id = 5287
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = An dieser Stelle macht Brandt auch die Berufung der Griechin Margarita Mathiopoulos zur Pressesprecherin zum Thema , die bei den Genossinnen Neid hervorspülte und von Genossen des rechten Flügels zum Anlaß genommen wurde , alte Rechnungen zu begleichen .
 1	An	*	*	*	*
 2	dieser	*	*	*	*
 3	Stelle	*	*	*	*
@@ -3342,10 +3443,11 @@
 38	begleichen	2	2	2	2
 39	.	*	*	*	*
 
-# article_id = T870901.43
-# text = Die beiden größten Förderländer Lateinamerikas , Mexiko und Venezuela , haben ihre Lieferungen an Nicaragua schon längst eingestellt , weil dieses offene Rechnungen nicht begleichen konnte .
+# tuepp_article_id = T870901.43
+# sent_id = 5288
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die beiden größten Förderländer Lateinamerikas , Mexiko und Venezuela , haben ihre Lieferungen an Nicaragua schon längst eingestellt , weil dieses offene Rechnungen nicht begleichen konnte .
 1	Die	*	*	*	*
 2	beiden	*	*	*	*
 3	größten	*	*	*	*
@@ -3374,10 +3476,11 @@
 26	konnte	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T870909.55
-# text = Lateinamerikanische Förderländer wie Mexiko und Venezuela liefern Nicaragua seit Jahren kein Erdöl mehr , weil dieses offene Rechnungen noch nicht beglichen hat .
+# tuepp_article_id = T870909.55
+# sent_id = 5289
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Lateinamerikanische Förderländer wie Mexiko und Venezuela liefern Nicaragua seit Jahren kein Erdöl mehr , weil dieses offene Rechnungen noch nicht beglichen hat .
 1	Lateinamerikanische	*	*	*	*
 2	Förderländer	*	*	*	*
 3	wie	*	*	*	*
@@ -3402,10 +3505,11 @@
 22	hat	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T870429.79
-# text = Bis heute ist in mehreren Fällen unklar , welcher Mord nun welcher Fraktion zuzuschreiben ist - nicht zuletzt , weil einige Fraktionäre die Fehde zum Anlaß nahmen , um auch rein private Rechnungen zu begleichen .
+# tuepp_article_id = T870429.79
+# sent_id = 5290
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Bis heute ist in mehreren Fällen unklar , welcher Mord nun welcher Fraktion zuzuschreiben ist - nicht zuletzt , weil einige Fraktionäre die Fehde zum Anlaß nahmen , um auch rein private Rechnungen zu begleichen .
 1	Bis	*	*	*	*
 2	heute	*	*	*	*
 3	ist	*	*	*	*
@@ -3443,10 +3547,11 @@
 35	begleichen	2	2	2	2
 36	.	*	*	*	*
 
-# article_id = T870421.66
-# text = Seine Gruppe wird am PNC jedoch nicht teilnehmen , denn zuvor muß die Rechnung mit Al Fatah , deren Mitglied Abu Nidal früher war , beglichen werden .
+# tuepp_article_id = T870421.66
+# sent_id = 5291
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seine Gruppe wird am PNC jedoch nicht teilnehmen , denn zuvor muß die Rechnung mit Al Fatah , deren Mitglied Abu Nidal früher war , beglichen werden .
 1	Seine	*	*	*	*
 2	Gruppe	*	*	*	*
 3	wird	*	*	*	*
@@ -3476,10 +3581,11 @@
 27	werden	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T871223.83
-# text = " Der Rebellenführer hat mit Denby und Hull noch eine Rechnung zu begleichen .
+# tuepp_article_id = T871223.83
+# sent_id = 5292
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Der Rebellenführer hat mit Denby und Hull noch eine Rechnung zu begleichen .
 1	"	*	*	*	*
 2	Der	*	*	*	*
 3	Rebellenführer	*	*	*	*
@@ -3495,10 +3601,11 @@
 13	begleichen	2	2	2	2
 14	.	*	*	*	*
 
-# article_id = T870826.74
-# text = Wer die Rechnung nicht begleichen kann , muß mindestens 24 Prozent Zinsen zahlen .
+# tuepp_article_id = T870826.74
+# sent_id = 5293
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wer die Rechnung nicht begleichen kann , muß mindestens 24 Prozent Zinsen zahlen .
 1	Wer	*	*	*	*
 2	die	*	*	*	*
 3	Rechnung	1	1	1	1
@@ -3514,10 +3621,11 @@
 13	zahlen	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T870822.83
-# text = Auf der Straße kann man mittlerweile auf einen Blick erkennen , wer eine etwas höhere Rechnung zu begleichen hat .
+# tuepp_article_id = T870822.83
+# sent_id = 5294
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auf der Straße kann man mittlerweile auf einen Blick erkennen , wer eine etwas höhere Rechnung zu begleichen hat .
 1	Auf	*	*	*	*
 2	der	*	*	*	*
 3	Straße	*	*	*	*
@@ -3539,10 +3647,11 @@
 19	hat	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T870327.27
-# text = Der groteske Verlauf der Diskussion um eine Sprecherin ist nur ein Symptom , aber doch ein wichtiges : - für Disziplinlosigkeit auch verantwortlicher und erfahrener Mitglieder unserer Partei ; - für Rücksichtslosigkeit gegenüber denen , die in Wahlkämpfen stehen ; - für das Zusammenspiel einzelner mit mehr oder weniger gegnerischen Organen der veröffentlichten Meinung ; - auch für den Versuch , auf verdeckte Art alte Rechnungen zu begleichen .
+# tuepp_article_id = T870327.27
+# sent_id = 5295
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der groteske Verlauf der Diskussion um eine Sprecherin ist nur ein Symptom , aber doch ein wichtiges : - für Disziplinlosigkeit auch verantwortlicher und erfahrener Mitglieder unserer Partei ; - für Rücksichtslosigkeit gegenüber denen , die in Wahlkämpfen stehen ; - für das Zusammenspiel einzelner mit mehr oder weniger gegnerischen Organen der veröffentlichten Meinung ; - auch für den Versuch , auf verdeckte Art alte Rechnungen zu begleichen .
 1	Der	*	*	*	*
 2	groteske	*	*	*	*
 3	Verlauf	*	*	*	*
@@ -3613,10 +3722,11 @@
 68	begleichen	2	2	2	2
 69	.	*	*	*	*
 
-# article_id = T861128.73
-# text = König Fahd wollte nach diesen Meldungen eine Raffinerie Rabiqh am Roten Meer teilweise übernehmen , und die Rechnung überwiegend mit Erdöl begleichen .
+# tuepp_article_id = T861128.73
+# sent_id = 5296
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = König Fahd wollte nach diesen Meldungen eine Raffinerie Rabiqh am Roten Meer teilweise übernehmen , und die Rechnung überwiegend mit Erdöl begleichen .
 1	König	*	*	*	*
 2	Fahd	*	*	*	*
 3	wollte	*	*	*	*
@@ -3641,10 +3751,11 @@
 22	begleichen	1	2	1	1
 23	.	*	*	*	*
 
-# article_id = T930505.52
-# text = Paris ( taz ) - Den Selbstmord von Ex-Premierminister Pierre Beregevoy haben mehrere französische Politiker dazu benutzt , ihre Rechnungen mit den Medien zu begleichen .
+# tuepp_article_id = T930505.52
+# sent_id = 5297
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Paris ( taz ) - Den Selbstmord von Ex-Premierminister Pierre Beregevoy haben mehrere französische Politiker dazu benutzt , ihre Rechnungen mit den Medien zu begleichen .
 1	Paris	*	*	*	*
 2	(	*	*	*	*
 3	taz	*	*	*	*
@@ -3672,10 +3783,11 @@
 25	begleichen	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T930504.167
-# text = Peter Sakuth gab Kunick noch den guten Rat , doch bei der Befragung Wedemeiers Zurückhaltung zu üben , um den Eindruck zu vermeiden , er wolle alte Rechnungen mit Wedemeier begleichen - Kunick hatte , als er im Dezember 1991 von Wedemeier nicht mehr in den Senat berufen wurde , von einer " Furche " zwischen sich und dem Bürgermeister geredet .
+# tuepp_article_id = T930504.167
+# sent_id = 5298
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Peter Sakuth gab Kunick noch den guten Rat , doch bei der Befragung Wedemeiers Zurückhaltung zu üben , um den Eindruck zu vermeiden , er wolle alte Rechnungen mit Wedemeier begleichen - Kunick hatte , als er im Dezember 1991 von Wedemeier nicht mehr in den Senat berufen wurde , von einer " Furche " zwischen sich und dem Bürgermeister geredet .
 1	Peter	*	*	*	*
 2	Sakuth	*	*	*	*
 3	gab	*	*	*	*
@@ -3739,10 +3851,11 @@
 61	geredet	*	*	*	*
 62	.	*	*	*	*
 
-# article_id = T930525.59
-# text = Im Machtvakuum der Endkriegszeit wurden lange ausstehende Rechnungen mit der polnischen Bevölkerung in Wolhynien beglichen .
+# tuepp_article_id = T930525.59
+# sent_id = 5299
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Machtvakuum der Endkriegszeit wurden lange ausstehende Rechnungen mit der polnischen Bevölkerung in Wolhynien beglichen .
 1	Im	*	*	*	*
 2	Machtvakuum	*	*	*	*
 3	der	*	*	*	*
@@ -3760,10 +3873,11 @@
 15	beglichen	2	2	2	2
 16	.	*	*	*	*
 
-# article_id = T930623.43
-# text = Doch beim Warschauer High- noon werden keine alte Rechnungen beglichen , sondern neue aufgemacht .
+# tuepp_article_id = T930623.43
+# sent_id = 5300
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch beim Warschauer High- noon werden keine alte Rechnungen beglichen , sondern neue aufgemacht .
 1	Doch	*	*	*	*
 2	beim	*	*	*	*
 3	Warschauer	*	*	*	*
@@ -3780,10 +3894,11 @@
 14	aufgemacht	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T930617.202
-# text = Aber was mich so wütend macht , ist , daß gleichzeitig interne Rechnungen in der SPD beglichen werden , die nach der Wahl hätten ausgetragen werden müssen .
+# tuepp_article_id = T930617.202
+# sent_id = 5301
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber was mich so wütend macht , ist , daß gleichzeitig interne Rechnungen in der SPD beglichen werden , die nach der Wahl hätten ausgetragen werden müssen .
 1	Aber	*	*	*	*
 2	was	*	*	*	*
 3	mich	*	*	*	*
@@ -3813,10 +3928,11 @@
 27	müssen	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T931028.130
-# text = Man hat den Eindruck , daß persönliche Rechnungen beglichen werden , wenn er von der Meinung eines Zeitungsherausgebers spricht oder davon , daß in der Redaktion einer Kölner Zeitung Sekt getrunken wurde .
+# tuepp_article_id = T931028.130
+# sent_id = 5302
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Man hat den Eindruck , daß persönliche Rechnungen beglichen werden , wenn er von der Meinung eines Zeitungsherausgebers spricht oder davon , daß in der Redaktion einer Kölner Zeitung Sekt getrunken wurde .
 1	Man	*	*	*	*
 2	hat	*	*	*	*
 3	den	*	*	*	*
@@ -3851,10 +3967,11 @@
 32	wurde	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T931011.89
-# text = Es gilt als sicher , daß bestimmte Kräfte die Situation ausnutzen , um alte Rechnungen zu begleichen .
+# tuepp_article_id = T931011.89
+# sent_id = 5303
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es gilt als sicher , daß bestimmte Kräfte die Situation ausnutzen , um alte Rechnungen zu begleichen .
 1	Es	*	*	*	*
 2	gilt	*	*	*	*
 3	als	*	*	*	*
@@ -3874,10 +3991,11 @@
 17	begleichen	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T931008.27
-# text = Wie die taz gestern erfuhr , werfen sie dem Bonner Gesundheitsminister vor , daß er die ganze Angelegenheit nicht überblicke und offenbar einige alte Rechnungen begleichen wolle .
+# tuepp_article_id = T931008.27
+# sent_id = 5304
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie die taz gestern erfuhr , werfen sie dem Bonner Gesundheitsminister vor , daß er die ganze Angelegenheit nicht überblicke und offenbar einige alte Rechnungen begleichen wolle .
 1	Wie	*	*	*	*
 2	die	*	*	*	*
 3	taz	*	*	*	*
@@ -3907,10 +4025,11 @@
 27	wolle	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T930917.17
-# text = " Wer die Rechnung begleicht , wenn Sydney das Rennen um die Austragung der Spiele nicht gewinnt , ist eine Frage , die Fraser im Moment nicht beantworten möchte .
+# tuepp_article_id = T930917.17
+# sent_id = 5305
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wer die Rechnung begleicht , wenn Sydney das Rennen um die Austragung der Spiele nicht gewinnt , ist eine Frage , die Fraser im Moment nicht beantworten möchte .
 1	"	*	*	*	*
 2	Wer	*	*	*	*
 3	die	*	*	*	*
@@ -3942,10 +4061,11 @@
 29	möchte	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T930902.154
-# text = " Bisher sind den Bremer Entsorgungsbetrieben und auch den privaten Sortierern in Bremen alle Rechnungen beglichen worden " , sagte Umweltsenator Ralf Fücks gestern .
+# tuepp_article_id = T930902.154
+# sent_id = 5306
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Bisher sind den Bremer Entsorgungsbetrieben und auch den privaten Sortierern in Bremen alle Rechnungen beglichen worden " , sagte Umweltsenator Ralf Fücks gestern .
 1	"	*	*	*	*
 2	Bisher	*	*	*	*
 3	sind	*	*	*	*
@@ -3972,10 +4092,11 @@
 24	gestern	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T930104.265
-# text = Bei jedem Ballwechsel war zu spüren , hier war noch eine Rechnung offen , die zu begleichen den Lübeckerinnen ein besonderes Vergnügen war .
-# context_judgement_1 = 1
+# tuepp_article_id = T930104.265
+# sent_id = 5307
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Bei jedem Ballwechsel war zu spüren , hier war noch eine Rechnung offen , die zu begleichen den Lübeckerinnen ein besonderes Vergnügen war .
 1	Bei	*	*	*	*
 2	jedem	*	*	*	*
 3	Ballwechsel	*	*	*	*
@@ -4001,10 +4122,11 @@
 23	war	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T930416.81
-# text = " Wir fordern mit allem Nachdruck " , verlangte sechs Tage nach der Eroberung die katholische Erzdiözese in einem Schreiben an das Unita-Oberkommando , " daß es keine Menschenjagd gibt , keine schwarzen Listen aufgestellt werden , keine Rechnungen auf eigene Faust beglichen werden .
+# tuepp_article_id = T930416.81
+# sent_id = 5308
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wir fordern mit allem Nachdruck " , verlangte sechs Tage nach der Eroberung die katholische Erzdiözese in einem Schreiben an das Unita-Oberkommando , " daß es keine Menschenjagd gibt , keine schwarzen Listen aufgestellt werden , keine Rechnungen auf eigene Faust beglichen werden .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	fordern	*	*	*	*
@@ -4051,10 +4173,11 @@
 44	werden	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T930722.76
-# text = Sie müssen die Mittel zum Waffenkauf aufbringen oder einen Kriegspatron finden , der die Rechnung unauffällig begleicht .
-# context_judgement_1 = 1
+# tuepp_article_id = T930722.76
+# sent_id = 5309
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Sie müssen die Mittel zum Waffenkauf aufbringen oder einen Kriegspatron finden , der die Rechnung unauffällig begleicht .
 1	Sie	*	*	*	*
 2	müssen	*	*	*	*
 3	die	*	*	*	*
@@ -4074,10 +4197,11 @@
 17	begleicht	1	2	2	2
 18	.	*	*	*	*
 
-# article_id = T930719.93
-# text = Man weicht aus den Beschränkungen der Gegenwart in die Zukunft aus und begleicht die Rechnungen , die heute offen sind , mit der Lebenskraft der Generationen , über die doch niemand ein Verfügungsrecht hat .
+# tuepp_article_id = T930719.93
+# sent_id = 5310
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Man weicht aus den Beschränkungen der Gegenwart in die Zukunft aus und begleicht die Rechnungen , die heute offen sind , mit der Lebenskraft der Generationen , über die doch niemand ein Verfügungsrecht hat .
 1	Man	*	*	*	*
 2	weicht	*	*	*	*
 3	aus	*	*	*	*
@@ -4114,10 +4238,11 @@
 34	hat	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T930723.92
-# text = Es bietet auch die günstige Gelegenheit , auf Kosten des Drittstaates einige historische serbisch-kroatische Rechnungen zu begleichen .
-# context_judgement_1 = 1
+# tuepp_article_id = T930723.92
+# sent_id = 5311
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Es bietet auch die günstige Gelegenheit , auf Kosten des Drittstaates einige historische serbisch-kroatische Rechnungen zu begleichen .
 1	Es	*	*	*	*
 2	bietet	*	*	*	*
 3	auch	*	*	*	*
@@ -4137,10 +4262,11 @@
 17	begleichen	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T931214.72
-# text = Oft waren es Fatah-Falken , Mitglieder des bewaffneten Arms der Fatah , denen vorgeworfen wurde , unter dem Deckmantel der Vergeltung für Kollaboration persönliche Rechnungen zu begleichen .
+# tuepp_article_id = T931214.72
+# sent_id = 5312
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Oft waren es Fatah-Falken , Mitglieder des bewaffneten Arms der Fatah , denen vorgeworfen wurde , unter dem Deckmantel der Vergeltung für Kollaboration persönliche Rechnungen zu begleichen .
 1	Oft	*	*	*	*
 2	waren	*	*	*	*
 3	es	*	*	*	*
@@ -4170,10 +4296,11 @@
 27	begleichen	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T930802.78
-# text = Zugleich wird damit ein zunehmendes Gespür dafür deutlich , daß sowohl für Israelis wie auch Araber die ökonomische Zusammenarbeit nicht minder bedeutsam ist wie alte politische Rechnungen zu begleichen .
+# tuepp_article_id = T930802.78
+# sent_id = 5313
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zugleich wird damit ein zunehmendes Gespür dafür deutlich , daß sowohl für Israelis wie auch Araber die ökonomische Zusammenarbeit nicht minder bedeutsam ist wie alte politische Rechnungen zu begleichen .
 1	Zugleich	*	*	*	*
 2	wird	*	*	*	*
 3	damit	*	*	*	*
@@ -4205,10 +4332,11 @@
 29	begleichen	2	2	2	2
 30	.	*	*	*	*
 
-# article_id = T930819.57
-# text = Leute aus der Regierung wollen ihre Rechnungen untereinander begleichen .
+# tuepp_article_id = T930819.57
+# sent_id = 5314
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Leute aus der Regierung wollen ihre Rechnungen untereinander begleichen .
 1	Leute	*	*	*	*
 2	aus	*	*	*	*
 3	der	*	*	*	*
@@ -4220,10 +4348,11 @@
 9	begleichen	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T930825.116
-# text = Damit hatte ein russischer Handelspartner eine Rechnung in Höhe von 120 Mio. Yen ( fast zwei Mio. Mark ) für die Lieferung von " shochu " , einer Art japanischen Wodkas , beglichen .
+# tuepp_article_id = T930825.116
+# sent_id = 5315
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Damit hatte ein russischer Handelspartner eine Rechnung in Höhe von 120 Mio. Yen ( fast zwei Mio. Mark ) für die Lieferung von " shochu " , einer Art japanischen Wodkas , beglichen .
 1	Damit	*	*	*	*
 2	hatte	*	*	*	*
 3	ein	*	*	*	*
@@ -4259,10 +4388,11 @@
 33	beglichen	1	1	1	1
 34	.	*	*	*	*
 
-# article_id = T930814.55
-# text = Andererseits kann die Bahn kaum davon ausgehen , daß die Gebietskörperschaften brav die Rechnungen begleichen , die ihnen die Bahn für die Leistungen schickt , die sie gar nicht in Auftrag gegeben haben .
+# tuepp_article_id = T930814.55
+# sent_id = 5316
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Andererseits kann die Bahn kaum davon ausgehen , daß die Gebietskörperschaften brav die Rechnungen begleichen , die ihnen die Bahn für die Leistungen schickt , die sie gar nicht in Auftrag gegeben haben .
 1	Andererseits	*	*	*	*
 2	kann	*	*	*	*
 3	die	*	*	*	*
@@ -4298,10 +4428,11 @@
 33	haben	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T930823.98
-# text = Ihr Sohn hatte in der Nacht zum vergangenen Freitag für knapp 100 Mark Getränke konsumiert , war aber nicht in der Lage , die Rechnung zu begleichen .
+# tuepp_article_id = T930823.98
+# sent_id = 5317
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ihr Sohn hatte in der Nacht zum vergangenen Freitag für knapp 100 Mark Getränke konsumiert , war aber nicht in der Lage , die Rechnung zu begleichen .
 1	Ihr	*	*	*	*
 2	Sohn	*	*	*	*
 3	hatte	*	*	*	*
@@ -4331,10 +4462,11 @@
 27	begleichen	1	1	1	1
 28	.	*	*	*	*
 
-# article_id = T930323.41
-# text = Weder hatte er alte Rechnungen zu begleichen , noch gab es einen ersichtlichen Grund , auf die DDR zornig zu sein .
+# tuepp_article_id = T930323.41
+# sent_id = 5318
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Weder hatte er alte Rechnungen zu begleichen , noch gab es einen ersichtlichen Grund , auf die DDR zornig zu sein .
 1	Weder	*	*	*	*
 2	hatte	*	*	*	*
 3	er	*	*	*	*
@@ -4358,10 +4490,11 @@
 21	sein	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T930308.29
-# text = Grund : Die vom Bundestag bisher entsperrten 120 Millionen Mark reichen nicht einmal aus , um zwei Rechnungen in Höhe von insgesamt 180 Millionen zu begleichen , die - weil schon damals das Geld nicht reichte - noch aus 1992 offen sind .
+# tuepp_article_id = T930308.29
+# sent_id = 5319
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Grund : Die vom Bundestag bisher entsperrten 120 Millionen Mark reichen nicht einmal aus , um zwei Rechnungen in Höhe von insgesamt 180 Millionen zu begleichen , die - weil schon damals das Geld nicht reichte - noch aus 1992 offen sind .
 1	Grund	*	*	*	*
 2	:	*	*	*	*
 3	Die	*	*	*	*
@@ -4406,10 +4539,11 @@
 42	sind	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T930318.128
-# text = Welche Rechnung soll da mit der Politologie beglichen werden ?
+# tuepp_article_id = T930318.128
+# sent_id = 5320
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Welche Rechnung soll da mit der Politologie beglichen werden ?
 1	Welche	*	*	*	*
 2	Rechnung	2	2	2	2
 3	soll	*	*	*	*
@@ -4421,10 +4555,11 @@
 9	werden	*	*	*	*
 10	?	*	*	*	*
 
-# article_id = T930312.14
-# text = Der Ausschuß bewilligte einstweilen lediglich 150 Millionen Mark , die es dem Ministerium ermöglichen sollen , zwei aus 1992 ausstehende Rechnungen zu begleichen .
+# tuepp_article_id = T930312.14
+# sent_id = 5321
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Ausschuß bewilligte einstweilen lediglich 150 Millionen Mark , die es dem Ministerium ermöglichen sollen , zwei aus 1992 ausstehende Rechnungen zu begleichen .
 1	Der	*	*	*	*
 2	Ausschuß	*	*	*	*
 3	bewilligte	*	*	*	*
@@ -4450,10 +4585,11 @@
 23	begleichen	1	1	1	1
 24	.	*	*	*	*
 
-# article_id = T931126.71
-# text = Solche Rechnungen jetzt zu begleichen hätte für den Friedensprozeß tödliche Folgen .
+# tuepp_article_id = T931126.71
+# sent_id = 5322
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Solche Rechnungen jetzt zu begleichen hätte für den Friedensprozeß tödliche Folgen .
 1	Solche	*	*	*	*
 2	Rechnungen	2	2	2	2
 3	jetzt	*	*	*	*
@@ -4467,10 +4603,11 @@
 11	Folgen	*	*	*	*
 12	.	*	*	*	*
 
-# article_id = T931105.84
-# text = Wenn jetzt von den Medien dieser kriminelle Skandal dazu benutzt wird , alte Rechnungen mit Seehofers Vor-Vorgängern Süssmuth und Geißler zu begleichen , wird wieder mal das Pferd vom falschen Ende aufgezäumt .
+# tuepp_article_id = T931105.84
+# sent_id = 5323
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn jetzt von den Medien dieser kriminelle Skandal dazu benutzt wird , alte Rechnungen mit Seehofers Vor-Vorgängern Süssmuth und Geißler zu begleichen , wird wieder mal das Pferd vom falschen Ende aufgezäumt .
 1	Wenn	*	*	*	*
 2	jetzt	*	*	*	*
 3	von	*	*	*	*
@@ -4505,10 +4642,11 @@
 32	aufgezäumt	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T930211.16
-# text = Croissant versuchte weit ausholend nachzuweisen , daß seine MfS- Kontakte nur als Vorwand benutzt würden , um " alte Rechnungen " - gemeint ist seine scharfe Kritik an Bundesanwaltschaft und Bundesgerichtshof wegen der Haftbedingungen der RAF-Gefangenen - zu begleichen .
+# tuepp_article_id = T930211.16
+# sent_id = 5324
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Croissant versuchte weit ausholend nachzuweisen , daß seine MfS- Kontakte nur als Vorwand benutzt würden , um " alte Rechnungen " - gemeint ist seine scharfe Kritik an Bundesanwaltschaft und Bundesgerichtshof wegen der Haftbedingungen der RAF-Gefangenen - zu begleichen .
 1	Croissant	*	*	*	*
 2	versuchte	*	*	*	*
 3	weit	*	*	*	*
@@ -4550,10 +4688,11 @@
 39	begleichen	2	2	2	2
 40	.	*	*	*	*
 
-# article_id = T930211.106
-# text = Aljona , die Herrscherin im Luna Park , hat mit Naum Kheifitz eine alte Rechnung zu begleichen , weil der eitle Musiker sie einmal bei einem Vorstellungsgespräch hat abblitzen lassen .
+# tuepp_article_id = T930211.106
+# sent_id = 5325
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aljona , die Herrscherin im Luna Park , hat mit Naum Kheifitz eine alte Rechnung zu begleichen , weil der eitle Musiker sie einmal bei einem Vorstellungsgespräch hat abblitzen lassen .
 1	Aljona	*	*	*	*
 2	,	*	*	*	*
 3	die	*	*	*	*
@@ -4586,10 +4725,11 @@
 30	lassen	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T930204.97
-# text = Jetzt müssen wir eben die Rechnung begleichen - aber was soll's !
+# tuepp_article_id = T930204.97
+# sent_id = 5326
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jetzt müssen wir eben die Rechnung begleichen - aber was soll's !
 1	Jetzt	*	*	*	*
 2	müssen	*	*	*	*
 3	wir	*	*	*	*
@@ -4604,10 +4744,11 @@
 12	's	*	*	*	*
 13	!	*	*	*	*
 
-# article_id = T960522.23
-# text = Seit gestern verhandelt das Gericht die Klage des Möbelhändlers , dessen Rechnung nie beglichen wurde .
+# tuepp_article_id = T960522.23
+# sent_id = 5327
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seit gestern verhandelt das Gericht die Klage des Möbelhändlers , dessen Rechnung nie beglichen wurde .
 1	Seit	*	*	*	*
 2	gestern	*	*	*	*
 3	verhandelt	*	*	*	*
@@ -4625,10 +4766,11 @@
 15	wurde	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T960528.5
-# text = Und der neue Chef Jandarbijew , der anders als sein Vorgänger keine persönlichen Rechnungen zu begleichen hat , beweist einen kühlen Kopf .
+# tuepp_article_id = T960528.5
+# sent_id = 5328
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und der neue Chef Jandarbijew , der anders als sein Vorgänger keine persönlichen Rechnungen zu begleichen hat , beweist einen kühlen Kopf .
 1	Und	*	*	*	*
 2	der	*	*	*	*
 3	neue	*	*	*	*
@@ -4653,10 +4795,11 @@
 22	Kopf	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T960502.115
-# text = Sie haben mit der serbischen wie der kroatischen Seite noch Rechnungen zu begleichen .
+# tuepp_article_id = T960502.115
+# sent_id = 5329
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie haben mit der serbischen wie der kroatischen Seite noch Rechnungen zu begleichen .
 1	Sie	*	*	*	*
 2	haben	*	*	*	*
 3	mit	*	*	*	*
@@ -4672,10 +4815,11 @@
 13	begleichen	2	2	2	2
 14	.	*	*	*	*
 
-# article_id = T961028.149
-# text = Aber ich wollte ja auch , denn es war ein schönes Gefühl , von den Gästen geschätzt zu werden für eine gute Küche und eine kultivierte Atmosphäre , auch wenn sie nicht immer ihre Rechnungen beglichen .
+# tuepp_article_id = T961028.149
+# sent_id = 5330
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber ich wollte ja auch , denn es war ein schönes Gefühl , von den Gästen geschätzt zu werden für eine gute Küche und eine kultivierte Atmosphäre , auch wenn sie nicht immer ihre Rechnungen beglichen .
 1	Aber	*	*	*	*
 2	ich	*	*	*	*
 3	wollte	*	*	*	*
@@ -4714,10 +4858,11 @@
 36	beglichen	1	2	1	1
 37	.	*	*	*	*
 
-# article_id = T961026.295
-# text = Jedem Exemplar legt man vorsorglich eine Rechnung bei , die aber nur von rund 10 Prozent der Kundschaft beglichen wird .
+# tuepp_article_id = T961026.295
+# sent_id = 5331
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jedem Exemplar legt man vorsorglich eine Rechnung bei , die aber nur von rund 10 Prozent der Kundschaft beglichen wird .
 1	Jedem	*	*	*	*
 2	Exemplar	*	*	*	*
 3	legt	*	*	*	*
@@ -4740,10 +4885,11 @@
 20	wird	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T961012.118
-# text = Und selbstverständlich auch nicht die Banker und Firmenangestellten , deren Betriebe die offene Rechnung beglichen .
-# context_judgement_1 = 0
+# tuepp_article_id = T961012.118
+# sent_id = 5332
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Und selbstverständlich auch nicht die Banker und Firmenangestellten , deren Betriebe die offene Rechnung beglichen .
 1	Und	*	*	*	*
 2	selbstverständlich	*	*	*	*
 3	auch	*	*	*	*
@@ -4761,10 +4907,11 @@
 15	beglichen	1	1	1	1
 16	.	*	*	*	*
 
-# article_id = T961017.323
-# text = Er ist dabei , seine alten Rechnungen zu begleichen und zahlt außerdem jeden Monat 500 Mark Unterhalt für seine 17jährige Tochter .
+# tuepp_article_id = T961017.323
+# sent_id = 5333
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er ist dabei , seine alten Rechnungen zu begleichen und zahlt außerdem jeden Monat 500 Mark Unterhalt für seine 17jährige Tochter .
 1	Er	*	*	*	*
 2	ist	*	*	*	*
 3	dabei	*	*	*	*
@@ -4788,10 +4935,11 @@
 21	Tochter	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T961016.132
-# text = Etwa weil man sie für Kollaborateure hielt , manchmal aber auch , weil der eine oder andere Ex-Partisan eine private Rechnung begleichen wollte .
+# tuepp_article_id = T961016.132
+# sent_id = 5334
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Etwa weil man sie für Kollaborateure hielt , manchmal aber auch , weil der eine oder andere Ex-Partisan eine private Rechnung begleichen wollte .
 1	Etwa	*	*	*	*
 2	weil	*	*	*	*
 3	man	*	*	*	*
@@ -4817,10 +4965,11 @@
 23	wollte	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T960921.72
-# text = Der Zusammenbruch des Realsozialismus erwischte den Westen im Grunde auf dem falschen Bein : Der unverhoffte Sieg ließ die Illusion aufkommen , die offenen Rechnungen der Geschichte seien nun ein für allemal beglichen .
+# tuepp_article_id = T960921.72
+# sent_id = 5335
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Zusammenbruch des Realsozialismus erwischte den Westen im Grunde auf dem falschen Bein : Der unverhoffte Sieg ließ die Illusion aufkommen , die offenen Rechnungen der Geschichte seien nun ein für allemal beglichen .
 1	Der	*	*	*	*
 2	Zusammenbruch	*	*	*	*
 3	des	*	*	*	*
@@ -4856,10 +5005,11 @@
 33	beglichen	2	2	2	2
 34	.	*	*	*	*
 
-# article_id = T960912.94
-# text = Schade nur , daß die Rechnung für diese politische Ignoranz andere begleichen müssen .
+# tuepp_article_id = T960912.94
+# sent_id = 5336
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Schade nur , daß die Rechnung für diese politische Ignoranz andere begleichen müssen .
 1	Schade	*	*	*	*
 2	nur	*	*	*	*
 3	,	*	*	*	*
@@ -4875,10 +5025,11 @@
 13	müssen	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T960905.94
-# text = " Wir müssen wieder einmal die Rechnung begleichen " , titelte die islamistische Tageszeitung Yeni Safak ( Neue Morgendämmerung ) .
+# tuepp_article_id = T960905.94
+# sent_id = 5337
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wir müssen wieder einmal die Rechnung begleichen " , titelte die islamistische Tageszeitung Yeni Safak ( Neue Morgendämmerung ) .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	müssen	*	*	*	*
@@ -4901,10 +5052,11 @@
 20	)	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T960817.66
-# text = Nach wir vor ist der Staat nicht in der Lage , allen seinen Angestellten rechtzeitig die Löhne auszuzahlen oder die Rechnungen für seine Aufträge an Unternehmen zu begleichen .
+# tuepp_article_id = T960817.66
+# sent_id = 5338
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach wir vor ist der Staat nicht in der Lage , allen seinen Angestellten rechtzeitig die Löhne auszuzahlen oder die Rechnungen für seine Aufträge an Unternehmen zu begleichen .
 1	Nach	*	*	*	*
 2	wir	*	*	*	*
 3	vor	*	*	*	*
@@ -4935,10 +5087,11 @@
 28	begleichen	1	1	1	1
 29	.	*	*	*	*
 
-# article_id = T960808.322
-# text = Mit der anderen Hälfte müßten Rechnungen vom Vorjahr beglichen werden .
+# tuepp_article_id = T960808.322
+# sent_id = 5339
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit der anderen Hälfte müßten Rechnungen vom Vorjahr beglichen werden .
 1	Mit	*	*	*	*
 2	der	*	*	*	*
 3	anderen	*	*	*	*
@@ -4951,10 +5104,11 @@
 10	werden	*	*	*	*
 11	.	*	*	*	*
 
-# article_id = T960329.302
-# text = Doch während die GenossInnen die Rechnung prompt beglichen , hat die CDU damals Einspruch eingelegt .
+# tuepp_article_id = T960329.302
+# sent_id = 5340
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch während die GenossInnen die Rechnung prompt beglichen , hat die CDU damals Einspruch eingelegt .
 1	Doch	*	*	*	*
 2	während	*	*	*	*
 3	die	*	*	*	*
@@ -4972,10 +5126,11 @@
 15	eingelegt	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T960326.203
+# tuepp_article_id = T960326.203
+# sent_id = 5341
+# context_judgement_1 = 0
+# context_judgement_2 = 0
 # text = Diepgen und sein Sprecher erhärten diesen Verdacht auch noch , weil sie bis heute nicht bereit sind , alle für Reporter beglichene Rechnungen auf den Tisch zu legen .
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	Diepgen	*	*	*	*
 2	und	*	*	*	*
 3	sein	*	*	*	*
@@ -5006,10 +5161,11 @@
 28	legen	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T960305.206
-# text = Zugleich seien sie nicht bereit , " als Prügelknabe herzuhalten für die wirklich Verantwortlichen oder für andere , die meinen , alte offene Rechnungen mit der IG Metall jetzt begleichen zu können " , sagte Teichmüller .
+# tuepp_article_id = T960305.206
+# sent_id = 5342
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zugleich seien sie nicht bereit , " als Prügelknabe herzuhalten für die wirklich Verantwortlichen oder für andere , die meinen , alte offene Rechnungen mit der IG Metall jetzt begleichen zu können " , sagte Teichmüller .
 1	Zugleich	*	*	*	*
 2	seien	*	*	*	*
 3	sie	*	*	*	*
@@ -5048,10 +5204,11 @@
 36	Teichmüller	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T980512.199
-# text = Es gibt im inzwischen von den Amerikanern hochgerüsteten Bosnien viele Menschen mit offenen Rechnungen , die nur auf eine Gelegenheit warten , diese zu begleichen .
+# tuepp_article_id = T980512.199
+# sent_id = 5343
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es gibt im inzwischen von den Amerikanern hochgerüsteten Bosnien viele Menschen mit offenen Rechnungen , die nur auf eine Gelegenheit warten , diese zu begleichen .
 1	Es	*	*	*	*
 2	gibt	*	*	*	*
 3	im	*	*	*	*
@@ -5079,10 +5236,11 @@
 25	begleichen	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T980526.125
-# text = In dieser Zeit kann man zwar schon ein Euro- Konto eröffnen , Überweisungen in Euro abwickeln und Rechnungen mit der Euro-Kreditkarte begleichen .
+# tuepp_article_id = T980526.125
+# sent_id = 5344
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In dieser Zeit kann man zwar schon ein Euro- Konto eröffnen , Überweisungen in Euro abwickeln und Rechnungen mit der Euro-Kreditkarte begleichen .
 1	In	*	*	*	*
 2	dieser	*	*	*	*
 3	Zeit	*	*	*	*
@@ -5107,10 +5265,11 @@
 22	begleichen	1	1	1	1
 23	.	*	*	*	*
 
-# article_id = T980606.52
-# text = " Der Fraktionschef hat eine Rechnung beglichen .
+# tuepp_article_id = T980606.52
+# sent_id = 5345
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Der Fraktionschef hat eine Rechnung beglichen .
 1	"	*	*	*	*
 2	Der	*	*	*	*
 3	Fraktionschef	*	*	*	*
@@ -5120,10 +5279,11 @@
 7	beglichen	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T980612.406
-# text = Andere Mitgliedstaaten zeigen wenig Sympathie für diesen großen Plan und vermuten gar , daß Paris " die Rechnung für sein , neues Modell ' der Kooperation mit Afrika von Europa begleichen lassen will " , wie es ein niederländischer Diplomat formuliert hat .
+# tuepp_article_id = T980612.406
+# sent_id = 5346
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Andere Mitgliedstaaten zeigen wenig Sympathie für diesen großen Plan und vermuten gar , daß Paris " die Rechnung für sein , neues Modell ' der Kooperation mit Afrika von Europa begleichen lassen will " , wie es ein niederländischer Diplomat formuliert hat .
 1	Andere	*	*	*	*
 2	Mitgliedstaaten	*	*	*	*
 3	zeigen	*	*	*	*
@@ -5168,10 +5328,11 @@
 42	hat	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T980622.93
-# text = Jetzt scheint die Gelegenheit günstig , persönliche Rechnungen zu begleichen .
+# tuepp_article_id = T980622.93
+# sent_id = 5347
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jetzt scheint die Gelegenheit günstig , persönliche Rechnungen zu begleichen .
 1	Jetzt	*	*	*	*
 2	scheint	*	*	*	*
 3	die	*	*	*	*
@@ -5184,10 +5345,11 @@
 10	begleichen	2	2	2	2
 11	.	*	*	*	*
 
-# article_id = T980915.249
-# text = Die - lange offengebliebene - Rechnung für den Elektriker hat er nach einem verlorenen Zivilprozeß mittlerweile zwar beglichen .
+# tuepp_article_id = T980915.249
+# sent_id = 5348
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die - lange offengebliebene - Rechnung für den Elektriker hat er nach einem verlorenen Zivilprozeß mittlerweile zwar beglichen .
 1	Die	*	*	*	*
 2	-	*	*	*	*
 3	lange	*	*	*	*
@@ -5208,10 +5370,11 @@
 18	beglichen	1	1	1	1
 19	.	*	*	*	*
 
-# article_id = T980911.470
-# text = Zugleich könnte Frankreich damit auch einige offene Rechnungen mit sich selbst begleichen .
+# tuepp_article_id = T980911.470
+# sent_id = 5349
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zugleich könnte Frankreich damit auch einige offene Rechnungen mit sich selbst begleichen .
 1	Zugleich	*	*	*	*
 2	könnte	*	*	*	*
 3	Frankreich	*	*	*	*
@@ -5226,10 +5389,11 @@
 12	begleichen	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T980105.242
-# text = Woher ich das weiß , wo wir doch als wohlerzogene Gebührenzahler unsere Rechnungen stets fristgerecht begleichen ?
+# tuepp_article_id = T980105.242
+# sent_id = 5350
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Woher ich das weiß , wo wir doch als wohlerzogene Gebührenzahler unsere Rechnungen stets fristgerecht begleichen ?
 1	Woher	*	*	*	*
 2	ich	*	*	*	*
 3	das	*	*	*	*
@@ -5248,10 +5412,11 @@
 16	begleichen	1	3	1	1
 17	?	*	*	*	*
 
-# article_id = T980124.59
-# text = Der Prozess um Klaus T. hat noch einen Hacken : hier werden alte Rechnungen beglichen .
+# tuepp_article_id = T980124.59
+# sent_id = 5351
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Prozess um Klaus T. hat noch einen Hacken : hier werden alte Rechnungen beglichen .
 1	Der	*	*	*	*
 2	Prozess	*	*	*	*
 3	um	*	*	*	*
@@ -5269,10 +5434,11 @@
 15	beglichen	2	2	2	2
 16	.	*	*	*	*
 
-# article_id = T980424.356
-# text = hat die Staatsanwaltschaft dagegen Anklage wegen Betrugs erhoben : Er soll sich in Hotels eingemietet haben , ohne die Rechnung zu begleichen .
+# tuepp_article_id = T980424.356
+# sent_id = 5352
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = hat die Staatsanwaltschaft dagegen Anklage wegen Betrugs erhoben : Er soll sich in Hotels eingemietet haben , ohne die Rechnung zu begleichen .
 1	hat	*	*	*	*
 2	die	*	*	*	*
 3	Staatsanwaltschaft	*	*	*	*
@@ -5297,10 +5463,11 @@
 22	begleichen	1	1	1	1
 23	.	*	*	*	*
 
-# article_id = T980404.76
+# tuepp_article_id = T980404.76
+# sent_id = 5353
+# context_judgement_1 = 0
+# context_judgement_2 = 0
 # text = Einige könnten den geheimen Wahlgang zum Begleichen alter Rechnungen nutzen .
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	Einige	*	*	*	*
 2	könnten	*	*	*	*
 3	den	*	*	*	*
@@ -5313,10 +5480,11 @@
 10	nutzen	*	*	*	*
 11	.	*	*	*	*
 
-# article_id = T980422.70
-# text = Bis Jahresende werden demnach weitere 600 nicht mehr in der Lage sein , ihre Rechnungen zu begleichen .
+# tuepp_article_id = T980422.70
+# sent_id = 5354
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Bis Jahresende werden demnach weitere 600 nicht mehr in der Lage sein , ihre Rechnungen zu begleichen .
 1	Bis	*	*	*	*
 2	Jahresende	*	*	*	*
 3	werden	*	*	*	*
@@ -5336,10 +5504,11 @@
 17	begleichen	1	2	1	1
 18	.	*	*	*	*
 
-# article_id = T980415.172
-# text = Er denkt nicht daran , für den Fernseher zu bezahlen oder die Rechnungen für das Handy zu begleichen .
+# tuepp_article_id = T980415.172
+# sent_id = 5355
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er denkt nicht daran , für den Fernseher zu bezahlen oder die Rechnungen für das Handy zu begleichen .
 1	Er	*	*	*	*
 2	denkt	*	*	*	*
 3	nicht	*	*	*	*
@@ -5360,10 +5529,11 @@
 18	begleichen	1	1	1	1
 19	.	*	*	*	*
 
-# article_id = T980414.197
-# text = Gemäß der Verdingungsordnung würden Rechnungen von den Behörden in der Regel spätestens zwei Monate nach Eingang beglichen .
+# tuepp_article_id = T980414.197
+# sent_id = 5356
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gemäß der Verdingungsordnung würden Rechnungen von den Behörden in der Regel spätestens zwei Monate nach Eingang beglichen .
 1	Gemäß	*	*	*	*
 2	der	*	*	*	*
 3	Verdingungsordnung	*	*	*	*
@@ -5383,10 +5553,11 @@
 17	beglichen	1	1	1	1
 18	.	*	*	*	*
 
-# article_id = T980723.101
-# text = Nach Ditkos Auskunft begleichen die Abgeordneten die Rechnung für die Behebung ihrer Rededefizite aus eigener Tasche .
+# tuepp_article_id = T980723.101
+# sent_id = 5357
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach Ditkos Auskunft begleichen die Abgeordneten die Rechnung für die Behebung ihrer Rededefizite aus eigener Tasche .
 1	Nach	*	*	*	*
 2	Ditkos	*	*	*	*
 3	Auskunft	*	*	*	*
@@ -5405,10 +5576,11 @@
 16	Tasche	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T980714.24
-# text = Die nächste Rechnung für meine Rundfunkgebühren werde ich nicht mehr begleichen .
+# tuepp_article_id = T980714.24
+# sent_id = 5358
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die nächste Rechnung für meine Rundfunkgebühren werde ich nicht mehr begleichen .
 1	Die	*	*	*	*
 2	nächste	*	*	*	*
 3	Rechnung	1	1	1	1
@@ -5422,10 +5594,11 @@
 11	begleichen	1	1	1	1
 12	.	*	*	*	*
 
-# article_id = T980827.170
-# text = Ein Patriarch kehrt zurück , ein verbitterter , betrogener Mann , auch er hat seine Rechnung zu begleichen mit diesem feinen Bruder , der doch auch ein Versager war , nicht weniger als er selbst , der gescheiterte Unternehmer .
+# tuepp_article_id = T980827.170
+# sent_id = 5359
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein Patriarch kehrt zurück , ein verbitterter , betrogener Mann , auch er hat seine Rechnung zu begleichen mit diesem feinen Bruder , der doch auch ein Versager war , nicht weniger als er selbst , der gescheiterte Unternehmer .
 1	Ein	*	*	*	*
 2	Patriarch	*	*	*	*
 3	kehrt	*	*	*	*
@@ -5467,10 +5640,11 @@
 39	Unternehmer	*	*	*	*
 40	.	*	*	*	*
 
-# article_id = T980312.1
-# text = Es herrscht Bürgerkrieg , in dessen Schatten viele Rechnungen beglichen werden .
+# tuepp_article_id = T980312.1
+# sent_id = 5360
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es herrscht Bürgerkrieg , in dessen Schatten viele Rechnungen beglichen werden .
 1	Es	*	*	*	*
 2	herrscht	*	*	*	*
 3	Bürgerkrieg	*	*	*	*
@@ -5484,10 +5658,11 @@
 11	werden	*	*	*	*
 12	.	*	*	*	*
 
-# article_id = T981103.216
+# tuepp_article_id = T981103.216
+# sent_id = 5361
+# context_judgement_1 = 0
+# context_judgement_2 = 0
 # text = " Die Höhe der am Ende des Übergangszeitraums zu begleichenden Rechnung ändere sich dadurch allerdings nicht .
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	"	*	*	*	*
 2	Die	*	*	*	*
 3	Höhe	*	*	*	*
@@ -5506,10 +5681,11 @@
 16	nicht	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T980212.236
-# text = Haß , Liebe , Demütigungen und alte Rechnungen , die stets bloß präsentiert , aber nie beglichen werden .
-# context_judgement_1 = 1
+# tuepp_article_id = T980212.236
+# sent_id = 5362
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Haß , Liebe , Demütigungen und alte Rechnungen , die stets bloß präsentiert , aber nie beglichen werden .
 1	Haß	*	*	*	*
 2	,	*	*	*	*
 3	Liebe	*	*	*	*
@@ -5530,10 +5706,11 @@
 18	werden	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T980214.378
-# text = Für Such repräsentiert Gröbe den " typischen V-Mann , der unter dem Schutz der Polizei persönliche Rechnungen begleicht und Leute seiner Wahl in die Pfanne haut " .
+# tuepp_article_id = T980214.378
+# sent_id = 5363
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Für Such repräsentiert Gröbe den " typischen V-Mann , der unter dem Schutz der Polizei persönliche Rechnungen begleicht und Leute seiner Wahl in die Pfanne haut " .
 1	Für	*	*	*	*
 2	Such	*	*	*	*
 3	repräsentiert	*	*	*	*
@@ -5563,10 +5740,11 @@
 27	"	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T970513.167
-# text = Der Flug wurde im Namen des Ministerpräsidenten geordert , hat dann etwa das Ministerpräsidentenamt die Rechnung beglichen ?
+# tuepp_article_id = T970513.167
+# sent_id = 5364
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Flug wurde im Namen des Ministerpräsidenten geordert , hat dann etwa das Ministerpräsidentenamt die Rechnung beglichen ?
 1	Der	*	*	*	*
 2	Flug	*	*	*	*
 3	wurde	*	*	*	*
@@ -5586,10 +5764,11 @@
 17	beglichen	1	2	1	1
 18	?	*	*	*	*
 
-# article_id = T970502.62
-# text = Trotz der Befürchtung , daß rund um die Wahlen alte Rechnungen und Stammeszwiste beglichen werden könnten , blieb es relativ ruhig .
+# tuepp_article_id = T970502.62
+# sent_id = 5365
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Trotz der Befürchtung , daß rund um die Wahlen alte Rechnungen und Stammeszwiste beglichen werden könnten , blieb es relativ ruhig .
 1	Trotz	*	*	*	*
 2	der	*	*	*	*
 3	Befürchtung	*	*	*	*
@@ -5613,10 +5792,11 @@
 21	ruhig	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T970517.88
-# text = Daß dieses Jahr bereits zwölf Touristen , darunter elf deutsche , für mehrere Tage von Stämmen entführt wurden , die mit der Regierung in der Hauptstadt eine Rechnung zu begleichen hatten , hat niemanden von seiner großen Reise abgehalten .
+# tuepp_article_id = T970517.88
+# sent_id = 5366
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Daß dieses Jahr bereits zwölf Touristen , darunter elf deutsche , für mehrere Tage von Stämmen entführt wurden , die mit der Regierung in der Hauptstadt eine Rechnung zu begleichen hatten , hat niemanden von seiner großen Reise abgehalten .
 1	Daß	*	*	*	*
 2	dieses	*	*	*	*
 3	Jahr	*	*	*	*
@@ -5658,10 +5838,11 @@
 39	abgehalten	*	*	*	*
 40	.	*	*	*	*
 
-# article_id = T970613.262
-# text = Dabei wurden viele alte Rechnungen beglichen .
-# context_judgement_1 = 0
+# tuepp_article_id = T970613.262
+# sent_id = 5367
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Dabei wurden viele alte Rechnungen beglichen .
 1	Dabei	*	*	*	*
 2	wurden	*	*	*	*
 3	viele	*	*	*	*
@@ -5670,10 +5851,11 @@
 6	beglichen	2	2	2	2
 7	.	*	*	*	*
 
-# article_id = T971001.179
-# text = Es gehe offenbar darum , alte Rechnungen zu begleichen , vermutete Wolf .
+# tuepp_article_id = T971001.179
+# sent_id = 5368
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es gehe offenbar darum , alte Rechnungen zu begleichen , vermutete Wolf .
 1	Es	*	*	*	*
 2	gehe	*	*	*	*
 3	offenbar	*	*	*	*
@@ -5688,10 +5870,11 @@
 12	Wolf	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T971015.95
-# text = " Sie haben jetzt zehn Tage Zeit , um Ihre Rechnungen mit dem Staat zu begleichen und Ihre Schulden zu bezahlen .
+# tuepp_article_id = T971015.95
+# sent_id = 5369
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Sie haben jetzt zehn Tage Zeit , um Ihre Rechnungen mit dem Staat zu begleichen und Ihre Schulden zu bezahlen .
 1	"	*	*	*	*
 2	Sie	*	*	*	*
 3	haben	*	*	*	*
@@ -5715,10 +5898,11 @@
 21	bezahlen	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T971018.120
-# text = Die Verwaltung hatte ihre Rechnungen nicht beglichen .
-# context_judgement_1 = 1
+# tuepp_article_id = T971018.120
+# sent_id = 5370
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Die Verwaltung hatte ihre Rechnungen nicht beglichen .
 1	Die	*	*	*	*
 2	Verwaltung	*	*	*	*
 3	hatte	*	*	*	*
@@ -5728,10 +5912,11 @@
 7	beglichen	1	2	2	2
 8	.	*	*	*	*
 
-# article_id = T970129.118
-# text = Häufig wurden auch nur private Rechnungen beglichen .
+# tuepp_article_id = T970129.118
+# sent_id = 5371
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Häufig wurden auch nur private Rechnungen beglichen .
 1	Häufig	*	*	*	*
 2	wurden	*	*	*	*
 3	auch	*	*	*	*
@@ -5741,10 +5926,11 @@
 7	beglichen	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T970128.232
-# text = Wecker soll Rechnungen in Höhe von rund 14.000 Mark für Fahnen-Embleme und Stickereien nicht beglichen haben .
+# tuepp_article_id = T970128.232
+# sent_id = 5372
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wecker soll Rechnungen in Höhe von rund 14.000 Mark für Fahnen-Embleme und Stickereien nicht beglichen haben .
 1	Wecker	*	*	*	*
 2	soll	*	*	*	*
 3	Rechnungen	1	1	1	1
@@ -5763,10 +5949,11 @@
 16	haben	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T970422.11
-# text = Ordnung schaffen und Rechnungen begleichen wolle er , hatte Netanjahu seinen Beratern anvertraut .
+# tuepp_article_id = T970422.11
+# sent_id = 5373
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ordnung schaffen und Rechnungen begleichen wolle er , hatte Netanjahu seinen Beratern anvertraut .
 1	Ordnung	*	*	*	*
 2	schaffen	*	*	*	*
 3	und	*	*	*	*
@@ -5782,10 +5969,11 @@
 13	anvertraut	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T970407.5
-# text = Mit einer Verbaloffensive gegen das " faschistische Deutschland " sollten innen- sowie außenpolitische Rechnungen beglichen werden .
+# tuepp_article_id = T970407.5
+# sent_id = 5374
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit einer Verbaloffensive gegen das " faschistische Deutschland " sollten innen- sowie außenpolitische Rechnungen beglichen werden .
 1	Mit	*	*	*	*
 2	einer	*	*	*	*
 3	Verbaloffensive	*	*	*	*
@@ -5804,10 +5992,11 @@
 16	werden	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T970428.170
-# text = Andererseits ist die verschuldete Holding nicht einmal in der Lage , ihre Rechnung bei der Stadtreinigung in voller Höhe zu begleichen .
+# tuepp_article_id = T970428.170
+# sent_id = 5375
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Andererseits ist die verschuldete Holding nicht einmal in der Lage , ihre Rechnung bei der Stadtreinigung in voller Höhe zu begleichen .
 1	Andererseits	*	*	*	*
 2	ist	*	*	*	*
 3	die	*	*	*	*
@@ -5831,10 +6020,11 @@
 21	begleichen	1	1	1	1
 22	.	*	*	*	*
 
-# article_id = T970701.150
-# text = " Wer Richter kennt " , so ein Springer-Experte , " der weiß , daß er seine Rechnungen immer begleicht - manchmal etwas später .
-# context_judgement_1 = 1
+# tuepp_article_id = T970701.150
+# sent_id = 5376
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = " Wer Richter kennt " , so ein Springer-Experte , " der weiß , daß er seine Rechnungen immer begleicht - manchmal etwas später .
 1	"	*	*	*	*
 2	Wer	*	*	*	*
 3	Richter	*	*	*	*
@@ -5861,10 +6051,11 @@
 24	später	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T970711.258
-# text = Die Bevölkerung , rund 93 Millionen Einwohner , hat die ewigen Krisen satt und nutzte die Wahlen am 6. Juli , um einige Rechnungen zu begleichen .
+# tuepp_article_id = T970711.258
+# sent_id = 5377
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Bevölkerung , rund 93 Millionen Einwohner , hat die ewigen Krisen satt und nutzte die Wahlen am 6. Juli , um einige Rechnungen zu begleichen .
 1	Die	*	*	*	*
 2	Bevölkerung	*	*	*	*
 3	,	*	*	*	*
@@ -5894,10 +6085,11 @@
 27	begleichen	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T971216.133
-# text = Mag sein , daß dabei der eine oder andere Neonazi oder gar Rekrut nur alte Rechnungen begleichen möchte und sich der Medienmaschinerie andient .
+# tuepp_article_id = T971216.133
+# sent_id = 5378
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mag sein , daß dabei der eine oder andere Neonazi oder gar Rekrut nur alte Rechnungen begleichen möchte und sich der Medienmaschinerie andient .
 1	Mag	*	*	*	*
 2	sein	*	*	*	*
 3	,	*	*	*	*
@@ -5923,10 +6115,11 @@
 23	andient	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T971216.134
-# text = Seine " Rechnung mit der Justiz " , wie er das nennt , habe er " in jeder Hinsicht " beglichen .
+# tuepp_article_id = T971216.134
+# sent_id = 5379
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seine " Rechnung mit der Justiz " , wie er das nennt , habe er " in jeder Hinsicht " beglichen .
 1	Seine	*	*	*	*
 2	"	*	*	*	*
 3	Rechnung	2	2	2	2
@@ -5950,10 +6143,11 @@
 21	beglichen	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T971209.199
-# text = Kommenden Donnerstag wird die DLZ wahrscheinlich überhaupt nicht ausgeliefert werden , da Reinhardt Becker Rechnungen der Vertriebsfirma AVZ nicht beglichen haben soll .
+# tuepp_article_id = T971209.199
+# sent_id = 5380
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kommenden Donnerstag wird die DLZ wahrscheinlich überhaupt nicht ausgeliefert werden , da Reinhardt Becker Rechnungen der Vertriebsfirma AVZ nicht beglichen haben soll .
 1	Kommenden	*	*	*	*
 2	Donnerstag	*	*	*	*
 3	wird	*	*	*	*
@@ -5978,10 +6172,11 @@
 22	soll	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T970812.202
-# text = Zudem sollen bis Ende August die offenen Rechnungen beglichen werden - sonst wird künftig nur noch gegen Vorauskasse gesendet .
+# tuepp_article_id = T970812.202
+# sent_id = 5381
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zudem sollen bis Ende August die offenen Rechnungen beglichen werden - sonst wird künftig nur noch gegen Vorauskasse gesendet .
 1	Zudem	*	*	*	*
 2	sollen	*	*	*	*
 3	bis	*	*	*	*
@@ -6003,10 +6198,11 @@
 19	gesendet	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T970314.149
-# text = Jeder , der eine Pistole hat oder eine Flinte , begleicht seine Rechnungen .
+# tuepp_article_id = T970314.149
+# sent_id = 5382
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jeder , der eine Pistole hat oder eine Flinte , begleicht seine Rechnungen .
 1	Jeder	*	*	*	*
 2	,	*	*	*	*
 3	der	*	*	*	*
@@ -6022,10 +6218,11 @@
 13	Rechnungen	2	2	2	2
 14	.	*	*	*	*
 
-# article_id = T970301.21
-# text = Wenn sie nicht sofort die Rechnung begleicht , werde der Strom am Montag abgeschaltet , warnte gestern der Energieversorger .
+# tuepp_article_id = T970301.21
+# sent_id = 5383
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn sie nicht sofort die Rechnung begleicht , werde der Strom am Montag abgeschaltet , warnte gestern der Energieversorger .
 1	Wenn	*	*	*	*
 2	sie	*	*	*	*
 3	nicht	*	*	*	*
@@ -6047,10 +6244,11 @@
 19	Energieversorger	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T970204.220
-# text = Justiz-Staatsrat Michael Göbel will deshalb " nicht ausschließen , daß hier auch alte Rechnungen beglichen werden sollen .
+# tuepp_article_id = T970204.220
+# sent_id = 5384
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Justiz-Staatsrat Michael Göbel will deshalb " nicht ausschließen , daß hier auch alte Rechnungen beglichen werden sollen .
 1	Justiz-Staatsrat	*	*	*	*
 2	Michael	*	*	*	*
 3	Göbel	*	*	*	*
@@ -6070,10 +6268,11 @@
 17	sollen	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T970206.312
-# text = Ich möchte nach reiflicher Überlegung diese Gelegenheit nutzen , um noch eine recht alte , private Rechnung zu begleichen .
+# tuepp_article_id = T970206.312
+# sent_id = 5385
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ich möchte nach reiflicher Überlegung diese Gelegenheit nutzen , um noch eine recht alte , private Rechnung zu begleichen .
 1	Ich	*	*	*	*
 2	möchte	*	*	*	*
 3	nach	*	*	*	*
@@ -6095,10 +6294,11 @@
 19	begleichen	2	2	2	2
 20	.	*	*	*	*
 
-# article_id = T940519.154
-# text = Sie habe genug Geld und begleiche viele Rechnungen aus ihrer eigenen Tasche , aber sie versprach , in Zukunft mehr auf den Penny zu achten .
+# tuepp_article_id = T940519.154
+# sent_id = 5386
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie habe genug Geld und begleiche viele Rechnungen aus ihrer eigenen Tasche , aber sie versprach , in Zukunft mehr auf den Penny zu achten .
 1	Sie	*	*	*	*
 2	habe	*	*	*	*
 3	genug	*	*	*	*
@@ -6126,10 +6326,11 @@
 25	achten	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T940517.47
-# text = Kaum zu bezweifeln , daß es einige Wahlmänner gibt , die mit Helmut Kohl offene Rechnungen zu begleichen haben , daß ostdeutsche CDUler ihm den Heitmann- Rückzug übelnehmen , daß - nach Berechnungen der Baracke - 59 Bundestagsabgeordnete der Union keine sicheren Listenplätze mehr ergattern konnten ...
+# tuepp_article_id = T940517.47
+# sent_id = 5387
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kaum zu bezweifeln , daß es einige Wahlmänner gibt , die mit Helmut Kohl offene Rechnungen zu begleichen haben , daß ostdeutsche CDUler ihm den Heitmann- Rückzug übelnehmen , daß - nach Berechnungen der Baracke - 59 Bundestagsabgeordnete der Union keine sicheren Listenplätze mehr ergattern konnten ...
 1	Kaum	*	*	*	*
 2	zu	*	*	*	*
 3	bezweifeln	*	*	*	*
@@ -6178,10 +6379,11 @@
 46	konnten	*	*	*	*
 47	...	*	*	*	*
 
-# article_id = T940627.90
-# text = Im Gaza-Streifen werden alte Rechnungen beglichen : Palästinenser , die einst angebliche Kollaborateure mit Israel umbrachten , müssen nun selbst um ihr Leben fürchten
+# tuepp_article_id = T940627.90
+# sent_id = 5388
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Gaza-Streifen werden alte Rechnungen beglichen : Palästinenser , die einst angebliche Kollaborateure mit Israel umbrachten , müssen nun selbst um ihr Leben fürchten
 1	Im	*	*	*	*
 2	Gaza-Streifen	*	*	*	*
 3	werden	*	*	*	*
@@ -6207,10 +6409,11 @@
 23	Leben	*	*	*	*
 24	fürchten	*	*	*	*
 
-# article_id = T940609.170
-# text = Dabei geht die Ermittlungsbehörde davon aus , daß die überwiegend aus Ostberlin stammenden Jugendlichen im Juli vergangenen Jahres in die Discothek " Volkshaus " nach Storkow gefahren waren , um eine " alte Rechnung " zu begleichen : Bei einem vorangegangenen Besuch an Pfingsten 93 hatte es Streit um ortsansässige Mädchen gegeben .
+# tuepp_article_id = T940609.170
+# sent_id = 5389
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dabei geht die Ermittlungsbehörde davon aus , daß die überwiegend aus Ostberlin stammenden Jugendlichen im Juli vergangenen Jahres in die Discothek " Volkshaus " nach Storkow gefahren waren , um eine " alte Rechnung " zu begleichen : Bei einem vorangegangenen Besuch an Pfingsten 93 hatte es Streit um ortsansässige Mädchen gegeben .
 1	Dabei	*	*	*	*
 2	geht	*	*	*	*
 3	die	*	*	*	*
@@ -6265,10 +6468,11 @@
 52	gegeben	*	*	*	*
 53	.	*	*	*	*
 
-# article_id = T940609.179
-# text = Die Geschichte ist klassisch : Frau Stone reitet in die Stadt , um mit Gene Hackman ( jaja , schon wieder ) eine offene Rechnung zu begleichen .
+# tuepp_article_id = T940609.179
+# sent_id = 5390
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Geschichte ist klassisch : Frau Stone reitet in die Stadt , um mit Gene Hackman ( jaja , schon wieder ) eine offene Rechnung zu begleichen .
 1	Die	*	*	*	*
 2	Geschichte	*	*	*	*
 3	ist	*	*	*	*
@@ -6298,10 +6502,11 @@
 27	begleichen	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T941027.120
-# text = " Erreicht Becker das Viertelfinale , könnte er dort möglicherweise eine Rechnung gegen Michael Stich begleichen .
+# tuepp_article_id = T941027.120
+# sent_id = 5391
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Erreicht Becker das Viertelfinale , könnte er dort möglicherweise eine Rechnung gegen Michael Stich begleichen .
 1	"	*	*	*	*
 2	Erreicht	*	*	*	*
 3	Becker	*	*	*	*
@@ -6320,10 +6525,11 @@
 16	begleichen	2	2	2	2
 17	.	*	*	*	*
 
-# article_id = T941006.115
-# text = Man trifft sich regelmäßig , teilt die Gebiete auf , begleicht Rechnungen miteinander , und wenn die eine Partei im Urlaub ist , treibt die andere die Gelder ein .
+# tuepp_article_id = T941006.115
+# sent_id = 5392
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Man trifft sich regelmäßig , teilt die Gebiete auf , begleicht Rechnungen miteinander , und wenn die eine Partei im Urlaub ist , treibt die andere die Gelder ein .
 1	Man	*	*	*	*
 2	trifft	*	*	*	*
 3	sich	*	*	*	*
@@ -6355,10 +6561,11 @@
 29	ein	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T940107.188
-# text = Vom Flug bis zum Kaviar , alle Rechnungen sind aus der Kasse der Bürgerschaftsgruppe beglichen worden .
+# tuepp_article_id = T940107.188
+# sent_id = 5393
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vom Flug bis zum Kaviar , alle Rechnungen sind aus der Kasse der Bürgerschaftsgruppe beglichen worden .
 1	Vom	*	*	*	*
 2	Flug	*	*	*	*
 3	bis	*	*	*	*
@@ -6377,10 +6584,11 @@
 16	worden	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T940413.126
-# text = " In gut zwei Stunden hat sie 200 Mark verdient - vorausgesetzt , die Telefonfreier begleichen ihre Rechnung .
+# tuepp_article_id = T940413.126
+# sent_id = 5394
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " In gut zwei Stunden hat sie 200 Mark verdient - vorausgesetzt , die Telefonfreier begleichen ihre Rechnung .
 1	"	*	*	*	*
 2	In	*	*	*	*
 3	gut	*	*	*	*
@@ -6401,10 +6609,11 @@
 18	Rechnung	1	1	1	1
 19	.	*	*	*	*
 
-# article_id = T940423.183
-# text = Die Maifeiern , besonders aber der fürs Volk immer symbolträchtigere 1. Mai wurde so manchen Herrschern bald gefährlich - oft entwickelten sich Aufstände ; zumindest aber wurde so manche Rechnung mit den Schergen des Landvogts oder des Bürgermeisters beglichen .
+# tuepp_article_id = T940423.183
+# sent_id = 5395
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Maifeiern , besonders aber der fürs Volk immer symbolträchtigere 1. Mai wurde so manchen Herrschern bald gefährlich - oft entwickelten sich Aufstände ; zumindest aber wurde so manche Rechnung mit den Schergen des Landvogts oder des Bürgermeisters beglichen .
 1	Die	*	*	*	*
 2	Maifeiern	*	*	*	*
 3	,	*	*	*	*
@@ -6447,10 +6656,11 @@
 40	beglichen	2	2	2	2
 41	.	*	*	*	*
 
-# article_id = T940723.113
-# text = Die Frage nach der Daseinsberechtigung der Goodwill Games stellt sich nicht , solange nur Turner die Rechnungen begleicht .
-# context_judgement_1 = 1
+# tuepp_article_id = T940723.113
+# sent_id = 5396
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Die Frage nach der Daseinsberechtigung der Goodwill Games stellt sich nicht , solange nur Turner die Rechnungen begleicht .
 1	Die	*	*	*	*
 2	Frage	*	*	*	*
 3	nach	*	*	*	*
@@ -6471,10 +6681,11 @@
 18	begleicht	1	2	2	2
 19	.	*	*	*	*
 
-# article_id = T940726.33
-# text = Da in dem schleichenden Bürgerkrieg auch alte Rechnungen beglichen werden , lassen sich nur selten zweifelsfrei politische Motive nachweisen .
+# tuepp_article_id = T940726.33
+# sent_id = 5397
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Da in dem schleichenden Bürgerkrieg auch alte Rechnungen beglichen werden , lassen sich nur selten zweifelsfrei politische Motive nachweisen .
 1	Da	*	*	*	*
 2	in	*	*	*	*
 3	dem	*	*	*	*
@@ -6496,10 +6707,11 @@
 19	nachweisen	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T941213.31
-# text = Jetzt ist es Zeit , alte Rechnungen zu begleichen .
+# tuepp_article_id = T941213.31
+# sent_id = 5398
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jetzt ist es Zeit , alte Rechnungen zu begleichen .
 1	Jetzt	*	*	*	*
 2	ist	*	*	*	*
 3	es	*	*	*	*
@@ -6511,10 +6723,11 @@
 9	begleichen	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T941201.7
-# text = Diese jedoch brauche die PDS , so Gysi , um Mitgliederdarlehen zurückzuzahlen sowie um offene Rechnungen aus dem Wahlkampf zu begleichen .
-# context_judgement_1 = 1
+# tuepp_article_id = T941201.7
+# sent_id = 5399
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Diese jedoch brauche die PDS , so Gysi , um Mitgliederdarlehen zurückzuzahlen sowie um offene Rechnungen aus dem Wahlkampf zu begleichen .
 1	Diese	*	*	*	*
 2	jedoch	*	*	*	*
 3	brauche	*	*	*	*
@@ -6538,10 +6751,11 @@
 21	begleichen	1	2	1	1
 22	.	*	*	*	*
 
-# article_id = T940826.307
-# text = Devils-Pressesprecher Jens Stümpel zeigt sich trotz der Stärken des Kontrahenten optimistisch : " Wir haben noch eine Rechnung offen und die wollen wir begleichen .
-# context_judgement_1 = 1
+# tuepp_article_id = T940826.307
+# sent_id = 5400
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Devils-Pressesprecher Jens Stümpel zeigt sich trotz der Stärken des Kontrahenten optimistisch : " Wir haben noch eine Rechnung offen und die wollen wir begleichen .
 1	Devils-Pressesprecher	*	*	*	*
 2	Jens	*	*	*	*
 3	Stümpel	*	*	*	*
@@ -6568,10 +6782,11 @@
 24	begleichen	2	2	2	2
 25	.	*	*	*	*
 
-# article_id = T940823.183
-# text = Oder werden mit solchen Tricks ganz andere Rechnungen beglichen ?
+# tuepp_article_id = T940823.183
+# sent_id = 5401
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Oder werden mit solchen Tricks ganz andere Rechnungen beglichen ?
 1	Oder	*	*	*	*
 2	werden	*	*	*	*
 3	mit	*	*	*	*
@@ -6583,10 +6798,11 @@
 9	beglichen	4	2	2	2
 10	?	*	*	*	*
 
-# article_id = T940823.234
-# text = Sie habe 24 Weinflaschen der Weinhandlung P. geordert , so die Anklage , obwohl sie nicht in der Lage war , die Rechnung zu begleichen .
+# tuepp_article_id = T940823.234
+# sent_id = 5402
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie habe 24 Weinflaschen der Weinhandlung P. geordert , so die Anklage , obwohl sie nicht in der Lage war , die Rechnung zu begleichen .
 1	Sie	*	*	*	*
 2	habe	*	*	*	*
 3	24	*	*	*	*
@@ -6614,10 +6830,11 @@
 25	begleichen	1	1	1	1
 26	.	*	*	*	*
 
-# article_id = T940811.72
-# text = Moskau ( AP ) - Rußland will der Ukraine und Weißrußland kein Erdgas mehr liefern , solange die offenen Rechnungen nicht beglichen sind , so ein Sprecher der russischen Erdgasindustrie .
+# tuepp_article_id = T940811.72
+# sent_id = 5403
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Moskau ( AP ) - Rußland will der Ukraine und Weißrußland kein Erdgas mehr liefern , solange die offenen Rechnungen nicht beglichen sind , so ein Sprecher der russischen Erdgasindustrie .
 1	Moskau	*	*	*	*
 2	(	*	*	*	*
 3	AP	*	*	*	*
@@ -6650,10 +6867,11 @@
 30	Erdgasindustrie	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T941109.66
-# text = Eine andere nicht unglaubwürdige Erklärung kursierte , die Stadt Moskau habe alte Rechnungen nicht beglichen .
+# tuepp_article_id = T941109.66
+# sent_id = 5404
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Eine andere nicht unglaubwürdige Erklärung kursierte , die Stadt Moskau habe alte Rechnungen nicht beglichen .
 1	Eine	*	*	*	*
 2	andere	*	*	*	*
 3	nicht	*	*	*	*
@@ -6671,10 +6889,11 @@
 15	beglichen	1	2	1	1
 16	.	*	*	*	*
 
-# article_id = T941125.93
-# text = Heute jedoch habe er mit dem Staat keine Rechnungen zu begleichen , müsse aber auch keine besonderen Opfer erbringen .
-# context_judgement_1 = 1
+# tuepp_article_id = T941125.93
+# sent_id = 5405
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Heute jedoch habe er mit dem Staat keine Rechnungen zu begleichen , müsse aber auch keine besonderen Opfer erbringen .
 1	Heute	*	*	*	*
 2	jedoch	*	*	*	*
 3	habe	*	*	*	*
@@ -6696,10 +6915,11 @@
 19	erbringen	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T941105.207
-# text = Und neben den Geschichten über die großen Spekulationen der Geschichte , neben den Anekdoten , Überlieferungen und verbürgten Biographien der Gentlemen und über das Kabinett der Räuber in der Spekulantenzunft lernt man noch etwas über Devisenreserven , typische Phasen eines Crashs , Chaostheorie , Warentermingeschäfte und Junk-bonds , denn : " Nur wenn man seine Rechnungen nicht begleicht , kann man hoffen , im Gedächtnis der Geschäftswelt weiterzuleben " ( Wilde ) .
+# tuepp_article_id = T941105.207
+# sent_id = 5406
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und neben den Geschichten über die großen Spekulationen der Geschichte , neben den Anekdoten , Überlieferungen und verbürgten Biographien der Gentlemen und über das Kabinett der Räuber in der Spekulantenzunft lernt man noch etwas über Devisenreserven , typische Phasen eines Crashs , Chaostheorie , Warentermingeschäfte und Junk-bonds , denn : " Nur wenn man seine Rechnungen nicht begleicht , kann man hoffen , im Gedächtnis der Geschäftswelt weiterzuleben " ( Wilde ) .
 1	Und	*	*	*	*
 2	neben	*	*	*	*
 3	den	*	*	*	*
@@ -6774,10 +6994,11 @@
 72	)	*	*	*	*
 73	.	*	*	*	*
 
-# article_id = T940217.203
-# text = Sämtliche Rechnungen können ab sofort nicht mehr beglichen werden .
+# tuepp_article_id = T940217.203
+# sent_id = 5407
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sämtliche Rechnungen können ab sofort nicht mehr beglichen werden .
 1	Sämtliche	*	*	*	*
 2	Rechnungen	1	2	1	1
 3	können	*	*	*	*
@@ -6789,10 +7010,11 @@
 9	werden	*	*	*	*
 10	.	*	*	*	*
 
-# article_id = T940209.92
-# text = Die ganz Alten fühlen sich ein wenig an die Atmosphäre nach Kriegsende erinnert , als ehemalige Resistance- Kämpfer und Kollaborateure ihre Rechnungen beglichen .
+# tuepp_article_id = T940209.92
+# sent_id = 5408
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die ganz Alten fühlen sich ein wenig an die Atmosphäre nach Kriegsende erinnert , als ehemalige Resistance- Kämpfer und Kollaborateure ihre Rechnungen beglichen .
 1	Die	*	*	*	*
 2	ganz	*	*	*	*
 3	Alten	*	*	*	*
@@ -6818,10 +7040,11 @@
 23	beglichen	2	2	2	2
 24	.	*	*	*	*
 
-# article_id = T950517.95
-# text = Um nicht vollends pleite zu gehen , verlangen sie von Patienten saftige Gebühren , was viele Menschen vom Klinikbesuch abhält und auch dazu führt , daß Tote nicht abgeholt werden , da die Angehörigen dafür die ausstehenden Rechnungen begleichen müssen .
+# tuepp_article_id = T950517.95
+# sent_id = 5409
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Um nicht vollends pleite zu gehen , verlangen sie von Patienten saftige Gebühren , was viele Menschen vom Klinikbesuch abhält und auch dazu führt , daß Tote nicht abgeholt werden , da die Angehörigen dafür die ausstehenden Rechnungen begleichen müssen .
 1	Um	*	*	*	*
 2	nicht	*	*	*	*
 3	vollends	*	*	*	*
@@ -6864,10 +7087,11 @@
 40	müssen	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T950602.257
-# text = " Da werden wohl alte Rechnungen beglichen " , kommentierte Mahr .
+# tuepp_article_id = T950602.257
+# sent_id = 5410
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Da werden wohl alte Rechnungen beglichen " , kommentierte Mahr .
 1	"	*	*	*	*
 2	Da	*	*	*	*
 3	werden	*	*	*	*
@@ -6881,10 +7105,11 @@
 11	Mahr	*	*	*	*
 12	.	*	*	*	*
 
-# article_id = T950616.246
-# text = Shashi Tharoor ist keineswegs der einzige , der mit Indira Gandhi eine Rechnung zu begleichen hat .
+# tuepp_article_id = T950616.246
+# sent_id = 5411
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Shashi Tharoor ist keineswegs der einzige , der mit Indira Gandhi eine Rechnung zu begleichen hat .
 1	Shashi	*	*	*	*
 2	Tharoor	*	*	*	*
 3	ist	*	*	*	*
@@ -6903,10 +7128,11 @@
 16	hat	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T950619.253
-# text = St. Pauli begleicht die offene Rechnung mit dem VfL Wolfsburg durch ein 0:0 .
+# tuepp_article_id = T950619.253
+# sent_id = 5412
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = St. Pauli begleicht die offene Rechnung mit dem VfL Wolfsburg durch ein 0:0 .
 1	St.	*	*	*	*
 2	Pauli	*	*	*	*
 3	begleicht	2	2	2	2
@@ -6922,10 +7148,11 @@
 13	0:0	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T950915.225
-# text = So müßte Tatarstan 30 Prozent seiner Steuereinnahmen an das Budget der Russischen Föderation abführen , doch kürzlich gab ein Sprecher bekannt , man habe diese Gelder eingefroren , da " Moskau die Rechnung für seine Militäreinkäufe nicht beglichen " habe .
+# tuepp_article_id = T950915.225
+# sent_id = 5413
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = So müßte Tatarstan 30 Prozent seiner Steuereinnahmen an das Budget der Russischen Föderation abführen , doch kürzlich gab ein Sprecher bekannt , man habe diese Gelder eingefroren , da " Moskau die Rechnung für seine Militäreinkäufe nicht beglichen " habe .
 1	So	*	*	*	*
 2	müßte	*	*	*	*
 3	Tatarstan	*	*	*	*
@@ -6968,10 +7195,11 @@
 40	habe	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T950923.52
-# text = Damit hatte das wirtschaftlich angeschlagene und daher selbst mit ernsthaften Sicherheitsproblemen kämpfende Atomkraftwerk seit über einem Jahr mehrfach gedroht , um wenigstens ein paar seiner offenen Rechnungen begleichen zu können .
+# tuepp_article_id = T950923.52
+# sent_id = 5414
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Damit hatte das wirtschaftlich angeschlagene und daher selbst mit ernsthaften Sicherheitsproblemen kämpfende Atomkraftwerk seit über einem Jahr mehrfach gedroht , um wenigstens ein paar seiner offenen Rechnungen begleichen zu können .
 1	Damit	*	*	*	*
 2	hatte	*	*	*	*
 3	das	*	*	*	*
@@ -7004,10 +7232,11 @@
 30	können	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T950926.252
-# text = Eine typische Lokalposse , wenn sie nicht so tragisch wäre : Im Karo-Viertel wird nichts weiter beglichen als eine alte Rechnung zwischen Investor und Bezirk - die Schadenfreude , wenn ein Reicher nicht noch reicher wird , bleibt doch die schönste Freude .
-# context_judgement_1 = 1
+# tuepp_article_id = T950926.252
+# sent_id = 5415
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Eine typische Lokalposse , wenn sie nicht so tragisch wäre : Im Karo-Viertel wird nichts weiter beglichen als eine alte Rechnung zwischen Investor und Bezirk - die Schadenfreude , wenn ein Reicher nicht noch reicher wird , bleibt doch die schönste Freude .
 1	Eine	*	*	*	*
 2	typische	*	*	*	*
 3	Lokalposse	*	*	*	*
@@ -7052,10 +7281,11 @@
 42	Freude	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T950919.95
-# text = Da wurden viele alte Rechnungen beglichen .
+# tuepp_article_id = T950919.95
+# sent_id = 5416
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Da wurden viele alte Rechnungen beglichen .
 1	Da	*	*	*	*
 2	wurden	*	*	*	*
 3	viele	*	*	*	*
@@ -7064,10 +7294,11 @@
 6	beglichen	2	2	2	2
 7	.	*	*	*	*
 
-# article_id = T950902.165
-# text = In besonderen Fällen aber konnte seine Rechnung auch mit einer Einladung zu einem guten Essen beglichen werden .
+# tuepp_article_id = T950902.165
+# sent_id = 5417
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In besonderen Fällen aber konnte seine Rechnung auch mit einer Einladung zu einem guten Essen beglichen werden .
 1	In	*	*	*	*
 2	besonderen	*	*	*	*
 3	Fällen	*	*	*	*
@@ -7087,10 +7318,11 @@
 17	werden	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T950111.178
-# text = Es nimmt zur Zeit billige Bankkredite auf , um laufende Rechnungen zu begleichen .
+# tuepp_article_id = T950111.178
+# sent_id = 5418
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es nimmt zur Zeit billige Bankkredite auf , um laufende Rechnungen zu begleichen .
 1	Es	*	*	*	*
 2	nimmt	*	*	*	*
 3	zur	*	*	*	*
@@ -7106,10 +7338,11 @@
 13	begleichen	1	1	1	1
 14	.	*	*	*	*
 
-# article_id = T950715.124
-# text = Wer nicht zahlen will oder kann , begleicht die Rechnung im Ferienclub Lüneburger Heide Sarenseck mit Muskelkraft oder Naturalien .
+# tuepp_article_id = T950715.124
+# sent_id = 5419
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wer nicht zahlen will oder kann , begleicht die Rechnung im Ferienclub Lüneburger Heide Sarenseck mit Muskelkraft oder Naturalien .
 1	Wer	*	*	*	*
 2	nicht	*	*	*	*
 3	zahlen	*	*	*	*
@@ -7131,10 +7364,11 @@
 19	Naturalien	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T950724.213
-# text = Um Himmels Willen , welche Rechnung wurde hier beglichen ?
-# context_judgement_1 = 1
+# tuepp_article_id = T950724.213
+# sent_id = 5420
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Um Himmels Willen , welche Rechnung wurde hier beglichen ?
 1	Um	*	*	*	*
 2	Himmels	*	*	*	*
 3	Willen	*	*	*	*
@@ -7146,10 +7380,11 @@
 9	beglichen	2	2	2	2
 10	?	*	*	*	*
 
-# article_id = T951227.70
-# text = Jedes Jahr zu Weihnachten , wenn Hunderttausende von Minen-Wanderarbeitern zu ihren Familien zurückkehren , werden alte Rechnungen an politischen Gegnern beglichen .
+# tuepp_article_id = T951227.70
+# sent_id = 5421
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jedes Jahr zu Weihnachten , wenn Hunderttausende von Minen-Wanderarbeitern zu ihren Familien zurückkehren , werden alte Rechnungen an politischen Gegnern beglichen .
 1	Jedes	*	*	*	*
 2	Jahr	*	*	*	*
 3	zu	*	*	*	*
@@ -7173,10 +7408,11 @@
 21	beglichen	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T951227.158
-# text = Das Land Berlin muß die Rechnung aber irgendwann begleichen .
+# tuepp_article_id = T951227.158
+# sent_id = 5422
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das Land Berlin muß die Rechnung aber irgendwann begleichen .
 1	Das	*	*	*	*
 2	Land	*	*	*	*
 3	Berlin	*	*	*	*
@@ -7188,10 +7424,11 @@
 9	begleichen	1	1	1	1
 10	.	*	*	*	*
 
-# article_id = T950826.114
-# text = Falls ein Hotelzimmer von Sozialhilfe bezahlt wird , führt er den Papierkrieg und ist sehr geduldig , wenn eine Rechnung mal nicht gleich beglichen wird .
+# tuepp_article_id = T950826.114
+# sent_id = 5423
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Falls ein Hotelzimmer von Sozialhilfe bezahlt wird , führt er den Papierkrieg und ist sehr geduldig , wenn eine Rechnung mal nicht gleich beglichen wird .
 1	Falls	*	*	*	*
 2	ein	*	*	*	*
 3	Hotelzimmer	*	*	*	*
@@ -7219,10 +7456,11 @@
 25	wird	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T950816.170
-# text = " Ich wollte noch eine alte Rechnung bei einem Kumpel begleichen .
+# tuepp_article_id = T950816.170
+# sent_id = 5424
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Ich wollte noch eine alte Rechnung bei einem Kumpel begleichen .
 1	"	*	*	*	*
 2	Ich	*	*	*	*
 3	wollte	*	*	*	*
@@ -7236,10 +7474,11 @@
 11	begleichen	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T950328.182
-# text = Hier mußten sich offizielle dänische Persönlichkeiten damit abfinden , Ehrengäste bei großen und feierlichen Empfängen zu sein , deren Rechnungen - was die kulinarischen Dinge anbetraf - von der dänischen Nationalbank beglichen wurden .
+# tuepp_article_id = T950328.182
+# sent_id = 5425
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Hier mußten sich offizielle dänische Persönlichkeiten damit abfinden , Ehrengäste bei großen und feierlichen Empfängen zu sein , deren Rechnungen - was die kulinarischen Dinge anbetraf - von der dänischen Nationalbank beglichen wurden .
 1	Hier	*	*	*	*
 2	mußten	*	*	*	*
 3	sich	*	*	*	*
@@ -7275,10 +7514,11 @@
 33	wurden	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T951127.2
-# text = Aber was ist schon der Friedensprozeß im Nahen Osten , was bedeutet der Bundesanwaltschaft die beginnende Versöhnung zweier Völker , wenn sich die Gelegenheit bietet , alte Rechnungen zu begleichen ?
+# tuepp_article_id = T951127.2
+# sent_id = 5426
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber was ist schon der Friedensprozeß im Nahen Osten , was bedeutet der Bundesanwaltschaft die beginnende Versöhnung zweier Völker , wenn sich die Gelegenheit bietet , alte Rechnungen zu begleichen ?
 1	Aber	*	*	*	*
 2	was	*	*	*	*
 3	ist	*	*	*	*
@@ -7311,10 +7551,11 @@
 30	begleichen	2	2	2	2
 31	?	*	*	*	*
 
-# article_id = T950216.150
-# text = Und damit das ganz klar ist - wer jetzt aufmuckt , ist entweder ein ostdeutscher SPD-Gründer , der sich vor den " Unterwanderstiefeln " der SED beziehungsweise PDS fürchtet , oder ein " Eiferer " , der glaubt , " auf diese Weise alte Rechnungen begleichen zu können " , sagt der Genosse stellvertretender Vorsitzender .
+# tuepp_article_id = T950216.150
+# sent_id = 5427
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und damit das ganz klar ist - wer jetzt aufmuckt , ist entweder ein ostdeutscher SPD-Gründer , der sich vor den " Unterwanderstiefeln " der SED beziehungsweise PDS fürchtet , oder ein " Eiferer " , der glaubt , " auf diese Weise alte Rechnungen begleichen zu können " , sagt der Genosse stellvertretender Vorsitzender .
 1	Und	*	*	*	*
 2	damit	*	*	*	*
 3	das	*	*	*	*
@@ -7372,10 +7613,11 @@
 55	Vorsitzender	*	*	*	*
 56	.	*	*	*	*
 
-# article_id = T950207.98
-# text = Gewiß gab und gibt es Eiferer , die glauben , auf diese Weise alte Rechnungen begleichen zu können .
+# tuepp_article_id = T950207.98
+# sent_id = 5428
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gewiß gab und gibt es Eiferer , die glauben , auf diese Weise alte Rechnungen begleichen zu können .
 1	Gewiß	*	*	*	*
 2	gab	*	*	*	*
 3	und	*	*	*	*
@@ -7396,10 +7638,11 @@
 18	können	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T990423.137
-# text = Nicht integrierte OTO-Einheiten bekämpfen sich gegenseitig , alte Rechnungen werden beglichen , die auch vor Spitzenpolitikern nicht haltmachen .
+# tuepp_article_id = T990423.137
+# sent_id = 5429
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nicht integrierte OTO-Einheiten bekämpfen sich gegenseitig , alte Rechnungen werden beglichen , die auch vor Spitzenpolitikern nicht haltmachen .
 1	Nicht	*	*	*	*
 2	integrierte	*	*	*	*
 3	OTO-Einheiten	*	*	*	*
@@ -7420,10 +7663,11 @@
 18	haltmachen	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T990324.213
-# text = Dort soll er sich " amüsiert " und die Rechnungen mit einer im Fahrzeug gefundenen Kreditkarte beglichen haben , hieß es .
+# tuepp_article_id = T990324.213
+# sent_id = 5430
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dort soll er sich " amüsiert " und die Rechnungen mit einer im Fahrzeug gefundenen Kreditkarte beglichen haben , hieß es .
 1	Dort	*	*	*	*
 2	soll	*	*	*	*
 3	er	*	*	*	*
@@ -7447,10 +7691,11 @@
 21	es	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T990315.81
-# text = Andere vor ihm - wie Willy Brandt mit Helmut Schmidt - hatten ebenfalls Rechnungen zu begleichen .
+# tuepp_article_id = T990315.81
+# sent_id = 5431
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Andere vor ihm - wie Willy Brandt mit Helmut Schmidt - hatten ebenfalls Rechnungen zu begleichen .
 1	Andere	*	*	*	*
 2	vor	*	*	*	*
 3	ihm	*	*	*	*
@@ -7469,10 +7714,11 @@
 16	begleichen	2	2	2	2
 17	.	*	*	*	*
 
-# article_id = T990327.309
-# text = In anderen Fällen sorgte er dafür , daß überhöhte Rechnungen beglichen wurden .
+# tuepp_article_id = T990327.309
+# sent_id = 5432
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In anderen Fällen sorgte er dafür , daß überhöhte Rechnungen beglichen wurden .
 1	In	*	*	*	*
 2	anderen	*	*	*	*
 3	Fällen	*	*	*	*
@@ -7487,10 +7733,11 @@
 12	wurden	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T990213.358
-# text = " Goethe registrierte aber auch , wie unter dem Schutz der Maske alte Rechnungen beglichen wurden : " Oft aber werden die Händel sehr ernsthaft und allgemein , und man sieht mit Erstaunen , wie Eifersucht und persönlicher Hass sich befreyten Lauf lassen .
+# tuepp_article_id = T990213.358
+# sent_id = 5433
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Goethe registrierte aber auch , wie unter dem Schutz der Maske alte Rechnungen beglichen wurden : " Oft aber werden die Händel sehr ernsthaft und allgemein , und man sieht mit Erstaunen , wie Eifersucht und persönlicher Hass sich befreyten Lauf lassen .
 1	"	*	*	*	*
 2	Goethe	*	*	*	*
 3	registrierte	*	*	*	*
@@ -7536,10 +7783,11 @@
 43	lassen	*	*	*	*
 44	.	*	*	*	*
 
-# article_id = T990226.107
-# text = Einzig die US- Gesellschaft Sprint und das puertoricanische Unternehmen TLDI würden von der Kappung ausgenommen , da sie ihre Rechnungen pünktlich begleichen , hieß es in einer Erklärung der Regierung in Havanna .
+# tuepp_article_id = T990226.107
+# sent_id = 5434
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Einzig die US- Gesellschaft Sprint und das puertoricanische Unternehmen TLDI würden von der Kappung ausgenommen , da sie ihre Rechnungen pünktlich begleichen , hieß es in einer Erklärung der Regierung in Havanna .
 1	Einzig	*	*	*	*
 2	die	*	*	*	*
 3	US-	*	*	*	*

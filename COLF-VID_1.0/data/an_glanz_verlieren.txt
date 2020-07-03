@@ -1,6 +1,7 @@
-# article_id = T890512.153
+# tuepp_article_id = T890512.153
+# sent_id = 48
 # text = Allerdings hat das Experiment , über den Bildschirm das Evangelium zu verkünden - sei es als Varietevorstellung oder als bibelversdonnernde Predigt - , in letzter Zeit durch einige Predigeraffären erheblich an Glanz und damit auch an Geld verloren .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Allerdings	allerdings	ADV	*	*	*	*
 2	hat	haben	VAFIN	*	*	*	*
@@ -42,7 +43,8 @@
 38	verloren	verlieren	VVPP	2	2	2	2
 39	.	.	$.	*	*	*	*
 
-# article_id = T900531.61
+# tuepp_article_id = T900531.61
+# sent_id = 49
 # text = Die großen Hoffnungsträger in der Regierung verlieren an Glanz .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -57,7 +59,8 @@
 9	Glanz	Glanz	NN	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T900405.131
+# tuepp_article_id = T900405.131
+# sent_id = 50
 # text = Der Brillanteffekt verliert an Glanz .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -68,9 +71,10 @@
 5	Glanz	Glanz	NN	2	2	2	2
 6	.	.	$.	*	*	*	*
 
-# article_id = T920131.75
+# tuepp_article_id = T920131.75
+# sent_id = 51
 # text = Aber die Zweifel an der mechanistischen Landwirtschaft und Medizin wachsen , die Vision von der Unterwerfung der Natur verliert ihren Glanz , und das Klima ändert sich - im wörtlichen wie im übertragenen Sinne .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Aber	aber	KON	*	*	*	*
 2	die	die	ART	*	*	*	*
@@ -108,7 +112,8 @@
 34	Sinne	Sinn	NN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T880628.150
+# tuepp_article_id = T880628.150
+# sent_id = 52
 # text = Der Effekt ist verblüffend : Saint-Saens Musik verliert an virtuosem Glanz und gewinnt an Substanz .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -129,7 +134,8 @@
 15	Substanz	Substanz	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T881006.31
+# tuepp_article_id = T881006.31
+# sent_id = 53
 # text = Die Tracht der Partei verliert an Glanz , doch der Apparat steht bis ins letzte Dorf
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -150,7 +156,8 @@
 15	letzte	letzt	ADJA	*	*	*	*
 16	Dorf	Dorf	NN	*	*	*	*
 
-# article_id = T881006.31
+# tuepp_article_id = T881006.31
+# sent_id = 54
 # text = Wenn jetzt durch das Abtreten von Strauß die Tracht an Glanz verliert und damit als beruhigendes Element der Tradition wegfällt , weil sie keiner seiner Nachfolger mehr erfolgreich als Deckmantel benützen kann , verliert auch die CSU nach und nach an Faszination .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -198,7 +205,8 @@
 42	Faszination	Faszination	NN	*	*	*	*
 43	.	.	$.	*	*	*	*
 
-# article_id = T930324.49
+# tuepp_article_id = T930324.49
+# sent_id = 55
 # text = Doch heute ist alles ganz anders : Der Rohstoff hat längst an Glanz und Anziehungskraft verloren .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -220,7 +228,8 @@
 16	verloren	verlieren	VVPP	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T960219.170
+# tuepp_article_id = T960219.170
+# sent_id = 56
 # text = Dieses Leid- Motiv ist tatsächlich das Leitmotiv des Films , der die Wandlung des englischen Simplicissimus vom eitlen , aber nicht völlig an den Glanz verlorenen Gecken zum Heiler und Aufklärer beschreibt .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -258,9 +267,10 @@
 32	beschreibt	beschreiben	VVFIN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T980415.221
+# tuepp_article_id = T980415.221
+# sent_id = 57
 # text = Doch läßt sich das prominente BBC-Programm , das dort seit 34 Jahren läuft und läuft und läuft , auf deutsche Verhältnisse übertragen , ohne daß es dabei an Glanz verliert ?
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Doch	doch	ADV	*	*	*	*
 2	läßt	lassen	VVFIN	*	*	*	*
@@ -294,7 +304,8 @@
 30	verliert	verlieren	VVFIN	2	2	2	2
 31	?	?	$.	*	*	*	*
 
-# article_id = T981221.79
+# tuepp_article_id = T981221.79
+# sent_id = 58
 # text = Das von Luschkow reklamierte " Wirtschaftswunder " in Moskau dürfte bald an Glanz verlieren .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -314,9 +325,10 @@
 14	verlieren	verlieren	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T971004.302
+# tuepp_article_id = T971004.302
+# sent_id = 59
 # text = Im selben Moment wurde Azraa'eels Körper übersät mit den Augen aller lebenden Wesen , und wenn ein Wesen starb , verloren die Augen des toten Wesens ihren Glanz und fielen von Azraa'eels Körper ab , und die Augen eines neugeborenen Wesens erschienen an ihrer Stelle .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Im	in	APPRART	*	*	*	*
 2	selben	selb	PDAT	*	*	*	*
@@ -365,7 +377,8 @@
 45	Stelle	Stelle	NN	*	*	*	*
 46	.	.	$.	*	*	*	*
 
-# article_id = T940219.317
+# tuepp_article_id = T940219.317
+# sent_id = 60
 # text = Diese traute Idylle von Politik und Planung verliert jedoch schnell an Glanz , wendet man sich den Innereien des Gutachtens und seinen voraussichtlichen Konsequenzen zu .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -396,9 +409,10 @@
 25	zu	zu	PTKVZ	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T950505.245
+# tuepp_article_id = T950505.245
+# sent_id = 61
 # text = Jeder der drei Tänzer darf einmal mit der einen Tänzerin im Duett sich als Macho zeigen , während eine Million Papierschnipsel auf dem Boden liegen - das ist ein bißchen glatt , zu klischeehaft auch , und die Bewegungen gehen zu sehr ins Sportive und verlieren an Glanz .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Jeder	jede	PIS	*	*	*	*
 2	der	die	ART	*	*	*	*
@@ -450,7 +464,8 @@
 48	Glanz	Glanz	NN	2	2	2	2
 49	.	.	$.	*	*	*	*
 
-# article_id = T951223.340
+# tuepp_article_id = T951223.340
+# sent_id = 62
 # text = Wenn uns unsere Erinnerung nicht täuscht , war dies auch genau der Zeitpunkt , an dem der Heilige Abend insgesamt an Glanz verlor .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -479,7 +494,8 @@
 23	verlor	verlieren	VVFIN	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T990409.146
+# tuepp_article_id = T990409.146
+# sent_id = 63
 # text = Der Auftritt der Münchner am Mittwoch abend in Kiew zeigte nämlich kraß , daß alles , was in der Bundesliga so überirdisch wirkt , in Europas Spitzenregionen rapide an Glanz verliert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0

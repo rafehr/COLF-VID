@@ -1,4 +1,5 @@
-# article_id = T890508.57
+# tuepp_article_id = T890508.57
+# sent_id = 4065
 # text = Und die Schiffe tuteten und die Feuerlöschboote spritzten ihre Fontänen und die Fallschirmspringer taten es ihnen nach , wenn sie statt auf die Pontons in der Elbe ins Wasser fielen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -34,7 +35,8 @@
 30	fielen	fallen	VVFIN	1	1	1	1
 31	.	.	$.	*	*	*	*
 
-# article_id = T890605.31
+# tuepp_article_id = T890605.31
+# sent_id = 4066
 # text = In München fiel der Anti-WAA-Jubel ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -46,7 +48,8 @@
 6	ins	in	APPRART	2	2	2	2
 7	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T890605.31
+# tuepp_article_id = T890605.31
+# sent_id = 4067
 # text = Redebeiträge des BUND-Vorsitzenden Hubert Weinzierl und eines Bruders des israelischen Atomspions Meir Vanunu fallen ebenso ins Wasser wie der im Vorfeld der Demonstration heftig umstrittene Beitrag von Ingrid Strobl .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -81,7 +84,8 @@
 29	Strobl	<unknown>	NE	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T890911.109
+# tuepp_article_id = T890911.109
+# sent_id = 4068
 # text = Doch die freudig vorgefeierte Premiere des Olympiastadions , seit Wochen als wettbewerbsreif gepriesen , fällt nicht nur wegen des nach unten ausschlagenden Barometers buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -113,9 +117,10 @@
 26	Wasser	Wasser	NN	2	2	2	2
 27	.	.	$.	*	*	*	*
 
-# article_id = T890411.203
+# tuepp_article_id = T890411.203
+# sent_id = 4069
 # text = " Der Kopf fällt ins Wasser , und die Tiere ertrinken " , sagte Wollenzien , " an Land ersticken sie .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
 2	Der	die	ART	*	*	*	*
@@ -140,7 +145,8 @@
 21	sie	sie	PPER	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T890424.23
+# tuepp_article_id = T890424.23
+# sent_id = 4070
 # text = Frankfurt ( taz ) - Weitgehend ins Wasser fiel am Samstag eine Demonstration gegen den Paragraphen 129a , Isolationshaft und für die Zusammenlegung der RAF-Gefangenen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -171,7 +177,8 @@
 25	RAF-Gefangenen	RAF-Gefangene	NN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T890705.78
+# tuepp_article_id = T890705.78
+# sent_id = 4071
 # text = Dann würde auch das mit den USA abgesprochene Wahlprojekt ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -189,7 +196,8 @@
 12	fallen	fallen	VVINF	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T890717.217
+# tuepp_article_id = T890717.217
+# sent_id = 4072
 # text = Es ist ja gar keine Gefahr , daß der Staat hier zuviel und die Industrie zu wenig macht , denn der Staat tut doch in Bremen so gut wie gar nichts , und ohne Sponsoring wäre die Breminale kläglich ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -237,7 +245,8 @@
 42	gefallen	fallen|gefallen	VVPP	2	2	2	2
 43	.	.	$.	*	*	*	*
 
-# article_id = T890306.73
+# tuepp_article_id = T890306.73
+# sent_id = 4073
 # text = Ein Scherzbold gab sich beim Kölner Sender als Bochumer Geschäftsstelle aus , ließ das Spiel ins Wasser fallen und hinterließ eine Telefonnummer .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -265,9 +274,10 @@
 22	Telefonnummer	Telefonnummer	NN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T890318.139
+# tuepp_article_id = T890318.139
+# sent_id = 4074
 # text = Fällt der Föhn ins Wasser ( Achtung : Herzstillstand wg .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Fällt	fallen|fällen	VVFIN	1	1	1	1
 2	der	die	ART	*	*	*	*
@@ -281,7 +291,8 @@
 10	wg	<unknown>	NE	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T891118.197
+# tuepp_article_id = T891118.197
+# sent_id = 4075
 # text = Ob als Jahresring im Stamm eines Baumes , als Wellenbewegung um den Tropfen , der ins Wasser fiel , ob auf der Oberfläche der Schale eines Seeigels oder in der Anordnung der Blütenblätter einer Blume - immer wiederholen sich zwei Gestaltungsprinzipien ( und vermischen sich auch , beispielsweise in der so häufigen Spirale ) : die konzentrische Schichtung und die radiale Reihung .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -349,7 +360,8 @@
 62	Reihung	Reihung	NN	*	*	*	*
 63	.	.	$.	*	*	*	*
 
-# article_id = T890206.90
+# tuepp_article_id = T890206.90
+# sent_id = 4076
 # text = Die geplagte Stippvisite der Kulturminister Spaniens und Frankreichs in Angouleme fiel freilich ins Wasser : Sein spanischer Amtskollege Jorge Sempron sagte in letzter Minute ab , also mußte Jack Lang allein durch die Messezelte promenieren .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -390,7 +402,8 @@
 35	promenieren	promenieren	VVINF	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T890202.28
+# tuepp_article_id = T890202.28
+# sent_id = 4077
 # text = Aber nicht nur der Steakverkauf , auch die Aktionen gegen den Hormonstand , auf die sich Gruppen der Bauernopposition schon vorbereitet hatten , fielen ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -422,7 +435,8 @@
 26	Wasser	Wasser	NN	2	2	2	2
 27	.	.	$.	*	*	*	*
 
-# article_id = T910629.192
+# tuepp_article_id = T910629.192
+# sent_id = 4078
 # text = Für " Peter den Großen " seien Millionen da , die Kunsthalle aber darbe , und das Schlimmste : Die fürs Jahresende geplante Auguste Rodin- Ausstellung drohe wegen Geldknappheit ins Wasser zu fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -461,7 +475,8 @@
 33	fallen	fallen	VVINF	2	2	2	2
 34	.	.	$.	*	*	*	*
 
-# article_id = T910626.40
+# tuepp_article_id = T910626.40
+# sent_id = 4079
 # text = " Friederike Hamann von der NGBK hat allerdings nicht mit so einer heftigen Reaktion gerechnet ; nicht mit schwarzem Feigenblatt , schon gar nicht , daß ein Teil der Plakataktion ganz ins Wasser Wasser fällt , weil die S-Bahn-Werbung GmbH sich weigerte , " das Schamgefühl eines objektiven Betrachters zu verletzen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -519,9 +534,10 @@
 52	"	"	$(	*	*	*	*
 53	.	.	$.	*	*	*	*
 
-# article_id = T910628.110
+# tuepp_article_id = T910628.110
+# sent_id = 4080
 # text = Und auch die vorgezogenen Partien , die gestern um 12 Uhr beginnen sollten , fielen erst mal wieder ins Wasser .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Und	und	KON	*	*	*	*
 2	auch	auch	ADV	*	*	*	*
@@ -545,7 +561,8 @@
 20	Wasser	Wasser	NN	2	2	2	2
 21	.	.	$.	*	*	*	*
 
-# article_id = T910621.282
+# tuepp_article_id = T910621.282
+# sent_id = 4081
 # text = Damit ist das vor einem halben Jahr von Kunick und Lemke-Schulte vorgestellte Projekt " Wohnen im Hafen " endgültig ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -573,9 +590,10 @@
 22	gefallen	fallen|gefallen	VVPP	2	2	2	2
 23	.	.	$.	*	*	*	*
 
-# article_id = T911029.116
+# tuepp_article_id = T911029.116
+# sent_id = 4082
 # text = Es jauchzt , wenn die Schauspieler ins Wasser fallen und nicht mehr rauskommen ; es freut sich über einen Tasso ( Peter Kremer ) , der wie der Frischling über die Bühne hüpft ; es kichert verwegen , wenn die Damen ihre Röcke heben und freie Einsicht gewähren .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Es	es	PPER	*	*	*	*
 2	jauchzt	jauchzen	VVFIN	*	*	*	*
@@ -627,7 +645,8 @@
 48	gewähren	gewähren	VVINF	*	*	*	*
 49	.	.	$.	*	*	*	*
 
-# article_id = T911005.61
+# tuepp_article_id = T911005.61
+# sent_id = 4083
 # text = Der Senatsstreit ums Tropenholz fiel somit ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -641,7 +660,8 @@
 8	Wasser	Wasser	NN	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T910923.188
+# tuepp_article_id = T910923.188
+# sent_id = 4084
 # text = Diese Aussicht schärfte auch die Bewerberinnen für das zweite Seminar ; doch die Senatsverwaltung für Frauen und Arbeit kürzte dem Träger Goldrausch kurzfristig die Mittel , so daß die Katalogpläne ins Wasser fielen und nur eine Postkarten-Edition als Trostpreis angekündigt ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -688,7 +708,8 @@
 41	ist	sein	VAFIN	*	*	*	*
 42	.	.	$.	*	*	*	*
 
-# article_id = T910124.205
+# tuepp_article_id = T910124.205
+# sent_id = 4085
 # text = Schultze läßt die für Sonnabend geplanten Feierlichkeiten der Dramatiker-Union wegen des Golfkriegs ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -709,7 +730,8 @@
 15	fallen	fallen	VVINF	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T910415.90
+# tuepp_article_id = T910415.90
+# sent_id = 4086
 # text = Das Comeback des US-amerikanischen Schwimm-Opas Mark Spitz fiel nach 15 Jahren Pause ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -728,7 +750,8 @@
 13	ins	in	APPRART	2	2	2	2
 14	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T910415.123
+# tuepp_article_id = T910415.123
+# sent_id = 4087
 # text = Bei dem Versuch , an einem aus Klopapier gedrehten Seil ein Fünfmeter-Sprungbrett zu erklimmen , fiel er jämmerlich ins Wasser zurück .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -755,7 +778,8 @@
 21	zurück	zurück	PTKVZ	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T910423.101
+# tuepp_article_id = T910423.101
+# sent_id = 4088
 # text = Der traditionelle Rettungsmechanismus für die jugoslawische Wirtschaft , der Adria-Tourismus , fällt in diesem Jahr ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -778,7 +802,8 @@
 17	Wasser	Wasser	NN	2	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T910424.189
+# tuepp_article_id = T910424.189
+# sent_id = 4089
 # text = Zu vieles jedoch , darunter die mit Spannung erwartete Medienkollage " Herakles Höhle III " des Ex-DDRlers Lutz Dammbeck , ließ man ohne Vorankündigung sang- und klanglos ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -814,7 +839,8 @@
 30	fallen	fallen	VVINF	2	2	2	2
 31	.	.	$.	*	*	*	*
 
-# article_id = T910703.214
+# tuepp_article_id = T910703.214
+# sent_id = 4090
 # text = Wenn sich Berlin künftig - wie ein ins Wasser fallender Stein - ringförmig erweitern werde , solle dieser Entwicklung mit sogenannten Grünkeilen entgegengewirkt werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -844,7 +870,8 @@
 24	werden	werden	VAINF	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T910715.46
+# tuepp_article_id = T910715.46
+# sent_id = 4091
 # text = Da das Besondere aber schon immer etwas teurer war , können Hannovers Expo- Gegner angesichts der Haushaltslagen in Bonn und Hannover noch darauf hoffen , daß die Möchtegernweltstadt an der Leine mit den Weltstädten Wien und Venedig gleichzieht und die Expo auch hier ins Wasser fällt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -896,7 +923,8 @@
 46	fällt	fallen|fällen	VVFIN	2	2	2	2
 47	.	.	$.	*	*	*	*
 
-# article_id = T910708.117
+# tuepp_article_id = T910708.117
+# sent_id = 4092
 # text = Schon ab nachmittags flaniert man mit Kindern , Hunden und Freunden herum , sitzt , kauft , ißt und trinkt ( was dieses Jahr allerdings öfter ins Wasser fiel ) oder genießt diverse Kulturkulinarien bis in den späten Abend hinein .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -942,7 +970,8 @@
 40	hinein	hinein	PTKVZ	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T911213.180
+# tuepp_article_id = T911213.180
+# sent_id = 4093
 # text = Reeh : » Da fällt der ökologische Aspekt gänzlich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -959,7 +988,8 @@
 11	Wasser	Wasser	NN	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T910322.23
+# tuepp_article_id = T910322.23
+# sent_id = 4094
 # text = 1990 : Im Mai verliert Nordrhein-Westfalen gegen Bundesumweltminister Töpfer vor dem BVG in Karlsruhe : Die Neubewertung des umstrittensten Reaktors der Atomwirtschaft im Lichte von Tschernobyl fällt ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -994,7 +1024,8 @@
 29	Wasser	Wasser	NN	2	2	2	2
 30	.	.	$.	*	*	*	*
 
-# article_id = T910314.107
+# tuepp_article_id = T910314.107
+# sent_id = 4095
 # text = " Dann , Udo , fällt die Eiskunstlauf-WM ins Wasser !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1010,7 +1041,8 @@
 10	Wasser	Wasser	NN	2	2	2	2
 11	!	!	$.	*	*	*	*
 
-# article_id = T911116.137
+# tuepp_article_id = T911116.137
+# sent_id = 4096
 # text = Der vorläufige Autopsie-Bericht der spanischen Behörden war nach Angaben des ' Guardian ` nicht zur Feststellung gelangt , daß der Medienzar eines natürlichen Todes gestorben war , bevor er ins Wasser fiel .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1048,7 +1080,8 @@
 32	fiel	fallen	VVFIN	1	1	1	1
 33	.	.	$.	*	*	*	*
 
-# article_id = T911127.149
+# tuepp_article_id = T911127.149
+# sent_id = 4097
 # text = Weil sich jedoch auf seiten der Wagenburgler kein Sprecherrat gebildet hatte , mußte dieses Vorhaben ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1072,7 +1105,8 @@
 18	fallen	fallen	VVINF	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T910201.31
+# tuepp_article_id = T910201.31
+# sent_id = 4098
 # text = In diesem Jahr fällt der Spaß ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1086,7 +1120,8 @@
 8	Wasser	Wasser	NN	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T910213.23
+# tuepp_article_id = T910213.23
+# sent_id = 4099
 # text = Die Verteidigung behauptete , daß Ndladla nur in einen Korb in der Reinigungsmaschine gezwängt wurde und dann durch ein Loch in dem Korb in 90 Grad heißes Wasser fiel .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1121,7 +1156,8 @@
 29	fiel	fallen	VVFIN	1	1	1	1
 30	.	.	$.	*	*	*	*
 
-# article_id = T910216.45
+# tuepp_article_id = T910216.45
+# sent_id = 4100
 # text = Ebenso fiel ein Teil der im Vertrag vereinbarten Ausbildung von irakischem Personal ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1141,7 +1177,8 @@
 14	Wasser	Wasser	NN	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T900523.33
+# tuepp_article_id = T900523.33
+# sent_id = 4101
 # text = Die Neubewertung des umstrittensten Reaktor der deutschen Atomwirtschaft vor dem Hintergrund der Katastrophe von Tschernobyl fällt endgültig ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1166,7 +1203,8 @@
 19	Wasser	Wasser	NN	2	2	2	2
 20	.	.	$.	*	*	*	*
 
-# article_id = T900528.293
+# tuepp_article_id = T900528.293
+# sent_id = 4102
 # text = Nicht aus Kommunistenangst , sondern auf Abraten der Ärzte , fällt ein anderer Besuch vorerst ins Wasser : Der von Ronald Reagan in Berlin .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1196,7 +1234,8 @@
 24	Berlin	Berlin	NE	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T900605.274
+# tuepp_article_id = T900605.274
+# sent_id = 4103
 # text = Doch so richtig ins Wasser gefallen ist das Kulturfestival auf den Wiesen am Osterdeich in diesem Jahr nur am letzten der vier Tage .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1225,9 +1264,10 @@
 23	Tage	Tag	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T900615.260
+# tuepp_article_id = T900615.260
+# sent_id = 4104
 # text = , will seine Freundin , die amerikanische Jüdin Francie wissen : " Weil ein Elefant ins Wasser fiel .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	,	,	$,	*	*	*	*
 2	will	wollen	VMFIN	*	*	*	*
@@ -1249,7 +1289,8 @@
 18	fiel	fallen	VVFIN	1	1	1	1
 19	.	.	$.	*	*	*	*
 
-# article_id = T900612.228
+# tuepp_article_id = T900612.228
+# sent_id = 4105
 # text = Bei Niederschlägen von rund 100 Litern pro Quadratmeter fiel die Veranstaltung am Wannsee sprichwörtlich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1271,7 +1312,8 @@
 16	Wasser	Wasser	NN	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T900619.224
+# tuepp_article_id = T900619.224
+# sent_id = 4106
 # text = Der erste Termin am 10.6. fiel unter den Fluten des Berliner Dauerregens buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1293,7 +1335,8 @@
 16	Wasser	Wasser	NN	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T900611.218
+# tuepp_article_id = T900611.218
+# sent_id = 4107
 # text = Die offizielle 100-Jahr-Feier des Kreuzberger Urban-Krankenhauses fiel gestern weitgehend ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1310,7 +1353,8 @@
 11	Wasser	Wasser	NN	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T900907.125
+# tuepp_article_id = T900907.125
+# sent_id = 4108
 # text = " Im Gegensatz zu den Zuschauern und den Fernsehanstalten , die bitter enttäuscht sind , daß das mit Spannung erwartete Duell der alten Erzrivalen ins Wasser fällt , ist McEnroe , der sein Viertelfinale gegen David Wheaton ( USA ) souverän mit 6:1 , 6:4 , 6:4 gewann , jedoch heilfoh , daß er es im Halbfinale nicht mit dem grimmen Lendl zu tun bekommt , sondern mit dem wesentlich unerfahreneren und mutmaßlich geschwächten Sampras .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1391,7 +1435,8 @@
 75	Sampras	<unknown>	NN	*	*	*	*
 76	.	.	$.	*	*	*	*
 
-# article_id = T900908.208
+# tuepp_article_id = T900908.208
+# sent_id = 4109
 # text = Schafft die Verlobte nur 64 richtige Antworten , fällt die Hochzeit ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1410,7 +1455,8 @@
 13	Wasser	Wasser	NN	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T900426.123
+# tuepp_article_id = T900426.123
+# sent_id = 4110
 # text = Sonst freilich beschreibt die Fotografin nur das , was uns die Kamera sowieso fortwährend zeigen muß : wie sich Freundin " Pitz " bewegt , wie sie sich fotografieren läßt , daß sie den Fotokoffer trägt , ins Wasser fällt und ihre Jeans zum Trocknen aufhängt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1462,7 +1508,8 @@
 46	aufhängt	aufhängen	VVFIN	*	*	*	*
 47	.	.	$.	*	*	*	*
 
-# article_id = T900412.398
+# tuepp_article_id = T900412.398
+# sent_id = 4111
 # text = Noch bis gestern Mittag suchten Taucher der Bremer Wasserschutzpolizei auf dem Grund der Weser nach Geschoßhülsen , die am Montag nachmittag beim Verladen des US - Munitionsschiffes " Rover " im Nordenhammer Midgard-Hafen ins Wasser gefallen waren .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1505,7 +1552,8 @@
 37	waren	sein	VAFIN	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T900727.150
+# tuepp_article_id = T900727.150
+# sent_id = 4112
 # text = Die Strafprozeßordnung gebiete es , die Ermittlungen gegen ehemalige hohe Funktionäre zu Ende zu führen , selbst " wenn der Gerichtsprozeß in einem oder anderen Fall ins Wasser fallen sollte " , sagte der amtierende Generalstaatsanwalt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1547,7 +1595,8 @@
 36	Generalstaatsanwalt	Generalstaatsanwalt	NN	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T900721.121
+# tuepp_article_id = T900721.121
+# sent_id = 4113
 # text = Er stellt quasi den Sternenhimmel des Astrologen auf den Kopf , die besonderen Konstellationen fallen ins Wasser , wo Jakob sie aufliest .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1575,9 +1624,10 @@
 22	aufliest	auflesen	VVFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T901218.98
+# tuepp_article_id = T901218.98
+# sent_id = 4114
 # text = Sie konnte ja logischerweise nur auf die zehn zielen , die in der DDR waren , und der Rest , das Drumherum , mit " Kommando-Ebene " / Naher Osten war entweder das , was der VS glaubte , oder der Versuch , einen Stein ins Wasser fallen zu lassen und dann an unserer Reaktion etwas rauszukriegen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
 2	konnte	können	VMFIN	*	*	*	*
@@ -1638,7 +1688,8 @@
 57	rauszukriegen	rauskriegen	VVIZU	*	*	*	*
 58	.	.	$.	*	*	*	*
 
-# article_id = T901211.227
+# tuepp_article_id = T901211.227
+# sent_id = 4115
 # text = Wie in der Schlüsselszene , als der Vogel den Junge erschreckt , der ins Wasser fällt und beinahe ertrinkt , bis er sich der tragenden Kraft des Wassers anvertraut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1673,7 +1724,8 @@
 29	anvertraut	anvertrauen	VVPP	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T900804.78
+# tuepp_article_id = T900804.78
+# sent_id = 4116
 # text = Umständehalber mußten eine Angeltour und ein Spaziergang in der Wüste Gobi ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1693,7 +1745,8 @@
 14	fallen	fallen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T900312.241
+# tuepp_article_id = T900312.241
+# sent_id = 4117
 # text = Überhaupt fiel die ganze Chose ins Wasser , denn es strippte sich ein , noch bevor sich Billy in die Ohren der Menge einstrippen konnte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1724,7 +1777,8 @@
 25	konnte	können	VMFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T900302.210
+# tuepp_article_id = T900302.210
+# sent_id = 4118
 # text = Weil dem Bezirk dazu das Personal fehlt , wird der geplante Termin für die erste Sperrungsaktion , der 26. Mai , ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1755,7 +1809,8 @@
 25	fallen	fallen	VVINF	2	2	2	2
 26	.	.	$.	*	*	*	*
 
-# article_id = T900313.156
+# tuepp_article_id = T900313.156
+# sent_id = 4119
 # text = " Ob man einen Hund , der ins Wasser gefallen ist , schlagen soll oder nicht , hängt vom Verhalten des Hundes ab , wenn er wieder an Land kommt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1791,7 +1846,8 @@
 30	kommt	kommen	VVFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T900313.156
+# tuepp_article_id = T900313.156
+# sent_id = 4120
 # text = Auch wenn sie von selbst ins Wasser fallen , kann es nichts schaden , sie trotzdem zu verprügeln .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1815,7 +1871,8 @@
 18	verprügeln	verprügeln	VVINF	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T901117.208
+# tuepp_article_id = T901117.208
+# sent_id = 4121
 # text = Die Perversion dieses Films gipfelt darin , daß die Morde vor laufender Kamera mit einer nonchalanten Selbstverständlichkeit kommentiert werden , während in dem Moment , als eine 2.000-Dollar-Kamera ins Wasser fällt , auf die Kosten des Films hingewiesen wird .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1860,7 +1917,8 @@
 39	wird	werden	VAFIN	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T920615.68
+# tuepp_article_id = T920615.68
+# sent_id = 4122
 # text = " Wenn ich die Regierung nicht ausgewechselt hätte , wäre euer Kongreß ins Wasser gefallen , und ich säße heute vielleicht im Internierungslager " , erklärte Präsident Lech Walesa am Samstag sichtlich genervt den Delegierten des Solidarnosc- Kongresses in Danzig .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1906,7 +1964,8 @@
 40	Danzig	Danzig	NE	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T921021.211
+# tuepp_article_id = T921021.211
+# sent_id = 4123
 # text = Da wollen wir unserem Bundesumweltminister Klaus Töpfer mal was Gutes tun und freundlich über eines seiner Projekte berichten - und schon fallen unsere guten Absichten ins Wasser ; denn eigentlich hatten wir gestern vor , uns an die Fersen von sechs sogenannten " Klimabotschaftern " zu heften , die in unserer Stadt in U- und S-Bahnen das Gespräch mit den Fahrgästen suchen wollten - um diese in " ihrem umweltgerechten Verhalten zu bestärken " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1986,9 +2045,10 @@
 74	"	"	$(	*	*	*	*
 75	.	.	$.	*	*	*	*
 
-# article_id = T920918.123
+# tuepp_article_id = T920918.123
+# sent_id = 4124
 # text = Auf den ersten Blick scheint er buchstäblich ins Wasser gefallen zu sein .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Auf	auf	APPR	*	*	*	*
 2	den	die	ART	*	*	*	*
@@ -2004,7 +2064,8 @@
 12	sein	sein	VAINF	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T920905.273
+# tuepp_article_id = T920905.273
+# sent_id = 4125
 # text = Die an diesem Tag vorgesehenen Akrobatik- und Trickwettbewerbe fielen ersatzlos ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2022,7 +2083,8 @@
 12	Wasser	Wasser	NN	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T920127.148
+# tuepp_article_id = T920127.148
+# sent_id = 4126
 # text = Gegen 14 Uhr hatte sich ein Mann auf der dünnen und noch brüchigen Eisdecke etwa 20 Meter vom Ufer entfernt , als er in das Wasser fiel , teilte die Polizei am Abend mit .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2062,7 +2124,8 @@
 34	mit	mit	PTKVZ	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T920403.193
+# tuepp_article_id = T920403.193
+# sent_id = 4127
 # text = War das damals in Berlin , oder neulich bei Chandler in Los Angeles : Ein Präsident mit grinsender First Lady zu Besuch , ein abgesperrter Stadtteil , ein Sommer , der ins Wasser fällt ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2102,7 +2165,8 @@
 34	fällt	fallen|fällen	VVFIN	2	2	2	2
 35	?	?	$.	*	*	*	*
 
-# article_id = T920428.148
+# tuepp_article_id = T920428.148
+# sent_id = 4128
 # text = Zunächst habe sie gestanden , daß das Kind versehentlich ins Wasser gefallen sei , erst gegen Mitternacht , daß sie die Tat » bewußt « geplant und keinen anderen Ausweg aus der privaten Misere gesehen habe .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2144,7 +2208,8 @@
 36	habe	haben	VAFIN	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T920429.117
+# tuepp_article_id = T920429.117
+# sent_id = 4129
 # text = In Nürnbergs städtischen Bühnen fiel Benjamin Brittens Oper Tod in Venedig ins Wasser , in Regensburg wartet man vergeblich auf La boheme ( Puccini ) .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2175,9 +2240,10 @@
 25	)	)	$(	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T920421.226
+# tuepp_article_id = T920421.226
+# sent_id = 4130
 # text = Doch was für acht Uhr angekündigt war , ließ viele nach einer Stunde Warten enttäuscht wieder abziehen : Das Feuer drohte ins ( Regen- ) Wasser zu fallen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Doch	doch	KON	*	*	*	*
 2	was	was	PWS	*	*	*	*
@@ -2209,7 +2275,8 @@
 28	fallen	fallen	VVINF	2	2	2	2
 29	.	.	$.	*	*	*	*
 
-# article_id = T920721.95
+# tuepp_article_id = T920721.95
+# sent_id = 4131
 # text = In einem Teich unter dem Wasserfall leben Piranhas und andere Fische von dem , was ins Wasser fällt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2233,7 +2300,8 @@
 18	fällt	fallen|fällen	VVFIN	1	1	1	1
 19	.	.	$.	*	*	*	*
 
-# article_id = T920704.128
+# tuepp_article_id = T920704.128
+# sent_id = 4132
 # text = Statt dessen fiel eine vierwöchige Alternativveranstaltung , die parallel zum Umweltgipfel in Rio stattfinden sollte , ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2257,7 +2325,8 @@
 18	Wasser	Wasser	NN	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T920704.128
+# tuepp_article_id = T920704.128
+# sent_id = 4133
 # text = Klimakämpfer Heschelmann bittet alle Unterstützer des ins Wasser gefallenen Festes wie Greenpeace , Robin Wood und die Grünen Radler am kommenden Donnerstag um 19.30 Unr in das Büro des Stadtteilvereins Tiergarten Süd ( Pohlstraße 89 ) zu kommen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2301,7 +2370,8 @@
 38	kommen	kommen	VVINF	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T920703.164
+# tuepp_article_id = T920703.164
+# sent_id = 4134
 # text = Die fallen ja - vor allem als AnfängerInnen - bekanntlich beim Segeln gerne ins Wasser und tragen damit zur weiteren Verschmutzung bei .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2329,7 +2399,8 @@
 22	bei	bei	PTKVZ	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T921214.193
+# tuepp_article_id = T921214.193
+# sent_id = 4135
 # text = Nachdem lediglich Hamburg für die " besondere Berliner Problematik " Verständnis signalisierte - aus der Arbeitsgemeinschaft der Selbständigen in der SPD war zu vernehmen , daß die Kappungsgrenze bei einer Probeabstimmung im Bundesrat ins Wasser gefallen ist - , will sich der Senat in Bonn nun für eine Begrenzung der Gesetzesinitiative für Berlin und Brandenburg stark machen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2392,7 +2463,8 @@
 57	machen	machen	VVINF	*	*	*	*
 58	.	.	$.	*	*	*	*
 
-# article_id = T921219.27
+# tuepp_article_id = T921219.27
+# sent_id = 4136
 # text = Aber Unita stellte keine Polizisten - und so fiel der Streifendienst ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2411,7 +2483,8 @@
 13	Wasser	Wasser	NN	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T921222.234
+# tuepp_article_id = T921222.234
+# sent_id = 4137
 # text = Durch die starke Bauaktivität in der Innenstadt sei zu vermuten , daß in den letzten Jahren viel Bauschutt ins Wasser gefallen ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2439,9 +2512,10 @@
 22	ist	sein	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T920811.157
+# tuepp_article_id = T920811.157
+# sent_id = 4138
 # text = Haben sie Angst , ihre Arbeit könnte buchstäblich ins Wasser fallen ?
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Haben	haben	VAFIN	*	*	*	*
 2	sie	sie	PPER	*	*	*	*
@@ -2456,7 +2530,8 @@
 11	fallen	fallen	VVINF	2	2	2	2
 12	?	?	$.	*	*	*	*
 
-# article_id = T920803.169
+# tuepp_article_id = T920803.169
+# sent_id = 4139
 # text = Daß am Ende das Tüpfelchen auf dem i , die Watzmannbesteigung selbst , wegen eines Gewitters ins Wasser fallen mußte , hat das Erlebnis dieser Tour eigentlich nur wenig gemindert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2492,7 +2567,8 @@
 30	gemindert	mindern	VVPP	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T920817.131
+# tuepp_article_id = T920817.131
+# sent_id = 4140
 # text = Das Fest war wegen eines Protests der Lehrer gegen die umstrittene zusätzliche Unterrichtsstunde ins Wasser gefallen , soll aber heute während des regulären Unterrichts nachgeholt werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2524,7 +2600,8 @@
 26	werden	werden	VAINF	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T920821.56
+# tuepp_article_id = T920821.56
+# sent_id = 4141
 # text = Nachdem die rauschende Siegesfeier vor dem Weißen Haus in Moskau ins Wasser fiel , feiern die " VerteidigerInnen der Demokratie " in einer Wohnküche ihre neue Freiheit : " Wir haben die Barrikaden zu früh abgerissen "
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2566,7 +2643,8 @@
 36	abgerissen	abreißen	VVPP	*	*	*	*
 37	"	"	$(	*	*	*	*
 
-# article_id = T920326.95
+# tuepp_article_id = T920326.95
+# sent_id = 4142
 # text = Effekte werden bis zum Gehtnichtmehr ausgereizt : Peter Pan fällt ins Wasser , eine Nixe kommt und hilft ihm , dann kommt eine zweite und auch noch eine dritte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2601,9 +2679,10 @@
 29	dritte	dritt	ADJA	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T921105.76
+# tuepp_article_id = T921105.76
+# sent_id = 4143
 # text = Dabei fielen drei Regatten völlig ins Wasser , und ein halbes Dutzend Wettkämpfe wurde an nur einem Tag entschieden .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Dabei	dabei	PAV	*	*	*	*
 2	fielen	fallen	VVFIN	2	2	2	2
@@ -2626,7 +2705,8 @@
 19	entschieden	entscheiden	VVPP	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T921105.158
+# tuepp_article_id = T921105.158
+# sent_id = 4144
 # text = Die Demonstration der autonomen Gruppen und Antifa-Organisationen unter dem Motto " Schluß mit der rassistischen Asyldebatte - Verteidigt Artikel 16 des Grundgesetzes " fiel im wahrsten Sinne des Wortes ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2663,7 +2743,8 @@
 31	Wasser	Wasser	NN	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T921124.220
+# tuepp_article_id = T921124.220
+# sent_id = 4145
 # text = Rollstuhlfahrer fiel ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2672,7 +2753,8 @@
 3	ins	in	APPRART	1	1	1	1
 4	Wasser	Wasser	NN	1	1	1	1
 
-# article_id = T921117.196
+# tuepp_article_id = T921117.196
+# sent_id = 4146
 # text = So fällt die angekündigte Beantwortung von Lebens- und Liebes-Fragen ins Wasser , ebenso die Unterstützung von kulturellen Aktionen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2696,7 +2778,8 @@
 18	Aktionen	Aktion	NN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T921107.154
+# tuepp_article_id = T921107.154
+# sent_id = 4147
 # text = Einige waren bestens besucht , andere eher bescheiden , manche fielen ins Wasser oder organisatorischer Unfähigkeit zum Opfer .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2720,7 +2803,8 @@
 18	Opfer	Opfer	NN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T920222.117
+# tuepp_article_id = T920222.117
+# sent_id = 4148
 # text = Allabendlich sitzt man hier auf wackeligen Stühlen im Staub der Strandpromenade und paßt auf , wie die Sonne ins Wasser fällt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2747,7 +2831,8 @@
 21	fällt	fallen|fällen	VVFIN	1	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T920204.24
+# tuepp_article_id = T920204.24
+# sent_id = 4149
 # text = Die von den ostdeutschen Stahlarbeitern - so aus dem Hennigsdorfer Stahlwerk - schon per Telegramm und Telefax angekündigten Solidaritätsaktionen werden nun ebenso ins Wasser fallen , wie die schon zahlreich gedruckten Streikplakate nun in die Altpapiercontainer wandern werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2791,7 +2876,8 @@
 38	werden	werden	VAFIN	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T881014.93
+# tuepp_article_id = T881014.93
+# sent_id = 4150
 # text = Vorsitzender der Vereinigung , zeigte sich auf Nachfrage der taz wenig auskunftsfreudig : " Es ist nicht unsere Art , jetzt etwas zu sagen , wenn die Sache nachher ins Wasser fällt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2829,7 +2915,8 @@
 32	fällt	fallen|fällen	VVFIN	2	2	2	2
 33	.	.	$.	*	*	*	*
 
-# article_id = T880923.241
+# tuepp_article_id = T880923.241
+# sent_id = 4151
 # text = Protest-Konzert fiel ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2838,7 +2925,8 @@
 3	ins	in	APPRART	2	2	2	2
 4	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T880913.155
+# tuepp_article_id = T880913.155
+# sent_id = 4152
 # text = Nach dem ansprechenden Finale mußte die Pokalübergabe allerdings ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2855,7 +2943,8 @@
 11	fallen	fallen	VVINF	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T880922.101
+# tuepp_article_id = T880922.101
+# sent_id = 4153
 # text = Die Entscheidung für Pferde fällt heute ebenso wie für die Damen und Herren im Wasser , die mehrere hundert Meter hinter- und nebeneinander schwimmen wollen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2886,7 +2975,8 @@
 25	wollen	wollen	VMFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T880727.31
+# tuepp_article_id = T880727.31
+# sent_id = 4154
 # text = Die " Himmelskonferenz " mußte trotzdem nicht ins Wasser fallen , sondern tagte im Wackersdorfer Schwimmbad-Cafe in weltlich-neutralen Räumen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2911,7 +3001,8 @@
 19	Räumen	Raum|Räumen	NN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T880816.38
+# tuepp_article_id = T880816.38
+# sent_id = 4155
 # text = Für viele Polizisten fiel das Wochenende ins Wasser , nachdem am Freitag bekannt wurde , das außer des Kälbermästers Felix Hying jetzt auch dessen Kollege Bernhard Wigger wegen Hormonverseuchung von Kälbern in Verdacht steht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2951,7 +3042,8 @@
 34	steht	stehen	VVFIN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T880813.143
+# tuepp_article_id = T880813.143
+# sent_id = 4156
 # text = Die Poolparty im Schloßparkbad Bremen fällt heute und morgen hoffentlich nicht ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2969,7 +3061,8 @@
 12	ins	in	APPRART	2	2	2	2
 13	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T881104.52
+# tuepp_article_id = T881104.52
+# sent_id = 4157
 # text = Mal war angeblich die Stelle nicht zu finden , wo die DC9 ins Wasser gefallen war , dann erzählten sie etwas von " fehlerhafter Wartung " des Zivilflugzeugs .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3003,7 +3096,8 @@
 28	Zivilflugzeugs	Zivilflugzeug	NN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T880216.26
+# tuepp_article_id = T880216.26
+# sent_id = 4158
 # text = Gephardt läßt sein Publikum warten , doch die kostenlose Unterhaltung - " eine Drei-Mann- Combo " war eingeplant , wie ein Mitarbeiter verrät - ist wegen irgendwelcher Schwierigkeiten ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3040,7 +3134,8 @@
 31	gefallen	fallen|gefallen	VVPP	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T870613.55
+# tuepp_article_id = T870613.55
+# sent_id = 4159
 # text = Es ist die Ungeduld des Zuschauers , der miterlebt , wie vor seinen Augen eine groß angekündigte Inszenierung ins Wasser fällt und nicht mehr zu retten ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3073,7 +3168,8 @@
 27	ist	sein	VAFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T870107.44
+# tuepp_article_id = T870107.44
+# sent_id = 4160
 # text = Prominenteste Fahtgäste des Wochenendes waren ein Hochzeitspaar , dessen feierlicher Bund fürs Leben fast ins Wasser gefallen wäre .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3097,7 +3193,8 @@
 18	wäre	sein	VAFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T870428.30
+# tuepp_article_id = T870428.30
+# sent_id = 4161
 # text = Am Sonntag waren trotz strömendem Regen Hunderte von Besuchern gekommen , das geplante Fest fiel ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3120,7 +3217,8 @@
 17	Wasser	Wasser	NN	2	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T870807.78
+# tuepp_article_id = T870807.78
+# sent_id = 4162
 # text = Gemeldet ist Herr Groß , der Start von Carsten Hoffmann fällt ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3139,9 +3237,10 @@
 13	Wasser	Wasser	NN	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T870806.66
+# tuepp_article_id = T870806.66
+# sent_id = 4163
 # text = Wer es nicht schafft , fällt ins Wasser - und kann sich , zum schadenfrohen Gelächter , auch noch Pusteln holen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Wer	wer	PWS	*	*	*	*
 2	es	es	PPER	*	*	*	*
@@ -3166,7 +3265,8 @@
 21	holen	holen	VVINF	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T860929.45
+# tuepp_article_id = T860929.45
+# sent_id = 4164
 # text = Inzwischen zweifeln Experten daran , ob die ins Wasser gefallene U-Bahn-Eröffnung überhaupt hätte stattfinden können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3187,7 +3287,8 @@
 15	können	können	VMINF	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T861124.39
+# tuepp_article_id = T861124.39
+# sent_id = 4165
 # text = Die geplante Versteigerung von willigen Sklaven der modernen Arbeitsgesellschaft fiel jedoch ins Wasser : Pünktlich um 10.00 Uhr rappelte zwar ein mit Transparenten behängter Leiterwagen auf den Platz , doch dort hatten sich bei leichtem Regen nur wenig mehr als 100 Initiativler eingefunden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3236,7 +3337,8 @@
 43	eingefunden	einfinden	VVPP	*	*	*	*
 44	.	.	$.	*	*	*	*
 
-# article_id = T930524.96
+# tuepp_article_id = T930524.96
+# sent_id = 4166
 # text = Der Hochsprung fiel aus Sicherheitsgründen buchstäblich ins Wasser , und als verwegene Sportlerinnen und Sportler in der Sprunggrube ein Unterwasserballett einstudieren wollten , beendete man den Weitsprung nach dem dritten Durchgang .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3273,7 +3375,8 @@
 31	Durchgang	Durchgang	NN	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T930508.260
+# tuepp_article_id = T930508.260
+# sent_id = 4167
 # text = Erst fällt die kleine Frau Pilz ins Wasser , und die Siebzigjährige droht von den Fluten hinweggerissen zu werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3298,7 +3401,8 @@
 19	werden	werden	VAINF	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T930513.216
+# tuepp_article_id = T930513.216
+# sent_id = 4168
 # text = Das großangelegte Reinemachen der Vergnügungsmeile , 1991 gemeinsam von Kiez- Immobiliensammler Claus Becker und Yuppie-Gastronomie-Trendsetter Hubert Sterzinger geplant , ist nun endgültig ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3329,7 +3433,8 @@
 25	gefallen	fallen|gefallen	VVPP	2	2	2	2
 26	.	.	$.	*	*	*	*
 
-# article_id = T930522.177
+# tuepp_article_id = T930522.177
+# sent_id = 4169
 # text = Besonders sauer ist Trakies aber darüber , daß das Konzept einer Auffanggesellschaft , die die soliden Projekte der GfbA übernimmt , ins Wasser gefallen ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3360,7 +3465,8 @@
 25	ist	sein	VAFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T930528.138
+# tuepp_article_id = T930528.138
+# sent_id = 4170
 # text = Wenn auf eine Schönwetterperiode schlechtes Wetter folge , falle weniger Licht ins Wasser , und somit werde der Sauerstoffanteil verringert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3386,7 +3492,8 @@
 20	verringert	verringern	VVPP	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T930612.290
+# tuepp_article_id = T930612.290
+# sent_id = 4171
 # text = Zuerst wurde sie durch eine Grippe gestoppt , danach fielen jede Menge World-Cup- Veranstaltungen ins Wasser - fehlende Sponsoren waren der Grund dafür .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3415,7 +3522,8 @@
 23	dafür	dafür	PAV	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T930607.208
+# tuepp_article_id = T930607.208
+# sent_id = 4172
 # text = Die Breminale erklärt abschließend und offiziell , daß die Breminale so wie ihre Fische - die auf den Stelzen - fast ins Wasser gefallen wäre , wenn nicht doch zig Menschen gekommen wären , vor allem am Sonntag .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3459,7 +3567,8 @@
 38	Sonntag	Sonntag	NN	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T931009.157
+# tuepp_article_id = T931009.157
+# sent_id = 4173
 # text = Mit den Augen suche ich meine Pose , sie ist weg , ich bemerke die Rute , über die unablässig Schnur abläuft , mit zwei Sätzen bin ich an der Angel , falle fast ins Wasser , jetzt habe ich die Rolle im Griff , ziehe an und fühle den Fisch .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3516,9 +3625,10 @@
 51	Fisch	Fisch	NN	*	*	*	*
 52	.	.	$.	*	*	*	*
 
-# article_id = T931009.160
+# tuepp_article_id = T931009.160
+# sent_id = 4174
 # text = Er könnte ja ins Wasser fallen .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
 2	könnte	können	VMFIN	*	*	*	*
@@ -3528,7 +3638,8 @@
 6	fallen	fallen	VVINF	1	1	1	1
 7	.	.	$.	*	*	*	*
 
-# article_id = T930916.80
+# tuepp_article_id = T930916.80
+# sent_id = 4175
 # text = Mit der ins Wasser gefallenen NDR-Wahlsendung " Im Kreuzfeuer - Die Hamburger Spitzenkandidaten " hat der hilflose Antifaschismus eine neue Narrenkappe errungen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3556,7 +3667,8 @@
 22	errungen	erringen	VVPP	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T930903.193
+# tuepp_article_id = T930903.193
+# sent_id = 4176
 # text = Die herbeigesehnte Befreiung bei gleichzeitiger Fortdauer des als beängstigend Erlebten im Hintergrund fiel buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3578,7 +3690,8 @@
 16	Wasser	Wasser	NN	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T930927.244
+# tuepp_article_id = T930927.244
+# sent_id = 4177
 # text = Der Auftakt des 10. Weltcups der Segelsurfer vor Westerland / Sylt fiel wegen Flaute ins Wasser . .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3602,7 +3715,8 @@
 18	.	.	$.	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T930107.103
+# tuepp_article_id = T930107.103
+# sent_id = 4178
 # text = Fast wäre die Rückkehr des inzwischen mächtig abgespeckten Ballkünstlers an seine alte Wirkungsstätte allerdings ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3625,7 +3739,8 @@
 17	gefallen	fallen|gefallen	VVPP	2	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T930104.254
+# tuepp_article_id = T930104.254
+# sent_id = 4179
 # text = Beim Vertäuen einer Schute am Kai der Norddeutschen Affinerie in Rothenburgsort fiel gestern ein Mitglied der Besatzung aus bisher nicht bekannter Ursache ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3655,7 +3770,8 @@
 24	Wasser	Wasser	NN	1	1	1	1
 25	.	.	$.	*	*	*	*
 
-# article_id = T930106.138
+# tuepp_article_id = T930106.138
+# sent_id = 4180
 # text = Unklar ist bislang , ob der Sechsjährige aus Hellersdorf durch ein Unglück in das Wasser des Flusses Dahme gefallen ist oder möglicherweise von seinem Onkel ermordet wurde .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3688,7 +3804,8 @@
 27	wurde	werden	VAFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T930401.191
+# tuepp_article_id = T930401.191
+# sent_id = 4181
 # text = Baustaatsrat Jürgen Lüthge : " Wahrscheinlich fällt die Brücke am Montag ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3707,7 +3824,8 @@
 13	Wasser	Wasser	NN	1	2	1	1
 14	.	.	$.	*	*	*	*
 
-# article_id = T930705.68
+# tuepp_article_id = T930705.68
+# sent_id = 4182
 # text = Während die südafrikanische Demokratiekonferenz in Johannesburg am Freitag die langersehnte Ankündigung der ersten freien Wahlen in der Geschichte Südafrikas am 27. April 1994 unternahm , fiel ein geplanter Fototermin von de Klerk , Mandela und Bill Clinton im Weißen Haus ins Wasser : Mandela sagte ab .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3760,7 +3878,8 @@
 47	ab	ab	PTKVZ	*	*	*	*
 48	.	.	$.	*	*	*	*
 
-# article_id = T930721.193
+# tuepp_article_id = T930721.193
+# sent_id = 4183
 # text = Trübsinn jeden Tag am Himmel , Trübsinn auch unter den nicht urlaubenden EinwohnerInnen Norddeutschlands , denen regelmäßig die Wochenenderholung ins Wasser fällt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3788,7 +3907,8 @@
 22	fällt	fallen|fällen	VVFIN	2	2	2	2
 23	.	.	$.	*	*	*	*
 
-# article_id = T930702.202
+# tuepp_article_id = T930702.202
+# sent_id = 4184
 # text = Wenn unser Mann versagt , fällt eine dolle Eröffnung ins Wasser : am Sonntag in Bremen - da tritt Herr Lutz auf .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3816,7 +3936,8 @@
 22	auf	auf	PTKVZ	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T930731.38
+# tuepp_article_id = T930731.38
+# sent_id = 4185
 # text = Viele Verbraucher seien durch Konkurse von Veranstaltern geschädigt worden , wobei nicht nur der geplante Urlaub ins Wasser fiel , sondern auch das vorab gezahlte Geld verloren war .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3850,7 +3971,8 @@
 28	war	sein	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T931223.27
+# tuepp_article_id = T931223.27
+# sent_id = 4186
 # text = In Saarbrückens Innenstadt fällt wegen überfluteter Verkaufsflächen das Weihnachtsgeschäft buchstäblich ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3867,7 +3989,8 @@
 11	ins	in	APPRART	2	2	2	2
 12	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T931223.27
+# tuepp_article_id = T931223.27
+# sent_id = 4187
 # text = Auch viele Verkaufsflächen sind bereits überflutet , das große Weihnachtsgeschäft mit den Spätentschlossenen , die wegen gesperrter Straßen das Zentrum ohnehin kaum noch erreichen , fällt buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3902,7 +4025,8 @@
 29	Wasser	Wasser	NN	2	2	2	2
 30	.	.	$.	*	*	*	*
 
-# article_id = T930811.109
+# tuepp_article_id = T930811.109
+# sent_id = 4188
 # text = Das Tier war auf der Hafenmole zum Leuchtturm einer Möwe hinterhergejagt und dabei ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3924,7 +4048,8 @@
 16	gefallen	fallen|gefallen	VVPP	1	1	1	1
 17	.	.	$.	*	*	*	*
 
-# article_id = T930813.98
+# tuepp_article_id = T930813.98
+# sent_id = 4189
 # text = Biblische Sintflut : Die Wettbewerbe fielen ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3938,7 +4063,8 @@
 8	Wasser	Wasser	NN	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T930819.211
+# tuepp_article_id = T930819.211
+# sent_id = 4190
 # text = Der Gerettete berichtete , daß in der Nacht zuvor Feuer auf dem Schiff ausgebrochen sei , dann riß wahrscheinlich eine Trosse , so daß fünf der sechs Besatzungsmitglieder ins Wasser fielen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3975,7 +4101,8 @@
 31	fielen	fallen	VVFIN	1	1	1	1
 32	.	.	$.	*	*	*	*
 
-# article_id = T930825.106
+# tuepp_article_id = T930825.106
+# sent_id = 4191
 # text = Im Märchen von Hans Christian Andersen geht das - folgt man den Deutungen der Psychoanalytikerin Eva Poluda-Korte - etwa so : Die kleine Seejungfrau verliebte sich in den Prinzen , der ins Wasser gefallen war .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4016,7 +4143,8 @@
 35	war	sein	VAFIN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T930806.94
+# tuepp_article_id = T930806.94
+# sent_id = 4192
 # text = Die anderen beiden nahmen den Fahrer zur Brücke und versuchten , ihn in den Fluß zu werfen ; zum Glück hielt er sich am Geländer fest und fiel so nicht ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4054,7 +4182,8 @@
 32	Wasser	Wasser	NN	1	1	1	1
 33	.	.	$.	*	*	*	*
 
-# article_id = T930805.224
+# tuepp_article_id = T930805.224
+# sent_id = 4193
 # text = Der Sonntag wird erstmals in für einen Überraschungsfilm freigehalten : Falls also doch einmal ein Film ins Wasser fallen sollte , kann er am Sonntag wiederholt werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4087,7 +4216,8 @@
 27	werden	werden	VAINF	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T930306.326
+# tuepp_article_id = T930306.326
+# sent_id = 4194
 # text = Enttäuschung bei Kiels Segelfans : das Baltic-Matchrace , Deutschlands renommierteste Preisgeld-Segelregatta fällt nun endgültig ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4109,7 +4239,8 @@
 16	Wasser	Wasser	NN	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T930306.326
+# tuepp_article_id = T930306.326
+# sent_id = 4195
 # text = Seine beiden anderen Segelveranstaltungen fallen nun auch ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4124,7 +4255,8 @@
 9	Wasser	Wasser	NN	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T931113.361
+# tuepp_article_id = T931113.361
+# sent_id = 4196
 # text = Beim Arbeitsamt fällt Weihnachten ins Wasser : Für Arbeitslose seien keine Zulagen vorgesehen , sagt Anja Eisenhuth von der Pressestelle der Hamburger Arbeitsverwaltung .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4153,7 +4285,8 @@
 23	Arbeitsverwaltung	Arbeitsverwaltung	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T930209.86
+# tuepp_article_id = T930209.86
+# sent_id = 4197
 # text = Sämtliche für das Wochenende geplanten Rennen fielen sprichwörtlich ins Wasser , und noch immer ist keine meteorologische Besserung in Sicht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4179,9 +4312,10 @@
 20	Sicht	Sicht	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T960504.262
+# tuepp_article_id = T960504.262
+# sent_id = 4198
 # text = Schön gelang auch ein Erlebnis-Strand mit einem Geräusch , als falle man soeben ins Wasser .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Schön	schön	ADJD	*	*	*	*
 2	gelang	gelingen	VVFIN	*	*	*	*
@@ -4200,7 +4334,8 @@
 15	Wasser	Wasser	NN	1	1	1	1
 16	.	.	$.	*	*	*	*
 
-# article_id = T960524.109
+# tuepp_article_id = T960524.109
+# sent_id = 4199
 # text = " Ich bin ins Wasser gefallen und habe mich stundenlang an einem Bündel Bananen festgehalten , bis dann ein Schiff kam und mich aufnahm " , erzählt die Krankenschwester Eunice Kagaruki , die mit Rückenverletzungen im Krankenhaus liegt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4244,7 +4379,8 @@
 38	liegt	liegen	VVFIN	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T960628.209
+# tuepp_article_id = T960628.209
+# sent_id = 4200
 # text = Zeit allerdings hätte der Bausenator : Die geplante China-Visite Klemanns mit Bundesbauminister Klaus Töpfer ist ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4268,9 +4404,10 @@
 18	gefallen	fallen|gefallen	VVPP	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T960613.158
+# tuepp_article_id = T960613.158
+# sent_id = 4201
 # text = Frau Dr. Ott war ein bißchen betroffen und beklagte , daß so etwas zweifellos " keine schöne Sache " sei : " Da fällt man schon mal in warmes Wasser , und dann gibt 's da Haie !
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Frau	Frau	NN	*	*	*	*
 2	Dr.	Dr.	NN	*	*	*	*
@@ -4311,7 +4448,8 @@
 37	Haie	Hai	NN	*	*	*	*
 38	!	!	$.	*	*	*	*
 
-# article_id = T960604.213
+# tuepp_article_id = T960604.213
+# sent_id = 4202
 # text = Atomausstieg fällt ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4320,7 +4458,8 @@
 3	ins	in	APPRART	2	2	2	2
 4	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T960612.248
+# tuepp_article_id = T960612.248
+# sent_id = 4203
 # text = Als im Juli 1993 der Reiseveranstalter MP Travel-Line pleite ging , fiel der Urlaub seiner Kunden buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4345,7 +4484,8 @@
 19	Wasser	Wasser	NN	2	2	2	2
 20	.	.	$.	*	*	*	*
 
-# article_id = T961009.70
+# tuepp_article_id = T961009.70
+# sent_id = 4204
 # text = Bis Silvester 1992 hatte der Bundestag Zeit gehabt , das EU-Recht im Bürgerlichen Gesetzbuch zu verankern - damit Reisende , deren Urlaub wegen Konkurses des Veranstalters ins Wasser fällt , ihr Geld wiedersehen oder ohne Zusatzkosten nach Hause kommen , wenn sie von der Pleite in fernen Ländern überrascht werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4401,9 +4541,10 @@
 50	werden	werden	VAINF	*	*	*	*
 51	.	.	$.	*	*	*	*
 
-# article_id = T961018.50
+# tuepp_article_id = T961018.50
+# sent_id = 4205
 # text = Und sein Buckel fiel ins Wasser .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Und	und	KON	*	*	*	*
 2	sein	sein	PPOSAT	*	*	*	*
@@ -4413,7 +4554,8 @@
 6	Wasser	Wasser	NN	2	2	2	2
 7	.	.	$.	*	*	*	*
 
-# article_id = T961018.313
+# tuepp_article_id = T961018.313
+# sent_id = 4206
 # text = Schwimmen fällt ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4422,7 +4564,8 @@
 3	ins	in	APPRART	2	2	2	2
 4	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T961014.182
+# tuepp_article_id = T961014.182
+# sent_id = 4207
 # text = Nachdem die Hochzeit ins Wasser fiel , dürfe die Schauspielerin nur noch als Touristin maximal drei Monate in der Schweiz weilen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4449,7 +4592,8 @@
 21	weilen	weilen	VVINF	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T961005.108
+# tuepp_article_id = T961005.108
+# sent_id = 4208
 # text = Das in Malaga geplante Spiel fiel aber ins Wasser - zunächst weil Jean-Marc lieber in Paris spielen wollte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4473,7 +4617,8 @@
 18	wollte	wollen	VMFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T961008.79
+# tuepp_article_id = T961008.79
+# sent_id = 4209
 # text = Zwei Personen fielen ins Wasser , wurden aber unverletzt gerettet .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4489,7 +4634,8 @@
 10	gerettet	retten	VVPP	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T960921.109
+# tuepp_article_id = T960921.109
+# sent_id = 4210
 # text = Liegt es etwa an uns , daß der uralte Zirbenwald als Programmpunkt ins Wasser fiel ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4510,7 +4656,8 @@
 15	fiel	fallen	VVFIN	2	2	2	2
 16	?	?	$.	*	*	*	*
 
-# article_id = T960928.82
+# tuepp_article_id = T960928.82
+# sent_id = 4211
 # text = Und die Sonderschicht am Samstag , also heute , werde wohl ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4530,7 +4677,8 @@
 14	fallen	fallen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T960905.218
+# tuepp_article_id = T960905.218
+# sent_id = 4212
 # text = Weil der Senat die BVG finanziell zunehmend kurzhalte , falle möglicherweise die Bestellung von Doppeldeckerbussen ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4553,7 +4701,8 @@
 17	Wasser	Wasser	NN	2	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T960418.205
+# tuepp_article_id = T960418.205
+# sent_id = 4213
 # text = Entscheidung fällt ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4562,9 +4711,10 @@
 3	ins	in	APPRART	2	2	2	2
 4	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T960422.133
+# tuepp_article_id = T960422.133
+# sent_id = 4214
 # text = Sie wird ein veritabler Klubhit und ist der sprichwörtliche Stein , der ins Wasser fällt und bis heute Wellen schlägt .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
 2	wird	werden	VAFIN	*	*	*	*
@@ -4588,7 +4738,8 @@
 20	schlägt	schlagen	VVFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T960423.220
+# tuepp_article_id = T960423.220
+# sent_id = 4215
 # text = Reiseerinnerungen nach 70 Minuten : Mal war 's heiß , mal fiel wer ins Wasser , mal fiel in China ein Sack Reis um .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4618,7 +4769,8 @@
 24	um	um	PTKVZ	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T960404.236
+# tuepp_article_id = T960404.236
+# sent_id = 4216
 # text = Das als " Konzertereignis des Jahres " angekündigte Spektakel fiel buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4637,7 +4789,8 @@
 13	Wasser	Wasser	NN	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T960802.68
+# tuepp_article_id = T960802.68
+# sent_id = 4217
 # text = Doch die Halbzeitbilanz , für die er zu rot-grünen Zeiten noch eine 200 Textseiten umfassende Loseblattsammlung erstellen ließ , fiel diesmal ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4666,7 +4819,8 @@
 23	Wasser	Wasser	NN	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T960831.363
+# tuepp_article_id = T960831.363
+# sent_id = 4218
 # text = " Ins Wasser gefallen ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4676,7 +4830,8 @@
 4	gefallen	fallen|gefallen	VVPP	1	1	1	1
 5	?	?	$.	*	*	*	*
 
-# article_id = T960816.227
+# tuepp_article_id = T960816.227
+# sent_id = 4219
 # text = Wenn dann ein Sommer so ins Wasser fällt wie dieses Jahr , bangt die Weiße Flotte Potsdam um jeden Fahrgast .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4702,7 +4857,8 @@
 20	Fahrgast	Fahrgast	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T960318.125
+# tuepp_article_id = T960318.125
+# sent_id = 4220
 # text = Sie fielen ins Wasser ; die Männer lachten , während sie zusahen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4720,7 +4876,8 @@
 12	zusahen	zusehen	VVFIN	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T960315.236
+# tuepp_article_id = T960315.236
+# sent_id = 4221
 # text = Damit fiel auch der Gewinn für die Verkäufer ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4736,7 +4893,8 @@
 10	Wasser	Wasser	NN	2	2	2	2
 11	.	.	$.	*	*	*	*
 
-# article_id = T961113.113
+# tuepp_article_id = T961113.113
+# sent_id = 4222
 # text = Besuche von Zyperntürken jenseits der Demarkationslinie fielen dagegen in jüngster Zeit ins Wasser : Die Teilnehmer erhielten von der eigenen Administration keine Genehmigung .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4765,9 +4923,10 @@
 23	Genehmigung	Genehmigung	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T980518.232
+# tuepp_article_id = T980518.232
+# sent_id = 4223
 # text = Am Fährdamm fiel ein weiteres Dutzend ins Wasser und wurde naß .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
 2	Fährdamm	<unknown>	NN	*	*	*	*
@@ -4782,7 +4941,8 @@
 11	naß	nass	ADJD	*	*	*	*
 12	.	.	$.	*	*	*	*
 
-# article_id = T980516.139
+# tuepp_article_id = T980516.139
+# sent_id = 4224
 # text = Wenn es kentere , fielen alle ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4796,7 +4956,8 @@
 8	Wasser	Wasser	NN	1	1	1	1
 9	.	.	$.	*	*	*	*
 
-# article_id = T980502.339
+# tuepp_article_id = T980502.339
+# sent_id = 4225
 # text = Der Tag der deutschen Einheit fällt für mich also ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4813,7 +4974,8 @@
 11	Wasser	Wasser	NN	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T980617.90
+# tuepp_article_id = T980617.90
+# sent_id = 4226
 # text = Das geplante Konzert in Mailand fällt erst mal ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4829,7 +4991,8 @@
 10	Wasser	Wasser	NN	2	2	2	2
 11	.	.	$.	*	*	*	*
 
-# article_id = T980905.51
+# tuepp_article_id = T980905.51
+# sent_id = 4227
 # text = Die Premiere der 27 Millionen Mark teuren Produktion drohte gestern allerdings noch ins Wasser zu fallen : wegen schwerer Regenfälle .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4855,7 +5018,8 @@
 20	Regenfälle	Regenfall	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T980914.8
+# tuepp_article_id = T980914.8
+# sent_id = 4228
 # text = Während die SchülerInnen im strömenden Regen unverdrossen kundtaten , wie gern sie " mehr über das Alte Rom " wissen wollten , und auch die Models der römischen Modenschau tapfer den Fluten trotzten , fielen die " Gladiatorenkämpfe " leider ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4903,7 +5067,8 @@
 42	Wasser	Wasser	NN	2	2	2	2
 43	.	.	$.	*	*	*	*
 
-# article_id = T980911.257
+# tuepp_article_id = T980911.257
+# sent_id = 4229
 # text = Die einst geplante zentrale Aktion gegen die Erwerbslosigkeit vor der Bundestagswahl fällt damit ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4924,7 +5089,8 @@
 15	Wasser	Wasser	NN	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T980925.229
+# tuepp_article_id = T980925.229
+# sent_id = 4230
 # text = In einem Zehlendorfer Wahllokal könnte die Wahl ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4940,7 +5106,8 @@
 10	fallen	fallen	VVINF	2	2	2	2
 11	.	.	$.	*	*	*	*
 
-# article_id = T980415.251
+# tuepp_article_id = T980415.251
+# sent_id = 4231
 # text = Im Ergebnis führte die Debatte dazu , den 1. Mai dieses Jahr in Berlin ins Wasser fallen zu lassen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4966,7 +5133,8 @@
 20	lassen	lassen	VVINF	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T980408.237
+# tuepp_article_id = T980408.237
+# sent_id = 4232
 # text = Mal heißt es , die Räumung falle gänzlich ins Wasser , weil dem Gerichtsvollzieher ein Formfehler unterlaufen sei .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4990,7 +5158,8 @@
 18	sei	sein	VAFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T980411.161
+# tuepp_article_id = T980411.161
+# sent_id = 4233
 # text = Aktuelle Vorhaben wie die fortlaufende Dokumentierung der achtundsechziger Revolte fielen ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5008,7 +5177,8 @@
 12	Wasser	Wasser	NN	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T980731.255
+# tuepp_article_id = T980731.255
+# sent_id = 4234
 # text = Die Chaostage fallen in diesem Jahr offensichtlich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5023,7 +5193,8 @@
 9	Wasser	Wasser	NN	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T981202.248
+# tuepp_article_id = T981202.248
+# sent_id = 4235
 # text = Das Auto , so erklärte gestern die Feuerwehr , war von einem Binnenschiff ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5045,7 +5216,8 @@
 16	gefallen	fallen|gefallen	VVPP	1	1	1	1
 17	.	.	$.	*	*	*	*
 
-# article_id = T981228.176
+# tuepp_article_id = T981228.176
+# sent_id = 4236
 # text = Das Feuerwerk an Silvester wird wahrscheinlich nicht ins Wasser fallen , aber in einen klaren Sternenhimmel können die Raketen auch nicht geschossen werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5074,7 +5246,8 @@
 23	werden	werden	VAINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T981224.286
+# tuepp_article_id = T981224.286
+# sent_id = 4237
 # text = Wie in das Blau des Sees hineingeschnitten fallen im Süden die Hänge Copacabanas und im Norden die der Sonneninsel steil ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5102,7 +5275,8 @@
 22	Wasser	Wasser	NN	1	2	2	2
 23	.	.	$.	*	*	*	*
 
-# article_id = T980804.104
+# tuepp_article_id = T980804.104
+# sent_id = 4238
 # text = Dann lobt er gebührend - und , falls die Meisterfeier ins Wasser fallen sollte , auch zur Sicherheit - das herzerfrischende Polo der Cottbuser , nicht ohne ein schnelles " Eigentlich wären wir mal wieder mit dem Titel dran " hinterherzuschieben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5149,7 +5323,8 @@
 41	hinterherzuschieben	hinterherschieben	VVIZU	*	*	*	*
 42	.	.	$.	*	*	*	*
 
-# article_id = T981103.236
+# tuepp_article_id = T981103.236
+# sent_id = 4239
 # text = Der diesjährige Bremer Freimarkt ist weitgehend ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5164,7 +5339,8 @@
 9	gefallen	fallen|gefallen	VVPP	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T981102.222
+# tuepp_article_id = T981102.222
+# sent_id = 4240
 # text = Der goldene Oktober ist in diesem Jahr im wahrsten Sinne des Wortes ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5185,7 +5361,8 @@
 15	gefallen	fallen|gefallen	VVPP	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T980228.162
+# tuepp_article_id = T980228.162
+# sent_id = 4241
 # text = " Bedecktes und Verwußtes " verschrauben sich zu neuen Begriffen ; Wortungetüme türmen sich zu himmelhohen Wendungen , die , durch kleine Schwenks um Bedeutungsachsen gedreht , ins klare Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5222,7 +5399,8 @@
 31	fallen	fallen	VVINF	1	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T980225.92
+# tuepp_article_id = T980225.92
+# sent_id = 4242
 # text = Gestern warnte er : Falls das Projekt ins Wasser fiele , würde die ganze Welt auf Greenwich blicken und eine Brachfläche mit einem Hinweisschild sehen : " Britannien 2000 - nichts passiert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5260,7 +5438,8 @@
 32	passiert	passieren	VVFIN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T970512.25
+# tuepp_article_id = T970512.25
+# sent_id = 4243
 # text = Damit fällt auch Finis Auftritt in der Europäischen Akademie ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5277,7 +5456,8 @@
 11	Wasser	Wasser	NN	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T970506.195
+# tuepp_article_id = T970506.195
+# sent_id = 4244
 # text = Der gestrige Europa-Tag ist ins Wasser gefallen , zumindest für die meisten der elf Berliner Europa- Grundschulen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5300,7 +5480,8 @@
 17	Grundschulen	Grundschule	NN	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T970514.116
+# tuepp_article_id = T970514.116
+# sent_id = 4245
 # text = Die geplante Reise nach Gaza zu einem Treffen mit PLO-Chef Jassir Arafat fiel ebenfalls ins Wasser , da der Gaza- Streifen an diesem Tag einmal wieder abgeriegelt war .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5334,7 +5515,8 @@
 28	war	sein	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T970509.269
+# tuepp_article_id = T970509.269
+# sent_id = 4246
 # text = Die GAL warnte lediglich , vor lauter Gewerbetraum drohe der Wohnungsbau ins Wasser zu fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5355,7 +5537,8 @@
 15	fallen	fallen	VVINF	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T970625.265
+# tuepp_article_id = T970625.265
+# sent_id = 4247
 # text = Was darauf hindeutet , daß auch am Holzhafen das Wohnen am Wasser in selbiges fällt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5376,7 +5559,8 @@
 15	fällt	fallen|fällen	VVFIN	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T970908.74
+# tuepp_article_id = T970908.74
+# sent_id = 4248
 # text = Und fast sah es so aus , als ob auch das Fest der Anti-Atom-Firma Salinas und der taz am Samstag vorm Gorlebner Castor-Lager ins Wasser fallen sollte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5409,7 +5593,8 @@
 27	sollte	sollen	VMFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T970922.233
+# tuepp_article_id = T970922.233
+# sent_id = 4249
 # text = Die irre " Besucherregelung " für die Köpenicker Solarboote ist damit ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5429,7 +5614,8 @@
 14	gefallen	fallen|gefallen	VVPP	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T970922.260
+# tuepp_article_id = T970922.260
+# sent_id = 4250
 # text = Im Frühsommer hatte das Wetter den Bademeistern übel mitgespielt , besonders bei den Abendveranstaltungen : Im Stadionbad fielen das Open Air Kino oder der " Heart Breaker-s Ball " ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5466,7 +5652,8 @@
 31	Wasser	Wasser	NN	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T970115.99
+# tuepp_article_id = T970115.99
+# sent_id = 4251
 # text = Nur die acht , die ins Wasser gefallen sind , bleiben noch da .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -5485,7 +5672,8 @@
 13	da	da	PTKVZ	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T970416.15
+# tuepp_article_id = T970416.15
+# sent_id = 4252
 # text = Berlin ( taz ) - Die Protestaktionen in Zaires Hauptstadt Kinshasa , mit denen die zivile Opposition unter Etienne Tshisekedi den Staatschef Mobutu stürzen will , sind gestern ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5522,7 +5710,8 @@
 31	gefallen	fallen|gefallen	VVPP	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T970423.237
+# tuepp_article_id = T970423.237
+# sent_id = 4253
 # text = Das " Konzertereignis des Jahres " fiel buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5538,7 +5727,8 @@
 10	Wasser	Wasser	NN	2	2	2	2
 11	.	.	$.	*	*	*	*
 
-# article_id = T970421.163
+# tuepp_article_id = T970421.163
+# sent_id = 4254
 # text = Der angetrunkene Mann war den Carabinieri bei einer nächtlichen Streife aufgefallen , weil er sich so ungeschickt an dem langen , schmalen Riemen zu schaffen machte , daß er beinahe ins Wasser gefallen wäre .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5578,7 +5768,8 @@
 34	wäre	sein	VAFIN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T970731.214
+# tuepp_article_id = T970731.214
+# sent_id = 4255
 # text = Aber dann fielen die Schuppen ins Wasser .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -5591,7 +5782,8 @@
 7	Wasser	Wasser	NN	1	1	1	1
 8	.	.	$.	*	*	*	*
 
-# article_id = T970712.276
+# tuepp_article_id = T970712.276
+# sent_id = 4256
 # text = taz : Das Hotel im Turm fällt wegen der Drogenszene im Sternschanzenpark ins Wasser , sagen Investor und Möchtegern-Hotelier .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5616,7 +5808,8 @@
 19	Möchtegern-Hotelier	<unknown>	NN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T970719.200
+# tuepp_article_id = T970719.200
+# sent_id = 4257
 # text = Glaubt man den Wetterfröschen , dann werden die wochenendlichen Ausflüge ins Grüne diesmal ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5638,7 +5831,8 @@
 16	fallen	fallen	VVINF	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T971224.332
+# tuepp_article_id = T971224.332
+# sent_id = 4258
 # text = Als dann der Strom ausfällt , fällt das Thanksgiving Dinner ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5656,9 +5850,10 @@
 12	Wasser	Wasser	NN	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T970816.230
+# tuepp_article_id = T970816.230
+# sent_id = 4259
 # text = Wenn Vater Paul , Küchenchef bei VEB Optima , seinem nicht unbedingt mutigen Alfons einen " richtigen Kopfsprung " demonstrieren will und kläglich auf den Bauch klatscht , während Alfons im Gedrängel zufällig kerzengerade ins Wasser fällt .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Wenn	wenn	KOUS	*	*	*	*
 2	Vater	Vater	NN	*	*	*	*
@@ -5699,7 +5894,8 @@
 37	fällt	fallen|fällen	VVFIN	1	2	1	1
 38	.	.	$.	*	*	*	*
 
-# article_id = T970807.150
+# tuepp_article_id = T970807.150
+# sent_id = 4260
 # text = Mir gelang dabei ein kurioses Gemälde , das leider im allerletzten Moment ins Wasser fiel .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -5720,7 +5916,8 @@
 15	fiel	fallen	VVFIN	2	1	1	1
 16	.	.	$.	*	*	*	*
 
-# article_id = T970828.104
+# tuepp_article_id = T970828.104
+# sent_id = 4261
 # text = Doch die erbeuteten Waffen waren unbrauchbar , da entscheidende Teile weggeschlossen waren , und außerdem fiel die geplante Landbesetzung sowieso ins Wasser , weil sich der Lieferwagen überschlug .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5754,7 +5951,8 @@
 28	überschlug	überschlagen	VVFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T970329.349
+# tuepp_article_id = T970329.349
+# sent_id = 4262
 # text = Ostern sieht es meist so aus : Eltern fangen an , die Wohnung nach neuen Verstecken zu durchkämmen , legen Schokohäschenvorräte an und suchen in der Programmzeitschrift nach pädagogisch wertvollen Nachmittagsfilmen - falls es regnet und der Osterspaziergang ins Wasser fällt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5801,7 +5999,8 @@
 41	fällt	fallen|fällen	VVFIN	2	2	2	2
 42	.	.	$.	*	*	*	*
 
-# article_id = T970228.83
+# tuepp_article_id = T970228.83
+# sent_id = 4263
 # text = Weil sich die Außenminister deshalb auf keinen Text einigen konnten , fiel ein vorgesehener " politischer Dialog " mit dem zypriotischen Außenminister Michaelides ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5832,7 +6031,8 @@
 25	Wasser	Wasser	NN	2	2	2	2
 26	.	.	$.	*	*	*	*
 
-# article_id = T970218.202
+# tuepp_article_id = T970218.202
+# sent_id = 4264
 # text = Am Ende küßt sich das Liebespaar leidenschaftlich , fällt ins Wasser und wird vielleicht beim Trocknen in der Kate umgehend damit beginnen , gesunde und hübsche Kinder zu zeugen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5867,7 +6067,8 @@
 29	zeugen	zeugen	VVINF	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T970225.279
+# tuepp_article_id = T970225.279
+# sent_id = 4265
 # text = Der Jugendausschuß von Tostedt kündigte daraufhin die Benutzerordnung des Zentrums , so daß die geplanten Wahlen ins Wasser fielen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5892,7 +6093,8 @@
 19	fielen	fallen	VVFIN	2	2	2	2
 20	.	.	$.	*	*	*	*
 
-# article_id = T970222.237
+# tuepp_article_id = T970222.237
+# sent_id = 4266
 # text = Durch die Vibration des Herantreten wirft das Licht Kreise , scheinen die Insekten ins Wasser gefallen , und die Klanginstallation " Chiton " von Ole Jarchov deutlich hörbarer zu sein .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5928,7 +6130,8 @@
 30	sein	sein	VAINF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T940524.112
+# tuepp_article_id = T940524.112
+# sent_id = 4267
 # text = Doch niemand fällt ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5939,7 +6142,8 @@
 5	Wasser	Wasser	NN	1	1	1	1
 6	.	.	$.	*	*	*	*
 
-# article_id = T940606.172
+# tuepp_article_id = T940606.172
+# sent_id = 4268
 # text = Der geplante Höhepunkt , eine Menschenkette um den Innenstadtring , fiel am frühen Abend freilich buchstäblich ins ( Regen- ) Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5966,7 +6170,8 @@
 21	Wasser	Wasser	NN	2	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T940606.172
+# tuepp_article_id = T940606.172
+# sent_id = 4269
 # text = Die meisten davon waren allerdings durch den Platzregen am Nachmittag regelrecht ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5986,7 +6191,8 @@
 14	gefallen	fallen|gefallen	VVPP	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T940606.197
+# tuepp_article_id = T940606.197
+# sent_id = 4270
 # text = Die Schulung fiel ins Wasser , die Betriebsräte blieben zu Hause .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6003,7 +6209,8 @@
 11	Hause	Haus	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
 
-# article_id = T940606.232
+# tuepp_article_id = T940606.232
+# sent_id = 4271
 # text = Die bundesweite Aktion " Mobil ohne Auto " fiel am Sonntag in Hamburg und Schleswig-Holstein buchstäblich ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6027,7 +6234,8 @@
 18	Wasser	Wasser	NN	2	2	2	2
 19	.	.	$.	*	*	*	*
 
-# article_id = T940608.188
+# tuepp_article_id = T940608.188
+# sent_id = 4272
 # text = Das Mädchen war am 31. Mai beim Klettern ins Wasser gefallen und weggerissen worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6048,7 +6256,8 @@
 15	worden	werden	VAPP	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T941027.131
+# tuepp_article_id = T941027.131
+# sent_id = 4273
 # text = Um die Geschichte von Mallory und Mickey Knox so bombastisch zu erzählen ( " erzählen " ist eindeutig das falsche Wort ) , wie es ihm not dünkt , hat er die cineastische Avantgarde der sechziger Jahre ( Stan Brakhage zum Beispiel ) ebenso beliehen wie Sam Peckinpah , Sam Fuller oder Walt Disney : Als Mickey and Mallory sich auf einer Brücke in Tennessee das Jawort geben , indem sie sich die Hände ritzen , fallen Blutstropfen ins Wasser , die bald zu riesengroßen Disney-Herzen werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6141,7 +6350,8 @@
 87	werden	werden	VAINF	*	*	*	*
 88	.	.	$.	*	*	*	*
 
-# article_id = T941029.177
+# tuepp_article_id = T941029.177
+# sent_id = 4274
 # text = Ganz offenbar war der Sommer 84 ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6156,7 +6366,8 @@
 9	gefallen	fallen|gefallen	VVPP	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T940903.275
+# tuepp_article_id = T940903.275
+# sent_id = 4275
 # text = Wieder einmal sollen also durch den Sparhaushalt des Senats Kulturveranstaltungen ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6175,7 +6386,8 @@
 13	fallen	fallen	VVINF	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T940129.299
+# tuepp_article_id = T940129.299
+# sent_id = 4276
 # text = Seit dem 9. November ist er jetzt der sportliche Leiter am Borgweg , aber das üble Schicksal wollte es so , daß alle Punktspiele des VfL 93 regelrecht ins Wasser fielen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6213,7 +6425,8 @@
 32	fielen	fallen	VVFIN	2	2	2	2
 33	.	.	$.	*	*	*	*
 
-# article_id = T940428.167
+# tuepp_article_id = T940428.167
+# sent_id = 4277
 # text = Revolutionäre Mai-Demo fällt ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6223,7 +6436,8 @@
 4	ins	in	APPRART	2	2	2	2
 5	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T940429.219
+# tuepp_article_id = T940429.219
+# sent_id = 4278
 # text = " Auch das angekündigte Kulturprogramm fiel überraschend ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6238,7 +6452,8 @@
 9	Wasser	Wasser	NN	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T940411.205
+# tuepp_article_id = T940411.205
+# sent_id = 4279
 # text = Auch das angekündigte Kulturprogramm fiel überraschend ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6252,7 +6467,8 @@
 8	Wasser	Wasser	NN	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T940411.253
+# tuepp_article_id = T940411.253
+# sent_id = 4280
 # text = Ein wenig ins Wasser gefallen war der erste Tag des Zeltwochenendes : Bei klammer Kälte hatte es am Samstag nicht allzuviele Neugierige an den Hafenrand gelockt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6284,7 +6500,8 @@
 26	gelockt	locken	VVPP	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T940407.125
+# tuepp_article_id = T940407.125
+# sent_id = 4281
 # text = Der Schmerz allerdings resultiert offenbar nicht aus der eigenen Ignoranz - " die Leute müssen einem halt glauben " - , sondern aus dem Nicht-wahrhaben- Wollen , daß ihre Erfolge nachträglich mit einem Mal ins Wasser fallen könnten : " Da ist man Olympiasiegerin , Weltmeisterin und Europameisterin , und dann soll plötzlich alles nichts mehr wert sein ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6348,7 +6565,8 @@
 58	sein	sein	VAINF	*	*	*	*
 59	?	?	$.	*	*	*	*
 
-# article_id = T940415.199
+# tuepp_article_id = T940415.199
+# sent_id = 4282
 # text = Alle Träume vom Straßencafe oder dem Picknick am Wannsee sind erst einmal ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6369,7 +6587,8 @@
 15	gefallen	fallen|gefallen	VVPP	2	2	2	2
 16	.	.	$.	*	*	*	*
 
-# article_id = T940405.185
+# tuepp_article_id = T940405.185
+# sent_id = 4283
 # text = Ostern fiel ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6378,7 +6597,8 @@
 3	ins	in	APPRART	2	2	2	2
 4	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T940812.136
+# tuepp_article_id = T940812.136
+# sent_id = 4284
 # text = Was sie offenbar auch taten , obwohl das dort geplante Konzert ins Wasser gefallen war , vielleicht wegen der abgefangenen und zurückgeschickten Bands - , und außer einer kleinen Musikeinlage von fünfzehn Minuten aus dem Bandbus Samstag nachmittag vor der Lutherkirche wurden keine Attraktionen geboten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6429,7 +6649,8 @@
 45	geboten	bieten|gebieten	VVPP	*	*	*	*
 46	.	.	$.	*	*	*	*
 
-# article_id = T940827.126
+# tuepp_article_id = T940827.126
+# sent_id = 4285
 # text = Einmal die Löffel ins Wasser fallen lassen und für eine Weile die Ruhe genießen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6449,7 +6670,8 @@
 14	genießen	genießen	VVINF	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T940819.126
+# tuepp_article_id = T940819.126
+# sent_id = 4286
 # text = Die 6,7 Millionen Mark teure Leichtathletik-Weltklasse von Zürich fiel ins Wasser
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6465,7 +6687,8 @@
 10	ins	in	APPRART	2	2	2	2
 11	Wasser	Wasser	NN	2	2	2	2
 
-# article_id = T940819.126
+# tuepp_article_id = T940819.126
+# sent_id = 4287
 # text = Die " Weltklasse bei der Mini-WM " ( Eigenwerbung ) fiel ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6484,7 +6707,8 @@
 13	Wasser	Wasser	NN	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T940808.254
+# tuepp_article_id = T940808.254
+# sent_id = 4288
 # text = Dabei sei er vermutlich abgerutscht und ins Wasser gefallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6499,7 +6723,8 @@
 9	gefallen	fallen|gefallen	VVPP	1	1	1	1
 10	.	.	$.	*	*	*	*
 
-# article_id = T940813.35
+# tuepp_article_id = T940813.35
+# sent_id = 4289
 # text = Der gute Vorsatz fällt in der sächsischen Landeshauptstadt erst mal ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6517,7 +6742,8 @@
 12	Wasser	Wasser	NN	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T940326.140
+# tuepp_article_id = T940326.140
+# sent_id = 4290
 # text = Ihr Besitzer Jang Sun Leng : " Wir hatten Pläne , die 1989er Peking-Ausstellung nach Hongkong zu holen , aber das fiel wegen des Massakers ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6550,9 +6776,10 @@
 27	Wasser	Wasser	NN	2	2	2	2
 28	.	.	$.	*	*	*	*
 
-# article_id = T940319.292
+# tuepp_article_id = T940319.292
+# sent_id = 4291
 # text = Katamaran-Pendelfähre nach Stade fällt ins Wasser
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Katamaran-Pendelfähre	<unknown>	NN	*	*	*	*
 2	nach	nach	APPR	*	*	*	*
@@ -6561,7 +6788,8 @@
 5	ins	in	APPRART	2	1	1	1
 6	Wasser	Wasser	NN	2	1	1	1
 
-# article_id = T940329.202
+# tuepp_article_id = T940329.202
+# sent_id = 4292
 # text = Als Reaktion auf die buchstäblich ins Wasser gefallene Saison ist allerdings der Anleger " Mundsburger Brücke " aus dem Kreuzfahrten-Programm gestrichen worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6589,7 +6817,8 @@
 22	worden	werden	VAPP	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T941124.274
+# tuepp_article_id = T941124.274
+# sent_id = 4293
 # text = Der in Aachen durchgesetzte Nulltarif , der den Einstieg in die Solarzellen-Massenproduktion einleiten soll , fällt in Hamburg so ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6616,7 +6845,8 @@
 21	Wasser	Wasser	NN	2	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T941122.135
+# tuepp_article_id = T941122.135
+# sent_id = 4294
 # text = Die Idee eines Autors , das Deutschlandlied und die USA-Hymne dazuzuspielen , fiel zum Glück ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6639,7 +6869,8 @@
 17	Wasser	Wasser	NN	2	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T940205.279
+# tuepp_article_id = T940205.279
+# sent_id = 4295
 # text = Wer hat nur das Gerücht in die Welt gesetzt , daß die Generalprobe ins Wasser fallen müßte , damit die Premiere gelänge ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6667,7 +6898,8 @@
 22	gelänge	gelingen	VVFIN	*	*	*	*
 23	?	?	$.	*	*	*	*
 
-# article_id = T940221.219
+# tuepp_article_id = T940221.219
+# sent_id = 4296
 # text = Damit fiel die Profibox-Premiere des 31jährigen Klempners aus Kattenturm zum zweitenmal ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6686,7 +6918,8 @@
 13	Wasser	Wasser	NN	2	2	2	2
 14	.	.	$.	*	*	*	*
 
-# article_id = T950527.325
+# tuepp_article_id = T950527.325
+# sent_id = 4297
 # text = Ein 29jähriger Mann ist offenbar beim Angeln in einem Regenwasserrückhaltebecken in Jenfeld ins Wasser gefallen und ertrunken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6709,7 +6942,8 @@
 17	ertrunken	ertrinken	VVPP	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T950616.153
+# tuepp_article_id = T950616.153
+# sent_id = 4298
 # text = Was Gott sei Dank wegen tief hängender Wolken ins Wasser fiel .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6726,7 +6960,8 @@
 11	fiel	fallen	VVFIN	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T950613.52
+# tuepp_article_id = T950613.52
+# sent_id = 4299
 # text = Berlin ( taz ) - Die bundesweite Mega-Abi-Fete 95 , die mit großem Tamtam am 16. Juni in Uelzen , Niedersachsen , stattfinden sollte , fällt ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6761,7 +6996,8 @@
 29	Wasser	Wasser	NN	2	2	2	2
 30	.	.	$.	*	*	*	*
 
-# article_id = T950608.132
+# tuepp_article_id = T950608.132
+# sent_id = 4300
 # text = Das Boot der Briten steuert bei , ein Franzose fällt ins Wasser , seine Füße verheddern sich bei dem Malheur in der Schiffsschraube , und es schabt laut .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6795,7 +7031,8 @@
 28	laut	laut	ADJD	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T951028.30
+# tuepp_article_id = T951028.30
+# sent_id = 4301
 # text = Das Kind war am Vortag bei Elze " gegen 16 Uhr beim Spielen ins Wasser " der Saale gefallen und ertrunken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6822,7 +7059,8 @@
 21	ertrunken	ertrinken	VVPP	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T951019.189
+# tuepp_article_id = T951019.189
+# sent_id = 4302
 # text = Nach eigenen Angaben war der Mann ins Wasser gefallen , als er am Ufer nach seinem Schlüsselbund suchte und dabei wegrutschte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6849,9 +7087,10 @@
 21	wegrutschte	wegrutschen	VVFIN	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T950921.270
+# tuepp_article_id = T950921.270
+# sent_id = 4303
 # text = Daß Kevin Costner mit Waterworld beinahe ins Wasser fiel , dürfte bekannt sein .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Daß	dass	KOUS	*	*	*	*
 2	Kevin	Kevin	NE	*	*	*	*
@@ -6868,7 +7107,8 @@
 13	sein	sein	VAINF	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T950112.176
+# tuepp_article_id = T950112.176
+# sent_id = 4304
 # text = Er könnte sich mit seiner Handycam dabei filmen , wie er beim Bötchenfahren ins Wasser fällt , und das Video dann an " Pleiten , Pech und Pannen " schicken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6904,7 +7144,8 @@
 30	schicken	schicken	VVINF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T950128.287
+# tuepp_article_id = T950128.287
+# sent_id = 4305
 # text = Hamburgs traditionelle Feierlichkeiten zum Hafengeburtstag am 8. Mai könnten in diesem Jahr ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6926,7 +7167,8 @@
 16	fallen	fallen	VVINF	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T950421.204
+# tuepp_article_id = T950421.204
+# sent_id = 4306
 # text = - Soloprogramm fiel vor einem Jahr ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6940,7 +7182,8 @@
 8	Wasser	Wasser	NN	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T950424.143
+# tuepp_article_id = T950424.143
+# sent_id = 4307
 # text = Dann ging sie mit kleinen , vorsichtigen Schritten zum Ufer , überwand sogar mit viel Geschick die Böschung und ließ sich dann vornüber ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -6972,7 +7215,8 @@
 26	fallen	fallen	VVINF	1	1	1	1
 27	.	.	$.	*	*	*	*
 
-# article_id = T950717.219
+# tuepp_article_id = T950717.219
+# sent_id = 4308
 # text = Sprichwörtlich ins Wasser gefallen ist der Urlaub von Campern auf Borkum , deren Campingplatz nach schweren Schauern gleich 30 Zentimeter unter Wasser stand .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7001,7 +7245,8 @@
 23	stand	stehen	VVFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T951208.208
+# tuepp_article_id = T951208.208
+# sent_id = 4309
 # text = Dann holte er aus , und die Köder fielen mit einem Schwirren zwischen Kahn und Ufer ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7025,7 +7270,8 @@
 18	Wasser	Wasser	NN	1	1	1	1
 19	.	.	$.	*	*	*	*
 
-# article_id = T951223.90
+# tuepp_article_id = T951223.90
+# sent_id = 4310
 # text = Drei Tage hatte es fast ununterbrochen geregnet , und so drohte das Wahlfest in der kleinen Küstenstadt Kartal nahe Istanbul buchstäblich ins Wasser zu fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7056,7 +7302,8 @@
 25	fallen	fallen	VVINF	2	2	2	2
 26	.	.	$.	*	*	*	*
 
-# article_id = T951213.249
+# tuepp_article_id = T951213.249
+# sent_id = 4311
 # text = Durch den Zusammenstoß verschoben sich zahlreiche Container , so daß die " Sabine D. " starke Schlagseite bekam , Metallboxen mit ungefährlicher Stückgutladung fielen ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7088,7 +7335,8 @@
 26	Wasser	Wasser	NN	1	1	1	1
 27	.	.	$.	*	*	*	*
 
-# article_id = T951211.40
+# tuepp_article_id = T951211.40
+# sent_id = 4312
 # text = Noch vor kurzem sah es so aus , als könnte der Start des digitalen Pay-TV in Deutschland ins Wasser fallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7114,7 +7362,8 @@
 20	fallen	fallen	VVINF	2	2	2	2
 21	.	.	$.	*	*	*	*
 
-# article_id = T950303.65
+# tuepp_article_id = T950303.65
+# sent_id = 4313
 # text = Wenn das Rahmenprogramm jedoch ins Wasser fallen sollte , wird die Kritik wohl auch ihn treffen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7136,7 +7385,8 @@
 16	treffen	treffen	VVINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T950217.143
+# tuepp_article_id = T950217.143
+# sent_id = 4314
 # text = Das Boot der Briten steuert bei , einer der Franzosen fällt ins Wasser , seine Füße verheddern sich in der Schiffsschraube , es schabt laut , und eine rote Pfütze steigt gemächlich im Ozean auf .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7177,7 +7427,8 @@
 35	auf	auf	PTKVZ	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T990126.239
+# tuepp_article_id = T990126.239
+# sent_id = 4315
 # text = Die großartig angekündigten Sammelaktionen auf Bremens Straßen fallen aber bis auf weiteres ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7197,7 +7448,8 @@
 14	Wasser	Wasser	NN	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T990316.321
+# tuepp_article_id = T990316.321
+# sent_id = 4316
 # text = Die von vielen Schülern gewünschten Fahrten zu KZ-Gedenkstätten fielen ins Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -7214,7 +7466,8 @@
 11	Wasser	Wasser	NN	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T990226.224
+# tuepp_article_id = T990226.224
+# sent_id = 4317
 # text = Zwei Testauftritte gegen Lech Poznan und Bohemians Prag fielen ins Wasser , weil Frau Holle den Rasen des Mommsenstadions schlimmer als Hooligans ramponiert hatte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0

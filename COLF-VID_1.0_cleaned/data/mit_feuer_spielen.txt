@@ -1,7 +1,8 @@
-# article_id = T890519.22
-# text = " Sie haben mit dem Feuer gespielt " , sagte gestern ein PLO-Sprecher in Tunis .
+# tuepp_article_id = T890519.22
+# sent_id = 4488
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Sie haben mit dem Feuer gespielt " , sagte gestern ein PLO-Sprecher in Tunis .
 1	"	*	*	*	*
 2	Sie	*	*	*	*
 3	haben	*	*	*	*
@@ -19,10 +20,11 @@
 15	Tunis	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T890718.48
-# text = Sie spielen also weiter mit dem Feuer , und zwar öffentlich , heute , Mitte 1989 .
+# tuepp_article_id = T890718.48
+# sent_id = 4489
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie spielen also weiter mit dem Feuer , und zwar öffentlich , heute , Mitte 1989 .
 1	Sie	*	*	*	*
 2	spielen	2	2	2	2
 3	also	*	*	*	*
@@ -41,10 +43,11 @@
 16	1989	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T890814.147
-# text = Die Behörden der Zone wissen offenbar nicht , daß sie mit dem Feuer spielen .
+# tuepp_article_id = T890814.147
+# sent_id = 4490
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Behörden der Zone wissen offenbar nicht , daß sie mit dem Feuer spielen .
 1	Die	*	*	*	*
 2	Behörden	*	*	*	*
 3	der	*	*	*	*
@@ -61,10 +64,11 @@
 14	spielen	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T890824.77
-# text = Es heißt aufpassen : Mitterrand spielt mit dem Feuer in einer Region , wo die Zündschnüre nur so herumliegen .
+# tuepp_article_id = T890824.77
+# sent_id = 4491
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es heißt aufpassen : Mitterrand spielt mit dem Feuer in einer Region , wo die Zündschnüre nur so herumliegen .
 1	Es	*	*	*	*
 2	heißt	*	*	*	*
 3	aufpassen	*	*	*	*
@@ -86,10 +90,11 @@
 19	herumliegen	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T890321.75
-# text = Vor allem muß die westliche Allianz begreifen , daß sie einen schrecklichen Fehler machen würde , wenn sie begänne , mit dem Feuer des Nationalismus in Osteuropa zu spielen .
+# tuepp_article_id = T890321.75
+# sent_id = 4492
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vor allem muß die westliche Allianz begreifen , daß sie einen schrecklichen Fehler machen würde , wenn sie begänne , mit dem Feuer des Nationalismus in Osteuropa zu spielen .
 1	Vor	*	*	*	*
 2	allem	*	*	*	*
 3	muß	*	*	*	*
@@ -121,10 +126,11 @@
 29	spielen	2	2	2	2
 30	.	*	*	*	*
 
-# article_id = T891103.89
-# text = Zugleich spielt Ortega aber auch mit dem Feuer , denn die einhellige Sandinistenbeschimpfung durch die Heuchler im US - Kongreß muß er vorhergesehen haben .
+# tuepp_article_id = T891103.89
+# sent_id = 4493
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zugleich spielt Ortega aber auch mit dem Feuer , denn die einhellige Sandinistenbeschimpfung durch die Heuchler im US - Kongreß muß er vorhergesehen haben .
 1	Zugleich	*	*	*	*
 2	spielt	2	2	2	2
 3	Ortega	*	*	*	*
@@ -151,10 +157,11 @@
 24	haben	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T911221.56
-# text = Eine kürzlich ausgesprochene Drohung : " Die mit Feuer spielen , werden zu Asche verbrannt .
-# context_judgement_1 = 0
+# tuepp_article_id = T911221.56
+# sent_id = 4494
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Eine kürzlich ausgesprochene Drohung : " Die mit Feuer spielen , werden zu Asche verbrannt .
 1	Eine	*	*	*	*
 2	kürzlich	*	*	*	*
 3	ausgesprochene	*	*	*	*
@@ -172,10 +179,11 @@
 15	verbrannt	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T911123.181
-# text = Der Schweinehirt Ho-ti , der eines Morgens in die Wälder gegangen war , um Mastfutter für seine Schweine zu sammeln , hatte seine Hütte in der Obhut seines Sohnes Bo-bo zurückgelassen , eines großen Lümmels , der wie alle Jungen seines Alters zu gerne mit Feuer spielte .
-# context_judgement_1 = 1
+# tuepp_article_id = T911123.181
+# sent_id = 4495
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Der Schweinehirt Ho-ti , der eines Morgens in die Wälder gegangen war , um Mastfutter für seine Schweine zu sammeln , hatte seine Hütte in der Obhut seines Sohnes Bo-bo zurückgelassen , eines großen Lümmels , der wie alle Jungen seines Alters zu gerne mit Feuer spielte .
 1	Der	*	*	*	*
 2	Schweinehirt	*	*	*	*
 3	Ho-ti	*	*	*	*
@@ -225,10 +233,11 @@
 47	spielte	1	1	1	1
 48	.	*	*	*	*
 
-# article_id = T911126.189
-# text = Karawahn spielt mit dem Feuer und zeigt sowohl Schrecken als auch Schönheit , die diesem Element eigen sind .
+# tuepp_article_id = T911126.189
+# sent_id = 4496
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Karawahn spielt mit dem Feuer und zeigt sowohl Schrecken als auch Schönheit , die diesem Element eigen sind .
 1	Karawahn	*	*	*	*
 2	spielt	1	1	1	1
 3	mit	1	1	1	1
@@ -249,10 +258,11 @@
 18	sind	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T900625.34
-# text = Die Bürgerinitiativen gegen geplante Verbrennungsanlagen protestierten energisch , auch die Grünen würden mit dem Feuer spielen .
+# tuepp_article_id = T900625.34
+# sent_id = 4497
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Bürgerinitiativen gegen geplante Verbrennungsanlagen protestierten energisch , auch die Grünen würden mit dem Feuer spielen .
 1	Die	*	*	*	*
 2	Bürgerinitiativen	*	*	*	*
 3	gegen	*	*	*	*
@@ -271,20 +281,22 @@
 16	spielen	2	2	2	2
 17	.	*	*	*	*
 
-# article_id = T901012.75
-# text = Israel spielt mit dem Feuer
+# tuepp_article_id = T901012.75
+# sent_id = 4498
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Israel spielt mit dem Feuer
 1	Israel	*	*	*	*
 2	spielt	2	2	2	2
 3	mit	2	2	2	2
 4	dem	*	*	*	*
 5	Feuer	2	2	2	2
 
-# article_id = T901012.75
-# text = Israel spielt erneut mit dem Feuer , in einer Zeit , da die Gefühle überall wegen der tyrannischen irakischen Besetzung von Kuweit aufgebracht sind .
+# tuepp_article_id = T901012.75
+# sent_id = 4499
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Israel spielt erneut mit dem Feuer , in einer Zeit , da die Gefühle überall wegen der tyrannischen irakischen Besetzung von Kuweit aufgebracht sind .
 1	Israel	*	*	*	*
 2	spielt	2	2	2	2
 3	erneut	*	*	*	*
@@ -311,10 +323,11 @@
 24	sind	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T900104.64
-# text = Der IG-Metall-Chef Franz Steinkühler " spielt mit dem Feuer " , sagte der Leiter des Unternehmensverbandes Gesamtmetall , Werner Stumpfe .
+# tuepp_article_id = T900104.64
+# sent_id = 4500
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der IG-Metall-Chef Franz Steinkühler " spielt mit dem Feuer " , sagte der Leiter des Unternehmensverbandes Gesamtmetall , Werner Stumpfe .
 1	Der	*	*	*	*
 2	IG-Metall-Chef	*	*	*	*
 3	Franz	*	*	*	*
@@ -337,10 +350,11 @@
 20	Stumpfe	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T901219.130
-# text = Obgleich bekannt war , daß Mader , umgeben von vielen Wasserträgern , gern mit dem Feuer spielt .
-# context_judgement_1 = 0
+# tuepp_article_id = T901219.130
+# sent_id = 4501
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Obgleich bekannt war , daß Mader , umgeben von vielen Wasserträgern , gern mit dem Feuer spielt .
 1	Obgleich	*	*	*	*
 2	bekannt	*	*	*	*
 3	war	*	*	*	*
@@ -360,10 +374,11 @@
 17	spielt	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T900818.178
-# text = Vorwurf der DAG : Die DDR-Regierung " spielt mit dem Feuer " .
+# tuepp_article_id = T900818.178
+# sent_id = 4502
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vorwurf der DAG : Die DDR-Regierung " spielt mit dem Feuer " .
 1	Vorwurf	*	*	*	*
 2	der	*	*	*	*
 3	DAG	*	*	*	*
@@ -378,10 +393,11 @@
 12	"	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T900312.387
-# text = Er sprach sich für die Anerkennung der Oder-Neiße-Grenze aus : " Wer sie in Frage stellt , spielt mit dem Feuer " .
+# tuepp_article_id = T900312.387
+# sent_id = 4503
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er sprach sich für die Anerkennung der Oder-Neiße-Grenze aus : " Wer sie in Frage stellt , spielt mit dem Feuer " .
 1	Er	*	*	*	*
 2	sprach	*	*	*	*
 3	sich	*	*	*	*
@@ -406,10 +422,11 @@
 22	"	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T900306.113
-# text = In dieser hochexplosiven Atmosphäre spielen die russischen Nationalisten mit dem Feuer .
-# context_judgement_1 = 0
+# tuepp_article_id = T900306.113
+# sent_id = 4504
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = In dieser hochexplosiven Atmosphäre spielen die russischen Nationalisten mit dem Feuer .
 1	In	*	*	*	*
 2	dieser	*	*	*	*
 3	hochexplosiven	*	*	*	*
@@ -423,10 +440,11 @@
 11	Feuer	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T901114.226
-# text = » Räumen bedeutet mit Feuer spielen «
+# tuepp_article_id = T901114.226
+# sent_id = 4505
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = » Räumen bedeutet mit Feuer spielen «
 1	»	*	*	*	*
 2	Räumen	*	*	*	*
 3	bedeutet	*	*	*	*
@@ -435,10 +453,11 @@
 6	spielen	2	2	2	2
 7	«	*	*	*	*
 
-# article_id = T901114.226
-# text = Zu diesem Zeitpunkt ein Haus zu räumen , bedeutet , mit dem Feuer zu spielen .
+# tuepp_article_id = T901114.226
+# sent_id = 4506
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zu diesem Zeitpunkt ein Haus zu räumen , bedeutet , mit dem Feuer zu spielen .
 1	Zu	*	*	*	*
 2	diesem	*	*	*	*
 3	Zeitpunkt	*	*	*	*
@@ -456,10 +475,11 @@
 15	spielen	2	2	2	2
 16	.	*	*	*	*
 
-# article_id = T901115.27
-# text = " Zu diesem Zeitpunkt ein Haus zu räumen , bedeutet , mit dem Feuer zu spielen " , hieß es in dem Schreiben , das der Verfasser schon am Sonntag beim Polizeipräsidium abgegeben hat .
+# tuepp_article_id = T901115.27
+# sent_id = 4507
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Zu diesem Zeitpunkt ein Haus zu räumen , bedeutet , mit dem Feuer zu spielen " , hieß es in dem Schreiben , das der Verfasser schon am Sonntag beim Polizeipräsidium abgegeben hat .
 1	"	*	*	*	*
 2	Zu	*	*	*	*
 3	diesem	*	*	*	*
@@ -496,10 +516,11 @@
 34	hat	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T900214.62
-# text = " Wer den Arbeitnehmern wieder regelmäßige Samstagsarbeit aufdrücken will , der spielt mit dem Feuer und braucht sich nicht zu wundern , daß auch die Bereitschaft zu Überstunden schwindet " , erklärte Kemeth .
+# tuepp_article_id = T900214.62
+# sent_id = 4509
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wer den Arbeitnehmern wieder regelmäßige Samstagsarbeit aufdrücken will , der spielt mit dem Feuer und braucht sich nicht zu wundern , daß auch die Bereitschaft zu Überstunden schwindet " , erklärte Kemeth .
 1	"	*	*	*	*
 2	Wer	*	*	*	*
 3	den	*	*	*	*
@@ -535,10 +556,11 @@
 33	Kemeth	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T920902.55
-# text = Magdanz , Kilimann und Innenminister Kupfer hätten " mit dem Feuer gespielt und die Explosion erlebt " .
-# context_judgement_1 = 0
+# tuepp_article_id = T920902.55
+# sent_id = 4510
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Magdanz , Kilimann und Innenminister Kupfer hätten " mit dem Feuer gespielt und die Explosion erlebt " .
 1	Magdanz	*	*	*	*
 2	,	*	*	*	*
 3	Kilimann	*	*	*	*
@@ -558,20 +580,22 @@
 17	"	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T921207.205
-# text = Jäger spielt mit dem Feuer
+# tuepp_article_id = T921207.205
+# sent_id = 4511
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Jäger spielt mit dem Feuer
 1	Jäger	*	*	*	*
 2	spielt	2	3	3	3
 3	mit	2	3	3	3
 4	dem	*	*	*	*
 5	Feuer	2	3	3	3
 
-# article_id = T920814.28
-# text = Cage spielt mit dem Zufall wie Kinder mit dem Feuer .
-# context_judgement_1 = 0
+# tuepp_article_id = T920814.28
+# sent_id = 4512
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Cage spielt mit dem Zufall wie Kinder mit dem Feuer .
 1	Cage	*	*	*	*
 2	spielt	4	2	2	2
 3	mit	*	*	*	*
@@ -584,10 +608,11 @@
 10	Feuer	4	2	2	2
 11	.	*	*	*	*
 
-# article_id = T921104.64
-# text = Und David Hunt , der Minister für Wales , fügte hinzu : " Die Leute spielen mit dem Feuer , wenn sie glauben , daß die Regierung bei den Maastrichter Verträgen niedergestimmt werden kann , und am nächsten Tag würde sich alles wieder beruhigen .
+# tuepp_article_id = T921104.64
+# sent_id = 4513
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und David Hunt , der Minister für Wales , fügte hinzu : " Die Leute spielen mit dem Feuer , wenn sie glauben , daß die Regierung bei den Maastrichter Verträgen niedergestimmt werden kann , und am nächsten Tag würde sich alles wieder beruhigen .
 1	Und	*	*	*	*
 2	David	*	*	*	*
 3	Hunt	*	*	*	*
@@ -634,10 +659,11 @@
 44	beruhigen	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T880128.13
-# text = Sie spielen mit dem Feuer : wir werden nicht frieren .
+# tuepp_article_id = T880128.13
+# sent_id = 4514
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Sie spielen mit dem Feuer : wir werden nicht frieren .
 1	Sie	*	*	*	*
 2	spielen	4	2	2	2
 3	mit	4	2	2	2
@@ -650,10 +676,11 @@
 10	frieren	*	*	*	*
 11	.	*	*	*	*
 
-# article_id = T880426.24
-# text = Beide spielen mit dem Feuer .
-# context_judgement_1 = 0
+# tuepp_article_id = T880426.24
+# sent_id = 4515
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Beide spielen mit dem Feuer .
 1	Beide	*	*	*	*
 2	spielen	2	2	2	2
 3	mit	2	2	2	2
@@ -661,10 +688,11 @@
 5	Feuer	2	2	2	2
 6	.	*	*	*	*
 
-# article_id = T881114.43
-# text = Mehrere Delegierte spielten denn auch am Sonnabend mit dem Feuer : Schließlich sei Wilhelm mit einem " Superergebnis " zum Parteivorsitzenden gewählt worden .
+# tuepp_article_id = T881114.43
+# sent_id = 4516
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mehrere Delegierte spielten denn auch am Sonnabend mit dem Feuer : Schließlich sei Wilhelm mit einem " Superergebnis " zum Parteivorsitzenden gewählt worden .
 1	Mehrere	*	*	*	*
 2	Delegierte	*	*	*	*
 3	spielten	2	2	2	2
@@ -690,10 +718,11 @@
 23	worden	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T881121.31
-# text = Der Serbe Milosevic spielt mit dem Feuer
-# context_judgement_1 = 0
+# tuepp_article_id = T881121.31
+# sent_id = 4517
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Der Serbe Milosevic spielt mit dem Feuer
 1	Der	*	*	*	*
 2	Serbe	*	*	*	*
 3	Milosevic	*	*	*	*
@@ -702,10 +731,11 @@
 6	dem	*	*	*	*
 7	Feuer	2	3	3	3
 
-# article_id = T881121.187
-# text = Hier wird wieder einmal mit dem Feuer gespielt , das so vielen ein Grab in den Lüften grub .
-# context_judgement_1 = 0
+# tuepp_article_id = T881121.187
+# sent_id = 4518
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Hier wird wieder einmal mit dem Feuer gespielt , das so vielen ein Grab in den Lüften grub .
 1	Hier	*	*	*	*
 2	wird	*	*	*	*
 3	wieder	*	*	*	*
@@ -726,10 +756,11 @@
 18	grub	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T880202.57
-# text = " Die spielen mit dem Feuer , die Parteiherren " , sagt ein Passant in Warschau und ein Arbeiter : " Totale Volksverarschung " .
+# tuepp_article_id = T880202.57
+# sent_id = 4519
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Die spielen mit dem Feuer , die Parteiherren " , sagt ein Passant in Warschau und ein Arbeiter : " Totale Volksverarschung " .
 1	"	*	*	*	*
 2	Die	*	*	*	*
 3	spielen	2	2	2	2
@@ -756,19 +787,21 @@
 24	"	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T870307.48
-# text = Arbeitgeber spielen mit Feuer
+# tuepp_article_id = T870307.48
+# sent_id = 4520
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Arbeitgeber spielen mit Feuer
 1	Arbeitgeber	*	*	*	*
 2	spielen	2	2	2	2
 3	mit	2	2	2	2
 4	Feuer	2	2	2	2
 
-# article_id = T870307.48
-# text = Gesamtmetall spiele mit dem Feuer des Arbeitskampfes .
-# context_judgement_1 = 0
+# tuepp_article_id = T870307.48
+# sent_id = 4521
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Gesamtmetall spiele mit dem Feuer des Arbeitskampfes .
 1	Gesamtmetall	*	*	*	*
 2	spiele	2	2	2	2
 3	mit	2	2	2	2
@@ -778,10 +811,11 @@
 7	Arbeitskampfes	*	*	*	*
 8	.	*	*	*	*
 
-# article_id = T861028.73
-# text = " Amerika spielt mit dem Feuer "
+# tuepp_article_id = T861028.73
+# sent_id = 4522
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Amerika spielt mit dem Feuer "
 1	"	*	*	*	*
 2	Amerika	*	*	*	*
 3	spielt	2	2	2	2
@@ -790,10 +824,11 @@
 6	Feuer	2	2	2	2
 7	"	*	*	*	*
 
-# article_id = T861028.73
-# text = Amerika tut alles , um seine eigenen Interessen durchzusetzen und spielt mit dem Feuer in einem Gebiet , das weit entfernt von seinen Grenzen liegt .
+# tuepp_article_id = T861028.73
+# sent_id = 4523
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Amerika tut alles , um seine eigenen Interessen durchzusetzen und spielt mit dem Feuer in einem Gebiet , das weit entfernt von seinen Grenzen liegt .
 1	Amerika	*	*	*	*
 2	tut	*	*	*	*
 3	alles	*	*	*	*
@@ -821,10 +856,11 @@
 25	liegt	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T930902.52
-# text = " Arafat weiß , daß er mit dem Feuer spielt .
+# tuepp_article_id = T930902.52
+# sent_id = 4524
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Arafat weiß , daß er mit dem Feuer spielt .
 1	"	*	*	*	*
 2	Arafat	*	*	*	*
 3	weiß	*	*	*	*
@@ -837,10 +873,11 @@
 10	spielt	2	2	2	2
 11	.	*	*	*	*
 
-# article_id = T930112.22
-# text = Der Irak spielt erneut mit dem Feuer
+# tuepp_article_id = T930112.22
+# sent_id = 4525
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Irak spielt erneut mit dem Feuer
 1	Der	*	*	*	*
 2	Irak	*	*	*	*
 3	spielt	2	2	2	2
@@ -849,10 +886,11 @@
 6	dem	*	*	*	*
 7	Feuer	2	2	2	2
 
-# article_id = T930106.8
-# text = Saddam Hussein spielt mit dem Feuer : Nach Angaben des Pentagon hat die irakische Führung Raketen in die Flugverbotszone zum Schutz der Schiiten im Süden des Landes verlegt .
-# context_judgement_1 = 0
+# tuepp_article_id = T930106.8
+# sent_id = 4526
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Saddam Hussein spielt mit dem Feuer : Nach Angaben des Pentagon hat die irakische Führung Raketen in die Flugverbotszone zum Schutz der Schiiten im Süden des Landes verlegt .
 1	Saddam	*	*	*	*
 2	Hussein	*	*	*	*
 3	spielt	2	2	2	2
@@ -883,10 +921,11 @@
 28	verlegt	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T930427.248
-# text = Und außerdem : die Titel der Bücher - sie sind teilweise noch lesbar - hatten anscheinend alle in ihrem Wortlaut " mit dem Feuer gespielt " - von " Eine kleine Flamme " über " Solange das Feuer brannte " bis " Menschen im Feuer " , und so fort .
+# tuepp_article_id = T930427.248
+# sent_id = 4527
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und außerdem : die Titel der Bücher - sie sind teilweise noch lesbar - hatten anscheinend alle in ihrem Wortlaut " mit dem Feuer gespielt " - von " Eine kleine Flamme " über " Solange das Feuer brannte " bis " Menschen im Feuer " , und so fort .
 1	Und	*	*	*	*
 2	außerdem	*	*	*	*
 3	:	*	*	*	*
@@ -939,10 +978,11 @@
 50	fort	*	*	*	*
 51	.	*	*	*	*
 
-# article_id = T930727.219
-# text = Der Hamburger SV spielt mit dem Feuer .
+# tuepp_article_id = T930727.219
+# sent_id = 4528
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Hamburger SV spielt mit dem Feuer .
 1	Der	*	*	*	*
 2	Hamburger	*	*	*	*
 3	SV	*	*	*	*
@@ -952,10 +992,11 @@
 7	Feuer	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T931228.39
-# text = Das ist an sich schon gefährlich , so mit dem Feuer zu spielen .
+# tuepp_article_id = T931228.39
+# sent_id = 4529
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Das ist an sich schon gefährlich , so mit dem Feuer zu spielen .
 1	Das	*	*	*	*
 2	ist	*	*	*	*
 3	an	*	*	*	*
@@ -971,10 +1012,11 @@
 13	spielen	1	1	1	1
 14	.	*	*	*	*
 
-# article_id = T930827.142
-# text = Mit Feuer gespielt : Wohnung ausgebrannt
+# tuepp_article_id = T930827.142
+# sent_id = 4530
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit Feuer gespielt : Wohnung ausgebrannt
 1	Mit	1	1	1	1
 2	Feuer	1	1	1	1
 3	gespielt	1	1	1	1
@@ -982,10 +1024,11 @@
 5	Wohnung	*	*	*	*
 6	ausgebrannt	*	*	*	*
 
-# article_id = T930827.142
-# text = Der Junge hatte mit Feuer gespielt und es nicht mehr unter Kontrolle bekommen .
+# tuepp_article_id = T930827.142
+# sent_id = 4531
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Junge hatte mit Feuer gespielt und es nicht mehr unter Kontrolle bekommen .
 1	Der	*	*	*	*
 2	Junge	*	*	*	*
 3	hatte	*	*	*	*
@@ -1001,10 +1044,11 @@
 13	bekommen	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T930305.156
-# text = Angeblich habe Klaus im Grenzgebiet mit Feuer gespielt .
+# tuepp_article_id = T930305.156
+# sent_id = 4532
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Angeblich habe Klaus im Grenzgebiet mit Feuer gespielt .
 1	Angeblich	*	*	*	*
 2	habe	*	*	*	*
 3	Klaus	*	*	*	*
@@ -1015,10 +1059,11 @@
 8	gespielt	1	1	1	1
 9	.	*	*	*	*
 
-# article_id = T960502.9
-# text = " Wer die Lohnfortzahlungen im Krankheitsfall angreife , spiele mit dem Feuer .
+# tuepp_article_id = T960502.9
+# sent_id = 4533
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wer die Lohnfortzahlungen im Krankheitsfall angreife , spiele mit dem Feuer .
 1	"	*	*	*	*
 2	Wer	*	*	*	*
 3	die	*	*	*	*
@@ -1033,10 +1078,11 @@
 12	Feuer	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T960122.107
-# text = Mindestens zwei der Verhafteten haben auch in der Vergangenheit schon gerne mit dem Feuer gespielt : Sie waren aus dem Militärdienst entlassen worden , nachdem sie sich im Dezember 1990 am Putschversuch des rechtsextremen Mohamed Ali Seineldin beteiligt hatten .
-# context_judgement_1 = 0
+# tuepp_article_id = T960122.107
+# sent_id = 4534
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Mindestens zwei der Verhafteten haben auch in der Vergangenheit schon gerne mit dem Feuer gespielt : Sie waren aus dem Militärdienst entlassen worden , nachdem sie sich im Dezember 1990 am Putschversuch des rechtsextremen Mohamed Ali Seineldin beteiligt hatten .
 1	Mindestens	*	*	*	*
 2	zwei	*	*	*	*
 3	der	*	*	*	*
@@ -1078,10 +1124,11 @@
 39	hatten	*	*	*	*
 40	.	*	*	*	*
 
-# article_id = T960116.36
-# text = Wieder mal hat der Kreml nicht bemerkt , wie er in Dagestan mit dem Feuer spielt .
+# tuepp_article_id = T960116.36
+# sent_id = 4535
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wieder mal hat der Kreml nicht bemerkt , wie er in Dagestan mit dem Feuer spielt .
 1	Wieder	*	*	*	*
 2	mal	*	*	*	*
 3	hat	*	*	*	*
@@ -1100,10 +1147,11 @@
 16	spielt	2	2	2	2
 17	.	*	*	*	*
 
-# article_id = T960416.224
-# text = Was mußte das Fotomaterial schon alles über sich ergehen lassen : Joan Fontcuberta liebte es , mit seinen Bartstoppeln auf dem weichen Fotopapier herumzukratzen - genau : auf dem Motiv eines Kaktus ' ; Kollege Inigo Royo spielte sogar mit dem Feuer und sengelte seine düsteren Landschaftsbilder formschön an .
-# context_judgement_1 = 1
+# tuepp_article_id = T960416.224
+# sent_id = 4536
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Was mußte das Fotomaterial schon alles über sich ergehen lassen : Joan Fontcuberta liebte es , mit seinen Bartstoppeln auf dem weichen Fotopapier herumzukratzen - genau : auf dem Motiv eines Kaktus ' ; Kollege Inigo Royo spielte sogar mit dem Feuer und sengelte seine düsteren Landschaftsbilder formschön an .
 1	Was	*	*	*	*
 2	mußte	*	*	*	*
 3	das	*	*	*	*
@@ -1155,10 +1203,11 @@
 49	an	*	*	*	*
 50	.	*	*	*	*
 
-# article_id = T961202.58
-# text = Während er sich dafür von eben dieser Regierung vorhalten lassen mußte , daß er die parteipolitische Neutralität verletze und mit dem Feuer spiele , feierten ihn die grünen Delegierten mit der gleichen routinierten Freundlichkeit ab wie Stunden später eine Suhler Bürgerinitiative gegen den Autobahnbau .
+# tuepp_article_id = T961202.58
+# sent_id = 4537
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Während er sich dafür von eben dieser Regierung vorhalten lassen mußte , daß er die parteipolitische Neutralität verletze und mit dem Feuer spiele , feierten ihn die grünen Delegierten mit der gleichen routinierten Freundlichkeit ab wie Stunden später eine Suhler Bürgerinitiative gegen den Autobahnbau .
 1	Während	*	*	*	*
 2	er	*	*	*	*
 3	sich	*	*	*	*
@@ -1205,10 +1254,11 @@
 44	Autobahnbau	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T960802.99
-# text = Die Zeitung L'Independant aus dem benachbarten Burkina Faso analysiert die französische Position so : " In einem Niger im Tuareg-Aufstand , an den Grenzen zu Libyen und Nigeria , Riegel des französischen Hinterhofs gegenüber der islamistischen Bedrohung und dazu noch ein Land mit Uran , darf man nicht mit dem Feuer spielen .
-# context_judgement_1 = 0
+# tuepp_article_id = T960802.99
+# sent_id = 4538
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Die Zeitung L'Independant aus dem benachbarten Burkina Faso analysiert die französische Position so : " In einem Niger im Tuareg-Aufstand , an den Grenzen zu Libyen und Nigeria , Riegel des französischen Hinterhofs gegenüber der islamistischen Bedrohung und dazu noch ein Land mit Uran , darf man nicht mit dem Feuer spielen .
 1	Die	*	*	*	*
 2	Zeitung	*	*	*	*
 3	L'Independant	*	*	*	*
@@ -1263,10 +1313,11 @@
 52	spielen	2	2	2	2
 53	.	*	*	*	*
 
-# article_id = T960821.73
-# text = " Brot ist das Feuer , mit dem Politiker spielen und sich verbrennen " , mahnte die arabische Zeitung An- Nahar , als Ende letzten Monats bekannt wurde , die Brotpreise zu verdoppeln .
+# tuepp_article_id = T960821.73
+# sent_id = 4539
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Brot ist das Feuer , mit dem Politiker spielen und sich verbrennen " , mahnte die arabische Zeitung An- Nahar , als Ende letzten Monats bekannt wurde , die Brotpreise zu verdoppeln .
 1	"	*	*	*	*
 2	Brot	*	*	*	*
 3	ist	*	*	*	*
@@ -1302,10 +1353,11 @@
 33	verdoppeln	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T960323.135
-# text = " Vielleicht spiele ich mit dem Feuer , indem ich das Böse in schönen Bildern zeige " , deutet Volker Schlöndorff die hypnotisierende Wirkung der Nazizeremonie .
+# tuepp_article_id = T960323.135
+# sent_id = 4540
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Vielleicht spiele ich mit dem Feuer , indem ich das Böse in schönen Bildern zeige " , deutet Volker Schlöndorff die hypnotisierende Wirkung der Nazizeremonie .
 1	"	*	*	*	*
 2	Vielleicht	*	*	*	*
 3	spiele	2	2	2	2
@@ -1334,10 +1386,11 @@
 26	Nazizeremonie	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T961108.102
-# text = Er spiele " mit dem Feuer " , hieß es danach von Leuten , die ihm nahestehen .
+# tuepp_article_id = T961108.102
+# sent_id = 4541
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er spiele " mit dem Feuer " , hieß es danach von Leuten , die ihm nahestehen .
 1	Er	*	*	*	*
 2	spiele	2	2	2	2
 3	"	*	*	*	*
@@ -1357,10 +1410,11 @@
 17	nahestehen	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T960219.311
-# text = " Safoan spielt nicht mit Feuer " , sagt Mohammed Eid : " Er ist unschuldig .
+# tuepp_article_id = T960219.311
+# sent_id = 4542
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = " Safoan spielt nicht mit Feuer " , sagt Mohammed Eid : " Er ist unschuldig .
 1	"	*	*	*	*
 2	Safoan	*	*	*	*
 3	spielt	1	1	1	1
@@ -1379,10 +1433,11 @@
 16	unschuldig	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T980514.174
-# text = Wenn das Übel zu etwas gut sein soll , dann muß das indische Atomexperiment zu einer radikalen internationalen Bewußtwerdung führen : Es ist nicht mehr erlaubt , mit dem Feuer zu spielen .
-# context_judgement_1 = 0
+# tuepp_article_id = T980514.174
+# sent_id = 4543
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Wenn das Übel zu etwas gut sein soll , dann muß das indische Atomexperiment zu einer radikalen internationalen Bewußtwerdung führen : Es ist nicht mehr erlaubt , mit dem Feuer zu spielen .
 1	Wenn	*	*	*	*
 2	das	*	*	*	*
 3	Übel	*	*	*	*
@@ -1417,10 +1472,11 @@
 32	spielen	2	2	2	2
 33	.	*	*	*	*
 
-# article_id = T980624.207
-# text = " Ich fürchte , daß die Fachgemeinschaft mit dem Feuer spielt .
+# tuepp_article_id = T980624.207
+# sent_id = 4544
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Ich fürchte , daß die Fachgemeinschaft mit dem Feuer spielt .
 1	"	*	*	*	*
 2	Ich	*	*	*	*
 3	fürchte	*	*	*	*
@@ -1434,10 +1490,11 @@
 11	spielt	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T980925.51
-# text = Solange die AKWs nicht abgeschaltet seien , spiele man wie in Tschernobyl mit dem Feuer , wo die Katastrophe " ein Stück des Planten unbewohnbar gemacht " habe , warnte sie .
+# tuepp_article_id = T980925.51
+# sent_id = 4545
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Solange die AKWs nicht abgeschaltet seien , spiele man wie in Tschernobyl mit dem Feuer , wo die Katastrophe " ein Stück des Planten unbewohnbar gemacht " habe , warnte sie .
 1	Solange	*	*	*	*
 2	die	*	*	*	*
 3	AKWs	*	*	*	*
@@ -1471,10 +1528,11 @@
 31	sie	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T980724.38
-# text = Jospin spielt mit dieser in aller Heimlichkeit ausgehandelten Fusion mit dem Feuer .
-# context_judgement_1 = 0
+# tuepp_article_id = T980724.38
+# sent_id = 4546
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Jospin spielt mit dieser in aller Heimlichkeit ausgehandelten Fusion mit dem Feuer .
 1	Jospin	*	*	*	*
 2	spielt	2	2	2	2
 3	mit	*	*	*	*
@@ -1489,10 +1547,11 @@
 12	Feuer	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T980708.124
-# text = Nachdem sie Anfang März mit dem Feuer spielten , indem sie vorschlugen , den Benzinpreis zu verdreifachen , und damit einen Einbruch in den Umfragen erlitten , werden sie nun bei der Geschwindigkeitsbegrenzung rückfällig .
+# tuepp_article_id = T980708.124
+# sent_id = 4547
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nachdem sie Anfang März mit dem Feuer spielten , indem sie vorschlugen , den Benzinpreis zu verdreifachen , und damit einen Einbruch in den Umfragen erlitten , werden sie nun bei der Geschwindigkeitsbegrenzung rückfällig .
 1	Nachdem	*	*	*	*
 2	sie	*	*	*	*
 3	Anfang	*	*	*	*
@@ -1529,10 +1588,11 @@
 34	rückfällig	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T980302.197
-# text = Der Angriff auf Polen habe nicht außerhalb der " Gepflogenheiten " jener Zeit gelegen : " Polen hatte zu oft selbst mit dem Feuer des Krieges gespielt , um 1939 ein Gefühl des Bedauerns in Deutschland zu erregen .
+# tuepp_article_id = T980302.197
+# sent_id = 4548
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Angriff auf Polen habe nicht außerhalb der " Gepflogenheiten " jener Zeit gelegen : " Polen hatte zu oft selbst mit dem Feuer des Krieges gespielt , um 1939 ein Gefühl des Bedauerns in Deutschland zu erregen .
 1	Der	*	*	*	*
 2	Angriff	*	*	*	*
 3	auf	*	*	*	*
@@ -1573,10 +1633,11 @@
 38	erregen	*	*	*	*
 39	.	*	*	*	*
 
-# article_id = T980204.235
-# text = Weil ein Kind offenbar in seinem Bett mit Feuer spielt hatte , ist am Montagabend eine Dachgeschoßwohnung in Brand geraten .
+# tuepp_article_id = T980204.235
+# sent_id = 4549
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Weil ein Kind offenbar in seinem Bett mit Feuer spielt hatte , ist am Montagabend eine Dachgeschoßwohnung in Brand geraten .
 1	Weil	*	*	*	*
 2	ein	*	*	*	*
 3	Kind	*	*	*	*
@@ -1599,10 +1660,11 @@
 20	geraten	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T970513.85
-# text = Die türkischen Islamisten spielen mit dem Feuer
+# tuepp_article_id = T970513.85
+# sent_id = 4550
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die türkischen Islamisten spielen mit dem Feuer
 1	Die	*	*	*	*
 2	türkischen	*	*	*	*
 3	Islamisten	*	*	*	*
@@ -1611,10 +1673,11 @@
 6	dem	*	*	*	*
 7	Feuer	2	2	2	2
 
-# article_id = T971017.360
-# text = Wer mit dem Feuer spielt , sollte sich zuerst um die Sicherheit seiner Mitbürger sorgen .
+# tuepp_article_id = T971017.360
+# sent_id = 4551
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wer mit dem Feuer spielt , sollte sich zuerst um die Sicherheit seiner Mitbürger sorgen .
 1	Wer	*	*	*	*
 2	mit	2	2	2	2
 3	dem	*	*	*	*
@@ -1632,10 +1695,11 @@
 15	sorgen	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T971015.35
-# text = Sie spielen mit dem Feuer " , sagte der für Zypern zuständige türkische Staatsminister Sükrü Gürgel in Ankara .
+# tuepp_article_id = T971015.35
+# sent_id = 4552
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie spielen mit dem Feuer " , sagte der für Zypern zuständige türkische Staatsminister Sükrü Gürgel in Ankara .
 1	Sie	*	*	*	*
 2	spielen	2	2	2	2
 3	mit	2	2	2	2
@@ -1656,10 +1720,11 @@
 18	Ankara	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T970414.87
-# text = " Tshisekedi hat mit dem Feuer gespielt " , meint Rechtsanwalt Kinkela , zugleich erster Parlamentsreferent .
+# tuepp_article_id = T970414.87
+# sent_id = 4553
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Tshisekedi hat mit dem Feuer gespielt " , meint Rechtsanwalt Kinkela , zugleich erster Parlamentsreferent .
 1	"	*	*	*	*
 2	Tshisekedi	*	*	*	*
 3	hat	*	*	*	*
@@ -1678,10 +1743,11 @@
 16	Parlamentsreferent	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T970304.42
-# text = Wir sollten nicht mit dem Feuer spielen .
+# tuepp_article_id = T970304.42
+# sent_id = 4554
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wir sollten nicht mit dem Feuer spielen .
 1	Wir	*	*	*	*
 2	sollten	*	*	*	*
 3	nicht	*	*	*	*
@@ -1691,10 +1757,11 @@
 7	spielen	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T970227.97
-# text = " Die Israelis spielen mit dem Feuer " , erklärte gestern der für Jerusalem zuständige Vertreter der palästinensischen Autonomiebehörden , Faisal Husseini .
+# tuepp_article_id = T970227.97
+# sent_id = 4555
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Die Israelis spielen mit dem Feuer " , erklärte gestern der für Jerusalem zuständige Vertreter der palästinensischen Autonomiebehörden , Faisal Husseini .
 1	"	*	*	*	*
 2	Die	*	*	*	*
 3	Israelis	*	*	*	*
@@ -1719,10 +1786,11 @@
 22	Husseini	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T940604.79
-# text = " Die Regierung spielt mit dem Feuer " , warnt ein Mitglied einer deutschen Hilfsorganisation .
+# tuepp_article_id = T940604.79
+# sent_id = 4556
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Die Regierung spielt mit dem Feuer " , warnt ein Mitglied einer deutschen Hilfsorganisation .
 1	"	*	*	*	*
 2	Die	*	*	*	*
 3	Regierung	*	*	*	*
@@ -1740,10 +1808,11 @@
 15	Hilfsorganisation	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T940622.135
-# text = Ulrike Windsperger von den Grünen forderte CSU-Mann Ellmaier auf , sich bei Pfarrer Stahlschmidt zu entschuldigen : " Gerade in Zeiten wie diesen muß man all denen , die mit dem Feuer spielen , mutig entgegentreten .
+# tuepp_article_id = T940622.135
+# sent_id = 4557
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ulrike Windsperger von den Grünen forderte CSU-Mann Ellmaier auf , sich bei Pfarrer Stahlschmidt zu entschuldigen : " Gerade in Zeiten wie diesen muß man all denen , die mit dem Feuer spielen , mutig entgegentreten .
 1	Ulrike	*	*	*	*
 2	Windsperger	*	*	*	*
 3	von	*	*	*	*
@@ -1782,10 +1851,11 @@
 36	entgegentreten	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T940609.76
-# text = Major warnte , daß sie mit dem Feuer spielen , wenn sie ihr Kreuzchen verweigerten : " Beschwert euch nicht bei mir , wenn eine sozialistische Mehrheit in Brüssel dann Ausgaben und Steuern erhöht und sich in jeden Winkel eures Lebens einmischt .
+# tuepp_article_id = T940609.76
+# sent_id = 4558
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Major warnte , daß sie mit dem Feuer spielen , wenn sie ihr Kreuzchen verweigerten : " Beschwert euch nicht bei mir , wenn eine sozialistische Mehrheit in Brüssel dann Ausgaben und Steuern erhöht und sich in jeden Winkel eures Lebens einmischt .
 1	Major	*	*	*	*
 2	warnte	*	*	*	*
 3	,	*	*	*	*
@@ -1830,20 +1900,22 @@
 42	einmischt	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T941006.217
-# text = CDUSPDFDP spielen mit dem Feuer
+# tuepp_article_id = T941006.217
+# sent_id = 4559
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = CDUSPDFDP spielen mit dem Feuer
 1	CDUSPDFDP	*	*	*	*
 2	spielen	2	2	2	2
 3	mit	2	2	2	2
 4	dem	*	*	*	*
 5	Feuer	2	2	2	2
 
-# article_id = T940909.24
-# text = " Wir warnen Arafats Regierung , nicht mit dem Feuer zu spielen " , hieß es auf dem Flugblatt .
+# tuepp_article_id = T940909.24
+# sent_id = 4560
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wir warnen Arafats Regierung , nicht mit dem Feuer zu spielen " , hieß es auf dem Flugblatt .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	warnen	*	*	*	*
@@ -1865,10 +1937,11 @@
 19	Flugblatt	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T940128.71
-# text = Aber einige Beobachter meinen , Bouteflika habe mit dem Feuer gespielt und sei zur Zeit im Ausland besser aufgehoben .
+# tuepp_article_id = T940128.71
+# sent_id = 4561
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber einige Beobachter meinen , Bouteflika habe mit dem Feuer gespielt und sei zur Zeit im Ausland besser aufgehoben .
 1	Aber	*	*	*	*
 2	einige	*	*	*	*
 3	Beobachter	*	*	*	*
@@ -1890,10 +1963,11 @@
 19	aufgehoben	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T940713.15
-# text = Haitis Militärs spielen mit dem Feuer
+# tuepp_article_id = T940713.15
+# sent_id = 4562
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Haitis Militärs spielen mit dem Feuer
 1	Haitis	*	*	*	*
 2	Militärs	*	*	*	*
 3	spielen	2	2	2	2
@@ -1901,10 +1975,11 @@
 5	dem	*	*	*	*
 6	Feuer	2	2	2	2
 
-# article_id = T941221.173
-# text = Zwei Paare spielen mit dem Feuer , wissentlich und voller Lust am Untergang .
-# context_judgement_1 = 0
+# tuepp_article_id = T941221.173
+# sent_id = 4563
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Zwei Paare spielen mit dem Feuer , wissentlich und voller Lust am Untergang .
 1	Zwei	*	*	*	*
 2	Paare	*	*	*	*
 3	spielen	4	2	2	2
@@ -1920,10 +1995,11 @@
 13	Untergang	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T941227.82
-# text = Warum spielt Boris Jelzin mit dem Feuer ?
+# tuepp_article_id = T941227.82
+# sent_id = 4564
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Warum spielt Boris Jelzin mit dem Feuer ?
 1	Warum	*	*	*	*
 2	spielt	2	2	2	2
 3	Boris	*	*	*	*
@@ -1933,10 +2009,11 @@
 7	Feuer	2	2	2	2
 8	?	*	*	*	*
 
-# article_id = T941231.28
-# text = Moskau spielt nicht mehr nur mit Feuer , atavistische Züge treten hervor .
+# tuepp_article_id = T941231.28
+# sent_id = 4565
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Moskau spielt nicht mehr nur mit Feuer , atavistische Züge treten hervor .
 1	Moskau	*	*	*	*
 2	spielt	2	2	2	2
 3	nicht	*	*	*	*
@@ -1951,10 +2028,11 @@
 12	hervor	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T940205.69
-# text = Ein UNO-Mitarbeiter : " Beide Seiten spielen mit dem Feuer .
+# tuepp_article_id = T940205.69
+# sent_id = 4566
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein UNO-Mitarbeiter : " Beide Seiten spielen mit dem Feuer .
 1	Ein	*	*	*	*
 2	UNO-Mitarbeiter	*	*	*	*
 3	:	*	*	*	*
@@ -1967,10 +2045,11 @@
 10	Feuer	2	2	2	2
 11	.	*	*	*	*
 
-# article_id = T950616.281
-# text = Nach den scharfen Maßnahmen , die die palästinensische Autonomiebehörde ergriffen hatte , warf das Büro der Hamas in Amman Arafat vor , er habe " die rote Linie überschritten " und " spiele mit dem Feuer " .
+# tuepp_article_id = T950616.281
+# sent_id = 4567
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach den scharfen Maßnahmen , die die palästinensische Autonomiebehörde ergriffen hatte , warf das Büro der Hamas in Amman Arafat vor , er habe " die rote Linie überschritten " und " spiele mit dem Feuer " .
 1	Nach	*	*	*	*
 2	den	*	*	*	*
 3	scharfen	*	*	*	*
@@ -2010,10 +2089,11 @@
 37	"	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T950621.124
-# text = Andererseits ist die Frauenbewegung vielleicht wirklich so weit gekommen , daß unsereins jetzt nicht nur mit dem Feuer spielen , sondern endlich damit hantieren darf , und zwar mit Grillbesteck und Konsorten .
+# tuepp_article_id = T950621.124
+# sent_id = 4568
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Andererseits ist die Frauenbewegung vielleicht wirklich so weit gekommen , daß unsereins jetzt nicht nur mit dem Feuer spielen , sondern endlich damit hantieren darf , und zwar mit Grillbesteck und Konsorten .
 1	Andererseits	*	*	*	*
 2	ist	*	*	*	*
 3	die	*	*	*	*
@@ -2048,10 +2128,11 @@
 32	Konsorten	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T950801.199
-# text = Um sich persönlich abzusichern , spielte er mit dem Feuer : er soll umfangreiches belastendes Material über die Korruptionsstrukturen in der Militär-Beschaffung zusammengestellt haben , das wollte er Frau Tu mit nach Bremen geben .
+# tuepp_article_id = T950801.199
+# sent_id = 4569
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Um sich persönlich abzusichern , spielte er mit dem Feuer : er soll umfangreiches belastendes Material über die Korruptionsstrukturen in der Militär-Beschaffung zusammengestellt haben , das wollte er Frau Tu mit nach Bremen geben .
 1	Um	*	*	*	*
 2	sich	*	*	*	*
 3	persönlich	*	*	*	*
@@ -2088,10 +2169,11 @@
 34	geben	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T990507.173
-# text = " Wir wußten damals , daß wir mit diesem Film mit dem Feuer spielten " , sagt Krystyna Janda auf der Diskussionsveranstaltung nach der Aufführung , " aber mit so einer harten Zensur hatten wir nicht gerechnet .
+# tuepp_article_id = T990507.173
+# sent_id = 4570
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wir wußten damals , daß wir mit diesem Film mit dem Feuer spielten " , sagt Krystyna Janda auf der Diskussionsveranstaltung nach der Aufführung , " aber mit so einer harten Zensur hatten wir nicht gerechnet .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	wußten	*	*	*	*
@@ -2131,10 +2213,11 @@
 37	gerechnet	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T990123.334
-# text = Selbst Bill Clinton sah man ab und an mit einem prächtigen Großformat zwischen den Lippen - eine Liebhaberei , die er sich öffentlich versagt , seitdem er und die Praktikantin mit dem Feuer spielten .
-# context_judgement_1 = 0
+# tuepp_article_id = T990123.334
+# sent_id = 4571
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Selbst Bill Clinton sah man ab und an mit einem prächtigen Großformat zwischen den Lippen - eine Liebhaberei , die er sich öffentlich versagt , seitdem er und die Praktikantin mit dem Feuer spielten .
 1	Selbst	*	*	*	*
 2	Bill	*	*	*	*
 3	Clinton	*	*	*	*
@@ -2171,10 +2254,11 @@
 34	spielten	2	2	2	2
 35	.	*	*	*	*
 
-# article_id = T990421.89
-# text = " Irgend jemand spielt mit dem Feuer .
+# tuepp_article_id = T990421.89
+# sent_id = 4572
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Irgend jemand spielt mit dem Feuer .
 1	"	*	*	*	*
 2	Irgend	*	*	*	*
 3	jemand	*	*	*	*

@@ -1,4 +1,5 @@
-# article_id = T890622.70
+# tuepp_article_id = T890622.70
+# sent_id = 1
 # text = Der Vergewaltiger habe zu diesem Zeitpunk't bedingt durch Verletzungen an den Hoden , entkräftet am Boden gelegen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -21,7 +22,8 @@
 17	gelegen	liegen	VVPP	1	1	1	1
 18	.	.	$.	*	*	*	*
 
-# article_id = T891027.129
+# tuepp_article_id = T891027.129
+# sent_id = 2
 # text = Der Italiener Paolo klammert sich , nackt am Boden liegend , an eine Amphore .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -41,7 +43,8 @@
 14	Amphore	Amphore	NN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T890711.167
+# tuepp_article_id = T890711.167
+# sent_id = 3
 # text = Die Kartoffeln fallen ihm aus der Hand , rollen in den Raum , stoßen an am Boden liegende , ineinander verknäulte oder in einen Stuhl eingesperrte Gestalten an : Vincents Umgebung .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -78,7 +81,8 @@
 31	Umgebung	Umgebung	NN	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T891101.122
+# tuepp_article_id = T891101.122
+# sent_id = 4
 # text = Wer wie ich gesehen hat , wie eine Frau , die schon minutenlang regungslos am Boden lag , von mehreren Zivilen abwechselnd in den Bauch getreten wurde , wer gesehen hat , wie Einige zwanzig , dreißig Meter an den Haaren übers Pflaster geschleift wurden , für den war Staatsfeindlichkeit von nun an keine Frage der politischen Gesinnung mehr , sondern schlicht eine Frage der Moral .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -150,7 +154,8 @@
 66	Moral	Moral	NN	*	*	*	*
 67	.	.	$.	*	*	*	*
 
-# article_id = T891103.100
+# tuepp_article_id = T891103.100
+# sent_id = 5
 # text = Der Ball ging an Freund und Feind vorbei , prallte an den rechten Außenpfosten , sprang zurück an den Kopf des am Boden liegenden Butragueno und landete schließlich im Tor .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -186,7 +191,8 @@
 30	Tor	Tor	NN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T910611.123
+# tuepp_article_id = T910611.123
+# sent_id = 6
 # text = Aus unserer Sicht liegt der Tisch , an dem man dort droben Karten spielt , am Boden , sub specie aeternitatis aber steht er .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -216,7 +222,8 @@
 24	er	er	PPER	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T911007.90
+# tuepp_article_id = T911007.90
+# sent_id = 7
 # text = Mit blutender Wunde lag er am Boden , das Publikum schloß messerscharf : Wenn der was aus der Kurve an den Kopf gekriegt hat , gibt 's einen Kölner Protest auf Spielannullierung .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -254,7 +261,8 @@
 32	Spielannullierung	Spielannullierung	NN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T910711.86
+# tuepp_article_id = T910711.86
+# sent_id = 8
 # text = Das Land liegt wirtschaftlich am Boden , an allen Arten von Medikamenten herrscht Mangel , darunter auch an Verhütungsmitteln , die ausschließlich auf dem Schwarzmarkt zu erstehen sind .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -288,7 +296,8 @@
 28	sind	sein	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T911202.148
+# tuepp_article_id = T911202.148
+# sent_id = 9
 # text = Die Brandflaschen zerschellten an der Außenwand und entzündeten am Boden liegendes Gerümpel .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -306,7 +315,8 @@
 12	Gerümpel	Gerümpel	NN	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T901027.235
+# tuepp_article_id = T901027.235
+# sent_id = 10
 # text = Als er ausstieg - die Fahrerin mit aufgeschlagenen Knien und verdrehtem Lenker am Boden liegend - , sagte er zu ihr : » Tja , an Fahrradfahrer müssen wir uns eben erst gewöhnen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -345,7 +355,8 @@
 33	gewöhnen	gewöhnen	VVINF	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T900109.100
+# tuepp_article_id = T900109.100
+# sent_id = 11
 # text = Die Soldaten trieben die verschreckten Anwohner aus ihren Häusern und ließen sie im Gänsemarsch an einem Jeep vorbeidefilieren , neben dem drei mit Handschellen gefesselte Männer am Boden lagen , die von ihren Bewachern mit Kolbenhieben und Fußtritten mißhandelt wurden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -391,7 +402,8 @@
 40	wurden	werden	VAFIN	*	*	*	*
 41	.	.	$.	*	*	*	*
 
-# article_id = T900108.31
+# tuepp_article_id = T900108.31
+# sent_id = 12
 # text = In der immer heftiger werdenden Kritik an der SED-PDS schwingt auch ein ganzes Stück Überraschung darüber mit , daß die für die desolate Lage der DDR verantwortliche Partei nicht moralisch und organisatorisch zerstört am Boden liegt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -433,7 +445,8 @@
 36	liegt	liegen	VVFIN	2	2	2	2
 37	.	.	$.	*	*	*	*
 
-# article_id = T901212.179
+# tuepp_article_id = T901212.179
+# sent_id = 13
 # text = Die seit den Ereignissen in der Mainzer Straße offensichtlich völlig enthemmten Beamten traten dabei noch am Boden liegende Personen - darunter mehrere Frauen - in den Unterleib und schleiften sie an den Haaren aus dem Saal .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -475,7 +488,8 @@
 36	Saal	Saal	NN	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T901107.76
+# tuepp_article_id = T901107.76
+# sent_id = 14
 # text = Nach dem Schußwaffeneinsatz lagen blutende Menschen an Boden , der 18jährige Mike Polley wurde tödlich ins Herz getroffen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -499,7 +513,8 @@
 18	getroffen	treffen|triefen	VVPP	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T901116.105
+# tuepp_article_id = T901116.105
+# sent_id = 15
 # text = Er liegt am Boden , sie hat nur das blaue Leibchen mit den Leopardensprenkeln an ... " ) und sind - trotz der suggestiven Beschwörung erotischer Intensitätskurven - sterbenslangweilig .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -534,7 +549,8 @@
 29	sterbenslangweilig	sterbenslangweilig	ADJD	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T920917.91
+# tuepp_article_id = T920917.91
+# sent_id = 16
 # text = Minute fiel das kurioseste Tor : Als Torwart Kristinsson die Situation schon bereinigt hatte , schoß Sveinsson den am Boden liegenden Witeczek so unglücklich an , daß der Ball ins Tor prallte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -572,7 +588,8 @@
 32	prallte	prallen	VVFIN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T920108.161
+# tuepp_article_id = T920108.161
+# sent_id = 17
 # text = An die » Produktionsfirmen im Westen « wandte sich der Puschkiner Bürgermeister mit der Bitte , der am Boden liegenden » sowjetischen Wirtschaft « unter die Arme zu greifen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -607,7 +624,8 @@
 29	greifen	greifen	VVINF	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T920711.12
+# tuepp_article_id = T920711.12
+# sent_id = 18
 # text = Kroatien , dessen Industrie im Krieg zu einem großen Teil zerstört wurde , liegt wirtschaftlich am Boden , nachdem die Haupteinnahmequelle - der Tourismus an den Stränden der adriatischen Küste - versiegt ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -646,7 +664,8 @@
 33	ist	sein	VAFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T920807.58
+# tuepp_article_id = T920807.58
+# sent_id = 19
 # text = Was sich in den letzten sechzehn Jahren in diesem Land abgespielte , ist an Brutalität und Perspektivlosigkeit kaum zu überbieten : Massenmorde , Massenfluchten , Tausende zerstörter Dörfer , eine am Boden liegende Wirtschaft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -686,7 +705,8 @@
 34	Wirtschaft	Wirtschaft	NN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T920324.68
+# tuepp_article_id = T920324.68
+# sent_id = 20
 # text = Kurze Zeit später liegt ein 18jähriger erschlagen am Boden - tödlich an Hals und Schläfe getroffen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -708,7 +728,8 @@
 16	getroffen	treffen|triefen	VVPP	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T880916.163
+# tuepp_article_id = T880916.163
+# sent_id = 21
 # text = " Don Carlos " in Bremerhaven - das waren vier Stunden Langeweile bis auf einen Knall zehn Minuten vor Schluß , der das Publikum aus dem Schlummer riß , eine unfreiwillige Pointe , aber kein " finaler Rettungsschuß " , wie bissige Stimmen flüsterten , denn an dieser Inszenierung war nichts mehr zu retten , und am Boden lag am Ende nicht nur der Marquis , sondern der Ruf des Theaters .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -785,7 +806,8 @@
 71	Theaters	Theater	NN	*	*	*	*
 72	.	.	$.	*	*	*	*
 
-# article_id = T881105.28
+# tuepp_article_id = T881105.28
+# sent_id = 22
 # text = Das gesamte Regenwaldgebiet an der Costa Atlantica ist gefällt , rund eine Million Kubikmeter Holz liegt am Boden und wird dort wahrscheinlich verfaulend Myriaden von Bakterien nähren , die das empfindliche Ökosystem dieses Waldes vollends zum Zusammenbruch bringen , während andernorts mangels Bergungs- und Transportmöglichkeiten Brennholz und Bretter fehlen werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -841,7 +863,8 @@
 50	werden	werden	VAFIN	*	*	*	*
 51	.	.	$.	*	*	*	*
 
-# article_id = T861223.80
+# tuepp_article_id = T861223.80
+# sent_id = 23
 # text = Die Iraner wußten gleichfalls , woran ihnen gelegen war : an Ersatzteilen für die weitgehend am Boden liegende Luftwaffe , die noch aus Zeiten des Schah stammte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -874,7 +897,8 @@
 27	stammte	stammen	VVFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T930617.79
+# tuepp_article_id = T930617.79
+# sent_id = 24
 # text = Pakistanische Soldaten schießen in eine aufgebrachte Menge von Zivilisten , Frauen und Kinder bleiben tot oder verletzt am Boden liegen - geradezu atavistische Rache für den Mord an 23 UN-pakistanischen Soldaten kurze Zeit zuvor .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -914,7 +938,8 @@
 34	zuvor	zuvor	PTKVZ	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T930116.80
+# tuepp_article_id = T930116.80
+# sent_id = 25
 # text = Aber an wen sollen sich die gequälten Staatsbürger wenden , wenn Leviathan am Boden liegt , Behemoth triumphiert und weit und breit kein starker Arm zu sehen ist ?
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -948,7 +973,8 @@
 28	ist	sein	VAFIN	*	*	*	*
 29	?	?	$.	*	*	*	*
 
-# article_id = T930703.6
+# tuepp_article_id = T930703.6
+# sent_id = 26
 # text = Wie das Innenministerium erklärte , haben alle sechs an der Aktion in Bad Kleinen beteiligten GSG-9-Beamten bestritten , den am Boden liegenden Wolfgang Grams erschossen zu haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -981,7 +1007,8 @@
 27	haben	haben	VAINF	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T930703.22
+# tuepp_article_id = T930703.22
+# sent_id = 27
 # text = Ministeriumssprecher Bachmaier betonte gestern , daß eine nochmalige Befragung der sechs " an Zugriff und Schußwechsel " beteiligten GSG 9-Beamten ergeben habe , daß keiner von ihnen auf den am Boden liegenden Grams geschossen oder einen " aufgesetzten Schuß " abgegeben haben will .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1030,7 +1057,8 @@
 43	will	wollen	VMFIN	*	*	*	*
 44	.	.	$.	*	*	*	*
 
-# article_id = T930727.85
+# tuepp_article_id = T930727.85
+# sent_id = 28
 # text = Die ehemals zahlreichen Touristen bleiben aus , tägliche Stromsperren an der Küste verändern und erschweren den Tagesablauf , das Wirtschaftsleben liegt am Boden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1059,7 +1087,8 @@
 23	Boden	Boden	NN	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T930707.80
+# tuepp_article_id = T930707.80
+# sent_id = 29
 # text = Beide , eine Kioskbesitzerin auf dem Bahnhof und ein beim Einsatz anwesender Polizeibeamter , führten unabhängig voneinander an , der reglos am Boden liegende Grams sei von einem Polizisten aus nächster Nähe in den Kopf geschossen worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1102,9 +1131,10 @@
 37	worden	werden	VAPP	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T931116.95
+# tuepp_article_id = T931116.95
+# sent_id = 30
 # text = Auch bevor er sich auf den am Boden liegenden Sohn legt und ihn so mit der eigenen Körperfülle ersticken will , kündigt er seine Handlung leise , wie resigniert an : " Jetzt aber mach ich 's kurz .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Auch	auch	ADV	*	*	*	*
 2	bevor	bevor	KOUS	*	*	*	*
@@ -1146,7 +1176,8 @@
 38	kurz	kurz	ADJD	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T961012.252
+# tuepp_article_id = T961012.252
+# sent_id = 31
 # text = Ein Mann liegt bäuchlings ausgestreckt am Boden , ein anderer kriecht auf Knien an der Wand entlang .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1169,7 +1200,8 @@
 17	entlang	entlang	PTKVZ	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T960712.378
+# tuepp_article_id = T960712.378
+# sent_id = 32
 # text = Doch selbst wenn gerichtlich festgestellt würde , daß Aslam tatsächlich geschlagen und , wie er selbst zu Protokoll gab , am Boden liegend getreten worden ist , würde das nichts an seinem Schicksal ändern : " Es handelt sich um eine ausländerrechtlich klare Entscheidung " , sagt Norbert Smekal , Pressesprecher der Ausländerbehörde .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1228,9 +1260,10 @@
 53	Ausländerbehörde	Ausländerbehörde	NN	*	*	*	*
 54	.	.	$.	*	*	*	*
 
-# article_id = T981022.309
+# tuepp_article_id = T981022.309
+# sent_id = 33
 # text = Dieser " magische Realismus " nimmt nach der Emigration in die Vereinigten Staaten zum Teil bedrohliche Züge an : In " Back of Things " wird ein Mann , am Boden liegend , von zwei Dominas bedroht .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Dieser	dies	PDAT	*	*	*	*
 2	"	"	$(	*	*	*	*
@@ -1271,7 +1304,8 @@
 37	bedroht	bedrohen	VVPP	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T980815.294
+# tuepp_article_id = T980815.294
+# sent_id = 34
 # text = Der eine , Thon , war eine Art Spielmacher und Dribbler , veränderte Arbeitsauffassung und Stil , paßte sie den modernen , internationalen Gegebenheiten des Spiels an , führte das am Boden liegende Schalke mit etwas Glück und viel System zu internationalem Erfolg .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1320,7 +1354,8 @@
 43	Erfolg	Erfolg	NN	*	*	*	*
 44	.	.	$.	*	*	*	*
 
-# article_id = T980814.216
+# tuepp_article_id = T980814.216
+# sent_id = 35
 # text = Da der Mann ein talentierter Erzähler ist , muß der Wanderer fast eine Stunde lang teilhaben an jenen Bildern von Granaten und Napalmbomben , die auf alles abgeworfen werden , was sich in der Sperrzone bewegt , Männer , Frauen , Tiere ; Dutzende am Boden liegende Körper , Massengräber , die mit Bulldozern ausgehoben und wieder zugeschüttet und mit Planierraupen eingeebnet wurden , so daß heute nichts mehr von ihnen zu erkennen ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1400,9 +1435,10 @@
 74	ist	sein	VAFIN	*	*	*	*
 75	.	.	$.	*	*	*	*
 
-# article_id = T980219.272
+# tuepp_article_id = T980219.272
+# sent_id = 36
 # text = Sekunden später liegt Marie ausgestreckt am Boden , krampfhaft preßt sie ein Stück Seide an ihre Brust , auf ihrem Gesicht ekstatische Glückseligkeit .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sekunden	Sekunde	NN	*	*	*	*
 2	später	spät	ADJD	*	*	*	*
@@ -1429,7 +1465,8 @@
 23	Glückseligkeit	Glückseligkeit	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T970802.52
+# tuepp_article_id = T970802.52
+# sent_id = 37
 # text = Die Anti- AKW-Bewegung , die 60.000 Menschen an den Bauplatz mobilisiert hatte , lag am Boden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1451,7 +1488,8 @@
 16	Boden	Boden	NN	2	2	2	2
 17	.	.	$.	*	*	*	*
 
-# article_id = T970207.145
+# tuepp_article_id = T970207.145
+# sent_id = 38
 # text = Die kalkulierte Ausgewogenheit zwischen Folk-Wurzeln und kosmopolitischem Rockpop-Potential , die auf " Ne La Thiass " im dezenten Einsatz akustischer und elektrischer Instrumentierung zum Ausdruck kommt , birgt das Modell , mit dem die senegalesische Musikindustrie den Anschluß an andere Exportgüter sucht : Das wirtschaftlich am Boden liegende Land ist größter Erdnußexporteur der Welt und senegalesische Musik Spitzenreiter im allerdings marginalen Weltmusikmarkt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1519,7 +1557,8 @@
 62	Weltmusikmarkt	<unknown>	NN	*	*	*	*
 63	.	.	$.	*	*	*	*
 
-# article_id = T940604.351
+# tuepp_article_id = T940604.351
+# sent_id = 39
 # text = Das kündigte gestern der innenpolitische Sprecher der Grünen und " Kritische Polizist " Manfred Mahr an : " Beamte , die wehrlos am Boden liegende Demonstranten mißhandeln , haben in diesem Beruf nichts zu suchen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1560,7 +1599,8 @@
 35	suchen	suchen	VVINF	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T940603.174
+# tuepp_article_id = T940603.174
+# sent_id = 40
 # text = Einer gab an , nach einer Feuerpause von einer zweiten Kugel getroffen worden zu sein , als er bereits verwundet am Boden gelegen habe .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1590,9 +1630,10 @@
 24	habe	haben	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T941221.173
+# tuepp_article_id = T941221.173
+# sent_id = 41
 # text = Die Inszenierung von Holger Papp - seine erste eigene Regiearbeit nach der Regieassistenz an den Hamburger Kammerspielen - erfindet weitere Symbole : Zu Beginn stellt die Frau eine zerbrochen am Boden liegende Statue aufs Piedestal , die am Ende wieder umgestoßen wird .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	Inszenierung	Inszenierung	NN	*	*	*	*
@@ -1638,7 +1679,8 @@
 42	wird	werden	VAFIN	*	*	*	*
 43	.	.	$.	*	*	*	*
 
-# article_id = T940312.237
+# tuepp_article_id = T940312.237
+# sent_id = 42
 # text = Eine Wende kündigt sich in Zeitlupe an : Die Gedemütigte tritt zu , bis die Herrin mit zersplittertem Schienbein am Boden liegt , verletzt und auf Hilfe angewiesen ; das Bibbelreich stürzt zusammen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1677,7 +1719,8 @@
 33	zusammen	zusammen	PTKVZ	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T950614.52
+# tuepp_article_id = T950614.52
+# sent_id = 43
 # text = Einer dieser Personen habe sich neben die am Boden liegende Person gekniet , dieser eine Waffe an den Kopf gesetzt und abgedrückt " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1706,9 +1749,10 @@
 23	"	"	$(	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T950311.261
+# tuepp_article_id = T950311.261
+# sent_id = 44
 # text = Mich erinnerten die am Boden liegenden Lemuren und Zerberusse , der Mann im Vogelkäfig und die Frau im Polyestervorhang entfernt an Fura dels Baus , Yesim fand das alles nur " Kaspar-Hauser-mäßig " .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Mich	ich	PPER	*	*	*	*
 2	erinnerten	erinnern	VVFIN	*	*	*	*
@@ -1745,7 +1789,8 @@
 33	"	"	$(	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T951103.116
+# tuepp_article_id = T951103.116
+# sent_id = 45
 # text =  Ein Spiel , an das man sich noch lange erinnern kann " , freute sich Svetislav Pesic , " alle haben sie am Boden gelegen , und sie sind wieder aufgestanden .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -1782,7 +1827,8 @@
 31	wieder	wieder	ADV	*	*	*	*
 32	aufgestanden	aufstehen	VVPP	*	*	*	*
 
-# article_id = T990422.44
+# tuepp_article_id = T990422.44
+# sent_id = 46
 # text = An den Krieg im Kosovo ließ denken , was am Dienstag nachmittag über Amerikas Bildschirme flimmerte : Gepanzerte Fahrzeuge , hinter denen schwerbewaffnete Polizeitruppen vorrücken , leblose Körper , die am Boden liegen , blutüberströmte Verletzte , die abtransportiert werden , ganze Gruppen von Menschen , die mit erhobenen Armen im Laufschritt aus einem umkämpften Gebäude geführt werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1846,7 +1892,8 @@
 58	werden	werden	VAINF	*	*	*	*
 59	.	.	$.	*	*	*	*
 
-# article_id = T990217.210
+# tuepp_article_id = T990217.210
+# sent_id = 47
 # text = Während der Türke blutüberströmt am Boden liegt , flüchtet der Täter an der nächsten U-Bahn- Station .
 # context_judgement_1 = 0
 # context_judgement_2 = 0

@@ -1,7 +1,8 @@
-# article_id = T890512.153
-# text = Allerdings hat das Experiment , über den Bildschirm das Evangelium zu verkünden - sei es als Varietevorstellung oder als bibelversdonnernde Predigt - , in letzter Zeit durch einige Predigeraffären erheblich an Glanz und damit auch an Geld verloren .
-# context_judgement_1 = 0
+# tuepp_article_id = T890512.153
+# sent_id = 48
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Allerdings hat das Experiment , über den Bildschirm das Evangelium zu verkünden - sei es als Varietevorstellung oder als bibelversdonnernde Predigt - , in letzter Zeit durch einige Predigeraffären erheblich an Glanz und damit auch an Geld verloren .
 1	Allerdings	*	*	*	*
 2	hat	*	*	*	*
 3	das	*	*	*	*
@@ -42,10 +43,11 @@
 38	verloren	2	2	2	2
 39	.	*	*	*	*
 
-# article_id = T900531.61
-# text = Die großen Hoffnungsträger in der Regierung verlieren an Glanz .
+# tuepp_article_id = T900531.61
+# sent_id = 49
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die großen Hoffnungsträger in der Regierung verlieren an Glanz .
 1	Die	*	*	*	*
 2	großen	*	*	*	*
 3	Hoffnungsträger	*	*	*	*
@@ -57,10 +59,11 @@
 9	Glanz	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T900405.131
-# text = Der Brillanteffekt verliert an Glanz .
+# tuepp_article_id = T900405.131
+# sent_id = 50
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Der Brillanteffekt verliert an Glanz .
 1	Der	*	*	*	*
 2	Brillanteffekt	*	*	*	*
 3	verliert	2	2	2	2
@@ -68,10 +71,11 @@
 5	Glanz	2	2	2	2
 6	.	*	*	*	*
 
-# article_id = T920131.75
-# text = Aber die Zweifel an der mechanistischen Landwirtschaft und Medizin wachsen , die Vision von der Unterwerfung der Natur verliert ihren Glanz , und das Klima ändert sich - im wörtlichen wie im übertragenen Sinne .
-# context_judgement_1 = 1
+# tuepp_article_id = T920131.75
+# sent_id = 51
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Aber die Zweifel an der mechanistischen Landwirtschaft und Medizin wachsen , die Vision von der Unterwerfung der Natur verliert ihren Glanz , und das Klima ändert sich - im wörtlichen wie im übertragenen Sinne .
 1	Aber	*	*	*	*
 2	die	*	*	*	*
 3	Zweifel	*	*	*	*
@@ -108,10 +112,11 @@
 34	Sinne	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T880628.150
-# text = Der Effekt ist verblüffend : Saint-Saens Musik verliert an virtuosem Glanz und gewinnt an Substanz .
+# tuepp_article_id = T880628.150
+# sent_id = 52
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Effekt ist verblüffend : Saint-Saens Musik verliert an virtuosem Glanz und gewinnt an Substanz .
 1	Der	*	*	*	*
 2	Effekt	*	*	*	*
 3	ist	*	*	*	*
@@ -129,10 +134,11 @@
 15	Substanz	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T881006.31
-# text = Die Tracht der Partei verliert an Glanz , doch der Apparat steht bis ins letzte Dorf
+# tuepp_article_id = T881006.31
+# sent_id = 53
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Tracht der Partei verliert an Glanz , doch der Apparat steht bis ins letzte Dorf
 1	Die	*	*	*	*
 2	Tracht	*	*	*	*
 3	der	*	*	*	*
@@ -150,10 +156,11 @@
 15	letzte	*	*	*	*
 16	Dorf	*	*	*	*
 
-# article_id = T881006.31
-# text = Wenn jetzt durch das Abtreten von Strauß die Tracht an Glanz verliert und damit als beruhigendes Element der Tradition wegfällt , weil sie keiner seiner Nachfolger mehr erfolgreich als Deckmantel benützen kann , verliert auch die CSU nach und nach an Faszination .
+# tuepp_article_id = T881006.31
+# sent_id = 54
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn jetzt durch das Abtreten von Strauß die Tracht an Glanz verliert und damit als beruhigendes Element der Tradition wegfällt , weil sie keiner seiner Nachfolger mehr erfolgreich als Deckmantel benützen kann , verliert auch die CSU nach und nach an Faszination .
 1	Wenn	*	*	*	*
 2	jetzt	*	*	*	*
 3	durch	*	*	*	*
@@ -198,10 +205,11 @@
 42	Faszination	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T930324.49
-# text = Doch heute ist alles ganz anders : Der Rohstoff hat längst an Glanz und Anziehungskraft verloren .
+# tuepp_article_id = T930324.49
+# sent_id = 55
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Doch heute ist alles ganz anders : Der Rohstoff hat längst an Glanz und Anziehungskraft verloren .
 1	Doch	*	*	*	*
 2	heute	*	*	*	*
 3	ist	*	*	*	*
@@ -220,10 +228,11 @@
 16	verloren	2	2	2	2
 17	.	*	*	*	*
 
-# article_id = T960219.170
-# text = Dieses Leid- Motiv ist tatsächlich das Leitmotiv des Films , der die Wandlung des englischen Simplicissimus vom eitlen , aber nicht völlig an den Glanz verlorenen Gecken zum Heiler und Aufklärer beschreibt .
+# tuepp_article_id = T960219.170
+# sent_id = 56
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Dieses Leid- Motiv ist tatsächlich das Leitmotiv des Films , der die Wandlung des englischen Simplicissimus vom eitlen , aber nicht völlig an den Glanz verlorenen Gecken zum Heiler und Aufklärer beschreibt .
 1	Dieses	*	*	*	*
 2	Leid-	*	*	*	*
 3	Motiv	*	*	*	*
@@ -258,10 +267,11 @@
 32	beschreibt	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T980415.221
-# text = Doch läßt sich das prominente BBC-Programm , das dort seit 34 Jahren läuft und läuft und läuft , auf deutsche Verhältnisse übertragen , ohne daß es dabei an Glanz verliert ?
-# context_judgement_1 = 0
+# tuepp_article_id = T980415.221
+# sent_id = 57
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Doch läßt sich das prominente BBC-Programm , das dort seit 34 Jahren läuft und läuft und läuft , auf deutsche Verhältnisse übertragen , ohne daß es dabei an Glanz verliert ?
 1	Doch	*	*	*	*
 2	läßt	*	*	*	*
 3	sich	*	*	*	*
@@ -294,10 +304,11 @@
 30	verliert	2	2	2	2
 31	?	*	*	*	*
 
-# article_id = T981221.79
-# text = Das von Luschkow reklamierte " Wirtschaftswunder " in Moskau dürfte bald an Glanz verlieren .
+# tuepp_article_id = T981221.79
+# sent_id = 58
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das von Luschkow reklamierte " Wirtschaftswunder " in Moskau dürfte bald an Glanz verlieren .
 1	Das	*	*	*	*
 2	von	*	*	*	*
 3	Luschkow	*	*	*	*
@@ -314,10 +325,11 @@
 14	verlieren	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T971004.302
-# text = Im selben Moment wurde Azraa'eels Körper übersät mit den Augen aller lebenden Wesen , und wenn ein Wesen starb , verloren die Augen des toten Wesens ihren Glanz und fielen von Azraa'eels Körper ab , und die Augen eines neugeborenen Wesens erschienen an ihrer Stelle .
-# context_judgement_1 = 1
+# tuepp_article_id = T971004.302
+# sent_id = 59
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Im selben Moment wurde Azraa'eels Körper übersät mit den Augen aller lebenden Wesen , und wenn ein Wesen starb , verloren die Augen des toten Wesens ihren Glanz und fielen von Azraa'eels Körper ab , und die Augen eines neugeborenen Wesens erschienen an ihrer Stelle .
 1	Im	*	*	*	*
 2	selben	*	*	*	*
 3	Moment	*	*	*	*
@@ -365,10 +377,11 @@
 45	Stelle	*	*	*	*
 46	.	*	*	*	*
 
-# article_id = T940219.317
-# text = Diese traute Idylle von Politik und Planung verliert jedoch schnell an Glanz , wendet man sich den Innereien des Gutachtens und seinen voraussichtlichen Konsequenzen zu .
+# tuepp_article_id = T940219.317
+# sent_id = 60
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Diese traute Idylle von Politik und Planung verliert jedoch schnell an Glanz , wendet man sich den Innereien des Gutachtens und seinen voraussichtlichen Konsequenzen zu .
 1	Diese	*	*	*	*
 2	traute	*	*	*	*
 3	Idylle	*	*	*	*
@@ -396,10 +409,11 @@
 25	zu	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T950505.245
-# text = Jeder der drei Tänzer darf einmal mit der einen Tänzerin im Duett sich als Macho zeigen , während eine Million Papierschnipsel auf dem Boden liegen - das ist ein bißchen glatt , zu klischeehaft auch , und die Bewegungen gehen zu sehr ins Sportive und verlieren an Glanz .
-# context_judgement_1 = 1
+# tuepp_article_id = T950505.245
+# sent_id = 61
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Jeder der drei Tänzer darf einmal mit der einen Tänzerin im Duett sich als Macho zeigen , während eine Million Papierschnipsel auf dem Boden liegen - das ist ein bißchen glatt , zu klischeehaft auch , und die Bewegungen gehen zu sehr ins Sportive und verlieren an Glanz .
 1	Jeder	*	*	*	*
 2	der	*	*	*	*
 3	drei	*	*	*	*
@@ -450,10 +464,11 @@
 48	Glanz	2	2	2	2
 49	.	*	*	*	*
 
-# article_id = T951223.340
-# text = Wenn uns unsere Erinnerung nicht täuscht , war dies auch genau der Zeitpunkt , an dem der Heilige Abend insgesamt an Glanz verlor .
+# tuepp_article_id = T951223.340
+# sent_id = 62
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Wenn uns unsere Erinnerung nicht täuscht , war dies auch genau der Zeitpunkt , an dem der Heilige Abend insgesamt an Glanz verlor .
 1	Wenn	*	*	*	*
 2	uns	*	*	*	*
 3	unsere	*	*	*	*
@@ -479,10 +494,11 @@
 23	verlor	2	2	2	2
 24	.	*	*	*	*
 
-# article_id = T990409.146
-# text = Der Auftritt der Münchner am Mittwoch abend in Kiew zeigte nämlich kraß , daß alles , was in der Bundesliga so überirdisch wirkt , in Europas Spitzenregionen rapide an Glanz verliert .
+# tuepp_article_id = T990409.146
+# sent_id = 63
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Auftritt der Münchner am Mittwoch abend in Kiew zeigte nämlich kraß , daß alles , was in der Bundesliga so überirdisch wirkt , in Europas Spitzenregionen rapide an Glanz verliert .
 1	Der	*	*	*	*
 2	Auftritt	*	*	*	*
 3	der	*	*	*	*

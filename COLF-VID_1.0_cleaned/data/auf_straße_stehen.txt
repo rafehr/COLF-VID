@@ -1,7 +1,8 @@
-# article_id = T890509.228
-# text = Außerdem stehen wir seit Anfang November samstags vor dem U-Bahnhof Wittenbergplatz auf der Straße ( auch bei Regen und Wind , siehe Foto ) , um Geld und Unterschriften von Berlinern zu sammeln .
+# tuepp_article_id = T890509.228
+# sent_id = 505
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Außerdem stehen wir seit Anfang November samstags vor dem U-Bahnhof Wittenbergplatz auf der Straße ( auch bei Regen und Wind , siehe Foto ) , um Geld und Unterschriften von Berlinern zu sammeln .
 1	Außerdem	*	*	*	*
 2	stehen	1	1	1	1
 3	wir	*	*	*	*
@@ -37,10 +38,11 @@
 33	sammeln	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T890518.191
-# text = " Wir stehen auf der Straße und machen Stände , und Metz tut fast nichts .
-# context_judgement_1 = 0
+# tuepp_article_id = T890518.191
+# sent_id = 506
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = " Wir stehen auf der Straße und machen Stände , und Metz tut fast nichts .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	stehen	1	1	1	1
@@ -58,10 +60,11 @@
 15	nichts	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T890502.140
-# text = An die 30 Personen werden nun demnächst auf der Straße stehen .
+# tuepp_article_id = T890502.140
+# sent_id = 507
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = An die 30 Personen werden nun demnächst auf der Straße stehen .
 1	An	*	*	*	*
 2	die	*	*	*	*
 3	30	*	*	*	*
@@ -75,10 +78,11 @@
 11	stehen	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T890609.177
-# text = Während die Kirchengäste nach langen , anstrengenden Kirchentagsbesuchen abends erschöpft in die Betten sinken , bleiben die Obdachlosen laut Diakonischem Werk auf der Straße stehen .
-# context_judgement_1 = 1
+# tuepp_article_id = T890609.177
+# sent_id = 508
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Während die Kirchengäste nach langen , anstrengenden Kirchentagsbesuchen abends erschöpft in die Betten sinken , bleiben die Obdachlosen laut Diakonischem Werk auf der Straße stehen .
 1	Während	*	*	*	*
 2	die	*	*	*	*
 3	Kirchengäste	*	*	*	*
@@ -106,10 +110,11 @@
 25	stehen	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T890603.150
-# text = Während die Dachkletterer unbehelligt in ihrem Horst unter dem Dach der Lehrter Straße 51 weilten , stand die Konkurrenz recht verdutzt auf der Straße herum .
+# tuepp_article_id = T890603.150
+# sent_id = 509
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Während die Dachkletterer unbehelligt in ihrem Horst unter dem Dach der Lehrter Straße 51 weilten , stand die Konkurrenz recht verdutzt auf der Straße herum .
 1	Während	*	*	*	*
 2	die	*	*	*	*
 3	Dachkletterer	*	*	*	*
@@ -137,10 +142,11 @@
 25	herum	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T890626.96
-# text = Doch das Versteck erweist sich als unsicher , und einige Tage vor der Niederkunft steht sie auf der Straße .
+# tuepp_article_id = T890626.96
+# sent_id = 510
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch das Versteck erweist sich als unsicher , und einige Tage vor der Niederkunft steht sie auf der Straße .
 1	Doch	*	*	*	*
 2	das	*	*	*	*
 3	Versteck	*	*	*	*
@@ -162,10 +168,11 @@
 19	Straße	2	3	2	2
 20	.	*	*	*	*
 
-# article_id = T891021.155
-# text = " Keine Luxuswohnungen , damit sich Yuppies noch mehr ausbreiten können , und keine hohen Neubauzahlen auf Teufel komm raus , sondern lieber weniger Wohnungen , dafür aber für die , die sonst auf der Straße stehen " , fordert der AL-Bauexperte Volker Härtig .
+# tuepp_article_id = T891021.155
+# sent_id = 511
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Keine Luxuswohnungen , damit sich Yuppies noch mehr ausbreiten können , und keine hohen Neubauzahlen auf Teufel komm raus , sondern lieber weniger Wohnungen , dafür aber für die , die sonst auf der Straße stehen " , fordert der AL-Bauexperte Volker Härtig .
 1	"	*	*	*	*
 2	Keine	*	*	*	*
 3	Luxuswohnungen	*	*	*	*
@@ -212,10 +219,11 @@
 44	Härtig	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T891005.59
-# text = Und jetzt , wo die Fachkräfte praktisch auf der Straße stehen , brauchen die Firmen auch keine Qualifizierungs- und Einarbeitungsanstrengungen mehr zu unternehmen .
+# tuepp_article_id = T891005.59
+# sent_id = 512
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und jetzt , wo die Fachkräfte praktisch auf der Straße stehen , brauchen die Firmen auch keine Qualifizierungs- und Einarbeitungsanstrengungen mehr zu unternehmen .
 1	Und	*	*	*	*
 2	jetzt	*	*	*	*
 3	,	*	*	*	*
@@ -241,10 +249,11 @@
 23	unternehmen	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T891028.25
-# text = Am Morgen des 13. Oktober standen sie wieder auf der Straße .
-# context_judgement_1 = 1
+# tuepp_article_id = T891028.25
+# sent_id = 513
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Am Morgen des 13. Oktober standen sie wieder auf der Straße .
 1	Am	*	*	*	*
 2	Morgen	*	*	*	*
 3	des	*	*	*	*
@@ -259,10 +268,11 @@
 12	Straße	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T890918.125
-# text = " Ob mein Bett auf der Straße oder in der Wohnung steht , ist schnurz " , erklärte das BI-Mitglied , das unter die Decke geschlüpft war .
-# context_judgement_1 = 1
+# tuepp_article_id = T890918.125
+# sent_id = 514
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = " Ob mein Bett auf der Straße oder in der Wohnung steht , ist schnurz " , erklärte das BI-Mitglied , das unter die Decke geschlüpft war .
 1	"	*	*	*	*
 2	Ob	*	*	*	*
 3	mein	*	*	*	*
@@ -292,10 +302,11 @@
 27	war	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T890923.190
-# text = Zur Zeit steht die MIB ohne Raum auf der Straße .
+# tuepp_article_id = T890923.190
+# sent_id = 515
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zur Zeit steht die MIB ohne Raum auf der Straße .
 1	Zur	*	*	*	*
 2	Zeit	*	*	*	*
 3	steht	2	2	2	2
@@ -308,10 +319,11 @@
 10	Straße	2	2	2	2
 11	.	*	*	*	*
 
-# article_id = T890919.236
-# text = Prahm : ... und sie haben uns gefragt , ob wir denn auch die radikalen Dinge tun , oder ob wir nur auf der Straße stehen und Handzettel verteilen , ob wir schon mal daran gedacht haben , unsere Regierung in die Luft zu blasen ... , ob wir mit der Anti-Apartheid-Bewegung in der DDR zusammenarbeiten total neue Fragen für uns ...
+# tuepp_article_id = T890919.236
+# sent_id = 516
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Prahm : ... und sie haben uns gefragt , ob wir denn auch die radikalen Dinge tun , oder ob wir nur auf der Straße stehen und Handzettel verteilen , ob wir schon mal daran gedacht haben , unsere Regierung in die Luft zu blasen ... , ob wir mit der Anti-Apartheid-Bewegung in der DDR zusammenarbeiten total neue Fragen für uns ...
 1	Prahm	*	*	*	*
 2	:	*	*	*	*
 3	...	*	*	*	*
@@ -375,10 +387,11 @@
 61	uns	*	*	*	*
 62	...	*	*	*	*
 
-# article_id = T890927.232
-# text = Da stehe ich plötzlich mit ihm auf der Straße und soll mir eine Kneipe einfallen lassen .
+# tuepp_article_id = T890927.232
+# sent_id = 517
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Da stehe ich plötzlich mit ihm auf der Straße und soll mir eine Kneipe einfallen lassen .
 1	Da	*	*	*	*
 2	stehe	1	1	1	1
 3	ich	*	*	*	*
@@ -397,10 +410,11 @@
 16	lassen	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T890922.60
-# text = Langfristig wollen wir den sozialen Wohnungsbau ankurbeln , kurzfristig suchen wir nach Übergangslösungen für Studentinnen und Studenten , die im Oktober auf der Straße stehen .
+# tuepp_article_id = T890922.60
+# sent_id = 518
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Langfristig wollen wir den sozialen Wohnungsbau ankurbeln , kurzfristig suchen wir nach Übergangslösungen für Studentinnen und Studenten , die im Oktober auf der Straße stehen .
 1	Langfristig	*	*	*	*
 2	wollen	*	*	*	*
 3	wir	*	*	*	*
@@ -428,10 +442,11 @@
 25	stehen	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T890103.181
-# text = Wie berichtet , werden rund hundert Menschen , darunter zwanzig Kinder , im Fall einer Räumung auf der Straße stehen .
+# tuepp_article_id = T890103.181
+# sent_id = 519
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie berichtet , werden rund hundert Menschen , darunter zwanzig Kinder , im Fall einer Räumung auf der Straße stehen .
 1	Wie	*	*	*	*
 2	berichtet	*	*	*	*
 3	,	*	*	*	*
@@ -454,10 +469,11 @@
 20	stehen	2	2	2	2
 21	.	*	*	*	*
 
-# article_id = T890118.186
-# text = Stellvertretender Schülersprecher Urs Zeidler steht draußen auf der Straße und sieht mit an , wie die Jungen und Mädchen johlend auf die Straße springen .
+# tuepp_article_id = T890118.186
+# sent_id = 520
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Stellvertretender Schülersprecher Urs Zeidler steht draußen auf der Straße und sieht mit an , wie die Jungen und Mädchen johlend auf die Straße springen .
 1	Stellvertretender	*	*	*	*
 2	Schülersprecher	*	*	*	*
 3	Urs	*	*	*	*
@@ -484,10 +500,11 @@
 24	springen	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T890413.102
-# text = Als ich aus der Militärbasis wieder draußen war und auf der Straße stand , habe ich mich gefragt , wem das wohl nützt .
+# tuepp_article_id = T890413.102
+# sent_id = 521
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als ich aus der Militärbasis wieder draußen war und auf der Straße stand , habe ich mich gefragt , wem das wohl nützt .
 1	Als	*	*	*	*
 2	ich	*	*	*	*
 3	aus	*	*	*	*
@@ -513,10 +530,11 @@
 23	nützt	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T890422.85
-# text = " Wenn das Grün aufhört zu blinken , muß der Fußgänger , der noch auf der Straße steht , rennen , sonst wird er überfahren .
+# tuepp_article_id = T890422.85
+# sent_id = 522
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wenn das Grün aufhört zu blinken , muß der Fußgänger , der noch auf der Straße steht , rennen , sonst wird er überfahren .
 1	"	*	*	*	*
 2	Wenn	*	*	*	*
 3	das	*	*	*	*
@@ -544,10 +562,11 @@
 25	überfahren	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T890407.124
-# text = Wir wissen , daß es Grundstücke gibt , zum Beispiel Prinzenallee , wo es Rechtsstreite gibt , bei denen das Land Berlin ein Interesse daran hat , daß die Dinger friedlich gelöst werden , ohne daß die Leute dann auf der Straße stehen .
+# tuepp_article_id = T890407.124
+# sent_id = 523
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wir wissen , daß es Grundstücke gibt , zum Beispiel Prinzenallee , wo es Rechtsstreite gibt , bei denen das Land Berlin ein Interesse daran hat , daß die Dinger friedlich gelöst werden , ohne daß die Leute dann auf der Straße stehen .
 1	Wir	*	*	*	*
 2	wissen	*	*	*	*
 3	,	*	*	*	*
@@ -593,10 +612,11 @@
 43	stehen	2	2	2	2
 44	.	*	*	*	*
 
-# article_id = T890407.145
-# text = Doch wenn die Leute aus dem Knast kommen , so seine Erfahrung , stehen viele erstmal auf der Straße .
+# tuepp_article_id = T890407.145
+# sent_id = 524
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch wenn die Leute aus dem Knast kommen , so seine Erfahrung , stehen viele erstmal auf der Straße .
 1	Doch	*	*	*	*
 2	wenn	*	*	*	*
 3	die	*	*	*	*
@@ -618,10 +638,11 @@
 19	Straße	2	2	2	2
 20	.	*	*	*	*
 
-# article_id = T890406.136
-# text = " Das bedeutet , daß Anfang Mai diese Personen auf der Straße stehen werden .
+# tuepp_article_id = T890406.136
+# sent_id = 525
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Das bedeutet , daß Anfang Mai diese Personen auf der Straße stehen werden .
 1	"	*	*	*	*
 2	Das	*	*	*	*
 3	bedeutet	*	*	*	*
@@ -638,10 +659,11 @@
 14	werden	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T890701.171
-# text = Doch seitdem das SO aus baupolizeilichen Gründen im Februar '87 geschlossen werden mußte , und die durch SUB-Opus gebündelten Initiativen und Theatergruppen von einem Tag auf den anderen auf der Straße standen , hat sich nichts getan .
+# tuepp_article_id = T890701.171
+# sent_id = 526
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch seitdem das SO aus baupolizeilichen Gründen im Februar '87 geschlossen werden mußte , und die durch SUB-Opus gebündelten Initiativen und Theatergruppen von einem Tag auf den anderen auf der Straße standen , hat sich nichts getan .
 1	Doch	*	*	*	*
 2	seitdem	*	*	*	*
 3	das	*	*	*	*
@@ -682,10 +704,11 @@
 38	getan	*	*	*	*
 39	.	*	*	*	*
 
-# article_id = T890703.95
-# text = Wenn Menschen keine Perspektive mehr haben , und das würde ja eintreten , wenn Hunderttausende auf der Straße stehen und wissen , sie bekommen von nirgendwoher Geld , werden sie sich wehren .
+# tuepp_article_id = T890703.95
+# sent_id = 527
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn Menschen keine Perspektive mehr haben , und das würde ja eintreten , wenn Hunderttausende auf der Straße stehen und wissen , sie bekommen von nirgendwoher Geld , werden sie sich wehren .
 1	Wenn	*	*	*	*
 2	Menschen	*	*	*	*
 3	keine	*	*	*	*
@@ -720,10 +743,11 @@
 32	wehren	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T890731.141
-# text = " Viele haben gesagt , daß sie nicht wollen , daß wir ihretwegen auf der Straße stehen .
+# tuepp_article_id = T890731.141
+# sent_id = 528
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Viele haben gesagt , daß sie nicht wollen , daß wir ihretwegen auf der Straße stehen .
 1	"	*	*	*	*
 2	Viele	*	*	*	*
 3	haben	*	*	*	*
@@ -743,10 +767,11 @@
 17	stehen	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T890731.141
-# text = Sie sehen nicht ein , daß sie demnächst auf der Straße stehen sollen , während Berlin - Touristen in ihren Wohnungen übernachten können .
+# tuepp_article_id = T890731.141
+# sent_id = 529
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie sehen nicht ein , daß sie demnächst auf der Straße stehen sollen , während Berlin - Touristen in ihren Wohnungen übernachten können .
 1	Sie	*	*	*	*
 2	sehen	*	*	*	*
 3	nicht	*	*	*	*
@@ -772,10 +797,11 @@
 23	können	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T891221.191
-# text = In der Mitte auf der " Straße des 17. Juni " steht nur ein Weihnachtsbaum , der noch in 22 Meter Höhe für den Namen einer Supermarkt-Kette wirbt .
+# tuepp_article_id = T891221.191
+# sent_id = 530
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In der Mitte auf der " Straße des 17. Juni " steht nur ein Weihnachtsbaum , der noch in 22 Meter Höhe für den Namen einer Supermarkt-Kette wirbt .
 1	In	*	*	*	*
 2	der	*	*	*	*
 3	Mitte	*	*	*	*
@@ -807,10 +833,11 @@
 29	wirbt	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T891207.126
-# text = Weil er im Haus eine Hauswartstelle übernehmen konnte , bekam die Familie vor einem Jahr die Wohnung ; weil ihm die Stelle im Mai wieder gekündigt wurde , steht Gudrun Fischer mit einem Bein auf der Straße .
+# tuepp_article_id = T891207.126
+# sent_id = 531
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Weil er im Haus eine Hauswartstelle übernehmen konnte , bekam die Familie vor einem Jahr die Wohnung ; weil ihm die Stelle im Mai wieder gekündigt wurde , steht Gudrun Fischer mit einem Bein auf der Straße .
 1	Weil	*	*	*	*
 2	er	*	*	*	*
 3	im	*	*	*	*
@@ -850,10 +877,11 @@
 37	Straße	2	2	2	2
 38	.	*	*	*	*
 
-# article_id = T891208.104
-# text = Dann winken die Jungs am Fenstertisch zwei Frauen , die auf der Straße stehen .
+# tuepp_article_id = T891208.104
+# sent_id = 532
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dann winken die Jungs am Fenstertisch zwei Frauen , die auf der Straße stehen .
 1	Dann	*	*	*	*
 2	winken	*	*	*	*
 3	die	*	*	*	*
@@ -870,10 +898,11 @@
 14	stehen	1	1	1	1
 15	.	*	*	*	*
 
-# article_id = T890817.86
-# text = Auf der Straße stehen reihenweise ihre Trabis , einer sogar mit Wohnwagen .
+# tuepp_article_id = T890817.86
+# sent_id = 533
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auf der Straße stehen reihenweise ihre Trabis , einer sogar mit Wohnwagen .
 1	Auf	1	1	1	1
 2	der	*	*	*	*
 3	Straße	1	1	1	1
@@ -888,10 +917,11 @@
 12	Wohnwagen	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T890812.160
-# text = Oder das Mahnmal steht einfach auf einer öffentlichen Straße , dann gehört es in den Aufgabenbereich des Tiefbauamtes .
+# tuepp_article_id = T890812.160
+# sent_id = 534
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Oder das Mahnmal steht einfach auf einer öffentlichen Straße , dann gehört es in den Aufgabenbereich des Tiefbauamtes .
 1	Oder	*	*	*	*
 2	das	*	*	*	*
 3	Mahnmal	*	*	*	*
@@ -912,10 +942,11 @@
 18	Tiefbauamtes	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T890823.198
-# text = Zu nachtschlafender Zeit gegen 0.45 Uhr standen auf der Straße insgesamt neun Jungbullen , zum Teil stark blutend .
+# tuepp_article_id = T890823.198
+# sent_id = 535
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zu nachtschlafender Zeit gegen 0.45 Uhr standen auf der Straße insgesamt neun Jungbullen , zum Teil stark blutend .
 1	Zu	*	*	*	*
 2	nachtschlafender	*	*	*	*
 3	Zeit	*	*	*	*
@@ -936,10 +967,11 @@
 18	blutend	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T890304.74
-# text = Er stand mitten auf der Straße .
+# tuepp_article_id = T890304.74
+# sent_id = 536
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er stand mitten auf der Straße .
 1	Er	*	*	*	*
 2	stand	1	1	1	1
 3	mitten	*	*	*	*
@@ -948,10 +980,11 @@
 6	Straße	1	1	1	1
 7	.	*	*	*	*
 
-# article_id = T890304.74
-# text = Wie angenagelt stand sie auf der Straße .
+# tuepp_article_id = T890304.74
+# sent_id = 537
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie angenagelt stand sie auf der Straße .
 1	Wie	*	*	*	*
 2	angenagelt	*	*	*	*
 3	stand	1	1	1	1
@@ -961,10 +994,11 @@
 7	Straße	1	1	1	1
 8	.	*	*	*	*
 
-# article_id = T890325.154
-# text = Die älteren Autonomen standen hier auf der Straße , die sind dazugekommen als Unterstützer , aber sie waren nicht in dem Haus drin .
+# tuepp_article_id = T890325.154
+# sent_id = 538
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die älteren Autonomen standen hier auf der Straße , die sind dazugekommen als Unterstützer , aber sie waren nicht in dem Haus drin .
 1	Die	*	*	*	*
 2	älteren	*	*	*	*
 3	Autonomen	*	*	*	*
@@ -990,10 +1024,11 @@
 23	drin	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T890331.73
-# text = Massenkündigungen hätten für die Region Iri gravierende Konsequenzen : Bedingt durch die sektorale Unausgewogenheit zwischen Landwirtschaft und Industrie stünden die vorab aus bäuerlichen verhältnissen stammenden Frauen buchstäblich auf der Straße .
+# tuepp_article_id = T890331.73
+# sent_id = 539
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Massenkündigungen hätten für die Region Iri gravierende Konsequenzen : Bedingt durch die sektorale Unausgewogenheit zwischen Landwirtschaft und Industrie stünden die vorab aus bäuerlichen verhältnissen stammenden Frauen buchstäblich auf der Straße .
 1	Massenkündigungen	*	*	*	*
 2	hätten	*	*	*	*
 3	für	*	*	*	*
@@ -1026,10 +1061,11 @@
 30	Straße	2	2	2	2
 31	.	*	*	*	*
 
-# article_id = T890323.168
-# text = Auch daß die Autonomen trotzig auf der Straße stehen blieben , anstatt sich brav auf dem Rathausvorplatz zu sammeln , löste nicht die erwünschte Provokation aus .
+# tuepp_article_id = T890323.168
+# sent_id = 540
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch daß die Autonomen trotzig auf der Straße stehen blieben , anstatt sich brav auf dem Rathausvorplatz zu sammeln , löste nicht die erwünschte Provokation aus .
 1	Auch	*	*	*	*
 2	daß	*	*	*	*
 3	die	*	*	*	*
@@ -1058,10 +1094,11 @@
 26	aus	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T890323.168
-# text = Ratlos standen die Leute auf der Straße herum .
+# tuepp_article_id = T890323.168
+# sent_id = 541
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ratlos standen die Leute auf der Straße herum .
 1	Ratlos	*	*	*	*
 2	standen	1	1	1	1
 3	die	*	*	*	*
@@ -1072,10 +1109,11 @@
 8	herum	*	*	*	*
 9	.	*	*	*	*
 
-# article_id = T890318.102
-# text = Plötzlich bleibt jemand auf der Straße stehen , greift mich an der Hand und sagt , das ist ja die Anne Klein , herzlichen Glückwunsch .
+# tuepp_article_id = T890318.102
+# sent_id = 542
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Plötzlich bleibt jemand auf der Straße stehen , greift mich an der Hand und sagt , das ist ja die Anne Klein , herzlichen Glückwunsch .
 1	Plötzlich	*	*	*	*
 2	bleibt	*	*	*	*
 3	jemand	*	*	*	*
@@ -1103,10 +1141,11 @@
 25	Glückwunsch	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T891113.29
-# text = Doch wenige Meter vor dem Zaun , der bis vor wenigen Minuten noch die Ostgrenze gewesen ist , wird sortiert : WestberlinerInnen mit gültigen Visa dürfen " einreisen " , Westdeutsche müssen zurück , stehen mit " wertlosen " Pässen auf der in der Nacht gebauten , provisorischen Straße herum .
+# tuepp_article_id = T891113.29
+# sent_id = 543
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch wenige Meter vor dem Zaun , der bis vor wenigen Minuten noch die Ostgrenze gewesen ist , wird sortiert : WestberlinerInnen mit gültigen Visa dürfen " einreisen " , Westdeutsche müssen zurück , stehen mit " wertlosen " Pässen auf der in der Nacht gebauten , provisorischen Straße herum .
 1	Doch	*	*	*	*
 2	wenige	*	*	*	*
 3	Meter	*	*	*	*
@@ -1159,10 +1198,11 @@
 50	herum	*	*	*	*
 51	.	*	*	*	*
 
-# article_id = T891127.19
-# text = Die Kinder jedoch erschraken nicht , auch junge Arbeiter standen bereits mit ihnen auf der Straße , und die Väter begriffen , daß sie auf eigene Sprößlinge schießen müßten .
+# tuepp_article_id = T891127.19
+# sent_id = 544
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Kinder jedoch erschraken nicht , auch junge Arbeiter standen bereits mit ihnen auf der Straße , und die Väter begriffen , daß sie auf eigene Sprößlinge schießen müßten .
 1	Die	*	*	*	*
 2	Kinder	*	*	*	*
 3	jedoch	*	*	*	*
@@ -1194,10 +1234,11 @@
 29	müßten	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T891115.265
-# text = Dabei will ich Entzug machen , aber mach mal Entzug , wenn du auf der Straße stehst , das kann keiner von mir verlangen .
+# tuepp_article_id = T891115.265
+# sent_id = 545
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dabei will ich Entzug machen , aber mach mal Entzug , wenn du auf der Straße stehst , das kann keiner von mir verlangen .
 1	Dabei	*	*	*	*
 2	will	*	*	*	*
 3	ich	*	*	*	*
@@ -1224,10 +1265,11 @@
 24	verlangen	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T891117.171
-# text = Margot stand nun auf der Straße , die sie zuerst gar nicht wahrnahm .
+# tuepp_article_id = T891117.171
+# sent_id = 546
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Margot stand nun auf der Straße , die sie zuerst gar nicht wahrnahm .
 1	Margot	*	*	*	*
 2	stand	1	1	1	1
 3	nun	*	*	*	*
@@ -1243,10 +1285,11 @@
 13	wahrnahm	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T910504.93
-# text = 23 Stunden am Tag , so belegen Statistiken , stehen die privaten Pkws ohnehin ungenutzt auf der Straße herum , nehmen öffentlichen Park- und vor allem Lebensraum weg .
+# tuepp_article_id = T910504.93
+# sent_id = 547
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = 23 Stunden am Tag , so belegen Statistiken , stehen die privaten Pkws ohnehin ungenutzt auf der Straße herum , nehmen öffentlichen Park- und vor allem Lebensraum weg .
 1	23	*	*	*	*
 2	Stunden	*	*	*	*
 3	am	*	*	*	*
@@ -1277,10 +1320,11 @@
 28	weg	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T910513.160
-# text = Aber von denen soll kein einziger auf der Straße stehen , verspricht Reckstadt .
+# tuepp_article_id = T910513.160
+# sent_id = 548
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber von denen soll kein einziger auf der Straße stehen , verspricht Reckstadt .
 1	Aber	*	*	*	*
 2	von	*	*	*	*
 3	denen	*	*	*	*
@@ -1296,10 +1340,11 @@
 13	Reckstadt	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T910508.152
-# text = Wenn etwa die Frauenhäuser ihre Pforten schließen müßten , stünden viele Frauen - oft mit ihren Kindern - wieder auf der Straße .
+# tuepp_article_id = T910508.152
+# sent_id = 549
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn etwa die Frauenhäuser ihre Pforten schließen müßten , stünden viele Frauen - oft mit ihren Kindern - wieder auf der Straße .
 1	Wenn	*	*	*	*
 2	etwa	*	*	*	*
 3	die	*	*	*	*
@@ -1324,10 +1369,11 @@
 22	Straße	2	2	2	2
 23	.	*	*	*	*
 
-# article_id = T910522.32
-# text = Keine Randale und auch kein Gebrüll , im Gegenteil , die bedröhnten Rehe bleiben oft mitten auf der Straße stehen und laufen auch nicht weg , wenn sich ein Auto oder ein Mensch nähert .
+# tuepp_article_id = T910522.32
+# sent_id = 550
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Keine Randale und auch kein Gebrüll , im Gegenteil , die bedröhnten Rehe bleiben oft mitten auf der Straße stehen und laufen auch nicht weg , wenn sich ein Auto oder ein Mensch nähert .
 1	Keine	*	*	*	*
 2	Randale	*	*	*	*
 3	und	*	*	*	*
@@ -1364,10 +1410,11 @@
 34	nähert	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T910514.27
-# text = In seinem Viertel stehen Frauen in langen Hemden auf der Straße und umarmen Melka und die Familie , die Kinder des Bruders werden in Augenschein genommen .
+# tuepp_article_id = T910514.27
+# sent_id = 551
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In seinem Viertel stehen Frauen in langen Hemden auf der Straße und umarmen Melka und die Familie , die Kinder des Bruders werden in Augenschein genommen .
 1	In	*	*	*	*
 2	seinem	*	*	*	*
 3	Viertel	*	*	*	*
@@ -1396,10 +1443,11 @@
 26	genommen	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T910527.86
-# text = Kein Schulabgänger wird auf der Straße stehen müssen , heißt es auch bei der Bundesanstalt für Arbeit : " Jeder Jugendliche , der keinen betrieblichen Ausbildungsplatz bekommt , kriegt einen Platz in einem überbetrieblichen Ausbildungsbetrieb , das können wir garantieren " , versichert Dr. Jürgen Thiel , Referatsleiter der Abteilung Berufsförderung und Berufsausbildung bei der Nürnberger Bundesanstalt .
+# tuepp_article_id = T910527.86
+# sent_id = 552
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kein Schulabgänger wird auf der Straße stehen müssen , heißt es auch bei der Bundesanstalt für Arbeit : " Jeder Jugendliche , der keinen betrieblichen Ausbildungsplatz bekommt , kriegt einen Platz in einem überbetrieblichen Ausbildungsbetrieb , das können wir garantieren " , versichert Dr. Jürgen Thiel , Referatsleiter der Abteilung Berufsförderung und Berufsausbildung bei der Nürnberger Bundesanstalt .
 1	Kein	*	*	*	*
 2	Schulabgänger	*	*	*	*
 3	wird	*	*	*	*
@@ -1459,10 +1507,11 @@
 57	Bundesanstalt	*	*	*	*
 58	.	*	*	*	*
 
-# article_id = T910518.298
-# text = Möglicherweise stehen die Landessozialrichter , unter deren Waage auch Mietstreitereien verhandelt werden , bald selbst auf der Straße .
+# tuepp_article_id = T910518.298
+# sent_id = 553
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Möglicherweise stehen die Landessozialrichter , unter deren Waage auch Mietstreitereien verhandelt werden , bald selbst auf der Straße .
 1	Möglicherweise	*	*	*	*
 2	stehen	2	2	2	2
 3	die	*	*	*	*
@@ -1483,10 +1532,11 @@
 18	Straße	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T910524.224
-# text = Obwohl sie nach 14 Jahren Engagement langsam keine Lust mehr hat auf der Straße zu stehen , sieht sie dazu keine Alternative .
+# tuepp_article_id = T910524.224
+# sent_id = 554
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Obwohl sie nach 14 Jahren Engagement langsam keine Lust mehr hat auf der Straße zu stehen , sieht sie dazu keine Alternative .
 1	Obwohl	*	*	*	*
 2	sie	*	*	*	*
 3	nach	*	*	*	*
@@ -1511,10 +1561,11 @@
 22	Alternative	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T910607.1
-# text = 1,75 Millionen oder knapp 20 Prozent werden dann auf der Straße stehen .
+# tuepp_article_id = T910607.1
+# sent_id = 555
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = 1,75 Millionen oder knapp 20 Prozent werden dann auf der Straße stehen .
 1	1,75	*	*	*	*
 2	Millionen	*	*	*	*
 3	oder	*	*	*	*
@@ -1529,10 +1580,11 @@
 12	stehen	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T910607.50
-# text = Franke rechnet damit , daß am Ende des Jahres unter dem Strich 1,75 Millionen Menschen in den neuen Bundesländern auf der Straße stehen werden .
+# tuepp_article_id = T910607.50
+# sent_id = 556
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Franke rechnet damit , daß am Ende des Jahres unter dem Strich 1,75 Millionen Menschen in den neuen Bundesländern auf der Straße stehen werden .
 1	Franke	*	*	*	*
 2	rechnet	*	*	*	*
 3	damit	*	*	*	*
@@ -1559,10 +1611,11 @@
 24	werden	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T910615.285
-# text = Für einen Dealer im Knast , stehen zwei neue auf der Straße .
+# tuepp_article_id = T910615.285
+# sent_id = 557
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Für einen Dealer im Knast , stehen zwei neue auf der Straße .
 1	Für	*	*	*	*
 2	einen	*	*	*	*
 3	Dealer	*	*	*	*
@@ -1577,10 +1630,11 @@
 12	Straße	1	2	2	2
 13	.	*	*	*	*
 
-# article_id = T910626.169
-# text = Und wenn die Stühle , wie in der ganzen Straße , um 22 Uhr hineingeräumt werden müssen , steht man eben weiter auf der Straße - la dolce vita Berliner Art.
+# tuepp_article_id = T910626.169
+# sent_id = 558
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und wenn die Stühle , wie in der ganzen Straße , um 22 Uhr hineingeräumt werden müssen , steht man eben weiter auf der Straße - la dolce vita Berliner Art.
 1	Und	*	*	*	*
 2	wenn	*	*	*	*
 3	die	*	*	*	*
@@ -1614,10 +1668,11 @@
 31	Art	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T910608.182
-# text = In Berlin sei die Zahl der ehemaligen Staatsdiener , die Ende Juni auf der Straße stehen werden , » glücklicherweise aber viel niedriger als ursprünglich befürchtet « .
+# tuepp_article_id = T910608.182
+# sent_id = 559
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In Berlin sei die Zahl der ehemaligen Staatsdiener , die Ende Juni auf der Straße stehen werden , » glücklicherweise aber viel niedriger als ursprünglich befürchtet « .
 1	In	*	*	*	*
 2	Berlin	*	*	*	*
 3	sei	*	*	*	*
@@ -1647,10 +1702,11 @@
 27	«	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T911026.22
-# text = 2.700 Menschen , die dort bislang Schreibmaschinen produziert haben , stehen mit diesem Entschluß auf der Straße , Wilhelmshavens ohnehin schon überdurchschnittliche Arbeitslosenquote , dürfte damit auf etwa 30 Prozent hochschnellen .
+# tuepp_article_id = T911026.22
+# sent_id = 560
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = 2.700 Menschen , die dort bislang Schreibmaschinen produziert haben , stehen mit diesem Entschluß auf der Straße , Wilhelmshavens ohnehin schon überdurchschnittliche Arbeitslosenquote , dürfte damit auf etwa 30 Prozent hochschnellen .
 1	2.700	*	*	*	*
 2	Menschen	*	*	*	*
 3	,	*	*	*	*
@@ -1684,10 +1740,11 @@
 31	hochschnellen	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T911024.169
-# text = » Die unsichere Situation , der Druck , morgen auf der Straße zu stehen « , habe eine große Rolle gespielt , meint die promovierte Psychologin .
+# tuepp_article_id = T911024.169
+# sent_id = 561
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = » Die unsichere Situation , der Druck , morgen auf der Straße zu stehen « , habe eine große Rolle gespielt , meint die promovierte Psychologin .
 1	»	*	*	*	*
 2	Die	*	*	*	*
 3	unsichere	*	*	*	*
@@ -1716,10 +1773,11 @@
 26	Psychologin	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T911022.91
-# text = Der DGB-Landesbeauftragte Hanjo Lucassen korrigierte auf dem Unternehmertag die Rechnung : Er kam auf 700.000 , die in absehbarer Zeit auf der Straße stehen könnten .
+# tuepp_article_id = T911022.91
+# sent_id = 562
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der DGB-Landesbeauftragte Hanjo Lucassen korrigierte auf dem Unternehmertag die Rechnung : Er kam auf 700.000 , die in absehbarer Zeit auf der Straße stehen könnten .
 1	Der	*	*	*	*
 2	DGB-Landesbeauftragte	*	*	*	*
 3	Hanjo	*	*	*	*
@@ -1747,10 +1805,11 @@
 25	könnten	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T910923.22
-# text = Die Asylbewerber stehen noch völlig geschockt auf der Straße , schreien ihre Seele aus dem Leib : " Ihr Faschisten !
+# tuepp_article_id = T910923.22
+# sent_id = 563
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Asylbewerber stehen noch völlig geschockt auf der Straße , schreien ihre Seele aus dem Leib : " Ihr Faschisten !
 1	Die	*	*	*	*
 2	Asylbewerber	*	*	*	*
 3	stehen	1	1	1	1
@@ -1773,10 +1832,11 @@
 20	Faschisten	*	*	*	*
 21	!	*	*	*	*
 
-# article_id = T910921.181
-# text = Gegen halb zehn standen wir wieder draußen auf der Straße .
+# tuepp_article_id = T910921.181
+# sent_id = 564
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gegen halb zehn standen wir wieder draußen auf der Straße .
 1	Gegen	*	*	*	*
 2	halb	*	*	*	*
 3	zehn	*	*	*	*
@@ -1789,10 +1849,11 @@
 10	Straße	1	1	1	1
 11	.	*	*	*	*
 
-# article_id = T910105.192
-# text = Zudem stehen viele herrenlose Autos auf der Straße herum .
+# tuepp_article_id = T910105.192
+# sent_id = 565
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zudem stehen viele herrenlose Autos auf der Straße herum .
 1	Zudem	*	*	*	*
 2	stehen	1	1	1	1
 3	viele	*	*	*	*
@@ -1804,10 +1865,11 @@
 9	herum	*	*	*	*
 10	.	*	*	*	*
 
-# article_id = T910425.120
-# text = Wenn sie ihr Studium aufgrund finanzieller Schwierigkeiten abzubrechen gezwungen sind , stehen sie ohne Unterstützung auf der Straße .
+# tuepp_article_id = T910425.120
+# sent_id = 566
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn sie ihr Studium aufgrund finanzieller Schwierigkeiten abzubrechen gezwungen sind , stehen sie ohne Unterstützung auf der Straße .
 1	Wenn	*	*	*	*
 2	sie	*	*	*	*
 3	ihr	*	*	*	*
@@ -1828,10 +1890,11 @@
 18	Straße	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T910415.66
-# text = Clermont-Ferrand ( afp ) - Weltweit fast 16.000 Arbeiter und Angestellte des hochverschuldeten französischen Reifenherstellers Michelin stehen demnächst auf der Straße .
+# tuepp_article_id = T910415.66
+# sent_id = 567
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Clermont-Ferrand ( afp ) - Weltweit fast 16.000 Arbeiter und Angestellte des hochverschuldeten französischen Reifenherstellers Michelin stehen demnächst auf der Straße .
 1	Clermont-Ferrand	*	*	*	*
 2	(	*	*	*	*
 3	afp	*	*	*	*
@@ -1855,10 +1918,11 @@
 21	Straße	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T910711.47
-# text = Hier ist nicht wie bei den Beschäftigungsgesellschaften zu befürchten , daß die Frauen nach zwei Jahren dann wieder auf der Straße stehen .
+# tuepp_article_id = T910711.47
+# sent_id = 568
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Hier ist nicht wie bei den Beschäftigungsgesellschaften zu befürchten , daß die Frauen nach zwei Jahren dann wieder auf der Straße stehen .
 1	Hier	*	*	*	*
 2	ist	*	*	*	*
 3	nicht	*	*	*	*
@@ -1883,10 +1947,11 @@
 22	stehen	2	2	2	2
 23	.	*	*	*	*
 
-# article_id = T910702.203
-# text = « Ein anderer solidarisierte sich mit den Gescheiterten : » Ich habe auch die Wohnung renoviert und stehe jetzt auf der Straße .
+# tuepp_article_id = T910702.203
+# sent_id = 569
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = « Ein anderer solidarisierte sich mit den Gescheiterten : » Ich habe auch die Wohnung renoviert und stehe jetzt auf der Straße .
 1	«	*	*	*	*
 2	Ein	*	*	*	*
 3	anderer	*	*	*	*
@@ -1911,10 +1976,11 @@
 22	Straße	2	2	2	2
 23	.	*	*	*	*
 
-# article_id = T911217.211
-# text = Um sich eventuelle Umzugs-Anträge vom Halse zu halten , hat die Wohnungshilfe ihre Pforten einstweilen geschlossen - und riskiert dadurch , daß Asylsuchende auf der Straße stehen .
+# tuepp_article_id = T911217.211
+# sent_id = 570
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Um sich eventuelle Umzugs-Anträge vom Halse zu halten , hat die Wohnungshilfe ihre Pforten einstweilen geschlossen - und riskiert dadurch , daß Asylsuchende auf der Straße stehen .
 1	Um	*	*	*	*
 2	sich	*	*	*	*
 3	eventuelle	*	*	*	*
@@ -1944,10 +2010,11 @@
 27	stehen	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T911207.55
-# text = Sämtliche Zechen in der niederländischen Provinz Limburg waren stillgelegt worden , 75.000 Menschen standen auf der Straße .
+# tuepp_article_id = T911207.55
+# sent_id = 571
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sämtliche Zechen in der niederländischen Provinz Limburg waren stillgelegt worden , 75.000 Menschen standen auf der Straße .
 1	Sämtliche	*	*	*	*
 2	Zechen	*	*	*	*
 3	in	*	*	*	*
@@ -1967,10 +2034,11 @@
 17	Straße	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T911224.64
-# text = Irgendwo auf der einsamen Straße hinter Kaluga stand ein kleiner dünner Mann und hielt den Daumen hoch , um mitgenommen zu werden .
+# tuepp_article_id = T911224.64
+# sent_id = 572
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Irgendwo auf der einsamen Straße hinter Kaluga stand ein kleiner dünner Mann und hielt den Daumen hoch , um mitgenommen zu werden .
 1	Irgendwo	*	*	*	*
 2	auf	1	1	1	1
 3	der	*	*	*	*
@@ -1995,10 +2063,11 @@
 22	werden	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T910306.164
-# text = Doch das nützt ihm auch nichts : Spätestens ab 1. Juli wird auch Felgendreher auf der Straße stehen .
+# tuepp_article_id = T910306.164
+# sent_id = 573
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch das nützt ihm auch nichts : Spätestens ab 1. Juli wird auch Felgendreher auf der Straße stehen .
 1	Doch	*	*	*	*
 2	das	*	*	*	*
 3	nützt	*	*	*	*
@@ -2020,10 +2089,11 @@
 19	stehen	2	2	2	2
 20	.	*	*	*	*
 
-# article_id = T910313.163
-# text = » Mit den Sachen , die ich hier am Körper habe , stand ich bei minus 15 Grad und 1.000 Mark in der Hand auf der Straße « , berichtete er gestern .
-# context_judgement_1 = 1
+# tuepp_article_id = T910313.163
+# sent_id = 574
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = » Mit den Sachen , die ich hier am Körper habe , stand ich bei minus 15 Grad und 1.000 Mark in der Hand auf der Straße « , berichtete er gestern .
 1	»	*	*	*	*
 2	Mit	*	*	*	*
 3	den	*	*	*	*
@@ -2058,10 +2128,11 @@
 32	gestern	*	*	*	*
 33	.	*	*	*	*
 
-# article_id = T910302.191
-# text = Der TdW-Aufsichtsrat hat bereits die Entlassung von Chor und Ballett beschlossen ; 28 Beschäftigte stehen nun auf der Straße .
+# tuepp_article_id = T910302.191
+# sent_id = 575
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der TdW-Aufsichtsrat hat bereits die Entlassung von Chor und Ballett beschlossen ; 28 Beschäftigte stehen nun auf der Straße .
 1	Der	*	*	*	*
 2	TdW-Aufsichtsrat	*	*	*	*
 3	hat	*	*	*	*
@@ -2083,10 +2154,11 @@
 19	Straße	2	2	2	2
 20	.	*	*	*	*
 
-# article_id = T910308.23
-# text = " Doch die Frauen in Schwarz entschieden sich mehrheitlich für eine Weiterführung und stehen seit dem 15. Feburar wieder jeden Freitag auf der Straße : " Auch wenn wir weniger geworden sind , zeugt es von der inneren Kraft der Bewegung .
+# tuepp_article_id = T910308.23
+# sent_id = 576
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Doch die Frauen in Schwarz entschieden sich mehrheitlich für eine Weiterführung und stehen seit dem 15. Feburar wieder jeden Freitag auf der Straße : " Auch wenn wir weniger geworden sind , zeugt es von der inneren Kraft der Bewegung .
 1	"	*	*	*	*
 2	Doch	*	*	*	*
 3	die	*	*	*	*
@@ -2131,10 +2203,11 @@
 42	Bewegung	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T910301.161
-# text = Nach zehn , 20 oder gar 30 Arbeitsjahren , oftmals im selben Betrieb , stehen sie dann arbeitslos auf der Straße .
+# tuepp_article_id = T910301.161
+# sent_id = 577
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach zehn , 20 oder gar 30 Arbeitsjahren , oftmals im selben Betrieb , stehen sie dann arbeitslos auf der Straße .
 1	Nach	*	*	*	*
 2	zehn	*	*	*	*
 3	,	*	*	*	*
@@ -2158,10 +2231,11 @@
 21	Straße	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T910307.47
-# text = Dann stehen Quartalskündigungen an , und die Arbeiter des öffentlichen Dienstes , die sich derzeit noch in der sogenannten " Warteschleife " befinden , stehen auf der Straße .
+# tuepp_article_id = T910307.47
+# sent_id = 578
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dann stehen Quartalskündigungen an , und die Arbeiter des öffentlichen Dienstes , die sich derzeit noch in der sogenannten " Warteschleife " befinden , stehen auf der Straße .
 1	Dann	*	*	*	*
 2	stehen	*	*	*	*
 3	Quartalskündigungen	*	*	*	*
@@ -2192,10 +2266,11 @@
 28	Straße	2	2	2	2
 29	.	*	*	*	*
 
-# article_id = T910318.173
-# text = Im Juli , so hat die IG Metall errechnet , werden über 26.000 Berliner Elektro- und MetallarbeiterInnen auf der Straße stehen , die meisten davon in Köpenick .
+# tuepp_article_id = T910318.173
+# sent_id = 579
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Juli , so hat die IG Metall errechnet , werden über 26.000 Berliner Elektro- und MetallarbeiterInnen auf der Straße stehen , die meisten davon in Köpenick .
 1	Im	*	*	*	*
 2	Juli	*	*	*	*
 3	,	*	*	*	*
@@ -2225,10 +2300,11 @@
 27	Köpenick	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T911119.246
-# text = Wenn das Werk " abgewickelt " ist , stehen in der Region um die Jadestadt Wilhelmshaven 2.700 Menschen auf der Straße .
+# tuepp_article_id = T911119.246
+# sent_id = 586
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn das Werk " abgewickelt " ist , stehen in der Region um die Jadestadt Wilhelmshaven 2.700 Menschen auf der Straße .
 1	Wenn	*	*	*	*
 2	das	*	*	*	*
 3	Werk	*	*	*	*
@@ -2252,10 +2328,11 @@
 21	Straße	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T911128.95
-# text = Am Ende steht er wieder auf der Straße nach Idaho , die sich schier unendlich in den Horizont erstreckt , menschenleer , links und rechts wogende Kornfelder , ein Gemälde , blendend schön .
+# tuepp_article_id = T911128.95
+# sent_id = 581
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Am Ende steht er wieder auf der Straße nach Idaho , die sich schier unendlich in den Horizont erstreckt , menschenleer , links und rechts wogende Kornfelder , ein Gemälde , blendend schön .
 1	Am	*	*	*	*
 2	Ende	*	*	*	*
 3	steht	1	1	1	1
@@ -2291,10 +2368,11 @@
 33	schön	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T911112.88
-# text = Sie hatte gesehen , wie Rotgardistinnen auf der Straße standen und allen Frauen , die sich nicht von ihren langen Zöpfen hatten trennen wollen , den revolutionären Einheitsschnitt verpaßten ; wie sie jungen Mädchen auf offener Straße die Hosen aufschlitzten , wenn sie meinten , ihre Beinkleider ließen zu viel Körperkonturen erkennen .
+# tuepp_article_id = T911112.88
+# sent_id = 582
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie hatte gesehen , wie Rotgardistinnen auf der Straße standen und allen Frauen , die sich nicht von ihren langen Zöpfen hatten trennen wollen , den revolutionären Einheitsschnitt verpaßten ; wie sie jungen Mädchen auf offener Straße die Hosen aufschlitzten , wenn sie meinten , ihre Beinkleider ließen zu viel Körperkonturen erkennen .
 1	Sie	*	*	*	*
 2	hatte	*	*	*	*
 3	gesehen	*	*	*	*
@@ -2349,10 +2427,11 @@
 52	erkennen	*	*	*	*
 53	.	*	*	*	*
 
-# article_id = T911109.98
-# text = Während Liedtke nach der Aufgabe des Blattes wieder zu Frau und Kind und zu seinem Hamburger Verlagshaus zurückkehrte , stehen seine Mitarbeiter auf der Straße .
+# tuepp_article_id = T911109.98
+# sent_id = 583
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Während Liedtke nach der Aufgabe des Blattes wieder zu Frau und Kind und zu seinem Hamburger Verlagshaus zurückkehrte , stehen seine Mitarbeiter auf der Straße .
 1	Während	*	*	*	*
 2	Liedtke	*	*	*	*
 3	nach	*	*	*	*
@@ -2380,10 +2459,11 @@
 25	Straße	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T911121.61
-# text = Er steht mit ausgebreiteten Armen auf einer mit Trümmern übersäten Straße , wo die Serben , die alle ein Band mit der Aufschrift " Vukovar ` 91 " um den Helm gebunden haben , ihn nach Waffen untersuchen .
+# tuepp_article_id = T911121.61
+# sent_id = 584
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er steht mit ausgebreiteten Armen auf einer mit Trümmern übersäten Straße , wo die Serben , die alle ein Band mit der Aufschrift " Vukovar ` 91 " um den Helm gebunden haben , ihn nach Waffen untersuchen .
 1	Er	*	*	*	*
 2	steht	1	1	1	1
 3	mit	*	*	*	*
@@ -2424,10 +2504,11 @@
 38	untersuchen	*	*	*	*
 39	.	*	*	*	*
 
-# article_id = T911123.60
-# text = Damit stehen 2.700 Menschen auf der Straße , und das in einer Region , in der es ohnehin an Arbeitsplätzen mangelt .
+# tuepp_article_id = T911123.60
+# sent_id = 585
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Damit stehen 2.700 Menschen auf der Straße , und das in einer Region , in der es ohnehin an Arbeitsplätzen mangelt .
 1	Damit	*	*	*	*
 2	stehen	2	2	2	2
 3	2.700	*	*	*	*
@@ -2451,10 +2532,11 @@
 21	mangelt	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T911123.60
-# text = Wenn das Werk " abgewickelt " ist , stehen in der Region um die Jadestadt Wilhelmshaven 2.700 Menschen auf der Straße .
+# tuepp_article_id = T911123.60
+# sent_id = 586
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn das Werk " abgewickelt " ist , stehen in der Region um die Jadestadt Wilhelmshaven 2.700 Menschen auf der Straße .
 1	Wenn	*	*	*	*
 2	das	*	*	*	*
 3	Werk	*	*	*	*
@@ -2478,10 +2560,11 @@
 21	Straße	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T911102.276
-# text = Nach Auslaufen des Mietvertrages war ihre Wohnung am Donnerstag polizeilich geräumt worden , zunächst standen elf Junkies auf der Straße .
+# tuepp_article_id = T911102.276
+# sent_id = 587
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach Auslaufen des Mietvertrages war ihre Wohnung am Donnerstag polizeilich geräumt worden , zunächst standen elf Junkies auf der Straße .
 1	Nach	*	*	*	*
 2	Auslaufen	*	*	*	*
 3	des	*	*	*	*
@@ -2504,10 +2587,11 @@
 20	Straße	2	2	2	2
 21	.	*	*	*	*
 
-# article_id = T910213.189
-# text = Die Redaktion der ältesten deutschen Filmzeitschrift - sie erscheint im 19. Jahrgang - stünde von einem auf den anderen Tag auf der Straße , ohne Zeit zu haben , neue Konditionen für ihren Fortbestand herzustellen .
+# tuepp_article_id = T910213.189
+# sent_id = 588
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Redaktion der ältesten deutschen Filmzeitschrift - sie erscheint im 19. Jahrgang - stünde von einem auf den anderen Tag auf der Straße , ohne Zeit zu haben , neue Konditionen für ihren Fortbestand herzustellen .
 1	Die	*	*	*	*
 2	Redaktion	*	*	*	*
 3	der	*	*	*	*
@@ -2546,10 +2630,11 @@
 36	herzustellen	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T910212.227
-# text = Von den noch im Februar beschäftigten 118.000 Arbeitnehmern werden 47.200 ab 1. Juli auf der Straße stehen .
+# tuepp_article_id = T910212.227
+# sent_id = 589
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Von den noch im Februar beschäftigten 118.000 Arbeitnehmern werden 47.200 ab 1. Juli auf der Straße stehen .
 1	Von	*	*	*	*
 2	den	*	*	*	*
 3	noch	*	*	*	*
@@ -2570,10 +2655,11 @@
 18	stehen	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T910221.136
-# text = Allein im Vormonat Januar standen im Großraum Sao Paulo 68.772 Arbeitslose mehr auf der Straße , mehr als im ganzen Jahr 1982 gefeuert wurden .
+# tuepp_article_id = T910221.136
+# sent_id = 590
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Allein im Vormonat Januar standen im Großraum Sao Paulo 68.772 Arbeitslose mehr auf der Straße , mehr als im ganzen Jahr 1982 gefeuert wurden .
 1	Allein	*	*	*	*
 2	im	*	*	*	*
 3	Vormonat	*	*	*	*
@@ -2600,10 +2686,11 @@
 24	wurden	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T910221.158
-# text = So bleibt der Lastwagen den ganzen Film über auf der Straße stehen - und Herr Wallenberg , ein schwedischer Jude , der in Budapest mit der Rückendeckung der Botschaft jüdische Bürger von den Nazis freikauft , wird immer wieder an diesen Ort zurückkehren und mit den Bewachern über die Freigabe der Gefangenen verhandeln - die Beharrlichkeit eines Menschen unter Unmenschen .
+# tuepp_article_id = T910221.158
+# sent_id = 591
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = So bleibt der Lastwagen den ganzen Film über auf der Straße stehen - und Herr Wallenberg , ein schwedischer Jude , der in Budapest mit der Rückendeckung der Botschaft jüdische Bürger von den Nazis freikauft , wird immer wieder an diesen Ort zurückkehren und mit den Bewachern über die Freigabe der Gefangenen verhandeln - die Beharrlichkeit eines Menschen unter Unmenschen .
 1	So	*	*	*	*
 2	bleibt	*	*	*	*
 3	der	*	*	*	*
@@ -2666,10 +2753,11 @@
 60	Unmenschen	*	*	*	*
 61	.	*	*	*	*
 
-# article_id = T910216.162
-# text = Ansonsten würden die Betroffenen auf der Straße stehen .
+# tuepp_article_id = T910216.162
+# sent_id = 592
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ansonsten würden die Betroffenen auf der Straße stehen .
 1	Ansonsten	*	*	*	*
 2	würden	*	*	*	*
 3	die	*	*	*	*
@@ -2680,10 +2768,11 @@
 8	stehen	2	2	2	2
 9	.	*	*	*	*
 
-# article_id = T900503.82
-# text = Da im ganzen Revier anzunehmen ist , daß Chemiearbeiter und Kohlekumpel auf der Straße stehen werden , sind die Belegschafter relativ leicht erpreßbar .
+# tuepp_article_id = T900503.82
+# sent_id = 593
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Da im ganzen Revier anzunehmen ist , daß Chemiearbeiter und Kohlekumpel auf der Straße stehen werden , sind die Belegschafter relativ leicht erpreßbar .
 1	Da	*	*	*	*
 2	im	*	*	*	*
 3	ganzen	*	*	*	*
@@ -2709,10 +2798,11 @@
 23	erpreßbar	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T900503.251
-# text = Und da , mitten in finsterer , regnerischer Nacht , stand ein Mann mit Bart und langen Haaren auf der Straße , " der sah aus wie Rasputin " , erinnerte sich gestern vor dem Schöffengericht in Achim der Zeuge , Hauptfeldwebel Lothar Brill .
+# tuepp_article_id = T900503.251
+# sent_id = 594
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und da , mitten in finsterer , regnerischer Nacht , stand ein Mann mit Bart und langen Haaren auf der Straße , " der sah aus wie Rasputin " , erinnerte sich gestern vor dem Schöffengericht in Achim der Zeuge , Hauptfeldwebel Lothar Brill .
 1	Und	*	*	*	*
 2	da	*	*	*	*
 3	,	*	*	*	*
@@ -2759,10 +2849,11 @@
 44	Brill	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T900526.165
-# text = Ein Exempel wird statuiert : Ohne Beruf , ohne Renten- , Kranken- und Sozialversicherung , ohne Anspruch auf Arbeitslosengeld stand er auf der Straße .
+# tuepp_article_id = T900526.165
+# sent_id = 595
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein Exempel wird statuiert : Ohne Beruf , ohne Renten- , Kranken- und Sozialversicherung , ohne Anspruch auf Arbeitslosengeld stand er auf der Straße .
 1	Ein	*	*	*	*
 2	Exempel	*	*	*	*
 3	wird	*	*	*	*
@@ -2789,10 +2880,11 @@
 24	Straße	2	2	2	2
 25	.	*	*	*	*
 
-# article_id = T900515.281
-# text = In der Region Berlin - Brandenburg , einer traditionell strukturschwachen Gegend mit relativ wenigen industriellen Großbetrieben besteht die realistische Gefahr , daß in absehbarer Zeit rund 500.000 Menschen auf der Straße stehen .
+# tuepp_article_id = T900515.281
+# sent_id = 596
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In der Region Berlin - Brandenburg , einer traditionell strukturschwachen Gegend mit relativ wenigen industriellen Großbetrieben besteht die realistische Gefahr , daß in absehbarer Zeit rund 500.000 Menschen auf der Straße stehen .
 1	In	*	*	*	*
 2	der	*	*	*	*
 3	Region	*	*	*	*
@@ -2827,10 +2919,11 @@
 32	stehen	2	2	2	2
 33	.	*	*	*	*
 
-# article_id = T900502.229
-# text = Zwei NachbarInnen , eine 27jährige Frau und ein gleichaltriger Mann , standen auf der Straße , als das Kind aus dem zweiten Stockwerk herabfiel .
+# tuepp_article_id = T900502.229
+# sent_id = 597
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zwei NachbarInnen , eine 27jährige Frau und ein gleichaltriger Mann , standen auf der Straße , als das Kind aus dem zweiten Stockwerk herabfiel .
 1	Zwei	*	*	*	*
 2	NachbarInnen	*	*	*	*
 3	,	*	*	*	*
@@ -2857,10 +2950,11 @@
 24	herabfiel	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T900621.272
-# text = Wieviele Jugendliche nach Ende des laufenden Schuljahres noch hinzukommen werden und ab 1. September auf der Straße stehen , sei noch gar nicht abzusehen .
+# tuepp_article_id = T900621.272
+# sent_id = 598
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wieviele Jugendliche nach Ende des laufenden Schuljahres noch hinzukommen werden und ab 1. September auf der Straße stehen , sei noch gar nicht abzusehen .
 1	Wieviele	*	*	*	*
 2	Jugendliche	*	*	*	*
 3	nach	*	*	*	*
@@ -2888,10 +2982,11 @@
 25	abzusehen	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T900621.280
-# text = Damit stünden sie auf der Straße .
+# tuepp_article_id = T900621.280
+# sent_id = 599
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Damit stünden sie auf der Straße .
 1	Damit	*	*	*	*
 2	stünden	2	2	2	2
 3	sie	*	*	*	*
@@ -2900,10 +2995,11 @@
 6	Straße	2	2	2	2
 7	.	*	*	*	*
 
-# article_id = T900926.229
-# text = Damit stehen die Junkies , von denen in Bremen zur Zeit schätzungsweise 50 bis 60 obdachlos sind , auch tagsüber auf der Straße .
+# tuepp_article_id = T900926.229
+# sent_id = 600
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Damit stehen die Junkies , von denen in Bremen zur Zeit schätzungsweise 50 bis 60 obdachlos sind , auch tagsüber auf der Straße .
 1	Damit	*	*	*	*
 2	stehen	2	1	1	1
 3	die	*	*	*	*
@@ -2929,10 +3025,11 @@
 23	Straße	2	1	1	1
 24	.	*	*	*	*
 
-# article_id = T900925.157
-# text = Nicht nur , daß höchstwahrscheinlich alle 80 wissenschaftlichen Mitarbeiter nächste Woche auf der Straße stünden und gerade mal die Pförtner , Hausmeister , Elektriker , Aufsichtspersonal und einige Personen , die sich in den Beständen auskennen , übernommen würden .
+# tuepp_article_id = T900925.157
+# sent_id = 601
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nicht nur , daß höchstwahrscheinlich alle 80 wissenschaftlichen Mitarbeiter nächste Woche auf der Straße stünden und gerade mal die Pförtner , Hausmeister , Elektriker , Aufsichtspersonal und einige Personen , die sich in den Beständen auskennen , übernommen würden .
 1	Nicht	*	*	*	*
 2	nur	*	*	*	*
 3	,	*	*	*	*
@@ -2974,10 +3071,11 @@
 39	würden	*	*	*	*
 40	.	*	*	*	*
 
-# article_id = T900918.98
-# text = " Er erzählt vom letzten Erdbeben in San Francisco : " Es gab sehr wenig Zerstörung , überall standen die Leute auf den Straßen , redeten , tranken Wein und waren froh , daß so gut wie nichts passiert war .
+# tuepp_article_id = T900918.98
+# sent_id = 602
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Er erzählt vom letzten Erdbeben in San Francisco : " Es gab sehr wenig Zerstörung , überall standen die Leute auf den Straßen , redeten , tranken Wein und waren froh , daß so gut wie nichts passiert war .
 1	"	*	*	*	*
 2	Er	*	*	*	*
 3	erzählt	*	*	*	*
@@ -3020,10 +3118,11 @@
 40	war	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T900922.24
-# text = Auch die Regierungsbeauftragte Berger bestätigt , daß die AusländerInnen als erste auf der Straße stehen - wenngleich sie versucht , Verständnis für die Entscheidung der Betriebe aufzubringen .
+# tuepp_article_id = T900922.24
+# sent_id = 603
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch die Regierungsbeauftragte Berger bestätigt , daß die AusländerInnen als erste auf der Straße stehen - wenngleich sie versucht , Verständnis für die Entscheidung der Betriebe aufzubringen .
 1	Auch	*	*	*	*
 2	die	*	*	*	*
 3	Regierungsbeauftragte	*	*	*	*
@@ -3053,10 +3152,11 @@
 27	aufzubringen	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T900922.201
-# text = Um aber denjenigen , die hier und heute auf der Straße stehen , zu helfen , wurde die " Aktion Studentenbuden " gestartet .
+# tuepp_article_id = T900922.201
+# sent_id = 604
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Um aber denjenigen , die hier und heute auf der Straße stehen , zu helfen , wurde die " Aktion Studentenbuden " gestartet .
 1	Um	*	*	*	*
 2	aber	*	*	*	*
 3	denjenigen	*	*	*	*
@@ -3082,10 +3182,11 @@
 23	gestartet	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T900904.118
-# text = Polizisten stehen auf der Straße .
-# context_judgement_1 = 0
+# tuepp_article_id = T900904.118
+# sent_id = 605
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Polizisten stehen auf der Straße .
 1	Polizisten	*	*	*	*
 2	stehen	1	1	1	1
 3	auf	1	1	1	1
@@ -3093,10 +3194,11 @@
 5	Straße	1	1	1	1
 6	.	*	*	*	*
 
-# article_id = T900111.227
-# text = Die Droschken waren halbleer , die Leute standen auf der Straße , klatschten und guckten immer auf mein Auto .
+# tuepp_article_id = T900111.227
+# sent_id = 606
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Droschken waren halbleer , die Leute standen auf der Straße , klatschten und guckten immer auf mein Auto .
 1	Die	*	*	*	*
 2	Droschken	*	*	*	*
 3	waren	*	*	*	*
@@ -3118,10 +3220,11 @@
 19	Auto	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T900102.215
-# text = Als das neue Jahrzehnt beginnt , stehen nur vereinzelt kleinere Gruppen sekttrinkend auf den Straßen und Plätzen .
+# tuepp_article_id = T900102.215
+# sent_id = 607
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als das neue Jahrzehnt beginnt , stehen nur vereinzelt kleinere Gruppen sekttrinkend auf den Straßen und Plätzen .
 1	Als	*	*	*	*
 2	das	*	*	*	*
 3	neue	*	*	*	*
@@ -3141,10 +3244,11 @@
 17	Plätzen	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T900112.107
-# text = " Parlamentarier schlugen vor , die Greenbelt - Bewegung zu verbieten , Gruppen der parteieigenen Frauenorganisation protestieren gegen die aufmüpfige Professorin und fordern ihren Parteiausschluß , und drei Tage nach dem Gerichtsurteil wurde die Umweltorganisation aus den staatseigenen Gebäuden geworfen , in denen sie seit zehn Jahren ihre Büros hatte : Maathai und ihre 30 MitarbeiterInnen stehen auf der Straße .
+# tuepp_article_id = T900112.107
+# sent_id = 608
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Parlamentarier schlugen vor , die Greenbelt - Bewegung zu verbieten , Gruppen der parteieigenen Frauenorganisation protestieren gegen die aufmüpfige Professorin und fordern ihren Parteiausschluß , und drei Tage nach dem Gerichtsurteil wurde die Umweltorganisation aus den staatseigenen Gebäuden geworfen , in denen sie seit zehn Jahren ihre Büros hatte : Maathai und ihre 30 MitarbeiterInnen stehen auf der Straße .
 1	"	*	*	*	*
 2	Parlamentarier	*	*	*	*
 3	schlugen	*	*	*	*
@@ -3207,10 +3311,11 @@
 60	Straße	2	2	2	2
 61	.	*	*	*	*
 
-# article_id = T900108.237
-# text = Dann stehen wir wieder auf der Straße .
-# context_judgement_1 = 1
+# tuepp_article_id = T900108.237
+# sent_id = 609
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Dann stehen wir wieder auf der Straße .
 1	Dann	*	*	*	*
 2	stehen	2	2	2	2
 3	wir	*	*	*	*
@@ -3220,10 +3325,11 @@
 7	Straße	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T900116.127
-# text = Doch die Firma würde dann unweigerlich pleitegehen , die Belegschaft stünde auf der Straße .
+# tuepp_article_id = T900116.127
+# sent_id = 610
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch die Firma würde dann unweigerlich pleitegehen , die Belegschaft stünde auf der Straße .
 1	Doch	*	*	*	*
 2	die	*	*	*	*
 3	Firma	*	*	*	*
@@ -3240,10 +3346,11 @@
 14	Straße	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T900425.102
-# text = Tausende treue Parteigänger werden bald auf der Straße stehen und mit ihrer sandinistischen Vergangenheit wenig Aussichten auf Arbeitsplätze haben .
+# tuepp_article_id = T900425.102
+# sent_id = 611
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Tausende treue Parteigänger werden bald auf der Straße stehen und mit ihrer sandinistischen Vergangenheit wenig Aussichten auf Arbeitsplätze haben .
 1	Tausende	*	*	*	*
 2	treue	*	*	*	*
 3	Parteigänger	*	*	*	*
@@ -3265,10 +3372,11 @@
 19	haben	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T900402.185
-# text = " Seine " Charon " stand vorgestern noch auf der Straße , gestern schaukelte das Kajütboot im Wasser der Dahme .
-# context_judgement_1 = 0
+# tuepp_article_id = T900402.185
+# sent_id = 612
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = " Seine " Charon " stand vorgestern noch auf der Straße , gestern schaukelte das Kajütboot im Wasser der Dahme .
 1	"	*	*	*	*
 2	Seine	*	*	*	*
 3	"	*	*	*	*
@@ -3291,10 +3399,11 @@
 20	Dahme	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T900406.183
-# text = Die meisten sind grau und müde , viele Rentner sind dabei , Mütter halten ihre Kleinkinder an der Hand , das Volk steht auf der Straße .
-# context_judgement_1 = 1
+# tuepp_article_id = T900406.183
+# sent_id = 613
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Die meisten sind grau und müde , viele Rentner sind dabei , Mütter halten ihre Kleinkinder an der Hand , das Volk steht auf der Straße .
 1	Die	*	*	*	*
 2	meisten	*	*	*	*
 3	sind	*	*	*	*
@@ -3323,10 +3432,11 @@
 26	Straße	3	1	2	3
 27	.	*	*	*	*
 
-# article_id = T900418.244
-# text = Beim Zeitungsvertrieb in der DDR sollte sich die Post bestimmte Rechte vorbehalten , weil anderenfalls " rund 5 000 Arbeitskräfte auf der Straße " stünden .
+# tuepp_article_id = T900418.244
+# sent_id = 614
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Beim Zeitungsvertrieb in der DDR sollte sich die Post bestimmte Rechte vorbehalten , weil anderenfalls " rund 5 000 Arbeitskräfte auf der Straße " stünden .
 1	Beim	*	*	*	*
 2	Zeitungsvertrieb	*	*	*	*
 3	in	*	*	*	*
@@ -3354,10 +3464,11 @@
 25	stünden	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T900423.23
-# text = Eine Kolonne Panzer rollt hinauf , ein junger Mann steht auf der Straße und gibt ein Stopsignal , wie ein Verkehrspolizist .
+# tuepp_article_id = T900423.23
+# sent_id = 615
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Eine Kolonne Panzer rollt hinauf , ein junger Mann steht auf der Straße und gibt ein Stopsignal , wie ein Verkehrspolizist .
 1	Eine	*	*	*	*
 2	Kolonne	*	*	*	*
 3	Panzer	*	*	*	*
@@ -3381,10 +3492,11 @@
 21	Verkehrspolizist	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T900423.275
-# text = Schon nach einer knappen dreiviertel Stunde stehen 70 Ostertorsche KirchgängerInnen wieder auf der hellen Straße ein Gottesdienst ganz kurz und schmerzlos .
-# context_judgement_1 = 1
+# tuepp_article_id = T900423.275
+# sent_id = 616
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Schon nach einer knappen dreiviertel Stunde stehen 70 Ostertorsche KirchgängerInnen wieder auf der hellen Straße ein Gottesdienst ganz kurz und schmerzlos .
 1	Schon	*	*	*	*
 2	nach	*	*	*	*
 3	einer	*	*	*	*
@@ -3408,10 +3520,11 @@
 21	schmerzlos	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T900702.221
-# text = " Wenn das Geld nicht bewilligt wird , stehen möglicherweise schon im Juli zusätzliche Tausende von Bauarbeitern auf der Straße " , sagte Kraft .
+# tuepp_article_id = T900702.221
+# sent_id = 617
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wenn das Geld nicht bewilligt wird , stehen möglicherweise schon im Juli zusätzliche Tausende von Bauarbeitern auf der Straße " , sagte Kraft .
 1	"	*	*	*	*
 2	Wenn	*	*	*	*
 3	das	*	*	*	*
@@ -3438,10 +3551,11 @@
 24	Kraft	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T900714.93
-# text = Es blieb ihnen nichts anderes übrig , wenn sie nicht auf der Straße stehen wollten .
+# tuepp_article_id = T900714.93
+# sent_id = 618
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es blieb ihnen nichts anderes übrig , wenn sie nicht auf der Straße stehen wollten .
 1	Es	*	*	*	*
 2	blieb	*	*	*	*
 3	ihnen	*	*	*	*
@@ -3459,10 +3573,11 @@
 15	wollten	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T900714.251
-# text = Die etwa zwölf Jugendlichen , die einstweilen auf der Straße stehen , wollen in der 350 Quadratmeter großen Remise kollektiv wohnen .
+# tuepp_article_id = T900714.251
+# sent_id = 619
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die etwa zwölf Jugendlichen , die einstweilen auf der Straße stehen , wollen in der 350 Quadratmeter großen Remise kollektiv wohnen .
 1	Die	*	*	*	*
 2	etwa	*	*	*	*
 3	zwölf	*	*	*	*
@@ -3486,10 +3601,11 @@
 21	wohnen	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T900723.232
-# text = Die Bewohner , die bei der Sanierung ihres Hauses in Selbsthilfe mitarbeiten wollen , stünden , wenn das Vorhaben scheitert , auf der Straße .
+# tuepp_article_id = T900723.232
+# sent_id = 620
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Bewohner , die bei der Sanierung ihres Hauses in Selbsthilfe mitarbeiten wollen , stünden , wenn das Vorhaben scheitert , auf der Straße .
 1	Die	*	*	*	*
 2	Bewohner	*	*	*	*
 3	,	*	*	*	*
@@ -3516,10 +3632,11 @@
 24	Straße	2	2	2	2
 25	.	*	*	*	*
 
-# article_id = T900717.76
-# text = Dann starb die Mutter , und Columbus stand auf der Straße .
+# tuepp_article_id = T900717.76
+# sent_id = 621
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dann starb die Mutter , und Columbus stand auf der Straße .
 1	Dann	*	*	*	*
 2	starb	*	*	*	*
 3	die	*	*	*	*
@@ -3533,10 +3650,11 @@
 11	Straße	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T901206.163
-# text = Dabei sah es einmal düster für sie aus : 1980 , als sie die Schule verließen , SchülerInnen schrieben sich die Finger an Bewerbungen wund , Lehrlinge standen am Ende ihrer Ausbildung auf der Straße , und für StudentInnen hieß es Abschied nehmen von den Privilegien der Akademiker .
+# tuepp_article_id = T901206.163
+# sent_id = 622
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dabei sah es einmal düster für sie aus : 1980 , als sie die Schule verließen , SchülerInnen schrieben sich die Finger an Bewerbungen wund , Lehrlinge standen am Ende ihrer Ausbildung auf der Straße , und für StudentInnen hieß es Abschied nehmen von den Privilegien der Akademiker .
 1	Dabei	*	*	*	*
 2	sah	*	*	*	*
 3	es	*	*	*	*
@@ -3587,10 +3705,11 @@
 48	Akademiker	*	*	*	*
 49	.	*	*	*	*
 
-# article_id = T901214.246
-# text = Von denjenigen , die trotz aller Suche leer ausgehen , übernachten 43 Prozent bei Verwandten oder Kumpeln , 27 % in den einschlägigen Pensionen , weitere 20 % in Thearpie-und Übergangseinrichtungen ( Verein Hoppenbank , Jakobushaus ) und die restlichen 10 % stehen wirklich auf der Straße .
+# tuepp_article_id = T901214.246
+# sent_id = 623
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Von denjenigen , die trotz aller Suche leer ausgehen , übernachten 43 Prozent bei Verwandten oder Kumpeln , 27 % in den einschlägigen Pensionen , weitere 20 % in Thearpie-und Übergangseinrichtungen ( Verein Hoppenbank , Jakobushaus ) und die restlichen 10 % stehen wirklich auf der Straße .
 1	Von	*	*	*	*
 2	denjenigen	*	*	*	*
 3	,	*	*	*	*
@@ -3640,10 +3759,11 @@
 47	Straße	2	2	2	2
 48	.	*	*	*	*
 
-# article_id = T901211.223
-# text = Die Sozialbehörde suchte in den verbleibenden drei Wochen bis zum gerichtlich festgelegten Auszugstermin mit fliegenden Händen eine neue Unterkunft für Erich Gröger , um zu verhindern , daß er am 20. Juli wieder auf der Straße steht , diesmal protestierend und obdachlos .
+# tuepp_article_id = T901211.223
+# sent_id = 624
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Sozialbehörde suchte in den verbleibenden drei Wochen bis zum gerichtlich festgelegten Auszugstermin mit fliegenden Händen eine neue Unterkunft für Erich Gröger , um zu verhindern , daß er am 20. Juli wieder auf der Straße steht , diesmal protestierend und obdachlos .
 1	Die	*	*	*	*
 2	Sozialbehörde	*	*	*	*
 3	suchte	*	*	*	*
@@ -3689,10 +3809,11 @@
 43	obdachlos	*	*	*	*
 44	.	*	*	*	*
 
-# article_id = T901208.75
-# text = Einzelne Gruppen von Zuhörern stehen noch lange nach der Veranstaltung auf der Straße und debattieren .
+# tuepp_article_id = T901208.75
+# sent_id = 625
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Einzelne Gruppen von Zuhörern stehen noch lange nach der Veranstaltung auf der Straße und debattieren .
 1	Einzelne	*	*	*	*
 2	Gruppen	*	*	*	*
 3	von	*	*	*	*
@@ -3710,10 +3831,11 @@
 15	debattieren	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T900816.107
-# text = Nicht nur alle Kneipen seien brechend voll , so daß man keinen Fuß mehr hineinkriege - sie stünden mit Einliter-Bierflaschen bewehrt in Trauben auf den Straßen und behinderten den Verkehr .
+# tuepp_article_id = T900816.107
+# sent_id = 626
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nicht nur alle Kneipen seien brechend voll , so daß man keinen Fuß mehr hineinkriege - sie stünden mit Einliter-Bierflaschen bewehrt in Trauben auf den Straßen und behinderten den Verkehr .
 1	Nicht	*	*	*	*
 2	nur	*	*	*	*
 3	alle	*	*	*	*
@@ -3746,10 +3868,11 @@
 30	Verkehr	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T900814.51
-# text = Wenn es jetzt kein Geld gibt , stirbt der Laden und nächstes Jahr stehen wir alle auf der Straße .
+# tuepp_article_id = T900814.51
+# sent_id = 627
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn es jetzt kein Geld gibt , stirbt der Laden und nächstes Jahr stehen wir alle auf der Straße .
 1	Wenn	*	*	*	*
 2	es	*	*	*	*
 3	jetzt	*	*	*	*
@@ -3771,10 +3894,11 @@
 19	Straße	2	2	2	2
 20	.	*	*	*	*
 
-# article_id = T900303.112
-# text = Als " Dinosaurier " habe ihn dieser unverschämterweise tituliert , aber er habe ihm geantwortet : " Ich habe das Gesetz auf meiner Seite , und du wirst auf der Straße stehen und Molotow - Cocktails schmeißen .
+# tuepp_article_id = T900303.112
+# sent_id = 628
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als " Dinosaurier " habe ihn dieser unverschämterweise tituliert , aber er habe ihm geantwortet : " Ich habe das Gesetz auf meiner Seite , und du wirst auf der Straße stehen und Molotow - Cocktails schmeißen .
 1	Als	*	*	*	*
 2	"	*	*	*	*
 3	Dinosaurier	*	*	*	*
@@ -3814,10 +3938,11 @@
 37	schmeißen	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T900326.275
-# text = Dann brannte das Theater ab und die 16 Schauspieler standen heimatlos auf der Straße .
+# tuepp_article_id = T900326.275
+# sent_id = 629
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dann brannte das Theater ab und die 16 Schauspieler standen heimatlos auf der Straße .
 1	Dann	*	*	*	*
 2	brannte	*	*	*	*
 3	das	*	*	*	*
@@ -3834,10 +3959,11 @@
 14	Straße	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T901117.135
-# text = Gestalten , manche in abgerissenen Kleidern , andere städtisch gekleidet , lehnen in Fenstern oder stehen auf der Straße zusammen .
+# tuepp_article_id = T901117.135
+# sent_id = 630
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gestalten , manche in abgerissenen Kleidern , andere städtisch gekleidet , lehnen in Fenstern oder stehen auf der Straße zusammen .
 1	Gestalten	*	*	*	*
 2	,	*	*	*	*
 3	manche	*	*	*	*
@@ -3860,10 +3986,11 @@
 20	zusammen	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T901101.309
-# text = Auf der Straße bleibe ich nicht stehen , trinke keine Bier , keinen Kaffee .
-# context_judgement_1 = 0
+# tuepp_article_id = T901101.309
+# sent_id = 631
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Auf der Straße bleibe ich nicht stehen , trinke keine Bier , keinen Kaffee .
 1	Auf	1	1	1	1
 2	der	*	*	*	*
 3	Straße	1	1	1	1
@@ -3880,10 +4007,11 @@
 14	Kaffee	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T900201.83
-# text = In Halle stehen bereits 16 Journalisten auf der Straße , teilten Kollegen mit .
-# context_judgement_1 = 1
+# tuepp_article_id = T900201.83
+# sent_id = 632
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = In Halle stehen bereits 16 Journalisten auf der Straße , teilten Kollegen mit .
 1	In	*	*	*	*
 2	Halle	*	*	*	*
 3	stehen	2	2	2	2
@@ -3899,10 +4027,11 @@
 13	mit	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T900201.83
-# text = Daß man bald auf der Straße steht , wird übrigens auch beim Fernsehen befürchtet .
+# tuepp_article_id = T900201.83
+# sent_id = 633
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Daß man bald auf der Straße steht , wird übrigens auch beim Fernsehen befürchtet .
 1	Daß	*	*	*	*
 2	man	*	*	*	*
 3	bald	*	*	*	*
@@ -3919,10 +4048,11 @@
 14	befürchtet	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T900228.58
-# text = Vor allem MitbeiterInnen aus den aufgeblähten Verwaltungsbereichen , denen als erstes eine Rationalisierung droht , wechseln schnell noch in den Produktionssektor ihres Unternehmens , bevor sie auf der Straße stehen .
+# tuepp_article_id = T900228.58
+# sent_id = 634
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vor allem MitbeiterInnen aus den aufgeblähten Verwaltungsbereichen , denen als erstes eine Rationalisierung droht , wechseln schnell noch in den Produktionssektor ihres Unternehmens , bevor sie auf der Straße stehen .
 1	Vor	*	*	*	*
 2	allem	*	*	*	*
 3	MitbeiterInnen	*	*	*	*
@@ -3955,10 +4085,11 @@
 30	stehen	2	2	2	2
 31	.	*	*	*	*
 
-# article_id = T900213.86
-# text = Für die Müchner Schwulenszene bedeutet dies , daß damit nicht nur die Schwulengruppe " Rosa Freizeit " auf der Straße steht , sondern auch der regelmäßige Treffpunkt für HIV-Infizierte und Aidskranke sowie deren FreundInnen und Angehörige keine Bleibe mehr hat .
+# tuepp_article_id = T900213.86
+# sent_id = 635
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Für die Müchner Schwulenszene bedeutet dies , daß damit nicht nur die Schwulengruppe " Rosa Freizeit " auf der Straße steht , sondern auch der regelmäßige Treffpunkt für HIV-Infizierte und Aidskranke sowie deren FreundInnen und Angehörige keine Bleibe mehr hat .
 1	Für	*	*	*	*
 2	die	*	*	*	*
 3	Müchner	*	*	*	*
@@ -4001,10 +4132,11 @@
 40	hat	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T900213.307
-# text = " Wie soll man eine Perspektive für sich selbst oder ein erträgliches Miteinander auf den Etagen ( bis zu 18 Alleinstehende auf einer Etage ) organisieren , wenn die Aussicht besteht , ab dem 28.2. wieder auf der Straße zu stehen " , heißt es in einer Erklärung des Vereins für Alleinstehende Wohnungslose ( Allwo ) , einer der Initiativen , die die BesetzerInnen unterstützt .
+# tuepp_article_id = T900213.307
+# sent_id = 636
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wie soll man eine Perspektive für sich selbst oder ein erträgliches Miteinander auf den Etagen ( bis zu 18 Alleinstehende auf einer Etage ) organisieren , wenn die Aussicht besteht , ab dem 28.2. wieder auf der Straße zu stehen " , heißt es in einer Erklärung des Vereins für Alleinstehende Wohnungslose ( Allwo ) , einer der Initiativen , die die BesetzerInnen unterstützt .
 1	"	*	*	*	*
 2	Wie	*	*	*	*
 3	soll	*	*	*	*
@@ -4073,10 +4205,11 @@
 66	unterstützt	*	*	*	*
 67	.	*	*	*	*
 
-# article_id = T920529.51
-# text = " Was nützt mir denn da die Freiheit , wenn ich morgen auf der Straße stehe ?
+# tuepp_article_id = T920529.51
+# sent_id = 637
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Was nützt mir denn da die Freiheit , wenn ich morgen auf der Straße stehe ?
 1	"	*	*	*	*
 2	Was	*	*	*	*
 3	nützt	*	*	*	*
@@ -4095,10 +4228,11 @@
 16	stehe	2	2	2	2
 17	?	*	*	*	*
 
-# article_id = T920605.158
-# text = Hochqualifizierte Wissenschaftlerinnen stehen auf der Straße , ihre männlichen Kollegen schlagen sich munter auf die Schulter , wenn sie das Landesantidiskriminierungsgesetz unterlaufen konnten .
+# tuepp_article_id = T920605.158
+# sent_id = 638
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Hochqualifizierte Wissenschaftlerinnen stehen auf der Straße , ihre männlichen Kollegen schlagen sich munter auf die Schulter , wenn sie das Landesantidiskriminierungsgesetz unterlaufen konnten .
 1	Hochqualifizierte	*	*	*	*
 2	Wissenschaftlerinnen	*	*	*	*
 3	stehen	2	2	2	2
@@ -4124,10 +4258,11 @@
 23	konnten	*	*	*	*
 24	.	*	*	*	*
 
-# article_id = T921024.186
-# text = Ein anständiges Leben hat sie geführt , das betont sie , bis " alles ganz schnell ging und ich plötzlich auf der Straße stand " .
+# tuepp_article_id = T921024.186
+# sent_id = 639
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein anständiges Leben hat sie geführt , das betont sie , bis " alles ganz schnell ging und ich plötzlich auf der Straße stand " .
 1	Ein	*	*	*	*
 2	anständiges	*	*	*	*
 3	Leben	*	*	*	*
@@ -4155,10 +4290,11 @@
 25	"	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T920926.274
-# text = Ab Ende September stehen Klaus Behner , Besitzer des Stradiwadi , und seine Angestellten erst einmal auf der Straße .
+# tuepp_article_id = T920926.274
+# sent_id = 640
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ab Ende September stehen Klaus Behner , Besitzer des Stradiwadi , und seine Angestellten erst einmal auf der Straße .
 1	Ab	*	*	*	*
 2	Ende	*	*	*	*
 3	September	*	*	*	*
@@ -4180,10 +4316,11 @@
 19	Straße	2	2	2	2
 20	.	*	*	*	*
 
-# article_id = T920917.63
-# text = Etliche derer , die noch im Mai gröhlend auf der Straße standen und " Asylanten raus " schrien , spielen jetzt von Zeit zu Zeit Fußball gegen Asylbewerber-Teams .
+# tuepp_article_id = T920917.63
+# sent_id = 641
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Etliche derer , die noch im Mai gröhlend auf der Straße standen und " Asylanten raus " schrien , spielen jetzt von Zeit zu Zeit Fußball gegen Asylbewerber-Teams .
 1	Etliche	*	*	*	*
 2	derer	*	*	*	*
 3	,	*	*	*	*
@@ -4214,10 +4351,11 @@
 28	Asylbewerber-Teams	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T920917.163
-# text = Der in Deutschland geborene 22jährige Mann hat eine Lehre als Kfz- Mechaniker abgeschlossen und danach neun Monate als Dreher gearbeitet - nun steht er auf der Straße .
+# tuepp_article_id = T920917.163
+# sent_id = 642
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der in Deutschland geborene 22jährige Mann hat eine Lehre als Kfz- Mechaniker abgeschlossen und danach neun Monate als Dreher gearbeitet - nun steht er auf der Straße .
 1	Der	*	*	*	*
 2	in	*	*	*	*
 3	Deutschland	*	*	*	*
@@ -4247,10 +4385,11 @@
 27	Straße	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T920912.279
-# text = Wegen fehlender Übergangsmittel stehen 400 ABM-Kräfte auf der Straße
+# tuepp_article_id = T920912.279
+# sent_id = 643
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wegen fehlender Übergangsmittel stehen 400 ABM-Kräfte auf der Straße
 1	Wegen	*	*	*	*
 2	fehlender	*	*	*	*
 3	Übergangsmittel	*	*	*	*
@@ -4261,10 +4400,11 @@
 8	der	*	*	*	*
 9	Straße	2	2	2	2
 
-# article_id = T920923.76
-# text = Die auf der Straße stehen , Menschenrechte mit Füße treten und Molotowcocktails schmeißen , beeinflussen doch nicht unsere Politik .
+# tuepp_article_id = T920923.76
+# sent_id = 644
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die auf der Straße stehen , Menschenrechte mit Füße treten und Molotowcocktails schmeißen , beeinflussen doch nicht unsere Politik .
 1	Die	*	*	*	*
 2	auf	1	3	1	1
 3	der	*	*	*	*
@@ -4286,10 +4426,11 @@
 19	Politik	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T920908.44
-# text = Die Eltern stehen auf der Straße vor ihrem Haus und schildern , noch stark schockiert , wie sie in der Nacht ihre Kinder durch das brennende Treppenhaus nach draußen getragen haben .
+# tuepp_article_id = T920908.44
+# sent_id = 645
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Eltern stehen auf der Straße vor ihrem Haus und schildern , noch stark schockiert , wie sie in der Nacht ihre Kinder durch das brennende Treppenhaus nach draußen getragen haben .
 1	Die	*	*	*	*
 2	Eltern	*	*	*	*
 3	stehen	1	1	1	1
@@ -4323,10 +4464,11 @@
 31	haben	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T920902.103
-# text = Auch 1.150 Mitarbeiter in der Baumwollwirtschaft und 16.000 Arbeiter der Bauindustrie stehen ab sofort auf der Straße .
+# tuepp_article_id = T920902.103
+# sent_id = 646
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch 1.150 Mitarbeiter in der Baumwollwirtschaft und 16.000 Arbeiter der Bauindustrie stehen ab sofort auf der Straße .
 1	Auch	*	*	*	*
 2	1.150	*	*	*	*
 3	Mitarbeiter	*	*	*	*
@@ -4346,10 +4488,11 @@
 17	Straße	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T920125.202
-# text = Das mache ich , wenn ich hier auf der Straße stehe und Honig verkaufe .
+# tuepp_article_id = T920125.202
+# sent_id = 647
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das mache ich , wenn ich hier auf der Straße stehe und Honig verkaufe .
 1	Das	*	*	*	*
 2	mache	*	*	*	*
 3	ich	*	*	*	*
@@ -4366,10 +4509,11 @@
 14	verkaufe	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T920124.157
-# text = Der Obermieter kann aber auf alle Fälle die Wohnung gegenüber dem Vermieter kündigen , dann steht der unbotmäßige Untermieter auf der Straße .
+# tuepp_article_id = T920124.157
+# sent_id = 648
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Obermieter kann aber auf alle Fälle die Wohnung gegenüber dem Vermieter kündigen , dann steht der unbotmäßige Untermieter auf der Straße .
 1	Der	*	*	*	*
 2	Obermieter	*	*	*	*
 3	kann	*	*	*	*
@@ -4394,10 +4538,11 @@
 22	Straße	2	2	2	2
 23	.	*	*	*	*
 
-# article_id = T920406.28
-# text = Und vor allem voller " grinsender türkischer Rauschgifthändler " , die 24 Stunden nach ihrer Festnahme wieder auf der Straße stehen , statt für fünf bis zehn Jahre weggeschlossen zu sein .
+# tuepp_article_id = T920406.28
+# sent_id = 649
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und vor allem voller " grinsender türkischer Rauschgifthändler " , die 24 Stunden nach ihrer Festnahme wieder auf der Straße stehen , statt für fünf bis zehn Jahre weggeschlossen zu sein .
 1	Und	*	*	*	*
 2	vor	*	*	*	*
 3	allem	*	*	*	*
@@ -4431,10 +4576,11 @@
 31	sein	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T920428.159
-# text = Werden die Kinder älter , stehen sie erst recht auf der Straße .
+# tuepp_article_id = T920428.159
+# sent_id = 650
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Werden die Kinder älter , stehen sie erst recht auf der Straße .
 1	Werden	*	*	*	*
 2	die	*	*	*	*
 3	Kinder	*	*	*	*
@@ -4449,10 +4595,11 @@
 12	Straße	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T920401.194
-# text = Diese begingen den Fehler , auf verbales Palaver zu hören , und nach etwa vier Wochen standen sie wieder auf der Straße ohne schriftliche Zusage für ein alternatives Angebot .
+# tuepp_article_id = T920401.194
+# sent_id = 651
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Diese begingen den Fehler , auf verbales Palaver zu hören , und nach etwa vier Wochen standen sie wieder auf der Straße ohne schriftliche Zusage für ein alternatives Angebot .
 1	Diese	*	*	*	*
 2	begingen	*	*	*	*
 3	den	*	*	*	*
@@ -4484,10 +4631,11 @@
 29	Angebot	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T920422.85
-# text = Die Leute aber stehen auf der Straße .
-# context_judgement_1 = 1
+# tuepp_article_id = T920422.85
+# sent_id = 652
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Die Leute aber stehen auf der Straße .
 1	Die	*	*	*	*
 2	Leute	*	*	*	*
 3	aber	*	*	*	*
@@ -4497,10 +4645,11 @@
 7	Straße	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T920421.122
-# text = Auch die " Moslem-Führer " stehen nicht gerade mit dem Schaum des Elends vor dem Mund auf der Straße ( El-Essawy zum Beispiel ist Zahnarzt im Privatberuf ) .
+# tuepp_article_id = T920421.122
+# sent_id = 653
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch die " Moslem-Führer " stehen nicht gerade mit dem Schaum des Elends vor dem Mund auf der Straße ( El-Essawy zum Beispiel ist Zahnarzt im Privatberuf ) .
 1	Auch	*	*	*	*
 2	die	*	*	*	*
 3	"	*	*	*	*
@@ -4531,10 +4680,11 @@
 28	)	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T920423.223
-# text = Kurze Zeit später stand Finanzsenator Volker Kröning zeitunglesender Weise auf der Straße und war sichtlich amüsiert über die Schlagzeile : " Streik droht - Senat uneins .
+# tuepp_article_id = T920423.223
+# sent_id = 654
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kurze Zeit später stand Finanzsenator Volker Kröning zeitunglesender Weise auf der Straße und war sichtlich amüsiert über die Schlagzeile : " Streik droht - Senat uneins .
 1	Kurze	*	*	*	*
 2	Zeit	*	*	*	*
 3	später	*	*	*	*
@@ -4563,10 +4713,11 @@
 26	uneins	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T920701.167
-# text = Und einmal , da hat sich ein Pferd , gerade neu in den Haake-Beck-Stall gekommen , aus seinem kompletten Geschirr geschält und stand quasi nackt auf der Straße .
+# tuepp_article_id = T920701.167
+# sent_id = 655
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und einmal , da hat sich ein Pferd , gerade neu in den Haake-Beck-Stall gekommen , aus seinem kompletten Geschirr geschält und stand quasi nackt auf der Straße .
 1	Und	*	*	*	*
 2	einmal	*	*	*	*
 3	,	*	*	*	*
@@ -4597,10 +4748,11 @@
 28	Straße	1	1	1	1
 29	.	*	*	*	*
 
-# article_id = T921204.122
-# text = Völlig blank hingegen stehen 36 Musiker auf der Straße .
+# tuepp_article_id = T921204.122
+# sent_id = 656
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Völlig blank hingegen stehen 36 Musiker auf der Straße .
 1	Völlig	*	*	*	*
 2	blank	*	*	*	*
 3	hingegen	*	*	*	*
@@ -4612,10 +4764,11 @@
 9	Straße	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T921203.76
-# text = Doch unter der Woche steht er oft auf der Straße .
-# context_judgement_1 = 1
+# tuepp_article_id = T921203.76
+# sent_id = 657
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Doch unter der Woche steht er oft auf der Straße .
 1	Doch	*	*	*	*
 2	unter	*	*	*	*
 3	der	*	*	*	*
@@ -4628,10 +4781,11 @@
 10	Straße	2	1	1	1
 11	.	*	*	*	*
 
-# article_id = T920831.115
-# text = Rund 100 Mitarbeiter stehen plötzlich auf der Straße , viele von ihnen jenseits jener Altersgrenze , unter der sie noch vermittelbar wären .
+# tuepp_article_id = T920831.115
+# sent_id = 658
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Rund 100 Mitarbeiter stehen plötzlich auf der Straße , viele von ihnen jenseits jener Altersgrenze , unter der sie noch vermittelbar wären .
 1	Rund	*	*	*	*
 2	100	*	*	*	*
 3	Mitarbeiter	*	*	*	*
@@ -4656,10 +4810,11 @@
 22	wären	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T920808.32
-# text = Zwei Stunden später , berichtet die Hausmeisterin des Arbeiterwohnheims , die Leute standen noch auf der Straße , da seien zwei junge Deutsche vorbeigekommen : " Was denn hier los ist , wollten sie wissen .
+# tuepp_article_id = T920808.32
+# sent_id = 659
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zwei Stunden später , berichtet die Hausmeisterin des Arbeiterwohnheims , die Leute standen noch auf der Straße , da seien zwei junge Deutsche vorbeigekommen : " Was denn hier los ist , wollten sie wissen .
 1	Zwei	*	*	*	*
 2	Stunden	*	*	*	*
 3	später	*	*	*	*
@@ -4697,10 +4852,11 @@
 35	wissen	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T920328.230
-# text = Wie es sich anfühlt , wieder auf der Straße zu stehen , konnten 300 der insgesamt 700 Beschäftigten der Bremer Jugendwerkstätten gestern morgen schon einmal am eigenen Leib erfahren .
+# tuepp_article_id = T920328.230
+# sent_id = 660
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie es sich anfühlt , wieder auf der Straße zu stehen , konnten 300 der insgesamt 700 Beschäftigten der Bremer Jugendwerkstätten gestern morgen schon einmal am eigenen Leib erfahren .
 1	Wie	*	*	*	*
 2	es	*	*	*	*
 3	sich	*	*	*	*
@@ -4732,10 +4888,11 @@
 29	erfahren	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T920331.237
-# text = Wenn die Zweitkräfte wegfallen , werden möglicherweise 20 Kinder auf der Straße stehen und mit ihnen zwei festangestellte Erzieherinnen .
+# tuepp_article_id = T920331.237
+# sent_id = 661
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn die Zweitkräfte wegfallen , werden möglicherweise 20 Kinder auf der Straße stehen und mit ihnen zwei festangestellte Erzieherinnen .
 1	Wenn	*	*	*	*
 2	die	*	*	*	*
 3	Zweitkräfte	*	*	*	*
@@ -4757,10 +4914,11 @@
 19	Erzieherinnen	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T921123.170
-# text = " Man kann Jugendlichen nur dann eine Perspektive geben , wenn man selber eine hat und nicht weiß , daß man im nächsten Jahr wieder auf der Straße steht und die nächste ABM-Kraft sich um das Vertrauen der Jugendlichen mühen muß .
+# tuepp_article_id = T921123.170
+# sent_id = 662
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Man kann Jugendlichen nur dann eine Perspektive geben , wenn man selber eine hat und nicht weiß , daß man im nächsten Jahr wieder auf der Straße steht und die nächste ABM-Kraft sich um das Vertrauen der Jugendlichen mühen muß .
 1	"	*	*	*	*
 2	Man	*	*	*	*
 3	kann	*	*	*	*
@@ -4804,10 +4962,11 @@
 41	muß	*	*	*	*
 42	.	*	*	*	*
 
-# article_id = T921104.85
-# text = Es ist verständlich , daß ein gemeinsames Demonstrieren eine Zumutung ist ; aber können wir uns angesichts der Massivität und Lebensgefährlichkeit des Problems den Luxus erlauben zu definieren , welcher Christ , Atheist , Sozialdemokrat der Richtige ist , um mit uns am gleichen Tag auf der Straße zu stehen ?
-# context_judgement_1 = 1
+# tuepp_article_id = T921104.85
+# sent_id = 663
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Es ist verständlich , daß ein gemeinsames Demonstrieren eine Zumutung ist ; aber können wir uns angesichts der Massivität und Lebensgefährlichkeit des Problems den Luxus erlauben zu definieren , welcher Christ , Atheist , Sozialdemokrat der Richtige ist , um mit uns am gleichen Tag auf der Straße zu stehen ?
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	verständlich	*	*	*	*
@@ -4860,10 +5019,11 @@
 50	stehen	1	2	2	2
 51	?	*	*	*	*
 
-# article_id = T921112.71
-# text = Die " No to AIDS " - Kampagne der ugandischen Regierung bedient sich gut verständlicher Cartoons , die vor allem auf mögliche Infektionsrisiken hinweisen : mit der Bemerkung " Ich fahre direkt zu meiner Frau nach Hause " läßt ein LKW-Fahrer zwei Prostituierte auf der Straße stehen .
+# tuepp_article_id = T921112.71
+# sent_id = 664
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die " No to AIDS " - Kampagne der ugandischen Regierung bedient sich gut verständlicher Cartoons , die vor allem auf mögliche Infektionsrisiken hinweisen : mit der Bemerkung " Ich fahre direkt zu meiner Frau nach Hause " läßt ein LKW-Fahrer zwei Prostituierte auf der Straße stehen .
 1	Die	*	*	*	*
 2	"	*	*	*	*
 3	No	*	*	*	*
@@ -4913,10 +5073,11 @@
 47	stehen	1	1	1	1
 48	.	*	*	*	*
 
-# article_id = T921111.218
-# text = Wenn keine neuen Krippenplätze eingerichtet würden , werde aus dem Recht auf Erziehungsurlaub von drei Jahren schließlich ein Zwang , und wenn keine neuen Hortplätze mehr eingerichtet würden , stünden die Grundschulkinder auf der Straße .
+# tuepp_article_id = T921111.218
+# sent_id = 665
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn keine neuen Krippenplätze eingerichtet würden , werde aus dem Recht auf Erziehungsurlaub von drei Jahren schließlich ein Zwang , und wenn keine neuen Hortplätze mehr eingerichtet würden , stünden die Grundschulkinder auf der Straße .
 1	Wenn	*	*	*	*
 2	keine	*	*	*	*
 3	neuen	*	*	*	*
@@ -4954,10 +5115,11 @@
 35	Straße	2	2	2	2
 36	.	*	*	*	*
 
-# article_id = T920219.161
-# text = Sollte der Übernahmeplan scheitern , dann müßte zum ersten Mal in Europa ein privater Fernsehkanal das Licht ausschalten ; die 910 Angestellten stünden auf der Straße .
+# tuepp_article_id = T920219.161
+# sent_id = 666
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sollte der Übernahmeplan scheitern , dann müßte zum ersten Mal in Europa ein privater Fernsehkanal das Licht ausschalten ; die 910 Angestellten stünden auf der Straße .
 1	Sollte	*	*	*	*
 2	der	*	*	*	*
 3	Übernahmeplan	*	*	*	*
@@ -4986,10 +5148,11 @@
 26	Straße	2	2	2	2
 27	.	*	*	*	*
 
-# article_id = T920215.101
-# text = Am nächsten Morgen um sechs Uhr stehen Christa und ich an der Straße und warten auf Saddajiv , der kurze Zeit später in einem klapprigen weißen Ambassador , der indischen Mittelklasselimousine im Nostalgielook , vorfährt .
+# tuepp_article_id = T920215.101
+# sent_id = 667
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Am nächsten Morgen um sechs Uhr stehen Christa und ich an der Straße und warten auf Saddajiv , der kurze Zeit später in einem klapprigen weißen Ambassador , der indischen Mittelklasselimousine im Nostalgielook , vorfährt .
 1	Am	*	*	*	*
 2	nächsten	*	*	*	*
 3	Morgen	*	*	*	*
@@ -5027,10 +5190,11 @@
 35	vorfährt	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T920215.188
-# text = Rund 80 Obdachlose , die Ende vergangenen Jahres in Berlin mehrere Baucontainer besetzt hatten und später ein Haus im Bezirk Lichtenberg bekamen , stehen möglicherweise bald wieder auf der Straße .
+# tuepp_article_id = T920215.188
+# sent_id = 668
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Rund 80 Obdachlose , die Ende vergangenen Jahres in Berlin mehrere Baucontainer besetzt hatten und später ein Haus im Bezirk Lichtenberg bekamen , stehen möglicherweise bald wieder auf der Straße .
 1	Rund	*	*	*	*
 2	80	*	*	*	*
 3	Obdachlose	*	*	*	*
@@ -5063,10 +5227,11 @@
 30	Straße	2	2	2	2
 31	.	*	*	*	*
 
-# article_id = T920204.199
-# text = Sowohl auf dem Übernachtungsschiff " Yola " wie in den Containern in Hastedt oder in anderen Notunterkünften müssen die Junkies morgens um zehn Uhr raus - so stehen viele den ganzen Tag über auf der Straße .
+# tuepp_article_id = T920204.199
+# sent_id = 669
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sowohl auf dem Übernachtungsschiff " Yola " wie in den Containern in Hastedt oder in anderen Notunterkünften müssen die Junkies morgens um zehn Uhr raus - so stehen viele den ganzen Tag über auf der Straße .
 1	Sowohl	*	*	*	*
 2	auf	*	*	*	*
 3	dem	*	*	*	*
@@ -5105,10 +5270,11 @@
 36	Straße	3	1	1	1
 37	.	*	*	*	*
 
-# article_id = T880504.83
-# text = Sein Wagen bleibt quer auf der Straße stehen und blockiert den Fluchtweg für den Rest der Kolonne .
+# tuepp_article_id = T880504.83
+# sent_id = 670
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sein Wagen bleibt quer auf der Straße stehen und blockiert den Fluchtweg für den Rest der Kolonne .
 1	Sein	*	*	*	*
 2	Wagen	*	*	*	*
 3	bleibt	*	*	*	*
@@ -5128,10 +5294,11 @@
 17	Kolonne	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T880603.94
-# text = Doch solch heimliches Fluchen dringt nicht einmal in den Innenraum des frischgewaschenen Autos der Hausmeistersfamilie , das jetzt so betont harmlos und akurat eingeparkt auf der Straße steht .
+# tuepp_article_id = T880603.94
+# sent_id = 671
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch solch heimliches Fluchen dringt nicht einmal in den Innenraum des frischgewaschenen Autos der Hausmeistersfamilie , das jetzt so betont harmlos und akurat eingeparkt auf der Straße steht .
 1	Doch	*	*	*	*
 2	solch	*	*	*	*
 3	heimliches	*	*	*	*
@@ -5162,10 +5329,11 @@
 28	steht	1	1	1	1
 29	.	*	*	*	*
 
-# article_id = T881026.100
-# text = Schlimmer aber war , daß ich ein Drittel von meinem Geld , das ich derzeit besaß , vergeudet hatte und nun auch noch auf der Straße stand .
+# tuepp_article_id = T881026.100
+# sent_id = 672
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Schlimmer aber war , daß ich ein Drittel von meinem Geld , das ich derzeit besaß , vergeudet hatte und nun auch noch auf der Straße stand .
 1	Schlimmer	*	*	*	*
 2	aber	*	*	*	*
 3	war	*	*	*	*
@@ -5195,10 +5363,11 @@
 27	stand	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T881011.42
-# text = Anfang der achtziger Jahre war der Wohnungsmarkt in Freiburg bereits einmal ähnlich dicht , Massen von StudentInnen standen auf der Straße .
+# tuepp_article_id = T881011.42
+# sent_id = 673
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Anfang der achtziger Jahre war der Wohnungsmarkt in Freiburg bereits einmal ähnlich dicht , Massen von StudentInnen standen auf der Straße .
 1	Anfang	*	*	*	*
 2	der	*	*	*	*
 3	achtziger	*	*	*	*
@@ -5222,10 +5391,11 @@
 21	Straße	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T880909.179
-# text = Rund 400 BremerInnen standen auf Straße und Bürgersteigen , lehnten aus den Fenstern und nahmen am Spektakel teil , zwischen dem
+# tuepp_article_id = T880909.179
+# sent_id = 674
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Rund 400 BremerInnen standen auf Straße und Bürgersteigen , lehnten aus den Fenstern und nahmen am Spektakel teil , zwischen dem
 1	Rund	*	*	*	*
 2	400	*	*	*	*
 3	BremerInnen	*	*	*	*
@@ -5248,10 +5418,11 @@
 20	zwischen	*	*	*	*
 21	dem	*	*	*	*
 
-# article_id = T880929.149
-# text = Ein alter Mann steht auf der Straße , deutet hinter sich auf einen Betonspielplatz .
+# tuepp_article_id = T880929.149
+# sent_id = 675
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein alter Mann steht auf der Straße , deutet hinter sich auf einen Betonspielplatz .
 1	Ein	*	*	*	*
 2	alter	*	*	*	*
 3	Mann	*	*	*	*
@@ -5268,10 +5439,11 @@
 14	Betonspielplatz	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T880723.73
-# text = Sein Abtauchen in Suff und Verhältnisse wird immer exzessiver , und 1932 , mit vierundvierzig , wird er gefeuert und steht auf der Straße .
+# tuepp_article_id = T880723.73
+# sent_id = 676
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sein Abtauchen in Suff und Verhältnisse wird immer exzessiver , und 1932 , mit vierundvierzig , wird er gefeuert und steht auf der Straße .
 1	Sein	*	*	*	*
 2	Abtauchen	*	*	*	*
 3	in	*	*	*	*
@@ -5298,10 +5470,11 @@
 24	Straße	2	2	2	2
 25	.	*	*	*	*
 
-# article_id = T880728.99
-# text = Wir verlassen den düsteren Raum im Obergeschoß des alten Hauses , tasten uns eine steile Treppe hinab und stehen wieder auf der Straße .
+# tuepp_article_id = T880728.99
+# sent_id = 677
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wir verlassen den düsteren Raum im Obergeschoß des alten Hauses , tasten uns eine steile Treppe hinab und stehen wieder auf der Straße .
 1	Wir	*	*	*	*
 2	verlassen	*	*	*	*
 3	den	*	*	*	*
@@ -5327,10 +5500,11 @@
 23	Straße	1	1	1	1
 24	.	*	*	*	*
 
-# article_id = T881205.95
-# text = Ein Beispiel : Als auf der Sitzung am 22. November die Vorschläge zur Verfassungsreform beraten wurden , standen draußen auf der Straße Demonstranten , die die Deputierten auf Plakaten aufforderten , sich mit ihren estnischen Kollegen zu solidarisieren und im Paragraphen 71 der sowjet - lettischen Verfassung einen Veto-Mechanismus gegenüber den Unionsgesetzen festzuschreiben .
+# tuepp_article_id = T881205.95
+# sent_id = 678
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein Beispiel : Als auf der Sitzung am 22. November die Vorschläge zur Verfassungsreform beraten wurden , standen draußen auf der Straße Demonstranten , die die Deputierten auf Plakaten aufforderten , sich mit ihren estnischen Kollegen zu solidarisieren und im Paragraphen 71 der sowjet - lettischen Verfassung einen Veto-Mechanismus gegenüber den Unionsgesetzen festzuschreiben .
 1	Ein	*	*	*	*
 2	Beispiel	*	*	*	*
 3	:	*	*	*	*
@@ -5387,10 +5561,11 @@
 54	festzuschreiben	*	*	*	*
 55	.	*	*	*	*
 
-# article_id = T881216.64
-# text = Die Fahrer der Lastwagen , die mit dem Nötigsten beladen sind , stünden im harten Kampf gegen Kälte , Schnee und Geröll auf den wenigen Straßen , die noch befahrbar sind .
+# tuepp_article_id = T881216.64
+# sent_id = 679
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Fahrer der Lastwagen , die mit dem Nötigsten beladen sind , stünden im harten Kampf gegen Kälte , Schnee und Geröll auf den wenigen Straßen , die noch befahrbar sind .
 1	Die	*	*	*	*
 2	Fahrer	*	*	*	*
 3	der	*	*	*	*
@@ -5424,10 +5599,11 @@
 31	sind	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T880801.144
-# text = Aber Franz mußte sich erst daran gewöhnen , auf der Straße zu stehen .
-# context_judgement_1 = 1
+# tuepp_article_id = T880801.144
+# sent_id = 680
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Aber Franz mußte sich erst daran gewöhnen , auf der Straße zu stehen .
 1	Aber	*	*	*	*
 2	Franz	*	*	*	*
 3	mußte	*	*	*	*
@@ -5443,10 +5619,11 @@
 13	stehen	1	1	1	1
 14	.	*	*	*	*
 
-# article_id = T880829.150
-# text = Auf einmal steht ein zerlumpter Mann auf der Straße , fuchtelt mit einem Messer herum und springt die Menge an .
+# tuepp_article_id = T880829.150
+# sent_id = 681
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auf einmal steht ein zerlumpter Mann auf der Straße , fuchtelt mit einem Messer herum und springt die Menge an .
 1	Auf	*	*	*	*
 2	einmal	*	*	*	*
 3	steht	1	1	1	1
@@ -5469,10 +5646,11 @@
 20	an	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T880805.174
-# text = An die 300 TeilnehmerInnen gingen leer aus , wenn die Lehrgänge nach Arbeitsförderungsgesetz wegfielen , mindestens ein Dutzend LehrerInnen in Diensten der VHS stünden dann obendrein auf der Straße .
+# tuepp_article_id = T880805.174
+# sent_id = 682
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = An die 300 TeilnehmerInnen gingen leer aus , wenn die Lehrgänge nach Arbeitsförderungsgesetz wegfielen , mindestens ein Dutzend LehrerInnen in Diensten der VHS stünden dann obendrein auf der Straße .
 1	An	*	*	*	*
 2	die	*	*	*	*
 3	300	*	*	*	*
@@ -5504,10 +5682,11 @@
 29	Straße	2	2	2	2
 30	.	*	*	*	*
 
-# article_id = T880825.123
-# text = Wir sahen in der Richtung , aus der sie kamen , einen Kleinlaster brennen , der quer auf der Straße stand .
+# tuepp_article_id = T880825.123
+# sent_id = 683
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wir sahen in der Richtung , aus der sie kamen , einen Kleinlaster brennen , der quer auf der Straße stand .
 1	Wir	*	*	*	*
 2	sahen	*	*	*	*
 3	in	*	*	*	*
@@ -5531,10 +5710,11 @@
 21	stand	1	1	1	1
 22	.	*	*	*	*
 
-# article_id = T881124.87
-# text = Niemand getraute sich mehr zu ihr in die Metzgerei - innerhalb von nur zwei Monaten war sie pleite und stand so mit ihren vier Kindern - damals sieben , elf , 14 und 15 Jahre alt - auf der Straße .
+# tuepp_article_id = T881124.87
+# sent_id = 684
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Niemand getraute sich mehr zu ihr in die Metzgerei - innerhalb von nur zwei Monaten war sie pleite und stand so mit ihren vier Kindern - damals sieben , elf , 14 und 15 Jahre alt - auf der Straße .
 1	Niemand	*	*	*	*
 2	getraute	*	*	*	*
 3	sich	*	*	*	*
@@ -5577,10 +5757,11 @@
 40	Straße	2	2	2	2
 41	.	*	*	*	*
 
-# article_id = T881117.93
-# text = Unzählige stehen auf der Straße , hausen in Notunterkünften , für die sie fünf Mark pro Nacht berappen müssen , oder sind für ein paar Monate übergangsweise irgendwo untergekrochen .
+# tuepp_article_id = T881117.93
+# sent_id = 685
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Unzählige stehen auf der Straße , hausen in Notunterkünften , für die sie fünf Mark pro Nacht berappen müssen , oder sind für ein paar Monate übergangsweise irgendwo untergekrochen .
 1	Unzählige	*	*	*	*
 2	stehen	2	2	2	2
 3	auf	2	2	2	2
@@ -5612,10 +5793,11 @@
 29	untergekrochen	*	*	*	*
 30	.	*	*	*	*
 
-# article_id = T881103.152
-# text = Stehen 160 Kinder , die bis jetzt noch einen einen Platz in einer evangelischen Kindertagesstätte haben , ab Sommer 1989 auf der Straße ?
+# tuepp_article_id = T881103.152
+# sent_id = 686
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Stehen 160 Kinder , die bis jetzt noch einen einen Platz in einer evangelischen Kindertagesstätte haben , ab Sommer 1989 auf der Straße ?
 1	Stehen	2	2	2	2
 2	160	*	*	*	*
 3	Kinder	*	*	*	*
@@ -5641,10 +5823,11 @@
 23	Straße	2	2	2	2
 24	?	*	*	*	*
 
-# article_id = T871013.79
-# text = Nun stehen 3.500 Arbeiter auf der Straße .
-# context_judgement_1 = 1
+# tuepp_article_id = T871013.79
+# sent_id = 687
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Nun stehen 3.500 Arbeiter auf der Straße .
 1	Nun	*	*	*	*
 2	stehen	2	2	2	2
 3	3.500	*	*	*	*
@@ -5654,10 +5837,11 @@
 7	Straße	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T870921.70
-# text = Adler stoppte seine Produktionsaufträge nach Südkorea und drohte mit der Schließung von Flair Fashion - 1.700 ArbeiterInnen ständen auf der Straße .
+# tuepp_article_id = T870921.70
+# sent_id = 688
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Adler stoppte seine Produktionsaufträge nach Südkorea und drohte mit der Schließung von Flair Fashion - 1.700 ArbeiterInnen ständen auf der Straße .
 1	Adler	*	*	*	*
 2	stoppte	*	*	*	*
 3	seine	*	*	*	*
@@ -5681,10 +5865,11 @@
 21	Straße	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T870117.30
-# text = Jetzt stehen die Stahlarbeiter an über 20 Standorten der Bundesrepublik wieder protestierend auf der Straße , sehen sie sich nach zehn Jahren Krise , Arbeitsplatzabbau und Existenzunsicherheit einer neuen Rationalisierungswelle gegenüber , die nach Schätzung der Wirtschaftsvereinigung Eisen- und Stahlindustrie mittelfristig 10.000 bis 15.000 Stahlarbeiter auf die Straße oder in den vorzeitigen Ruhestand versetzen wird .
+# tuepp_article_id = T870117.30
+# sent_id = 689
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jetzt stehen die Stahlarbeiter an über 20 Standorten der Bundesrepublik wieder protestierend auf der Straße , sehen sie sich nach zehn Jahren Krise , Arbeitsplatzabbau und Existenzunsicherheit einer neuen Rationalisierungswelle gegenüber , die nach Schätzung der Wirtschaftsvereinigung Eisen- und Stahlindustrie mittelfristig 10.000 bis 15.000 Stahlarbeiter auf die Straße oder in den vorzeitigen Ruhestand versetzen wird .
 1	Jetzt	*	*	*	*
 2	stehen	1	1	1	1
 3	die	*	*	*	*
@@ -5742,10 +5927,11 @@
 55	wird	*	*	*	*
 56	.	*	*	*	*
 
-# article_id = T870114.51
-# text = Rund 100.000 " Berber " , im Behördendeutsch Leute ohne festen Wohnsitz , stehen bei minus 20 Grad auf der Straße - nach Angaben der Nichtseßhaftenhilfe oft ohne ausreichende Kleidung und ohne vernünftiges Essen .
+# tuepp_article_id = T870114.51
+# sent_id = 690
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Rund 100.000 " Berber " , im Behördendeutsch Leute ohne festen Wohnsitz , stehen bei minus 20 Grad auf der Straße - nach Angaben der Nichtseßhaftenhilfe oft ohne ausreichende Kleidung und ohne vernünftiges Essen .
 1	Rund	*	*	*	*
 2	100.000	*	*	*	*
 3	"	*	*	*	*
@@ -5782,10 +5968,11 @@
 34	Essen	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T870425.46
-# text = Eine Auseinandersetzung im Zusammenhang mit dem 116 hätte eine brisante politische Dimension erreicht , wenn Hunderttausende auf der Straße stehen , kein Geld bekommen und es damit ein Kampf um die nackte Existenz würde .
+# tuepp_article_id = T870425.46
+# sent_id = 691
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Eine Auseinandersetzung im Zusammenhang mit dem 116 hätte eine brisante politische Dimension erreicht , wenn Hunderttausende auf der Straße stehen , kein Geld bekommen und es damit ein Kampf um die nackte Existenz würde .
 1	Eine	*	*	*	*
 2	Auseinandersetzung	*	*	*	*
 3	im	*	*	*	*
@@ -5822,10 +6009,11 @@
 34	würde	*	*	*	*
 35	.	*	*	*	*
 
-# article_id = T870422.29
-# text = Einzig ein amerikanischer Journalist steht noch zwischen den schwarzbehelmten Polizisten auf der Straße .
+# tuepp_article_id = T870422.29
+# sent_id = 692
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Einzig ein amerikanischer Journalist steht noch zwischen den schwarzbehelmten Polizisten auf der Straße .
 1	Einzig	*	*	*	*
 2	ein	*	*	*	*
 3	amerikanischer	*	*	*	*
@@ -5841,10 +6029,11 @@
 13	Straße	1	1	1	1
 14	.	*	*	*	*
 
-# article_id = T870729.43
-# text = " Die 2.900 " , in Hattingen heißt es inzwischen so , sind die Hüttenarbeiter , die nach dem Willen der Thyssen-AG demnächst auf der Straße stehen .
+# tuepp_article_id = T870729.43
+# sent_id = 693
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Die 2.900 " , in Hattingen heißt es inzwischen so , sind die Hüttenarbeiter , die nach dem Willen der Thyssen-AG demnächst auf der Straße stehen .
 1	"	*	*	*	*
 2	Die	*	*	*	*
 3	2.900	*	*	*	*
@@ -5874,10 +6063,11 @@
 27	stehen	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T870715.31
-# text = Die " Leonie " wurde am 8. Mai geschlossen und über 1.300 Maxhütte-Arbeiter stehen ohne Sozialplan auf der Straße .
+# tuepp_article_id = T870715.31
+# sent_id = 694
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die " Leonie " wurde am 8. Mai geschlossen und über 1.300 Maxhütte-Arbeiter stehen ohne Sozialplan auf der Straße .
 1	Die	*	*	*	*
 2	"	*	*	*	*
 3	Leonie	*	*	*	*
@@ -5900,10 +6090,11 @@
 20	Straße	2	2	2	2
 21	.	*	*	*	*
 
-# article_id = T870724.68
-# text = Es zeigt einen Mann , der mit erhobenen Händen allein im Strahl eines oder mehrerer Wasserwerfer auf der Straße steht .
+# tuepp_article_id = T870724.68
+# sent_id = 695
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es zeigt einen Mann , der mit erhobenen Händen allein im Strahl eines oder mehrerer Wasserwerfer auf der Straße steht .
 1	Es	*	*	*	*
 2	zeigt	*	*	*	*
 3	einen	*	*	*	*
@@ -5926,10 +6117,11 @@
 20	steht	1	1	1	1
 21	.	*	*	*	*
 
-# article_id = T871223.78
-# text = Im Frühling des Jahres 1987 erreichten die Stadtoberen zwei weitere Hiobsbotschaften : Das im nahen Rühle gelegene Holzwerk " Müller " mußte nach jahrelangen Streitigkeiten unter den Besitzern Konkurs anmelden , 100 Sägewerker standen auf der Straße .
+# tuepp_article_id = T871223.78
+# sent_id = 696
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Frühling des Jahres 1987 erreichten die Stadtoberen zwei weitere Hiobsbotschaften : Das im nahen Rühle gelegene Holzwerk " Müller " mußte nach jahrelangen Streitigkeiten unter den Besitzern Konkurs anmelden , 100 Sägewerker standen auf der Straße .
 1	Im	*	*	*	*
 2	Frühling	*	*	*	*
 3	des	*	*	*	*
@@ -5969,10 +6161,11 @@
 37	Straße	2	2	2	2
 38	.	*	*	*	*
 
-# article_id = T870827.37
-# text = Der Rest steht mit " null cash in der Tasche " auf der Straße .
+# tuepp_article_id = T870827.37
+# sent_id = 697
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Rest steht mit " null cash in der Tasche " auf der Straße .
 1	Der	*	*	*	*
 2	Rest	*	*	*	*
 3	steht	2	2	2	2
@@ -5989,10 +6182,11 @@
 14	Straße	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T870813.69
-# text = Nur Wochen nachdem er von der Labour-Party als Chefredakteur des Labour- Magazins New Socialist gefeuert worden war , steht er nun zum zweiten Mal auf der Straße .
+# tuepp_article_id = T870813.69
+# sent_id = 698
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nur Wochen nachdem er von der Labour-Party als Chefredakteur des Labour- Magazins New Socialist gefeuert worden war , steht er nun zum zweiten Mal auf der Straße .
 1	Nur	*	*	*	*
 2	Wochen	*	*	*	*
 3	nachdem	*	*	*	*
@@ -6022,10 +6216,11 @@
 27	Straße	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T870326.21
-# text = Das aber hilft den Jugendlichen nicht , die noch immer auf der Straße stehen .
+# tuepp_article_id = T870326.21
+# sent_id = 699
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das aber hilft den Jugendlichen nicht , die noch immer auf der Straße stehen .
 1	Das	*	*	*	*
 2	aber	*	*	*	*
 3	hilft	*	*	*	*
@@ -6042,10 +6237,11 @@
 14	stehen	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T870304.25
-# text = Tina sagt , sie habe noch etwas im Hotelzimmer vergessen , packt eine Plastiktüte voll und steht kurz drauf mit 36 Cent und einer Tankstellenkreditkarte in der Tasche auf der Straße .
+# tuepp_article_id = T870304.25
+# sent_id = 700
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Tina sagt , sie habe noch etwas im Hotelzimmer vergessen , packt eine Plastiktüte voll und steht kurz drauf mit 36 Cent und einer Tankstellenkreditkarte in der Tasche auf der Straße .
 1	Tina	*	*	*	*
 2	sagt	*	*	*	*
 3	,	*	*	*	*
@@ -6079,10 +6275,11 @@
 31	Straße	1	3	1	1
 32	.	*	*	*	*
 
-# article_id = T871124.76
-# text = Im Januar 1987 hat sie deshalb einen Brief an den palermitanischen Bürgermeister Leoluca Orlando geschrieben und um Arbeit gebeten , " weil sonst meine Kinder auf der Straße stehen werden , und die Konsequenz daraus kennen wir alle " .
+# tuepp_article_id = T871124.76
+# sent_id = 701
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Januar 1987 hat sie deshalb einen Brief an den palermitanischen Bürgermeister Leoluca Orlando geschrieben und um Arbeit gebeten , " weil sonst meine Kinder auf der Straße stehen werden , und die Konsequenz daraus kennen wir alle " .
 1	Im	*	*	*	*
 2	Januar	*	*	*	*
 3	1987	*	*	*	*
@@ -6124,10 +6321,11 @@
 39	"	*	*	*	*
 40	.	*	*	*	*
 
-# article_id = T861212.28
-# text = Der Vertrag des Kernkraftgegners wurde 1982 nicht mehr verlängert und er stand mit seiner Hochschullehrer-Qualifikation auf der Straße .
+# tuepp_article_id = T861212.28
+# sent_id = 702
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Vertrag des Kernkraftgegners wurde 1982 nicht mehr verlängert und er stand mit seiner Hochschullehrer-Qualifikation auf der Straße .
 1	Der	*	*	*	*
 2	Vertrag	*	*	*	*
 3	des	*	*	*	*
@@ -6148,10 +6346,11 @@
 18	Straße	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T930508.242
-# text = Auf dem arbeitsmarktpolitischen Forum der Grünen forderte er gestern eine vorbeugende Arbeitsmarktpolitik , die sich nicht erst um ihre Klienten kümmert , wenn sie auf der Straße stehen .
+# tuepp_article_id = T930508.242
+# sent_id = 703
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auf dem arbeitsmarktpolitischen Forum der Grünen forderte er gestern eine vorbeugende Arbeitsmarktpolitik , die sich nicht erst um ihre Klienten kümmert , wenn sie auf der Straße stehen .
 1	Auf	*	*	*	*
 2	dem	*	*	*	*
 3	arbeitsmarktpolitischen	*	*	*	*
@@ -6182,10 +6381,11 @@
 28	stehen	2	2	2	2
 29	.	*	*	*	*
 
-# article_id = T930522.263
-# text = Daß jeder , der auf der Straße steht , mit Neid auf jemanden blickt , der Arbeit hat ?
+# tuepp_article_id = T930522.263
+# sent_id = 704
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Daß jeder , der auf der Straße steht , mit Neid auf jemanden blickt , der Arbeit hat ?
 1	Daß	*	*	*	*
 2	jeder	*	*	*	*
 3	,	*	*	*	*
@@ -6206,10 +6406,11 @@
 18	hat	*	*	*	*
 19	?	*	*	*	*
 
-# article_id = T930625.34
-# text = " Ein älterer Herr kennt das Gefühl , auf der Straße zu stehen .
+# tuepp_article_id = T930625.34
+# sent_id = 705
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Ein älterer Herr kennt das Gefühl , auf der Straße zu stehen .
 1	"	*	*	*	*
 2	Ein	*	*	*	*
 3	älterer	*	*	*	*
@@ -6225,10 +6426,11 @@
 13	stehen	2	2	2	2
 14	.	*	*	*	*
 
-# article_id = T930618.89
-# text = " Es ist schon kurios " , sagt Thomas Lettow , " jetzt haben wir 15 Stellen für angehende Bauhelfer , nur wir , die das ganze Projekt organisieren sollen , stehen auf der Straße .
+# tuepp_article_id = T930618.89
+# sent_id = 706
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Es ist schon kurios " , sagt Thomas Lettow , " jetzt haben wir 15 Stellen für angehende Bauhelfer , nur wir , die das ganze Projekt organisieren sollen , stehen auf der Straße .
 1	"	*	*	*	*
 2	Es	*	*	*	*
 3	ist	*	*	*	*
@@ -6266,10 +6468,11 @@
 35	Straße	2	2	2	2
 36	.	*	*	*	*
 
-# article_id = T930616.27
-# text = Viele Frauen stehen jedoch nach einer Scheidung auf der Straße , betteln oder prostituieren sich , um zu überleben .
+# tuepp_article_id = T930616.27
+# sent_id = 707
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Viele Frauen stehen jedoch nach einer Scheidung auf der Straße , betteln oder prostituieren sich , um zu überleben .
 1	Viele	*	*	*	*
 2	Frauen	*	*	*	*
 3	stehen	2	2	2	2
@@ -6291,10 +6494,11 @@
 19	überleben	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T930614.194
-# text = Heute stehen sie schon wieder auf der Straße und demonstrieren .
+# tuepp_article_id = T930614.194
+# sent_id = 708
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Heute stehen sie schon wieder auf der Straße und demonstrieren .
 1	Heute	*	*	*	*
 2	stehen	1	1	1	1
 3	sie	*	*	*	*
@@ -6307,10 +6511,11 @@
 10	demonstrieren	*	*	*	*
 11	.	*	*	*	*
 
-# article_id = T930611.151
-# text = Seit Monatsbeginn stehen die Initiatoren nach eigenen Angaben auf der Straße .
+# tuepp_article_id = T930611.151
+# sent_id = 709
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seit Monatsbeginn stehen die Initiatoren nach eigenen Angaben auf der Straße .
 1	Seit	*	*	*	*
 2	Monatsbeginn	*	*	*	*
 3	stehen	2	2	2	2
@@ -6324,10 +6529,11 @@
 11	Straße	2	2	2	2
 12	.	*	*	*	*
 
-# article_id = T931005.16
-# text = Auf der Straße vor dem Komplex stehen einige Panzerfahrzeuge , ihre Motoren laufen .
+# tuepp_article_id = T931005.16
+# sent_id = 710
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auf der Straße vor dem Komplex stehen einige Panzerfahrzeuge , ihre Motoren laufen .
 1	Auf	1	1	1	1
 2	der	*	*	*	*
 3	Straße	1	1	1	1
@@ -6343,10 +6549,11 @@
 13	laufen	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T931016.148
-# text = Alle , die nicht in den Stufenplan passen , stehen auf der Straße .
+# tuepp_article_id = T931016.148
+# sent_id = 711
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Alle , die nicht in den Stufenplan passen , stehen auf der Straße .
 1	Alle	*	*	*	*
 2	,	*	*	*	*
 3	die	*	*	*	*
@@ -6362,10 +6569,11 @@
 13	Straße	2	2	2	2
 14	.	*	*	*	*
 
-# article_id = T931011.89
-# text = Die Männer stehen in kleinen Grüppchen auf den Straßen rundum , die Frauen im Hauseingang und Treppenhaus .
+# tuepp_article_id = T931011.89
+# sent_id = 712
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Männer stehen in kleinen Grüppchen auf den Straßen rundum , die Frauen im Hauseingang und Treppenhaus .
 1	Die	*	*	*	*
 2	Männer	*	*	*	*
 3	stehen	1	1	1	1
@@ -6385,10 +6593,11 @@
 17	Treppenhaus	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T930907.215
-# text = Nach dem Konkursantrag der Firma transfer , die mit bremischem know-how Umschulung und Marketing-Beratung im Osten anbot , " stehen die Kursteilnehmer auf der Straße , einige sind kurz vor der Prüfung " , erklärte DAG-Vertreter Reimers .
+# tuepp_article_id = T930907.215
+# sent_id = 713
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach dem Konkursantrag der Firma transfer , die mit bremischem know-how Umschulung und Marketing-Beratung im Osten anbot , " stehen die Kursteilnehmer auf der Straße , einige sind kurz vor der Prüfung " , erklärte DAG-Vertreter Reimers .
 1	Nach	*	*	*	*
 2	dem	*	*	*	*
 3	Konkursantrag	*	*	*	*
@@ -6428,10 +6637,11 @@
 37	Reimers	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T930924.104
-# text = Entsetzlich abrupt ist der fröhliche Zug durch die Gemeinde vorüber , unvermeidlich ist die Sonne des nächsten Tages aufgegangen , verkatert und entsetzt stehst du im kleinen Schwarzen auf der Straße und frierst .
+# tuepp_article_id = T930924.104
+# sent_id = 714
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Entsetzlich abrupt ist der fröhliche Zug durch die Gemeinde vorüber , unvermeidlich ist die Sonne des nächsten Tages aufgegangen , verkatert und entsetzt stehst du im kleinen Schwarzen auf der Straße und frierst .
 1	Entsetzlich	*	*	*	*
 2	abrupt	*	*	*	*
 3	ist	*	*	*	*
@@ -6467,10 +6677,11 @@
 33	frierst	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T930917.70
-# text = Autos brennen , auf den Straßen stehen Barrikaden .
+# tuepp_article_id = T930917.70
+# sent_id = 715
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Autos brennen , auf den Straßen stehen Barrikaden .
 1	Autos	*	*	*	*
 2	brennen	*	*	*	*
 3	,	*	*	*	*
@@ -6481,10 +6692,11 @@
 8	Barrikaden	*	*	*	*
 9	.	*	*	*	*
 
-# article_id = T930908.80
-# text = Die 500 Menschen , die dann auf der Straße stehen , sind hochqualifiziert und spezialisiert - und damit kaum noch zu vermitteln .
+# tuepp_article_id = T930908.80
+# sent_id = 716
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die 500 Menschen , die dann auf der Straße stehen , sind hochqualifiziert und spezialisiert - und damit kaum noch zu vermitteln .
 1	Die	*	*	*	*
 2	500	*	*	*	*
 3	Menschen	*	*	*	*
@@ -6509,10 +6721,11 @@
 22	vermitteln	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T930104.189
-# text = Plötzlich steht auch der Klempnermeister auf der Straße .
+# tuepp_article_id = T930104.189
+# sent_id = 717
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Plötzlich steht auch der Klempnermeister auf der Straße .
 1	Plötzlich	*	*	*	*
 2	steht	2	2	2	2
 3	auch	*	*	*	*
@@ -6523,10 +6736,11 @@
 8	Straße	2	2	2	2
 9	.	*	*	*	*
 
-# article_id = T930424.134
-# text = Auf den verlassenen Straßen standen gepanzerte Wagen , Männer in Militärkleidung schliefen unter Tarnzelten .
+# tuepp_article_id = T930424.134
+# sent_id = 718
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auf den verlassenen Straßen standen gepanzerte Wagen , Männer in Militärkleidung schliefen unter Tarnzelten .
 1	Auf	1	1	1	1
 2	den	*	*	*	*
 3	verlassenen	*	*	*	*
@@ -6543,10 +6757,11 @@
 14	Tarnzelten	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T930405.69
-# text = Die Retorten lägen still , aber Zehntausende ständen arbeitslos auf der Straße .
+# tuepp_article_id = T930405.69
+# sent_id = 719
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Retorten lägen still , aber Zehntausende ständen arbeitslos auf der Straße .
 1	Die	*	*	*	*
 2	Retorten	*	*	*	*
 3	lägen	*	*	*	*
@@ -6561,10 +6776,11 @@
 12	Straße	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T930716.111
-# text = Bei der Rückfahrt durch Afghanistan , nachts , stehen plötzlich Typen mit Maschinenpistolen vor uns auf der Straße , und ich konnte nicht mehr bremsen .
+# tuepp_article_id = T930716.111
+# sent_id = 720
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Bei der Rückfahrt durch Afghanistan , nachts , stehen plötzlich Typen mit Maschinenpistolen vor uns auf der Straße , und ich konnte nicht mehr bremsen .
 1	Bei	*	*	*	*
 2	der	*	*	*	*
 3	Rückfahrt	*	*	*	*
@@ -6592,10 +6808,11 @@
 25	bremsen	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T930717.172
-# text = Auch sie stehen nun auf der Straße , wenn sie keinen betrieblichen Ausbildungsplatz finden .
+# tuepp_article_id = T930717.172
+# sent_id = 721
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch sie stehen nun auf der Straße , wenn sie keinen betrieblichen Ausbildungsplatz finden .
 1	Auch	*	*	*	*
 2	sie	*	*	*	*
 3	stehen	2	2	2	2
@@ -6612,10 +6829,11 @@
 14	finden	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T930714.140
-# text = Aber immer noch besser , als wenn sie auf der Straße stünden .
+# tuepp_article_id = T930714.140
+# sent_id = 722
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber immer noch besser , als wenn sie auf der Straße stünden .
 1	Aber	*	*	*	*
 2	immer	*	*	*	*
 3	noch	*	*	*	*
@@ -6630,10 +6848,11 @@
 12	stünden	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T930721.139
-# text = Denn " wir möchten doch auch weiterhin alle begnadeten Geiger , die auf der Straße stehen , aufnehmen können " , so oder ähnlich lauteten immer wieder die Appelle der HdK-Offiziellen an die StudentInnen , die Einsparung des bundesweit einzigartigen Studienganges hinzunehmen .
+# tuepp_article_id = T930721.139
+# sent_id = 723
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Denn " wir möchten doch auch weiterhin alle begnadeten Geiger , die auf der Straße stehen , aufnehmen können " , so oder ähnlich lauteten immer wieder die Appelle der HdK-Offiziellen an die StudentInnen , die Einsparung des bundesweit einzigartigen Studienganges hinzunehmen .
 1	Denn	*	*	*	*
 2	"	*	*	*	*
 3	wir	*	*	*	*
@@ -6678,10 +6897,11 @@
 42	hinzunehmen	*	*	*	*
 43	.	*	*	*	*
 
-# article_id = T930706.87
-# text = " Die Fahrzeuge der Stadtverwaltung müssen nachts auf der Straße stehen .
+# tuepp_article_id = T930706.87
+# sent_id = 724
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Die Fahrzeuge der Stadtverwaltung müssen nachts auf der Straße stehen .
 1	"	*	*	*	*
 2	Die	*	*	*	*
 3	Fahrzeuge	*	*	*	*
@@ -6695,10 +6915,11 @@
 11	stehen	1	1	1	1
 12	.	*	*	*	*
 
-# article_id = T931224.185
-# text = Da stand ich nun mit 53 Jahren und einem Beutel und 20 Mark im Herbst auf der Straße .
+# tuepp_article_id = T931224.185
+# sent_id = 725
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Da stand ich nun mit 53 Jahren und einem Beutel und 20 Mark im Herbst auf der Straße .
 1	Da	*	*	*	*
 2	stand	2	2	2	2
 3	ich	*	*	*	*
@@ -6719,10 +6940,11 @@
 18	Straße	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T931211.118
-# text = Die meisten werden Ende 94 sowieso auf der Straße stehen , so das nüchterne Fazit , mit diesem Streikergebnis haben sie wenigstens 90 Prozent für ihr Arbeitslosengeld .
+# tuepp_article_id = T931211.118
+# sent_id = 726
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die meisten werden Ende 94 sowieso auf der Straße stehen , so das nüchterne Fazit , mit diesem Streikergebnis haben sie wenigstens 90 Prozent für ihr Arbeitslosengeld .
 1	Die	*	*	*	*
 2	meisten	*	*	*	*
 3	werden	*	*	*	*
@@ -6752,10 +6974,11 @@
 27	Arbeitslosengeld	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T931218.288
-# text = Beate schaukelt auf der Sessellehne , dreht nervös an einer Haarsträhne : " Nee , ich hab tierische Angst vor dem Schock , daß ich nur vier Wochen kriege und bald wieder auf der Straße stehe .
+# tuepp_article_id = T931218.288
+# sent_id = 727
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Beate schaukelt auf der Sessellehne , dreht nervös an einer Haarsträhne : " Nee , ich hab tierische Angst vor dem Schock , daß ich nur vier Wochen kriege und bald wieder auf der Straße stehe .
 1	Beate	*	*	*	*
 2	schaukelt	*	*	*	*
 3	auf	*	*	*	*
@@ -6794,10 +7017,11 @@
 36	stehe	2	2	2	2
 37	.	*	*	*	*
 
-# article_id = T931215.139
-# text = Seiner Kenntnis nach stehe der Wagen auf dem Mittelstreifen der Straße des 17. Juni .
+# tuepp_article_id = T931215.139
+# sent_id = 728
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seiner Kenntnis nach stehe der Wagen auf dem Mittelstreifen der Straße des 17. Juni .
 1	Seiner	*	*	*	*
 2	Kenntnis	*	*	*	*
 3	nach	*	*	*	*
@@ -6815,10 +7039,11 @@
 15	Juni	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T931223.60
-# text = Doch was sind einige tausend zusätzliche Arbeitsplätze in diesem Bereich angesichts der Tatsache , daß bald jedeR siebte SchwedIn auf der Straße stehen wird ?
+# tuepp_article_id = T931223.60
+# sent_id = 729
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Doch was sind einige tausend zusätzliche Arbeitsplätze in diesem Bereich angesichts der Tatsache , daß bald jedeR siebte SchwedIn auf der Straße stehen wird ?
 1	Doch	*	*	*	*
 2	was	*	*	*	*
 3	sind	*	*	*	*
@@ -6845,10 +7070,11 @@
 24	wird	*	*	*	*
 25	?	*	*	*	*
 
-# article_id = T931201.152
-# text = Nach seiner Entlassung stand er ohne Arbeit und Wohnung auf der Straße .
+# tuepp_article_id = T931201.152
+# sent_id = 730
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach seiner Entlassung stand er ohne Arbeit und Wohnung auf der Straße .
 1	Nach	*	*	*	*
 2	seiner	*	*	*	*
 3	Entlassung	*	*	*	*
@@ -6863,10 +7089,11 @@
 12	Straße	2	2	2	2
 13	.	*	*	*	*
 
-# article_id = T931229.26
-# text = Schon einmal , in der Weltwirtschaftskrise der 30er Jahre , standen so viele Menschen auf der Straße .
+# tuepp_article_id = T931229.26
+# sent_id = 731
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Schon einmal , in der Weltwirtschaftskrise der 30er Jahre , standen so viele Menschen auf der Straße .
 1	Schon	*	*	*	*
 2	einmal	*	*	*	*
 3	,	*	*	*	*
@@ -6886,10 +7113,11 @@
 17	Straße	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T930802.152
-# text = " Was soll daran fundamentalistisch sein , daß wir den Jugendlichen helfen , ihr Leben besser zu gestalten , daß wir uns kümmern , damit sie nicht auf der Straße stehen " , fragen die jungen Männer aus dem Vorstand .
+# tuepp_article_id = T930802.152
+# sent_id = 732
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Was soll daran fundamentalistisch sein , daß wir den Jugendlichen helfen , ihr Leben besser zu gestalten , daß wir uns kümmern , damit sie nicht auf der Straße stehen " , fragen die jungen Männer aus dem Vorstand .
 1	"	*	*	*	*
 2	Was	*	*	*	*
 3	soll	*	*	*	*
@@ -6932,10 +7160,11 @@
 40	Vorstand	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T930821.47
-# text = Allein in den Orwo-Werken , dem ehemaligen fotochemischen Kombinat Wolfen , stehen im August wieder 2.500 Menschen auf der Straße , die bislang als ABM-Kräfte beschäftigt waren .
+# tuepp_article_id = T930821.47
+# sent_id = 733
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Allein in den Orwo-Werken , dem ehemaligen fotochemischen Kombinat Wolfen , stehen im August wieder 2.500 Menschen auf der Straße , die bislang als ABM-Kräfte beschäftigt waren .
 1	Allein	*	*	*	*
 2	in	*	*	*	*
 3	den	*	*	*	*
@@ -6965,10 +7194,11 @@
 27	waren	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T930805.243
-# text = " Nicht nur die Jugendlichen stehen auf der Straße , vielmehr auch die Ausbilder mit ihrem speziellen Know-how " , erklärte IGM-Bezirkssekretär Werner gestern in Hamburg .
+# tuepp_article_id = T930805.243
+# sent_id = 734
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Nicht nur die Jugendlichen stehen auf der Straße , vielmehr auch die Ausbilder mit ihrem speziellen Know-how " , erklärte IGM-Bezirkssekretär Werner gestern in Hamburg .
 1	"	*	*	*	*
 2	Nicht	*	*	*	*
 3	nur	*	*	*	*
@@ -6997,10 +7227,11 @@
 26	Hamburg	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T930823.143
-# text = Seit den Angriffen auf ihr einstiges Stammlokal " Alt- Findorff " vor einem Jahr stehen die etwa 20 bis 30 Jungs auf der Straße .
+# tuepp_article_id = T930823.143
+# sent_id = 735
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seit den Angriffen auf ihr einstiges Stammlokal " Alt- Findorff " vor einem Jahr stehen die etwa 20 bis 30 Jungs auf der Straße .
 1	Seit	*	*	*	*
 2	den	*	*	*	*
 3	Angriffen	*	*	*	*
@@ -7027,10 +7258,11 @@
 24	Straße	2	2	2	2
 25	.	*	*	*	*
 
-# article_id = T930316.100
-# text = Und schon stehe ich wieder draußen auf der Straße , in der Hand den Verlagsprospekt für 1993 und im Kopf so manche offene Frage .
-# context_judgement_1 = 1
+# tuepp_article_id = T930316.100
+# sent_id = 736
+# context_judgement_1 = 0
 # context_judgement_2 = 1
+# text = Und schon stehe ich wieder draußen auf der Straße , in der Hand den Verlagsprospekt für 1993 und im Kopf so manche offene Frage .
 1	Und	*	*	*	*
 2	schon	*	*	*	*
 3	stehe	1	1	1	1
@@ -7057,10 +7289,11 @@
 24	Frage	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T930326.245
-# text = Unterdessen stehen die Junkies noch mehr auf der Straße , als sie es ohnehin schon tun , und die geplagten AnwohnerInnen verlieren jede Geduld : Beim runden Tisch zur Drogenpolitik am Mittwoch haben die VertreterInnen der Anwohnerinitiative nochmals massiv für die Schließung der Drobs plädiert .
-# context_judgement_1 = 0
+# tuepp_article_id = T930326.245
+# sent_id = 737
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Unterdessen stehen die Junkies noch mehr auf der Straße , als sie es ohnehin schon tun , und die geplagten AnwohnerInnen verlieren jede Geduld : Beim runden Tisch zur Drogenpolitik am Mittwoch haben die VertreterInnen der Anwohnerinitiative nochmals massiv für die Schließung der Drobs plädiert .
 1	Unterdessen	*	*	*	*
 2	stehen	2	3	2	2
 3	die	*	*	*	*
@@ -7108,10 +7341,11 @@
 45	plädiert	*	*	*	*
 46	.	*	*	*	*
 
-# article_id = T931104.147
-# text = Seit dem ersten November steht die Familie auf der Straße , das Bezirksamt Wilmersdorf hat die Zahlungen für die Unterkunft eingestellt .
+# tuepp_article_id = T931104.147
+# sent_id = 738
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seit dem ersten November steht die Familie auf der Straße , das Bezirksamt Wilmersdorf hat die Zahlungen für die Unterkunft eingestellt .
 1	Seit	*	*	*	*
 2	dem	*	*	*	*
 3	ersten	*	*	*	*
@@ -7135,10 +7369,11 @@
 21	eingestellt	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T931106.28
-# text = Wiesbadens Westendviertel am Tag danach : Geschockt stehen Türken und Kurden auf der Straße und betrauern den Tod ihres Landsmanns / Katastrophentouristen gaffen gierig
+# tuepp_article_id = T931106.28
+# sent_id = 739
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wiesbadens Westendviertel am Tag danach : Geschockt stehen Türken und Kurden auf der Straße und betrauern den Tod ihres Landsmanns / Katastrophentouristen gaffen gierig
 1	Wiesbadens	*	*	*	*
 2	Westendviertel	*	*	*	*
 3	am	*	*	*	*
@@ -7164,10 +7399,11 @@
 23	gaffen	*	*	*	*
 24	gierig	*	*	*	*
 
-# article_id = T931112.132
-# text = Natürlich läufst du tapfer brav in deine Lage zurück und traust deinen Augen nicht : Da steht das Klavier auf der Straße , und drumherum grinsen drei Rabauken , als hätten sie dir eins ausgewischt .
+# tuepp_article_id = T931112.132
+# sent_id = 740
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Natürlich läufst du tapfer brav in deine Lage zurück und traust deinen Augen nicht : Da steht das Klavier auf der Straße , und drumherum grinsen drei Rabauken , als hätten sie dir eins ausgewischt .
 1	Natürlich	*	*	*	*
 2	läufst	*	*	*	*
 3	du	*	*	*	*
@@ -7205,10 +7441,11 @@
 35	ausgewischt	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T930215.152
-# text = Da die MitarbeiterInnen der " Forschungsstelle zur Geschichte der Sexualwissenschaft " aber ab heute auf der Straße stehen , müssen sie sich fragen , ob die Unfähigkeit nicht eine aktuelle Modekrankheit in den Behörden ist .
+# tuepp_article_id = T930215.152
+# sent_id = 741
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Da die MitarbeiterInnen der " Forschungsstelle zur Geschichte der Sexualwissenschaft " aber ab heute auf der Straße stehen , müssen sie sich fragen , ob die Unfähigkeit nicht eine aktuelle Modekrankheit in den Behörden ist .
 1	Da	*	*	*	*
 2	die	*	*	*	*
 3	MitarbeiterInnen	*	*	*	*
@@ -7246,10 +7483,11 @@
 35	ist	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T930212.51
-# text = In Burgund werden also in Kürze 600 bis 700 ArbeiterInnen auf der Straße stehen .
+# tuepp_article_id = T930212.51
+# sent_id = 742
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = In Burgund werden also in Kürze 600 bis 700 ArbeiterInnen auf der Straße stehen .
 1	In	*	*	*	*
 2	Burgund	*	*	*	*
 3	werden	*	*	*	*
@@ -7266,10 +7504,11 @@
 14	stehen	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T930224.153
-# text = " Wenn das Projekt nicht genehmigt wird , stehe ich auf der Straße " , fürchtet die 31jährige .
+# tuepp_article_id = T930224.153
+# sent_id = 743
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wenn das Projekt nicht genehmigt wird , stehe ich auf der Straße " , fürchtet die 31jährige .
 1	"	*	*	*	*
 2	Wenn	*	*	*	*
 3	das	*	*	*	*
@@ -7290,10 +7529,11 @@
 18	31jährige	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T930224.213
-# text = Vom einen auf den anderen Tag mußten zwei Anleiter gehen , die zwölf KFZ-Helfer werden ab Montag auf der Straße stehen .
+# tuepp_article_id = T930224.213
+# sent_id = 744
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vom einen auf den anderen Tag mußten zwei Anleiter gehen , die zwölf KFZ-Helfer werden ab Montag auf der Straße stehen .
 1	Vom	*	*	*	*
 2	einen	*	*	*	*
 3	auf	*	*	*	*
@@ -7317,10 +7557,11 @@
 21	stehen	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T930202.92
-# text = Das einsam und verlassen auf offener Straße stehende Gefäß hatte den Argwohn eines Passanten erregt , der sogleich die Polizei alarmierte .
+# tuepp_article_id = T930202.92
+# sent_id = 745
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das einsam und verlassen auf offener Straße stehende Gefäß hatte den Argwohn eines Passanten erregt , der sogleich die Polizei alarmierte .
 1	Das	*	*	*	*
 2	einsam	*	*	*	*
 3	und	*	*	*	*
@@ -7344,10 +7585,11 @@
 21	alarmierte	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T930217.79
-# text = " Wer weiß , ob die Schotten nicht bereits in zwei Jahren , wenn ihre Verträge auslaufen , ebenfalls auf der Straße stehen .
+# tuepp_article_id = T930217.79
+# sent_id = 746
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Wer weiß , ob die Schotten nicht bereits in zwei Jahren , wenn ihre Verträge auslaufen , ebenfalls auf der Straße stehen .
 1	"	*	*	*	*
 2	Wer	*	*	*	*
 3	weiß	*	*	*	*
@@ -7373,10 +7615,11 @@
 23	stehen	2	2	2	2
 24	.	*	*	*	*
 
-# article_id = T960511.295
-# text = Eine Frechheit sei es , daß nur noch Polen und Russen eingestellt werden und Deutsche auf der Straße stehen .
+# tuepp_article_id = T960511.295
+# sent_id = 747
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Eine Frechheit sei es , daß nur noch Polen und Russen eingestellt werden und Deutsche auf der Straße stehen .
 1	Eine	*	*	*	*
 2	Frechheit	*	*	*	*
 3	sei	*	*	*	*
@@ -7398,10 +7641,11 @@
 19	stehen	2	2	2	2
 20	.	*	*	*	*
 
-# article_id = T960504.280
-# text = Auch Bohnenkamp kennt Auffanglösungen auch im Westen : Als die DASA 1995 ihr Werk in Wedel dichtmachte , standen 236 Mitarbeiter auf der Straße .
+# tuepp_article_id = T960504.280
+# sent_id = 748
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch Bohnenkamp kennt Auffanglösungen auch im Westen : Als die DASA 1995 ihr Werk in Wedel dichtmachte , standen 236 Mitarbeiter auf der Straße .
 1	Auch	*	*	*	*
 2	Bohnenkamp	*	*	*	*
 3	kennt	*	*	*	*
@@ -7428,10 +7672,11 @@
 24	Straße	2	2	2	2
 25	.	*	*	*	*
 
-# article_id = T960521.61
-# text = Zugleich stehen gut 350.000 Bauarbeiter aus Deutschland auf der Straße .
+# tuepp_article_id = T960521.61
+# sent_id = 749
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zugleich stehen gut 350.000 Bauarbeiter aus Deutschland auf der Straße .
 1	Zugleich	*	*	*	*
 2	stehen	2	2	2	2
 3	gut	*	*	*	*
@@ -7444,10 +7689,11 @@
 10	Straße	2	2	2	2
 11	.	*	*	*	*
 
-# article_id = T960503.303
-# text = Außerdem stehen die Arbeitnehmer auf der Straße , wenn Teile des Unternehmens verkauft werden .
+# tuepp_article_id = T960503.303
+# sent_id = 750
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Außerdem stehen die Arbeitnehmer auf der Straße , wenn Teile des Unternehmens verkauft werden .
 1	Außerdem	*	*	*	*
 2	stehen	2	2	2	2
 3	die	*	*	*	*
@@ -7464,10 +7710,11 @@
 14	werden	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T960618.132
-# text = Die Currywürste hingen wie Lichterketten rund um das Brandenburger Tor , von weitem schon konnte man eine Dixielandband blasen hören , und auf der Straße des 17. Juni standen Büdchenchenbesitzer und wedelten mit silbernen Tüchern .
+# tuepp_article_id = T960618.132
+# sent_id = 751
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Currywürste hingen wie Lichterketten rund um das Brandenburger Tor , von weitem schon konnte man eine Dixielandband blasen hören , und auf der Straße des 17. Juni standen Büdchenchenbesitzer und wedelten mit silbernen Tüchern .
 1	Die	*	*	*	*
 2	Currywürste	*	*	*	*
 3	hingen	*	*	*	*
@@ -7506,10 +7753,11 @@
 36	Tüchern	*	*	*	*
 37	.	*	*	*	*
 
-# article_id = T960618.195
-# text = Seit Anfang Juni stehen sie auf der Straße .
+# tuepp_article_id = T960618.195
+# sent_id = 752
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seit Anfang Juni stehen sie auf der Straße .
 1	Seit	*	*	*	*
 2	Anfang	*	*	*	*
 3	Juni	*	*	*	*
@@ -7520,10 +7768,11 @@
 8	Straße	2	2	2	2
 9	.	*	*	*	*
 
-# article_id = T960628.154
-# text = Ich empfand es so , als ob ich eine Frau gewesen wäre , die auf ihrem Balkon steht , und unten auf der Straße steht ihr Verehrer und spielt ihr ein Lied auf der Trompete .
-# context_judgement_1 = 0
+# tuepp_article_id = T960628.154
+# sent_id = 753
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Ich empfand es so , als ob ich eine Frau gewesen wäre , die auf ihrem Balkon steht , und unten auf der Straße steht ihr Verehrer und spielt ihr ein Lied auf der Trompete .
 1	Ich	*	*	*	*
 2	empfand	*	*	*	*
 3	es	*	*	*	*
@@ -7561,10 +7810,11 @@
 35	Trompete	*	*	*	*
 36	.	*	*	*	*
 
-# article_id = T960106.131
-# text = Überwiegend Ausländerinnen stehen auf der Straße und locken die Kunden in die Clubs .
+# tuepp_article_id = T960106.131
+# sent_id = 754
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Überwiegend Ausländerinnen stehen auf der Straße und locken die Kunden in die Clubs .
 1	Überwiegend	*	*	*	*
 2	Ausländerinnen	*	*	*	*
 3	stehen	1	1	1	1

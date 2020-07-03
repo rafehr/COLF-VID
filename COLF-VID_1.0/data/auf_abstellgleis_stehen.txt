@@ -1,4 +1,5 @@
-# article_id = T890306.127
+# tuepp_article_id = T890306.127
+# sent_id = 369
 # text = Auch das Sportpalast-Projekt stünde bei einem SPD/AL-Bündnis nicht auf dem Abstellgleis .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -15,7 +16,8 @@
 11	Abstellgleis	Abstellgleis	NN	2	2	2	2
 12	.	.	$.	*	*	*	*
 
-# article_id = T900709.184
+# tuepp_article_id = T900709.184
+# sent_id = 370
 # text = Sieben Waggons mit chemischen Abfällen , die offenbar seit Jahren auf einem Abstellgleis des Bahnhofs von Wriezen im Bezirk Frankfurt / Oder stehen , sollen nach alarmierenden Zeitungsberichten nun schnellstmöglich entsorgt werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -53,7 +55,8 @@
 32	werden	werden	VAINF	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T901128.178
+# tuepp_article_id = T901128.178
+# sent_id = 371
 # text = Viele Güterzüge werden zunächst aber auf den Abstellgleisen stehen bleiben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -69,7 +72,8 @@
 10	bleiben	bleiben	VVINF	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T920526.41
+# tuepp_article_id = T920526.41
+# sent_id = 372
 # text = Schon heute steht die Bahn als Anschlußtransportmittel auf dem Abstellgleis , während Laster die hafennahen Straßen verstopfen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -92,7 +96,8 @@
 17	verstopfen	verstopfen	VVINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T920504.24
+# tuepp_article_id = T920504.24
+# sent_id = 373
 # text = Gestern waren noch ganze sieben Züge der insgesamt 57 ICEs einsatzfähig , der Rest stand auf die ganze Republik verteilt fahruntüchtig auf Abstellgleisen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -121,7 +126,8 @@
 23	Abstellgleisen	Abstellgleis	NN	1	1	1	1
 24	.	.	$.	*	*	*	*
 
-# article_id = T920509.29
+# tuepp_article_id = T920509.29
+# sent_id = 374
 # text = Neben der langgestreckten grauen Waschhalle des hannoverschen Straßenbahnbetriebshofes Glocksee stehen um 12.15 Uhr noch immer fast vierzig Stadtbahndoppelzüge auf den Abstellgleisen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -148,9 +154,10 @@
 21	Abstellgleisen	Abstellgleis	NN	1	1	1	1
 22	.	.	$.	*	*	*	*
 
-# article_id = T921208.169
+# tuepp_article_id = T921208.169
+# sent_id = 375
 # text = Der Ausstiegszug stände auf dem Abstellgleis .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Der	die	ART	*	*	*	*
 2	Ausstiegszug	<unknown>	NN	*	*	*	*
@@ -160,7 +167,8 @@
 6	Abstellgleis	Abstellgleis	NN	2	2	2	2
 7	.	.	$.	*	*	*	*
 
-# article_id = T920222.116
+# tuepp_article_id = T920222.116
+# sent_id = 376
 # text = Über Nacht steht der SUGAR auf einem Abstellgleis neben der eingleisigen Hauptstrecke .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -178,7 +186,8 @@
 12	Hauptstrecke	Hauptstrecke	NN	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T880411.24
+# tuepp_article_id = T880411.24
+# sent_id = 377
 # text = Ein Zug steht auf einem Abstellgleis : Im letzten Waggon sind die Frauen versammelt und versuchen ebenso eifrig wie mühsam , in den Speisewagen vorzudringen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -209,7 +218,8 @@
 25	vorzudringen	vordringen	VVIZU	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T861209.26
+# tuepp_article_id = T861209.26
+# sent_id = 378
 # text = Rosenheim ( dpa ) - Ein Teil des radioaktiv verseuchten Molkepulvers , das seit Mitte des Jahres in Güterwaggons auf einem Abstellgleis des Rosenheimer Bahnhofs steht , darf nun doch verkauft werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -247,9 +257,10 @@
 32	werden	werden	VAINF	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T930102.72
+# tuepp_article_id = T930102.72
+# sent_id = 379
 # text = 200 Manager rasen von Hamburg nach Frankfurt im Intercity Express , 2.000 Pendler bleiben zwischen Hanau und Frankfurt auf dem Abstellgleis stehen , damit die Manager einige Minuten schneller sind .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	200	@card@	CARD	*	*	*	*
 2	Manager	Manager	NN	*	*	*	*
@@ -283,7 +294,8 @@
 30	sind	sein	VAFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T930325.153
+# tuepp_article_id = T930325.153
+# sent_id = 380
 # text = Zehn Züge der U-Bahn- Linie 7 , die ansonsten zwischen Rudow und Spandau verkehren , stehen auf dem Abstellgleis .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -308,7 +320,8 @@
 19	Abstellgleis	Abstellgleis	NN	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T960506.116
+# tuepp_article_id = T960506.116
+# sent_id = 381
 # text = Vor allem die sozialistisch regierten Autonomien wie Andalusien , Castilla de la Mancha und Extramadurien wollen jetzt nicht länger zusehen , wie die Nationalisten Stück für Stück mehr Kompetenzen erhalten , während sie auf dem Abstellgleis stehen und nur dann mehr Rechte bekommen , wenn diese in den Verhandlungen mit den Nationalisten mit abfallen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -368,7 +381,8 @@
 54	abfallen	abfallen	VVINF	*	*	*	*
 55	.	.	$.	*	*	*	*
 
-# article_id = T960502.200
+# tuepp_article_id = T960502.200
+# sent_id = 382
 # text = [ ... ] Manuel betreibt das Geschäft der Betreiber : Wir stehen weder in der medizinischen Gentechnik auf dem Abstellgleis , noch verpassen wir eine " Enzymdebatte " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -402,7 +416,8 @@
 28	"	"	$(	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T960605.138
+# tuepp_article_id = T960605.138
+# sent_id = 383
 # text = Man antwortete , für das verfaulte Fleisch , das hier in 15 oder 20 Waggons auf dem Abstellgleis stand .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -427,7 +442,8 @@
 19	stand	stehen	VVFIN	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T961026.242
+# tuepp_article_id = T961026.242
+# sent_id = 384
 # text = Das grüne Image der Stadt steht nach Meinung des Bundes Deutscher Landschaftsarchitekten ( BDLA ) " auf dem Abstellgleis " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -453,7 +469,8 @@
 20	"	"	$(	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T960425.102
+# tuepp_article_id = T960425.102
+# sent_id = 385
 # text = Wir Grünen stehen nicht nur in der medizinischen Gentechnik auf dem Abstellgleis .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -471,9 +488,10 @@
 12	Abstellgleis	Abstellgleis	NN	2	2	2	2
 13	.	.	$.	*	*	*	*
 
-# article_id = T960314.236
+# tuepp_article_id = T960314.236
+# sent_id = 386
 # text = Die ehemals Ostberliner U- Bahnen mit dem Kosenamen " Gisela " stehen nämlich seit der Vereinigung auf dem Abstellgleis .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	ehemals	ehemals	ADV	*	*	*	*
@@ -496,7 +514,8 @@
 19	Abstellgleis	Abstellgleis	NN	2	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T960309.51
+# tuepp_article_id = T960309.51
+# sent_id = 387
 # text = Auch die Koordinatorin und die vier Sozialarbeiter , die den Betreuern in Rollenspielen zeigen , wie sie auf Fahrgäste zugehen sollen , standen lange Zeit auf dem sozialen Abstellgleis .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -531,7 +550,8 @@
 29	Abstellgleis	Abstellgleis	NN	2	2	2	2
 30	.	.	$.	*	*	*	*
 
-# article_id = T961116.121
+# tuepp_article_id = T961116.121
+# sent_id = 388
 # text = Unser Zug steht außer Sichtweite , auf einem Abstellgleis , umgeben von zehn dunkelgrünen Loks .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -552,9 +572,10 @@
 15	Loks	Lok	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T980831.251
+# tuepp_article_id = T980831.251
+# sent_id = 389
 # text = Nach den neunzig Minuten im Emslandstadion wären die Anhänger der Braun-Weißen froh gewesen , wenn sie auf dem Abstellgleis stehen geblieben wären .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Nach	nach	APPR	*	*	*	*
 2	den	die	ART	*	*	*	*
@@ -580,7 +601,8 @@
 22	wären	sein	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T970626.45
+# tuepp_article_id = T970626.45
+# sent_id = 390
 # text = Tritt Rau , der gestern abend sein 20jähriges Jubiläum in dieser Funktion feierte , erneut an , stünde Clement vorläufig auf dem Abstellgleis .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -609,7 +631,8 @@
 23	Abstellgleis	Abstellgleis	NN	2	2	2	2
 24	.	.	$.	*	*	*	*
 
-# article_id = T970929.108
+# tuepp_article_id = T970929.108
+# sent_id = 391
 # text = Wird Kohl Yilmaz nur wiederholen , was Kinkel seinem Amtskollegen Cem kürzlich in Bonn gesagt hat , nämlich daß die Türkei " keineswegs auf dem Abstellgleis " stehe , aber erst einmal " ihre Hausaufgaben machen " müsse , um an die EU-Tür zu klopfen ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -660,7 +683,8 @@
 45	klopfen	klopfen	VVINF	*	*	*	*
 46	?	?	$.	*	*	*	*
 
-# article_id = T971119.279
+# tuepp_article_id = T971119.279
+# sent_id = 392
 # text = Zehn davon stehen auf dem Abstellgleis .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -672,9 +696,10 @@
 6	Abstellgleis	Abstellgleis	NN	1	1	1	1
 7	.	.	$.	*	*	*	*
 
-# article_id = T940718.69
+# tuepp_article_id = T940718.69
+# sent_id = 393
 # text = Der Zug mit den Pestiziden steht auf einem Abstellgleis des Bahnhofs .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Der	die	ART	*	*	*	*
 2	Zug	Zug	NN	*	*	*	*
@@ -689,7 +714,8 @@
 11	Bahnhofs	Bahnhof	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
 
-# article_id = T940317.205
+# tuepp_article_id = T940317.205
+# sent_id = 394
 # text = Schulalltag in Bremen : Das Dach ist undicht , es regnet in die Klassenräume hinein , die Fenster schließen nicht und der Schimmel blüht an den Wänden - doch gleichzeitig steht derzeit eine Summe von über 10 Millionen Mark für Sanierungs- und Instandsetzungsmaßnahmen auf dem Abstellgleis - vom Senat bewilligt , aber vom schwerfälligen Behördenapparat nicht rechtzeitig ausgegeben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0

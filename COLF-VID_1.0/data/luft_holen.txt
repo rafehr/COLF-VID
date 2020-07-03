@@ -1,4 +1,5 @@
-# article_id = T891002.20
+# tuepp_article_id = T891002.20
+# sent_id = 4318
 # text = Während Genscher sich hinsichtlich der hierzulande üblichen Reformforderungen gegenüber dem Nachbarn etwas zurückhielt , holte die Union nicht mal Luft nach dem Zugeständnis der DDR .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -29,7 +30,8 @@
 25	DDR	DDR	NE	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T890923.177
+# tuepp_article_id = T890923.177
+# sent_id = 4319
 # text = " Erstmal tief Luft holen " wollte die AL-Fraktionsvorsitzende Heidi Bischoff-Pflanz , als sie von den gemeinsamen Nacharbeiten von Ausländerbehörde und Innenverwaltung zur Flüchtlingsweisung erfuhr .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -60,7 +62,8 @@
 25	erfuhr	erfahren	VVFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T890718.256
+# tuepp_article_id = T890718.256
+# sent_id = 4320
 # text = Da saß man nicht gespannt auf der Stuhlkante , man mußte nicht nach virtousen und abenteuerlichen Solo - Exkursionen selber erstmal tief Luft holen , und man war am Ende des Konzerts auch nicht mit grandiosen Eindrücken vollgestopft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -104,7 +107,8 @@
 38	vollgestopft	vollstopfen	VVPP	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T890309.118
+# tuepp_article_id = T890309.118
+# sent_id = 4321
 # text = Ich kann ihren Stil nicht ertragen , es verursacht bei mir Beklommenheit , wenn ich diese Sprache lese , dieser Stil ist weder informativ noch aufklärend , er ist ätzend , weil so primitiv , die Schlagwörter kennen wir doch alle aus Tausenden von Flugblättern die immer wieder auf Demos verteilt wurden , mensch nimmt es entgegen , wirft einen Blick darauf , holt tief Luft , seufzt , zerknäult das Flugblatt und sucht den nächsten Papierkorb .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -187,7 +191,8 @@
 77	Papierkorb	Papierkorb	NN	*	*	*	*
 78	.	.	$.	*	*	*	*
 
-# article_id = T890313.117
+# tuepp_article_id = T890313.117
+# sent_id = 4322
 # text = Wenn , so Fetzer , " nach einem Gewitterregen allein zwölf Tonnen Hundekot in die Regenwasserkanalisation gespült würden , dann könne so mancher Berliner See kaum noch Luft holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -222,9 +227,10 @@
 29	holen	holen	VVINF	2	2	2	2
 30	.	.	$.	*	*	*	*
 
-# article_id = T890323.93
+# tuepp_article_id = T890323.93
+# sent_id = 4323
 # text = Das Stück ist eigentlich schon fertig , aber unglücklicherweise holt Noren noch einmal Luft .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Das	die	ART	*	*	*	*
 2	Stück	Stück	NN	*	*	*	*
@@ -242,7 +248,8 @@
 14	Luft	Luft	NN	2	1	1	1
 15	.	.	$.	*	*	*	*
 
-# article_id = T891113.46
+# tuepp_article_id = T891113.46
+# sent_id = 4324
 # text = Irgendwann jedoch muß wieder ein Stück Normalität einziehen , muß die Stadt wieder Luft holen können , damit die jetzt noch euphorische Feiertagsstimmung nicht in ein explosives Gemisch umschlägt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -277,7 +284,8 @@
 29	umschlägt	umschlagen	VVFIN	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T890211.162
+# tuepp_article_id = T890211.162
+# sent_id = 4325
 # text = Dann holt der Ordnungshüter Luft , reißt eine halbvoll beschriebene Liste vom ihm entgegengehaltenen Block herunter und zerknüllt das Blatt mit beiden Händen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -306,7 +314,8 @@
 23	Händen	Hand	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T910506.97
+# tuepp_article_id = T910506.97
+# sent_id = 4326
 # text = Rechts neben mir holte jemand ganz tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -320,7 +329,8 @@
 8	Luft	Luft	NN	1	1	1	1
 9	.	.	$.	*	*	*	*
 
-# article_id = T911211.223
+# tuepp_article_id = T911211.223
+# sent_id = 4327
 # text = Wir müssen jetzt erstmal Luft holen , und dann geht 's weiter .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -338,7 +348,8 @@
 12	weiter	weiter	PTKVZ	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T911223.128
+# tuepp_article_id = T911223.128
+# sent_id = 4328
 # text = Schien immer an der falschen Stelle Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -353,7 +364,8 @@
 9	holen	holen	VVINF	1	1	1	1
 10	.	.	$.	*	*	*	*
 
-# article_id = T911116.223
+# tuepp_article_id = T911116.223
+# sent_id = 4329
 # text = Sie steckte die Hände tiefer in die Taschen , hob die Schultern und holte tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -375,7 +387,8 @@
 16	Luft	Luft	NN	1	1	1	1
 17	.	.	$.	*	*	*	*
 
-# article_id = T911111.90
+# tuepp_article_id = T911111.90
+# sent_id = 4330
 # text = Er holte einmal tief Luft und murmelte zunächst vor sich hin , daß es gar nicht so einfach sei , nach solch einem Spiel etwas zu sagen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -408,7 +421,8 @@
 27	sagen	sagen	VVINF	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T911127.74
+# tuepp_article_id = T911127.74
+# sent_id = 4331
 # text = Der Professor , kettenrauchend , holt kaum Luft beim Sprechen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -424,9 +438,10 @@
 10	Sprechen	Sprechen	NN	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T910211.199
+# tuepp_article_id = T910211.199
+# sent_id = 4332
 # text = Man hat aber nur Luft geholt , um zum metropolitanen Aufbruch 91 zu blasen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Man	man	PIS	*	*	*	*
 2	hat	haben	VAFIN	*	*	*	*
@@ -444,9 +459,10 @@
 14	blasen	blasen	VVINF	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T910204.182
+# tuepp_article_id = T910204.182
+# sent_id = 4333
 # text = Küchentür auf , einmal tief Luft holen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Küchentür	Küchentür	NN	*	*	*	*
 2	auf	auf	PTKVZ	*	*	*	*
@@ -457,7 +473,8 @@
 7	holen	holen	VVINF	1	1	1	1
 8	.	.	$.	*	*	*	*
 
-# article_id = T900512.261
+# tuepp_article_id = T900512.261
+# sent_id = 4334
 # text = Wer stoppen will , wie lange er einen Ton klingen läßt , ohne Luft zu holen , der muß vorher bis zu 98 DM aus der Tasche ziehen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -491,7 +508,8 @@
 28	ziehen	ziehen	VVINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T900602.46
+# tuepp_article_id = T900602.46
+# sent_id = 4335
 # text = Teilweise sei der aufgewirbelte Staub so dicht gewesen , daß sie rausgehen mußten , um etwas Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -516,7 +534,8 @@
 19	holen	holen	VVINF	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T900611.134
+# tuepp_article_id = T900611.134
+# sent_id = 4336
 # text = Und da hieb nun , nach unendlich vielen Fehlversuchen und nach einem eindeutig zu Unrecht verweigerten Elfmeter Schillaci mit seinem insularen Dickschädel dem österreichischen Tormann ein solches Tor ins Netz , daß selbst die Reporter erstmal Luft holten und es gar nicht glauben wollten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -566,9 +585,10 @@
 44	wollten	wollen	VMFIN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
-# article_id = T901026.142
+# tuepp_article_id = T901026.142
+# sent_id = 4337
 # text = " In die Realitäten einzutauchen ist ein ebenso riskantes Unterfangen wie das Betreten eines Minenfeldes : das Subjekt dieser Geschichte dringt ins Universum der ungeregelten Modernität gewissermaßen auf Zehenspitzen ein , hält nach jedem Schritt an , um Luft zu holen , blickt zurück , als wolle er sich von der Welt verabschieden , und addiert im Geiste die Symptome des absurden und schon sehr nahen Endes .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
 2	In	in	APPR	*	*	*	*
@@ -639,7 +659,8 @@
 67	Endes	Ende	NN	*	*	*	*
 68	.	.	$.	*	*	*	*
 
-# article_id = T901013.159
+# tuepp_article_id = T901013.159
+# sent_id = 4338
 # text = » Hör mal « , sagt er , holt kurz und energisch Luft , läßt sich hinter einen Schreibtisch voller Papierstapel und Aktenordner fallen und verpaßt sich einen seriösen Gesichtsausdruck wie J. R. Ewing , der gerade Cliff Barnes eine stillgelegte Ölquelle als Millionengeschäft andrehen will .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -691,7 +712,8 @@
 46	will	wollen	VMFIN	*	*	*	*
 47	.	.	$.	*	*	*	*
 
-# article_id = T900912.172
+# tuepp_article_id = T900912.172
+# sent_id = 4339
 # text = Das Problem dieser Stoffe : Irgendwann weiß niemand mehr , wo sie wirken und wen sie beeinflussen ; Luft holen und trinken müssen alle .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -721,7 +743,8 @@
 24	alle	alle	PIAT	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T900428.38
+# tuepp_article_id = T900428.38
+# sent_id = 4340
 # text = Es nützt ja nichts : eines Tages , wenn sie wieder Luft holen können , wenn mal eine Besuchspause ist , dann werden die Freunde aus Rostock , Leipzig oder Dresden sowieso danach fragen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -761,7 +784,8 @@
 34	fragen	fragen	VVINF	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T900725.127
+# tuepp_article_id = T900725.127
+# sent_id = 4341
 # text = Die Bauwirtschaft in Ost und West kann derzeit nochmal tief Luft holen : Weder kam es östlich der Elbe zu dem erwarteten Einbruch westlicher Planierraupen , noch bestätigte sich die Angst der Westberliner Bauunternehmer aufgrund des geringen Lohnniveaus " vom Osten überrannt zu werden " , wie der persönliche Referent des Bausenators im Westteil Berlins , Zipser , formulierte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -826,7 +850,8 @@
 59	formulierte	formulieren	VVFIN	*	*	*	*
 60	.	.	$.	*	*	*	*
 
-# article_id = T900707.109
+# tuepp_article_id = T900707.109
+# sent_id = 4342
 # text = " Uns bleibt kaum Zeit zum Luft holen " , klagt die stellvertretende SPD-Vorsitzende Angelika Barbe .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -848,7 +873,8 @@
 16	Barbe	<unknown>	NN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T900808.101
+# tuepp_article_id = T900808.101
+# sent_id = 4343
 # text = Die SPD kann erst mal Luft holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -861,7 +887,8 @@
 7	holen	holen	VVINF	2	2	2	2
 8	.	.	$.	*	*	*	*
 
-# article_id = T900302.237
+# tuepp_article_id = T900302.237
+# sent_id = 4344
 # text = - Die beste psychische Vorbereitung besteht darin , mehrmals hintereinander tief Luft zu holen und seufzerartig wieder auszustoßen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -885,7 +912,8 @@
 18	auszustoßen	ausstoßen	VVIZU	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T900316.401
+# tuepp_article_id = T900316.401
+# sent_id = 4345
 # text = Wann sie beim Reden Luft holt , bleibt ihr Geheimnis .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -901,7 +929,8 @@
 10	Geheimnis	Geheimnis	NN	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T901109.286
+# tuepp_article_id = T901109.286
+# sent_id = 4346
 # text = Die sieben AK-Drogen-MitarbeiterInnen holten sofort die Junkies aus den Betten , brachten sie nach draußen , holten tief Luft und gingen zurück in die verqualmten Säle , wo man zuletzt die Hand vor Augen nicht mehr sah .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -944,7 +973,8 @@
 37	sah	sehen	VVFIN	*	*	*	*
 38	.	.	$.	*	*	*	*
 
-# article_id = T900224.195
+# tuepp_article_id = T900224.195
+# sent_id = 4347
 # text = Dann muß Hermann Luft holen , und ich kann einhaken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -960,7 +990,8 @@
 10	einhaken	einhaken	VVINF	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T921016.169
+# tuepp_article_id = T921016.169
+# sent_id = 4348
 # text = Die Verwaltungsjuristen in den Immatrikulationsämtern holen tief Luft , bevor sie die Materie erläutern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -980,7 +1011,8 @@
 14	erläutern	erläutern	VVINF	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T920917.98
+# tuepp_article_id = T920917.98
+# sent_id = 4349
 # text = Die Bremer wollten erst gar keine falschen Töne aufkommen lassen , und auch die 96er aus Hannover hatten beim 1:2 über Bochum im DFB- Pokal am Wochenende für diese Partie noch einmal kräftig Luft geholt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1021,7 +1053,8 @@
 35	geholt	holen	VVPP	2	2	2	2
 36	.	.	$.	*	*	*	*
 
-# article_id = T920912.203
+# tuepp_article_id = T920912.203
+# sent_id = 4350
 # text = « Er holte tief Luft und fügte hinzu : » Zu allem bereit , aber zu nix zu gebrauchen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1046,7 +1079,8 @@
 19	gebrauchen	gebrauchen	VVINF	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T920103.135
+# tuepp_article_id = T920103.135
+# sent_id = 4351
 # text = Zwei Tage hab ich dafür gebraucht : ich ging bis zur Brust ins Wasser , holte tief Luft , hielt mir die Nase zu und steckte den Kopf unter Wasser .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1082,7 +1116,8 @@
 30	Wasser	Wasser	NN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T920429.199
+# tuepp_article_id = T920429.199
+# sent_id = 4352
 # text = Und da muß man schon tief Luft holen : » 5. Werkstatt-Ausstellung der Hochschule der Künste , Fachbereich 2 - Architektur - Die akademische Forschung zu Baukunst , Baustoffen , Bautechnik , Wohnungswesen , Städtebau und Raumordnung vor 1945 ... die Versuche Hans Scharoun's , sie wieder aufzunehmen ... und die Vergegenwärtigung der Bauakademie von Schinkel , die 1962 abgetragen wurde .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1151,7 +1186,8 @@
 63	wurde	werden	VAFIN	*	*	*	*
 64	.	.	$.	*	*	*	*
 
-# article_id = T920725.273
+# tuepp_article_id = T920725.273
+# sent_id = 4353
 # text = " keuchte ich , kaum in der Lage , für die drei Worte genug Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1174,7 +1210,8 @@
 17	holen	holen	VVINF	1	1	1	1
 18	.	.	$.	*	*	*	*
 
-# article_id = T920817.141
+# tuepp_article_id = T920817.141
+# sent_id = 4354
 # text = Dan holt tief Luft und betritt das Maifeld .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1188,7 +1225,8 @@
 8	Maifeld	Maifeld	NN	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T920827.39
+# tuepp_article_id = T920827.39
+# sent_id = 4355
 # text = Die gebürtige Rostockerin schluckt , lächelt schief und holt tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1205,7 +1243,8 @@
 11	Luft	Luft	NN	1	1	1	1
 12	.	.	$.	*	*	*	*
 
-# article_id = T920311.127
+# tuepp_article_id = T920311.127
+# sent_id = 4356
 # text = Er im Spenser , sie im kleinen Schwarzen halten sich aneinander fest , als gelte es , sich gegenseitig Mut zu machen - tief Luft holen , weit ausschreiten , loslegen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1242,7 +1281,8 @@
 31	loslegen	loslegen	VVINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T921106.84
+# tuepp_article_id = T921106.84
+# sent_id = 4357
 # text = Bevor der Mann auch noch ausgebürgert oder zur Rehabilitation in einen Kibbutz geschickt wird , sollten wir einen Moment lang innehalten , Luft holen und nachdenken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1274,7 +1314,8 @@
 26	nachdenken	nachdenken	VVFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T920226.77
+# tuepp_article_id = T920226.77
+# sent_id = 4358
 # text = Alle Beteiligten mußten zwar erst einmal tief Luft holen , ob in Ost oder West .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1295,7 +1336,8 @@
 15	West	West	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T920201.130
+# tuepp_article_id = T920201.130
+# sent_id = 4359
 # text = « Endlich holte er Luft .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -1306,7 +1348,8 @@
 5	Luft	Luft	NN	1	2	2	2
 6	.	.	$.	*	*	*	*
 
-# article_id = T920215.205
+# tuepp_article_id = T920215.205
+# sent_id = 4360
 # text = Artur streckte die Hände tief in die Hosentaschen , fixierte den Vogel , holte Luft und schrie ihn an : » Pucki , Pucki , Pucki , Puckiii ! !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1341,7 +1384,8 @@
 29	!	!	$.	*	*	*	*
 30	!	!	$.	*	*	*	*
 
-# article_id = T880603.26
+# tuepp_article_id = T880603.26
+# sent_id = 4361
 # text = Von Zeit zu Zeit kommen einige Angehörige der Verschütteten hinaus ins Freie , um aufeinander gestützt wenigstens ein paar Schritte zu tun und Luft zu holen , doch dann prasselt sofort ein Blitzlichtgewitter auf sie nieder , ausgelöst von den dicht gedrängt stehenden Fotografen , die darauf bedacht sind , jede Gemütsregung auf den Gesichtern festzuhalten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1403,15 +1447,17 @@
 56	festzuhalten	festhalten	VVIZU	*	*	*	*
 57	.	.	$.	*	*	*	*
 
-# article_id = T881003.136
+# tuepp_article_id = T881003.136
+# sent_id = 4362
 # text = Luft holen .
-# context_judgement_1 = 1
-# context_judgement_2 = 1
+# context_judgement_1 = 0
+# context_judgement_2 = 0
 1	Luft	Luft	NN	1	1	1	1
 2	holen	holen	VVINF	1	1	1	1
 3	.	.	$.	*	*	*	*
 
-# article_id = T881022.113
+# tuepp_article_id = T881022.113
+# sent_id = 4363
 # text = Da braucht es oft einen normalen Betrieb , um Luft zu holen , sich ausruhen und sich von den Schulden zu befreien , die sich beim Jonglieren am Existenzminimum angesammelt haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1448,7 +1494,8 @@
 31	haben	haben	VAFIN	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T880704.146
+# tuepp_article_id = T880704.146
+# sent_id = 4364
 # text = Als erste Frau der Welt lehrte die Gaprindashvili der exklusiven Männerrunde das Fürchten : Als sie den Titel " internationaler Großmeister der Herren " verliehen bekommen hatte , mußten einige Mitglieder des starken Geschlechts erstmal kräftig Luft holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1492,7 +1539,8 @@
 38	holen	holen	VVINF	2	2	2	2
 39	.	.	$.	*	*	*	*
 
-# article_id = T880722.128
+# tuepp_article_id = T880722.128
+# sent_id = 4365
 # text = Noch ehe G. antworten konnte , holte der KOB tief Luft und zu einer längeren Rede aus .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1515,7 +1563,8 @@
 17	aus	aus	PTKVZ	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T880829.145
+# tuepp_article_id = T880829.145
+# sent_id = 4366
 # text = Man holt Luft , es singt leise .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -1528,7 +1577,8 @@
 7	leise	leise	ADJD	*	*	*	*
 8	.	.	$.	*	*	*	*
 
-# article_id = T880829.150
+# tuepp_article_id = T880829.150
+# sent_id = 4367
 # text = " Ich holte noch einmal tief Luft
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1540,7 +1590,8 @@
 6	tief	tief	ADJD	*	*	*	*
 7	Luft	Luft	NN	1	1	1	1
 
-# article_id = T880803.162
+# tuepp_article_id = T880803.162
+# sent_id = 4368
 # text = Die Grünen holen schon Luft , und die entsprechende Gegen - Initiative ist wieder auf dem Weg zu den Startlöchern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1566,7 +1617,8 @@
 20	Startlöchern	Startloch	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T880823.148
+# tuepp_article_id = T880823.148
+# sent_id = 4369
 # text = Der Regierende Diepgen holte tief Luft , fuchtelte mit geballter Faust in der Luft und hob mit lauter Stimme zu sprechen an : " Jetzt muß ich aber mal temperamentvoll werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1603,7 +1655,8 @@
 31	werden	werden	VAINF	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T881119.158
+# tuepp_article_id = T881119.158
+# sent_id = 4370
 # text = " Der Angesprochene setzte zum ersten und einzigen Mal an diesem Abend sein imponierend staatstragendes Gesicht auf , holte Luft für Grundsätzliches und begann also : " Die Zahlenentwicklung in den bremischen Gymnasien ... " - " Oh nein , " wehrte die muntere Carola Krause entschieden den bekannten Klängen , die Hörenden lachten erleichtert , und noch einmal
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1667,7 +1720,8 @@
 58	noch	noch	ADV	*	*	*	*
 59	einmal	einmal	ADV	*	*	*	*
 
-# article_id = T870312.72
+# tuepp_article_id = T870312.72
+# sent_id = 4371
 # text = " Eine Woche Urlaub machen , spazieren gehen und " - Jowmaran blickt nach draußen - " tief Luft holen " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1694,7 +1748,8 @@
 21	"	"	$(	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T861205.42
+# tuepp_article_id = T861205.42
+# sent_id = 4372
 # text = " Dreimal holte ich Luft , während er mir eine Spritze gab , und dann weiß ich von nichts mehr .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1720,7 +1775,8 @@
 20	mehr	mehr	PIS	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T930504.122
+# tuepp_article_id = T930504.122
+# sent_id = 4373
 # text = Sie ruckelte auf ihrem Stuhl herum und holte ganz tief Luft , um einen Satz , der eigentlich schon beendet war , noch einmal zu Ende zu bringen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1754,7 +1810,8 @@
 28	bringen	bringen	VVINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T930504.161
+# tuepp_article_id = T930504.161
+# sent_id = 4374
 # text = Das Kollektief holt einmal tief Luft und bläst sie einfach über den Haufen : all die musikalischen Hierarchien ; die Grenzbefestigungen zwischen klassischem Orchesterwerk und Gassenhauer , zwischen Free Jazz und Jahrmarktsmusik , zwischen seriöser Kunst und hemmungslosem Blödsinn .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1799,7 +1856,8 @@
 39	Blödsinn	Blödsinn	NN	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T931008.147
+# tuepp_article_id = T931008.147
+# sent_id = 4375
 # text = " Wir hatten kaum Luft geholt , da kam Lethgau " , erinnert sich Amtsleiter Wulf .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1821,7 +1879,8 @@
 16	Wulf	Wulf	NE	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T930929.194
+# tuepp_article_id = T930929.194
+# sent_id = 4376
 # text = Nach dem Publikumsrenner Picasso hat die Hamburger Kunsthalle erst einmal Luft geholt und bietet nun zum Wochenende neue Blicke im eigenen Haus : ein weiteres Kompartiment des historistischen Treppenhauses ist fertiggestellt , die neue Hängung der Alten Meister ist ab Freitag 15 Uhr zu begutachten und um das George Grosz Bild " John der Frauenmörder " von 1918 hat Kathrin Hoffmann-Curtius eine Kabinett-Ausstellung zum Thema der künstlerischen Vergewaltigung des weiblichen Körper zusammengestellt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1899,7 +1958,8 @@
 72	zusammengestellt	zusammenstellen	VVPP	*	*	*	*
 73	.	.	$.	*	*	*	*
 
-# article_id = T930908.80
+# tuepp_article_id = T930908.80
+# sent_id = 4377
 # text = " Da habe ich erst mal tief Luft geholt " , sagt er .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1918,7 +1978,8 @@
 13	er	er	PPER	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T930122.87
+# tuepp_article_id = T930122.87
+# sent_id = 4378
 # text = Er holt tief Luft : " Eins steht fest : Deutschland kommt nicht ohne uns aus .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1940,7 +2001,8 @@
 16	aus	aus	PTKVZ	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T930122.108
+# tuepp_article_id = T930122.108
+# sent_id = 4379
 # text = Ein bißchen Komödie ging bei dieser Roßkur zwar verloren , aber der Patient holt wieder Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -1962,7 +2024,8 @@
 16	Luft	Luft	NN	2	1	1	1
 17	.	.	$.	*	*	*	*
 
-# article_id = T930403.146
+# tuepp_article_id = T930403.146
+# sent_id = 4380
 # text = Anders ist es nicht zu erklären , warum nicht wahrgenommen wurde , daß die Debatte über die Grenzen des Fernsehens kompetent und ausführlich geführt wurde , lange bevor Christiane Grefe zu ihrem Aufschrei über den " TV-Gau " Luft holte .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2008,7 +2071,8 @@
 40	holte	holen	VVFIN	2	2	2	2
 41	.	.	$.	*	*	*	*
 
-# article_id = T930424.254
+# tuepp_article_id = T930424.254
+# sent_id = 4381
 # text = Der fast 80jährige , der im Ghetto Lodz als Arzt gearbeitet hatte , las seinen Vortrag angespannt eindringlich , voller Konzentration , fast ohne Luft zu holen : diesen Beitrag hier und jetzt und vor diesem Publikum halten zu können , das war ihm sehr wichtig .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2060,7 +2124,8 @@
 46	wichtig	wichtig	ADJD	*	*	*	*
 47	.	.	$.	*	*	*	*
 
-# article_id = T930719.200
+# tuepp_article_id = T930719.200
+# sent_id = 4382
 # text = In der Zeit können sie ihre Papiere in Ordnung bringen oder einfach Luft holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2080,7 +2145,8 @@
 14	holen	holen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T930702.81
+# tuepp_article_id = T930702.81
+# sent_id = 4383
 # text = Noch einmal ein Blick aufs Meer und tief Luft holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2096,7 +2162,8 @@
 10	holen	holen	VVINF	3	2	2	2
 11	.	.	$.	*	*	*	*
 
-# article_id = T930701.95
+# tuepp_article_id = T930701.95
+# sent_id = 4384
 # text = Und holt tief schluchzend Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2107,7 +2174,8 @@
 5	Luft	Luft	NN	1	1	1	1
 6	.	.	$.	*	*	*	*
 
-# article_id = T930731.49
+# tuepp_article_id = T930731.49
+# sent_id = 4385
 # text = Doch darf als Nebenwirkung auch die Umwelt Luft holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2122,7 +2190,8 @@
 9	holen	holen	VVINF	2	2	2	2
 10	.	.	$.	*	*	*	*
 
-# article_id = T930712.142
+# tuepp_article_id = T930712.142
+# sent_id = 4386
 # text = Die Ehe hielt gerade mal vier Jahre , und als der blonde Preuße aus ihrem Leben zog , stand sie mit zwei kleinen Kindern da , krempelte die Wohnung um , verlegte das Schlafzimmer in die Küche und den Herd ins Atelier , holte tief Luft und sagte : " Ich war Malerin , bin Malerin , ab jetzt bin ich frei .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2190,7 +2259,8 @@
 62	frei	frei	ADJD	*	*	*	*
 63	.	.	$.	*	*	*	*
 
-# article_id = T930726.77
+# tuepp_article_id = T930726.77
+# sent_id = 4387
 # text = Tim Williams streicht sich über seinen imposant gewölbten Bauch , zieht ihn ein , streckt ihn wieder heraus und holt Luft für den nächsten Kalauer .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2221,7 +2291,8 @@
 25	Kalauer	Kalauer	NN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T931223.205
+# tuepp_article_id = T931223.205
+# sent_id = 4388
 # text = Die Stahlwerke aber können durch die Millionenbürgschaft im besten Falle noch einmal tief Luft holen , bevor ihnen endgültig der Atem ausgeht .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2249,7 +2320,8 @@
 22	ausgeht	ausgehen	VVFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T930802.173
+# tuepp_article_id = T930802.173
+# sent_id = 4389
 # text = " Hört auf , laßt mich Luft holen ... " , rief der 17jährige Willie Francis , als er 1947 in Louisiana auf dem elektrischen Stuhl hingerichtet wurde .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2283,7 +2355,8 @@
 28	wurde	werden	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T930802.173
+# tuepp_article_id = T930802.173
+# sent_id = 4390
 # text = Hört auf , laßt mich Luft holen ist auch der Titel der Kunstausstellung , die amnesty international im Klinkerwerk des ehemaligen Konzentrationslagers Neuengamme zeigt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2313,7 +2386,8 @@
 24	zeigt	zeigen	VVFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T930326.69
+# tuepp_article_id = T930326.69
+# sent_id = 4391
 # text = In einer Türöffnung sucht sie Deckung , holt noch einmal tief Luft und hastet entlang der Mauer zur nächsten Tür .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2339,7 +2413,8 @@
 20	Tür	Türe	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T931126.138
+# tuepp_article_id = T931126.138
+# sent_id = 4392
 # text = " Er holte tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2350,7 +2425,8 @@
 5	Luft	Luft	NN	1	1	1	1
 6	.	.	$.	*	*	*	*
 
-# article_id = T930215.110
+# tuepp_article_id = T930215.110
+# sent_id = 4393
 # text = Weil nun aber die Aufklärung walten muß , holen wir tief Luft und erklären hiermit in einem Zug weg : Das Wort " Thaeter " in der Kritik zu Hochhuths " Wessis in Weimar " war , buchstäblich nach Brecht , schon richtig so ; die in der gestrigen Berichtigung erkannte " absolut sinnvolle Übereinstimmung mit dem Wort Katheter " also keine Leistung des Unbewußten , sondern plan- und absichtsvoll herbeigeführt ; ebenso natürlich die mit dem Wort " Täter " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2437,7 +2513,8 @@
 81	"	"	$(	*	*	*	*
 82	.	.	$.	*	*	*	*
 
-# article_id = T930224.145
+# tuepp_article_id = T930224.145
+# sent_id = 4394
 # text = " Er hat mich einfach angewidert " , meinte die kreidebleiche Angeklagte und holte tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2459,7 +2536,8 @@
 16	Luft	Luft	NN	1	1	1	1
 17	.	.	$.	*	*	*	*
 
-# article_id = T930209.95
+# tuepp_article_id = T930209.95
+# sent_id = 4395
 # text = Die harten Schnitte unterbrechen oft unerträgliche Eichmann-Szenen und verhelfen durch räumliche und inhaltliche Wechsel zu einer großen Offenheit der Struktur , die das Publikum nicht entmündigt , sondern auch immer wieder Luft holen und eigene Gedanken fassen läßt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2503,7 +2581,8 @@
 38	läßt	lassen	VVFIN	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T930216.54
+# tuepp_article_id = T930216.54
+# sent_id = 4396
 # text = Boston ( dpa ) - In jeder zweiten Stadt der USA sei es gesundheitsgefährdend , tief Luft zu holen , berichteten Forscher in Boston .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2533,7 +2612,8 @@
 24	Boston	Boston	NE	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T960504.84
+# tuepp_article_id = T960504.84
+# sent_id = 4397
 # text = Jose Maria Aznar , 43 , unterbrach kurz seine Antrittsrede , holte noch einmal Luft , dann setzte er zu dem Satz an , auf den viele gewartet hatten : " Die Zeit ist reif für eine neue territoriale Verteilung der Macht , die den Ansprüchen der verschiedenen Völker Spaniens gerecht wird " - Zufriedenheit auf den Bänken der Baskischen Nationalistischen Partei PNV , der katalanischen Convergencia i Unio und der kanarischen Coalicion Canaria , die dem konservativen Wahlsieger am Ende der zweitägigen Parlamentssitzung zur notwendigen Mehrheit verhelfen werden , um eine Regierung bilden zu können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2635,7 +2715,8 @@
 96	können	können	VMINF	*	*	*	*
 97	.	.	$.	*	*	*	*
 
-# article_id = T960522.117
+# tuepp_article_id = T960522.117
+# sent_id = 4398
 # text = Kerzengerade setzt sie sich hin , die Finger ineinander gefaltet , und holt Luft : " Zuerst habe ich das gar nicht so richtig verstanden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2666,7 +2747,8 @@
 25	verstanden	verstehen	VVPP	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T960528.255
+# tuepp_article_id = T960528.255
+# sent_id = 4399
 # text = Und nun geht es , ohne Luft zu holen , zum Space-Park - ein Anlaß für einen kleinen Rückblick ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2691,7 +2773,8 @@
 19	Rückblick	Rückblick	NN	*	*	*	*
 20	?	?	$.	*	*	*	*
 
-# article_id = T961017.100
+# tuepp_article_id = T961017.100
+# sent_id = 4400
 # text = Dieter Kressin holt tief Luft und stellt sich dem Angriff : Er nimmt den Hörer vom Telefon .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2714,7 +2797,8 @@
 17	Telefon	Telefon	NN	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T961022.102
+# tuepp_article_id = T961022.102
+# sent_id = 4401
 # text = Radoslav holt Luft und kriecht zurück ins Bett .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2728,7 +2812,8 @@
 8	Bett	Bett	NN	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T960921.310
+# tuepp_article_id = T960921.310
+# sent_id = 4402
 # text = " Der holt nu erstmal tief Luft , und denn flüstert er : " Ich komme gerade mit dem Flugzeug aus England ... und in den Kühltaschen sind ... Asylsuchende ... " " Wie " , hör ich nu die Stimme von Studienrat Arnold , hab ich gar nicht mitgekriegt , wie er sich angeschlichen hat , " Sie wollen doch nicht etwa sagen , daß Sie in Ihren Behältern diese tiefgefrorenen englischen Embryonen transportieren , die zusammen mit den toten BSE-Rindern entsorgt werden sollen ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2819,7 +2904,8 @@
 85	sollen	sollen	VMFIN	*	*	*	*
 86	?	?	$.	*	*	*	*
 
-# article_id = T960918.133
+# tuepp_article_id = T960918.133
+# sent_id = 4403
 # text = Wie war das denn zum Beispiel bei dieser Madonna , werfe ich ein , als er gerade mal Luft holt , aber er hört gar nicht hin .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2852,7 +2938,8 @@
 27	hin	hin	PTKVZ	*	*	*	*
 28	.	.	$.	*	*	*	*
 
-# article_id = T961207.199
+# tuepp_article_id = T961207.199
+# sent_id = 4404
 # text = Jetzt reicht 's aber erst mal , jetzt darfst Du Luft holen und überlegen , ob Dir all diese Übergriffe charmant genug sind , daß sie unter Dein Schutzangebot fallen ...
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2888,7 +2975,8 @@
 30	fallen	fallen	VVINF	*	*	*	*
 31	...	...	$.	*	*	*	*
 
-# article_id = T961228.164
+# tuepp_article_id = T961228.164
+# sent_id = 4405
 # text = Oostzaan / Niederlande ( AP ) - Aus Verzweiflung darüber , daß ihr Mann stundenlang ohne Luft zu holen " Stille Nacht , heilige Nacht " sang , hat eine 55 Jahre alte Frau zum Messer gegriffen und auf den Dauersänger eingestochen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2936,7 +3024,8 @@
 42	eingestochen	einstechen	VVPP	*	*	*	*
 43	.	.	$.	*	*	*	*
 
-# article_id = T960813.215
+# tuepp_article_id = T960813.215
+# sent_id = 4406
 # text = Siegfried Kamenz hatte kurz und tief Luft geholt , Gas gegeben , und dann war er drüben , im Osten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2962,7 +3051,8 @@
 20	Osten	Osten	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
-# article_id = T960322.123
+# tuepp_article_id = T960322.123
+# sent_id = 4407
 # text = Keine weiteren Fragen , denn noch bevor ich Luft geholt habe , setzt eine mitleiderregende Litanei über die aufreibenden Tourbedingungen ein .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -2989,9 +3079,10 @@
 21	ein	ein	PTKVZ	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T960329.103
+# tuepp_article_id = T960329.103
+# sent_id = 4408
 # text = Oder noch mal Luft holen und am dicken Rohr ziehen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Oder	oder	KON	*	*	*	*
 2	noch	noch	ADV	*	*	*	*
@@ -3005,7 +3096,8 @@
 10	ziehen	ziehen	VVINF	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T960307.117
+# tuepp_article_id = T960307.117
+# sent_id = 4409
 # text = " Keine Nacht mehr durchschlafen , immer da sein , nicht eine Minute Luft holen können , kaum noch Besuch und Besuche .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3033,7 +3125,8 @@
 22	Besuche	Besuch	NN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
-# article_id = T960323.267
+# tuepp_article_id = T960323.267
+# sent_id = 4410
 # text = " Die Damen im Vorzimmer konnten gar nicht so schnell Luft holen , wie Diehl seine Antwort über sie ergoß : " Na !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3062,7 +3155,8 @@
 23	Na	na	ITJ	*	*	*	*
 24	!	!	$.	*	*	*	*
 
-# article_id = T960325.219
+# tuepp_article_id = T960325.219
+# sent_id = 4411
 # text = Wenn Boris Jelzin dann ins Stocken gerät oder Dschochar Dudajew in Tränen ausbricht , wird Jürgen Fliege ihnen das Händchen halten , tief Luft holen und sagen : " Das ist jetzt sicher alles sehr schwer für Sie , darum erzähle ich die Geschichte mal selbst weiter : Dann haben Sie also Pjerwomajskoje sturmreif geschossen ... " Boris Jelzin wird aufschluchzen , erleichtert und getröstet , weil ihm endlich mal jemand zuhört , und übernächste Woche gemeinsam mit Svenjas Vater die Entziehungskur antreten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3151,7 +3245,8 @@
 83	antreten	antreten	VVINF	*	*	*	*
 84	.	.	$.	*	*	*	*
 
-# article_id = T961111.226
+# tuepp_article_id = T961111.226
+# sent_id = 4412
 # text = Die Staatsanwältin holte tief Luft zur Paragraphenlitanei .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3164,7 +3259,8 @@
 7	Paragraphenlitanei	<unknown>	NN	*	*	*	*
 8	.	.	$.	*	*	*	*
 
-# article_id = T961122.73
+# tuepp_article_id = T961122.73
+# sent_id = 4413
 # text = Ohnehin wird die nicaraguanische Wirtschaft im engen Korsett von Strukturanpassung und Stabilitätspolitik in absehbarer Zeit kaum Luft holen können .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3189,7 +3285,8 @@
 19	können	können	VMINF	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T961126.138
+# tuepp_article_id = T961126.138
+# sent_id = 4414
 # text = In individuellen theatralischen Mutproben überspielen sie ihre Widerstände : tief Luft holen , Geschlechtsteil vorzeigen , erleichtert ausatmen , weil man nun nicht mehr Spießer gescholten werden kann , und ab .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3226,7 +3323,8 @@
 31	ab	ab	ADV	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T961121.294
+# tuepp_article_id = T961121.294
+# sent_id = 4415
 # text = Er kommt rein , latscht durchs Publikum , holt Luft und pöbelt los : " Was hat der Mensch an dem Tisch da vorne für geschmacklose Schuhe an !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3260,7 +3358,8 @@
 28	an	an	PTKVZ	*	*	*	*
 29	!	!	$.	*	*	*	*
 
-# article_id = T960224.263
+# tuepp_article_id = T960224.263
+# sent_id = 4416
 # text = Sie spannt die Muskeln , holt Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3273,7 +3372,8 @@
 7	Luft	Luft	NN	1	1	1	1
 8	.	.	$.	*	*	*	*
 
-# article_id = T980518.204
+# tuepp_article_id = T980518.204
+# sent_id = 4417
 # text = Dann holt sie tief Luft und erklärt dem geknickten Security-Mann ruhig , aber bestimmt , was nun wirklich nicht geht : daß nämlich die Profi-Spieler ihre Autos ganz normal in den Seitenstraßen der Max-Schmeling-Halle parken müssen , nur weil die Vizepräsidenten des Vereins alle VIP- Parkplätze vor der Halle blockieren .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3329,7 +3429,8 @@
 50	blockieren	blockieren	VVINF	*	*	*	*
 51	.	.	$.	*	*	*	*
 
-# article_id = T980511.76
+# tuepp_article_id = T980511.76
+# sent_id = 4418
 # text = Gelegenheit für die Bielefelder , Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3343,7 +3444,8 @@
 8	holen	holen	VVINF	2	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T980611.27
+# tuepp_article_id = T980611.27
+# sent_id = 4419
 # text = Aus rein therapeutischen Gründen wollte ich lieber ein Instrument spielen , bei dem ich Luft holen muß , und mit 10 Jahren hatte ich schon im Posaunenchor meines Heimatdorfs gespielt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3379,7 +3481,8 @@
 30	gespielt	spielen	VVPP	*	*	*	*
 31	.	.	$.	*	*	*	*
 
-# article_id = T981014.419
+# tuepp_article_id = T981014.419
+# sent_id = 4420
 # text = Die kleinste der Parteien in der Bremer Bürgerschaft hat ihren Wahlkampf eingeleitet , bevor die anderen noch Luft zum Räuspern holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3406,7 +3509,8 @@
 21	holen	holen	VVINF	2	2	2	2
 22	.	.	$.	*	*	*	*
 
-# article_id = T981027.154
+# tuepp_article_id = T981027.154
+# sent_id = 4421
 # text = " Annelie Lotriet holt kurz Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3418,7 +3522,8 @@
 6	Luft	Luft	NN	3	3	1	3
 7	.	.	$.	*	*	*	*
 
-# article_id = T980119.168
+# tuepp_article_id = T980119.168
+# sent_id = 4422
 # text = Luft geholt und losgeschmettert : " Zweite Liga , Bayer ist dabei !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3436,7 +3541,8 @@
 12	dabei	dabei	PAV	*	*	*	*
 13	!	!	$.	*	*	*	*
 
-# article_id = T980131.199
+# tuepp_article_id = T980131.199
+# sent_id = 4423
 # text = Das Geschrei nach der Premiere war groß , kein Wunder , schließlich war reflexartig schon vorher Luft geholt worden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3461,7 +3567,8 @@
 19	worden	werden	VAPP	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T980117.160
+# tuepp_article_id = T980117.160
+# sent_id = 4424
 # text = Wer dort tief Luft holt , kann den Duft des Newlands Stadium in Kapstadt einatmen oder das Parfum des Pariser Parc des Princes spüren .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3491,7 +3598,8 @@
 24	spüren	spüren	VVINF	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T980818.168
+# tuepp_article_id = T980818.168
+# sent_id = 4425
 # text = Sie holt tief Luft und bringt ein paar aufblasbare Pulloverbügel wieder in Form .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3510,7 +3618,8 @@
 13	Form	Form	NN	*	*	*	*
 14	.	.	$.	*	*	*	*
 
-# article_id = T980822.345
+# tuepp_article_id = T980822.345
+# sent_id = 4426
 # text = Während ich errötete , holte ich tief Luft : " Stimmtesdaßichhieraucheinenvibratorkaufenkann ?
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3527,7 +3636,8 @@
 11	Stimmtesdaßichhieraucheinenvibratorkaufenkann	<unknown>	NN	*	*	*	*
 12	?	?	$.	*	*	*	*
 
-# article_id = T980305.247
+# tuepp_article_id = T980305.247
+# sent_id = 4427
 # text = Drei Stufen stapft sie hoch , holt einmal tief Luft , da ist sie auch schon mittendrin .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3550,7 +3660,8 @@
 17	mittendrin	mittendrin	ADV	*	*	*	*
 18	.	.	$.	*	*	*	*
 
-# article_id = T981125.246
+# tuepp_article_id = T981125.246
+# sent_id = 4428
 # text = Wenn man tief Luft holt , kann man sogar den ganzen Namen des Projekts aussprechen : " Qualifizierung zur Umsetzung der Bildschirmarbeitsverordnung im Betrieb unter dem Gesichtspunkt Sicherheit und Gesundheitsschutz am Arbeitsplatz - Ein beteiligungsorientiertes und sozialpartnerschaftliches Qualifizierungsmodell .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3594,7 +3705,8 @@
 38	Qualifizierungsmodell	<unknown>	NN	*	*	*	*
 39	.	.	$.	*	*	*	*
 
-# article_id = T980224.129
+# tuepp_article_id = T980224.129
+# sent_id = 4429
 # text = " Er holt tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3605,7 +3717,8 @@
 5	Luft	Luft	NN	1	1	1	1
 6	.	.	$.	*	*	*	*
 
-# article_id = T970529.310
+# tuepp_article_id = T970529.310
+# sent_id = 4430
 # text = Er stammelt die berühmten Verse , verschluckt sich daran , holt Luft , verflucht herzhaft den tradtionsgläubigen Rationalismus der Wissenschaften und ist doch nur einen Atemzug von hysterischem Verlachen alles Logischen entfernt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3643,7 +3756,8 @@
 32	entfernt	entfernen	VVPP	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T970514.342
+# tuepp_article_id = T970514.342
+# sent_id = 4431
 # text = Reden ohne Luft zu holen ohne Pause zwischen Worten und Sätzen Reden übers Einkaufen über karierte Socken und über das Einkaufen das ewige Einkaufen und dann diese Socken also ich weiß nicht da muß man doch mal drüber reden und zwar ohne Luft zu holen zwischen den Socken .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3697,7 +3811,8 @@
 48	Socken	Socke	NN	*	*	*	*
 49	.	.	$.	*	*	*	*
 
-# article_id = T970515.102
+# tuepp_article_id = T970515.102
+# sent_id = 4432
 # text = Halten Sie an dieser Stelle vielleicht einmal inne , werte / r Leser / in , lehnen Sie sich entspannt zurück , holen Sie tief Luft , und erkennen Sie sodann , wie wenig Sie davon haben !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3740,7 +3855,8 @@
 37	haben	haben	VAINF	*	*	*	*
 38	!	!	$.	*	*	*	*
 
-# article_id = T970509.124
+# tuepp_article_id = T970509.124
+# sent_id = 4433
 # text = Er hatte nach dem Schlußpfiff noch einmal das Ergebnis vermeldet : " Schalke 04 schlägt Inter Mailand 1:0 " , holte kurz Luft und hauchte noch ein " Ach , geil ... " durchs Rund .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3781,7 +3897,8 @@
 35	Rund	Rund	NN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T971013.187
+# tuepp_article_id = T971013.187
+# sent_id = 4434
 # text = " Er holte tief Luft , unterdrückte die aufsteigende Übelkeit und breitete die Arme aus .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3802,7 +3919,8 @@
 15	aus	aus	PTKVZ	*	*	*	*
 16	.	.	$.	*	*	*	*
 
-# article_id = T971028.153
+# tuepp_article_id = T971028.153
+# sent_id = 4435
 # text = Mörderbienen in Südamerika , Mückeninvasion am Rhein , Termitenplage in Hamburg - die Zeichen sind unübersehbar ... " Dann muß er Luft holen , und Hermann geht auf Sendung mit der Maus .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3840,7 +3958,8 @@
 32	Maus	Maus	NN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
-# article_id = T971022.142
+# tuepp_article_id = T971022.142
+# sent_id = 4436
 # text = Und das , obwohl der rastalockige Extrempercussionist gerade erst knappe drei Stunden lang wie wild und ohne Luft zu holen über die Bühne gefegt ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3871,7 +3990,8 @@
 25	ist	sein	VAFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T970912.319
+# tuepp_article_id = T970912.319
+# sent_id = 4437
 # text = Einmal kräftig Luft geholt - und schon verwandelt sich die Werkstatt in einen Waschsalon , in dem alle Maschinen den Schleudergang eingelegt haben .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3900,9 +4020,10 @@
 23	haben	haben	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T970908.293
+# tuepp_article_id = T970908.293
+# sent_id = 4438
 # text = Sie können Luft holen und ihre eigene Rolle und ihre Probleme reflektieren .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
 2	können	können	VMFIN	*	*	*	*
@@ -3918,7 +4039,8 @@
 12	reflektieren	reflektieren	VVINF	*	*	*	*
 13	.	.	$.	*	*	*	*
 
-# article_id = T970902.178
+# tuepp_article_id = T970902.178
+# sent_id = 4439
 # text = Kaum ist einer seiner Hilfeschreie verklungen , holt Dirk Fischer , Hamburgs CDU-Chef , schon Luft für den nächsten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3943,7 +4065,8 @@
 19	nächsten	nah	ADJA	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T970125.309
+# tuepp_article_id = T970125.309
+# sent_id = 4440
 # text = " Jungunternehmer Aschler holt tief Luft : " Ich esse weiterhin meine Soja-Bratlinge , denn mich hat die Demonstration des PDS total überzeugt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -3972,7 +4095,8 @@
 23	überzeugt	überzeugen	VVPP	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T970118.343
+# tuepp_article_id = T970118.343
+# sent_id = 4441
 # text = " Jetzt holt Jungunternehmer Aschler Luft : " Ich hab auch etwas dagegen , daß so etwas in unsere Gymnasien und Unis einsickert .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4001,7 +4125,8 @@
 23	einsickert	einsickern	VVFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
-# article_id = T970414.204
+# tuepp_article_id = T970414.204
+# sent_id = 4442
 # text = Wenn Hardt-Waltherr Hämer auf Veranstaltungen zur Stadtplanung sich langsam erhebt , tief Luft holt und dann loswettert , gehen Baupolitiker schon mal in Deckung .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4031,7 +4156,8 @@
 24	Deckung	Deckung	NN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
-# article_id = T971218.256
+# tuepp_article_id = T971218.256
+# sent_id = 4443
 # text = Die Sterne brannten den Himmel nieder , ich schluckte oder holte Luft und drückte ihm den Spachtel ins Fleisch ... " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4058,7 +4184,8 @@
 21	"	"	$(	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T971202.148
+# tuepp_article_id = T971202.148
+# sent_id = 4444
 # text = Seltsam , wieder zur Freien Universität Berlin zu fahren , am U-Bahnhof Thielplatz auszusteigen , die klassischen Vorseminars-Zigaretten zu rauchen , tief Luft zu holen , denn die Luft hier in Dahlem ist um einiges besser als in Kreuzberg .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4103,7 +4230,8 @@
 39	Kreuzberg	Kreuzberg	NE	*	*	*	*
 40	.	.	$.	*	*	*	*
 
-# article_id = T970813.154
+# tuepp_article_id = T970813.154
+# sent_id = 4445
 # text = " Wirhabenaußerdemmeeresfrüchteundeinenrucolasalatmitkräutervinaigrette " rappeln sie los und befeuern den wehrlosen Gast ohne einmal Luft zu holen mit einer beeindruckenden Anzahl von Tagesgerichten , die nicht in der Karte oder auf einer Tafel stehen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4142,7 +4270,8 @@
 33	stehen	stehen	VVFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T970826.225
+# tuepp_article_id = T970826.225
+# sent_id = 4446
 # text = " Der Vorteil eines Tandems ist , daß man zwischendurch mal ruhiger treten und Luft holen kann " , faßte Görres-Ohde die Vorzüge der Modernisierung zusammen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4174,7 +4303,8 @@
 26	zusammen	zusammen	PTKVZ	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T970814.268
+# tuepp_article_id = T970814.268
+# sent_id = 4447
 # text = Die Sterne brannten den Himmel nieder , ich schluckte oder holte Luft und drückte ihm den Spachtel ins Fleisch .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4199,9 +4329,10 @@
 19	Fleisch	Fleisch	NN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T970308.119
+# tuepp_article_id = T970308.119
+# sent_id = 4448
 # text = Was naheliegt : tief Luft holen und weiterwandern .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Was	was	PWS	*	*	*	*
 2	naheliegt	naheliegen	VVFIN	*	*	*	*
@@ -4213,7 +4344,8 @@
 8	weiterwandern	weiterwandern	VVFIN	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T970312.219
+# tuepp_article_id = T970312.219
+# sent_id = 4449
 # text = Holte nochmal tief Luft und sprach : " Ich finde das toll , wenn Jugendliche sich sportlich betätigen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4237,7 +4369,8 @@
 18	betätigen	betätigen	VVINF	*	*	*	*
 19	.	.	$.	*	*	*	*
 
-# article_id = T970208.230
+# tuepp_article_id = T970208.230
+# sent_id = 4450
 # text = Annemarie Paehr holt tief Luft : " Stopp !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4251,7 +4384,8 @@
 8	Stopp	stoppen	VVIMP	*	*	*	*
 9	!	!	$.	*	*	*	*
 
-# article_id = T970214.108
+# tuepp_article_id = T970214.108
+# sent_id = 4451
 # text = " Also so was , ich hab 's mir extra aufgeschrieben ... " Gunda Röstel holt tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4275,7 +4409,8 @@
 18	Luft	Luft	NN	1	1	1	1
 19	.	.	$.	*	*	*	*
 
-# article_id = T940618.129
+# tuepp_article_id = T940618.129
+# sent_id = 4452
 # text = Ich holte tief Luft , mein Herz fing heftig an zu pochen , wie früher , wenn ich quer über den Bock meiner hochverehrten Sportlehrerin in den Arm sprang .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4310,7 +4445,8 @@
 29	sprang	springen	VVFIN	*	*	*	*
 30	.	.	$.	*	*	*	*
 
-# article_id = T941021.224
+# tuepp_article_id = T941021.224
+# sent_id = 4453
 # text = Theoretisch kannst du ja Gitarre spielen , ohne Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4327,9 +4463,10 @@
 11	holen	holen	VVINF	3	1	1	1
 12	.	.	$.	*	*	*	*
 
-# article_id = T940125.171
+# tuepp_article_id = T940125.171
+# sent_id = 4454
 # text = Deren Antworten sind nun nach Hamburg und Hannover auch in Bremen zu sehen : Hört auf , laßt mich Luft holen ... Frei haben die KünstlerInnen dazu assoziiert .
-# context_judgement_1 = 0
+# context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Deren	die	PDAT	*	*	*	*
 2	Antworten	Antwort	NN	*	*	*	*
@@ -4361,7 +4498,8 @@
 28	assoziiert	assoziieren	VVPP	*	*	*	*
 29	.	.	$.	*	*	*	*
 
-# article_id = T940103.153
+# tuepp_article_id = T940103.153
+# sent_id = 4455
 # text = Dann konnte Luft geholt und grundlegender geplant und gebaut werden .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4377,7 +4515,8 @@
 10	werden	werden	VAINF	*	*	*	*
 11	.	.	$.	*	*	*	*
 
-# article_id = T940103.213
+# tuepp_article_id = T940103.213
+# sent_id = 4456
 # text = Aber da haben die sich geschnitten , denkt Fritzi und holt tief Luft ... Paula Roosen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4398,7 +4537,8 @@
 15	Paula	Paula	NE	*	*	*	*
 16	Roosen	<unknown>	NE	*	*	*	*
 
-# article_id = T940112.112
+# tuepp_article_id = T940112.112
+# sent_id = 4457
 # text = " Also " , holte ich tief Luft und setzte zu meinem Plädoyer an , " er zahlt an Steuern , Rente , Krankenkasse , Arbeitslosenversicherung satte 1.800 Mark im Monat und war noch nie arbeitslos .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4440,7 +4580,8 @@
 36	arbeitslos	arbeitslos	ADJD	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T940425.155
+# tuepp_article_id = T940425.155
+# sent_id = 4458
 # text = Sie rief also an , und es war schrecklich , das ganze Plappern war weg , sie holte Luft , konnte kaum sprechen , im Hintergrund hörte ich bei ihr die Vögel zwitschern .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4479,7 +4620,8 @@
 33	zwitschern	zwitschern	VVINF	*	*	*	*
 34	.	.	$.	*	*	*	*
 
-# article_id = T940419.103
+# tuepp_article_id = T940419.103
+# sent_id = 4459
 # text = " Bei der Frage , ob man denn einen kleinen Tiger mit deformierten eingeknickten Beinen auf dem Boden rutschen sah , holt die Zirkusdirektorin ganz tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4512,7 +4654,8 @@
 27	Luft	Luft	NN	1	1	1	1
 28	.	.	$.	*	*	*	*
 
-# article_id = T940422.92
+# tuepp_article_id = T940422.92
+# sent_id = 4460
 # text = " Nun sollen alle einmal tief Luft holen " , riet Busek den Beteiligten .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4532,7 +4675,8 @@
 14	Beteiligten	Beteiligte	NN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T940817.166
+# tuepp_article_id = T940817.166
+# sent_id = 4461
 # text = Dieter Neumann : Wir wollen den französischen Kollegen erst einmal Zeit geben , tief Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4555,7 +4699,8 @@
 17	holen	holen	VVINF	2	2	2	2
 18	.	.	$.	*	*	*	*
 
-# article_id = T940826.111
+# tuepp_article_id = T940826.111
+# sent_id = 4462
 # text = Jetzt muß ich mal ganz tief Luft holen : Sie sind Aufsichtsratsvorsitzender der NSM-Apparatebau GmbH
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4575,7 +4720,8 @@
 14	NSM-Apparatebau	<unknown>	NN	*	*	*	*
 15	GmbH	GmbH	NN	*	*	*	*
 
-# article_id = T940328.219
+# tuepp_article_id = T940328.219
+# sent_id = 4463
 # text = Der VfL Bad Schwartau bezwang den TuS Schutterwald mit 19:18 ( 10:6 ) und kann im Kampf gegen den Abstieg nun etwas Luft holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4605,7 +4751,8 @@
 24	holen	holen	VVINF	2	2	2	2
 25	.	.	$.	*	*	*	*
 
-# article_id = T940301.109
+# tuepp_article_id = T940301.109
+# sent_id = 4464
 # text = " Bevor aber dies geschehen kann - eine für ihre postblöden Fragen bekannte Radio-100,6-Redakteurin holt bereits tief Luft - ist der Spuk zu Ende , und wir werden zum Essen gebeten .
 # context_judgement_1 = 1
 # context_judgement_2 = 1
@@ -4642,7 +4789,8 @@
 31	gebeten	bitten	VVPP	*	*	*	*
 32	.	.	$.	*	*	*	*
 
-# article_id = T940321.127
+# tuepp_article_id = T940321.127
+# sent_id = 4465
 # text = Doch wenn er in der Kunst auch nicht den großen Atem der Erneuerung wie in der Architektur bewies , so war sie dennoch sein Ort , um tief Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4679,7 +4827,8 @@
 31	holen	holen	VVINF	2	2	2	2
 32	.	.	$.	*	*	*	*
 
-# article_id = T941109.96
+# tuepp_article_id = T941109.96
+# sent_id = 4466
 # text = Oberbürgermeister Seeber , CDU , holt dreimal tief Luft , bevor er anfängt über den Mann zu reden , der die Geschäftsordnung besser kennt als jeder andere : " Er ist ein Kämpfer , ein Idealist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4721,7 +4870,8 @@
 36	Idealist	Idealist	NN	*	*	*	*
 37	.	.	$.	*	*	*	*
 
-# article_id = T941124.117
+# tuepp_article_id = T941124.117
+# sent_id = 4467
 # text = Entschieden holt Sandra Bichsel kurz Luft und stößt dann aus : " FIS ist scheiße !
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4742,7 +4892,8 @@
 15	scheiße	scheißen	VVFIN	*	*	*	*
 16	!	!	$.	*	*	*	*
 
-# article_id = T940219.119
+# tuepp_article_id = T940219.119
+# sent_id = 4468
 # text = Noch leicht zerzaust schaut sie sich im rotlicht- durchfluteten Schlafzimmer um , blinzelt ein wenig und holt tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4767,7 +4918,8 @@
 19	Luft	Luft	NN	1	1	1	1
 20	.	.	$.	*	*	*	*
 
-# article_id = T940219.317
+# tuepp_article_id = T940219.317
+# sent_id = 4469
 # text = Klaus Plöger holte in der Glinder Zeitung denn auch tief Luft : " Barsbüttel kann aufatmen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4789,7 +4941,8 @@
 16	aufatmen	aufatmen	VVINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T940209.163
+# tuepp_article_id = T940209.163
+# sent_id = 4470
 # text = Solche Gelegenheiten sind selten , da kann der Oppositionsführer ganz tief Luft holen , und im Brustton der Überzeugung über Seilschaften und Genossenfilz herziehen und daß die Stadt zur Beute der SPD gemacht worden ist .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4830,9 +4983,10 @@
 35	ist	sein	VAFIN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
-# article_id = T950608.149
+# tuepp_article_id = T950608.149
+# sent_id = 4471
 # text = So kann sie dann an den großen Kreuzungen noch einmal richtig tief Luft holen .
-# context_judgement_1 = 1
+# context_judgement_1 = 0
 # context_judgement_2 = 1
 1	So	so	ADV	*	*	*	*
 2	kann	können	VMFIN	*	*	*	*
@@ -4850,7 +5004,8 @@
 14	holen	holen	VVINF	2	2	2	2
 15	.	.	$.	*	*	*	*
 
-# article_id = T951018.234
+# tuepp_article_id = T951018.234
+# sent_id = 4472
 # text = Der Finanzsenator holte tief Luft - und schwieg .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4864,7 +5019,8 @@
 8	schwieg	schweigen	VVFIN	*	*	*	*
 9	.	.	$.	*	*	*	*
 
-# article_id = T950928.112
+# tuepp_article_id = T950928.112
+# sent_id = 4473
 # text = Und nun der junge Robert Wagner , der pfeilgerad den Bildern von Hal Foster entstiegen war , die dieser aufwendige , prächtige Film von Henry Hathaway - bis ins Detail nachstellte : Wenn Eisenherz vor dem Schwarzen Ritter - James Mason , der eindrucksvollste , finsterste , melancholichste Tafelrundenunhold aller Zeiten - flieht , vom Baum in den Teich springt und ein Schilfrohr abschneidet , durch das er dann unter Wasser Luft holen kann ( man lernte soviel im Kino , fürs Leben , wirklich praktische Sachen eben ) .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4959,7 +5115,8 @@
 89	)	)	$(	*	*	*	*
 90	.	.	$.	*	*	*	*
 
-# article_id = T950904.227
+# tuepp_article_id = T950904.227
+# sent_id = 4474
 # text = Tjaaa ... Da holen die Fachverkäufer tief Luft .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4973,7 +5130,8 @@
 8	Luft	Luft	NN	1	2	2	2
 9	.	.	$.	*	*	*	*
 
-# article_id = T950412.183
+# tuepp_article_id = T950412.183
+# sent_id = 4475
 # text = Dann aber holte Nova Luft und begann zu singen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -4988,7 +5146,8 @@
 9	singen	singen	VVINF	*	*	*	*
 10	.	.	$.	*	*	*	*
 
-# article_id = T950817.252
+# tuepp_article_id = T950817.252
+# sent_id = 4476
 # text = Manchmal blitzt Ornella Muti auf , die es immer wieder schafft , gleichzeitig zu sprechen und so tief Luft zu holen , daß heftig der Busen bebt und sich fast aus dem Ausschnitt hebt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5028,7 +5187,8 @@
 34	hebt	heben	VVFIN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
-# article_id = T950801.231
+# tuepp_article_id = T950801.231
+# sent_id = 4477
 # text = Und für die Verdienste des stattlichen Herrn mit dem weißen Haar braucht es einen überlangen Satz , für den wir tief Luft holen : Seit 1959 war er in Diensten der Stadt Hamburg , seit 1978 als wissenschaftlicher Angestellter als Senatsbeauftragter für Film in der Kulturbehörde , seit 1982 Bibliotheksreferent , der die Idee eines flächendeckenden Bibliotheksnetzes für Hamburg vorantrieb , und 1990 schließlich wechselte er in die Leitung der Hamburger Bücherhallen , wo er sich den Ruf als " Herr der Bücher " erwarb - einen allerdings nicht immer unzweifelhaften Ruf , weil er als Kulturmensch mit Zahlen in der Buchführung irgendwie nicht so geschickt jonglierte wie mit seinem väterlichen Charme .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5146,7 +5306,8 @@
 112	Charme	Charme	NN	*	*	*	*
 113	.	.	$.	*	*	*	*
 
-# article_id = T950811.126
+# tuepp_article_id = T950811.126
+# sent_id = 4478
 # text = Es holte Luft , die kleine Lunge füllte sich , der Brustkorb hob sich .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5166,7 +5327,8 @@
 14	sich	sich	PRF	*	*	*	*
 15	.	.	$.	*	*	*	*
 
-# article_id = T950325.54
+# tuepp_article_id = T950325.54
+# sent_id = 4479
 # text = Energisch schüttelt die Bundesumweltministerin ihre Topffrisur nach hinten , holt tief Luft und besteigt das Podium .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5188,7 +5350,8 @@
 16	Podium	Podium	NN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
-# article_id = T950218.142
+# tuepp_article_id = T950218.142
+# sent_id = 4480
 # text = " Nein , nein , nein " , schrie ich auf , verschluckte eilig einen Olivenkern , holte tief Luft und begann zu sprechen von meinen 27 Stunden bis Madrid :
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5224,7 +5387,8 @@
 30	Madrid	Madrid	NE	*	*	*	*
 31	:	:	$.	*	*	*	*
 
-# article_id = T950216.93
+# tuepp_article_id = T950216.93
+# sent_id = 4481
 # text = " Aber dann " holte sie tief Luft und begann eine Diskussion darüber , ob nicht wirklich nach fünfzig Jahren mal Schluß sein sollte " .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5255,7 +5419,8 @@
 25	"	"	$(	*	*	*	*
 26	.	.	$.	*	*	*	*
 
-# article_id = T950224.199
+# tuepp_article_id = T950224.199
+# sent_id = 4482
 # text = Wie er seine Hände knetet , tief Luft holt , die Haare hinters Ohr klemmt , seine Aufregung wegredet .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5280,7 +5445,8 @@
 19	wegredet	<unknown>	VVPP	*	*	*	*
 20	.	.	$.	*	*	*	*
 
-# article_id = T990424.337
+# tuepp_article_id = T990424.337
+# sent_id = 4483
 # text = Als sich am Himmel das Licht des Tages zeigt , begebe ich mich aus der Wohnung , um Luft zu holen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5307,7 +5473,8 @@
 21	holen	holen	VVINF	2	1	1	1
 22	.	.	$.	*	*	*	*
 
-# article_id = T990416.65
+# tuepp_article_id = T990416.65
+# sent_id = 4484
 # text = Holen wir einmal tief Luft , und vergewissern wir uns , daß die Nato-Luftangriffe nicht die Lehre aus der ausgebliebenen Hilfeleistung des Westens für Spanien darstellen .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5339,7 +5506,8 @@
 26	darstellen	darstellen	VVINF	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T990326.221
+# tuepp_article_id = T990326.221
+# sent_id = 4485
 # text = Da holt sie tief Luft , stützt sich energisch auf die Unterarme und führt ohne zu stocken aus , gestisch untermalt .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5366,7 +5534,8 @@
 21	untermalt	untermalen	VVPP	*	*	*	*
 22	.	.	$.	*	*	*	*
 
-# article_id = T990329.27
+# tuepp_article_id = T990329.27
+# sent_id = 4486
 # text = Mutter Heidi , die neben Sabine Roß-Kunert steht , sagt dazu : " Zu diesem Zeitpunkt holt man erstmal tief Luft und startet von neuem durch .
 # context_judgement_1 = 0
 # context_judgement_2 = 0
@@ -5398,7 +5567,8 @@
 26	durch	durch	PTKVZ	*	*	*	*
 27	.	.	$.	*	*	*	*
 
-# article_id = T990215.102
+# tuepp_article_id = T990215.102
+# sent_id = 4487
 # text = " Maimona holt tief Luft und stößt heraus : " Natürlich werde ich das niemandem antun .
 # context_judgement_1 = 0
 # context_judgement_2 = 0

@@ -1,7 +1,8 @@
-# article_id = T890128.188
-# text = " Bisher hatte sich die intensive Schweinehaltung gelohnt , aber jetzt geht der Preis in den Keller " , legte einer der Bauern , Alois Schwarz , den Sinn des Ganzen of
+# tuepp_article_id = T890128.188
+# sent_id = 3010
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Bisher hatte sich die intensive Schweinehaltung gelohnt , aber jetzt geht der Preis in den Keller " , legte einer der Bauern , Alois Schwarz , den Sinn des Ganzen of
 1	"	*	*	*	*
 2	Bisher	*	*	*	*
 3	hatte	*	*	*	*
@@ -35,10 +36,11 @@
 31	Ganzen	*	*	*	*
 32	of	*	*	*	*
 
-# article_id = T890127.124
-# text = Hinzu kommt der starke Wettbewerb in der Bürocomputer-Branche - IBM legt die Standards fest , und im scharfen Wettbewerb gehen die Preise in den Keller .
+# tuepp_article_id = T890127.124
+# sent_id = 3011
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Hinzu kommt der starke Wettbewerb in der Bürocomputer-Branche - IBM legt die Standards fest , und im scharfen Wettbewerb gehen die Preise in den Keller .
 1	Hinzu	*	*	*	*
 2	kommt	*	*	*	*
 3	der	*	*	*	*
@@ -66,10 +68,11 @@
 25	Keller	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T890715.147
+# tuepp_article_id = T890715.147
+# sent_id = 3012
+# context_judgement_1 = 0
+# context_judgement_2 = 1
 # text = Geh in den Keller , statt Kaffee zu trinken , wenn du dich langweilst , und grab einen Fluchttunnel .
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	Geh	1	1	1	1
 2	in	1	1	1	1
 3	den	*	*	*	*
@@ -91,10 +94,11 @@
 19	Fluchttunnel	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T890725.94
-# text = K.O.-Sieg in 37 Profikämpfen , " wenn er glaubt , mich schlagen zu können , gehen wir in den Keller , und der , der mit dem Schlüssel wieder hochkommt , ist Champion .
-# context_judgement_1 = 0
+# tuepp_article_id = T890725.94
+# sent_id = 3013
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = K.O.-Sieg in 37 Profikämpfen , " wenn er glaubt , mich schlagen zu können , gehen wir in den Keller , und der , der mit dem Schlüssel wieder hochkommt , ist Champion .
 1	K.O.-Sieg	*	*	*	*
 2	in	*	*	*	*
 3	37	*	*	*	*
@@ -130,10 +134,11 @@
 33	Champion	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T891223.210
-# text = Damit trösten wir uns und beschließen , allen angestammten Vorlieben in der politischen Landschaft Lebewohl zu sagen und gehen in Auerbachs Keller .
+# tuepp_article_id = T891223.210
+# sent_id = 3014
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Damit trösten wir uns und beschließen , allen angestammten Vorlieben in der politischen Landschaft Lebewohl zu sagen und gehen in Auerbachs Keller .
 1	Damit	*	*	*	*
 2	trösten	*	*	*	*
 3	wir	*	*	*	*
@@ -158,10 +163,11 @@
 22	Keller	1	2	2	2
 23	.	*	*	*	*
 
-# article_id = T891123.162
-# text = Wer in der Drehe Sophie - Charlotte-Platz , Stutti , Lietzensee lebt oder arbeitet und mittags schlicht knüppelsatt werden will , geht zum dicken Koch in den Keller .
+# tuepp_article_id = T891123.162
+# sent_id = 3015
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wer in der Drehe Sophie - Charlotte-Platz , Stutti , Lietzensee lebt oder arbeitet und mittags schlicht knüppelsatt werden will , geht zum dicken Koch in den Keller .
 1	Wer	*	*	*	*
 2	in	*	*	*	*
 3	der	*	*	*	*
@@ -192,10 +198,11 @@
 28	Keller	1	1	2	1
 29	.	*	*	*	*
 
-# article_id = T890215.75
-# text = Als die Ölpreise dann 1986 in den Keller gingen , stimmten alle hochgerechneten Zukunftserwartungen nicht mehr .
+# tuepp_article_id = T890215.75
+# sent_id = 3016
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als die Ölpreise dann 1986 in den Keller gingen , stimmten alle hochgerechneten Zukunftserwartungen nicht mehr .
 1	Als	*	*	*	*
 2	die	*	*	*	*
 3	Ölpreise	*	*	*	*
@@ -214,10 +221,11 @@
 16	mehr	*	*	*	*
 17	.	*	*	*	*
 
-# article_id = T890206.153
-# text = Die größte Überraschung war ja , wie die CDU in den Keller gegangen ist und daß die FDP rausgeflogen ist .
+# tuepp_article_id = T890206.153
+# sent_id = 3017
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die größte Überraschung war ja , wie die CDU in den Keller gegangen ist und daß die FDP rausgeflogen ist .
 1	Die	*	*	*	*
 2	größte	*	*	*	*
 3	Überraschung	*	*	*	*
@@ -240,10 +248,11 @@
 20	ist	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T911008.195
-# text = Das Deutschland der kriminellen Elemente liegt zwischen der Mutlosigkeit von einem , der in den Keller geht und weiß , daß er jetzt zwei Kohlentragen bis in den vierten Stock hochschleppen muß , und dem sexy Zynismus von Heiner Müller .
+# tuepp_article_id = T911008.195
+# sent_id = 3019
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das Deutschland der kriminellen Elemente liegt zwischen der Mutlosigkeit von einem , der in den Keller geht und weiß , daß er jetzt zwei Kohlentragen bis in den vierten Stock hochschleppen muß , und dem sexy Zynismus von Heiner Müller .
 1	Das	*	*	*	*
 2	Deutschland	*	*	*	*
 3	der	*	*	*	*
@@ -286,10 +295,11 @@
 40	Müller	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T911014.26
-# text = Genau wie in den anderen osteuropäischen Ländern " wird der Stromverbrauch auch dort durch den wirtschaftlichen Strukturwandel in den Keller gehen " .
+# tuepp_article_id = T911014.26
+# sent_id = 3020
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Genau wie in den anderen osteuropäischen Ländern " wird der Stromverbrauch auch dort durch den wirtschaftlichen Strukturwandel in den Keller gehen " .
 1	Genau	*	*	*	*
 2	wie	*	*	*	*
 3	in	*	*	*	*
@@ -314,10 +324,11 @@
 22	"	*	*	*	*
 23	.	*	*	*	*
 
-# article_id = T910115.105
-# text = Zum anderen rechnet ohnehin kaum ein Händler damit , daß der Dollar seinen Charakter als ausgesprochene Krisenwährung behält - eher über kurz als über lang wird er dank Rezession in den USA wieder in den Keller gehen .
+# tuepp_article_id = T910115.105
+# sent_id = 3021
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Zum anderen rechnet ohnehin kaum ein Händler damit , daß der Dollar seinen Charakter als ausgesprochene Krisenwährung behält - eher über kurz als über lang wird er dank Rezession in den USA wieder in den Keller gehen .
 1	Zum	*	*	*	*
 2	anderen	*	*	*	*
 3	rechnet	*	*	*	*
@@ -357,10 +368,11 @@
 37	gehen	2	2	2	2
 38	.	*	*	*	*
 
-# article_id = T910118.107
-# text = Als der Krieg am Golf begann , gingen die Aktienkurse in Tokio , wo die Börse gerade geöffnet war , in den Keller .
+# tuepp_article_id = T910118.107
+# sent_id = 3022
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als der Krieg am Golf begann , gingen die Aktienkurse in Tokio , wo die Börse gerade geöffnet war , in den Keller .
 1	Als	*	*	*	*
 2	der	*	*	*	*
 3	Krieg	*	*	*	*
@@ -386,10 +398,11 @@
 23	Keller	2	2	2	2
 24	.	*	*	*	*
 
-# article_id = T910117.14
-# text = Gestern nun ging dort der Nikkei- Aktienindex um 3,3 Prozent in den Keller und endete mit minus 770,53 bei 22.442,70 Punkten .
+# tuepp_article_id = T910117.14
+# sent_id = 3023
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gestern nun ging dort der Nikkei- Aktienindex um 3,3 Prozent in den Keller und endete mit minus 770,53 bei 22.442,70 Punkten .
 1	Gestern	*	*	*	*
 2	nun	*	*	*	*
 3	ging	2	2	2	2
@@ -413,10 +426,11 @@
 21	Punkten	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T911203.80
-# text = Am 1. Januar 1990 hatte der Tokioter Aktienindex seinen Höhepunkt erreicht , und fortan ging es bis tief in den Keller .
+# tuepp_article_id = T911203.80
+# sent_id = 3024
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Am 1. Januar 1990 hatte der Tokioter Aktienindex seinen Höhepunkt erreicht , und fortan ging es bis tief in den Keller .
 1	Am	*	*	*	*
 2	1	*	*	*	*
 3	.	*	*	*	*
@@ -441,10 +455,11 @@
 22	Keller	2	2	2	2
 23	.	*	*	*	*
 
-# article_id = T911214.230
-# text = Den Menschen im weiteren Umfeld der Fundstellte wird empfohlen , die Fenster zu öffnen und in den inneren Bereich der Wohnungen oder in den Keller zu gehen , während Sprengmeister Harry Warrelmann die Bombe entweder entschärft oder auch sprengen muß .
+# tuepp_article_id = T911214.230
+# sent_id = 3025
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Den Menschen im weiteren Umfeld der Fundstellte wird empfohlen , die Fenster zu öffnen und in den inneren Bereich der Wohnungen oder in den Keller zu gehen , während Sprengmeister Harry Warrelmann die Bombe entweder entschärft oder auch sprengen muß .
 1	Den	*	*	*	*
 2	Menschen	*	*	*	*
 3	im	*	*	*	*
@@ -487,10 +502,11 @@
 40	muß	*	*	*	*
 41	.	*	*	*	*
 
-# article_id = T911112.194
-# text = Wie immer ging ich mit Katja in den Keller , um die Milch zu holen .
+# tuepp_article_id = T911112.194
+# sent_id = 3026
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wie immer ging ich mit Katja in den Keller , um die Milch zu holen .
 1	Wie	*	*	*	*
 2	immer	*	*	*	*
 3	ging	1	1	1	1
@@ -508,10 +524,11 @@
 15	holen	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T910228.268
-# text = Auch vom Umweltressort wäre Geld zu holen gewesen : Mit 50 Mark pro Tonne wollte Umwelt einspringen , als der Papierpreis in den Keller ging .
+# tuepp_article_id = T910228.268
+# sent_id = 3027
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Auch vom Umweltressort wäre Geld zu holen gewesen : Mit 50 Mark pro Tonne wollte Umwelt einspringen , als der Papierpreis in den Keller ging .
 1	Auch	*	*	*	*
 2	vom	*	*	*	*
 3	Umweltressort	*	*	*	*
@@ -539,10 +556,11 @@
 25	ging	2	2	2	2
 26	.	*	*	*	*
 
-# article_id = T910226.117
-# text = Bereits in dieser Woche seien die Preise von 40 Dollar pro Barrel um 17 Dollar gesunken , und Hamar schätzt , daß sie nach Kriegsende weiter in den Keller gehen werden , sollte es der OPEC nicht gelingen , die Förderquoten weiter einzuschränken .
+# tuepp_article_id = T910226.117
+# sent_id = 3028
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Bereits in dieser Woche seien die Preise von 40 Dollar pro Barrel um 17 Dollar gesunken , und Hamar schätzt , daß sie nach Kriegsende weiter in den Keller gehen werden , sollte es der OPEC nicht gelingen , die Förderquoten weiter einzuschränken .
 1	Bereits	*	*	*	*
 2	in	*	*	*	*
 3	dieser	*	*	*	*
@@ -588,10 +606,11 @@
 43	einzuschränken	*	*	*	*
 44	.	*	*	*	*
 
-# article_id = T910202.204
-# text = Ute Baran : Es gibt von offizieller Seite die Empfehlung , im Falle eines Bombenangriffs in den Keller zu gehen .
+# tuepp_article_id = T910202.204
+# sent_id = 3029
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ute Baran : Es gibt von offizieller Seite die Empfehlung , im Falle eines Bombenangriffs in den Keller zu gehen .
 1	Ute	*	*	*	*
 2	Baran	*	*	*	*
 3	:	*	*	*	*
@@ -614,10 +633,11 @@
 20	gehen	1	1	1	1
 21	.	*	*	*	*
 
-# article_id = T910205.113
-# text = Prompte Folge : Der Dollar geht in den Keller .
+# tuepp_article_id = T910205.113
+# sent_id = 3030
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Prompte Folge : Der Dollar geht in den Keller .
 1	Prompte	*	*	*	*
 2	Folge	*	*	*	*
 3	:	*	*	*	*
@@ -629,10 +649,11 @@
 9	Keller	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T900512.262
-# text = " Mein Mann ist immer extra in den Keller gegangen " , erinnert sich Frau J. gut .
+# tuepp_article_id = T900512.262
+# sent_id = 3031
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Mein Mann ist immer extra in den Keller gegangen " , erinnert sich Frau J. gut .
 1	"	*	*	*	*
 2	Mein	*	*	*	*
 3	Mann	*	*	*	*
@@ -652,10 +673,11 @@
 17	gut	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T900612.55
-# text = Unklar sei außerdem , ob die OPEC auseinanderbricht und der Ölpreis dadurch in den Keller geht .
+# tuepp_article_id = T900612.55
+# sent_id = 3032
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Unklar sei außerdem , ob die OPEC auseinanderbricht und der Ölpreis dadurch in den Keller geht .
 1	Unklar	*	*	*	*
 2	sei	*	*	*	*
 3	außerdem	*	*	*	*
@@ -674,10 +696,11 @@
 16	geht	2	2	2	2
 17	.	*	*	*	*
 
-# article_id = T900929.130
-# text = Kein Olympia : Nach dem Abblitzen Athens beim IOC gingen dort die Börsenkurse in den Keller - aber die wenigen Bäume atmeten auf / Eine Möchtegern-Olympiastadt eine Woche nach dem Schock
+# tuepp_article_id = T900929.130
+# sent_id = 3033
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kein Olympia : Nach dem Abblitzen Athens beim IOC gingen dort die Börsenkurse in den Keller - aber die wenigen Bäume atmeten auf / Eine Möchtegern-Olympiastadt eine Woche nach dem Schock
 1	Kein	*	*	*	*
 2	Olympia	*	*	*	*
 3	:	*	*	*	*
@@ -710,10 +733,11 @@
 30	dem	*	*	*	*
 31	Schock	*	*	*	*
 
-# article_id = T900111.246
-# text = Als sich in Bremen das Rennen Jahr für Jahr steigerte , gingen woanders , in Berlin und Dortmund zum Beispiel , die Zuschauerzahlen , die Atmosphäre in den Keller .
+# tuepp_article_id = T900111.246
+# sent_id = 3034
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als sich in Bremen das Rennen Jahr für Jahr steigerte , gingen woanders , in Berlin und Dortmund zum Beispiel , die Zuschauerzahlen , die Atmosphäre in den Keller .
 1	Als	*	*	*	*
 2	sich	*	*	*	*
 3	in	*	*	*	*
@@ -745,10 +769,11 @@
 29	Keller	2	2	2	2
 30	.	*	*	*	*
 
-# article_id = T900717.240
-# text = Ihre Leistungen gingen in den Keller .
+# tuepp_article_id = T900717.240
+# sent_id = 3035
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ihre Leistungen gingen in den Keller .
 1	Ihre	*	*	*	*
 2	Leistungen	*	*	*	*
 3	gingen	2	2	2	2
@@ -757,10 +782,11 @@
 6	Keller	2	2	2	2
 7	.	*	*	*	*
 
-# article_id = T900703.77
-# text = Karstadt-Papiere stiegen um 11,50 DM , in den Keller ging es allerdings mit Konkurrent Horten ( minus 9,50 ) .
+# tuepp_article_id = T900703.77
+# sent_id = 3036
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Karstadt-Papiere stiegen um 11,50 DM , in den Keller ging es allerdings mit Konkurrent Horten ( minus 9,50 ) .
 1	Karstadt-Papiere	*	*	*	*
 2	stiegen	*	*	*	*
 3	um	*	*	*	*
@@ -782,10 +808,11 @@
 19	)	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T901217.224
-# text = Rechts im Seitenflügel geht 's in den Keller .
+# tuepp_article_id = T901217.224
+# sent_id = 3037
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Rechts im Seitenflügel geht 's in den Keller .
 1	Rechts	*	*	*	*
 2	im	*	*	*	*
 3	Seitenflügel	*	*	*	*
@@ -796,10 +823,11 @@
 8	Keller	1	1	1	1
 9	.	*	*	*	*
 
-# article_id = T900818.143
-# text = Während minutenlanger Sequenzen , da LKW-Kolonnen monoton durch Wüstensand brummen , kann man getrost in den Keller Bier holen gehen , ohne etwas zu verpassen .
+# tuepp_article_id = T900818.143
+# sent_id = 3038
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Während minutenlanger Sequenzen , da LKW-Kolonnen monoton durch Wüstensand brummen , kann man getrost in den Keller Bier holen gehen , ohne etwas zu verpassen .
 1	Während	*	*	*	*
 2	minutenlanger	*	*	*	*
 3	Sequenzen	*	*	*	*
@@ -827,10 +855,11 @@
 25	verpassen	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T900201.262
-# text = Ergebnis : Die Zensuren gehen in den Keller .
+# tuepp_article_id = T900201.262
+# sent_id = 3039
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ergebnis : Die Zensuren gehen in den Keller .
 1	Ergebnis	*	*	*	*
 2	:	*	*	*	*
 3	Die	*	*	*	*
@@ -841,10 +870,11 @@
 8	Keller	2	2	2	2
 9	.	*	*	*	*
 
-# article_id = T900221.56
-# text = Der Nudelhersteller protestierte , doch es half nichts - der Absatz ging in den Keller .
+# tuepp_article_id = T900221.56
+# sent_id = 3040
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Nudelhersteller protestierte , doch es half nichts - der Absatz ging in den Keller .
 1	Der	*	*	*	*
 2	Nudelhersteller	*	*	*	*
 3	protestierte	*	*	*	*
@@ -862,10 +892,11 @@
 15	Keller	2	2	2	2
 16	.	*	*	*	*
 
-# article_id = T921021.68
-# text = Mit scharfer Stimme präsentiert sie ihren Zuhörern ein verheerendes Resümee der letzten zwölf "Reagan-Bush-und-Specter"-Jahre : Arbeitsmarkt , Lohnentwicklung , Gesundheitsversorgung und industrielle Infrastruktur - " alles ist in den Keller gegangen " .
+# tuepp_article_id = T921021.68
+# sent_id = 3041
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit scharfer Stimme präsentiert sie ihren Zuhörern ein verheerendes Resümee der letzten zwölf "Reagan-Bush-und-Specter"-Jahre : Arbeitsmarkt , Lohnentwicklung , Gesundheitsversorgung und industrielle Infrastruktur - " alles ist in den Keller gegangen " .
 1	Mit	*	*	*	*
 2	scharfer	*	*	*	*
 3	Stimme	*	*	*	*
@@ -901,10 +932,11 @@
 33	"	*	*	*	*
 34	.	*	*	*	*
 
-# article_id = T921002.62
-# text = Die Industrieproduktion sank um 70 Prozent , und das Bruttoinlandsprodukt ( BIP ) , also der Wert aller Güter und Dienstleistungen , die von Inländern in den neuen Bundesländern produziert wurden , ging um rund 45 Prozent in den Keller .
+# tuepp_article_id = T921002.62
+# sent_id = 3042
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Industrieproduktion sank um 70 Prozent , und das Bruttoinlandsprodukt ( BIP ) , also der Wert aller Güter und Dienstleistungen , die von Inländern in den neuen Bundesländern produziert wurden , ging um rund 45 Prozent in den Keller .
 1	Die	*	*	*	*
 2	Industrieproduktion	*	*	*	*
 3	sank	*	*	*	*
@@ -947,10 +979,11 @@
 40	Keller	2	2	2	2
 41	.	*	*	*	*
 
-# article_id = T920404.161
-# text = Nur wenn ich morgens in unseren Keller gegangen bin , da waren sie mir eklig .
+# tuepp_article_id = T920404.161
+# sent_id = 3043
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nur wenn ich morgens in unseren Keller gegangen bin , da waren sie mir eklig .
 1	Nur	*	*	*	*
 2	wenn	*	*	*	*
 3	ich	*	*	*	*
@@ -968,10 +1001,11 @@
 15	eklig	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T880506.86
-# text = Gegen allerlei Unpäßlichkeiten soll auch eine Taschenlampe helfen - aber bitte nicht die , mit der man nachts in den Keller geht .
+# tuepp_article_id = T880506.86
+# sent_id = 3044
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gegen allerlei Unpäßlichkeiten soll auch eine Taschenlampe helfen - aber bitte nicht die , mit der man nachts in den Keller geht .
 1	Gegen	*	*	*	*
 2	allerlei	*	*	*	*
 3	Unpäßlichkeiten	*	*	*	*
@@ -996,10 +1030,11 @@
 22	geht	1	1	1	1
 23	.	*	*	*	*
 
-# article_id = T881008.65
-# text = Ein früheres Vorstandsmitglied des 'Communale'-Vereins " Forum der Bürger " erklärt : " Immerhin hat es zwei Jahre lang keine Einmischung sondern eine Masse Geld gegeben , und das Projekt ging trotzdem immer weiter in den Keller .
+# tuepp_article_id = T881008.65
+# sent_id = 3045
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein früheres Vorstandsmitglied des 'Communale'-Vereins " Forum der Bürger " erklärt : " Immerhin hat es zwei Jahre lang keine Einmischung sondern eine Masse Geld gegeben , und das Projekt ging trotzdem immer weiter in den Keller .
 1	Ein	*	*	*	*
 2	früheres	*	*	*	*
 3	Vorstandsmitglied	*	*	*	*
@@ -1040,10 +1075,11 @@
 38	Keller	2	2	2	2
 39	.	*	*	*	*
 
-# article_id = T880916.144
-# text = Prompt gehen die Preise für ihre Produkte in den Keller .
+# tuepp_article_id = T880916.144
+# sent_id = 3046
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Prompt gehen die Preise für ihre Produkte in den Keller .
 1	Prompt	*	*	*	*
 2	gehen	2	2	2	2
 3	die	*	*	*	*
@@ -1056,10 +1092,11 @@
 10	Keller	2	2	2	2
 11	.	*	*	*	*
 
-# article_id = T881205.125
-# text = Weil es daran in der DDR mangele , gehe die Produktivität in den Keller .
+# tuepp_article_id = T881205.125
+# sent_id = 3047
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Weil es daran in der DDR mangele , gehe die Produktivität in den Keller .
 1	Weil	*	*	*	*
 2	es	*	*	*	*
 3	daran	*	*	*	*
@@ -1076,10 +1113,11 @@
 14	Keller	2	2	2	2
 15	.	*	*	*	*
 
-# article_id = T881101.86
-# text = Wenn dann abends um 22 Uhr der Salon geschlossen wird und alles gesagt , aber noch längst nicht alles getrunken ist , geht man hinunter in den Keller , wo im " Cabaret de la Derniere Chance " drei Bands bis zum Morgengrauen dafür sorgen , daß das Festival auch Fest ist .
+# tuepp_article_id = T881101.86
+# sent_id = 3048
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn dann abends um 22 Uhr der Salon geschlossen wird und alles gesagt , aber noch längst nicht alles getrunken ist , geht man hinunter in den Keller , wo im " Cabaret de la Derniere Chance " drei Bands bis zum Morgengrauen dafür sorgen , daß das Festival auch Fest ist .
 1	Wenn	*	*	*	*
 2	dann	*	*	*	*
 3	abends	*	*	*	*
@@ -1134,10 +1172,11 @@
 52	ist	*	*	*	*
 53	.	*	*	*	*
 
-# article_id = T870509.56
-# text = Erste Blitzumfragen beweisen ein gesundes Urteil der amerikanischen Leser : Der Herald bekommt schlechte Noten , weil er jeden Respekt vor der Privatsphäre eines Menschen vermissen ließ ; doch gleichzeitig deuten sie an , daß Harts Reputation tief in den Keller gegangen ist .
+# tuepp_article_id = T870509.56
+# sent_id = 3049
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Erste Blitzumfragen beweisen ein gesundes Urteil der amerikanischen Leser : Der Herald bekommt schlechte Noten , weil er jeden Respekt vor der Privatsphäre eines Menschen vermissen ließ ; doch gleichzeitig deuten sie an , daß Harts Reputation tief in den Keller gegangen ist .
 1	Erste	*	*	*	*
 2	Blitzumfragen	*	*	*	*
 3	beweisen	*	*	*	*
@@ -1183,10 +1222,11 @@
 43	ist	*	*	*	*
 44	.	*	*	*	*
 
-# article_id = T870616.73
-# text = Jetzt geht der Ölpreis auch im RGW-Absatzgebiet in den Keller , aber die hohen Preise für Maschinenbauerzeugnisse , die Moskau aus diesem Raum bezieht , sind unangetastet geblieben .
+# tuepp_article_id = T870616.73
+# sent_id = 3050
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jetzt geht der Ölpreis auch im RGW-Absatzgebiet in den Keller , aber die hohen Preise für Maschinenbauerzeugnisse , die Moskau aus diesem Raum bezieht , sind unangetastet geblieben .
 1	Jetzt	*	*	*	*
 2	geht	2	2	2	2
 3	der	*	*	*	*
@@ -1217,10 +1257,11 @@
 28	geblieben	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T870605.70
-# text = Die arbeiten fanatisch daran , daß dieses Airbus-Projekt etwas wird , aber sie sehen auch , daß das Management nichts taugt , um das mal deutlich zu sagen , daß das eigentlich in den Keller gehen muß .
+# tuepp_article_id = T870605.70
+# sent_id = 3051
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die arbeiten fanatisch daran , daß dieses Airbus-Projekt etwas wird , aber sie sehen auch , daß das Management nichts taugt , um das mal deutlich zu sagen , daß das eigentlich in den Keller gehen muß .
 1	Die	*	*	*	*
 2	arbeiten	*	*	*	*
 3	fanatisch	*	*	*	*
@@ -1260,10 +1301,11 @@
 37	muß	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T871013.78
-# text = Natürlich kann auch eine Quellenbesteuerung ins Leere laufen , wenn daraufhin die Kapitalanleger ins Ausland ziehen , wodurch auch die Kurse der Staatsanleihen in den Keller gehen dürften .
+# tuepp_article_id = T871013.78
+# sent_id = 3052
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Natürlich kann auch eine Quellenbesteuerung ins Leere laufen , wenn daraufhin die Kapitalanleger ins Ausland ziehen , wodurch auch die Kurse der Staatsanleihen in den Keller gehen dürften .
 1	Natürlich	*	*	*	*
 2	kann	*	*	*	*
 3	auch	*	*	*	*
@@ -1294,10 +1336,11 @@
 28	dürften	*	*	*	*
 29	.	*	*	*	*
 
-# article_id = T871023.15
-# text = Berlin ( taz ) - Kaum haben sich die Aktienkurse an den internationalen Wertpapierbörsen wieder erholt , da geht es auch schon wieder in den Keller .
+# tuepp_article_id = T871023.15
+# sent_id = 3053
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Berlin ( taz ) - Kaum haben sich die Aktienkurse an den internationalen Wertpapierbörsen wieder erholt , da geht es auch schon wieder in den Keller .
 1	Berlin	*	*	*	*
 2	(	*	*	*	*
 3	taz	*	*	*	*
@@ -1326,10 +1369,11 @@
 26	Keller	2	2	2	2
 27	.	*	*	*	*
 
-# article_id = T870127.24
-# text = " Doch gleich nach Straußens TV-Auftritt geht die Stimmung im Ehrengastbereich des Olympiastadions - dem Ort angemessen - wieder in den Keller .
+# tuepp_article_id = T870127.24
+# sent_id = 3054
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Doch gleich nach Straußens TV-Auftritt geht die Stimmung im Ehrengastbereich des Olympiastadions - dem Ort angemessen - wieder in den Keller .
 1	"	*	*	*	*
 2	Doch	*	*	*	*
 3	gleich	*	*	*	*
@@ -1354,10 +1398,11 @@
 22	Keller	2	2	2	2
 23	.	*	*	*	*
 
-# article_id = T870121.29
-# text = Denn in der vom Kabelrat zugewiesenen Sendezeit von 19 bis 23 Uhr gehen die Einschaltquoten im Hörfunk in den Keller .
+# tuepp_article_id = T870121.29
+# sent_id = 3055
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Denn in der vom Kabelrat zugewiesenen Sendezeit von 19 bis 23 Uhr gehen die Einschaltquoten im Hörfunk in den Keller .
 1	Denn	*	*	*	*
 2	in	*	*	*	*
 3	der	*	*	*	*
@@ -1380,10 +1425,11 @@
 20	Keller	2	2	2	2
 21	.	*	*	*	*
 
-# article_id = T930517.160
-# text = Jeannettes schulische Leistungen gingen in den Keller , als sich ihre Eltern trennten .
+# tuepp_article_id = T930517.160
+# sent_id = 3056
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Jeannettes schulische Leistungen gingen in den Keller , als sich ihre Eltern trennten .
 1	Jeannettes	*	*	*	*
 2	schulische	*	*	*	*
 3	Leistungen	*	*	*	*
@@ -1399,10 +1445,11 @@
 13	trennten	*	*	*	*
 14	.	*	*	*	*
 
-# article_id = T931021.115
-# text = Nur wenn sie auf die Toilette mußten , hätten sie in den Keller gehen dürfen .
+# tuepp_article_id = T931021.115
+# sent_id = 3057
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nur wenn sie auf die Toilette mußten , hätten sie in den Keller gehen dürfen .
 1	Nur	*	*	*	*
 2	wenn	*	*	*	*
 3	sie	*	*	*	*
@@ -1420,10 +1467,11 @@
 15	dürfen	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T930908.105
-# text = Tagsüber wird es dort bis zu 40 Grad heiß , nachts gehen die Temperaturen bei fünf Grad in den Keller .
+# tuepp_article_id = T930908.105
+# sent_id = 3059
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Tagsüber wird es dort bis zu 40 Grad heiß , nachts gehen die Temperaturen bei fünf Grad in den Keller .
 1	Tagsüber	*	*	*	*
 2	wird	*	*	*	*
 3	es	*	*	*	*
@@ -1446,10 +1494,11 @@
 20	Keller	2	2	2	2
 21	.	*	*	*	*
 
-# article_id = T930125.53
-# text = Seit dem " schwarzen Donnerstag " im vergangenen Herbst , als das Pfund in den Keller ging , ist die Lobby für eine unabhängige Bank gewachsen .
+# tuepp_article_id = T930125.53
+# sent_id = 3060
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seit dem " schwarzen Donnerstag " im vergangenen Herbst , als das Pfund in den Keller ging , ist die Lobby für eine unabhängige Bank gewachsen .
 1	Seit	*	*	*	*
 2	dem	*	*	*	*
 3	"	*	*	*	*
@@ -1478,10 +1527,11 @@
 26	gewachsen	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T930108.191
-# text = Schließlich geht es in den Keller .
-# context_judgement_1 = 0
+# tuepp_article_id = T930108.191
+# sent_id = 3061
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Schließlich geht es in den Keller .
 1	Schließlich	*	*	*	*
 2	geht	1	2	1	1
 3	es	*	*	*	*
@@ -1490,10 +1540,11 @@
 6	Keller	1	2	1	1
 7	.	*	*	*	*
 
-# article_id = T930116.221
-# text = Aber seit einem Jahr sind die Preise für Rohöl in den Keller gegangen .
+# tuepp_article_id = T930116.221
+# sent_id = 3062
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber seit einem Jahr sind die Preise für Rohöl in den Keller gegangen .
 1	Aber	*	*	*	*
 2	seit	*	*	*	*
 3	einem	*	*	*	*
@@ -1509,10 +1560,11 @@
 13	gegangen	2	2	2	2
 14	.	*	*	*	*
 
-# article_id = T930724.291
-# text = Wenn die Sirenen heulen , geht es eben " ab in den Keller " .
+# tuepp_article_id = T930724.291
+# sent_id = 3063
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn die Sirenen heulen , geht es eben " ab in den Keller " .
 1	Wenn	*	*	*	*
 2	die	*	*	*	*
 3	Sirenen	*	*	*	*
@@ -1529,10 +1581,11 @@
 14	"	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T931216.16
-# text = Ich gehe nicht ins Treppenhaus und auch nicht in den Keller , ich fühle mich besser , wenn ich lese , während die Granaten niedergehen .
+# tuepp_article_id = T931216.16
+# sent_id = 3064
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ich gehe nicht ins Treppenhaus und auch nicht in den Keller , ich fühle mich besser , wenn ich lese , während die Granaten niedergehen .
 1	Ich	*	*	*	*
 2	gehe	1	1	1	1
 3	nicht	*	*	*	*
@@ -1560,10 +1613,11 @@
 25	niedergehen	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T931216.16
-# text = Und sie sitzt , bis sie mich so wütend gemacht hat , daß auch ich ins Treppenhaus oder in den Keller gehe .
+# tuepp_article_id = T931216.16
+# sent_id = 3065
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und sie sitzt , bis sie mich so wütend gemacht hat , daß auch ich ins Treppenhaus oder in den Keller gehe .
 1	Und	*	*	*	*
 2	sie	*	*	*	*
 3	sitzt	*	*	*	*
@@ -1588,10 +1642,11 @@
 22	gehe	1	1	1	1
 23	.	*	*	*	*
 
-# article_id = T930302.159
-# text = Vorbei an einer rotbeleuchteten Heiligenfigur ging es in den Keller hinunter .
+# tuepp_article_id = T930302.159
+# sent_id = 3066
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Vorbei an einer rotbeleuchteten Heiligenfigur ging es in den Keller hinunter .
 1	Vorbei	*	*	*	*
 2	an	*	*	*	*
 3	einer	*	*	*	*
@@ -1605,10 +1660,11 @@
 11	hinunter	*	*	*	*
 12	.	*	*	*	*
 
-# article_id = T930324.222
-# text = Da auch die Steuereinnahmen in den Keller gehen , rechnen Bürgermeister und Finanzsenator bereits 1994 mit einer Deckungslücke von 510 Millionen Mark im Hamburger Haushalt .
+# tuepp_article_id = T930324.222
+# sent_id = 3067
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Da auch die Steuereinnahmen in den Keller gehen , rechnen Bürgermeister und Finanzsenator bereits 1994 mit einer Deckungslücke von 510 Millionen Mark im Hamburger Haushalt .
 1	Da	*	*	*	*
 2	auch	*	*	*	*
 3	die	*	*	*	*
@@ -1636,10 +1692,11 @@
 25	Haushalt	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T930303.25
-# text = Hans Eichel : Die CDU geht heute tatsächlich wieder tief in den Keller .
+# tuepp_article_id = T930303.25
+# sent_id = 3068
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Hans Eichel : Die CDU geht heute tatsächlich wieder tief in den Keller .
 1	Hans	*	*	*	*
 2	Eichel	*	*	*	*
 3	:	*	*	*	*
@@ -1655,10 +1712,11 @@
 13	Keller	1	2	2	2
 14	.	*	*	*	*
 
-# article_id = T930201.43
-# text = Es war bereits die fünfte Abwertung einer EWS-Währung seit September : Nach dem Ausstieg Großbritanniens und Italiens aus dem EWS gingen Sterling und Lira in den Keller , und im November wurden die spanische Peseta und der portugiesische Escudo um jeweils sechs Prozent abgewertet .
+# tuepp_article_id = T930201.43
+# sent_id = 3069
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Es war bereits die fünfte Abwertung einer EWS-Währung seit September : Nach dem Ausstieg Großbritanniens und Italiens aus dem EWS gingen Sterling und Lira in den Keller , und im November wurden die spanische Peseta und der portugiesische Escudo um jeweils sechs Prozent abgewertet .
 1	Es	*	*	*	*
 2	war	*	*	*	*
 3	bereits	*	*	*	*
@@ -1705,10 +1763,11 @@
 44	abgewertet	*	*	*	*
 45	.	*	*	*	*
 
-# article_id = T960419.340
-# text = Die never ending story geht inzwischen in ihre x-te Runde , das Niveau dabei vollends in den Keller .
+# tuepp_article_id = T960419.340
+# sent_id = 3070
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die never ending story geht inzwischen in ihre x-te Runde , das Niveau dabei vollends in den Keller .
 1	Die	*	*	*	*
 2	never	*	*	*	*
 3	ending	*	*	*	*
@@ -1729,10 +1788,11 @@
 18	Keller	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T961214.360
-# text = Gehen die Strompreise in den Keller , amortisieren sich Energieeinspar-Investitionen für Betriebe und Verbraucher erst nach vielen Jahren .
+# tuepp_article_id = T961214.360
+# sent_id = 3071
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gehen die Strompreise in den Keller , amortisieren sich Energieeinspar-Investitionen für Betriebe und Verbraucher erst nach vielen Jahren .
 1	Gehen	2	2	2	2
 2	die	*	*	*	*
 3	Strompreise	*	*	*	*
@@ -1753,10 +1813,11 @@
 18	Jahren	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T961224.214
-# text = " Hier kann man seine Krisen ausleben , um fünf Uhr morgens auf den Jüdischen Friedhof gehen oder in den Keller und ein paar Stunden abschreien .
+# tuepp_article_id = T961224.214
+# sent_id = 3072
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Hier kann man seine Krisen ausleben , um fünf Uhr morgens auf den Jüdischen Friedhof gehen oder in den Keller und ein paar Stunden abschreien .
 1	"	*	*	*	*
 2	Hier	*	*	*	*
 3	kann	*	*	*	*
@@ -1785,10 +1846,11 @@
 26	abschreien	*	*	*	*
 27	.	*	*	*	*
 
-# article_id = T960812.206
-# text = Kaum ein Sender verschleudert seine teuren Eigenproduktionen an die wenigen Daheimgebliebenen - wenn schon die Quoten in den Keller gehen , steigt der Programmplaner lieber gleich mit hinab ins Archiv und hebt kostenneutrale Wiederholungen auf die verwaisten Sendeplätze .
+# tuepp_article_id = T960812.206
+# sent_id = 3073
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Kaum ein Sender verschleudert seine teuren Eigenproduktionen an die wenigen Daheimgebliebenen - wenn schon die Quoten in den Keller gehen , steigt der Programmplaner lieber gleich mit hinab ins Archiv und hebt kostenneutrale Wiederholungen auf die verwaisten Sendeplätze .
 1	Kaum	*	*	*	*
 2	ein	*	*	*	*
 3	Sender	*	*	*	*
@@ -1829,10 +1891,11 @@
 38	Sendeplätze	*	*	*	*
 39	.	*	*	*	*
 
-# article_id = T960806.182
-# text = Ein ganz kleiner Vorgeschmack war's , was auf uns zukommt , wenn Deutschland in wenigen Jahren ins Mittelfeld der Industrienationen zurückgefallen sein wird und das Selbstwertgefühl der Bürger gemeinsam mit dem Wechselkurs der D-Mark in den Keller geht .
+# tuepp_article_id = T960806.182
+# sent_id = 3074
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein ganz kleiner Vorgeschmack war's , was auf uns zukommt , wenn Deutschland in wenigen Jahren ins Mittelfeld der Industrienationen zurückgefallen sein wird und das Selbstwertgefühl der Bürger gemeinsam mit dem Wechselkurs der D-Mark in den Keller geht .
 1	Ein	*	*	*	*
 2	ganz	*	*	*	*
 3	kleiner	*	*	*	*
@@ -1874,10 +1937,11 @@
 39	geht	2	2	2	2
 40	.	*	*	*	*
 
-# article_id = T960813.109
-# text = Die Arzneimittelkosten , zumindest solche in Form von Suppositorien , gehen schlagartig in den Keller , denn für Sadomasospielzeug zahlt schließlich auch keine Kasse !
+# tuepp_article_id = T960813.109
+# sent_id = 3075
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Arzneimittelkosten , zumindest solche in Form von Suppositorien , gehen schlagartig in den Keller , denn für Sadomasospielzeug zahlt schließlich auch keine Kasse !
 1	Die	*	*	*	*
 2	Arzneimittelkosten	*	*	*	*
 3	,	*	*	*	*
@@ -1904,10 +1968,11 @@
 24	Kasse	*	*	*	*
 25	!	*	*	*	*
 
-# article_id = T960821.48
-# text = Allerdings war die Stimmung unter den engagierten Asyl-Anwälten ziemlich in den Keller gegangen , nachdem das BVerfG im Mai diesen Jahres die Grundgesetzänderung zum Asylrecht ohne größere Skrupel abgesegnet hatte .
+# tuepp_article_id = T960821.48
+# sent_id = 3076
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Allerdings war die Stimmung unter den engagierten Asyl-Anwälten ziemlich in den Keller gegangen , nachdem das BVerfG im Mai diesen Jahres die Grundgesetzänderung zum Asylrecht ohne größere Skrupel abgesegnet hatte .
 1	Allerdings	*	*	*	*
 2	war	*	*	*	*
 3	die	*	*	*	*
@@ -1940,10 +2005,11 @@
 30	hatte	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T960808.246
-# text = " Gerade die Spätshows sind auch als Wartesaal für Zuschauer gedacht , die den Höhepunkt des Abends schon hinter oder noch vor sich haben : " Manche lassen den Abend hier ausklingen , für andere ist es der Auftakt , bevor sie in irgendeinen Techno- Keller gehen .
+# tuepp_article_id = T960808.246
+# sent_id = 3077
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Gerade die Spätshows sind auch als Wartesaal für Zuschauer gedacht , die den Höhepunkt des Abends schon hinter oder noch vor sich haben : " Manche lassen den Abend hier ausklingen , für andere ist es der Auftakt , bevor sie in irgendeinen Techno- Keller gehen .
 1	"	*	*	*	*
 2	Gerade	*	*	*	*
 3	die	*	*	*	*
@@ -1993,10 +2059,11 @@
 47	gehen	1	1	2	1
 48	.	*	*	*	*
 
-# article_id = T960323.265
-# text = Der Wert ihrer Häuschen ist in den Keller gegangen .
+# tuepp_article_id = T960323.265
+# sent_id = 3078
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Der Wert ihrer Häuschen ist in den Keller gegangen .
 1	Der	*	*	*	*
 2	Wert	*	*	*	*
 3	ihrer	*	*	*	*
@@ -2008,10 +2075,11 @@
 9	gegangen	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T960321.20
-# text = Aber die beruhigenden Worte werden nicht verhindern , daß der Verkauf von Rindfleisch in den Keller gehen wird .
+# tuepp_article_id = T960321.20
+# sent_id = 3079
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Aber die beruhigenden Worte werden nicht verhindern , daß der Verkauf von Rindfleisch in den Keller gehen wird .
 1	Aber	*	*	*	*
 2	die	*	*	*	*
 3	beruhigenden	*	*	*	*
@@ -2032,10 +2100,11 @@
 18	wird	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T960325.56
-# text = Sollten die Experten empfehlen , sämtliche 11,8 Millionen britische Rinder zu töten , würde der Sterling in den Keller gehen , die Inflation um eineinhalb Prozent ansteigen .
+# tuepp_article_id = T960325.56
+# sent_id = 3080
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sollten die Experten empfehlen , sämtliche 11,8 Millionen britische Rinder zu töten , würde der Sterling in den Keller gehen , die Inflation um eineinhalb Prozent ansteigen .
 1	Sollten	*	*	*	*
 2	die	*	*	*	*
 3	Experten	*	*	*	*
@@ -2065,10 +2134,11 @@
 27	ansteigen	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T960325.71
-# text = " Man hätte doch nur in den Keller gehen müssen und in den Akten nachschauen müssen " , argumentiert Gudrun Lehmann .
+# tuepp_article_id = T960325.71
+# sent_id = 3081
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Man hätte doch nur in den Keller gehen müssen und in den Akten nachschauen müssen " , argumentiert Gudrun Lehmann .
 1	"	*	*	*	*
 2	Man	*	*	*	*
 3	hätte	*	*	*	*
@@ -2092,10 +2162,11 @@
 21	Lehmann	*	*	*	*
 22	.	*	*	*	*
 
-# article_id = T961106.109
-# text = Er biegt in einen Hinterhof ein , es geht einige Stufen hinunter in einen Keller .
+# tuepp_article_id = T961106.109
+# sent_id = 3082
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Er biegt in einen Hinterhof ein , es geht einige Stufen hinunter in einen Keller .
 1	Er	*	*	*	*
 2	biegt	*	*	*	*
 3	in	*	*	*	*
@@ -2113,10 +2184,11 @@
 15	Keller	1	1	1	1
 16	.	*	*	*	*
 
-# article_id = T980514.256
-# text = Sie haben Paris erwähnt , dort werden Museen als Ereignisse inszeniert - hier geht die Berlinische Galerie in den Keller .
+# tuepp_article_id = T980514.256
+# sent_id = 3083
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sie haben Paris erwähnt , dort werden Museen als Ereignisse inszeniert - hier geht die Berlinische Galerie in den Keller .
 1	Sie	*	*	*	*
 2	haben	*	*	*	*
 3	Paris	*	*	*	*
@@ -2139,10 +2211,11 @@
 20	Keller	2	2	2	2
 21	.	*	*	*	*
 
-# article_id = T981019.221
-# text = Ein Winzer war in seinen Keller gegangen , in dem mehrere Fuder des Mostes gärten .
+# tuepp_article_id = T981019.221
+# sent_id = 3084
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ein Winzer war in seinen Keller gegangen , in dem mehrere Fuder des Mostes gärten .
 1	Ein	*	*	*	*
 2	Winzer	*	*	*	*
 3	war	*	*	*	*
@@ -2160,10 +2233,11 @@
 15	gärten	*	*	*	*
 16	.	*	*	*	*
 
-# article_id = T980905.206
-# text = Dann geht es in den Keller runter .
+# tuepp_article_id = T980905.206
+# sent_id = 3085
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Dann geht es in den Keller runter .
 1	Dann	*	*	*	*
 2	geht	1	1	1	1
 3	es	*	*	*	*
@@ -2173,10 +2247,11 @@
 7	runter	*	*	*	*
 8	.	*	*	*	*
 
-# article_id = T980427.97
-# text = Mit dem Aufstieg der Neonazis wird eine große Koalition in Magdeburg wahrscheinlich - und das , obwohl die CDU von bisher 34 auf rund 22 Prozent in den Keller ging .
+# tuepp_article_id = T980427.97
+# sent_id = 3086
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Mit dem Aufstieg der Neonazis wird eine große Koalition in Magdeburg wahrscheinlich - und das , obwohl die CDU von bisher 34 auf rund 22 Prozent in den Keller ging .
 1	Mit	*	*	*	*
 2	dem	*	*	*	*
 3	Aufstieg	*	*	*	*
@@ -2209,10 +2284,11 @@
 30	ging	2	2	2	2
 31	.	*	*	*	*
 
-# article_id = T981212.332
-# text = Denn der Verbrauch an Kerzen , so lehrt uns die Erfahrung , geht nach Beendigung der Christenzeremonie rapide in den Keller .
+# tuepp_article_id = T981212.332
+# sent_id = 3087
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Denn der Verbrauch an Kerzen , so lehrt uns die Erfahrung , geht nach Beendigung der Christenzeremonie rapide in den Keller .
 1	Denn	*	*	*	*
 2	der	*	*	*	*
 3	Verbrauch	*	*	*	*
@@ -2236,10 +2312,11 @@
 21	Keller	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T981229.33
-# text = Gehen die Gebühren bis auf sechs Pfennig in den Keller , gehört Telekom zu den billigsten Verbindern .
+# tuepp_article_id = T981229.33
+# sent_id = 3088
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Gehen die Gebühren bis auf sechs Pfennig in den Keller , gehört Telekom zu den billigsten Verbindern .
 1	Gehen	2	2	2	2
 2	die	*	*	*	*
 3	Gebühren	*	*	*	*
@@ -2259,10 +2336,11 @@
 17	Verbindern	*	*	*	*
 18	.	*	*	*	*
 
-# article_id = T980811.131
-# text = Im Juni und Juli gingen die CD-Verkäufe derart in den Keller , daß sich die Manager ernsthaft Sorgen machen .
+# tuepp_article_id = T980811.131
+# sent_id = 3089
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Juni und Juli gingen die CD-Verkäufe derart in den Keller , daß sich die Manager ernsthaft Sorgen machen .
 1	Im	*	*	*	*
 2	Juni	*	*	*	*
 3	und	*	*	*	*
@@ -2284,10 +2362,11 @@
 19	machen	*	*	*	*
 20	.	*	*	*	*
 
-# article_id = T980302.279
-# text = Wenn man alle paar Tage in den Keller geht , um Kohlen zu holen , kommt auch oft eine grimmige Befriedigung daher , denn man heizt ja sozusagen mit eigener Kraft .
+# tuepp_article_id = T980302.279
+# sent_id = 3090
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Wenn man alle paar Tage in den Keller geht , um Kohlen zu holen , kommt auch oft eine grimmige Befriedigung daher , denn man heizt ja sozusagen mit eigener Kraft .
 1	Wenn	*	*	*	*
 2	man	*	*	*	*
 3	alle	*	*	*	*
@@ -2321,10 +2400,11 @@
 31	Kraft	*	*	*	*
 32	.	*	*	*	*
 
-# article_id = T981111.83
-# text = Als der Aktienkurs des Berliner Instituts im Zuge der weltweiten Finanzkrise in den Keller ging , nahmen die NordLB-Eigner das als Vorwand für den Ausstieg .
+# tuepp_article_id = T981111.83
+# sent_id = 3091
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Als der Aktienkurs des Berliner Instituts im Zuge der weltweiten Finanzkrise in den Keller ging , nahmen die NordLB-Eigner das als Vorwand für den Ausstieg .
 1	Als	*	*	*	*
 2	der	*	*	*	*
 3	Aktienkurs	*	*	*	*
@@ -2352,10 +2432,11 @@
 25	Ausstieg	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T980213.381
-# text = Die thailändische Währung , der Baht , sackte ab , und diese Depression erfaßte die übrigen Währungen der Region : Der malaysische Ringgit , der philippinische Peso , die indonesische Rupiah und selbst der Singapur-Dollar verzeichneten starke Verluste , die Börsenkurse gingen steil in den Keller .
+# tuepp_article_id = T980213.381
+# sent_id = 3092
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die thailändische Währung , der Baht , sackte ab , und diese Depression erfaßte die übrigen Währungen der Region : Der malaysische Ringgit , der philippinische Peso , die indonesische Rupiah und selbst der Singapur-Dollar verzeichneten starke Verluste , die Börsenkurse gingen steil in den Keller .
 1	Die	*	*	*	*
 2	thailändische	*	*	*	*
 3	Währung	*	*	*	*
@@ -2404,10 +2485,11 @@
 46	Keller	2	2	2	2
 47	.	*	*	*	*
 
-# article_id = T980223.211
-# text = An jenen Tagen , an denen die Times verschleudert wird , geht der Independent-Absatz in den Keller .
+# tuepp_article_id = T980223.211
+# sent_id = 3093
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = An jenen Tagen , an denen die Times verschleudert wird , geht der Independent-Absatz in den Keller .
 1	An	*	*	*	*
 2	jenen	*	*	*	*
 3	Tagen	*	*	*	*
@@ -2427,10 +2509,11 @@
 17	Keller	2	2	2	2
 18	.	*	*	*	*
 
-# article_id = T970617.42
-# text = IL-2 stimuliert das Immunsystem , regt die Vermehrung und Reifung der T4-Helferzellen an , deren Zahl bei Aids dramatisch in den Keller geht .
+# tuepp_article_id = T970617.42
+# sent_id = 3094
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = IL-2 stimuliert das Immunsystem , regt die Vermehrung und Reifung der T4-Helferzellen an , deren Zahl bei Aids dramatisch in den Keller geht .
 1	IL-2	*	*	*	*
 2	stimuliert	*	*	*	*
 3	das	*	*	*	*
@@ -2456,10 +2539,11 @@
 23	geht	2	2	2	2
 24	.	*	*	*	*
 
-# article_id = T970607.301
-# text = Die Folge : Die Entsorgungspreise gingen in den Keller .
+# tuepp_article_id = T970607.301
+# sent_id = 3095
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Folge : Die Entsorgungspreise gingen in den Keller .
 1	Die	*	*	*	*
 2	Folge	*	*	*	*
 3	:	*	*	*	*
@@ -2471,10 +2555,11 @@
 9	Keller	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T971013.25
-# text = Die Rendite geht in den Keller .
+# tuepp_article_id = T971013.25
+# sent_id = 3096
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Rendite geht in den Keller .
 1	Die	*	*	*	*
 2	Rendite	*	*	*	*
 3	geht	2	2	2	2
@@ -2483,10 +2568,11 @@
 6	Keller	2	2	2	2
 7	.	*	*	*	*
 
-# article_id = T971018.80
-# text = So daß vielleicht sogar ein neuer Schwarzer Montag herbeizuwünschen ist : damit die Aktienrenditen so weit in den Keller gehen , daß sich produktive Investitionen wieder lohnen .
+# tuepp_article_id = T971018.80
+# sent_id = 3097
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = So daß vielleicht sogar ein neuer Schwarzer Montag herbeizuwünschen ist : damit die Aktienrenditen so weit in den Keller gehen , daß sich produktive Investitionen wieder lohnen .
 1	So	*	*	*	*
 2	daß	*	*	*	*
 3	vielleicht	*	*	*	*
@@ -2516,10 +2602,11 @@
 27	lohnen	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T970925.126
-# text = Das zeigt Wirkung : Von den acht Reedereien , deren Schiffe regelmäßig in Liverpool anlegten , sind nur noch sechs übrig , die MDHC-Aktien gingen in den Keller .
+# tuepp_article_id = T970925.126
+# sent_id = 3098
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Das zeigt Wirkung : Von den acht Reedereien , deren Schiffe regelmäßig in Liverpool anlegten , sind nur noch sechs übrig , die MDHC-Aktien gingen in den Keller .
 1	Das	*	*	*	*
 2	zeigt	*	*	*	*
 3	Wirkung	*	*	*	*
@@ -2550,10 +2637,11 @@
 28	Keller	2	2	2	2
 29	.	*	*	*	*
 
-# article_id = T970729.245
-# text = " Der 26jährige , Mitglied der KonsumentInnengruppe " Testasy " , kennt auch das Phänomen der sogenannten " Ecstasy-Depression " : Ist das Wochenende um , der Rave vorbei und der Rausch beendet , geht die Stimmung in den Keller - bis zur nächsten Party , der nächsten " E " .
+# tuepp_article_id = T970729.245
+# sent_id = 3099
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Der 26jährige , Mitglied der KonsumentInnengruppe " Testasy " , kennt auch das Phänomen der sogenannten " Ecstasy-Depression " : Ist das Wochenende um , der Rave vorbei und der Rausch beendet , geht die Stimmung in den Keller - bis zur nächsten Party , der nächsten " E " .
 1	"	*	*	*	*
 2	Der	*	*	*	*
 3	26jährige	*	*	*	*
@@ -2607,10 +2695,11 @@
 51	"	*	*	*	*
 52	.	*	*	*	*
 
-# article_id = T970711.154
-# text = Ihr Umsatz geht in den Keller , von Profit keine Spur mehr .
+# tuepp_article_id = T970711.154
+# sent_id = 3100
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ihr Umsatz geht in den Keller , von Profit keine Spur mehr .
 1	Ihr	*	*	*	*
 2	Umsatz	*	*	*	*
 3	geht	2	2	2	2
@@ -2625,10 +2714,11 @@
 12	mehr	*	*	*	*
 13	.	*	*	*	*
 
-# article_id = T971224.35
-# text = Ganz vorne liegen da bekanntlich Pink Floyd und Genesis , die es beide hingekriegt haben , jeweils zweimal das Aussteigen ihres wichtigsten Mannes zu verkraften , ohne daß daraufhin auch nur im geringsten die Verkaufszahlen in den Keller gingen .
+# tuepp_article_id = T971224.35
+# sent_id = 3101
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Ganz vorne liegen da bekanntlich Pink Floyd und Genesis , die es beide hingekriegt haben , jeweils zweimal das Aussteigen ihres wichtigsten Mannes zu verkraften , ohne daß daraufhin auch nur im geringsten die Verkaufszahlen in den Keller gingen .
 1	Ganz	*	*	*	*
 2	vorne	*	*	*	*
 3	liegen	*	*	*	*
@@ -2670,10 +2760,11 @@
 39	gingen	2	2	2	2
 40	.	*	*	*	*
 
-# article_id = T971204.172
-# text = Soll ich dazu diskret in den Keller gehen , damit meine Freundin nicht mitkriegt , wie teuer der Ball war ?
+# tuepp_article_id = T971204.172
+# sent_id = 3102
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Soll ich dazu diskret in den Keller gehen , damit meine Freundin nicht mitkriegt , wie teuer der Ball war ?
 1	Soll	*	*	*	*
 2	ich	*	*	*	*
 3	dazu	*	*	*	*
@@ -2696,10 +2787,11 @@
 20	war	*	*	*	*
 21	?	*	*	*	*
 
-# article_id = T971201.137
-# text = Wenn's Richtung Keller gehen soll , wären Krautzun , Saftig oder Roggensack die richtigen Herren für den vakanten Posten .
+# tuepp_article_id = T971201.137
+# sent_id = 3103
 # context_judgement_1 = 1
 # context_judgement_2 = 1
+# text = Wenn's Richtung Keller gehen soll , wären Krautzun , Saftig oder Roggensack die richtigen Herren für den vakanten Posten .
 1	Wenn	*	*	*	*
 2	's	*	*	*	*
 3	Richtung	*	*	*	*
@@ -2722,10 +2814,11 @@
 20	Posten	*	*	*	*
 21	.	*	*	*	*
 
-# article_id = T970828.236
-# text = Damit gehen wir jetzt in den Keller , so ganz tief runter , basteln das schlimmste Schema kommerzieller Stückelarbeit zusammen und schmücken es mit ein paar Namen .
-# context_judgement_1 = 0
+# tuepp_article_id = T970828.236
+# sent_id = 3104
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Damit gehen wir jetzt in den Keller , so ganz tief runter , basteln das schlimmste Schema kommerzieller Stückelarbeit zusammen und schmücken es mit ein paar Namen .
 1	Damit	*	*	*	*
 2	gehen	2	2	2	2
 3	wir	*	*	*	*
@@ -2755,10 +2848,11 @@
 27	Namen	*	*	*	*
 28	.	*	*	*	*
 
-# article_id = T970801.68
-# text = Die Erfolge von Jan Ullrich und Co. sind für die Branche gerade richtig gekommen , bevor die Umsätze weiter in den Keller gehen können .
+# tuepp_article_id = T970801.68
+# sent_id = 3105
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Erfolge von Jan Ullrich und Co. sind für die Branche gerade richtig gekommen , bevor die Umsätze weiter in den Keller gehen können .
 1	Die	*	*	*	*
 2	Erfolge	*	*	*	*
 3	von	*	*	*	*
@@ -2785,10 +2879,11 @@
 24	können	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T970324.84
-# text = Nach der guten Ernte des letzten Jahres seien die Preise für normale Kartoffeln kräftig in den Keller gegangen .
+# tuepp_article_id = T970324.84
+# sent_id = 3106
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach der guten Ernte des letzten Jahres seien die Preise für normale Kartoffeln kräftig in den Keller gegangen .
 1	Nach	*	*	*	*
 2	der	*	*	*	*
 3	guten	*	*	*	*
@@ -2809,10 +2904,11 @@
 18	gegangen	2	2	2	2
 19	.	*	*	*	*
 
-# article_id = T970204.140
-# text = Dann geht es runter in den Keller .
-# context_judgement_1 = 0
+# tuepp_article_id = T970204.140
+# sent_id = 3107
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = Dann geht es runter in den Keller .
 1	Dann	*	*	*	*
 2	geht	1	1	1	1
 3	es	*	*	*	*
@@ -2822,10 +2918,11 @@
 7	Keller	1	1	1	1
 8	.	*	*	*	*
 
-# article_id = T940607.210
-# text = Durch das BSE-Virus sind allerdings auch die Preise für Galloway-Rinder jetzt in den Keller gegangen .
+# tuepp_article_id = T940607.210
+# sent_id = 3108
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Durch das BSE-Virus sind allerdings auch die Preise für Galloway-Rinder jetzt in den Keller gegangen .
 1	Durch	*	*	*	*
 2	das	*	*	*	*
 3	BSE-Virus	*	*	*	*
@@ -2843,10 +2940,11 @@
 15	gegangen	2	2	2	2
 16	.	*	*	*	*
 
-# article_id = T941007.314
-# text = Seitdem gingen die Leistungen Sawitschews kontinuierlich in den Keller .
+# tuepp_article_id = T941007.314
+# sent_id = 3109
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Seitdem gingen die Leistungen Sawitschews kontinuierlich in den Keller .
 1	Seitdem	*	*	*	*
 2	gingen	2	2	2	2
 3	die	*	*	*	*
@@ -2858,10 +2956,11 @@
 9	Keller	2	2	2	2
 10	.	*	*	*	*
 
-# article_id = T941014.300
-# text = Hat sich eine Mannschaft erst einmal im unteren Tabellendrittel festgesetzt , greift der Fluch des Kellersyndroms um sich : Das Selbstbewußtsein sinkt , das Abstiegsgespenst beginnt in den Köpfen der Spieler herumzugeistern , der Druck von außen wächst , und die Leistung der Mannschaft geht noch weiter in den Keller .
+# tuepp_article_id = T941014.300
+# sent_id = 3110
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Hat sich eine Mannschaft erst einmal im unteren Tabellendrittel festgesetzt , greift der Fluch des Kellersyndroms um sich : Das Selbstbewußtsein sinkt , das Abstiegsgespenst beginnt in den Köpfen der Spieler herumzugeistern , der Druck von außen wächst , und die Leistung der Mannschaft geht noch weiter in den Keller .
 1	Hat	*	*	*	*
 2	sich	*	*	*	*
 3	eine	*	*	*	*
@@ -2914,10 +3013,11 @@
 50	Keller	2	2	2	2
 51	.	*	*	*	*
 
-# article_id = T940115.95
-# text = Durch die Auswirkungen des Golfkriegs im Ferntourismus , die politischen Unruhen im Mai 1992 und die weltweite Rezession sind die Preise noch tiefer in den Keller gegangen .
+# tuepp_article_id = T940115.95
+# sent_id = 3111
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Durch die Auswirkungen des Golfkriegs im Ferntourismus , die politischen Unruhen im Mai 1992 und die weltweite Rezession sind die Preise noch tiefer in den Keller gegangen .
 1	Durch	*	*	*	*
 2	die	*	*	*	*
 3	Auswirkungen	*	*	*	*
@@ -2947,10 +3047,11 @@
 27	gegangen	2	2	2	2
 28	.	*	*	*	*
 
-# article_id = T940429.298
-# text = " Aber die internationalen Preise sind in den Keller gegangen und die Anbaukosten steigen .
+# tuepp_article_id = T940429.298
+# sent_id = 3112
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " Aber die internationalen Preise sind in den Keller gegangen und die Anbaukosten steigen .
 1	"	*	*	*	*
 2	Aber	*	*	*	*
 3	die	*	*	*	*
@@ -2967,10 +3068,11 @@
 14	steigen	*	*	*	*
 15	.	*	*	*	*
 
-# article_id = T940427.190
+# tuepp_article_id = T940427.190
+# sent_id = 3113
+# context_judgement_1 = 0
+# context_judgement_2 = 1
 # text = Man kommt durch Räume , die der Reihe nach beschrieben werden mit allem , was sie enthalten , man wird von Mitspielern " angesprochen " , und man kann " handeln " , indem man einfache Sätze eingibt : " Gehe in den Keller hinunter " , dann " Was siehst du jetzt ?
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	Man	*	*	*	*
 2	kommt	*	*	*	*
 3	durch	*	*	*	*
@@ -3026,10 +3128,11 @@
 53	jetzt	*	*	*	*
 54	?	*	*	*	*
 
-# article_id = T940728.230
-# text = Bei einer beginnenden Massenproduktion werden die Preise ähnlich radikal in den Keller gehen wie damals bei den Taschenrechnern .
+# tuepp_article_id = T940728.230
+# sent_id = 3114
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Bei einer beginnenden Massenproduktion werden die Preise ähnlich radikal in den Keller gehen wie damals bei den Taschenrechnern .
 1	Bei	*	*	*	*
 2	einer	*	*	*	*
 3	beginnenden	*	*	*	*
@@ -3050,10 +3153,11 @@
 18	Taschenrechnern	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T941228.210
-# text = Die Mühe der Käufer war indes vergebens : Im heißen Sommer 1994 mochte kaum jemand Kaffee trinken , der gehortete Kaffee wurde nicht zügig verbraucht , und der Absatz ging noch weiter in den Keller .
+# tuepp_article_id = T941228.210
+# sent_id = 3115
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Mühe der Käufer war indes vergebens : Im heißen Sommer 1994 mochte kaum jemand Kaffee trinken , der gehortete Kaffee wurde nicht zügig verbraucht , und der Absatz ging noch weiter in den Keller .
 1	Die	*	*	*	*
 2	Mühe	*	*	*	*
 3	der	*	*	*	*
@@ -3091,10 +3195,11 @@
 35	Keller	2	2	2	2
 36	.	*	*	*	*
 
-# article_id = T941203.262
-# text = Daß das damit zusammenhängen könnte , daß im Vorjahr Bremen in der Konjunkturkrise besonders in den Keller gegangen war , meldet das StaLa nicht .
+# tuepp_article_id = T941203.262
+# sent_id = 3116
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Daß das damit zusammenhängen könnte , daß im Vorjahr Bremen in der Konjunkturkrise besonders in den Keller gegangen war , meldet das StaLa nicht .
 1	Daß	*	*	*	*
 2	das	*	*	*	*
 3	damit	*	*	*	*
@@ -3121,10 +3226,11 @@
 24	nicht	*	*	*	*
 25	.	*	*	*	*
 
-# article_id = T940314.281
-# text = Sollte es in den Keller gehen , könnte dieser für den DHSRC Landesligaheißen , da der Jahresetat ( 100.000 Mark ) des Teams nur von einem einzigen Sponsoren aufgefüllt wird .
+# tuepp_article_id = T940314.281
+# sent_id = 3117
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Sollte es in den Keller gehen , könnte dieser für den DHSRC Landesligaheißen , da der Jahresetat ( 100.000 Mark ) des Teams nur von einem einzigen Sponsoren aufgefüllt wird .
 1	Sollte	*	*	*	*
 2	es	*	*	*	*
 3	in	2	2	2	2
@@ -3157,10 +3263,11 @@
 30	wird	*	*	*	*
 31	.	*	*	*	*
 
-# article_id = T940311.36
-# text = Von Wahl zu Wahl ging es tiefer in den Keller .
+# tuepp_article_id = T940311.36
+# sent_id = 3118
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Von Wahl zu Wahl ging es tiefer in den Keller .
 1	Von	*	*	*	*
 2	Wahl	*	*	*	*
 3	zu	*	*	*	*
@@ -3173,10 +3280,11 @@
 10	Keller	2	2	2	2
 11	.	*	*	*	*
 
-# article_id = T951027.48
-# text = Im Osten wie im Westen , auf dem linken wie auf dem rechten Parteiflügel ist die Sorge groß , in einer Koalition mit den Christdemokraten gehe es mit den Sozialdemokraten in der Hauptstadt weiter in den Keller .
+# tuepp_article_id = T951027.48
+# sent_id = 3119
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Im Osten wie im Westen , auf dem linken wie auf dem rechten Parteiflügel ist die Sorge groß , in einer Koalition mit den Christdemokraten gehe es mit den Sozialdemokraten in der Hauptstadt weiter in den Keller .
 1	Im	*	*	*	*
 2	Osten	*	*	*	*
 3	wie	*	*	*	*
@@ -3216,10 +3324,11 @@
 37	Keller	2	2	2	2
 38	.	*	*	*	*
 
-# article_id = T950928.125
-# text = Location bleibt der Bunker , das kommt echt gruftig , paßt auch viel besser dazu als diese blöde Asylscheiße , hat mir eh gestunken , das Ding , wirste nur depressiv von , und die Quote geht saumäßig in den Keller .
+# tuepp_article_id = T950928.125
+# sent_id = 3120
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Location bleibt der Bunker , das kommt echt gruftig , paßt auch viel besser dazu als diese blöde Asylscheiße , hat mir eh gestunken , das Ding , wirste nur depressiv von , und die Quote geht saumäßig in den Keller .
 1	Location	*	*	*	*
 2	bleibt	*	*	*	*
 3	der	*	*	*	*
@@ -3263,10 +3372,11 @@
 41	Keller	2	2	2	2
 42	.	*	*	*	*
 
-# article_id = T950906.44
-# text = " So eine zerstrittene Partei ist nicht wählbar , wenn nicht schnell etwas passiert , dann geht es ganz böse in den Keller .
+# tuepp_article_id = T950906.44
+# sent_id = 3121
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = " So eine zerstrittene Partei ist nicht wählbar , wenn nicht schnell etwas passiert , dann geht es ganz böse in den Keller .
 1	"	*	*	*	*
 2	So	*	*	*	*
 3	eine	*	*	*	*
@@ -3292,10 +3402,11 @@
 23	Keller	2	2	2	2
 24	.	*	*	*	*
 
-# article_id = T950106.311
-# text = Geht der Sauerstoffgehalt nicht in den Keller , wenn 6.000 Fußballfans da sind , von denen viele Bier trinken und auch mal rülpsen müssen ?
+# tuepp_article_id = T950106.311
+# sent_id = 3122
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Geht der Sauerstoffgehalt nicht in den Keller , wenn 6.000 Fußballfans da sind , von denen viele Bier trinken und auch mal rülpsen müssen ?
 1	Geht	2	2	2	2
 2	der	*	*	*	*
 3	Sauerstoffgehalt	*	*	*	*
@@ -3322,10 +3433,11 @@
 24	müssen	*	*	*	*
 25	?	*	*	*	*
 
-# article_id = T950421.178
-# text = Nachmittags kam Herr Mietusch ( ein Stock unter mir ) , der seit Freitag aktiv beim Volkssturm war , und sagte , Goebbels habe nochmals eine Rede gehalten ; heute abend ab 8 Uhr sei Artilleriebeschuß ; man müsse in den Keller gehen , Lebensmittel mitnehmen , da man vielleicht über Nacht bleiben müsse .
+# tuepp_article_id = T950421.178
+# sent_id = 3123
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nachmittags kam Herr Mietusch ( ein Stock unter mir ) , der seit Freitag aktiv beim Volkssturm war , und sagte , Goebbels habe nochmals eine Rede gehalten ; heute abend ab 8 Uhr sei Artilleriebeschuß ; man müsse in den Keller gehen , Lebensmittel mitnehmen , da man vielleicht über Nacht bleiben müsse .
 1	Nachmittags	*	*	*	*
 2	kam	*	*	*	*
 3	Herr	*	*	*	*
@@ -3382,10 +3494,11 @@
 54	müsse	*	*	*	*
 55	.	*	*	*	*
 
-# article_id = T950421.178
-# text = Woher will der Goebbels wissen , wann die Russen schießen ; außerdem geht es noch nicht gerade in die Wundtstraße ; ich gehe erst in den Keller , wenn der erste Schuß in meine Wohnung gefallen ist .
+# tuepp_article_id = T950421.178
+# sent_id = 3124
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Woher will der Goebbels wissen , wann die Russen schießen ; außerdem geht es noch nicht gerade in die Wundtstraße ; ich gehe erst in den Keller , wenn der erste Schuß in meine Wohnung gefallen ist .
 1	Woher	*	*	*	*
 2	will	*	*	*	*
 3	der	*	*	*	*
@@ -3425,10 +3538,11 @@
 37	ist	*	*	*	*
 38	.	*	*	*	*
 
-# article_id = T950727.167
-# text = Und dann geht euer " Arbeitsmarktwert " sehr schnell in den Keller !
+# tuepp_article_id = T950727.167
+# sent_id = 3125
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Und dann geht euer " Arbeitsmarktwert " sehr schnell in den Keller !
 1	Und	*	*	*	*
 2	dann	*	*	*	*
 3	geht	2	2	2	2
@@ -3443,10 +3557,11 @@
 12	Keller	2	2	2	2
 13	!	*	*	*	*
 
-# article_id = T951223.54
-# text = Obwohl die Erzeugerstaaten bereits Anfang des Jahres 20 Prozent ihrer Ernten einbehielten , gingen die Preise seitdem kontinuierlich in den Keller .
+# tuepp_article_id = T951223.54
+# sent_id = 3126
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Obwohl die Erzeugerstaaten bereits Anfang des Jahres 20 Prozent ihrer Ernten einbehielten , gingen die Preise seitdem kontinuierlich in den Keller .
 1	Obwohl	*	*	*	*
 2	die	*	*	*	*
 3	Erzeugerstaaten	*	*	*	*
@@ -3470,10 +3585,11 @@
 21	Keller	2	2	2	2
 22	.	*	*	*	*
 
-# article_id = T950811.408
-# text = So , und jetzt geht es wirklich in den Keller .
-# context_judgement_1 = 0
+# tuepp_article_id = T950811.408
+# sent_id = 3127
+# context_judgement_1 = 1
 # context_judgement_2 = 0
+# text = So , und jetzt geht es wirklich in den Keller .
 1	So	*	*	*	*
 2	,	*	*	*	*
 3	und	*	*	*	*
@@ -3486,10 +3602,11 @@
 10	Keller	1	1	2	1
 11	.	*	*	*	*
 
-# article_id = T950308.203
-# text = Nur in Mecklenburg-Vorpommern geht es weiter in den Keller , dort liegt die Arbeitslosenquote inzwischen bei 15,7 Prozent .
+# tuepp_article_id = T950308.203
+# sent_id = 3128
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nur in Mecklenburg-Vorpommern geht es weiter in den Keller , dort liegt die Arbeitslosenquote inzwischen bei 15,7 Prozent .
 1	Nur	*	*	*	*
 2	in	*	*	*	*
 3	Mecklenburg-Vorpommern	*	*	*	*
@@ -3510,10 +3627,11 @@
 18	Prozent	*	*	*	*
 19	.	*	*	*	*
 
-# article_id = T950317.100
-# text = Plötzlich geht der Franc in den Keller .
+# tuepp_article_id = T950317.100
+# sent_id = 3129
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Plötzlich geht der Franc in den Keller .
 1	Plötzlich	*	*	*	*
 2	geht	2	2	2	2
 3	der	*	*	*	*
@@ -3523,10 +3641,11 @@
 7	Keller	2	2	2	2
 8	.	*	*	*	*
 
-# article_id = T990417.199
-# text = Die Aktien des Unternehmens gehen in den Keller
+# tuepp_article_id = T990417.199
+# sent_id = 3130
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Die Aktien des Unternehmens gehen in den Keller
 1	Die	*	*	*	*
 2	Aktien	*	*	*	*
 3	des	*	*	*	*
@@ -3536,10 +3655,11 @@
 7	den	*	*	*	*
 8	Keller	2	2	2	2
 
-# article_id = T990417.199
-# text = Nach einem Jahresverlust von 250 Millionen bei 8,6 Milliarden Dollar Umsatz 1998 und einer gescheiterten Fusion mit " American Home Products " gingen die Aktien in den Keller .
+# tuepp_article_id = T990417.199
+# sent_id = 3131
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Nach einem Jahresverlust von 250 Millionen bei 8,6 Milliarden Dollar Umsatz 1998 und einer gescheiterten Fusion mit " American Home Products " gingen die Aktien in den Keller .
 1	Nach	*	*	*	*
 2	einem	*	*	*	*
 3	Jahresverlust	*	*	*	*
@@ -3570,10 +3690,11 @@
 28	Keller	2	2	2	2
 29	.	*	*	*	*
 
-# article_id = T990306.28
+# tuepp_article_id = T990306.28
+# sent_id = 3132
+# context_judgement_1 = 1
+# context_judgement_2 = 1
 # text = " Na , dann geh ' mal in den Keller .
-# context_judgement_1 = 0
-# context_judgement_1 = 0
 1	"	*	*	*	*
 2	Na	*	*	*	*
 3	,	*	*	*	*
@@ -3586,10 +3707,11 @@
 10	Keller	1	1	1	1
 11	.	*	*	*	*
 
-# article_id = T990227.13
-# text = Eine ältere Hausfrau , so berichteten mir entsetzte , trauernde Nachbarn , war in den Keller ihres Einfamilienhauses gegangen , um dort die Waschmaschine anzustellen .
+# tuepp_article_id = T990227.13
+# sent_id = 3133
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Eine ältere Hausfrau , so berichteten mir entsetzte , trauernde Nachbarn , war in den Keller ihres Einfamilienhauses gegangen , um dort die Waschmaschine anzustellen .
 1	Eine	*	*	*	*
 2	ältere	*	*	*	*
 3	Hausfrau	*	*	*	*
@@ -3617,10 +3739,11 @@
 25	anzustellen	*	*	*	*
 26	.	*	*	*	*
 
-# article_id = T990211.326
-# text = Allerdings drängt sich die Frage auf , weshalb ausgerechnet das Knust , dessen Programm im letzten Jahr vollkommen in den Keller gegangen ist , mit der höchsten Prämie bedacht wurde , während das Molotow , wo zur Zeit die spannendsten Rock-Veranstaltungen stattfinden , gar nicht auftaucht .
+# tuepp_article_id = T990211.326
+# sent_id = 3134
 # context_judgement_1 = 0
 # context_judgement_2 = 0
+# text = Allerdings drängt sich die Frage auf , weshalb ausgerechnet das Knust , dessen Programm im letzten Jahr vollkommen in den Keller gegangen ist , mit der höchsten Prämie bedacht wurde , während das Molotow , wo zur Zeit die spannendsten Rock-Veranstaltungen stattfinden , gar nicht auftaucht .
 1	Allerdings	*	*	*	*
 2	drängt	*	*	*	*
 3	sich	*	*	*	*

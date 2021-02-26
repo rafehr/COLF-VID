@@ -1,10 +1,11 @@
 # tuepp_article_id = T890509.228
 # sent_id = 505
 # text = Außerdem stehen wir seit Anfang November samstags vor dem U-Bahnhof Wittenbergplatz auf der Straße ( auch bei Regen und Wind , siehe Foto ) , um Geld und Unterschriften von Berlinern zu sammeln .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Außerdem	außerdem	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	1	1	1	1
+2	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	wir	wir	PPER	*	*	*	*
 4	seit	seit	APPR	*	*	*	*
 5	Anfang	Anfang	NN	*	*	*	*
@@ -14,9 +15,9 @@
 9	dem	die	ART	*	*	*	*
 10	U-Bahnhof	U-Bahnhof	NN	*	*	*	*
 11	Wittenbergplatz	<unknown>	NN	*	*	*	*
-12	auf	auf	APPR	1	1	1	1
+12	auf	auf	APPR	LIT	LIT	LIT	LIT
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	1	1	1	1
+14	Straße	Straße	NN	LIT	LIT	LIT	LIT
 15	(	(	$(	*	*	*	*
 16	auch	auch	ADV	*	*	*	*
 17	bei	bei	APPR	*	*	*	*
@@ -41,14 +42,15 @@
 # tuepp_article_id = T890518.191
 # sent_id = 506
 # text = " Wir stehen auf der Straße und machen Stände , und Metz tut fast nichts .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Wir	wir	PPER	*	*	*	*
-3	stehen	stehen	VVFIN	1	1	1	1
-4	auf	auf	APPR	1	1	1	1
+3	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	1	1	1	1
+6	Straße	Straße	NN	LIT	LIT	LIT	LIT
 7	und	und	KON	*	*	*	*
 8	machen	machen	VVFIN	*	*	*	*
 9	Stände	Stand	NN	*	*	*	*
@@ -63,6 +65,7 @@
 # tuepp_article_id = T890502.140
 # sent_id = 507
 # text = An die 30 Personen werden nun demnächst auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	An	an	APPR	*	*	*	*
@@ -72,15 +75,16 @@
 5	werden	werden	VAFIN	*	*	*	*
 6	nun	nun	ADV	*	*	*	*
 7	demnächst	demnächst	ADV	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	2	2	2
-11	stehen	stehen	VVFIN	2	2	2	2
+10	Straße	Straße	NN	FIG	FIG	FIG	FIG
+11	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890609.177
 # sent_id = 508
 # text = Während die Kirchengäste nach langen , anstrengenden Kirchentagsbesuchen abends erschöpft in die Betten sinken , bleiben die Obdachlosen laut Diakonischem Werk auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Während	während	KOUS	*	*	*	*
@@ -104,15 +108,16 @@
 19	laut	laut	APPR	*	*	*	*
 20	Diakonischem	diakonisch	ADJA	*	*	*	*
 21	Werk	Werk	NN	*	*	*	*
-22	auf	auf	APPR	2	2	2	2
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
-25	stehen	stehen	VVFIN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
+25	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890603.150
 # sent_id = 509
 # text = Während die Dachkletterer unbehelligt in ihrem Horst unter dem Dach der Lehrter Straße 51 weilten , stand die Konkurrenz recht verdutzt auf der Straße herum .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -131,20 +136,21 @@
 14	51	@card@	CARD	*	*	*	*
 15	weilten	weilen	VVFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
-17	stand	stehen	VVFIN	1	1	1	1
+17	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 18	die	die	ART	*	*	*	*
 19	Konkurrenz	Konkurrenz	NN	*	*	*	*
 20	recht	recht	ADJD	*	*	*	*
 21	verdutzt	verdutzt	ADJD	*	*	*	*
-22	auf	auf	APPR	1	1	1	1
+22	auf	auf	APPR	LIT	LIT	LIT	LIT
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	1	1	1	1
+24	Straße	Straße	NN	LIT	LIT	LIT	LIT
 25	herum	herum	PTKVZ	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890626.96
 # sent_id = 510
 # text = Doch das Versteck erweist sich als unsicher , und einige Tage vor der Niederkunft steht sie auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -161,16 +167,17 @@
 12	vor	vor	APPR	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Niederkunft	Niederkunft	NN	*	*	*	*
-15	steht	stehen	VVFIN	2	3	2	2
+15	steht	stehen	VVFIN	FIG	UND	FIG	FIG
 16	sie	sie	PPER	*	*	*	*
-17	auf	auf	APPR	2	3	2	2
+17	auf	auf	APPR	FIG	UND	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	2	3	2	2
+19	Straße	Straße	NN	FIG	UND	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891021.155
 # sent_id = 511
 # text = " Keine Luxuswohnungen , damit sich Yuppies noch mehr ausbreiten können , und keine hohen Neubauzahlen auf Teufel komm raus , sondern lieber weniger Wohnungen , dafür aber für die , die sonst auf der Straße stehen " , fordert der AL-Bauexperte Volker Härtig .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -206,10 +213,10 @@
 31	,	,	$,	*	*	*	*
 32	die	die	PRELS	*	*	*	*
 33	sonst	sonst	ADV	*	*	*	*
-34	auf	auf	APPR	2	2	2	2
+34	auf	auf	APPR	FIG	FIG	FIG	FIG
 35	der	die	ART	*	*	*	*
-36	Straße	Straße	NN	2	2	2	2
-37	stehen	stehen	VVFIN	2	2	2	2
+36	Straße	Straße	NN	FIG	FIG	FIG	FIG
+37	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 38	"	"	$(	*	*	*	*
 39	,	,	$,	*	*	*	*
 40	fordert	fordern	VVFIN	*	*	*	*
@@ -222,6 +229,7 @@
 # tuepp_article_id = T891005.59
 # sent_id = 512
 # text = Und jetzt , wo die Fachkräfte praktisch auf der Straße stehen , brauchen die Firmen auch keine Qualifizierungs- und Einarbeitungsanstrengungen mehr zu unternehmen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -231,10 +239,10 @@
 5	die	die	ART	*	*	*	*
 6	Fachkräfte	Fachkraft	NN	*	*	*	*
 7	praktisch	praktisch	ADJD	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	2	2	2
-11	stehen	stehen	VVFIN	2	2	2	2
+10	Straße	Straße	NN	FIG	FIG	FIG	FIG
+11	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	brauchen	brauchen	VVFIN	*	*	*	*
 14	die	die	ART	*	*	*	*
@@ -252,6 +260,7 @@
 # tuepp_article_id = T891028.25
 # sent_id = 513
 # text = Am Morgen des 13. Oktober standen sie wieder auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Am	an	APPRART	*	*	*	*
@@ -260,31 +269,32 @@
 4	13	@card@	CARD	*	*	*	*
 5	.	.	$.	*	*	*	*
 6	Oktober	Oktober	NN	*	*	*	*
-7	standen	stehen	VVFIN	2	2	2	2
+7	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 8	sie	sie	PPER	*	*	*	*
 9	wieder	wieder	ADV	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	2	2	2	2
+12	Straße	Straße	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890918.125
 # sent_id = 514
 # text = " Ob mein Bett auf der Straße oder in der Wohnung steht , ist schnurz " , erklärte das BI-Mitglied , das unter die Decke geschlüpft war .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
 2	Ob	ob	KOUS	*	*	*	*
 3	mein	mein	PPOSAT	*	*	*	*
 4	Bett	Bett	NN	*	*	*	*
-5	auf	auf	APPR	1	1	1	1
+5	auf	auf	APPR	LIT	LIT	LIT	LIT
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	1	1	1	1
+7	Straße	Straße	NN	LIT	LIT	LIT	LIT
 8	oder	oder	KON	*	*	*	*
 9	in	in	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Wohnung	Wohnung	NN	*	*	*	*
-12	steht	stehen	VVFIN	1	1	1	1
+12	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 13	,	,	$,	*	*	*	*
 14	ist	sein	VAFIN	*	*	*	*
 15	schnurz	<unknown>	ADJD	*	*	*	*
@@ -305,23 +315,25 @@
 # tuepp_article_id = T890923.190
 # sent_id = 515
 # text = Zur Zeit steht die MIB ohne Raum auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zur	zu	APPRART	*	*	*	*
 2	Zeit	Zeit	NN	*	*	*	*
-3	steht	stehen	VVFIN	2	2	2	2
+3	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	MIB	<unknown>	NE	*	*	*	*
 6	ohne	ohne	APPR	*	*	*	*
 7	Raum	Raum	NN	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	2	2	2
+10	Straße	Straße	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890919.236
 # sent_id = 516
 # text = Prahm : ... und sie haben uns gefragt , ob wir denn auch die radikalen Dinge tun , oder ob wir nur auf der Straße stehen und Handzettel verteilen , ob wir schon mal daran gedacht haben , unsere Regierung in die Luft zu blasen ... , ob wir mit der Anti-Apartheid-Bewegung in der DDR zusammenarbeiten total neue Fragen für uns ...
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Prahm	Prahm	NN	*	*	*	*
@@ -346,10 +358,10 @@
 20	ob	ob	KOUS	*	*	*	*
 21	wir	wir	PPER	*	*	*	*
 22	nur	nur	ADV	*	*	*	*
-23	auf	auf	APPR	1	1	1	1
+23	auf	auf	APPR	LIT	LIT	LIT	LIT
 24	der	die	ART	*	*	*	*
-25	Straße	Straße	NN	1	1	1	1
-26	stehen	stehen	VVFIN	1	1	1	1
+25	Straße	Straße	NN	LIT	LIT	LIT	LIT
+26	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 27	und	und	KON	*	*	*	*
 28	Handzettel	Handzettel	NN	*	*	*	*
 29	verteilen	verteilen	VVINF	*	*	*	*
@@ -390,17 +402,18 @@
 # tuepp_article_id = T890927.232
 # sent_id = 517
 # text = Da stehe ich plötzlich mit ihm auf der Straße und soll mir eine Kneipe einfallen lassen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
-2	stehe	stehen	VVFIN	1	1	1	1
+2	stehe	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	ich	ich	PPER	*	*	*	*
 4	plötzlich	plötzlich	ADJD	*	*	*	*
 5	mit	mit	APPR	*	*	*	*
 6	ihm	er	PPER	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	1	1	1	1
+9	Straße	Straße	NN	LIT	LIT	LIT	LIT
 10	und	und	KON	*	*	*	*
 11	soll	sollen	VMFIN	*	*	*	*
 12	mir	ich	PPER	*	*	*	*
@@ -413,6 +426,7 @@
 # tuepp_article_id = T890922.60
 # sent_id = 518
 # text = Langfristig wollen wir den sozialen Wohnungsbau ankurbeln , kurzfristig suchen wir nach Übergangslösungen für Studentinnen und Studenten , die im Oktober auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Langfristig	langfristig	ADJD	*	*	*	*
@@ -436,15 +450,16 @@
 19	die	die	PRELS	*	*	*	*
 20	im	in	APPRART	*	*	*	*
 21	Oktober	Oktober	NN	*	*	*	*
-22	auf	auf	APPR	2	2	2	2
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
-25	stehen	stehen	VVFIN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
+25	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890103.181
 # sent_id = 519
 # text = Wie berichtet , werden rund hundert Menschen , darunter zwanzig Kinder , im Fall einer Räumung auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -463,26 +478,27 @@
 14	Fall	Fall	NN	*	*	*	*
 15	einer	eine	ART	*	*	*	*
 16	Räumung	Räumung	NN	*	*	*	*
-17	auf	auf	APPR	2	2	2	2
+17	auf	auf	APPR	FIG	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	2	2	2	2
-20	stehen	stehen	VVFIN	2	2	2	2
+19	Straße	Straße	NN	FIG	FIG	FIG	FIG
+20	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890118.186
 # sent_id = 520
 # text = Stellvertretender Schülersprecher Urs Zeidler steht draußen auf der Straße und sieht mit an , wie die Jungen und Mädchen johlend auf die Straße springen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Stellvertretender	stellvertretend	ADJA	*	*	*	*
 2	Schülersprecher	Schülersprecher	NN	*	*	*	*
 3	Urs	Ur	NN	*	*	*	*
 4	Zeidler	Zeidler	NE	*	*	*	*
-5	steht	stehen	VVFIN	1	1	1	1
+5	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 6	draußen	draußen	ADV	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	1	1	1	1
+9	Straße	Straße	NN	LIT	LIT	LIT	LIT
 10	und	und	KON	*	*	*	*
 11	sieht	sehen	VVFIN	*	*	*	*
 12	mit	mit	APPR	*	*	*	*
@@ -503,6 +519,7 @@
 # tuepp_article_id = T890413.102
 # sent_id = 521
 # text = Als ich aus der Militärbasis wieder draußen war und auf der Straße stand , habe ich mich gefragt , wem das wohl nützt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOUS	*	*	*	*
@@ -514,10 +531,10 @@
 7	draußen	draußen	ADV	*	*	*	*
 8	war	sein	VAFIN	*	*	*	*
 9	und	und	KON	*	*	*	*
-10	auf	auf	APPR	1	2	1	1
+10	auf	auf	APPR	LIT	FIG	LIT	LIT
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	1	2	1	1
-13	stand	stehen	VVFIN	1	2	1	1
+12	Straße	Straße	NN	LIT	FIG	LIT	LIT
+13	stand	stehen	VVFIN	LIT	FIG	LIT	LIT
 14	,	,	$,	*	*	*	*
 15	habe	haben	VAFIN	*	*	*	*
 16	ich	ich	PPER	*	*	*	*
@@ -533,6 +550,7 @@
 # tuepp_article_id = T890422.85
 # sent_id = 522
 # text = " Wenn das Grün aufhört zu blinken , muß der Fußgänger , der noch auf der Straße steht , rennen , sonst wird er überfahren .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -549,10 +567,10 @@
 12	,	,	$,	*	*	*	*
 13	der	die	PRELS	*	*	*	*
 14	noch	noch	ADV	*	*	*	*
-15	auf	auf	APPR	1	1	1	1
+15	auf	auf	APPR	LIT	LIT	LIT	LIT
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	1	1	1	1
-18	steht	stehen	VVFIN	1	1	1	1
+17	Straße	Straße	NN	LIT	LIT	LIT	LIT
+18	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 19	,	,	$,	*	*	*	*
 20	rennen	rennen	VVINF	*	*	*	*
 21	,	,	$,	*	*	*	*
@@ -565,6 +583,7 @@
 # tuepp_article_id = T890407.124
 # sent_id = 523
 # text = Wir wissen , daß es Grundstücke gibt , zum Beispiel Prinzenallee , wo es Rechtsstreite gibt , bei denen das Land Berlin ein Interesse daran hat , daß die Dinger friedlich gelöst werden , ohne daß die Leute dann auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
@@ -606,15 +625,16 @@
 37	die	die	ART	*	*	*	*
 38	Leute	Leute	NN	*	*	*	*
 39	dann	dann	ADV	*	*	*	*
-40	auf	auf	APPR	2	2	2	2
+40	auf	auf	APPR	FIG	FIG	FIG	FIG
 41	der	die	ART	*	*	*	*
-42	Straße	Straße	NN	2	2	2	2
-43	stehen	stehen	VVFIN	2	2	2	2
+42	Straße	Straße	NN	FIG	FIG	FIG	FIG
+43	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 44	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890407.145
 # sent_id = 524
 # text = Doch wenn die Leute aus dem Knast kommen , so seine Erfahrung , stehen viele erstmal auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -630,17 +650,18 @@
 11	seine	sein	PPOSAT	*	*	*	*
 12	Erfahrung	Erfahrung	NN	*	*	*	*
 13	,	,	$,	*	*	*	*
-14	stehen	stehen	VVFIN	2	2	2	2
+14	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 15	viele	viele	PIS	*	*	*	*
 16	erstmal	erstmal	ADV	*	*	*	*
-17	auf	auf	APPR	2	2	2	2
+17	auf	auf	APPR	FIG	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	2	2	2	2
+19	Straße	Straße	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890406.136
 # sent_id = 525
 # text = " Das bedeutet , daß Anfang Mai diese Personen auf der Straße stehen werden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -652,16 +673,17 @@
 7	Mai	Mai	NN	*	*	*	*
 8	diese	dies	PDAT	*	*	*	*
 9	Personen	Person	NN	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	2	2	2	2
-13	stehen	stehen	VVINF	2	2	2	2
+12	Straße	Straße	NN	FIG	FIG	FIG	FIG
+13	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 14	werden	werden	VAFIN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890701.171
 # sent_id = 526
 # text = Doch seitdem das SO aus baupolizeilichen Gründen im Februar '87 geschlossen werden mußte , und die durch SUB-Opus gebündelten Initiativen und Theatergruppen von einem Tag auf den anderen auf der Straße standen , hat sich nichts getan .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	ADV	*	*	*	*
@@ -693,10 +715,10 @@
 27	auf	auf	APPR	*	*	*	*
 28	den	die	ART	*	*	*	*
 29	anderen	andere	PIS	*	*	*	*
-30	auf	auf	APPR	2	2	2	2
+30	auf	auf	APPR	FIG	FIG	FIG	FIG
 31	der	die	ART	*	*	*	*
-32	Straße	Straße	NN	2	2	2	2
-33	standen	stehen	VVFIN	2	2	2	2
+32	Straße	Straße	NN	FIG	FIG	FIG	FIG
+33	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 34	,	,	$,	*	*	*	*
 35	hat	haben	VAFIN	*	*	*	*
 36	sich	sich	PRF	*	*	*	*
@@ -707,6 +729,7 @@
 # tuepp_article_id = T890703.95
 # sent_id = 527
 # text = Wenn Menschen keine Perspektive mehr haben , und das würde ja eintreten , wenn Hunderttausende auf der Straße stehen und wissen , sie bekommen von nirgendwoher Geld , werden sie sich wehren .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -724,10 +747,10 @@
 13	,	,	$,	*	*	*	*
 14	wenn	wenn	KOUS	*	*	*	*
 15	Hunderttausende	Hunderttausend	NN	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
-19	stehen	stehen	VVFIN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
+19	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 20	und	und	KON	*	*	*	*
 21	wissen	wissen	VVFIN	*	*	*	*
 22	,	,	$,	*	*	*	*
@@ -746,6 +769,7 @@
 # tuepp_article_id = T890731.141
 # sent_id = 528
 # text = " Viele haben gesagt , daß sie nicht wollen , daß wir ihretwegen auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -761,15 +785,16 @@
 11	daß	dass	KOUS	*	*	*	*
 12	wir	wir	PPER	*	*	*	*
 13	ihretwegen	ihretwegen	ADV	*	*	*	*
-14	auf	auf	APPR	2	2	2	2
+14	auf	auf	APPR	FIG	FIG	FIG	FIG
 15	der	die	ART	*	*	*	*
-16	Straße	Straße	NN	2	2	2	2
-17	stehen	stehen	VVFIN	2	2	2	2
+16	Straße	Straße	NN	FIG	FIG	FIG	FIG
+17	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890731.141
 # sent_id = 529
 # text = Sie sehen nicht ein , daß sie demnächst auf der Straße stehen sollen , während Berlin - Touristen in ihren Wohnungen übernachten können .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -780,10 +805,10 @@
 6	daß	dass	KOUS	*	*	*	*
 7	sie	sie	PPER	*	*	*	*
 8	demnächst	demnächst	ADV	*	*	*	*
-9	auf	auf	APPR	2	2	2	2
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	2	2	2	2
-12	stehen	stehen	VVINF	2	2	2	2
+11	Straße	Straße	NN	FIG	FIG	FIG	FIG
+12	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 13	sollen	sollen	VMFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	während	während	KOUS	*	*	*	*
@@ -800,21 +825,22 @@
 # tuepp_article_id = T891221.191
 # sent_id = 530
 # text = In der Mitte auf der " Straße des 17. Juni " steht nur ein Weihnachtsbaum , der noch in 22 Meter Höhe für den Namen einer Supermarkt-Kette wirbt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	der	die	ART	*	*	*	*
 3	Mitte	Mitte	NN	*	*	*	*
-4	auf	auf	APPR	1	1	1	1
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
 6	"	"	$(	*	*	*	*
-7	Straße	Straße	NN	1	1	1	1
+7	Straße	Straße	NN	LIT	LIT	LIT	LIT
 8	des	die	ART	*	*	*	*
 9	17	@card@	CARD	*	*	*	*
 10	.	.	$.	*	*	*	*
 11	Juni	Juni	NN	*	*	*	*
 12	"	"	$(	*	*	*	*
-13	steht	stehen	VVFIN	1	1	1	1
+13	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 14	nur	nur	ADV	*	*	*	*
 15	ein	eine	ART	*	*	*	*
 16	Weihnachtsbaum	Weihnachtsbaum	NN	*	*	*	*
@@ -836,6 +862,7 @@
 # tuepp_article_id = T891207.126
 # sent_id = 531
 # text = Weil er im Haus eine Hauswartstelle übernehmen konnte , bekam die Familie vor einem Jahr die Wohnung ; weil ihm die Stelle im Mai wieder gekündigt wurde , steht Gudrun Fischer mit einem Bein auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
@@ -866,20 +893,21 @@
 26	gekündigt	kündigen	VVPP	*	*	*	*
 27	wurde	werden	VAFIN	*	*	*	*
 28	,	,	$,	*	*	*	*
-29	steht	stehen	VVFIN	2	2	2	2
+29	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 30	Gudrun	Gudrun	NE	*	*	*	*
 31	Fischer	Fischer	NE	*	*	*	*
 32	mit	mit	APPR	*	*	*	*
 33	einem	eine	ART	*	*	*	*
 34	Bein	Bein	NN	*	*	*	*
-35	auf	auf	APPR	2	2	2	2
+35	auf	auf	APPR	FIG	FIG	FIG	FIG
 36	der	die	ART	*	*	*	*
-37	Straße	Straße	NN	2	2	2	2
+37	Straße	Straße	NN	FIG	FIG	FIG	FIG
 38	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891208.104
 # sent_id = 532
 # text = Dann winken die Jungs am Fenstertisch zwei Frauen , die auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -892,21 +920,22 @@
 8	Frauen	Frau	NN	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	die	die	PRELS	*	*	*	*
-11	auf	auf	APPR	1	1	1	1
+11	auf	auf	APPR	LIT	LIT	LIT	LIT
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	1	1	1	1
-14	stehen	stehen	VVFIN	1	1	1	1
+13	Straße	Straße	NN	LIT	LIT	LIT	LIT
+14	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890817.86
 # sent_id = 533
 # text = Auf der Straße stehen reihenweise ihre Trabis , einer sogar mit Wohnwagen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Auf	auf	APPR	1	1	1	1
+1	Auf	auf	APPR	LIT	LIT	LIT	LIT
 2	der	die	ART	*	*	*	*
-3	Straße	Straße	NN	1	1	1	1
-4	stehen	stehen	VVFIN	1	1	1	1
+3	Straße	Straße	NN	LIT	LIT	LIT	LIT
+4	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 5	reihenweise	reihenweise	ADJD	*	*	*	*
 6	ihre	ihr	PPOSAT	*	*	*	*
 7	Trabis	<unknown>	NN	*	*	*	*
@@ -920,17 +949,18 @@
 # tuepp_article_id = T890812.160
 # sent_id = 534
 # text = Oder das Mahnmal steht einfach auf einer öffentlichen Straße , dann gehört es in den Aufgabenbereich des Tiefbauamtes .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Oder	oder	KON	*	*	*	*
 2	das	die	ART	*	*	*	*
 3	Mahnmal	Mahnmal	NN	*	*	*	*
-4	steht	stehen	VVFIN	1	1	1	1
+4	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 5	einfach	einfach	ADJD	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	einer	eine	ART	*	*	*	*
 8	öffentlichen	öffentlich	ADJA	*	*	*	*
-9	Straße	Straße	NN	1	1	1	1
+9	Straße	Straße	NN	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	dann	dann	ADV	*	*	*	*
 12	gehört	gehören	VVFIN	*	*	*	*
@@ -945,6 +975,7 @@
 # tuepp_article_id = T890823.198
 # sent_id = 535
 # text = Zu nachtschlafender Zeit gegen 0.45 Uhr standen auf der Straße insgesamt neun Jungbullen , zum Teil stark blutend .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zu	zu	APPR	*	*	*	*
@@ -953,10 +984,10 @@
 4	gegen	gegen	APPR	*	*	*	*
 5	0.45	@card@	CARD	*	*	*	*
 6	Uhr	Uhr	NN	*	*	*	*
-7	standen	stehen	VVFIN	1	1	1	1
-8	auf	auf	APPR	1	1	1	1
+7	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
+8	auf	auf	APPR	LIT	LIT	LIT	LIT
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	1	1	1	1
+10	Straße	Straße	NN	LIT	LIT	LIT	LIT
 11	insgesamt	insgesamt	ADV	*	*	*	*
 12	neun	neun	CARD	*	*	*	*
 13	Jungbullen	Jungbulle	NN	*	*	*	*
@@ -970,43 +1001,46 @@
 # tuepp_article_id = T890304.74
 # sent_id = 536
 # text = Er stand mitten auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
-2	stand	stehen	VVFIN	1	1	1	1
+2	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	mitten	mitten	ADV	*	*	*	*
-4	auf	auf	APPR	1	1	1	1
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	1	1	1	1
+6	Straße	Straße	NN	LIT	LIT	LIT	LIT
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890304.74
 # sent_id = 537
 # text = Wie angenagelt stand sie auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
 2	angenagelt	annageln	VVPP	*	*	*	*
-3	stand	stehen	VVFIN	1	1	1	1
+3	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	sie	sie	PPER	*	*	*	*
-5	auf	auf	APPR	1	1	1	1
+5	auf	auf	APPR	LIT	LIT	LIT	LIT
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	1	1	1	1
+7	Straße	Straße	NN	LIT	LIT	LIT	LIT
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890325.154
 # sent_id = 538
 # text = Die älteren Autonomen standen hier auf der Straße , die sind dazugekommen als Unterstützer , aber sie waren nicht in dem Haus drin .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	älteren	alt	ADJA	*	*	*	*
 3	Autonomen	Autonome	NN	*	*	*	*
-4	standen	stehen	VVFIN	1	1	1	1
+4	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 5	hier	hier	ADV	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	1	1	1	1
+8	Straße	Straße	NN	LIT	LIT	LIT	LIT
 9	,	,	$,	*	*	*	*
 10	die	die	PDS	*	*	*	*
 11	sind	sein	VAFIN	*	*	*	*
@@ -1027,6 +1061,7 @@
 # tuepp_article_id = T890331.73
 # sent_id = 539
 # text = Massenkündigungen hätten für die Region Iri gravierende Konsequenzen : Bedingt durch die sektorale Unausgewogenheit zwischen Landwirtschaft und Industrie stünden die vorab aus bäuerlichen verhältnissen stammenden Frauen buchstäblich auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Massenkündigungen	Massenkündigung	NN	*	*	*	*
@@ -1047,7 +1082,7 @@
 16	Landwirtschaft	Landwirtschaft	NN	*	*	*	*
 17	und	und	KON	*	*	*	*
 18	Industrie	Industrie	NN	*	*	*	*
-19	stünden	stehen	VVFIN	2	2	2	2
+19	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
 21	vorab	vorab	ADV	*	*	*	*
 22	aus	aus	APPR	*	*	*	*
@@ -1056,14 +1091,15 @@
 25	stammenden	stammend	ADJA	*	*	*	*
 26	Frauen	Frau	NN	*	*	*	*
 27	buchstäblich	buchstäblich	ADJD	*	*	*	*
-28	auf	auf	APPR	2	2	2	2
+28	auf	auf	APPR	FIG	FIG	FIG	FIG
 29	der	die	ART	*	*	*	*
-30	Straße	Straße	NN	2	2	2	2
+30	Straße	Straße	NN	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890323.168
 # sent_id = 540
 # text = Auch daß die Autonomen trotzig auf der Straße stehen blieben , anstatt sich brav auf dem Rathausvorplatz zu sammeln , löste nicht die erwünschte Provokation aus .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -1071,10 +1107,10 @@
 3	die	die	ART	*	*	*	*
 4	Autonomen	Autonome	NN	*	*	*	*
 5	trotzig	trotzig	ADJD	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	1	1	1	1
-9	stehen	stehen	VVINF	1	1	1	1
+8	Straße	Straße	NN	LIT	LIT	LIT	LIT
+9	stehen	stehen	VVINF	LIT	LIT	LIT	LIT
 10	blieben	bleiben	VVFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	anstatt	anstatt	KOUI	*	*	*	*
@@ -1097,30 +1133,32 @@
 # tuepp_article_id = T890323.168
 # sent_id = 541
 # text = Ratlos standen die Leute auf der Straße herum .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ratlos	ratlos	ADJD	*	*	*	*
-2	standen	stehen	VVFIN	1	1	1	1
+2	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	die	die	ART	*	*	*	*
 4	Leute	Leute	NN	*	*	*	*
-5	auf	auf	APPR	1	1	1	1
+5	auf	auf	APPR	LIT	LIT	LIT	LIT
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	1	1	1	1
+7	Straße	Straße	NN	LIT	LIT	LIT	LIT
 8	herum	herum	PTKVZ	*	*	*	*
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890318.102
 # sent_id = 542
 # text = Plötzlich bleibt jemand auf der Straße stehen , greift mich an der Hand und sagt , das ist ja die Anne Klein , herzlichen Glückwunsch .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Plötzlich	plötzlich	ADJD	*	*	*	*
 2	bleibt	bleiben	VVFIN	*	*	*	*
 3	jemand	jemand	PIS	*	*	*	*
-4	auf	auf	APPR	1	1	1	1
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	1	1	1	1
-7	stehen	stehen	VVFIN	1	1	1	1
+6	Straße	Straße	NN	LIT	LIT	LIT	LIT
+7	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 8	,	,	$,	*	*	*	*
 9	greift	greifen	VVFIN	*	*	*	*
 10	mich	ich	PRF	*	*	*	*
@@ -1144,6 +1182,7 @@
 # tuepp_article_id = T891113.29
 # sent_id = 543
 # text = Doch wenige Meter vor dem Zaun , der bis vor wenigen Minuten noch die Ostgrenze gewesen ist , wird sortiert : WestberlinerInnen mit gültigen Visa dürfen " einreisen " , Westdeutsche müssen zurück , stehen mit " wertlosen " Pässen auf der in der Nacht gebauten , provisorischen Straße herum .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -1180,13 +1219,13 @@
 32	müssen	müssen	VMFIN	*	*	*	*
 33	zurück	zurück	ADV	*	*	*	*
 34	,	,	$,	*	*	*	*
-35	stehen	stehen	VVFIN	1	1	1	1
+35	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 36	mit	mit	APPR	*	*	*	*
 37	"	"	$(	*	*	*	*
 38	wertlosen	wertlosen	VVINF	*	*	*	*
 39	"	"	$(	*	*	*	*
 40	Pässen	Pass	NN	*	*	*	*
-41	auf	auf	APPR	1	1	1	1
+41	auf	auf	APPR	LIT	LIT	LIT	LIT
 42	der	die	ART	*	*	*	*
 43	in	in	APPR	*	*	*	*
 44	der	die	ART	*	*	*	*
@@ -1194,13 +1233,14 @@
 46	gebauten	gebaut	ADJA	*	*	*	*
 47	,	,	$,	*	*	*	*
 48	provisorischen	provisorisch	ADJA	*	*	*	*
-49	Straße	Straße	NN	1	1	1	1
+49	Straße	Straße	NN	LIT	LIT	LIT	LIT
 50	herum	herum	PTKVZ	*	*	*	*
 51	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891127.19
 # sent_id = 544
 # text = Die Kinder jedoch erschraken nicht , auch junge Arbeiter standen bereits mit ihnen auf der Straße , und die Väter begriffen , daß sie auf eigene Sprößlinge schießen müßten .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1212,13 +1252,13 @@
 7	auch	auch	ADV	*	*	*	*
 8	junge	jung	ADJA	*	*	*	*
 9	Arbeiter	Arbeiter	NN	*	*	*	*
-10	standen	stehen	VVFIN	1	1	1	1
+10	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 11	bereits	bereits	ADV	*	*	*	*
 12	mit	mit	APPR	*	*	*	*
 13	ihnen	sie	PPER	*	*	*	*
-14	auf	auf	APPR	1	1	1	1
+14	auf	auf	APPR	LIT	LIT	LIT	LIT
 15	der	die	ART	*	*	*	*
-16	Straße	Straße	NN	1	1	1	1
+16	Straße	Straße	NN	LIT	LIT	LIT	LIT
 17	,	,	$,	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	die	die	ART	*	*	*	*
@@ -1237,6 +1277,7 @@
 # tuepp_article_id = T891115.265
 # sent_id = 545
 # text = Dabei will ich Entzug machen , aber mach mal Entzug , wenn du auf der Straße stehst , das kann keiner von mir verlangen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
@@ -1252,10 +1293,10 @@
 11	,	,	$,	*	*	*	*
 12	wenn	wenn	KOUS	*	*	*	*
 13	du	du	PPER	*	*	*	*
-14	auf	auf	APPR	2	2	2	2
+14	auf	auf	APPR	FIG	FIG	FIG	FIG
 15	der	die	ART	*	*	*	*
-16	Straße	Straße	NN	2	2	2	2
-17	stehst	stehen	VVFIN	2	2	2	2
+16	Straße	Straße	NN	FIG	FIG	FIG	FIG
+17	stehst	stehen	VVFIN	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	das	die	PRELS	*	*	*	*
 20	kann	können	VMFIN	*	*	*	*
@@ -1268,14 +1309,15 @@
 # tuepp_article_id = T891117.171
 # sent_id = 546
 # text = Margot stand nun auf der Straße , die sie zuerst gar nicht wahrnahm .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Margot	Margot	NE	*	*	*	*
-2	stand	stehen	VVFIN	1	1	1	1
+2	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	nun	nun	ADV	*	*	*	*
-4	auf	auf	APPR	1	1	1	1
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	1	1	1	1
+6	Straße	Straße	NN	LIT	LIT	LIT	LIT
 7	,	,	$,	*	*	*	*
 8	die	die	PRELS	*	*	*	*
 9	sie	sie	PPER	*	*	*	*
@@ -1288,6 +1330,7 @@
 # tuepp_article_id = T910504.93
 # sent_id = 547
 # text = 23 Stunden am Tag , so belegen Statistiken , stehen die privaten Pkws ohnehin ungenutzt auf der Straße herum , nehmen öffentlichen Park- und vor allem Lebensraum weg .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	23	@card@	CARD	*	*	*	*
@@ -1299,15 +1342,15 @@
 7	belegen	belegen	VVFIN	*	*	*	*
 8	Statistiken	Statistik	NN	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	stehen	stehen	VVFIN	1	1	1	1
+10	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 11	die	die	ART	*	*	*	*
 12	privaten	privat	ADJA	*	*	*	*
 13	Pkws	<unknown>	NN	*	*	*	*
 14	ohnehin	ohnehin	ADV	*	*	*	*
 15	ungenutzt	ungenutzt	ADJD	*	*	*	*
-16	auf	auf	APPR	1	1	1	1
+16	auf	auf	APPR	LIT	LIT	LIT	LIT
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	1	1	1	1
+18	Straße	Straße	NN	LIT	LIT	LIT	LIT
 19	herum	herum	PTKVZ	*	*	*	*
 20	,	,	$,	*	*	*	*
 21	nehmen	nehmen	VVFIN	*	*	*	*
@@ -1323,6 +1366,7 @@
 # tuepp_article_id = T910513.160
 # sent_id = 548
 # text = Aber von denen soll kein einziger auf der Straße stehen , verspricht Reckstadt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -1331,10 +1375,10 @@
 4	soll	sollen	VMFIN	*	*	*	*
 5	kein	keine	PIAT	*	*	*	*
 6	einziger	einzig	ADJA	*	*	*	*
-7	auf	auf	APPR	2	2	2	2
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
-10	stehen	stehen	VVFIN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
+10	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	verspricht	versprechen	VVFIN	*	*	*	*
 13	Reckstadt	Reckstadt	NN	*	*	*	*
@@ -1343,6 +1387,7 @@
 # tuepp_article_id = T910508.152
 # sent_id = 549
 # text = Wenn etwa die Frauenhäuser ihre Pforten schließen müßten , stünden viele Frauen - oft mit ihren Kindern - wieder auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -1354,7 +1399,7 @@
 7	schließen	schließen	VVINF	*	*	*	*
 8	müßten	müssen	VMFIN	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	stünden	stehen	VVFIN	2	2	2	2
+10	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 11	viele	viele	PIAT	*	*	*	*
 12	Frauen	Frau	NN	*	*	*	*
 13	-	-	$(	*	*	*	*
@@ -1364,14 +1409,15 @@
 17	Kindern	Kind	NN	*	*	*	*
 18	-	-	$(	*	*	*	*
 19	wieder	wieder	ADV	*	*	*	*
-20	auf	auf	APPR	2	2	2	2
+20	auf	auf	APPR	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	2	2	2	2
+22	Straße	Straße	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910522.32
 # sent_id = 550
 # text = Keine Randale und auch kein Gebrüll , im Gegenteil , die bedröhnten Rehe bleiben oft mitten auf der Straße stehen und laufen auch nicht weg , wenn sich ein Auto oder ein Mensch nähert .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Keine	keine	PIAT	*	*	*	*
@@ -1390,10 +1436,10 @@
 14	bleiben	bleiben	VVFIN	*	*	*	*
 15	oft	oft	ADV	*	*	*	*
 16	mitten	mitten	ADV	*	*	*	*
-17	auf	auf	APPR	1	1	1	1
+17	auf	auf	APPR	LIT	LIT	LIT	LIT
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	1	1	1	1
-20	stehen	stehen	VVFIN	1	1	1	1
+19	Straße	Straße	NN	LIT	LIT	LIT	LIT
+20	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 21	und	und	KON	*	*	*	*
 22	laufen	laufen	VVFIN	*	*	*	*
 23	auch	auch	ADV	*	*	*	*
@@ -1413,19 +1459,20 @@
 # tuepp_article_id = T910514.27
 # sent_id = 551
 # text = In seinem Viertel stehen Frauen in langen Hemden auf der Straße und umarmen Melka und die Familie , die Kinder des Bruders werden in Augenschein genommen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	seinem	sein	PPOSAT	*	*	*	*
 3	Viertel	Viertel	NN	*	*	*	*
-4	stehen	stehen	VVFIN	1	1	1	1
+4	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 5	Frauen	Frau	NN	*	*	*	*
 6	in	in	APPR	*	*	*	*
 7	langen	lang	ADJA	*	*	*	*
 8	Hemden	Hemd	NN	*	*	*	*
-9	auf	auf	APPR	1	1	1	1
+9	auf	auf	APPR	LIT	LIT	LIT	LIT
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
 12	und	und	KON	*	*	*	*
 13	umarmen	umarmen	VVFIN	*	*	*	*
 14	Melka	<unknown>	NE	*	*	*	*
@@ -1446,15 +1493,16 @@
 # tuepp_article_id = T910527.86
 # sent_id = 552
 # text = Kein Schulabgänger wird auf der Straße stehen müssen , heißt es auch bei der Bundesanstalt für Arbeit : " Jeder Jugendliche , der keinen betrieblichen Ausbildungsplatz bekommt , kriegt einen Platz in einem überbetrieblichen Ausbildungsbetrieb , das können wir garantieren " , versichert Dr. Jürgen Thiel , Referatsleiter der Abteilung Berufsförderung und Berufsausbildung bei der Nürnberger Bundesanstalt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kein	keine	PIAT	*	*	*	*
 2	Schulabgänger	Schulabgänger	NN	*	*	*	*
 3	wird	werden	VAFIN	*	*	*	*
-4	auf	auf	APPR	2	2	2	2
+4	auf	auf	APPR	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	2	2	2	2
-7	stehen	stehen	VVINF	2	2	2	2
+6	Straße	Straße	NN	FIG	FIG	FIG	FIG
+7	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 8	müssen	müssen	VMINF	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	heißt	heißen	VVFIN	*	*	*	*
@@ -1510,10 +1558,11 @@
 # tuepp_article_id = T910518.298
 # sent_id = 553
 # text = Möglicherweise stehen die Landessozialrichter , unter deren Waage auch Mietstreitereien verhandelt werden , bald selbst auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Möglicherweise	möglicherweise	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	Landessozialrichter	Landessozialrichter	NN	*	*	*	*
 5	,	,	$,	*	*	*	*
@@ -1527,14 +1576,15 @@
 13	,	,	$,	*	*	*	*
 14	bald	bald	ADV	*	*	*	*
 15	selbst	selbst	ADV	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910524.224
 # sent_id = 554
 # text = Obwohl sie nach 14 Jahren Engagement langsam keine Lust mehr hat auf der Straße zu stehen , sieht sie dazu keine Alternative .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Obwohl	obwohl	KOUS	*	*	*	*
@@ -1548,11 +1598,11 @@
 9	Lust	Lust	NN	*	*	*	*
 10	mehr	mehr	ADV	*	*	*	*
 11	hat	haben	VAFIN	*	*	*	*
-12	auf	auf	APPR	1	1	1	1
+12	auf	auf	APPR	LIT	LIT	LIT	LIT
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	1	1	1	1
+14	Straße	Straße	NN	LIT	LIT	LIT	LIT
 15	zu	zu	PTKZU	*	*	*	*
-16	stehen	stehen	VVINF	1	1	1	1
+16	stehen	stehen	VVINF	LIT	LIT	LIT	LIT
 17	,	,	$,	*	*	*	*
 18	sieht	sehen	VVFIN	*	*	*	*
 19	sie	sie	PPER	*	*	*	*
@@ -1564,6 +1614,7 @@
 # tuepp_article_id = T910607.1
 # sent_id = 555
 # text = 1,75 Millionen oder knapp 20 Prozent werden dann auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1,75	@card@	CARD	*	*	*	*
@@ -1574,15 +1625,16 @@
 6	Prozent	Prozent	NN	*	*	*	*
 7	werden	werden	VAFIN	*	*	*	*
 8	dann	dann	ADV	*	*	*	*
-9	auf	auf	APPR	2	2	2	2
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	2	2	2	2
-12	stehen	stehen	VVFIN	2	2	2	2
+11	Straße	Straße	NN	FIG	FIG	FIG	FIG
+12	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910607.50
 # sent_id = 556
 # text = Franke rechnet damit , daß am Ende des Jahres unter dem Strich 1,75 Millionen Menschen in den neuen Bundesländern auf der Straße stehen werden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Franke	Franke	NE	*	*	*	*
@@ -1604,16 +1656,17 @@
 17	den	die	ART	*	*	*	*
 18	neuen	neu	ADJA	*	*	*	*
 19	Bundesländern	Bundesland	NN	*	*	*	*
-20	auf	auf	APPR	2	2	2	2
+20	auf	auf	APPR	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	2	2	2	2
-23	stehen	stehen	VVINF	2	2	2	2
+22	Straße	Straße	NN	FIG	FIG	FIG	FIG
+23	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 24	werden	werden	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910615.285
 # sent_id = 557
 # text = Für einen Dealer im Knast , stehen zwei neue auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -1622,17 +1675,18 @@
 4	im	in	APPRART	*	*	*	*
 5	Knast	Knast	NN	*	*	*	*
 6	,	,	$,	*	*	*	*
-7	stehen	stehen	VVFIN	1	2	2	2
+7	stehen	stehen	VVFIN	LIT	FIG	FIG	FIG
 8	zwei	zwei	CARD	*	*	*	*
 9	neue	neu	ADJA	*	*	*	*
-10	auf	auf	APPR	1	2	2	2
+10	auf	auf	APPR	LIT	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	1	2	2	2
+12	Straße	Straße	NN	LIT	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910626.169
 # sent_id = 558
 # text = Und wenn die Stühle , wie in der ganzen Straße , um 22 Uhr hineingeräumt werden müssen , steht man eben weiter auf der Straße - la dolce vita Berliner Art.
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -1653,13 +1707,13 @@
 16	werden	werden	VAINF	*	*	*	*
 17	müssen	müssen	VMFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	steht	stehen	VVFIN	1	1	1	1
+19	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 20	man	man	PIS	*	*	*	*
 21	eben	eben	ADV	*	*	*	*
 22	weiter	weiter	ADV	*	*	*	*
-23	auf	auf	APPR	1	1	1	1
+23	auf	auf	APPR	LIT	LIT	LIT	LIT
 24	der	die	ART	*	*	*	*
-25	Straße	Straße	NN	1	1	1	1
+25	Straße	Straße	NN	LIT	LIT	LIT	LIT
 26	-	-	$(	*	*	*	*
 27	la	la	FM	*	*	*	*
 28	dolce	<unknown>	NE	*	*	*	*
@@ -1671,6 +1725,7 @@
 # tuepp_article_id = T910608.182
 # sent_id = 559
 # text = In Berlin sei die Zahl der ehemaligen Staatsdiener , die Ende Juni auf der Straße stehen werden , » glücklicherweise aber viel niedriger als ursprünglich befürchtet « .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1685,10 +1740,10 @@
 10	die	die	ART	*	*	*	*
 11	Ende	Ende	NN	*	*	*	*
 12	Juni	Juni	NN	*	*	*	*
-13	auf	auf	APPR	2	2	2	2
+13	auf	auf	APPR	FIG	FIG	FIG	FIG
 14	der	die	ART	*	*	*	*
-15	Straße	Straße	NN	2	2	2	2
-16	stehen	stehen	VVINF	2	2	2	2
+15	Straße	Straße	NN	FIG	FIG	FIG	FIG
+16	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 17	werden	werden	VAFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	»	<unknown>	ADJD	*	*	*	*
@@ -1705,6 +1760,7 @@
 # tuepp_article_id = T911026.22
 # sent_id = 560
 # text = 2.700 Menschen , die dort bislang Schreibmaschinen produziert haben , stehen mit diesem Entschluß auf der Straße , Wilhelmshavens ohnehin schon überdurchschnittliche Arbeitslosenquote , dürfte damit auf etwa 30 Prozent hochschnellen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	2.700	@card@	CARD	*	*	*	*
@@ -1717,13 +1773,13 @@
 8	produziert	produzieren	VVPP	*	*	*	*
 9	haben	haben	VAFIN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	stehen	stehen	VVFIN	2	2	2	2
+11	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 12	mit	mit	APPR	*	*	*	*
 13	diesem	dies	PDAT	*	*	*	*
 14	Entschluß	Entschluss	NN	*	*	*	*
-15	auf	auf	APPR	2	2	2	2
+15	auf	auf	APPR	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	2	2	2	2
+17	Straße	Straße	NN	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	Wilhelmshavens	Wilhelmshaven	NE	*	*	*	*
 20	ohnehin	ohnehin	ADV	*	*	*	*
@@ -1743,6 +1799,7 @@
 # tuepp_article_id = T911024.169
 # sent_id = 561
 # text = » Die unsichere Situation , der Druck , morgen auf der Straße zu stehen « , habe eine große Rolle gespielt , meint die promovierte Psychologin .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	»	<unknown>	ADJA	*	*	*	*
@@ -1754,11 +1811,11 @@
 7	Druck	Druck	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	morgen	morgen	ADV	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	2	2	2	2
+12	Straße	Straße	NN	FIG	FIG	FIG	FIG
 13	zu	zu	PTKZU	*	*	*	*
-14	stehen	stehen	VVINF	2	2	2	2
+14	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 15	«	<unknown>	VVFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	habe	haben	VAFIN	*	*	*	*
@@ -1776,6 +1833,7 @@
 # tuepp_article_id = T911022.91
 # sent_id = 562
 # text = Der DGB-Landesbeauftragte Hanjo Lucassen korrigierte auf dem Unternehmertag die Rechnung : Er kam auf 700.000 , die in absehbarer Zeit auf der Straße stehen könnten .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1798,27 +1856,28 @@
 18	in	in	APPR	*	*	*	*
 19	absehbarer	absehbar	ADJA	*	*	*	*
 20	Zeit	Zeit	NN	*	*	*	*
-21	auf	auf	APPR	2	2	2	2
+21	auf	auf	APPR	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
-23	Straße	Straße	NN	2	2	2	2
-24	stehen	stehen	VVINF	2	2	2	2
+23	Straße	Straße	NN	FIG	FIG	FIG	FIG
+24	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 25	könnten	können	VMFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910923.22
 # sent_id = 563
 # text = Die Asylbewerber stehen noch völlig geschockt auf der Straße , schreien ihre Seele aus dem Leib : " Ihr Faschisten !
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Asylbewerber	Asylbewerber	NN	*	*	*	*
-3	stehen	stehen	VVFIN	1	1	1	1
+3	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	noch	noch	ADV	*	*	*	*
 5	völlig	völlig	ADJD	*	*	*	*
 6	geschockt	schocken	VVPP	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	1	1	1	1
+9	Straße	Straße	NN	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	schreien	schreien	VVFIN	*	*	*	*
 12	ihre	ihr	PPOSAT	*	*	*	*
@@ -1835,39 +1894,42 @@
 # tuepp_article_id = T910921.181
 # sent_id = 564
 # text = Gegen halb zehn standen wir wieder draußen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gegen	gegen	APPR	*	*	*	*
 2	halb	halb	ADJD	*	*	*	*
 3	zehn	zehn	CARD	*	*	*	*
-4	standen	stehen	VVFIN	1	1	1	1
+4	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 5	wir	wir	PPER	*	*	*	*
 6	wieder	wieder	ADV	*	*	*	*
 7	draußen	draußen	ADV	*	*	*	*
-8	auf	auf	APPR	1	1	1	1
+8	auf	auf	APPR	LIT	LIT	LIT	LIT
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	1	1	1	1
+10	Straße	Straße	NN	LIT	LIT	LIT	LIT
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910105.192
 # sent_id = 565
 # text = Zudem stehen viele herrenlose Autos auf der Straße herum .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zudem	zudem	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	1	1	1	1
+2	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	viele	viele	PIAT	*	*	*	*
 4	herrenlose	herrenlos	ADJA	*	*	*	*
 5	Autos	Auto	NN	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	1	1	1	1
+8	Straße	Straße	NN	LIT	LIT	LIT	LIT
 9	herum	herum	PTKVZ	*	*	*	*
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910425.120
 # sent_id = 566
 # text = Wenn sie ihr Studium aufgrund finanzieller Schwierigkeiten abzubrechen gezwungen sind , stehen sie ohne Unterstützung auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -1881,18 +1943,19 @@
 9	gezwungen	zwingen	VVPP	*	*	*	*
 10	sind	sein	VAFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	stehen	stehen	VVFIN	2	2	2	2
+12	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	sie	sie	PPER	*	*	*	*
 14	ohne	ohne	APPR	*	*	*	*
 15	Unterstützung	Unterstützung	NN	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910415.66
 # sent_id = 567
 # text = Clermont-Ferrand ( afp ) - Weltweit fast 16.000 Arbeiter und Angestellte des hochverschuldeten französischen Reifenherstellers Michelin stehen demnächst auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Clermont-Ferrand	<unknown>	NE	*	*	*	*
@@ -1911,16 +1974,17 @@
 14	französischen	französisch	ADJA	*	*	*	*
 15	Reifenherstellers	Reifenhersteller	NN	*	*	*	*
 16	Michelin	Michelin	NE	*	*	*	*
-17	stehen	stehen	VVFIN	2	2	2	2
+17	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 18	demnächst	demnächst	ADV	*	*	*	*
-19	auf	auf	APPR	2	2	2	2
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910711.47
 # sent_id = 568
 # text = Hier ist nicht wie bei den Beschäftigungsgesellschaften zu befürchten , daß die Frauen nach zwei Jahren dann wieder auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hier	hier	ADV	*	*	*	*
@@ -1941,15 +2005,16 @@
 16	Jahren	Jahr	NN	*	*	*	*
 17	dann	dann	ADV	*	*	*	*
 18	wieder	wieder	ADV	*	*	*	*
-19	auf	auf	APPR	2	2	2	2
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
-22	stehen	stehen	VVFIN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
+22	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910702.203
 # sent_id = 569
 # text = « Ein anderer solidarisierte sich mit den Gescheiterten : » Ich habe auch die Wohnung renoviert und stehe jetzt auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	«	<unknown>	ADJD	*	*	*	*
@@ -1969,16 +2034,17 @@
 15	Wohnung	Wohnung	NN	*	*	*	*
 16	renoviert	renovieren	VVPP	*	*	*	*
 17	und	und	KON	*	*	*	*
-18	stehe	stehen	VVFIN	2	2	2	2
+18	stehe	stehen	VVFIN	FIG	FIG	FIG	FIG
 19	jetzt	jetzt	ADV	*	*	*	*
-20	auf	auf	APPR	2	2	2	2
+20	auf	auf	APPR	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	2	2	2	2
+22	Straße	Straße	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911217.211
 # sent_id = 570
 # text = Um sich eventuelle Umzugs-Anträge vom Halse zu halten , hat die Wohnungshilfe ihre Pforten einstweilen geschlossen - und riskiert dadurch , daß Asylsuchende auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	APPR	*	*	*	*
@@ -2004,15 +2070,16 @@
 21	,	,	$,	*	*	*	*
 22	daß	dass	KOUS	*	*	*	*
 23	Asylsuchende	Asylsuchende	NN	*	*	*	*
-24	auf	auf	APPR	2	2	2	2
+24	auf	auf	APPR	FIG	FIG	FIG	FIG
 25	der	die	ART	*	*	*	*
-26	Straße	Straße	NN	2	2	2	2
-27	stehen	stehen	VVFIN	2	2	2	2
+26	Straße	Straße	NN	FIG	FIG	FIG	FIG
+27	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911207.55
 # sent_id = 571
 # text = Sämtliche Zechen in der niederländischen Provinz Limburg waren stillgelegt worden , 75.000 Menschen standen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sämtliche	sämtliche	PIAT	*	*	*	*
@@ -2028,25 +2095,26 @@
 11	,	,	$,	*	*	*	*
 12	75.000	@card@	CARD	*	*	*	*
 13	Menschen	Mensch	NN	*	*	*	*
-14	standen	stehen	VVFIN	2	2	2	2
-15	auf	auf	APPR	2	2	2	2
+14	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
+15	auf	auf	APPR	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	2	2	2	2
+17	Straße	Straße	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911224.64
 # sent_id = 572
 # text = Irgendwo auf der einsamen Straße hinter Kaluga stand ein kleiner dünner Mann und hielt den Daumen hoch , um mitgenommen zu werden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Irgendwo	irgendwo	ADV	*	*	*	*
-2	auf	auf	APPR	1	1	1	1
+2	auf	auf	APPR	LIT	LIT	LIT	LIT
 3	der	die	ART	*	*	*	*
 4	einsamen	einsam	ADJA	*	*	*	*
-5	Straße	Straße	NN	1	1	1	1
+5	Straße	Straße	NN	LIT	LIT	LIT	LIT
 6	hinter	hinter	APPR	*	*	*	*
 7	Kaluga	<unknown>	NE	*	*	*	*
-8	stand	stehen	VVFIN	1	1	1	1
+8	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 9	ein	eine	ART	*	*	*	*
 10	kleiner	klein	ADJA	*	*	*	*
 11	dünner	dünn	ADJA	*	*	*	*
@@ -2066,6 +2134,7 @@
 # tuepp_article_id = T910306.164
 # sent_id = 573
 # text = Doch das nützt ihm auch nichts : Spätestens ab 1. Juli wird auch Felgendreher auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -2083,15 +2152,16 @@
 13	wird	werden	VAFIN	*	*	*	*
 14	auch	auch	ADV	*	*	*	*
 15	Felgendreher	Felgendreher	NN	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
-19	stehen	stehen	VVFIN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
+19	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910313.163
 # sent_id = 574
 # text = » Mit den Sachen , die ich hier am Körper habe , stand ich bei minus 15 Grad und 1.000 Mark in der Hand auf der Straße « , berichtete er gestern .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	»	<unknown>	ADJD	*	*	*	*
@@ -2106,7 +2176,7 @@
 10	Körper	Körper	NN	*	*	*	*
 11	habe	haben	VAFIN	*	*	*	*
 12	,	,	$,	*	*	*	*
-13	stand	stehen	VVFIN	2	2	2	2
+13	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 14	ich	ich	PPER	*	*	*	*
 15	bei	bei	APPR	*	*	*	*
 16	minus	minus	ADV	*	*	*	*
@@ -2118,9 +2188,9 @@
 22	in	in	APPR	*	*	*	*
 23	der	die	ART	*	*	*	*
 24	Hand	Hand	NN	*	*	*	*
-25	auf	auf	APPR	2	2	2	2
+25	auf	auf	APPR	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
-27	Straße	Straße	NN	2	2	2	2
+27	Straße	Straße	NN	FIG	FIG	FIG	FIG
 28	«	<unknown>	ADJD	*	*	*	*
 29	,	,	$,	*	*	*	*
 30	berichtete	berichten	VVFIN	*	*	*	*
@@ -2131,6 +2201,7 @@
 # tuepp_article_id = T910302.191
 # sent_id = 575
 # text = Der TdW-Aufsichtsrat hat bereits die Entlassung von Chor und Ballett beschlossen ; 28 Beschäftigte stehen nun auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -2147,16 +2218,17 @@
 12	;	;	$.	*	*	*	*
 13	28	@card@	CARD	*	*	*	*
 14	Beschäftigte	Beschäftigte	NN	*	*	*	*
-15	stehen	stehen	VVFIN	2	2	2	2
+15	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	nun	nun	ADV	*	*	*	*
-17	auf	auf	APPR	2	2	2	2
+17	auf	auf	APPR	FIG	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	2	2	2	2
+19	Straße	Straße	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910308.23
 # sent_id = 576
 # text = " Doch die Frauen in Schwarz entschieden sich mehrheitlich für eine Weiterführung und stehen seit dem 15. Feburar wieder jeden Freitag auf der Straße : " Auch wenn wir weniger geworden sind , zeugt es von der inneren Kraft der Bewegung .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2172,7 +2244,7 @@
 11	eine	eine	ART	*	*	*	*
 12	Weiterführung	Weiterführung	NN	*	*	*	*
 13	und	und	KON	*	*	*	*
-14	stehen	stehen	VVFIN	1	1	1	1
+14	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 15	seit	seit	APPR	*	*	*	*
 16	dem	die	ART	*	*	*	*
 17	15	@card@	CARD	*	*	*	*
@@ -2181,9 +2253,9 @@
 20	wieder	wieder	ADV	*	*	*	*
 21	jeden	jede	PIAT	*	*	*	*
 22	Freitag	Freitag	NN	*	*	*	*
-23	auf	auf	APPR	1	1	1	1
+23	auf	auf	APPR	LIT	LIT	LIT	LIT
 24	der	die	ART	*	*	*	*
-25	Straße	Straße	NN	1	1	1	1
+25	Straße	Straße	NN	LIT	LIT	LIT	LIT
 26	:	:	$.	*	*	*	*
 27	"	"	$(	*	*	*	*
 28	Auch	auch	ADV	*	*	*	*
@@ -2206,6 +2278,7 @@
 # tuepp_article_id = T910301.161
 # sent_id = 577
 # text = Nach zehn , 20 oder gar 30 Arbeitsjahren , oftmals im selben Betrieb , stehen sie dann arbeitslos auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -2222,18 +2295,19 @@
 12	selben	selb	PDAT	*	*	*	*
 13	Betrieb	Betrieb	NN	*	*	*	*
 14	,	,	$,	*	*	*	*
-15	stehen	stehen	VVFIN	2	2	2	2
+15	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	sie	sie	PPER	*	*	*	*
 17	dann	dann	ADV	*	*	*	*
 18	arbeitslos	arbeitslos	ADJD	*	*	*	*
-19	auf	auf	APPR	2	2	2	2
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910307.47
 # sent_id = 578
 # text = Dann stehen Quartalskündigungen an , und die Arbeiter des öffentlichen Dienstes , die sich derzeit noch in der sogenannten " Warteschleife " befinden , stehen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -2260,15 +2334,16 @@
 22	"	"	$(	*	*	*	*
 23	befinden	befinden	VVFIN	*	*	*	*
 24	,	,	$,	*	*	*	*
-25	stehen	stehen	VVFIN	2	2	2	2
-26	auf	auf	APPR	2	2	2	2
+25	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+26	auf	auf	APPR	FIG	FIG	FIG	FIG
 27	der	die	ART	*	*	*	*
-28	Straße	Straße	NN	2	2	2	2
+28	Straße	Straße	NN	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910318.173
 # sent_id = 579
 # text = Im Juli , so hat die IG Metall errechnet , werden über 26.000 Berliner Elektro- und MetallarbeiterInnen auf der Straße stehen , die meisten davon in Köpenick .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -2288,10 +2363,10 @@
 15	Elektro-	Elektro-	TRUNC	*	*	*	*
 16	und	und	KON	*	*	*	*
 17	MetallarbeiterInnen	<unknown>	NN	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	2	2	2	2
-21	stehen	stehen	VVFIN	2	2	2	2
+20	Straße	Straße	NN	FIG	FIG	FIG	FIG
+21	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	die	die	PRELS	*	*	*	*
 24	meisten	meiste	PIS	*	*	*	*
@@ -2303,6 +2378,7 @@
 # tuepp_article_id = T911119.246
 # sent_id = 580
 # text = Wenn das Werk " abgewickelt " ist , stehen in der Region um die Jadestadt Wilhelmshaven 2.700 Menschen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -2313,7 +2389,7 @@
 6	"	"	$(	*	*	*	*
 7	ist	sein	VAFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	stehen	stehen	VVFIN	2	2	2	2
+9	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 10	in	in	APPR	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Region	Region	NN	*	*	*	*
@@ -2323,24 +2399,25 @@
 16	Wilhelmshaven	Wilhelmshaven	NE	*	*	*	*
 17	2.700	@card@	CARD	*	*	*	*
 18	Menschen	Mensch	NN	*	*	*	*
-19	auf	auf	APPR	2	2	2	2
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911128.95
 # sent_id = 581
 # text = Am Ende steht er wieder auf der Straße nach Idaho , die sich schier unendlich in den Horizont erstreckt , menschenleer , links und rechts wogende Kornfelder , ein Gemälde , blendend schön .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
 2	Ende	Ende	NN	*	*	*	*
-3	steht	stehen	VVFIN	1	1	1	1
+3	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	er	er	PPER	*	*	*	*
 5	wieder	wieder	ADV	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	1	1	1	1
+8	Straße	Straße	NN	LIT	LIT	LIT	LIT
 9	nach	nach	APPR	*	*	*	*
 10	Idaho	<unknown>	NE	*	*	*	*
 11	,	,	$,	*	*	*	*
@@ -2371,6 +2448,7 @@
 # tuepp_article_id = T911112.88
 # sent_id = 582
 # text = Sie hatte gesehen , wie Rotgardistinnen auf der Straße standen und allen Frauen , die sich nicht von ihren langen Zöpfen hatten trennen wollen , den revolutionären Einheitsschnitt verpaßten ; wie sie jungen Mädchen auf offener Straße die Hosen aufschlitzten , wenn sie meinten , ihre Beinkleider ließen zu viel Körperkonturen erkennen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -2379,10 +2457,10 @@
 4	,	,	$,	*	*	*	*
 5	wie	wie	KOKOM	*	*	*	*
 6	Rotgardistinnen	<unknown>	NN	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	1	1	1	1
-10	standen	stehen	VVFIN	1	1	1	1
+9	Straße	Straße	NN	LIT	LIT	LIT	LIT
+10	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 11	und	und	KON	*	*	*	*
 12	allen	alle	PIAT	*	*	*	*
 13	Frauen	Frau	NN	*	*	*	*
@@ -2430,6 +2508,7 @@
 # tuepp_article_id = T911109.98
 # sent_id = 583
 # text = Während Liedtke nach der Aufgabe des Blattes wieder zu Frau und Kind und zu seinem Hamburger Verlagshaus zurückkehrte , stehen seine Mitarbeiter auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -2451,30 +2530,31 @@
 17	Verlagshaus	Verlagshaus	NN	*	*	*	*
 18	zurückkehrte	zurückkehren	VVFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
-20	stehen	stehen	VVFIN	2	2	2	2
+20	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 21	seine	sein	PPOSAT	*	*	*	*
 22	Mitarbeiter	Mitarbeiter	NN	*	*	*	*
-23	auf	auf	APPR	2	2	2	2
+23	auf	auf	APPR	FIG	FIG	FIG	FIG
 24	der	die	ART	*	*	*	*
-25	Straße	Straße	NN	2	2	2	2
+25	Straße	Straße	NN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911121.61
 # sent_id = 584
 # text = Er steht mit ausgebreiteten Armen auf einer mit Trümmern übersäten Straße , wo die Serben , die alle ein Band mit der Aufschrift " Vukovar ` 91 " um den Helm gebunden haben , ihn nach Waffen untersuchen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
-2	steht	stehen	VVFIN	1	1	1	1
+2	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	mit	mit	APPR	*	*	*	*
 4	ausgebreiteten	ausgebreitet	ADJA	*	*	*	*
 5	Armen	Arm|Arme	NN	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	einer	eine	ART	*	*	*	*
 8	mit	mit	APPR	*	*	*	*
 9	Trümmern	Trümmer	NN	*	*	*	*
 10	übersäten	übersät	ADJA	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
 12	,	,	$,	*	*	*	*
 13	wo	wo	PWAV	*	*	*	*
 14	die	die	ART	*	*	*	*
@@ -2507,15 +2587,16 @@
 # tuepp_article_id = T911123.60
 # sent_id = 585
 # text = Damit stehen 2.700 Menschen auf der Straße , und das in einer Region , in der es ohnehin an Arbeitsplätzen mangelt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	2.700	@card@	CARD	*	*	*	*
 4	Menschen	Mensch	NN	*	*	*	*
-5	auf	auf	APPR	2	2	2	2
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	und	und	KON	*	*	*	*
 10	das	die	PDS	*	*	*	*
@@ -2535,6 +2616,7 @@
 # tuepp_article_id = T911123.60
 # sent_id = 586
 # text = Wenn das Werk " abgewickelt " ist , stehen in der Region um die Jadestadt Wilhelmshaven 2.700 Menschen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -2545,7 +2627,7 @@
 6	"	"	$(	*	*	*	*
 7	ist	sein	VAFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	stehen	stehen	VVFIN	2	2	2	2
+9	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 10	in	in	APPR	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Region	Region	NN	*	*	*	*
@@ -2555,14 +2637,15 @@
 16	Wilhelmshaven	Wilhelmshaven	NE	*	*	*	*
 17	2.700	@card@	CARD	*	*	*	*
 18	Menschen	Mensch	NN	*	*	*	*
-19	auf	auf	APPR	2	2	2	2
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911102.276
 # sent_id = 587
 # text = Nach Auslaufen des Mietvertrages war ihre Wohnung am Donnerstag polizeilich geräumt worden , zunächst standen elf Junkies auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -2579,17 +2662,18 @@
 12	worden	werden	VAPP	*	*	*	*
 13	,	,	$,	*	*	*	*
 14	zunächst	zunächst	ADV	*	*	*	*
-15	standen	stehen	VVFIN	2	2	2	2
+15	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	elf	elf	CARD	*	*	*	*
 17	Junkies	Junkie	NN	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	2	2	2	2
+20	Straße	Straße	NN	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910213.189
 # sent_id = 588
 # text = Die Redaktion der ältesten deutschen Filmzeitschrift - sie erscheint im 19. Jahrgang - stünde von einem auf den anderen Tag auf der Straße , ohne Zeit zu haben , neue Konditionen für ihren Fortbestand herzustellen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2606,16 +2690,16 @@
 12	.	.	$.	*	*	*	*
 13	Jahrgang	Jahrgang	NN	*	*	*	*
 14	-	-	$(	*	*	*	*
-15	stünde	stehen	VVFIN	2	2	2	2
+15	stünde	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	von	von	APPR	*	*	*	*
 17	einem	eine	ART	*	*	*	*
 18	auf	auf	APPR	*	*	*	*
 19	den	die	ART	*	*	*	*
 20	anderen	andere	PIAT	*	*	*	*
 21	Tag	Tag	NN	*	*	*	*
-22	auf	auf	APPR	2	2	2	2
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
 25	,	,	$,	*	*	*	*
 26	ohne	ohne	KOUI	*	*	*	*
 27	Zeit	Zeit	NN	*	*	*	*
@@ -2633,6 +2717,7 @@
 # tuepp_article_id = T910212.227
 # sent_id = 589
 # text = Von den noch im Februar beschäftigten 118.000 Arbeitnehmern werden 47.200 ab 1. Juli auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Von	von	APPR	*	*	*	*
@@ -2649,22 +2734,23 @@
 12	1	@card@	CARD	*	*	*	*
 13	.	.	$.	*	*	*	*
 14	Juli	Juli	NN	*	*	*	*
-15	auf	auf	APPR	2	2	2	2
+15	auf	auf	APPR	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	2	2	2	2
-18	stehen	stehen	VVFIN	2	2	2	2
+17	Straße	Straße	NN	FIG	FIG	FIG	FIG
+18	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910221.136
 # sent_id = 590
 # text = Allein im Vormonat Januar standen im Großraum Sao Paulo 68.772 Arbeitslose mehr auf der Straße , mehr als im ganzen Jahr 1982 gefeuert wurden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allein	allein	ADV	*	*	*	*
 2	im	in	APPRART	*	*	*	*
 3	Vormonat	Vormonat	NN	*	*	*	*
 4	Januar	Januar	NN	*	*	*	*
-5	standen	stehen	VVFIN	2	2	2	2
+5	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 6	im	in	APPRART	*	*	*	*
 7	Großraum	Großraum	NN	*	*	*	*
 8	Sao	Sao	NE	*	*	*	*
@@ -2672,9 +2758,9 @@
 10	68.772	@card@	CARD	*	*	*	*
 11	Arbeitslose	Arbeitslose	NN	*	*	*	*
 12	mehr	mehr	ADV	*	*	*	*
-13	auf	auf	APPR	2	2	2	2
+13	auf	auf	APPR	FIG	FIG	FIG	FIG
 14	der	die	ART	*	*	*	*
-15	Straße	Straße	NN	2	2	2	2
+15	Straße	Straße	NN	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	mehr	mehr	ADV	*	*	*	*
 18	als	als	KOKOM	*	*	*	*
@@ -2689,6 +2775,7 @@
 # tuepp_article_id = T910221.158
 # sent_id = 591
 # text = So bleibt der Lastwagen den ganzen Film über auf der Straße stehen - und Herr Wallenberg , ein schwedischer Jude , der in Budapest mit der Rückendeckung der Botschaft jüdische Bürger von den Nazis freikauft , wird immer wieder an diesen Ort zurückkehren und mit den Bewachern über die Freigabe der Gefangenen verhandeln - die Beharrlichkeit eines Menschen unter Unmenschen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -2699,10 +2786,10 @@
 6	ganzen	ganz	ADJA	*	*	*	*
 7	Film	Film	NN	*	*	*	*
 8	über	über	APPR	*	*	*	*
-9	auf	auf	APPR	1	1	1	1
+9	auf	auf	APPR	LIT	LIT	LIT	LIT
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
-12	stehen	stehen	VVFIN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
+12	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 13	-	-	$(	*	*	*	*
 14	und	und	KON	*	*	*	*
 15	Herr	Herr	NN	*	*	*	*
@@ -2756,21 +2843,23 @@
 # tuepp_article_id = T910216.162
 # sent_id = 592
 # text = Ansonsten würden die Betroffenen auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ansonsten	ansonsten	ADV	*	*	*	*
 2	würden	werden	VAFIN	*	*	*	*
 3	die	die	ART	*	*	*	*
 4	Betroffenen	Betroffene	NN	*	*	*	*
-5	auf	auf	APPR	2	2	2	2
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
-8	stehen	stehen	VVFIN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
+8	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900503.82
 # sent_id = 593
 # text = Da im ganzen Revier anzunehmen ist , daß Chemiearbeiter und Kohlekumpel auf der Straße stehen werden , sind die Belegschafter relativ leicht erpreßbar .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -2784,10 +2873,10 @@
 9	Chemiearbeiter	Chemiearbeiter	NN	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	Kohlekumpel	Kohlekumpel	NN	*	*	*	*
-12	auf	auf	APPR	2	2	2	2
+12	auf	auf	APPR	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	2	2	2	2
-15	stehen	stehen	VVINF	2	2	2	2
+14	Straße	Straße	NN	FIG	FIG	FIG	FIG
+15	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 16	werden	werden	VAFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
 18	sind	sein	VAFIN	*	*	*	*
@@ -2801,6 +2890,7 @@
 # tuepp_article_id = T900503.251
 # sent_id = 594
 # text = Und da , mitten in finsterer , regnerischer Nacht , stand ein Mann mit Bart und langen Haaren auf der Straße , " der sah aus wie Rasputin " , erinnerte sich gestern vor dem Schöffengericht in Achim der Zeuge , Hauptfeldwebel Lothar Brill .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -2813,7 +2903,7 @@
 8	regnerischer	regnerisch	ADJA	*	*	*	*
 9	Nacht	Nacht	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	stand	stehen	VVFIN	1	1	1	1
+11	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 12	ein	eine	ART	*	*	*	*
 13	Mann	Mann	NN	*	*	*	*
 14	mit	mit	APPR	*	*	*	*
@@ -2821,9 +2911,9 @@
 16	und	und	KON	*	*	*	*
 17	langen	lang	ADJA	*	*	*	*
 18	Haaren	Haar	NN	*	*	*	*
-19	auf	auf	APPR	1	1	1	1
+19	auf	auf	APPR	LIT	LIT	LIT	LIT
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	1	1	1	1
+21	Straße	Straße	NN	LIT	LIT	LIT	LIT
 22	,	,	$,	*	*	*	*
 23	"	"	$(	*	*	*	*
 24	der	die	PDS	*	*	*	*
@@ -2852,6 +2942,7 @@
 # tuepp_article_id = T900526.165
 # sent_id = 595
 # text = Ein Exempel wird statuiert : Ohne Beruf , ohne Renten- , Kranken- und Sozialversicherung , ohne Anspruch auf Arbeitslosengeld stand er auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -2873,16 +2964,17 @@
 17	Anspruch	Anspruch	NN	*	*	*	*
 18	auf	auf	APPR	*	*	*	*
 19	Arbeitslosengeld	Arbeitslosengeld	NN	*	*	*	*
-20	stand	stehen	VVFIN	2	2	2	2
+20	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 21	er	er	PPER	*	*	*	*
-22	auf	auf	APPR	2	2	2	2
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900515.281
 # sent_id = 596
 # text = In der Region Berlin - Brandenburg , einer traditionell strukturschwachen Gegend mit relativ wenigen industriellen Großbetrieben besteht die realistische Gefahr , daß in absehbarer Zeit rund 500.000 Menschen auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -2913,15 +3005,16 @@
 26	rund	rund	ADV	*	*	*	*
 27	500.000	@card@	CARD	*	*	*	*
 28	Menschen	Mensch	NN	*	*	*	*
-29	auf	auf	APPR	2	2	2	2
+29	auf	auf	APPR	FIG	FIG	FIG	FIG
 30	der	die	ART	*	*	*	*
-31	Straße	Straße	NN	2	2	2	2
-32	stehen	stehen	VVFIN	2	2	2	2
+31	Straße	Straße	NN	FIG	FIG	FIG	FIG
+32	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900502.229
 # sent_id = 597
 # text = Zwei NachbarInnen , eine 27jährige Frau und ein gleichaltriger Mann , standen auf der Straße , als das Kind aus dem zweiten Stockwerk herabfiel .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwei	zwei	CARD	*	*	*	*
@@ -2935,10 +3028,10 @@
 9	gleichaltriger	gleichaltrig	ADJA	*	*	*	*
 10	Mann	Mann	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	standen	stehen	VVFIN	1	1	1	1
-13	auf	auf	APPR	1	1	1	1
+12	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
+13	auf	auf	APPR	LIT	LIT	LIT	LIT
 14	der	die	ART	*	*	*	*
-15	Straße	Straße	NN	1	1	1	1
+15	Straße	Straße	NN	LIT	LIT	LIT	LIT
 16	,	,	$,	*	*	*	*
 17	als	als	KOUS	*	*	*	*
 18	das	die	ART	*	*	*	*
@@ -2953,6 +3046,7 @@
 # tuepp_article_id = T900621.272
 # sent_id = 598
 # text = Wieviele Jugendliche nach Ende des laufenden Schuljahres noch hinzukommen werden und ab 1. September auf der Straße stehen , sei noch gar nicht abzusehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wieviele	wieviele	PWS	*	*	*	*
@@ -2970,10 +3064,10 @@
 13	1	@card@	CARD	*	*	*	*
 14	.	.	$.	*	*	*	*
 15	September	September	NN	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
-19	stehen	stehen	VVFIN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
+19	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	sei	sein	VAFIN	*	*	*	*
 22	noch	noch	ADV	*	*	*	*
@@ -2985,23 +3079,25 @@
 # tuepp_article_id = T900621.280
 # sent_id = 599
 # text = Damit stünden sie auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	stünden	stehen	VVFIN	2	2	2	2
+2	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	sie	sie	PPER	*	*	*	*
-4	auf	auf	APPR	2	2	2	2
+4	auf	auf	APPR	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	2	2	2	2
+6	Straße	Straße	NN	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900926.229
 # sent_id = 600
 # text = Damit stehen die Junkies , von denen in Bremen zur Zeit schätzungsweise 50 bis 60 obdachlos sind , auch tagsüber auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Damit	damit	PAV	*	*	*	*
-2	stehen	stehen	VVFIN	2	1	1	1
+2	stehen	stehen	VVFIN	FIG	LIT	LIT	LIT
 3	die	die	ART	*	*	*	*
 4	Junkies	Junkie	NN	*	*	*	*
 5	,	,	$,	*	*	*	*
@@ -3020,14 +3116,15 @@
 18	,	,	$,	*	*	*	*
 19	auch	auch	ADV	*	*	*	*
 20	tagsüber	tagsüber	ADV	*	*	*	*
-21	auf	auf	APPR	2	1	1	1
+21	auf	auf	APPR	FIG	LIT	LIT	LIT
 22	der	die	ART	*	*	*	*
-23	Straße	Straße	NN	2	1	1	1
+23	Straße	Straße	NN	FIG	LIT	LIT	LIT
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900925.157
 # sent_id = 601
 # text = Nicht nur , daß höchstwahrscheinlich alle 80 wissenschaftlichen Mitarbeiter nächste Woche auf der Straße stünden und gerade mal die Pförtner , Hausmeister , Elektriker , Aufsichtspersonal und einige Personen , die sich in den Beständen auskennen , übernommen würden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -3041,10 +3138,10 @@
 9	Mitarbeiter	Mitarbeiter	NN	*	*	*	*
 10	nächste	nah	ADJA	*	*	*	*
 11	Woche	Woche	NN	*	*	*	*
-12	auf	auf	APPR	2	2	2	2
+12	auf	auf	APPR	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	2	2	2	2
-15	stünden	stehen	VVFIN	2	2	2	2
+14	Straße	Straße	NN	FIG	FIG	FIG	FIG
+15	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	und	und	KON	*	*	*	*
 17	gerade	gerade	ADV	*	*	*	*
 18	mal	mal	ADV	*	*	*	*
@@ -3074,6 +3171,7 @@
 # tuepp_article_id = T900918.98
 # sent_id = 602
 # text = " Er erzählt vom letzten Erdbeben in San Francisco : " Es gab sehr wenig Zerstörung , überall standen die Leute auf den Straßen , redeten , tranken Wein und waren froh , daß so gut wie nichts passiert war .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3094,12 +3192,12 @@
 16	Zerstörung	Zerstörung	NN	*	*	*	*
 17	,	,	$,	*	*	*	*
 18	überall	überall	ADV	*	*	*	*
-19	standen	stehen	VVFIN	1	1	1	1
+19	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 20	die	die	ART	*	*	*	*
 21	Leute	Leute	NN	*	*	*	*
-22	auf	auf	APPR	1	1	1	1
+22	auf	auf	APPR	LIT	LIT	LIT	LIT
 23	den	die	ART	*	*	*	*
-24	Straßen	Straße	NN	1	1	1	1
+24	Straßen	Straße	NN	LIT	LIT	LIT	LIT
 25	,	,	$,	*	*	*	*
 26	redeten	reden	VVFIN	*	*	*	*
 27	,	,	$,	*	*	*	*
@@ -3121,6 +3219,7 @@
 # tuepp_article_id = T900922.24
 # sent_id = 603
 # text = Auch die Regierungsbeauftragte Berger bestätigt , daß die AusländerInnen als erste auf der Straße stehen - wenngleich sie versucht , Verständnis für die Entscheidung der Betriebe aufzubringen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -3134,10 +3233,10 @@
 9	AusländerInnen	Ausländerin	NN	*	*	*	*
 10	als	als	KOKOM	*	*	*	*
 11	erste	erst	ADJA	*	*	*	*
-12	auf	auf	APPR	2	2	2	2
+12	auf	auf	APPR	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	2	2	2	2
-15	stehen	stehen	VVFIN	2	2	2	2
+14	Straße	Straße	NN	FIG	FIG	FIG	FIG
+15	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	-	-	$(	*	*	*	*
 17	wenngleich	wenngleich	KOUS	*	*	*	*
 18	sie	sie	PPER	*	*	*	*
@@ -3155,6 +3254,7 @@
 # tuepp_article_id = T900922.201
 # sent_id = 604
 # text = Um aber denjenigen , die hier und heute auf der Straße stehen , zu helfen , wurde die " Aktion Studentenbuden " gestartet .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	KOUI	*	*	*	*
@@ -3165,10 +3265,10 @@
 6	hier	hier	ADV	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	heute	heute	ADV	*	*	*	*
-9	auf	auf	APPR	2	2	2	2
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	2	2	2	2
-12	stehen	stehen	VVFIN	2	2	2	2
+11	Straße	Straße	NN	FIG	FIG	FIG	FIG
+12	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	zu	zu	PTKZU	*	*	*	*
 15	helfen	helfen	VVINF	*	*	*	*
@@ -3185,18 +3285,20 @@
 # tuepp_article_id = T900904.118
 # sent_id = 605
 # text = Polizisten stehen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Polizisten	Polizist	NN	*	*	*	*
-2	stehen	stehen	VVFIN	1	1	1	1
-3	auf	auf	APPR	1	1	1	1
+2	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
+3	auf	auf	APPR	LIT	LIT	LIT	LIT
 4	der	die	ART	*	*	*	*
-5	Straße	Straße	NN	1	1	1	1
+5	Straße	Straße	NN	LIT	LIT	LIT	LIT
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900111.227
 # sent_id = 606
 # text = Die Droschken waren halbleer , die Leute standen auf der Straße , klatschten und guckten immer auf mein Auto .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3206,10 +3308,10 @@
 5	,	,	$,	*	*	*	*
 6	die	die	ART	*	*	*	*
 7	Leute	Leute	NN	*	*	*	*
-8	standen	stehen	VVFIN	1	1	1	1
-9	auf	auf	APPR	1	1	1	1
+8	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
+9	auf	auf	APPR	LIT	LIT	LIT	LIT
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
 12	,	,	$,	*	*	*	*
 13	klatschten	klatschen	VVFIN	*	*	*	*
 14	und	und	KON	*	*	*	*
@@ -3223,6 +3325,7 @@
 # tuepp_article_id = T900102.215
 # sent_id = 607
 # text = Als das neue Jahrzehnt beginnt , stehen nur vereinzelt kleinere Gruppen sekttrinkend auf den Straßen und Plätzen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOUS	*	*	*	*
@@ -3231,15 +3334,15 @@
 4	Jahrzehnt	Jahrzehnt	NN	*	*	*	*
 5	beginnt	beginnen	VVFIN	*	*	*	*
 6	,	,	$,	*	*	*	*
-7	stehen	stehen	VVFIN	1	1	1	1
+7	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 8	nur	nur	ADV	*	*	*	*
 9	vereinzelt	vereinzeln	VVFIN	*	*	*	*
 10	kleinere	klein	ADJA	*	*	*	*
 11	Gruppen	Gruppe	NN	*	*	*	*
 12	sekttrinkend	<unknown>	ADJD	*	*	*	*
-13	auf	auf	APPR	1	1	1	1
+13	auf	auf	APPR	LIT	LIT	LIT	LIT
 14	den	die	ART	*	*	*	*
-15	Straßen	Straße	NN	1	1	1	1
+15	Straßen	Straße	NN	LIT	LIT	LIT	LIT
 16	und	und	KON	*	*	*	*
 17	Plätzen	Platz	NN	*	*	*	*
 18	.	.	$.	*	*	*	*
@@ -3247,6 +3350,7 @@
 # tuepp_article_id = T900112.107
 # sent_id = 608
 # text = " Parlamentarier schlugen vor , die Greenbelt - Bewegung zu verbieten , Gruppen der parteieigenen Frauenorganisation protestieren gegen die aufmüpfige Professorin und fordern ihren Parteiausschluß , und drei Tage nach dem Gerichtsurteil wurde die Umweltorganisation aus den staatseigenen Gebäuden geworfen , in denen sie seit zehn Jahren ihre Büros hatte : Maathai und ihre 30 MitarbeiterInnen stehen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3305,29 +3409,31 @@
 54	ihre	ihr	PPOSAT	*	*	*	*
 55	30	@card@	CARD	*	*	*	*
 56	MitarbeiterInnen	Mitarbeiterin	NN	*	*	*	*
-57	stehen	stehen	VVFIN	2	2	2	2
-58	auf	auf	APPR	2	2	2	2
+57	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+58	auf	auf	APPR	FIG	FIG	FIG	FIG
 59	der	die	ART	*	*	*	*
-60	Straße	Straße	NN	2	2	2	2
+60	Straße	Straße	NN	FIG	FIG	FIG	FIG
 61	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900108.237
 # sent_id = 609
 # text = Dann stehen wir wieder auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Dann	dann	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	wir	wir	PPER	*	*	*	*
 4	wieder	wieder	ADV	*	*	*	*
-5	auf	auf	APPR	2	2	2	2
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900116.127
 # sent_id = 610
 # text = Doch die Firma würde dann unweigerlich pleitegehen , die Belegschaft stünde auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -3340,15 +3446,16 @@
 8	,	,	$,	*	*	*	*
 9	die	die	ART	*	*	*	*
 10	Belegschaft	Belegschaft	NN	*	*	*	*
-11	stünde	stehen	VVFIN	2	2	2	2
-12	auf	auf	APPR	2	2	2	2
+11	stünde	stehen	VVFIN	FIG	FIG	FIG	FIG
+12	auf	auf	APPR	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	2	2	2	2
+14	Straße	Straße	NN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900425.102
 # sent_id = 611
 # text = Tausende treue Parteigänger werden bald auf der Straße stehen und mit ihrer sandinistischen Vergangenheit wenig Aussichten auf Arbeitsplätze haben .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Tausende	Tausend	NN	*	*	*	*
@@ -3356,10 +3463,10 @@
 3	Parteigänger	Parteigänger	NN	*	*	*	*
 4	werden	werden	VAFIN	*	*	*	*
 5	bald	bald	ADV	*	*	*	*
-6	auf	auf	APPR	2	2	2	2
+6	auf	auf	APPR	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	2	2	2	2
-9	stehen	stehen	VVFIN	2	2	2	2
+8	Straße	Straße	NN	FIG	FIG	FIG	FIG
+9	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 10	und	und	KON	*	*	*	*
 11	mit	mit	APPR	*	*	*	*
 12	ihrer	ihr	PPOSAT	*	*	*	*
@@ -3375,6 +3482,7 @@
 # tuepp_article_id = T900402.185
 # sent_id = 612
 # text = " Seine " Charon " stand vorgestern noch auf der Straße , gestern schaukelte das Kajütboot im Wasser der Dahme .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3382,12 +3490,12 @@
 3	"	"	$(	*	*	*	*
 4	Charon	<unknown>	NE	*	*	*	*
 5	"	"	$(	*	*	*	*
-6	stand	stehen	VVFIN	1	1	1	1
+6	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 7	vorgestern	vorgestern	ADV	*	*	*	*
 8	noch	noch	ADV	*	*	*	*
-9	auf	auf	APPR	1	1	1	1
+9	auf	auf	APPR	LIT	LIT	LIT	LIT
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
 12	,	,	$,	*	*	*	*
 13	gestern	gestern	ADV	*	*	*	*
 14	schaukelte	schaukeln	VVFIN	*	*	*	*
@@ -3402,6 +3510,7 @@
 # tuepp_article_id = T900406.183
 # sent_id = 613
 # text = Die meisten sind grau und müde , viele Rentner sind dabei , Mütter halten ihre Kleinkinder an der Hand , das Volk steht auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
@@ -3426,15 +3535,16 @@
 20	,	,	$,	*	*	*	*
 21	das	die	ART	*	*	*	*
 22	Volk	Volk	NN	*	*	*	*
-23	steht	stehen	VVFIN	3	1	2	3
-24	auf	auf	APPR	3	1	2	3
+23	steht	stehen	VVFIN	UND	LIT	FIG	UND
+24	auf	auf	APPR	UND	LIT	FIG	UND
 25	der	die	ART	*	*	*	*
-26	Straße	Straße	NN	3	1	2	3
+26	Straße	Straße	NN	UND	LIT	FIG	UND
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900418.244
 # sent_id = 614
 # text = Beim Zeitungsvertrieb in der DDR sollte sich die Post bestimmte Rechte vorbehalten , weil anderenfalls " rund 5 000 Arbeitskräfte auf der Straße " stünden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Beim	bei	APPRART	*	*	*	*
@@ -3457,16 +3567,17 @@
 18	5	@card@	CARD	*	*	*	*
 19	000	@card@	CARD	*	*	*	*
 20	Arbeitskräfte	Arbeitskraft	NN	*	*	*	*
-21	auf	auf	APPR	2	2	2	2
+21	auf	auf	APPR	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
-23	Straße	Straße	NN	2	2	2	2
+23	Straße	Straße	NN	FIG	FIG	FIG	FIG
 24	"	"	$(	*	*	*	*
-25	stünden	stehen	VVFIN	2	2	2	2
+25	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900423.23
 # sent_id = 615
 # text = Eine Kolonne Panzer rollt hinauf , ein junger Mann steht auf der Straße und gibt ein Stopsignal , wie ein Verkehrspolizist .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -3478,10 +3589,10 @@
 7	ein	eine	ART	*	*	*	*
 8	junger	jung	ADJA	*	*	*	*
 9	Mann	Mann	NN	*	*	*	*
-10	steht	stehen	VVFIN	1	1	1	1
-11	auf	auf	APPR	1	1	1	1
+10	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
+11	auf	auf	APPR	LIT	LIT	LIT	LIT
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	1	1	1	1
+13	Straße	Straße	NN	LIT	LIT	LIT	LIT
 14	und	und	KON	*	*	*	*
 15	gibt	geben	VVFIN	*	*	*	*
 16	ein	eine	ART	*	*	*	*
@@ -3495,6 +3606,7 @@
 # tuepp_article_id = T900423.275
 # sent_id = 616
 # text = Schon nach einer knappen dreiviertel Stunde stehen 70 Ostertorsche KirchgängerInnen wieder auf der hellen Straße ein Gottesdienst ganz kurz und schmerzlos .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Schon	schon	ADV	*	*	*	*
@@ -3503,15 +3615,15 @@
 4	knappen	knapp	ADJA	*	*	*	*
 5	dreiviertel	Dreiviertel	NN	*	*	*	*
 6	Stunde	Stunde	NN	*	*	*	*
-7	stehen	stehen	VVFIN	1	1	1	1
+7	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 8	70	@card@	CARD	*	*	*	*
 9	Ostertorsche	<unknown>	NN	*	*	*	*
 10	KirchgängerInnen	<unknown>	NN	*	*	*	*
 11	wieder	wieder	ADV	*	*	*	*
-12	auf	auf	APPR	1	1	1	1
+12	auf	auf	APPR	LIT	LIT	LIT	LIT
 13	der	die	ART	*	*	*	*
 14	hellen	hell	ADJA	*	*	*	*
-15	Straße	Straße	NN	1	1	1	1
+15	Straße	Straße	NN	LIT	LIT	LIT	LIT
 16	ein	eine	ART	*	*	*	*
 17	Gottesdienst	Gottesdienst	NN	*	*	*	*
 18	ganz	ganz	ADV	*	*	*	*
@@ -3523,6 +3635,7 @@
 # tuepp_article_id = T900702.221
 # sent_id = 617
 # text = " Wenn das Geld nicht bewilligt wird , stehen möglicherweise schon im Juli zusätzliche Tausende von Bauarbeitern auf der Straße " , sagte Kraft .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3533,7 +3646,7 @@
 6	bewilligt	bewilligen	VVPP	*	*	*	*
 7	wird	werden	VAFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	stehen	stehen	VVFIN	2	2	2	2
+9	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 10	möglicherweise	möglicherweise	ADV	*	*	*	*
 11	schon	schon	ADV	*	*	*	*
 12	im	in	APPRART	*	*	*	*
@@ -3542,9 +3655,9 @@
 15	Tausende	Tausend	NN	*	*	*	*
 16	von	von	APPR	*	*	*	*
 17	Bauarbeitern	Bauarbeiter	NN	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	2	2	2	2
+20	Straße	Straße	NN	FIG	FIG	FIG	FIG
 21	"	"	$(	*	*	*	*
 22	,	,	$,	*	*	*	*
 23	sagte	sagen	VVFIN	*	*	*	*
@@ -3554,6 +3667,7 @@
 # tuepp_article_id = T900714.93
 # sent_id = 618
 # text = Es blieb ihnen nichts anderes übrig , wenn sie nicht auf der Straße stehen wollten .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -3566,16 +3680,17 @@
 8	wenn	wenn	KOUS	*	*	*	*
 9	sie	sie	PPER	*	*	*	*
 10	nicht	nicht	PTKNEG	*	*	*	*
-11	auf	auf	APPR	2	2	2	2
+11	auf	auf	APPR	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	2	2	2	2
-14	stehen	stehen	VVINF	2	2	2	2
+13	Straße	Straße	NN	FIG	FIG	FIG	FIG
+14	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 15	wollten	wollen	VMFIN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900714.251
 # sent_id = 619
 # text = Die etwa zwölf Jugendlichen , die einstweilen auf der Straße stehen , wollen in der 350 Quadratmeter großen Remise kollektiv wohnen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3585,10 +3700,10 @@
 5	,	,	$,	*	*	*	*
 6	die	die	PRELS	*	*	*	*
 7	einstweilen	einstweilen	ADV	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	2	2	2
-11	stehen	stehen	VVFIN	2	2	2	2
+10	Straße	Straße	NN	FIG	FIG	FIG	FIG
+11	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	wollen	wollen	VMFIN	*	*	*	*
 14	in	in	APPR	*	*	*	*
@@ -3604,6 +3719,7 @@
 # tuepp_article_id = T900723.232
 # sent_id = 620
 # text = Die Bewohner , die bei der Sanierung ihres Hauses in Selbsthilfe mitarbeiten wollen , stünden , wenn das Vorhaben scheitert , auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3620,21 +3736,22 @@
 12	mitarbeiten	mitarbeiten	VVINF	*	*	*	*
 13	wollen	wollen	VMFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
-15	stünden	stehen	VVFIN	2	2	2	2
+15	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	wenn	wenn	KOUS	*	*	*	*
 18	das	die	ART	*	*	*	*
 19	Vorhaben	Vorhaben	NN	*	*	*	*
 20	scheitert	scheitern	VVFIN	*	*	*	*
 21	,	,	$,	*	*	*	*
-22	auf	auf	APPR	2	2	2	2
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900717.76
 # sent_id = 621
 # text = Dann starb die Mutter , und Columbus stand auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -3644,15 +3761,16 @@
 5	,	,	$,	*	*	*	*
 6	und	und	KON	*	*	*	*
 7	Columbus	Columbus	NE	*	*	*	*
-8	stand	stehen	VVFIN	2	2	2	2
-9	auf	auf	APPR	2	2	2	2
+8	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	2	2	2	2
+11	Straße	Straße	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901206.163
 # sent_id = 622
 # text = Dabei sah es einmal düster für sie aus : 1980 , als sie die Schule verließen , SchülerInnen schrieben sich die Finger an Bewerbungen wund , Lehrlinge standen am Ende ihrer Ausbildung auf der Straße , und für StudentInnen hieß es Abschied nehmen von den Privilegien der Akademiker .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
@@ -3682,14 +3800,14 @@
 25	wund	wund	ADJD	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	Lehrlinge	Lehrling	NN	*	*	*	*
-28	standen	stehen	VVFIN	2	2	2	2
+28	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 29	am	an	APPRART	*	*	*	*
 30	Ende	Ende	NN	*	*	*	*
 31	ihrer	ihr	PPOSAT	*	*	*	*
 32	Ausbildung	Ausbildung	NN	*	*	*	*
-33	auf	auf	APPR	2	2	2	2
+33	auf	auf	APPR	FIG	FIG	FIG	FIG
 34	der	die	ART	*	*	*	*
-35	Straße	Straße	NN	2	2	2	2
+35	Straße	Straße	NN	FIG	FIG	FIG	FIG
 36	,	,	$,	*	*	*	*
 37	und	und	KON	*	*	*	*
 38	für	für	APPR	*	*	*	*
@@ -3708,6 +3826,7 @@
 # tuepp_article_id = T901214.246
 # sent_id = 623
 # text = Von denjenigen , die trotz aller Suche leer ausgehen , übernachten 43 Prozent bei Verwandten oder Kumpeln , 27 % in den einschlägigen Pensionen , weitere 20 % in Thearpie-und Übergangseinrichtungen ( Verein Hoppenbank , Jakobushaus ) und die restlichen 10 % stehen wirklich auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Von	von	APPR	*	*	*	*
@@ -3752,16 +3871,17 @@
 40	restlichen	restlich	ADJA	*	*	*	*
 41	10	@card@	CARD	*	*	*	*
 42	%	%	NN	*	*	*	*
-43	stehen	stehen	VVFIN	2	2	2	2
+43	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 44	wirklich	wirklich	ADJD	*	*	*	*
-45	auf	auf	APPR	2	2	2	2
+45	auf	auf	APPR	FIG	FIG	FIG	FIG
 46	der	die	ART	*	*	*	*
-47	Straße	Straße	NN	2	2	2	2
+47	Straße	Straße	NN	FIG	FIG	FIG	FIG
 48	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901211.223
 # sent_id = 624
 # text = Die Sozialbehörde suchte in den verbleibenden drei Wochen bis zum gerichtlich festgelegten Auszugstermin mit fliegenden Händen eine neue Unterkunft für Erich Gröger , um zu verhindern , daß er am 20. Juli wieder auf der Straße steht , diesmal protestierend und obdachlos .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3798,10 +3918,10 @@
 32	.	.	$.	*	*	*	*
 33	Juli	Juli	NN	*	*	*	*
 34	wieder	wieder	ADV	*	*	*	*
-35	auf	auf	APPR	2	2	2	2
+35	auf	auf	APPR	FIG	FIG	FIG	FIG
 36	der	die	ART	*	*	*	*
-37	Straße	Straße	NN	2	2	2	2
-38	steht	stehen	VVFIN	2	2	2	2
+37	Straße	Straße	NN	FIG	FIG	FIG	FIG
+38	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 39	,	,	$,	*	*	*	*
 40	diesmal	diesmal	ADV	*	*	*	*
 41	protestierend	protestierend	ADJD	*	*	*	*
@@ -3812,21 +3932,22 @@
 # tuepp_article_id = T901208.75
 # sent_id = 625
 # text = Einzelne Gruppen von Zuhörern stehen noch lange nach der Veranstaltung auf der Straße und debattieren .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einzelne	einzeln	ADJA	*	*	*	*
 2	Gruppen	Gruppe	NN	*	*	*	*
 3	von	von	APPR	*	*	*	*
 4	Zuhörern	Zuhörer	NN	*	*	*	*
-5	stehen	stehen	VVFIN	1	1	1	1
+5	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 6	noch	noch	ADV	*	*	*	*
 7	lange	lange	ADV	*	*	*	*
 8	nach	nach	APPR	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Veranstaltung	Veranstaltung	NN	*	*	*	*
-11	auf	auf	APPR	1	1	1	1
+11	auf	auf	APPR	LIT	LIT	LIT	LIT
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	1	1	1	1
+13	Straße	Straße	NN	LIT	LIT	LIT	LIT
 14	und	und	KON	*	*	*	*
 15	debattieren	debattieren	VVFIN	*	*	*	*
 16	.	.	$.	*	*	*	*
@@ -3834,6 +3955,7 @@
 # tuepp_article_id = T900816.107
 # sent_id = 626
 # text = Nicht nur alle Kneipen seien brechend voll , so daß man keinen Fuß mehr hineinkriege - sie stünden mit Einliter-Bierflaschen bewehrt in Trauben auf den Straßen und behinderten den Verkehr .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -3853,15 +3975,15 @@
 15	hineinkriege	<unknown>	VVFIN	*	*	*	*
 16	-	-	$(	*	*	*	*
 17	sie	sie	PPER	*	*	*	*
-18	stünden	stehen	VVFIN	1	1	1	1
+18	stünden	stehen	VVFIN	LIT	LIT	LIT	LIT
 19	mit	mit	APPR	*	*	*	*
 20	Einliter-Bierflaschen	Einliter-Bierflasche	NN	*	*	*	*
 21	bewehrt	bewehren	VVFIN	*	*	*	*
 22	in	in	APPR	*	*	*	*
 23	Trauben	Traube	NN	*	*	*	*
-24	auf	auf	APPR	1	1	1	1
+24	auf	auf	APPR	LIT	LIT	LIT	LIT
 25	den	die	ART	*	*	*	*
-26	Straßen	Straße	NN	1	1	1	1
+26	Straßen	Straße	NN	LIT	LIT	LIT	LIT
 27	und	und	KON	*	*	*	*
 28	behinderten	behindern	VVFIN	*	*	*	*
 29	den	die	ART	*	*	*	*
@@ -3871,6 +3993,7 @@
 # tuepp_article_id = T900814.51
 # sent_id = 627
 # text = Wenn es jetzt kein Geld gibt , stirbt der Laden und nächstes Jahr stehen wir alle auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -3886,17 +4009,18 @@
 11	und	und	KON	*	*	*	*
 12	nächstes	nah	ADJA	*	*	*	*
 13	Jahr	Jahr	NN	*	*	*	*
-14	stehen	stehen	VVFIN	2	2	2	2
+14	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 15	wir	wir	PPER	*	*	*	*
 16	alle	alle	PIS	*	*	*	*
-17	auf	auf	APPR	2	2	2	2
+17	auf	auf	APPR	FIG	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	2	2	2	2
+19	Straße	Straße	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900303.112
 # sent_id = 628
 # text = Als " Dinosaurier " habe ihn dieser unverschämterweise tituliert , aber er habe ihm geantwortet : " Ich habe das Gesetz auf meiner Seite , und du wirst auf der Straße stehen und Molotow - Cocktails schmeißen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -3927,10 +4051,10 @@
 26	und	und	KON	*	*	*	*
 27	du	du	PPER	*	*	*	*
 28	wirst	werden	VAFIN	*	*	*	*
-29	auf	auf	APPR	1	1	1	1
+29	auf	auf	APPR	LIT	LIT	LIT	LIT
 30	der	die	ART	*	*	*	*
-31	Straße	Straße	NN	1	1	1	1
-32	stehen	stehen	VVFIN	1	1	1	1
+31	Straße	Straße	NN	LIT	LIT	LIT	LIT
+32	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 33	und	und	KON	*	*	*	*
 34	Molotow	Molotow	NE	*	*	*	*
 35	-	-	$(	*	*	*	*
@@ -3941,6 +4065,7 @@
 # tuepp_article_id = T900326.275
 # sent_id = 629
 # text = Dann brannte das Theater ab und die 16 Schauspieler standen heimatlos auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -3952,16 +4077,17 @@
 7	die	die	ART	*	*	*	*
 8	16	@card@	ADJA	*	*	*	*
 9	Schauspieler	Schauspieler	NN	*	*	*	*
-10	standen	stehen	VVFIN	2	2	2	2
+10	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 11	heimatlos	heimatlos	ADJD	*	*	*	*
-12	auf	auf	APPR	2	2	2	2
+12	auf	auf	APPR	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	2	2	2	2
+14	Straße	Straße	NN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901117.135
 # sent_id = 630
 # text = Gestalten , manche in abgerissenen Kleidern , andere städtisch gekleidet , lehnen in Fenstern oder stehen auf der Straße zusammen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gestalten	Gestalt|Gestalten	NN	*	*	*	*
@@ -3979,25 +4105,26 @@
 13	in	in	APPR	*	*	*	*
 14	Fenstern	Fenster	NN	*	*	*	*
 15	oder	oder	KON	*	*	*	*
-16	stehen	stehen	VVFIN	1	1	1	1
-17	auf	auf	APPR	1	1	1	1
+16	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
+17	auf	auf	APPR	LIT	LIT	LIT	LIT
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	1	1	1	1
+19	Straße	Straße	NN	LIT	LIT	LIT	LIT
 20	zusammen	zusammen	PTKVZ	*	*	*	*
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901101.309
 # sent_id = 631
 # text = Auf der Straße bleibe ich nicht stehen , trinke keine Bier , keinen Kaffee .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-1	Auf	auf	APPR	1	1	1	1
+1	Auf	auf	APPR	LIT	LIT	LIT	LIT
 2	der	die	ART	*	*	*	*
-3	Straße	Straße	NN	1	1	1	1
+3	Straße	Straße	NN	LIT	LIT	LIT	LIT
 4	bleibe	bleiben	VVFIN	*	*	*	*
 5	ich	ich	PPER	*	*	*	*
 6	nicht	nicht	PTKNEG	*	*	*	*
-7	stehen	stehen	VVINF	1	1	1	1
+7	stehen	stehen	VVINF	LIT	LIT	LIT	LIT
 8	,	,	$,	*	*	*	*
 9	trinke	trinken	VVFIN	*	*	*	*
 10	keine	keine	PIAT	*	*	*	*
@@ -4010,17 +4137,18 @@
 # tuepp_article_id = T900201.83
 # sent_id = 632
 # text = In Halle stehen bereits 16 Journalisten auf der Straße , teilten Kollegen mit .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	In	in	APPR	*	*	*	*
 2	Halle	Halle	NN	*	*	*	*
-3	stehen	stehen	VVFIN	2	2	2	2
+3	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	bereits	bereits	ADV	*	*	*	*
 5	16	@card@	CARD	*	*	*	*
 6	Journalisten	Journalist	NN	*	*	*	*
-7	auf	auf	APPR	2	2	2	2
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	teilten	teilen	VVFIN	*	*	*	*
 12	Kollegen	Kollege	NN	*	*	*	*
@@ -4030,15 +4158,16 @@
 # tuepp_article_id = T900201.83
 # sent_id = 633
 # text = Daß man bald auf der Straße steht , wird übrigens auch beim Fernsehen befürchtet .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
 2	man	man	PIS	*	*	*	*
 3	bald	bald	ADV	*	*	*	*
-4	auf	auf	APPR	2	2	2	2
+4	auf	auf	APPR	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	2	2	2	2
-7	steht	stehen	VVFIN	2	2	2	2
+6	Straße	Straße	NN	FIG	FIG	FIG	FIG
+7	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	wird	werden	VAFIN	*	*	*	*
 10	übrigens	übrigens	ADV	*	*	*	*
@@ -4051,6 +4180,7 @@
 # tuepp_article_id = T900228.58
 # sent_id = 634
 # text = Vor allem MitbeiterInnen aus den aufgeblähten Verwaltungsbereichen , denen als erstes eine Rationalisierung droht , wechseln schnell noch in den Produktionssektor ihres Unternehmens , bevor sie auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -4079,15 +4209,16 @@
 24	,	,	$,	*	*	*	*
 25	bevor	bevor	KOUS	*	*	*	*
 26	sie	sie	PPER	*	*	*	*
-27	auf	auf	APPR	2	2	2	2
+27	auf	auf	APPR	FIG	FIG	FIG	FIG
 28	der	die	ART	*	*	*	*
-29	Straße	Straße	NN	2	2	2	2
-30	stehen	stehen	VVFIN	2	2	2	2
+29	Straße	Straße	NN	FIG	FIG	FIG	FIG
+30	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900213.86
 # sent_id = 635
 # text = Für die Müchner Schwulenszene bedeutet dies , daß damit nicht nur die Schwulengruppe " Rosa Freizeit " auf der Straße steht , sondern auch der regelmäßige Treffpunkt für HIV-Infizierte und Aidskranke sowie deren FreundInnen und Angehörige keine Bleibe mehr hat .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -4107,10 +4238,10 @@
 15	Rosa	Rosa	NE	*	*	*	*
 16	Freizeit	Freizeit	NN	*	*	*	*
 17	"	"	$(	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	2	2	2	2
-21	steht	stehen	VVFIN	2	2	2	2
+20	Straße	Straße	NN	FIG	FIG	FIG	FIG
+21	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	sondern	sondern	KON	*	*	*	*
 24	auch	auch	ADV	*	*	*	*
@@ -4135,6 +4266,7 @@
 # tuepp_article_id = T900213.307
 # sent_id = 636
 # text = " Wie soll man eine Perspektive für sich selbst oder ein erträgliches Miteinander auf den Etagen ( bis zu 18 Alleinstehende auf einer Etage ) organisieren , wenn die Aussicht besteht , ab dem 28.2. wieder auf der Straße zu stehen " , heißt es in einer Erklärung des Vereins für Alleinstehende Wohnungslose ( Allwo ) , einer der Initiativen , die die BesetzerInnen unterstützt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4174,11 +4306,11 @@
 35	28.2	@card@	CARD	*	*	*	*
 36	.	.	$.	*	*	*	*
 37	wieder	wieder	ADV	*	*	*	*
-38	auf	auf	APPR	2	2	2	2
+38	auf	auf	APPR	FIG	FIG	FIG	FIG
 39	der	die	ART	*	*	*	*
-40	Straße	Straße	NN	2	2	2	2
+40	Straße	Straße	NN	FIG	FIG	FIG	FIG
 41	zu	zu	PTKZU	*	*	*	*
-42	stehen	stehen	VVINF	2	2	2	2
+42	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 43	"	"	$(	*	*	*	*
 44	,	,	$,	*	*	*	*
 45	heißt	heißen	VVFIN	*	*	*	*
@@ -4208,6 +4340,7 @@
 # tuepp_article_id = T920529.51
 # sent_id = 637
 # text = " Was nützt mir denn da die Freiheit , wenn ich morgen auf der Straße stehe ?
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4222,23 +4355,24 @@
 10	wenn	wenn	KOUS	*	*	*	*
 11	ich	ich	PPER	*	*	*	*
 12	morgen	morgen	ADV	*	*	*	*
-13	auf	auf	APPR	2	2	2	2
+13	auf	auf	APPR	FIG	FIG	FIG	FIG
 14	der	die	ART	*	*	*	*
-15	Straße	Straße	NN	2	2	2	2
-16	stehe	stehen	VVFIN	2	2	2	2
+15	Straße	Straße	NN	FIG	FIG	FIG	FIG
+16	stehe	stehen	VVFIN	FIG	FIG	FIG	FIG
 17	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T920605.158
 # sent_id = 638
 # text = Hochqualifizierte Wissenschaftlerinnen stehen auf der Straße , ihre männlichen Kollegen schlagen sich munter auf die Schulter , wenn sie das Landesantidiskriminierungsgesetz unterlaufen konnten .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hochqualifizierte	hochqualifiziert	ADJA	*	*	*	*
 2	Wissenschaftlerinnen	Wissenschaftlerin	NN	*	*	*	*
-3	stehen	stehen	VVFIN	2	2	2	2
-4	auf	auf	APPR	2	2	2	2
+3	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+4	auf	auf	APPR	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	2	2	2	2
+6	Straße	Straße	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	ihre	ihr	PPOSAT	*	*	*	*
 9	männlichen	männlich	ADJA	*	*	*	*
@@ -4261,6 +4395,7 @@
 # tuepp_article_id = T921024.186
 # sent_id = 639
 # text = Ein anständiges Leben hat sie geführt , das betont sie , bis " alles ganz schnell ging und ich plötzlich auf der Straße stand " .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -4283,22 +4418,23 @@
 18	und	und	KON	*	*	*	*
 19	ich	ich	PPER	*	*	*	*
 20	plötzlich	plötzlich	ADJD	*	*	*	*
-21	auf	auf	APPR	2	2	2	2
+21	auf	auf	APPR	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
-23	Straße	Straße	NN	2	2	2	2
-24	stand	stehen	VVFIN	2	2	2	2
+23	Straße	Straße	NN	FIG	FIG	FIG	FIG
+24	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 25	"	"	$(	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920926.274
 # sent_id = 640
 # text = Ab Ende September stehen Klaus Behner , Besitzer des Stradiwadi , und seine Angestellten erst einmal auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ab	ab	APPR	*	*	*	*
 2	Ende	Ende	NN	*	*	*	*
 3	September	September	NN	*	*	*	*
-4	stehen	stehen	VVFIN	2	2	2	2
+4	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 5	Klaus	Klaus	NE	*	*	*	*
 6	Behner	<unknown>	NE	*	*	*	*
 7	,	,	$,	*	*	*	*
@@ -4311,14 +4447,15 @@
 14	Angestellten	Angestellte	NN	*	*	*	*
 15	erst	erst	ADV	*	*	*	*
 16	einmal	einmal	ADV	*	*	*	*
-17	auf	auf	APPR	2	2	2	2
+17	auf	auf	APPR	FIG	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	2	2	2	2
+19	Straße	Straße	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920917.63
 # sent_id = 641
 # text = Etliche derer , die noch im Mai gröhlend auf der Straße standen und " Asylanten raus " schrien , spielen jetzt von Zeit zu Zeit Fußball gegen Asylbewerber-Teams .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Etliche	etliche	PIAT	*	*	*	*
@@ -4329,10 +4466,10 @@
 6	im	in	APPRART	*	*	*	*
 7	Mai	Mai	NN	*	*	*	*
 8	gröhlend	<unknown>	ADJD	*	*	*	*
-9	auf	auf	APPR	1	1	1	1
+9	auf	auf	APPR	LIT	LIT	LIT	LIT
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
-12	standen	stehen	VVFIN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
+12	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 13	und	und	KON	*	*	*	*
 14	"	"	$(	*	*	*	*
 15	Asylanten	Asylante	NN	*	*	*	*
@@ -4354,6 +4491,7 @@
 # tuepp_article_id = T920917.163
 # sent_id = 642
 # text = Der in Deutschland geborene 22jährige Mann hat eine Lehre als Kfz- Mechaniker abgeschlossen und danach neun Monate als Dreher gearbeitet - nun steht er auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4378,38 +4516,40 @@
 20	gearbeitet	arbeiten	VVPP	*	*	*	*
 21	-	-	$(	*	*	*	*
 22	nun	nun	ADV	*	*	*	*
-23	steht	stehen	VVFIN	2	2	2	2
+23	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 24	er	er	PPER	*	*	*	*
-25	auf	auf	APPR	2	2	2	2
+25	auf	auf	APPR	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
-27	Straße	Straße	NN	2	2	2	2
+27	Straße	Straße	NN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920912.279
 # sent_id = 643
 # text = Wegen fehlender Übergangsmittel stehen 400 ABM-Kräfte auf der Straße
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wegen	wegen	APPR	*	*	*	*
 2	fehlender	fehlend	ADJA	*	*	*	*
 3	Übergangsmittel	Übergangsmittel	NN	*	*	*	*
-4	stehen	stehen	VVFIN	2	2	2	2
+4	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 5	400	@card@	CARD	*	*	*	*
 6	ABM-Kräfte	ABM-Kraft	NN	*	*	*	*
-7	auf	auf	APPR	2	2	2	2
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T920923.76
 # sent_id = 644
 # text = Die auf der Straße stehen , Menschenrechte mit Füße treten und Molotowcocktails schmeißen , beeinflussen doch nicht unsere Politik .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
-2	auf	auf	APPR	1	3	1	1
+2	auf	auf	APPR	LIT	UND	LIT	LIT
 3	der	die	ART	*	*	*	*
-4	Straße	Straße	NN	1	3	1	1
-5	stehen	stehen	VVFIN	1	3	1	1
+4	Straße	Straße	NN	LIT	UND	LIT	LIT
+5	stehen	stehen	VVFIN	LIT	UND	LIT	LIT
 6	,	,	$,	*	*	*	*
 7	Menschenrechte	Menschenrecht	NN	*	*	*	*
 8	mit	mit	APPR	*	*	*	*
@@ -4429,14 +4569,15 @@
 # tuepp_article_id = T920908.44
 # sent_id = 645
 # text = Die Eltern stehen auf der Straße vor ihrem Haus und schildern , noch stark schockiert , wie sie in der Nacht ihre Kinder durch das brennende Treppenhaus nach draußen getragen haben .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Eltern	Eltern	NN	*	*	*	*
-3	stehen	stehen	VVFIN	1	1	1	1
-4	auf	auf	APPR	1	1	1	1
+3	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	1	1	1	1
+6	Straße	Straße	NN	LIT	LIT	LIT	LIT
 7	vor	vor	APPR	*	*	*	*
 8	ihrem	ihr	PPOSAT	*	*	*	*
 9	Haus	Haus	NN	*	*	*	*
@@ -4467,6 +4608,7 @@
 # tuepp_article_id = T920902.103
 # sent_id = 646
 # text = Auch 1.150 Mitarbeiter in der Baumwollwirtschaft und 16.000 Arbeiter der Bauindustrie stehen ab sofort auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -4480,17 +4622,18 @@
 9	Arbeiter	Arbeiter	NN	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Bauindustrie	Bauindustrie	NN	*	*	*	*
-12	stehen	stehen	VVFIN	2	2	2	2
+12	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	ab	ab	ADV	*	*	*	*
 14	sofort	sofort	ADV	*	*	*	*
-15	auf	auf	APPR	2	2	2	2
+15	auf	auf	APPR	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	2	2	2	2
+17	Straße	Straße	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920125.202
 # sent_id = 647
 # text = Das mache ich , wenn ich hier auf der Straße stehe und Honig verkaufe .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -4500,10 +4643,10 @@
 5	wenn	wenn	KOUS	*	*	*	*
 6	ich	ich	PPER	*	*	*	*
 7	hier	hier	ADV	*	*	*	*
-8	auf	auf	APPR	1	1	1	1
+8	auf	auf	APPR	LIT	LIT	LIT	LIT
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	1	1	1	1
-11	stehe	stehen	VVFIN	1	1	1	1
+10	Straße	Straße	NN	LIT	LIT	LIT	LIT
+11	stehe	stehen	VVFIN	LIT	LIT	LIT	LIT
 12	und	und	KON	*	*	*	*
 13	Honig	Honig	NN	*	*	*	*
 14	verkaufe	verkaufen	VVFIN	*	*	*	*
@@ -4512,6 +4655,7 @@
 # tuepp_article_id = T920124.157
 # sent_id = 648
 # text = Der Obermieter kann aber auf alle Fälle die Wohnung gegenüber dem Vermieter kündigen , dann steht der unbotmäßige Untermieter auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4529,18 +4673,19 @@
 13	kündigen	kündigen	VVINF	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	dann	dann	ADV	*	*	*	*
-16	steht	stehen	VVFIN	2	2	2	2
+16	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
 18	unbotmäßige	unbotmäßig	ADJA	*	*	*	*
 19	Untermieter	Untermieter	NN	*	*	*	*
-20	auf	auf	APPR	2	2	2	2
+20	auf	auf	APPR	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	2	2	2	2
+22	Straße	Straße	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920406.28
 # sent_id = 649
 # text = Und vor allem voller " grinsender türkischer Rauschgifthändler " , die 24 Stunden nach ihrer Festnahme wieder auf der Straße stehen , statt für fünf bis zehn Jahre weggeschlossen zu sein .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -4560,10 +4705,10 @@
 15	ihrer	ihr	PPOSAT	*	*	*	*
 16	Festnahme	Festnahme	NN	*	*	*	*
 17	wieder	wieder	ADV	*	*	*	*
-18	auf	auf	APPR	1	2	2	2
+18	auf	auf	APPR	LIT	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	1	2	2	2
-21	stehen	stehen	VVFIN	1	2	2	2
+20	Straße	Straße	NN	LIT	FIG	FIG	FIG
+21	stehen	stehen	VVFIN	LIT	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	statt	statt	KOUI	*	*	*	*
 24	für	für	APPR	*	*	*	*
@@ -4579,6 +4724,7 @@
 # tuepp_article_id = T920428.159
 # sent_id = 650
 # text = Werden die Kinder älter , stehen sie erst recht auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Werden	werden	VAFIN	*	*	*	*
@@ -4586,18 +4732,19 @@
 3	Kinder	Kind	NN	*	*	*	*
 4	älter	alt	ADJD	*	*	*	*
 5	,	,	$,	*	*	*	*
-6	stehen	stehen	VVFIN	2	2	2	2
+6	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 7	sie	sie	PPER	*	*	*	*
 8	erst	erst	ADV	*	*	*	*
 9	recht	recht	ADJD	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	2	2	2	2
+12	Straße	Straße	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920401.194
 # sent_id = 651
 # text = Diese begingen den Fehler , auf verbales Palaver zu hören , und nach etwa vier Wochen standen sie wieder auf der Straße ohne schriftliche Zusage für ein alternatives Angebot .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	diese	PDS	*	*	*	*
@@ -4616,12 +4763,12 @@
 14	etwa	etwa	ADV	*	*	*	*
 15	vier	vier	CARD	*	*	*	*
 16	Wochen	Woche	NN	*	*	*	*
-17	standen	stehen	VVFIN	2	2	2	2
+17	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 18	sie	sie	PPER	*	*	*	*
 19	wieder	wieder	ADV	*	*	*	*
-20	auf	auf	APPR	2	2	2	2
+20	auf	auf	APPR	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	2	2	2	2
+22	Straße	Straße	NN	FIG	FIG	FIG	FIG
 23	ohne	ohne	APPR	*	*	*	*
 24	schriftliche	schriftlich	ADJA	*	*	*	*
 25	Zusage	Zusage	NN	*	*	*	*
@@ -4634,20 +4781,22 @@
 # tuepp_article_id = T920422.85
 # sent_id = 652
 # text = Die Leute aber stehen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	Leute	Leute	NN	*	*	*	*
 3	aber	aber	KON	*	*	*	*
-4	stehen	stehen	VVFIN	2	2	2	2
-5	auf	auf	APPR	2	2	2	2
+4	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920421.122
 # sent_id = 653
 # text = Auch die " Moslem-Führer " stehen nicht gerade mit dem Schaum des Elends vor dem Mund auf der Straße ( El-Essawy zum Beispiel ist Zahnarzt im Privatberuf ) .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -4655,7 +4804,7 @@
 3	"	"	$(	*	*	*	*
 4	Moslem-Führer	Moslem-Führer	NN	*	*	*	*
 5	"	"	$(	*	*	*	*
-6	stehen	stehen	VVFIN	3	2	2	2
+6	stehen	stehen	VVFIN	UND	FIG	FIG	FIG
 7	nicht	nicht	PTKNEG	*	*	*	*
 8	gerade	gerade	ADV	*	*	*	*
 9	mit	mit	APPR	*	*	*	*
@@ -4666,9 +4815,9 @@
 14	vor	vor	APPR	*	*	*	*
 15	dem	die	ART	*	*	*	*
 16	Mund	Mund	NN	*	*	*	*
-17	auf	auf	APPR	3	2	2	2
+17	auf	auf	APPR	UND	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	3	2	2	2
+19	Straße	Straße	NN	UND	FIG	FIG	FIG
 20	(	(	$(	*	*	*	*
 21	El-Essawy	<unknown>	NE	*	*	*	*
 22	zum	zu	APPRART	*	*	*	*
@@ -4683,20 +4832,21 @@
 # tuepp_article_id = T920423.223
 # sent_id = 654
 # text = Kurze Zeit später stand Finanzsenator Volker Kröning zeitunglesender Weise auf der Straße und war sichtlich amüsiert über die Schlagzeile : " Streik droht - Senat uneins .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kurze	kurz	ADJA	*	*	*	*
 2	Zeit	Zeit	NN	*	*	*	*
 3	später	spät	ADJD	*	*	*	*
-4	stand	stehen	VVFIN	1	1	1	1
+4	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 5	Finanzsenator	Finanzsenator	NN	*	*	*	*
 6	Volker	Volker	NE	*	*	*	*
 7	Kröning	<unknown>	NN	*	*	*	*
 8	zeitunglesender	<unknown>	ADJA	*	*	*	*
 9	Weise	Weise	NN	*	*	*	*
-10	auf	auf	APPR	1	1	1	1
+10	auf	auf	APPR	LIT	LIT	LIT	LIT
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	1	1	1	1
+12	Straße	Straße	NN	LIT	LIT	LIT	LIT
 13	und	und	KON	*	*	*	*
 14	war	sein	VAFIN	*	*	*	*
 15	sichtlich	sichtlich	ADJD	*	*	*	*
@@ -4716,6 +4866,7 @@
 # tuepp_article_id = T920701.167
 # sent_id = 655
 # text = Und einmal , da hat sich ein Pferd , gerade neu in den Haake-Beck-Stall gekommen , aus seinem kompletten Geschirr geschält und stand quasi nackt auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -4740,60 +4891,63 @@
 20	Geschirr	Geschirr	NN	*	*	*	*
 21	geschält	schälen	VVPP	*	*	*	*
 22	und	und	KON	*	*	*	*
-23	stand	stehen	VVFIN	1	1	1	1
+23	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 24	quasi	quasi	ADV	*	*	*	*
 25	nackt	nackt	ADJD	*	*	*	*
-26	auf	auf	APPR	1	1	1	1
+26	auf	auf	APPR	LIT	LIT	LIT	LIT
 27	der	die	ART	*	*	*	*
-28	Straße	Straße	NN	1	1	1	1
+28	Straße	Straße	NN	LIT	LIT	LIT	LIT
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921204.122
 # sent_id = 656
 # text = Völlig blank hingegen stehen 36 Musiker auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Völlig	völlig	ADJD	*	*	*	*
 2	blank	blank	ADJD	*	*	*	*
 3	hingegen	hingegen	ADV	*	*	*	*
-4	stehen	stehen	VVFIN	2	2	2	2
+4	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 5	36	@card@	CARD	*	*	*	*
 6	Musiker	Musiker	NN	*	*	*	*
-7	auf	auf	APPR	2	2	2	2
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921203.76
 # sent_id = 657
 # text = Doch unter der Woche steht er oft auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Doch	doch	KON	*	*	*	*
 2	unter	unter	APPR	*	*	*	*
 3	der	die	ART	*	*	*	*
 4	Woche	Woche	NN	*	*	*	*
-5	steht	stehen	VVFIN	2	1	1	1
+5	steht	stehen	VVFIN	FIG	LIT	LIT	LIT
 6	er	er	PPER	*	*	*	*
 7	oft	oft	ADV	*	*	*	*
-8	auf	auf	APPR	2	1	1	1
+8	auf	auf	APPR	FIG	LIT	LIT	LIT
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	1	1	1
+10	Straße	Straße	NN	FIG	LIT	LIT	LIT
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920831.115
 # sent_id = 658
 # text = Rund 100 Mitarbeiter stehen plötzlich auf der Straße , viele von ihnen jenseits jener Altersgrenze , unter der sie noch vermittelbar wären .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rund	rund	ADV	*	*	*	*
 2	100	@card@	CARD	*	*	*	*
 3	Mitarbeiter	Mitarbeiter	NN	*	*	*	*
-4	stehen	stehen	VVFIN	2	2	2	2
+4	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 5	plötzlich	plötzlich	ADJD	*	*	*	*
-6	auf	auf	APPR	2	2	2	2
+6	auf	auf	APPR	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	2	2	2	2
+8	Straße	Straße	NN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	viele	viele	PIS	*	*	*	*
 11	von	von	APPR	*	*	*	*
@@ -4813,6 +4967,7 @@
 # tuepp_article_id = T920808.32
 # sent_id = 659
 # text = Zwei Stunden später , berichtet die Hausmeisterin des Arbeiterwohnheims , die Leute standen noch auf der Straße , da seien zwei junge Deutsche vorbeigekommen : " Was denn hier los ist , wollten sie wissen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwei	zwei	CARD	*	*	*	*
@@ -4827,11 +4982,11 @@
 10	,	,	$,	*	*	*	*
 11	die	die	ART	*	*	*	*
 12	Leute	Leute	NN	*	*	*	*
-13	standen	stehen	VVFIN	1	1	1	1
+13	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 14	noch	noch	ADV	*	*	*	*
-15	auf	auf	APPR	1	1	1	1
+15	auf	auf	APPR	LIT	LIT	LIT	LIT
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	1	1	1	1
+17	Straße	Straße	NN	LIT	LIT	LIT	LIT
 18	,	,	$,	*	*	*	*
 19	da	da	ADV	*	*	*	*
 20	seien	sein	VAFIN	*	*	*	*
@@ -4855,6 +5010,7 @@
 # tuepp_article_id = T920328.230
 # sent_id = 660
 # text = Wie es sich anfühlt , wieder auf der Straße zu stehen , konnten 300 der insgesamt 700 Beschäftigten der Bremer Jugendwerkstätten gestern morgen schon einmal am eigenen Leib erfahren .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -4863,11 +5019,11 @@
 4	anfühlt	anfühlen	VVFIN	*	*	*	*
 5	,	,	$,	*	*	*	*
 6	wieder	wieder	ADV	*	*	*	*
-7	auf	auf	APPR	2	2	2	2
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
-11	stehen	stehen	VVINF	2	2	2	2
+11	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	konnten	können	VMFIN	*	*	*	*
 14	300	@card@	CARD	*	*	*	*
@@ -4891,6 +5047,7 @@
 # tuepp_article_id = T920331.237
 # sent_id = 661
 # text = Wenn die Zweitkräfte wegfallen , werden möglicherweise 20 Kinder auf der Straße stehen und mit ihnen zwei festangestellte Erzieherinnen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -4902,10 +5059,10 @@
 7	möglicherweise	möglicherweise	ADV	*	*	*	*
 8	20	@card@	CARD	*	*	*	*
 9	Kinder	Kind	NN	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	2	2	2	2
-13	stehen	stehen	VVFIN	2	2	2	2
+12	Straße	Straße	NN	FIG	FIG	FIG	FIG
+13	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 14	und	und	KON	*	*	*	*
 15	mit	mit	APPR	*	*	*	*
 16	ihnen	sie	PPER	*	*	*	*
@@ -4917,6 +5074,7 @@
 # tuepp_article_id = T921123.170
 # sent_id = 662
 # text = " Man kann Jugendlichen nur dann eine Perspektive geben , wenn man selber eine hat und nicht weiß , daß man im nächsten Jahr wieder auf der Straße steht und die nächste ABM-Kraft sich um das Vertrauen der Jugendlichen mühen muß .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4944,10 +5102,10 @@
 23	nächsten	nah	ADJA	*	*	*	*
 24	Jahr	Jahr	NN	*	*	*	*
 25	wieder	wieder	ADV	*	*	*	*
-26	auf	auf	APPR	2	2	2	2
+26	auf	auf	APPR	FIG	FIG	FIG	FIG
 27	der	die	ART	*	*	*	*
-28	Straße	Straße	NN	2	2	2	2
-29	steht	stehen	VVFIN	2	2	2	2
+28	Straße	Straße	NN	FIG	FIG	FIG	FIG
+29	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 30	und	und	KON	*	*	*	*
 31	die	die	ART	*	*	*	*
 32	nächste	nah	ADJA	*	*	*	*
@@ -4965,6 +5123,7 @@
 # tuepp_article_id = T921104.85
 # sent_id = 663
 # text = Es ist verständlich , daß ein gemeinsames Demonstrieren eine Zumutung ist ; aber können wir uns angesichts der Massivität und Lebensgefährlichkeit des Problems den Luxus erlauben zu definieren , welcher Christ , Atheist , Sozialdemokrat der Richtige ist , um mit uns am gleichen Tag auf der Straße zu stehen ?
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Es	es	PPER	*	*	*	*
@@ -5012,16 +5171,17 @@
 43	am	an	APPRART	*	*	*	*
 44	gleichen	gleich	ADJA	*	*	*	*
 45	Tag	Tag	NN	*	*	*	*
-46	auf	auf	APPR	1	2	2	2
+46	auf	auf	APPR	LIT	FIG	FIG	FIG
 47	der	die	ART	*	*	*	*
-48	Straße	Straße	NN	1	2	2	2
+48	Straße	Straße	NN	LIT	FIG	FIG	FIG
 49	zu	zu	PTKZU	*	*	*	*
-50	stehen	stehen	VVINF	1	2	2	2
+50	stehen	stehen	VVINF	LIT	FIG	FIG	FIG
 51	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T921112.71
 # sent_id = 664
 # text = Die " No to AIDS " - Kampagne der ugandischen Regierung bedient sich gut verständlicher Cartoons , die vor allem auf mögliche Infektionsrisiken hinweisen : mit der Bemerkung " Ich fahre direkt zu meiner Frau nach Hause " läßt ein LKW-Fahrer zwei Prostituierte auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5067,15 +5227,16 @@
 41	LKW-Fahrer	LKW-Fahrer	NN	*	*	*	*
 42	zwei	zwei	CARD	*	*	*	*
 43	Prostituierte	Prostituierte	NN	*	*	*	*
-44	auf	auf	APPR	1	1	1	1
+44	auf	auf	APPR	LIT	LIT	LIT	LIT
 45	der	die	ART	*	*	*	*
-46	Straße	Straße	NN	1	1	1	1
-47	stehen	stehen	VVFIN	1	1	1	1
+46	Straße	Straße	NN	LIT	LIT	LIT	LIT
+47	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 48	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921111.218
 # sent_id = 665
 # text = Wenn keine neuen Krippenplätze eingerichtet würden , werde aus dem Recht auf Erziehungsurlaub von drei Jahren schließlich ein Zwang , und wenn keine neuen Hortplätze mehr eingerichtet würden , stünden die Grundschulkinder auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -5107,17 +5268,18 @@
 27	eingerichtet	einrichten	VVPP	*	*	*	*
 28	würden	werden	VAFIN	*	*	*	*
 29	,	,	$,	*	*	*	*
-30	stünden	stehen	VVFIN	2	2	2	2
+30	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 31	die	die	ART	*	*	*	*
 32	Grundschulkinder	Grundschulkind	NN	*	*	*	*
-33	auf	auf	APPR	2	2	2	2
+33	auf	auf	APPR	FIG	FIG	FIG	FIG
 34	der	die	ART	*	*	*	*
-35	Straße	Straße	NN	2	2	2	2
+35	Straße	Straße	NN	FIG	FIG	FIG	FIG
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920219.161
 # sent_id = 666
 # text = Sollte der Übernahmeplan scheitern , dann müßte zum ersten Mal in Europa ein privater Fernsehkanal das Licht ausschalten ; die 910 Angestellten stünden auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sollte	sollen	VMFIN	*	*	*	*
@@ -5142,15 +5304,16 @@
 20	die	die	ART	*	*	*	*
 21	910	@card@	ADJA	*	*	*	*
 22	Angestellten	Angestellte	NN	*	*	*	*
-23	stünden	stehen	VVFIN	2	2	2	2
-24	auf	auf	APPR	2	2	2	2
+23	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
+24	auf	auf	APPR	FIG	FIG	FIG	FIG
 25	der	die	ART	*	*	*	*
-26	Straße	Straße	NN	2	2	2	2
+26	Straße	Straße	NN	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920215.101
 # sent_id = 667
 # text = Am nächsten Morgen um sechs Uhr stehen Christa und ich an der Straße und warten auf Saddajiv , der kurze Zeit später in einem klapprigen weißen Ambassador , der indischen Mittelklasselimousine im Nostalgielook , vorfährt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -5159,13 +5322,13 @@
 4	um	um	APPR	*	*	*	*
 5	sechs	sechs	CARD	*	*	*	*
 6	Uhr	Uhr	NN	*	*	*	*
-7	stehen	stehen	VVFIN	1	1	1	1
+7	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 8	Christa	Christa	NE	*	*	*	*
 9	und	und	KON	*	*	*	*
 10	ich	ich	PPER	*	*	*	*
-11	an	an	APPR	1	1	1	1
+11	an	an	APPR	LIT	LIT	LIT	LIT
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	1	1	1	1
+13	Straße	Straße	NN	LIT	LIT	LIT	LIT
 14	und	und	KON	*	*	*	*
 15	warten	warten	VVFIN	*	*	*	*
 16	auf	auf	APPR	*	*	*	*
@@ -5193,6 +5356,7 @@
 # tuepp_article_id = T920215.188
 # sent_id = 668
 # text = Rund 80 Obdachlose , die Ende vergangenen Jahres in Berlin mehrere Baucontainer besetzt hatten und später ein Haus im Bezirk Lichtenberg bekamen , stehen möglicherweise bald wieder auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rund	rund	ADV	*	*	*	*
@@ -5218,18 +5382,19 @@
 21	Lichtenberg	Lichtenberg	NE	*	*	*	*
 22	bekamen	bekommen	VVFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
-24	stehen	stehen	VVFIN	2	2	2	2
+24	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 25	möglicherweise	möglicherweise	ADV	*	*	*	*
 26	bald	bald	ADV	*	*	*	*
 27	wieder	wieder	ADV	*	*	*	*
-28	auf	auf	APPR	2	2	2	2
+28	auf	auf	APPR	FIG	FIG	FIG	FIG
 29	der	die	ART	*	*	*	*
-30	Straße	Straße	NN	2	2	2	2
+30	Straße	Straße	NN	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920204.199
 # sent_id = 669
 # text = Sowohl auf dem Übernachtungsschiff " Yola " wie in den Containern in Hastedt oder in anderen Notunterkünften müssen die Junkies morgens um zehn Uhr raus - so stehen viele den ganzen Tag über auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sowohl	sowohl	KON	*	*	*	*
@@ -5259,30 +5424,31 @@
 25	raus	raus	PTKVZ	*	*	*	*
 26	-	-	$(	*	*	*	*
 27	so	so	ADV	*	*	*	*
-28	stehen	stehen	VVFIN	3	1	1	1
+28	stehen	stehen	VVFIN	UND	LIT	LIT	LIT
 29	viele	viele	PIS	*	*	*	*
 30	den	die	ART	*	*	*	*
 31	ganzen	ganz	ADJA	*	*	*	*
 32	Tag	Tag	NN	*	*	*	*
 33	über	über	APPR	*	*	*	*
-34	auf	auf	APPR	3	1	1	1
+34	auf	auf	APPR	UND	LIT	LIT	LIT
 35	der	die	ART	*	*	*	*
-36	Straße	Straße	NN	3	1	1	1
+36	Straße	Straße	NN	UND	LIT	LIT	LIT
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880504.83
 # sent_id = 670
 # text = Sein Wagen bleibt quer auf der Straße stehen und blockiert den Fluchtweg für den Rest der Kolonne .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sein	sein	PPOSAT	*	*	*	*
 2	Wagen	Wagen	NN	*	*	*	*
 3	bleibt	bleiben	VVFIN	*	*	*	*
 4	quer	quer	ADJD	*	*	*	*
-5	auf	auf	APPR	1	1	1	1
+5	auf	auf	APPR	LIT	LIT	LIT	LIT
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	1	1	1	1
-8	stehen	stehen	VVFIN	1	1	1	1
+7	Straße	Straße	NN	LIT	LIT	LIT	LIT
+8	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 9	und	und	KON	*	*	*	*
 10	blockiert	blockieren	VVFIN	*	*	*	*
 11	den	die	ART	*	*	*	*
@@ -5297,6 +5463,7 @@
 # tuepp_article_id = T880603.94
 # sent_id = 671
 # text = Doch solch heimliches Fluchen dringt nicht einmal in den Innenraum des frischgewaschenen Autos der Hausmeistersfamilie , das jetzt so betont harmlos und akurat eingeparkt auf der Straße steht .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -5323,15 +5490,16 @@
 22	und	und	KON	*	*	*	*
 23	akurat	<unknown>	ADJD	*	*	*	*
 24	eingeparkt	einparken	VVPP	*	*	*	*
-25	auf	auf	APPR	1	1	1	1
+25	auf	auf	APPR	LIT	LIT	LIT	LIT
 26	der	die	ART	*	*	*	*
-27	Straße	Straße	NN	1	1	1	1
-28	steht	stehen	VVFIN	1	1	1	1
+27	Straße	Straße	NN	LIT	LIT	LIT	LIT
+28	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881026.100
 # sent_id = 672
 # text = Schlimmer aber war , daß ich ein Drittel von meinem Geld , das ich derzeit besaß , vergeudet hatte und nun auch noch auf der Straße stand .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schlimmer	Schlimme	NN	*	*	*	*
@@ -5357,15 +5525,16 @@
 21	nun	nun	ADV	*	*	*	*
 22	auch	auch	ADV	*	*	*	*
 23	noch	noch	ADV	*	*	*	*
-24	auf	auf	APPR	2	2	2	2
+24	auf	auf	APPR	FIG	FIG	FIG	FIG
 25	der	die	ART	*	*	*	*
-26	Straße	Straße	NN	2	2	2	2
-27	stand	stehen	VVFIN	2	2	2	2
+26	Straße	Straße	NN	FIG	FIG	FIG	FIG
+27	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881011.42
 # sent_id = 673
 # text = Anfang der achtziger Jahre war der Wohnungsmarkt in Freiburg bereits einmal ähnlich dicht , Massen von StudentInnen standen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Anfang	Anfang	NN	*	*	*	*
@@ -5385,23 +5554,24 @@
 15	Massen	Masse	NN	*	*	*	*
 16	von	von	APPR	*	*	*	*
 17	StudentInnen	Studentin	NN	*	*	*	*
-18	standen	stehen	VVFIN	2	2	2	2
-19	auf	auf	APPR	2	2	2	2
+18	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880909.179
 # sent_id = 674
 # text = Rund 400 BremerInnen standen auf Straße und Bürgersteigen , lehnten aus den Fenstern und nahmen am Spektakel teil , zwischen dem
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rund	rund	ADV	*	*	*	*
 2	400	@card@	CARD	*	*	*	*
 3	BremerInnen	Bremerin	NN	*	*	*	*
-4	standen	stehen	VVFIN	1	1	1	1
-5	auf	auf	APPR	1	1	1	1
-6	Straße	Straße	NN	1	1	1	1
+4	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
+5	auf	auf	APPR	LIT	LIT	LIT	LIT
+6	Straße	Straße	NN	LIT	LIT	LIT	LIT
 7	und	und	KON	*	*	*	*
 8	Bürgersteigen	Bürgersteig	NN	*	*	*	*
 9	,	,	$,	*	*	*	*
@@ -5421,15 +5591,16 @@
 # tuepp_article_id = T880929.149
 # sent_id = 675
 # text = Ein alter Mann steht auf der Straße , deutet hinter sich auf einen Betonspielplatz .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
 2	alter	alt	ADJA	*	*	*	*
 3	Mann	Mann	NN	*	*	*	*
-4	steht	stehen	VVFIN	1	1	1	1
-5	auf	auf	APPR	1	1	1	1
+4	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
+5	auf	auf	APPR	LIT	LIT	LIT	LIT
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	1	1	1	1
+7	Straße	Straße	NN	LIT	LIT	LIT	LIT
 8	,	,	$,	*	*	*	*
 9	deutet	deuten	VVFIN	*	*	*	*
 10	hinter	hinter	APPR	*	*	*	*
@@ -5442,6 +5613,7 @@
 # tuepp_article_id = T880723.73
 # sent_id = 676
 # text = Sein Abtauchen in Suff und Verhältnisse wird immer exzessiver , und 1932 , mit vierundvierzig , wird er gefeuert und steht auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sein	sein	PPOSAT	*	*	*	*
@@ -5464,15 +5636,16 @@
 18	er	er	PPER	*	*	*	*
 19	gefeuert	feuern	VVPP	*	*	*	*
 20	und	und	KON	*	*	*	*
-21	steht	stehen	VVFIN	2	2	2	2
-22	auf	auf	APPR	2	2	2	2
+21	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880728.99
 # sent_id = 677
 # text = Wir verlassen den düsteren Raum im Obergeschoß des alten Hauses , tasten uns eine steile Treppe hinab und stehen wieder auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
@@ -5493,16 +5666,17 @@
 16	Treppe	Treppe	NN	*	*	*	*
 17	hinab	hinab	PTKVZ	*	*	*	*
 18	und	und	KON	*	*	*	*
-19	stehen	stehen	VVFIN	1	1	1	1
+19	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 20	wieder	wieder	ADV	*	*	*	*
-21	auf	auf	APPR	1	1	1	1
+21	auf	auf	APPR	LIT	LIT	LIT	LIT
 22	der	die	ART	*	*	*	*
-23	Straße	Straße	NN	1	1	1	1
+23	Straße	Straße	NN	LIT	LIT	LIT	LIT
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881205.95
 # sent_id = 678
 # text = Ein Beispiel : Als auf der Sitzung am 22. November die Vorschläge zur Verfassungsreform beraten wurden , standen draußen auf der Straße Demonstranten , die die Deputierten auf Plakaten aufforderten , sich mit ihren estnischen Kollegen zu solidarisieren und im Paragraphen 71 der sowjet - lettischen Verfassung einen Veto-Mechanismus gegenüber den Unionsgesetzen festzuschreiben .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -5523,11 +5697,11 @@
 16	beraten	beraten	VVPP	*	*	*	*
 17	wurden	werden	VAFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	standen	stehen	VVFIN	1	1	1	1
+19	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 20	draußen	draußen	ADV	*	*	*	*
-21	auf	auf	APPR	1	1	1	1
+21	auf	auf	APPR	LIT	LIT	LIT	LIT
 22	der	die	ART	*	*	*	*
-23	Straße	Straße	NN	1	1	1	1
+23	Straße	Straße	NN	LIT	LIT	LIT	LIT
 24	Demonstranten	Demonstrant	NN	*	*	*	*
 25	,	,	$,	*	*	*	*
 26	die	die	PRELS	*	*	*	*
@@ -5564,6 +5738,7 @@
 # tuepp_article_id = T881216.64
 # sent_id = 679
 # text = Die Fahrer der Lastwagen , die mit dem Nötigsten beladen sind , stünden im harten Kampf gegen Kälte , Schnee und Geröll auf den wenigen Straßen , die noch befahrbar sind .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5578,7 +5753,7 @@
 10	beladen	beladen	VVPP	*	*	*	*
 11	sind	sein	VAFIN	*	*	*	*
 12	,	,	$,	*	*	*	*
-13	stünden	stehen	VVFIN	1	1	1	1
+13	stünden	stehen	VVFIN	LIT	LIT	LIT	LIT
 14	im	in	APPRART	*	*	*	*
 15	harten	hart	ADJA	*	*	*	*
 16	Kampf	Kampf	NN	*	*	*	*
@@ -5588,10 +5763,10 @@
 20	Schnee	Schnee	NN	*	*	*	*
 21	und	und	KON	*	*	*	*
 22	Geröll	Geröll	NN	*	*	*	*
-23	auf	auf	APPR	1	1	1	1
+23	auf	auf	APPR	LIT	LIT	LIT	LIT
 24	den	die	ART	*	*	*	*
 25	wenigen	wenige	PIAT	*	*	*	*
-26	Straßen	Straße	NN	1	1	1	1
+26	Straßen	Straße	NN	LIT	LIT	LIT	LIT
 27	,	,	$,	*	*	*	*
 28	die	die	PRELS	*	*	*	*
 29	noch	noch	ADV	*	*	*	*
@@ -5602,6 +5777,7 @@
 # tuepp_article_id = T880801.144
 # sent_id = 680
 # text = Aber Franz mußte sich erst daran gewöhnen , auf der Straße zu stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Aber	aber	KON	*	*	*	*
@@ -5612,27 +5788,28 @@
 6	daran	daran	PAV	*	*	*	*
 7	gewöhnen	gewöhnen	VVFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	auf	auf	APPR	1	1	1	1
+9	auf	auf	APPR	LIT	LIT	LIT	LIT
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
 12	zu	zu	PTKZU	*	*	*	*
-13	stehen	stehen	VVINF	1	1	1	1
+13	stehen	stehen	VVINF	LIT	LIT	LIT	LIT
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880829.150
 # sent_id = 681
 # text = Auf einmal steht ein zerlumpter Mann auf der Straße , fuchtelt mit einem Messer herum und springt die Menge an .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
 2	einmal	einmal	ADV	*	*	*	*
-3	steht	stehen	VVFIN	1	1	1	1
+3	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	ein	eine	ART	*	*	*	*
 5	zerlumpter	zerlumpt	ADJA	*	*	*	*
 6	Mann	Mann	NN	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	1	1	1	1
+9	Straße	Straße	NN	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	fuchtelt	fuchteln	VVFIN	*	*	*	*
 12	mit	mit	APPR	*	*	*	*
@@ -5649,6 +5826,7 @@
 # tuepp_article_id = T880805.174
 # sent_id = 682
 # text = An die 300 TeilnehmerInnen gingen leer aus , wenn die Lehrgänge nach Arbeitsförderungsgesetz wegfielen , mindestens ein Dutzend LehrerInnen in Diensten der VHS stünden dann obendrein auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	An	an	APPR	*	*	*	*
@@ -5674,17 +5852,18 @@
 21	Diensten	Dienst	NN	*	*	*	*
 22	der	die	ART	*	*	*	*
 23	VHS	VHS	NE	*	*	*	*
-24	stünden	stehen	VVFIN	2	2	2	2
+24	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 25	dann	dann	ADV	*	*	*	*
 26	obendrein	obendrein	ADV	*	*	*	*
-27	auf	auf	APPR	2	2	2	2
+27	auf	auf	APPR	FIG	FIG	FIG	FIG
 28	der	die	ART	*	*	*	*
-29	Straße	Straße	NN	2	2	2	2
+29	Straße	Straße	NN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880825.123
 # sent_id = 683
 # text = Wir sahen in der Richtung , aus der sie kamen , einen Kleinlaster brennen , der quer auf der Straße stand .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
@@ -5704,15 +5883,16 @@
 15	,	,	$,	*	*	*	*
 16	der	die	PRELS	*	*	*	*
 17	quer	quer	ADJD	*	*	*	*
-18	auf	auf	APPR	1	1	1	1
+18	auf	auf	APPR	LIT	LIT	LIT	LIT
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	1	1	1	1
-21	stand	stehen	VVFIN	1	1	1	1
+20	Straße	Straße	NN	LIT	LIT	LIT	LIT
+21	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881124.87
 # sent_id = 684
 # text = Niemand getraute sich mehr zu ihr in die Metzgerei - innerhalb von nur zwei Monaten war sie pleite und stand so mit ihren vier Kindern - damals sieben , elf , 14 und 15 Jahre alt - auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Niemand	niemand	PIS	*	*	*	*
@@ -5734,7 +5914,7 @@
 17	sie	sie	PPER	*	*	*	*
 18	pleite	pleite	ADJD	*	*	*	*
 19	und	und	KON	*	*	*	*
-20	stand	stehen	VVFIN	2	2	2	2
+20	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 21	so	so	ADV	*	*	*	*
 22	mit	mit	APPR	*	*	*	*
 23	ihren	ihr	PPOSAT	*	*	*	*
@@ -5752,21 +5932,22 @@
 35	Jahre	Jahr	NN	*	*	*	*
 36	alt	alt	ADJD	*	*	*	*
 37	-	-	$(	*	*	*	*
-38	auf	auf	APPR	2	2	2	2
+38	auf	auf	APPR	FIG	FIG	FIG	FIG
 39	der	die	ART	*	*	*	*
-40	Straße	Straße	NN	2	2	2	2
+40	Straße	Straße	NN	FIG	FIG	FIG	FIG
 41	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881117.93
 # sent_id = 685
 # text = Unzählige stehen auf der Straße , hausen in Notunterkünften , für die sie fünf Mark pro Nacht berappen müssen , oder sind für ein paar Monate übergangsweise irgendwo untergekrochen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Unzählige	Unzählige	NN	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
-3	auf	auf	APPR	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+3	auf	auf	APPR	FIG	FIG	FIG	FIG
 4	der	die	ART	*	*	*	*
-5	Straße	Straße	NN	2	2	2	2
+5	Straße	Straße	NN	FIG	FIG	FIG	FIG
 6	,	,	$,	*	*	*	*
 7	hausen	hausen	VVFIN	*	*	*	*
 8	in	in	APPR	*	*	*	*
@@ -5796,9 +5977,10 @@
 # tuepp_article_id = T881103.152
 # sent_id = 686
 # text = Stehen 160 Kinder , die bis jetzt noch einen einen Platz in einer evangelischen Kindertagesstätte haben , ab Sommer 1989 auf der Straße ?
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Stehen	stehen	VVFIN	2	2	2	2
+1	Stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 2	160	@card@	CARD	*	*	*	*
 3	Kinder	Kind	NN	*	*	*	*
 4	,	,	$,	*	*	*	*
@@ -5818,28 +6000,30 @@
 18	ab	ab	APPR	*	*	*	*
 19	Sommer	Sommer	NN	*	*	*	*
 20	1989	@card@	CARD	*	*	*	*
-21	auf	auf	APPR	2	2	2	2
+21	auf	auf	APPR	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
-23	Straße	Straße	NN	2	2	2	2
+23	Straße	Straße	NN	FIG	FIG	FIG	FIG
 24	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T871013.79
 # sent_id = 687
 # text = Nun stehen 3.500 Arbeiter auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Nun	nun	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	3.500	@card@	CARD	*	*	*	*
 4	Arbeiter	Arbeiter	NN	*	*	*	*
-5	auf	auf	APPR	2	2	2	2
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870921.70
 # sent_id = 688
 # text = Adler stoppte seine Produktionsaufträge nach Südkorea und drohte mit der Schließung von Flair Fashion - 1.700 ArbeiterInnen ständen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Adler	Adler	NE	*	*	*	*
@@ -5859,19 +6043,20 @@
 15	-	-	$(	*	*	*	*
 16	1.700	@card@	CARD	*	*	*	*
 17	ArbeiterInnen	Arbeiterin	NN	*	*	*	*
-18	ständen	stehen	VVFIN	2	2	2	2
-19	auf	auf	APPR	2	2	2	2
+18	ständen	stehen	VVFIN	FIG	FIG	FIG	FIG
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870117.30
 # sent_id = 689
 # text = Jetzt stehen die Stahlarbeiter an über 20 Standorten der Bundesrepublik wieder protestierend auf der Straße , sehen sie sich nach zehn Jahren Krise , Arbeitsplatzabbau und Existenzunsicherheit einer neuen Rationalisierungswelle gegenüber , die nach Schätzung der Wirtschaftsvereinigung Eisen- und Stahlindustrie mittelfristig 10.000 bis 15.000 Stahlarbeiter auf die Straße oder in den vorzeitigen Ruhestand versetzen wird .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jetzt	jetzt	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	1	1	1	1
+2	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	die	die	ART	*	*	*	*
 4	Stahlarbeiter	Stahlarbeiter	NN	*	*	*	*
 5	an	an	APZR	*	*	*	*
@@ -5882,9 +6067,9 @@
 10	Bundesrepublik	Bundesrepublik	NN	*	*	*	*
 11	wieder	wieder	ADV	*	*	*	*
 12	protestierend	protestierend	ADJD	*	*	*	*
-13	auf	auf	APPR	1	1	1	1
+13	auf	auf	APPR	LIT	LIT	LIT	LIT
 14	der	die	ART	*	*	*	*
-15	Straße	Straße	NN	1	1	1	1
+15	Straße	Straße	NN	LIT	LIT	LIT	LIT
 16	,	,	$,	*	*	*	*
 17	sehen	sehen	VVFIN	*	*	*	*
 18	sie	sie	PPER	*	*	*	*
@@ -5930,6 +6115,7 @@
 # tuepp_article_id = T870114.51
 # sent_id = 690
 # text = Rund 100.000 " Berber " , im Behördendeutsch Leute ohne festen Wohnsitz , stehen bei minus 20 Grad auf der Straße - nach Angaben der Nichtseßhaftenhilfe oft ohne ausreichende Kleidung und ohne vernünftiges Essen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rund	rund	ADV	*	*	*	*
@@ -5945,14 +6131,14 @@
 11	festen	fest	ADJA	*	*	*	*
 12	Wohnsitz	Wohnsitz	NN	*	*	*	*
 13	,	,	$,	*	*	*	*
-14	stehen	stehen	VVFIN	2	2	2	2
+14	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 15	bei	bei	APPR	*	*	*	*
 16	minus	minus	ADV	*	*	*	*
 17	20	@card@	CARD	*	*	*	*
 18	Grad	Grad	NN	*	*	*	*
-19	auf	auf	APPR	2	2	2	2
+19	auf	auf	APPR	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
-21	Straße	Straße	NN	2	2	2	2
+21	Straße	Straße	NN	FIG	FIG	FIG	FIG
 22	-	-	$(	*	*	*	*
 23	nach	nach	APPR	*	*	*	*
 24	Angaben	Angabe	NN	*	*	*	*
@@ -5971,6 +6157,7 @@
 # tuepp_article_id = T870425.46
 # sent_id = 691
 # text = Eine Auseinandersetzung im Zusammenhang mit dem 116 hätte eine brisante politische Dimension erreicht , wenn Hunderttausende auf der Straße stehen , kein Geld bekommen und es damit ein Kampf um die nackte Existenz würde .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -5989,10 +6176,10 @@
 14	,	,	$,	*	*	*	*
 15	wenn	wenn	KOUS	*	*	*	*
 16	Hunderttausende	Hunderttausend	NN	*	*	*	*
-17	auf	auf	APPR	2	2	2	2
+17	auf	auf	APPR	FIG	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	2	2	2	2
-20	stehen	stehen	VVFIN	2	2	2	2
+19	Straße	Straße	NN	FIG	FIG	FIG	FIG
+20	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 21	,	,	$,	*	*	*	*
 22	kein	keine	PIAT	*	*	*	*
 23	Geld	Geld	NN	*	*	*	*
@@ -6012,26 +6199,28 @@
 # tuepp_article_id = T870422.29
 # sent_id = 692
 # text = Einzig ein amerikanischer Journalist steht noch zwischen den schwarzbehelmten Polizisten auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einzig	einzig	ADJD	*	*	*	*
 2	ein	eine	ART	*	*	*	*
 3	amerikanischer	amerikanisch	ADJA	*	*	*	*
 4	Journalist	Journalist	NN	*	*	*	*
-5	steht	stehen	VVFIN	1	1	1	1
+5	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 6	noch	noch	ADV	*	*	*	*
 7	zwischen	zwischen	APPR	*	*	*	*
 8	den	die	ART	*	*	*	*
 9	schwarzbehelmten	<unknown>	ADJA	*	*	*	*
 10	Polizisten	Polizist	NN	*	*	*	*
-11	auf	auf	APPR	1	1	1	1
+11	auf	auf	APPR	LIT	LIT	LIT	LIT
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	1	1	1	1
+13	Straße	Straße	NN	LIT	LIT	LIT	LIT
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870729.43
 # sent_id = 693
 # text = " Die 2.900 " , in Hattingen heißt es inzwischen so , sind die Hüttenarbeiter , die nach dem Willen der Thyssen-AG demnächst auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6057,15 +6246,16 @@
 21	der	die	ART	*	*	*	*
 22	Thyssen-AG	Thyssen-AG	NN	*	*	*	*
 23	demnächst	demnächst	ADV	*	*	*	*
-24	auf	auf	APPR	2	2	2	2
+24	auf	auf	APPR	FIG	FIG	FIG	FIG
 25	der	die	ART	*	*	*	*
-26	Straße	Straße	NN	2	2	2	2
-27	stehen	stehen	VVFIN	2	2	2	2
+26	Straße	Straße	NN	FIG	FIG	FIG	FIG
+27	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870715.31
 # sent_id = 694
 # text = Die " Leonie " wurde am 8. Mai geschlossen und über 1.300 Maxhütte-Arbeiter stehen ohne Sozialplan auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6082,17 +6272,18 @@
 12	über	über	APPR	*	*	*	*
 13	1.300	@card@	CARD	*	*	*	*
 14	Maxhütte-Arbeiter	Maxhütte-Arbeiter	NN	*	*	*	*
-15	stehen	stehen	VVFIN	2	2	2	2
+15	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	ohne	ohne	APPR	*	*	*	*
 17	Sozialplan	Sozialplan	NN	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	2	2	2	2
+20	Straße	Straße	NN	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870724.68
 # sent_id = 695
 # text = Es zeigt einen Mann , der mit erhobenen Händen allein im Strahl eines oder mehrerer Wasserwerfer auf der Straße steht .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -6111,15 +6302,16 @@
 14	oder	oder	KON	*	*	*	*
 15	mehrerer	mehrere	PIAT	*	*	*	*
 16	Wasserwerfer	Wasserwerfer	NN	*	*	*	*
-17	auf	auf	APPR	1	1	1	1
+17	auf	auf	APPR	LIT	LIT	LIT	LIT
 18	der	die	ART	*	*	*	*
-19	Straße	Straße	NN	1	1	1	1
-20	steht	stehen	VVFIN	1	1	1	1
+19	Straße	Straße	NN	LIT	LIT	LIT	LIT
+20	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T871223.78
 # sent_id = 696
 # text = Im Frühling des Jahres 1987 erreichten die Stadtoberen zwei weitere Hiobsbotschaften : Das im nahen Rühle gelegene Holzwerk " Müller " mußte nach jahrelangen Streitigkeiten unter den Besitzern Konkurs anmelden , 100 Sägewerker standen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -6155,20 +6347,21 @@
 31	,	,	$,	*	*	*	*
 32	100	@card@	CARD	*	*	*	*
 33	Sägewerker	Sägewerker	NN	*	*	*	*
-34	standen	stehen	VVFIN	2	2	2	2
-35	auf	auf	APPR	2	2	2	2
+34	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
+35	auf	auf	APPR	FIG	FIG	FIG	FIG
 36	der	die	ART	*	*	*	*
-37	Straße	Straße	NN	2	2	2	2
+37	Straße	Straße	NN	FIG	FIG	FIG	FIG
 38	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870827.37
 # sent_id = 697
 # text = Der Rest steht mit " null cash in der Tasche " auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Rest	Rest	NN	*	*	*	*
-3	steht	stehen	VVFIN	2	2	2	2
+3	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	mit	mit	APPR	*	*	*	*
 5	"	"	$(	*	*	*	*
 6	null	null	CARD	*	*	*	*
@@ -6177,14 +6370,15 @@
 9	der	die	ART	*	*	*	*
 10	Tasche	Tasche	NN	*	*	*	*
 11	"	"	$(	*	*	*	*
-12	auf	auf	APPR	2	2	2	2
+12	auf	auf	APPR	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	2	2	2	2
+14	Straße	Straße	NN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870813.69
 # sent_id = 698
 # text = Nur Wochen nachdem er von der Labour-Party als Chefredakteur des Labour- Magazins New Socialist gefeuert worden war , steht er nun zum zweiten Mal auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nur	nur	ADV	*	*	*	*
@@ -6205,20 +6399,21 @@
 16	worden	werden	VAPP	*	*	*	*
 17	war	sein	VAFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	steht	stehen	VVFIN	2	2	2	2
+19	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 20	er	er	PPER	*	*	*	*
 21	nun	nun	ADV	*	*	*	*
 22	zum	zu	APPRART	*	*	*	*
 23	zweiten	zweit	ADJA	*	*	*	*
 24	Mal	Mal	NN	*	*	*	*
-25	auf	auf	APPR	2	2	2	2
+25	auf	auf	APPR	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
-27	Straße	Straße	NN	2	2	2	2
+27	Straße	Straße	NN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870326.21
 # sent_id = 699
 # text = Das aber hilft den Jugendlichen nicht , die noch immer auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -6231,15 +6426,16 @@
 8	die	die	PRELS	*	*	*	*
 9	noch	noch	ADV	*	*	*	*
 10	immer	immer	ADV	*	*	*	*
-11	auf	auf	APPR	2	2	2	2
+11	auf	auf	APPR	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	2	2	2	2
-14	stehen	stehen	VVFIN	2	2	2	2
+13	Straße	Straße	NN	FIG	FIG	FIG	FIG
+14	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870304.25
 # sent_id = 700
 # text = Tina sagt , sie habe noch etwas im Hotelzimmer vergessen , packt eine Plastiktüte voll und steht kurz drauf mit 36 Cent und einer Tankstellenkreditkarte in der Tasche auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Tina	Tina	NE	*	*	*	*
@@ -6258,7 +6454,7 @@
 14	Plastiktüte	Plastiktüte	NN	*	*	*	*
 15	voll	voll	ADJD	*	*	*	*
 16	und	und	KON	*	*	*	*
-17	steht	stehen	VVFIN	1	3	1	1
+17	steht	stehen	VVFIN	LIT	UND	LIT	LIT
 18	kurz	kurz	ADJD	*	*	*	*
 19	drauf	drauf	PAV	*	*	*	*
 20	mit	mit	APPR	*	*	*	*
@@ -6270,14 +6466,15 @@
 26	in	in	APPR	*	*	*	*
 27	der	die	ART	*	*	*	*
 28	Tasche	Tasche	NN	*	*	*	*
-29	auf	auf	APPR	1	3	1	1
+29	auf	auf	APPR	LIT	UND	LIT	LIT
 30	der	die	ART	*	*	*	*
-31	Straße	Straße	NN	1	3	1	1
+31	Straße	Straße	NN	LIT	UND	LIT	LIT
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T871124.76
 # sent_id = 701
 # text = Im Januar 1987 hat sie deshalb einen Brief an den palermitanischen Bürgermeister Leoluca Orlando geschrieben und um Arbeit gebeten , " weil sonst meine Kinder auf der Straße stehen werden , und die Konsequenz daraus kennen wir alle " .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -6305,10 +6502,10 @@
 23	sonst	sonst	ADV	*	*	*	*
 24	meine	mein	PPOSAT	*	*	*	*
 25	Kinder	Kind	NN	*	*	*	*
-26	auf	auf	APPR	2	2	2	2
+26	auf	auf	APPR	FIG	FIG	FIG	FIG
 27	der	die	ART	*	*	*	*
-28	Straße	Straße	NN	2	2	2	2
-29	stehen	stehen	VVINF	2	2	2	2
+28	Straße	Straße	NN	FIG	FIG	FIG	FIG
+29	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 30	werden	werden	VAFIN	*	*	*	*
 31	,	,	$,	*	*	*	*
 32	und	und	KON	*	*	*	*
@@ -6324,6 +6521,7 @@
 # tuepp_article_id = T861212.28
 # sent_id = 702
 # text = Der Vertrag des Kernkraftgegners wurde 1982 nicht mehr verlängert und er stand mit seiner Hochschullehrer-Qualifikation auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6337,18 +6535,19 @@
 9	verlängert	verlängern	VVPP	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	er	er	PPER	*	*	*	*
-12	stand	stehen	VVFIN	2	2	2	2
+12	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	mit	mit	APPR	*	*	*	*
 14	seiner	sein	PPOSAT	*	*	*	*
 15	Hochschullehrer-Qualifikation	<unknown>	NN	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930508.242
 # sent_id = 703
 # text = Auf dem arbeitsmarktpolitischen Forum der Grünen forderte er gestern eine vorbeugende Arbeitsmarktpolitik , die sich nicht erst um ihre Klienten kümmert , wenn sie auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -6375,25 +6574,26 @@
 22	,	,	$,	*	*	*	*
 23	wenn	wenn	KOUS	*	*	*	*
 24	sie	sie	PPER	*	*	*	*
-25	auf	auf	APPR	2	2	2	2
+25	auf	auf	APPR	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
-27	Straße	Straße	NN	2	2	2	2
-28	stehen	stehen	VVFIN	2	2	2	2
+27	Straße	Straße	NN	FIG	FIG	FIG	FIG
+28	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930522.263
 # sent_id = 704
 # text = Daß jeder , der auf der Straße steht , mit Neid auf jemanden blickt , der Arbeit hat ?
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
 2	jeder	jede	PIS	*	*	*	*
 3	,	,	$,	*	*	*	*
 4	der	die	PRELS	*	*	*	*
-5	auf	auf	APPR	2	2	2	2
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
-8	steht	stehen	VVFIN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
+8	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	mit	mit	APPR	*	*	*	*
 11	Neid	Neid	NN	*	*	*	*
@@ -6409,6 +6609,7 @@
 # tuepp_article_id = T930625.34
 # sent_id = 705
 # text = " Ein älterer Herr kennt das Gefühl , auf der Straße zu stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6419,16 +6620,17 @@
 6	das	die	ART	*	*	*	*
 7	Gefühl	Gefühl	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	auf	auf	APPR	2	2	2	2
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	2	2	2	2
+11	Straße	Straße	NN	FIG	FIG	FIG	FIG
 12	zu	zu	PTKZU	*	*	*	*
-13	stehen	stehen	VVINF	2	2	2	2
+13	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930618.89
 # sent_id = 706
 # text = " Es ist schon kurios " , sagt Thomas Lettow , " jetzt haben wir 15 Stellen für angehende Bauhelfer , nur wir , die das ganze Projekt organisieren sollen , stehen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6462,27 +6664,28 @@
 29	organisieren	organisieren	VVINF	*	*	*	*
 30	sollen	sollen	VMFIN	*	*	*	*
 31	,	,	$,	*	*	*	*
-32	stehen	stehen	VVFIN	2	2	2	2
-33	auf	auf	APPR	2	2	2	2
+32	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+33	auf	auf	APPR	FIG	FIG	FIG	FIG
 34	der	die	ART	*	*	*	*
-35	Straße	Straße	NN	2	2	2	2
+35	Straße	Straße	NN	FIG	FIG	FIG	FIG
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930616.27
 # sent_id = 707
 # text = Viele Frauen stehen jedoch nach einer Scheidung auf der Straße , betteln oder prostituieren sich , um zu überleben .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Viele	viele	PIAT	*	*	*	*
 2	Frauen	Frau	NN	*	*	*	*
-3	stehen	stehen	VVFIN	2	2	2	2
+3	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	jedoch	jedoch	ADV	*	*	*	*
 5	nach	nach	APPR	*	*	*	*
 6	einer	eine	ART	*	*	*	*
 7	Scheidung	Scheidung	NN	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	2	2	2
+10	Straße	Straße	NN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	betteln	betteln	VVINF	*	*	*	*
 13	oder	oder	KON	*	*	*	*
@@ -6497,16 +6700,17 @@
 # tuepp_article_id = T930614.194
 # sent_id = 708
 # text = Heute stehen sie schon wieder auf der Straße und demonstrieren .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Heute	heute	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	1	1	1	1
+2	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 3	sie	sie	PPER	*	*	*	*
 4	schon	schon	ADV	*	*	*	*
 5	wieder	wieder	ADV	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	1	1	1	1
+8	Straße	Straße	NN	LIT	LIT	LIT	LIT
 9	und	und	KON	*	*	*	*
 10	demonstrieren	demonstrieren	VVFIN	*	*	*	*
 11	.	.	$.	*	*	*	*
@@ -6514,33 +6718,35 @@
 # tuepp_article_id = T930611.151
 # sent_id = 709
 # text = Seit Monatsbeginn stehen die Initiatoren nach eigenen Angaben auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
 2	Monatsbeginn	Monatsbeginn	NN	*	*	*	*
-3	stehen	stehen	VVFIN	2	2	2	2
+3	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	Initiatoren	Initiator	NN	*	*	*	*
 6	nach	nach	APPR	*	*	*	*
 7	eigenen	eigen	ADJA	*	*	*	*
 8	Angaben	Angabe	NN	*	*	*	*
-9	auf	auf	APPR	2	2	2	2
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	2	2	2	2
+11	Straße	Straße	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931005.16
 # sent_id = 710
 # text = Auf der Straße vor dem Komplex stehen einige Panzerfahrzeuge , ihre Motoren laufen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Auf	auf	APPR	1	1	1	1
+1	Auf	auf	APPR	LIT	LIT	LIT	LIT
 2	der	die	ART	*	*	*	*
-3	Straße	Straße	NN	1	1	1	1
+3	Straße	Straße	NN	LIT	LIT	LIT	LIT
 4	vor	vor	APPR	*	*	*	*
 5	dem	die	ART	*	*	*	*
 6	Komplex	Komplex	NN	*	*	*	*
-7	stehen	stehen	VVFIN	1	1	1	1
+7	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 8	einige	einige	PIAT	*	*	*	*
 9	Panzerfahrzeuge	Panzerfahrzeug	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
@@ -6552,6 +6758,7 @@
 # tuepp_article_id = T931016.148
 # sent_id = 711
 # text = Alle , die nicht in den Stufenplan passen , stehen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Alle	alle	PIS	*	*	*	*
@@ -6563,26 +6770,27 @@
 7	Stufenplan	Stufenplan	NN	*	*	*	*
 8	passen	passen	VVINF	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	stehen	stehen	VVFIN	2	2	2	2
-11	auf	auf	APPR	2	2	2	2
+10	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+11	auf	auf	APPR	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	2	2	2	2
+13	Straße	Straße	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931011.89
 # sent_id = 712
 # text = Die Männer stehen in kleinen Grüppchen auf den Straßen rundum , die Frauen im Hauseingang und Treppenhaus .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Männer	Mann	NN	*	*	*	*
-3	stehen	stehen	VVFIN	1	1	1	1
+3	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	in	in	APPR	*	*	*	*
 5	kleinen	klein	ADJA	*	*	*	*
 6	Grüppchen	Grüppchen	NN	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	den	die	ART	*	*	*	*
-9	Straßen	Straße	NN	1	1	1	1
+9	Straßen	Straße	NN	LIT	LIT	LIT	LIT
 10	rundum	rundum	ADV	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	die	die	ART	*	*	*	*
@@ -6596,6 +6804,7 @@
 # tuepp_article_id = T930907.215
 # sent_id = 713
 # text = Nach dem Konkursantrag der Firma transfer , die mit bremischem know-how Umschulung und Marketing-Beratung im Osten anbot , " stehen die Kursteilnehmer auf der Straße , einige sind kurz vor der Prüfung " , erklärte DAG-Vertreter Reimers .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -6617,12 +6826,12 @@
 17	anbot	anbieten	VVFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	"	"	$(	*	*	*	*
-20	stehen	stehen	VVFIN	2	2	2	2
+20	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
 22	Kursteilnehmer	Kursteilnehmer	NN	*	*	*	*
-23	auf	auf	APPR	2	2	2	2
+23	auf	auf	APPR	FIG	FIG	FIG	FIG
 24	der	die	ART	*	*	*	*
-25	Straße	Straße	NN	2	2	2	2
+25	Straße	Straße	NN	FIG	FIG	FIG	FIG
 26	,	,	$,	*	*	*	*
 27	einige	einige	PIS	*	*	*	*
 28	sind	sein	VAFIN	*	*	*	*
@@ -6640,6 +6849,7 @@
 # tuepp_article_id = T930924.104
 # sent_id = 714
 # text = Entsetzlich abrupt ist der fröhliche Zug durch die Gemeinde vorüber , unvermeidlich ist die Sonne des nächsten Tages aufgegangen , verkatert und entsetzt stehst du im kleinen Schwarzen auf der Straße und frierst .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Entsetzlich	entsetzlich	ADJD	*	*	*	*
@@ -6665,14 +6875,14 @@
 21	verkatert	<unknown>	ADJD	*	*	*	*
 22	und	und	KON	*	*	*	*
 23	entsetzt	entsetzt	ADJD	*	*	*	*
-24	stehst	stehen	VVFIN	1	1	1	1
+24	stehst	stehen	VVFIN	LIT	LIT	LIT	LIT
 25	du	du	PPER	*	*	*	*
 26	im	in	APPRART	*	*	*	*
 27	kleinen	klein	ADJA	*	*	*	*
 28	Schwarzen	Schwarze	NN	*	*	*	*
-29	auf	auf	APPR	1	1	1	1
+29	auf	auf	APPR	LIT	LIT	LIT	LIT
 30	der	die	ART	*	*	*	*
-31	Straße	Straße	NN	1	1	1	1
+31	Straße	Straße	NN	LIT	LIT	LIT	LIT
 32	und	und	KON	*	*	*	*
 33	frierst	frieren	VVFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
@@ -6680,21 +6890,23 @@
 # tuepp_article_id = T930917.70
 # sent_id = 715
 # text = Autos brennen , auf den Straßen stehen Barrikaden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Autos	Auto	NN	*	*	*	*
 2	brennen	brennen	VVINF	*	*	*	*
 3	,	,	$,	*	*	*	*
-4	auf	auf	APPR	1	1	1	1
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	den	die	ART	*	*	*	*
-6	Straßen	Straße	NN	1	1	1	1
-7	stehen	stehen	VVFIN	1	1	1	1
+6	Straßen	Straße	NN	LIT	LIT	LIT	LIT
+7	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 8	Barrikaden	Barrikade	NN	*	*	*	*
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930908.80
 # sent_id = 716
 # text = Die 500 Menschen , die dann auf der Straße stehen , sind hochqualifiziert und spezialisiert - und damit kaum noch zu vermitteln .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6703,10 +6915,10 @@
 4	,	,	$,	*	*	*	*
 5	die	die	PRELS	*	*	*	*
 6	dann	dann	ADV	*	*	*	*
-7	auf	auf	APPR	2	2	2	2
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
-10	stehen	stehen	VVFIN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
+10	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	sind	sein	VAFIN	*	*	*	*
 13	hochqualifiziert	hochqualifiziert	ADJD	*	*	*	*
@@ -6724,28 +6936,30 @@
 # tuepp_article_id = T930104.189
 # sent_id = 717
 # text = Plötzlich steht auch der Klempnermeister auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Plötzlich	plötzlich	ADJD	*	*	*	*
-2	steht	stehen	VVFIN	2	2	2	2
+2	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	auch	auch	ADV	*	*	*	*
 4	der	die	ART	*	*	*	*
 5	Klempnermeister	Klempnermeister	NN	*	*	*	*
-6	auf	auf	APPR	2	2	2	2
+6	auf	auf	APPR	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	2	2	2	2
+8	Straße	Straße	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930424.134
 # sent_id = 718
 # text = Auf den verlassenen Straßen standen gepanzerte Wagen , Männer in Militärkleidung schliefen unter Tarnzelten .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Auf	auf	APPR	1	1	1	1
+1	Auf	auf	APPR	LIT	LIT	LIT	LIT
 2	den	die	ART	*	*	*	*
 3	verlassenen	verlassen	ADJA	*	*	*	*
-4	Straßen	Straße	NN	1	1	1	1
-5	standen	stehen	VVFIN	1	1	1	1
+4	Straßen	Straße	NN	LIT	LIT	LIT	LIT
+5	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 6	gepanzerte	gepanzert	ADJA	*	*	*	*
 7	Wagen	Wagen	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
@@ -6760,6 +6974,7 @@
 # tuepp_article_id = T930405.69
 # sent_id = 719
 # text = Die Retorten lägen still , aber Zehntausende ständen arbeitslos auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6769,16 +6984,17 @@
 5	,	,	$,	*	*	*	*
 6	aber	aber	KON	*	*	*	*
 7	Zehntausende	Zehntausend	NN	*	*	*	*
-8	ständen	stehen	VVFIN	2	2	2	2
+8	ständen	stehen	VVFIN	FIG	FIG	FIG	FIG
 9	arbeitslos	arbeitslos	ADJD	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	2	2	2	2
+12	Straße	Straße	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930716.111
 # sent_id = 720
 # text = Bei der Rückfahrt durch Afghanistan , nachts , stehen plötzlich Typen mit Maschinenpistolen vor uns auf der Straße , und ich konnte nicht mehr bremsen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -6789,16 +7005,16 @@
 6	,	,	$,	*	*	*	*
 7	nachts	nachts	ADV	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	stehen	stehen	VVFIN	1	1	1	1
+9	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 10	plötzlich	plötzlich	ADJD	*	*	*	*
 11	Typen	Typ	NN	*	*	*	*
 12	mit	mit	APPR	*	*	*	*
 13	Maschinenpistolen	Maschinenpistole	NN	*	*	*	*
 14	vor	vor	APPR	*	*	*	*
 15	uns	wir	PPER	*	*	*	*
-16	auf	auf	APPR	1	1	1	1
+16	auf	auf	APPR	LIT	LIT	LIT	LIT
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	1	1	1	1
+18	Straße	Straße	NN	LIT	LIT	LIT	LIT
 19	,	,	$,	*	*	*	*
 20	und	und	KON	*	*	*	*
 21	ich	ich	PPER	*	*	*	*
@@ -6811,15 +7027,16 @@
 # tuepp_article_id = T930717.172
 # sent_id = 721
 # text = Auch sie stehen nun auf der Straße , wenn sie keinen betrieblichen Ausbildungsplatz finden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
 2	sie	sie	PPER	*	*	*	*
-3	stehen	stehen	VVFIN	2	2	2	2
+3	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	nun	nun	ADV	*	*	*	*
-5	auf	auf	APPR	2	2	2	2
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	wenn	wenn	KOUS	*	*	*	*
 10	sie	sie	PPER	*	*	*	*
@@ -6832,6 +7049,7 @@
 # tuepp_article_id = T930714.140
 # sent_id = 722
 # text = Aber immer noch besser , als wenn sie auf der Straße stünden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -6842,15 +7060,16 @@
 6	als	als	KOKOM	*	*	*	*
 7	wenn	wenn	KOUS	*	*	*	*
 8	sie	sie	PPER	*	*	*	*
-9	auf	auf	APPR	2	2	2	2
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	2	2	2	2
-12	stünden	stehen	VVFIN	2	2	2	2
+11	Straße	Straße	NN	FIG	FIG	FIG	FIG
+12	stünden	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930721.139
 # sent_id = 723
 # text = Denn " wir möchten doch auch weiterhin alle begnadeten Geiger , die auf der Straße stehen , aufnehmen können " , so oder ähnlich lauteten immer wieder die Appelle der HdK-Offiziellen an die StudentInnen , die Einsparung des bundesweit einzigartigen Studienganges hinzunehmen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Denn	denn	KON	*	*	*	*
@@ -6865,10 +7084,10 @@
 10	Geiger	Geiger	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	die	die	PRELS	*	*	*	*
-13	auf	auf	APPR	2	2	2	2
+13	auf	auf	APPR	FIG	FIG	FIG	FIG
 14	der	die	ART	*	*	*	*
-15	Straße	Straße	NN	2	2	2	2
-16	stehen	stehen	VVFIN	2	2	2	2
+15	Straße	Straße	NN	FIG	FIG	FIG	FIG
+16	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	aufnehmen	aufnehmen	VVINF	*	*	*	*
 19	können	können	VMINF	*	*	*	*
@@ -6900,6 +7119,7 @@
 # tuepp_article_id = T930706.87
 # sent_id = 724
 # text = " Die Fahrzeuge der Stadtverwaltung müssen nachts auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6909,19 +7129,20 @@
 5	Stadtverwaltung	Stadtverwaltung	NN	*	*	*	*
 6	müssen	müssen	VMFIN	*	*	*	*
 7	nachts	nachts	ADV	*	*	*	*
-8	auf	auf	APPR	1	1	1	1
+8	auf	auf	APPR	LIT	LIT	LIT	LIT
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	1	1	1	1
-11	stehen	stehen	VVFIN	1	1	1	1
+10	Straße	Straße	NN	LIT	LIT	LIT	LIT
+11	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931224.185
 # sent_id = 725
 # text = Da stand ich nun mit 53 Jahren und einem Beutel und 20 Mark im Herbst auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
-2	stand	stehen	VVFIN	2	2	2	2
+2	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	ich	ich	PPER	*	*	*	*
 4	nun	nun	ADV	*	*	*	*
 5	mit	mit	APPR	*	*	*	*
@@ -6935,14 +7156,15 @@
 13	Mark	Mark	NN	*	*	*	*
 14	im	in	APPRART	*	*	*	*
 15	Herbst	Herbst	NN	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931211.118
 # sent_id = 726
 # text = Die meisten werden Ende 94 sowieso auf der Straße stehen , so das nüchterne Fazit , mit diesem Streikergebnis haben sie wenigstens 90 Prozent für ihr Arbeitslosengeld .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6951,10 +7173,10 @@
 4	Ende	Ende	NN	*	*	*	*
 5	94	@card@	CARD	*	*	*	*
 6	sowieso	sowieso	ADV	*	*	*	*
-7	auf	auf	APPR	2	2	2	2
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
-10	stehen	stehen	VVFIN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
+10	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	so	so	ADV	*	*	*	*
 13	das	die	ART	*	*	*	*
@@ -6977,6 +7199,7 @@
 # tuepp_article_id = T931218.288
 # sent_id = 727
 # text = Beate schaukelt auf der Sessellehne , dreht nervös an einer Haarsträhne : " Nee , ich hab tierische Angst vor dem Schock , daß ich nur vier Wochen kriege und bald wieder auf der Straße stehe .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Beate	Beate	NE	*	*	*	*
@@ -7011,28 +7234,29 @@
 30	und	und	KON	*	*	*	*
 31	bald	bald	ADV	*	*	*	*
 32	wieder	wieder	ADV	*	*	*	*
-33	auf	auf	APPR	2	2	2	2
+33	auf	auf	APPR	FIG	FIG	FIG	FIG
 34	der	die	ART	*	*	*	*
-35	Straße	Straße	NN	2	2	2	2
-36	stehe	stehen	VVFIN	2	2	2	2
+35	Straße	Straße	NN	FIG	FIG	FIG	FIG
+36	stehe	stehen	VVFIN	FIG	FIG	FIG	FIG
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931215.139
 # sent_id = 728
 # text = Seiner Kenntnis nach stehe der Wagen auf dem Mittelstreifen der Straße des 17. Juni .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seiner	sein	PPOSAT	*	*	*	*
 2	Kenntnis	Kenntnis	NN	*	*	*	*
 3	nach	nach	APPO	*	*	*	*
-4	stehe	stehen	VVFIN	1	1	1	1
+4	stehe	stehen	VVFIN	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
 6	Wagen	Wagen	NN	*	*	*	*
 7	auf	auf	APPR	*	*	*	*
 8	dem	die	ART	*	*	*	*
 9	Mittelstreifen	Mittelstreifen	NN	*	*	*	*
 10	der	die	ART	*	*	*	*
-11	Straße	Straße	NN	1	1	1	1
+11	Straße	Straße	NN	LIT	LIT	LIT	LIT
 12	des	die	ART	*	*	*	*
 13	17	@card@	CARD	*	*	*	*
 14	.	.	$.	*	*	*	*
@@ -7042,6 +7266,7 @@
 # tuepp_article_id = T931223.60
 # sent_id = 729
 # text = Doch was sind einige tausend zusätzliche Arbeitsplätze in diesem Bereich angesichts der Tatsache , daß bald jedeR siebte SchwedIn auf der Straße stehen wird ?
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -7063,35 +7288,37 @@
 17	jedeR	<unknown>	ADV	*	*	*	*
 18	siebte	siebt	ADJA	*	*	*	*
 19	SchwedIn	Schwedin	NN	*	*	*	*
-20	auf	auf	APPR	2	2	2	2
+20	auf	auf	APPR	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	2	2	2	2
-23	stehen	stehen	VVINF	2	2	2	2
+22	Straße	Straße	NN	FIG	FIG	FIG	FIG
+23	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 24	wird	werden	VAFIN	*	*	*	*
 25	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T931201.152
 # sent_id = 730
 # text = Nach seiner Entlassung stand er ohne Arbeit und Wohnung auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
 2	seiner	sein	PPOSAT	*	*	*	*
 3	Entlassung	Entlassung	NN	*	*	*	*
-4	stand	stehen	VVFIN	2	2	2	2
+4	stand	stehen	VVFIN	FIG	FIG	FIG	FIG
 5	er	er	PPER	*	*	*	*
 6	ohne	ohne	APPR	*	*	*	*
 7	Arbeit	Arbeit	NN	*	*	*	*
 8	und	und	KON	*	*	*	*
 9	Wohnung	Wohnung	NN	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
-12	Straße	Straße	NN	2	2	2	2
+12	Straße	Straße	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931229.26
 # sent_id = 731
 # text = Schon einmal , in der Weltwirtschaftskrise der 30er Jahre , standen so viele Menschen auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
@@ -7104,18 +7331,19 @@
 8	30er	30er	ADJA	*	*	*	*
 9	Jahre	Jahr	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	standen	stehen	VVFIN	2	2	2	2
+11	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 12	so	so	ADV	*	*	*	*
 13	viele	viele	PIAT	*	*	*	*
 14	Menschen	Mensch	NN	*	*	*	*
-15	auf	auf	APPR	2	2	2	2
+15	auf	auf	APPR	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	2	2	2	2
+17	Straße	Straße	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930802.152
 # sent_id = 732
 # text = " Was soll daran fundamentalistisch sein , daß wir den Jugendlichen helfen , ihr Leben besser zu gestalten , daß wir uns kümmern , damit sie nicht auf der Straße stehen " , fragen die jungen Männer aus dem Vorstand .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7145,10 +7373,10 @@
 25	damit	damit	KOUS	*	*	*	*
 26	sie	sie	PPER	*	*	*	*
 27	nicht	nicht	PTKNEG	*	*	*	*
-28	auf	auf	APPR	2	2	2	2
+28	auf	auf	APPR	FIG	FIG	FIG	FIG
 29	der	die	ART	*	*	*	*
-30	Straße	Straße	NN	2	2	2	2
-31	stehen	stehen	VVFIN	2	2	2	2
+30	Straße	Straße	NN	FIG	FIG	FIG	FIG
+31	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 32	"	"	$(	*	*	*	*
 33	,	,	$,	*	*	*	*
 34	fragen	fragen	VVFIN	*	*	*	*
@@ -7163,6 +7391,7 @@
 # tuepp_article_id = T930821.47
 # sent_id = 733
 # text = Allein in den Orwo-Werken , dem ehemaligen fotochemischen Kombinat Wolfen , stehen im August wieder 2.500 Menschen auf der Straße , die bislang als ABM-Kräfte beschäftigt waren .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allein	allein	ADV	*	*	*	*
@@ -7176,15 +7405,15 @@
 9	Kombinat	Kombinat	NN	*	*	*	*
 10	Wolfen	<unknown>	NE	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	stehen	stehen	VVFIN	2	2	2	2
+12	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	im	in	APPRART	*	*	*	*
 14	August	August	NN	*	*	*	*
 15	wieder	wieder	ADV	*	*	*	*
 16	2.500	@card@	CARD	*	*	*	*
 17	Menschen	Mensch	NN	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	2	2	2	2
+20	Straße	Straße	NN	FIG	FIG	FIG	FIG
 21	,	,	$,	*	*	*	*
 22	die	die	PRELS	*	*	*	*
 23	bislang	bislang	ADV	*	*	*	*
@@ -7197,6 +7426,7 @@
 # tuepp_article_id = T930805.243
 # sent_id = 734
 # text = " Nicht nur die Jugendlichen stehen auf der Straße , vielmehr auch die Ausbilder mit ihrem speziellen Know-how " , erklärte IGM-Bezirkssekretär Werner gestern in Hamburg .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7204,10 +7434,10 @@
 3	nur	nur	ADV	*	*	*	*
 4	die	die	ART	*	*	*	*
 5	Jugendlichen	Jugendliche	NN	*	*	*	*
-6	stehen	stehen	VVFIN	2	2	2	2
-7	auf	auf	APPR	2	2	2	2
+6	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
+7	auf	auf	APPR	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	2	2	2
+9	Straße	Straße	NN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	vielmehr	vielmehr	ADV	*	*	*	*
 12	auch	auch	ADV	*	*	*	*
@@ -7230,6 +7460,7 @@
 # tuepp_article_id = T930823.143
 # sent_id = 735
 # text = Seit den Angriffen auf ihr einstiges Stammlokal " Alt- Findorff " vor einem Jahr stehen die etwa 20 bis 30 Jungs auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
@@ -7246,32 +7477,33 @@
 12	vor	vor	APPR	*	*	*	*
 13	einem	eine	ART	*	*	*	*
 14	Jahr	Jahr	NN	*	*	*	*
-15	stehen	stehen	VVFIN	2	2	2	2
+15	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
 17	etwa	etwa	ADV	*	*	*	*
 18	20	@card@	CARD	*	*	*	*
 19	bis	bis	KON	*	*	*	*
 20	30	@card@	CARD	*	*	*	*
 21	Jungs	Jungs	NN	*	*	*	*
-22	auf	auf	APPR	2	2	2	2
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930316.100
 # sent_id = 736
 # text = Und schon stehe ich wieder draußen auf der Straße , in der Hand den Verlagsprospekt für 1993 und im Kopf so manche offene Frage .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Und	und	KON	*	*	*	*
 2	schon	schon	ADV	*	*	*	*
-3	stehe	stehen	VVFIN	1	1	1	1
+3	stehe	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	ich	ich	PPER	*	*	*	*
 5	wieder	wieder	ADV	*	*	*	*
 6	draußen	draußen	ADV	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	1	1	1	1
+9	Straße	Straße	NN	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	in	in	APPR	*	*	*	*
 12	der	die	ART	*	*	*	*
@@ -7292,17 +7524,18 @@
 # tuepp_article_id = T930326.245
 # sent_id = 737
 # text = Unterdessen stehen die Junkies noch mehr auf der Straße , als sie es ohnehin schon tun , und die geplagten AnwohnerInnen verlieren jede Geduld : Beim runden Tisch zur Drogenpolitik am Mittwoch haben die VertreterInnen der Anwohnerinitiative nochmals massiv für die Schließung der Drobs plädiert .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Unterdessen	unterdessen	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	2	3	2	2
+2	stehen	stehen	VVFIN	FIG	UND	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	Junkies	Junkie	NN	*	*	*	*
 5	noch	noch	ADV	*	*	*	*
 6	mehr	mehr	ADV	*	*	*	*
-7	auf	auf	APPR	2	3	2	2
+7	auf	auf	APPR	FIG	UND	FIG	FIG
 8	der	die	ART	*	*	*	*
-9	Straße	Straße	NN	2	3	2	2
+9	Straße	Straße	NN	FIG	UND	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	als	als	KOUS	*	*	*	*
 12	sie	sie	PPER	*	*	*	*
@@ -7344,18 +7577,19 @@
 # tuepp_article_id = T931104.147
 # sent_id = 738
 # text = Seit dem ersten November steht die Familie auf der Straße , das Bezirksamt Wilmersdorf hat die Zahlungen für die Unterkunft eingestellt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
 2	dem	die	ART	*	*	*	*
 3	ersten	erst	ADJA	*	*	*	*
 4	November	November	NN	*	*	*	*
-5	steht	stehen	VVFIN	2	2	2	2
+5	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
 7	Familie	Familie	NN	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	2	2	2
+10	Straße	Straße	NN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	das	die	ART	*	*	*	*
 13	Bezirksamt	Bezirksamt	NN	*	*	*	*
@@ -7372,6 +7606,7 @@
 # tuepp_article_id = T931106.28
 # sent_id = 739
 # text = Wiesbadens Westendviertel am Tag danach : Geschockt stehen Türken und Kurden auf der Straße und betrauern den Tod ihres Landsmanns / Katastrophentouristen gaffen gierig
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wiesbadens	Wiesbaden	NE	*	*	*	*
@@ -7381,13 +7616,13 @@
 5	danach	danach	PAV	*	*	*	*
 6	:	:	$.	*	*	*	*
 7	Geschockt	geschockt	ADJD	*	*	*	*
-8	stehen	stehen	VVFIN	1	1	1	1
+8	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 9	Türken	Türke	NN	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	Kurden	Kurde	NN	*	*	*	*
-12	auf	auf	APPR	1	1	1	1
+12	auf	auf	APPR	LIT	LIT	LIT	LIT
 13	der	die	ART	*	*	*	*
-14	Straße	Straße	NN	1	1	1	1
+14	Straße	Straße	NN	LIT	LIT	LIT	LIT
 15	und	und	KON	*	*	*	*
 16	betrauern	betrauern	VVFIN	*	*	*	*
 17	den	die	ART	*	*	*	*
@@ -7402,6 +7637,7 @@
 # tuepp_article_id = T931112.132
 # sent_id = 740
 # text = Natürlich läufst du tapfer brav in deine Lage zurück und traust deinen Augen nicht : Da steht das Klavier auf der Straße , und drumherum grinsen drei Rabauken , als hätten sie dir eins ausgewischt .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Natürlich	natürlich	ADV	*	*	*	*
@@ -7420,12 +7656,12 @@
 14	nicht	nicht	PTKNEG	*	*	*	*
 15	:	:	$.	*	*	*	*
 16	Da	da	ADV	*	*	*	*
-17	steht	stehen	VVFIN	1	1	2	1
+17	steht	stehen	VVFIN	LIT	LIT	FIG	LIT
 18	das	die	ART	*	*	*	*
 19	Klavier	Klavier	NN	*	*	*	*
-20	auf	auf	APPR	1	1	2	1
+20	auf	auf	APPR	LIT	LIT	FIG	LIT
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	1	1	2	1
+22	Straße	Straße	NN	LIT	LIT	FIG	LIT
 23	,	,	$,	*	*	*	*
 24	und	und	KON	*	*	*	*
 25	drumherum	drumherum	PTKVZ	*	*	*	*
@@ -7444,6 +7680,7 @@
 # tuepp_article_id = T930215.152
 # sent_id = 741
 # text = Da die MitarbeiterInnen der " Forschungsstelle zur Geschichte der Sexualwissenschaft " aber ab heute auf der Straße stehen , müssen sie sich fragen , ob die Unfähigkeit nicht eine aktuelle Modekrankheit in den Behörden ist .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	KOUS	*	*	*	*
@@ -7460,10 +7697,10 @@
 12	aber	aber	ADV	*	*	*	*
 13	ab	ab	ADV	*	*	*	*
 14	heute	heute	ADV	*	*	*	*
-15	auf	auf	APPR	2	2	2	2
+15	auf	auf	APPR	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
-17	Straße	Straße	NN	2	2	2	2
-18	stehen	stehen	VVFIN	2	2	2	2
+17	Straße	Straße	NN	FIG	FIG	FIG	FIG
+18	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	müssen	müssen	VMFIN	*	*	*	*
 21	sie	sie	PPER	*	*	*	*
@@ -7486,6 +7723,7 @@
 # tuepp_article_id = T930212.51
 # sent_id = 742
 # text = In Burgund werden also in Kürze 600 bis 700 ArbeiterInnen auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -7498,15 +7736,16 @@
 8	bis	bis	KON	*	*	*	*
 9	700	@card@	CARD	*	*	*	*
 10	ArbeiterInnen	Arbeiterin	NN	*	*	*	*
-11	auf	auf	APPR	2	2	2	2
+11	auf	auf	APPR	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	2	2	2	2
-14	stehen	stehen	VVFIN	2	2	2	2
+13	Straße	Straße	NN	FIG	FIG	FIG	FIG
+14	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930224.153
 # sent_id = 743
 # text = " Wenn das Projekt nicht genehmigt wird , stehe ich auf der Straße " , fürchtet die 31jährige .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7517,11 +7756,11 @@
 6	genehmigt	genehmigen	VVPP	*	*	*	*
 7	wird	werden	VAFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	stehe	stehen	VVFIN	2	2	2	2
+9	stehe	stehen	VVFIN	FIG	FIG	FIG	FIG
 10	ich	ich	PPER	*	*	*	*
-11	auf	auf	APPR	2	2	2	2
+11	auf	auf	APPR	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
-13	Straße	Straße	NN	2	2	2	2
+13	Straße	Straße	NN	FIG	FIG	FIG	FIG
 14	"	"	$(	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	fürchtet	fürchten	VVFIN	*	*	*	*
@@ -7532,6 +7771,7 @@
 # tuepp_article_id = T930224.213
 # sent_id = 744
 # text = Vom einen auf den anderen Tag mußten zwei Anleiter gehen , die zwölf KFZ-Helfer werden ab Montag auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vom	von	APPRART	*	*	*	*
@@ -7551,25 +7791,26 @@
 15	werden	werden	VAFIN	*	*	*	*
 16	ab	ab	APPR	*	*	*	*
 17	Montag	Montag	NN	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
-20	Straße	Straße	NN	2	2	2	2
-21	stehen	stehen	VVFIN	2	2	2	2
+20	Straße	Straße	NN	FIG	FIG	FIG	FIG
+21	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930202.92
 # sent_id = 745
 # text = Das einsam und verlassen auf offener Straße stehende Gefäß hatte den Argwohn eines Passanten erregt , der sogleich die Polizei alarmierte .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
 2	einsam	einsam	ADJD	*	*	*	*
 3	und	und	KON	*	*	*	*
 4	verlassen	verlassen	ADJD	*	*	*	*
-5	auf	auf	APPR	1	1	1	1
+5	auf	auf	APPR	LIT	LIT	LIT	LIT
 6	offener	offen	ADJA	*	*	*	*
-7	Straße	Straße	NN	1	1	1	1
-8	stehende	stehend	ADJA	1	1	1	1
+7	Straße	Straße	NN	LIT	LIT	LIT	LIT
+8	stehende	stehend	ADJA	LIT	LIT	LIT	LIT
 9	Gefäß	Gefäß	NN	*	*	*	*
 10	hatte	haben	VAFIN	*	*	*	*
 11	den	die	ART	*	*	*	*
@@ -7588,6 +7829,7 @@
 # tuepp_article_id = T930217.79
 # sent_id = 746
 # text = " Wer weiß , ob die Schotten nicht bereits in zwei Jahren , wenn ihre Verträge auslaufen , ebenfalls auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7609,15 +7851,16 @@
 17	auslaufen	auslaufen	VVINF	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	ebenfalls	ebenfalls	ADV	*	*	*	*
-20	auf	auf	APPR	2	2	2	2
+20	auf	auf	APPR	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
-22	Straße	Straße	NN	2	2	2	2
-23	stehen	stehen	VVFIN	2	2	2	2
+22	Straße	Straße	NN	FIG	FIG	FIG	FIG
+23	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960511.295
 # sent_id = 747
 # text = Eine Frechheit sei es , daß nur noch Polen und Russen eingestellt werden und Deutsche auf der Straße stehen .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -7635,15 +7878,16 @@
 13	werden	werden	VAFIN	*	*	*	*
 14	und	und	KON	*	*	*	*
 15	Deutsche	Deutsche	NN	*	*	*	*
-16	auf	auf	APPR	2	2	2	2
+16	auf	auf	APPR	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
-18	Straße	Straße	NN	2	2	2	2
-19	stehen	stehen	VVFIN	2	2	2	2
+18	Straße	Straße	NN	FIG	FIG	FIG	FIG
+19	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960504.280
 # sent_id = 748
 # text = Auch Bohnenkamp kennt Auffanglösungen auch im Westen : Als die DASA 1995 ihr Werk in Wedel dichtmachte , standen 236 Mitarbeiter auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -7664,43 +7908,45 @@
 16	Wedel	Wedel	NN	*	*	*	*
 17	dichtmachte	dichtmachen	VVFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	standen	stehen	VVFIN	2	2	2	2
+19	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 20	236	@card@	CARD	*	*	*	*
 21	Mitarbeiter	Mitarbeiter	NN	*	*	*	*
-22	auf	auf	APPR	2	2	2	2
+22	auf	auf	APPR	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	2	2	2	2
+24	Straße	Straße	NN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960521.61
 # sent_id = 749
 # text = Zugleich stehen gut 350.000 Bauarbeiter aus Deutschland auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zugleich	zugleich	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	gut	gut	ADJD	*	*	*	*
 4	350.000	@card@	CARD	*	*	*	*
 5	Bauarbeiter	Bauarbeiter	NN	*	*	*	*
 6	aus	aus	APPR	*	*	*	*
 7	Deutschland	Deutschland	NE	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
-10	Straße	Straße	NN	2	2	2	2
+10	Straße	Straße	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960503.303
 # sent_id = 750
 # text = Außerdem stehen die Arbeitnehmer auf der Straße , wenn Teile des Unternehmens verkauft werden .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Außerdem	außerdem	ADV	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	Arbeitnehmer	Arbeitnehmer	NN	*	*	*	*
-5	auf	auf	APPR	2	2	2	2
+5	auf	auf	APPR	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
-7	Straße	Straße	NN	2	2	2	2
+7	Straße	Straße	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	wenn	wenn	KOUS	*	*	*	*
 10	Teile	Teil	NN	*	*	*	*
@@ -7713,6 +7959,7 @@
 # tuepp_article_id = T960618.132
 # sent_id = 751
 # text = Die Currywürste hingen wie Lichterketten rund um das Brandenburger Tor , von weitem schon konnte man eine Dixielandband blasen hören , und auf der Straße des 17. Juni standen Büdchenchenbesitzer und wedelten mit silbernen Tüchern .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7737,14 +7984,14 @@
 20	hören	hören	VVINF	*	*	*	*
 21	,	,	$,	*	*	*	*
 22	und	und	KON	*	*	*	*
-23	auf	auf	APPR	1	1	1	1
+23	auf	auf	APPR	LIT	LIT	LIT	LIT
 24	der	die	ART	*	*	*	*
-25	Straße	Straße	NN	1	1	1	1
+25	Straße	Straße	NN	LIT	LIT	LIT	LIT
 26	des	die	ART	*	*	*	*
 27	17	@card@	CARD	*	*	*	*
 28	.	.	$.	*	*	*	*
 29	Juni	Juni	NN	*	*	*	*
-30	standen	stehen	VVFIN	1	1	1	1
+30	standen	stehen	VVFIN	LIT	LIT	LIT	LIT
 31	Büdchenchenbesitzer	<unknown>	NN	*	*	*	*
 32	und	und	KON	*	*	*	*
 33	wedelten	wedeln	VVFIN	*	*	*	*
@@ -7756,21 +8003,23 @@
 # tuepp_article_id = T960618.195
 # sent_id = 752
 # text = Seit Anfang Juni stehen sie auf der Straße .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
 2	Anfang	Anfang	NN	*	*	*	*
 3	Juni	Juni	NN	*	*	*	*
-4	stehen	stehen	VVFIN	2	2	2	2
+4	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 5	sie	sie	PPER	*	*	*	*
-6	auf	auf	APPR	2	2	2	2
+6	auf	auf	APPR	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
-8	Straße	Straße	NN	2	2	2	2
+8	Straße	Straße	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960628.154
 # sent_id = 753
 # text = Ich empfand es so , als ob ich eine Frau gewesen wäre , die auf ihrem Balkon steht , und unten auf der Straße steht ihr Verehrer und spielt ihr ein Lied auf der Trompete .
+# vid_types = auf straße stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Ich	ich	PPER	*	*	*	*
@@ -7794,10 +8043,10 @@
 19	,	,	$,	*	*	*	*
 20	und	und	KON	*	*	*	*
 21	unten	unten	ADV	*	*	*	*
-22	auf	auf	APPR	1	1	1	1
+22	auf	auf	APPR	LIT	LIT	LIT	LIT
 23	der	die	ART	*	*	*	*
-24	Straße	Straße	NN	1	1	1	1
-25	steht	stehen	VVFIN	1	1	1	1
+24	Straße	Straße	NN	LIT	LIT	LIT	LIT
+25	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 26	ihr	ihr	PPOSAT	*	*	*	*
 27	Verehrer	Verehrer	NN	*	*	*	*
 28	und	und	KON	*	*	*	*
@@ -7813,14 +8062,15 @@
 # tuepp_article_id = T960106.131
 # sent_id = 754
 # text = Überwiegend Ausländerinnen stehen auf der Straße und locken die Kunden in die Clubs .
+# vid_types = auf straße stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Überwiegend	überwiegend	ADJD	*	*	*	*
 2	Ausländerinnen	Ausländerin	NN	*	*	*	*
-3	stehen	stehen	VVFIN	1	1	1	1
-4	auf	auf	APPR	1	1	1	1
+3	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	der	die	ART	*	*	*	*
-6	Straße	Straße	NN	1	1	1	1
+6	Straße	Straße	NN	LIT	LIT	LIT	LIT
 7	und	und	KON	*	*	*	*
 8	locken	locken	VVFIN	*	*	*	*
 9	die	die	ART	*	*	*	*

@@ -1,6 +1,7 @@
 # tuepp_article_id = T890905.54
 # sent_id = 2974
 # text = In der Regel sind die Opfer jung , männlich und schwarz ; jedes zweite hat noch Spuren des Rauschmittels im Blut .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -17,18 +18,19 @@
 12	;	;	$.	*	*	*	*
 13	jedes	jede	PIAT	*	*	*	*
 14	zweite	zweit	ADJA	*	*	*	*
-15	hat	haben	VAFIN	1	1	1	1
+15	hat	haben	VAFIN	LIT	LIT	LIT	LIT
 16	noch	noch	ADV	*	*	*	*
 17	Spuren	Spur|Spuren	NN	*	*	*	*
 18	des	die	ART	*	*	*	*
 19	Rauschmittels	Rauschmittel	NN	*	*	*	*
-20	im	in	APPRART	1	1	1	1
-21	Blut	Blut	NN	1	1	1	1
+20	im	in	APPRART	LIT	LIT	LIT	LIT
+21	Blut	Blut	NN	LIT	LIT	LIT	LIT
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890811.44
 # sent_id = 2975
 # text = Köln ( dpa ) - Großstadtkinder haben nach einer Studie des Medizinischen Instituts für Umwelthygiene in Düsseldorf erheblich mehr krebserregendes Benzol im Blut als ihre Altersgenossen in kleineren Städten .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Köln	Köln	NE	*	*	*	*
@@ -37,7 +39,7 @@
 4	)	)	$(	*	*	*	*
 5	-	-	$(	*	*	*	*
 6	Großstadtkinder	Großstadtkind	NN	*	*	*	*
-7	haben	haben	VAFIN	1	1	1	1
+7	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 8	nach	nach	APPR	*	*	*	*
 9	einer	eine	ART	*	*	*	*
 10	Studie	Studie	NN	*	*	*	*
@@ -52,8 +54,8 @@
 19	mehr	mehr	PIAT	*	*	*	*
 20	krebserregendes	krebserregend	ADJA	*	*	*	*
 21	Benzol	Benzol	NN	*	*	*	*
-22	im	in	APPRART	1	1	1	1
-23	Blut	Blut	NN	1	1	1	1
+22	im	in	APPRART	LIT	LIT	LIT	LIT
+23	Blut	Blut	NN	LIT	LIT	LIT	LIT
 24	als	als	KOKOM	*	*	*	*
 25	ihre	ihr	PPOSAT	*	*	*	*
 26	Altersgenossen	Altersgenosse	NN	*	*	*	*
@@ -65,6 +67,7 @@
 # tuepp_article_id = T890811.44
 # sent_id = 2976
 # text = Die gestern vom Kölner Gesundheitsamt veröffentlichte Untersuchung ergab , daß Sechsjährige in der verkehrsreichen Domstadt mit fast einer Million Einwohnern 71 Prozent mehr Benzol im Blut haben als ihre Altersgenossen aus der knapp 35.000 Einwohner zählenden Kreisstadt Borken .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -91,9 +94,9 @@
 22	Prozent	Prozent	NN	*	*	*	*
 23	mehr	mehr	PIAT	*	*	*	*
 24	Benzol	Benzol	NN	*	*	*	*
-25	im	in	APPRART	1	1	1	1
-26	Blut	Blut	NN	1	1	1	1
-27	haben	haben	VAFIN	1	1	1	1
+25	im	in	APPRART	LIT	LIT	LIT	LIT
+26	Blut	Blut	NN	LIT	LIT	LIT	LIT
+27	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 28	als	als	KOKOM	*	*	*	*
 29	ihre	ihr	PPOSAT	*	*	*	*
 30	Altersgenossen	Altersgenosse	NN	*	*	*	*
@@ -110,6 +113,7 @@
 # tuepp_article_id = T910531.38
 # sent_id = 2977
 # text = In Köln hat eine Studie gezeigt , daß Kölner Kinder im Schnitt 70 Prozent mehr krebserzeugendes Benzol im Blut haben , als Kinder im unbelasteten Landkreis Borken .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -129,9 +133,9 @@
 15	mehr	mehr	ADV	*	*	*	*
 16	krebserzeugendes	krebserzeugend	ADJA	*	*	*	*
 17	Benzol	Benzol	NN	*	*	*	*
-18	im	in	APPRART	1	1	1	1
-19	Blut	Blut	NN	1	1	1	1
-20	haben	haben	VAFIN	1	1	1	1
+18	im	in	APPRART	LIT	LIT	LIT	LIT
+19	Blut	Blut	NN	LIT	LIT	LIT	LIT
+20	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 21	,	,	$,	*	*	*	*
 22	als	als	KOKOM	*	*	*	*
 23	Kinder	Kind	NN	*	*	*	*
@@ -144,6 +148,7 @@
 # tuepp_article_id = T910107.113
 # sent_id = 2978
 # text = Dabei hatte schon 1987 eine Untersuchung gezeigt , daß 70 Prozent der Prostituierten , die in den Bars an der Fernstraße von Zimbabwe nach Zambia arbeiten , den Erreger im Blut haben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
@@ -175,14 +180,15 @@
 27	,	,	$,	*	*	*	*
 28	den	die	ART	*	*	*	*
 29	Erreger	Erreger	NN	*	*	*	*
-30	im	in	APPRART	1	1	1	1
-31	Blut	Blut	NN	1	1	1	1
-32	haben	haben	VAINF	1	1	1	1
+30	im	in	APPRART	LIT	LIT	LIT	LIT
+31	Blut	Blut	NN	LIT	LIT	LIT	LIT
+32	haben	haben	VAINF	LIT	LIT	LIT	LIT
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911211.88
 # sent_id = 2979
 # text = Auch in Japan wurde nach Untersuchungen festgestellt , daß Läufer im Ziel weniger Schadstoffe im Blut hatten als am Start .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -199,9 +205,9 @@
 12	Ziel	Ziel	NN	*	*	*	*
 13	weniger	wenige	PIAT	*	*	*	*
 14	Schadstoffe	Schadstoff	NN	*	*	*	*
-15	im	in	APPRART	1	1	1	1
-16	Blut	Blut	NN	1	1	1	1
-17	hatten	haben	VAFIN	1	1	1	1
+15	im	in	APPRART	LIT	LIT	LIT	LIT
+16	Blut	Blut	NN	LIT	LIT	LIT	LIT
+17	hatten	haben	VAFIN	LIT	LIT	LIT	LIT
 18	als	als	KOKOM	*	*	*	*
 19	am	an	APPRART	*	*	*	*
 20	Start	Start	NN	*	*	*	*
@@ -210,6 +216,7 @@
 # tuepp_article_id = T901211.14
 # sent_id = 2980
 # text = Verletzte auf einer Betriebsfeier in Düsseldorf ; der Busfahrer , der die fröhlich gestimmten Gäste heimfahren sollte , hatte beachtenswerte 2,67 Promille im Blut ;
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Verletzte	Verletzte	NN	*	*	*	*
@@ -230,17 +237,18 @@
 16	heimfahren	heimfahren	VVINF	*	*	*	*
 17	sollte	sollen	VMFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	hatte	haben	VAFIN	1	1	1	1
+19	hatte	haben	VAFIN	LIT	LIT	LIT	LIT
 20	beachtenswerte	beachtenswert	ADJA	*	*	*	*
 21	2,67	@card@	CARD	*	*	*	*
 22	Promille	Promille	NN	*	*	*	*
-23	im	in	APPRART	1	1	1	1
-24	Blut	Blut	NN	1	1	1	1
+23	im	in	APPRART	LIT	LIT	LIT	LIT
+24	Blut	Blut	NN	LIT	LIT	LIT	LIT
 25	;	;	$.	*	*	*	*
 
 # tuepp_article_id = T900806.210
 # sent_id = 2981
 # text = Zuviel Alkohol sollte man aber nicht im Blut haben , sonst kann man es nicht mehr verwenden , um durch eine Spende beim Spendenbus des Bayerischen Roten Kreuzes den Blutnotstand in Ost-Berlin beheben zu helfen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zuviel	zuviele	PIAT	*	*	*	*
@@ -249,9 +257,9 @@
 4	man	man	PIS	*	*	*	*
 5	aber	aber	ADV	*	*	*	*
 6	nicht	nicht	PTKNEG	*	*	*	*
-7	im	in	APPRART	1	1	1	1
-8	Blut	Blut	NN	1	1	1	1
-9	haben	haben	VAFIN	1	1	1	1
+7	im	in	APPRART	LIT	LIT	LIT	LIT
+8	Blut	Blut	NN	LIT	LIT	LIT	LIT
+9	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	sonst	sonst	ADV	*	*	*	*
 12	kann	können	VMFIN	*	*	*	*
@@ -283,6 +291,7 @@
 # tuepp_article_id = T920918.263
 # sent_id = 2982
 # text = Und die schleichende Vergiftung durch Abgase bedroht Großstadtkinder immer mehr : Sie haben 60 bis 70 Prozent mehr krebserregendes Benzol in Blut als Kinder aus ländlichen Gebieten .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -297,7 +306,7 @@
 10	mehr	mehr	ADV	*	*	*	*
 11	:	:	$.	*	*	*	*
 12	Sie	Sie	PPER	*	*	*	*
-13	haben	haben	VAFIN	1	1	1	1
+13	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 14	60	@card@	CARD	*	*	*	*
 15	bis	bis	KON	*	*	*	*
 16	70	@card@	CARD	*	*	*	*
@@ -305,8 +314,8 @@
 18	mehr	mehr	ADV	*	*	*	*
 19	krebserregendes	krebserregend	ADJA	*	*	*	*
 20	Benzol	Benzol	NN	*	*	*	*
-21	in	in	APPR	1	1	1	1
-22	Blut	Blut	NN	1	1	1	1
+21	in	in	APPR	LIT	LIT	LIT	LIT
+22	Blut	Blut	NN	LIT	LIT	LIT	LIT
 23	als	als	KOKOM	*	*	*	*
 24	Kinder	Kind	NN	*	*	*	*
 25	aus	aus	APPR	*	*	*	*
@@ -317,11 +326,12 @@
 # tuepp_article_id = T920409.117
 # sent_id = 2983
 # text = Dicke Männer haben nicht nur höhere Blutdruckwerte sowie höhere Cholesterinkonzentrationen im Blut , sondern in der Regel auch eine andere Fettverteilung als Frauen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dicke	dick	ADJA	*	*	*	*
 2	Männer	Mann	NN	*	*	*	*
-3	haben	haben	VAFIN	1	1	1	1
+3	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 4	nicht	nicht	PTKNEG	*	*	*	*
 5	nur	nur	ADV	*	*	*	*
 6	höhere	hoch	ADJA	*	*	*	*
@@ -329,8 +339,8 @@
 8	sowie	sowie	KON	*	*	*	*
 9	höhere	hoch	ADJA	*	*	*	*
 10	Cholesterinkonzentrationen	<unknown>	NN	*	*	*	*
-11	im	in	APPRART	1	1	1	1
-12	Blut	Blut	NN	1	1	1	1
+11	im	in	APPRART	LIT	LIT	LIT	LIT
+12	Blut	Blut	NN	LIT	LIT	LIT	LIT
 13	,	,	$,	*	*	*	*
 14	sondern	sondern	KON	*	*	*	*
 15	in	in	APPR	*	*	*	*
@@ -347,17 +357,18 @@
 # tuepp_article_id = T920321.87
 # sent_id = 2984
 # text = In Köln haben Kinder 70Prozent mehr Benzol im Blut als in der westfälischen Kleinstadt Borken .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	Köln	Köln	NE	*	*	*	*
-3	haben	haben	VAFIN	1	1	1	1
+3	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 4	Kinder	Kind	NN	*	*	*	*
 5	70Prozent	<unknown>	NN	*	*	*	*
 6	mehr	mehr	PIAT	*	*	*	*
 7	Benzol	Benzol	NN	*	*	*	*
-8	im	in	APPRART	1	1	1	1
-9	Blut	Blut	NN	1	1	1	1
+8	im	in	APPRART	LIT	LIT	LIT	LIT
+9	Blut	Blut	NN	LIT	LIT	LIT	LIT
 10	als	als	KOKOM	*	*	*	*
 11	in	in	APPR	*	*	*	*
 12	der	die	ART	*	*	*	*
@@ -369,6 +380,7 @@
 # tuepp_article_id = T920211.75
 # sent_id = 2985
 # text = Ein Positionspapier der britischen Botschaft hält fest , etwa 50 Prozent der neugeborenen Babys in Mexiko- Stadt hätten so hohe Bleikonzentrationen im Blut , daß es zu schweren Schädigungen ihres zentralen Nervensystems kommen könne .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -388,12 +400,12 @@
 15	in	in	APPR	*	*	*	*
 16	Mexiko-	Mexiko-	TRUNC	*	*	*	*
 17	Stadt	Stadt	NN	*	*	*	*
-18	hätten	haben	VAFIN	1	1	1	1
+18	hätten	haben	VAFIN	LIT	LIT	LIT	LIT
 19	so	so	ADV	*	*	*	*
 20	hohe	hoch	ADJA	*	*	*	*
 21	Bleikonzentrationen	Bleikonzentration	NN	*	*	*	*
-22	im	in	APPRART	1	1	1	1
-23	Blut	Blut	NN	1	1	1	1
+22	im	in	APPRART	LIT	LIT	LIT	LIT
+23	Blut	Blut	NN	LIT	LIT	LIT	LIT
 24	,	,	$,	*	*	*	*
 25	daß	dass	KOUS	*	*	*	*
 26	es	es	PPER	*	*	*	*
@@ -410,11 +422,12 @@
 # tuepp_article_id = T881007.159
 # sent_id = 2986
 # text = " Bradley hat nur noch die Hälfte der Normalzahl der T-Helferzellen im Blut , die für die Bekämpfung von in den Körper eingedrungenen Erregern zuständig sind .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Bradley	<unknown>	NE	*	*	*	*
-3	hat	haben	VAFIN	1	1	1	1
+3	hat	haben	VAFIN	LIT	LIT	LIT	LIT
 4	nur	nur	ADV	*	*	*	*
 5	noch	noch	ADV	*	*	*	*
 6	die	die	ART	*	*	*	*
@@ -423,8 +436,8 @@
 9	Normalzahl	<unknown>	NN	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	T-Helferzellen	T-Helferzelle	NN	*	*	*	*
-12	im	in	APPRART	1	1	1	1
-13	Blut	Blut	NN	1	1	1	1
+12	im	in	APPRART	LIT	LIT	LIT	LIT
+13	Blut	Blut	NN	LIT	LIT	LIT	LIT
 14	,	,	$,	*	*	*	*
 15	die	die	PRELS	*	*	*	*
 16	für	für	APPR	*	*	*	*
@@ -443,6 +456,7 @@
 # tuepp_article_id = T880718.82
 # sent_id = 2987
 # text = Innerhalb eines Jahres war ich mit dem Notarztwagen zwölfmal in Krankenhäuser eingeliefert worden , nicht weil ich zu viel Zucker im Blut hatte , sondern weil zu wenig Zucker in meinem Blut war und deshalb die Energieversorgung des Gehirns zusammengebrochen war .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Innerhalb	innerhalb	APPR	*	*	*	*
@@ -465,9 +479,9 @@
 18	zu	zu	APPR	*	*	*	*
 19	viel	viele	PIAT	*	*	*	*
 20	Zucker	Zucker	NN	*	*	*	*
-21	im	in	APPRART	1	1	1	1
-22	Blut	Blut	NN	1	1	1	1
-23	hatte	haben	VAFIN	1	1	1	1
+21	im	in	APPRART	LIT	LIT	LIT	LIT
+22	Blut	Blut	NN	LIT	LIT	LIT	LIT
+23	hatte	haben	VAFIN	LIT	LIT	LIT	LIT
 24	,	,	$,	*	*	*	*
 25	sondern	sondern	KON	*	*	*	*
 26	weil	weil	KOUS	*	*	*	*
@@ -491,6 +505,7 @@
 # tuepp_article_id = T870625.73
 # sent_id = 2988
 # text = Das ist zum Beispiel der Grund , warum viele der in den fünfziger Jahren gegen Polio ( Kinderlähmung ) Geimpften auch Antikörper gegen ein aus Affen stammendes , in einigen Tierarten Krebs erzeugendes Virus ( das sogenannte SV 40 Virus , wurde erst 1960 " entdeckt " ) im Blut haben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -541,14 +556,15 @@
 46	entdeckt	entdecken	VVPP	*	*	*	*
 47	"	"	$(	*	*	*	*
 48	)	)	$(	*	*	*	*
-49	im	in	APPRART	1	1	1	1
-50	Blut	Blut	NN	1	1	1	1
-51	haben	haben	VAINF	1	1	1	1
+49	im	in	APPRART	LIT	LIT	LIT	LIT
+50	Blut	Blut	NN	LIT	LIT	LIT	LIT
+51	haben	haben	VAINF	LIT	LIT	LIT	LIT
 52	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T861128.85
 # sent_id = 2989
 # text = Die am schlimmsten betroffene Stadt in den USA ist New York , wo einer von 250 Bewohnern HIV-Antikörper im Blut hat .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -569,14 +585,15 @@
 16	250	@card@	CARD	*	*	*	*
 17	Bewohnern	Bewohner	NN	*	*	*	*
 18	HIV-Antikörper	HIV-Antikörper	NN	*	*	*	*
-19	im	in	APPRART	1	1	1	1
-20	Blut	Blut	NN	1	1	1	1
-21	hat	haben	VAFIN	1	1	1	1
+19	im	in	APPRART	LIT	LIT	LIT	LIT
+20	Blut	Blut	NN	LIT	LIT	LIT	LIT
+21	hat	haben	VAFIN	LIT	LIT	LIT	LIT
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931018.80
 # sent_id = 2990
 # text = Dieser Test kann aber fehlerhaft sein , weil ein frischinfizierter Spender in den ersten Wochen nach der Ansteckung noch keine Antikörper in seinem Blut hat und deshalb nicht als " Positiver " entdeckt wird .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dieser	dies	PDAT	*	*	*	*
@@ -600,10 +617,10 @@
 19	noch	noch	ADV	*	*	*	*
 20	keine	keine	PIAT	*	*	*	*
 21	Antikörper	Antikörper	NN	*	*	*	*
-22	in	in	APPR	1	1	1	1
+22	in	in	APPR	LIT	LIT	LIT	LIT
 23	seinem	sein	PPOSAT	*	*	*	*
-24	Blut	Blut	NN	1	1	1	1
-25	hat	haben	VAFIN	1	1	1	1
+24	Blut	Blut	NN	LIT	LIT	LIT	LIT
+25	hat	haben	VAFIN	LIT	LIT	LIT	LIT
 26	und	und	KON	*	*	*	*
 27	deshalb	deshalb	PAV	*	*	*	*
 28	nicht	nicht	PTKNEG	*	*	*	*
@@ -618,6 +635,7 @@
 # tuepp_article_id = T930408.93
 # sent_id = 2991
 # text = Die Gegenexpertise in einem römischen Labor bestätigte die A-Probe , nach der der Stürmer am 21. März ausgerechnet im Spiel gegen den SSC Neapel Kokain im Blut hatte .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -646,26 +664,27 @@
 24	SSC	<unknown>	NE	*	*	*	*
 25	Neapel	Neapel	NE	*	*	*	*
 26	Kokain	Kokain	NN	*	*	*	*
-27	im	in	APPRART	1	1	1	1
-28	Blut	Blut	NN	1	1	1	1
-29	hatte	haben	VAFIN	1	1	1	1
+27	im	in	APPRART	LIT	LIT	LIT	LIT
+28	Blut	Blut	NN	LIT	LIT	LIT	LIT
+29	hatte	haben	VAFIN	LIT	LIT	LIT	LIT
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930813.214
 # sent_id = 2992
 # text = Zur Tatzeit hatte sie über 3 Promille Alkohol im Blut , konnte sich an nichts mehr erinnern und sei damals erst in der Frauenklinik wieder aufgewacht .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zur	zu	APPRART	*	*	*	*
 2	Tatzeit	Tatzeit	NN	*	*	*	*
-3	hatte	haben	VAFIN	1	1	1	1
+3	hatte	haben	VAFIN	LIT	LIT	LIT	LIT
 4	sie	sie	PPER	*	*	*	*
 5	über	über	APPR	*	*	*	*
 6	3	@card@	CARD	*	*	*	*
 7	Promille	Promille	NN	*	*	*	*
 8	Alkohol	Alkohol	NN	*	*	*	*
-9	im	in	APPRART	1	1	1	1
-10	Blut	Blut	NN	1	1	1	1
+9	im	in	APPRART	LIT	LIT	LIT	LIT
+10	Blut	Blut	NN	LIT	LIT	LIT	LIT
 11	,	,	$,	*	*	*	*
 12	konnte	können	VMFIN	*	*	*	*
 13	sich	sich	PRF	*	*	*	*
@@ -687,6 +706,7 @@
 # tuepp_article_id = T931102.35
 # sent_id = 2993
 # text = Vor allem frisch infizierte Blutspender , die noch keinen hohen Antikörper-Gehalt in ihrem Blut haben , können durch das Zusammenschütten von zwei bis drei Spenden , wie es bei UB-Plasma jahrelang Praxis war , unerkannt bleiben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -700,10 +720,10 @@
 9	keinen	keine	PIAT	*	*	*	*
 10	hohen	hoch	ADJA	*	*	*	*
 11	Antikörper-Gehalt	<unknown>	NN	*	*	*	*
-12	in	in	APPR	1	1	1	1
+12	in	in	APPR	LIT	LIT	LIT	LIT
 13	ihrem	ihr	PPOSAT	*	*	*	*
-14	Blut	Blut	NN	1	1	1	1
-15	haben	haben	VAFIN	1	1	1	1
+14	Blut	Blut	NN	LIT	LIT	LIT	LIT
+15	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 16	,	,	$,	*	*	*	*
 17	können	können	VMFIN	*	*	*	*
 18	durch	durch	APPR	*	*	*	*
@@ -730,14 +750,15 @@
 # tuepp_article_id = T961209.43
 # sent_id = 2994
 # text = Sylvio Amoussou hatte weder im Blut noch in der Lunge die für Brandopfer typischen Ruß- oder Gasspuren .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sylvio	Sylvio	NE	*	*	*	*
 2	Amoussou	<unknown>	NE	*	*	*	*
-3	hatte	haben	VAFIN	1	1	1	1
+3	hatte	haben	VAFIN	LIT	LIT	LIT	LIT
 4	weder	weder	KON	*	*	*	*
-5	im	in	APPRART	1	1	1	1
-6	Blut	Blut	NN	1	1	1	1
+5	im	in	APPRART	LIT	LIT	LIT	LIT
+6	Blut	Blut	NN	LIT	LIT	LIT	LIT
 7	noch	noch	ADV	*	*	*	*
 8	in	in	APPR	*	*	*	*
 9	der	die	ART	*	*	*	*
@@ -754,19 +775,20 @@
 # tuepp_article_id = T961119.232
 # sent_id = 2995
 # text = Sie haben doppelt so hohe Dioxin- und Furankonzentrationen in ihrem Blut wie der Hamburger Durchschnitt .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	haben	haben	VAFIN	1	1	1	1
+2	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 3	doppelt	doppelt	ADJD	*	*	*	*
 4	so	so	ADV	*	*	*	*
 5	hohe	hoch	ADJA	*	*	*	*
 6	Dioxin-	Dioxin-	TRUNC	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	Furankonzentrationen	<unknown>	NN	*	*	*	*
-9	in	in	APPR	1	1	1	1
+9	in	in	APPR	LIT	LIT	LIT	LIT
 10	ihrem	ihr	PPOSAT	*	*	*	*
-11	Blut	Blut	NN	1	1	1	1
+11	Blut	Blut	NN	LIT	LIT	LIT	LIT
 12	wie	wie	KOKOM	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Hamburger	Hamburger	ADJA	*	*	*	*
@@ -776,15 +798,16 @@
 # tuepp_article_id = T960215.124
 # sent_id = 2996
 # text = " Wir haben den Samba im Blut " , sagt sie stolz und die dreißig Kolleginnen , die mit ihr in der " Plataforma " trainieren , nicken zustimmend .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Wir	wir	PPER	*	*	*	*
-3	haben	haben	VAFIN	2	2	2	2
+3	haben	haben	VAFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
 5	Samba	Samba	NN	*	*	*	*
-6	im	in	APPRART	2	2	2	2
-7	Blut	Blut	NN	2	2	2	2
+6	im	in	APPRART	FIG	FIG	FIG	FIG
+7	Blut	Blut	NN	FIG	FIG	FIG	FIG
 8	"	"	$(	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	sagt	sagen	VVFIN	*	*	*	*
@@ -812,6 +835,7 @@
 # tuepp_article_id = T980312.230
 # sent_id = 2997
 # text = Das gleiche Gesetz besagt allerdings auch : Wer sich hinters Steuer klemmt und Rückstände einer anderen Droge in irgendeiner Form im Blut hat , dem droht der Führerscheinentzug .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -834,9 +858,9 @@
 18	in	in	APPR	*	*	*	*
 19	irgendeiner	irgendeine	PIAT	*	*	*	*
 20	Form	Form	NN	*	*	*	*
-21	im	in	APPRART	1	1	1	1
-22	Blut	Blut	NN	1	1	1	1
-23	hat	haben	VAFIN	1	1	1	1
+21	im	in	APPRART	LIT	LIT	LIT	LIT
+22	Blut	Blut	NN	LIT	LIT	LIT	LIT
+23	hat	haben	VAFIN	LIT	LIT	LIT	LIT
 24	,	,	$,	*	*	*	*
 25	dem	die	PDS	*	*	*	*
 26	droht	drohen	VVFIN	*	*	*	*
@@ -847,6 +871,7 @@
 # tuepp_article_id = T981118.118
 # sent_id = 2998
 # text = Es ist gemein : Die Niederländer haben die bessere Technik und das System " in Fleisch und Blut " ( Stielike ) .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -855,7 +880,7 @@
 4	:	:	$.	*	*	*	*
 5	Die	die	ART	*	*	*	*
 6	Niederländer	Niederländer	NN	*	*	*	*
-7	haben	haben	VAFIN	2	2	2	2
+7	haben	haben	VAFIN	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
 9	bessere	gut	ADJA	*	*	*	*
 10	Technik	Technik	NN	*	*	*	*
@@ -866,7 +891,7 @@
 15	in	in	APPR	*	*	*	*
 16	Fleisch	Fleisch	NN	*	*	*	*
 17	und	und	KON	*	*	*	*
-18	Blut	Blut	NN	2	2	2	2
+18	Blut	Blut	NN	FIG	FIG	FIG	FIG
 19	"	"	$(	*	*	*	*
 20	(	(	$(	*	*	*	*
 21	Stielike	<unknown>	NE	*	*	*	*
@@ -876,6 +901,7 @@
 # tuepp_article_id = T971013.170
 # sent_id = 2999
 # text = Ein Mann , dessen Cousin in den Sechzigern das 24-Stunden-Rennen von Le Mans gewann und der einen Porsche besitzt , muß doch Speed im Blut haben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -901,14 +927,15 @@
 21	muß	müssen	VMFIN	*	*	*	*
 22	doch	doch	ADV	*	*	*	*
 23	Speed	<unknown>	NE	*	*	*	*
-24	im	in	APPRART	2	2	2	2
-25	Blut	Blut	NN	2	2	2	2
-26	haben	haben	VAINF	2	2	2	2
+24	im	in	APPRART	FIG	FIG	FIG	FIG
+25	Blut	Blut	NN	FIG	FIG	FIG	FIG
+26	haben	haben	VAINF	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970923.76
 # sent_id = 3000
 # text = Diese Personen sind weitgehend gesund geblieben und haben in ihrem Blut kaum noch nachweisbare Mengen des Aidsvirus .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	dies	PDAT	*	*	*	*
@@ -918,10 +945,10 @@
 5	gesund	gesund	ADJD	*	*	*	*
 6	geblieben	bleiben	VVPP	*	*	*	*
 7	und	und	KON	*	*	*	*
-8	haben	haben	VAFIN	1	1	1	1
-9	in	in	APPR	1	1	1	1
+8	haben	haben	VAFIN	LIT	LIT	LIT	LIT
+9	in	in	APPR	LIT	LIT	LIT	LIT
 10	ihrem	ihr	PPOSAT	*	*	*	*
-11	Blut	Blut	NN	1	1	1	1
+11	Blut	Blut	NN	LIT	LIT	LIT	LIT
 12	kaum	kaum	ADV	*	*	*	*
 13	noch	noch	ADV	*	*	*	*
 14	nachweisbare	nachweisbar	ADJA	*	*	*	*
@@ -933,6 +960,7 @@
 # tuepp_article_id = T970408.16
 # sent_id = 3001
 # text = Sind Weicht und Heym in der Absicht , die in Trebbin beschäftigten Arbeiter zu verprügeln , mit dem Trabant von der Tankstelle am Rande der Stadt weggefahren , und wieviel Alkohol hatten die beiden Angeklagten im Blut ?
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sind	sein	VAFIN	*	*	*	*
@@ -966,17 +994,18 @@
 29	und	und	KON	*	*	*	*
 30	wieviel	wieviele	PWAV	*	*	*	*
 31	Alkohol	Alkohol	NN	*	*	*	*
-32	hatten	haben	VAFIN	1	1	1	1
+32	hatten	haben	VAFIN	LIT	LIT	LIT	LIT
 33	die	die	ART	*	*	*	*
 34	beiden	beide	PIAT	*	*	*	*
 35	Angeklagten	Angeklagte	NN	*	*	*	*
-36	im	in	APPRART	1	1	1	1
-37	Blut	Blut	NN	1	1	1	1
+36	im	in	APPRART	LIT	LIT	LIT	LIT
+37	Blut	Blut	NN	LIT	LIT	LIT	LIT
 38	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T970728.123
 # sent_id = 3002
 # text = Im Gegensatz zu glatzköpfigen Männern , die meistens einen sehr hohen Anteil des Hormons Testosteron in ihrem Blut hätten , sei die Niere bei Alkoholikern derart stark geschädigt , daß das Hormon nicht mehr richtig gebildet werden könne .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -994,10 +1023,10 @@
 13	des	die	ART	*	*	*	*
 14	Hormons	Hormon	NN	*	*	*	*
 15	Testosteron	<unknown>	NN	*	*	*	*
-16	in	in	APPR	1	1	1	1
+16	in	in	APPR	LIT	LIT	LIT	LIT
 17	ihrem	ihr	PPOSAT	*	*	*	*
-18	Blut	Blut	NN	1	1	1	1
-19	hätten	haben	VAFIN	1	1	1	1
+18	Blut	Blut	NN	LIT	LIT	LIT	LIT
+19	hätten	haben	VAFIN	LIT	LIT	LIT	LIT
 20	,	,	$,	*	*	*	*
 21	sei	sein	VAFIN	*	*	*	*
 22	die	die	ART	*	*	*	*
@@ -1022,6 +1051,7 @@
 # tuepp_article_id = T940504.131
 # sent_id = 3003
 # text = Der Pilot und der Kopilot des Flugzeugs aus Taiwan , das Ende April in Japan abstürzte und 264 Menschen in den Tod riß , hatten einem Zeitungsbericht zufolge jeweils Alkohol im Blut .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1048,19 +1078,20 @@
 22	Tod	Tod	NN	*	*	*	*
 23	riß	reißen	VVFIN	*	*	*	*
 24	,	,	$,	*	*	*	*
-25	hatten	haben	VAFIN	1	1	1	1
+25	hatten	haben	VAFIN	LIT	LIT	LIT	LIT
 26	einem	eine	ART	*	*	*	*
 27	Zeitungsbericht	Zeitungsbericht	NN	*	*	*	*
 28	zufolge	zufolge	APPO	*	*	*	*
 29	jeweils	jeweils	ADV	*	*	*	*
 30	Alkohol	Alkohol	NN	*	*	*	*
-31	im	in	APPRART	1	1	1	1
-32	Blut	Blut	NN	1	1	1	1
+31	im	in	APPRART	LIT	LIT	LIT	LIT
+32	Blut	Blut	NN	LIT	LIT	LIT	LIT
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940722.243
 # sent_id = 3004
 # text = Allerdings sind sie nicht so schlimm wie " Hallberg " , die nach eigener Auffassung " den Norden im Blut " haben , also knurriges Einsiedlertum in langatmigen Folk packen und den Abend unter freiem Himmel eröffnen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allerdings	allerdings	ADV	*	*	*	*
@@ -1081,10 +1112,10 @@
 16	"	"	$(	*	*	*	*
 17	den	die	ART	*	*	*	*
 18	Norden	Norden	NN	*	*	*	*
-19	im	in	APPRART	2	2	2	2
-20	Blut	Blut	NN	2	2	2	2
+19	im	in	APPRART	FIG	FIG	FIG	FIG
+20	Blut	Blut	NN	FIG	FIG	FIG	FIG
 21	"	"	$(	*	*	*	*
-22	haben	haben	VAFIN	2	2	2	2
+22	haben	haben	VAFIN	FIG	FIG	FIG	FIG
 23	,	,	$,	*	*	*	*
 24	also	also	ADV	*	*	*	*
 25	knurriges	knurrig	ADJA	*	*	*	*
@@ -1105,19 +1136,20 @@
 # tuepp_article_id = T940709.50
 # sent_id = 3005
 # text = In Köln haben Schulkinder 70 Prozent mehr krebserregendes Benzol im Blut als ihre AltersgenossInnen 60 Kilometer weiter auf dem Lande .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	Köln	Köln	NE	*	*	*	*
-3	haben	haben	VAFIN	1	1	1	1
+3	haben	haben	VAFIN	LIT	LIT	LIT	LIT
 4	Schulkinder	Schulkind	NN	*	*	*	*
 5	70	@card@	CARD	*	*	*	*
 6	Prozent	Prozent	NN	*	*	*	*
 7	mehr	mehr	ADV	*	*	*	*
 8	krebserregendes	krebserregend	ADJA	*	*	*	*
 9	Benzol	Benzol	NN	*	*	*	*
-10	im	in	APPRART	1	1	1	1
-11	Blut	Blut	NN	1	1	1	1
+10	im	in	APPRART	LIT	LIT	LIT	LIT
+11	Blut	Blut	NN	LIT	LIT	LIT	LIT
 12	als	als	KOKOM	*	*	*	*
 13	ihre	ihr	PPOSAT	*	*	*	*
 14	AltersgenossInnen	Altersgenossin	NN	*	*	*	*
@@ -1132,6 +1164,7 @@
 # tuepp_article_id = T940214.198
 # sent_id = 3006
 # text = Niemals in alltägliche Routine zu verfallen - Rudi Rückert glaubt , daß er das " wie ein Gen " seit seiner Geburt im Blut hat .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Niemals	niemals	ADV	*	*	*	*
@@ -1156,14 +1189,15 @@
 20	seit	seit	APPR	*	*	*	*
 21	seiner	sein	PPOSAT	*	*	*	*
 22	Geburt	Geburt	NN	*	*	*	*
-23	im	in	APPRART	2	2	2	2
-24	Blut	Blut	NN	2	2	2	2
-25	hat	haben	VAFIN	2	2	2	2
+23	im	in	APPRART	FIG	FIG	FIG	FIG
+24	Blut	Blut	NN	FIG	FIG	FIG	FIG
+25	hat	haben	VAFIN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950909.177
 # sent_id = 3007
 # text = In Vorträgen soll er seine Gedichte getanzt , bei Debatten die Gedanken seiner Gegner gar " übertanzt " haben : Andrej Belj , zentraler Theoretiker und Dichter des russischen Symbolismus , Anhänger von Rudolf Steiner und während seiner Berliner Jahre 1921 bis 1923 dem Foxtrott-Fieber völlig erlegen , hatte den Rhythmus nicht nur im Blut , sondern auch im Geist .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1214,13 +1248,13 @@
 46	völlig	völlig	ADJD	*	*	*	*
 47	erlegen	erliegen	VVPP	*	*	*	*
 48	,	,	$,	*	*	*	*
-49	hatte	haben	VAFIN	2	2	2	2
+49	hatte	haben	VAFIN	FIG	FIG	FIG	FIG
 50	den	die	ART	*	*	*	*
 51	Rhythmus	Rhythmus	NN	*	*	*	*
 52	nicht	nicht	PTKNEG	*	*	*	*
 53	nur	nur	ADV	*	*	*	*
-54	im	in	APPRART	2	2	2	2
-55	Blut	Blut	NN	2	2	2	2
+54	im	in	APPRART	FIG	FIG	FIG	FIG
+55	Blut	Blut	NN	FIG	FIG	FIG	FIG
 56	,	,	$,	*	*	*	*
 57	sondern	sondern	KON	*	*	*	*
 58	auch	auch	ADV	*	*	*	*
@@ -1231,6 +1265,7 @@
 # tuepp_article_id = T950814.251
 # sent_id = 3008
 # text = 100 Beanstandungen , darunter ein Autofahrer , der 2,94 Promille Alkohol im Blut hatte - das ist die Bilanz einer großangelegten Kontrolle der Landespolizei Schleswig-Holstein in der Nacht zum Samstag , bei der insgesamt 821 Fahrzeuge überprüft wurden .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	100	@card@	CARD	*	*	*	*
@@ -1244,9 +1279,9 @@
 9	2,94	@card@	CARD	*	*	*	*
 10	Promille	Promille	NN	*	*	*	*
 11	Alkohol	Alkohol	NN	*	*	*	*
-12	im	in	APPRART	1	1	1	1
-13	Blut	Blut	NN	1	1	1	1
-14	hatte	haben	VAFIN	1	1	1	1
+12	im	in	APPRART	LIT	LIT	LIT	LIT
+13	Blut	Blut	NN	LIT	LIT	LIT	LIT
+14	hatte	haben	VAFIN	LIT	LIT	LIT	LIT
 15	-	-	$(	*	*	*	*
 16	das	die	PDS	*	*	*	*
 17	ist	sein	VAFIN	*	*	*	*
@@ -1276,6 +1311,7 @@
 # tuepp_article_id = T950216.146
 # sent_id = 3009
 # text = Und das wohlgemerkt in einer Stadt , wo " Benzin im Blut " zu haben , so wie der begnadete Autohändler Helmut Becker ( mein Kollege Hans- Hermann Kotte ehrte ihn unlängst an dieser Stelle ) , Ausweis gesundesten Bürgersinns ist und namentlich viele an den großen Ein- und Ausfallstraßen lebende Kinder Beckers stolzes Bonmot längst tapfer mit medizinischem Leben erfüllen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -1288,11 +1324,11 @@
 8	wo	wo	PWAV	*	*	*	*
 9	"	"	$(	*	*	*	*
 10	Benzin	Benzin	NN	*	*	*	*
-11	im	in	APPRART	2	2	2	2
-12	Blut	Blut	NN	2	2	2	2
+11	im	in	APPRART	FIG	FIG	FIG	FIG
+12	Blut	Blut	NN	FIG	FIG	FIG	FIG
 13	"	"	$(	*	*	*	*
 14	zu	zu	PTKZU	*	*	*	*
-15	haben	haben	VAINF	2	2	2	2
+15	haben	haben	VAINF	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	so	so	ADV	*	*	*	*
 18	wie	wie	KOKOM	*	*	*	*

@@ -1,6 +1,7 @@
 # tuepp_article_id = T890513.148
 # sent_id = 6128
 # text = Sechs Wochen ist es her , daß die " Wilde Wutz " , so der Name der Besetzer , ihre Zelte auf dem Gelände am Spreebogen aufschlugen , um einen Abriß der halb verfallenen Häuser zu verhindern .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sechs	sechs	CARD	*	*	*	*
@@ -23,13 +24,13 @@
 18	Besetzer	Besetzer	NN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	ihre	ihr	PPOSAT	*	*	*	*
-21	Zelte	Zelt	NN	1	1	1	1
+21	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 22	auf	auf	APPR	*	*	*	*
 23	dem	die	ART	*	*	*	*
 24	Gelände	Gelände	NN	*	*	*	*
 25	am	an	APPRART	*	*	*	*
 26	Spreebogen	Spreebogen	NN	*	*	*	*
-27	aufschlugen	aufschlagen	VVFIN	1	1	1	1
+27	aufschlugen	aufschlagen	VVFIN	LIT	LIT	LIT	LIT
 28	,	,	$,	*	*	*	*
 29	um	um	KOUI	*	*	*	*
 30	einen	eine	ART	*	*	*	*
@@ -45,6 +46,7 @@
 # tuepp_article_id = T890529.23
 # sent_id = 6129
 # text = Zwischen dem Meer aus roten Fahnen , die symbolisch den Platz weiterbesetzen , haben die verbliebenen Studenten Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwischen	zwischen	APPR	*	*	*	*
@@ -64,13 +66,14 @@
 15	die	die	ART	*	*	*	*
 16	verbliebenen	verblieben	ADJA	*	*	*	*
 17	Studenten	Student	NN	*	*	*	*
-18	Zelte	Zelt	NN	1	1	1	1
-19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+18	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+19	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890531.105
 # sent_id = 6130
 # text = Auf dem Tiananmen wurden gestern zusätzliche Zelte aufgeschlagen und mit Lastwagen Vorräte herbeigeschafft .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -79,8 +82,8 @@
 4	wurden	werden	VAFIN	*	*	*	*
 5	gestern	gestern	ADV	*	*	*	*
 6	zusätzliche	zusätzlich	ADJA	*	*	*	*
-7	Zelte	Zelt	NN	1	1	1	1
-8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+7	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+8	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 9	und	und	KON	*	*	*	*
 10	mit	mit	APPR	*	*	*	*
 11	Lastwagen	Lastwagen	NN	*	*	*	*
@@ -91,6 +94,7 @@
 # tuepp_article_id = T890523.196
 # sent_id = 6131
 # text = Die BesetzerInnen der Oranienstraße 192 , die - nachdem die Polizei sie am Samstag früh geräumt hatte - ihre Zelte auf dem Mariannenplatz aufgeschlagen haben , sind sich sicher : " Wir werden hier sowieso geräumt " , prophezeit einer der rund 35 BesetzerInnen düster und beklagt das Desinteresse des Bezirksamtes an ihrer Situation .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -112,11 +116,11 @@
 17	hatte	haben	VAFIN	*	*	*	*
 18	-	-	$(	*	*	*	*
 19	ihre	ihr	PPOSAT	*	*	*	*
-20	Zelte	Zelt	NN	1	1	1	1
+20	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 21	auf	auf	APPR	*	*	*	*
 22	dem	die	ART	*	*	*	*
 23	Mariannenplatz	Mariannenplatz	NN	*	*	*	*
-24	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+24	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 25	haben	haben	VAFIN	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	sind	sein	VAFIN	*	*	*	*
@@ -152,6 +156,7 @@
 # tuepp_article_id = T891007.202
 # sent_id = 6132
 # text = Elf Personen haben bereits vor drei Monaten dort wegen Obdachlosigkeit ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Elf	elf	CARD	*	*	*	*
@@ -165,13 +170,14 @@
 9	wegen	wegen	APPR	*	*	*	*
 10	Obdachlosigkeit	Obdachlosigkeit	NN	*	*	*	*
 11	ihre	ihr	PPOSAT	*	*	*	*
-12	Zelte	Zelt	NN	1	1	1	1
-13	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+12	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+13	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890912.52
 # sent_id = 6133
 # text = Nicht zuletzt ist da noch die Frage , wo denn der Zirkus Karajani 1991 seine Zelte aufschlagen soll , wenn der Scharounbau wegen Asbests geschlossen wird .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -189,8 +195,8 @@
 13	Karajani	<unknown>	NE	*	*	*	*
 14	1991	@card@	CARD	*	*	*	*
 15	seine	sein	PPOSAT	*	*	*	*
-16	Zelte	Zelt	NN	2	1	1	1
-17	aufschlagen	aufschlagen	VVINF	2	1	1	1
+16	Zelte	Zelt	NN	FIG	LIT	LIT	LIT
+17	aufschlagen	aufschlagen	VVINF	FIG	LIT	LIT	LIT
 18	soll	sollen	VMFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	wenn	wenn	KOUS	*	*	*	*
@@ -205,6 +211,7 @@
 # tuepp_article_id = T890116.209
 # sent_id = 6134
 # text = Direkt hinter dem Garten des örtlichen Heizungsunternehmens Jürgens haben Bundeswehr-Soldaten zwei Zelte in den morastigen Wiesen aufgeschlagen , einen Steinwurf entfernt kampieren britische Wachmannschaften .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Direkt	direkt	ADJD	*	*	*	*
@@ -218,12 +225,12 @@
 9	haben	haben	VAFIN	*	*	*	*
 10	Bundeswehr-Soldaten	Bundeswehr-Soldat	NN	*	*	*	*
 11	zwei	zwei	CARD	*	*	*	*
-12	Zelte	Zelt	NN	1	1	1	1
+12	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 13	in	in	APPR	*	*	*	*
 14	den	die	ART	*	*	*	*
 15	morastigen	morastig	ADJA	*	*	*	*
 16	Wiesen	Wiese	NN	*	*	*	*
-17	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+17	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 18	,	,	$,	*	*	*	*
 19	einen	eine	ART	*	*	*	*
 20	Steinwurf	Steinwurf	NN	*	*	*	*
@@ -236,6 +243,7 @@
 # tuepp_article_id = T890104.39
 # sent_id = 6135
 # text = Am Ufer des Flusses , der entlang der Schotterpiste verläuft , sind einige Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -251,13 +259,14 @@
 11	,	,	$,	*	*	*	*
 12	sind	sein	VAFIN	*	*	*	*
 13	einige	einige	PIAT	*	*	*	*
-14	Zelte	Zelt	NN	1	1	1	1
-15	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+14	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+15	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890717.61
 # sent_id = 6136
 # text = Mit John Steinbecks The Pearl eröffnete das " Footsbarn Travelling Theatre " am Freitag abend die " Mir Karawane " , das internationale Festival freier Theatergruppen , das bis zum 30. Juli seine Zelte in West-Berlin zwischen Siegessäule und Brandenburger Tor aufgeschlagen hat .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -294,7 +303,7 @@
 32	.	.	$.	*	*	*	*
 33	Juli	Juli	NN	*	*	*	*
 34	seine	sein	PPOSAT	*	*	*	*
-35	Zelte	Zelt	NN	4	2	2	2
+35	Zelte	Zelt	NN	BOTH	FIG	FIG	FIG
 36	in	in	APPR	*	*	*	*
 37	West-Berlin	West-Berlin	NE	*	*	*	*
 38	zwischen	zwischen	APPR	*	*	*	*
@@ -302,13 +311,14 @@
 40	und	und	KON	*	*	*	*
 41	Brandenburger	Brandenburger	NN	*	*	*	*
 42	Tor	Tor	NN	*	*	*	*
-43	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+43	aufgeschlagen	aufschlagen	VVPP	BOTH	FIG	FIG	FIG
 44	hat	haben	VAFIN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890729.93
 # sent_id = 6137
 # text = Hunderte von Bergleuten sind Anfang Juli während der bundesweiten Ferienwochen der Bergarbeiter hergekommen und haben ihre Zelte und Wohnmobile im " Camp Solidarity " aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Hunderte	Hundert	NN	*	*	*	*
@@ -327,7 +337,7 @@
 14	und	und	KON	*	*	*	*
 15	haben	haben	VAFIN	*	*	*	*
 16	ihre	ihr	PPOSAT	*	*	*	*
-17	Zelte	Zelt	NN	1	1	1	1
+17	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 18	und	und	KON	*	*	*	*
 19	Wohnmobile	Wohnmobile	NN	*	*	*	*
 20	im	in	APPRART	*	*	*	*
@@ -335,12 +345,13 @@
 22	Camp	Camp	NN	*	*	*	*
 23	Solidarity	<unknown>	NN	*	*	*	*
 24	"	"	$(	*	*	*	*
-25	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+25	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890831.225
 # sent_id = 6138
 # text = In ihrer Verzweifelung planen sie stattdessen jetzt , auf dem Marktplatz demonstrativ ihr Zelt aufzuschlagen , um auf ihre Notlage aufmerksam zu machen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hunderte	Hundert	NN	*	*	*	*
@@ -359,7 +370,7 @@
 14	und	und	KON	*	*	*	*
 15	haben	haben	VAFIN	*	*	*	*
 16	ihre	ihr	PPOSAT	*	*	*	*
-17	Zelte	Zelt	NN	1	1	1	1
+17	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 18	und	und	KON	*	*	*	*
 19	Wohnmobile	Wohnmobile	NN	*	*	*	*
 20	im	in	APPRART	*	*	*	*
@@ -367,12 +378,13 @@
 22	Camp	Camp	NN	*	*	*	*
 23	Solidarity	<unknown>	NN	*	*	*	*
 24	"	"	$(	*	*	*	*
-25	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+25	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890201.82
 # sent_id = 6139
 # text = Entlang der Straße zum Flughafen waren Tausende von Zelten aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Entlang	entlang	APPR	*	*	*	*
@@ -383,13 +395,14 @@
 6	waren	sein	VAFIN	*	*	*	*
 7	Tausende	Tausend	NN	*	*	*	*
 8	von	von	APPR	*	*	*	*
-9	Zelten	Zelt|Zelten	NN	1	1	1	1
-10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+9	Zelten	Zelt|Zelten	NN	LIT	LIT	LIT	LIT
+10	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910524.209
 # sent_id = 6140
 # text = Ein Brückenschlag ist bestimmt schon geglückt : Einige Stücke kennt man noch von Parody Paradise , der Wanderbühne , die letztes Jahr am Blücherplatz ihr Zelt aufgeschlagen hatte .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Ein	eine	ART	*	*	*	*
@@ -417,14 +430,15 @@
 23	am	an	APPRART	*	*	*	*
 24	Blücherplatz	<unknown>	NN	*	*	*	*
 25	ihr	ihr	PPOSAT	*	*	*	*
-26	Zelt	Zelt	NN	2	2	2	2
-27	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+26	Zelt	Zelt	NN	FIG	FIG	FIG	FIG
+27	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 28	hatte	haben	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910502.60
 # sent_id = 6141
 # text = In den grünen Wiesen haben die ersten Rückkehrer vor Tagen bereits ihr Zelte aufgeschlagen : " Wir warten auf die Erlaubnis der Alliierten , zurückzukehren " , erklärt eine Gruppe von Flüchtlingen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -439,8 +453,8 @@
 10	Tagen	Tag	NN	*	*	*	*
 11	bereits	bereits	ADV	*	*	*	*
 12	ihr	ihr	PPOSAT	*	*	*	*
-13	Zelte	Zelt	NN	2	1	1	1
-14	aufgeschlagen	aufschlagen	VVPP	2	1	1	1
+13	Zelte	Zelt	NN	FIG	LIT	LIT	LIT
+14	aufgeschlagen	aufschlagen	VVPP	FIG	LIT	LIT	LIT
 15	:	:	$.	*	*	*	*
 16	"	"	$(	*	*	*	*
 17	Wir	wir	PPER	*	*	*	*
@@ -464,6 +478,7 @@
 # tuepp_article_id = T910611.30
 # sent_id = 6142
 # text = Die US-amerikanischen Militärbehörden aber , die auf den Philippinen mehrere Stützpunkte unterhalten , sie kannten die Gefahr - was sie offenbar nicht daran hinderte , nur etwa 16 Kilometer vom feuerspeienden Riesen entfernt ihre Zelte aufzuschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -478,8 +493,8 @@
 10	Tagen	Tag	NN	*	*	*	*
 11	bereits	bereits	ADV	*	*	*	*
 12	ihr	ihr	PPOSAT	*	*	*	*
-13	Zelte	Zelt	NN	2	2	1	2
-14	aufgeschlagen	aufschlagen	VVPP	2	2	1	2
+13	Zelte	Zelt	NN	FIG	FIG	LIT	FIG
+14	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	LIT	FIG
 15	:	:	$.	*	*	*	*
 16	"	"	$(	*	*	*	*
 17	Wir	wir	PPER	*	*	*	*
@@ -503,6 +518,7 @@
 # tuepp_article_id = T910618.20
 # sent_id = 6143
 # text = Für die nächtliche Wache am Lager hatten zahlreiche Besetzer Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -514,13 +530,14 @@
 7	hatten	haben	VAFIN	*	*	*	*
 8	zahlreiche	zahlreich	ADJA	*	*	*	*
 9	Besetzer	Besetzer	NN	*	*	*	*
-10	Zelte	Zelt	NN	1	1	1	1
-11	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+10	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+11	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910618.172
 # sent_id = 6144
 # text = Das Tempodrom , das genau in der heißen Zone zwischen Kongreßhalle und Reichstag seine Zelte aufgeschlagen hat , wurde laut Mabel erst am Freitag von den geplanten Maßnahmen informiert .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -537,8 +554,8 @@
 12	und	und	KON	*	*	*	*
 13	Reichstag	Reichstag	NN	*	*	*	*
 14	seine	sein	PPOSAT	*	*	*	*
-15	Zelte	Zelt	NN	2	2	2	2
-16	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+15	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+16	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 17	hat	haben	VAFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	wurde	werden	VAFIN	*	*	*	*
@@ -557,6 +574,7 @@
 # tuepp_article_id = T911009.173
 # sent_id = 6145
 # text = Kaum hatte er aber die Zelte aufgeschlagen , da steuerten auch schon alle Beteiligten auf einen Dauerclinch zu .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kaum	kaum	ADV	*	*	*	*
@@ -564,8 +582,8 @@
 3	er	er	PPER	*	*	*	*
 4	aber	aber	ADV	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Zelte	Zelt	NN	1	2	2	2
-7	aufgeschlagen	aufschlagen	VVPP	1	2	2	2
+6	Zelte	Zelt	NN	LIT	FIG	FIG	FIG
+7	aufgeschlagen	aufschlagen	VVPP	LIT	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	da	da	ADV	*	*	*	*
 10	steuerten	steuern	VVFIN	*	*	*	*
@@ -582,6 +600,7 @@
 # tuepp_article_id = T910129.173
 # sent_id = 6146
 # text = In einem Brief » an die Gruppe , die zur Zeit ihr Zelt am neuen Turm der Kaiser-Wilhem-Gedächtniskirche aufgeschlagen hat « , so die Adressierung von Pfarrer Soppa , der auch Vorsitzender des Gemeindekirchenrates ist , werden die durchgefrorenen Demonstranten aufgefordert , » unser Kirchengelände zu verlassen « .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -596,13 +615,13 @@
 10	zur	zu	APPRART	*	*	*	*
 11	Zeit	Zeit	NN	*	*	*	*
 12	ihr	ihr	PPOSAT	*	*	*	*
-13	Zelt	Zelt	NN	1	2	1	1
+13	Zelt	Zelt	NN	LIT	FIG	LIT	LIT
 14	am	an	APPRART	*	*	*	*
 15	neuen	neu	ADJA	*	*	*	*
 16	Turm	Turm	NN	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	Kaiser-Wilhem-Gedächtniskirche	<unknown>	NN	*	*	*	*
-19	aufgeschlagen	aufschlagen	VVPP	1	2	1	1
+19	aufgeschlagen	aufschlagen	VVPP	LIT	FIG	LIT	LIT
 20	hat	haben	VAFIN	*	*	*	*
 21	«	<unknown>	NN	*	*	*	*
 22	,	,	$,	*	*	*	*
@@ -637,6 +656,7 @@
 # tuepp_article_id = T910712.206
 # sent_id = 6147
 # text = Direkt hinter der Kongresshalle haben rund 70 Künstler aller Couleur ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Direkt	direkt	ADJD	*	*	*	*
@@ -650,13 +670,14 @@
 9	aller	alle	PIAT	*	*	*	*
 10	Couleur	<unknown>	NN	*	*	*	*
 11	ihre	ihr	PPOSAT	*	*	*	*
-12	Zelte	Zelt	NN	2	3	1	3
-13	aufgeschlagen	aufschlagen	VVPP	2	3	1	3
+12	Zelte	Zelt	NN	FIG	UND	LIT	UND
+13	aufgeschlagen	aufschlagen	VVPP	FIG	UND	LIT	UND
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911104.192
 # sent_id = 6148
 # text = Genau daran scheitert ein kleiner Wanderzirkus , der seine Zelte in irgendeinem Dorf Vietnams aufgeschlagen hat .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Genau	genau	ADJD	*	*	*	*
@@ -668,18 +689,19 @@
 7	,	,	$,	*	*	*	*
 8	der	die	PRELS	*	*	*	*
 9	seine	sein	PPOSAT	*	*	*	*
-10	Zelte	Zelt	NN	4	1	2	3
+10	Zelte	Zelt	NN	BOTH	LIT	FIG	UND
 11	in	in	APPR	*	*	*	*
 12	irgendeinem	irgendeine	PIAT	*	*	*	*
 13	Dorf	Dorf	NN	*	*	*	*
 14	Vietnams	Vietnam	NE	*	*	*	*
-15	aufgeschlagen	aufschlagen	VVPP	4	1	2	3
+15	aufgeschlagen	aufschlagen	VVPP	BOTH	LIT	FIG	UND
 16	hat	haben	VAFIN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900502.231
 # sent_id = 6149
 # text = Ganze zwei ( in Zahlen : 2 ) Zelte wurden unter den unbestechlichen Augen von drei TV-Teams schließlich aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ganze	ganz	ADJA	*	*	*	*
@@ -690,7 +712,7 @@
 6	:	:	$.	*	*	*	*
 7	2	@card@	CARD	*	*	*	*
 8	)	)	$(	*	*	*	*
-9	Zelte	Zelt	NN	1	1	1	1
+9	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 10	wurden	werden	VAFIN	*	*	*	*
 11	unter	unter	APPR	*	*	*	*
 12	den	die	ART	*	*	*	*
@@ -700,12 +722,13 @@
 16	drei	drei	CARD	*	*	*	*
 17	TV-Teams	TV-Team	NN	*	*	*	*
 18	schließlich	schließlich	ADV	*	*	*	*
-19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+19	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900502.241
 # sent_id = 6150
 # text = In Bremen waren die Roma dagegen sogar vom Marktplatz vertrieben worden , als sie versuchten , dort Zelte für die Nacht aufzuschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ganze	ganz	ADJA	*	*	*	*
@@ -716,7 +739,7 @@
 6	:	:	$.	*	*	*	*
 7	2	@card@	CARD	*	*	*	*
 8	)	)	$(	*	*	*	*
-9	Zelte	Zelt	NN	1	1	1	1
+9	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 10	wurden	werden	VAFIN	*	*	*	*
 11	unter	unter	APPR	*	*	*	*
 12	den	die	ART	*	*	*	*
@@ -726,12 +749,13 @@
 16	drei	drei	CARD	*	*	*	*
 17	TV-Teams	TV-Team	NN	*	*	*	*
 18	schließlich	schließlich	ADV	*	*	*	*
-19	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+19	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900905.99
 # sent_id = 6151
 # text = Mit einem Zirkuseingang aus angemalten Pappwänden , mit eifrig angekarrten Palmen und frisch aufgeschlagenen Zelten ( für die Fernsehteams ) .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -747,8 +771,8 @@
 11	Palmen	Palme	NN	*	*	*	*
 12	und	und	KON	*	*	*	*
 13	frisch	frisch	ADJD	*	*	*	*
-14	aufgeschlagenen	aufgeschlagen	ADJA	1	1	1	1
-15	Zelten	Zelt|Zelten	NN	1	1	1	1
+14	aufgeschlagenen	aufgeschlagen	ADJA	LIT	LIT	LIT	LIT
+15	Zelten	Zelt|Zelten	NN	LIT	LIT	LIT	LIT
 16	(	(	$(	*	*	*	*
 17	für	für	APPR	*	*	*	*
 18	die	die	ART	*	*	*	*
@@ -759,6 +783,7 @@
 # tuepp_article_id = T900919.22
 # sent_id = 6152
 # text = Dort hatten bereits vor Tagen junge Leute ihre Zelte aufgeschlagen und halten seither eine Mahnwache ab .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Dort	dort	ADV	*	*	*	*
@@ -769,8 +794,8 @@
 6	junge	jung	ADJA	*	*	*	*
 7	Leute	Leute	NN	*	*	*	*
 8	ihre	ihr	PPOSAT	*	*	*	*
-9	Zelte	Zelt	NN	4	1	1	1
-10	aufgeschlagen	aufschlagen	VVPP	4	1	1	1
+9	Zelte	Zelt	NN	BOTH	LIT	LIT	LIT
+10	aufgeschlagen	aufschlagen	VVPP	BOTH	LIT	LIT	LIT
 11	und	und	KON	*	*	*	*
 12	halten	halten	VVFIN	*	*	*	*
 13	seither	seither	ADV	*	*	*	*
@@ -782,6 +807,7 @@
 # tuepp_article_id = T900705.71
 # sent_id = 6153
 # text = Rostock ( dpa ) - 98 Zöllner aus dem Bundesgebiet haben vorübergehend ihre Zelte jenseits der ehemaligen innerdeutschen Grenze aufgeschlagen , um ihre DDR-Kollegen bis zum 10. August in berufsinternen Fragen zu beraten .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rostock	Rostock	NE	*	*	*	*
@@ -797,13 +823,13 @@
 11	haben	haben	VAFIN	*	*	*	*
 12	vorübergehend	vorübergehend	ADJD	*	*	*	*
 13	ihre	ihr	PPOSAT	*	*	*	*
-14	Zelte	Zelt	NN	1	1	2	1
+14	Zelte	Zelt	NN	LIT	LIT	FIG	LIT
 15	jenseits	jenseits	APPR	*	*	*	*
 16	der	die	ART	*	*	*	*
 17	ehemaligen	ehemalig	ADJA	*	*	*	*
 18	innerdeutschen	innerdeutsch	ADJA	*	*	*	*
 19	Grenze	Grenze	NN	*	*	*	*
-20	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+20	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	FIG	LIT
 21	,	,	$,	*	*	*	*
 22	um	um	KOUI	*	*	*	*
 23	ihre	ihr	PPOSAT	*	*	*	*
@@ -823,6 +849,7 @@
 # tuepp_article_id = T900822.92
 # sent_id = 6154
 # text = Vor zwei Wochen verhinderte die " Bürgergemeinschaft Ahmsen " , daß die Stadt in Ahmsen , ein anderer Ortsteil von Salzufflen , Zelte für die Roma aufschlug , um " die Lage in Schötmar zu entzerren " .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -847,11 +874,11 @@
 20	von	von	APPR	*	*	*	*
 21	Salzufflen	<unknown>	NN	*	*	*	*
 22	,	,	$,	*	*	*	*
-23	Zelte	Zelt	NN	1	1	2	1
+23	Zelte	Zelt	NN	LIT	LIT	FIG	LIT
 24	für	für	APPR	*	*	*	*
 25	die	die	ART	*	*	*	*
 26	Roma	Roma	NE	*	*	*	*
-27	aufschlug	aufschlagen	VVFIN	1	1	2	1
+27	aufschlug	aufschlagen	VVFIN	LIT	LIT	FIG	LIT
 28	,	,	$,	*	*	*	*
 29	um	um	KOUI	*	*	*	*
 30	"	"	$(	*	*	*	*
@@ -867,6 +894,7 @@
 # tuepp_article_id = T900822.92
 # sent_id = 6155
 # text = Am 8. August entschied der Salzuffler Hauptausschuß : Der " Dringlichkeitsbeschluß " , in Ahmsen Zelte für die Roma aufzuschlagen , wird bekräftigt .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -891,11 +919,11 @@
 20	von	von	APPR	*	*	*	*
 21	Salzufflen	<unknown>	NN	*	*	*	*
 22	,	,	$,	*	*	*	*
-23	Zelte	Zelt	NN	1	1	2	1
+23	Zelte	Zelt	NN	LIT	LIT	FIG	LIT
 24	für	für	APPR	*	*	*	*
 25	die	die	ART	*	*	*	*
 26	Roma	Roma	NE	*	*	*	*
-27	aufschlug	aufschlagen	VVFIN	1	1	2	1
+27	aufschlug	aufschlagen	VVFIN	LIT	LIT	FIG	LIT
 28	,	,	$,	*	*	*	*
 29	um	um	KOUI	*	*	*	*
 30	"	"	$(	*	*	*	*
@@ -911,6 +939,7 @@
 # tuepp_article_id = T900801.251
 # sent_id = 6156
 # text = " Wenn wir abgeschoben werden , dann sollen es alle sehen " Foto : Wolfram Steinberg Rund 30 der 150 in Bremerhaven von Abschiebung bedrohten Roma haben gestern ihre Zelte in Bremen aufgeschlagen - und zwar direkt im Vorgarten des Innensenators an der Contrescarpe .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -942,10 +971,10 @@
 27	haben	haben	VAFIN	*	*	*	*
 28	gestern	gestern	ADV	*	*	*	*
 29	ihre	ihr	PPOSAT	*	*	*	*
-30	Zelte	Zelt	NN	4	1	2	3
+30	Zelte	Zelt	NN	BOTH	LIT	FIG	UND
 31	in	in	APPR	*	*	*	*
 32	Bremen	Bremen	NE	*	*	*	*
-33	aufgeschlagen	aufschlagen	VVPP	4	1	2	3
+33	aufgeschlagen	aufschlagen	VVPP	BOTH	LIT	FIG	UND
 34	-	-	$(	*	*	*	*
 35	und	und	KON	*	*	*	*
 36	zwar	zwar	ADV	*	*	*	*
@@ -962,6 +991,7 @@
 # tuepp_article_id = T900317.134
 # sent_id = 6157
 # text = Hanns Joachim Friedrichs lädt Politprominenz ins Restaurant Spreeblick , Günter Jauch veranstaltet eine Party im Berliner Ballsaal , Sat1 hat seine Zelte im Palasthotel aufgeschlagen , und RTL plus berichtet aus dem Theater im Palast der Republik .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Hanns	Hanns	NE	*	*	*	*
@@ -985,10 +1015,10 @@
 19	Sat1	<unknown>	NN	*	*	*	*
 20	hat	haben	VAFIN	*	*	*	*
 21	seine	sein	PPOSAT	*	*	*	*
-22	Zelte	Zelt	NN	2	2	2	2
+22	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 23	im	in	APPRART	*	*	*	*
 24	Palasthotel	Palasthotel	NN	*	*	*	*
-25	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+25	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 26	,	,	$,	*	*	*	*
 27	und	und	KON	*	*	*	*
 28	RTL	RTL	NE	*	*	*	*
@@ -1006,6 +1036,7 @@
 # tuepp_article_id = T920928.227
 # sent_id = 6158
 # text = Ins Schußfeuer der Kritik ist vor allem der kleine " Cirkus Huberti " geraten , der an der Moorweide seine Zelte aufgeschlagen hat .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ins	in	APPRART	*	*	*	*
@@ -1028,14 +1059,15 @@
 18	der	die	ART	*	*	*	*
 19	Moorweide	Moorweide	NN	*	*	*	*
 20	seine	sein	PPOSAT	*	*	*	*
-21	Zelte	Zelt	NN	4	3	1	3
-22	aufgeschlagen	aufschlagen	VVPP	4	3	1	3
+21	Zelte	Zelt	NN	BOTH	UND	LIT	UND
+22	aufgeschlagen	aufschlagen	VVPP	BOTH	UND	LIT	UND
 23	hat	haben	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920128.60
 # sent_id = 6159
 # text = Israelische Polizisten und Soldaten haben am Sonntag Israelis von jordanischem Gebiet zurückgeholt , die dort nach Angaben der israelischen Armee mehrere Meter von der Grenze zu Israel entfernt zwei Zelte aufgeschlagen hatten .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Israelische	israelisch	ADJA	*	*	*	*
@@ -1067,14 +1099,15 @@
 27	Israel	Israel	NE	*	*	*	*
 28	entfernt	entfernt	ADJD	*	*	*	*
 29	zwei	zwei	CARD	*	*	*	*
-30	Zelte	Zelt	NN	1	1	1	1
-31	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+30	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+31	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 32	hatten	haben	VAFIN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920408.231
 # sent_id = 6160
 # text = Im Oktober sodann wird in Bremen ein großes Zelt aufgeschlagen , darinnen geht eine Buffalo Bill Show , wiewohl kritisch , mit Piff und Paff über die Manege .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -1085,8 +1118,8 @@
 6	Bremen	Bremen	NE	*	*	*	*
 7	ein	eine	ART	*	*	*	*
 8	großes	groß	ADJA	*	*	*	*
-9	Zelt	Zelt	NN	1	1	1	1
-10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+9	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+10	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 11	,	,	$,	*	*	*	*
 12	darinnen	darinnen	VVINF	*	*	*	*
 13	geht	gehen	VVFIN	*	*	*	*
@@ -1110,6 +1143,7 @@
 # tuepp_article_id = T920806.175
 # sent_id = 6161
 # text = Die Compagnia Buffo hat ihr Zelt in Bremen aufgeschlagen , und die " Parade " über den Bremer Markt erinnert daran , was " Markt " auch mal war : Gesang , Musik und Lustbarkeit , Gegaukel und derber Spaß .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1117,10 +1151,10 @@
 3	Buffo	<unknown>	NE	*	*	*	*
 4	hat	haben	VAFIN	*	*	*	*
 5	ihr	ihr	PPOSAT	*	*	*	*
-6	Zelt	Zelt	NN	4	2	2	2
+6	Zelt	Zelt	NN	BOTH	FIG	FIG	FIG
 7	in	in	APPR	*	*	*	*
 8	Bremen	Bremen	NE	*	*	*	*
-9	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+9	aufgeschlagen	aufschlagen	VVPP	BOTH	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	und	und	KON	*	*	*	*
 12	die	die	ART	*	*	*	*
@@ -1157,6 +1191,7 @@
 # tuepp_article_id = T921113.82
 # sent_id = 6162
 # text = " Die Gelegenheit dazu findet er , als er 1979 für ein Jahr nach Deutschland eingeladen wird und seine Zelte im Ruhrgebiet aufschlägt .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1178,15 +1213,16 @@
 17	wird	werden	VAFIN	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	seine	sein	PPOSAT	*	*	*	*
-20	Zelte	Zelt	NN	2	2	2	2
+20	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 21	im	in	APPRART	*	*	*	*
 22	Ruhrgebiet	Ruhrgebiet	NE	*	*	*	*
-23	aufschlägt	aufschlagen	VVFIN	2	2	2	2
+23	aufschlägt	aufschlagen	VVFIN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921104.64
 # sent_id = 6163
 # text = Die Grabenkämpfe bei den Torys werden aus dem Oberhaus gesteuert , wo Majors Vorgängerin , Baronin Margaret Thatcher , inzwischen ihre Zelte aufgeschlagen hat .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1210,14 +1246,15 @@
 19	,	,	$,	*	*	*	*
 20	inzwischen	inzwischen	ADV	*	*	*	*
 21	ihre	ihr	PPOSAT	*	*	*	*
-22	Zelte	Zelt	NN	2	2	2	2
-23	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+22	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+23	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 24	hat	haben	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921121.100
 # sent_id = 6164
 # text = Als im letzten Sommer die weltweit erfolgreichste US-Male-Strip- Truppe " Chippendales " am Stadtrand ihr Zelt aufschlug , sorgten noch die vielen hier stationierten Amerikanerinnen für stundenlanges ohrenbetäubendes Soprankreischen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KON	*	*	*	*
@@ -1235,8 +1272,8 @@
 13	am	an	APPRART	*	*	*	*
 14	Stadtrand	Stadtrand	NN	*	*	*	*
 15	ihr	ihr	PPOSAT	*	*	*	*
-16	Zelt	Zelt	NN	2	2	2	2
-17	aufschlug	aufschlagen	VVFIN	2	2	2	2
+16	Zelt	Zelt	NN	FIG	FIG	FIG	FIG
+17	aufschlug	aufschlagen	VVFIN	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	sorgten	sorgen	VVFIN	*	*	*	*
 20	noch	noch	ADV	*	*	*	*
@@ -1254,6 +1291,7 @@
 # tuepp_article_id = T880118.61
 # sent_id = 6165
 # text = Da weder ein Zirkus seine Zelte aufgeschlagen hat noch die Bevölkerung auf den unausweichlich scheinenden Entscheidungskampf gegen die linken Guerilleros eingestimmt werden soll , kann es sich nur um Wahlen handeln .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -1261,8 +1299,8 @@
 3	ein	eine	ART	*	*	*	*
 4	Zirkus	Zirkus	NN	*	*	*	*
 5	seine	sein	PPOSAT	*	*	*	*
-6	Zelte	Zelt	NN	1	2	2	2
-7	aufgeschlagen	aufschlagen	VVPP	1	2	2	2
+6	Zelte	Zelt	NN	LIT	FIG	FIG	FIG
+7	aufgeschlagen	aufschlagen	VVPP	LIT	FIG	FIG	FIG
 8	hat	haben	VAFIN	*	*	*	*
 9	noch	noch	KON	*	*	*	*
 10	die	die	ART	*	*	*	*
@@ -1292,6 +1330,7 @@
 # tuepp_article_id = T881221.176
 # sent_id = 6166
 # text = Werner Alfke , Pressesprecher des Sozialsenators , tags darauf : " Wir machen es trotzdem " , weil sonst vielleicht bald Zelte auf der Bürgerweide aufgeschlagen werden müßten .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Werner	Werner	NE	*	*	*	*
@@ -1315,11 +1354,11 @@
 19	sonst	sonst	ADV	*	*	*	*
 20	vielleicht	vielleicht	ADV	*	*	*	*
 21	bald	bald	ADV	*	*	*	*
-22	Zelte	Zelt	NN	1	1	1	1
+22	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 23	auf	auf	APPR	*	*	*	*
 24	der	die	ART	*	*	*	*
 25	Bürgerweide	Bürgerweide	NN	*	*	*	*
-26	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+26	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 27	werden	werden	VAINF	*	*	*	*
 28	müßten	müssen	VMFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
@@ -1327,6 +1366,7 @@
 # tuepp_article_id = T881117.152
 # sent_id = 6167
 # text = " Eine Frau und vier Männer aus der Türkei haben am Montag nachmittag zwischen der Bürgerschaft und dem Rathaus ein kleines Zelt aufgeschlagen und nehmen keine Nahrung mehr zu sich .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1350,8 +1390,8 @@
 19	Rathaus	Rathaus	NN	*	*	*	*
 20	ein	eine	ART	*	*	*	*
 21	kleines	klein	ADJA	*	*	*	*
-22	Zelt	Zelt	NN	1	1	1	1
-23	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+22	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+23	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 24	und	und	KON	*	*	*	*
 25	nehmen	nehmen	VVFIN	*	*	*	*
 26	keine	keine	PIAT	*	*	*	*
@@ -1364,6 +1404,7 @@
 # tuepp_article_id = T870623.36
 # sent_id = 6168
 # text = Die ehemaligen Bewohner der besetzten Häuser planen jetzt , auf der Wiese neben dem Obdachlosenheim Zelte aufzuschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1387,8 +1428,8 @@
 19	Rathaus	Rathaus	NN	*	*	*	*
 20	ein	eine	ART	*	*	*	*
 21	kleines	klein	ADJA	*	*	*	*
-22	Zelt	Zelt	NN	1	1	1	1
-23	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+22	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+23	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 24	und	und	KON	*	*	*	*
 25	nehmen	nehmen	VVFIN	*	*	*	*
 26	keine	keine	PIAT	*	*	*	*
@@ -1401,6 +1442,7 @@
 # tuepp_article_id = T870917.10
 # sent_id = 6169
 # text = Seit gut einer Woche hat das jüdische Ehepaar Gina und Michael Düllmann ein Zelt auf den Fundamenten der ehemaligen Synagoge aufgeschlagen , um die Bauarbeiten zu behindern .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
@@ -1416,14 +1458,14 @@
 11	Michael	Michael	NE	*	*	*	*
 12	Düllmann	<unknown>	NE	*	*	*	*
 13	ein	eine	ART	*	*	*	*
-14	Zelt	Zelt	NN	1	1	1	1
+14	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
 15	auf	auf	APPR	*	*	*	*
 16	den	die	ART	*	*	*	*
 17	Fundamenten	Fundament	NN	*	*	*	*
 18	der	die	ART	*	*	*	*
 19	ehemaligen	ehemalig	ADJA	*	*	*	*
 20	Synagoge	Synagoge	NN	*	*	*	*
-21	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+21	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 22	,	,	$,	*	*	*	*
 23	um	um	KOUI	*	*	*	*
 24	die	die	ART	*	*	*	*
@@ -1435,6 +1477,7 @@
 # tuepp_article_id = T871209.79
 # sent_id = 6170
 # text = Hunderte von kleinen Garküchen und Ausschankstellen für das Volksgetränk Makkoli haben am Rand des Platzes ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hunderte	Hundert	NN	*	*	*	*
@@ -1453,13 +1496,14 @@
 14	des	die	ART	*	*	*	*
 15	Platzes	Platz	NN	*	*	*	*
 16	ihre	ihr	PPOSAT	*	*	*	*
-17	Zelte	Zelt	NN	4	3	2	3
-18	aufgeschlagen	aufschlagen	VVPP	4	3	2	3
+17	Zelte	Zelt	NN	BOTH	UND	FIG	UND
+18	aufgeschlagen	aufschlagen	VVPP	BOTH	UND	FIG	UND
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T860918.18
 # sent_id = 6171
 # text = In dreißig Meter Höhe montierten die Besetzer eine Plattform , auf der sie ein Zelt aufschlugen und sich häuslich niederließen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1476,8 +1520,8 @@
 12	der	die	PRELS	*	*	*	*
 13	sie	sie	PPER	*	*	*	*
 14	ein	eine	ART	*	*	*	*
-15	Zelt	Zelt	NN	1	1	1	1
-16	aufschlugen	aufschlagen	VVFIN	1	1	1	1
+15	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+16	aufschlugen	aufschlagen	VVFIN	LIT	LIT	LIT	LIT
 17	und	und	KON	*	*	*	*
 18	sich	sich	PRF	*	*	*	*
 19	häuslich	häuslich	ADJD	*	*	*	*
@@ -1487,6 +1531,7 @@
 # tuepp_article_id = T860911.30
 # sent_id = 6172
 # text = In den Dörfern wird ein großes Zelt aufgeschlagen , die Kader des DERG erscheinen , die Verfassung wird verlesen , ein paar Fragen oberflächlich beantwortet .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1495,8 +1540,8 @@
 4	wird	werden	VAFIN	*	*	*	*
 5	ein	eine	ART	*	*	*	*
 6	großes	groß	ADJA	*	*	*	*
-7	Zelt	Zelt	NN	1	1	1	1
-8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+7	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+8	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 9	,	,	$,	*	*	*	*
 10	die	die	ART	*	*	*	*
 11	Kader	Kader	NN	*	*	*	*
@@ -1519,6 +1564,7 @@
 # tuepp_article_id = T930626.110
 # sent_id = 6173
 # text = Daß bei Übernachtungen im Freien das Zelt auf einer zugbrückensicheren Pfahlkonstruktion aufgeschlagen werden sollte , versteht sich ja wohl von selbst .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -1527,12 +1573,12 @@
 4	im	in	APPRART	*	*	*	*
 5	Freien	Freie	NN	*	*	*	*
 6	das	die	ART	*	*	*	*
-7	Zelt	Zelt	NN	1	1	1	1
+7	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
 8	auf	auf	APPR	*	*	*	*
 9	einer	eine	ART	*	*	*	*
 10	zugbrückensicheren	<unknown>	ADJA	*	*	*	*
 11	Pfahlkonstruktion	<unknown>	NN	*	*	*	*
-12	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+12	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 13	werden	werden	VAINF	*	*	*	*
 14	sollte	sollen	VMFIN	*	*	*	*
 15	,	,	$,	*	*	*	*
@@ -1547,6 +1593,7 @@
 # tuepp_article_id = T931022.102
 # sent_id = 6174
 # text = Ach , Hollywood und Seattle ( wo sie auch mal ihre Zelte aufschlug ) und San Francisco : all diese Namen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ach	ach	ITJ	*	*	*	*
@@ -1560,8 +1607,8 @@
 9	auch	auch	ADV	*	*	*	*
 10	mal	mal	ADV	*	*	*	*
 11	ihre	ihr	PPOSAT	*	*	*	*
-12	Zelte	Zelt	NN	2	2	2	2
-13	aufschlug	aufschlagen	VVFIN	2	2	2	2
+12	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+13	aufschlug	aufschlagen	VVFIN	FIG	FIG	FIG	FIG
 14	)	)	$(	*	*	*	*
 15	und	und	KON	*	*	*	*
 16	San	San	NE	*	*	*	*
@@ -1575,6 +1622,7 @@
 # tuepp_article_id = T930925.85
 # sent_id = 6175
 # text = In den Tälern kann das Zelt aufgeschlagen oder ein Gasthof aufgesucht werden .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1582,8 +1630,8 @@
 3	Tälern	Tal	NN	*	*	*	*
 4	kann	können	VMFIN	*	*	*	*
 5	das	die	ART	*	*	*	*
-6	Zelt	Zelt	NN	1	1	1	1
-7	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+6	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+7	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 8	oder	oder	KON	*	*	*	*
 9	ein	eine	ART	*	*	*	*
 10	Gasthof	Gasthof	NN	*	*	*	*
@@ -1594,6 +1642,7 @@
 # tuepp_article_id = T930918.53
 # sent_id = 6176
 # text = 167 taiwanesische Aussteller haben in Köln ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	167	@card@	CARD	*	*	*	*
@@ -1603,13 +1652,14 @@
 5	in	in	APPR	*	*	*	*
 6	Köln	Köln	NE	*	*	*	*
 7	ihre	ihr	PPOSAT	*	*	*	*
-8	Zelte	Zelt	NN	2	2	2	2
-9	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+8	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+9	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930422.111
 # sent_id = 6177
 # text = Weil es sich ja doch irgendwie nicht so rasend gut debattieren läßt , wenn einem die Kugeln um die Ohren pfeifen , hat der PEN-Kongress seine Zelte nun doch nicht in Dubrovnik aufgeschlagen , sondern auf der kroatischen Insel Hvar .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
@@ -1638,13 +1688,13 @@
 24	der	die	ART	*	*	*	*
 25	PEN-Kongress	PEN-Kongress	NN	*	*	*	*
 26	seine	sein	PPOSAT	*	*	*	*
-27	Zelte	Zelt	NN	2	2	2	2
+27	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 28	nun	nun	ADV	*	*	*	*
 29	doch	doch	ADV	*	*	*	*
 30	nicht	nicht	PTKNEG	*	*	*	*
 31	in	in	APPR	*	*	*	*
 32	Dubrovnik	Dubrovnik	NE	*	*	*	*
-33	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+33	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 34	,	,	$,	*	*	*	*
 35	sondern	sondern	KON	*	*	*	*
 36	auf	auf	APPR	*	*	*	*
@@ -1657,6 +1707,7 @@
 # tuepp_article_id = T930715.20
 # sent_id = 6178
 # text = Noch gibt das Kehler Sozialamt täglich Essensgutscheine aus , bringen Bürger Spenden zum ehemaligen Truppenübungsgelände , auf dem die Flüchtlinge ihre Zelte aufgeschlagen haben .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Noch	noch	ADV	*	*	*	*
@@ -1680,14 +1731,15 @@
 19	die	die	ART	*	*	*	*
 20	Flüchtlinge	Flüchtling	NN	*	*	*	*
 21	ihre	ihr	PPOSAT	*	*	*	*
-22	Zelte	Zelt	NN	4	1	1	1
-23	aufgeschlagen	aufschlagen	VVPP	4	1	1	1
+22	Zelte	Zelt	NN	BOTH	LIT	LIT	LIT
+23	aufgeschlagen	aufschlagen	VVPP	BOTH	LIT	LIT	LIT
 24	haben	haben	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930726.36
 # sent_id = 6179
 # text = Im Schutz der Baumreihe werden die Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -1696,13 +1748,14 @@
 4	Baumreihe	Baumreihe	NN	*	*	*	*
 5	werden	werden	VAFIN	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Zelte	Zelt	NN	1	1	1	1
-8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+7	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+8	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931215.125
 # sent_id = 6180
 # text = Das Hochbauamt des Bezirksamts Mitte hatte zuvor untersagt , ein solches Zelt aufzuschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -1711,13 +1764,14 @@
 4	Baumreihe	Baumreihe	NN	*	*	*	*
 5	werden	werden	VAFIN	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Zelte	Zelt	NN	1	1	1	1
-8	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+7	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+8	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930311.116
 # sent_id = 6181
 # text = Jedenfalls hat also dieser Spielberg seine Zelte vor den Toren des ehemaligen Konzentrationslagers Auschwitz aufgeschlagen , wo er mit den Dreharbeiten zu seinem Film Die Schindler-Liste begonnen hat .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jedenfalls	jedenfalls	ADV	*	*	*	*
@@ -1726,7 +1780,7 @@
 4	dieser	dies	PDAT	*	*	*	*
 5	Spielberg	Spielberg	NN	*	*	*	*
 6	seine	sein	PPOSAT	*	*	*	*
-7	Zelte	Zelt	NN	2	2	2	2
+7	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 8	vor	vor	APPR	*	*	*	*
 9	den	die	ART	*	*	*	*
 10	Toren	Tor	NN	*	*	*	*
@@ -1734,7 +1788,7 @@
 12	ehemaligen	ehemalig	ADJA	*	*	*	*
 13	Konzentrationslagers	Konzentrationslager	NN	*	*	*	*
 14	Auschwitz	Auschwitz	NE	*	*	*	*
-15	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+15	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	wo	wo	PWAV	*	*	*	*
 18	er	er	PPER	*	*	*	*
@@ -1753,20 +1807,22 @@
 # tuepp_article_id = T960506.230
 # sent_id = 6182
 # text = Die ersten fünf Zelte sind inzwischen aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	ersten	erst	ADJA	*	*	*	*
 3	fünf	fünf	CARD	*	*	*	*
-4	Zelte	Zelt	NN	1	1	1	1
+4	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 5	sind	sein	VAFIN	*	*	*	*
 6	inzwischen	inzwischen	ADV	*	*	*	*
-7	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+7	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961011.236
 # sent_id = 6183
 # text = Nicht nur Born und Buch , die beide in der Dickhardtstraße 48 wohnten , hatten in Friedenau ihre Zelte aufgeschlagen , sondern auch Hans Magnus Enzensberger , Günter Herburger , Christoph Meckel oder Günter Bruno Fuchs .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -1787,8 +1843,8 @@
 16	in	in	APPR	*	*	*	*
 17	Friedenau	<unknown>	NE	*	*	*	*
 18	ihre	ihr	PPOSAT	*	*	*	*
-19	Zelte	Zelt	NN	2	2	2	2
-20	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+19	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+20	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 21	,	,	$,	*	*	*	*
 22	sondern	sondern	KON	*	*	*	*
 23	auch	auch	ADV	*	*	*	*
@@ -1810,6 +1866,7 @@
 # tuepp_article_id = T960927.196
 # sent_id = 6184
 # text = Allen gemeinsam ist , daß sie ihre Zelte in einem Hausprojekt aufgeschlagen haben , für das sie selber verantwortlich sind .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allen	alle	PIAT	*	*	*	*
@@ -1819,11 +1876,11 @@
 5	daß	dass	KOUS	*	*	*	*
 6	sie	sie	PPER	*	*	*	*
 7	ihre	ihr	PPOSAT	*	*	*	*
-8	Zelte	Zelt	NN	2	2	2	2
+8	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 9	in	in	APPR	*	*	*	*
 10	einem	eine	ART	*	*	*	*
 11	Hausprojekt	Hausprojekt	NN	*	*	*	*
-12	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+12	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 13	haben	haben	VAFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	für	für	APPR	*	*	*	*
@@ -1837,6 +1894,7 @@
 # tuepp_article_id = T960706.245
 # sent_id = 6185
 # text = 367 Dauercamper haben dieses Jahr hier ihre Zelte aufgeschlagen , das sind etwa doppelt so viele wie noch vor vier Jahren .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	367	@card@	CARD	*	*	*	*
@@ -1846,8 +1904,8 @@
 5	Jahr	Jahr	NN	*	*	*	*
 6	hier	hier	ADV	*	*	*	*
 7	ihre	ihr	PPOSAT	*	*	*	*
-8	Zelte	Zelt	NN	1	1	2	1
-9	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+8	Zelte	Zelt	NN	LIT	LIT	FIG	LIT
+9	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	FIG	LIT
 10	,	,	$,	*	*	*	*
 11	das	die	PDS	*	*	*	*
 12	sind	sein	VAFIN	*	*	*	*
@@ -1865,6 +1923,7 @@
 # tuepp_article_id = T960726.86
 # sent_id = 6186
 # text = Allein in Aguas Blancas - im Juni 1995 Schauplatz des Bauern-Massakers - haben rund 500 Soldaten ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Allein	allein	ADV	*	*	*	*
@@ -1884,13 +1943,14 @@
 15	500	@card@	CARD	*	*	*	*
 16	Soldaten	Soldat	NN	*	*	*	*
 17	ihre	ihr	PPOSAT	*	*	*	*
-18	Zelte	Zelt	NN	2	2	3	2
-19	aufgeschlagen	aufschlagen	VVPP	2	2	3	2
+18	Zelte	Zelt	NN	FIG	FIG	UND	FIG
+19	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	UND	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960306.146
 # sent_id = 6187
 # text = Eines Nachmittags , als man die ganze Sache wieder einmal gründlich durchging und Espinosas Witwe auch im Laden war , sagte sie mit geheimnisvoller Miene , daß ihrer Meinung nach etwas viel Schrecklicheres passiert sei ; der junge Mann hatte , wie wir alle ja wüßten , sein Zelt in der Nähe ihres Hauses aufgeschlagen , und obwohl sie , genau wie wir , ihn lange nicht mehr gesehen hätte , wäre sein Zelt immer noch da , und es käme ihr doch sehr seltsam - sie wiederholte die Worte : sehr seltsam - vor , daß sie das Zelt nicht mitgenommen hätten .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eines	eine	ART	*	*	*	*
@@ -1941,13 +2001,13 @@
 46	wüßten	wissen	VVFIN	*	*	*	*
 47	,	,	$,	*	*	*	*
 48	sein	sein	PPOSAT	*	*	*	*
-49	Zelt	Zelt	NN	1	1	1	1
+49	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
 50	in	in	APPR	*	*	*	*
 51	der	die	ART	*	*	*	*
 52	Nähe	Nähe	NN	*	*	*	*
 53	ihres	ihr	PPOSAT	*	*	*	*
 54	Hauses	Haus	NN	*	*	*	*
-55	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+55	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 56	,	,	$,	*	*	*	*
 57	und	und	KON	*	*	*	*
 58	obwohl	obwohl	KOUS	*	*	*	*
@@ -2001,6 +2061,7 @@
 # tuepp_article_id = T980507.268
 # sent_id = 6188
 # text = Das " Atelier Blauschimmel " hat seine Zelte in der Oldenburger Kulturetage aufgeschlagen und bietet allen Normalen und Verrückten Kurse und Workshops in den Bereichen Musik , Theater , Tanz , Masken etc an .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -2010,12 +2071,12 @@
 5	"	"	$(	*	*	*	*
 6	hat	haben	VAFIN	*	*	*	*
 7	seine	sein	PPOSAT	*	*	*	*
-8	Zelte	Zelt	NN	2	2	2	2
+8	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 9	in	in	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Oldenburger	Oldenburger	NN	*	*	*	*
 12	Kulturetage	Kulturetage	NN	*	*	*	*
-13	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+13	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 14	und	und	KON	*	*	*	*
 15	bietet	bieten	VVFIN	*	*	*	*
 16	allen	alle	PIAT	*	*	*	*
@@ -2042,6 +2103,7 @@
 # tuepp_article_id = T980516.378
 # sent_id = 6189
 # text = Zwischen den buntbemalten Häuserfassaden hat das Rote Kreuz ein riesiges Zelt aufgeschlagen , weiter unten spielen Jugendliche Basketball .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwischen	zwischen	APPR	*	*	*	*
@@ -2054,8 +2116,8 @@
 8	Kreuz	Kreuz	NN	*	*	*	*
 9	ein	eine	ART	*	*	*	*
 10	riesiges	riesig	ADJA	*	*	*	*
-11	Zelt	Zelt	NN	1	1	1	1
-12	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+11	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+12	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 13	,	,	$,	*	*	*	*
 14	weiter	weiter	ADV	*	*	*	*
 15	unten	unten	ADV	*	*	*	*
@@ -2067,6 +2129,7 @@
 # tuepp_article_id = T980502.231
 # sent_id = 6190
 # text = Außerdem liege ein Angebot der Berliner Bäder-Betriebe ( BBB ) vor , die Zelte dauerhaft vor einem der Bäder aufzuschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Zwischen	zwischen	APPR	*	*	*	*
@@ -2079,8 +2142,8 @@
 8	Kreuz	Kreuz	NN	*	*	*	*
 9	ein	eine	ART	*	*	*	*
 10	riesiges	riesig	ADJA	*	*	*	*
-11	Zelt	Zelt	NN	1	1	2	1
-12	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+11	Zelt	Zelt	NN	LIT	LIT	FIG	LIT
+12	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	FIG	LIT
 13	,	,	$,	*	*	*	*
 14	weiter	weiter	ADV	*	*	*	*
 15	unten	unten	ADV	*	*	*	*
@@ -2092,6 +2155,7 @@
 # tuepp_article_id = T980529.343
 # sent_id = 6191
 # text = Wenn die Band nicht gerade auf irgendeiner Bühne steht , werden die Zelte in San Francisco aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -2106,16 +2170,17 @@
 10	,	,	$,	*	*	*	*
 11	werden	werden	VAFIN	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Zelte	Zelt	NN	4	2	2	2
+13	Zelte	Zelt	NN	BOTH	FIG	FIG	FIG
 14	in	in	APPR	*	*	*	*
 15	San	San	NE	*	*	*	*
 16	Francisco	Francisco	NE	*	*	*	*
-17	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+17	aufgeschlagen	aufschlagen	VVPP	BOTH	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980127.210
 # sent_id = 6192
 # text = Wer sich aus traditionell milde verengter fränkischer Perspektive ( auch mir ist Nau nur allzu vertraut , und damals war der Besenbeck ein Haushaltswarengeschäft und die Wurst kaufte man beim Henninger ) schwer tut mit der Gewöhnung an die Sprachökonomisierung , der war noch nicht in Tü , also im sprichwörtlich sparsamen Schwaben , woselbst man mit dem Tübus von Hegel zu Bloch kutschiert wird , freilich verkehrsmäßig in Schwierigkeiten geraten kann , sofern man in Kadingen ( Kusterdingen ) oder gar dem zungenbrechenden Kafurt ( Kirchentellinsfurt ) seine Zelte aufgeschlagen hat !
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
@@ -2207,14 +2272,15 @@
 87	Kirchentellinsfurt	<unknown>	NN	*	*	*	*
 88	)	)	$(	*	*	*	*
 89	seine	sein	PPOSAT	*	*	*	*
-90	Zelte	Zelt	NN	2	2	2	2
-91	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+90	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+91	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 92	hat	haben	VAFIN	*	*	*	*
 93	!	!	$.	*	*	*	*
 
 # tuepp_article_id = T980715.174
 # sent_id = 6193
 # text = Ist ja schließlich öffentlich-rechtliches , pädagogisch wertvolles Terrain , auf dem der Zirkus sein Zelt aufgeschlagen hat .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Ist	sein	VAFIN	*	*	*	*
@@ -2231,14 +2297,15 @@
 12	der	die	ART	*	*	*	*
 13	Zirkus	Zirkus	NN	*	*	*	*
 14	sein	sein	PPOSAT	*	*	*	*
-15	Zelt	Zelt	NN	1	1	2	1
-16	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+15	Zelt	Zelt	NN	LIT	LIT	FIG	LIT
+16	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	FIG	LIT
 17	hat	haben	VAFIN	*	*	*	*
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980707.91
 # sent_id = 6194
 # text = Auf den Feldern nebenan , die mit drei Reihen Stacheldraht und einem Graben von der Garvaghy Road getrennt sind , haben die Oranier ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -2265,13 +2332,14 @@
 22	die	die	ART	*	*	*	*
 23	Oranier	<unknown>	NN	*	*	*	*
 24	ihre	ihr	PPOSAT	*	*	*	*
-25	Zelte	Zelt	NN	1	1	1	1
-26	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+25	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+26	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980714.132
 # sent_id = 6195
 # text = " Die Kirche von Drumcree und die Felder , auf denen die Oranier ihre Zelte aufgeschlagen haben , gehören der Church of Ireland .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2288,8 +2356,8 @@
 12	die	die	ART	*	*	*	*
 13	Oranier	<unknown>	NN	*	*	*	*
 14	ihre	ihr	PPOSAT	*	*	*	*
-15	Zelte	Zelt	NN	1	1	1	1
-16	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+15	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+16	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 17	haben	haben	VAFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	gehören	gehören	VVFIN	*	*	*	*
@@ -2302,19 +2370,20 @@
 # tuepp_article_id = T981229.191
 # sent_id = 6196
 # text = Hatte sie ursprünglich ihre Zelte an der Moldau nur deshalb aufgeschlagen , um bald , vor Ort , über einen anstehenden slowakisch-tschechischen Bürgerkrieg zu berichten ?
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Hatte	haben	VAFIN	*	*	*	*
 2	sie	sie	PPER	*	*	*	*
 3	ursprünglich	ursprünglich	ADJD	*	*	*	*
 4	ihre	ihr	PPOSAT	*	*	*	*
-5	Zelte	Zelt	NN	2	1	2	2
+5	Zelte	Zelt	NN	FIG	LIT	FIG	FIG
 6	an	an	APPR	*	*	*	*
 7	der	die	ART	*	*	*	*
 8	Moldau	Moldau	NN	*	*	*	*
 9	nur	nur	ADV	*	*	*	*
 10	deshalb	deshalb	PAV	*	*	*	*
-11	aufgeschlagen	aufschlagen	VVPP	2	1	2	2
+11	aufgeschlagen	aufschlagen	VVPP	FIG	LIT	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	um	um	KOUI	*	*	*	*
 14	bald	bald	ADV	*	*	*	*
@@ -2334,6 +2403,7 @@
 # tuepp_article_id = T980805.140
 # sent_id = 6197
 # text = Masahiko T. und sein Kollege Hiroshi K. haben mit rund 1.500 anderen Obdachlosen unter Bäumen ihr Zelt aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Masahiko	<unknown>	NE	*	*	*	*
@@ -2352,13 +2422,14 @@
 14	unter	unter	APPR	*	*	*	*
 15	Bäumen	Baum	NN	*	*	*	*
 16	ihr	ihr	PPOSAT	*	*	*	*
-17	Zelt	Zelt	NN	1	1	1	1
-18	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+17	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+18	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980807.216
 # sent_id = 6198
 # text = Warum er nun ausgerechnet in Berlin seine Zelte aufschlagen mußte , ist ein Rätsel , das bei der "Popstar"-Record- Release-Party vielleicht seine Auflösung erfährt .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Warum	warum	PWAV	*	*	*	*
@@ -2368,8 +2439,8 @@
 5	in	in	APPR	*	*	*	*
 6	Berlin	Berlin	NE	*	*	*	*
 7	seine	sein	PPOSAT	*	*	*	*
-8	Zelte	Zelt	NN	2	2	2	2
-9	aufschlagen	aufschlagen	VVINF	2	2	2	2
+8	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+9	aufschlagen	aufschlagen	VVINF	FIG	FIG	FIG	FIG
 10	mußte	müssen	VMFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	ist	sein	VAFIN	*	*	*	*
@@ -2391,6 +2462,7 @@
 # tuepp_article_id = T980813.187
 # sent_id = 6199
 # text = Dieser Umstand ändere jedoch nichts an der erklärten Absicht , das Zelt bis zum 31. Juli 1999 auf dem Schloßplatz aufzuschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Warum	warum	PWAV	*	*	*	*
@@ -2400,8 +2472,8 @@
 5	in	in	APPR	*	*	*	*
 6	Berlin	Berlin	NE	*	*	*	*
 7	seine	sein	PPOSAT	*	*	*	*
-8	Zelte	Zelt	NN	2	1	1	1
-9	aufschlagen	aufschlagen	VVINF	2	1	1	1
+8	Zelte	Zelt	NN	FIG	LIT	LIT	LIT
+9	aufschlagen	aufschlagen	VVINF	FIG	LIT	LIT	LIT
 10	mußte	müssen	VMFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	ist	sein	VAFIN	*	*	*	*
@@ -2423,6 +2495,7 @@
 # tuepp_article_id = T980828.32
 # sent_id = 6200
 # text = Nach vertraulichen Informationen hat der Krasnojarsker Gouverneur und Ex-General Alexander Lebed im Vorzimmer Wiktor Stepanowitschs schon " ein Zelt aufgeschlagen " .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -2443,14 +2516,15 @@
 16	schon	schon	ADV	*	*	*	*
 17	"	"	$(	*	*	*	*
 18	ein	eine	ART	*	*	*	*
-19	Zelt	Zelt	NN	2	2	2	2
-20	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+19	Zelt	Zelt	NN	FIG	FIG	FIG	FIG
+20	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 21	"	"	$(	*	*	*	*
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981109.78
 # sent_id = 6201
 # text = Sie arbeitet in einem der Zelte , die neben der Turiner Kongreßhalle aufgeschlagen wurden .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -2458,20 +2532,21 @@
 3	in	in	APPR	*	*	*	*
 4	einem	eine	PIS	*	*	*	*
 5	der	die	ART	*	*	*	*
-6	Zelte	Zelt	NN	1	1	1	1
+6	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 7	,	,	$,	*	*	*	*
 8	die	die	PRELS	*	*	*	*
 9	neben	neben	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Turiner	Turiner	NN	*	*	*	*
 12	Kongreßhalle	Kongresshalle	NN	*	*	*	*
-13	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+13	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 14	wurden	werden	VAFIN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980216.232
 # sent_id = 6202
 # text = Denn im Oval der Stadthalle hatte offenbar ein Baumarkthändler seine Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -2484,13 +2559,14 @@
 8	ein	eine	ART	*	*	*	*
 9	Baumarkthändler	<unknown>	NN	*	*	*	*
 10	seine	sein	PPOSAT	*	*	*	*
-11	Zelte	Zelt	NN	2	2	2	2
-12	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+11	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+12	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971002.228
 # sent_id = 6203
 # text = Jeden Abend haben wir unsere Zelte in einem gewissen Abstand zu den Salzmännern aufgeschlagen , um sie und die Tiere nicht zu stören .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jeden	jede	PIAT	*	*	*	*
@@ -2498,7 +2574,7 @@
 3	haben	haben	VAFIN	*	*	*	*
 4	wir	wir	PPER	*	*	*	*
 5	unsere	unser	PPOSAT	*	*	*	*
-6	Zelte	Zelt	NN	1	1	1	1
+6	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 7	in	in	APPR	*	*	*	*
 8	einem	eine	ART	*	*	*	*
 9	gewissen	gewiss	ADJA	*	*	*	*
@@ -2506,7 +2582,7 @@
 11	zu	zu	APPR	*	*	*	*
 12	den	die	ART	*	*	*	*
 13	Salzmännern	<unknown>	NN	*	*	*	*
-14	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+14	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 15	,	,	$,	*	*	*	*
 16	um	um	KOUI	*	*	*	*
 17	sie	sie	PPER	*	*	*	*
@@ -2521,6 +2597,7 @@
 # tuepp_article_id = T971031.96
 # sent_id = 6204
 # text = Dort haben hungerstreikende rumänische Revolutionäre Anfang Oktober ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dort	dort	ADV	*	*	*	*
@@ -2531,13 +2608,14 @@
 6	Anfang	Anfang	NN	*	*	*	*
 7	Oktober	Oktober	NN	*	*	*	*
 8	ihre	ihr	PPOSAT	*	*	*	*
-9	Zelte	Zelt	NN	1	1	1	1
-10	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+9	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+10	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970906.121
 # sent_id = 6205
 # text = Mittlerweile ist das " Meerkabarett " , das bereits zum vierten Mal sein Zelt auf der Insel aufschlägt und von den " Fliegenden Bauten Produktionen " aus Hamburg organisiert wird , zu einer feststehenden Einrichtung geworden .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mittlerweile	mittlerweile	ADV	*	*	*	*
@@ -2553,11 +2631,11 @@
 11	vierten	viert	ADJA	*	*	*	*
 12	Mal	Mal	NN	*	*	*	*
 13	sein	sein	PPOSAT	*	*	*	*
-14	Zelt	Zelt	NN	4	2	2	2
+14	Zelt	Zelt	NN	BOTH	FIG	FIG	FIG
 15	auf	auf	APPR	*	*	*	*
 16	der	die	ART	*	*	*	*
 17	Insel	Insel	NN	*	*	*	*
-18	aufschlägt	aufschlagen	VVFIN	4	2	2	2
+18	aufschlägt	aufschlagen	VVFIN	BOTH	FIG	FIG	FIG
 19	und	und	KON	*	*	*	*
 20	von	von	APPR	*	*	*	*
 21	den	die	ART	*	*	*	*
@@ -2581,6 +2659,7 @@
 # tuepp_article_id = T970726.114
 # sent_id = 6206
 # text = Unten am Strand haben sie Zelte aufgeschlagen , vor denen sie , manche haben sogar ihre Kinder dabei , Marihuana rauchen und den ganzen Tag reglos in der Sonne liegen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Unten	unten	ADV	*	*	*	*
@@ -2588,8 +2667,8 @@
 3	Strand	Strand	NN	*	*	*	*
 4	haben	haben	VAFIN	*	*	*	*
 5	sie	sie	PPER	*	*	*	*
-6	Zelte	Zelt	NN	1	1	1	1
-7	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+6	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
+7	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 8	,	,	$,	*	*	*	*
 9	vor	vor	APPR	*	*	*	*
 10	denen	die	PRELS	*	*	*	*
@@ -2618,6 +2697,7 @@
 # tuepp_article_id = T970721.171
 # sent_id = 6207
 # text = Seit der sogenannte Kanzler mit einem einfachen Spatenstich das größte Freizeitvergnügen , den Sonntagsmittagskick vor dem Reichstag , einfach unterbunden hat und das Tempodrom seine neuen Zelte auf dem Platz vor dem Anhalter Bahnhof aufzuschlagen plant , ist man auf der Suche nach einer neuen adäquaten Freizeitbeschäftigung und hat sie nun also am Rande des Volksparks Friedrichshain , auf der Werneuchener Wiese , gefunden .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Unten	unten	ADV	*	*	*	*
@@ -2625,8 +2705,8 @@
 3	Strand	Strand	NN	*	*	*	*
 4	haben	haben	VAFIN	*	*	*	*
 5	sie	sie	PPER	*	*	*	*
-6	Zelte	Zelt	NN	1	2	2	2
-7	aufgeschlagen	aufschlagen	VVPP	1	2	2	2
+6	Zelte	Zelt	NN	LIT	FIG	FIG	FIG
+7	aufgeschlagen	aufschlagen	VVPP	LIT	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	vor	vor	APPR	*	*	*	*
 10	denen	die	PRELS	*	*	*	*
@@ -2655,6 +2735,7 @@
 # tuepp_article_id = T970703.261
 # sent_id = 6208
 # text = Dieser West Port , für den das Zelt wieder am Deichtorplatz aufgeschlagen wird , könnte jedoch trotz eines nicht immer spannenden Programms künstlerisch wie kommerziell ein Erfolg werden .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dieser	dies	PDAT	*	*	*	*
@@ -2664,11 +2745,11 @@
 5	für	für	APPR	*	*	*	*
 6	den	die	PRELS	*	*	*	*
 7	das	die	ART	*	*	*	*
-8	Zelt	Zelt	NN	1	1	2	1
+8	Zelt	Zelt	NN	LIT	LIT	FIG	LIT
 9	wieder	wieder	ADV	*	*	*	*
 10	am	an	APPRART	*	*	*	*
 11	Deichtorplatz	Deichtorplatz	NN	*	*	*	*
-12	aufgeschlagen	aufschlagen	VVPP	1	1	2	1
+12	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	FIG	LIT
 13	wird	werden	VAFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	könnte	können	VMFIN	*	*	*	*
@@ -2690,6 +2771,7 @@
 # tuepp_article_id = T971205.355
 # sent_id = 6209
 # text = Und alle anderen , die ihre Zelte in der Hansestadt aufschlagen wollen , bräuchten sich doch nur an das großzügige Einwanderungsgesetz zu halten .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -2698,11 +2780,11 @@
 4	,	,	$,	*	*	*	*
 5	die	die	PRELS	*	*	*	*
 6	ihre	ihr	PPOSAT	*	*	*	*
-7	Zelte	Zelt	NN	2	2	2	2
+7	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 8	in	in	APPR	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Hansestadt	Hansestadt	NN	*	*	*	*
-11	aufschlagen	aufschlagen	VVINF	2	2	2	2
+11	aufschlagen	aufschlagen	VVINF	FIG	FIG	FIG	FIG
 12	wollen	wollen	VMFIN	*	*	*	*
 13	,	,	$,	*	*	*	*
 14	bräuchten	brauchen	VVFIN	*	*	*	*
@@ -2720,6 +2802,7 @@
 # tuepp_article_id = T940509.83
 # sent_id = 6210
 # text = Ihre siebenköpfige Familie hat hier seit 40 Jahren ihr Zelt aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Ihre	ihr	PPOSAT	*	*	*	*
@@ -2731,13 +2814,14 @@
 7	40	@card@	CARD	*	*	*	*
 8	Jahren	Jahr	NN	*	*	*	*
 9	ihr	ihr	PPOSAT	*	*	*	*
-10	Zelt	Zelt	NN	2	2	1	2
-11	aufgeschlagen	aufschlagen	VVPP	2	2	1	2
+10	Zelt	Zelt	NN	FIG	FIG	LIT	FIG
+11	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	LIT	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940905.243
 # sent_id = 6211
 # text = Eine Woche lang ist das schräge Stück ab heute auf den Osterdeichwiesen zu erleben , wo die Narrenkarawane ihre Zelte aufgeschlagen hat .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -2759,14 +2843,15 @@
 17	die	die	ART	*	*	*	*
 18	Narrenkarawane	<unknown>	NN	*	*	*	*
 19	ihre	ihr	PPOSAT	*	*	*	*
-20	Zelte	Zelt	NN	4	2	2	2
-21	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+20	Zelte	Zelt	NN	BOTH	FIG	FIG	FIG
+21	aufgeschlagen	aufschlagen	VVPP	BOTH	FIG	FIG	FIG
 22	hat	haben	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940118.162
 # sent_id = 6212
 # text = Berufsnarren , Pantomimen , Tänzer , Akrobaten und Clowns haben ab morgen bis 20. Januar ihre Zelte im Tagungszentrum Berlin-Mitte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berufsnarren	<unknown>	NN	*	*	*	*
@@ -2786,16 +2871,17 @@
 15	.	.	$.	*	*	*	*
 16	Januar	Januar	NN	*	*	*	*
 17	ihre	ihr	PPOSAT	*	*	*	*
-18	Zelte	Zelt	NN	4	2	2	2
+18	Zelte	Zelt	NN	BOTH	FIG	FIG	FIG
 19	im	in	APPRART	*	*	*	*
 20	Tagungszentrum	Tagungszentrum	NN	*	*	*	*
 21	Berlin-Mitte	Berlin-Mitte	NN	*	*	*	*
-22	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+22	aufgeschlagen	aufschlagen	VVPP	BOTH	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940716.59
 # sent_id = 6213
 # text = Zuvor hatte man sich in Trebel getroffen , wo jetzt die Bewohner des geräumten Hüttendorfes ihre Zelte aufgeschlagen haben : " das Castornix im Exil " .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zuvor	zuvor	ADV	*	*	*	*
@@ -2814,8 +2900,8 @@
 14	geräumten	geräumt	ADJA	*	*	*	*
 15	Hüttendorfes	Hüttendorf	NN	*	*	*	*
 16	ihre	ihr	PPOSAT	*	*	*	*
-17	Zelte	Zelt	NN	4	2	2	2
-18	aufgeschlagen	aufschlagen	VVPP	4	2	2	2
+17	Zelte	Zelt	NN	BOTH	FIG	FIG	FIG
+18	aufgeschlagen	aufschlagen	VVPP	BOTH	FIG	FIG	FIG
 19	haben	haben	VAFIN	*	*	*	*
 20	:	:	$.	*	*	*	*
 21	"	"	$(	*	*	*	*
@@ -2829,6 +2915,7 @@
 # tuepp_article_id = T940726.121
 # sent_id = 6214
 # text = Der Mann aus Faenza , bester Juniorenspieler , hat seine Zelte trotz Heimweh artig in Wien und Monte Carlo aufgeschlagen und darf sich jetzt immerhin darüber freuen , daß seine Landsleute , für die ein anständiger Ball immer mit dem Fuß und nicht mit dem Schläger befördert wird , von seiner ersten Finalteilnahme in Kenntnis gesetzt wurden : Das Sportblatt schlechthin , Gazzetta dello sport , hat den verlorenen Sohn Andrea Gaudenzi via Telefon zum Interview gebeten .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -2841,7 +2928,7 @@
 8	,	,	$,	*	*	*	*
 9	hat	haben	VAFIN	*	*	*	*
 10	seine	sein	PPOSAT	*	*	*	*
-11	Zelte	Zelt	NN	2	2	2	2
+11	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 12	trotz	trotz	APPR	*	*	*	*
 13	Heimweh	Heimweh	NN	*	*	*	*
 14	artig	artig	ADJD	*	*	*	*
@@ -2850,7 +2937,7 @@
 17	und	und	KON	*	*	*	*
 18	Monte	Monte	NE	*	*	*	*
 19	Carlo	Carlo	NE	*	*	*	*
-20	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+20	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 21	und	und	KON	*	*	*	*
 22	darf	dürfen	VMFIN	*	*	*	*
 23	sich	sich	PRF	*	*	*	*
@@ -2913,6 +3000,7 @@
 # tuepp_article_id = T940317.91
 # sent_id = 6215
 # text = " Leicht mulmig in der Magengegend " wird es Berninger dennoch , wenn er daran denkt , nach dem ersten Staatsexamen im Herbst tatsächlich seine Zelte in Bonn aufschlagen zu müssen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2940,10 +3028,10 @@
 23	Herbst	Herbst	NN	*	*	*	*
 24	tatsächlich	tatsächlich	ADJD	*	*	*	*
 25	seine	sein	PPOSAT	*	*	*	*
-26	Zelte	Zelt	NN	2	2	2	2
+26	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 27	in	in	APPR	*	*	*	*
 28	Bonn	Bonn	NE	*	*	*	*
-29	aufschlagen	aufschlagen	VVINF	2	2	2	2
+29	aufschlagen	aufschlagen	VVINF	FIG	FIG	FIG	FIG
 30	zu	zu	PTKZU	*	*	*	*
 31	müssen	müssen	VMINF	*	*	*	*
 32	.	.	$.	*	*	*	*
@@ -2951,6 +3039,7 @@
 # tuepp_article_id = T941124.53
 # sent_id = 6216
 # text = Dafür müssen sie allerdings bereit sein , künftig an einem anderen der sechs VW-Standorte in Deutschland ihre Zelte aufzuschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2978,10 +3067,10 @@
 23	Herbst	Herbst	NN	*	*	*	*
 24	tatsächlich	tatsächlich	ADJD	*	*	*	*
 25	seine	sein	PPOSAT	*	*	*	*
-26	Zelte	Zelt	NN	2	2	2	2
+26	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 27	in	in	APPR	*	*	*	*
 28	Bonn	Bonn	NE	*	*	*	*
-29	aufschlagen	aufschlagen	VVINF	2	2	2	2
+29	aufschlagen	aufschlagen	VVINF	FIG	FIG	FIG	FIG
 30	zu	zu	PTKZU	*	*	*	*
 31	müssen	müssen	VMINF	*	*	*	*
 32	.	.	$.	*	*	*	*
@@ -2989,6 +3078,7 @@
 # tuepp_article_id = T950515.104
 # sent_id = 6217
 # text = Damals waren die Stämme aus allen Teilen des Landes in Omdurman zusammengekommen , um dort ihre Zelte aufzuschlagen , und das von den Briten besetzte Khartum am jenseitigen Ufer zu belagern und am Ende zu erobern .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3016,10 +3106,10 @@
 23	Herbst	Herbst	NN	*	*	*	*
 24	tatsächlich	tatsächlich	ADJD	*	*	*	*
 25	seine	sein	PPOSAT	*	*	*	*
-26	Zelte	Zelt	NN	2	2	2	2
+26	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 27	in	in	APPR	*	*	*	*
 28	Bonn	Bonn	NE	*	*	*	*
-29	aufschlagen	aufschlagen	VVINF	2	2	2	2
+29	aufschlagen	aufschlagen	VVINF	FIG	FIG	FIG	FIG
 30	zu	zu	PTKZU	*	*	*	*
 31	müssen	müssen	VMINF	*	*	*	*
 32	.	.	$.	*	*	*	*
@@ -3027,6 +3117,7 @@
 # tuepp_article_id = T950608.184
 # sent_id = 6218
 # text = Die Magnetschnellbahn Planungsgesellschaft GmbH hat im Oktober vergangenen Jahres bereits ihre Zelte in Schwerin und dann in Hamburg aufgeschlagen , heute soll ein Büro in Reinickendorf an der Nonnendammallee eröffnet werden .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3040,14 +3131,14 @@
 9	Jahres	Jahr	NN	*	*	*	*
 10	bereits	bereits	ADV	*	*	*	*
 11	ihre	ihr	PPOSAT	*	*	*	*
-12	Zelte	Zelt	NN	2	2	2	2
+12	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
 13	in	in	APPR	*	*	*	*
 14	Schwerin	Schwerin	NE	*	*	*	*
 15	und	und	KON	*	*	*	*
 16	dann	dann	ADV	*	*	*	*
 17	in	in	APPR	*	*	*	*
 18	Hamburg	Hamburg	NE	*	*	*	*
-19	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+19	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	heute	heute	ADV	*	*	*	*
 22	soll	sollen	VMFIN	*	*	*	*
@@ -3065,6 +3156,7 @@
 # tuepp_article_id = T950715.69
 # sent_id = 6219
 # text = Tomislavgrad ( taz ) - In einem Talkessel in der Nähe von Tomislavgrad in der Westherzegowina haben die französischen Truppen ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Tomislavgrad	<unknown>	NE	*	*	*	*
@@ -3088,13 +3180,14 @@
 19	französischen	französisch	ADJA	*	*	*	*
 20	Truppen	Truppe	NN	*	*	*	*
 21	ihre	ihr	PPOSAT	*	*	*	*
-22	Zelte	Zelt	NN	4	1	2	3
-23	aufgeschlagen	aufschlagen	VVPP	4	1	2	3
+22	Zelte	Zelt	NN	BOTH	LIT	FIG	UND
+23	aufgeschlagen	aufschlagen	VVPP	BOTH	LIT	FIG	UND
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950725.95
 # sent_id = 6220
 # text = Heruntergetraut haben sie sich erst wieder , als Anfang März die ersten unabhängigen " Friedensbeobachter " ihre Zelte im Dorf aufschlugen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Heruntergetraut	<unknown>	NE	*	*	*	*
@@ -3114,15 +3207,16 @@
 15	Friedensbeobachter	Friedensbeobachter	NN	*	*	*	*
 16	"	"	$(	*	*	*	*
 17	ihre	ihr	PPOSAT	*	*	*	*
-18	Zelte	Zelt	NN	4	2	2	2
+18	Zelte	Zelt	NN	BOTH	FIG	FIG	FIG
 19	im	in	APPRART	*	*	*	*
 20	Dorf	Dorf	NN	*	*	*	*
-21	aufschlugen	aufschlagen	VVFIN	4	2	2	2
+21	aufschlugen	aufschlagen	VVFIN	BOTH	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950724.181
 # sent_id = 6221
 # text = Sie gastierten bereits in Amsterdam und München und haben jetzt für zwei Wochen auf dem Potsdamer Platz ihr strahlendweißes Zelt aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -3144,13 +3238,14 @@
 17	Platz	Platz	NN	*	*	*	*
 18	ihr	ihr	PPOSAT	*	*	*	*
 19	strahlendweißes	<unknown>	ADJA	*	*	*	*
-20	Zelt	Zelt	NN	1	1	1	1
-21	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+20	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+21	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951215.245
 # sent_id = 6222
 # text = Und nun bietet man Ihnen an , daß Sie in Ihrem eigenen Hinterhof ein Zelt aufschlagen dürfen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Und	und	KON	*	*	*	*
@@ -3167,14 +3262,15 @@
 12	eigenen	eigen	ADJA	*	*	*	*
 13	Hinterhof	Hinterhof	NN	*	*	*	*
 14	ein	eine	ART	*	*	*	*
-15	Zelt	Zelt	NN	1	1	1	1
-16	aufschlagen	aufschlagen	VVINF	1	1	1	1
+15	Zelt	Zelt	NN	LIT	LIT	LIT	LIT
+16	aufschlagen	aufschlagen	VVINF	LIT	LIT	LIT	LIT
 17	dürfen	dürfen	VMINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950831.198
 # sent_id = 6223
 # text = Auch die Fernsehsender haben an jeder Ecke ihre Zelte aufgeschlagen : " Und hier ist er : Max Schautzer !
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -3185,8 +3281,8 @@
 6	jeder	jede	PIAT	*	*	*	*
 7	Ecke	Ecke	NN	*	*	*	*
 8	ihre	ihr	PPOSAT	*	*	*	*
-9	Zelte	Zelt	NN	2	1	2	2
-10	aufgeschlagen	aufschlagen	VVPP	2	1	2	2
+9	Zelte	Zelt	NN	FIG	LIT	FIG	FIG
+10	aufgeschlagen	aufschlagen	VVPP	FIG	LIT	FIG	FIG
 11	:	:	$.	*	*	*	*
 12	"	"	$(	*	*	*	*
 13	Und	und	KON	*	*	*	*
@@ -3201,6 +3297,7 @@
 # tuepp_article_id = T950821.97
 # sent_id = 6224
 # text = Am Ende sind es etwa dreitausend Menschen , die ihre Zelte und Tipis auf der Wiese und in den angrenzenden Waldstreifen aufgeschlagen haben .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -3213,7 +3310,7 @@
 8	,	,	$,	*	*	*	*
 9	die	die	PRELS	*	*	*	*
 10	ihre	ihr	PPOSAT	*	*	*	*
-11	Zelte	Zelt	NN	1	1	1	1
+11	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 12	und	und	KON	*	*	*	*
 13	Tipis	<unknown>	NN	*	*	*	*
 14	auf	auf	APPR	*	*	*	*
@@ -3224,13 +3321,14 @@
 19	den	die	ART	*	*	*	*
 20	angrenzenden	angrenzend	ADJA	*	*	*	*
 21	Waldstreifen	Waldstreifen	NN	*	*	*	*
-22	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+22	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 23	haben	haben	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950327.220
 # sent_id = 6225
 # text = Um die großen Kulturdörfer - Bremer Theater , Philharmonusche Gesellschaft , Kunstverein - haben sich Kulturbeduinen niedergelassen und ihre Zelte aufgeschlagen .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	APPR	*	*	*	*
@@ -3252,13 +3350,14 @@
 17	niedergelassen	niederlassen	VVPP	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	ihre	ihr	PPOSAT	*	*	*	*
-20	Zelte	Zelt	NN	2	2	2	2
-21	aufgeschlagen	aufschlagen	VVPP	2	2	2	2
+20	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+21	aufgeschlagen	aufschlagen	VVPP	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951106.175
 # sent_id = 6226
 # text = Das Versprechen wurde nun mit Hilfe aller Medien in die deutsche Welt hinaustrompetet : Er komme ohne Lisa Presley , seine Frau werde in einem Kölner Hotel eine ganze Suite belegen , zudem würden seine Fans mit Getränken versorgt , wenn sie ihre Zelte vor der Herberge aufgeschlagen haben .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -3304,17 +3403,18 @@
 41	wenn	wenn	KOUS	*	*	*	*
 42	sie	sie	PPER	*	*	*	*
 43	ihre	ihr	PPOSAT	*	*	*	*
-44	Zelte	Zelt	NN	1	1	1	1
+44	Zelte	Zelt	NN	LIT	LIT	LIT	LIT
 45	vor	vor	APPR	*	*	*	*
 46	der	die	ART	*	*	*	*
 47	Herberge	Herberge	NN	*	*	*	*
-48	aufgeschlagen	aufschlagen	VVPP	1	1	1	1
+48	aufgeschlagen	aufschlagen	VVPP	LIT	LIT	LIT	LIT
 49	haben	haben	VAFIN	*	*	*	*
 50	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990205.198
 # sent_id = 6227
 # text = Wo das Temprodrom in der Zwischenzeit seine Zelte aufschlagen kann , ist nach wie vor unklar .
+# vid_types = zelt aufschlagen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wo	wo	PWAV	*	*	*	*
@@ -3324,8 +3424,8 @@
 5	der	die	ART	*	*	*	*
 6	Zwischenzeit	Zwischenzeit	NN	*	*	*	*
 7	seine	sein	PPOSAT	*	*	*	*
-8	Zelte	Zelt	NN	2	2	2	2
-9	aufschlagen	aufschlagen	VVINF	2	2	2	2
+8	Zelte	Zelt	NN	FIG	FIG	FIG	FIG
+9	aufschlagen	aufschlagen	VVINF	FIG	FIG	FIG	FIG
 10	kann	können	VMFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	ist	sein	VAFIN	*	*	*	*

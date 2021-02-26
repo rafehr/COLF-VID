@@ -1,10 +1,11 @@
 # tuepp_article_id = T980429.196
 # sent_id = 324
 # text = Damit stehen erstmals bei der Vergabe des Preises , der zur Überwindung der Ungerechtigkeit im Nord-Süd-Verhältnis gestiftet wurde und der bislang vor allem an prominente Oppositionelle wie einst Nelson und Winnie Mandela ( 1988 ) oder die birmesische Regimekritikerin und Friedensnobelpreisträgerin Aung San Sunkyi ( 1994 ) ging , auch Mißstände in Deutschland am Pranger : Während die Bremer Jury das Projekt " Schule ohne Rassismus " lobte , an dem bundesweit über 100 Schulen beteiligen , kritisierte die deutsche Preisträgerin Erler gestern die Gewöhnung " an rassistische Ungeheuerlichkeiten " .
+# vid_types = an pranger stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	stehen	stehen	VVFIN	2	2	2	2
+2	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 3	erstmals	erstmals	ADV	*	*	*	*
 4	bei	bei	APPR	*	*	*	*
 5	der	die	ART	*	*	*	*
@@ -56,8 +57,8 @@
 51	Mißstände	Missstand	NN	*	*	*	*
 52	in	in	APPR	*	*	*	*
 53	Deutschland	Deutschland	NE	*	*	*	*
-54	am	an	APPRART	2	2	2	2
-55	Pranger	Pranger	NN	2	2	2	2
+54	am	an	APPRART	FIG	FIG	FIG	FIG
+55	Pranger	Pranger	NN	FIG	FIG	FIG	FIG
 56	:	:	$.	*	*	*	*
 57	Während	während	KOUS	*	*	*	*
 58	die	die	ART	*	*	*	*
@@ -98,15 +99,16 @@
 # tuepp_article_id = T970531.312
 # sent_id = 325
 # text = Vereinskassierer Jürgen Engel hingegen steht am Pranger , weil er bei den Ost-Immobilien-Investitionen nicht ausschließlich an das Wohlergehen des HSV gedacht haben soll , sondern auch ans eigene .
+# vid_types = an pranger stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vereinskassierer	Vereinskassierer	NN	*	*	*	*
 2	Jürgen	<unknown>	NE	*	*	*	*
 3	Engel	Engel	NE	*	*	*	*
 4	hingegen	hingegen	ADV	*	*	*	*
-5	steht	stehen	VVFIN	2	2	2	2
-6	am	an	APPRART	2	2	2	2
-7	Pranger	Pranger	NN	2	2	2	2
+5	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
+6	am	an	APPRART	FIG	FIG	FIG	FIG
+7	Pranger	Pranger	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	weil	weil	KOUS	*	*	*	*
 10	er	er	PPER	*	*	*	*
@@ -133,6 +135,7 @@
 # tuepp_article_id = T940402.78
 # sent_id = 326
 # text = Innerhalb der Anti-Mafia-Bewegung " la Rete " steht deren Gründer und Führer Leoluca Orlando , noch vor acht Monaten triumphal zum Bürgermeister von Palermo gewählt , wegen des Scheiterns seiner Partei an der Vierprozentklausel ebenso am Pranger wie bei den Grünen Carlo Ripa di Meana , der durch Konzessionen an die Bündnispartner " Die Fortschrittlichen " die eigene Identität und damit seine Stammkundschaft verloren hat .
+# vid_types = an pranger stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Innerhalb	innerhalb	APPR	*	*	*	*
@@ -142,7 +145,7 @@
 5	la	la	FM	*	*	*	*
 6	Rete	<unknown>	NN	*	*	*	*
 7	"	"	$(	*	*	*	*
-8	steht	stehen	VVFIN	2	2	2	2
+8	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 9	deren	die	PDAT	*	*	*	*
 10	Gründer	Gründer	NN	*	*	*	*
 11	und	und	KON	*	*	*	*
@@ -170,8 +173,8 @@
 33	der	die	ART	*	*	*	*
 34	Vierprozentklausel	Vierprozentklausel	NN	*	*	*	*
 35	ebenso	ebenso	ADV	*	*	*	*
-36	am	an	APPRART	2	2	2	2
-37	Pranger	Pranger	NN	2	2	2	2
+36	am	an	APPRART	FIG	FIG	FIG	FIG
+37	Pranger	Pranger	NN	FIG	FIG	FIG	FIG
 38	wie	wie	KOKOM	*	*	*	*
 39	bei	bei	APPR	*	*	*	*
 40	den	die	ART	*	*	*	*
@@ -205,6 +208,7 @@
 # tuepp_article_id = T950117.116
 # sent_id = 327
 # text = Auch wenn es für einige Kommissare ziemlich ungewohnt und wenig schmeichelhaft ist , so am Pranger zu stehen , auch wenn der Kommissionspräsident wie ein getretener Hund aufjaulte , unterm Strich hat die Kommission durch die Anhörungen an Profil gewonnen .
+# vid_types = an pranger stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -221,10 +225,10 @@
 12	ist	sein	VAFIN	*	*	*	*
 13	,	,	$,	*	*	*	*
 14	so	so	ADV	*	*	*	*
-15	am	an	APPRART	2	2	2	2
-16	Pranger	Pranger	NN	2	2	2	2
+15	am	an	APPRART	FIG	FIG	FIG	FIG
+16	Pranger	Pranger	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	stehen	stehen	VVINF	2	2	2	2
+18	stehen	stehen	VVINF	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	auch	auch	ADV	*	*	*	*
 21	wenn	wenn	KOUS	*	*	*	*
@@ -252,14 +256,15 @@
 # tuepp_article_id = T950722.83
 # sent_id = 328
 # text = Doch diesmal stehen Großkonzerne am Pranger , die ihre Produkte an die breite Öffentlichkeit verkaufen wollen .
+# vid_types = an pranger stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
 2	diesmal	diesmal	ADV	*	*	*	*
-3	stehen	stehen	VVFIN	2	2	2	2
+3	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	Großkonzerne	Großkonzern	NN	*	*	*	*
-5	am	an	APPRART	2	2	2	2
-6	Pranger	Pranger	NN	2	2	2	2
+5	am	an	APPRART	FIG	FIG	FIG	FIG
+6	Pranger	Pranger	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	die	die	PRELS	*	*	*	*
 9	ihre	ihr	PPOSAT	*	*	*	*

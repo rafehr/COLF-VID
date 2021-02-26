@@ -1,6 +1,7 @@
 # tuepp_article_id = T890508.57
 # sent_id = 4065
 # text = Und die Schiffe tuteten und die Feuerlöschboote spritzten ihre Fontänen und die Fallschirmspringer taten es ihnen nach , wenn sie statt auf die Pontons in der Elbe ins Wasser fielen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -30,27 +31,29 @@
 25	in	in	APPR	*	*	*	*
 26	der	die	ART	*	*	*	*
 27	Elbe	Elbe	NE	*	*	*	*
-28	ins	in	APPRART	1	1	1	1
-29	Wasser	Wasser	NN	1	1	1	1
-30	fielen	fallen	VVFIN	1	1	1	1
+28	ins	in	APPRART	LIT	LIT	LIT	LIT
+29	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+30	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890605.31
 # sent_id = 4066
 # text = In München fiel der Anti-WAA-Jubel ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	München	München	NE	*	*	*	*
-3	fiel	fallen	VVFIN	2	2	2	2
+3	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 4	der	die	ART	*	*	*	*
 5	Anti-WAA-Jubel	<unknown>	NN	*	*	*	*
-6	ins	in	APPRART	2	2	2	2
-7	Wasser	Wasser	NN	2	2	2	2
+6	ins	in	APPRART	FIG	FIG	FIG	FIG
+7	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T890605.31
 # sent_id = 4067
 # text = Redebeiträge des BUND-Vorsitzenden Hubert Weinzierl und eines Bruders des israelischen Atomspions Meir Vanunu fallen ebenso ins Wasser wie der im Vorfeld der Demonstration heftig umstrittene Beitrag von Ingrid Strobl .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Redebeiträge	Redebeitrag	NN	*	*	*	*
@@ -66,10 +69,10 @@
 11	Atomspions	<unknown>	NN	*	*	*	*
 12	Meir	<unknown>	NE	*	*	*	*
 13	Vanunu	<unknown>	NE	*	*	*	*
-14	fallen	fallen	VVFIN	2	2	2	2
+14	fallen	fallen	VVFIN	FIG	FIG	FIG	FIG
 15	ebenso	ebenso	ADV	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	wie	wie	KOKOM	*	*	*	*
 19	der	die	ART	*	*	*	*
 20	im	in	APPRART	*	*	*	*
@@ -87,6 +90,7 @@
 # tuepp_article_id = T890911.109
 # sent_id = 4068
 # text = Doch die freudig vorgefeierte Premiere des Olympiastadions , seit Wochen als wettbewerbsreif gepriesen , fällt nicht nur wegen des nach unten ausschlagenden Barometers buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -103,7 +107,7 @@
 12	wettbewerbsreif	<unknown>	ADJD	*	*	*	*
 13	gepriesen	preis	VVPP	*	*	*	*
 14	,	,	$,	*	*	*	*
-15	fällt	fallen|fällen	VVFIN	2	2	2	2
+15	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 16	nicht	nicht	PTKNEG	*	*	*	*
 17	nur	nur	ADV	*	*	*	*
 18	wegen	wegen	APPR	*	*	*	*
@@ -113,21 +117,22 @@
 22	ausschlagenden	ausschlagend	ADJA	*	*	*	*
 23	Barometers	Barometer	NN	*	*	*	*
 24	buchstäblich	buchstäblich	ADJD	*	*	*	*
-25	ins	in	APPRART	2	2	2	2
-26	Wasser	Wasser	NN	2	2	2	2
+25	ins	in	APPRART	FIG	FIG	FIG	FIG
+26	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890411.203
 # sent_id = 4069
 # text = " Der Kopf fällt ins Wasser , und die Tiere ertrinken " , sagte Wollenzien , " an Land ersticken sie .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
 2	Der	die	ART	*	*	*	*
 3	Kopf	Kopf	NN	*	*	*	*
-4	fällt	fallen|fällen	VVFIN	1	1	1	1
-5	ins	in	APPRART	1	1	1	1
-6	Wasser	Wasser	NN	1	1	1	1
+4	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
+5	ins	in	APPRART	LIT	LIT	LIT	LIT
+6	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 7	,	,	$,	*	*	*	*
 8	und	und	KON	*	*	*	*
 9	die	die	ART	*	*	*	*
@@ -148,6 +153,7 @@
 # tuepp_article_id = T890424.23
 # sent_id = 4070
 # text = Frankfurt ( taz ) - Weitgehend ins Wasser fiel am Samstag eine Demonstration gegen den Paragraphen 129a , Isolationshaft und für die Zusammenlegung der RAF-Gefangenen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Frankfurt	Frankfurt	NE	*	*	*	*
@@ -156,9 +162,9 @@
 4	)	)	$(	*	*	*	*
 5	-	-	$(	*	*	*	*
 6	Weitgehend	weitgehend	ADJD	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
-9	fiel	fallen	VVFIN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+9	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 10	am	an	APPRART	*	*	*	*
 11	Samstag	Samstag	NN	*	*	*	*
 12	eine	eine	ART	*	*	*	*
@@ -180,6 +186,7 @@
 # tuepp_article_id = T890705.78
 # sent_id = 4071
 # text = Dann würde auch das mit den USA abgesprochene Wahlprojekt ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -191,14 +198,15 @@
 7	USA	USA	NE	*	*	*	*
 8	abgesprochene	abgesprochen	ADJA	*	*	*	*
 9	Wahlprojekt	Wahlprojekt	NN	*	*	*	*
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
-12	fallen	fallen	VVINF	2	2	2	2
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+12	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890717.217
 # sent_id = 4072
 # text = Es ist ja gar keine Gefahr , daß der Staat hier zuviel und die Industrie zu wenig macht , denn der Staat tut doch in Bremen so gut wie gar nichts , und ohne Sponsoring wäre die Breminale kläglich ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -240,14 +248,15 @@
 37	die	die	ART	*	*	*	*
 38	Breminale	<unknown>	NN	*	*	*	*
 39	kläglich	kläglich	ADJD	*	*	*	*
-40	ins	in	APPRART	2	2	2	2
-41	Wasser	Wasser	NN	2	2	2	2
-42	gefallen	fallen|gefallen	VVPP	2	2	2	2
+40	ins	in	APPRART	FIG	FIG	FIG	FIG
+41	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+42	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 43	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890306.73
 # sent_id = 4073
 # text = Ein Scherzbold gab sich beim Kölner Sender als Bochumer Geschäftsstelle aus , ließ das Spiel ins Wasser fallen und hinterließ eine Telefonnummer .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -265,9 +274,9 @@
 13	ließ	lassen	VVFIN	*	*	*	*
 14	das	die	ART	*	*	*	*
 15	Spiel	Spiel	NN	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
-18	fallen	fallen	VVINF	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+18	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 19	und	und	KON	*	*	*	*
 20	hinterließ	hinterlassen	VVFIN	*	*	*	*
 21	eine	eine	ART	*	*	*	*
@@ -277,13 +286,14 @@
 # tuepp_article_id = T890318.139
 # sent_id = 4074
 # text = Fällt der Föhn ins Wasser ( Achtung : Herzstillstand wg .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-1	Fällt	fallen|fällen	VVFIN	1	1	1	1
+1	Fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 2	der	die	ART	*	*	*	*
 3	Föhn	Föhn	NN	*	*	*	*
-4	ins	in	APPRART	1	1	1	1
-5	Wasser	Wasser	NN	1	1	1	1
+4	ins	in	APPRART	LIT	LIT	LIT	LIT
+5	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 6	(	(	$(	*	*	*	*
 7	Achtung	Achtung	NN	*	*	*	*
 8	:	:	$.	*	*	*	*
@@ -294,6 +304,7 @@
 # tuepp_article_id = T891118.197
 # sent_id = 4075
 # text = Ob als Jahresring im Stamm eines Baumes , als Wellenbewegung um den Tropfen , der ins Wasser fiel , ob auf der Oberfläche der Schale eines Seeigels oder in der Anordnung der Blütenblätter einer Blume - immer wiederholen sich zwei Gestaltungsprinzipien ( und vermischen sich auch , beispielsweise in der so häufigen Spirale ) : die konzentrische Schichtung und die radiale Reihung .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ob	ob	ADV	*	*	*	*
@@ -311,9 +322,9 @@
 13	Tropfen	Tropfen	NN	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	der	die	PRELS	*	*	*	*
-16	ins	in	APPRART	1	1	1	1
-17	Wasser	Wasser	NN	1	1	1	1
-18	fiel	fallen	VVFIN	1	1	1	1
+16	ins	in	APPRART	LIT	LIT	LIT	LIT
+17	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+18	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 19	,	,	$,	*	*	*	*
 20	ob	ob	KOUS	*	*	*	*
 21	auf	auf	APPR	*	*	*	*
@@ -363,6 +374,7 @@
 # tuepp_article_id = T890206.90
 # sent_id = 4076
 # text = Die geplagte Stippvisite der Kulturminister Spaniens und Frankreichs in Angouleme fiel freilich ins Wasser : Sein spanischer Amtskollege Jorge Sempron sagte in letzter Minute ab , also mußte Jack Lang allein durch die Messezelte promenieren .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -375,10 +387,10 @@
 8	Frankreichs	Frankreich	NE	*	*	*	*
 9	in	in	APPR	*	*	*	*
 10	Angouleme	<unknown>	NN	*	*	*	*
-11	fiel	fallen	VVFIN	2	2	2	2
+11	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 12	freilich	freilich	ADV	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 15	:	:	$.	*	*	*	*
 16	Sein	sein	PPOSAT	*	*	*	*
 17	spanischer	spanisch	ADJA	*	*	*	*
@@ -405,6 +417,7 @@
 # tuepp_article_id = T890202.28
 # sent_id = 4077
 # text = Aber nicht nur der Steakverkauf , auch die Aktionen gegen den Hormonstand , auf die sich Gruppen der Bauernopposition schon vorbereitet hatten , fielen ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -430,14 +443,15 @@
 21	vorbereitet	vorbereiten	VVPP	*	*	*	*
 22	hatten	haben	VAFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
-24	fielen	fallen	VVFIN	2	2	2	2
-25	ins	in	APPRART	2	2	2	2
-26	Wasser	Wasser	NN	2	2	2	2
+24	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
+25	ins	in	APPRART	FIG	FIG	FIG	FIG
+26	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910629.192
 # sent_id = 4078
 # text = Für " Peter den Großen " seien Millionen da , die Kunsthalle aber darbe , und das Schlimmste : Die fürs Jahresende geplante Auguste Rodin- Ausstellung drohe wegen Geldknappheit ins Wasser zu fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -469,15 +483,16 @@
 27	drohe	drohen	VVFIN	*	*	*	*
 28	wegen	wegen	APPR	*	*	*	*
 29	Geldknappheit	Geldknappheit	NN	*	*	*	*
-30	ins	in	APPRART	2	2	2	2
-31	Wasser	Wasser	NN	2	2	2	2
+30	ins	in	APPRART	FIG	FIG	FIG	FIG
+31	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 32	zu	zu	PTKZU	*	*	*	*
-33	fallen	fallen	VVINF	2	2	2	2
+33	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910626.40
 # sent_id = 4079
 # text = " Friederike Hamann von der NGBK hat allerdings nicht mit so einer heftigen Reaktion gerechnet ; nicht mit schwarzem Feigenblatt , schon gar nicht , daß ein Teil der Plakataktion ganz ins Wasser Wasser fällt , weil die S-Bahn-Werbung GmbH sich weigerte , " das Schamgefühl eines objektiven Betrachters zu verletzen " .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -511,9 +526,9 @@
 29	der	die	ART	*	*	*	*
 30	Plakataktion	Plakataktion	NN	*	*	*	*
 31	ganz	ganz	ADV	*	*	*	*
-32	ins	in	APPRART	2	2	2	2
-33	Wasser	Wasser	NN	2	2	2	2
-34	Wasser	Wasser	NN	2	2	2	2
+32	ins	in	APPRART	FIG	FIG	FIG	FIG
+33	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+34	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 35	fällt	fallen|fällen	VVFIN	*	*	*	*
 36	,	,	$,	*	*	*	*
 37	weil	weil	KOUS	*	*	*	*
@@ -537,6 +552,7 @@
 # tuepp_article_id = T910628.110
 # sent_id = 4080
 # text = Und auch die vorgezogenen Partien , die gestern um 12 Uhr beginnen sollten , fielen erst mal wieder ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Und	und	KON	*	*	*	*
@@ -553,17 +569,18 @@
 12	beginnen	beginnen	VVINF	*	*	*	*
 13	sollten	sollen	VMFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
-15	fielen	fallen	VVFIN	2	2	2	2
+15	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 16	erst	erst	ADV	*	*	*	*
 17	mal	mal	ADV	*	*	*	*
 18	wieder	wieder	ADV	*	*	*	*
-19	ins	in	APPRART	2	2	2	2
-20	Wasser	Wasser	NN	2	2	2	2
+19	ins	in	APPRART	FIG	FIG	FIG	FIG
+20	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910621.282
 # sent_id = 4081
 # text = Damit ist das vor einem halben Jahr von Kunick und Lemke-Schulte vorgestellte Projekt " Wohnen im Hafen " endgültig ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
@@ -585,14 +602,15 @@
 17	Hafen	Hafen	NN	*	*	*	*
 18	"	"	$(	*	*	*	*
 19	endgültig	endgültig	ADJD	*	*	*	*
-20	ins	in	APPRART	2	2	2	2
-21	Wasser	Wasser	NN	2	2	2	2
-22	gefallen	fallen|gefallen	VVPP	2	2	2	2
+20	ins	in	APPRART	FIG	FIG	FIG	FIG
+21	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+22	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911029.116
 # sent_id = 4082
 # text = Es jauchzt , wenn die Schauspieler ins Wasser fallen und nicht mehr rauskommen ; es freut sich über einen Tasso ( Peter Kremer ) , der wie der Frischling über die Bühne hüpft ; es kichert verwegen , wenn die Damen ihre Röcke heben und freie Einsicht gewähren .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Es	es	PPER	*	*	*	*
@@ -601,9 +619,9 @@
 4	wenn	wenn	KOUS	*	*	*	*
 5	die	die	ART	*	*	*	*
 6	Schauspieler	Schauspieler	NN	*	*	*	*
-7	ins	in	APPRART	1	1	1	1
-8	Wasser	Wasser	NN	1	1	1	1
-9	fallen	fallen	VVINF	1	1	1	1
+7	ins	in	APPRART	LIT	LIT	LIT	LIT
+8	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+9	fallen	fallen	VVINF	LIT	LIT	LIT	LIT
 10	und	und	KON	*	*	*	*
 11	nicht	nicht	PTKNEG	*	*	*	*
 12	mehr	mehr	ADV	*	*	*	*
@@ -648,21 +666,23 @@
 # tuepp_article_id = T911005.61
 # sent_id = 4083
 # text = Der Senatsstreit ums Tropenholz fiel somit ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Senatsstreit	Senatsstreit	NN	*	*	*	*
 3	ums	ums	APPRART	*	*	*	*
 4	Tropenholz	Tropenholz	NN	*	*	*	*
-5	fiel	fallen	VVFIN	2	2	2	2
+5	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 6	somit	somit	ADV	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910923.188
 # sent_id = 4084
 # text = Diese Aussicht schärfte auch die Bewerberinnen für das zweite Seminar ; doch die Senatsverwaltung für Frauen und Arbeit kürzte dem Träger Goldrausch kurzfristig die Mittel , so daß die Katalogpläne ins Wasser fielen und nur eine Postkarten-Edition als Trostpreis angekündigt ist .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	dies	PDAT	*	*	*	*
@@ -695,9 +715,9 @@
 28	daß	dass	KOUS	*	*	*	*
 29	die	die	ART	*	*	*	*
 30	Katalogpläne	<unknown>	NN	*	*	*	*
-31	ins	in	APPRART	2	2	2	2
-32	Wasser	Wasser	NN	2	2	2	2
-33	fielen	fallen	VVFIN	2	2	2	2
+31	ins	in	APPRART	FIG	FIG	FIG	FIG
+32	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+33	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 34	und	und	KON	*	*	*	*
 35	nur	nur	ADV	*	*	*	*
 36	eine	eine	ART	*	*	*	*
@@ -711,6 +731,7 @@
 # tuepp_article_id = T910124.205
 # sent_id = 4085
 # text = Schultze läßt die für Sonnabend geplanten Feierlichkeiten der Dramatiker-Union wegen des Golfkriegs ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schultze	Schultze	NE	*	*	*	*
@@ -725,14 +746,15 @@
 10	wegen	wegen	APPR	*	*	*	*
 11	des	die	ART	*	*	*	*
 12	Golfkriegs	Golfkrieg	NN	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
-15	fallen	fallen	VVINF	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+15	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910415.90
 # sent_id = 4086
 # text = Das Comeback des US-amerikanischen Schwimm-Opas Mark Spitz fiel nach 15 Jahren Pause ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -742,17 +764,18 @@
 5	Schwimm-Opas	<unknown>	NE	*	*	*	*
 6	Mark	Mark	NN	*	*	*	*
 7	Spitz	Spitz	NN	*	*	*	*
-8	fiel	fallen	VVFIN	2	2	2	2
+8	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 9	nach	nach	APPR	*	*	*	*
 10	15	@card@	CARD	*	*	*	*
 11	Jahren	Jahr	NN	*	*	*	*
 12	Pause	Pause	NN	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T910415.123
 # sent_id = 4087
 # text = Bei dem Versuch , an einem aus Klopapier gedrehten Seil ein Fünfmeter-Sprungbrett zu erklimmen , fiel er jämmerlich ins Wasser zurück .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -770,17 +793,18 @@
 13	zu	zu	PTKZU	*	*	*	*
 14	erklimmen	erklimmen	VVINF	*	*	*	*
 15	,	,	$,	*	*	*	*
-16	fiel	fallen	VVFIN	1	1	1	1
+16	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 17	er	er	PPER	*	*	*	*
 18	jämmerlich	jämmerlich	ADJD	*	*	*	*
-19	ins	in	APPRART	1	1	1	1
-20	Wasser	Wasser	NN	1	1	1	1
+19	ins	in	APPRART	LIT	LIT	LIT	LIT
+20	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 21	zurück	zurück	PTKVZ	*	*	*	*
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910423.101
 # sent_id = 4088
 # text = Der traditionelle Rettungsmechanismus für die jugoslawische Wirtschaft , der Adria-Tourismus , fällt in diesem Jahr ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -794,17 +818,18 @@
 9	der	die	ART	*	*	*	*
 10	Adria-Tourismus	<unknown>	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	fällt	fallen|fällen	VVFIN	2	2	2	2
+12	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 13	in	in	APPR	*	*	*	*
 14	diesem	dies	PDAT	*	*	*	*
 15	Jahr	Jahr	NN	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910424.189
 # sent_id = 4089
 # text = Zu vieles jedoch , darunter die mit Spannung erwartete Medienkollage " Herakles Höhle III " des Ex-DDRlers Lutz Dammbeck , ließ man ohne Vorankündigung sang- und klanglos ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zu	zu	APPR	*	*	*	*
@@ -834,14 +859,15 @@
 25	sang-	sang-	TRUNC	*	*	*	*
 26	und	und	KON	*	*	*	*
 27	klanglos	klanglos	ADJD	*	*	*	*
-28	ins	in	APPRART	2	2	2	2
-29	Wasser	Wasser	NN	2	2	2	2
-30	fallen	fallen	VVINF	2	2	2	2
+28	ins	in	APPRART	FIG	FIG	FIG	FIG
+29	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+30	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910703.214
 # sent_id = 4090
 # text = Wenn sich Berlin künftig - wie ein ins Wasser fallender Stein - ringförmig erweitern werde , solle dieser Entwicklung mit sogenannten Grünkeilen entgegengewirkt werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -851,9 +877,9 @@
 5	-	-	$(	*	*	*	*
 6	wie	wie	KOUS	*	*	*	*
 7	ein	eine	ART	*	*	*	*
-8	ins	in	APPRART	1	1	2	1
-9	Wasser	Wasser	NN	1	1	2	1
-10	fallender	fallend	ADJA	1	1	2	1
+8	ins	in	APPRART	LIT	LIT	FIG	LIT
+9	Wasser	Wasser	NN	LIT	LIT	FIG	LIT
+10	fallender	fallend	ADJA	LIT	LIT	FIG	LIT
 11	Stein	Stein	NN	*	*	*	*
 12	-	-	$(	*	*	*	*
 13	ringförmig	ringförmig	ADJD	*	*	*	*
@@ -873,6 +899,7 @@
 # tuepp_article_id = T910715.46
 # sent_id = 4091
 # text = Da das Besondere aber schon immer etwas teurer war , können Hannovers Expo- Gegner angesichts der Haushaltslagen in Bonn und Hannover noch darauf hoffen , daß die Möchtegernweltstadt an der Leine mit den Weltstädten Wien und Venedig gleichzieht und die Expo auch hier ins Wasser fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	KOUS	*	*	*	*
@@ -918,14 +945,15 @@
 41	Expo	Expo	NN	*	*	*	*
 42	auch	auch	ADV	*	*	*	*
 43	hier	hier	ADV	*	*	*	*
-44	ins	in	APPRART	2	2	2	2
-45	Wasser	Wasser	NN	2	2	2	2
-46	fällt	fallen|fällen	VVFIN	2	2	2	2
+44	ins	in	APPRART	FIG	FIG	FIG	FIG
+45	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+46	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 47	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910708.117
 # sent_id = 4092
 # text = Schon ab nachmittags flaniert man mit Kindern , Hunden und Freunden herum , sitzt , kauft , ißt und trinkt ( was dieses Jahr allerdings öfter ins Wasser fiel ) oder genießt diverse Kulturkulinarien bis in den späten Abend hinein .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
@@ -954,9 +982,9 @@
 24	Jahr	Jahr	NN	*	*	*	*
 25	allerdings	allerdings	ADV	*	*	*	*
 26	öfter	öfter	ADV	*	*	*	*
-27	ins	in	APPRART	2	2	2	2
-28	Wasser	Wasser	NN	2	2	2	2
-29	fiel	fallen	VVFIN	2	2	2	2
+27	ins	in	APPRART	FIG	FIG	FIG	FIG
+28	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+29	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 30	)	)	$(	*	*	*	*
 31	oder	oder	KON	*	*	*	*
 32	genießt	genießen	VVFIN	*	*	*	*
@@ -973,24 +1001,26 @@
 # tuepp_article_id = T911213.180
 # sent_id = 4093
 # text = Reeh : » Da fällt der ökologische Aspekt gänzlich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Reeh	<unknown>	NE	*	*	*	*
 2	:	:	$.	*	*	*	*
 3	»	<unknown>	ADJA	*	*	*	*
 4	Da	<unknown>	NN	*	*	*	*
-5	fällt	fallen|fällen	VVFIN	2	2	2	2
+5	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	ökologische	ökologisch	ADJA	*	*	*	*
 8	Aspekt	Aspekt	NN	*	*	*	*
 9	gänzlich	gänzlich	ADJD	*	*	*	*
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910322.23
 # sent_id = 4094
 # text = 1990 : Im Mai verliert Nordrhein-Westfalen gegen Bundesumweltminister Töpfer vor dem BVG in Karlsruhe : Die Neubewertung des umstrittensten Reaktors der Atomwirtschaft im Lichte von Tschernobyl fällt ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1990	@card@	CARD	*	*	*	*
@@ -1019,14 +1049,15 @@
 24	Lichte	Licht	NN	*	*	*	*
 25	von	von	APPR	*	*	*	*
 26	Tschernobyl	Tschernobyl	NE	*	*	*	*
-27	fällt	fallen|fällen	VVFIN	2	2	2	2
-28	ins	in	APPRART	2	2	2	2
-29	Wasser	Wasser	NN	2	2	2	2
+27	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
+28	ins	in	APPRART	FIG	FIG	FIG	FIG
+29	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910314.107
 # sent_id = 4095
 # text = " Dann , Udo , fällt die Eiskunstlauf-WM ins Wasser !
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1034,16 +1065,17 @@
 3	,	,	$,	*	*	*	*
 4	Udo	Udo	NE	*	*	*	*
 5	,	,	$,	*	*	*	*
-6	fällt	fallen|fällen	VVFIN	2	2	2	2
+6	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 7	die	die	ART	*	*	*	*
 8	Eiskunstlauf-WM	Eiskunstlauf-WM	NE	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 11	!	!	$.	*	*	*	*
 
 # tuepp_article_id = T911116.137
 # sent_id = 4096
 # text = Der vorläufige Autopsie-Bericht der spanischen Behörden war nach Angaben des ' Guardian ` nicht zur Feststellung gelangt , daß der Medienzar eines natürlichen Todes gestorben war , bevor er ins Wasser fiel .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1075,14 +1107,15 @@
 27	,	,	$,	*	*	*	*
 28	bevor	bevor	KOUS	*	*	*	*
 29	er	er	PPER	*	*	*	*
-30	ins	in	APPRART	1	1	1	1
-31	Wasser	Wasser	NN	1	1	1	1
-32	fiel	fallen	VVFIN	1	1	1	1
+30	ins	in	APPRART	LIT	LIT	LIT	LIT
+31	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+32	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911127.149
 # sent_id = 4097
 # text = Weil sich jedoch auf seiten der Wagenburgler kein Sprecherrat gebildet hatte , mußte dieses Vorhaben ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
@@ -1100,29 +1133,31 @@
 13	mußte	müssen	VMFIN	*	*	*	*
 14	dieses	dies	PDAT	*	*	*	*
 15	Vorhaben	Vorhaben	NN	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
-18	fallen	fallen	VVINF	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+18	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910201.31
 # sent_id = 4098
 # text = In diesem Jahr fällt der Spaß ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	diesem	dies	PDAT	*	*	*	*
 3	Jahr	Jahr	NN	*	*	*	*
-4	fällt	fallen|fällen	VVFIN	2	2	2	2
+4	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
 6	Spaß	Spaß	NN	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910213.23
 # sent_id = 4099
 # text = Die Verteidigung behauptete , daß Ndladla nur in einen Korb in der Reinigungsmaschine gezwängt wurde und dann durch ein Loch in dem Korb in 90 Grad heißes Wasser fiel .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1152,17 +1187,18 @@
 25	90	@card@	CARD	*	*	*	*
 26	Grad	Grad	NN	*	*	*	*
 27	heißes	heiß	ADJA	*	*	*	*
-28	Wasser	Wasser	NN	1	1	1	1
-29	fiel	fallen	VVFIN	1	1	1	1
+28	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+29	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910216.45
 # sent_id = 4100
 # text = Ebenso fiel ein Teil der im Vertrag vereinbarten Ausbildung von irakischem Personal ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ebenso	ebenso	ADV	*	*	*	*
-2	fiel	fallen	VVFIN	2	2	2	2
+2	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 3	ein	eine	ART	*	*	*	*
 4	Teil	Teil	NN	*	*	*	*
 5	der	die	ART	*	*	*	*
@@ -1173,13 +1209,14 @@
 10	von	von	APPR	*	*	*	*
 11	irakischem	irakisch	ADJA	*	*	*	*
 12	Personal	Personal	NN	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900523.33
 # sent_id = 4101
 # text = Die Neubewertung des umstrittensten Reaktor der deutschen Atomwirtschaft vor dem Hintergrund der Katastrophe von Tschernobyl fällt endgültig ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1197,15 +1234,16 @@
 13	Katastrophe	Katastrophe	NN	*	*	*	*
 14	von	von	APPR	*	*	*	*
 15	Tschernobyl	Tschernobyl	NE	*	*	*	*
-16	fällt	fallen|fällen	VVFIN	2	2	2	2
+16	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 17	endgültig	endgültig	ADJD	*	*	*	*
-18	ins	in	APPRART	2	2	2	2
-19	Wasser	Wasser	NN	2	2	2	2
+18	ins	in	APPRART	FIG	FIG	FIG	FIG
+19	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900528.293
 # sent_id = 4102
 # text = Nicht aus Kommunistenangst , sondern auf Abraten der Ärzte , fällt ein anderer Besuch vorerst ins Wasser : Der von Ronald Reagan in Berlin .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -1218,13 +1256,13 @@
 8	der	die	ART	*	*	*	*
 9	Ärzte	Arzt	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	fällt	fallen|fällen	VVFIN	2	2	2	2
+11	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 12	ein	eine	ART	*	*	*	*
 13	anderer	andere	PIAT	*	*	*	*
 14	Besuch	Besuch	NN	*	*	*	*
 15	vorerst	vorerst	ADV	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	:	:	$.	*	*	*	*
 19	Der	die	ART	*	*	*	*
 20	von	von	APPR	*	*	*	*
@@ -1237,14 +1275,15 @@
 # tuepp_article_id = T900605.274
 # sent_id = 4103
 # text = Doch so richtig ins Wasser gefallen ist das Kulturfestival auf den Wiesen am Osterdeich in diesem Jahr nur am letzten der vier Tage .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
 2	so	so	ADV	*	*	*	*
 3	richtig	richtig	ADJD	*	*	*	*
-4	ins	in	APPRART	2	2	2	2
-5	Wasser	Wasser	NN	2	2	2	2
-6	gefallen	fallen|gefallen	VVPP	2	2	2	2
+4	ins	in	APPRART	FIG	FIG	FIG	FIG
+5	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+6	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 7	ist	sein	VAFIN	*	*	*	*
 8	das	die	ART	*	*	*	*
 9	Kulturfestival	Kulturfestival	NN	*	*	*	*
@@ -1267,6 +1306,7 @@
 # tuepp_article_id = T900615.260
 # sent_id = 4104
 # text = , will seine Freundin , die amerikanische Jüdin Francie wissen : " Weil ein Elefant ins Wasser fiel .
+# vid_types = in wasser fallen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	,	,	$,	*	*	*	*
@@ -1284,14 +1324,15 @@
 13	Weil	weil	KOUS	*	*	*	*
 14	ein	eine	ART	*	*	*	*
 15	Elefant	Elefant	NN	*	*	*	*
-16	ins	in	APPRART	1	1	1	1
-17	Wasser	Wasser	NN	1	1	1	1
-18	fiel	fallen	VVFIN	1	1	1	1
+16	ins	in	APPRART	LIT	LIT	LIT	LIT
+17	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+18	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900612.228
 # sent_id = 4105
 # text = Bei Niederschlägen von rund 100 Litern pro Quadratmeter fiel die Veranstaltung am Wannsee sprichwörtlich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -1302,19 +1343,20 @@
 6	Litern	Liter	NN	*	*	*	*
 7	pro	pro	APPR	*	*	*	*
 8	Quadratmeter	Quadratmeter	NN	*	*	*	*
-9	fiel	fallen	VVFIN	2	2	2	2
+9	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
 11	Veranstaltung	Veranstaltung	NN	*	*	*	*
 12	am	an	APPRART	*	*	*	*
 13	Wannsee	<unknown>	NN	*	*	*	*
 14	sprichwörtlich	sprichwörtlich	ADJD	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900619.224
 # sent_id = 4106
 # text = Der erste Termin am 10.6. fiel unter den Fluten des Berliner Dauerregens buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1323,7 +1365,7 @@
 4	am	an	APPRART	*	*	*	*
 5	10.6	@card@	CARD	*	*	*	*
 6	.	.	$.	*	*	*	*
-7	fiel	fallen	VVFIN	2	2	2	2
+7	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 8	unter	unter	APPR	*	*	*	*
 9	den	die	ART	*	*	*	*
 10	Fluten	Flut|Fluten	NN	*	*	*	*
@@ -1331,13 +1373,14 @@
 12	Berliner	Berliner	ADJA	*	*	*	*
 13	Dauerregens	Dauerregen	NN	*	*	*	*
 14	buchstäblich	buchstäblich	ADJD	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900611.218
 # sent_id = 4107
 # text = Die offizielle 100-Jahr-Feier des Kreuzberger Urban-Krankenhauses fiel gestern weitgehend ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1346,16 +1389,17 @@
 4	des	die	ART	*	*	*	*
 5	Kreuzberger	Kreuzberger	NE	*	*	*	*
 6	Urban-Krankenhauses	Urban-Krankenhaus	NN	*	*	*	*
-7	fiel	fallen	VVFIN	2	2	2	2
+7	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 8	gestern	gestern	ADV	*	*	*	*
 9	weitgehend	weitgehend	ADJD	*	*	*	*
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900907.125
 # sent_id = 4108
 # text = " Im Gegensatz zu den Zuschauern und den Fernsehanstalten , die bitter enttäuscht sind , daß das mit Spannung erwartete Duell der alten Erzrivalen ins Wasser fällt , ist McEnroe , der sein Viertelfinale gegen David Wheaton ( USA ) souverän mit 6:1 , 6:4 , 6:4 gewann , jedoch heilfoh , daß er es im Halbfinale nicht mit dem grimmen Lendl zu tun bekommt , sondern mit dem wesentlich unerfahreneren und mutmaßlich geschwächten Sampras .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1382,9 +1426,9 @@
 22	der	die	ART	*	*	*	*
 23	alten	alt	ADJA	*	*	*	*
 24	Erzrivalen	Erzrivale	NN	*	*	*	*
-25	ins	in	APPRART	2	2	2	2
-26	Wasser	Wasser	NN	2	2	2	2
-27	fällt	fallen|fällen	VVFIN	2	2	2	2
+25	ins	in	APPRART	FIG	FIG	FIG	FIG
+26	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+27	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 28	,	,	$,	*	*	*	*
 29	ist	sein	VAFIN	*	*	*	*
 30	McEnroe	<unknown>	NE	*	*	*	*
@@ -1438,6 +1482,7 @@
 # tuepp_article_id = T900908.208
 # sent_id = 4109
 # text = Schafft die Verlobte nur 64 richtige Antworten , fällt die Hochzeit ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schafft	schaffen	VVFIN	*	*	*	*
@@ -1448,16 +1493,17 @@
 6	richtige	richtig	ADJA	*	*	*	*
 7	Antworten	Antwort	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	fällt	fallen|fällen	VVFIN	2	2	2	2
+9	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
 11	Hochzeit	Hochzeit	NN	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900426.123
 # sent_id = 4110
 # text = Sonst freilich beschreibt die Fotografin nur das , was uns die Kamera sowieso fortwährend zeigen muß : wie sich Freundin " Pitz " bewegt , wie sie sich fotografieren läßt , daß sie den Fotokoffer trägt , ins Wasser fällt und ihre Jeans zum Trocknen aufhängt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sonst	sonst	ADV	*	*	*	*
@@ -1497,9 +1543,9 @@
 35	Fotokoffer	Fotokoffer	NN	*	*	*	*
 36	trägt	tragen	VVFIN	*	*	*	*
 37	,	,	$,	*	*	*	*
-38	ins	in	APPRART	1	1	1	1
-39	Wasser	Wasser	NN	1	1	1	1
-40	fällt	fallen|fällen	VVFIN	1	1	1	1
+38	ins	in	APPRART	LIT	LIT	LIT	LIT
+39	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+40	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 41	und	und	KON	*	*	*	*
 42	ihre	ihr	PPOSAT	*	*	*	*
 43	Jeans	Jeans	NN	*	*	*	*
@@ -1511,6 +1557,7 @@
 # tuepp_article_id = T900412.398
 # sent_id = 4111
 # text = Noch bis gestern Mittag suchten Taucher der Bremer Wasserschutzpolizei auf dem Grund der Weser nach Geschoßhülsen , die am Montag nachmittag beim Verladen des US - Munitionsschiffes " Rover " im Nordenhammer Midgard-Hafen ins Wasser gefallen waren .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Noch	noch	ADV	*	*	*	*
@@ -1546,15 +1593,16 @@
 31	im	in	APPRART	*	*	*	*
 32	Nordenhammer	Nordenhammer	NN	*	*	*	*
 33	Midgard-Hafen	Midgard-Hafen	NN	*	*	*	*
-34	ins	in	APPRART	1	1	1	1
-35	Wasser	Wasser	NN	1	1	1	1
-36	gefallen	fallen|gefallen	VVPP	1	1	1	1
+34	ins	in	APPRART	LIT	LIT	LIT	LIT
+35	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+36	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 37	waren	sein	VAFIN	*	*	*	*
 38	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900727.150
 # sent_id = 4112
 # text = Die Strafprozeßordnung gebiete es , die Ermittlungen gegen ehemalige hohe Funktionäre zu Ende zu führen , selbst " wenn der Gerichtsprozeß in einem oder anderen Fall ins Wasser fallen sollte " , sagte der amtierende Generalstaatsanwalt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1583,9 +1631,9 @@
 24	oder	oder	KON	*	*	*	*
 25	anderen	andere	PIS	*	*	*	*
 26	Fall	Fall	NN	*	*	*	*
-27	ins	in	APPRART	2	2	2	2
-28	Wasser	Wasser	NN	2	2	2	2
-29	fallen	fallen	VVINF	2	2	2	2
+27	ins	in	APPRART	FIG	FIG	FIG	FIG
+28	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+29	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 30	sollte	sollen	VMFIN	*	*	*	*
 31	"	"	$(	*	*	*	*
 32	,	,	$,	*	*	*	*
@@ -1598,6 +1646,7 @@
 # tuepp_article_id = T900721.121
 # sent_id = 4113
 # text = Er stellt quasi den Sternenhimmel des Astrologen auf den Kopf , die besonderen Konstellationen fallen ins Wasser , wo Jakob sie aufliest .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -1614,9 +1663,9 @@
 12	die	die	ART	*	*	*	*
 13	besonderen	besonder	ADJA	*	*	*	*
 14	Konstellationen	Konstellation	NN	*	*	*	*
-15	fallen	fallen	VVFIN	2	2	2	2
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+15	fallen	fallen	VVFIN	FIG	FIG	FIG	FIG
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	wo	wo	PWAV	*	*	*	*
 20	Jakob	Jakob	NE	*	*	*	*
@@ -1627,6 +1676,7 @@
 # tuepp_article_id = T901218.98
 # sent_id = 4114
 # text = Sie konnte ja logischerweise nur auf die zehn zielen , die in der DDR waren , und der Rest , das Drumherum , mit " Kommando-Ebene " / Naher Osten war entweder das , was der VS glaubte , oder der Versuch , einen Stein ins Wasser fallen zu lassen und dann an unserer Reaktion etwas rauszukriegen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
@@ -1674,9 +1724,9 @@
 43	,	,	$,	*	*	*	*
 44	einen	eine	ART	*	*	*	*
 45	Stein	Stein	NN	*	*	*	*
-46	ins	in	APPRART	1	2	2	2
-47	Wasser	Wasser	NN	1	2	2	2
-48	fallen	fallen	VVINF	1	2	2	2
+46	ins	in	APPRART	LIT	FIG	FIG	FIG
+47	Wasser	Wasser	NN	LIT	FIG	FIG	FIG
+48	fallen	fallen	VVINF	LIT	FIG	FIG	FIG
 49	zu	zu	PTKZU	*	*	*	*
 50	lassen	lassen	VVINF	*	*	*	*
 51	und	und	KON	*	*	*	*
@@ -1691,6 +1741,7 @@
 # tuepp_article_id = T901211.227
 # sent_id = 4115
 # text = Wie in der Schlüsselszene , als der Vogel den Junge erschreckt , der ins Wasser fällt und beinahe ertrinkt , bis er sich der tragenden Kraft des Wassers anvertraut .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -1706,9 +1757,9 @@
 11	erschreckt	erschrecken	VVPP	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	der	die	PRELS	*	*	*	*
-14	ins	in	APPRART	1	1	1	1
-15	Wasser	Wasser	NN	1	1	1	1
-16	fällt	fallen|fällen	VVFIN	1	1	1	1
+14	ins	in	APPRART	LIT	LIT	LIT	LIT
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+16	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 17	und	und	KON	*	*	*	*
 18	beinahe	beinahe	ADV	*	*	*	*
 19	ertrinkt	ertrinken	VVFIN	*	*	*	*
@@ -1727,6 +1778,7 @@
 # tuepp_article_id = T900804.78
 # sent_id = 4116
 # text = Umständehalber mußten eine Angeltour und ein Spaziergang in der Wüste Gobi ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Umständehalber	Umständehalber	NN	*	*	*	*
@@ -1740,23 +1792,24 @@
 9	der	die	ART	*	*	*	*
 10	Wüste	Wüste	NN	*	*	*	*
 11	Gobi	<unknown>	NE	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
-14	fallen	fallen	VVINF	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+14	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900312.241
 # sent_id = 4117
 # text = Überhaupt fiel die ganze Chose ins Wasser , denn es strippte sich ein , noch bevor sich Billy in die Ohren der Menge einstrippen konnte .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Überhaupt	überhaupt	ADV	*	*	*	*
-2	fiel	fallen	VVFIN	2	2	2	2
+2	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	ganze	ganz	ADJA	*	*	*	*
 5	Chose	<unknown>	NN	*	*	*	*
-6	ins	in	APPRART	2	2	2	2
-7	Wasser	Wasser	NN	2	2	2	2
+6	ins	in	APPRART	FIG	FIG	FIG	FIG
+7	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	denn	denn	KON	*	*	*	*
 10	es	es	PPER	*	*	*	*
@@ -1780,6 +1833,7 @@
 # tuepp_article_id = T900302.210
 # sent_id = 4118
 # text = Weil dem Bezirk dazu das Personal fehlt , wird der geplante Termin für die erste Sperrungsaktion , der 26. Mai , ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
@@ -1804,14 +1858,15 @@
 20	.	.	$.	*	*	*	*
 21	Mai	Mai	NN	*	*	*	*
 22	,	,	$,	*	*	*	*
-23	ins	in	APPRART	2	2	2	2
-24	Wasser	Wasser	NN	2	2	2	2
-25	fallen	fallen	VVINF	2	2	2	2
+23	ins	in	APPRART	FIG	FIG	FIG	FIG
+24	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+25	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900313.156
 # sent_id = 4119
 # text = " Ob man einen Hund , der ins Wasser gefallen ist , schlagen soll oder nicht , hängt vom Verhalten des Hundes ab , wenn er wieder an Land kommt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1821,9 +1876,9 @@
 5	Hund	Hund	NN	*	*	*	*
 6	,	,	$,	*	*	*	*
 7	der	die	PRELS	*	*	*	*
-8	ins	in	APPRART	1	1	1	1
-9	Wasser	Wasser	NN	1	1	1	1
-10	gefallen	fallen|gefallen	VVPP	1	1	1	1
+8	ins	in	APPRART	LIT	LIT	LIT	LIT
+9	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+10	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 11	ist	sein	VAFIN	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	schlagen	schlagen	VVINF	*	*	*	*
@@ -1849,6 +1904,7 @@
 # tuepp_article_id = T900313.156
 # sent_id = 4120
 # text = Auch wenn sie von selbst ins Wasser fallen , kann es nichts schaden , sie trotzdem zu verprügeln .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -1856,9 +1912,9 @@
 3	sie	sie	PPER	*	*	*	*
 4	von	von	APPR	*	*	*	*
 5	selbst	selbst	ADV	*	*	*	*
-6	ins	in	APPRART	1	1	1	1
-7	Wasser	Wasser	NN	1	1	1	1
-8	fallen	fallen	VVINF	1	1	1	1
+6	ins	in	APPRART	LIT	LIT	LIT	LIT
+7	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+8	fallen	fallen	VVINF	LIT	LIT	LIT	LIT
 9	,	,	$,	*	*	*	*
 10	kann	können	VMFIN	*	*	*	*
 11	es	es	PPER	*	*	*	*
@@ -1874,6 +1930,7 @@
 # tuepp_article_id = T901117.208
 # sent_id = 4121
 # text = Die Perversion dieses Films gipfelt darin , daß die Morde vor laufender Kamera mit einer nonchalanten Selbstverständlichkeit kommentiert werden , während in dem Moment , als eine 2.000-Dollar-Kamera ins Wasser fällt , auf die Kosten des Films hingewiesen wird .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1904,9 +1961,9 @@
 26	als	als	KOUS	*	*	*	*
 27	eine	eine	ART	*	*	*	*
 28	2.000-Dollar-Kamera	<unknown>	NN	*	*	*	*
-29	ins	in	APPRART	1	1	1	1
-30	Wasser	Wasser	NN	1	1	1	1
-31	fällt	fallen|fällen	VVFIN	1	1	1	1
+29	ins	in	APPRART	LIT	LIT	LIT	LIT
+30	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+31	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 32	,	,	$,	*	*	*	*
 33	auf	auf	APPR	*	*	*	*
 34	die	die	ART	*	*	*	*
@@ -1920,6 +1977,7 @@
 # tuepp_article_id = T920615.68
 # sent_id = 4122
 # text = " Wenn ich die Regierung nicht ausgewechselt hätte , wäre euer Kongreß ins Wasser gefallen , und ich säße heute vielleicht im Internierungslager " , erklärte Präsident Lech Walesa am Samstag sichtlich genervt den Delegierten des Solidarnosc- Kongresses in Danzig .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1934,9 +1992,9 @@
 10	wäre	sein	VAFIN	*	*	*	*
 11	euer	euer	PPOSAT	*	*	*	*
 12	Kongreß	Kongress	NN	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
-15	gefallen	fallen|gefallen	VVPP	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+15	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	und	und	KON	*	*	*	*
 18	ich	ich	PPER	*	*	*	*
@@ -1967,6 +2025,7 @@
 # tuepp_article_id = T921021.211
 # sent_id = 4123
 # text = Da wollen wir unserem Bundesumweltminister Klaus Töpfer mal was Gutes tun und freundlich über eines seiner Projekte berichten - und schon fallen unsere guten Absichten ins Wasser ; denn eigentlich hatten wir gestern vor , uns an die Fersen von sechs sogenannten " Klimabotschaftern " zu heften , die in unserer Stadt in U- und S-Bahnen das Gespräch mit den Fahrgästen suchen wollten - um diese in " ihrem umweltgerechten Verhalten zu bestärken " .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -1990,12 +2049,12 @@
 19	-	-	$(	*	*	*	*
 20	und	und	KON	*	*	*	*
 21	schon	schon	ADV	*	*	*	*
-22	fallen	fallen	VVFIN	2	2	2	2
+22	fallen	fallen	VVFIN	FIG	FIG	FIG	FIG
 23	unsere	unser	PPOSAT	*	*	*	*
 24	guten	gut	ADJA	*	*	*	*
 25	Absichten	Absicht	NN	*	*	*	*
-26	ins	in	APPRART	2	2	2	2
-27	Wasser	Wasser	NN	2	2	2	2
+26	ins	in	APPRART	FIG	FIG	FIG	FIG
+27	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 28	;	;	$.	*	*	*	*
 29	denn	denn	KON	*	*	*	*
 30	eigentlich	eigentlich	ADV	*	*	*	*
@@ -2048,6 +2107,7 @@
 # tuepp_article_id = T920918.123
 # sent_id = 4124
 # text = Auf den ersten Blick scheint er buchstäblich ins Wasser gefallen zu sein .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Auf	auf	APPR	*	*	*	*
@@ -2057,9 +2117,9 @@
 5	scheint	scheinen	VVFIN	*	*	*	*
 6	er	er	PPER	*	*	*	*
 7	buchstäblich	buchstäblich	ADJD	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
-10	gefallen	fallen|gefallen	VVPP	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+10	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 11	zu	zu	PTKZU	*	*	*	*
 12	sein	sein	VAINF	*	*	*	*
 13	.	.	$.	*	*	*	*
@@ -2067,6 +2127,7 @@
 # tuepp_article_id = T920905.273
 # sent_id = 4125
 # text = Die an diesem Tag vorgesehenen Akrobatik- und Trickwettbewerbe fielen ersatzlos ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2077,15 +2138,16 @@
 6	Akrobatik-	Akrobatik-	TRUNC	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	Trickwettbewerbe	<unknown>	NN	*	*	*	*
-9	fielen	fallen	VVFIN	2	2	2	2
+9	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 10	ersatzlos	ersatzlos	ADJD	*	*	*	*
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920127.148
 # sent_id = 4126
 # text = Gegen 14 Uhr hatte sich ein Mann auf der dünnen und noch brüchigen Eisdecke etwa 20 Meter vom Ufer entfernt , als er in das Wasser fiel , teilte die Polizei am Abend mit .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gegen	gegen	APPR	*	*	*	*
@@ -2111,10 +2173,10 @@
 21	,	,	$,	*	*	*	*
 22	als	als	KOUS	*	*	*	*
 23	er	er	PPER	*	*	*	*
-24	in	in	APPR	1	1	1	1
+24	in	in	APPR	LIT	LIT	LIT	LIT
 25	das	die	ART	*	*	*	*
-26	Wasser	Wasser	NN	1	1	1	1
-27	fiel	fallen	VVFIN	1	1	1	1
+26	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+27	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 28	,	,	$,	*	*	*	*
 29	teilte	teilen	VVFIN	*	*	*	*
 30	die	die	ART	*	*	*	*
@@ -2127,6 +2189,7 @@
 # tuepp_article_id = T920403.193
 # sent_id = 4127
 # text = War das damals in Berlin , oder neulich bei Chandler in Los Angeles : Ein Präsident mit grinsender First Lady zu Besuch , ein abgesperrter Stadtteil , ein Sommer , der ins Wasser fällt ?
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	War	sein	VAFIN	*	*	*	*
@@ -2160,14 +2223,15 @@
 29	Sommer	Sommer	NN	*	*	*	*
 30	,	,	$,	*	*	*	*
 31	der	die	PRELS	*	*	*	*
-32	ins	in	APPRART	2	2	2	2
-33	Wasser	Wasser	NN	2	2	2	2
-34	fällt	fallen|fällen	VVFIN	2	2	2	2
+32	ins	in	APPRART	FIG	FIG	FIG	FIG
+33	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+34	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 35	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T920428.148
 # sent_id = 4128
 # text = Zunächst habe sie gestanden , daß das Kind versehentlich ins Wasser gefallen sei , erst gegen Mitternacht , daß sie die Tat » bewußt « geplant und keinen anderen Ausweg aus der privaten Misere gesehen habe .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zunächst	zunächst	ADV	*	*	*	*
@@ -2179,9 +2243,9 @@
 7	das	die	ART	*	*	*	*
 8	Kind	Kind	NN	*	*	*	*
 9	versehentlich	versehentlich	ADJD	*	*	*	*
-10	ins	in	APPRART	1	1	1	1
-11	Wasser	Wasser	NN	1	1	1	1
-12	gefallen	fallen|gefallen	VVPP	1	1	1	1
+10	ins	in	APPRART	LIT	LIT	LIT	LIT
+11	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+12	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 13	sei	sein	VAFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	erst	erst	ADV	*	*	*	*
@@ -2211,21 +2275,22 @@
 # tuepp_article_id = T920429.117
 # sent_id = 4129
 # text = In Nürnbergs städtischen Bühnen fiel Benjamin Brittens Oper Tod in Venedig ins Wasser , in Regensburg wartet man vergeblich auf La boheme ( Puccini ) .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	Nürnbergs	Nürnberg	NE	*	*	*	*
 3	städtischen	städtisch	ADJA	*	*	*	*
 4	Bühnen	Bühne	NN	*	*	*	*
-5	fiel	fallen	VVFIN	2	2	2	2
+5	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 6	Benjamin	Benjamin	NE	*	*	*	*
 7	Brittens	<unknown>	NE	*	*	*	*
 8	Oper	Oper	NN	*	*	*	*
 9	Tod	Tod	NN	*	*	*	*
 10	in	in	APPR	*	*	*	*
 11	Venedig	Venedig	NE	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	in	in	APPR	*	*	*	*
 16	Regensburg	Regensburg	NE	*	*	*	*
@@ -2243,6 +2308,7 @@
 # tuepp_article_id = T920421.226
 # sent_id = 4130
 # text = Doch was für acht Uhr angekündigt war , ließ viele nach einer Stunde Warten enttäuscht wieder abziehen : Das Feuer drohte ins ( Regen- ) Wasser zu fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Doch	doch	KON	*	*	*	*
@@ -2266,18 +2332,19 @@
 19	Das	die	ART	*	*	*	*
 20	Feuer	Feuer	NN	*	*	*	*
 21	drohte	drohen	VVFIN	*	*	*	*
-22	ins	in	APPRART	2	2	2	2
+22	ins	in	APPRART	FIG	FIG	FIG	FIG
 23	(	(	$(	*	*	*	*
 24	Regen-	Regen-	TRUNC	*	*	*	*
 25	)	)	$(	*	*	*	*
-26	Wasser	Wasser	NN	2	2	2	2
+26	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 27	zu	zu	PTKZU	*	*	*	*
-28	fallen	fallen	VVINF	2	2	2	2
+28	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920721.95
 # sent_id = 4131
 # text = In einem Teich unter dem Wasserfall leben Piranhas und andere Fische von dem , was ins Wasser fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -2295,19 +2362,20 @@
 13	dem	die	ART	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	was	was	PRELS	*	*	*	*
-16	ins	in	APPRART	1	1	1	1
-17	Wasser	Wasser	NN	1	1	1	1
-18	fällt	fallen|fällen	VVFIN	1	1	1	1
+16	ins	in	APPRART	LIT	LIT	LIT	LIT
+17	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+18	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920704.128
 # sent_id = 4132
 # text = Statt dessen fiel eine vierwöchige Alternativveranstaltung , die parallel zum Umweltgipfel in Rio stattfinden sollte , ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Statt	statt	KOUI	*	*	*	*
 2	dessen	die	PDS	*	*	*	*
-3	fiel	fallen	VVFIN	2	2	2	2
+3	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 4	eine	eine	ART	*	*	*	*
 5	vierwöchige	vierwöchig	ADJA	*	*	*	*
 6	Alternativveranstaltung	Alternativveranstaltung	NN	*	*	*	*
@@ -2321,23 +2389,24 @@
 14	stattfinden	stattfinden	VVINF	*	*	*	*
 15	sollte	sollen	VMFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
-17	ins	in	APPRART	2	2	2	2
-18	Wasser	Wasser	NN	2	2	2	2
+17	ins	in	APPRART	FIG	FIG	FIG	FIG
+18	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920704.128
 # sent_id = 4133
 # text = Klimakämpfer Heschelmann bittet alle Unterstützer des ins Wasser gefallenen Festes wie Greenpeace , Robin Wood und die Grünen Radler am kommenden Donnerstag um 19.30 Unr in das Büro des Stadtteilvereins Tiergarten Süd ( Pohlstraße 89 ) zu kommen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Klimakämpfer	<unknown>	ADJA	*	*	*	*
 2	Heschelmann	<unknown>	NN	*	*	*	*
 3	bittet	bitten	VVFIN	*	*	*	*
-4	alle	alle	PIAT	2	2	2	2
+4	alle	alle	PIAT	FIG	FIG	FIG	FIG
 5	Unterstützer	Unterstützer	NN	*	*	*	*
 6	des	die	ART	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	gefallenen	gefallen	ADJA	*	*	*	*
 10	Festes	Fest	NN	*	*	*	*
 11	wie	wie	KOKOM	*	*	*	*
@@ -2373,10 +2442,11 @@
 # tuepp_article_id = T920703.164
 # sent_id = 4134
 # text = Die fallen ja - vor allem als AnfängerInnen - bekanntlich beim Segeln gerne ins Wasser und tragen damit zur weiteren Verschmutzung bei .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	PDS	*	*	*	*
-2	fallen	fallen	VVFIN	1	1	1	1
+2	fallen	fallen	VVFIN	LIT	LIT	LIT	LIT
 3	ja	ja	ADV	*	*	*	*
 4	-	-	$(	*	*	*	*
 5	vor	vor	APPR	*	*	*	*
@@ -2388,8 +2458,8 @@
 11	beim	bei	APPRART	*	*	*	*
 12	Segeln	Segel|Segeln	NN	*	*	*	*
 13	gerne	gerne	ADV	*	*	*	*
-14	ins	in	APPRART	1	1	1	1
-15	Wasser	Wasser	NN	1	1	1	1
+14	ins	in	APPRART	LIT	LIT	LIT	LIT
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 16	und	und	KON	*	*	*	*
 17	tragen	tragen	VVFIN	*	*	*	*
 18	damit	damit	PAV	*	*	*	*
@@ -2402,6 +2472,7 @@
 # tuepp_article_id = T921214.193
 # sent_id = 4135
 # text = Nachdem lediglich Hamburg für die " besondere Berliner Problematik " Verständnis signalisierte - aus der Arbeitsgemeinschaft der Selbständigen in der SPD war zu vernehmen , daß die Kappungsgrenze bei einer Probeabstimmung im Bundesrat ins Wasser gefallen ist - , will sich der Senat in Bonn nun für eine Begrenzung der Gesetzesinitiative für Berlin und Brandenburg stark machen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nachdem	nachdem	KOUS	*	*	*	*
@@ -2437,9 +2508,9 @@
 31	Probeabstimmung	Probeabstimmung	NN	*	*	*	*
 32	im	in	APPRART	*	*	*	*
 33	Bundesrat	Bundesrat	NN	*	*	*	*
-34	ins	in	APPRART	2	2	2	2
-35	Wasser	Wasser	NN	2	2	2	2
-36	gefallen	fallen|gefallen	VVPP	2	2	2	2
+34	ins	in	APPRART	FIG	FIG	FIG	FIG
+35	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+36	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 37	ist	sein	VAFIN	*	*	*	*
 38	-	-	$(	*	*	*	*
 39	,	,	$,	*	*	*	*
@@ -2466,6 +2537,7 @@
 # tuepp_article_id = T921219.27
 # sent_id = 4136
 # text = Aber Unita stellte keine Polizisten - und so fiel der Streifendienst ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -2476,16 +2548,17 @@
 6	-	-	$(	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	so	so	ADV	*	*	*	*
-9	fiel	fallen	VVFIN	2	2	2	2
+9	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
 11	Streifendienst	Streifendienst	NN	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921222.234
 # sent_id = 4137
 # text = Durch die starke Bauaktivität in der Innenstadt sei zu vermuten , daß in den letzten Jahren viel Bauschutt ins Wasser gefallen ist .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Durch	durch	APPR	*	*	*	*
@@ -2506,15 +2579,16 @@
 16	Jahren	Jahr	NN	*	*	*	*
 17	viel	viele	PIAT	*	*	*	*
 18	Bauschutt	Bauschutt	NN	*	*	*	*
-19	ins	in	APPRART	1	1	1	1
-20	Wasser	Wasser	NN	1	1	1	1
-21	gefallen	fallen|gefallen	VVPP	1	1	1	1
+19	ins	in	APPRART	LIT	LIT	LIT	LIT
+20	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+21	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 22	ist	sein	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920811.157
 # sent_id = 4138
 # text = Haben sie Angst , ihre Arbeit könnte buchstäblich ins Wasser fallen ?
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Haben	haben	VAFIN	*	*	*	*
@@ -2525,14 +2599,15 @@
 6	Arbeit	Arbeit	NN	*	*	*	*
 7	könnte	können	VMFIN	*	*	*	*
 8	buchstäblich	buchstäblich	ADJD	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
-11	fallen	fallen	VVINF	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+11	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 12	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T920803.169
 # sent_id = 4139
 # text = Daß am Ende das Tüpfelchen auf dem i , die Watzmannbesteigung selbst , wegen eines Gewitters ins Wasser fallen mußte , hat das Erlebnis dieser Tour eigentlich nur wenig gemindert .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -2551,9 +2626,9 @@
 14	wegen	wegen	APPR	*	*	*	*
 15	eines	eine	ART	*	*	*	*
 16	Gewitters	Gewitter	NN	*	*	*	*
-17	ins	in	APPRART	2	2	2	2
-18	Wasser	Wasser	NN	2	2	2	2
-19	fallen	fallen	VVINF	2	2	2	2
+17	ins	in	APPRART	FIG	FIG	FIG	FIG
+18	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+19	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 20	mußte	müssen	VMFIN	*	*	*	*
 21	,	,	$,	*	*	*	*
 22	hat	haben	VAFIN	*	*	*	*
@@ -2570,6 +2645,7 @@
 # tuepp_article_id = T920817.131
 # sent_id = 4140
 # text = Das Fest war wegen eines Protests der Lehrer gegen die umstrittene zusätzliche Unterrichtsstunde ins Wasser gefallen , soll aber heute während des regulären Unterrichts nachgeholt werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -2585,9 +2661,9 @@
 11	umstrittene	umstritten	ADJA	*	*	*	*
 12	zusätzliche	zusätzlich	ADJA	*	*	*	*
 13	Unterrichtsstunde	Unterrichtsstunde	NN	*	*	*	*
-14	ins	in	APPRART	2	2	2	2
-15	Wasser	Wasser	NN	2	2	2	2
-16	gefallen	fallen|gefallen	VVPP	2	2	2	2
+14	ins	in	APPRART	FIG	FIG	FIG	FIG
+15	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+16	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	soll	sollen	VMFIN	*	*	*	*
 19	aber	aber	ADV	*	*	*	*
@@ -2603,6 +2679,7 @@
 # tuepp_article_id = T920821.56
 # sent_id = 4141
 # text = Nachdem die rauschende Siegesfeier vor dem Weißen Haus in Moskau ins Wasser fiel , feiern die " VerteidigerInnen der Demokratie " in einer Wohnküche ihre neue Freiheit : " Wir haben die Barrikaden zu früh abgerissen "
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nachdem	nachdem	KOUS	*	*	*	*
@@ -2615,9 +2692,9 @@
 8	Haus	Haus	NN	*	*	*	*
 9	in	in	APPR	*	*	*	*
 10	Moskau	Moskau	NE	*	*	*	*
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
-13	fiel	fallen	VVFIN	2	2	2	2
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+13	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	feiern	feiern	VVFIN	*	*	*	*
 16	die	die	ART	*	*	*	*
@@ -2646,6 +2723,7 @@
 # tuepp_article_id = T920326.95
 # sent_id = 4142
 # text = Effekte werden bis zum Gehtnichtmehr ausgereizt : Peter Pan fällt ins Wasser , eine Nixe kommt und hilft ihm , dann kommt eine zweite und auch noch eine dritte .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Effekte	Effekt	NN	*	*	*	*
@@ -2657,9 +2735,9 @@
 7	:	:	$.	*	*	*	*
 8	Peter	Peter	NE	*	*	*	*
 9	Pan	Pan	NE	*	*	*	*
-10	fällt	fallen|fällen	VVFIN	1	1	1	1
-11	ins	in	APPRART	1	1	1	1
-12	Wasser	Wasser	NN	1	1	1	1
+10	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
+11	ins	in	APPRART	LIT	LIT	LIT	LIT
+12	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 13	,	,	$,	*	*	*	*
 14	eine	eine	ART	*	*	*	*
 15	Nixe	Nixe	NN	*	*	*	*
@@ -2682,15 +2760,16 @@
 # tuepp_article_id = T921105.76
 # sent_id = 4143
 # text = Dabei fielen drei Regatten völlig ins Wasser , und ein halbes Dutzend Wettkämpfe wurde an nur einem Tag entschieden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Dabei	dabei	PAV	*	*	*	*
-2	fielen	fallen	VVFIN	2	2	2	2
+2	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 3	drei	drei	CARD	*	*	*	*
 4	Regatten	Regatta	NN	*	*	*	*
 5	völlig	völlig	ADJD	*	*	*	*
-6	ins	in	APPRART	2	2	2	2
-7	Wasser	Wasser	NN	2	2	2	2
+6	ins	in	APPRART	FIG	FIG	FIG	FIG
+7	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	und	und	KON	*	*	*	*
 10	ein	eine	ART	*	*	*	*
@@ -2708,6 +2787,7 @@
 # tuepp_article_id = T921105.158
 # sent_id = 4144
 # text = Die Demonstration der autonomen Gruppen und Antifa-Organisationen unter dem Motto " Schluß mit der rassistischen Asyldebatte - Verteidigt Artikel 16 des Grundgesetzes " fiel im wahrsten Sinne des Wortes ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2733,33 +2813,35 @@
 21	des	die	ART	*	*	*	*
 22	Grundgesetzes	Grundgesetz	NN	*	*	*	*
 23	"	"	$(	*	*	*	*
-24	fiel	fallen	VVFIN	2	2	2	2
+24	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 25	im	in	APPRART	*	*	*	*
 26	wahrsten	wahr	ADJA	*	*	*	*
 27	Sinne	Sinn	NN	*	*	*	*
 28	des	die	ART	*	*	*	*
 29	Wortes	Wort	NN	*	*	*	*
-30	ins	in	APPRART	2	2	2	2
-31	Wasser	Wasser	NN	2	2	2	2
+30	ins	in	APPRART	FIG	FIG	FIG	FIG
+31	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921124.220
 # sent_id = 4145
 # text = Rollstuhlfahrer fiel ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rollstuhlfahrer	Rollstuhlfahrer	NN	*	*	*	*
-2	fiel	fallen	VVFIN	1	1	1	1
-3	ins	in	APPRART	1	1	1	1
-4	Wasser	Wasser	NN	1	1	1	1
+2	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
+3	ins	in	APPRART	LIT	LIT	LIT	LIT
+4	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 
 # tuepp_article_id = T921117.196
 # sent_id = 4146
 # text = So fällt die angekündigte Beantwortung von Lebens- und Liebes-Fragen ins Wasser , ebenso die Unterstützung von kulturellen Aktionen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
-2	fällt	fallen|fällen	VVFIN	2	2	2	2
+2	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	angekündigte	angekündigt	ADJA	*	*	*	*
 5	Beantwortung	Beantwortung	NN	*	*	*	*
@@ -2767,8 +2849,8 @@
 7	Lebens-	Lebens-	TRUNC	*	*	*	*
 8	und	und	KON	*	*	*	*
 9	Liebes-Fragen	<unknown>	NN	*	*	*	*
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	ebenso	ebenso	ADV	*	*	*	*
 14	die	die	ART	*	*	*	*
@@ -2781,6 +2863,7 @@
 # tuepp_article_id = T921107.154
 # sent_id = 4147
 # text = Einige waren bestens besucht , andere eher bescheiden , manche fielen ins Wasser oder organisatorischer Unfähigkeit zum Opfer .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einige	einige	PIS	*	*	*	*
@@ -2793,9 +2876,9 @@
 8	bescheiden	bescheiden	ADJD	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	manche	manche	PIS	*	*	*	*
-11	fielen	fallen	VVFIN	2	2	2	2
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+11	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	oder	oder	KON	*	*	*	*
 15	organisatorischer	organisatorisch	ADJA	*	*	*	*
 16	Unfähigkeit	Unfähigkeit	NN	*	*	*	*
@@ -2806,6 +2889,7 @@
 # tuepp_article_id = T920222.117
 # sent_id = 4148
 # text = Allabendlich sitzt man hier auf wackeligen Stühlen im Staub der Strandpromenade und paßt auf , wie die Sonne ins Wasser fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allabendlich	allabendlich	ADV	*	*	*	*
@@ -2826,14 +2910,15 @@
 16	wie	wie	KOUS	*	*	*	*
 17	die	die	ART	*	*	*	*
 18	Sonne	Sonne	NN	*	*	*	*
-19	ins	in	APPRART	1	2	2	2
-20	Wasser	Wasser	NN	1	2	2	2
-21	fällt	fallen|fällen	VVFIN	1	2	2	2
+19	ins	in	APPRART	LIT	FIG	FIG	FIG
+20	Wasser	Wasser	NN	LIT	FIG	FIG	FIG
+21	fällt	fallen|fällen	VVFIN	LIT	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920204.24
 # sent_id = 4149
 # text = Die von den ostdeutschen Stahlarbeitern - so aus dem Hennigsdorfer Stahlwerk - schon per Telegramm und Telefax angekündigten Solidaritätsaktionen werden nun ebenso ins Wasser fallen , wie die schon zahlreich gedruckten Streikplakate nun in die Altpapiercontainer wandern werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2858,9 +2943,9 @@
 20	werden	werden	VAFIN	*	*	*	*
 21	nun	nun	ADV	*	*	*	*
 22	ebenso	ebenso	ADV	*	*	*	*
-23	ins	in	APPRART	2	2	2	2
-24	Wasser	Wasser	NN	2	2	2	2
-25	fallen	fallen	VVINF	2	2	2	2
+23	ins	in	APPRART	FIG	FIG	FIG	FIG
+24	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+25	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 26	,	,	$,	*	*	*	*
 27	wie	wie	KOUS	*	*	*	*
 28	die	die	ART	*	*	*	*
@@ -2879,6 +2964,7 @@
 # tuepp_article_id = T881014.93
 # sent_id = 4150
 # text = Vorsitzender der Vereinigung , zeigte sich auf Nachfrage der taz wenig auskunftsfreudig : " Es ist nicht unsere Art , jetzt etwas zu sagen , wenn die Sache nachher ins Wasser fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vorsitzender	Vorsitzende	NN	*	*	*	*
@@ -2910,24 +2996,26 @@
 27	die	die	ART	*	*	*	*
 28	Sache	Sache	NN	*	*	*	*
 29	nachher	nachher	ADV	*	*	*	*
-30	ins	in	APPRART	2	2	2	2
-31	Wasser	Wasser	NN	2	2	2	2
-32	fällt	fallen|fällen	VVFIN	2	2	2	2
+30	ins	in	APPRART	FIG	FIG	FIG	FIG
+31	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+32	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880923.241
 # sent_id = 4151
 # text = Protest-Konzert fiel ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Protest-Konzert	Protest-Konzert	NN	*	*	*	*
-2	fiel	fallen	VVFIN	2	2	2	2
-3	ins	in	APPRART	2	2	2	2
-4	Wasser	Wasser	NN	2	2	2	2
+2	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
+3	ins	in	APPRART	FIG	FIG	FIG	FIG
+4	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T880913.155
 # sent_id = 4152
 # text = Nach dem ansprechenden Finale mußte die Pokalübergabe allerdings ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -2938,21 +3026,22 @@
 6	die	die	ART	*	*	*	*
 7	Pokalübergabe	Pokalübergabe	NN	*	*	*	*
 8	allerdings	allerdings	ADV	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
-11	fallen	fallen	VVINF	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+11	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880922.101
 # sent_id = 4153
 # text = Die Entscheidung für Pferde fällt heute ebenso wie für die Damen und Herren im Wasser , die mehrere hundert Meter hinter- und nebeneinander schwimmen wollen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Entscheidung	Entscheidung	NN	*	*	*	*
 3	für	für	APPR	*	*	*	*
 4	Pferde	Pferd	NN	*	*	*	*
-5	fällt	fallen|fällen	VVFIN	2	2	2	2
+5	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 6	heute	heute	ADV	*	*	*	*
 7	ebenso	ebenso	ADV	*	*	*	*
 8	wie	wie	KOKOM	*	*	*	*
@@ -2961,8 +3050,8 @@
 11	Damen	Dame	NN	*	*	*	*
 12	und	und	KON	*	*	*	*
 13	Herren	Herr	NN	*	*	*	*
-14	im	in	APPRART	2	2	2	2
-15	Wasser	Wasser	NN	2	2	2	2
+14	im	in	APPRART	FIG	FIG	FIG	FIG
+15	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	die	die	PRELS	*	*	*	*
 18	mehrere	mehrere	PIAT	*	*	*	*
@@ -2978,6 +3067,7 @@
 # tuepp_article_id = T880727.31
 # sent_id = 4154
 # text = Die " Himmelskonferenz " mußte trotzdem nicht ins Wasser fallen , sondern tagte im Wackersdorfer Schwimmbad-Cafe in weltlich-neutralen Räumen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2987,9 +3077,9 @@
 5	mußte	müssen	VMFIN	*	*	*	*
 6	trotzdem	trotzdem	PAV	*	*	*	*
 7	nicht	nicht	PTKNEG	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
-10	fallen	fallen	VVINF	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+10	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	sondern	sondern	KON	*	*	*	*
 13	tagte	tagen	VVFIN	*	*	*	*
@@ -3004,16 +3094,17 @@
 # tuepp_article_id = T880816.38
 # sent_id = 4155
 # text = Für viele Polizisten fiel das Wochenende ins Wasser , nachdem am Freitag bekannt wurde , das außer des Kälbermästers Felix Hying jetzt auch dessen Kollege Bernhard Wigger wegen Hormonverseuchung von Kälbern in Verdacht steht .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
 2	viele	viele	PIAT	*	*	*	*
 3	Polizisten	Polizist	NN	*	*	*	*
-4	fiel	fallen	VVFIN	2	2	2	2
+4	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 5	das	die	ART	*	*	*	*
 6	Wochenende	Wochenende	NN	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	nachdem	nachdem	KOUS	*	*	*	*
 11	am	an	APPRART	*	*	*	*
@@ -3045,6 +3136,7 @@
 # tuepp_article_id = T880813.143
 # sent_id = 4156
 # text = Die Poolparty im Schloßparkbad Bremen fällt heute und morgen hoffentlich nicht ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3052,18 +3144,19 @@
 3	im	in	APPRART	*	*	*	*
 4	Schloßparkbad	Schlossparkbad	NN	*	*	*	*
 5	Bremen	Bremen	NE	*	*	*	*
-6	fällt	fallen|fällen	VVFIN	2	2	2	2
+6	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 7	heute	heute	ADV	*	*	*	*
 8	und	und	KON	*	*	*	*
 9	morgen	morgen	ADV	*	*	*	*
 10	hoffentlich	hoffentlich	ADV	*	*	*	*
 11	nicht	nicht	PTKNEG	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T881104.52
 # sent_id = 4157
 # text = Mal war angeblich die Stelle nicht zu finden , wo die DC9 ins Wasser gefallen war , dann erzählten sie etwas von " fehlerhafter Wartung " des Zivilflugzeugs .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mal	mal	ADV	*	*	*	*
@@ -3078,9 +3171,9 @@
 10	wo	wo	PWAV	*	*	*	*
 11	die	die	ART	*	*	*	*
 12	DC9	<unknown>	NN	*	*	*	*
-13	ins	in	APPRART	1	1	1	1
-14	Wasser	Wasser	NN	1	1	1	1
-15	gefallen	fallen|gefallen	VVPP	1	1	1	1
+13	ins	in	APPRART	LIT	LIT	LIT	LIT
+14	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+15	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 16	war	sein	VAFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
 18	dann	dann	ADV	*	*	*	*
@@ -3099,6 +3192,7 @@
 # tuepp_article_id = T880216.26
 # sent_id = 4158
 # text = Gephardt läßt sein Publikum warten , doch die kostenlose Unterhaltung - " eine Drei-Mann- Combo " war eingeplant , wie ein Mitarbeiter verrät - ist wegen irgendwelcher Schwierigkeiten ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gephardt	<unknown>	NE	*	*	*	*
@@ -3129,14 +3223,15 @@
 26	wegen	wegen	APPR	*	*	*	*
 27	irgendwelcher	irgendwelche	PIS	*	*	*	*
 28	Schwierigkeiten	Schwierigkeit	NN	*	*	*	*
-29	ins	in	APPRART	2	2	2	2
-30	Wasser	Wasser	NN	2	2	2	2
-31	gefallen	fallen|gefallen	VVPP	2	2	2	2
+29	ins	in	APPRART	FIG	FIG	FIG	FIG
+30	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+31	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870613.55
 # sent_id = 4159
 # text = Es ist die Ungeduld des Zuschauers , der miterlebt , wie vor seinen Augen eine groß angekündigte Inszenierung ins Wasser fällt und nicht mehr zu retten ist .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -3157,9 +3252,9 @@
 16	groß	groß	ADJD	*	*	*	*
 17	angekündigte	angekündigt	ADJA	*	*	*	*
 18	Inszenierung	Inszenierung	NN	*	*	*	*
-19	ins	in	APPRART	2	1	2	2
-20	Wasser	Wasser	NN	2	1	2	2
-21	fällt	fallen|fällen	VVFIN	2	1	2	2
+19	ins	in	APPRART	FIG	LIT	FIG	FIG
+20	Wasser	Wasser	NN	FIG	LIT	FIG	FIG
+21	fällt	fallen|fällen	VVFIN	FIG	LIT	FIG	FIG
 22	und	und	KON	*	*	*	*
 23	nicht	nicht	PTKNEG	*	*	*	*
 24	mehr	mehr	ADV	*	*	*	*
@@ -3171,6 +3266,7 @@
 # tuepp_article_id = T870107.44
 # sent_id = 4160
 # text = Prominenteste Fahtgäste des Wochenendes waren ein Hochzeitspaar , dessen feierlicher Bund fürs Leben fast ins Wasser gefallen wäre .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Prominenteste	prominent	ADJA	*	*	*	*
@@ -3187,15 +3283,16 @@
 12	fürs	fürs	APPRART	*	*	*	*
 13	Leben	Leben	NN	*	*	*	*
 14	fast	fast	ADV	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
-17	gefallen	fallen|gefallen	VVPP	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+17	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 18	wäre	sein	VAFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870428.30
 # sent_id = 4161
 # text = Am Sonntag waren trotz strömendem Regen Hunderte von Besuchern gekommen , das geplante Fest fiel ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -3212,14 +3309,15 @@
 12	das	die	ART	*	*	*	*
 13	geplante	geplant	ADJA	*	*	*	*
 14	Fest	Fest	NN	*	*	*	*
-15	fiel	fallen	VVFIN	2	2	2	2
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+15	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870807.78
 # sent_id = 4162
 # text = Gemeldet ist Herr Groß , der Start von Carsten Hoffmann fällt ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gemeldet	melden	VVPP	*	*	*	*
@@ -3232,14 +3330,15 @@
 8	von	von	APPR	*	*	*	*
 9	Carsten	Carsten	NE	*	*	*	*
 10	Hoffmann	Hoffmann	NE	*	*	*	*
-11	fällt	fallen|fällen	VVFIN	2	2	2	2
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+11	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870806.66
 # sent_id = 4163
 # text = Wer es nicht schafft , fällt ins Wasser - und kann sich , zum schadenfrohen Gelächter , auch noch Pusteln holen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Wer	wer	PWS	*	*	*	*
@@ -3247,9 +3346,9 @@
 3	nicht	nicht	PTKNEG	*	*	*	*
 4	schafft	schaffen	VVFIN	*	*	*	*
 5	,	,	$,	*	*	*	*
-6	fällt	fallen|fällen	VVFIN	1	1	1	1
-7	ins	in	APPRART	1	1	1	1
-8	Wasser	Wasser	NN	1	1	1	1
+6	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
+7	ins	in	APPRART	LIT	LIT	LIT	LIT
+8	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 9	-	-	$(	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	kann	können	VMFIN	*	*	*	*
@@ -3268,6 +3367,7 @@
 # tuepp_article_id = T860929.45
 # sent_id = 4164
 # text = Inzwischen zweifeln Experten daran , ob die ins Wasser gefallene U-Bahn-Eröffnung überhaupt hätte stattfinden können .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Inzwischen	inzwischen	ADV	*	*	*	*
@@ -3277,9 +3377,9 @@
 5	,	,	$,	*	*	*	*
 6	ob	ob	KOUS	*	*	*	*
 7	die	die	ART	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
-10	gefallene	gefallen	ADJA	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+10	gefallene	gefallen	ADJA	FIG	FIG	FIG	FIG
 11	U-Bahn-Eröffnung	<unknown>	NN	*	*	*	*
 12	überhaupt	überhaupt	ADV	*	*	*	*
 13	hätte	haben	VAFIN	*	*	*	*
@@ -3290,6 +3390,7 @@
 # tuepp_article_id = T861124.39
 # sent_id = 4165
 # text = Die geplante Versteigerung von willigen Sklaven der modernen Arbeitsgesellschaft fiel jedoch ins Wasser : Pünktlich um 10.00 Uhr rappelte zwar ein mit Transparenten behängter Leiterwagen auf den Platz , doch dort hatten sich bei leichtem Regen nur wenig mehr als 100 Initiativler eingefunden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3301,10 +3402,10 @@
 7	der	die	ART	*	*	*	*
 8	modernen	modern	ADJA	*	*	*	*
 9	Arbeitsgesellschaft	Arbeitsgesellschaft	NN	*	*	*	*
-10	fiel	fallen	VVFIN	2	2	2	2
+10	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 11	jedoch	jedoch	ADV	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	:	:	$.	*	*	*	*
 15	Pünktlich	pünktlich	ADJD	*	*	*	*
 16	um	um	APPR	*	*	*	*
@@ -3340,16 +3441,17 @@
 # tuepp_article_id = T930524.96
 # sent_id = 4166
 # text = Der Hochsprung fiel aus Sicherheitsgründen buchstäblich ins Wasser , und als verwegene Sportlerinnen und Sportler in der Sprunggrube ein Unterwasserballett einstudieren wollten , beendete man den Weitsprung nach dem dritten Durchgang .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Hochsprung	Hochsprung	NN	*	*	*	*
-3	fiel	fallen	VVFIN	2	2	2	2
+3	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 4	aus	aus	APPR	*	*	*	*
 5	Sicherheitsgründen	Sicherheitsgrund	NN	*	*	*	*
 6	buchstäblich	buchstäblich	ADJD	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	als	als	KOKOM	*	*	*	*
@@ -3378,16 +3480,17 @@
 # tuepp_article_id = T930508.260
 # sent_id = 4167
 # text = Erst fällt die kleine Frau Pilz ins Wasser , und die Siebzigjährige droht von den Fluten hinweggerissen zu werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Erst	erst	ADV	*	*	*	*
-2	fällt	fallen|fällen	VVFIN	1	1	1	1
+2	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 3	die	die	ART	*	*	*	*
 4	kleine	klein	ADJA	*	*	*	*
 5	Frau	Frau	NN	*	*	*	*
 6	Pilz	Pilz	NE	*	*	*	*
-7	ins	in	APPRART	1	1	1	1
-8	Wasser	Wasser	NN	1	1	1	1
+7	ins	in	APPRART	LIT	LIT	LIT	LIT
+8	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 9	,	,	$,	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	die	die	ART	*	*	*	*
@@ -3404,6 +3507,7 @@
 # tuepp_article_id = T930513.216
 # sent_id = 4168
 # text = Das großangelegte Reinemachen der Vergnügungsmeile , 1991 gemeinsam von Kiez- Immobiliensammler Claus Becker und Yuppie-Gastronomie-Trendsetter Hubert Sterzinger geplant , ist nun endgültig ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -3428,14 +3532,15 @@
 20	ist	sein	VAFIN	*	*	*	*
 21	nun	nun	ADV	*	*	*	*
 22	endgültig	endgültig	ADJD	*	*	*	*
-23	ins	in	APPRART	2	2	2	2
-24	Wasser	Wasser	NN	2	2	2	2
-25	gefallen	fallen|gefallen	VVPP	2	2	2	2
+23	ins	in	APPRART	FIG	FIG	FIG	FIG
+24	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+25	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930522.177
 # sent_id = 4169
 # text = Besonders sauer ist Trakies aber darüber , daß das Konzept einer Auffanggesellschaft , die die soliden Projekte der GfbA übernimmt , ins Wasser gefallen ist .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Besonders	besonders	ADV	*	*	*	*
@@ -3459,15 +3564,16 @@
 19	GfbA	<unknown>	NN	*	*	*	*
 20	übernimmt	übernehmen	VVFIN	*	*	*	*
 21	,	,	$,	*	*	*	*
-22	ins	in	APPRART	2	2	2	2
-23	Wasser	Wasser	NN	2	2	2	2
-24	gefallen	fallen|gefallen	VVPP	2	2	2	2
+22	ins	in	APPRART	FIG	FIG	FIG	FIG
+23	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+24	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 25	ist	sein	VAFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930528.138
 # sent_id = 4170
 # text = Wenn auf eine Schönwetterperiode schlechtes Wetter folge , falle weniger Licht ins Wasser , und somit werde der Sauerstoffanteil verringert .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -3478,11 +3584,11 @@
 6	Wetter	Wetter	NN	*	*	*	*
 7	folge	folgen	VVFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	falle	fallen	VVFIN	1	2	1	1
+9	falle	fallen	VVFIN	LIT	FIG	LIT	LIT
 10	weniger	wenige	PIAT	*	*	*	*
 11	Licht	Licht	NN	*	*	*	*
-12	ins	in	APPRART	1	2	1	1
-13	Wasser	Wasser	NN	1	2	1	1
+12	ins	in	APPRART	LIT	FIG	LIT	LIT
+13	Wasser	Wasser	NN	LIT	FIG	LIT	LIT
 14	,	,	$,	*	*	*	*
 15	und	und	KON	*	*	*	*
 16	somit	somit	ADV	*	*	*	*
@@ -3495,6 +3601,7 @@
 # tuepp_article_id = T930612.290
 # sent_id = 4171
 # text = Zuerst wurde sie durch eine Grippe gestoppt , danach fielen jede Menge World-Cup- Veranstaltungen ins Wasser - fehlende Sponsoren waren der Grund dafür .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zuerst	zuerst	ADV	*	*	*	*
@@ -3506,13 +3613,13 @@
 7	gestoppt	stoppen	VVPP	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	danach	danach	PAV	*	*	*	*
-10	fielen	fallen	VVFIN	2	2	2	2
+10	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 11	jede	jede	PIAT	*	*	*	*
 12	Menge	Menge	NN	*	*	*	*
 13	World-Cup-	World-Cup-	TRUNC	*	*	*	*
 14	Veranstaltungen	Veranstaltung	NN	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 17	-	-	$(	*	*	*	*
 18	fehlende	fehlend	ADJA	*	*	*	*
 19	Sponsoren	Sponsor	NN	*	*	*	*
@@ -3525,6 +3632,7 @@
 # tuepp_article_id = T930607.208
 # sent_id = 4172
 # text = Die Breminale erklärt abschließend und offiziell , daß die Breminale so wie ihre Fische - die auf den Stelzen - fast ins Wasser gefallen wäre , wenn nicht doch zig Menschen gekommen wären , vor allem am Sonntag .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3548,9 +3656,9 @@
 19	Stelzen	Stelze	NN	*	*	*	*
 20	-	-	$(	*	*	*	*
 21	fast	fast	ADV	*	*	*	*
-22	ins	in	APPRART	2	2	2	2
-23	Wasser	Wasser	NN	2	2	2	2
-24	gefallen	fallen|gefallen	VVPP	2	2	2	2
+22	ins	in	APPRART	FIG	FIG	FIG	FIG
+23	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+24	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 25	wäre	sein	VAFIN	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	wenn	wenn	KOUS	*	*	*	*
@@ -3570,6 +3678,7 @@
 # tuepp_article_id = T931009.157
 # sent_id = 4173
 # text = Mit den Augen suche ich meine Pose , sie ist weg , ich bemerke die Rute , über die unablässig Schnur abläuft , mit zwei Sätzen bin ich an der Angel , falle fast ins Wasser , jetzt habe ich die Rolle im Griff , ziehe an und fühle den Fisch .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -3604,10 +3713,10 @@
 30	der	die	ART	*	*	*	*
 31	Angel	Angel	NN	*	*	*	*
 32	,	,	$,	*	*	*	*
-33	falle	fallen	VVFIN	1	1	1	1
+33	falle	fallen	VVFIN	LIT	LIT	LIT	LIT
 34	fast	fast	ADV	*	*	*	*
-35	ins	in	APPRART	1	1	1	1
-36	Wasser	Wasser	NN	1	1	1	1
+35	ins	in	APPRART	LIT	LIT	LIT	LIT
+36	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 37	,	,	$,	*	*	*	*
 38	jetzt	jetzt	ADV	*	*	*	*
 39	habe	haben	VAFIN	*	*	*	*
@@ -3628,26 +3737,28 @@
 # tuepp_article_id = T931009.160
 # sent_id = 4174
 # text = Er könnte ja ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
 2	könnte	können	VMFIN	*	*	*	*
 3	ja	ja	ADV	*	*	*	*
-4	ins	in	APPRART	1	1	1	1
-5	Wasser	Wasser	NN	1	1	1	1
-6	fallen	fallen	VVINF	1	1	1	1
+4	ins	in	APPRART	LIT	LIT	LIT	LIT
+5	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+6	fallen	fallen	VVINF	LIT	LIT	LIT	LIT
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930916.80
 # sent_id = 4175
 # text = Mit der ins Wasser gefallenen NDR-Wahlsendung " Im Kreuzfeuer - Die Hamburger Spitzenkandidaten " hat der hilflose Antifaschismus eine neue Narrenkappe errungen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
 2	der	die	ART	*	*	*	*
-3	ins	in	APPRART	2	2	2	2
-4	Wasser	Wasser	NN	2	2	2	2
-5	gefallenen	gefallen	ADJA	2	2	2	2
+3	ins	in	APPRART	FIG	FIG	FIG	FIG
+4	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+5	gefallenen	gefallen	ADJA	FIG	FIG	FIG	FIG
 6	NDR-Wahlsendung	NDR-Wahlsendung	NN	*	*	*	*
 7	"	"	$(	*	*	*	*
 8	Im	in	APPRART	*	*	*	*
@@ -3670,6 +3781,7 @@
 # tuepp_article_id = T930903.193
 # sent_id = 4176
 # text = Die herbeigesehnte Befreiung bei gleichzeitiger Fortdauer des als beängstigend Erlebten im Hintergrund fiel buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3684,15 +3796,16 @@
 10	Erlebten	Erlebte	NN	*	*	*	*
 11	im	in	APPRART	*	*	*	*
 12	Hintergrund	Hintergrund	NN	*	*	*	*
-13	fiel	fallen	VVFIN	2	2	2	2
+13	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 14	buchstäblich	buchstäblich	ADJD	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930927.244
 # sent_id = 4177
 # text = Der Auftakt des 10. Weltcups der Segelsurfer vor Westerland / Sylt fiel wegen Flaute ins Wasser . .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3707,17 +3820,18 @@
 10	Westerland	Westerland	NE	*	*	*	*
 11	/	/	$(	*	*	*	*
 12	Sylt	Sylt	NE	*	*	*	*
-13	fiel	fallen	VVFIN	2	2	2	2
+13	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 14	wegen	wegen	APPR	*	*	*	*
 15	Flaute	Flaute	NN	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930107.103
 # sent_id = 4178
 # text = Fast wäre die Rückkehr des inzwischen mächtig abgespeckten Ballkünstlers an seine alte Wirkungsstätte allerdings ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Fast	fast	ADV	*	*	*	*
@@ -3734,14 +3848,15 @@
 12	alte	alt	ADJA	*	*	*	*
 13	Wirkungsstätte	Wirkungsstätte	NN	*	*	*	*
 14	allerdings	allerdings	ADV	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
-17	gefallen	fallen|gefallen	VVPP	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+17	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930104.254
 # sent_id = 4179
 # text = Beim Vertäuen einer Schute am Kai der Norddeutschen Affinerie in Rothenburgsort fiel gestern ein Mitglied der Besatzung aus bisher nicht bekannter Ursache ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Beim	bei	APPRART	*	*	*	*
@@ -3755,7 +3870,7 @@
 9	Affinerie	<unknown>	NN	*	*	*	*
 10	in	in	APPR	*	*	*	*
 11	Rothenburgsort	<unknown>	NN	*	*	*	*
-12	fiel	fallen	VVFIN	1	1	1	1
+12	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 13	gestern	gestern	ADV	*	*	*	*
 14	ein	eine	ART	*	*	*	*
 15	Mitglied	Mitglied	NN	*	*	*	*
@@ -3766,13 +3881,14 @@
 20	nicht	nicht	PTKNEG	*	*	*	*
 21	bekannter	bekannt	ADJA	*	*	*	*
 22	Ursache	Ursache	NN	*	*	*	*
-23	ins	in	APPRART	1	1	1	1
-24	Wasser	Wasser	NN	1	1	1	1
+23	ins	in	APPRART	LIT	LIT	LIT	LIT
+24	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930106.138
 # sent_id = 4180
 # text = Unklar ist bislang , ob der Sechsjährige aus Hellersdorf durch ein Unglück in das Wasser des Flusses Dahme gefallen ist oder möglicherweise von seinem Onkel ermordet wurde .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Unklar	unklar	ADJD	*	*	*	*
@@ -3787,13 +3903,13 @@
 10	durch	durch	APPR	*	*	*	*
 11	ein	eine	ART	*	*	*	*
 12	Unglück	Unglück	NN	*	*	*	*
-13	in	in	APPR	1	1	1	1
+13	in	in	APPR	LIT	LIT	LIT	LIT
 14	das	die	ART	*	*	*	*
-15	Wasser	Wasser	NN	1	1	1	1
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 16	des	die	ART	*	*	*	*
 17	Flusses	Fluss	NN	*	*	*	*
 18	Dahme	<unknown>	NN	*	*	*	*
-19	gefallen	fallen|gefallen	VVPP	1	1	1	1
+19	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 20	ist	sein	VAFIN	*	*	*	*
 21	oder	oder	KON	*	*	*	*
 22	möglicherweise	möglicherweise	ADV	*	*	*	*
@@ -3807,6 +3923,7 @@
 # tuepp_article_id = T930401.191
 # sent_id = 4181
 # text = Baustaatsrat Jürgen Lüthge : " Wahrscheinlich fällt die Brücke am Montag ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Baustaatsrat	Baustaatsrat	NN	*	*	*	*
@@ -3815,18 +3932,19 @@
 4	:	:	$.	*	*	*	*
 5	"	"	$(	*	*	*	*
 6	Wahrscheinlich	wahrscheinlich	ADJD	*	*	*	*
-7	fällt	fallen|fällen	VVFIN	1	2	1	1
+7	fällt	fallen|fällen	VVFIN	LIT	FIG	LIT	LIT
 8	die	die	ART	*	*	*	*
 9	Brücke	Brücke	NN	*	*	*	*
 10	am	an	APPRART	*	*	*	*
 11	Montag	Montag	NN	*	*	*	*
-12	ins	in	APPRART	1	2	1	1
-13	Wasser	Wasser	NN	1	2	1	1
+12	ins	in	APPRART	LIT	FIG	LIT	LIT
+13	Wasser	Wasser	NN	LIT	FIG	LIT	LIT
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930705.68
 # sent_id = 4182
 # text = Während die südafrikanische Demokratiekonferenz in Johannesburg am Freitag die langersehnte Ankündigung der ersten freien Wahlen in der Geschichte Südafrikas am 27. April 1994 unternahm , fiel ein geplanter Fototermin von de Klerk , Mandela und Bill Clinton im Weißen Haus ins Wasser : Mandela sagte ab .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -3855,7 +3973,7 @@
 24	1994	@card@	CARD	*	*	*	*
 25	unternahm	unternehmen	VVFIN	*	*	*	*
 26	,	,	$,	*	*	*	*
-27	fiel	fallen	VVFIN	2	2	2	2
+27	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 28	ein	eine	ART	*	*	*	*
 29	geplanter	geplant	ADJA	*	*	*	*
 30	Fototermin	Fototermin	NN	*	*	*	*
@@ -3870,8 +3988,8 @@
 39	im	in	APPRART	*	*	*	*
 40	Weißen	Weiß	NN	*	*	*	*
 41	Haus	Haus	NN	*	*	*	*
-42	ins	in	APPRART	2	2	2	2
-43	Wasser	Wasser	NN	2	2	2	2
+42	ins	in	APPRART	FIG	FIG	FIG	FIG
+43	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 44	:	:	$.	*	*	*	*
 45	Mandela	Mandela	NE	*	*	*	*
 46	sagte	sagen	VVFIN	*	*	*	*
@@ -3881,6 +3999,7 @@
 # tuepp_article_id = T930721.193
 # sent_id = 4183
 # text = Trübsinn jeden Tag am Himmel , Trübsinn auch unter den nicht urlaubenden EinwohnerInnen Norddeutschlands , denen regelmäßig die Wochenenderholung ins Wasser fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Trübsinn	Trübsinn	NN	*	*	*	*
@@ -3902,14 +4021,15 @@
 17	regelmäßig	regelmäßig	ADJD	*	*	*	*
 18	die	die	ART	*	*	*	*
 19	Wochenenderholung	<unknown>	NN	*	*	*	*
-20	ins	in	APPRART	2	2	2	2
-21	Wasser	Wasser	NN	2	2	2	2
-22	fällt	fallen|fällen	VVFIN	2	2	2	2
+20	ins	in	APPRART	FIG	FIG	FIG	FIG
+21	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+22	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930702.202
 # sent_id = 4184
 # text = Wenn unser Mann versagt , fällt eine dolle Eröffnung ins Wasser : am Sonntag in Bremen - da tritt Herr Lutz auf .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -3917,12 +4037,12 @@
 3	Mann	Mann	NN	*	*	*	*
 4	versagt	versagen	VVPP	*	*	*	*
 5	,	,	$,	*	*	*	*
-6	fällt	fallen|fällen	VVFIN	2	2	2	2
+6	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 7	eine	eine	ART	*	*	*	*
 8	dolle	doll	ADJA	*	*	*	*
 9	Eröffnung	Eröffnung	NN	*	*	*	*
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	:	:	$.	*	*	*	*
 13	am	an	APPRART	*	*	*	*
 14	Sonntag	Sonntag	NN	*	*	*	*
@@ -3939,6 +4059,7 @@
 # tuepp_article_id = T930731.38
 # sent_id = 4185
 # text = Viele Verbraucher seien durch Konkurse von Veranstaltern geschädigt worden , wobei nicht nur der geplante Urlaub ins Wasser fiel , sondern auch das vorab gezahlte Geld verloren war .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Viele	viele	PIAT	*	*	*	*
@@ -3957,9 +4078,9 @@
 14	der	die	ART	*	*	*	*
 15	geplante	geplant	ADJA	*	*	*	*
 16	Urlaub	Urlaub	NN	*	*	*	*
-17	ins	in	APPRART	2	2	2	2
-18	Wasser	Wasser	NN	2	2	2	2
-19	fiel	fallen	VVFIN	2	2	2	2
+17	ins	in	APPRART	FIG	FIG	FIG	FIG
+18	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+19	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	sondern	sondern	KON	*	*	*	*
 22	auch	auch	ADV	*	*	*	*
@@ -3974,24 +4095,26 @@
 # tuepp_article_id = T931223.27
 # sent_id = 4186
 # text = In Saarbrückens Innenstadt fällt wegen überfluteter Verkaufsflächen das Weihnachtsgeschäft buchstäblich ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	Saarbrückens	Saarbrücken	NE	*	*	*	*
 3	Innenstadt	Innenstadt	NN	*	*	*	*
-4	fällt	fallen|fällen	VVFIN	2	2	2	2
+4	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 5	wegen	wegen	APPR	*	*	*	*
 6	überfluteter	überflutet	ADJA	*	*	*	*
 7	Verkaufsflächen	Verkaufsfläche	NN	*	*	*	*
 8	das	die	ART	*	*	*	*
 9	Weihnachtsgeschäft	Weihnachtsgeschäft	NN	*	*	*	*
 10	buchstäblich	buchstäblich	ADJD	*	*	*	*
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T931223.27
 # sent_id = 4187
 # text = Auch viele Verkaufsflächen sind bereits überflutet , das große Weihnachtsgeschäft mit den Spätentschlossenen , die wegen gesperrter Straßen das Zentrum ohnehin kaum noch erreichen , fällt buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -4019,15 +4142,16 @@
 23	noch	noch	ADV	*	*	*	*
 24	erreichen	erreichen	VVINF	*	*	*	*
 25	,	,	$,	*	*	*	*
-26	fällt	fallen|fällen	VVFIN	2	2	2	2
+26	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 27	buchstäblich	buchstäblich	ADJD	*	*	*	*
-28	ins	in	APPRART	2	2	2	2
-29	Wasser	Wasser	NN	2	2	2	2
+28	ins	in	APPRART	FIG	FIG	FIG	FIG
+29	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930811.109
 # sent_id = 4188
 # text = Das Tier war auf der Hafenmole zum Leuchtturm einer Möwe hinterhergejagt und dabei ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -4043,14 +4167,15 @@
 11	hinterhergejagt	hinterherjagen	VVPP	*	*	*	*
 12	und	und	KON	*	*	*	*
 13	dabei	dabei	PAV	*	*	*	*
-14	ins	in	APPRART	1	1	1	1
-15	Wasser	Wasser	NN	1	1	1	1
-16	gefallen	fallen|gefallen	VVPP	1	1	1	1
+14	ins	in	APPRART	LIT	LIT	LIT	LIT
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+16	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930813.98
 # sent_id = 4189
 # text = Biblische Sintflut : Die Wettbewerbe fielen ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Biblische	biblisch	ADJA	*	*	*	*
@@ -4058,14 +4183,15 @@
 3	:	:	$.	*	*	*	*
 4	Die	die	ART	*	*	*	*
 5	Wettbewerbe	Wettbewerb	NN	*	*	*	*
-6	fielen	fallen	VVFIN	2	2	2	2
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+6	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930819.211
 # sent_id = 4190
 # text = Der Gerettete berichtete , daß in der Nacht zuvor Feuer auf dem Schiff ausgebrochen sei , dann riß wahrscheinlich eine Trosse , so daß fünf der sechs Besatzungsmitglieder ins Wasser fielen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4096,14 +4222,15 @@
 26	der	die	ART	*	*	*	*
 27	sechs	sechs	CARD	*	*	*	*
 28	Besatzungsmitglieder	Besatzungsmitglied	NN	*	*	*	*
-29	ins	in	APPRART	1	1	1	1
-30	Wasser	Wasser	NN	1	1	1	1
-31	fielen	fallen	VVFIN	1	1	1	1
+29	ins	in	APPRART	LIT	LIT	LIT	LIT
+30	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+31	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930825.106
 # sent_id = 4191
 # text = Im Märchen von Hans Christian Andersen geht das - folgt man den Deutungen der Psychoanalytikerin Eva Poluda-Korte - etwa so : Die kleine Seejungfrau verliebte sich in den Prinzen , der ins Wasser gefallen war .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -4137,15 +4264,16 @@
 29	Prinzen	Prinz	NN	*	*	*	*
 30	,	,	$,	*	*	*	*
 31	der	die	PRELS	*	*	*	*
-32	ins	in	APPRART	1	1	1	1
-33	Wasser	Wasser	NN	1	1	1	1
-34	gefallen	fallen|gefallen	VVPP	1	1	1	1
+32	ins	in	APPRART	LIT	LIT	LIT	LIT
+33	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+34	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 35	war	sein	VAFIN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930806.94
 # sent_id = 4192
 # text = Die anderen beiden nahmen den Fahrer zur Brücke und versuchten , ihn in den Fluß zu werfen ; zum Glück hielt er sich am Geländer fest und fiel so nicht ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -4175,16 +4303,17 @@
 25	Geländer	Geländer	NN	*	*	*	*
 26	fest	fest	ADJD	*	*	*	*
 27	und	und	KON	*	*	*	*
-28	fiel	fallen	VVFIN	1	1	1	1
+28	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 29	so	so	ADV	*	*	*	*
 30	nicht	nicht	PTKNEG	*	*	*	*
-31	ins	in	APPRART	1	1	1	1
-32	Wasser	Wasser	NN	1	1	1	1
+31	ins	in	APPRART	LIT	LIT	LIT	LIT
+32	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930805.224
 # sent_id = 4193
 # text = Der Sonntag wird erstmals in für einen Überraschungsfilm freigehalten : Falls also doch einmal ein Film ins Wasser fallen sollte , kann er am Sonntag wiederholt werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4203,9 +4332,9 @@
 14	einmal	einmal	ADV	*	*	*	*
 15	ein	eine	ART	*	*	*	*
 16	Film	Film	NN	*	*	*	*
-17	ins	in	APPRART	2	2	2	2
-18	Wasser	Wasser	NN	2	2	2	2
-19	fallen	fallen	VVINF	2	2	2	2
+17	ins	in	APPRART	FIG	FIG	FIG	FIG
+18	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+19	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 20	sollte	sollen	VMFIN	*	*	*	*
 21	,	,	$,	*	*	*	*
 22	kann	können	VMFIN	*	*	*	*
@@ -4219,6 +4348,7 @@
 # tuepp_article_id = T930306.326
 # sent_id = 4194
 # text = Enttäuschung bei Kiels Segelfans : das Baltic-Matchrace , Deutschlands renommierteste Preisgeld-Segelregatta fällt nun endgültig ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Enttäuschung	Enttäuschung	NN	*	*	*	*
@@ -4232,40 +4362,42 @@
 9	Deutschlands	Deutschlands	NN	*	*	*	*
 10	renommierteste	renommiert	ADJA	*	*	*	*
 11	Preisgeld-Segelregatta	<unknown>	NN	*	*	*	*
-12	fällt	fallen|fällen	VVFIN	2	2	2	2
+12	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 13	nun	nun	ADV	*	*	*	*
 14	endgültig	endgültig	ADJD	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930306.326
 # sent_id = 4195
 # text = Seine beiden anderen Segelveranstaltungen fallen nun auch ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seine	sein	PPOSAT	*	*	*	*
 2	beiden	beide	PIAT	*	*	*	*
 3	anderen	andere	PIS	*	*	*	*
 4	Segelveranstaltungen	Segelveranstaltung	NN	*	*	*	*
-5	fallen	fallen	VVFIN	2	2	2	2
+5	fallen	fallen	VVFIN	FIG	FIG	FIG	FIG
 6	nun	nun	ADV	*	*	*	*
 7	auch	auch	ADV	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931113.361
 # sent_id = 4196
 # text = Beim Arbeitsamt fällt Weihnachten ins Wasser : Für Arbeitslose seien keine Zulagen vorgesehen , sagt Anja Eisenhuth von der Pressestelle der Hamburger Arbeitsverwaltung .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Beim	bei	APPRART	*	*	*	*
 2	Arbeitsamt	Arbeitsamt	NN	*	*	*	*
-3	fällt	fallen|fällen	VVFIN	2	2	2	2
+3	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 4	Weihnachten	Weihnachten	NN	*	*	*	*
-5	ins	in	APPRART	2	2	2	2
-6	Wasser	Wasser	NN	2	2	2	2
+5	ins	in	APPRART	FIG	FIG	FIG	FIG
+6	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 7	:	:	$.	*	*	*	*
 8	Für	für	APPR	*	*	*	*
 9	Arbeitslose	Arbeitslose	NN	*	*	*	*
@@ -4288,6 +4420,7 @@
 # tuepp_article_id = T930209.86
 # sent_id = 4197
 # text = Sämtliche für das Wochenende geplanten Rennen fielen sprichwörtlich ins Wasser , und noch immer ist keine meteorologische Besserung in Sicht .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sämtliche	sämtliche	PIS	*	*	*	*
@@ -4296,10 +4429,10 @@
 4	Wochenende	Wochenende	NN	*	*	*	*
 5	geplanten	geplant	ADJA	*	*	*	*
 6	Rennen	Rennen	NN	*	*	*	*
-7	fielen	fallen	VVFIN	2	2	2	2
+7	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 8	sprichwörtlich	sprichwörtlich	ADJD	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	und	und	KON	*	*	*	*
 13	noch	noch	ADV	*	*	*	*
@@ -4315,6 +4448,7 @@
 # tuepp_article_id = T960504.262
 # sent_id = 4198
 # text = Schön gelang auch ein Erlebnis-Strand mit einem Geräusch , als falle man soeben ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Schön	schön	ADJD	*	*	*	*
@@ -4327,24 +4461,25 @@
 8	Geräusch	Geräusch	NN	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	als	als	KOKOM	*	*	*	*
-11	falle	fallen	VVFIN	1	1	1	1
+11	falle	fallen	VVFIN	LIT	LIT	LIT	LIT
 12	man	man	PIS	*	*	*	*
 13	soeben	soeben	ADV	*	*	*	*
-14	ins	in	APPRART	1	1	1	1
-15	Wasser	Wasser	NN	1	1	1	1
+14	ins	in	APPRART	LIT	LIT	LIT	LIT
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960524.109
 # sent_id = 4199
 # text = " Ich bin ins Wasser gefallen und habe mich stundenlang an einem Bündel Bananen festgehalten , bis dann ein Schiff kam und mich aufnahm " , erzählt die Krankenschwester Eunice Kagaruki , die mit Rückenverletzungen im Krankenhaus liegt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Ich	ich	PPER	*	*	*	*
 3	bin	sein	VAFIN	*	*	*	*
-4	ins	in	APPRART	1	1	1	1
-5	Wasser	Wasser	NN	1	1	1	1
-6	gefallen	fallen|gefallen	VVPP	1	1	1	1
+4	ins	in	APPRART	LIT	LIT	LIT	LIT
+5	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+6	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 7	und	und	KON	*	*	*	*
 8	habe	haben	VAFIN	*	*	*	*
 9	mich	ich	PRF	*	*	*	*
@@ -4382,6 +4517,7 @@
 # tuepp_article_id = T960628.209
 # sent_id = 4200
 # text = Zeit allerdings hätte der Bausenator : Die geplante China-Visite Klemanns mit Bundesbauminister Klaus Töpfer ist ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zeit	Zeit	NN	*	*	*	*
@@ -4399,14 +4535,15 @@
 13	Klaus	Klaus	NE	*	*	*	*
 14	Töpfer	Töpfer	NN	*	*	*	*
 15	ist	sein	VAFIN	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
-18	gefallen	fallen|gefallen	VVPP	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+18	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960613.158
 # sent_id = 4201
 # text = Frau Dr. Ott war ein bißchen betroffen und beklagte , daß so etwas zweifellos " keine schöne Sache " sei : " Da fällt man schon mal in warmes Wasser , und dann gibt 's da Haie !
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Frau	Frau	NN	*	*	*	*
@@ -4432,13 +4569,13 @@
 21	:	:	$.	*	*	*	*
 22	"	"	$(	*	*	*	*
 23	Da	da	ADV	*	*	*	*
-24	fällt	fallen|fällen	VVFIN	1	1	1	1
+24	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 25	man	man	PIS	*	*	*	*
 26	schon	schon	ADV	*	*	*	*
 27	mal	mal	ADV	*	*	*	*
-28	in	in	APPR	1	1	1	1
+28	in	in	APPR	LIT	LIT	LIT	LIT
 29	warmes	warm	ADJA	*	*	*	*
-30	Wasser	Wasser	NN	1	1	1	1
+30	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 31	,	,	$,	*	*	*	*
 32	und	und	KON	*	*	*	*
 33	dann	dann	ADV	*	*	*	*
@@ -4451,16 +4588,18 @@
 # tuepp_article_id = T960604.213
 # sent_id = 4202
 # text = Atomausstieg fällt ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Atomausstieg	Atomausstieg	NN	*	*	*	*
-2	fällt	fallen|fällen	VVFIN	2	2	2	2
-3	ins	in	APPRART	2	2	2	2
-4	Wasser	Wasser	NN	2	2	2	2
+2	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
+3	ins	in	APPRART	FIG	FIG	FIG	FIG
+4	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T960612.248
 # sent_id = 4203
 # text = Als im Juli 1993 der Reiseveranstalter MP Travel-Line pleite ging , fiel der Urlaub seiner Kunden buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KON	*	*	*	*
@@ -4474,19 +4613,20 @@
 9	pleite	pleite	ADJD	*	*	*	*
 10	ging	gehen	VVFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	fiel	fallen	VVFIN	2	2	2	2
+12	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
 14	Urlaub	Urlaub	NN	*	*	*	*
 15	seiner	sein	PPOSAT	*	*	*	*
 16	Kunden	Kunde	NN	*	*	*	*
 17	buchstäblich	buchstäblich	ADJD	*	*	*	*
-18	ins	in	APPRART	2	2	2	2
-19	Wasser	Wasser	NN	2	2	2	2
+18	ins	in	APPRART	FIG	FIG	FIG	FIG
+19	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961009.70
 # sent_id = 4204
 # text = Bis Silvester 1992 hatte der Bundestag Zeit gehabt , das EU-Recht im Bürgerlichen Gesetzbuch zu verankern - damit Reisende , deren Urlaub wegen Konkurses des Veranstalters ins Wasser fällt , ihr Geld wiedersehen oder ohne Zusatzkosten nach Hause kommen , wenn sie von der Pleite in fernen Ländern überrascht werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bis	bis	APPR	*	*	*	*
@@ -4515,9 +4655,9 @@
 24	Konkurses	Konkurs	NN	*	*	*	*
 25	des	die	ART	*	*	*	*
 26	Veranstalters	Veranstalter	NN	*	*	*	*
-27	ins	in	APPRART	2	2	2	2
-28	Wasser	Wasser	NN	2	2	2	2
-29	fällt	fallen|fällen	VVFIN	2	2	2	2
+27	ins	in	APPRART	FIG	FIG	FIG	FIG
+28	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+29	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 30	,	,	$,	*	*	*	*
 31	ihr	ihr	PPOSAT	*	*	*	*
 32	Geld	Geld	NN	*	*	*	*
@@ -4544,37 +4684,40 @@
 # tuepp_article_id = T961018.50
 # sent_id = 4205
 # text = Und sein Buckel fiel ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Und	und	KON	*	*	*	*
 2	sein	sein	PPOSAT	*	*	*	*
 3	Buckel	Buckel	NN	*	*	*	*
-4	fiel	fallen	VVFIN	2	2	2	2
-5	ins	in	APPRART	2	2	2	2
-6	Wasser	Wasser	NN	2	2	2	2
+4	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
+5	ins	in	APPRART	FIG	FIG	FIG	FIG
+6	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961018.313
 # sent_id = 4206
 # text = Schwimmen fällt ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schwimmen	Schwimmen	NN	*	*	*	*
-2	fällt	fallen|fällen	VVFIN	2	2	2	2
-3	ins	in	APPRART	2	2	2	2
-4	Wasser	Wasser	NN	2	2	2	2
+2	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
+3	ins	in	APPRART	FIG	FIG	FIG	FIG
+4	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T961014.182
 # sent_id = 4207
 # text = Nachdem die Hochzeit ins Wasser fiel , dürfe die Schauspielerin nur noch als Touristin maximal drei Monate in der Schweiz weilen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nachdem	nachdem	KOUS	*	*	*	*
 2	die	die	ART	*	*	*	*
 3	Hochzeit	Hochzeit	NN	*	*	*	*
-4	ins	in	APPRART	2	2	2	2
-5	Wasser	Wasser	NN	2	2	2	2
-6	fiel	fallen	VVFIN	2	2	2	2
+4	ins	in	APPRART	FIG	FIG	FIG	FIG
+5	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+6	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	dürfe	dürfen	VMFIN	*	*	*	*
 9	die	die	ART	*	*	*	*
@@ -4595,6 +4738,7 @@
 # tuepp_article_id = T961005.108
 # sent_id = 4208
 # text = Das in Malaga geplante Spiel fiel aber ins Wasser - zunächst weil Jean-Marc lieber in Paris spielen wollte .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -4602,10 +4746,10 @@
 3	Malaga	Malaga	NE	*	*	*	*
 4	geplante	geplant	ADJA	*	*	*	*
 5	Spiel	Spiel	NN	*	*	*	*
-6	fiel	fallen	VVFIN	2	2	2	2
+6	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 7	aber	aber	ADV	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 10	-	-	$(	*	*	*	*
 11	zunächst	zunächst	ADV	*	*	*	*
 12	weil	weil	KOUS	*	*	*	*
@@ -4620,13 +4764,14 @@
 # tuepp_article_id = T961008.79
 # sent_id = 4209
 # text = Zwei Personen fielen ins Wasser , wurden aber unverletzt gerettet .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwei	zwei	CARD	*	*	*	*
 2	Personen	Person	NN	*	*	*	*
-3	fielen	fallen	VVFIN	1	1	1	1
-4	ins	in	APPRART	1	1	1	1
-5	Wasser	Wasser	NN	1	1	1	1
+3	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
+4	ins	in	APPRART	LIT	LIT	LIT	LIT
+5	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 6	,	,	$,	*	*	*	*
 7	wurden	werden	VAFIN	*	*	*	*
 8	aber	aber	ADV	*	*	*	*
@@ -4637,6 +4782,7 @@
 # tuepp_article_id = T960921.109
 # sent_id = 4210
 # text = Liegt es etwa an uns , daß der uralte Zirbenwald als Programmpunkt ins Wasser fiel ?
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Liegt	liegen	VVFIN	*	*	*	*
@@ -4651,14 +4797,15 @@
 10	Zirbenwald	<unknown>	NN	*	*	*	*
 11	als	als	KOKOM	*	*	*	*
 12	Programmpunkt	Programmpunkt	NN	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
-15	fiel	fallen	VVFIN	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+15	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 16	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T960928.82
 # sent_id = 4211
 # text = Und die Sonderschicht am Samstag , also heute , werde wohl ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -4672,14 +4819,15 @@
 9	,	,	$,	*	*	*	*
 10	werde	werden	VAFIN	*	*	*	*
 11	wohl	wohl	ADV	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
-14	fallen	fallen	VVINF	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+14	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960905.218
 # sent_id = 4212
 # text = Weil der Senat die BVG finanziell zunehmend kurzhalte , falle möglicherweise die Bestellung von Doppeldeckerbussen ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
@@ -4691,29 +4839,31 @@
 7	zunehmend	zunehmend	ADJD	*	*	*	*
 8	kurzhalte	<unknown>	ADJD	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	falle	fallen	VVFIN	2	2	2	2
+10	falle	fallen	VVFIN	FIG	FIG	FIG	FIG
 11	möglicherweise	möglicherweise	ADV	*	*	*	*
 12	die	die	ART	*	*	*	*
 13	Bestellung	Bestellung	NN	*	*	*	*
 14	von	von	APPR	*	*	*	*
 15	Doppeldeckerbussen	Doppeldeckerbus	NN	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960418.205
 # sent_id = 4213
 # text = Entscheidung fällt ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Entscheidung	Entscheidung	NN	*	*	*	*
-2	fällt	fallen|fällen	VVFIN	2	2	2	2
-3	ins	in	APPRART	2	2	2	2
-4	Wasser	Wasser	NN	2	2	2	2
+2	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
+3	ins	in	APPRART	FIG	FIG	FIG	FIG
+4	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T960422.133
 # sent_id = 4214
 # text = Sie wird ein veritabler Klubhit und ist der sprichwörtliche Stein , der ins Wasser fällt und bis heute Wellen schlägt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
@@ -4728,9 +4878,9 @@
 10	Stein	Stein	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	der	die	PRELS	*	*	*	*
-13	ins	in	APPRART	1	2	2	2
-14	Wasser	Wasser	NN	1	2	2	2
-15	fällt	fallen|fällen	VVFIN	1	2	2	2
+13	ins	in	APPRART	LIT	FIG	FIG	FIG
+14	Wasser	Wasser	NN	LIT	FIG	FIG	FIG
+15	fällt	fallen|fällen	VVFIN	LIT	FIG	FIG	FIG
 16	und	und	KON	*	*	*	*
 17	bis	bis	KOUS	*	*	*	*
 18	heute	heute	ADV	*	*	*	*
@@ -4741,6 +4891,7 @@
 # tuepp_article_id = T960423.220
 # sent_id = 4215
 # text = Reiseerinnerungen nach 70 Minuten : Mal war 's heiß , mal fiel wer ins Wasser , mal fiel in China ein Sack Reis um .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Reiseerinnerungen	Reiseerinnerung	NN	*	*	*	*
@@ -4754,10 +4905,10 @@
 9	heiß	heiß	ADJD	*	*	*	*
 10	,	,	$,	*	*	*	*
 11	mal	mal	ADV	*	*	*	*
-12	fiel	fallen	VVFIN	1	2	1	1
+12	fiel	fallen	VVFIN	LIT	FIG	LIT	LIT
 13	wer	wer	PWS	*	*	*	*
-14	ins	in	APPRART	1	2	1	1
-15	Wasser	Wasser	NN	1	2	1	1
+14	ins	in	APPRART	LIT	FIG	LIT	LIT
+15	Wasser	Wasser	NN	LIT	FIG	LIT	LIT
 16	,	,	$,	*	*	*	*
 17	mal	mal	ADV	*	*	*	*
 18	fiel	fallen	VVFIN	*	*	*	*
@@ -4772,6 +4923,7 @@
 # tuepp_article_id = T960404.236
 # sent_id = 4216
 # text = Das als " Konzertereignis des Jahres " angekündigte Spektakel fiel buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -4783,15 +4935,16 @@
 7	"	"	$(	*	*	*	*
 8	angekündigte	angekündigt	ADJA	*	*	*	*
 9	Spektakel	Spektakel	NN	*	*	*	*
-10	fiel	fallen	VVFIN	2	2	2	2
+10	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 11	buchstäblich	buchstäblich	ADJD	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960802.68
 # sent_id = 4217
 # text = Doch die Halbzeitbilanz , für die er zu rot-grünen Zeiten noch eine 200 Textseiten umfassende Loseblattsammlung erstellen ließ , fiel diesmal ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -4813,26 +4966,28 @@
 17	erstellen	erstellen	VVINF	*	*	*	*
 18	ließ	lassen	VVFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
-20	fiel	fallen	VVFIN	2	2	2	2
+20	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 21	diesmal	diesmal	ADV	*	*	*	*
-22	ins	in	APPRART	2	2	2	2
-23	Wasser	Wasser	NN	2	2	2	2
+22	ins	in	APPRART	FIG	FIG	FIG	FIG
+23	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960831.363
 # sent_id = 4218
 # text = " Ins Wasser gefallen ?
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
-2	Ins	in	APPRART	1	1	1	1
-3	Wasser	Wasser	NN	1	1	1	1
-4	gefallen	fallen|gefallen	VVPP	1	1	1	1
+2	Ins	in	APPRART	LIT	LIT	LIT	LIT
+3	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+4	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 5	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T960816.227
 # sent_id = 4219
 # text = Wenn dann ein Sommer so ins Wasser fällt wie dieses Jahr , bangt die Weiße Flotte Potsdam um jeden Fahrgast .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -4840,9 +4995,9 @@
 3	ein	eine	ART	*	*	*	*
 4	Sommer	Sommer	NN	*	*	*	*
 5	so	so	ADV	*	*	*	*
-6	ins	in	APPRART	2	2	2	2
-7	Wasser	Wasser	NN	2	2	2	2
-8	fällt	fallen|fällen	VVFIN	2	2	2	2
+6	ins	in	APPRART	FIG	FIG	FIG	FIG
+7	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+8	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 9	wie	wie	KOKOM	*	*	*	*
 10	dieses	dies	PDAT	*	*	*	*
 11	Jahr	Jahr	NN	*	*	*	*
@@ -4860,12 +5015,13 @@
 # tuepp_article_id = T960318.125
 # sent_id = 4220
 # text = Sie fielen ins Wasser ; die Männer lachten , während sie zusahen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	fielen	fallen	VVFIN	1	1	1	1
-3	ins	in	APPRART	1	1	1	1
-4	Wasser	Wasser	NN	1	1	1	1
+2	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
+3	ins	in	APPRART	LIT	LIT	LIT	LIT
+4	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 5	;	;	$.	*	*	*	*
 6	die	die	ART	*	*	*	*
 7	Männer	Mann	NN	*	*	*	*
@@ -4879,23 +5035,25 @@
 # tuepp_article_id = T960315.236
 # sent_id = 4221
 # text = Damit fiel auch der Gewinn für die Verkäufer ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	fiel	fallen	VVFIN	2	2	2	2
+2	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 3	auch	auch	ADV	*	*	*	*
 4	der	die	ART	*	*	*	*
 5	Gewinn	Gewinn	NN	*	*	*	*
 6	für	für	APPR	*	*	*	*
 7	die	die	ART	*	*	*	*
 8	Verkäufer	Verkäufer	NN	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961113.113
 # sent_id = 4222
 # text = Besuche von Zyperntürken jenseits der Demarkationslinie fielen dagegen in jüngster Zeit ins Wasser : Die Teilnehmer erhielten von der eigenen Administration keine Genehmigung .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Besuche	Besuch	NN	*	*	*	*
@@ -4904,13 +5062,13 @@
 4	jenseits	jenseits	APPR	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	Demarkationslinie	Demarkationslinie	NN	*	*	*	*
-7	fielen	fallen	VVFIN	2	2	2	2
+7	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 8	dagegen	dagegen	PAV	*	*	*	*
 9	in	in	APPR	*	*	*	*
 10	jüngster	jung	ADJA	*	*	*	*
 11	Zeit	Zeit	NN	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	:	:	$.	*	*	*	*
 15	Die	die	ART	*	*	*	*
 16	Teilnehmer	Teilnehmer	NN	*	*	*	*
@@ -4926,16 +5084,17 @@
 # tuepp_article_id = T980518.232
 # sent_id = 4223
 # text = Am Fährdamm fiel ein weiteres Dutzend ins Wasser und wurde naß .
+# vid_types = in wasser fallen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
 2	Fährdamm	<unknown>	NN	*	*	*	*
-3	fiel	fallen	VVFIN	1	1	1	1
+3	fiel	fallen	VVFIN	LIT	LIT	LIT	LIT
 4	ein	eine	ART	*	*	*	*
 5	weiteres	weit	ADJA	*	*	*	*
 6	Dutzend	Dutzend	NN	*	*	*	*
-7	ins	in	APPRART	1	1	1	1
-8	Wasser	Wasser	NN	1	1	1	1
+7	ins	in	APPRART	LIT	LIT	LIT	LIT
+8	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 9	und	und	KON	*	*	*	*
 10	wurde	werden	VAFIN	*	*	*	*
 11	naß	nass	ADJD	*	*	*	*
@@ -4944,21 +5103,23 @@
 # tuepp_article_id = T980516.139
 # sent_id = 4224
 # text = Wenn es kentere , fielen alle ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
 2	es	es	PPER	*	*	*	*
 3	kentere	<unknown>	VVFIN	*	*	*	*
 4	,	,	$,	*	*	*	*
-5	fielen	fallen	VVFIN	1	1	1	1
+5	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
 6	alle	alle	PIS	*	*	*	*
-7	ins	in	APPRART	1	1	1	1
-8	Wasser	Wasser	NN	1	1	1	1
+7	ins	in	APPRART	LIT	LIT	LIT	LIT
+8	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980502.339
 # sent_id = 4225
 # text = Der Tag der deutschen Einheit fällt für mich also ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4966,17 +5127,18 @@
 3	der	die	ART	*	*	*	*
 4	deutschen	deutsch	ADJA	*	*	*	*
 5	Einheit	Einheit	NN	*	*	*	*
-6	fällt	fallen|fällen	VVFIN	2	2	2	2
+6	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 7	für	für	APPR	*	*	*	*
 8	mich	ich	PPER	*	*	*	*
 9	also	also	ADV	*	*	*	*
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980617.90
 # sent_id = 4226
 # text = Das geplante Konzert in Mailand fällt erst mal ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -4984,16 +5146,17 @@
 3	Konzert	Konzert	NN	*	*	*	*
 4	in	in	APPR	*	*	*	*
 5	Mailand	Mailand	NE	*	*	*	*
-6	fällt	fallen|fällen	VVFIN	2	2	2	2
+6	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 7	erst	erst	ADV	*	*	*	*
 8	mal	mal	ADV	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980905.51
 # sent_id = 4227
 # text = Die Premiere der 27 Millionen Mark teuren Produktion drohte gestern allerdings noch ins Wasser zu fallen : wegen schwerer Regenfälle .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5008,10 +5171,10 @@
 10	gestern	gestern	ADV	*	*	*	*
 11	allerdings	allerdings	ADV	*	*	*	*
 12	noch	noch	ADV	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 15	zu	zu	PTKZU	*	*	*	*
-16	fallen	fallen	VVINF	2	2	2	2
+16	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 17	:	:	$.	*	*	*	*
 18	wegen	wegen	APPR	*	*	*	*
 19	schwerer	schwer	ADJA	*	*	*	*
@@ -5021,6 +5184,7 @@
 # tuepp_article_id = T980914.8
 # sent_id = 4228
 # text = Während die SchülerInnen im strömenden Regen unverdrossen kundtaten , wie gern sie " mehr über das Alte Rom " wissen wollten , und auch die Models der römischen Modenschau tapfer den Fluten trotzten , fielen die " Gladiatorenkämpfe " leider ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -5057,19 +5221,20 @@
 32	Fluten	Flut|Fluten	NN	*	*	*	*
 33	trotzten	trotzen	VVFIN	*	*	*	*
 34	,	,	$,	*	*	*	*
-35	fielen	fallen	VVFIN	2	2	2	2
+35	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 36	die	die	ART	*	*	*	*
 37	"	"	$(	*	*	*	*
 38	Gladiatorenkämpfe	<unknown>	NN	*	*	*	*
 39	"	"	$(	*	*	*	*
 40	leider	leider	ADV	*	*	*	*
-41	ins	in	APPRART	2	2	2	2
-42	Wasser	Wasser	NN	2	2	2	2
+41	ins	in	APPRART	FIG	FIG	FIG	FIG
+42	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 43	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980911.257
 # sent_id = 4229
 # text = Die einst geplante zentrale Aktion gegen die Erwerbslosigkeit vor der Bundestagswahl fällt damit ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5083,15 +5248,16 @@
 9	vor	vor	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Bundestagswahl	Bundestagswahl	NN	*	*	*	*
-12	fällt	fallen|fällen	VVFIN	2	2	2	2
+12	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 13	damit	damit	PAV	*	*	*	*
-14	ins	in	APPRART	2	2	2	2
-15	Wasser	Wasser	NN	2	2	2	2
+14	ins	in	APPRART	FIG	FIG	FIG	FIG
+15	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980925.229
 # sent_id = 4230
 # text = In einem Zehlendorfer Wahllokal könnte die Wahl ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -5101,14 +5267,15 @@
 5	könnte	können	VMFIN	*	*	*	*
 6	die	die	ART	*	*	*	*
 7	Wahl	Wahl	NN	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
-10	fallen	fallen	VVINF	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+10	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980415.251
 # sent_id = 4231
 # text = Im Ergebnis führte die Debatte dazu , den 1. Mai dieses Jahr in Berlin ins Wasser fallen zu lassen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -5126,9 +5293,9 @@
 13	Jahr	Jahr	NN	*	*	*	*
 14	in	in	APPR	*	*	*	*
 15	Berlin	Berlin	NE	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
-18	fallen	fallen	VVINF	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+18	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 19	zu	zu	PTKZU	*	*	*	*
 20	lassen	lassen	VVINF	*	*	*	*
 21	.	.	$.	*	*	*	*
@@ -5136,6 +5303,7 @@
 # tuepp_article_id = T980408.237
 # sent_id = 4232
 # text = Mal heißt es , die Räumung falle gänzlich ins Wasser , weil dem Gerichtsvollzieher ein Formfehler unterlaufen sei .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mal	mal	ADV	*	*	*	*
@@ -5144,10 +5312,10 @@
 4	,	,	$,	*	*	*	*
 5	die	die	ART	*	*	*	*
 6	Räumung	Räumung	NN	*	*	*	*
-7	falle	fallen	VVFIN	2	2	2	2
+7	falle	fallen	VVFIN	FIG	FIG	FIG	FIG
 8	gänzlich	gänzlich	ADJD	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	weil	weil	KOUS	*	*	*	*
 13	dem	die	ART	*	*	*	*
@@ -5161,6 +5329,7 @@
 # tuepp_article_id = T980411.161
 # sent_id = 4233
 # text = Aktuelle Vorhaben wie die fortlaufende Dokumentierung der achtundsechziger Revolte fielen ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aktuelle	aktuell	ADJA	*	*	*	*
@@ -5172,30 +5341,32 @@
 7	der	die	ART	*	*	*	*
 8	achtundsechziger	<unknown>	ADJA	*	*	*	*
 9	Revolte	Revolte	NN	*	*	*	*
-10	fielen	fallen	VVFIN	2	2	2	2
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
+10	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980731.255
 # sent_id = 4234
 # text = Die Chaostage fallen in diesem Jahr offensichtlich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Chaostage	Chaostag	NN	*	*	*	*
-3	fallen	fallen	VVFIN	2	2	2	2
+3	fallen	fallen	VVFIN	FIG	FIG	FIG	FIG
 4	in	in	APPR	*	*	*	*
 5	diesem	dies	PDAT	*	*	*	*
 6	Jahr	Jahr	NN	*	*	*	*
 7	offensichtlich	offensichtlich	ADJD	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981202.248
 # sent_id = 4235
 # text = Das Auto , so erklärte gestern die Feuerwehr , war von einem Binnenschiff ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -5211,14 +5382,15 @@
 11	von	von	APPR	*	*	*	*
 12	einem	eine	ART	*	*	*	*
 13	Binnenschiff	Binnenschiff	NN	*	*	*	*
-14	ins	in	APPRART	1	1	1	1
-15	Wasser	Wasser	NN	1	1	1	1
-16	gefallen	fallen|gefallen	VVPP	1	1	1	1
+14	ins	in	APPRART	LIT	LIT	LIT	LIT
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+16	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981228.176
 # sent_id = 4236
 # text = Das Feuerwerk an Silvester wird wahrscheinlich nicht ins Wasser fallen , aber in einen klaren Sternenhimmel können die Raketen auch nicht geschossen werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -5228,9 +5400,9 @@
 5	wird	werden	VAFIN	*	*	*	*
 6	wahrscheinlich	wahrscheinlich	ADJD	*	*	*	*
 7	nicht	nicht	PTKNEG	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
-10	fallen	fallen	VVINF	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+10	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	aber	aber	ADV	*	*	*	*
 13	in	in	APPR	*	*	*	*
@@ -5249,6 +5421,7 @@
 # tuepp_article_id = T981224.286
 # sent_id = 4237
 # text = Wie in das Blau des Sees hineingeschnitten fallen im Süden die Hänge Copacabanas und im Norden die der Sonneninsel steil ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -5258,7 +5431,7 @@
 5	des	die	ART	*	*	*	*
 6	Sees	See	NN	*	*	*	*
 7	hineingeschnitten	hineinschneiden	VVPP	*	*	*	*
-8	fallen	fallen	VVFIN	1	2	2	2
+8	fallen	fallen	VVFIN	LIT	FIG	FIG	FIG
 9	im	in	APPRART	*	*	*	*
 10	Süden	Süden	NN	*	*	*	*
 11	die	die	ART	*	*	*	*
@@ -5271,13 +5444,14 @@
 18	der	die	ART	*	*	*	*
 19	Sonneninsel	Sonneninsel	NN	*	*	*	*
 20	steil	steil	ADJD	*	*	*	*
-21	ins	in	APPRART	1	2	2	2
-22	Wasser	Wasser	NN	1	2	2	2
+21	ins	in	APPRART	LIT	FIG	FIG	FIG
+22	Wasser	Wasser	NN	LIT	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980804.104
 # sent_id = 4238
 # text = Dann lobt er gebührend - und , falls die Meisterfeier ins Wasser fallen sollte , auch zur Sicherheit - das herzerfrischende Polo der Cottbuser , nicht ohne ein schnelles " Eigentlich wären wir mal wieder mit dem Titel dran " hinterherzuschieben .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -5290,9 +5464,9 @@
 8	falls	falls	KOUS	*	*	*	*
 9	die	die	ART	*	*	*	*
 10	Meisterfeier	Meisterfeier	NN	*	*	*	*
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
-13	fallen	fallen	VVINF	2	2	2	2
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+13	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 14	sollte	sollen	VMFIN	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	auch	auch	ADV	*	*	*	*
@@ -5326,6 +5500,7 @@
 # tuepp_article_id = T981103.236
 # sent_id = 4239
 # text = Der diesjährige Bremer Freimarkt ist weitgehend ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5334,14 +5509,15 @@
 4	Freimarkt	Freimarkt	NN	*	*	*	*
 5	ist	sein	VAFIN	*	*	*	*
 6	weitgehend	weitgehend	ADJD	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
-9	gefallen	fallen|gefallen	VVPP	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+9	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981102.222
 # sent_id = 4240
 # text = Der goldene Oktober ist in diesem Jahr im wahrsten Sinne des Wortes ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5356,14 +5532,15 @@
 10	Sinne	Sinn	NN	*	*	*	*
 11	des	die	ART	*	*	*	*
 12	Wortes	Wort	NN	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
-15	gefallen	fallen|gefallen	VVPP	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+15	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980228.162
 # sent_id = 4241
 # text = " Bedecktes und Verwußtes " verschrauben sich zu neuen Begriffen ; Wortungetüme türmen sich zu himmelhohen Wendungen , die , durch kleine Schwenks um Bedeutungsachsen gedreht , ins klare Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5393,15 +5570,16 @@
 25	Bedeutungsachsen	<unknown>	NN	*	*	*	*
 26	gedreht	drehen	VVPP	*	*	*	*
 27	,	,	$,	*	*	*	*
-28	ins	in	APPRART	1	2	2	2
+28	ins	in	APPRART	LIT	FIG	FIG	FIG
 29	klare	klar	ADJA	*	*	*	*
-30	Wasser	Wasser	NN	1	2	2	2
-31	fallen	fallen	VVINF	1	2	2	2
+30	Wasser	Wasser	NN	LIT	FIG	FIG	FIG
+31	fallen	fallen	VVINF	LIT	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980225.92
 # sent_id = 4242
 # text = Gestern warnte er : Falls das Projekt ins Wasser fiele , würde die ganze Welt auf Greenwich blicken und eine Brachfläche mit einem Hinweisschild sehen : " Britannien 2000 - nichts passiert .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gestern	gestern	ADV	*	*	*	*
@@ -5411,9 +5589,9 @@
 5	Falls	falls	KOUS	*	*	*	*
 6	das	die	ART	*	*	*	*
 7	Projekt	Projekt	NN	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
-10	fiele	fallen	VVFIN	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+10	fiele	fallen	VVFIN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	würde	werden	VAFIN	*	*	*	*
 13	die	die	ART	*	*	*	*
@@ -5441,10 +5619,11 @@
 # tuepp_article_id = T970512.25
 # sent_id = 4243
 # text = Damit fällt auch Finis Auftritt in der Europäischen Akademie ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	fällt	fallen|fällen	VVFIN	2	2	2	2
+2	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 3	auch	auch	ADV	*	*	*	*
 4	Finis	Finis	NN	*	*	*	*
 5	Auftritt	Auftritt	NN	*	*	*	*
@@ -5452,22 +5631,23 @@
 7	der	die	ART	*	*	*	*
 8	Europäischen	europäisch	ADJA	*	*	*	*
 9	Akademie	Akademie	NN	*	*	*	*
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970506.195
 # sent_id = 4244
 # text = Der gestrige Europa-Tag ist ins Wasser gefallen , zumindest für die meisten der elf Berliner Europa- Grundschulen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	gestrige	gestrig	ADJA	*	*	*	*
 3	Europa-Tag	Europa-Tag	NN	*	*	*	*
 4	ist	sein	VAFIN	*	*	*	*
-5	ins	in	APPRART	2	2	2	2
-6	Wasser	Wasser	NN	2	2	2	2
-7	gefallen	fallen|gefallen	VVPP	2	2	2	2
+5	ins	in	APPRART	FIG	FIG	FIG	FIG
+6	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+7	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	zumindest	zumindest	ADV	*	*	*	*
 10	für	für	APPR	*	*	*	*
@@ -5483,6 +5663,7 @@
 # tuepp_article_id = T970514.116
 # sent_id = 4245
 # text = Die geplante Reise nach Gaza zu einem Treffen mit PLO-Chef Jassir Arafat fiel ebenfalls ins Wasser , da der Gaza- Streifen an diesem Tag einmal wieder abgeriegelt war .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5497,10 +5678,10 @@
 10	PLO-Chef	PLO-Chef	NN	*	*	*	*
 11	Jassir	<unknown>	NN	*	*	*	*
 12	Arafat	Arafat	NE	*	*	*	*
-13	fiel	fallen	VVFIN	2	2	2	2
+13	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 14	ebenfalls	ebenfalls	ADV	*	*	*	*
-15	ins	in	APPRART	2	2	2	2
-16	Wasser	Wasser	NN	2	2	2	2
+15	ins	in	APPRART	FIG	FIG	FIG	FIG
+16	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	da	da	KOUS	*	*	*	*
 19	der	die	ART	*	*	*	*
@@ -5518,6 +5699,7 @@
 # tuepp_article_id = T970509.269
 # sent_id = 4246
 # text = Die GAL warnte lediglich , vor lauter Gewerbetraum drohe der Wohnungsbau ins Wasser zu fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5531,15 +5713,16 @@
 9	drohe	drohen	VVFIN	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Wohnungsbau	Wohnungsbau	NN	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	zu	zu	PTKZU	*	*	*	*
-15	fallen	fallen	VVINF	2	2	2	2
+15	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970625.265
 # sent_id = 4247
 # text = Was darauf hindeutet , daß auch am Holzhafen das Wohnen am Wasser in selbiges fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Was	was	PWS	*	*	*	*
@@ -5552,16 +5735,17 @@
 8	Holzhafen	Holzhafen	NN	*	*	*	*
 9	das	die	ART	*	*	*	*
 10	Wohnen	Wohnen	NN	*	*	*	*
-11	am	an	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
+11	am	an	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 13	in	in	APPR	*	*	*	*
 14	selbiges	<unknown>	NN	*	*	*	*
-15	fällt	fallen|fällen	VVFIN	2	2	2	2
+15	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970908.74
 # sent_id = 4248
 # text = Und fast sah es so aus , als ob auch das Fest der Anti-Atom-Firma Salinas und der taz am Samstag vorm Gorlebner Castor-Lager ins Wasser fallen sollte .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -5587,15 +5771,16 @@
 21	vorm	vorm	APPRART	*	*	*	*
 22	Gorlebner	<unknown>	NE	*	*	*	*
 23	Castor-Lager	Castor-Lager	NN	*	*	*	*
-24	ins	in	APPRART	2	2	2	2
-25	Wasser	Wasser	NN	2	2	2	2
-26	fallen	fallen	VVINF	2	2	2	2
+24	ins	in	APPRART	FIG	FIG	FIG	FIG
+25	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+26	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 27	sollte	sollen	VMFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970922.233
 # sent_id = 4249
 # text = Die irre " Besucherregelung " für die Köpenicker Solarboote ist damit ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5609,14 +5794,15 @@
 9	Solarboote	Solarboot	NN	*	*	*	*
 10	ist	sein	VAFIN	*	*	*	*
 11	damit	damit	PAV	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
-14	gefallen	fallen|gefallen	VVPP	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+14	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970922.260
 # sent_id = 4250
 # text = Im Frühsommer hatte das Wetter den Bademeistern übel mitgespielt , besonders bei den Abendveranstaltungen : Im Stadionbad fielen das Open Air Kino oder der " Heart Breaker-s Ball " ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -5636,7 +5822,7 @@
 15	:	:	$.	*	*	*	*
 16	Im	in	APPRART	*	*	*	*
 17	Stadionbad	Stadionbad	NN	*	*	*	*
-18	fielen	fallen	VVFIN	2	2	2	2
+18	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 19	das	die	ART	*	*	*	*
 20	Open	<unknown>	NN	*	*	*	*
 21	Air	Air	NN	*	*	*	*
@@ -5648,13 +5834,14 @@
 27	Breaker-s	<unknown>	NN	*	*	*	*
 28	Ball	Ball	NN	*	*	*	*
 29	"	"	$(	*	*	*	*
-30	ins	in	APPRART	2	2	2	2
-31	Wasser	Wasser	NN	2	2	2	2
+30	ins	in	APPRART	FIG	FIG	FIG	FIG
+31	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970115.99
 # sent_id = 4251
 # text = Nur die acht , die ins Wasser gefallen sind , bleiben noch da .
+# vid_types = in wasser fallen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Nur	nur	ADV	*	*	*	*
@@ -5662,9 +5849,9 @@
 3	acht	acht	CARD	*	*	*	*
 4	,	,	$,	*	*	*	*
 5	die	die	PRELS	*	*	*	*
-6	ins	in	APPRART	1	1	1	1
-7	Wasser	Wasser	NN	1	1	1	1
-8	gefallen	fallen|gefallen	VVPP	1	1	1	1
+6	ins	in	APPRART	LIT	LIT	LIT	LIT
+7	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+8	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 9	sind	sein	VAFIN	*	*	*	*
 10	,	,	$,	*	*	*	*
 11	bleiben	bleiben	VVFIN	*	*	*	*
@@ -5675,6 +5862,7 @@
 # tuepp_article_id = T970416.15
 # sent_id = 4252
 # text = Berlin ( taz ) - Die Protestaktionen in Zaires Hauptstadt Kinshasa , mit denen die zivile Opposition unter Etienne Tshisekedi den Staatschef Mobutu stürzen will , sind gestern ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -5705,14 +5893,15 @@
 26	,	,	$,	*	*	*	*
 27	sind	sein	VAFIN	*	*	*	*
 28	gestern	gestern	ADV	*	*	*	*
-29	ins	in	APPRART	2	2	2	2
-30	Wasser	Wasser	NN	2	2	2	2
-31	gefallen	fallen|gefallen	VVPP	2	2	2	2
+29	ins	in	APPRART	FIG	FIG	FIG	FIG
+30	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+31	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970423.237
 # sent_id = 4253
 # text = Das " Konzertereignis des Jahres " fiel buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -5721,15 +5910,16 @@
 4	des	die	ART	*	*	*	*
 5	Jahres	Jahr	NN	*	*	*	*
 6	"	"	$(	*	*	*	*
-7	fiel	fallen	VVFIN	2	2	2	2
+7	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 8	buchstäblich	buchstäblich	ADJD	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970421.163
 # sent_id = 4254
 # text = Der angetrunkene Mann war den Carabinieri bei einer nächtlichen Streife aufgefallen , weil er sich so ungeschickt an dem langen , schmalen Riemen zu schaffen machte , daß er beinahe ins Wasser gefallen wäre .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5762,29 +5952,31 @@
 28	daß	dass	KOUS	*	*	*	*
 29	er	er	PPER	*	*	*	*
 30	beinahe	beinahe	ADV	*	*	*	*
-31	ins	in	APPRART	1	1	1	1
-32	Wasser	Wasser	NN	1	1	1	1
-33	gefallen	fallen|gefallen	VVPP	1	1	1	1
+31	ins	in	APPRART	LIT	LIT	LIT	LIT
+32	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+33	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 34	wäre	sein	VAFIN	*	*	*	*
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970731.214
 # sent_id = 4255
 # text = Aber dann fielen die Schuppen ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Aber	aber	KON	*	*	*	*
 2	dann	dann	ADV	*	*	*	*
-3	fielen	fallen	VVFIN	1	1	1	1
+3	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
 4	die	die	ART	*	*	*	*
 5	Schuppen	Schuppe|Schuppen	NN	*	*	*	*
-6	ins	in	APPRART	1	1	1	1
-7	Wasser	Wasser	NN	1	1	1	1
+6	ins	in	APPRART	LIT	LIT	LIT	LIT
+7	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970712.276
 # sent_id = 4256
 # text = taz : Das Hotel im Turm fällt wegen der Drogenszene im Sternschanzenpark ins Wasser , sagen Investor und Möchtegern-Hotelier .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	taz	<unknown>	NE	*	*	*	*
@@ -5793,14 +5985,14 @@
 4	Hotel	Hotel	NN	*	*	*	*
 5	im	in	APPRART	*	*	*	*
 6	Turm	Turm	NN	*	*	*	*
-7	fällt	fallen|fällen	VVFIN	2	2	2	2
+7	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 8	wegen	wegen	APPR	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Drogenszene	Drogenszene	NN	*	*	*	*
 11	im	in	APPRART	*	*	*	*
 12	Sternschanzenpark	Sternschanzenpark	NN	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	sagen	sagen	VVFIN	*	*	*	*
 17	Investor	Investor	NN	*	*	*	*
@@ -5811,6 +6003,7 @@
 # tuepp_article_id = T970719.200
 # sent_id = 4257
 # text = Glaubt man den Wetterfröschen , dann werden die wochenendlichen Ausflüge ins Grüne diesmal ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Glaubt	glauben	VVFIN	*	*	*	*
@@ -5826,14 +6019,15 @@
 11	ins	in	APPRART	*	*	*	*
 12	Grüne	Grüne	NN	*	*	*	*
 13	diesmal	diesmal	ADV	*	*	*	*
-14	ins	in	APPRART	2	2	2	2
-15	Wasser	Wasser	NN	2	2	2	2
-16	fallen	fallen	VVINF	2	2	2	2
+14	ins	in	APPRART	FIG	FIG	FIG	FIG
+15	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+16	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971224.332
 # sent_id = 4258
 # text = Als dann der Strom ausfällt , fällt das Thanksgiving Dinner ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -5842,17 +6036,18 @@
 4	Strom	Strom	NN	*	*	*	*
 5	ausfällt	ausfallen	VVFIN	*	*	*	*
 6	,	,	$,	*	*	*	*
-7	fällt	fallen|fällen	VVFIN	2	2	2	2
+7	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 8	das	die	ART	*	*	*	*
 9	Thanksgiving	<unknown>	NE	*	*	*	*
 10	Dinner	Dinner	NN	*	*	*	*
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970816.230
 # sent_id = 4259
 # text = Wenn Vater Paul , Küchenchef bei VEB Optima , seinem nicht unbedingt mutigen Alfons einen " richtigen Kopfsprung " demonstrieren will und kläglich auf den Bauch klatscht , während Alfons im Gedrängel zufällig kerzengerade ins Wasser fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -5889,14 +6084,15 @@
 32	Gedrängel	Gedrängel	NN	*	*	*	*
 33	zufällig	zufällig	ADJD	*	*	*	*
 34	kerzengerade	kerzengerade	ADJD	*	*	*	*
-35	ins	in	APPRART	1	2	1	1
-36	Wasser	Wasser	NN	1	2	1	1
-37	fällt	fallen|fällen	VVFIN	1	2	1	1
+35	ins	in	APPRART	LIT	FIG	LIT	LIT
+36	Wasser	Wasser	NN	LIT	FIG	LIT	LIT
+37	fällt	fallen|fällen	VVFIN	LIT	FIG	LIT	LIT
 38	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970807.150
 # sent_id = 4260
 # text = Mir gelang dabei ein kurioses Gemälde , das leider im allerletzten Moment ins Wasser fiel .
+# vid_types = in wasser fallen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Mir	ich	PPER	*	*	*	*
@@ -5911,14 +6107,15 @@
 10	im	in	APPRART	*	*	*	*
 11	allerletzten	allerletzt	ADJA	*	*	*	*
 12	Moment	Moment	NN	*	*	*	*
-13	ins	in	APPRART	2	1	1	1
-14	Wasser	Wasser	NN	2	1	1	1
-15	fiel	fallen	VVFIN	2	1	1	1
+13	ins	in	APPRART	FIG	LIT	LIT	LIT
+14	Wasser	Wasser	NN	FIG	LIT	LIT	LIT
+15	fiel	fallen	VVFIN	FIG	LIT	LIT	LIT
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970828.104
 # sent_id = 4261
 # text = Doch die erbeuteten Waffen waren unbrauchbar , da entscheidende Teile weggeschlossen waren , und außerdem fiel die geplante Landbesetzung sowieso ins Wasser , weil sich der Lieferwagen überschlug .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -5936,13 +6133,13 @@
 13	,	,	$,	*	*	*	*
 14	und	und	KON	*	*	*	*
 15	außerdem	außerdem	ADV	*	*	*	*
-16	fiel	fallen	VVFIN	2	2	2	2
+16	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
 18	geplante	geplant	ADJA	*	*	*	*
 19	Landbesetzung	Landbesetzung	NN	*	*	*	*
 20	sowieso	sowieso	ADV	*	*	*	*
-21	ins	in	APPRART	2	2	2	2
-22	Wasser	Wasser	NN	2	2	2	2
+21	ins	in	APPRART	FIG	FIG	FIG	FIG
+22	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 23	,	,	$,	*	*	*	*
 24	weil	weil	KOUS	*	*	*	*
 25	sich	sich	PRF	*	*	*	*
@@ -5954,6 +6151,7 @@
 # tuepp_article_id = T970329.349
 # sent_id = 4262
 # text = Ostern sieht es meist so aus : Eltern fangen an , die Wohnung nach neuen Verstecken zu durchkämmen , legen Schokohäschenvorräte an und suchen in der Programmzeitschrift nach pädagogisch wertvollen Nachmittagsfilmen - falls es regnet und der Osterspaziergang ins Wasser fällt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ostern	Ostern	NN	*	*	*	*
@@ -5994,14 +6192,15 @@
 36	und	und	KON	*	*	*	*
 37	der	die	ART	*	*	*	*
 38	Osterspaziergang	Osterspaziergang	NN	*	*	*	*
-39	ins	in	APPRART	2	2	2	2
-40	Wasser	Wasser	NN	2	2	2	2
-41	fällt	fallen|fällen	VVFIN	2	2	2	2
+39	ins	in	APPRART	FIG	FIG	FIG	FIG
+40	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+41	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970228.83
 # sent_id = 4263
 # text = Weil sich die Außenminister deshalb auf keinen Text einigen konnten , fiel ein vorgesehener " politischer Dialog " mit dem zypriotischen Außenminister Michaelides ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
@@ -6015,7 +6214,7 @@
 9	einigen	einigen	VVINF	*	*	*	*
 10	konnten	können	VMFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	fiel	fallen	VVFIN	2	2	2	2
+12	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 13	ein	eine	ART	*	*	*	*
 14	vorgesehener	vorgesehen	ADJA	*	*	*	*
 15	"	"	$(	*	*	*	*
@@ -6027,13 +6226,14 @@
 21	zypriotischen	zypriotisch	ADJA	*	*	*	*
 22	Außenminister	Außenminister	NN	*	*	*	*
 23	Michaelides	Michaelides	NE	*	*	*	*
-24	ins	in	APPRART	2	2	2	2
-25	Wasser	Wasser	NN	2	2	2	2
+24	ins	in	APPRART	FIG	FIG	FIG	FIG
+25	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970218.202
 # sent_id = 4264
 # text = Am Ende küßt sich das Liebespaar leidenschaftlich , fällt ins Wasser und wird vielleicht beim Trocknen in der Kate umgehend damit beginnen , gesunde und hübsche Kinder zu zeugen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -6044,9 +6244,9 @@
 6	Liebespaar	Liebespaar	NN	*	*	*	*
 7	leidenschaftlich	leidenschaftlich	ADJD	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	fällt	fallen|fällen	VVFIN	1	1	1	1
-10	ins	in	APPRART	1	1	1	1
-11	Wasser	Wasser	NN	1	1	1	1
+9	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
+10	ins	in	APPRART	LIT	LIT	LIT	LIT
+11	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 12	und	und	KON	*	*	*	*
 13	wird	werden	VAFIN	*	*	*	*
 14	vielleicht	vielleicht	ADV	*	*	*	*
@@ -6070,6 +6270,7 @@
 # tuepp_article_id = T970225.279
 # sent_id = 4265
 # text = Der Jugendausschuß von Tostedt kündigte daraufhin die Benutzerordnung des Zentrums , so daß die geplanten Wahlen ins Wasser fielen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6088,14 +6289,15 @@
 14	die	die	ART	*	*	*	*
 15	geplanten	geplant	ADJA	*	*	*	*
 16	Wahlen	Wahl	NN	*	*	*	*
-17	ins	in	APPRART	2	2	2	2
-18	Wasser	Wasser	NN	2	2	2	2
-19	fielen	fallen	VVFIN	2	2	2	2
+17	ins	in	APPRART	FIG	FIG	FIG	FIG
+18	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+19	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970222.237
 # sent_id = 4266
 # text = Durch die Vibration des Herantreten wirft das Licht Kreise , scheinen die Insekten ins Wasser gefallen , und die Klanginstallation " Chiton " von Ole Jarchov deutlich hörbarer zu sein .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Durch	durch	APPR	*	*	*	*
@@ -6111,9 +6313,9 @@
 11	scheinen	scheinen	VVFIN	*	*	*	*
 12	die	die	ART	*	*	*	*
 13	Insekten	Insekt	NN	*	*	*	*
-14	ins	in	APPRART	1	2	1	1
-15	Wasser	Wasser	NN	1	2	1	1
-16	gefallen	fallen|gefallen	VVPP	1	2	1	1
+14	ins	in	APPRART	LIT	FIG	LIT	LIT
+15	Wasser	Wasser	NN	LIT	FIG	LIT	LIT
+16	gefallen	fallen|gefallen	VVPP	LIT	FIG	LIT	LIT
 17	,	,	$,	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	die	die	ART	*	*	*	*
@@ -6133,18 +6335,20 @@
 # tuepp_article_id = T940524.112
 # sent_id = 4267
 # text = Doch niemand fällt ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
 2	niemand	niemand	PIS	*	*	*	*
-3	fällt	fallen|fällen	VVFIN	1	1	1	1
-4	ins	in	APPRART	1	1	1	1
-5	Wasser	Wasser	NN	1	1	1	1
+3	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
+4	ins	in	APPRART	LIT	LIT	LIT	LIT
+5	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940606.172
 # sent_id = 4268
 # text = Der geplante Höhepunkt , eine Menschenkette um den Innenstadtring , fiel am frühen Abend freilich buchstäblich ins ( Regen- ) Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6157,22 +6361,23 @@
 8	den	die	ART	*	*	*	*
 9	Innenstadtring	Innenstadtring	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	fiel	fallen	VVFIN	2	2	2	2
+11	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 12	am	an	APPRART	*	*	*	*
 13	frühen	früh	ADJA	*	*	*	*
 14	Abend	Abend	NN	*	*	*	*
 15	freilich	freilich	ADV	*	*	*	*
 16	buchstäblich	buchstäblich	ADJD	*	*	*	*
-17	ins	in	APPRART	2	2	2	2
+17	ins	in	APPRART	FIG	FIG	FIG	FIG
 18	(	(	$(	*	*	*	*
 19	Regen-	Regen-	TRUNC	*	*	*	*
 20	)	)	$(	*	*	*	*
-21	Wasser	Wasser	NN	2	2	2	2
+21	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940606.172
 # sent_id = 4269
 # text = Die meisten davon waren allerdings durch den Platzregen am Nachmittag regelrecht ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6186,21 +6391,22 @@
 9	am	an	APPRART	*	*	*	*
 10	Nachmittag	Nachmittag	NN	*	*	*	*
 11	regelrecht	regelrecht	ADJD	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
-14	gefallen	fallen|gefallen	VVPP	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+14	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940606.197
 # sent_id = 4270
 # text = Die Schulung fiel ins Wasser , die Betriebsräte blieben zu Hause .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Schulung	Schulung	NN	*	*	*	*
-3	fiel	fallen	VVFIN	2	2	2	2
-4	ins	in	APPRART	2	2	2	2
-5	Wasser	Wasser	NN	2	2	2	2
+3	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
+4	ins	in	APPRART	FIG	FIG	FIG	FIG
+5	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 6	,	,	$,	*	*	*	*
 7	die	die	ART	*	*	*	*
 8	Betriebsräte	Betriebsrat	NN	*	*	*	*
@@ -6212,6 +6418,7 @@
 # tuepp_article_id = T940606.232
 # sent_id = 4271
 # text = Die bundesweite Aktion " Mobil ohne Auto " fiel am Sonntag in Hamburg und Schleswig-Holstein buchstäblich ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6222,7 +6429,7 @@
 6	ohne	ohne	APPR	*	*	*	*
 7	Auto	Auto	NN	*	*	*	*
 8	"	"	$(	*	*	*	*
-9	fiel	fallen	VVFIN	2	2	2	2
+9	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 10	am	an	APPRART	*	*	*	*
 11	Sonntag	Sonntag	NN	*	*	*	*
 12	in	in	APPR	*	*	*	*
@@ -6230,13 +6437,14 @@
 14	und	und	KON	*	*	*	*
 15	Schleswig-Holstein	Schleswig-Holstein	NE	*	*	*	*
 16	buchstäblich	buchstäblich	ADJD	*	*	*	*
-17	ins	in	APPRART	2	2	2	2
-18	Wasser	Wasser	NN	2	2	2	2
+17	ins	in	APPRART	FIG	FIG	FIG	FIG
+18	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940608.188
 # sent_id = 4272
 # text = Das Mädchen war am 31. Mai beim Klettern ins Wasser gefallen und weggerissen worden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -6248,9 +6456,9 @@
 7	Mai	Mai	NN	*	*	*	*
 8	beim	bei	APPRART	*	*	*	*
 9	Klettern	Klettern	NN	*	*	*	*
-10	ins	in	APPRART	1	1	1	1
-11	Wasser	Wasser	NN	1	1	1	1
-12	gefallen	fallen|gefallen	VVPP	1	1	1	1
+10	ins	in	APPRART	LIT	LIT	LIT	LIT
+11	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+12	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 13	und	und	KON	*	*	*	*
 14	weggerissen	wegreißen	VVPP	*	*	*	*
 15	worden	werden	VAPP	*	*	*	*
@@ -6259,6 +6467,7 @@
 # tuepp_article_id = T941027.131
 # sent_id = 4273
 # text = Um die Geschichte von Mallory und Mickey Knox so bombastisch zu erzählen ( " erzählen " ist eindeutig das falsche Wort ) , wie es ihm not dünkt , hat er die cineastische Avantgarde der sechziger Jahre ( Stan Brakhage zum Beispiel ) ebenso beliehen wie Sam Peckinpah , Sam Fuller oder Walt Disney : Als Mickey and Mallory sich auf einer Brücke in Tennessee das Jawort geben , indem sie sich die Hände ritzen , fallen Blutstropfen ins Wasser , die bald zu riesengroßen Disney-Herzen werden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	KOUI	*	*	*	*
@@ -6337,10 +6546,10 @@
 74	Hände	Hand	NN	*	*	*	*
 75	ritzen	ritzen	VVINF	*	*	*	*
 76	,	,	$,	*	*	*	*
-77	fallen	fallen	VVFIN	1	1	1	1
+77	fallen	fallen	VVFIN	LIT	LIT	LIT	LIT
 78	Blutstropfen	Blutstropfen	NN	*	*	*	*
-79	ins	in	APPRART	1	1	1	1
-80	Wasser	Wasser	NN	1	1	1	1
+79	ins	in	APPRART	LIT	LIT	LIT	LIT
+80	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 81	,	,	$,	*	*	*	*
 82	die	die	PRELS	*	*	*	*
 83	bald	bald	ADV	*	*	*	*
@@ -6353,6 +6562,7 @@
 # tuepp_article_id = T941029.177
 # sent_id = 4274
 # text = Ganz offenbar war der Sommer 84 ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ganz	ganz	ADV	*	*	*	*
@@ -6361,14 +6571,15 @@
 4	der	die	ART	*	*	*	*
 5	Sommer	Sommer	NN	*	*	*	*
 6	84	@card@	CARD	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
-9	gefallen	fallen|gefallen	VVPP	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+9	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940903.275
 # sent_id = 4275
 # text = Wieder einmal sollen also durch den Sparhaushalt des Senats Kulturveranstaltungen ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wieder	wieder	ADV	*	*	*	*
@@ -6381,14 +6592,15 @@
 8	des	die	ART	*	*	*	*
 9	Senats	Senat	NN	*	*	*	*
 10	Kulturveranstaltungen	Kulturveranstaltung	NN	*	*	*	*
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
-13	fallen	fallen	VVINF	2	2	2	2
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+13	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940129.299
 # sent_id = 4276
 # text = Seit dem 9. November ist er jetzt der sportliche Leiter am Borgweg , aber das üble Schicksal wollte es so , daß alle Punktspiele des VfL 93 regelrecht ins Wasser fielen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
@@ -6420,25 +6632,27 @@
 27	VfL	<unknown>	NN	*	*	*	*
 28	93	@card@	CARD	*	*	*	*
 29	regelrecht	regelrecht	ADJD	*	*	*	*
-30	ins	in	APPRART	2	2	2	2
-31	Wasser	Wasser	NN	2	2	2	2
-32	fielen	fallen	VVFIN	2	2	2	2
+30	ins	in	APPRART	FIG	FIG	FIG	FIG
+31	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+32	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940428.167
 # sent_id = 4277
 # text = Revolutionäre Mai-Demo fällt ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Revolutionäre	revolutionär	ADJA	*	*	*	*
 2	Mai-Demo	<unknown>	NN	*	*	*	*
-3	fällt	fallen|fällen	VVFIN	2	2	2	2
-4	ins	in	APPRART	2	2	2	2
-5	Wasser	Wasser	NN	2	2	2	2
+3	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
+4	ins	in	APPRART	FIG	FIG	FIG	FIG
+5	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T940429.219
 # sent_id = 4278
 # text = " Auch das angekündigte Kulturprogramm fiel überraschend ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6446,37 +6660,39 @@
 3	das	die	ART	*	*	*	*
 4	angekündigte	angekündigt	ADJA	*	*	*	*
 5	Kulturprogramm	Kulturprogramm	NN	*	*	*	*
-6	fiel	fallen	VVFIN	2	2	2	2
+6	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 7	überraschend	überraschend	ADJD	*	*	*	*
-8	ins	in	APPRART	2	2	2	2
-9	Wasser	Wasser	NN	2	2	2	2
+8	ins	in	APPRART	FIG	FIG	FIG	FIG
+9	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940411.205
 # sent_id = 4279
 # text = Auch das angekündigte Kulturprogramm fiel überraschend ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
 2	das	die	ART	*	*	*	*
 3	angekündigte	angekündigt	ADJA	*	*	*	*
 4	Kulturprogramm	Kulturprogramm	NN	*	*	*	*
-5	fiel	fallen	VVFIN	2	2	2	2
+5	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 6	überraschend	überraschend	ADJD	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940411.253
 # sent_id = 4280
 # text = Ein wenig ins Wasser gefallen war der erste Tag des Zeltwochenendes : Bei klammer Kälte hatte es am Samstag nicht allzuviele Neugierige an den Hafenrand gelockt .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
 2	wenig	wenige	PIS	*	*	*	*
-3	ins	in	APPRART	2	2	2	2
-4	Wasser	Wasser	NN	2	2	2	2
-5	gefallen	fallen|gefallen	VVPP	2	2	2	2
+3	ins	in	APPRART	FIG	FIG	FIG	FIG
+4	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+5	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 6	war	sein	VAFIN	*	*	*	*
 7	der	die	ART	*	*	*	*
 8	erste	erst	ADJA	*	*	*	*
@@ -6503,6 +6719,7 @@
 # tuepp_article_id = T940407.125
 # sent_id = 4281
 # text = Der Schmerz allerdings resultiert offenbar nicht aus der eigenen Ignoranz - " die Leute müssen einem halt glauben " - , sondern aus dem Nicht-wahrhaben- Wollen , daß ihre Erfolge nachträglich mit einem Mal ins Wasser fallen könnten : " Da ist man Olympiasiegerin , Weltmeisterin und Europameisterin , und dann soll plötzlich alles nichts mehr wert sein ?
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6539,9 +6756,9 @@
 32	mit	mit	APPR	*	*	*	*
 33	einem	eine	ART	*	*	*	*
 34	Mal	Mal	NN	*	*	*	*
-35	ins	in	APPRART	2	2	2	2
-36	Wasser	Wasser	NN	2	2	2	2
-37	fallen	fallen	VVINF	2	2	2	2
+35	ins	in	APPRART	FIG	FIG	FIG	FIG
+36	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+37	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 38	könnten	können	VMFIN	*	*	*	*
 39	:	:	$.	*	*	*	*
 40	"	"	$(	*	*	*	*
@@ -6568,6 +6785,7 @@
 # tuepp_article_id = T940415.199
 # sent_id = 4282
 # text = Alle Träume vom Straßencafe oder dem Picknick am Wannsee sind erst einmal ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Alle	alle	PIAT	*	*	*	*
@@ -6582,24 +6800,26 @@
 10	sind	sein	VAFIN	*	*	*	*
 11	erst	erst	ADV	*	*	*	*
 12	einmal	einmal	ADV	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
-15	gefallen	fallen|gefallen	VVPP	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+15	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940405.185
 # sent_id = 4283
 # text = Ostern fiel ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ostern	Ostern	NN	*	*	*	*
-2	fiel	fallen	VVFIN	2	2	2	2
-3	ins	in	APPRART	2	2	2	2
-4	Wasser	Wasser	NN	2	2	2	2
+2	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
+3	ins	in	APPRART	FIG	FIG	FIG	FIG
+4	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T940812.136
 # sent_id = 4284
 # text = Was sie offenbar auch taten , obwohl das dort geplante Konzert ins Wasser gefallen war , vielleicht wegen der abgefangenen und zurückgeschickten Bands - , und außer einer kleinen Musikeinlage von fünfzehn Minuten aus dem Bandbus Samstag nachmittag vor der Lutherkirche wurden keine Attraktionen geboten .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Was	was	PWS	*	*	*	*
@@ -6613,9 +6833,9 @@
 9	dort	dort	ADV	*	*	*	*
 10	geplante	geplant	ADJA	*	*	*	*
 11	Konzert	Konzert	NN	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
-14	gefallen	fallen|gefallen	VVPP	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+14	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 15	war	sein	VAFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	vielleicht	vielleicht	ADV	*	*	*	*
@@ -6652,14 +6872,15 @@
 # tuepp_article_id = T940827.126
 # sent_id = 4285
 # text = Einmal die Löffel ins Wasser fallen lassen und für eine Weile die Ruhe genießen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einmal	einmal	ADV	*	*	*	*
 2	die	die	ART	*	*	*	*
 3	Löffel	Löffel	NN	*	*	*	*
-4	ins	in	APPRART	1	2	2	2
-5	Wasser	Wasser	NN	1	2	2	2
-6	fallen	fallen	VVINF	1	2	2	2
+4	ins	in	APPRART	LIT	FIG	FIG	FIG
+5	Wasser	Wasser	NN	LIT	FIG	FIG	FIG
+6	fallen	fallen	VVINF	LIT	FIG	FIG	FIG
 7	lassen	lassen	VVINF	*	*	*	*
 8	und	und	KON	*	*	*	*
 9	für	für	APPR	*	*	*	*
@@ -6673,6 +6894,7 @@
 # tuepp_article_id = T940819.126
 # sent_id = 4286
 # text = Die 6,7 Millionen Mark teure Leichtathletik-Weltklasse von Zürich fiel ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6683,13 +6905,14 @@
 6	Leichtathletik-Weltklasse	<unknown>	NN	*	*	*	*
 7	von	von	APPR	*	*	*	*
 8	Zürich	Zürich	NE	*	*	*	*
-9	fiel	fallen	VVFIN	2	2	2	2
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+9	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T940819.126
 # sent_id = 4287
 # text = Die " Weltklasse bei der Mini-WM " ( Eigenwerbung ) fiel ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6702,14 +6925,15 @@
 8	(	(	$(	*	*	*	*
 9	Eigenwerbung	Eigenwerbung	NN	*	*	*	*
 10	)	)	$(	*	*	*	*
-11	fiel	fallen	VVFIN	2	2	2	2
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+11	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940808.254
 # sent_id = 4288
 # text = Dabei sei er vermutlich abgerutscht und ins Wasser gefallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
@@ -6718,33 +6942,35 @@
 4	vermutlich	vermutlich	ADV	*	*	*	*
 5	abgerutscht	abrutschen	VVPP	*	*	*	*
 6	und	und	KON	*	*	*	*
-7	ins	in	APPRART	1	1	1	1
-8	Wasser	Wasser	NN	1	1	1	1
-9	gefallen	fallen|gefallen	VVPP	1	1	1	1
+7	ins	in	APPRART	LIT	LIT	LIT	LIT
+8	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+9	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940813.35
 # sent_id = 4289
 # text = Der gute Vorsatz fällt in der sächsischen Landeshauptstadt erst mal ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	gute	gut	ADJA	*	*	*	*
 3	Vorsatz	Vorsatz	NN	*	*	*	*
-4	fällt	fallen|fällen	VVFIN	2	2	2	2
+4	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 5	in	in	APPR	*	*	*	*
 6	der	die	ART	*	*	*	*
 7	sächsischen	sächsisch	ADJA	*	*	*	*
 8	Landeshauptstadt	Landeshauptstadt	NN	*	*	*	*
 9	erst	erst	ADV	*	*	*	*
 10	mal	mal	ADV	*	*	*	*
-11	ins	in	APPRART	2	2	2	2
-12	Wasser	Wasser	NN	2	2	2	2
+11	ins	in	APPRART	FIG	FIG	FIG	FIG
+12	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940326.140
 # sent_id = 4290
 # text = Ihr Besitzer Jang Sun Leng : " Wir hatten Pläne , die 1989er Peking-Ausstellung nach Hongkong zu holen , aber das fiel wegen des Massakers ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ihr	ihr	PPOSAT	*	*	*	*
@@ -6768,29 +6994,31 @@
 19	,	,	$,	*	*	*	*
 20	aber	aber	KON	*	*	*	*
 21	das	die	PDS	*	*	*	*
-22	fiel	fallen	VVFIN	2	2	2	2
+22	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 23	wegen	wegen	APPR	*	*	*	*
 24	des	die	ART	*	*	*	*
 25	Massakers	Massaker	NN	*	*	*	*
-26	ins	in	APPRART	2	2	2	2
-27	Wasser	Wasser	NN	2	2	2	2
+26	ins	in	APPRART	FIG	FIG	FIG	FIG
+27	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940319.292
 # sent_id = 4291
 # text = Katamaran-Pendelfähre nach Stade fällt ins Wasser
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Katamaran-Pendelfähre	<unknown>	NN	*	*	*	*
 2	nach	nach	APPR	*	*	*	*
 3	Stade	<unknown>	NN	*	*	*	*
-4	fällt	fallen|fällen	VVFIN	2	1	1	1
-5	ins	in	APPRART	2	1	1	1
-6	Wasser	Wasser	NN	2	1	1	1
+4	fällt	fallen|fällen	VVFIN	FIG	LIT	LIT	LIT
+5	ins	in	APPRART	FIG	LIT	LIT	LIT
+6	Wasser	Wasser	NN	FIG	LIT	LIT	LIT
 
 # tuepp_article_id = T940329.202
 # sent_id = 4292
 # text = Als Reaktion auf die buchstäblich ins Wasser gefallene Saison ist allerdings der Anleger " Mundsburger Brücke " aus dem Kreuzfahrten-Programm gestrichen worden .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -6798,9 +7026,9 @@
 3	auf	auf	APPR	*	*	*	*
 4	die	die	ART	*	*	*	*
 5	buchstäblich	buchstäblich	ADJD	*	*	*	*
-6	ins	in	APPRART	2	2	2	2
-7	Wasser	Wasser	NN	2	2	2	2
-8	gefallene	gefallen	ADJA	2	2	2	2
+6	ins	in	APPRART	FIG	FIG	FIG	FIG
+7	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+8	gefallene	gefallen	ADJA	FIG	FIG	FIG	FIG
 9	Saison	Saison	NN	*	*	*	*
 10	ist	sein	VAFIN	*	*	*	*
 11	allerdings	allerdings	ADV	*	*	*	*
@@ -6820,6 +7048,7 @@
 # tuepp_article_id = T941124.274
 # sent_id = 4293
 # text = Der in Aachen durchgesetzte Nulltarif , der den Einstieg in die Solarzellen-Massenproduktion einleiten soll , fällt in Hamburg so ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6837,17 +7066,18 @@
 13	einleiten	einleiten	VVINF	*	*	*	*
 14	soll	sollen	VMFIN	*	*	*	*
 15	,	,	$,	*	*	*	*
-16	fällt	fallen|fällen	VVFIN	2	2	2	2
+16	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
 17	in	in	APPR	*	*	*	*
 18	Hamburg	Hamburg	NE	*	*	*	*
 19	so	so	ADV	*	*	*	*
-20	ins	in	APPRART	2	2	2	2
-21	Wasser	Wasser	NN	2	2	2	2
+20	ins	in	APPRART	FIG	FIG	FIG	FIG
+21	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941122.135
 # sent_id = 4294
 # text = Die Idee eines Autors , das Deutschlandlied und die USA-Hymne dazuzuspielen , fiel zum Glück ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6862,16 +7092,17 @@
 10	USA-Hymne	<unknown>	NN	*	*	*	*
 11	dazuzuspielen	<unknown>	VVIZU	*	*	*	*
 12	,	,	$,	*	*	*	*
-13	fiel	fallen	VVFIN	2	2	2	2
+13	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 14	zum	zu	APPRART	*	*	*	*
 15	Glück	Glück	NN	*	*	*	*
-16	ins	in	APPRART	2	2	2	2
-17	Wasser	Wasser	NN	2	2	2	2
+16	ins	in	APPRART	FIG	FIG	FIG	FIG
+17	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940205.279
 # sent_id = 4295
 # text = Wer hat nur das Gerücht in die Welt gesetzt , daß die Generalprobe ins Wasser fallen müßte , damit die Premiere gelänge ?
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
@@ -6887,9 +7118,9 @@
 11	daß	dass	KOUS	*	*	*	*
 12	die	die	ART	*	*	*	*
 13	Generalprobe	Generalprobe	NN	*	*	*	*
-14	ins	in	APPRART	2	2	2	2
-15	Wasser	Wasser	NN	2	2	2	2
-16	fallen	fallen	VVINF	2	2	2	2
+14	ins	in	APPRART	FIG	FIG	FIG	FIG
+15	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+16	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 17	müßte	müssen	VMFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	damit	damit	KOUS	*	*	*	*
@@ -6901,10 +7132,11 @@
 # tuepp_article_id = T940221.219
 # sent_id = 4296
 # text = Damit fiel die Profibox-Premiere des 31jährigen Klempners aus Kattenturm zum zweitenmal ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	fiel	fallen	VVFIN	2	2	2	2
+2	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	Profibox-Premiere	<unknown>	NN	*	*	*	*
 5	des	die	ART	*	*	*	*
@@ -6914,13 +7146,14 @@
 9	Kattenturm	<unknown>	NN	*	*	*	*
 10	zum	zu	APPRART	*	*	*	*
 11	zweitenmal	<unknown>	NN	*	*	*	*
-12	ins	in	APPRART	2	2	2	2
-13	Wasser	Wasser	NN	2	2	2	2
+12	ins	in	APPRART	FIG	FIG	FIG	FIG
+13	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950527.325
 # sent_id = 4297
 # text = Ein 29jähriger Mann ist offenbar beim Angeln in einem Regenwasserrückhaltebecken in Jenfeld ins Wasser gefallen und ertrunken .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -6935,9 +7168,9 @@
 10	Regenwasserrückhaltebecken	Regenwasserrückhaltebecken	NN	*	*	*	*
 11	in	in	APPR	*	*	*	*
 12	Jenfeld	<unknown>	NN	*	*	*	*
-13	ins	in	APPRART	1	1	1	1
-14	Wasser	Wasser	NN	1	1	1	1
-15	gefallen	fallen|gefallen	VVPP	1	1	1	1
+13	ins	in	APPRART	LIT	LIT	LIT	LIT
+14	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+15	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 16	und	und	KON	*	*	*	*
 17	ertrunken	ertrinken	VVPP	*	*	*	*
 18	.	.	$.	*	*	*	*
@@ -6945,6 +7178,7 @@
 # tuepp_article_id = T950616.153
 # sent_id = 4298
 # text = Was Gott sei Dank wegen tief hängender Wolken ins Wasser fiel .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Was	was	PWAT	*	*	*	*
@@ -6955,14 +7189,15 @@
 6	tief	tief	ADJD	*	*	*	*
 7	hängender	hängend	ADJA	*	*	*	*
 8	Wolken	Wolke	NN	*	*	*	*
-9	ins	in	APPRART	2	2	2	2
-10	Wasser	Wasser	NN	2	2	2	2
-11	fiel	fallen	VVFIN	2	2	2	2
+9	ins	in	APPRART	FIG	FIG	FIG	FIG
+10	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+11	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950613.52
 # sent_id = 4299
 # text = Berlin ( taz ) - Die bundesweite Mega-Abi-Fete 95 , die mit großem Tamtam am 16. Juni in Uelzen , Niedersachsen , stattfinden sollte , fällt ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -6991,14 +7226,15 @@
 24	stattfinden	stattfinden	VVINF	*	*	*	*
 25	sollte	sollen	VMFIN	*	*	*	*
 26	,	,	$,	*	*	*	*
-27	fällt	fallen|fällen	VVFIN	2	2	2	2
-28	ins	in	APPRART	2	2	2	2
-29	Wasser	Wasser	NN	2	2	2	2
+27	fällt	fallen|fällen	VVFIN	FIG	FIG	FIG	FIG
+28	ins	in	APPRART	FIG	FIG	FIG	FIG
+29	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950608.132
 # sent_id = 4300
 # text = Das Boot der Briten steuert bei , ein Franzose fällt ins Wasser , seine Füße verheddern sich bei dem Malheur in der Schiffsschraube , und es schabt laut .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -7010,9 +7246,9 @@
 7	,	,	$,	*	*	*	*
 8	ein	eine	ART	*	*	*	*
 9	Franzose	Franzose	NN	*	*	*	*
-10	fällt	fallen|fällen	VVFIN	1	1	1	1
-11	ins	in	APPRART	1	1	1	1
-12	Wasser	Wasser	NN	1	1	1	1
+10	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
+11	ins	in	APPRART	LIT	LIT	LIT	LIT
+12	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 13	,	,	$,	*	*	*	*
 14	seine	sein	PPOSAT	*	*	*	*
 15	Füße	Fuß	NN	*	*	*	*
@@ -7034,6 +7270,7 @@
 # tuepp_article_id = T951028.30
 # sent_id = 4301
 # text = Das Kind war am Vortag bei Elze " gegen 16 Uhr beim Spielen ins Wasser " der Saale gefallen und ertrunken .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -7049,12 +7286,12 @@
 11	Uhr	Uhr	NN	*	*	*	*
 12	beim	bei	APPRART	*	*	*	*
 13	Spielen	Spiel|Spielen	NN	*	*	*	*
-14	ins	in	APPRART	1	1	1	1
-15	Wasser	Wasser	NN	1	1	1	1
+14	ins	in	APPRART	LIT	LIT	LIT	LIT
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 16	"	"	$(	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	Saale	Saal	NN	*	*	*	*
-19	gefallen	fallen|gefallen	VVPP	1	1	1	1
+19	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 20	und	und	KON	*	*	*	*
 21	ertrunken	ertrinken	VVPP	*	*	*	*
 22	.	.	$.	*	*	*	*
@@ -7062,6 +7299,7 @@
 # tuepp_article_id = T951019.189
 # sent_id = 4302
 # text = Nach eigenen Angaben war der Mann ins Wasser gefallen , als er am Ufer nach seinem Schlüsselbund suchte und dabei wegrutschte .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -7070,9 +7308,9 @@
 4	war	sein	VAFIN	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	Mann	Mann	NN	*	*	*	*
-7	ins	in	APPRART	1	1	1	1
-8	Wasser	Wasser	NN	1	1	1	1
-9	gefallen	fallen|gefallen	VVPP	1	1	1	1
+7	ins	in	APPRART	LIT	LIT	LIT	LIT
+8	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+9	gefallen	fallen|gefallen	VVPP	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	als	als	KOUS	*	*	*	*
 12	er	er	PPER	*	*	*	*
@@ -7090,6 +7328,7 @@
 # tuepp_article_id = T950921.270
 # sent_id = 4303
 # text = Daß Kevin Costner mit Waterworld beinahe ins Wasser fiel , dürfte bekannt sein .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Daß	dass	KOUS	*	*	*	*
@@ -7098,9 +7337,9 @@
 4	mit	mit	APPR	*	*	*	*
 5	Waterworld	<unknown>	NE	*	*	*	*
 6	beinahe	beinahe	ADV	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
-9	fiel	fallen	VVFIN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+9	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	dürfte	dürfen	VMFIN	*	*	*	*
 12	bekannt	bekennen	VVPP	*	*	*	*
@@ -7110,6 +7349,7 @@
 # tuepp_article_id = T950112.176
 # sent_id = 4304
 # text = Er könnte sich mit seiner Handycam dabei filmen , wie er beim Bötchenfahren ins Wasser fällt , und das Video dann an " Pleiten , Pech und Pannen " schicken .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -7125,9 +7365,9 @@
 11	er	er	PPER	*	*	*	*
 12	beim	bei	APPRART	*	*	*	*
 13	Bötchenfahren	Bötchenfahren	NN	*	*	*	*
-14	ins	in	APPRART	1	1	1	1
-15	Wasser	Wasser	NN	1	1	1	1
-16	fällt	fallen|fällen	VVFIN	1	1	1	1
+14	ins	in	APPRART	LIT	LIT	LIT	LIT
+15	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+16	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
 17	,	,	$,	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	das	die	ART	*	*	*	*
@@ -7147,6 +7387,7 @@
 # tuepp_article_id = T950128.287
 # sent_id = 4305
 # text = Hamburgs traditionelle Feierlichkeiten zum Hafengeburtstag am 8. Mai könnten in diesem Jahr ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hamburgs	Hamburg	NE	*	*	*	*
@@ -7162,29 +7403,31 @@
 11	in	in	APPR	*	*	*	*
 12	diesem	dies	PDAT	*	*	*	*
 13	Jahr	Jahr	NN	*	*	*	*
-14	ins	in	APPRART	2	2	2	2
-15	Wasser	Wasser	NN	2	2	2	2
-16	fallen	fallen	VVINF	2	2	2	2
+14	ins	in	APPRART	FIG	FIG	FIG	FIG
+15	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+16	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950421.204
 # sent_id = 4306
 # text = - Soloprogramm fiel vor einem Jahr ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	-	-	$(	*	*	*	*
 2	Soloprogramm	Soloprogramm	NN	*	*	*	*
-3	fiel	fallen	VVFIN	2	2	2	2
+3	fiel	fallen	VVFIN	FIG	FIG	FIG	FIG
 4	vor	vor	APPR	*	*	*	*
 5	einem	eine	ART	*	*	*	*
 6	Jahr	Jahr	NN	*	*	*	*
-7	ins	in	APPRART	2	2	2	2
-8	Wasser	Wasser	NN	2	2	2	2
+7	ins	in	APPRART	FIG	FIG	FIG	FIG
+8	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950424.143
 # sent_id = 4307
 # text = Dann ging sie mit kleinen , vorsichtigen Schritten zum Ufer , überwand sogar mit viel Geschick die Böschung und ließ sich dann vornüber ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -7210,20 +7453,21 @@
 21	sich	sich	PRF	*	*	*	*
 22	dann	dann	ADV	*	*	*	*
 23	vornüber	vornüber	ADV	*	*	*	*
-24	ins	in	APPRART	1	1	1	1
-25	Wasser	Wasser	NN	1	1	1	1
-26	fallen	fallen	VVINF	1	1	1	1
+24	ins	in	APPRART	LIT	LIT	LIT	LIT
+25	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
+26	fallen	fallen	VVINF	LIT	LIT	LIT	LIT
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950717.219
 # sent_id = 4308
 # text = Sprichwörtlich ins Wasser gefallen ist der Urlaub von Campern auf Borkum , deren Campingplatz nach schweren Schauern gleich 30 Zentimeter unter Wasser stand .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sprichwörtlich	sprichwörtlich	ADJD	*	*	*	*
-2	ins	in	APPRART	2	2	2	2
-3	Wasser	Wasser	NN	2	2	2	2
-4	gefallen	fallen|gefallen	VVPP	2	2	2	2
+2	ins	in	APPRART	FIG	FIG	FIG	FIG
+3	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+4	gefallen	fallen|gefallen	VVPP	FIG	FIG	FIG	FIG
 5	ist	sein	VAFIN	*	*	*	*
 6	der	die	ART	*	*	*	*
 7	Urlaub	Urlaub	NN	*	*	*	*
@@ -7248,6 +7492,7 @@
 # tuepp_article_id = T951208.208
 # sent_id = 4309
 # text = Dann holte er aus , und die Köder fielen mit einem Schwirren zwischen Kahn und Ufer ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -7258,7 +7503,7 @@
 6	und	und	KON	*	*	*	*
 7	die	die	ART	*	*	*	*
 8	Köder	Köder	NN	*	*	*	*
-9	fielen	fallen	VVFIN	1	1	1	1
+9	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
 10	mit	mit	APPR	*	*	*	*
 11	einem	eine	ART	*	*	*	*
 12	Schwirren	Schwirren	NN	*	*	*	*
@@ -7266,13 +7511,14 @@
 14	Kahn	Kahn	NN	*	*	*	*
 15	und	und	KON	*	*	*	*
 16	Ufer	Ufer	NN	*	*	*	*
-17	ins	in	APPRART	1	1	1	1
-18	Wasser	Wasser	NN	1	1	1	1
+17	ins	in	APPRART	LIT	LIT	LIT	LIT
+18	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951223.90
 # sent_id = 4310
 # text = Drei Tage hatte es fast ununterbrochen geregnet , und so drohte das Wahlfest in der kleinen Küstenstadt Kartal nahe Istanbul buchstäblich ins Wasser zu fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Drei	drei	CARD	*	*	*	*
@@ -7296,15 +7542,16 @@
 19	nahe	nahe	APPR	*	*	*	*
 20	Istanbul	Istanbul	NE	*	*	*	*
 21	buchstäblich	buchstäblich	ADJD	*	*	*	*
-22	ins	in	APPRART	2	2	2	2
-23	Wasser	Wasser	NN	2	2	2	2
+22	ins	in	APPRART	FIG	FIG	FIG	FIG
+23	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 24	zu	zu	PTKZU	*	*	*	*
-25	fallen	fallen	VVINF	2	2	2	2
+25	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951213.249
 # sent_id = 4311
 # text = Durch den Zusammenstoß verschoben sich zahlreiche Container , so daß die " Sabine D. " starke Schlagseite bekam , Metallboxen mit ungefährlicher Stückgutladung fielen ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Durch	durch	APPR	*	*	*	*
@@ -7330,14 +7577,15 @@
 21	mit	mit	APPR	*	*	*	*
 22	ungefährlicher	ungefährlich	ADJA	*	*	*	*
 23	Stückgutladung	<unknown>	NN	*	*	*	*
-24	fielen	fallen	VVFIN	1	1	1	1
-25	ins	in	APPRART	1	1	1	1
-26	Wasser	Wasser	NN	1	1	1	1
+24	fielen	fallen	VVFIN	LIT	LIT	LIT	LIT
+25	ins	in	APPRART	LIT	LIT	LIT	LIT
+26	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951211.40
 # sent_id = 4312
 # text = Noch vor kurzem sah es so aus , als könnte der Start des digitalen Pay-TV in Deutschland ins Wasser fallen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Noch	noch	ADV	*	*	*	*
@@ -7357,23 +7605,24 @@
 15	Pay-TV	Pay-TV	NE	*	*	*	*
 16	in	in	APPR	*	*	*	*
 17	Deutschland	Deutschland	NE	*	*	*	*
-18	ins	in	APPRART	2	2	2	2
-19	Wasser	Wasser	NN	2	2	2	2
-20	fallen	fallen	VVINF	2	2	2	2
+18	ins	in	APPRART	FIG	FIG	FIG	FIG
+19	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+20	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950303.65
 # sent_id = 4313
 # text = Wenn das Rahmenprogramm jedoch ins Wasser fallen sollte , wird die Kritik wohl auch ihn treffen .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
 2	das	die	ART	*	*	*	*
 3	Rahmenprogramm	Rahmenprogramm	NN	*	*	*	*
 4	jedoch	jedoch	ADV	*	*	*	*
-5	ins	in	APPRART	2	2	2	2
-6	Wasser	Wasser	NN	2	2	2	2
-7	fallen	fallen	VVINF	2	2	2	2
+5	ins	in	APPRART	FIG	FIG	FIG	FIG
+6	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
+7	fallen	fallen	VVINF	FIG	FIG	FIG	FIG
 8	sollte	sollen	VMFIN	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	wird	werden	VAFIN	*	*	*	*
@@ -7388,6 +7637,7 @@
 # tuepp_article_id = T950217.143
 # sent_id = 4314
 # text = Das Boot der Briten steuert bei , einer der Franzosen fällt ins Wasser , seine Füße verheddern sich in der Schiffsschraube , es schabt laut , und eine rote Pfütze steigt gemächlich im Ozean auf .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -7400,9 +7650,9 @@
 8	einer	eine	PIS	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Franzosen	Franzose	NN	*	*	*	*
-11	fällt	fallen|fällen	VVFIN	1	1	1	1
-12	ins	in	APPRART	1	1	1	1
-13	Wasser	Wasser	NN	1	1	1	1
+11	fällt	fallen|fällen	VVFIN	LIT	LIT	LIT	LIT
+12	ins	in	APPRART	LIT	LIT	LIT	LIT
+13	Wasser	Wasser	NN	LIT	LIT	LIT	LIT
 14	,	,	$,	*	*	*	*
 15	seine	sein	PPOSAT	*	*	*	*
 16	Füße	Fuß	NN	*	*	*	*
@@ -7430,6 +7680,7 @@
 # tuepp_article_id = T990126.239
 # sent_id = 4315
 # text = Die großartig angekündigten Sammelaktionen auf Bremens Straßen fallen aber bis auf weiteres ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7439,18 +7690,19 @@
 5	auf	auf	APPR	*	*	*	*
 6	Bremens	Bremen	NE	*	*	*	*
 7	Straßen	Straße	NN	*	*	*	*
-8	fallen	fallen	VVFIN	2	2	2	2
+8	fallen	fallen	VVFIN	FIG	FIG	FIG	FIG
 9	aber	aber	ADV	*	*	*	*
 10	bis	bis	APPR	*	*	*	*
 11	auf	auf	APPR	*	*	*	*
 12	weiteres	weit	ADJA	*	*	*	*
-13	ins	in	APPRART	2	2	2	2
-14	Wasser	Wasser	NN	2	2	2	2
+13	ins	in	APPRART	FIG	FIG	FIG	FIG
+14	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990316.321
 # sent_id = 4316
 # text = Die von vielen Schülern gewünschten Fahrten zu KZ-Gedenkstätten fielen ins Wasser .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7461,14 +7713,15 @@
 6	Fahrten	Fahrt	NN	*	*	*	*
 7	zu	zu	APPR	*	*	*	*
 8	KZ-Gedenkstätten	KZ-Gedenkstätte	NN	*	*	*	*
-9	fielen	fallen	VVFIN	2	2	2	2
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+9	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990226.224
 # sent_id = 4317
 # text = Zwei Testauftritte gegen Lech Poznan und Bohemians Prag fielen ins Wasser , weil Frau Holle den Rasen des Mommsenstadions schlimmer als Hooligans ramponiert hatte .
+# vid_types = in wasser fallen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwei	zwei	CARD	*	*	*	*
@@ -7479,9 +7732,9 @@
 6	und	und	KON	*	*	*	*
 7	Bohemians	<unknown>	NE	*	*	*	*
 8	Prag	Prag	NE	*	*	*	*
-9	fielen	fallen	VVFIN	2	2	2	2
-10	ins	in	APPRART	2	2	2	2
-11	Wasser	Wasser	NN	2	2	2	2
+9	fielen	fallen	VVFIN	FIG	FIG	FIG	FIG
+10	ins	in	APPRART	FIG	FIG	FIG	FIG
+11	Wasser	Wasser	NN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	weil	weil	KOUS	*	*	*	*
 14	Frau	Frau	NN	*	*	*	*

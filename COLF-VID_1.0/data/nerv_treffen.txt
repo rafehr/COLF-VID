@@ -1,16 +1,17 @@
 # tuepp_article_id = T890527.73
 # sent_id = 4573
 # text = Und sicherlich treffen auch diejenigen einen empfindlichen Nerv , die den grundsätzlichen Widerspruch von Gorbatschows Machtzuwachs und der Perestroika beseitigen möchten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
 2	sicherlich	sicherlich	ADV	*	*	*	*
-3	treffen	treffen	VVFIN	2	2	2	2
+3	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	auch	auch	ADV	*	*	*	*
 5	diejenigen	diejenigen	PDS	*	*	*	*
 6	einen	eine	ART	*	*	*	*
 7	empfindlichen	empfindlich	ADJA	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	die	die	PRELS	*	*	*	*
 11	den	die	ART	*	*	*	*
@@ -29,6 +30,7 @@
 # tuepp_article_id = T890522.82
 # sent_id = 4574
 # text = Ihre Forderungen sind Funken , die einen Flächenbrand auslösten , weil sie den Nerv der chinesischen Gesellschaft getroffen haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ihre	ihr	PPOSAT	*	*	*	*
@@ -44,24 +46,25 @@
 11	weil	weil	KOUS	*	*	*	*
 12	sie	sie	PPER	*	*	*	*
 13	den	die	ART	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 15	der	die	ART	*	*	*	*
 16	chinesischen	chinesisch	ADJA	*	*	*	*
 17	Gesellschaft	Gesellschaft	NN	*	*	*	*
-18	getroffen	treffen|triefen	VVPP	2	2	2	2
+18	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 19	haben	haben	VAFIN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890605.126
 # sent_id = 4575
 # text = Sie traf damit den Nerv der meisten anwesenden Studenten , die wiederholt forderten : " Wir brauchen auch eigene Bereiche , in denen es Professoren schlicht nicht gibt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	damit	damit	PAV	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	meisten	meist	PIAT	*	*	*	*
 8	anwesenden	anwesend	ADJA	*	*	*	*
@@ -90,16 +93,17 @@
 # tuepp_article_id = T891026.77
 # sent_id = 4576
 # text = Den wirklichen Nerv des organisierten Drogengeschäftes zu treffen , hieße in der Kosequenz die Aufgabe der Illegalität , die Freigabe der Drogen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
 2	wirklichen	wirklich	ADJA	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 4	des	die	ART	*	*	*	*
 5	organisierten	organisiert	ADJA	*	*	*	*
 6	Drogengeschäftes	Drogengeschäft	NN	*	*	*	*
 7	zu	zu	PTKZU	*	*	*	*
-8	treffen	treffen	VVINF	2	2	2	2
+8	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	hieße	heißen	VVFIN	*	*	*	*
 11	in	in	APPR	*	*	*	*
@@ -119,15 +123,16 @@
 # tuepp_article_id = T891009.122
 # sent_id = 4577
 # text = Das scheint einen empfindlichen Nerv zu treffen , erst jetzt rollen die ersten vollbesetzten Mannschaftswagen der Polizei auf .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
 2	scheint	scheinen	VVFIN	*	*	*	*
 3	einen	eine	ART	*	*	*	*
 4	empfindlichen	empfindlich	ADJA	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	zu	zu	PTKZU	*	*	*	*
-7	treffen	treffen	VVINF	2	2	2	2
+7	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	erst	erst	ADV	*	*	*	*
 10	jetzt	jetzt	ADV	*	*	*	*
@@ -144,6 +149,7 @@
 # tuepp_article_id = T891007.182
 # sent_id = 4578
 # text = Soweit so gut , denn diese Idee scheint wirklich den Nerv eines bestimmten feministischen Selbstverständnisses getroffen zu haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Soweit	soweit	ADV	*	*	*	*
@@ -156,12 +162,12 @@
 8	scheint	scheinen	VVFIN	*	*	*	*
 9	wirklich	wirklich	ADJD	*	*	*	*
 10	den	die	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	eines	eine	ART	*	*	*	*
 13	bestimmten	bestimmt	ADJA	*	*	*	*
 14	feministischen	feministisch	ADJA	*	*	*	*
 15	Selbstverständnisses	Selbstverständnis	NN	*	*	*	*
-16	getroffen	treffen|triefen	VVPP	2	2	2	2
+16	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
 18	haben	haben	VAINF	*	*	*	*
 19	.	.	$.	*	*	*	*
@@ -169,15 +175,16 @@
 # tuepp_article_id = T891023.151
 # sent_id = 4579
 # text = Denn sie treffen Volkes Gefühle am Nerv , besteht doch von links nach rechts die immer häufiger laut geäußerte Auffassung , daß " denen " sowieso alles " nachgeschmissen " wird .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
 2	sie	sie	PPER	*	*	*	*
-3	treffen	treffen	VVFIN	2	2	2	2
+3	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	Volkes	Volk	NN	*	*	*	*
 5	Gefühle	Gefühl	NN	*	*	*	*
 6	am	an	APPRART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	besteht	bestehen	VVFIN	*	*	*	*
 10	doch	doch	ADV	*	*	*	*
@@ -207,6 +214,7 @@
 # tuepp_article_id = T891028.247
 # sent_id = 4580
 # text = Daß sie mit ihrem Konzept den Nerv der jetzigen Kunstentwicklung der achtziger Jahre getroffen haben , sieht man sowohl daran , daß eine ähnliche Auswahl für die gerade hier in der Nationalgalerie laufende Ausstellung " Konturen " getroffen wurde , als auch an einer Dresdner Ausstellung , die das Kupferstichkabinett zur Zeit präsentiert .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -215,14 +223,14 @@
 4	ihrem	ihr	PPOSAT	*	*	*	*
 5	Konzept	Konzept	NN	*	*	*	*
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
 9	jetzigen	jetzig	ADJA	*	*	*	*
 10	Kunstentwicklung	Kunstentwicklung	NN	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	achtziger	achtzig	ADJA	*	*	*	*
 13	Jahre	Jahr	NN	*	*	*	*
-14	getroffen	treffen|triefen	VVPP	2	2	2	2
+14	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 15	haben	haben	VAFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	sieht	sehen	VVFIN	*	*	*	*
@@ -267,6 +275,7 @@
 # tuepp_article_id = T890413.99
 # sent_id = 4581
 # text = Mehr als ein Dutzend Haubesetzungen und fast ebensoviele Räumungen haben in den ersten Wochen der rot-grünen Koalition in Berlin den Nerv der Alternativen Liste getroffen / Strategielose ALer wurden von der SPD über den Tisch gezogen / " Alternative Berliner Linie " , ein Ausweg aus dem Loyalitätsdilemma ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mehr	mehr	ADV	*	*	*	*
@@ -289,11 +298,11 @@
 18	in	in	APPR	*	*	*	*
 19	Berlin	Berlin	NE	*	*	*	*
 20	den	die	ART	*	*	*	*
-21	Nerv	Nerv	NN	2	2	2	2
+21	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
 23	Alternativen	Alternative	NN	*	*	*	*
 24	Liste	Liste	NN	*	*	*	*
-25	getroffen	treffen|triefen	VVPP	2	2	2	2
+25	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 26	/	/	$(	*	*	*	*
 27	Strategielose	<unknown>	NN	*	*	*	*
 28	ALer	<unknown>	NE	*	*	*	*
@@ -322,6 +331,7 @@
 # tuepp_article_id = T890425.129
 # sent_id = 4582
 # text = Aber über die notleidenden Pächter zu schreiben , das traf genau seinen Nerv , traf die Wut über soziale Ungerechtigkeit , die er seit Beginn der Depressionszeit immer stärker empfunden hatte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -333,10 +343,10 @@
 7	schreiben	schreiben	VVINF	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	das	die	PDS	*	*	*	*
-10	traf	treffen	VVFIN	2	2	2	2
+10	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 11	genau	genau	ADJD	*	*	*	*
 12	seinen	sein	PPOSAT	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	traf	treffen	VVFIN	*	*	*	*
 16	die	die	ART	*	*	*	*
@@ -360,6 +370,7 @@
 # tuepp_article_id = T890713.119
 # sent_id = 4583
 # text = Wenn es beim Endspiel kracht , ist in Amerika der Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -372,13 +383,14 @@
 8	in	in	APPR	*	*	*	*
 9	Amerika	Amerika	NE	*	*	*	*
 10	der	die	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
-12	getroffen	treffen|triefen	VVPP	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+12	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891204.64
 # sent_id = 4584
 # text = Im Raum steht unausgesprochen vor allem eine Frage : Wird der so lange verbotene Künstler nach so vielen Jahren noch den Nerv des Publikums treffen ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -402,19 +414,20 @@
 19	Jahren	Jahr	NN	*	*	*	*
 20	noch	noch	ADV	*	*	*	*
 21	den	die	ART	*	*	*	*
-22	Nerv	Nerv	NN	2	2	2	2
+22	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 23	des	die	ART	*	*	*	*
 24	Publikums	Publikum	NN	*	*	*	*
-25	treffen	treffen	VVINF	2	2	2	2
+25	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 26	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T890828.175
 # sent_id = 4585
 # text = Da trifft ein Film wie " Hundesuppe " von Fajsiew schon eher den blanken Nerv , weil er sein Anliegen mit viel bösem Humor in eine abgedrehte Geschichte verpackt , die in ihrer Vieldeutigkeit wesentlich aggresiver einen schleichenden kollektiven wie individuellen Zerfallsprozeß geißelt als die bestgemeinte , biedere Dokumentation : Ein Haufen Arbeiter lungert hungrig und abgebrannt auf einem Schrottplatz herum , wo es nichts zu tun gibt , und erst ein Hund , der ihnen suppentauglich erscheint , reißt sie aus ihrer dumpfen Lethargie und macht sie zu wahren Aktivisten im Dienste ihrer selbst .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	ein	eine	ART	*	*	*	*
 4	Film	Film	NN	*	*	*	*
 5	wie	wie	KOKOM	*	*	*	*
@@ -427,7 +440,7 @@
 12	eher	eher	ADV	*	*	*	*
 13	den	die	ART	*	*	*	*
 14	blanken	blank	ADJA	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	weil	weil	KOUS	*	*	*	*
 18	er	er	PPER	*	*	*	*
@@ -513,6 +526,7 @@
 # tuepp_article_id = T890807.81
 # sent_id = 4586
 # text = Berlin-Flüge , wer daran rührt , muß davon ausgehen , so etwas wie einen nationalen Nerv zu treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin-Flüge	Berlin-Flug	NN	*	*	*	*
@@ -530,14 +544,15 @@
 13	wie	wie	KOKOM	*	*	*	*
 14	einen	eine	ART	*	*	*	*
 15	nationalen	national	ADJA	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	treffen	treffen	VVINF	2	2	2	2
+18	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890309.27
 # sent_id = 4587
 # text = " Mit seiner nationalistischen Kampagne hat der serbische Parteichef einen Nerv in der Bevölkerung getroffen " , meint der slowenische Publizist Ervin Hladnik-Milharcic .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -550,11 +565,11 @@
 8	serbische	serbisch	ADJA	*	*	*	*
 9	Parteichef	Parteichef	NN	*	*	*	*
 10	einen	eine	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	in	in	APPR	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Bevölkerung	Bevölkerung	NN	*	*	*	*
-15	getroffen	treffen|triefen	VVPP	2	2	2	2
+15	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 16	"	"	$(	*	*	*	*
 17	,	,	$,	*	*	*	*
 18	meint	meinen	VVFIN	*	*	*	*
@@ -568,14 +583,15 @@
 # tuepp_article_id = T891103.134
 # sent_id = 4588
 # text = Die Redaktion scheint den Nerv getroffen zu haben und fühlt sich in ihrem Bemühen bestätigt , eine neue Form zu finden für ein nicht sonderlich populäres Genre .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Redaktion	Redaktion	NN	*	*	*	*
 3	scheint	scheinen	VVFIN	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
-6	getroffen	treffen|triefen	VVPP	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+6	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 7	zu	zu	PTKZU	*	*	*	*
 8	haben	haben	VAINF	*	*	*	*
 9	und	und	KON	*	*	*	*
@@ -602,6 +618,7 @@
 # tuepp_article_id = T910528.195
 # sent_id = 4589
 # text = Ich , » Ostler « , » nach der sich in der U-Bahn keine Rentnerin umdreht « , war jedenfalls vollauf begeistert von Grönemeyers » in den Sternenhimmel pressenden Botschaft « und finde seine Lieder und Texte keinesfalls banal ; sie treffen genau nicht nur meinen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ich	ich	PPER	*	*	*	*
@@ -645,29 +662,30 @@
 39	banal	banal	ADJD	*	*	*	*
 40	;	;	$.	*	*	*	*
 41	sie	sie	PPER	*	*	*	*
-42	treffen	treffen	VVFIN	2	2	2	2
+42	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 43	genau	genau	ADJD	*	*	*	*
 44	nicht	nicht	PTKNEG	*	*	*	*
 45	nur	nur	ADV	*	*	*	*
 46	meinen	mein	PPOSAT	*	*	*	*
-47	Nerv	Nerv	NN	2	2	2	2
+47	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 48	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910525.111
 # sent_id = 4590
 # text = Es wird den Nerv vieler alter und neuer Brocken-Fans treffen , die den Berg nach 30 Jahren hermetischer Abriegelung zum Symbol der Freiheit erkoren haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
 2	wird	werden	VAFIN	*	*	*	*
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	vieler	viele	PIAT	*	*	*	*
 6	alter	alt	ADJA	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	neuer	neu	ADJA	*	*	*	*
 9	Brocken-Fans	Brocken-Fan	NN	*	*	*	*
-10	treffen	treffen	VVINF	2	2	2	2
+10	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	die	die	PRELS	*	*	*	*
 13	den	die	ART	*	*	*	*
@@ -688,6 +706,7 @@
 # tuepp_article_id = T910503.262
 # sent_id = 4591
 # text = Die gegen politische Rechts-Tendenzen gerichteten Texte trafen den Nerv des Publikums .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -696,9 +715,9 @@
 4	Rechts-Tendenzen	Rechts-Tendenz	NN	*	*	*	*
 5	gerichteten	gerichtet	ADJA	*	*	*	*
 6	Texte	Text	NN	*	*	*	*
-7	trafen	treffen	VVFIN	2	2	2	2
+7	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	des	die	ART	*	*	*	*
 11	Publikums	Publikum	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
@@ -706,15 +725,16 @@
 # tuepp_article_id = T910612.210
 # sent_id = 4592
 # text = Sein so formuliertes Anliegen trifft einen Nerv , der reizbar ist , trotz der massenhaften Bilder im Kopf von Gesichtern und Körpern der Heldenmachermaschine » Sport « .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sein	sein	PPOSAT	*	*	*	*
 2	so	so	ADV	*	*	*	*
 3	formuliertes	formuliert	ADJA	*	*	*	*
 4	Anliegen	Anliegen	NN	*	*	*	*
-5	trifft	treffen	VVFIN	2	2	2	2
+5	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	einen	eine	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	der	die	PRELS	*	*	*	*
 10	reizbar	reizbar	ADJD	*	*	*	*
@@ -740,6 +760,7 @@
 # tuepp_article_id = T910622.123
 # sent_id = 4593
 # text = Die immer wieder gleichen Geschichten über Großrancherfamilien und brave Sheriffs trafen nicht mehr den Nerv der Zeit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -752,11 +773,11 @@
 8	und	und	KON	*	*	*	*
 9	brave	brav	ADJA	*	*	*	*
 10	Sheriffs	Sheriff	NN	*	*	*	*
-11	trafen	treffen	VVFIN	2	2	2	2
+11	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 12	nicht	nicht	PTKNEG	*	*	*	*
 13	mehr	mehr	ADV	*	*	*	*
 14	den	die	ART	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
 17	Zeit	Zeit	NN	*	*	*	*
 18	.	.	$.	*	*	*	*
@@ -764,6 +785,7 @@
 # tuepp_article_id = T911014.75
 # sent_id = 4594
 # text = Wo jeder Politthriller hinterher als Erfindung abgetan werden kann , trifft dieses realpolitische Passionsspiel so ziemlich alle rohen Nerven der US-Gesellschaft : Auf den Faktor der Hautfarbe als immer noch unbewältigtes Stück der amerikanischen Geschichte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wo	wo	PWAV	*	*	*	*
@@ -776,7 +798,7 @@
 8	werden	werden	VAINF	*	*	*	*
 9	kann	können	VMFIN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	trifft	treffen	VVFIN	2	2	2	2
+11	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 12	dieses	dies	PDAT	*	*	*	*
 13	realpolitische	realpolitisch	ADJA	*	*	*	*
 14	Passionsspiel	Passionsspiel	NN	*	*	*	*
@@ -784,7 +806,7 @@
 16	ziemlich	ziemlich	ADV	*	*	*	*
 17	alle	alle	PIAT	*	*	*	*
 18	rohen	roh	ADJA	*	*	*	*
-19	Nerven	Nerv|Nerven	NN	2	2	2	2
+19	Nerven	Nerv|Nerven	NN	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
 21	US-Gesellschaft	US-Gesellschaft	NN	*	*	*	*
 22	:	:	$.	*	*	*	*
@@ -806,13 +828,14 @@
 # tuepp_article_id = T910919.101
 # sent_id = 4595
 # text = Die taz trifft den Nerv : Die US-Armeeführung war peinlich darauf bedacht , daß sie jede Niedertracht innerhalb der Legalität beging .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	taz	<unknown>	NE	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	:	:	$.	*	*	*	*
 7	Die	die	ART	*	*	*	*
 8	US-Armeeführung	US-Armeeführung	NN	*	*	*	*
@@ -834,6 +857,7 @@
 # tuepp_article_id = T910923.114
 # sent_id = 4596
 # text = Aus dem Gros der " Bratlmusikanten " ragte die Kapelle der Gebrüder Hanns und Josef Schrammel hervor - genannt " Die Nußdorfer " - die nicht das übliche Repertoire spielten , sondern eine hochverfeinerte , kunstvolle Volksmusik , die den Nerv des Publikums traf .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aus	aus	APPR	*	*	*	*
@@ -876,24 +900,25 @@
 38	,	,	$,	*	*	*	*
 39	die	die	PRELS	*	*	*	*
 40	den	die	ART	*	*	*	*
-41	Nerv	Nerv	NN	2	2	2	2
+41	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 42	des	die	ART	*	*	*	*
 43	Publikums	Publikum	NN	*	*	*	*
-44	traf	treffen	VVFIN	2	2	2	2
+44	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 45	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910121.83
 # sent_id = 4597
 # text = Jungmanns Appell an Israel traf den Nerv einer kontroversen Diskussion am Rande der Demonstration .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jungmanns	Jungmann	NE	*	*	*	*
 2	Appell	Appell	NN	*	*	*	*
 3	an	an	APPR	*	*	*	*
 4	Israel	Israel	NE	*	*	*	*
-5	traf	treffen	VVFIN	2	2	2	2
+5	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	einer	eine	ART	*	*	*	*
 9	kontroversen	kontrovers	ADJA	*	*	*	*
 10	Diskussion	Diskussion	NN	*	*	*	*
@@ -906,6 +931,7 @@
 # tuepp_article_id = T910114.59
 # sent_id = 4598
 # text = Mady Wechsler Segal , eine anerkannte Militärsoziologin , trifft vermutlich den Nerv vieler AmerikanerInnen , wenn sie das Problem in Zusammenhang mit staatsbürgerlicher Gleichheit diskutiert : " Der Ausschluß von Frauen vom Kampfdienst stellt nicht nur ein wesentliches Hindernis für die Karrieremöglichkeiten von Frauen dar .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mady	Mady	NE	*	*	*	*
@@ -916,10 +942,10 @@
 6	anerkannte	anerkannt	ADJA	*	*	*	*
 7	Militärsoziologin	Militärsoziologin	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	trifft	treffen	VVFIN	2	2	2	2
+9	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 10	vermutlich	vermutlich	ADV	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	vieler	viele	PIAT	*	*	*	*
 14	AmerikanerInnen	Amerikanerin	NN	*	*	*	*
 15	,	,	$,	*	*	*	*
@@ -958,6 +984,7 @@
 # tuepp_article_id = T910417.123
 # sent_id = 4599
 # text = Die Geschichte eines folgenschweren Ehebruchs traf genau den Nerv des Aids- Angst-geplagten Publikums .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -965,10 +992,10 @@
 3	eines	eine	ART	*	*	*	*
 4	folgenschweren	folgenschwer	ADJA	*	*	*	*
 5	Ehebruchs	Ehebruch	NN	*	*	*	*
-6	traf	treffen	VVFIN	2	2	2	2
+6	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 7	genau	genau	ADJD	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	des	die	ART	*	*	*	*
 11	Aids-	Aids-	TRUNC	*	*	*	*
 12	Angst-geplagten	<unknown>	NN	*	*	*	*
@@ -978,6 +1005,7 @@
 # tuepp_article_id = T910408.171
 # sent_id = 4600
 # text = Dies würde allerdings den » Nerv der Verkehrserschließung der Stadtbezirke « treffen , meinte er - und schlug sich so letztlich doch auf die Seite der Wasserbetriebe .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dies	dies	PDS	*	*	*	*
@@ -985,13 +1013,13 @@
 3	allerdings	allerdings	ADV	*	*	*	*
 4	den	die	ART	*	*	*	*
 5	»	<unknown>	ADJA	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	Verkehrserschließung	Verkehrserschließung	NN	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Stadtbezirke	Stadtbezirk	NN	*	*	*	*
 11	«	<unknown>	ADJD	*	*	*	*
-12	treffen	treffen	VVINF	2	2	2	2
+12	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	meinte	meinen	VVFIN	*	*	*	*
 15	er	er	PPER	*	*	*	*
@@ -1012,16 +1040,17 @@
 # tuepp_article_id = T910424.189
 # sent_id = 4601
 # text = Zu wenig trafen die importierten Festivalmacher den Nerv der von Alltagssorgen bedrängten lokalen Filmfreunde .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zu	zu	APPR	*	*	*	*
 2	wenig	wenige	PIS	*	*	*	*
-3	trafen	treffen	VVFIN	2	2	2	2
+3	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	importierten	importiert	ADJA	*	*	*	*
 6	Festivalmacher	Festivalmacher	NN	*	*	*	*
 7	den	die	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
 10	von	von	APPR	*	*	*	*
 11	Alltagssorgen	Alltagssorge	NN	*	*	*	*
@@ -1033,6 +1062,7 @@
 # tuepp_article_id = T910705.78
 # sent_id = 4602
 # text = Staatspräsident Otschirbat , populärer Parteikader , ist zweifellos die wichtigste Integrationsfigur und trifft genau den Nerv der Mongolen , wenn er , an das Vermächtnis des Dschingis Khan erinnernd , zu Toleranz und Sachlichkeit im Umgang miteinander mahnt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Staatspräsident	Staatspräsident	NN	*	*	*	*
@@ -1047,10 +1077,10 @@
 10	wichtigste	wichtig	ADJA	*	*	*	*
 11	Integrationsfigur	Integrationsfigur	NN	*	*	*	*
 12	und	und	KON	*	*	*	*
-13	trifft	treffen	VVFIN	2	2	2	2
+13	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 14	genau	genau	ADJD	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
 18	Mongolen	Mongole	NN	*	*	*	*
 19	,	,	$,	*	*	*	*
@@ -1078,28 +1108,30 @@
 # tuepp_article_id = T910325.211
 # sent_id = 4603
 # text = Co damit den Nerv der Zeit getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Co	Co	NN	*	*	*	*
 2	damit	damit	PAV	*	*	*	*
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
 6	Zeit	Zeit	NN	*	*	*	*
-7	getroffen	treffen|triefen	VVPP	2	2	2	2
+7	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910308.121
 # sent_id = 4604
 # text = Die Sonnenfinsternis traf einen empfindlichen Nerv der französischen , unabhängigen Linken , die nach Kriegsende in eine fundamentale Krise geraten war .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Sonnenfinsternis	Sonnenfinsternis	NN	*	*	*	*
-3	traf	treffen	VVFIN	2	2	2	2
+3	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	einen	eine	ART	*	*	*	*
 5	empfindlichen	empfindlich	ADJA	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	französischen	französisch	ADJA	*	*	*	*
 9	,	,	$,	*	*	*	*
@@ -1120,6 +1152,7 @@
 # tuepp_article_id = T910321.86
 # sent_id = 4605
 # text = Denn daß die Regierung mit dem D-Mark-Versprechen den Nerv der depravierten Ost-Bürger traf und die Sozialdemokraten ins nationale Abseits rückte , daß sie mit der Währungsunion die letzte DDR-Regierung ihrer Souveränität beraubte und damit zugleich ihren Einheitskurs unumkehrbar machte , all das erscheint ein knappes Jahr später keineswegs mehr als Garant für eine politische Hegemonie der Union im vereinten Deutschland .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -1130,11 +1163,11 @@
 6	dem	die	ART	*	*	*	*
 7	D-Mark-Versprechen	D-Mark-Versprechen	NN	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
 11	depravierten	<unknown>	ADJA	*	*	*	*
 12	Ost-Bürger	Ost-Bürger	NN	*	*	*	*
-13	traf	treffen	VVFIN	2	2	2	2
+13	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 14	und	und	KON	*	*	*	*
 15	die	die	ART	*	*	*	*
 16	Sozialdemokraten	Sozialdemokrat	NN	*	*	*	*
@@ -1187,12 +1220,13 @@
 # tuepp_article_id = T911115.228
 # sent_id = 4606
 # text = Den grünen Nerv trafen die Themen Verkehrspolitik und Müll .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
 2	grünen	grün	ADJA	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
-4	trafen	treffen	VVFIN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+4	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	die	die	ART	*	*	*	*
 6	Themen	Thema	NN	*	*	*	*
 7	Verkehrspolitik	Verkehrspolitik	NN	*	*	*	*
@@ -1203,6 +1237,7 @@
 # tuepp_article_id = T911104.51
 # sent_id = 4607
 # text = Frey führt seinen Bremer Erfolg darauf zurück , daß er in der Asylfrage den " Nerv der Menschen " getroffen habe .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Frey	Frey	NE	*	*	*	*
@@ -1220,33 +1255,35 @@
 13	Asylfrage	Asylfrage	NN	*	*	*	*
 14	den	die	ART	*	*	*	*
 15	"	"	$(	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
 18	Menschen	Mensch	NN	*	*	*	*
 19	"	"	$(	*	*	*	*
-20	getroffen	treffen|triefen	VVPP	2	2	2	2
+20	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 21	habe	haben	VAFIN	*	*	*	*
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911123.133
 # sent_id = 4608
 # text = Trotz handwerklicher Mängel treffen Erlers Filme zuweilen einen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Trotz	trotz	APPR	*	*	*	*
 2	handwerklicher	handwerklich	ADJA	*	*	*	*
 3	Mängel	Mangel	NN	*	*	*	*
-4	treffen	treffen	VVFIN	2	2	2	2
+4	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	Erlers	<unknown>	NN	*	*	*	*
 6	Filme	Film	NN	*	*	*	*
 7	zuweilen	zuweilen	ADV	*	*	*	*
 8	einen	eine	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910228.142
 # sent_id = 4609
 # text = In diesem Fall wurde mit dem Lob auch sicher nicht zu hoch gegriffen , denn wenn ein Kenner psychischer Abgründe wie August Strindberg das Selbstzeugnis einer künstlerischen Krise ablegt , dann trifft es so monolithisch und dramatisch wie sein Titel Inferno auch den Nerv seiner Zeit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1280,7 +1317,7 @@
 29	ablegt	ablegen	VVFIN	*	*	*	*
 30	,	,	$,	*	*	*	*
 31	dann	dann	ADV	*	*	*	*
-32	trifft	treffen	VVFIN	2	2	2	2
+32	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 33	es	es	PPER	*	*	*	*
 34	so	so	ADV	*	*	*	*
 35	monolithisch	<unknown>	ADJD	*	*	*	*
@@ -1292,7 +1329,7 @@
 41	Inferno	Inferno	NN	*	*	*	*
 42	auch	auch	ADV	*	*	*	*
 43	den	die	ART	*	*	*	*
-44	Nerv	Nerv	NN	2	2	2	2
+44	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 45	seiner	sein	PPOSAT	*	*	*	*
 46	Zeit	Zeit	NN	*	*	*	*
 47	.	.	$.	*	*	*	*
@@ -1300,6 +1337,7 @@
 # tuepp_article_id = T910216.147
 # sent_id = 4610
 # text = Die wahren Begebenheiten nachgezeichnete Ballade um zwei jungenhafte Banditen , die mehr aus Spaß als aus Notwendigkeit Züge überfallen , traf anno 1968 den Nerv des Publikums .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1322,11 +1360,11 @@
 18	Züge	Zug	NN	*	*	*	*
 19	überfallen	überfallen	VVPP	*	*	*	*
 20	,	,	$,	*	*	*	*
-21	traf	treffen	VVFIN	2	2	2	2
+21	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 22	anno	anno	ADV	*	*	*	*
 23	1968	@card@	CARD	*	*	*	*
 24	den	die	ART	*	*	*	*
-25	Nerv	Nerv	NN	2	2	2	2
+25	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 26	des	die	ART	*	*	*	*
 27	Publikums	Publikum	NN	*	*	*	*
 28	.	.	$.	*	*	*	*
@@ -1334,6 +1372,7 @@
 # tuepp_article_id = T900511.191
 # sent_id = 4611
 # text = Der Modellwechsel bei BMW und der Absatzknick im Exportgeschäft hatten den Nerv der sonst so selbstsicheren Firma getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1347,18 +1386,19 @@
 9	Exportgeschäft	Exportgeschäft	NN	*	*	*	*
 10	hatten	haben	VAFIN	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
 14	sonst	sonst	ADV	*	*	*	*
 15	so	so	ADV	*	*	*	*
 16	selbstsicheren	selbstsicher	ADJA	*	*	*	*
 17	Firma	Firma	NN	*	*	*	*
-18	getroffen	treffen|triefen	VVPP	2	2	2	2
+18	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900629.258
 # sent_id = 4612
 # text = In Wahrheit wird durch den kritischen Wissenschaftsberichterstatter seit Jahren schon genau jener schmerzende Nerv getroffen , der aus einem Projekt der Weiterung , Vertiefung und Erhöhung menschlicher Möglichkeiten ein immer quälenderes , von Todesvorstellungen überschattetes Leiden machte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1374,8 +1414,8 @@
 11	genau	genau	ADJD	*	*	*	*
 12	jener	jen	PDAT	*	*	*	*
 13	schmerzende	schmerzend	ADJA	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
-15	getroffen	treffen|triefen	VVPP	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+15	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	der	die	PRELS	*	*	*	*
 18	aus	aus	APPR	*	*	*	*
@@ -1403,6 +1443,7 @@
 # tuepp_article_id = T900622.180
 # sent_id = 4613
 # text = Vielleicht hat er hier den Nerv der Briten getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vielleicht	vielleicht	ADV	*	*	*	*
@@ -1410,15 +1451,16 @@
 3	er	er	PPER	*	*	*	*
 4	hier	hier	ADV	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	Briten	Brite	NN	*	*	*	*
-9	getroffen	treffen|triefen	VVPP	2	2	2	2
+9	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900616.241
 # sent_id = 4614
 # text = Nichtsahnend hatte die zufällig zusammengewürfelte Igelschar einen sensiblen Nerv getroffen : Stell dir vor , du trittst vor die Haustür und die Straßen sind leer !
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nichtsahnend	nichtsahnend	ADJD	*	*	*	*
@@ -1429,8 +1471,8 @@
 6	Igelschar	<unknown>	NN	*	*	*	*
 7	einen	eine	ART	*	*	*	*
 8	sensiblen	sensibel	ADJA	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
-10	getroffen	treffen|triefen	VVPP	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+10	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 11	:	:	$.	*	*	*	*
 12	Stell	stellen	VVIMP	*	*	*	*
 13	dir	du	PRF	*	*	*	*
@@ -1451,6 +1493,7 @@
 # tuepp_article_id = T900625.231
 # sent_id = 4615
 # text = Daß sich ein an sich fortschrittlicher Stadtplaner wie Hoffmann-Axthelm in die Phalanx der Metropolen- und Verdichtungsplaner einreiht , trifft einen empfindlichen Nerv der linken Fachöffentlichkeit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -1471,10 +1514,10 @@
 16	Verdichtungsplaner	<unknown>	NN	*	*	*	*
 17	einreiht	einreihen	VVFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	trifft	treffen	VVFIN	2	2	2	2
+19	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 20	einen	eine	ART	*	*	*	*
 21	empfindlichen	empfindlich	ADJA	*	*	*	*
-22	Nerv	Nerv	NN	2	2	2	2
+22	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
 24	linken	links	ADJA	*	*	*	*
 25	Fachöffentlichkeit	Fachöffentlichkeit	NN	*	*	*	*
@@ -1483,6 +1526,7 @@
 # tuepp_article_id = T900611.124
 # sent_id = 4616
 # text = An den Spieltagen darf in ganz Mailand kein Alkohol ausgeschenkt werden , verordnete Präfekt Caruso , eine Maßnahme , die die Bevölkerung an einem ziemlich empfindlichen Nerv trifft , muß sie doch in ihrem Stammrestaurant um die Ecke den " Osso buco " plötzlich mit Mineralwasser herunterspülen , und die Spaghetti alla Gorgonzola mit Orangensaft .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	An	an	APPR	*	*	*	*
@@ -1511,8 +1555,8 @@
 24	einem	eine	ART	*	*	*	*
 25	ziemlich	ziemlich	ADV	*	*	*	*
 26	empfindlichen	empfindlich	ADJA	*	*	*	*
-27	Nerv	Nerv	NN	2	2	2	2
-28	trifft	treffen	VVFIN	2	2	2	2
+27	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+28	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 29	,	,	$,	*	*	*	*
 30	muß	müssen	VMFIN	*	*	*	*
 31	sie	sie	PPER	*	*	*	*
@@ -1545,16 +1589,17 @@
 # tuepp_article_id = T901031.82
 # sent_id = 4617
 # text = Gerade solche schwammigen Erklärungen treffen den politischen Nerv der ZuschauerInnen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gerade	gerade	ADV	*	*	*	*
 2	solche	solche	PIAT	*	*	*	*
 3	schwammigen	schwammig	ADJA	*	*	*	*
 4	Erklärungen	Erklärung	NN	*	*	*	*
-5	treffen	treffen	VVFIN	2	2	2	2
+5	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	den	die	ART	*	*	*	*
 7	politischen	politisch	ADJA	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
 10	ZuschauerInnen	Zuschauerin	NN	*	*	*	*
 11	.	.	$.	*	*	*	*
@@ -1562,6 +1607,7 @@
 # tuepp_article_id = T901005.82
 # sent_id = 4618
 # text = Mit der Aktion hat Push einen empfindlichen Nerv im Fünf-Milliarden-Dollar-Geschäft mit Sportartikeln getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -1571,17 +1617,18 @@
 5	Push	<unknown>	NE	*	*	*	*
 6	einen	eine	ART	*	*	*	*
 7	empfindlichen	empfindlich	ADJA	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	im	in	APPRART	*	*	*	*
 10	Fünf-Milliarden-Dollar-Geschäft	<unknown>	NN	*	*	*	*
 11	mit	mit	APPR	*	*	*	*
 12	Sportartikeln	Sportartikel	NN	*	*	*	*
-13	getroffen	treffen|triefen	VVPP	2	2	2	2
+13	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901018.216
 # sent_id = 4619
 # text = Dieser Film , dessen Erfolg Kritiker wie Kaufleute gleichermaßen erstaunte , rührte Bestandteile aus Aschenputtel und Flashdance sowie Romeo unsd Julia und Westside Story zusammen und traf damit offensichtlich den Nerv des vornehmlich jugendlichen Publikums .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dieser	dies	PDAT	*	*	*	*
@@ -1610,11 +1657,11 @@
 24	Story	Story	NN	*	*	*	*
 25	zusammen	zusammen	PTKVZ	*	*	*	*
 26	und	und	KON	*	*	*	*
-27	traf	treffen	VVFIN	2	2	2	2
+27	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 28	damit	damit	PAV	*	*	*	*
 29	offensichtlich	offensichtlich	ADJD	*	*	*	*
 30	den	die	ART	*	*	*	*
-31	Nerv	Nerv	NN	2	2	2	2
+31	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 32	des	die	ART	*	*	*	*
 33	vornehmlich	vornehmlich	ADJD	*	*	*	*
 34	jugendlichen	jugendlich	ADJA	*	*	*	*
@@ -1624,6 +1671,7 @@
 # tuepp_article_id = T900917.174
 # sent_id = 4620
 # text = Mahlers am Ende des 19. Jahrhunderts entstandener Monumentalschinken für Schlagzeug , Orchester , Sopran , Alt und großen Chor trifft offenbar den Nerv des vom 20. Jahrhunderts gebeutelten Menschen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mahlers	Mahler	NE	*	*	*	*
@@ -1646,10 +1694,10 @@
 18	und	und	KON	*	*	*	*
 19	großen	groß	ADJA	*	*	*	*
 20	Chor	Chor	NN	*	*	*	*
-21	trifft	treffen	VVFIN	2	2	2	2
+21	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 22	offenbar	offenbar	ADJD	*	*	*	*
 23	den	die	ART	*	*	*	*
-24	Nerv	Nerv	NN	2	2	2	2
+24	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 25	des	die	ART	*	*	*	*
 26	vom	von	APPRART	*	*	*	*
 27	20	@card@	CARD	*	*	*	*
@@ -1662,6 +1710,7 @@
 # tuepp_article_id = T900118.42
 # sent_id = 4621
 # text = Daß Schmählings couragiertes Auftreten seine Vorgesetzten dennoch so an den Nerv traf , daß sie ihm im letzten November eine Moskau-Reise verboten , ihn kürzlich von einer hochrangigen Militärtagung aussperrten und jetzt sogar entließen , hat jedoch auch etwas mit der ungewöhnlichen Laufbahn des Admirals zu tun .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -1674,8 +1723,8 @@
 8	so	so	ADV	*	*	*	*
 9	an	an	APPR	*	*	*	*
 10	den	die	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
-12	traf	treffen	VVFIN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+12	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	daß	dass	KOUS	*	*	*	*
 15	sie	sie	PPER	*	*	*	*
@@ -1716,6 +1765,7 @@
 # tuepp_article_id = T900113.24
 # sent_id = 4622
 # text = Aber gerade damit wurde der Nerv der Moskauer Zentrale getroffen , die die Genossen in Litauen bisher nur getadelt hatte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -1723,11 +1773,11 @@
 3	damit	damit	PAV	*	*	*	*
 4	wurde	werden	VAFIN	*	*	*	*
 5	der	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	Moskauer	Moskauer	NN	*	*	*	*
 9	Zentrale	Zentrale	NN	*	*	*	*
-10	getroffen	treffen|triefen	VVPP	2	2	2	2
+10	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	die	die	PRELS	*	*	*	*
 13	die	die	ART	*	*	*	*
@@ -1743,6 +1793,7 @@
 # tuepp_article_id = T900409.279
 # sent_id = 4623
 # text = Die spielen " Das ist die Berliner Luft , Luft , Luft " und treffen damit den Nerv der Massen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	PDS	*	*	*	*
@@ -1759,10 +1810,10 @@
 12	Luft	Luft	NN	*	*	*	*
 13	"	"	$(	*	*	*	*
 14	und	und	KON	*	*	*	*
-15	treffen	treffen	VVFIN	2	2	2	2
+15	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 16	damit	damit	PAV	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
 20	Massen	Masse	NN	*	*	*	*
 21	.	.	$.	*	*	*	*
@@ -1770,12 +1821,13 @@
 # tuepp_article_id = T900421.292
 # sent_id = 4624
 # text = Sowas trifft meinen Nerv , da bin ich sehr empfindlich schließlich habe ich auch Jura studiert .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sowas	sowas	PIS	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	meinen	mein	PPOSAT	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	,	,	$,	*	*	*	*
 6	da	da	ADV	*	*	*	*
 7	bin	sein	VAFIN	*	*	*	*
@@ -1793,6 +1845,7 @@
 # tuepp_article_id = T901219.111
 # sent_id = 4625
 # text = Die " Helgoland-Studenten " hatten mit ihrer Aktion den Nerv der Zeit getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1804,19 +1857,20 @@
 7	ihrer	ihr	PPOSAT	*	*	*	*
 8	Aktion	Aktion	NN	*	*	*	*
 9	den	die	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
 12	Zeit	Zeit	NN	*	*	*	*
-13	getroffen	treffen|triefen	VVPP	2	2	2	2
+13	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901208.259
 # sent_id = 4626
 # text = Dennoch traf die reife Interpretation im Sinne bester Spieltradition stets den Nerv des Stückes und ließ kaum Wünsche offen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dennoch	dennoch	ADV	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	reife	reif	ADJA	*	*	*	*
 5	Interpretation	Interpretation	NN	*	*	*	*
@@ -1826,7 +1880,7 @@
 9	Spieltradition	<unknown>	NN	*	*	*	*
 10	stets	stets	ADV	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	des	die	ART	*	*	*	*
 14	Stückes	Stück	NN	*	*	*	*
 15	und	und	KON	*	*	*	*
@@ -1839,6 +1893,7 @@
 # tuepp_article_id = T901201.205
 # sent_id = 4627
 # text = So machte sie sich ausgerechnet zum Fürsprecher der BesetzerInnen in der Mainzer Straße - und schlug so gleich zwei Fliegen mit einer Klappe : die gewendeten Einheitssozialisten trafen den Nerv der von dem martialischen Polizeiaufgebot entsetzten BürgerInnen und nutzten gleichzeitig die Gelegenheit zum Flirt mit den über den Einsatz ebenfalls empörten Mitgliedern des Bündnisses 90 .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -1868,9 +1923,9 @@
 25	die	die	ART	*	*	*	*
 26	gewendeten	gewandt	ADJA	*	*	*	*
 27	Einheitssozialisten	Einheitssozialist	NN	*	*	*	*
-28	trafen	treffen	VVFIN	2	2	2	2
+28	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 29	den	die	ART	*	*	*	*
-30	Nerv	Nerv	NN	2	2	2	2
+30	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 31	der	die	ART	*	*	*	*
 32	von	von	APPR	*	*	*	*
 33	dem	die	ART	*	*	*	*
@@ -1901,6 +1956,7 @@
 # tuepp_article_id = T901201.249
 # sent_id = 4628
 # text = Sachliche Kompetenz , die einerseits selbstverständlich erwartet wird , ist andererseits ein rotes Tuch für die LeserInnen : Bei gewissenhafter Vorbereitung ( mit Partiturstudium und Interpretationsvergleichen ) auf das Ereignis trifft negative Kritik auf diesem sicheren Fundament fast ebenso sicher den empfindlichen Nerv des Lesepublikums , das verständnislos bis entrüstet den Kopf schüttelt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sachliche	sachlich	ADJA	*	*	*	*
@@ -1933,7 +1989,7 @@
 28	auf	auf	APPR	*	*	*	*
 29	das	die	ART	*	*	*	*
 30	Ereignis	Ereignis	NN	*	*	*	*
-31	trifft	treffen	VVFIN	2	2	2	2
+31	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 32	negative	negativ	ADJA	*	*	*	*
 33	Kritik	Kritik	NN	*	*	*	*
 34	auf	auf	APPR	*	*	*	*
@@ -1945,7 +2001,7 @@
 40	sicher	sicher	ADJD	*	*	*	*
 41	den	die	ART	*	*	*	*
 42	empfindlichen	empfindlich	ADJA	*	*	*	*
-43	Nerv	Nerv	NN	2	2	2	2
+43	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 44	des	die	ART	*	*	*	*
 45	Lesepublikums	Lesepublikum	NN	*	*	*	*
 46	,	,	$,	*	*	*	*
@@ -1961,6 +2017,7 @@
 # tuepp_article_id = T901222.196
 # sent_id = 4629
 # text = » Es scheint , als habe das fröhliche Brötchenschmieren für Tschernigowka den lange schlummernden kollektiven Nerv getroffen « , äußert erstaunt ein Kommunenbesucher aus Westdeutschland .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	»	<unknown>	ADJA	*	*	*	*
@@ -1978,8 +2035,8 @@
 13	lange	lange	ADV	*	*	*	*
 14	schlummernden	schlummernd	ADJA	*	*	*	*
 15	kollektiven	kollektiv	ADJA	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
-17	getroffen	treffen|triefen	VVPP	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+17	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 18	«	<unknown>	ADJD	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	äußert	äußern	VVFIN	*	*	*	*
@@ -1993,6 +2050,7 @@
 # tuepp_article_id = T901107.213
 # sent_id = 4630
 # text = Mit seinen klugen Metaphern , dem bissigen Humor und den schlichten Liebesliedern trifft er den Nerv seines Publikums , das sich in Zeiten weichspülender Medienberieselung das Zuhören nicht abgewöhnen will .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -2007,10 +2065,10 @@
 10	den	die	ART	*	*	*	*
 11	schlichten	schlicht	ADJA	*	*	*	*
 12	Liebesliedern	Liebeslied	NN	*	*	*	*
-13	trifft	treffen	VVFIN	2	2	2	2
+13	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 14	er	er	PPER	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	seines	sein	PPOSAT	*	*	*	*
 18	Publikums	Publikum	NN	*	*	*	*
 19	,	,	$,	*	*	*	*
@@ -2030,6 +2088,7 @@
 # tuepp_article_id = T900223.142
 # sent_id = 4631
 # text = Wenn ich mir selbst schmeicheln wollte , würde ich sagen : Ich habe eben den Nerv der Leserinnen getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -2047,15 +2106,16 @@
 13	habe	haben	VAFIN	*	*	*	*
 14	eben	eben	ADV	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
 18	Leserinnen	Leserin	NN	*	*	*	*
-19	getroffen	treffen|triefen	VVPP	2	2	2	2
+19	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920508.79
 # sent_id = 4632
 # text = Mit ihrer Antikorruptionskampagne hat sie den Nerv zahlreicher Wählerschichten getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -2064,37 +2124,39 @@
 4	hat	haben	VAFIN	*	*	*	*
 5	sie	sie	PPER	*	*	*	*
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	zahlreicher	zahlreich	ADJA	*	*	*	*
 9	Wählerschichten	Wählerschicht	NN	*	*	*	*
-10	getroffen	treffen|triefen	VVPP	2	2	2	2
+10	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920509.159
 # sent_id = 4633
 # text = Die Musik trifft nur bei einigen den Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Musik	Musik	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	nur	nur	ADV	*	*	*	*
 5	bei	bei	APPR	*	*	*	*
 6	einigen	einige	PIAT	*	*	*	*
 7	den	die	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920602.132
 # sent_id = 4634
 # text = Einen ganz anderen Nerv traf die BBC-Produktion From Wimps To Warriors - Bermondsey Boy , die im Rahmen einer Serie über Männer und deren Selbstverständnis , ihren Körper und ihre Sexualität ausgestrahlt wurde .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einen	eine	PIS	*	*	*	*
 2	ganz	ganz	ADV	*	*	*	*
 3	anderen	andere	PIAT	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
-5	traf	treffen	VVFIN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+5	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
 7	BBC-Produktion	BBC-Produktion	NN	*	*	*	*
 8	From	<unknown>	NN	*	*	*	*
@@ -2128,18 +2190,19 @@
 # tuepp_article_id = T920612.32
 # sent_id = 4635
 # text = Die Schatzmeisterin der SPD trifft nicht nur deswegen den Nerv , weil sie wie viele andere Grund zur Klage über den konfliktfreudigen Lafontaine und vielleicht zur allzu menschlichen Schadenfreude hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Schatzmeisterin	Schatzmeisterin	NN	*	*	*	*
 3	der	die	ART	*	*	*	*
 4	SPD	SPD	NE	*	*	*	*
-5	trifft	treffen	VVFIN	2	2	2	2
+5	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	nicht	nicht	PTKNEG	*	*	*	*
 7	nur	nur	ADV	*	*	*	*
 8	deswegen	deswegen	PAV	*	*	*	*
 9	den	die	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	weil	weil	KOUS	*	*	*	*
 13	sie	sie	PPER	*	*	*	*
@@ -2165,6 +2228,7 @@
 # tuepp_article_id = T920617.243
 # sent_id = 4636
 # text = Bad Religion war natürlich jenseits aller Kritik : Die kunstlose Ruppigkeit dieser schmutzigen , kleinen Punklieder wird zwar von Ignoranten als " immer gleich " bemosert , aber was macht das dem Ohr , dessen Nerv just dadurch getroffen wird .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bad	Bad	NE	*	*	*	*
@@ -2202,26 +2266,27 @@
 33	Ohr	Ohr	NN	*	*	*	*
 34	,	,	$,	*	*	*	*
 35	dessen	die	PRELAT	*	*	*	*
-36	Nerv	Nerv	NN	2	2	2	2
+36	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 37	just	just	ADV	*	*	*	*
 38	dadurch	dadurch	PAV	*	*	*	*
-39	getroffen	treffen|triefen	VVPP	2	2	2	2
+39	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 40	wird	werden	VAFIN	*	*	*	*
 41	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920618.70
 # sent_id = 4637
 # text = Der russische Gast traf damit genau den Nerv der Amerikaner .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	russische	russisch	ADJA	*	*	*	*
 3	Gast	Gast	NN	*	*	*	*
-4	traf	treffen	VVFIN	2	2	2	2
+4	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	damit	damit	PAV	*	*	*	*
 6	genau	genau	ADJD	*	*	*	*
 7	den	die	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
 10	Amerikaner	Amerikaner	NN	*	*	*	*
 11	.	.	$.	*	*	*	*
@@ -2229,14 +2294,15 @@
 # tuepp_article_id = T921023.152
 # sent_id = 4638
 # text = Den Nerv der Veranstaltung aber traf Volker Braun mit einem Text , der unbedingt ins Lesebuch der Infamie gehört : " Die Leute von Hoywoy " .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
-2	Nerv	Nerv	NN	2	2	2	2
+2	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 3	der	die	ART	*	*	*	*
 4	Veranstaltung	Veranstaltung	NN	*	*	*	*
 5	aber	aber	KON	*	*	*	*
-6	traf	treffen	VVFIN	2	2	2	2
+6	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 7	Volker	Volker	NE	*	*	*	*
 8	Braun	Braun	NE	*	*	*	*
 9	mit	mit	APPR	*	*	*	*
@@ -2262,6 +2328,7 @@
 # tuepp_article_id = T921005.29
 # sent_id = 4639
 # text = Mit dem Thema hat er unzweifelhaft in Teilen der US-amerikanischen Öffentlichkeit und unter einer wachsenden Anzahl von Kongreßabgeordneten einen Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -2283,13 +2350,14 @@
 17	von	von	APPR	*	*	*	*
 18	Kongreßabgeordneten	Kongressabgeordnete	NN	*	*	*	*
 19	einen	eine	ART	*	*	*	*
-20	Nerv	Nerv	NN	2	2	2	2
-21	getroffen	treffen|triefen	VVPP	2	2	2	2
+20	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+21	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921007.97
 # sent_id = 4640
 # text = Olli jedenfalls ist der Meinung , daß Rush ganz genau den Nerv des durchschnittlichen Amerikaners getroffen hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Olli	Olli	NE	*	*	*	*
@@ -2303,17 +2371,18 @@
 9	ganz	ganz	ADV	*	*	*	*
 10	genau	genau	ADJD	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	des	die	ART	*	*	*	*
 14	durchschnittlichen	durchschnittlich	ADJA	*	*	*	*
 15	Amerikaners	Amerikaner	NN	*	*	*	*
-16	getroffen	treffen|triefen	VVPP	2	2	2	2
+16	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 17	hat	haben	VAFIN	*	*	*	*
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921002.141
 # sent_id = 4641
 # text = Ob ein Mammutunternehmen mit rund hundert Veranstaltungen den Nerv einer Zeit trifft , in der die Frage , inwieweit es überhaupt noch eine schwule Identität gibt , immerhin ein Diskussionsforum wert ist , wird sich zeigen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ob	ob	KOUS	*	*	*	*
@@ -2324,10 +2393,10 @@
 6	hundert	hundert	CARD	*	*	*	*
 7	Veranstaltungen	Veranstaltung	NN	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	einer	eine	ART	*	*	*	*
 11	Zeit	Zeit	NN	*	*	*	*
-12	trifft	treffen	VVFIN	2	2	2	2
+12	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	in	in	APPR	*	*	*	*
 15	der	die	PRELS	*	*	*	*
@@ -2357,13 +2426,14 @@
 # tuepp_article_id = T920131.192
 # sent_id = 4642
 # text = Sie treffen genau den Nerv der Caudillos , die Polizei sucht ihn überall .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
-2	treffen	treffen	VVFIN	2	2	2	2
+2	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	genau	genau	ADJD	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Caudillos	<unknown>	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
@@ -2377,14 +2447,15 @@
 # tuepp_article_id = T920107.158
 # sent_id = 4643
 # text = Andreas Schäffler trifft den gestählten Nerv aller komfortentwöhnten Altbaubewohner mit der wunderbar erzählten Geschichte Winter im Wedding und vermag das Publikum über mehrere fiktive U-Bahn-Stationen hinweg mit seiner einzigartigen Erzählweise und diversen kleinen und großen » scheinbaren Abweichungen « in Bann halten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andreas	Andreas	NE	*	*	*	*
 2	Schäffler	<unknown>	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
 5	gestählten	gestählt	ADJA	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	aller	alle	PIAT	*	*	*	*
 8	komfortentwöhnten	<unknown>	ADJA	*	*	*	*
 9	Altbaubewohner	<unknown>	NN	*	*	*	*
@@ -2426,6 +2497,7 @@
 # tuepp_article_id = T920413.180
 # sent_id = 4644
 # text = « - Mit solchen Sprüchen hofft man , den Nerv der Power-from-the-Eastside-Generation zu treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	«	<unknown>	NN	*	*	*	*
@@ -2437,20 +2509,21 @@
 7	man	man	PIS	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	den	die	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
 12	Power-from-the-Eastside-Generation	<unknown>	NN	*	*	*	*
 13	zu	zu	PTKZU	*	*	*	*
-14	treffen	treffen	VVINF	2	2	2	2
+14	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920428.140
 # sent_id = 4645
 # text = Zweifellos traf der Streik der öffentlichen Verkehrsmittel den Westteil der Stadt an einem besonders sensiblen Nerv , in der nachmittäglichen Rush-hour ging fast nichts mehr auf den Berliner Straßen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zweifellos	zweifellos	ADJD	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	der	die	ART	*	*	*	*
 4	Streik	Streik	NN	*	*	*	*
 5	der	die	ART	*	*	*	*
@@ -2464,7 +2537,7 @@
 13	einem	eine	ART	*	*	*	*
 14	besonders	besonders	ADV	*	*	*	*
 15	sensiblen	sensibel	ADJA	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	in	in	APPR	*	*	*	*
 19	der	die	ART	*	*	*	*
@@ -2483,6 +2556,7 @@
 # tuepp_article_id = T920418.182
 # sent_id = 4646
 # text = In dieser Gegend gibt es nichts Vergleichbares , was so genau den Nerv eines breiten Publikums trifft und es geschafft hätte , sich genau zwischen Szenecafe und Kiezkneipe anzusiedeln .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -2497,11 +2571,11 @@
 10	so	so	ADV	*	*	*	*
 11	genau	genau	ADJD	*	*	*	*
 12	den	die	ART	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 14	eines	eine	ART	*	*	*	*
 15	breiten	breit	ADJA	*	*	*	*
 16	Publikums	Publikum	NN	*	*	*	*
-17	trifft	treffen	VVFIN	2	2	2	2
+17	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 18	und	und	KON	*	*	*	*
 19	es	es	PPER	*	*	*	*
 20	geschafft	schaffen	VVPP	*	*	*	*
@@ -2519,6 +2593,7 @@
 # tuepp_article_id = T920718.140
 # sent_id = 4647
 # text = Mit Argumenten wie Zeitersparnis , Bequemlichkeit sowie weniger Wasser- und Energieverbrauch trafen die Werbestrategen den Nerv vieler hektischer Mitmenschen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -2532,11 +2607,11 @@
 9	Wasser-	Wasser-	TRUNC	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	Energieverbrauch	Energieverbrauch	NN	*	*	*	*
-12	trafen	treffen	VVFIN	2	2	2	2
+12	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
 14	Werbestrategen	Werbestratege	NN	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	vieler	viele	PIAT	*	*	*	*
 18	hektischer	hektisch	ADJA	*	*	*	*
 19	Mitmenschen	Mitmensch	NN	*	*	*	*
@@ -2545,12 +2620,13 @@
 # tuepp_article_id = T920728.95
 # sent_id = 4648
 # text = Popper traf den Nerv der Zeit und den Geschmack liberaler Zeitgenossen , wenn er unter dem Eindruck totalitärer Bedrohungen der westlichen Welt den " Wunsch , die Menschen glücklich zu machen , das vielleicht gefährlichste aller politischen Ideale " nannte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Popper	Popper	NN	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
 6	Zeit	Zeit	NN	*	*	*	*
 7	und	und	KON	*	*	*	*
@@ -2592,6 +2668,7 @@
 # tuepp_article_id = T920724.306
 # sent_id = 4649
 # text = Mit Argumenten wie Zeitersparnis , Bequemlichkeit sowie weniger Wasser- und Energieverbrauch trafen die Werbestrategen den Nerv
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -2605,15 +2682,16 @@
 9	Wasser-	Wasser-	TRUNC	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	Energieverbrauch	Energieverbrauch	NN	*	*	*	*
-12	trafen	treffen	VVFIN	2	2	2	2
+12	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
 14	Werbestrategen	Werbestratege	NN	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T920727.94
 # sent_id = 4650
 # text = Ohne einen Kommentar geht hier keiner vorbei , Rheinsberg hat mit den verrosteten , verrotteten Buden den Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ohne	ohne	APPR	*	*	*	*
@@ -2633,13 +2711,14 @@
 15	verrotteten	verrottet	ADJA	*	*	*	*
 16	Buden	Bude	NN	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
-19	getroffen	treffen|triefen	VVPP	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+19	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920704.167
 # sent_id = 4651
 # text = " Meine Liberalität ist den Ausguß runter " , meinte Sigi Wegner , früher für die Grünen im Beirat Mitte , und traf damit den Nerv bei vielen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2664,10 +2743,10 @@
 20	Mitte	Mitte	NN	*	*	*	*
 21	,	,	$,	*	*	*	*
 22	und	und	KON	*	*	*	*
-23	traf	treffen	VVFIN	2	2	2	2
+23	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 24	damit	damit	PAV	*	*	*	*
 25	den	die	ART	*	*	*	*
-26	Nerv	Nerv	NN	2	2	2	2
+26	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 27	bei	bei	APPR	*	*	*	*
 28	vielen	viele	PIS	*	*	*	*
 29	.	.	$.	*	*	*	*
@@ -2675,6 +2754,7 @@
 # tuepp_article_id = T920714.151
 # sent_id = 4652
 # text = An dieser Stelle ist der finanzielle Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	An	an	APPR	*	*	*	*
@@ -2683,17 +2763,18 @@
 4	ist	sein	VAFIN	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	finanzielle	finanziell	ADJA	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
-8	getroffen	treffen|triefen	VVPP	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+8	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921221.130
 # sent_id = 4653
 # text = Stets traf er mit seinen mal ironischen , mal lyrischen Liedern zielsicher den Nerv jener schweigenden Mehrheit , die es sich in ihren Lehramtsverhältnissen gut eingerichtet hatte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Stets	stets	ADV	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	er	er	PPER	*	*	*	*
 4	mit	mit	APPR	*	*	*	*
 5	seinen	sein	PPOSAT	*	*	*	*
@@ -2705,7 +2786,7 @@
 11	Liedern	Lied	NN	*	*	*	*
 12	zielsicher	zielsich	ADJD	*	*	*	*
 13	den	die	ART	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 15	jener	jen	PDAT	*	*	*	*
 16	schweigenden	schweigend	ADJA	*	*	*	*
 17	Mehrheit	Mehrheit	NN	*	*	*	*
@@ -2724,6 +2805,7 @@
 # tuepp_article_id = T921208.181
 # sent_id = 4654
 # text = Wer meint , das sei langweilig , höre das neueste Werk der " Status Quo des Punk Rock " : Mondo Bizarro trifft den Nerv aller , die sich seit ' 76 mit irgendeiner Form des Drei-Akkord- Rock'n'Roll beschäftigt haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
@@ -2748,9 +2830,9 @@
 20	:	:	$.	*	*	*	*
 21	Mondo	<unknown>	NE	*	*	*	*
 22	Bizarro	<unknown>	NE	*	*	*	*
-23	trifft	treffen	VVFIN	2	2	2	2
+23	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 24	den	die	ART	*	*	*	*
-25	Nerv	Nerv	NN	2	2	2	2
+25	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 26	aller	alle	PIAT	*	*	*	*
 27	,	,	$,	*	*	*	*
 28	die	die	PRELS	*	*	*	*
@@ -2771,6 +2853,7 @@
 # tuepp_article_id = T921204.127
 # sent_id = 4655
 # text = Eine Zahl , die für Initiator und Direktor Don Robinson belegt , daß er mit seiner Idee den Nerv der Leute getroffen hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -2791,16 +2874,17 @@
 16	seiner	sein	PPOSAT	*	*	*	*
 17	Idee	Idee	NN	*	*	*	*
 18	den	die	ART	*	*	*	*
-19	Nerv	Nerv	NN	2	2	2	2
+19	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
 21	Leute	Leute	NN	*	*	*	*
-22	getroffen	treffen|triefen	VVPP	2	2	2	2
+22	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 23	hat	haben	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920801.241
 # sent_id = 4656
 # text = " Schlimm , wie sich die Medien am Leiden dieser Menschen weiden " , stöhnt ein Helfer und trifft mit dem Satz den Nerv des quälenden Gefühls .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2821,12 +2905,12 @@
 16	ein	eine	ART	*	*	*	*
 17	Helfer	Helfer	NN	*	*	*	*
 18	und	und	KON	*	*	*	*
-19	trifft	treffen	VVFIN	2	2	2	2
+19	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 20	mit	mit	APPR	*	*	*	*
 21	dem	die	ART	*	*	*	*
 22	Satz	Satz	NN	*	*	*	*
 23	den	die	ART	*	*	*	*
-24	Nerv	Nerv	NN	2	2	2	2
+24	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 25	des	die	ART	*	*	*	*
 26	quälenden	quälend	ADJA	*	*	*	*
 27	Gefühls	Gefühl	NN	*	*	*	*
@@ -2835,6 +2919,7 @@
 # tuepp_article_id = T920812.105
 # sent_id = 4657
 # text = Aber wie immer in solchen Fällen trifft die Geschichte einen Nerv der US-Gesellschaft : den Kampf gegen das Körperfett - gleichbedeutend mit dem Kampf gegen nationale Errungenschaften : Coca-Cola , Chocolate Fudge Cookies , Pancakes and Maple Syrup , Onion Flavored Potato Chips .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	ADV	*	*	*	*
@@ -2843,11 +2928,11 @@
 4	in	in	APPR	*	*	*	*
 5	solchen	solche	PIAT	*	*	*	*
 6	Fällen	Fall|Fällen	NN	*	*	*	*
-7	trifft	treffen	VVFIN	2	2	2	2
+7	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
 9	Geschichte	Geschichte	NN	*	*	*	*
 10	einen	eine	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
 13	US-Gesellschaft	US-Gesellschaft	NN	*	*	*	*
 14	:	:	$.	*	*	*	*
@@ -2885,6 +2970,7 @@
 # tuepp_article_id = T920316.53
 # sent_id = 4658
 # text = Norbert Blüm , der um große Worte nie verlegene CDU-Landesvorsitzende , sprach von einem " guten Tag für die NRW-CDU " , denn mit dem neuen schulpolitischen Konzept habe die CDU als erste Partei die Konsequenzen aus dem heiß diskutierten Kienbaum-Gutachten gezogen und den Nerv der Zeit getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Norbert	Norbert	NE	*	*	*	*
@@ -2931,15 +3017,16 @@
 42	gezogen	ziehen	VVPP	*	*	*	*
 43	und	und	KON	*	*	*	*
 44	den	die	ART	*	*	*	*
-45	Nerv	Nerv	NN	2	2	2	2
+45	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 46	der	die	ART	*	*	*	*
 47	Zeit	Zeit	NN	*	*	*	*
-48	getroffen	treffen|triefen	VVPP	2	2	2	2
+48	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 49	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920317.98
 # sent_id = 4659
 # text = Galaxy-Veranstaltungen ähnelten einer riesigen Party und trafen den Nerv der MTV-Generation : Vor der Disco ging man ins Stadion .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Galaxy-Veranstaltungen	<unknown>	NN	*	*	*	*
@@ -2948,9 +3035,9 @@
 4	riesigen	riesig	ADJA	*	*	*	*
 5	Party	Party	NN	*	*	*	*
 6	und	und	KON	*	*	*	*
-7	trafen	treffen	VVFIN	2	2	2	2
+7	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
 11	MTV-Generation	<unknown>	NN	*	*	*	*
 12	:	:	$.	*	*	*	*
@@ -2966,11 +3053,12 @@
 # tuepp_article_id = T920312.227
 # sent_id = 4660
 # text = Den rot-grünen Nerv werden die Liberalen sicherlich mit ihrer Forderung nach der Finanzierung eines Gymnasiums treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
 2	rot-grünen	rot-grün	ADJA	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 4	werden	werden	VAFIN	*	*	*	*
 5	die	die	ART	*	*	*	*
 6	Liberalen	Liberale	NN	*	*	*	*
@@ -2983,12 +3071,13 @@
 13	Finanzierung	Finanzierung	NN	*	*	*	*
 14	eines	eine	ART	*	*	*	*
 15	Gymnasiums	Gymnasium	NN	*	*	*	*
-16	treffen	treffen	VVINF	2	2	2	2
+16	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920321.107
 # sent_id = 4661
 # text = Dennoch hat Benettons Art Director Toscani mit seiner jüngsten Kampagne einen empfindlichen Nerv getroffen , vor allem in der angeblich so coolen Branche selbst .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dennoch	dennoch	ADV	*	*	*	*
@@ -3003,8 +3092,8 @@
 10	Kampagne	Kampagne	NN	*	*	*	*
 11	einen	eine	ART	*	*	*	*
 12	empfindlichen	empfindlich	ADJA	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
-14	getroffen	treffen|triefen	VVPP	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+14	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	vor	vor	APPR	*	*	*	*
 17	allem	alle	PIS	*	*	*	*
@@ -3020,6 +3109,7 @@
 # tuepp_article_id = T920323.104
 # sent_id = 4662
 # text = Ich denke , daß die Menschen verschieden gestimmt sind , auf gewisse Tonfolgen oder musikalische Stücke , die ja den Nerv treffen müssen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ich	ich	PPER	*	*	*	*
@@ -3042,21 +3132,22 @@
 18	die	die	PRELS	*	*	*	*
 19	ja	ja	ADV	*	*	*	*
 20	den	die	ART	*	*	*	*
-21	Nerv	Nerv	NN	2	2	2	2
-22	treffen	treffen	VVINF	2	2	2	2
+21	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+22	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 23	müssen	müssen	VMINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921123.32
 # sent_id = 4663
 # text = Sie traf einen zentralen Nerv : Zum ersten Mal wurden Juden in Deutschland nicht nur durch museale Judaica-Sammlungen oder durch Bilder von ihrer Vernichtung dargestellt , sondern durch Gemälde , Polemiken , Baustile oder Filme , aus denen ihre Auseinandersetzung mit der sie umgebenden Kultur deutlich wurde .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	einen	eine	ART	*	*	*	*
 4	zentralen	zentral	ADJA	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	:	:	$.	*	*	*	*
 7	Zum	zu	APPRART	*	*	*	*
 8	ersten	erst	ADJA	*	*	*	*
@@ -3104,15 +3195,16 @@
 # tuepp_article_id = T921119.157
 # sent_id = 4664
 # text = Mit dieser Haltung trifft er den Nerv jener enttäuschten Wähler im Alpenstaat , die von einer traditionellen Politik keine Lösung anstehender Probleme mehr erwarten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
 2	dieser	dies	PDAT	*	*	*	*
 3	Haltung	Haltung	NN	*	*	*	*
-4	trifft	treffen	VVFIN	2	2	2	2
+4	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	er	er	PPER	*	*	*	*
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	jener	jen	PDAT	*	*	*	*
 9	enttäuschten	enttäuscht	ADJA	*	*	*	*
 10	Wähler	Wähler	NN	*	*	*	*
@@ -3135,6 +3227,7 @@
 # tuepp_article_id = T921109.99
 # sent_id = 4665
 # text = In Basel und bei Christoph Marthaler , der schon häufiger mit außergewöhnlichen Inszenierungen auffiel und eine besondere Begabung hat , Eidgenossen im Nerv zu treffen , geht es nicht so reduziert zu .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -3159,9 +3252,9 @@
 20	,	,	$,	*	*	*	*
 21	Eidgenossen	Eidgenosse	NN	*	*	*	*
 22	im	in	APPRART	*	*	*	*
-23	Nerv	Nerv	NN	2	2	2	2
+23	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 24	zu	zu	PTKZU	*	*	*	*
-25	treffen	treffen	VVINF	2	2	2	2
+25	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 26	,	,	$,	*	*	*	*
 27	geht	gehen	VVFIN	*	*	*	*
 28	es	es	PPER	*	*	*	*
@@ -3174,13 +3267,14 @@
 # tuepp_article_id = T921117.60
 # sent_id = 4666
 # text = " In seiner Ungeduld trifft der Chef des Parteiverbands Maine et Loire den Nerv : Wichtigster Punkt dieses ersten Parteitags der französischen Umweltpartei Generation Ecologie ( GE ) in einem Pariser Vorort ist schließlich das geplante Wahlbündnis mit Les Verts .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	In	in	APPR	*	*	*	*
 3	seiner	sein	PPOSAT	*	*	*	*
 4	Ungeduld	Ungeduld	NN	*	*	*	*
-5	trifft	treffen	VVFIN	2	2	2	2
+5	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Chef	Chef	NN	*	*	*	*
 8	des	die	ART	*	*	*	*
@@ -3189,7 +3283,7 @@
 11	et	et	FM	*	*	*	*
 12	Loire	Loire	NE	*	*	*	*
 13	den	die	ART	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 15	:	:	$.	*	*	*	*
 16	Wichtigster	wichtig	ADJA	*	*	*	*
 17	Punkt	Punkt	NN	*	*	*	*
@@ -3221,6 +3315,7 @@
 # tuepp_article_id = T921117.94
 # sent_id = 4667
 # text = " Wer bist du , daß du über mich und das Leben , das ich führe , urteilst " , krähte bereits 1962 ein 17jähriger mit aufgeregter Stimme , die nicht immer den angestrebten Ton , dafür aber den Nerv der Jugendlichen Jamaikas traf .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3262,16 +3357,17 @@
 37	dafür	dafür	PAV	*	*	*	*
 38	aber	aber	ADV	*	*	*	*
 39	den	die	ART	*	*	*	*
-40	Nerv	Nerv	NN	2	2	2	2
+40	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 41	der	die	ART	*	*	*	*
 42	Jugendlichen	Jugendliche	NN	*	*	*	*
 43	Jamaikas	Jamaika	NE	*	*	*	*
-44	traf	treffen	VVFIN	2	2	2	2
+44	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 45	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921128.276
 # sent_id = 4668
 # text = Nach Aussage der Pressesprecherin der IG Metall , Gisela Petterson , hat der Aufruf " voll den Nerv der Belegschaften getroffen " .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -3291,21 +3387,22 @@
 15	"	"	$(	*	*	*	*
 16	voll	voll	ADJD	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
 20	Belegschaften	Belegschaft	NN	*	*	*	*
-21	getroffen	treffen|triefen	VVPP	2	2	2	2
+21	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 22	"	"	$(	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920201.30
 # sent_id = 4669
 # text = Das Angebot trifft - trotz der umgehenden Ablehnung - den sozialdemokratischen Nerv an einer empfindlichen Stelle .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
 2	Angebot	Angebot	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	-	-	$(	*	*	*	*
 5	trotz	trotz	APPR	*	*	*	*
 6	der	die	ART	*	*	*	*
@@ -3314,7 +3411,7 @@
 9	-	-	$(	*	*	*	*
 10	den	die	ART	*	*	*	*
 11	sozialdemokratischen	sozialdemokratisch	ADJA	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	an	an	APPR	*	*	*	*
 14	einer	eine	ART	*	*	*	*
 15	empfindlichen	empfindlich	ADJA	*	*	*	*
@@ -3324,6 +3421,7 @@
 # tuepp_article_id = T920215.222
 # sent_id = 4670
 # text = Aber dieser permanent gewollte Szene-Slang trifft echt den Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -3331,15 +3429,16 @@
 3	permanent	permanent	ADJD	*	*	*	*
 4	gewollte	gewollt	ADJA	*	*	*	*
 5	Szene-Slang	<unknown>	NN	*	*	*	*
-6	trifft	treffen	VVFIN	2	2	2	2
+6	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 7	echt	echt	ADJD	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920207.55
 # sent_id = 4671
 # text = Die Empfehlung der Islamisten hat wenig Chancen , in Paris , Washington und Tokio gehört zu werden , trifft das Regime aber am Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3360,17 +3459,18 @@
 16	zu	zu	PTKZU	*	*	*	*
 17	werden	werden	VAINF	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	trifft	treffen	VVFIN	2	2	2	2
+19	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 20	das	die	ART	*	*	*	*
 21	Regime	Regime	NN	*	*	*	*
 22	aber	aber	KON	*	*	*	*
 23	am	an	APPRART	*	*	*	*
-24	Nerv	Nerv	NN	2	2	2	2
+24	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920207.132
 # sent_id = 4672
 # text = Vielleicht hat sie ihr Ich bloßgelegt ; aber sie hat damit ins Herz von Frauen getroffen - und anscheinend den Nerv der Männer .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vielleicht	vielleicht	ADV	*	*	*	*
@@ -3388,12 +3488,12 @@
 13	Herz	Herz	NN	*	*	*	*
 14	von	von	APPR	*	*	*	*
 15	Frauen	Frau	NN	*	*	*	*
-16	getroffen	treffen|triefen	VVPP	2	2	2	2
+16	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 17	-	-	$(	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	anscheinend	anscheinend	ADJD	*	*	*	*
 20	den	die	ART	*	*	*	*
-21	Nerv	Nerv	NN	2	2	2	2
+21	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
 23	Männer	Mann	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
@@ -3401,6 +3501,7 @@
 # tuepp_article_id = T920207.207
 # sent_id = 4673
 # text = ) in Worte gefaßt und ausagiert werden , trifft beim abendländischen Zuschauer - gewöhnt an stilvoll-klassisches oder ironisch- gebrochenes Theater , das sich gerne als Kunstform selbst zitiert - einen ungeschützten Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	)	)	$(	*	*	*	*
@@ -3411,7 +3512,7 @@
 6	ausagiert	ausagieren	VVPP	*	*	*	*
 7	werden	werden	VAINF	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	trifft	treffen	VVFIN	2	2	2	2
+9	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 10	beim	bei	APPRART	*	*	*	*
 11	abendländischen	abendländisch	ADJA	*	*	*	*
 12	Zuschauer	Zuschauer	NN	*	*	*	*
@@ -3434,18 +3535,19 @@
 29	-	-	$(	*	*	*	*
 30	einen	eine	ART	*	*	*	*
 31	ungeschützten	ungeschützt	ADJA	*	*	*	*
-32	Nerv	Nerv	NN	2	2	2	2
+32	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920204.36
 # sent_id = 4674
 # text = Csampai traf den Nerv der meisten Anwesenden : Großstädte funktionieren gemeinhin recht gut .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Csampai	<unknown>	NE	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
 6	meisten	meist	PIAT	*	*	*	*
 7	Anwesenden	Anwesende	NN	*	*	*	*
@@ -3460,6 +3562,7 @@
 # tuepp_article_id = T881029.33
 # sent_id = 4675
 # text = Offenbar hat die Nachricht über den Tornado-Kredit einen Nerv getroffen , den die die christlich-liberale Regierungsspitze schon für amputiert gehalten hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Offenbar	offenbar	ADJD	*	*	*	*
@@ -3470,8 +3573,8 @@
 6	den	die	ART	*	*	*	*
 7	Tornado-Kredit	Tornado-Kredit	NN	*	*	*	*
 8	einen	eine	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
-10	getroffen	treffen|triefen	VVPP	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+10	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	den	die	PRELS	*	*	*	*
 13	die	die	PDS	*	*	*	*
@@ -3488,6 +3591,7 @@
 # tuepp_article_id = T881013.100
 # sent_id = 4676
 # text = - etwa : " Wo wir hinsehen , wir verplempern Energien " usw. usw. alles trifft den Nerv der Sache , macht das Lesen zum Vergnügen , ohne auch nur einen Augenblick aus der engagierten Reflexion herauszufallen ...
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	-	-	$(	*	*	*	*
@@ -3505,9 +3609,9 @@
 13	usw.	usw.	ADV	*	*	*	*
 14	usw.	usw.	ADV	*	*	*	*
 15	alles	alle	PIS	*	*	*	*
-16	trifft	treffen	VVFIN	2	2	2	2
+16	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
 20	Sache	Sache	NN	*	*	*	*
 21	,	,	$,	*	*	*	*
@@ -3532,6 +3636,7 @@
 # tuepp_article_id = T880927.96
 # sent_id = 4677
 # text = " Es ist ganz deutlich , dieser Wettbewerb hat einen europäischen Nerv getroffen " ( SFB-Pressetext ) .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3545,8 +3650,8 @@
 9	hat	haben	VAFIN	*	*	*	*
 10	einen	eine	ART	*	*	*	*
 11	europäischen	europäisch	ADJA	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
-13	getroffen	treffen|triefen	VVPP	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+13	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 14	"	"	$(	*	*	*	*
 15	(	(	$(	*	*	*	*
 16	SFB-Pressetext	SFB-Pressetext	NN	*	*	*	*
@@ -3556,6 +3661,7 @@
 # tuepp_article_id = T880111.62
 # sent_id = 4678
 # text = Die Bilder , die amerikanische Fernsehteams von dem ungleichen Kräftemessen zwischen steinewerfenden Jugendlichen und scharf bewaffneten israelischen Soldaten in die Wohnstuben der USA übermittelten , trafen so einen wunden Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3583,16 +3689,17 @@
 23	USA	USA	NE	*	*	*	*
 24	übermittelten	übermitteln	VVFIN	*	*	*	*
 25	,	,	$,	*	*	*	*
-26	trafen	treffen	VVFIN	2	2	2	2
+26	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 27	so	so	ADV	*	*	*	*
 28	einen	eine	ART	*	*	*	*
 29	wunden	wund	ADJA	*	*	*	*
-30	Nerv	Nerv	NN	2	2	2	2
+30	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880727.67
 # sent_id = 4679
 # text = Sie haben , der eine mehr , der andere weniger bewußt , die Gesellschaft herausgefordert und sie an einem ihrer empfindlichsten Nerven getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -3616,13 +3723,14 @@
 19	einem	eine	ART	*	*	*	*
 20	ihrer	ihr	PPOSAT	*	*	*	*
 21	empfindlichsten	empfindlich	ADJA	*	*	*	*
-22	Nerven	Nerv|Nerven	NN	2	2	2	2
-23	getroffen	treffen|triefen	VVPP	2	2	2	2
+22	Nerven	Nerv|Nerven	NN	FIG	FIG	FIG	FIG
+23	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880822.102
 # sent_id = 4680
 # text = Nur so kann ich mir erklären , daß sich die NDR-Bschäftigten pikante Sendungen verknöpfen , um an zentraler und entscheidender Stelle den Nerv des Intendanten und seiner Crew zu treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nur	nur	ADV	*	*	*	*
@@ -3647,19 +3755,20 @@
 20	entscheidender	entscheidend	ADJA	*	*	*	*
 21	Stelle	Stelle	NN	*	*	*	*
 22	den	die	ART	*	*	*	*
-23	Nerv	Nerv	NN	2	2	2	2
+23	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 24	des	die	ART	*	*	*	*
 25	Intendanten	Intendant	NN	*	*	*	*
 26	und	und	KON	*	*	*	*
 27	seiner	sein	PPOSAT	*	*	*	*
 28	Crew	Crew	NN	*	*	*	*
 29	zu	zu	PTKZU	*	*	*	*
-30	treffen	treffen	VVINF	2	2	2	2
+30	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881102.78
 # sent_id = 4681
 # text = Die " wilde Sau " , so ihr Kenn- und Markenzeichen , hatte damit aber offensichtlich den Nerv und das Bedürfnis der alternativen Projektszene getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3679,19 +3788,20 @@
 15	aber	aber	ADV	*	*	*	*
 16	offensichtlich	offensichtlich	ADJD	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	und	und	KON	*	*	*	*
 20	das	die	ART	*	*	*	*
 21	Bedürfnis	Bedürfnis	NN	*	*	*	*
 22	der	die	ART	*	*	*	*
 23	alternativen	alternativ	ADJA	*	*	*	*
 24	Projektszene	Projektszene	NN	*	*	*	*
-25	getroffen	treffen|triefen	VVPP	2	2	2	2
+25	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881103.102
 # sent_id = 4682
 # text = Die These vom Anteil der Atomkraftwerke am Waldsterben trifft immer noch den Nerv der Atomwirtschaft / Gegner und Befürworter liegen sich " statistisch in den Haaren "
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3702,11 +3812,11 @@
 6	Atomkraftwerke	Atomkraftwerk	NN	*	*	*	*
 7	am	an	APPRART	*	*	*	*
 8	Waldsterben	Waldsterben	NN	*	*	*	*
-9	trifft	treffen	VVFIN	2	2	2	2
+9	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 10	immer	immer	ADV	*	*	*	*
 11	noch	noch	ADV	*	*	*	*
 12	den	die	ART	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 14	der	die	ART	*	*	*	*
 15	Atomwirtschaft	Atomwirtschaft	NN	*	*	*	*
 16	/	/	$(	*	*	*	*
@@ -3725,6 +3835,7 @@
 # tuepp_article_id = T870901.28
 # sent_id = 4683
 # text = Der Irak insistiert demgegenüber auf einer globalen Lösung : Eine Übereinkunft allein in der Frage der Schiffahrt würde den Aktionsrahmen seiner überlegenen Luftwaffe und damit auch die Möglichkeit , den Nerv der gegnerischen Wirtschaft zu treffen , stark einschränken .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3757,12 +3868,12 @@
 28	Möglichkeit	Möglichkeit	NN	*	*	*	*
 29	,	,	$,	*	*	*	*
 30	den	die	ART	*	*	*	*
-31	Nerv	Nerv	NN	2	2	2	2
+31	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 32	der	die	ART	*	*	*	*
 33	gegnerischen	gegnerisch	ADJA	*	*	*	*
 34	Wirtschaft	Wirtschaft	NN	*	*	*	*
 35	zu	zu	PTKZU	*	*	*	*
-36	treffen	treffen	VVINF	2	2	2	2
+36	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 37	,	,	$,	*	*	*	*
 38	stark	stark	ADJD	*	*	*	*
 39	einschränken	einschränken	VVINF	*	*	*	*
@@ -3771,6 +3882,7 @@
 # tuepp_article_id = T870105.42
 # sent_id = 4684
 # text = " Wenn dann im Namen der Menschenrechte gegen Mauer und Stacheldraht lautstark zu Felde gezogen wurde , traf das den Nerv der Korporierten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3790,10 +3902,10 @@
 15	gezogen	ziehen	VVPP	*	*	*	*
 16	wurde	werden	VAFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
-18	traf	treffen	VVFIN	2	2	2	2
+18	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 19	das	die	PDS	*	*	*	*
 20	den	die	ART	*	*	*	*
-21	Nerv	Nerv	NN	2	2	2	2
+21	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
 23	Korporierten	<unknown>	NN	*	*	*	*
 24	.	.	$.	*	*	*	*
@@ -3801,6 +3913,7 @@
 # tuepp_article_id = T870307.74
 # sent_id = 4685
 # text = Bereits 1985 hatte das DIW in einem Wochenbericht die steigende Verwendung der Entwicklungshilfegelder für die Unterstützung von Exportgeschäften bundesdeutscher Unternehmen kritisiert und damit einen durch die massive parlamentarische Kritik der Grünen sensibilisierten Nerv Warnkes getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bereits	bereits	ADV	*	*	*	*
@@ -3835,14 +3948,15 @@
 30	der	die	ART	*	*	*	*
 31	Grünen	Grüne	NN	*	*	*	*
 32	sensibilisierten	sensibilisiert	ADJA	*	*	*	*
-33	Nerv	Nerv	NN	2	2	2	2
+33	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 34	Warnkes	<unknown>	NN	*	*	*	*
-35	getroffen	treffen|triefen	VVPP	2	2	2	2
+35	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T861101.67
 # sent_id = 4686
 # text = Der Vertreter der Kommunistischen Parteijugend , der nach der soundsovielten PCI-Schelte den Kongreß verließ , scheint selbst mit einem nicht gerade sonderlich geistreichen Presse-Statement einen Nerv getroffen zu haben : " Die Radikalen werden wohl wirklich sterben " , urteilte er , " und zwar aus Mangel an Ideen " .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3870,8 +3984,8 @@
 23	geistreichen	geistreich	ADJA	*	*	*	*
 24	Presse-Statement	<unknown>	NN	*	*	*	*
 25	einen	eine	ART	*	*	*	*
-26	Nerv	Nerv	NN	2	2	2	2
-27	getroffen	treffen|triefen	VVPP	2	2	2	2
+26	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+27	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 28	zu	zu	PTKZU	*	*	*	*
 29	haben	haben	VAINF	*	*	*	*
 30	:	:	$.	*	*	*	*
@@ -3900,6 +4014,7 @@
 # tuepp_article_id = T930621.102
 # sent_id = 4687
 # text = Das ehrliche Dokument einer Desillusionierung , worin Gide - auf moderate Weise - einige der im Westen geläufigen positiven Vorurteile über die Sowjetunion korrigiert , trifft den Nerv der UdSSR- Sympathisanten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -3927,9 +4042,9 @@
 23	Sowjetunion	Sowjetunion	NE	*	*	*	*
 24	korrigiert	korrigieren	VVPP	*	*	*	*
 25	,	,	$,	*	*	*	*
-26	trifft	treffen	VVFIN	2	2	2	2
+26	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 27	den	die	ART	*	*	*	*
-28	Nerv	Nerv	NN	2	2	2	2
+28	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 29	der	die	ART	*	*	*	*
 30	UdSSR-	UdSSR-	TRUNC	*	*	*	*
 31	Sympathisanten	Sympathisant	NN	*	*	*	*
@@ -3938,6 +4053,7 @@
 # tuepp_article_id = T930622.70
 # sent_id = 4688
 # text = Dies ausgerechnet aus einem Anlaß , der für die Linke den Nerv ihrer Identität trifft : War der Kampf gegen Rassismus doch in den letzten Monaten das zentrale zusammenführende Moment ihres Handelns .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dies	dies	PDAT	*	*	*	*
@@ -3951,10 +4067,10 @@
 9	die	die	ART	*	*	*	*
 10	Linke	Linke	NN	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	ihrer	ihr	PPOSAT	*	*	*	*
 14	Identität	Identität	NN	*	*	*	*
-15	trifft	treffen	VVFIN	2	2	2	2
+15	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 16	:	:	$.	*	*	*	*
 17	War	sein	VAFIN	*	*	*	*
 18	der	die	ART	*	*	*	*
@@ -3977,6 +4093,7 @@
 # tuepp_article_id = T931026.189
 # sent_id = 4689
 # text = Dieses hyperaufdringliche " Hallo , wir sind so frei " scheint eben den kaputten Nerv unserer Zeit zu treffen , jedenfalls ist auch das Konzert in Hamburg schon lange ausverkauft .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dieses	dies	PDAT	*	*	*	*
@@ -3993,11 +4110,11 @@
 12	eben	eben	ADV	*	*	*	*
 13	den	die	ART	*	*	*	*
 14	kaputten	kaputt	ADJA	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	unserer	unser	PPOSAT	*	*	*	*
 17	Zeit	Zeit	NN	*	*	*	*
 18	zu	zu	PTKZU	*	*	*	*
-19	treffen	treffen	VVINF	2	2	2	2
+19	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	jedenfalls	jedenfalls	ADV	*	*	*	*
 22	ist	sein	VAFIN	*	*	*	*
@@ -4014,6 +4131,7 @@
 # tuepp_article_id = T930901.164
 # sent_id = 4690
 # text = Disco und Rap gibt 's auch im Buch , " denn diese Musik trifft ihren Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Disco	Disco	NN	*	*	*	*
@@ -4029,14 +4147,15 @@
 11	denn	denn	KON	*	*	*	*
 12	diese	dies	PDAT	*	*	*	*
 13	Musik	Musik	NN	*	*	*	*
-14	trifft	treffen	VVFIN	2	2	2	2
+14	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 15	ihren	ihr	PPOSAT	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930902.209
 # sent_id = 4691
 # text = Der knapp 50jährige war einer der Lieblingskomponisten des pompösen Second Empire und traf genau den musikalischen Nerv der Zeit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4051,11 +4170,11 @@
 10	Second	<unknown>	NN	*	*	*	*
 11	Empire	Empire	NN	*	*	*	*
 12	und	und	KON	*	*	*	*
-13	traf	treffen	VVFIN	2	2	2	2
+13	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 14	genau	genau	ADJD	*	*	*	*
 15	den	die	ART	*	*	*	*
 16	musikalischen	musikalisch	ADJA	*	*	*	*
-17	Nerv	Nerv	NN	2	2	2	2
+17	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 18	der	die	ART	*	*	*	*
 19	Zeit	Zeit	NN	*	*	*	*
 20	.	.	$.	*	*	*	*
@@ -4063,12 +4182,13 @@
 # tuepp_article_id = T930115.157
 # sent_id = 4692
 # text = Das trifft den Nerv der Zeit und die Sehnsüchte der Kunden .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
 6	Zeit	Zeit	NN	*	*	*	*
 7	und	und	KON	*	*	*	*
@@ -4081,6 +4201,7 @@
 # tuepp_article_id = T930717.255
 # sent_id = 4693
 # text = Offenbar habe der Orthopäde versehentlich den Nerv getroffen , vermutet die Skullerin .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Offenbar	offenbar	ADJD	*	*	*	*
@@ -4089,8 +4210,8 @@
 4	Orthopäde	Orthopäde	NN	*	*	*	*
 5	versehentlich	versehentlich	ADJD	*	*	*	*
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	1	1	1	1
-8	getroffen	treffen|triefen	VVPP	1	1	1	1
+7	Nerv	Nerv	NN	LIT	LIT	LIT	LIT
+8	getroffen	treffen|triefen	VVPP	LIT	LIT	LIT	LIT
 9	,	,	$,	*	*	*	*
 10	vermutet	vermuten	VVFIN	*	*	*	*
 11	die	die	ART	*	*	*	*
@@ -4100,6 +4221,7 @@
 # tuepp_article_id = T931217.122
 # sent_id = 4694
 # text = Denn der war nicht nur komisch , er traf auch wie sein Nachfolger Motzki den Nerv der Nation .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -4110,14 +4232,14 @@
 6	komisch	komisch	ADJD	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	er	er	PPER	*	*	*	*
-9	traf	treffen	VVFIN	2	2	2	2
+9	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 10	auch	auch	ADV	*	*	*	*
 11	wie	wie	KOKOM	*	*	*	*
 12	sein	sein	PPOSAT	*	*	*	*
 13	Nachfolger	Nachfolger	NN	*	*	*	*
 14	Motzki	<unknown>	NE	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
 18	Nation	Nation	NN	*	*	*	*
 19	.	.	$.	*	*	*	*
@@ -4125,6 +4247,7 @@
 # tuepp_article_id = T930807.49
 # sent_id = 4695
 # text = Wir wollen die Industrie am Nerv treffen , den Hebel dort ansetzen , wo es ihr auf den Zeiger geht .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
@@ -4132,8 +4255,8 @@
 3	die	die	ART	*	*	*	*
 4	Industrie	Industrie	NN	*	*	*	*
 5	am	an	APPRART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
-7	treffen	treffen	VVINF	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+7	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	den	die	ART	*	*	*	*
 10	Hebel	Hebel	NN	*	*	*	*
@@ -4152,6 +4275,7 @@
 # tuepp_article_id = T930814.84
 # sent_id = 4696
 # text = Wenn aber gleichzeitig Millionen aus Sonderinvestitions-Fonds zur Verfügung stehen , um in der Innenstadt touristisch interessante Ecken nobel neu zu pflastern oder Fußgängerbrücken zu bauen , dann ist der sozialdemokratische Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -4184,25 +4308,27 @@
 28	ist	sein	VAFIN	*	*	*	*
 29	der	die	ART	*	*	*	*
 30	sozialdemokratische	sozialdemokratisch	ADJA	*	*	*	*
-31	Nerv	Nerv	NN	2	2	2	2
-32	getroffen	treffen|triefen	VVPP	2	2	2	2
+31	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+32	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930318.101
 # sent_id = 4697
 # text = Das Thema traf einen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
 2	Thema	Thema	NN	*	*	*	*
-3	traf	treffen	VVFIN	2	2	2	2
+3	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	einen	eine	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930318.101
 # sent_id = 4698
 # text = Denn wenn er die Bisexualität verheirateter Männer in Angriff nimmt , hat Margolin ebenfalls einen Nerv der Zeit getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -4220,15 +4346,16 @@
 13	Margolin	<unknown>	NE	*	*	*	*
 14	ebenfalls	ebenfalls	ADV	*	*	*	*
 15	einen	eine	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
 18	Zeit	Zeit	NN	*	*	*	*
-19	getroffen	treffen|triefen	VVPP	2	2	2	2
+19	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930316.11
 # sent_id = 4699
 # text = Die Wahl der Stadt Bombay , und noch mehr der lokalen Ziele , scheint zu zeigen , daß es den Urhebern darum ging , den Staat an einem empfindlichen Nerv zu treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -4260,29 +4387,31 @@
 27	an	an	APPR	*	*	*	*
 28	einem	eine	ART	*	*	*	*
 29	empfindlichen	empfindlich	ADJA	*	*	*	*
-30	Nerv	Nerv	NN	2	2	2	2
+30	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 31	zu	zu	PTKZU	*	*	*	*
-32	treffen	treffen	VVINF	2	2	2	2
+32	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931118.35
 # sent_id = 4700
 # text = Schröders Äußerungen haben den Nerv der Grünen getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schröders	Schröder	NE	*	*	*	*
 2	Äußerungen	Äußerung	NN	*	*	*	*
 3	haben	haben	VAFIN	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Grünen	Grüne	NN	*	*	*	*
-8	getroffen	treffen|triefen	VVPP	2	2	2	2
+8	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930211.232
 # sent_id = 4701
 # text = Schließlich hofft die Vorbereitungsgruppe , mit ihrem Karnevals-Motto " Wir gehen fremd " den Nerv vieler BremerInnen zu treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schließlich	schließlich	ADV	*	*	*	*
@@ -4299,26 +4428,27 @@
 12	fremd	fremd	ADJD	*	*	*	*
 13	"	"	$(	*	*	*	*
 14	den	die	ART	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	vieler	viele	PIAT	*	*	*	*
 17	BremerInnen	Bremerin	NN	*	*	*	*
 18	zu	zu	PTKZU	*	*	*	*
-19	treffen	treffen	VVINF	2	2	2	2
+19	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930205.74
 # sent_id = 4702
 # text = Mitsuzukas Vorschlag trifft zudem den politisch empfindlichsten Nerv der Nation : Für gewöhnlich sind die Japaner nämlich gar nicht arrogant und glauben , von der Welt nicht viel zu verstehen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mitsuzukas	<unknown>	ADJA	*	*	*	*
 2	Vorschlag	Vorschlag	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	zudem	zudem	ADV	*	*	*	*
 5	den	die	ART	*	*	*	*
 6	politisch	politisch	ADJD	*	*	*	*
 7	empfindlichsten	empfindlich	ADJA	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
 10	Nation	Nation	NN	*	*	*	*
 11	:	:	$.	*	*	*	*
@@ -4346,12 +4476,13 @@
 # tuepp_article_id = T960521.143
 # sent_id = 4703
 # text = Einen Nerv aber traf bloß , was dabei deutlich über das Individuelle hinauswies .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einen	eine	ART	*	*	*	*
-2	Nerv	Nerv	NN	2	2	2	2
+2	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 3	aber	aber	KON	*	*	*	*
-4	traf	treffen	VVFIN	2	2	2	2
+4	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	bloß	bloß	ADJD	*	*	*	*
 6	,	,	$,	*	*	*	*
 7	was	was	PWS	*	*	*	*
@@ -4366,6 +4497,7 @@
 # tuepp_article_id = T960523.309
 # sent_id = 4704
 # text = Wenn ein Tonträger mit einer unbekannten Band in die Redaktion segelt und für einige Zeit den Nerv trifft , gehört das zu den netten Momenten im Leben eines Musik-Journalisten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -4384,8 +4516,8 @@
 14	einige	einige	PIAT	*	*	*	*
 15	Zeit	Zeit	NN	*	*	*	*
 16	den	die	ART	*	*	*	*
-17	Nerv	Nerv	NN	2	2	2	2
-18	trifft	treffen	VVFIN	2	2	2	2
+17	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+18	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	gehört	gehören	VVFIN	*	*	*	*
 21	das	die	PDS	*	*	*	*
@@ -4402,10 +4534,11 @@
 # tuepp_article_id = T960625.269
 # sent_id = 4705
 # text = Außerdem trifft ihr Bild von einer ausgelaugten Frau in einer Welt , in der auf niemanden außer frau selbst mehr Verlaß ist , den Nerv der Zeit an der vielleicht empfindsamsten Stelle : der der Eigenverantwortung .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Außerdem	außerdem	ADV	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	ihr	ihr	PPER	*	*	*	*
 4	Bild	Bild	NN	*	*	*	*
 5	von	von	APPR	*	*	*	*
@@ -4428,7 +4561,7 @@
 22	ist	sein	VAFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
 24	den	die	ART	*	*	*	*
-25	Nerv	Nerv	NN	2	2	2	2
+25	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
 27	Zeit	Zeit	NN	*	*	*	*
 28	an	an	APPR	*	*	*	*
@@ -4445,6 +4578,7 @@
 # tuepp_article_id = T960605.55
 # sent_id = 4706
 # text = Bonn ( taz ) - Den Nerv der eigenen Partei hat die bündnisgrüne Abgeordnete Rita Grießhaber mit ihrem Vorschlag getroffen , Frauen aus Gründen des Gleichheit ebenfalls den Dienst an der Waffe in der Bundeswehr zu ermöglichen ( taz vom 3. Juni ) .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bonn	Bonn	NE	*	*	*	*
@@ -4453,7 +4587,7 @@
 4	)	)	$(	*	*	*	*
 5	-	-	$(	*	*	*	*
 6	Den	<unknown>	ADJA	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
 9	eigenen	eigen	ADJA	*	*	*	*
 10	Partei	Partei	NN	*	*	*	*
@@ -4466,7 +4600,7 @@
 17	mit	mit	APPR	*	*	*	*
 18	ihrem	ihr	PPOSAT	*	*	*	*
 19	Vorschlag	Vorschlag	NN	*	*	*	*
-20	getroffen	treffen|triefen	VVPP	2	2	2	2
+20	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 21	,	,	$,	*	*	*	*
 22	Frauen	Frau	NN	*	*	*	*
 23	aus	aus	APPR	*	*	*	*
@@ -4496,6 +4630,7 @@
 # tuepp_article_id = T960617.247
 # sent_id = 4707
 # text = Mit ihren Interpretationen von " Foxy Lady " und " Jumpin ' Jack Flash " traf sie genau den Nerv des Ottensener Publikums .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -4513,11 +4648,11 @@
 13	Jack	Jack	NE	*	*	*	*
 14	Flash	<unknown>	NE	*	*	*	*
 15	"	"	$(	*	*	*	*
-16	traf	treffen	VVFIN	2	2	2	2
+16	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 17	sie	sie	PPER	*	*	*	*
 18	genau	genau	ADJD	*	*	*	*
 19	den	die	ART	*	*	*	*
-20	Nerv	Nerv	NN	2	2	2	2
+20	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 21	des	die	ART	*	*	*	*
 22	Ottensener	<unknown>	NN	*	*	*	*
 23	Publikums	Publikum	NN	*	*	*	*
@@ -4526,6 +4661,7 @@
 # tuepp_article_id = T960622.139
 # sent_id = 4708
 # text = Ein brisantes Thema : Eich hatte mit Gedichten wie " Inventur " eine literarische Strömung geprägt , die in den Jahren nach dem Krieg den Nerv der Zeit traf .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -4553,24 +4689,25 @@
 23	dem	die	ART	*	*	*	*
 24	Krieg	Krieg	NN	*	*	*	*
 25	den	die	ART	*	*	*	*
-26	Nerv	Nerv	NN	2	2	2	2
+26	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 27	der	die	ART	*	*	*	*
 28	Zeit	Zeit	NN	*	*	*	*
-29	traf	treffen	VVFIN	2	2	2	2
+29	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961002.345
 # sent_id = 4709
 # text = " Independence Day " trifft den Nerv des US-Publikums ins Mark .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Independence	<unknown>	NE	*	*	*	*
 3	Day	<unknown>	NE	*	*	*	*
 4	"	"	$(	*	*	*	*
-5	trifft	treffen	VVFIN	2	2	2	2
+5	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	des	die	ART	*	*	*	*
 9	US-Publikums	US-Publikum	NN	*	*	*	*
 10	ins	in	APPRART	*	*	*	*
@@ -4580,6 +4717,7 @@
 # tuepp_article_id = T960909.227
 # sent_id = 4710
 # text = Es ist bekannt dafür , den Nerv der doch so verschiedenen Stücke immer erschreckend genau zu treffen und die Herbheiten der Stücke durch schlanke , unpathetische Modellierungen in Klang und Ausdruck zu transzendieren .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -4588,7 +4726,7 @@
 4	dafür	dafür	PAV	*	*	*	*
 5	,	,	$,	*	*	*	*
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
 9	doch	doch	ADV	*	*	*	*
 10	so	so	ADV	*	*	*	*
@@ -4598,7 +4736,7 @@
 14	erschreckend	erschreckend	ADJD	*	*	*	*
 15	genau	genau	ADJD	*	*	*	*
 16	zu	zu	PTKZU	*	*	*	*
-17	treffen	treffen	VVINF	2	2	2	2
+17	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 18	und	und	KON	*	*	*	*
 19	die	die	ART	*	*	*	*
 20	Herbheiten	<unknown>	NN	*	*	*	*
@@ -4620,6 +4758,7 @@
 # tuepp_article_id = T960126.267
 # sent_id = 4711
 # text = Deren Sehnsucht nach den guten , alten Tagen Lobek schließlich den Erfolg beschert : Sein Springbrunnenmodell " Atlantis " , samt eingebautem Mini-Fernsehturm , trifft den Nerv der Altgenossen ; als Symbol des abgesoffenen SED-Staates plätschert Lobeks Brünnlein fortan in allen Stuben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Deren	die	PDAT	*	*	*	*
@@ -4646,9 +4785,9 @@
 22	eingebautem	eingebaut	ADJA	*	*	*	*
 23	Mini-Fernsehturm	<unknown>	NN	*	*	*	*
 24	,	,	$,	*	*	*	*
-25	trifft	treffen	VVFIN	2	2	2	2
+25	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 26	den	die	ART	*	*	*	*
-27	Nerv	Nerv	NN	2	2	2	2
+27	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 28	der	die	ART	*	*	*	*
 29	Altgenossen	Altgenosse	NN	*	*	*	*
 30	;	;	$.	*	*	*	*
@@ -4669,6 +4808,7 @@
 # tuepp_article_id = T960112.306
 # sent_id = 4712
 # text = Die Hinrichtung , der Du Daxin beiwohnt , ist eine der erschütterndsten Stellen des Romans , und ihre ergreifende Beschreibung durch Ba Jin trifft den Nerv durch ihren ungeschminkten Realismus .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -4694,9 +4834,9 @@
 21	durch	durch	APPR	*	*	*	*
 22	Ba	Ba	NE	*	*	*	*
 23	Jin	Jin	NE	*	*	*	*
-24	trifft	treffen	VVFIN	2	2	2	2
+24	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 25	den	die	ART	*	*	*	*
-26	Nerv	Nerv	NN	2	2	2	2
+26	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 27	durch	durch	APPR	*	*	*	*
 28	ihren	ihr	PPOSAT	*	*	*	*
 29	ungeschminkten	ungeschminkt	ADJA	*	*	*	*
@@ -4706,6 +4846,7 @@
 # tuepp_article_id = T960119.232
 # sent_id = 4713
 # text = Während Plenzdorfs angejahrtes Goethe- Revival " Die neuen Leiden des jungen W. " dank der musikalischen Bearbeitung den Nerv junger Zuschauer trifft , ist die dröge Ausgrabung des Heimkehrerdramas " Draußen vor der Tür " wohl eher eine Freude für begleitende Deutschlehrer .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	APPR	*	*	*	*
@@ -4726,10 +4867,10 @@
 16	musikalischen	musikalisch	ADJA	*	*	*	*
 17	Bearbeitung	Bearbeitung	NN	*	*	*	*
 18	den	die	ART	*	*	*	*
-19	Nerv	Nerv	NN	2	2	2	2
+19	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 20	junger	jung	ADJA	*	*	*	*
 21	Zuschauer	Zuschauer	NN	*	*	*	*
-22	trifft	treffen	VVFIN	2	2	2	2
+22	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 23	,	,	$,	*	*	*	*
 24	ist	sein	VAFIN	*	*	*	*
 25	die	die	ART	*	*	*	*
@@ -4755,17 +4896,18 @@
 # tuepp_article_id = T960123.161
 # sent_id = 4714
 # text = Dafür trifft sie auf der anstehenden Tour den Nerv der Fast-Body-Szene , aber " da ist nichts Schlechtes dran , oder ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dafür	dafür	PAV	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	sie	sie	PPER	*	*	*	*
 4	auf	auf	APPR	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	anstehenden	anstehend	ADJA	*	*	*	*
 7	Tour	Tour	NN	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
 11	Fast-Body-Szene	<unknown>	NN	*	*	*	*
 12	,	,	$,	*	*	*	*
@@ -4783,6 +4925,7 @@
 # tuepp_article_id = T960123.161
 # sent_id = 4715
 # text = Mit dem zweiten Album " Love and Respect " , mit dem Marla Glen derzeit durch Deutschland tourt , " sollte der Nerv der Disco-Szene , der Fast-Body-Szene getroffen werden .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -4807,19 +4950,20 @@
 20	"	"	$(	*	*	*	*
 21	sollte	sollen	VMFIN	*	*	*	*
 22	der	die	ART	*	*	*	*
-23	Nerv	Nerv	NN	2	2	2	2
+23	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 24	der	die	ART	*	*	*	*
 25	Disco-Szene	<unknown>	NN	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	der	die	ART	*	*	*	*
 28	Fast-Body-Szene	<unknown>	NN	*	*	*	*
-29	getroffen	treffen|triefen	VVPP	2	2	2	2
+29	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 30	werden	werden	VAINF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960418.154
 # sent_id = 4716
 # text = Regisseur Hans-Christoph Blumenberg spürt in den biographischen Episoden seines dokumentarischen Spielfilms Beim nächsten Kuß knall ' ich ihn nieder einem ständig Unzeitgemäßen nach , der zwar mit seiner Kunst einen Nerv traf , aber mit seiner Biographie stets quer lag .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Regisseur	Regisseur	NN	*	*	*	*
@@ -4852,8 +4996,8 @@
 28	seiner	sein	PPOSAT	*	*	*	*
 29	Kunst	Kunst	NN	*	*	*	*
 30	einen	eine	ART	*	*	*	*
-31	Nerv	Nerv	NN	2	2	2	2
-32	traf	treffen	VVFIN	2	2	2	2
+31	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+32	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 33	,	,	$,	*	*	*	*
 34	aber	aber	ADV	*	*	*	*
 35	mit	mit	APPR	*	*	*	*
@@ -4867,6 +5011,7 @@
 # tuepp_article_id = T960425.309
 # sent_id = 4717
 # text = " Welcher Mann ist der beste Liebhaber " , " Fort mit der Kirchensteuer " oder " Wie werde ich meine Freundin los " - mit fetten Lettern traf twen den Nerv der Generation zwischen Beatbewegung und Studentenprotest .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4897,10 +5042,10 @@
 26	mit	mit	APPR	*	*	*	*
 27	fetten	fett	ADJA	*	*	*	*
 28	Lettern	Letter	NN	*	*	*	*
-29	traf	treffen	VVFIN	2	2	2	2
+29	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 30	twen	Twen	NN	*	*	*	*
 31	den	die	ART	*	*	*	*
-32	Nerv	Nerv	NN	2	2	2	2
+32	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 33	der	die	ART	*	*	*	*
 34	Generation	Generation	NN	*	*	*	*
 35	zwischen	zwischen	APPR	*	*	*	*
@@ -4912,6 +5057,7 @@
 # tuepp_article_id = T960417.63
 # sent_id = 4718
 # text = Die Episoden einer weißen madam und ihrer schwarzen maid treffen den Nerv von Schwarz und Weiß - durch alle Wirren politischer Neugestaltung .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -4923,9 +5069,9 @@
 7	ihrer	ihr	PPOSAT	*	*	*	*
 8	schwarzen	schwarz	ADJA	*	*	*	*
 9	maid	<unknown>	NN	*	*	*	*
-10	treffen	treffen	VVFIN	2	2	2	2
+10	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	von	von	APPR	*	*	*	*
 14	Schwarz	Schwarz	NE	*	*	*	*
 15	und	und	KON	*	*	*	*
@@ -4941,6 +5087,7 @@
 # tuepp_article_id = T960409.116
 # sent_id = 4719
 # text = Mit ihrer Forderung nach Senkung der Steuern und Abgaben hat die FDP den Nerv auch der christdemokratischen Wählerschaft getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -4956,24 +5103,25 @@
 11	die	die	ART	*	*	*	*
 12	FDP	FDP	NE	*	*	*	*
 13	den	die	ART	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 15	auch	auch	ADV	*	*	*	*
 16	der	die	ART	*	*	*	*
 17	christdemokratischen	christdemokratisch	ADJA	*	*	*	*
 18	Wählerschaft	Wählerschaft	NN	*	*	*	*
-19	getroffen	treffen|triefen	VVPP	2	2	2	2
+19	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960409.123
 # sent_id = 4720
 # text = Hefner traf damit den Nerv des puritanischen Amerikas .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hefner	<unknown>	NN	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	damit	damit	PAV	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	des	die	ART	*	*	*	*
 7	puritanischen	puritanisch	ADJA	*	*	*	*
 8	Amerikas	Amerika	NE	*	*	*	*
@@ -4982,6 +5130,7 @@
 # tuepp_article_id = T960729.182
 # sent_id = 4721
 # text = Irgend etwas an der Aussage dieses Buchs muß einen Nerv getroffen haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Irgend	irgend	ADV	*	*	*	*
@@ -4993,14 +5142,15 @@
 7	Buchs	Buch	NN	*	*	*	*
 8	muß	müssen	VMFIN	*	*	*	*
 9	einen	eine	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
-11	getroffen	treffen|triefen	VVPP	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+11	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 12	haben	haben	VAFIN	*	*	*	*
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960725.342
 # sent_id = 4722
 # text = Diese Zeit , von der in Underground-sensibilisierten Kreisen gerne als " der guten alten " gesprochen wird , sah mit Amphetamine Reptile , mit Reptilien auf Drogen , ein kleines US-amerikanisches Label aufstreben , das den nach unmittelbarer Erfahrung gierenden Nerv direkt traf : Hardcore , Noise , dreckiger Rock ohne Kompromisse , ohne Hype , ohne Fernsehen - und vor allem : ohne politisches Dogma , ohne vereinnahmende Gesten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	dies	PDAT	*	*	*	*
@@ -5043,9 +5193,9 @@
 38	unmittelbarer	unmittelbar	ADJA	*	*	*	*
 39	Erfahrung	Erfahrung	NN	*	*	*	*
 40	gierenden	gierend	ADJA	*	*	*	*
-41	Nerv	Nerv	NN	2	2	2	2
+41	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 42	direkt	direkt	ADJD	*	*	*	*
-43	traf	treffen	VVFIN	2	2	2	2
+43	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 44	:	:	$.	*	*	*	*
 45	Hardcore	<unknown>	NE	*	*	*	*
 46	,	,	$,	*	*	*	*
@@ -5078,25 +5228,27 @@
 # tuepp_article_id = T960715.117
 # sent_id = 4723
 # text = Er hat den Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Er	er	PPER	*	*	*	*
 2	hat	haben	VAFIN	*	*	*	*
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
-5	getroffen	treffen|triefen	VVPP	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+5	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960709.81
 # sent_id = 4724
 # text = Das trifft den innersten Nerv : Nichts berührt die Menschen in Polen so sehr , wie mit den Tätern des Holocaust auf eine Stufe gestellt zu werden .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
 4	innersten	inner	ADJA	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	:	:	$.	*	*	*	*
 7	Nichts	nichts	PIS	*	*	*	*
 8	berührt	berühren	VVFIN	*	*	*	*
@@ -5124,13 +5276,14 @@
 # tuepp_article_id = T961202.16
 # sent_id = 4725
 # text = " Er traf den Nerv der Delegierten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Er	er	PPER	*	*	*	*
-3	traf	treffen	VVFIN	2	2	2	2
+3	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Delegierten	Delegierte	NN	*	*	*	*
 8	.	.	$.	*	*	*	*
@@ -5138,6 +5291,7 @@
 # tuepp_article_id = T961224.95
 # sent_id = 4726
 # text = Erfolgsbücher wie " Momo " von Michael Ende oder Sten Nadolnys " Entdeckung der Langsamkeit " trafen wohl einen verletzten Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Erfolgsbücher	<unknown>	ADJD	*	*	*	*
@@ -5156,27 +5310,29 @@
 14	der	die	ART	*	*	*	*
 15	Langsamkeit	Langsamkeit	NN	*	*	*	*
 16	"	"	$(	*	*	*	*
-17	trafen	treffen	VVFIN	2	2	2	2
+17	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 18	wohl	wohl	ADV	*	*	*	*
 19	einen	eine	ART	*	*	*	*
 20	verletzten	verletzt	ADJA	*	*	*	*
-21	Nerv	Nerv	NN	2	2	2	2
+21	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961213.98
 # sent_id = 4727
 # text = Ein Nerv schien getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
-2	Nerv	Nerv	NN	2	2	2	2
+2	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 3	schien	scheinen	VVFIN	*	*	*	*
-4	getroffen	treffen|triefen	VVPP	2	2	2	2
+4	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 5	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960824.34
 # sent_id = 4728
 # text = Bravo erfand dieses Wort für den deutschen Sprachgebrauch und befreite es zugleich vom Hautgout des Aufsässigen : Jungsein ist schön , hieß die Devise und traf damit den Nerv einer Generation , die sich von den Alten nur noch bedingt etwas sagen lassen wollte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bravo	bravo	ITJ	*	*	*	*
@@ -5204,10 +5360,10 @@
 23	die	die	ART	*	*	*	*
 24	Devise	Devise	NN	*	*	*	*
 25	und	und	KON	*	*	*	*
-26	traf	treffen	VVFIN	2	2	2	2
+26	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 27	damit	damit	PAV	*	*	*	*
 28	den	die	ART	*	*	*	*
-29	Nerv	Nerv	NN	2	2	2	2
+29	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 30	einer	eine	ART	*	*	*	*
 31	Generation	Generation	NN	*	*	*	*
 32	,	,	$,	*	*	*	*
@@ -5228,6 +5384,7 @@
 # tuepp_article_id = T960813.150
 # sent_id = 4729
 # text = Sie dokumentieren , daß Rühmkorf wohl nicht ganz verkehrt damit liegt , wenn er glaubt , den Nerv jenes " nicht stromlinienförmig organisierten , unangepaßten Typus " getroffen zu haben , der im rasenden Stillstand der Geschichte noch wissen will , wo ihm der Kopf steht .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -5247,7 +5404,7 @@
 15	glaubt	glauben	VVFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	jenes	jen	PDAT	*	*	*	*
 20	"	"	$(	*	*	*	*
 21	nicht	nicht	PTKNEG	*	*	*	*
@@ -5257,7 +5414,7 @@
 25	unangepaßten	unangepasst	ADJA	*	*	*	*
 26	Typus	Typus	NN	*	*	*	*
 27	"	"	$(	*	*	*	*
-28	getroffen	treffen|triefen	VVPP	2	2	2	2
+28	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 29	zu	zu	PTKZU	*	*	*	*
 30	haben	haben	VAINF	*	*	*	*
 31	,	,	$,	*	*	*	*
@@ -5281,6 +5438,7 @@
 # tuepp_article_id = T960817.204
 # sent_id = 4730
 # text = Mit Glück und Können fügte es sich , daß das Produkt dieser Bemühungen den Nerv der über ihr Alter definierten Zielgruppe traf und noch dazu das Interesse eines breiteren Publikums zu wecken vermochte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5297,14 +5455,14 @@
 12	dieser	dies	PDAT	*	*	*	*
 13	Bemühungen	Bemühung	NN	*	*	*	*
 14	den	die	ART	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
 17	über	über	APPR	*	*	*	*
 18	ihr	ihr	PPOSAT	*	*	*	*
 19	Alter	Alter	NN	*	*	*	*
 20	definierten	definiert	ADJA	*	*	*	*
 21	Zielgruppe	Zielgruppe	NN	*	*	*	*
-22	traf	treffen	VVFIN	2	2	2	2
+22	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 23	und	und	KON	*	*	*	*
 24	noch	noch	ADV	*	*	*	*
 25	dazu	dazu	PAV	*	*	*	*
@@ -5321,26 +5479,28 @@
 # tuepp_article_id = T960803.54
 # sent_id = 4731
 # text = Andre Brie trifft den Nerv der PDS
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andre	andere	PIAT	*	*	*	*
 2	Brie	Brie	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	PDS	PDS	NE	*	*	*	*
 
 # tuepp_article_id = T960305.226
 # sent_id = 4732
 # text = Und traf genau den Nerv des Publikums , dessen Durchschnittsalter wohl eher über als unter vierzig lag .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	genau	genau	ADJD	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	des	die	ART	*	*	*	*
 7	Publikums	Publikum	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
@@ -5358,15 +5518,16 @@
 # tuepp_article_id = T961104.250
 # sent_id = 4733
 # text = Oder traf der Autor ungewollt einen Nerv der Zeit , als er sein Thema fand : Die Wandlung von etwas zufällig Aufgeschnapptem zur dominanten Flause im Kopf ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Oder	oder	KON	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	der	die	ART	*	*	*	*
 4	Autor	Autor	NN	*	*	*	*
 5	ungewollt	ungewollt	ADJD	*	*	*	*
 6	einen	eine	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
 9	Zeit	Zeit	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
@@ -5392,6 +5553,7 @@
 # tuepp_article_id = T961112.145
 # sent_id = 4734
 # text = Schaaf , dessen Produktion von Verdis " Falstaff " am Sonntag Premiere im Württembergischen Staatstheater hatte , legt dagegen Wert auf seine Vision als Regisseur : " Ich arbeite für mein eigenes Empfinden und hoffe , daß es einen Nerv des Publikums trifft .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schaaf	Schaaf	NE	*	*	*	*
@@ -5433,15 +5595,16 @@
 37	daß	dass	KOUS	*	*	*	*
 38	es	es	PPER	*	*	*	*
 39	einen	eine	ART	*	*	*	*
-40	Nerv	Nerv	NN	2	2	2	2
+40	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 41	des	die	ART	*	*	*	*
 42	Publikums	Publikum	NN	*	*	*	*
-43	trifft	treffen	VVFIN	2	2	2	2
+43	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 44	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960222.93
 # sent_id = 4735
 # text = Buchanans Wagenburg-Rhetorik gegen Immigranten und Freihandel traf offenbar den richtigen Nerv - obwohl laut einer Umfrage der Washington Post nur 31 Prozent der republikanischen Wähler in New Hampshire Pat Buchanan zutrauen , Bill Clinton im November schlagen zu können .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Buchanans	<unknown>	NE	*	*	*	*
@@ -5450,11 +5613,11 @@
 4	Immigranten	Immigrant	NN	*	*	*	*
 5	und	und	KON	*	*	*	*
 6	Freihandel	Freihandel	NN	*	*	*	*
-7	traf	treffen	VVFIN	2	2	2	2
+7	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	offenbar	offenbar	ADJD	*	*	*	*
 9	den	die	ART	*	*	*	*
 10	richtigen	richtig	ADJA	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	-	-	$(	*	*	*	*
 13	obwohl	obwohl	KOUS	*	*	*	*
 14	laut	laut	APPR	*	*	*	*
@@ -5488,11 +5651,12 @@
 # tuepp_article_id = T960201.142
 # sent_id = 4736
 # text = Treffen einen Nerv : Die Tagebücher des Romanisten Victor Klemperer aus den Jahren 1933-1945 wurden eine Woche lang in den Münchener Kammerspielen gelesen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Treffen	Treffen	NN	2	2	2	2
+1	Treffen	Treffen	NN	FIG	FIG	FIG	FIG
 2	einen	eine	ART	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 4	:	:	$.	*	*	*	*
 5	Die	die	ART	*	*	*	*
 6	Tagebücher	Tagebuch	NN	*	*	*	*
@@ -5520,6 +5684,7 @@
 # tuepp_article_id = T960201.142
 # sent_id = 4737
 # text = Die Lesung im Werkraum , bei der sich das gesamte Ensemble der Kammerspiele ( über 40 Schauspieler einschließlich des Intendanten Dieter Dorn ) alle Stunde abwechselt , scheint einen Nerv zu treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5551,20 +5716,21 @@
 27	,	,	$,	*	*	*	*
 28	scheint	scheinen	VVFIN	*	*	*	*
 29	einen	eine	ART	*	*	*	*
-30	Nerv	Nerv	NN	2	2	2	2
+30	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 31	zu	zu	PTKZU	*	*	*	*
-32	treffen	treffen	VVINF	2	2	2	2
+32	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960212.145
 # sent_id = 4738
 # text = Es trifft den Nerv des Phänomenskandaltrends " neue Bisexualität " , daß wir in einem entsprechenden Artikel eine Zeichnerin zum Mann konvertierten : Niki de Saint Phalle ist eine Frau .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	des	die	ART	*	*	*	*
 6	Phänomenskandaltrends	<unknown>	NN	*	*	*	*
 7	"	"	$(	*	*	*	*
@@ -5596,6 +5762,7 @@
 # tuepp_article_id = T960205.228
 # sent_id = 4739
 # text = Genau damit aber dürfte Steinbrecher sicher den Nerv des hansestädtischen Kulturverständnisses treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Genau	genau	ADJD	*	*	*	*
@@ -5605,16 +5772,17 @@
 5	Steinbrecher	Steinbrecher	NN	*	*	*	*
 6	sicher	sicher	ADJD	*	*	*	*
 7	den	die	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	des	die	ART	*	*	*	*
 10	hansestädtischen	hansestädtisch	ADJA	*	*	*	*
 11	Kulturverständnisses	Kulturverständnis	NN	*	*	*	*
-12	treffen	treffen	VVINF	2	2	2	2
+12	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980522.60
 # sent_id = 4740
 # text = Mit ihren " neuen und extrem schnellen Akkordwechseln schufen sie schrille musikalische Gegensätze " , und das hätte genau den Nerv der Jugend getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5637,22 +5805,23 @@
 18	hätte	haben	VAFIN	*	*	*	*
 19	genau	genau	ADJD	*	*	*	*
 20	den	die	ART	*	*	*	*
-21	Nerv	Nerv	NN	2	2	2	2
+21	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 22	der	die	ART	*	*	*	*
 23	Jugend	Jugend	NN	*	*	*	*
-24	getroffen	treffen|triefen	VVPP	2	2	2	2
+24	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980511.102
 # sent_id = 4741
 # text = Trifft er damit den Nerv der Wähler ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Trifft	treffen	VVFIN	2	2	2	2
+1	Trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 2	er	er	PPER	*	*	*	*
 3	damit	damit	PAV	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Wähler	Wähler	NN	*	*	*	*
 8	?	?	$.	*	*	*	*
@@ -5660,6 +5829,7 @@
 # tuepp_article_id = T980505.27
 # sent_id = 4742
 # text = Der Beifall zeigt , daß Hänig damit bei den Anwesenden den Nerv getroffen hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5673,14 +5843,15 @@
 9	den	die	ART	*	*	*	*
 10	Anwesenden	Anwesende	NN	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
-13	getroffen	treffen|triefen	VVPP	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+13	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 14	hat	haben	VAFIN	*	*	*	*
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980604.208
 # sent_id = 4743
 # text = Mit mythologischen Themen und seinen düsteren Phantasielandschaften hatte der Maler nach langen Perioden der Erfolglosigkeit schließlich doch den Nerv des Publikums getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5701,15 +5872,16 @@
 16	schließlich	schließlich	ADV	*	*	*	*
 17	doch	doch	ADV	*	*	*	*
 18	den	die	ART	*	*	*	*
-19	Nerv	Nerv	NN	2	2	2	2
+19	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 20	des	die	ART	*	*	*	*
 21	Publikums	Publikum	NN	*	*	*	*
-22	getroffen	treffen|triefen	VVPP	2	2	2	2
+22	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980612.177
 # sent_id = 4744
 # text = Daß der Technische Direktor Rene Simoes spirituell argumentiert , trifft genau den Nerv des Landes .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -5721,10 +5893,10 @@
 7	spirituell	spirituell	ADJD	*	*	*	*
 8	argumentiert	argumentieren	VVPP	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	trifft	treffen	VVFIN	2	2	2	2
+10	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 11	genau	genau	ADJD	*	*	*	*
 12	den	die	ART	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 14	des	die	ART	*	*	*	*
 15	Landes	Land	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
@@ -5732,16 +5904,17 @@
 # tuepp_article_id = T980626.228
 # sent_id = 4745
 # text = Damit treffen sie durchaus auch einen deutschen Nerv , wie beispielweise Thomas Ostermeiers Publikumsrenner " Fette Männer im Rock " in der DT-Baracke gezeigt hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	treffen	treffen	VVFIN	2	2	2	2
+2	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	sie	sie	PPER	*	*	*	*
 4	durchaus	durchaus	ADV	*	*	*	*
 5	auch	auch	ADV	*	*	*	*
 6	einen	eine	ART	*	*	*	*
 7	deutschen	deutsch	ADJA	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	wie	wie	KOUS	*	*	*	*
 11	beispielweise	beispielweise	ADV	*	*	*	*
@@ -5764,15 +5937,16 @@
 # tuepp_article_id = T981015.331
 # sent_id = 4746
 # text = " Den Nerv der Sprayer " treffe die Aktion , lobte auch der Leiter der Ermittlungsgruppe Graffiti der Polizei , Rolf Winko .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Den	die	ART	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 4	der	die	ART	*	*	*	*
 5	Sprayer	Sprayer	NN	*	*	*	*
 6	"	"	$(	*	*	*	*
-7	treffe	treffen	VVFIN	2	2	2	2
+7	treffe	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
 9	Aktion	Aktion	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
@@ -5793,6 +5967,7 @@
 # tuepp_article_id = T981016.226
 # sent_id = 4747
 # text = Das hat etwas von Gemüse- Matratzen-Skulpturen der britischen Künstlerin Sarah Lucas - multipliziert mit Jugendherbergsatmosphäre - und trifft damit wieder den Nerv des Ganzen : Wir sind viele und wollen mehr .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -5812,11 +5987,11 @@
 15	Jugendherbergsatmosphäre	<unknown>	NN	*	*	*	*
 16	-	-	$(	*	*	*	*
 17	und	und	KON	*	*	*	*
-18	trifft	treffen	VVFIN	2	2	2	2
+18	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 19	damit	damit	PAV	*	*	*	*
 20	wieder	wieder	ADV	*	*	*	*
 21	den	die	ART	*	*	*	*
-22	Nerv	Nerv	NN	2	2	2	2
+22	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 23	des	die	ART	*	*	*	*
 24	Ganzen	Ganze	NN	*	*	*	*
 25	:	:	$.	*	*	*	*
@@ -5831,19 +6006,21 @@
 # tuepp_article_id = T981028.56
 # sent_id = 4748
 # text = Vermutlich trifft sie damit einen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Vermutlich	vermutlich	ADV	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	sie	sie	PPER	*	*	*	*
 4	damit	damit	PAV	*	*	*	*
 5	einen	eine	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981002.256
 # sent_id = 4749
 # text = Mit Großstadthymnen wie " Yasamaya mecbursun " - " du bist zum Leben gezwungen " - trifft sie den Nerv einer studentischen Jugend , und bei ihrem Publikum zählt sie , weil sie in ihren Texten auch um das Demokratieproblem der Türkei nicht lange herumredet , zu den führenden Bands mit politischem Anspruch .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5862,10 +6039,10 @@
 14	gezwungen	zwingen	VVPP	*	*	*	*
 15	"	"	$(	*	*	*	*
 16	-	-	$(	*	*	*	*
-17	trifft	treffen	VVFIN	2	2	2	2
+17	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 18	sie	sie	PPER	*	*	*	*
 19	den	die	ART	*	*	*	*
-20	Nerv	Nerv	NN	2	2	2	2
+20	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 21	einer	eine	ART	*	*	*	*
 22	studentischen	studentisch	ADJA	*	*	*	*
 23	Jugend	Jugend	NN	*	*	*	*
@@ -5904,6 +6081,7 @@
 # tuepp_article_id = T980902.170
 # sent_id = 4750
 # text = Über die literarischen Qualitäten dieser Geschichte von Mark Ravenhill läßt sich streiten , doch es steht außer Frage , daß dieses Stück den Nerv der Zeit getroffen hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Über	über	APPR	*	*	*	*
@@ -5929,24 +6107,25 @@
 21	dieses	dies	PDAT	*	*	*	*
 22	Stück	Stück	NN	*	*	*	*
 23	den	die	ART	*	*	*	*
-24	Nerv	Nerv	NN	2	2	2	2
+24	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 25	der	die	ART	*	*	*	*
 26	Zeit	Zeit	NN	*	*	*	*
-27	getroffen	treffen|triefen	VVPP	2	2	2	2
+27	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 28	hat	haben	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980912.25
 # sent_id = 4751
 # text = Trifft der eine des anderen Nerv , schreibt der andere über des einen Luxusyachten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Trifft	treffen	VVFIN	2	2	2	2
+1	Trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 2	der	die	ART	*	*	*	*
 3	eine	eine	PIS	*	*	*	*
 4	des	die	ART	*	*	*	*
 5	anderen	andere	PIAT	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	schreibt	schreiben	VVFIN	*	*	*	*
 9	der	die	ART	*	*	*	*
@@ -5960,13 +6139,14 @@
 # tuepp_article_id = T980918.152
 # sent_id = 4752
 # text = Der Rindfleischimport trifft einen Nerv der Argentinier .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Rindfleischimport	<unknown>	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	einen	eine	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Argentinier	Argentinier	NN	*	*	*	*
 8	.	.	$.	*	*	*	*
@@ -5974,6 +6154,7 @@
 # tuepp_article_id = T980418.303
 # sent_id = 4753
 # text = Was kannst du tun , um den Nerv der Zeit zu treffen ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Was	was	PWS	*	*	*	*
@@ -5983,26 +6164,27 @@
 5	,	,	$,	*	*	*	*
 6	um	um	KOUI	*	*	*	*
 7	den	die	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
 10	Zeit	Zeit	NN	*	*	*	*
 11	zu	zu	PTKZU	*	*	*	*
-12	treffen	treffen	VVINF	2	2	2	2
+12	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 13	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T980702.146
 # sent_id = 4754
 # text = Israels Präsident hat den Nerv des Ministerpräsidenten getroffen - seine Unentschiedenheit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Israels	Israel	NE	*	*	*	*
 2	Präsident	Präsident	NN	*	*	*	*
 3	hat	haben	VAFIN	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	des	die	ART	*	*	*	*
 7	Ministerpräsidenten	Ministerpräsident	NN	*	*	*	*
-8	getroffen	treffen|triefen	VVPP	2	2	2	2
+8	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 9	-	-	$(	*	*	*	*
 10	seine	sein	PPOSAT	*	*	*	*
 11	Unentschiedenheit	Unentschiedenheit	NN	*	*	*	*
@@ -6011,6 +6193,7 @@
 # tuepp_article_id = T981231.185
 # sent_id = 4755
 # text = Oder ist es ihr 70er-Jahre-Charme , der noch immer den Nerv der Endneunziger trifft ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Oder	oder	KON	*	*	*	*
@@ -6023,15 +6206,16 @@
 8	noch	noch	ADV	*	*	*	*
 9	immer	immer	ADV	*	*	*	*
 10	den	die	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
 13	Endneunziger	<unknown>	NN	*	*	*	*
-14	trifft	treffen	VVFIN	2	2	2	2
+14	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 15	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T981207.279
 # sent_id = 4756
 # text = Doch Referentennamen wie Peter Greenaway ( Regisseur ) , Michael Schirner ( Werbepapst ) , John Warwicker ( von der Londoner Reklamekunstschmiede Tomato ) oder auch Michael Saup hatten eine so starke Magnetwirkung , daß Schneider über " die Begegnung der Avantgarde von heute mit der Avantgarde von morgen " frohlockt : " Offensichtlich treffen wir einen Nerv der Zeit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -6088,10 +6272,10 @@
 52	:	:	$.	*	*	*	*
 53	"	"	$(	*	*	*	*
 54	Offensichtlich	offensichtlich	ADJD	*	*	*	*
-55	treffen	treffen	VVFIN	2	2	2	2
+55	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 56	wir	wir	PPER	*	*	*	*
 57	einen	eine	ART	*	*	*	*
-58	Nerv	Nerv	NN	2	2	2	2
+58	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 59	der	die	ART	*	*	*	*
 60	Zeit	Zeit	NN	*	*	*	*
 61	.	.	$.	*	*	*	*
@@ -6099,14 +6283,15 @@
 # tuepp_article_id = T981229.143
 # sent_id = 4757
 # text = Erstaunlicherweise aber traf Witt den Nerv eines breiten Publikums .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Erstaunlicherweise	erstaunlicherweise	ADV	*	*	*	*
 2	aber	aber	ADV	*	*	*	*
-3	traf	treffen	VVFIN	2	2	2	2
+3	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	Witt	Witt	NE	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	eines	eine	ART	*	*	*	*
 8	breiten	breit	ADJA	*	*	*	*
 9	Publikums	Publikum	NN	*	*	*	*
@@ -6115,19 +6300,21 @@
 # tuepp_article_id = T981205.363
 # sent_id = 4758
 # text = Dabei traf er einen universalen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	er	er	PPER	*	*	*	*
 4	einen	eine	ART	*	*	*	*
 5	universalen	universal	ADJA	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981211.190
 # sent_id = 4759
 # text = Der Sound , der in den Ohren der Konsumenten den Nerv des Augenblicks trifft .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6140,15 +6327,16 @@
 8	der	die	ART	*	*	*	*
 9	Konsumenten	Konsument	NN	*	*	*	*
 10	den	die	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	des	die	ART	*	*	*	*
 13	Augenblicks	Augenblicks	NN	*	*	*	*
-14	trifft	treffen	VVFIN	2	2	2	2
+14	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980831.116
 # sent_id = 4760
 # text = Um so auffälliger ist es daher , daß die These von der totalen Inhaltslosigkeit des SPD-Wahlkampfes offensichtlich punktgenau den Nerv gerade auch unionsferner Milieus getroffen hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	APPR	*	*	*	*
@@ -6170,24 +6358,25 @@
 17	offensichtlich	offensichtlich	ADJD	*	*	*	*
 18	punktgenau	punktgenau	ADJD	*	*	*	*
 19	den	die	ART	*	*	*	*
-20	Nerv	Nerv	NN	2	2	2	2
+20	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 21	gerade	gerade	ADV	*	*	*	*
 22	auch	auch	ADV	*	*	*	*
 23	unionsferner	<unknown>	ADJA	*	*	*	*
 24	Milieus	Milieu	NN	*	*	*	*
-25	getroffen	treffen|triefen	VVPP	2	2	2	2
+25	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 26	hat	haben	VAFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980805.5
 # sent_id = 4761
 # text = Borttscheller trifft den Nerv der Wähler .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Borttscheller	<unknown>	NN	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
 6	Wähler	Wähler	NN	*	*	*	*
 7	.	.	$.	*	*	*	*
@@ -6195,6 +6384,7 @@
 # tuepp_article_id = T980827.237
 # sent_id = 4762
 # text = Dank ihres unermüdlichen Tourens durch die Konzerthallen der Welt wußten die Musiker genau , was beim Publikum ankam : Sommer , Sonne , Surfen , Mädchen und Autos - Teenager-Themen in jenem Happy-go-lucky-Sound , mit dem sie in den frühen Sechzigern den Nerv einer Generation getroffen hatten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dank	dank	APPR	*	*	*	*
@@ -6239,16 +6429,17 @@
 40	frühen	früh	ADJA	*	*	*	*
 41	Sechzigern	sechziger	NN	*	*	*	*
 42	den	die	ART	*	*	*	*
-43	Nerv	Nerv	NN	2	2	2	2
+43	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 44	einer	eine	ART	*	*	*	*
 45	Generation	Generation	NN	*	*	*	*
-46	getroffen	treffen|triefen	VVPP	2	2	2	2
+46	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 47	hatten	haben	VAFIN	*	*	*	*
 48	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980828.389
 # sent_id = 4763
 # text = Täglich erreichen uns säcke- , nein bergeweise Post , Faxe und andere Zuschriften , die uns die Gewißheit vermitteln , daß wir einen Nerv getroffen haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Täglich	täglich	ADJD	*	*	*	*
@@ -6274,18 +6465,19 @@
 21	daß	dass	KOUS	*	*	*	*
 22	wir	wir	PPER	*	*	*	*
 23	einen	eine	ART	*	*	*	*
-24	Nerv	Nerv	NN	2	2	2	2
-25	getroffen	treffen|triefen	VVPP	2	2	2	2
+24	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+25	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 26	haben	haben	VAFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980309.163
 # sent_id = 4764
 # text = Offensichtlich traf die verlegerische Retortengeburt mit ihrer Mischung aus Cosmopolitan und Cinema doch nicht den Nerv der anvisierten Zielgruppe , was zu der erfreulichen Annahme verleitet , daß das Illustrierten kaufende Publikum doch noch nicht alles mit sich machen läßt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Offensichtlich	offensichtlich	ADJD	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	verlegerische	verlegerisch	ADJA	*	*	*	*
 5	Retortengeburt	<unknown>	NN	*	*	*	*
@@ -6299,7 +6491,7 @@
 13	doch	doch	ADV	*	*	*	*
 14	nicht	nicht	PTKNEG	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	der	die	ART	*	*	*	*
 18	anvisierten	anvisiert	ADJA	*	*	*	*
 19	Zielgruppe	Zielgruppe	NN	*	*	*	*
@@ -6329,6 +6521,7 @@
 # tuepp_article_id = T980327.200
 # sent_id = 4765
 # text = " Die Rednerin scheint den Nerv getroffen zu haben , das Publikum rast .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6336,8 +6529,8 @@
 3	Rednerin	Rednerin	NN	*	*	*	*
 4	scheint	scheinen	VVFIN	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
-7	getroffen	treffen|triefen	VVPP	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+7	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 8	zu	zu	PTKZU	*	*	*	*
 9	haben	haben	VAINF	*	*	*	*
 10	,	,	$,	*	*	*	*
@@ -6349,6 +6542,7 @@
 # tuepp_article_id = T981119.256
 # sent_id = 4766
 # text = Elke Kröning hat dieses Probem offen angesprochen und damit offensichtlich einen blank liegenden Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Elke	Elke	NE	*	*	*	*
@@ -6364,13 +6558,14 @@
 11	einen	eine	ART	*	*	*	*
 12	blank	blank	ADJD	*	*	*	*
 13	liegenden	liegend	ADJA	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
-15	getroffen	treffen|triefen	VVPP	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+15	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981112.350
 # sent_id = 4767
 # text = So oder so - David Lynch traf die Nerven seiner ZuschauerInnen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -6379,9 +6574,9 @@
 4	-	-	$(	*	*	*	*
 5	David	David	NE	*	*	*	*
 6	Lynch	Lynch	NE	*	*	*	*
-7	traf	treffen	VVFIN	2	2	2	2
+7	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
-9	Nerven	Nerv|Nerven	NN	2	2	2	2
+9	Nerven	Nerv|Nerven	NN	FIG	FIG	FIG	FIG
 10	seiner	sein	PPOSAT	*	*	*	*
 11	ZuschauerInnen	Zuschauerin	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
@@ -6389,6 +6584,7 @@
 # tuepp_article_id = T980225.135
 # sent_id = 4768
 # text = Sicher muß der Autor den Nerv der Zeit treffen , aber ich denke auch , er muß einen Widerspruch zur Zeit wagen , wenn die Zeit eine ungute Entwicklung nimmt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sicher	sicher	ADJD	*	*	*	*
@@ -6396,10 +6592,10 @@
 3	der	die	ART	*	*	*	*
 4	Autor	Autor	NN	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	Zeit	Zeit	NN	*	*	*	*
-9	treffen	treffen	VVINF	2	2	2	2
+9	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	aber	aber	KON	*	*	*	*
 12	ich	ich	PPER	*	*	*	*
@@ -6426,14 +6622,15 @@
 # tuepp_article_id = T980223.245
 # sent_id = 4769
 # text = " Den Nerv der Gesellschaft getroffen " hat die Hamburger Polizei nach eigener Einschätzung mit ihrer Kampagne für mehr Zivilcourage .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Den	die	ART	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 4	der	die	ART	*	*	*	*
 5	Gesellschaft	Gesellschaft	NN	*	*	*	*
-6	getroffen	treffen|triefen	VVPP	2	2	2	2
+6	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 7	"	"	$(	*	*	*	*
 8	hat	haben	VAFIN	*	*	*	*
 9	die	die	ART	*	*	*	*
@@ -6453,6 +6650,7 @@
 # tuepp_article_id = T980207.258
 # sent_id = 4770
 # text = Wenn der Inhalt fehlt , wenn das Stück nicht den Nerv der Zeit trifft , dann wird es auch nichts mit dem Shooting-Möbel , das in allen Wohnmagazinen und Shops Karriere macht .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -6465,10 +6663,10 @@
 8	Stück	Stück	NN	*	*	*	*
 9	nicht	nicht	PTKNEG	*	*	*	*
 10	den	die	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
 13	Zeit	Zeit	NN	*	*	*	*
-14	trifft	treffen	VVFIN	2	2	2	2
+14	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	dann	dann	ADV	*	*	*	*
 17	wird	werden	VAFIN	*	*	*	*
@@ -6492,6 +6690,7 @@
 # tuepp_article_id = T970512.48
 # sent_id = 4771
 # text = Schon der SPD-Bundesvorsitzende Lafontaine hatte am Freitag den Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
@@ -6502,13 +6701,14 @@
 6	am	an	APPRART	*	*	*	*
 7	Freitag	Freitag	NN	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
-10	getroffen	treffen|triefen	VVPP	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+10	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970522.275
 # sent_id = 4772
 # text = David Lynch treibt alles bis zum Äußersten und trifft hier genau die Nerven seiner Zuschauer .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	David	David	NE	*	*	*	*
@@ -6519,11 +6719,11 @@
 6	zum	zu	APPRART	*	*	*	*
 7	Äußersten	Äußerst	NN	*	*	*	*
 8	und	und	KON	*	*	*	*
-9	trifft	treffen	VVFIN	2	2	2	2
+9	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 10	hier	hier	ADV	*	*	*	*
 11	genau	genau	ADJD	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Nerven	Nerv|Nerven	NN	2	2	2	2
+13	Nerven	Nerv|Nerven	NN	FIG	FIG	FIG	FIG
 14	seiner	sein	PPOSAT	*	*	*	*
 15	Zuschauer	Zuschauer	NN	*	*	*	*
 16	.	.	$.	*	*	*	*
@@ -6531,6 +6731,7 @@
 # tuepp_article_id = T970517.317
 # sent_id = 4773
 # text = Die Worte des sozialdemokratischen Regierungschefs trafen genau den Nerv der linken Öffentlichkeit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6538,10 +6739,10 @@
 3	des	die	ART	*	*	*	*
 4	sozialdemokratischen	sozialdemokratisch	ADJA	*	*	*	*
 5	Regierungschefs	Regierungschef	NN	*	*	*	*
-6	trafen	treffen	VVFIN	2	2	2	2
+6	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 7	genau	genau	ADJD	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
 11	linken	links	ADJA	*	*	*	*
 12	Öffentlichkeit	Öffentlichkeit	NN	*	*	*	*
@@ -6550,21 +6751,23 @@
 # tuepp_article_id = T970509.255
 # sent_id = 4774
 # text = " Damit traf er einen blank liegenden Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Damit	damit	PAV	*	*	*	*
-3	traf	treffen	VVFIN	2	2	2	2
+3	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	er	er	PPER	*	*	*	*
 5	einen	eine	ART	*	*	*	*
 6	blank	blank	ADJD	*	*	*	*
 7	liegenden	liegend	ADJA	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970605.38
 # sent_id = 4775
 # text = Der Vorsitzende der Bewegung für eine Gesellschaft des Friedens ( MSP ) , Scheich Mahfud Nahnah ( 55 ) , trifft den Nerv der zu Tausenden ins Fußballstadion der Stadt Constantine , 300 Kilometer östlich von Algier , geströmten Zuhörer .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6587,9 +6790,9 @@
 18	55	@card@	CARD	*	*	*	*
 19	)	)	$(	*	*	*	*
 20	,	,	$,	*	*	*	*
-21	trifft	treffen	VVFIN	2	2	2	2
+21	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 22	den	die	ART	*	*	*	*
-23	Nerv	Nerv	NN	2	2	2	2
+23	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 24	der	die	ART	*	*	*	*
 25	zu	zu	APPR	*	*	*	*
 26	Tausenden	Tausend	NN	*	*	*	*
@@ -6612,6 +6815,7 @@
 # tuepp_article_id = T970613.175
 # sent_id = 4776
 # text = Bei Brigitte Biermann hat Möser offenbar einen Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -6621,13 +6825,14 @@
 5	Möser	<unknown>	NN	*	*	*	*
 6	offenbar	offenbar	ADJD	*	*	*	*
 7	einen	eine	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
-9	getroffen	treffen|triefen	VVPP	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+9	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970621.89
 # sent_id = 4777
 # text = Der Gesetzentwurf , der gestern gemeinsam von den Grünen , Bundesjustizminister Edzard Schmidt- Jorzig und einigen Abgeordneten von SPD und Union vorgestellt wurde , trifft den Nerv der Transplantationschirurgie .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6654,9 +6859,9 @@
 22	vorgestellt	vorstellen	VVPP	*	*	*	*
 23	wurde	werden	VAFIN	*	*	*	*
 24	,	,	$,	*	*	*	*
-25	trifft	treffen	VVFIN	2	2	2	2
+25	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 26	den	die	ART	*	*	*	*
-27	Nerv	Nerv	NN	2	2	2	2
+27	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 28	der	die	ART	*	*	*	*
 29	Transplantationschirurgie	Transplantationschirurgie	NN	*	*	*	*
 30	.	.	$.	*	*	*	*
@@ -6664,6 +6869,7 @@
 # tuepp_article_id = T971021.10
 # sent_id = 4778
 # text = Mit wenigen markigen , nicht sonderlich geistreichen , aber wahren Worten den Nerv getroffen !
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -6678,13 +6884,14 @@
 10	wahren	wahr	ADJA	*	*	*	*
 11	Worten	Wort	NN	*	*	*	*
 12	den	die	ART	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
-14	getroffen	treffen|triefen	VVPP	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+14	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 15	!	!	$.	*	*	*	*
 
 # tuepp_article_id = T971018.151
 # sent_id = 4779
 # text = Obwohl der Roman vor Jugendklischees nur so strotzte , traf er trotzdem den Nerv juveniler Weltentdeckungsgelüste .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Obwohl	obwohl	KOUS	*	*	*	*
@@ -6696,11 +6903,11 @@
 7	so	so	ADV	*	*	*	*
 8	strotzte	strotzen	VVFIN	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	traf	treffen	VVFIN	2	2	2	2
+10	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 11	er	er	PPER	*	*	*	*
 12	trotzdem	trotzdem	PAV	*	*	*	*
 13	den	die	ART	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 15	juveniler	juvenil	ADJA	*	*	*	*
 16	Weltentdeckungsgelüste	<unknown>	NN	*	*	*	*
 17	.	.	$.	*	*	*	*
@@ -6708,6 +6915,7 @@
 # tuepp_article_id = T971016.159
 # sent_id = 4780
 # text = Der Film hat auch den emotionalen Nerv des Publikums getroffen mit seiner Geschichte vom ehrlichen Banditen Baran , der , nach 35 Jahren Haft aus dem Gefängnis kommend , in eine ihm fremde Welt entlassen wird .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6716,10 +6924,10 @@
 4	auch	auch	ADV	*	*	*	*
 5	den	die	ART	*	*	*	*
 6	emotionalen	emotional	ADJA	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	des	die	ART	*	*	*	*
 9	Publikums	Publikum	NN	*	*	*	*
-10	getroffen	treffen|triefen	VVPP	2	2	2	2
+10	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 11	mit	mit	APPR	*	*	*	*
 12	seiner	sein	PPOSAT	*	*	*	*
 13	Geschichte	Geschichte	NN	*	*	*	*
@@ -6751,6 +6959,7 @@
 # tuepp_article_id = T970904.203
 # sent_id = 4781
 # text = Doch die Brüder William und Jim Reid , die mit zum Himmel getürmten Locken im fahlen Licht posierten , trafen meinen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -6772,14 +6981,15 @@
 17	Licht	Licht	NN	*	*	*	*
 18	posierten	posieren	VVFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
-20	trafen	treffen	VVFIN	2	2	2	2
+20	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 21	meinen	mein	PPOSAT	*	*	*	*
-22	Nerv	Nerv	NN	2	2	2	2
+22	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970106.107
 # sent_id = 4782
 # text = Angesichts steigender Arbeitslosenzahlen liegt die Vermutung nahe , daß die CSU mit ihren restriktiven Vorschlägen den Nerv breiter Teile der Gesellschaft eher trifft als die Befürworter eines längst fälligen Einwanderungsgesetzes .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Angesichts	angesichts	APPR	*	*	*	*
@@ -6798,13 +7008,13 @@
 14	restriktiven	restriktiv	ADJA	*	*	*	*
 15	Vorschlägen	Vorschlag	NN	*	*	*	*
 16	den	die	ART	*	*	*	*
-17	Nerv	Nerv	NN	2	2	2	2
+17	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 18	breiter	breit	ADJA	*	*	*	*
 19	Teile	Teil	NN	*	*	*	*
 20	der	die	ART	*	*	*	*
 21	Gesellschaft	Gesellschaft	NN	*	*	*	*
 22	eher	eher	ADV	*	*	*	*
-23	trifft	treffen	VVFIN	2	2	2	2
+23	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 24	als	als	KOKOM	*	*	*	*
 25	die	die	ART	*	*	*	*
 26	Befürworter	Befürworter	NN	*	*	*	*
@@ -6817,13 +7027,14 @@
 # tuepp_article_id = T970122.225
 # sent_id = 4783
 # text = Doch Stoiber trifft den Nerv der Bremer CDU .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
 2	Stoiber	Stoiber	NE	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Bremer	Bremer	NE	*	*	*	*
 8	CDU	CDU	NE	*	*	*	*
@@ -6832,18 +7043,20 @@
 # tuepp_article_id = T970107.176
 # sent_id = 4784
 # text = Der Mann traf einen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Mann	Mann	NN	*	*	*	*
-3	traf	treffen	VVFIN	2	2	2	2
+3	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	einen	eine	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970414.230
 # sent_id = 4785
 # text = Die bundesweite Beachtung des Streits zeigt nach Ansicht von Kohlwage , daß " wir einen Nerv getroffen haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6861,14 +7074,15 @@
 13	"	"	$(	*	*	*	*
 14	wir	wir	PPER	*	*	*	*
 15	einen	eine	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
-17	getroffen	treffen|triefen	VVPP	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+17	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 18	haben	haben	VAFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970401.144
 # sent_id = 4786
 # text = " Neben den Cartoonbänden , die in schöner Regelmäßigkeit erscheinen und offensichtlich den heiteren Nerv der Deutschen treffen , arbeitet er für verschiedene Zeitschriften und vergißt dabei auch seine Heimatstadt nicht .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6885,10 +7099,10 @@
 12	offensichtlich	offensichtlich	ADJD	*	*	*	*
 13	den	die	ART	*	*	*	*
 14	heiteren	heiter	ADJA	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
 17	Deutschen	Deutsche	NN	*	*	*	*
-18	treffen	treffen	VVINF	2	2	2	2
+18	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	arbeitet	arbeiten	VVFIN	*	*	*	*
 21	er	er	PPER	*	*	*	*
@@ -6907,6 +7121,7 @@
 # tuepp_article_id = T970412.297
 # sent_id = 4787
 # text = Der geschäftstüchtige Bäcker- und Konditormeister hat damit offenbar einen Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6918,13 +7133,14 @@
 7	damit	damit	PAV	*	*	*	*
 8	offenbar	offenbar	ADJD	*	*	*	*
 9	einen	eine	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
-11	getroffen	treffen|triefen	VVPP	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+11	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970711.249
 # sent_id = 4788
 # text = Die Kämpfe bilden das Vorspiel zu einem Wahlentscheid , dem sich keiner der beiden Hauptkontrahenten stellen zu wollen scheint , in einem Land , in dem " das Nationalbewußtsein in Regionen , Stämme und Bruderschaften zerfallen ist " 17. Dieser Bürgerkrieg trifft den Nerv des französisch-afrikanischen Systems , denn sein Dreh- und Angelpunkt sind seit einigen Jahren die " Überleitungen " , Wahlen , die Verteidigung der " neuen Demokratien " .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6969,9 +7185,9 @@
 40	.	.	$.	*	*	*	*
 41	Dieser	dies	PDAT	*	*	*	*
 42	Bürgerkrieg	Bürgerkrieg	NN	*	*	*	*
-43	trifft	treffen	VVFIN	2	2	2	2
+43	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 44	den	die	ART	*	*	*	*
-45	Nerv	Nerv	NN	2	2	2	2
+45	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 46	des	die	ART	*	*	*	*
 47	französisch-afrikanischen	französisch-afrikanisch	ADJA	*	*	*	*
 48	Systems	System	NN	*	*	*	*
@@ -7004,18 +7220,19 @@
 # tuepp_article_id = T971215.61
 # sent_id = 4789
 # text = Das scheint einen empfindlichen Nerv der britischen Seele zu treffen , vielleicht auch nur der britischen Zeitungen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
 2	scheint	scheinen	VVFIN	*	*	*	*
 3	einen	eine	ART	*	*	*	*
 4	empfindlichen	empfindlich	ADJA	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	britischen	britisch	ADJA	*	*	*	*
 8	Seele	Seele	NN	*	*	*	*
 9	zu	zu	PTKZU	*	*	*	*
-10	treffen	treffen	VVINF	2	2	2	2
+10	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	vielleicht	vielleicht	ADV	*	*	*	*
 13	auch	auch	ADV	*	*	*	*
@@ -7028,17 +7245,18 @@
 # tuepp_article_id = T971212.59
 # sent_id = 4790
 # text = Mit dem Beamtenstatus aber treffen die Studierenden den Nerv von Reformprozessen , die weit über die Hochschulen hinausgehen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
 2	dem	die	ART	*	*	*	*
 3	Beamtenstatus	Beamtenstatus	NN	*	*	*	*
 4	aber	aber	KON	*	*	*	*
-5	treffen	treffen	VVFIN	2	2	2	2
+5	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
 7	Studierenden	Studierende	NN	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	von	von	APPR	*	*	*	*
 11	Reformprozessen	Reformprozess	NN	*	*	*	*
 12	,	,	$,	*	*	*	*
@@ -7053,6 +7271,7 @@
 # tuepp_article_id = T971229.134
 # sent_id = 4791
 # text = Life is a stage , auch im Theater von Deavere Smith , die wahrscheinlich genau damit den Nerv des amerikanischen Publikums trifft und jenen " Unterhaltungswert " beglaubigter Biographien liefert , mit denen sie in den USA zum Begriff geworden ist .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Life	<unknown>	NE	*	*	*	*
@@ -7072,11 +7291,11 @@
 15	genau	genau	ADJD	*	*	*	*
 16	damit	damit	PAV	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	des	die	ART	*	*	*	*
 20	amerikanischen	amerikanisch	ADJA	*	*	*	*
 21	Publikums	Publikum	NN	*	*	*	*
-22	trifft	treffen	VVFIN	2	2	2	2
+22	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 23	und	und	KON	*	*	*	*
 24	jenen	jen	PDAT	*	*	*	*
 25	"	"	$(	*	*	*	*
@@ -7101,6 +7320,7 @@
 # tuepp_article_id = T970802.83
 # sent_id = 4792
 # text = " Wie oft " , traf der im rhetorischen Gegenzug sensibel den Nerv des Stürmers , " hast du denn schon gespielt , du Arsch ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7108,14 +7328,14 @@
 3	oft	oft	ADV	*	*	*	*
 4	"	"	$(	*	*	*	*
 5	,	,	$,	*	*	*	*
-6	traf	treffen	VVFIN	2	2	2	2
+6	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	im	in	APPRART	*	*	*	*
 9	rhetorischen	rhetorisch	ADJA	*	*	*	*
 10	Gegenzug	Gegenzug	NN	*	*	*	*
 11	sensibel	sensibel	ADJD	*	*	*	*
 12	den	die	ART	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 14	des	die	ART	*	*	*	*
 15	Stürmers	Stürmer	NN	*	*	*	*
 16	,	,	$,	*	*	*	*
@@ -7133,6 +7353,7 @@
 # tuepp_article_id = T970322.32
 # sent_id = 4793
 # text = Ihr nostalgisches Konzeptalbum " Ex Oriente Lux " ( Aus dem Osten kommt das Licht ) , eine musikalische Topographie der Türkei , schlug ein wie eine Bombe und traf den Nerv gerade auch bei einem intellektuellen Publikum , das sie früher gern als Schnulzensängerin belächelt hatte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ihr	ihr	PPOSAT	*	*	*	*
@@ -7164,9 +7385,9 @@
 27	eine	eine	ART	*	*	*	*
 28	Bombe	Bombe	NN	*	*	*	*
 29	und	und	KON	*	*	*	*
-30	traf	treffen	VVFIN	2	2	2	2
+30	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 31	den	die	ART	*	*	*	*
-32	Nerv	Nerv	NN	2	2	2	2
+32	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 33	gerade	gerade	ADV	*	*	*	*
 34	auch	auch	ADV	*	*	*	*
 35	bei	bei	APPR	*	*	*	*
@@ -7187,19 +7408,21 @@
 # tuepp_article_id = T970315.103
 # sent_id = 4794
 # text = Otto Schily hatte einen Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Otto	Otto	NE	*	*	*	*
 2	Schily	Schily	NE	*	*	*	*
 3	hatte	haben	VAFIN	*	*	*	*
 4	einen	eine	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
-6	getroffen	treffen|triefen	VVPP	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+6	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970307.119
 # sent_id = 4795
 # text = Das Debütalbum von Daft Punk ist im Moment eine dieser Platten , die den Nerv der Zeit treffen , wie man so sagt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -7216,10 +7439,10 @@
 12	,	,	$,	*	*	*	*
 13	die	die	PRELS	*	*	*	*
 14	den	die	ART	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
 17	Zeit	Zeit	NN	*	*	*	*
-18	treffen	treffen	VVINF	2	2	2	2
+18	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	wie	wie	KOUS	*	*	*	*
 21	man	man	PIS	*	*	*	*
@@ -7230,6 +7453,7 @@
 # tuepp_article_id = T971127.264
 # sent_id = 4796
 # text = Als im September 1981 der Film Beispiel Elbe - Zerstörung eines Lebensraumes anlief , hatten der Produzent Wolfgang Morell und Heiner Roß vom Metropolis den Nerv der Zeit getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KON	*	*	*	*
@@ -7257,15 +7481,16 @@
 23	vom	von	APPRART	*	*	*	*
 24	Metropolis	Metropolis	NN	*	*	*	*
 25	den	die	ART	*	*	*	*
-26	Nerv	Nerv	NN	2	2	2	2
+26	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 27	der	die	ART	*	*	*	*
 28	Zeit	Zeit	NN	*	*	*	*
-29	getroffen	treffen|triefen	VVPP	2	2	2	2
+29	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971106.386
 # sent_id = 4797
 # text = Wie sehr das Quintett aus Sacramento damit den Nerv der Zeit trifft , zeigten diverse Hausbesuche und Parties der letzten Monate , wo Fashion Nugget , die sonnengelbe CD mit der Krone , entweder schon lief oder sich als unfehlbares Mitbringsel entpuppte .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOKOM	*	*	*	*
@@ -7276,10 +7501,10 @@
 6	Sacramento	<unknown>	NN	*	*	*	*
 7	damit	damit	PAV	*	*	*	*
 8	den	die	ART	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
 11	Zeit	Zeit	NN	*	*	*	*
-12	trifft	treffen	VVFIN	2	2	2	2
+12	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	zeigten	zeigen	VVFIN	*	*	*	*
 15	diverse	divers	ADJA	*	*	*	*
@@ -7315,6 +7540,7 @@
 # tuepp_article_id = T971125.150
 # sent_id = 4798
 # text = Caspar David Friedrich hat den Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Caspar	Caspar	NE	*	*	*	*
@@ -7322,13 +7548,14 @@
 3	Friedrich	Friedrich	NE	*	*	*	*
 4	hat	haben	VAFIN	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
-7	getroffen	treffen|triefen	VVPP	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+7	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971118.176
 # sent_id = 4799
 # text = " Wir wollen damit den Nerv , das positive Image der Firmen treffen " , sagt Peter Grottian vom Komitee für Grundrechte und Demokratie e.V. " Mit symbolischen Blockaderingen soll es zu Verwicklungen beim Weihnachtseinkauf kommen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7336,14 +7563,14 @@
 3	wollen	wollen	VMFIN	*	*	*	*
 4	damit	damit	PAV	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	das	die	ART	*	*	*	*
 9	positive	positiv	ADJA	*	*	*	*
 10	Image	Image	NN	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Firmen	Firma	NN	*	*	*	*
-13	treffen	treffen	VVINF	2	2	2	2
+13	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 14	"	"	$(	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	sagt	sagen	VVFIN	*	*	*	*
@@ -7372,6 +7599,7 @@
 # tuepp_article_id = T970224.35
 # sent_id = 4800
 # text = Mit " Die Rache der Geschichte " trifft eine Amerikanerin den deutschen Nerv
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -7381,16 +7609,17 @@
 5	der	die	ART	*	*	*	*
 6	Geschichte	Geschichte	NN	*	*	*	*
 7	"	"	$(	*	*	*	*
-8	trifft	treffen	VVFIN	2	2	2	2
+8	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 9	eine	eine	ART	*	*	*	*
 10	Amerikanerin	Amerikanerin	NN	*	*	*	*
 11	den	die	ART	*	*	*	*
 12	deutschen	deutsch	ADJA	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T970224.35
 # sent_id = 4801
 # text = Aber auf ihre ganz eigene und höchst unterschiedliche Weise haben die drei Autoren auch einen Nerv in der deutschen Debatte getroffen : den Widerspruch zwischen der ungebrochenen Energie der Deutschen , sich mit ihrer Vergangenheit , und dem Unwillen , sich mit den Tätern zu befassen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -7408,12 +7637,12 @@
 13	Autoren	Autor	NN	*	*	*	*
 14	auch	auch	ADV	*	*	*	*
 15	einen	eine	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	in	in	APPR	*	*	*	*
 18	der	die	ART	*	*	*	*
 19	deutschen	deutsch	ADJA	*	*	*	*
 20	Debatte	Debatte	NN	*	*	*	*
-21	getroffen	treffen|triefen	VVPP	2	2	2	2
+21	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 22	:	:	$.	*	*	*	*
 23	den	die	ART	*	*	*	*
 24	Widerspruch	Widerspruch	NN	*	*	*	*
@@ -7444,6 +7673,7 @@
 # tuepp_article_id = T970213.170
 # sent_id = 4802
 # text = Ob Moritz de Hadeln wie in den letzten zwei Jahren wieder belanglose Kostümspektakel und turbulente Familienkomödien auffährt oder wie 88 und 83 den asiatischen Nerv der Zeit trifft .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ob	ob	KOUS	*	*	*	*
@@ -7470,15 +7700,16 @@
 22	83	@card@	CARD	*	*	*	*
 23	den	die	ART	*	*	*	*
 24	asiatischen	asiatisch	ADJA	*	*	*	*
-25	Nerv	Nerv	NN	2	2	2	2
+25	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
 27	Zeit	Zeit	NN	*	*	*	*
-28	trifft	treffen	VVFIN	2	2	2	2
+28	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940611.97
 # sent_id = 4803
 # text = Trotzdem hat der Konflikt den Nerv der Partei getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Trotzdem	trotzdem	PAV	*	*	*	*
@@ -7486,15 +7717,16 @@
 3	der	die	ART	*	*	*	*
 4	Konflikt	Konflikt	NN	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	Partei	Partei	NN	*	*	*	*
-9	getroffen	treffen|triefen	VVPP	2	2	2	2
+9	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940624.310
 # sent_id = 4804
 # text = Mit dieser Kürzung werde der " Nerv der Gesamtschule getroffen " .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -7503,28 +7735,30 @@
 4	werde	werden	VAFIN	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	"	"	$(	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
 9	Gesamtschule	Gesamtschule	NN	*	*	*	*
-10	getroffen	treffen|triefen	VVPP	2	2	2	2
+10	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 11	"	"	$(	*	*	*	*
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940628.204
 # sent_id = 4805
 # text = " Die trifft empfindliche Nerven .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Die	die	PDS	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	empfindliche	empfindlich	ADJA	*	*	*	*
-5	Nerven	Nerv|Nerven	NN	2	2	2	2
+5	Nerven	Nerv|Nerven	NN	FIG	FIG	FIG	FIG
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941011.130
 # sent_id = 4806
 # text = Alles ist zusammenhanglos , von daher treffen die " Nationalgaleristen " einen Nerv der Zeit , ob das Stück für die Bühne taugt und nicht eher ein Hörspiel hätte werden sollen , steht auf einem anderen Blatt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Alles	alle	PIS	*	*	*	*
@@ -7533,13 +7767,13 @@
 4	,	,	$,	*	*	*	*
 5	von	von	APPR	*	*	*	*
 6	daher	daher	ADV	*	*	*	*
-7	treffen	treffen	VVFIN	2	2	2	2
+7	treffen	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
 9	"	"	$(	*	*	*	*
 10	Nationalgaleristen	Nationalgalerist	NN	*	*	*	*
 11	"	"	$(	*	*	*	*
 12	einen	eine	ART	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 14	der	die	ART	*	*	*	*
 15	Zeit	Zeit	NN	*	*	*	*
 16	,	,	$,	*	*	*	*
@@ -7569,12 +7803,13 @@
 # tuepp_article_id = T941027.94
 # sent_id = 4807
 # text = Das trifft den Nerv der Partei , ihr Erfolgsgeheimnis .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	der	die	ART	*	*	*	*
 6	Partei	Partei	NN	*	*	*	*
 7	,	,	$,	*	*	*	*
@@ -7585,6 +7820,7 @@
 # tuepp_article_id = T941015.261
 # sent_id = 4808
 # text = Die SPD hat mit ihrem Protest gegen eine militärische Lösung der Kurdenfrage einen empfindlichen Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7601,13 +7837,14 @@
 12	Kurdenfrage	Kurdenfrage	NN	*	*	*	*
 13	einen	eine	ART	*	*	*	*
 14	empfindlichen	empfindlich	ADJA	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
-16	getroffen	treffen|triefen	VVPP	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+16	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941012.94
 # sent_id = 4809
 # text = Bringt er den Alltag in anschaulichen Worten auf den Punkt , dann trifft er den Nerv seiner Zuhörer .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bringt	bringen	VVFIN	*	*	*	*
@@ -7622,10 +7859,10 @@
 10	Punkt	Punkt	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	dann	dann	ADV	*	*	*	*
-13	trifft	treffen	VVFIN	2	2	2	2
+13	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 14	er	er	PPER	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	seiner	sein	PPOSAT	*	*	*	*
 18	Zuhörer	Zuhörer	NN	*	*	*	*
 19	.	.	$.	*	*	*	*
@@ -7633,14 +7870,15 @@
 # tuepp_article_id = T941024.220
 # sent_id = 4810
 # text = Und traf so auf den Nerv , daß es in der Sowjetunion 1980 gleich wieder verboten wurde .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	so	so	ADV	*	*	*	*
 4	auf	auf	APPR	*	*	*	*
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	daß	dass	KOUS	*	*	*	*
 9	es	es	PPER	*	*	*	*
@@ -7657,6 +7895,7 @@
 # tuepp_article_id = T940909.217
 # sent_id = 4811
 # text = Er , der sich selbst nicht Komponist nennen mag , weil er schließlich nur auf Bestellung schreibe , trifft mit seinen musikalischen Grenzüberschreitungen den Nerv der Zeit , ohne sich populistisch anzubiedern .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -7677,13 +7916,13 @@
 16	Bestellung	Bestellung	NN	*	*	*	*
 17	schreibe	schreiben	VVFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	trifft	treffen	VVFIN	2	2	2	2
+19	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 20	mit	mit	APPR	*	*	*	*
 21	seinen	sein	PPOSAT	*	*	*	*
 22	musikalischen	musikalisch	ADJA	*	*	*	*
 23	Grenzüberschreitungen	Grenzüberschreitung	NN	*	*	*	*
 24	den	die	ART	*	*	*	*
-25	Nerv	Nerv	NN	2	2	2	2
+25	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
 27	Zeit	Zeit	NN	*	*	*	*
 28	,	,	$,	*	*	*	*
@@ -7696,13 +7935,14 @@
 # tuepp_article_id = T940919.110
 # sent_id = 4812
 # text = Das UV-Licht trifft den Nerv des pflanzlichen Lebens .
+# vid_types = nerv treffen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Das	die	ART	*	*	*	*
 2	UV-Licht	UV-Licht	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	des	die	ART	*	*	*	*
 7	pflanzlichen	pflanzlich	ADJA	*	*	*	*
 8	Lebens	Leben	NN	*	*	*	*
@@ -7711,14 +7951,15 @@
 # tuepp_article_id = T940119.172
 # sent_id = 4813
 # text = " So etwas trifft den Nerv " , meint Franziska Buß-Vondrlik und sträubt sich sogleich gegen den Begriff des Frauentheaters .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	So	so	ADV	*	*	*	*
 3	etwas	etwas	ADV	*	*	*	*
-4	trifft	treffen	VVFIN	2	2	2	2
+4	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	den	die	ART	*	*	*	*
-6	Nerv	Nerv	NN	2	2	2	2
+6	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 7	"	"	$(	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	meint	meinen	VVFIN	*	*	*	*
@@ -7738,13 +7979,14 @@
 # tuepp_article_id = T940128.3
 # sent_id = 4814
 # text = Um diesen Nerv zu treffen , wird Artikel 14 GG ( Eigentum ) ergänzt und die Beweislast umgekehrt : " Vermögen , das aus Straftaten herrührt oder dafür verwendet werden soll , wird nicht geschützt .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	APPR	*	*	*	*
 2	diesen	dies	PDAT	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 4	zu	zu	PTKZU	*	*	*	*
-5	treffen	treffen	VVINF	2	2	2	2
+5	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 6	,	,	$,	*	*	*	*
 7	wird	werden	VAFIN	*	*	*	*
 8	Artikel	Artikel	NN	*	*	*	*
@@ -7780,24 +8022,26 @@
 # tuepp_article_id = T940107.26
 # sent_id = 4815
 # text = Das schien den bloßliegenden Nerv der mittelständischen Parteibasis haargenau zu treffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
 2	schien	scheinen	VVFIN	*	*	*	*
 3	den	die	ART	*	*	*	*
 4	bloßliegenden	bloßliegend	ADJA	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	mittelständischen	mittelständisch	ADJA	*	*	*	*
 8	Parteibasis	Parteibasis	NN	*	*	*	*
 9	haargenau	haargenau	ADJD	*	*	*	*
 10	zu	zu	PTKZU	*	*	*	*
-11	treffen	treffen	VVINF	2	2	2	2
+11	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940415.220
 # sent_id = 4816
 # text = Daß er mit der Grenzöffnung im November 1989 nicht das Ende der DDR habe auslösen wollen , traf den Nerv der zahlreich Erschienenen genau .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -7817,9 +8061,9 @@
 15	auslösen	auslösen	VVINF	*	*	*	*
 16	wollen	wollen	VMFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
-18	traf	treffen	VVFIN	2	2	2	2
+18	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 19	den	die	ART	*	*	*	*
-20	Nerv	Nerv	NN	2	2	2	2
+20	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 21	der	die	ART	*	*	*	*
 22	zahlreich	zahlreich	ADJD	*	*	*	*
 23	Erschienenen	Erschienene	NN	*	*	*	*
@@ -7829,10 +8073,11 @@
 # tuepp_article_id = T940811.202
 # sent_id = 4817
 # text = Den Nerv der Zeit , den Umbruch in Ostberlin , hat Takamatsu nicht getroffen , betet er doch fortschrittseuphorisch alte Mythen nach .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
-2	Nerv	Nerv	NN	2	2	2	2
+2	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 3	der	die	ART	*	*	*	*
 4	Zeit	Zeit	NN	*	*	*	*
 5	,	,	$,	*	*	*	*
@@ -7844,7 +8089,7 @@
 11	hat	haben	VAFIN	*	*	*	*
 12	Takamatsu	<unknown>	NE	*	*	*	*
 13	nicht	nicht	PTKNEG	*	*	*	*
-14	getroffen	treffen|triefen	VVPP	2	2	2	2
+14	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	betet	beten	VVFIN	*	*	*	*
 17	er	er	PPER	*	*	*	*
@@ -7858,6 +8103,7 @@
 # tuepp_article_id = T940813.89
 # sent_id = 4818
 # text = Die Offensive der bosnischen Armee in Richtung Sarajevo trifft den Nerv der UNO-Politik .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7868,9 +8114,9 @@
 6	in	in	APPR	*	*	*	*
 7	Richtung	Richtung	NN	*	*	*	*
 8	Sarajevo	Sarajevo	NE	*	*	*	*
-9	trifft	treffen	VVFIN	2	2	2	2
+9	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 10	den	die	ART	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	der	die	ART	*	*	*	*
 13	UNO-Politik	UNO-Politik	NN	*	*	*	*
 14	.	.	$.	*	*	*	*
@@ -7878,6 +8124,7 @@
 # tuepp_article_id = T940301.176
 # sent_id = 4819
 # text = Das Rockförderpreis-Plakat , der Bremer Eye-Catcher der letzten Wochen , trifft da angeblich nur den Nerv : Geld , Ruhm , Sex gebührt halt nur den Großen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -7890,12 +8137,12 @@
 8	letzten	letzt	ADJA	*	*	*	*
 9	Wochen	Woche	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	trifft	treffen	VVFIN	2	2	2	2
+11	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 12	da	da	ADV	*	*	*	*
 13	angeblich	angeblich	ADJD	*	*	*	*
 14	nur	nur	ADV	*	*	*	*
 15	den	die	ART	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	:	:	$.	*	*	*	*
 18	Geld	Geld	NN	*	*	*	*
 19	,	,	$,	*	*	*	*
@@ -7912,13 +8159,14 @@
 # tuepp_article_id = T940317.105
 # sent_id = 4820
 # text = taz : Welchen Nerv trifft Ihr Film , warum wühlt er die Leute so auf ?
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	taz	<unknown>	NE	*	*	*	*
 2	:	:	$.	*	*	*	*
 3	Welchen	welche	PWAT	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
-5	trifft	treffen	VVFIN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+5	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	Ihr	ihr	PPOSAT	*	*	*	*
 7	Film	Film	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
@@ -7934,6 +8182,7 @@
 # tuepp_article_id = T940329.95
 # sent_id = 4821
 # text = " Der West-Hinweis , daß Sucht sich nicht verbieten lasse , auf die legalen Drogen Tabak und Alkohol trifft den gegenläufigen Zonen- Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7954,16 +8203,17 @@
 16	Tabak	Tabak	NN	*	*	*	*
 17	und	und	KON	*	*	*	*
 18	Alkohol	Alkohol	NN	*	*	*	*
-19	trifft	treffen	VVFIN	2	2	2	2
+19	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 20	den	die	ART	*	*	*	*
 21	gegenläufigen	gegenläufig	ADJA	*	*	*	*
 22	Zonen-	Zonen-	TRUNC	*	*	*	*
-23	Nerv	Nerv	NN	2	2	2	2
+23	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940225.37
 # sent_id = 4822
 # text = Denn , so erläuterte die SPD- Politikerin Anke Fuchs , nur so könne der " Nerv " des " organisierten Verbrechens " entscheidend getroffen werden , und schließlich , so die SPD-Politikerin , genieße das bemäkelte Eigentum ja auch nicht den Schutz der Verfassung .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	ADV	*	*	*	*
@@ -7981,7 +8231,7 @@
 13	könne	können	VMFIN	*	*	*	*
 14	der	die	ART	*	*	*	*
 15	"	"	$(	*	*	*	*
-16	Nerv	Nerv	NN	2	2	2	2
+16	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 17	"	"	$(	*	*	*	*
 18	des	die	ART	*	*	*	*
 19	"	"	$(	*	*	*	*
@@ -7989,7 +8239,7 @@
 21	Verbrechens	Verbrechen	NN	*	*	*	*
 22	"	"	$(	*	*	*	*
 23	entscheidend	entscheidend	ADJD	*	*	*	*
-24	getroffen	treffen|triefen	VVPP	2	2	2	2
+24	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 25	werden	werden	VAINF	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	und	und	KON	*	*	*	*
@@ -8015,6 +8265,7 @@
 # tuepp_article_id = T940215.174
 # sent_id = 4823
 # text = Ihre Rede war kurz , aber sie traf den Nerv der Jugendlichen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ihre	ihr	PPOSAT	*	*	*	*
@@ -8024,9 +8275,9 @@
 5	,	,	$,	*	*	*	*
 6	aber	aber	KON	*	*	*	*
 7	sie	sie	PPER	*	*	*	*
-8	traf	treffen	VVFIN	2	2	2	2
+8	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 9	den	die	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	der	die	ART	*	*	*	*
 12	Jugendlichen	Jugendliche	NN	*	*	*	*
 13	.	.	$.	*	*	*	*
@@ -8034,13 +8285,14 @@
 # tuepp_article_id = T940202.141
 # sent_id = 4824
 # text = " Das trifft den Nerv des Premierenpublikums .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Das	die	PDS	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	des	die	ART	*	*	*	*
 7	Premierenpublikums	Premierenpublikum	NN	*	*	*	*
 8	.	.	$.	*	*	*	*
@@ -8048,10 +8300,11 @@
 # tuepp_article_id = T940211.89
 # sent_id = 4825
 # text = Da trifft die braune Kritik an den " Altparteien " einen empfindlichen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	braune	braun	ADJA	*	*	*	*
 5	Kritik	Kritik	NN	*	*	*	*
@@ -8062,12 +8315,13 @@
 10	"	"	$(	*	*	*	*
 11	einen	eine	ART	*	*	*	*
 12	empfindlichen	empfindlich	ADJA	*	*	*	*
-13	Nerv	Nerv	NN	2	2	2	2
+13	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940204.184
 # sent_id = 4826
 # text = " IGM- Bezirksleiter Frank Teichmüller wertete dies als Indiz dafür , daß die Arbeitgeber vor allem mit dem geplanten " Urlaubs-Harakiri " den Nerv der Streikbereitschaft getroffen hätten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -8093,26 +8347,27 @@
 21	Urlaubs-Harakiri	<unknown>	NE	*	*	*	*
 22	"	"	$(	*	*	*	*
 23	den	die	ART	*	*	*	*
-24	Nerv	Nerv	NN	2	2	2	2
+24	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 25	der	die	ART	*	*	*	*
 26	Streikbereitschaft	Streikbereitschaft	NN	*	*	*	*
-27	getroffen	treffen|triefen	VVPP	2	2	2	2
+27	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 28	hätten	haben	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950502.166
 # sent_id = 4827
 # text = Mit solcher Rhetorik trifft die RIM den Nerv der Kreuzberger Ghetto-Kids , die mit Kapuzen-T-Shirts und Piratenkopftüchern zu Hip-hop und Rap ihren diffusen Protest " gegen das System " ausdrücken .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
 2	solcher	solche	PIAT	*	*	*	*
 3	Rhetorik	Rhetorik	NN	*	*	*	*
-4	trifft	treffen	VVFIN	2	2	2	2
+4	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	die	die	ART	*	*	*	*
 6	RIM	<unknown>	NN	*	*	*	*
 7	den	die	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
 10	Kreuzberger	Kreuzberger	NE	*	*	*	*
 11	Ghetto-Kids	<unknown>	NN	*	*	*	*
@@ -8140,12 +8395,13 @@
 # tuepp_article_id = T950617.52
 # sent_id = 4828
 # text = Kohlhaas traf den Nerv mit seiner Skepsis gegen die schnelle Erhöhung der Mineralölsteuer .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kohlhaas	Kohlhaas	NE	*	*	*	*
-2	traf	treffen	VVFIN	2	2	2	2
+2	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	den	die	ART	*	*	*	*
-4	Nerv	Nerv	NN	2	2	2	2
+4	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 5	mit	mit	APPR	*	*	*	*
 6	seiner	sein	PPOSAT	*	*	*	*
 7	Skepsis	Skepsis	NN	*	*	*	*
@@ -8160,6 +8416,7 @@
 # tuepp_article_id = T950615.250
 # sent_id = 4829
 # text = Während das " Feldzeichen " aber noch von einem Teil der bayerischen Landbevölkerung als derart provozierend empfunden wurde , daß sie es in einer Nacht-und-Nebel-Aktion absägten , traf Voths " Reise ins Meer " mit ihrer Mischung aus Pathos , Melancholie und Abenteuersehnsucht den Nerv der Zeit .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -8189,7 +8446,7 @@
 25	Nacht-und-Nebel-Aktion	Nacht-und-Nebel-Aktion	NN	*	*	*	*
 26	absägten	<unknown>	VVFIN	*	*	*	*
 27	,	,	$,	*	*	*	*
-28	traf	treffen	VVFIN	2	2	2	2
+28	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 29	Voths	<unknown>	NN	*	*	*	*
 30	"	"	$(	*	*	*	*
 31	Reise	Reise	NN	*	*	*	*
@@ -8206,7 +8463,7 @@
 42	und	und	KON	*	*	*	*
 43	Abenteuersehnsucht	<unknown>	NN	*	*	*	*
 44	den	die	ART	*	*	*	*
-45	Nerv	Nerv	NN	2	2	2	2
+45	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 46	der	die	ART	*	*	*	*
 47	Zeit	Zeit	NN	*	*	*	*
 48	.	.	$.	*	*	*	*
@@ -8214,6 +8471,7 @@
 # tuepp_article_id = T950612.117
 # sent_id = 4830
 # text = " Es ist mir völlig egal , wer Meister wird " , sagte Uli Borowka mit Wasseraugen und traf damit den Nerv der knapp 40.000 , die ins Weserstadion gekommen waren .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -8234,10 +8492,10 @@
 16	mit	mit	APPR	*	*	*	*
 17	Wasseraugen	<unknown>	NN	*	*	*	*
 18	und	und	KON	*	*	*	*
-19	traf	treffen	VVFIN	2	2	2	2
+19	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 20	damit	damit	PAV	*	*	*	*
 21	den	die	ART	*	*	*	*
-22	Nerv	Nerv	NN	2	2	2	2
+22	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 23	der	die	ART	*	*	*	*
 24	knapp	knapp	ADJD	*	*	*	*
 25	40.000	@card@	ADJA	*	*	*	*
@@ -8252,16 +8510,17 @@
 # tuepp_article_id = T951002.145
 # sent_id = 4831
 # text = Damit trifft er nach dem Krieg den Nerv einer Zeit , die " das Flugzeug , die Atombombe , das Radio nicht in den alten Formen der Renaissance oder sonst einer vergangenen Kultur ausdrücken " kann .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
-2	trifft	treffen	VVFIN	2	2	2	2
+2	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 3	er	er	PPER	*	*	*	*
 4	nach	nach	APPR	*	*	*	*
 5	dem	die	ART	*	*	*	*
 6	Krieg	Krieg	NN	*	*	*	*
 7	den	die	ART	*	*	*	*
-8	Nerv	Nerv	NN	2	2	2	2
+8	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 9	einer	eine	ART	*	*	*	*
 10	Zeit	Zeit	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
@@ -8295,6 +8554,7 @@
 # tuepp_article_id = T950913.137
 # sent_id = 4832
 # text = Die Selbstzensur des Vertriebs und die Drohgebärden von Shiv- Sena-Politikern , die dem " Letzten Mohren " das Schicksal der " Satanischen Verse " angedroht haben , sind ein Indiz dafür , daß Rushdie wieder einen Nerv getroffen hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -8333,20 +8593,21 @@
 34	Rushdie	<unknown>	NN	*	*	*	*
 35	wieder	wieder	ADV	*	*	*	*
 36	einen	eine	ART	*	*	*	*
-37	Nerv	Nerv	NN	2	2	2	2
-38	getroffen	treffen|triefen	VVPP	2	2	2	2
+37	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+38	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 39	hat	haben	VAFIN	*	*	*	*
 40	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950918.243
 # sent_id = 4833
 # text = Einen empfindlichen Nerv trifft kurzfristig nur die elegante Blonde .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einen	eine	ART	*	*	*	*
 2	empfindlichen	empfindlich	ADJA	*	*	*	*
-3	Nerv	Nerv	NN	2	2	2	2
-4	trifft	treffen	VVFIN	2	2	2	2
+3	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+4	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	kurzfristig	kurzfristig	ADJD	*	*	*	*
 6	nur	nur	ADV	*	*	*	*
 7	die	die	ART	*	*	*	*
@@ -8357,6 +8618,7 @@
 # tuepp_article_id = T950105.249
 # sent_id = 4834
 # text = " Und obwohl der unbestimmte Begriff des " gesunden Volksempfindens " in den Urteilen des Sondergerichts der Willkür Tür und Tor öffnete , trafen die Richter mit ihren drakonischen Strafen vielleicht sogar den Nerv der Bevölkerung .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -8382,7 +8644,7 @@
 21	Tor	Tor	NN	*	*	*	*
 22	öffnete	öffnen	VVFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
-24	trafen	treffen	VVFIN	2	2	2	2
+24	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 25	die	die	ART	*	*	*	*
 26	Richter	Richter	NN	*	*	*	*
 27	mit	mit	APPR	*	*	*	*
@@ -8392,7 +8654,7 @@
 31	vielleicht	vielleicht	ADV	*	*	*	*
 32	sogar	sogar	ADV	*	*	*	*
 33	den	die	ART	*	*	*	*
-34	Nerv	Nerv	NN	2	2	2	2
+34	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 35	der	die	ART	*	*	*	*
 36	Bevölkerung	Bevölkerung	NN	*	*	*	*
 37	.	.	$.	*	*	*	*
@@ -8400,6 +8662,7 @@
 # tuepp_article_id = T950127.18
 # sent_id = 4835
 # text = ( Daß das U. S.-Holocaust-Museum eine der letzten hölzernen Baracken in Birkenau zersägen und abtransportieren ließ , hatte in der Gruppe einen besonders empfindlichen Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	(	(	$(	*	*	*	*
@@ -8426,13 +8689,14 @@
 22	einen	eine	ART	*	*	*	*
 23	besonders	besonders	ADV	*	*	*	*
 24	empfindlichen	empfindlich	ADJA	*	*	*	*
-25	Nerv	Nerv	NN	2	2	2	2
-26	getroffen	treffen|triefen	VVPP	2	2	2	2
+25	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+26	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950406.139
 # sent_id = 4836
 # text = Spricht man sie darauf an , trifft man einen empfindlichen Nerv und löst eine Lawine der verlegenen Ausreden und Entschuldigungen aus .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Spricht	sprechen	VVFIN	*	*	*	*
@@ -8441,11 +8705,11 @@
 4	darauf	darauf	PAV	*	*	*	*
 5	an	an	PTKVZ	*	*	*	*
 6	,	,	$,	*	*	*	*
-7	trifft	treffen	VVFIN	2	2	2	2
+7	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	man	man	PIS	*	*	*	*
 9	einen	eine	ART	*	*	*	*
 10	empfindlichen	empfindlich	ADJA	*	*	*	*
-11	Nerv	Nerv	NN	2	2	2	2
+11	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 12	und	und	KON	*	*	*	*
 13	löst	lösen	VVFIN	*	*	*	*
 14	eine	eine	ART	*	*	*	*
@@ -8461,6 +8725,7 @@
 # tuepp_article_id = T950408.262
 # sent_id = 4837
 # text = Mit solchen Formulierungen dürfte Hürriyet den Nerv ihrer Leser treffen , die sich durch die deutsche Kritik an ihrem Heimatland persönlich verletzt fühlen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -8469,10 +8734,10 @@
 4	dürfte	dürfen	VMFIN	*	*	*	*
 5	Hürriyet	Hürriyet	NE	*	*	*	*
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	ihrer	ihr	PPOSAT	*	*	*	*
 9	Leser	Leser	NN	*	*	*	*
-10	treffen	treffen	VVINF	2	2	2	2
+10	treffen	treffen	VVINF	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	die	die	PRELS	*	*	*	*
 13	sich	sich	PRF	*	*	*	*
@@ -8491,6 +8756,7 @@
 # tuepp_article_id = T950408.318
 # sent_id = 4838
 # text = Doch das kann sich ändern , fürchten die Standesvertreter und fühlen sich im Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -8506,13 +8772,14 @@
 11	fühlen	fühlen	VVFIN	*	*	*	*
 12	sich	sich	PRF	*	*	*	*
 13	im	in	APPRART	*	*	*	*
-14	Nerv	Nerv	NN	2	2	2	2
-15	getroffen	treffen|triefen	VVPP	2	2	2	2
+14	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+15	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950803.214
 # sent_id = 4839
 # text = Mit " Apollo 13 " hat er jetzt endlich tiefer gebohrt und den richtigen Nerv getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -8529,13 +8796,14 @@
 12	und	und	KON	*	*	*	*
 13	den	die	ART	*	*	*	*
 14	richtigen	richtig	ADJA	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
-16	getroffen	treffen|triefen	VVPP	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
+16	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950826.205
 # sent_id = 4840
 # text = Mit ihren , vom heutigen Stand der Technik weit entfernten Fossilien scheinen Olaf und Wolfgang genau den Nerv der Zeit getroffen zu haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -8555,10 +8823,10 @@
 15	Wolfgang	Wolfgang	NE	*	*	*	*
 16	genau	genau	ADJD	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
 20	Zeit	Zeit	NN	*	*	*	*
-21	getroffen	treffen|triefen	VVPP	2	2	2	2
+21	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 22	zu	zu	PTKZU	*	*	*	*
 23	haben	haben	VAINF	*	*	*	*
 24	.	.	$.	*	*	*	*
@@ -8566,6 +8834,7 @@
 # tuepp_article_id = T950316.221
 # sent_id = 4841
 # text = " Das Stadion bleibt doch städtisches Eigentum " , betonte Willi Lemke und traf damit einen empfindlichen Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -8581,16 +8850,17 @@
 11	Willi	Willi	NE	*	*	*	*
 12	Lemke	<unknown>	NE	*	*	*	*
 13	und	und	KON	*	*	*	*
-14	traf	treffen	VVFIN	2	2	2	2
+14	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 15	damit	damit	PAV	*	*	*	*
 16	einen	eine	ART	*	*	*	*
 17	empfindlichen	empfindlich	ADJA	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950318.141
 # sent_id = 4842
 # text = Multikulti , erzeuropäisch , weltoffen trifft den Luxemburger Nerv ganz gut .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Multikulti	<unknown>	NN	*	*	*	*
@@ -8598,10 +8868,10 @@
 3	erzeuropäisch	<unknown>	ADJD	*	*	*	*
 4	,	,	$,	*	*	*	*
 5	weltoffen	weltoffen	ADJD	*	*	*	*
-6	trifft	treffen	VVFIN	2	2	2	2
+6	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 7	den	die	ART	*	*	*	*
 8	Luxemburger	Luxemburger	NN	*	*	*	*
-9	Nerv	Nerv	NN	2	2	2	2
+9	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 10	ganz	ganz	ADV	*	*	*	*
 11	gut	gut	ADJD	*	*	*	*
 12	.	.	$.	*	*	*	*
@@ -8609,12 +8879,13 @@
 # tuepp_article_id = T951116.2
 # sent_id = 4843
 # text = Der saarländische Ministerpräsident traf mit seiner Rede auf dem Parteitag von Mannheim gestern den Nerv der sozialdemokratischen Seele und riß die Delegierten zu Beifallsstürmen und Hochrufen hin .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	saarländische	saarländisch	ADJA	*	*	*	*
 3	Ministerpräsident	Ministerpräsident	NN	*	*	*	*
-4	traf	treffen	VVFIN	2	2	2	2
+4	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 5	mit	mit	APPR	*	*	*	*
 6	seiner	sein	PPOSAT	*	*	*	*
 7	Rede	Rede	NN	*	*	*	*
@@ -8625,7 +8896,7 @@
 12	Mannheim	Mannheim	NE	*	*	*	*
 13	gestern	gestern	ADV	*	*	*	*
 14	den	die	ART	*	*	*	*
-15	Nerv	Nerv	NN	2	2	2	2
+15	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
 17	sozialdemokratischen	sozialdemokratisch	ADJA	*	*	*	*
 18	Seele	Seele	NN	*	*	*	*
@@ -8643,15 +8914,16 @@
 # tuepp_article_id = T951125.87
 # sent_id = 4844
 # text = Und er trifft damit offensichtlich den Nerv der Bevölkerung .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
 2	er	er	PPER	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	damit	damit	PAV	*	*	*	*
 5	offensichtlich	offensichtlich	ADJD	*	*	*	*
 6	den	die	ART	*	*	*	*
-7	Nerv	Nerv	NN	2	2	2	2
+7	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
 9	Bevölkerung	Bevölkerung	NN	*	*	*	*
 10	.	.	$.	*	*	*	*
@@ -8659,37 +8931,39 @@
 # tuepp_article_id = T951128.152
 # sent_id = 4845
 # text = Denn jetzt traf dieser Erinnerungschor russischer Überlebender einen ungeschützten Nerv .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
 2	jetzt	jetzt	ADV	*	*	*	*
-3	traf	treffen	VVFIN	2	2	2	2
+3	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	dieser	dies	PDAT	*	*	*	*
 5	Erinnerungschor	<unknown>	NN	*	*	*	*
 6	russischer	russisch	ADJA	*	*	*	*
 7	Überlebender	Überlebende	NN	*	*	*	*
 8	einen	eine	ART	*	*	*	*
 9	ungeschützten	ungeschützt	ADJA	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950208.93
 # sent_id = 4846
 # text = " Mit dieser Antwort trafen die beiden führenden muslimischen Politiker den Nerv des größten Teils der muslimischen Bevölkerung .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Mit	mit	APPR	*	*	*	*
 3	dieser	dies	PDAT	*	*	*	*
 4	Antwort	Antwort	NN	*	*	*	*
-5	trafen	treffen	VVFIN	2	2	2	2
+5	trafen	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
 7	beiden	beide	PIAT	*	*	*	*
 8	führenden	führend	ADJA	*	*	*	*
 9	muslimischen	<unknown>	ADJA	*	*	*	*
 10	Politiker	Politiker	NN	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Nerv	Nerv	NN	2	2	2	2
+12	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 13	des	die	ART	*	*	*	*
 14	größten	groß	ADJA	*	*	*	*
 15	Teils	Teil	NN	*	*	*	*
@@ -8701,6 +8975,7 @@
 # tuepp_article_id = T990506.213
 # sent_id = 4847
 # text = Mit seinem emotionsgeladenen Kiezkrimi , der in den Gassen von Altona spielt , trifft er eben den Nerv der Zeit : agressiv , frech , leidenschaftlich mit schnellen , harten Schnitten .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -8716,11 +8991,11 @@
 11	Altona	Altona	NE	*	*	*	*
 12	spielt	spielen	VVFIN	*	*	*	*
 13	,	,	$,	*	*	*	*
-14	trifft	treffen	VVFIN	2	2	2	2
+14	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 15	er	er	PPER	*	*	*	*
 16	eben	eben	ADV	*	*	*	*
 17	den	die	ART	*	*	*	*
-18	Nerv	Nerv	NN	2	2	2	2
+18	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 19	der	die	ART	*	*	*	*
 20	Zeit	Zeit	NN	*	*	*	*
 21	:	:	$.	*	*	*	*
@@ -8739,16 +9014,17 @@
 # tuepp_article_id = T990121.169
 # sent_id = 4848
 # text = Den Nerv des Publikums scheint Lee trotzdem getroffen zu haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
-2	Nerv	Nerv	NN	2	2	2	2
+2	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 3	des	die	ART	*	*	*	*
 4	Publikums	Publikum	NN	*	*	*	*
 5	scheint	scheinen	VVFIN	*	*	*	*
 6	Lee	Lee	NE	*	*	*	*
 7	trotzdem	trotzdem	PAV	*	*	*	*
-8	getroffen	treffen|triefen	VVPP	2	2	2	2
+8	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 9	zu	zu	PTKZU	*	*	*	*
 10	haben	haben	VAINF	*	*	*	*
 11	.	.	$.	*	*	*	*
@@ -8756,6 +9032,7 @@
 # tuepp_article_id = T990109.165
 # sent_id = 4849
 # text = Wie der Verkehrsclub Deutschland mit einer Gag-Aktion auf den Nerv enttäuschter DB-Kunden traf und jetzt weitere Pläne schmiedet
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -8767,10 +9044,10 @@
 7	Gag-Aktion	<unknown>	NN	*	*	*	*
 8	auf	auf	APPR	*	*	*	*
 9	den	die	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	enttäuschter	enttäuscht	ADJA	*	*	*	*
 12	DB-Kunden	<unknown>	NN	*	*	*	*
-13	traf	treffen	VVFIN	2	2	2	2
+13	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 14	und	und	KON	*	*	*	*
 15	jetzt	jetzt	ADV	*	*	*	*
 16	weitere	weit	ADJA	*	*	*	*
@@ -8780,6 +9057,7 @@
 # tuepp_article_id = T990109.165
 # sent_id = 4850
 # text = Initiator Adler : " Wir haben damit offenbar den Nerv vieler Menschen getroffen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Initiator	Initiator	NN	*	*	*	*
@@ -8791,22 +9069,23 @@
 7	damit	damit	PAV	*	*	*	*
 8	offenbar	offenbar	ADJD	*	*	*	*
 9	den	die	ART	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	vieler	viele	PIAT	*	*	*	*
 12	Menschen	Mensch	NN	*	*	*	*
-13	getroffen	treffen|triefen	VVPP	2	2	2	2
+13	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990106.3
 # sent_id = 4851
 # text = Krönings Einschätzung trifft den Nerv der Ausländerorganisationen Bremens .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Krönings	<unknown>	NN	*	*	*	*
 2	Einschätzung	Einschätzung	NN	*	*	*	*
-3	trifft	treffen	VVFIN	2	2	2	2
+3	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Ausländerorganisationen	Ausländerorganisation	NN	*	*	*	*
 8	Bremens	Bremen	NE	*	*	*	*
@@ -8815,18 +9094,19 @@
 # tuepp_article_id = T990422.246
 # sent_id = 4852
 # text = So oder so Lynch traf mit dem Film die Nerven seiner ZuschauerInnen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
 2	oder	oder	KON	*	*	*	*
 3	so	so	ADV	*	*	*	*
 4	Lynch	Lynch	NE	*	*	*	*
-5	traf	treffen	VVFIN	2	2	2	2
+5	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 6	mit	mit	APPR	*	*	*	*
 7	dem	die	ART	*	*	*	*
 8	Film	Film	NN	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Nerven	Nerv|Nerven	NN	2	2	2	2
+10	Nerven	Nerv|Nerven	NN	FIG	FIG	FIG	FIG
 11	seiner	sein	PPOSAT	*	*	*	*
 12	ZuschauerInnen	Zuschauerin	NN	*	*	*	*
 13	.	.	$.	*	*	*	*
@@ -8834,22 +9114,24 @@
 # tuepp_article_id = T990413.52
 # sent_id = 4853
 # text = Weil das genau den Nerv der Menschen getroffen hat .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
 2	das	die	PDS	*	*	*	*
 3	genau	genau	ADJD	*	*	*	*
 4	den	die	ART	*	*	*	*
-5	Nerv	Nerv	NN	2	2	2	2
+5	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Menschen	Mensch	NN	*	*	*	*
-8	getroffen	treffen|triefen	VVPP	2	2	2	2
+8	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 9	hat	haben	VAFIN	*	*	*	*
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990408.190
 # sent_id = 4854
 # text = Nur einmal , hier , trifft Allen den katholischen Nerv , die katholische Neurose : Lieber Gott , bewahre mich vor Erfolg !
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nur	nur	ADV	*	*	*	*
@@ -8857,11 +9139,11 @@
 3	,	,	$,	*	*	*	*
 4	hier	hier	ADV	*	*	*	*
 5	,	,	$,	*	*	*	*
-6	trifft	treffen	VVFIN	2	2	2	2
+6	trifft	treffen	VVFIN	FIG	FIG	FIG	FIG
 7	Allen	Allen	NE	*	*	*	*
 8	den	die	ART	*	*	*	*
 9	katholischen	katholisch	ADJA	*	*	*	*
-10	Nerv	Nerv	NN	2	2	2	2
+10	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	die	die	ART	*	*	*	*
 13	katholische	katholisch	ADJA	*	*	*	*
@@ -8879,6 +9161,7 @@
 # tuepp_article_id = T990429.188
 # sent_id = 4855
 # text = So oder so - David Lynch traf mit diesem Film die Nerven seiner ZuschauerInnen .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -8887,12 +9170,12 @@
 4	-	-	$(	*	*	*	*
 5	David	David	NE	*	*	*	*
 6	Lynch	Lynch	NE	*	*	*	*
-7	traf	treffen	VVFIN	2	2	2	2
+7	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 8	mit	mit	APPR	*	*	*	*
 9	diesem	dies	PDAT	*	*	*	*
 10	Film	Film	NN	*	*	*	*
 11	die	die	ART	*	*	*	*
-12	Nerven	Nerv|Nerven	NN	2	2	2	2
+12	Nerven	Nerv|Nerven	NN	FIG	FIG	FIG	FIG
 13	seiner	sein	PPOSAT	*	*	*	*
 14	ZuschauerInnen	Zuschauerin	NN	*	*	*	*
 15	.	.	$.	*	*	*	*
@@ -8900,6 +9183,7 @@
 # tuepp_article_id = T990305.144
 # sent_id = 4856
 # text = Diese scheint sich bereits gut zu verkaufen : " Obwohl wir noch keine harten Zahlen haben , sehen wir am Rücklauf , daß wir den Nerv der Leute getroffen haben .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	diese	PDS	*	*	*	*
@@ -8927,16 +9211,17 @@
 23	daß	dass	KOUS	*	*	*	*
 24	wir	wir	PPER	*	*	*	*
 25	den	die	ART	*	*	*	*
-26	Nerv	Nerv	NN	2	2	2	2
+26	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 27	der	die	ART	*	*	*	*
 28	Leute	Leute	NN	*	*	*	*
-29	getroffen	treffen|triefen	VVPP	2	2	2	2
+29	getroffen	treffen|triefen	VVPP	FIG	FIG	FIG	FIG
 30	haben	haben	VAFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990212.115
 # sent_id = 4857
 # text = " Wir machen nicht alles anders , aber besser " - was auch immer man an Substanz darin erblicken mag - traf einen Nerv der Wähler .
+# vid_types = nerv treffen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -8960,9 +9245,9 @@
 19	erblicken	erblicken	VVINF	*	*	*	*
 20	mag	mögen	VMFIN	*	*	*	*
 21	-	-	$(	*	*	*	*
-22	traf	treffen	VVFIN	2	2	2	2
+22	traf	treffen	VVFIN	FIG	FIG	FIG	FIG
 23	einen	eine	ART	*	*	*	*
-24	Nerv	Nerv	NN	2	2	2	2
+24	Nerv	Nerv	NN	FIG	FIG	FIG	FIG
 25	der	die	ART	*	*	*	*
 26	Wähler	Wähler	NN	*	*	*	*
 27	.	.	$.	*	*	*	*

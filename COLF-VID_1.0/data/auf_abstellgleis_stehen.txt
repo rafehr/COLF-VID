@@ -1,24 +1,26 @@
 # tuepp_article_id = T890306.127
 # sent_id = 369
 # text = Auch das Sportpalast-Projekt stünde bei einem SPD/AL-Bündnis nicht auf dem Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
 2	das	die	ART	*	*	*	*
 3	Sportpalast-Projekt	<unknown>	NN	*	*	*	*
-4	stünde	stehen	VVFIN	2	2	2	2
+4	stünde	stehen	VVFIN	FIG	FIG	FIG	FIG
 5	bei	bei	APPR	*	*	*	*
 6	einem	eine	ART	*	*	*	*
 7	SPD/AL-Bündnis	<unknown>	NN	*	*	*	*
 8	nicht	nicht	PTKNEG	*	*	*	*
-9	auf	auf	APPR	2	2	2	2
+9	auf	auf	APPR	FIG	FIG	FIG	FIG
 10	dem	die	ART	*	*	*	*
-11	Abstellgleis	Abstellgleis	NN	2	2	2	2
+11	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900709.184
 # sent_id = 370
 # text = Sieben Waggons mit chemischen Abfällen , die offenbar seit Jahren auf einem Abstellgleis des Bahnhofs von Wriezen im Bezirk Frankfurt / Oder stehen , sollen nach alarmierenden Zeitungsberichten nun schnellstmöglich entsorgt werden .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sieben	sieben	CARD	*	*	*	*
@@ -31,9 +33,9 @@
 8	offenbar	offenbar	ADJD	*	*	*	*
 9	seit	seit	APPR	*	*	*	*
 10	Jahren	Jahr	NN	*	*	*	*
-11	auf	auf	APPR	1	1	1	1
+11	auf	auf	APPR	LIT	LIT	LIT	LIT
 12	einem	eine	ART	*	*	*	*
-13	Abstellgleis	Abstellgleis	NN	1	1	1	1
+13	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 14	des	die	ART	*	*	*	*
 15	Bahnhofs	Bahnhof	NN	*	*	*	*
 16	von	von	APPR	*	*	*	*
@@ -43,7 +45,7 @@
 20	Frankfurt	Frankfurt	NE	*	*	*	*
 21	/	/	$(	*	*	*	*
 22	Oder	Oder	NE	*	*	*	*
-23	stehen	stehen	VVFIN	1	1	1	1
+23	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 24	,	,	$,	*	*	*	*
 25	sollen	sollen	VMFIN	*	*	*	*
 26	nach	nach	APPR	*	*	*	*
@@ -58,6 +60,7 @@
 # tuepp_article_id = T901128.178
 # sent_id = 371
 # text = Viele Güterzüge werden zunächst aber auf den Abstellgleisen stehen bleiben .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Viele	viele	PIAT	*	*	*	*
@@ -65,28 +68,29 @@
 3	werden	werden	VAFIN	*	*	*	*
 4	zunächst	zunächst	ADV	*	*	*	*
 5	aber	aber	ADV	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	den	die	ART	*	*	*	*
-8	Abstellgleisen	Abstellgleis	NN	1	1	1	1
-9	stehen	stehen	VVINF	1	1	1	1
+8	Abstellgleisen	Abstellgleis	NN	LIT	LIT	LIT	LIT
+9	stehen	stehen	VVINF	LIT	LIT	LIT	LIT
 10	bleiben	bleiben	VVINF	*	*	*	*
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920526.41
 # sent_id = 372
 # text = Schon heute steht die Bahn als Anschlußtransportmittel auf dem Abstellgleis , während Laster die hafennahen Straßen verstopfen .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
 2	heute	heute	ADV	*	*	*	*
-3	steht	stehen	VVFIN	2	2	2	2
+3	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	Bahn	Bahn	NN	*	*	*	*
 6	als	als	KOKOM	*	*	*	*
 7	Anschlußtransportmittel	<unknown>	NN	*	*	*	*
-8	auf	auf	APPR	2	2	2	2
+8	auf	auf	APPR	FIG	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Abstellgleis	Abstellgleis	NN	2	2	2	2
+10	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	während	während	KOUS	*	*	*	*
 13	Laster	Laster	NN	*	*	*	*
@@ -99,6 +103,7 @@
 # tuepp_article_id = T920504.24
 # sent_id = 373
 # text = Gestern waren noch ganze sieben Züge der insgesamt 57 ICEs einsatzfähig , der Rest stand auf die ganze Republik verteilt fahruntüchtig auf Abstellgleisen .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gestern	gestern	ADV	*	*	*	*
@@ -115,20 +120,21 @@
 12	,	,	$,	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Rest	Rest	NN	*	*	*	*
-15	stand	stehen	VVFIN	1	1	1	1
+15	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 16	auf	auf	APPR	*	*	*	*
 17	die	die	ART	*	*	*	*
 18	ganze	ganz	ADJA	*	*	*	*
 19	Republik	Republik	NN	*	*	*	*
 20	verteilt	verteilen	VVPP	*	*	*	*
 21	fahruntüchtig	fahruntüchtig	ADJD	*	*	*	*
-22	auf	auf	APPR	1	1	1	1
-23	Abstellgleisen	Abstellgleis	NN	1	1	1	1
+22	auf	auf	APPR	LIT	LIT	LIT	LIT
+23	Abstellgleisen	Abstellgleis	NN	LIT	LIT	LIT	LIT
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920509.29
 # sent_id = 374
 # text = Neben der langgestreckten grauen Waschhalle des hannoverschen Straßenbahnbetriebshofes Glocksee stehen um 12.15 Uhr noch immer fast vierzig Stadtbahndoppelzüge auf den Abstellgleisen .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Neben	neben	APPR	*	*	*	*
@@ -140,7 +146,7 @@
 7	hannoverschen	<unknown>	ADJA	*	*	*	*
 8	Straßenbahnbetriebshofes	<unknown>	NN	*	*	*	*
 9	Glocksee	<unknown>	NN	*	*	*	*
-10	stehen	stehen	VVFIN	1	1	1	1
+10	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
 11	um	um	APPR	*	*	*	*
 12	12.15	@card@	CARD	*	*	*	*
 13	Uhr	Uhr	NN	*	*	*	*
@@ -149,37 +155,39 @@
 16	fast	fast	ADV	*	*	*	*
 17	vierzig	vierzig	CARD	*	*	*	*
 18	Stadtbahndoppelzüge	<unknown>	NN	*	*	*	*
-19	auf	auf	APPR	1	1	1	1
+19	auf	auf	APPR	LIT	LIT	LIT	LIT
 20	den	die	ART	*	*	*	*
-21	Abstellgleisen	Abstellgleis	NN	1	1	1	1
+21	Abstellgleisen	Abstellgleis	NN	LIT	LIT	LIT	LIT
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921208.169
 # sent_id = 375
 # text = Der Ausstiegszug stände auf dem Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Der	die	ART	*	*	*	*
 2	Ausstiegszug	<unknown>	NN	*	*	*	*
-3	stände	stehen	VVFIN	2	2	2	2
-4	auf	auf	APPR	2	2	2	2
+3	stände	stehen	VVFIN	FIG	FIG	FIG	FIG
+4	auf	auf	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Abstellgleis	Abstellgleis	NN	2	2	2	2
+6	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920222.116
 # sent_id = 376
 # text = Über Nacht steht der SUGAR auf einem Abstellgleis neben der eingleisigen Hauptstrecke .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Über	über	APPR	*	*	*	*
 2	Nacht	Nacht	NN	*	*	*	*
-3	steht	stehen	VVFIN	1	1	1	1
+3	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	der	die	ART	*	*	*	*
 5	SUGAR	<unknown>	NN	*	*	*	*
-6	auf	auf	APPR	1	1	1	1
+6	auf	auf	APPR	LIT	LIT	LIT	LIT
 7	einem	eine	ART	*	*	*	*
-8	Abstellgleis	Abstellgleis	NN	1	1	1	1
+8	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 9	neben	neben	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	eingleisigen	eingleisig	ADJA	*	*	*	*
@@ -189,14 +197,15 @@
 # tuepp_article_id = T880411.24
 # sent_id = 377
 # text = Ein Zug steht auf einem Abstellgleis : Im letzten Waggon sind die Frauen versammelt und versuchen ebenso eifrig wie mühsam , in den Speisewagen vorzudringen .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
 2	Zug	Zug	NN	*	*	*	*
-3	steht	stehen	VVFIN	1	1	1	1
-4	auf	auf	APPR	1	1	1	1
+3	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	einem	eine	ART	*	*	*	*
-6	Abstellgleis	Abstellgleis	NN	1	1	1	1
+6	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 7	:	:	$.	*	*	*	*
 8	Im	in	APPRART	*	*	*	*
 9	letzten	letzt	ADJA	*	*	*	*
@@ -221,6 +230,7 @@
 # tuepp_article_id = T861209.26
 # sent_id = 378
 # text = Rosenheim ( dpa ) - Ein Teil des radioaktiv verseuchten Molkepulvers , das seit Mitte des Jahres in Güterwaggons auf einem Abstellgleis des Rosenheimer Bahnhofs steht , darf nun doch verkauft werden .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rosenheim	Rosenheim	NE	*	*	*	*
@@ -242,13 +252,13 @@
 17	Jahres	Jahr	NN	*	*	*	*
 18	in	in	APPR	*	*	*	*
 19	Güterwaggons	Güterwaggon	NN	*	*	*	*
-20	auf	auf	APPR	1	1	1	1
+20	auf	auf	APPR	LIT	LIT	LIT	LIT
 21	einem	eine	ART	*	*	*	*
-22	Abstellgleis	Abstellgleis	NN	1	1	1	1
+22	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 23	des	die	ART	*	*	*	*
 24	Rosenheimer	Rosenheimer	NN	*	*	*	*
 25	Bahnhofs	Bahnhof	NN	*	*	*	*
-26	steht	stehen	VVFIN	1	1	1	1
+26	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 27	,	,	$,	*	*	*	*
 28	darf	dürfen	VMFIN	*	*	*	*
 29	nun	nun	ADV	*	*	*	*
@@ -260,6 +270,7 @@
 # tuepp_article_id = T930102.72
 # sent_id = 379
 # text = 200 Manager rasen von Hamburg nach Frankfurt im Intercity Express , 2.000 Pendler bleiben zwischen Hanau und Frankfurt auf dem Abstellgleis stehen , damit die Manager einige Minuten schneller sind .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	200	@card@	CARD	*	*	*	*
@@ -280,10 +291,10 @@
 16	Hanau	Hanau	NE	*	*	*	*
 17	und	und	KON	*	*	*	*
 18	Frankfurt	Frankfurt	NE	*	*	*	*
-19	auf	auf	APPR	1	1	4	1
+19	auf	auf	APPR	LIT	LIT	BOTH	LIT
 20	dem	die	ART	*	*	*	*
-21	Abstellgleis	Abstellgleis	NN	1	1	4	1
-22	stehen	stehen	VVFIN	1	1	4	1
+21	Abstellgleis	Abstellgleis	NN	LIT	LIT	BOTH	LIT
+22	stehen	stehen	VVFIN	LIT	LIT	BOTH	LIT
 23	,	,	$,	*	*	*	*
 24	damit	damit	KOUS	*	*	*	*
 25	die	die	ART	*	*	*	*
@@ -297,6 +308,7 @@
 # tuepp_article_id = T930325.153
 # sent_id = 380
 # text = Zehn Züge der U-Bahn- Linie 7 , die ansonsten zwischen Rudow und Spandau verkehren , stehen auf dem Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zehn	zehn	CARD	*	*	*	*
@@ -314,15 +326,16 @@
 13	Spandau	<unknown>	NE	*	*	*	*
 14	verkehren	verkehren	VVINF	*	*	*	*
 15	,	,	$,	*	*	*	*
-16	stehen	stehen	VVFIN	1	1	1	1
-17	auf	auf	APPR	1	1	1	1
+16	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
+17	auf	auf	APPR	LIT	LIT	LIT	LIT
 18	dem	die	ART	*	*	*	*
-19	Abstellgleis	Abstellgleis	NN	1	1	1	1
+19	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960506.116
 # sent_id = 381
 # text = Vor allem die sozialistisch regierten Autonomien wie Andalusien , Castilla de la Mancha und Extramadurien wollen jetzt nicht länger zusehen , wie die Nationalisten Stück für Stück mehr Kompetenzen erhalten , während sie auf dem Abstellgleis stehen und nur dann mehr Rechte bekommen , wenn diese in den Verhandlungen mit den Nationalisten mit abfallen .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -358,10 +371,10 @@
 31	,	,	$,	*	*	*	*
 32	während	während	KOUS	*	*	*	*
 33	sie	sie	PPER	*	*	*	*
-34	auf	auf	APPR	2	2	2	2
+34	auf	auf	APPR	FIG	FIG	FIG	FIG
 35	dem	die	ART	*	*	*	*
-36	Abstellgleis	Abstellgleis	NN	2	2	2	2
-37	stehen	stehen	VVFIN	2	2	2	2
+36	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
+37	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 38	und	und	KON	*	*	*	*
 39	nur	nur	ADV	*	*	*	*
 40	dann	dann	ADV	*	*	*	*
@@ -384,6 +397,7 @@
 # tuepp_article_id = T960502.200
 # sent_id = 382
 # text = [ ... ] Manuel betreibt das Geschäft der Betreiber : Wir stehen weder in der medizinischen Gentechnik auf dem Abstellgleis , noch verpassen wir eine " Enzymdebatte " .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	[	[	$(	*	*	*	*
@@ -397,15 +411,15 @@
 9	Betreiber	Betreiber	NN	*	*	*	*
 10	:	:	$.	*	*	*	*
 11	Wir	wir	PPER	*	*	*	*
-12	stehen	stehen	VVFIN	2	2	2	2
+12	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 13	weder	weder	KON	*	*	*	*
 14	in	in	APPR	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	medizinischen	medizinisch	ADJA	*	*	*	*
 17	Gentechnik	Gentechnik	NN	*	*	*	*
-18	auf	auf	APPR	2	2	2	2
+18	auf	auf	APPR	FIG	FIG	FIG	FIG
 19	dem	die	ART	*	*	*	*
-20	Abstellgleis	Abstellgleis	NN	2	2	2	2
+20	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 21	,	,	$,	*	*	*	*
 22	noch	noch	ADV	*	*	*	*
 23	verpassen	verpassen	VVFIN	*	*	*	*
@@ -419,6 +433,7 @@
 # tuepp_article_id = T960605.138
 # sent_id = 383
 # text = Man antwortete , für das verfaulte Fleisch , das hier in 15 oder 20 Waggons auf dem Abstellgleis stand .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Man	man	PIS	*	*	*	*
@@ -436,15 +451,16 @@
 13	oder	oder	KON	*	*	*	*
 14	20	@card@	CARD	*	*	*	*
 15	Waggons	Waggon	NN	*	*	*	*
-16	auf	auf	APPR	1	1	1	1
+16	auf	auf	APPR	LIT	LIT	LIT	LIT
 17	dem	die	ART	*	*	*	*
-18	Abstellgleis	Abstellgleis	NN	1	1	1	1
-19	stand	stehen	VVFIN	1	1	1	1
+18	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
+19	stand	stehen	VVFIN	LIT	LIT	LIT	LIT
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961026.242
 # sent_id = 384
 # text = Das grüne Image der Stadt steht nach Meinung des Bundes Deutscher Landschaftsarchitekten ( BDLA ) " auf dem Abstellgleis " .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -452,7 +468,7 @@
 3	Image	Image	NN	*	*	*	*
 4	der	die	ART	*	*	*	*
 5	Stadt	Stadt	NN	*	*	*	*
-6	steht	stehen	VVFIN	2	2	2	2
+6	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 7	nach	nach	APPR	*	*	*	*
 8	Meinung	Meinung	NN	*	*	*	*
 9	des	die	ART	*	*	*	*
@@ -463,34 +479,36 @@
 14	BDLA	<unknown>	NE	*	*	*	*
 15	)	)	$(	*	*	*	*
 16	"	"	$(	*	*	*	*
-17	auf	auf	APPR	2	2	2	2
+17	auf	auf	APPR	FIG	FIG	FIG	FIG
 18	dem	die	ART	*	*	*	*
-19	Abstellgleis	Abstellgleis	NN	2	2	2	2
+19	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 20	"	"	$(	*	*	*	*
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960425.102
 # sent_id = 385
 # text = Wir Grünen stehen nicht nur in der medizinischen Gentechnik auf dem Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
 2	Grünen	Grüne	NN	*	*	*	*
-3	stehen	stehen	VVFIN	2	2	2	2
+3	stehen	stehen	VVFIN	FIG	FIG	FIG	FIG
 4	nicht	nicht	PTKNEG	*	*	*	*
 5	nur	nur	ADV	*	*	*	*
 6	in	in	APPR	*	*	*	*
 7	der	die	ART	*	*	*	*
 8	medizinischen	medizinisch	ADJA	*	*	*	*
 9	Gentechnik	Gentechnik	NN	*	*	*	*
-10	auf	auf	APPR	2	2	2	2
+10	auf	auf	APPR	FIG	FIG	FIG	FIG
 11	dem	die	ART	*	*	*	*
-12	Abstellgleis	Abstellgleis	NN	2	2	2	2
+12	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960314.236
 # sent_id = 386
 # text = Die ehemals Ostberliner U- Bahnen mit dem Kosenamen " Gisela " stehen nämlich seit der Vereinigung auf dem Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
@@ -504,19 +522,20 @@
 9	"	"	$(	*	*	*	*
 10	Gisela	Gisela	NE	*	*	*	*
 11	"	"	$(	*	*	*	*
-12	stehen	stehen	VVFIN	2	1	1	1
+12	stehen	stehen	VVFIN	FIG	LIT	LIT	LIT
 13	nämlich	nämlich	ADV	*	*	*	*
 14	seit	seit	APPR	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	Vereinigung	Vereinigung	NN	*	*	*	*
-17	auf	auf	APPR	2	1	1	1
+17	auf	auf	APPR	FIG	LIT	LIT	LIT
 18	dem	die	ART	*	*	*	*
-19	Abstellgleis	Abstellgleis	NN	2	1	1	1
+19	Abstellgleis	Abstellgleis	NN	FIG	LIT	LIT	LIT
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960309.51
 # sent_id = 387
 # text = Auch die Koordinatorin und die vier Sozialarbeiter , die den Betreuern in Rollenspielen zeigen , wie sie auf Fahrgäste zugehen sollen , standen lange Zeit auf dem sozialen Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -541,29 +560,30 @@
 20	zugehen	zugehen	VVINF	*	*	*	*
 21	sollen	sollen	VMFIN	*	*	*	*
 22	,	,	$,	*	*	*	*
-23	standen	stehen	VVFIN	2	2	2	2
+23	standen	stehen	VVFIN	FIG	FIG	FIG	FIG
 24	lange	lange	ADV	*	*	*	*
 25	Zeit	Zeit	NN	*	*	*	*
-26	auf	auf	APPR	2	2	2	2
+26	auf	auf	APPR	FIG	FIG	FIG	FIG
 27	dem	die	ART	*	*	*	*
 28	sozialen	sozial	ADJA	*	*	*	*
-29	Abstellgleis	Abstellgleis	NN	2	2	2	2
+29	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961116.121
 # sent_id = 388
 # text = Unser Zug steht außer Sichtweite , auf einem Abstellgleis , umgeben von zehn dunkelgrünen Loks .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Unser	unser	PPOSAT	*	*	*	*
 2	Zug	Zug	NN	*	*	*	*
-3	steht	stehen	VVFIN	1	1	1	1
+3	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
 4	außer	außer	APPR	*	*	*	*
 5	Sichtweite	Sichtweite	NN	*	*	*	*
 6	,	,	$,	*	*	*	*
-7	auf	auf	APPR	1	1	1	1
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	einem	eine	ART	*	*	*	*
-9	Abstellgleis	Abstellgleis	NN	1	1	1	1
+9	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	umgeben	umgeben	VVPP	*	*	*	*
 12	von	von	APPR	*	*	*	*
@@ -575,6 +595,7 @@
 # tuepp_article_id = T980831.251
 # sent_id = 389
 # text = Nach den neunzig Minuten im Emslandstadion wären die Anhänger der Braun-Weißen froh gewesen , wenn sie auf dem Abstellgleis stehen geblieben wären .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Nach	nach	APPR	*	*	*	*
@@ -593,10 +614,10 @@
 14	,	,	$,	*	*	*	*
 15	wenn	wenn	KOUS	*	*	*	*
 16	sie	sie	PPER	*	*	*	*
-17	auf	auf	APPR	1	2	1	1
+17	auf	auf	APPR	LIT	FIG	LIT	LIT
 18	dem	die	ART	*	*	*	*
-19	Abstellgleis	Abstellgleis	NN	1	2	1	1
-20	stehen	stehen	VVFIN	1	2	1	1
+19	Abstellgleis	Abstellgleis	NN	LIT	FIG	LIT	LIT
+20	stehen	stehen	VVFIN	LIT	FIG	LIT	LIT
 21	geblieben	bleiben	VVPP	*	*	*	*
 22	wären	sein	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
@@ -604,6 +625,7 @@
 # tuepp_article_id = T970626.45
 # sent_id = 390
 # text = Tritt Rau , der gestern abend sein 20jähriges Jubiläum in dieser Funktion feierte , erneut an , stünde Clement vorläufig auf dem Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Tritt	treten	VVFIN	*	*	*	*
@@ -623,17 +645,18 @@
 15	erneut	erneut	ADJD	*	*	*	*
 16	an	an	PTKVZ	*	*	*	*
 17	,	,	$,	*	*	*	*
-18	stünde	stehen	VVFIN	2	2	2	2
+18	stünde	stehen	VVFIN	FIG	FIG	FIG	FIG
 19	Clement	Clement	NE	*	*	*	*
 20	vorläufig	vorläufig	ADJD	*	*	*	*
-21	auf	auf	APPR	2	2	2	2
+21	auf	auf	APPR	FIG	FIG	FIG	FIG
 22	dem	die	ART	*	*	*	*
-23	Abstellgleis	Abstellgleis	NN	2	2	2	2
+23	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970929.108
 # sent_id = 391
 # text = Wird Kohl Yilmaz nur wiederholen , was Kinkel seinem Amtskollegen Cem kürzlich in Bonn gesagt hat , nämlich daß die Türkei " keineswegs auf dem Abstellgleis " stehe , aber erst einmal " ihre Hausaufgaben machen " müsse , um an die EU-Tür zu klopfen ?
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wird	werden	VAFIN	*	*	*	*
@@ -659,11 +682,11 @@
 21	Türkei	Türkei	NE	*	*	*	*
 22	"	"	$(	*	*	*	*
 23	keineswegs	keineswegs	ADV	*	*	*	*
-24	auf	auf	APPR	2	2	2	2
+24	auf	auf	APPR	FIG	FIG	FIG	FIG
 25	dem	die	ART	*	*	*	*
-26	Abstellgleis	Abstellgleis	NN	2	2	2	2
+26	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 27	"	"	$(	*	*	*	*
-28	stehe	stehen	VVFIN	2	2	2	2
+28	stehe	stehen	VVFIN	FIG	FIG	FIG	FIG
 29	,	,	$,	*	*	*	*
 30	aber	aber	KON	*	*	*	*
 31	erst	erst	ADV	*	*	*	*
@@ -686,19 +709,21 @@
 # tuepp_article_id = T971119.279
 # sent_id = 392
 # text = Zehn davon stehen auf dem Abstellgleis .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zehn	zehn	CARD	*	*	*	*
 2	davon	davon	PAV	*	*	*	*
-3	stehen	stehen	VVFIN	1	1	1	1
-4	auf	auf	APPR	1	1	1	1
+3	stehen	stehen	VVFIN	LIT	LIT	LIT	LIT
+4	auf	auf	APPR	LIT	LIT	LIT	LIT
 5	dem	die	ART	*	*	*	*
-6	Abstellgleis	Abstellgleis	NN	1	1	1	1
+6	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940718.69
 # sent_id = 393
 # text = Der Zug mit den Pestiziden steht auf einem Abstellgleis des Bahnhofs .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Der	die	ART	*	*	*	*
@@ -706,10 +731,10 @@
 3	mit	mit	APPR	*	*	*	*
 4	den	die	ART	*	*	*	*
 5	Pestiziden	Pestizid	NN	*	*	*	*
-6	steht	stehen	VVFIN	1	1	1	1
-7	auf	auf	APPR	1	1	1	1
+6	steht	stehen	VVFIN	LIT	LIT	LIT	LIT
+7	auf	auf	APPR	LIT	LIT	LIT	LIT
 8	einem	eine	ART	*	*	*	*
-9	Abstellgleis	Abstellgleis	NN	1	1	1	1
+9	Abstellgleis	Abstellgleis	NN	LIT	LIT	LIT	LIT
 10	des	die	ART	*	*	*	*
 11	Bahnhofs	Bahnhof	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
@@ -717,6 +742,7 @@
 # tuepp_article_id = T940317.205
 # sent_id = 394
 # text = Schulalltag in Bremen : Das Dach ist undicht , es regnet in die Klassenräume hinein , die Fenster schließen nicht und der Schimmel blüht an den Wänden - doch gleichzeitig steht derzeit eine Summe von über 10 Millionen Mark für Sanierungs- und Instandsetzungsmaßnahmen auf dem Abstellgleis - vom Senat bewilligt , aber vom schwerfälligen Behördenapparat nicht rechtzeitig ausgegeben .
+# vid_types = auf abstellgleis stehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schulalltag	Schulalltag	NN	*	*	*	*
@@ -749,7 +775,7 @@
 28	-	-	$(	*	*	*	*
 29	doch	doch	ADV	*	*	*	*
 30	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
-31	steht	stehen	VVFIN	2	2	2	2
+31	steht	stehen	VVFIN	FIG	FIG	FIG	FIG
 32	derzeit	derzeit	ADV	*	*	*	*
 33	eine	eine	ART	*	*	*	*
 34	Summe	Summe	NN	*	*	*	*
@@ -762,9 +788,9 @@
 41	Sanierungs-	Sanierungs-	TRUNC	*	*	*	*
 42	und	und	KON	*	*	*	*
 43	Instandsetzungsmaßnahmen	Instandsetzungsmaßnahme	NN	*	*	*	*
-44	auf	auf	APPR	2	2	2	2
+44	auf	auf	APPR	FIG	FIG	FIG	FIG
 45	dem	die	ART	*	*	*	*
-46	Abstellgleis	Abstellgleis	NN	2	2	2	2
+46	Abstellgleis	Abstellgleis	NN	FIG	FIG	FIG	FIG
 47	-	-	$(	*	*	*	*
 48	vom	von	APPRART	*	*	*	*
 49	Senat	Senat	NN	*	*	*	*

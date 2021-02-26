@@ -1,6 +1,7 @@
 # tuepp_article_id = T890509.160
 # sent_id = 5184
 # text = Mit Karla , seinem sowjetischen Widersacher , hat er noch eine alte Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -15,14 +16,15 @@
 10	noch	noch	ADV	*	*	*	*
 11	eine	eine	ART	*	*	*	*
 12	alte	alt	ADJA	*	*	*	*
-13	Rechnung	Rechnung	NN	2	2	2	2
+13	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 14	zu	zu	PTKZU	*	*	*	*
-15	begleichen	begleichen	VVINF	2	2	2	2
+15	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890505.58
 # sent_id = 5185
 # text = Nach Angaben aus Palästinenserkreisen wird innerhalb der El Fatah seit zwei Wochen ein Machtkampf ausgetragen , bei dem rivalisierende Arafat-Anhänger " Rechnungen begleichen " .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -46,19 +48,20 @@
 19	rivalisierende	rivalisierend	ADJA	*	*	*	*
 20	Arafat-Anhänger	Arafat-Anhänger	NN	*	*	*	*
 21	"	"	$(	*	*	*	*
-22	Rechnungen	Rechnung	NN	2	2	2	2
-23	begleichen	begleichen	VVINF	2	2	2	2
+22	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+23	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 24	"	"	$(	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890624.65
 # sent_id = 5186
 # text = Die Rechnung begleicht de facto die Zentralbank .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
-2	Rechnung	Rechnung	NN	1	1	1	1
-3	begleicht	begleichen	VVFIN	1	1	1	1
+2	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
+3	begleicht	begleichen	VVFIN	LIT	LIT	LIT	LIT
 4	de	de	NE	*	*	*	*
 5	facto	<unknown>	NN	*	*	*	*
 6	die	die	ART	*	*	*	*
@@ -68,11 +71,12 @@
 # tuepp_article_id = T890907.219
 # sent_id = 5187
 # text = Doch der Gastwirt Burghard Klettke setzte sich selbst auf die Spur des ehrenwerten Amtmanns und kam schnell zu einem wichtigen Faustpfand : die eidesstattliche Versicherung einer Bardame des " Inkognito " , die vergeblich versucht hatte , Kunze zum Begleichen seiner Rechnung von über 500 Mark zu bewegen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
-2	Rechnung	Rechnung	NN	1	1	1	1
-3	begleicht	begleichen	VVFIN	1	1	1	1
+2	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
+3	begleicht	begleichen	VVFIN	LIT	LIT	LIT	LIT
 4	de	de	NE	*	*	*	*
 5	facto	<unknown>	NN	*	*	*	*
 6	die	die	ART	*	*	*	*
@@ -82,11 +86,12 @@
 # tuepp_article_id = T890928.109
 # sent_id = 5188
 # text = Auch mit dem Begleichen ihrer Rechnungen nehmen es viele nicht so genau .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
-2	Rechnung	Rechnung	NN	1	1	1	1
-3	begleicht	begleichen	VVFIN	1	1	1	1
+2	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
+3	begleicht	begleichen	VVFIN	LIT	LIT	LIT	LIT
 4	de	de	NE	*	*	*	*
 5	facto	<unknown>	NN	*	*	*	*
 6	die	die	ART	*	*	*	*
@@ -96,6 +101,7 @@
 # tuepp_article_id = T890927.91
 # sent_id = 5189
 # text = Er war zu dem Zeitpunkt irgendwo in Afrika , um eine Rechnung mit einem ehemaligen SS-Offizier zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -109,18 +115,19 @@
 9	,	,	$,	*	*	*	*
 10	um	um	KOUI	*	*	*	*
 11	eine	eine	ART	*	*	*	*
-12	Rechnung	Rechnung	NN	2	2	2	2
+12	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 13	mit	mit	APPR	*	*	*	*
 14	einem	eine	ART	*	*	*	*
 15	ehemaligen	ehemalig	ADJA	*	*	*	*
 16	SS-Offizier	SS-Offizier	NN	*	*	*	*
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	2	2	2	2
+18	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890414.180
 # sent_id = 5190
 # text = " Nicht auszuschließen " , erklärt der MSI-Mann in Rom , " daß da einige nicht nur zum Feiern hinfahren , sondern auch , um ein paar ältere Rechnungen zu begleichen !
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
@@ -151,14 +158,15 @@
 26	ein	eine	ART	*	*	*	*
 27	paar	paar	PIAT	*	*	*	*
 28	ältere	alt	ADJA	*	*	*	*
-29	Rechnungen	Rechnung	NN	2	2	2	2
+29	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 30	zu	zu	PTKZU	*	*	*	*
-31	begleichen	begleichen	VVINF	2	2	2	2
+31	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 32	!	!	$.	*	*	*	*
 
 # tuepp_article_id = T890405.85
 # sent_id = 5191
 # text = So wie Nazi - Deutschland sich über die Gelegenheit freute , neue Waffen und Truppeneinsätze auf fremdem Territorium zu trainieren , so fand die Sowjetführung Gefallen daran , offene Rechnungen mit abtrünnigen Kommunisten zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -190,24 +198,25 @@
 27	daran	daran	PAV	*	*	*	*
 28	,	,	$,	*	*	*	*
 29	offene	offen	ADJA	*	*	*	*
-30	Rechnungen	Rechnung	NN	2	2	2	2
+30	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 31	mit	mit	APPR	*	*	*	*
 32	abtrünnigen	abtrünnig	ADJA	*	*	*	*
 33	Kommunisten	Kommunist	NN	*	*	*	*
 34	zu	zu	PTKZU	*	*	*	*
-35	begleichen	begleichen	VVINF	2	2	2	2
+35	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890722.86
 # sent_id = 5192
 # text = Als die Rechnungen endlich beglichen werden mußten , stellte sich heraus , daß der chrustschowsche Versuch der Quadratur des Kreises - das Regime zu reformieren , ohne es wesentlich zu ändern - die Krise des Kommunismus , gegen die der Versuch doch gerichtet war , nur verschärft reproduzierte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOUS	*	*	*	*
 2	die	die	ART	*	*	*	*
-3	Rechnungen	Rechnung	NN	1	2	2	2
+3	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
 4	endlich	endlich	ADV	*	*	*	*
-5	beglichen	begleichen	VVPP	1	2	2	2
+5	beglichen	begleichen	VVPP	LIT	FIG	FIG	FIG
 6	werden	werden	VAINF	*	*	*	*
 7	mußten	müssen	VMFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
@@ -256,6 +265,7 @@
 # tuepp_article_id = T891207.75
 # sent_id = 5193
 # text = Es amüsierte mich köstlich , weil ich bereits wußte , daß der inzwischen auf normalem Weg in seine Aufgabe des Sprechers hineingewachsene junge Slowake Ivan es besser meistern wird als ich : Er hatte keine alten Rechnungen zu begleichen , ihm waren die Beamten absolut egal , er ließ es nur nicht zu , daß sie seine Kreise störten .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -294,9 +304,9 @@
 34	hatte	haben	VAFIN	*	*	*	*
 35	keine	keine	PIAT	*	*	*	*
 36	alten	alt	ADJA	*	*	*	*
-37	Rechnungen	Rechnung	NN	2	2	2	2
+37	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 38	zu	zu	PTKZU	*	*	*	*
-39	begleichen	begleichen	VVINF	2	2	2	2
+39	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 40	,	,	$,	*	*	*	*
 41	ihm	er	PPER	*	*	*	*
 42	waren	sein	VAFIN	*	*	*	*
@@ -322,6 +332,7 @@
 # tuepp_article_id = T890817.112
 # sent_id = 5194
 # text = Zierer glaubt deswegen , daß in der SPD jetzt " alte Rechnungen beglichen " werden , seine homosexuellen Neigungen dienten als Vehikel im innerparteilichen politischen Linienstreit .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zierer	<unknown>	NN	*	*	*	*
@@ -335,8 +346,8 @@
 9	jetzt	jetzt	ADV	*	*	*	*
 10	"	"	$(	*	*	*	*
 11	alte	alt	ADJA	*	*	*	*
-12	Rechnungen	Rechnung	NN	2	2	2	2
-13	beglichen	begleichen	VVPP	2	2	2	2
+12	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+13	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 14	"	"	$(	*	*	*	*
 15	werden	werden	VAINF	*	*	*	*
 16	,	,	$,	*	*	*	*
@@ -355,6 +366,7 @@
 # tuepp_article_id = T890325.94
 # sent_id = 5195
 # text = Dies wirft nun selbstverständlich ein sehr anderes Licht auf die Rolle der kommunistischen Intellektuellen für das Jahr 1968 : War es für sie etwa vor allem um den Versuch gegangen , alte Rechnungen mit den Herrschenden und ihrer eigenen Vergangenheit zu begleichen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dies	dies	PDS	*	*	*	*
@@ -389,7 +401,7 @@
 30	gegangen	gehen	VVPP	*	*	*	*
 31	,	,	$,	*	*	*	*
 32	alte	alt	ADJA	*	*	*	*
-33	Rechnungen	Rechnung	NN	2	2	2	2
+33	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 34	mit	mit	APPR	*	*	*	*
 35	den	die	ART	*	*	*	*
 36	Herrschenden	Herrschende	NN	*	*	*	*
@@ -398,12 +410,13 @@
 39	eigenen	eigen	ADJA	*	*	*	*
 40	Vergangenheit	Vergangenheit	NN	*	*	*	*
 41	zu	zu	PTKZU	*	*	*	*
-42	begleichen	begleichen	VVINF	2	2	2	2
+42	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 43	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T891109.133
 # sent_id = 5196
 # text = " Der israelischen Seite kam es entsprechend darauf an , ein Exempel zu statuieren , die Vergeblichkeit des Aufbegehrens zu zeigen und alte Rechnungen mit den renitenten Bürgern zu begleichen : Die Steuerrevolte mußte niedergewalzt werden , sollten Recht und Ordnung , das heißt das Funktionieren der Besatzung nach israelischen Spielregeln , garantiert bleiben .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -429,13 +442,13 @@
 21	zeigen	zeigen	VVINF	*	*	*	*
 22	und	und	KON	*	*	*	*
 23	alte	alt	ADJA	*	*	*	*
-24	Rechnungen	Rechnung	NN	2	2	2	2
+24	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 25	mit	mit	APPR	*	*	*	*
 26	den	die	ART	*	*	*	*
 27	renitenten	renitent	ADJA	*	*	*	*
 28	Bürgern	Bürger	NN	*	*	*	*
 29	zu	zu	PTKZU	*	*	*	*
-30	begleichen	begleichen	VVINF	2	2	2	2
+30	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 31	:	:	$.	*	*	*	*
 32	Die	die	ART	*	*	*	*
 33	Steuerrevolte	Steuerrevolte	NN	*	*	*	*
@@ -465,6 +478,7 @@
 # tuepp_article_id = T890222.30
 # sent_id = 5197
 # text = Für Senatoren ist die Gelegenheit günstig , noch offenstehende Rechnungen mit einem ehemaligen Kollegen zu begleichen , der sie häufig reingelegt hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -476,13 +490,13 @@
 7	,	,	$,	*	*	*	*
 8	noch	noch	ADV	*	*	*	*
 9	offenstehende	offenstehend	ADJA	*	*	*	*
-10	Rechnungen	Rechnung	NN	2	2	2	2
+10	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 11	mit	mit	APPR	*	*	*	*
 12	einem	eine	ART	*	*	*	*
 13	ehemaligen	ehemalig	ADJA	*	*	*	*
 14	Kollegen	Kollege	NN	*	*	*	*
 15	zu	zu	PTKZU	*	*	*	*
-16	begleichen	begleichen	VVINF	2	2	2	2
+16	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	der	die	PRELS	*	*	*	*
 19	sie	sie	PPER	*	*	*	*
@@ -494,6 +508,7 @@
 # tuepp_article_id = T890217.134
 # sent_id = 5198
 # text = Wenngleich längst noch nicht alle Rechnungen beglichen seien , bestünde " kein Grund zur Panik " .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenngleich	wenngleich	KOUS	*	*	*	*
@@ -501,8 +516,8 @@
 3	noch	noch	ADV	*	*	*	*
 4	nicht	nicht	PTKNEG	*	*	*	*
 5	alle	alle	PIAT	*	*	*	*
-6	Rechnungen	Rechnung	NN	1	2	2	2
-7	beglichen	begleichen	VVPP	1	2	2	2
+6	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
+7	beglichen	begleichen	VVPP	LIT	FIG	FIG	FIG
 8	seien	sein	VAFIN	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	bestünde	bestehen	VVFIN	*	*	*	*
@@ -517,13 +532,14 @@
 # tuepp_article_id = T910528.69
 # sent_id = 5199
 # text = Viele AlgerierInnen wollen ihre Rechnung mit der alten Herrschaft an der Urne begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Viele	viele	PIAT	*	*	*	*
 2	AlgerierInnen	Algerierin	NN	*	*	*	*
 3	wollen	wollen	VMFIN	*	*	*	*
 4	ihre	ihr	PPOSAT	*	*	*	*
-5	Rechnung	Rechnung	NN	2	2	2	2
+5	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 6	mit	mit	APPR	*	*	*	*
 7	der	die	ART	*	*	*	*
 8	alten	alt	ADJA	*	*	*	*
@@ -531,12 +547,13 @@
 10	an	an	APPR	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Urne	Urne	NN	*	*	*	*
-13	begleichen	begleichen	VVINF	2	2	2	2
+13	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910525.180
 # sent_id = 5200
 # text = Immer mehr Energieverbraucher weigern sich , ihre Rechnung bei der Südthüringer Energieversorgungs AG ( SEAG ) zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Immer	immer	ADV	*	*	*	*
@@ -546,7 +563,7 @@
 5	sich	sich	PRF	*	*	*	*
 6	,	,	$,	*	*	*	*
 7	ihre	ihr	PPOSAT	*	*	*	*
-8	Rechnung	Rechnung	NN	1	1	1	1
+8	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 9	bei	bei	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Südthüringer	Südthüringer	NN	*	*	*	*
@@ -556,12 +573,13 @@
 15	SEAG	<unknown>	NN	*	*	*	*
 16	)	)	$(	*	*	*	*
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	1	1	1	1
+18	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910511.247
 # sent_id = 5201
 # text = Marie-Luise Beck-Oberdorf als Grüne Landesvorstands-Sprecherin schickte einen Brief herum und bat bis zum 6. Mai um Überweisungen für das Plakat : " Wir gehen selbstverständlich davon aus , daß sich keine Organisation , die in dem Bremer Friedensbündnis mit aktiv war , der Verpflichtung entziehen wird , nun auch die offene Rechnung zu begleichen ... "
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Marie-Luise	Marie-Luise	NE	*	*	*	*
@@ -616,15 +634,16 @@
 50	auch	auch	ADV	*	*	*	*
 51	die	die	ART	*	*	*	*
 52	offene	offen	ADJA	*	*	*	*
-53	Rechnung	Rechnung	NN	1	2	1	1
+53	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
 54	zu	zu	PTKZU	*	*	*	*
-55	begleichen	begleichen	VVINF	1	2	1	1
+55	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 56	...	...	$.	*	*	*	*
 57	"	"	$(	*	*	*	*
 
 # tuepp_article_id = T910522.211
 # sent_id = 5202
 # text = Mit minimalstem Budget und der tatkräftigen Hilfe treuer Freunde hat er immerhin elf Filme realisiert , wovon eine Produktion das Labor zurückhielt , weil Wood die Rechnungen für die Entwicklung nicht begleichen konnte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -653,18 +672,19 @@
 24	weil	weil	KOUS	*	*	*	*
 25	Wood	<unknown>	NE	*	*	*	*
 26	die	die	ART	*	*	*	*
-27	Rechnungen	Rechnung	NN	1	1	1	1
+27	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 28	für	für	APPR	*	*	*	*
 29	die	die	ART	*	*	*	*
 30	Entwicklung	Entwicklung	NN	*	*	*	*
 31	nicht	nicht	PTKNEG	*	*	*	*
-32	begleichen	begleichen	VVINF	1	1	1	1
+32	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 33	konnte	können	VMFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910627.109
 # sent_id = 5203
 # text = Die Kreditkarte wird nicht mehr anerkannt , das Hotel will seine Rechnung beglichen sehen , allein , außer Geld besaßen die beiden nichts , was sich jetzt dazu machen ließe .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -678,8 +698,8 @@
 9	Hotel	Hotel	NN	*	*	*	*
 10	will	wollen	VMFIN	*	*	*	*
 11	seine	sein	PPOSAT	*	*	*	*
-12	Rechnung	Rechnung	NN	1	1	1	1
-13	beglichen	begleichen	VVPP	1	1	1	1
+12	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
+13	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 14	sehen	sehen	VVINF	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	allein	allein	ADV	*	*	*	*
@@ -702,22 +722,24 @@
 # tuepp_article_id = T910628.33
 # sent_id = 5204
 # text = Die Rechnungen seien nur versehentlich mit CDU-Mitteln beglichen worden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
-2	Rechnungen	Rechnung	NN	1	2	1	1
+2	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 3	seien	sein	VAFIN	*	*	*	*
 4	nur	nur	ADV	*	*	*	*
 5	versehentlich	versehentlich	ADJD	*	*	*	*
 6	mit	mit	APPR	*	*	*	*
 7	CDU-Mitteln	<unknown>	NN	*	*	*	*
-8	beglichen	begleichen	VVPP	1	2	1	1
+8	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 9	worden	werden	VAPP	*	*	*	*
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911009.120
 # sent_id = 5205
 # text = Wie kommt es , daß er nicht verstört ist über den Zusammenbruch der vertrauten Lebenswelt , sich nicht zur Trauerarbeit genötigt fühlt , keine alten Rechnungen begleichen will und nicht von Zukunftsängsten gequält wird ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -745,8 +767,8 @@
 23	,	,	$,	*	*	*	*
 24	keine	keine	PIAT	*	*	*	*
 25	alten	alt	ADJA	*	*	*	*
-26	Rechnungen	Rechnung	NN	2	2	2	2
-27	begleichen	begleichen	VVINF	2	2	2	2
+26	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+27	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 28	will	wollen	VMFIN	*	*	*	*
 29	und	und	KON	*	*	*	*
 30	nicht	nicht	PTKNEG	*	*	*	*
@@ -759,6 +781,7 @@
 # tuepp_article_id = T911018.71
 # sent_id = 5206
 # text = Die Versicherung garantiert dem Exporteur die Bezahlung seiner Ware aus der Staatskasse , falls der Empfänger die Rechnung nicht begleichen sollte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -778,15 +801,16 @@
 15	der	die	ART	*	*	*	*
 16	Empfänger	Empfänger	NN	*	*	*	*
 17	die	die	ART	*	*	*	*
-18	Rechnung	Rechnung	NN	1	1	1	1
+18	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 19	nicht	nicht	PTKNEG	*	*	*	*
-20	begleichen	begleichen	VVINF	1	1	1	1
+20	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 21	sollte	sollen	VMFIN	*	*	*	*
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910923.28
 # sent_id = 5207
 # text = Für Manfred Gnecko , einen der Drahtzieher hinter der Gewalt in Hoyerswerda , werden " alte Rechnungen " beglichen
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -805,13 +829,14 @@
 14	werden	werden	VAFIN	*	*	*	*
 15	"	"	$(	*	*	*	*
 16	alte	alt	ADJA	*	*	*	*
-17	Rechnungen	Rechnung	NN	2	2	2	2
+17	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 18	"	"	$(	*	*	*	*
-19	beglichen	begleichen	VVPP	2	2	2	2
+19	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T910923.28
 # sent_id = 5208
 # text = Mit der offenen Randale werde auch eine " alte Rechnung " beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -823,14 +848,15 @@
 7	eine	eine	ART	*	*	*	*
 8	"	"	$(	*	*	*	*
 9	alte	alt	ADJA	*	*	*	*
-10	Rechnung	Rechnung	NN	2	2	2	2
+10	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 11	"	"	$(	*	*	*	*
-12	beglichen	begleichen	VVPP	2	2	2	2
+12	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910107.136
 # sent_id = 5209
 # text = Außerdem hatte ich eine persönliche Rechnung mit der DDR offen , die nun von der Geschichte beglichen wurde .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Außerdem	außerdem	ADV	*	*	*	*
@@ -838,7 +864,7 @@
 3	ich	ich	PPER	*	*	*	*
 4	eine	eine	ART	*	*	*	*
 5	persönliche	persönlich	ADJA	*	*	*	*
-6	Rechnung	Rechnung	NN	2	2	2	2
+6	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 7	mit	mit	APPR	*	*	*	*
 8	der	die	ART	*	*	*	*
 9	DDR	DDR	NE	*	*	*	*
@@ -849,13 +875,14 @@
 14	von	von	APPR	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	Geschichte	Geschichte	NN	*	*	*	*
-17	beglichen	begleichen	VVPP	2	2	2	2
+17	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 18	wurde	werden	VAFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910112.135
 # sent_id = 5210
 # text = Dokumente können gefälscht sein , um den Gegner zu verwirren , Briefe können unter Zwang geschrieben worden sein und Zeugnisse nur Interpretationen eines Zeitgenossen , den die Eitelkeit verführt , die Erinnerung in Stich gelassen oder der noch eine alte Rechnung zu begleichen hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dokumente	Dokument	NN	*	*	*	*
@@ -898,15 +925,16 @@
 38	noch	noch	ADV	*	*	*	*
 39	eine	eine	ART	*	*	*	*
 40	alte	alt	ADJA	*	*	*	*
-41	Rechnung	Rechnung	NN	2	2	2	2
+41	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 42	zu	zu	PTKZU	*	*	*	*
-43	begleichen	begleichen	VVINF	2	2	2	2
+43	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 44	hat	haben	VAFIN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910112.135
 # sent_id = 5211
 # text = Himmler war klar , daß die Mitglieder der Roten Kapelle laut ihres Chefs " mit den Nazis eine besondere Rechnung zu begleichen hatten " , und deshalb beauftragte er seine Polizei nicht nur , " mit dem jüdischen Pack aufzuräumen " , sondern er erließ auch die schriftliche Order , " alle Mittel aufzuwenden , um ein Geständnis zu erzwingen " , der einzige Fall , in dem der Reichsführer-SS seine Unterschrift unter ein Dokument gesetzt hat , das die Folter bis zum Eintritt des Todes ausdrücklich erlaubte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Himmler	Himmler	NN	*	*	*	*
@@ -928,9 +956,9 @@
 17	Nazis	Nazi	NN	*	*	*	*
 18	eine	eine	ART	*	*	*	*
 19	besondere	besonder	ADJA	*	*	*	*
-20	Rechnung	Rechnung	NN	2	2	2	2
+20	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 21	zu	zu	PTKZU	*	*	*	*
-22	begleichen	begleichen	VVINF	2	2	2	2
+22	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 23	hatten	haben	VAFIN	*	*	*	*
 24	"	"	$(	*	*	*	*
 25	,	,	$,	*	*	*	*
@@ -1002,6 +1030,7 @@
 # tuepp_article_id = T910117.122
 # sent_id = 5212
 # text = Allerdings sollen mit " kostenloser " Rückgabe offene Rechnungen der Interflug beglichen werden : weder millionenschwere Reparaturen noch zwei 1989 erworbene Flugzeugen vom Typ IL-62 sind bezahlt .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allerdings	allerdings	ADV	*	*	*	*
@@ -1012,10 +1041,10 @@
 6	"	"	$(	*	*	*	*
 7	Rückgabe	Rückgabe	NN	*	*	*	*
 8	offene	offen	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	1	1	1	1
+9	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 10	der	die	ART	*	*	*	*
 11	Interflug	<unknown>	NN	*	*	*	*
-12	beglichen	begleichen	VVPP	1	1	1	1
+12	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 13	werden	werden	VAINF	*	*	*	*
 14	:	:	$.	*	*	*	*
 15	weder	weder	KON	*	*	*	*
@@ -1036,6 +1065,7 @@
 # tuepp_article_id = T910409.84
 # sent_id = 5213
 # text = Es gibt jetzt zwei Völker , die mit den Arabern und dem Westen eine Rechnung zu begleichen haben : die Palästinenser und die Kurden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -1052,9 +1082,9 @@
 12	dem	die	ART	*	*	*	*
 13	Westen	Weste|Westen	NN	*	*	*	*
 14	eine	eine	ART	*	*	*	*
-15	Rechnung	Rechnung	NN	2	2	2	2
+15	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 16	zu	zu	PTKZU	*	*	*	*
-17	begleichen	begleichen	VVINF	2	2	2	2
+17	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 18	haben	haben	VAFIN	*	*	*	*
 19	:	:	$.	*	*	*	*
 20	die	die	ART	*	*	*	*
@@ -1067,6 +1097,7 @@
 # tuepp_article_id = T910412.169
 # sent_id = 5214
 # text = In den Kommissionen wurden zum Teil alte Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	In	in	APPR	*	*	*	*
@@ -1076,13 +1107,14 @@
 5	zum	zu	APPRART	*	*	*	*
 6	Teil	Teil	NN	*	*	*	*
 7	alte	alt	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
-9	beglichen	begleichen	VVPP	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+9	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910424.188
 # sent_id = 5215
 # text = Die erste Ausgabe der ' DAZ ` erschien am 31. Januar 1990 und wurde innerhalb weniger Stunden 40.000 mal verkauft , weshalb die ersten Rechnungen noch vom Verkauf der ersten Nummern beglichen werden konnten .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1110,14 +1142,14 @@
 23	weshalb	weshalb	PWAV	*	*	*	*
 24	die	die	ART	*	*	*	*
 25	ersten	erst	ADJA	*	*	*	*
-26	Rechnungen	Rechnung	NN	1	1	1	1
+26	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 27	noch	noch	ADV	*	*	*	*
 28	vom	von	APPRART	*	*	*	*
 29	Verkauf	Verkauf	NN	*	*	*	*
 30	der	die	ART	*	*	*	*
 31	ersten	erst	ADJA	*	*	*	*
 32	Nummern	Nummer	NN	*	*	*	*
-33	beglichen	begleichen	VVPP	1	1	1	1
+33	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 34	werden	werden	VAINF	*	*	*	*
 35	konnten	können	VMFIN	*	*	*	*
 36	.	.	$.	*	*	*	*
@@ -1125,6 +1157,7 @@
 # tuepp_article_id = T910706.159
 # sent_id = 5216
 # text = Gerade Ungarn ist als Reiseland im Osten beliebter denn je : billig , sonnig , ja , und außerdem hat man ja doch noch die eine oder andere alte Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gerade	gerade	ADV	*	*	*	*
@@ -1156,14 +1189,15 @@
 27	oder	oder	KON	*	*	*	*
 28	andere	andere	PIS	*	*	*	*
 29	alte	alt	ADJA	*	*	*	*
-30	Rechnung	Rechnung	NN	2	2	2	2
+30	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 31	zu	zu	PTKZU	*	*	*	*
-32	begleichen	begleichen	VVINF	2	2	2	2
+32	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910702.41
 # sent_id = 5217
 # text = Der dir meistens maulfaul und mürrisch den Teller mit der halb erkalteten Roulade , das Glas Bier hinknallt und ungeduldig wartet , bis du dich nach Begleichen der Rechnung in Dankbarkeit verneigst .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gerade	gerade	ADV	*	*	*	*
@@ -1195,14 +1229,15 @@
 27	oder	oder	KON	*	*	*	*
 28	andere	andere	PIS	*	*	*	*
 29	alte	alt	ADJA	*	*	*	*
-30	Rechnung	Rechnung	NN	2	1	1	1
+30	Rechnung	Rechnung	NN	FIG	LIT	LIT	LIT
 31	zu	zu	PTKZU	*	*	*	*
-32	begleichen	begleichen	VVINF	2	1	1	1
+32	begleichen	begleichen	VVINF	FIG	LIT	LIT	LIT
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911221.181
 # sent_id = 5218
 # text = Denn Friedrich Steinhauer ist jemand , der ritterlich zwar die Rechnung seiner Gäste begleicht , geschwind wie der Wind und » schneller als die Polizei erlaubt « ( Friedrich ) jedoch verschwindet , um die Zeche fürs eigene Essen zu prellen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -1215,10 +1250,10 @@
 8	ritterlich	ritterlich	ADJD	*	*	*	*
 9	zwar	zwar	ADV	*	*	*	*
 10	die	die	ART	*	*	*	*
-11	Rechnung	Rechnung	NN	1	2	1	1
+11	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
 12	seiner	sein	PPOSAT	*	*	*	*
 13	Gäste	Gast	NN	*	*	*	*
-14	begleicht	begleichen	VVFIN	1	2	1	1
+14	begleicht	begleichen	VVFIN	LIT	FIG	LIT	LIT
 15	,	,	$,	*	*	*	*
 16	geschwind	geschwind	ADJD	*	*	*	*
 17	wie	wie	KOKOM	*	*	*	*
@@ -1251,6 +1286,7 @@
 # tuepp_article_id = T911206.235
 # sent_id = 5219
 # text = Dies ist nach Angaben des Hamburger Rechtsanwalts Sieghard von Saldern der geringere Teil der Kosten , denn für die aufwendige Reinigung des dioxinhaltigen Materials ist eine Rechnung von über 511.000 Mark zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dies	dies	PDS	*	*	*	*
@@ -1279,18 +1315,19 @@
 24	Materials	Material	NN	*	*	*	*
 25	ist	sein	VAFIN	*	*	*	*
 26	eine	eine	ART	*	*	*	*
-27	Rechnung	Rechnung	NN	1	1	1	1
+27	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 28	von	von	APPR	*	*	*	*
 29	über	über	APPR	*	*	*	*
 30	511.000	@card@	CARD	*	*	*	*
 31	Mark	Mark	NN	*	*	*	*
 32	zu	zu	PTKZU	*	*	*	*
-33	begleichen	begleichen	VVINF	1	1	1	1
+33	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910322.98
 # sent_id = 5220
 # text = Jetzt muß es diese Güter zu Weltmarktpreisen kaufen und die Rechnungen in harter Währung begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jetzt	jetzt	ADV	*	*	*	*
@@ -1303,16 +1340,17 @@
 8	kaufen	kaufen	VVINF	*	*	*	*
 9	und	und	KON	*	*	*	*
 10	die	die	ART	*	*	*	*
-11	Rechnungen	Rechnung	NN	1	2	1	1
+11	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 12	in	in	APPR	*	*	*	*
 13	harter	hart	ADJA	*	*	*	*
 14	Währung	Währung	NN	*	*	*	*
-15	begleichen	begleichen	VVINF	1	2	1	1
+15	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910302.122
 # sent_id = 5221
 # text = Jahrzehnte später kehrt Noodles zurück , um eine alte Rechnung zu begleichen ...
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jahrzehnte	Jahrzehnt	NN	*	*	*	*
@@ -1324,14 +1362,15 @@
 7	um	um	KOUI	*	*	*	*
 8	eine	eine	ART	*	*	*	*
 9	alte	alt	ADJA	*	*	*	*
-10	Rechnung	Rechnung	NN	2	2	2	2
+10	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 11	zu	zu	PTKZU	*	*	*	*
-12	begleichen	begleichen	VVINF	2	2	2	2
+12	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 13	...	...	$.	*	*	*	*
 
 # tuepp_article_id = T911101.52
 # sent_id = 5222
 # text = Liegen diesen Taten nur politische Motive zugrunde - oder werden hier auch persönliche Rechnungen beglichen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Liegen	liegen	VVFIN	*	*	*	*
@@ -1347,13 +1386,14 @@
 11	hier	hier	ADV	*	*	*	*
 12	auch	auch	ADV	*	*	*	*
 13	persönliche	persönlich	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
-15	beglichen	begleichen	VVPP	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+15	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 16	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T910202.291
 # sent_id = 5223
 # text = Aus diesem Fonds wurden allerdings auch die Rechnungen der Gästehäuser beglichen , in denen Harry Tisch Urlaub machte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aus	aus	APPR	*	*	*	*
@@ -1363,10 +1403,10 @@
 5	allerdings	allerdings	ADV	*	*	*	*
 6	auch	auch	ADV	*	*	*	*
 7	die	die	ART	*	*	*	*
-8	Rechnungen	Rechnung	NN	1	1	1	1
+8	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 9	der	die	ART	*	*	*	*
 10	Gästehäuser	Gästehaus	NN	*	*	*	*
-11	beglichen	begleichen	VVPP	1	1	1	1
+11	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 12	,	,	$,	*	*	*	*
 13	in	in	APPR	*	*	*	*
 14	denen	die	PRELS	*	*	*	*
@@ -1379,6 +1419,7 @@
 # tuepp_article_id = T910202.291
 # sent_id = 5224
 # text = Nach Angaben der Zeugin hatte sie es für selbstverständlich gehalten , auf Anweisung für ein Politbüromitglied und den Gewerkschaftschef diese Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -1401,14 +1442,15 @@
 18	den	die	ART	*	*	*	*
 19	Gewerkschaftschef	Gewerkschaftschef	NN	*	*	*	*
 20	diese	dies	PDAT	*	*	*	*
-21	Rechnungen	Rechnung	NN	1	2	1	1
+21	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 22	zu	zu	PTKZU	*	*	*	*
-23	begleichen	begleichen	VVINF	1	2	1	1
+23	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910209.135
 # sent_id = 5225
 # text = Doch in den 80er Jahren begann sie auch hier neue Märkte mit Gewehren und Pistolen abzustecken - und alte Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -1430,14 +1472,15 @@
 17	-	-	$(	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	alte	alt	ADJA	*	*	*	*
-20	Rechnungen	Rechnung	NN	2	2	2	2
+20	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 21	zu	zu	PTKZU	*	*	*	*
-22	begleichen	begleichen	VVINF	2	2	2	2
+22	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910213.31
 # sent_id = 5226
 # text = Ein günstiger Zeitpunkt für die politische Führung in Peking , eine seit eineinhalb Jahren ausstehende Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -1455,22 +1498,23 @@
 13	eineinhalb	eineinhalb	CARD	*	*	*	*
 14	Jahren	Jahr	NN	*	*	*	*
 15	ausstehende	ausstehend	ADJA	*	*	*	*
-16	Rechnung	Rechnung	NN	2	2	2	2
+16	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	2	2	2	2
+18	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910219.224
 # sent_id = 5227
 # text = Wer Rechnungen mithilfe eines Postgirokontos begleicht , muß mit langen Bearbeitungszeiten oder sogar mit Mahngebühren rechnen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
-2	Rechnungen	Rechnung	NN	1	1	1	1
+2	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 3	mithilfe	mithilfe	APPR	*	*	*	*
 4	eines	eine	ART	*	*	*	*
 5	Postgirokontos	<unknown>	NN	*	*	*	*
-6	begleicht	begleichen	VVFIN	1	1	1	1
+6	begleicht	begleichen	VVFIN	LIT	LIT	LIT	LIT
 7	,	,	$,	*	*	*	*
 8	muß	müssen	VMFIN	*	*	*	*
 9	mit	mit	APPR	*	*	*	*
@@ -1486,13 +1530,14 @@
 # tuepp_article_id = T900519.165
 # sent_id = 5228
 # text = Er begleicht so seine Rechnung mit seinen Landsleuten .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
-2	begleicht	begleichen	VVFIN	2	2	2	2
+2	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 3	so	so	ADV	*	*	*	*
 4	seine	sein	PPOSAT	*	*	*	*
-5	Rechnung	Rechnung	NN	2	2	2	2
+5	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 6	mit	mit	APPR	*	*	*	*
 7	seinen	sein	PPOSAT	*	*	*	*
 8	Landsleuten	Landsleute	NN	*	*	*	*
@@ -1501,12 +1546,13 @@
 # tuepp_article_id = T900507.191
 # sent_id = 5229
 # text = Alte Rechnungen werden beglichen , das Verhängnis nimmt seinen Lauf .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Alte	alt	ADJA	*	*	*	*
-2	Rechnungen	Rechnung	NN	2	2	2	2
+2	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 3	werden	werden	VAFIN	*	*	*	*
-4	beglichen	begleichen	VVPP	2	2	2	2
+4	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 5	,	,	$,	*	*	*	*
 6	das	die	ART	*	*	*	*
 7	Verhängnis	Verhängnis	NN	*	*	*	*
@@ -1518,6 +1564,7 @@
 # tuepp_article_id = T900523.202
 # sent_id = 5230
 # text = Kein Fuzzelchen von inhaltlicher Auseinandersetzung , und dann die kleinen fiesen Rechnungen , die da beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kein	keine	PIAT	*	*	*	*
@@ -1531,17 +1578,18 @@
 9	die	die	ART	*	*	*	*
 10	kleinen	klein	ADJA	*	*	*	*
 11	fiesen	fies	ADJA	*	*	*	*
-12	Rechnungen	Rechnung	NN	2	2	2	2
+12	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	die	die	PRELS	*	*	*	*
 15	da	da	ADV	*	*	*	*
-16	beglichen	begleichen	VVPP	2	2	2	2
+16	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 17	werden	werden	VAINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900526.206
 # sent_id = 5231
 # text = Das wundersame an diesem Geld : Auch wenn man Tiefkühlkost und Dosenbier im Supermarkt der Hauptstadt Colonia mit US-Dollar bezahlt , so kann man doch mit dem alten Steingeld ( " Rai " ) heute noch Rechnungen begleichen - etwa ein Haus kaufen , eine Tanzgruppe aus dem Nachbardorf entlohnen oder sich auch schon mal einen größeren Posten Palm-Grog brauen lassen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -1580,8 +1628,8 @@
 34	)	)	$(	*	*	*	*
 35	heute	heute	ADV	*	*	*	*
 36	noch	noch	ADV	*	*	*	*
-37	Rechnungen	Rechnung	NN	1	2	1	1
-38	begleichen	begleichen	VVINF	1	2	1	1
+37	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
+38	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 39	-	-	$(	*	*	*	*
 40	etwa	etwa	ADV	*	*	*	*
 41	ein	eine	ART	*	*	*	*
@@ -1610,6 +1658,7 @@
 # tuepp_article_id = T901023.3
 # sent_id = 5232
 # text = Im Schatten der syrischen Panzer werden alte Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -1619,13 +1668,14 @@
 5	Panzer	Panzer	NN	*	*	*	*
 6	werden	werden	VAFIN	*	*	*	*
 7	alte	alt	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
-9	beglichen	begleichen	VVPP	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+9	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901023.90
 # sent_id = 5233
 # text = Und schon Mitte vergangener Woche wußte man in Ost-Beirut , daß alte Rechnungen beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -1640,28 +1690,30 @@
 10	,	,	$,	*	*	*	*
 11	daß	dass	KOUS	*	*	*	*
 12	alte	alt	ADJA	*	*	*	*
-13	Rechnungen	Rechnung	NN	2	2	2	2
-14	beglichen	begleichen	VVPP	2	2	2	2
+13	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+14	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 15	werden	werden	VAINF	*	*	*	*
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901009.66
 # sent_id = 5234
 # text = Aber das begleicht noch nicht die Rechnung .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Aber	aber	KON	*	*	*	*
 2	das	die	PDS	*	*	*	*
-3	begleicht	begleichen	VVFIN	1	2	2	2
+3	begleicht	begleichen	VVFIN	LIT	FIG	FIG	FIG
 4	noch	noch	ADV	*	*	*	*
 5	nicht	nicht	PTKNEG	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Rechnung	Rechnung	NN	1	2	2	2
+7	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900929.20
 # sent_id = 5235
 # text = " Ich komme nicht zurück , um alte Rechnungen zu begleichen " , meinte Ben Bella auf der Überfahrt , als er im großen Salon der " Hoggar " mit einigen alten Genossen zusammentraf .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1672,9 +1724,9 @@
 6	,	,	$,	*	*	*	*
 7	um	um	KOUI	*	*	*	*
 8	alte	alt	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
-11	begleichen	begleichen	VVINF	2	2	2	2
+11	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 12	"	"	$(	*	*	*	*
 13	,	,	$,	*	*	*	*
 14	meinte	meinen	VVFIN	*	*	*	*
@@ -1703,6 +1755,7 @@
 # tuepp_article_id = T900928.55
 # sent_id = 5236
 # text = Der Heimkehrer meinte , er wolle nicht " alte Rechnungen " begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1714,14 +1767,15 @@
 7	nicht	nicht	PTKNEG	*	*	*	*
 8	"	"	$(	*	*	*	*
 9	alte	alt	ADJA	*	*	*	*
-10	Rechnungen	Rechnung	NN	2	2	2	2
+10	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 11	"	"	$(	*	*	*	*
-12	begleichen	begleichen	VVINF	2	2	2	2
+12	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900911.75
 # sent_id = 5237
 # text = Ich wollte , ich sage es noch einmal , in die Causa Waldheim nicht einsteigen , aber da Sie die Vereinten Nationen erwähnen , Ihre Tätigkeit als Sekretär : Glauben Sie , es haben irgendwelche Leute oder Gruppen mit Ihnen alte Rechnungen zu begleichen gehabt und die Chance Ihrer Kandidatur in Österreich benutzt , diese alten Rechnungen wieder aufzutischen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ich	ich	PPER	*	*	*	*
@@ -1765,9 +1819,9 @@
 39	mit	mit	APPR	*	*	*	*
 40	Ihnen	Sie	PPER	*	*	*	*
 41	alte	alt	ADJA	*	*	*	*
-42	Rechnungen	Rechnung	NN	2	2	2	2
+42	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 43	zu	zu	PTKZU	*	*	*	*
-44	begleichen	begleichen	VVINF	2	2	2	2
+44	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 45	gehabt	haben	VAPP	*	*	*	*
 46	und	und	KON	*	*	*	*
 47	die	die	ART	*	*	*	*
@@ -1788,6 +1842,7 @@
 # tuepp_article_id = T900112.183
 # sent_id = 5238
 # text = " Offensichtlich der untaugliche Versuch , alte Rechnungen im Zuge der Andres-Affäre zu begleichen " , meint Pagel zu der Erklärung .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1797,13 +1852,13 @@
 5	Versuch	Versuch	NN	*	*	*	*
 6	,	,	$,	*	*	*	*
 7	alte	alt	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 9	im	in	APPRART	*	*	*	*
 10	Zuge	Zug	NN	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Andres-Affäre	<unknown>	NN	*	*	*	*
 13	zu	zu	PTKZU	*	*	*	*
-14	begleichen	begleichen	VVINF	2	2	2	2
+14	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 15	"	"	$(	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	meint	meinen	VVFIN	*	*	*	*
@@ -1816,6 +1871,7 @@
 # tuepp_article_id = T900407.79
 # sent_id = 5239
 # text = Besitzer Alfred Löffler bittet die westdeutschen Gäste auf einer Papptafel freundlich , doch wegen der hohen eigenen Kosten die Rechnung in D-Mark zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Besitzer	Besitzer	NN	*	*	*	*
@@ -1837,16 +1893,17 @@
 17	eigenen	eigen	ADJA	*	*	*	*
 18	Kosten	Kosten	NN	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Rechnung	Rechnung	NN	1	1	1	1
+20	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 21	in	in	APPR	*	*	*	*
 22	D-Mark	D-Mark	NN	*	*	*	*
 23	zu	zu	PTKZU	*	*	*	*
-24	begleichen	begleichen	VVINF	1	1	1	1
+24	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900419.378
 # sent_id = 5240
 # text = Die hatte sich bereit erklärt , einen Posten aus der umfangreichen Rechnung zu begleichen : 6 mal 12 Mark für die Reinemachefrau , die die Pulverspuren entfernte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	PDS	*	*	*	*
@@ -1860,9 +1917,9 @@
 9	aus	aus	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	umfangreichen	umfangreich	ADJA	*	*	*	*
-12	Rechnung	Rechnung	NN	1	1	1	1
+12	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 13	zu	zu	PTKZU	*	*	*	*
-14	begleichen	begleichen	VVINF	1	1	1	1
+14	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 15	:	:	$.	*	*	*	*
 16	6	@card@	CARD	*	*	*	*
 17	mal	mal	ADV	*	*	*	*
@@ -1881,6 +1938,7 @@
 # tuepp_article_id = T901221.103
 # sent_id = 5241
 # text = Daraufhin quartierten die irakischen Behörden die Leute in einem Fünfsternehotel ein und forderten von der britischen Regierung , die Rechnung dafür zu begleichen , sonst würde man die " guests " in die Kategorie " special guests " herabstufen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daraufhin	daraufhin	PAV	*	*	*	*
@@ -1902,10 +1960,10 @@
 17	Regierung	Regierung	NN	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Rechnung	Rechnung	NN	1	1	1	1
+20	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 21	dafür	dafür	PAV	*	*	*	*
 22	zu	zu	PTKZU	*	*	*	*
-23	begleichen	begleichen	VVINF	1	1	1	1
+23	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 24	,	,	$,	*	*	*	*
 25	sonst	sonst	ADV	*	*	*	*
 26	würde	werden	VAFIN	*	*	*	*
@@ -1927,13 +1985,14 @@
 # tuepp_article_id = T901221.118
 # sent_id = 5242
 # text = Dann nämlich muß die Rechnung trotz der hohen Preise von der Ost-AOK beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
 2	nämlich	nämlich	ADV	*	*	*	*
 3	muß	müssen	VMFIN	*	*	*	*
 4	die	die	ART	*	*	*	*
-5	Rechnung	Rechnung	NN	1	1	1	1
+5	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 6	trotz	trotz	APPR	*	*	*	*
 7	der	die	ART	*	*	*	*
 8	hohen	hoch	ADJA	*	*	*	*
@@ -1941,13 +2000,14 @@
 10	von	von	APPR	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Ost-AOK	<unknown>	NE	*	*	*	*
-13	beglichen	begleichen	VVPP	1	1	1	1
+13	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 14	werden	werden	VAINF	*	*	*	*
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900809.20
 # sent_id = 5243
 # text = Schlecht ist es aber um die Unternehmen bestellt , die in Bagdad eine Rechnung offen haben - derzeit hat die Hussein - Regierung keinerlei Anlaß , die ausstehenden Beträge zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schlecht	schlecht	ADJD	*	*	*	*
@@ -1963,7 +2023,7 @@
 11	in	in	APPR	*	*	*	*
 12	Bagdad	Bagdad	NE	*	*	*	*
 13	eine	eine	ART	*	*	*	*
-14	Rechnung	Rechnung	NN	1	1	1	1
+14	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 15	offen	offen	ADJD	*	*	*	*
 16	haben	haben	VAFIN	*	*	*	*
 17	-	-	$(	*	*	*	*
@@ -1980,12 +2040,13 @@
 28	ausstehenden	ausstehend	ADJA	*	*	*	*
 29	Beträge	Betrag	NN	*	*	*	*
 30	zu	zu	PTKZU	*	*	*	*
-31	begleichen	begleichen	VVINF	1	1	1	1
+31	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900811.145
 # sent_id = 5244
 # text = Etwa 100.000 Handelsbeschäftigte hatten im Juli republikweit dagegen protestiert , daß alte politische Rechnungen mit neuen ökonomischen Methoden auf dem Rücken des Handels beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Etwa	etwa	ADV	*	*	*	*
@@ -2001,7 +2062,7 @@
 11	daß	dass	KOUS	*	*	*	*
 12	alte	alt	ADJA	*	*	*	*
 13	politische	politisch	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 15	mit	mit	APPR	*	*	*	*
 16	neuen	neu	ADJA	*	*	*	*
 17	ökonomischen	ökonomisch	ADJA	*	*	*	*
@@ -2011,13 +2072,14 @@
 21	Rücken	Rücken	NN	*	*	*	*
 22	des	die	ART	*	*	*	*
 23	Handels	Handel	NN	*	*	*	*
-24	beglichen	begleichen	VVPP	2	2	2	2
+24	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 25	werden	werden	VAINF	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900818.111
 # sent_id = 5245
 # text = Polizei und Militär nutzten die Gelegenheit dazu , persönliche Rechnungen zu begleichen , es gab zahlreiche sogenannte " Verschwundene " .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Polizei	Polizei	NN	*	*	*	*
@@ -2029,9 +2091,9 @@
 7	dazu	dazu	PAV	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	persönliche	persönlich	ADJA	*	*	*	*
-10	Rechnungen	Rechnung	NN	2	2	2	2
+10	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 11	zu	zu	PTKZU	*	*	*	*
-12	begleichen	begleichen	VVINF	2	2	2	2
+12	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	es	es	PPER	*	*	*	*
 15	gab	geben	VVFIN	*	*	*	*
@@ -2045,6 +2107,7 @@
 # tuepp_article_id = T900815.153
 # sent_id = 5246
 # text = Versuchen Sie doch mal , in einem Provinznest offene Rechnungen mit einem Basquiat zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Versuchen	versuchen	VVFIN	*	*	*	*
@@ -2056,17 +2119,18 @@
 7	einem	eine	ART	*	*	*	*
 8	Provinznest	Provinznest	NN	*	*	*	*
 9	offene	offen	ADJA	*	*	*	*
-10	Rechnungen	Rechnung	NN	1	2	2	2
+10	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
 11	mit	mit	APPR	*	*	*	*
 12	einem	eine	ART	*	*	*	*
 13	Basquiat	<unknown>	NN	*	*	*	*
 14	zu	zu	PTKZU	*	*	*	*
-15	begleichen	begleichen	VVINF	1	2	2	2
+15	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900823.287
 # sent_id = 5247
 # text = Vorübergehend übernahm es daher die Werft , die zu den großen Bremer Rüstungsbetrieben zählt , die Rechnungen des beliefernden Schiffshändlers zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vorübergehend	vorübergehend	ADJD	*	*	*	*
@@ -2085,17 +2149,18 @@
 14	zählt	zählen	VVFIN	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	die	die	ART	*	*	*	*
-17	Rechnungen	Rechnung	NN	1	1	1	1
+17	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 18	des	die	ART	*	*	*	*
 19	beliefernden	<unknown>	ADJA	*	*	*	*
 20	Schiffshändlers	<unknown>	NN	*	*	*	*
 21	zu	zu	PTKZU	*	*	*	*
-22	begleichen	begleichen	VVINF	1	1	1	1
+22	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901109.99
 # sent_id = 5248
 # text = Es geht mitnichten nur um die Regelung von Truppenstationierung und - abzug sowie das Begleichen der Rechnung für die Wiedervereinigung .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vorübergehend	vorübergehend	ADJD	*	*	*	*
@@ -2114,17 +2179,18 @@
 14	zählt	zählen	VVFIN	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	die	die	ART	*	*	*	*
-17	Rechnungen	Rechnung	NN	1	2	2	2
+17	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
 18	des	die	ART	*	*	*	*
 19	beliefernden	<unknown>	ADJA	*	*	*	*
 20	Schiffshändlers	<unknown>	NN	*	*	*	*
 21	zu	zu	PTKZU	*	*	*	*
-22	begleichen	begleichen	VVINF	1	2	2	2
+22	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900219.252
 # sent_id = 5249
 # text = Republikaner-Chef Franz Schönhuber schwebte bereits wieder Richtung München , als am Samstag abend im Oelper Waldgasthaus bei seinen niedersächsischen Parteifreunden die Fäuste flogen : Einige Rechtsradikale hatten nutzten die Abwesenheit des Chefs , um bei der Landesversammlung offene Rechnungen miteinander zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Republikaner-Chef	Republikaner-Chef	NN	*	*	*	*
@@ -2165,35 +2231,37 @@
 36	der	die	ART	*	*	*	*
 37	Landesversammlung	Landesversammlung	NN	*	*	*	*
 38	offene	offen	ADJA	*	*	*	*
-39	Rechnungen	Rechnung	NN	2	2	2	2
+39	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 40	miteinander	miteinander	ADV	*	*	*	*
 41	zu	zu	PTKZU	*	*	*	*
-42	begleichen	begleichen	VVINF	2	2	2	2
+42	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 43	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900216.121
 # sent_id = 5250
 # text = Das Unternehmen hat die Rechnung der finanzpolitischen Perversitäten der Reagan-Ära nicht begleichen können .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
 2	Unternehmen	Unternehmen	NN	*	*	*	*
 3	hat	haben	VAFIN	*	*	*	*
 4	die	die	ART	*	*	*	*
-5	Rechnung	Rechnung	NN	1	2	2	2
+5	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	finanzpolitischen	finanzpolitisch	ADJA	*	*	*	*
 8	Perversitäten	Perversität	NN	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Reagan-Ära	Reagan-Ära	NN	*	*	*	*
 11	nicht	nicht	PTKNEG	*	*	*	*
-12	begleichen	begleichen	VVINF	1	2	2	2
+12	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 13	können	können	VMINF	*	*	*	*
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900221.191
 # sent_id = 5251
 # text = Zur Entschärfung des Sondermüllnotstandes haben Wagner , Mitzscherling und die BSR mit ihrem hinhaltenden Widerstand folglich nichts beigetragen - aber dafür ist es ihnen gelungen , einige alte Rechnungen zu begleichen und Schreyer eins auszuwischen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zur	zu	APPRART	*	*	*	*
@@ -2224,9 +2292,9 @@
 26	,	,	$,	*	*	*	*
 27	einige	einige	PIAT	*	*	*	*
 28	alte	alt	ADJA	*	*	*	*
-29	Rechnungen	Rechnung	NN	2	2	2	2
+29	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 30	zu	zu	PTKZU	*	*	*	*
-31	begleichen	begleichen	VVINF	2	2	2	2
+31	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 32	und	und	KON	*	*	*	*
 33	Schreyer	Schreyer	NE	*	*	*	*
 34	eins	eins	CARD	*	*	*	*
@@ -2236,6 +2304,7 @@
 # tuepp_article_id = T920507.64
 # sent_id = 5252
 # text = Einerseits glauben bewaffnete Gruppen , daß gerade jetzt der Augenblick für Aktionen gekommen ist , währenddessen noch vor dem Ende des Krieges alte Rechnungen beglichen werden können .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einerseits	einerseits	ADV	*	*	*	*
@@ -2261,8 +2330,8 @@
 21	des	die	ART	*	*	*	*
 22	Krieges	Krieg	NN	*	*	*	*
 23	alte	alt	ADJA	*	*	*	*
-24	Rechnungen	Rechnung	NN	2	2	2	2
-25	beglichen	begleichen	VVPP	2	2	2	2
+24	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+25	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 26	werden	werden	VAINF	*	*	*	*
 27	können	können	VMFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
@@ -2270,6 +2339,7 @@
 # tuepp_article_id = T920511.100
 # sent_id = 5253
 # text = Minute die 2:1 Führung der Hanseaten mit einem geschickten Kopfstoß gegen die Laufrichtung von Torwart Ulli Stein erzielte , hatte es den Anschein , als würde hier eine alte Rechnung beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Minute	Minute	NN	*	*	*	*
@@ -2301,14 +2371,15 @@
 27	hier	hier	ADV	*	*	*	*
 28	eine	eine	ART	*	*	*	*
 29	alte	alt	ADJA	*	*	*	*
-30	Rechnung	Rechnung	NN	2	2	2	2
-31	beglichen	begleichen	VVPP	2	2	2	2
+30	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
+31	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 32	werden	werden	VAINF	*	*	*	*
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920612.67
 # sent_id = 5254
 # text = Kanada , die Bundesrepublik , Österreich , eine brasilianische Bank und Fernsehanstalt erklärten sich bereit , die Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kanada	Kanada	NE	*	*	*	*
@@ -2328,14 +2399,15 @@
 15	bereit	bereit	PTKVZ	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	die	die	ART	*	*	*	*
-18	Rechnungen	Rechnung	NN	1	2	1	1
+18	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 19	zu	zu	PTKZU	*	*	*	*
-20	begleichen	begleichen	VVINF	1	2	1	1
+20	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920604.82
 # sent_id = 5255
 # text = Offen ist in Schweden immer noch , wie die Rechnungen für das fünftägige Trainingslager der Jugoslawen , die bereits vergangene Woche nach Schweden gekommen waren , in Leksand beglichen werden sollen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Offen	offen	ADJD	*	*	*	*
@@ -2347,7 +2419,7 @@
 7	,	,	$,	*	*	*	*
 8	wie	wie	KOUS	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Rechnungen	Rechnung	NN	1	1	1	1
+10	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 11	für	für	APPR	*	*	*	*
 12	das	die	ART	*	*	*	*
 13	fünftägige	fünftägig	ADJA	*	*	*	*
@@ -2366,7 +2438,7 @@
 26	,	,	$,	*	*	*	*
 27	in	in	APPR	*	*	*	*
 28	Leksand	<unknown>	NN	*	*	*	*
-29	beglichen	begleichen	VVPP	1	1	1	1
+29	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 30	werden	werden	VAINF	*	*	*	*
 31	sollen	sollen	VMFIN	*	*	*	*
 32	.	.	$.	*	*	*	*
@@ -2374,25 +2446,27 @@
 # tuepp_article_id = T920604.82
 # sent_id = 5256
 # text = Die Jugoslawen wollten diese Rechnungen mit ihrem Anteil aus dem EM-Gewinn begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Jugoslawen	Jugoslawe	NN	*	*	*	*
 3	wollten	wollen	VMFIN	*	*	*	*
 4	diese	dies	PDAT	*	*	*	*
-5	Rechnungen	Rechnung	NN	1	2	1	1
+5	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 6	mit	mit	APPR	*	*	*	*
 7	ihrem	ihr	PPOSAT	*	*	*	*
 8	Anteil	Anteil	NN	*	*	*	*
 9	aus	aus	APPR	*	*	*	*
 10	dem	die	ART	*	*	*	*
 11	EM-Gewinn	<unknown>	NN	*	*	*	*
-12	begleichen	begleichen	VVINF	1	2	1	1
+12	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921031.255
 # sent_id = 5257
 # text = Die Koalition der Verlierer in der SPD hat bereits die Messer gewetzt , um dem zur Zeit führungsschwachen und kraftlosen Präsidenten des Senats , mit dem sie noch eine alte Rechnung zu begleichen haben , einen ehrenvollen Abgang zu verschaffen , bevor sie mit der CDU das Bremer Regierungsboot übernehmen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2425,9 +2499,9 @@
 28	noch	noch	ADV	*	*	*	*
 29	eine	eine	ART	*	*	*	*
 30	alte	alt	ADJA	*	*	*	*
-31	Rechnung	Rechnung	NN	2	2	2	2
+31	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 32	zu	zu	PTKZU	*	*	*	*
-33	begleichen	begleichen	VVINF	2	2	2	2
+33	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 34	haben	haben	VAFIN	*	*	*	*
 35	,	,	$,	*	*	*	*
 36	einen	eine	ART	*	*	*	*
@@ -2450,6 +2524,7 @@
 # tuepp_article_id = T920918.126
 # sent_id = 5258
 # text = Für Rechtsanwalt Rüdiger Jung ist die Inhaftierung Croissants gleichfalls » ein klarer Ausdruck dafür « , daß die Bundesanwaltschaft » nach wie vor auf dem rechten Auge blind ist und alte Rechnungen begleicht « .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -2483,14 +2558,15 @@
 29	ist	sein	VAFIN	*	*	*	*
 30	und	und	KON	*	*	*	*
 31	alte	alt	ADJA	*	*	*	*
-32	Rechnungen	Rechnung	NN	2	2	2	2
-33	begleicht	begleichen	VVFIN	2	2	2	2
+32	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+33	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 34	«	<unknown>	ADJD	*	*	*	*
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920113.83
 # sent_id = 5259
 # text = Sie setzen immer wieder die gleiche Geschichte fort , wonach Kroaten und Serben ihre alten Rechnungen begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -2508,13 +2584,14 @@
 13	Serben	Serbe	NN	*	*	*	*
 14	ihre	ihr	PPOSAT	*	*	*	*
 15	alten	alt	ADJA	*	*	*	*
-16	Rechnungen	Rechnung	NN	2	2	2	2
-17	begleichen	begleichen	VVINF	2	2	2	2
+16	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+17	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920107.117
 # sent_id = 5260
 # text = Bis hin zum letzten Manöverbeobachter im Pantoffelkino war die Rollenverteilung klar - keinen Augenblick bestand die Gefahr , daß einem Iraks Überfall auf Kuwait genauso am Arsch vorbeigehen könnte wie die alten Rechnungen , die man jetzt auf dem Balkan mit gegenseitigen Überfällen begleicht .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bis	bis	KON	*	*	*	*
@@ -2549,7 +2626,7 @@
 30	wie	wie	KOKOM	*	*	*	*
 31	die	die	ART	*	*	*	*
 32	alten	alt	ADJA	*	*	*	*
-33	Rechnungen	Rechnung	NN	2	2	2	2
+33	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 34	,	,	$,	*	*	*	*
 35	die	die	PRELS	*	*	*	*
 36	man	man	PIS	*	*	*	*
@@ -2560,12 +2637,13 @@
 41	mit	mit	APPR	*	*	*	*
 42	gegenseitigen	gegenseitig	ADJA	*	*	*	*
 43	Überfällen	Überfall	NN	*	*	*	*
-44	begleicht	begleichen	VVFIN	2	2	2	2
+44	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 45	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920127.39
 # sent_id = 5261
 # text = Auch der Streit um die Finanzierung des Familienlastenausgleichs stellt sich aus dieser Perspektive betrachtet nicht nur als politische Auseinandersetzung um soziale Gerechtigkeit dar , sondern als knallharte Kalkulation , wer die Rechnung zu begleichen hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -2599,15 +2677,16 @@
 29	,	,	$,	*	*	*	*
 30	wer	wer	PWS	*	*	*	*
 31	die	die	ART	*	*	*	*
-32	Rechnung	Rechnung	NN	1	2	2	2
+32	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 33	zu	zu	PTKZU	*	*	*	*
-34	begleichen	begleichen	VVINF	1	2	2	2
+34	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 35	hat	haben	VAFIN	*	*	*	*
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920427.83
 # sent_id = 5262
 # text = " Es gibt viele Leute , die alte Rechnungen zu begleichen haben " , sagt ein Journalist auf Sansibar : " Keine Seite will mit der anderen reden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2618,9 +2697,9 @@
 6	,	,	$,	*	*	*	*
 7	die	die	ART	*	*	*	*
 8	alte	alt	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
-11	begleichen	begleichen	VVINF	2	2	2	2
+11	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 12	haben	haben	VAFIN	*	*	*	*
 13	"	"	$(	*	*	*	*
 14	,	,	$,	*	*	*	*
@@ -2643,6 +2722,7 @@
 # tuepp_article_id = T920403.193
 # sent_id = 5263
 # text = Damit aber auch wirkliche Böse vorkommen , begleicht der KGB-Mann eine private Rechnung mit zwei alten Nazis und endet als ehrliche Haut tragisch - ohne Kopf .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
@@ -2652,12 +2732,12 @@
 5	Böse	Böse	NN	*	*	*	*
 6	vorkommen	vorkommen	VVINF	*	*	*	*
 7	,	,	$,	*	*	*	*
-8	begleicht	begleichen	VVFIN	2	2	2	2
+8	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 9	der	die	ART	*	*	*	*
 10	KGB-Mann	KGB-Mann	NN	*	*	*	*
 11	eine	eine	ART	*	*	*	*
 12	private	privat	ADJA	*	*	*	*
-13	Rechnung	Rechnung	NN	2	2	2	2
+13	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 14	mit	mit	APPR	*	*	*	*
 15	zwei	zwei	CARD	*	*	*	*
 16	alten	alt	ADJA	*	*	*	*
@@ -2676,6 +2756,7 @@
 # tuepp_article_id = T920408.125
 # sent_id = 5264
 # text = Demnach gehen in Korsika die meisten Bomben hoch , in Marseille begleicht offenbar das Gangster-Milieu gerne seine Rechnungen , und in Nordfrankreich kommt es häufig zu Vergehen gegen Familien und Kinder .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Demnach	demnach	PAV	*	*	*	*
@@ -2689,13 +2770,13 @@
 9	,	,	$,	*	*	*	*
 10	in	in	APPR	*	*	*	*
 11	Marseille	Marseille	NE	*	*	*	*
-12	begleicht	begleichen	VVFIN	2	2	2	2
+12	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 13	offenbar	offenbar	ADJD	*	*	*	*
 14	das	die	ART	*	*	*	*
 15	Gangster-Milieu	<unknown>	NN	*	*	*	*
 16	gerne	gerne	ADV	*	*	*	*
 17	seine	sein	PPOSAT	*	*	*	*
-18	Rechnungen	Rechnung	NN	2	2	2	2
+18	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	und	und	KON	*	*	*	*
 21	in	in	APPR	*	*	*	*
@@ -2714,6 +2795,7 @@
 # tuepp_article_id = T920706.136
 # sent_id = 5265
 # text = » Privates und Bezeichnendes « seien vereint auf den 430 Seiten , » bei gänzlichem Desinteresse am Begleichen von Rechnungen « .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Demnach	demnach	PAV	*	*	*	*
@@ -2727,13 +2809,13 @@
 9	,	,	$,	*	*	*	*
 10	in	in	APPR	*	*	*	*
 11	Marseille	Marseille	NE	*	*	*	*
-12	begleicht	begleichen	VVFIN	2	2	2	2
+12	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 13	offenbar	offenbar	ADJD	*	*	*	*
 14	das	die	ART	*	*	*	*
 15	Gangster-Milieu	<unknown>	NN	*	*	*	*
 16	gerne	gerne	ADV	*	*	*	*
 17	seine	sein	PPOSAT	*	*	*	*
-18	Rechnungen	Rechnung	NN	2	2	2	2
+18	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	und	und	KON	*	*	*	*
 21	in	in	APPR	*	*	*	*
@@ -2752,6 +2834,7 @@
 # tuepp_article_id = T921203.190
 # sent_id = 5266
 # text = Zwei Menschen sterben , etliche werden obdachlos , und nebenbei werden private Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwei	zwei	CARD	*	*	*	*
@@ -2766,13 +2849,14 @@
 10	nebenbei	nebenbei	ADV	*	*	*	*
 11	werden	werden	VAFIN	*	*	*	*
 12	private	privat	ADJA	*	*	*	*
-13	Rechnungen	Rechnung	NN	2	2	2	2
-14	beglichen	begleichen	VVPP	2	2	2	2
+13	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+14	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920819.55
 # sent_id = 5267
 # text = " Er hält einen Moment inne und fügt dann hinzu : " Aber wir können es uns nicht leisten , die alten Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2797,14 +2881,15 @@
 20	,	,	$,	*	*	*	*
 21	die	die	ART	*	*	*	*
 22	alten	alt	ADJA	*	*	*	*
-23	Rechnungen	Rechnung	NN	2	2	2	2
+23	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 24	zu	zu	PTKZU	*	*	*	*
-25	begleichen	begleichen	VVINF	2	2	2	2
+25	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920831.69
 # sent_id = 5268
 # text = " Und Schäuble versucht mit seiner Forderung nach einer vorbeugenden Verschärfung des Haftrechts für " gewaltbereite " Demonstranten , die zukünftig bis zum Beweis mangelnder " Wiederholungsgefahr " eingesperrt werden können , aus Anlaß rechten Terrors alte Rechnungen mit linken Demonstranten zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2844,17 +2929,18 @@
 35	rechten	recht|rechts	ADJA	*	*	*	*
 36	Terrors	Terror	NN	*	*	*	*
 37	alte	alt	ADJA	*	*	*	*
-38	Rechnungen	Rechnung	NN	2	2	2	2
+38	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 39	mit	mit	APPR	*	*	*	*
 40	linken	links	ADJA	*	*	*	*
 41	Demonstranten	Demonstrant	NN	*	*	*	*
 42	zu	zu	PTKZU	*	*	*	*
-43	begleichen	begleichen	VVINF	2	2	2	2
+43	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 44	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920814.52
 # sent_id = 5269
 # text = Doch ist das Embargo für viele Libyer ein Anlaß , um alte Rechnungen mit dem Gaddafi-Regime zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	ADV	*	*	*	*
@@ -2869,17 +2955,18 @@
 10	,	,	$,	*	*	*	*
 11	um	um	KOUI	*	*	*	*
 12	alte	alt	ADJA	*	*	*	*
-13	Rechnungen	Rechnung	NN	2	2	2	2
+13	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 14	mit	mit	APPR	*	*	*	*
 15	dem	die	ART	*	*	*	*
 16	Gaddafi-Regime	Gaddafi-Regime	NN	*	*	*	*
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	2	2	2	2
+18	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920827.202
 # sent_id = 5270
 # text = Der Brief enthielt die freundliche Aufforderung , die Rechnungen umgehend zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Der	die	ART	*	*	*	*
@@ -2890,15 +2977,16 @@
 6	Aufforderung	Aufforderung	NN	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	die	die	ART	*	*	*	*
-9	Rechnungen	Rechnung	NN	1	1	1	1
+9	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 10	umgehend	umgehend	ADJD	*	*	*	*
 11	zu	zu	PTKZU	*	*	*	*
-12	begleichen	begleichen	VVINF	1	1	1	1
+12	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920806.150
 # sent_id = 5271
 # text = Bertoluccis schöne Panoramakamera-Ansichten belegen die uralte Teilung seiner Geburtsstadt Parma , mit der er » noch offene Rechnungen « zu begleichen glaubte , in Arm und Reich , in » diesseits und jenseits des Flusses « .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bertoluccis	<unknown>	NE	*	*	*	*
@@ -2918,10 +3006,10 @@
 15	»	<unknown>	ADJD	*	*	*	*
 16	noch	noch	ADV	*	*	*	*
 17	offene	offen	ADJA	*	*	*	*
-18	Rechnungen	Rechnung	NN	2	2	2	2
+18	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 19	«	<unknown>	ADJD	*	*	*	*
 20	zu	zu	PTKZU	*	*	*	*
-21	begleichen	begleichen	VVINF	2	2	2	2
+21	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 22	glaubte	glauben	VVFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
 24	in	in	APPR	*	*	*	*
@@ -2942,6 +3030,7 @@
 # tuepp_article_id = T920822.146
 # sent_id = 5272
 # text = Im großen und ganzen aber dominiert die deutsche Lesart : Auf dem Balkan geht es nicht um die mörderische Auseinandersetzung von Nationalismen , die alte Rechnungen miteinander begleichen ; auf dem Balkan findet der Befreiungskampf unterdrückter ( und im Fall von Slowenen und Kroaten zu unserem Kulturkreis gehörender ) Völker gegen den großserbischen ( slawischen ) Chauvinismus statt .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -2969,9 +3058,9 @@
 23	,	,	$,	*	*	*	*
 24	die	die	ART	*	*	*	*
 25	alte	alt	ADJA	*	*	*	*
-26	Rechnungen	Rechnung	NN	2	2	2	2
+26	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 27	miteinander	miteinander	ADV	*	*	*	*
-28	begleichen	begleichen	VVINF	2	2	2	2
+28	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 29	;	;	$.	*	*	*	*
 30	auf	auf	APPR	*	*	*	*
 31	dem	die	ART	*	*	*	*
@@ -3007,13 +3096,14 @@
 # tuepp_article_id = T920314.219
 # sent_id = 5273
 # text = Ob damit die Rechnung beglichen ist , hat der Arbeitslose für sich noch nicht entschieden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Ob	ob	ADV	*	*	*	*
 2	damit	damit	PAV	*	*	*	*
 3	die	die	ART	*	*	*	*
-4	Rechnung	Rechnung	NN	2	2	2	2
-5	beglichen	begleichen	VVPP	2	2	2	2
+4	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
+5	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 6	ist	sein	VAFIN	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	hat	haben	VAFIN	*	*	*	*
@@ -3029,6 +3119,7 @@
 # tuepp_article_id = T920305.16
 # sent_id = 5274
 # text = Der ehemalige Staatschef habe in seinem Land offene Rechnungen zu begleichen und solle sich dieser Situation selbst stellen , sagte Valdes .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3039,9 +3130,9 @@
 6	seinem	sein	PPOSAT	*	*	*	*
 7	Land	Land	NN	*	*	*	*
 8	offene	offen	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
-11	begleichen	begleichen	VVINF	2	2	2	2
+11	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 12	und	und	KON	*	*	*	*
 13	solle	sollen	VMFIN	*	*	*	*
 14	sich	sich	PRF	*	*	*	*
@@ -3057,6 +3148,7 @@
 # tuepp_article_id = T920306.227
 # sent_id = 5275
 # text = Die DVU-Fraktion in der Bremischen Bürgerschaft ist allerdings durchaus in der Lage auch größere Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
@@ -3073,14 +3165,15 @@
 12	Lage	Lage	NN	*	*	*	*
 13	auch	auch	ADV	*	*	*	*
 14	größere	groß	ADJA	*	*	*	*
-15	Rechnungen	Rechnung	NN	1	2	1	1
+15	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 16	zu	zu	PTKZU	*	*	*	*
-17	begleichen	begleichen	VVINF	1	2	1	1
+17	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920214.25
 # sent_id = 5276
 # text = " Es geht nicht an , daß Mertes über den Bildschirm private Rechnungen mit Wallraff begleicht " , sagte er der taz .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
@@ -3095,10 +3188,10 @@
 10	den	die	ART	*	*	*	*
 11	Bildschirm	Bildschirm	NN	*	*	*	*
 12	private	privat	ADJA	*	*	*	*
-13	Rechnungen	Rechnung	NN	2	2	2	2
+13	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 14	mit	mit	APPR	*	*	*	*
 15	Wallraff	<unknown>	NN	*	*	*	*
-16	begleicht	begleichen	VVFIN	2	2	2	2
+16	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 17	"	"	$(	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	sagte	sagen	VVFIN	*	*	*	*
@@ -3110,6 +3203,7 @@
 # tuepp_article_id = T920211.139
 # sent_id = 5277
 # text = Die Gefängnisse verfügten über so wenig Mittel , daß sie kaum die Nahrung für die Insassen bezahlen könnten , die Rechnungen für Heizung , Strom und Telefon nicht beglichen würden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3132,7 +3226,7 @@
 18	könnten	können	VMFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	die	die	ART	*	*	*	*
-21	Rechnungen	Rechnung	NN	1	1	1	1
+21	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 22	für	für	APPR	*	*	*	*
 23	Heizung	Heizung	NN	*	*	*	*
 24	,	,	$,	*	*	*	*
@@ -3140,13 +3234,14 @@
 26	und	und	KON	*	*	*	*
 27	Telefon	Telefon	NN	*	*	*	*
 28	nicht	nicht	PTKNEG	*	*	*	*
-29	beglichen	begleichen	VVPP	1	1	1	1
+29	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 30	würden	werden	VAFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880516.21
 # sent_id = 5278
 # text = In Afghanistan selbst könnten die offenen Rechnungen schon sehr schnell beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	In	in	APPR	*	*	*	*
@@ -3155,17 +3250,18 @@
 4	könnten	können	VMFIN	*	*	*	*
 5	die	die	ART	*	*	*	*
 6	offenen	offen	ADJA	*	*	*	*
-7	Rechnungen	Rechnung	NN	2	2	2	2
+7	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 8	schon	schon	ADV	*	*	*	*
 9	sehr	sehr	ADV	*	*	*	*
 10	schnell	schnell	ADJD	*	*	*	*
-11	beglichen	begleichen	VVPP	2	2	2	2
+11	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 12	werden	werden	VAINF	*	*	*	*
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880516.71
 # sent_id = 5279
 # text = " Pakistan hat mit Indien noch eine alte Rechnung aus den Zeiten der Separation zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3176,19 +3272,20 @@
 6	noch	noch	ADV	*	*	*	*
 7	eine	eine	ART	*	*	*	*
 8	alte	alt	ADJA	*	*	*	*
-9	Rechnung	Rechnung	NN	2	2	2	2
+9	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 10	aus	aus	APPR	*	*	*	*
 11	den	die	ART	*	*	*	*
 12	Zeiten	Zeit	NN	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Separation	Separation	NN	*	*	*	*
 15	zu	zu	PTKZU	*	*	*	*
-16	begleichen	begleichen	VVINF	2	2	2	2
+16	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880905.131
 # sent_id = 5280
 # text = Besondere Bremer Note : Der Cousin und die Ehefrau des Herrn Galla nutzten diese umwegigen Firmenbeziehungen , um sich recht abstruse Rechnungen , wenn nicht gar Scheinrechnungen begleichen zu lassen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Besondere	besonder	ADJA	*	*	*	*
@@ -3212,13 +3309,13 @@
 19	sich	sich	PRF	*	*	*	*
 20	recht	recht	ADJD	*	*	*	*
 21	abstruse	abstrus	ADJA	*	*	*	*
-22	Rechnungen	Rechnung	NN	1	2	1	1
+22	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 23	,	,	$,	*	*	*	*
 24	wenn	wenn	KOUS	*	*	*	*
 25	nicht	nicht	PTKNEG	*	*	*	*
 26	gar	gar	ADV	*	*	*	*
 27	Scheinrechnungen	Scheinrechnung	NN	*	*	*	*
-28	begleichen	begleichen	VVINF	1	2	1	1
+28	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 29	zu	zu	PTKZU	*	*	*	*
 30	lassen	lassen	VVINF	*	*	*	*
 31	.	.	$.	*	*	*	*
@@ -3226,6 +3323,7 @@
 # tuepp_article_id = T880922.44
 # sent_id = 5281
 # text = Ab sofort wird die Universitätsverwaltung Passau die fällige Rechnung für das vom Sprecherrat der Hochschule bestellte taz-Abonnement begleichen müssen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ab	ab	ADV	*	*	*	*
@@ -3236,7 +3334,7 @@
 6	Passau	Passau	NE	*	*	*	*
 7	die	die	ART	*	*	*	*
 8	fällige	fällig	ADJA	*	*	*	*
-9	Rechnung	Rechnung	NN	1	1	1	1
+9	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 10	für	für	APPR	*	*	*	*
 11	das	die	ART	*	*	*	*
 12	vom	von	APPRART	*	*	*	*
@@ -3245,13 +3343,14 @@
 15	Hochschule	Hochschule	NN	*	*	*	*
 16	bestellte	bestellt	ADJA	*	*	*	*
 17	taz-Abonnement	taz-Abonnement	NN	*	*	*	*
-18	begleichen	begleichen	VVINF	1	1	1	1
+18	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 19	müssen	müssen	VMINF	*	*	*	*
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881223.148
 # sent_id = 5282
 # text = Sie nutzte den technischen Zugriff auf die Zeitung , um in dem Artikel " Auffälliger Trend zu harten Drogen " ( Lokal-Teil S. 18 ) , eine private Rechnung mit der Autorin Eva Schweitzer zu begleichen , die in einem Zitty - Artikel in spitzer Form Conny Kolb und die taz aufs Korn genommen hatte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -3282,14 +3381,14 @@
 26	,	,	$,	*	*	*	*
 27	eine	eine	ART	*	*	*	*
 28	private	privat	ADJA	*	*	*	*
-29	Rechnung	Rechnung	NN	2	2	2	2
+29	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 30	mit	mit	APPR	*	*	*	*
 31	der	die	ART	*	*	*	*
 32	Autorin	Autorin	NN	*	*	*	*
 33	Eva	Eva	NE	*	*	*	*
 34	Schweitzer	Schweitzer	NE	*	*	*	*
 35	zu	zu	PTKZU	*	*	*	*
-36	begleichen	begleichen	VVINF	2	2	2	2
+36	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 37	,	,	$,	*	*	*	*
 38	die	die	PRELS	*	*	*	*
 39	in	in	APPR	*	*	*	*
@@ -3314,6 +3413,7 @@
 # tuepp_article_id = T880809.75
 # sent_id = 5283
 # text = Saddam ergriff die Gelegenheit , alte und neue Rechnungen zu begleichen , unliebsame Weggefährten auszuschalten .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Saddam	Saddam	NE	*	*	*	*
@@ -3324,9 +3424,9 @@
 6	alte	alt	ADJA	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	neue	neu	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
-11	begleichen	begleichen	VVINF	2	2	2	2
+11	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	unliebsame	unliebsam	ADJA	*	*	*	*
 14	Weggefährten	Weggefährte	NN	*	*	*	*
@@ -3336,6 +3436,7 @@
 # tuepp_article_id = T880309.35
 # sent_id = 5284
 # text = Während ein Sprecher der Firma Detia sofort Schuldzuweisungen in Richtung der Umweltschützer äußerte , erklärte die Kripo , ein Zusammenhang mit der Auseinandersetzung bei Detia liege zwar sehr nahe , man ermittle aber in alle Richtungen , da nicht auszuschließen sei , daß " Trittbrettfahrer " die Gelegenheit " zum Begleichen alter Rechnungen " ausgenutzt hätten .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Saddam	Saddam	NE	*	*	*	*
@@ -3346,9 +3447,9 @@
 6	alte	alt	ADJA	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	neue	neu	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
-11	begleichen	begleichen	VVINF	2	2	2	2
+11	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	unliebsame	unliebsam	ADJA	*	*	*	*
 14	Weggefährten	Weggefährte	NN	*	*	*	*
@@ -3358,6 +3459,7 @@
 # tuepp_article_id = T881119.88
 # sent_id = 5285
 # text = Die freundliche Bankangestellte schaltet sich damit in den weltumspannenden Datenverbund der Kreditkarten-Organisation ein , und binnen weniger Sekunden ist geklärt , ob unser Entwicklungshelfer für die 1.000 Dollar daheim " Bonität " genießt , damit er bargeldlos die Rechnung für das Hotel begleichen kann .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3398,17 +3500,18 @@
 36	er	er	PPER	*	*	*	*
 37	bargeldlos	bargeldlos	ADJD	*	*	*	*
 38	die	die	ART	*	*	*	*
-39	Rechnung	Rechnung	NN	1	1	1	1
+39	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 40	für	für	APPR	*	*	*	*
 41	das	die	ART	*	*	*	*
 42	Hotel	Hotel	NN	*	*	*	*
-43	begleichen	begleichen	VVINF	1	1	1	1
+43	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 44	kann	können	VMFIN	*	*	*	*
 45	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880217.42
 # sent_id = 5286
 # text = Israels Botschafter in Zypern erklärte dazu , es sei nicht das erst Mal , daß man Israel beschuldige , wenn die eigenen Rechnungen beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Israels	Israel	NE	*	*	*	*
@@ -3433,14 +3536,15 @@
 20	wenn	wenn	KOUS	*	*	*	*
 21	die	die	ART	*	*	*	*
 22	eigenen	eigen	ADJA	*	*	*	*
-23	Rechnungen	Rechnung	NN	2	2	2	2
-24	beglichen	begleichen	VVPP	2	2	2	2
+23	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+24	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 25	werden	werden	VAINF	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870615.22
 # sent_id = 5287
 # text = An dieser Stelle macht Brandt auch die Berufung der Griechin Margarita Mathiopoulos zur Pressesprecherin zum Thema , die bei den Genossinnen Neid hervorspülte und von Genossen des rechten Flügels zum Anlaß genommen wurde , alte Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	An	an	APPR	*	*	*	*
@@ -3478,14 +3582,15 @@
 33	wurde	werden	VAFIN	*	*	*	*
 34	,	,	$,	*	*	*	*
 35	alte	alt	ADJA	*	*	*	*
-36	Rechnungen	Rechnung	NN	2	2	2	2
+36	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 37	zu	zu	PTKZU	*	*	*	*
-38	begleichen	begleichen	VVINF	2	2	2	2
+38	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 39	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870901.43
 # sent_id = 5288
 # text = Die beiden größten Förderländer Lateinamerikas , Mexiko und Venezuela , haben ihre Lieferungen an Nicaragua schon längst eingestellt , weil dieses offene Rechnungen nicht begleichen konnte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3510,15 +3615,16 @@
 20	weil	weil	KOUS	*	*	*	*
 21	dieses	dies	PDAT	*	*	*	*
 22	offene	offen	ADJA	*	*	*	*
-23	Rechnungen	Rechnung	NN	1	1	1	1
+23	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 24	nicht	nicht	PTKNEG	*	*	*	*
-25	begleichen	begleichen	VVINF	1	1	1	1
+25	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 26	konnte	können	VMFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870909.55
 # sent_id = 5289
 # text = Lateinamerikanische Förderländer wie Mexiko und Venezuela liefern Nicaragua seit Jahren kein Erdöl mehr , weil dieses offene Rechnungen noch nicht beglichen hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Lateinamerikanische	lateinamerikanisch	ADJA	*	*	*	*
@@ -3538,16 +3644,17 @@
 15	weil	weil	KOUS	*	*	*	*
 16	dieses	dies	PDAT	*	*	*	*
 17	offene	offen	ADJA	*	*	*	*
-18	Rechnungen	Rechnung	NN	1	1	1	1
+18	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 19	noch	noch	ADV	*	*	*	*
 20	nicht	nicht	PTKNEG	*	*	*	*
-21	beglichen	begleichen	VVPP	1	1	1	1
+21	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 22	hat	haben	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870429.79
 # sent_id = 5290
 # text = Bis heute ist in mehreren Fällen unklar , welcher Mord nun welcher Fraktion zuzuschreiben ist - nicht zuletzt , weil einige Fraktionäre die Fehde zum Anlaß nahmen , um auch rein private Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bis	bis	KON	*	*	*	*
@@ -3582,14 +3689,15 @@
 30	auch	auch	ADV	*	*	*	*
 31	rein	rein	ADV	*	*	*	*
 32	private	privat	ADJA	*	*	*	*
-33	Rechnungen	Rechnung	NN	2	2	2	2
+33	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 34	zu	zu	PTKZU	*	*	*	*
-35	begleichen	begleichen	VVINF	2	2	2	2
+35	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870421.66
 # sent_id = 5291
 # text = Seine Gruppe wird am PNC jedoch nicht teilnehmen , denn zuvor muß die Rechnung mit Al Fatah , deren Mitglied Abu Nidal früher war , beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seine	sein	PPOSAT	*	*	*	*
@@ -3605,7 +3713,7 @@
 11	zuvor	zuvor	ADV	*	*	*	*
 12	muß	müssen	VMFIN	*	*	*	*
 13	die	die	ART	*	*	*	*
-14	Rechnung	Rechnung	NN	2	2	2	2
+14	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 15	mit	mit	APPR	*	*	*	*
 16	Al	Al	NE	*	*	*	*
 17	Fatah	<unknown>	NE	*	*	*	*
@@ -3617,13 +3725,14 @@
 23	früher	früh	ADJD	*	*	*	*
 24	war	sein	VAFIN	*	*	*	*
 25	,	,	$,	*	*	*	*
-26	beglichen	begleichen	VVPP	2	2	2	2
+26	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 27	werden	werden	VAINF	*	*	*	*
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T871223.83
 # sent_id = 5292
 # text = " Der Rebellenführer hat mit Denby und Hull noch eine Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3636,21 +3745,22 @@
 8	Hull	<unknown>	NE	*	*	*	*
 9	noch	noch	ADV	*	*	*	*
 10	eine	eine	ART	*	*	*	*
-11	Rechnung	Rechnung	NN	2	2	2	2
+11	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 12	zu	zu	PTKZU	*	*	*	*
-13	begleichen	begleichen	VVINF	2	2	2	2
+13	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870826.74
 # sent_id = 5293
 # text = Wer die Rechnung nicht begleichen kann , muß mindestens 24 Prozent Zinsen zahlen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
 2	die	die	ART	*	*	*	*
-3	Rechnung	Rechnung	NN	1	1	1	1
+3	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 4	nicht	nicht	PTKNEG	*	*	*	*
-5	begleichen	begleichen	VVINF	1	1	1	1
+5	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 6	kann	können	VMFIN	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	muß	müssen	VMFIN	*	*	*	*
@@ -3664,6 +3774,7 @@
 # tuepp_article_id = T870822.83
 # sent_id = 5294
 # text = Auf der Straße kann man mittlerweile auf einen Blick erkennen , wer eine etwas höhere Rechnung zu begleichen hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -3681,15 +3792,16 @@
 13	eine	eine	ART	*	*	*	*
 14	etwas	etwas	ADV	*	*	*	*
 15	höhere	hoch	ADJA	*	*	*	*
-16	Rechnung	Rechnung	NN	1	2	1	1
+16	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	1	2	1	1
+18	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 19	hat	haben	VAFIN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870327.27
 # sent_id = 5295
 # text = Der groteske Verlauf der Diskussion um eine Sprecherin ist nur ein Symptom , aber doch ein wichtiges : - für Disziplinlosigkeit auch verantwortlicher und erfahrener Mitglieder unserer Partei ; - für Rücksichtslosigkeit gegenüber denen , die in Wahlkämpfen stehen ; - für das Zusammenspiel einzelner mit mehr oder weniger gegnerischen Organen der veröffentlichten Meinung ; - auch für den Versuch , auf verdeckte Art alte Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3757,14 +3869,15 @@
 63	verdeckte	verdeckt	ADJA	*	*	*	*
 64	Art	Art	NN	*	*	*	*
 65	alte	alt	ADJA	*	*	*	*
-66	Rechnungen	Rechnung	NN	2	2	2	2
+66	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 67	zu	zu	PTKZU	*	*	*	*
-68	begleichen	begleichen	VVINF	2	2	2	2
+68	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 69	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T861128.73
 # sent_id = 5296
 # text = König Fahd wollte nach diesen Meldungen eine Raffinerie Rabiqh am Roten Meer teilweise übernehmen , und die Rechnung überwiegend mit Erdöl begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	König	König	NE	*	*	*	*
@@ -3784,16 +3897,17 @@
 15	,	,	$,	*	*	*	*
 16	und	und	KON	*	*	*	*
 17	die	die	ART	*	*	*	*
-18	Rechnung	Rechnung	NN	1	2	1	1
+18	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
 19	überwiegend	überwiegend	ADJD	*	*	*	*
 20	mit	mit	APPR	*	*	*	*
 21	Erdöl	Erdöl	NN	*	*	*	*
-22	begleichen	begleichen	VVINF	1	2	1	1
+22	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930505.52
 # sent_id = 5297
 # text = Paris ( taz ) - Den Selbstmord von Ex-Premierminister Pierre Beregevoy haben mehrere französische Politiker dazu benutzt , ihre Rechnungen mit den Medien zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Paris	Paris	NE	*	*	*	*
@@ -3815,17 +3929,18 @@
 17	benutzt	benutzen	VVPP	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	ihre	ihr	PPOSAT	*	*	*	*
-20	Rechnungen	Rechnung	NN	2	2	2	2
+20	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 21	mit	mit	APPR	*	*	*	*
 22	den	die	ART	*	*	*	*
 23	Medien	Medium	NN	*	*	*	*
 24	zu	zu	PTKZU	*	*	*	*
-25	begleichen	begleichen	VVINF	2	2	2	2
+25	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930504.167
 # sent_id = 5298
 # text = Peter Sakuth gab Kunick noch den guten Rat , doch bei der Befragung Wedemeiers Zurückhaltung zu üben , um den Eindruck zu vermeiden , er wolle alte Rechnungen mit Wedemeier begleichen - Kunick hatte , als er im Dezember 1991 von Wedemeier nicht mehr in den Senat berufen wurde , von einer " Furche " zwischen sich und dem Bürgermeister geredet .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Peter	Peter	NE	*	*	*	*
@@ -3855,10 +3970,10 @@
 25	er	er	PPER	*	*	*	*
 26	wolle	wollen	VMFIN	*	*	*	*
 27	alte	alt	ADJA	*	*	*	*
-28	Rechnungen	Rechnung	NN	2	2	2	2
+28	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 29	mit	mit	APPR	*	*	*	*
 30	Wedemeier	Wedemeier	NE	*	*	*	*
-31	begleichen	begleichen	VVINF	2	2	2	2
+31	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 32	-	-	$(	*	*	*	*
 33	Kunick	<unknown>	ADJD	*	*	*	*
 34	hatte	haben	VAFIN	*	*	*	*
@@ -3894,6 +4009,7 @@
 # tuepp_article_id = T930525.59
 # sent_id = 5299
 # text = Im Machtvakuum der Endkriegszeit wurden lange ausstehende Rechnungen mit der polnischen Bevölkerung in Wolhynien beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -3903,19 +4019,20 @@
 5	wurden	werden	VAFIN	*	*	*	*
 6	lange	lange	ADV	*	*	*	*
 7	ausstehende	ausstehend	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 9	mit	mit	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	polnischen	polnisch	ADJA	*	*	*	*
 12	Bevölkerung	Bevölkerung	NN	*	*	*	*
 13	in	in	APPR	*	*	*	*
 14	Wolhynien	<unknown>	NE	*	*	*	*
-15	beglichen	begleichen	VVPP	2	2	2	2
+15	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930623.43
 # sent_id = 5300
 # text = Doch beim Warschauer High- noon werden keine alte Rechnungen beglichen , sondern neue aufgemacht .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -3926,8 +4043,8 @@
 6	werden	werden	VAFIN	*	*	*	*
 7	keine	keine	PIAT	*	*	*	*
 8	alte	alt	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	1	2	2	2
-10	beglichen	begleichen	VVPP	1	2	2	2
+9	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
+10	beglichen	begleichen	VVPP	LIT	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	sondern	sondern	KON	*	*	*	*
 13	neue	neu	ADJA	*	*	*	*
@@ -3937,6 +4054,7 @@
 # tuepp_article_id = T930617.202
 # sent_id = 5301
 # text = Aber was mich so wütend macht , ist , daß gleichzeitig interne Rechnungen in der SPD beglichen werden , die nach der Wahl hätten ausgetragen werden müssen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -3951,11 +4069,11 @@
 10	daß	dass	KOUS	*	*	*	*
 11	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
 12	interne	intern	ADJA	*	*	*	*
-13	Rechnungen	Rechnung	NN	2	2	2	2
+13	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 14	in	in	APPR	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	SPD	SPD	NE	*	*	*	*
-17	beglichen	begleichen	VVPP	2	2	2	2
+17	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 18	werden	werden	VAINF	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	die	die	PRELS	*	*	*	*
@@ -3971,6 +4089,7 @@
 # tuepp_article_id = T931028.130
 # sent_id = 5302
 # text = Man hat den Eindruck , daß persönliche Rechnungen beglichen werden , wenn er von der Meinung eines Zeitungsherausgebers spricht oder davon , daß in der Redaktion einer Kölner Zeitung Sekt getrunken wurde .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Man	man	PIS	*	*	*	*
@@ -3980,8 +4099,8 @@
 5	,	,	$,	*	*	*	*
 6	daß	dass	KOUS	*	*	*	*
 7	persönliche	persönlich	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
-9	beglichen	begleichen	VVPP	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+9	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 10	werden	werden	VAINF	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	wenn	wenn	KOUS	*	*	*	*
@@ -4010,6 +4129,7 @@
 # tuepp_article_id = T931011.89
 # sent_id = 5303
 # text = Es gilt als sicher , daß bestimmte Kräfte die Situation ausnutzen , um alte Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -4026,14 +4146,15 @@
 12	,	,	$,	*	*	*	*
 13	um	um	KOUI	*	*	*	*
 14	alte	alt	ADJA	*	*	*	*
-15	Rechnungen	Rechnung	NN	2	2	2	2
+15	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 16	zu	zu	PTKZU	*	*	*	*
-17	begleichen	begleichen	VVINF	2	2	2	2
+17	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931008.27
 # sent_id = 5304
 # text = Wie die taz gestern erfuhr , werfen sie dem Bonner Gesundheitsminister vor , daß er die ganze Angelegenheit nicht überblicke und offenbar einige alte Rechnungen begleichen wolle .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -4060,21 +4181,22 @@
 22	offenbar	offenbar	ADJD	*	*	*	*
 23	einige	einige	PIAT	*	*	*	*
 24	alte	alt	ADJA	*	*	*	*
-25	Rechnungen	Rechnung	NN	2	2	2	2
-26	begleichen	begleichen	VVINF	2	2	2	2
+25	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+26	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 27	wolle	wollen	VMFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930917.17
 # sent_id = 5305
 # text = " Wer die Rechnung begleicht , wenn Sydney das Rennen um die Austragung der Spiele nicht gewinnt , ist eine Frage , die Fraser im Moment nicht beantworten möchte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Wer	wer	PWS	*	*	*	*
 3	die	die	ART	*	*	*	*
-4	Rechnung	Rechnung	NN	1	2	1	1
-5	begleicht	begleichen	VVFIN	1	2	1	1
+4	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
+5	begleicht	begleichen	VVFIN	LIT	FIG	LIT	LIT
 6	,	,	$,	*	*	*	*
 7	wenn	wenn	KOUS	*	*	*	*
 8	Sydney	Sydney	NE	*	*	*	*
@@ -4104,6 +4226,7 @@
 # tuepp_article_id = T930902.154
 # sent_id = 5306
 # text = " Bisher sind den Bremer Entsorgungsbetrieben und auch den privaten Sortierern in Bremen alle Rechnungen beglichen worden " , sagte Umweltsenator Ralf Fücks gestern .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4120,8 +4243,8 @@
 12	in	in	APPR	*	*	*	*
 13	Bremen	Bremen	NE	*	*	*	*
 14	alle	alle	PIAT	*	*	*	*
-15	Rechnungen	Rechnung	NN	1	2	1	1
-16	beglichen	begleichen	VVPP	1	2	1	1
+15	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
+16	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 17	worden	werden	VAPP	*	*	*	*
 18	"	"	$(	*	*	*	*
 19	,	,	$,	*	*	*	*
@@ -4135,6 +4258,7 @@
 # tuepp_article_id = T930104.265
 # sent_id = 5307
 # text = Bei jedem Ballwechsel war zu spüren , hier war noch eine Rechnung offen , die zu begleichen den Lübeckerinnen ein besonderes Vergnügen war .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Bei	bei	APPR	*	*	*	*
@@ -4148,12 +4272,12 @@
 9	war	sein	VAFIN	*	*	*	*
 10	noch	noch	ADV	*	*	*	*
 11	eine	eine	ART	*	*	*	*
-12	Rechnung	Rechnung	NN	2	2	2	2
+12	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 13	offen	offen	ADJD	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	die	die	PRELS	*	*	*	*
 16	zu	zu	ADV	*	*	*	*
-17	begleichen	begleichen	VVFIN	2	2	2	2
+17	begleichen	begleichen	VVFIN	FIG	FIG	FIG	FIG
 18	den	die	ART	*	*	*	*
 19	Lübeckerinnen	<unknown>	NN	*	*	*	*
 20	ein	eine	ART	*	*	*	*
@@ -4165,6 +4289,7 @@
 # tuepp_article_id = T930416.81
 # sent_id = 5308
 # text = " Wir fordern mit allem Nachdruck " , verlangte sechs Tage nach der Eroberung die katholische Erzdiözese in einem Schreiben an das Unita-Oberkommando , " daß es keine Menschenjagd gibt , keine schwarzen Listen aufgestellt werden , keine Rechnungen auf eigene Faust beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4205,17 +4330,18 @@
 36	werden	werden	VAINF	*	*	*	*
 37	,	,	$,	*	*	*	*
 38	keine	keine	PIAT	*	*	*	*
-39	Rechnungen	Rechnung	NN	2	2	2	2
+39	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 40	auf	auf	APPR	*	*	*	*
 41	eigene	eigen	ADJA	*	*	*	*
 42	Faust	Faust	NN	*	*	*	*
-43	beglichen	begleichen	VVPP	2	2	2	2
+43	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 44	werden	werden	VAINF	*	*	*	*
 45	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930722.76
 # sent_id = 5309
 # text = Sie müssen die Mittel zum Waffenkauf aufbringen oder einen Kriegspatron finden , der die Rechnung unauffällig begleicht .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
@@ -4232,14 +4358,15 @@
 12	,	,	$,	*	*	*	*
 13	der	die	PRELS	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Rechnung	Rechnung	NN	1	2	2	2
+15	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 16	unauffällig	unauffällig	ADJD	*	*	*	*
-17	begleicht	begleichen	VVFIN	1	2	2	2
+17	begleicht	begleichen	VVFIN	LIT	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930719.93
 # sent_id = 5310
 # text = Man weicht aus den Beschränkungen der Gegenwart in die Zukunft aus und begleicht die Rechnungen , die heute offen sind , mit der Lebenskraft der Generationen , über die doch niemand ein Verfügungsrecht hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Man	man	PIS	*	*	*	*
@@ -4254,9 +4381,9 @@
 10	Zukunft	Zukunft	NN	*	*	*	*
 11	aus	aus	PTKVZ	*	*	*	*
 12	und	und	KON	*	*	*	*
-13	begleicht	begleichen	VVFIN	2	2	2	2
+13	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Rechnungen	Rechnung	NN	2	2	2	2
+15	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	die	die	PRELS	*	*	*	*
 18	heute	heute	ADV	*	*	*	*
@@ -4281,6 +4408,7 @@
 # tuepp_article_id = T930723.92
 # sent_id = 5311
 # text = Es bietet auch die günstige Gelegenheit , auf Kosten des Drittstaates einige historische serbisch-kroatische Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Es	es	PPER	*	*	*	*
@@ -4297,14 +4425,15 @@
 12	einige	einige	PIAT	*	*	*	*
 13	historische	historisch	ADJA	*	*	*	*
 14	serbisch-kroatische	serbisch-kroatisch	ADJA	*	*	*	*
-15	Rechnungen	Rechnung	NN	2	2	2	2
+15	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 16	zu	zu	PTKZU	*	*	*	*
-17	begleichen	begleichen	VVINF	2	2	2	2
+17	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931214.72
 # sent_id = 5312
 # text = Oft waren es Fatah-Falken , Mitglieder des bewaffneten Arms der Fatah , denen vorgeworfen wurde , unter dem Deckmantel der Vergeltung für Kollaboration persönliche Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Oft	oft	ADV	*	*	*	*
@@ -4331,14 +4460,15 @@
 22	für	für	APPR	*	*	*	*
 23	Kollaboration	Kollaboration	NN	*	*	*	*
 24	persönliche	persönlich	ADJA	*	*	*	*
-25	Rechnungen	Rechnung	NN	2	2	2	2
+25	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 26	zu	zu	PTKZU	*	*	*	*
-27	begleichen	begleichen	VVINF	2	2	2	2
+27	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930802.78
 # sent_id = 5313
 # text = Zugleich wird damit ein zunehmendes Gespür dafür deutlich , daß sowohl für Israelis wie auch Araber die ökonomische Zusammenarbeit nicht minder bedeutsam ist wie alte politische Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zugleich	zugleich	ADV	*	*	*	*
@@ -4367,14 +4497,15 @@
 24	wie	wie	KOKOM	*	*	*	*
 25	alte	alt	ADJA	*	*	*	*
 26	politische	politisch	ADJA	*	*	*	*
-27	Rechnungen	Rechnung	NN	2	2	2	2
+27	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 28	zu	zu	PTKZU	*	*	*	*
-29	begleichen	begleichen	VVINF	2	2	2	2
+29	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930819.57
 # sent_id = 5314
 # text = Leute aus der Regierung wollen ihre Rechnungen untereinander begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Leute	Leute	NN	*	*	*	*
@@ -4383,14 +4514,15 @@
 4	Regierung	Regierung	NN	*	*	*	*
 5	wollen	wollen	VMFIN	*	*	*	*
 6	ihre	ihr	PPOSAT	*	*	*	*
-7	Rechnungen	Rechnung	NN	2	2	2	2
+7	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 8	untereinander	untereinander	ADV	*	*	*	*
-9	begleichen	begleichen	VVINF	2	2	2	2
+9	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930825.116
 # sent_id = 5315
 # text = Damit hatte ein russischer Handelspartner eine Rechnung in Höhe von 120 Mio. Yen ( fast zwei Mio. Mark ) für die Lieferung von " shochu " , einer Art japanischen Wodkas , beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
@@ -4399,7 +4531,7 @@
 4	russischer	russisch	ADJA	*	*	*	*
 5	Handelspartner	Handelspartner	NN	*	*	*	*
 6	eine	eine	ART	*	*	*	*
-7	Rechnung	Rechnung	NN	1	1	1	1
+7	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 8	in	in	APPR	*	*	*	*
 9	Höhe	Höhe	NN	*	*	*	*
 10	von	von	APPR	*	*	*	*
@@ -4425,12 +4557,13 @@
 30	japanischen	japanisch	ADJA	*	*	*	*
 31	Wodkas	Wodka	NN	*	*	*	*
 32	,	,	$,	*	*	*	*
-33	beglichen	begleichen	VVPP	1	1	1	1
+33	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930814.55
 # sent_id = 5316
 # text = Andererseits kann die Bahn kaum davon ausgehen , daß die Gebietskörperschaften brav die Rechnungen begleichen , die ihnen die Bahn für die Leistungen schickt , die sie gar nicht in Auftrag gegeben haben .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andererseits	andererseits	ADV	*	*	*	*
@@ -4446,8 +4579,8 @@
 11	Gebietskörperschaften	Gebietskörperschaft	NN	*	*	*	*
 12	brav	brav	ADJD	*	*	*	*
 13	die	die	ART	*	*	*	*
-14	Rechnungen	Rechnung	NN	1	1	1	1
-15	begleichen	begleichen	VVINF	1	1	1	1
+14	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
+15	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 16	,	,	$,	*	*	*	*
 17	die	die	PRELS	*	*	*	*
 18	ihnen	sie	PPER	*	*	*	*
@@ -4471,6 +4604,7 @@
 # tuepp_article_id = T930823.98
 # sent_id = 5317
 # text = Ihr Sohn hatte in der Nacht zum vergangenen Freitag für knapp 100 Mark Getränke konsumiert , war aber nicht in der Lage , die Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ihr	ihr	PPOSAT	*	*	*	*
@@ -4497,23 +4631,24 @@
 22	Lage	Lage	NN	*	*	*	*
 23	,	,	$,	*	*	*	*
 24	die	die	ART	*	*	*	*
-25	Rechnung	Rechnung	NN	1	1	1	1
+25	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 26	zu	zu	PTKZU	*	*	*	*
-27	begleichen	begleichen	VVINF	1	1	1	1
+27	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930323.41
 # sent_id = 5318
 # text = Weder hatte er alte Rechnungen zu begleichen , noch gab es einen ersichtlichen Grund , auf die DDR zornig zu sein .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weder	weder	KON	*	*	*	*
 2	hatte	haben	VAFIN	*	*	*	*
 3	er	er	PPER	*	*	*	*
 4	alte	alt	ADJA	*	*	*	*
-5	Rechnungen	Rechnung	NN	2	2	2	2
+5	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 6	zu	zu	PTKZU	*	*	*	*
-7	begleichen	begleichen	VVINF	2	2	2	2
+7	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	noch	noch	ADV	*	*	*	*
 10	gab	geben	VVFIN	*	*	*	*
@@ -4533,6 +4668,7 @@
 # tuepp_article_id = T930308.29
 # sent_id = 5319
 # text = Grund : Die vom Bundestag bisher entsperrten 120 Millionen Mark reichen nicht einmal aus , um zwei Rechnungen in Höhe von insgesamt 180 Millionen zu begleichen , die - weil schon damals das Geld nicht reichte - noch aus 1992 offen sind .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Grund	Grund	NN	*	*	*	*
@@ -4552,7 +4688,7 @@
 15	,	,	$,	*	*	*	*
 16	um	um	APPR	*	*	*	*
 17	zwei	zwei	CARD	*	*	*	*
-18	Rechnungen	Rechnung	NN	1	1	1	1
+18	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 19	in	in	APPR	*	*	*	*
 20	Höhe	Höhe	NN	*	*	*	*
 21	von	von	APPR	*	*	*	*
@@ -4560,7 +4696,7 @@
 23	180	@card@	CARD	*	*	*	*
 24	Millionen	Million	NN	*	*	*	*
 25	zu	zu	PTKZU	*	*	*	*
-26	begleichen	begleichen	VVINF	1	1	1	1
+26	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 27	,	,	$,	*	*	*	*
 28	die	die	PRELS	*	*	*	*
 29	-	-	$(	*	*	*	*
@@ -4582,22 +4718,24 @@
 # tuepp_article_id = T930318.128
 # sent_id = 5320
 # text = Welche Rechnung soll da mit der Politologie beglichen werden ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Welche	welche	PWAT	*	*	*	*
-2	Rechnung	Rechnung	NN	2	2	2	2
+2	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 3	soll	sollen	VMFIN	*	*	*	*
 4	da	da	ADV	*	*	*	*
 5	mit	mit	APPR	*	*	*	*
 6	der	die	ART	*	*	*	*
 7	Politologie	Politologie	NN	*	*	*	*
-8	beglichen	begleichen	VVPP	2	2	2	2
+8	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 9	werden	werden	VAINF	*	*	*	*
 10	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T930312.14
 # sent_id = 5321
 # text = Der Ausschuß bewilligte einstweilen lediglich 150 Millionen Mark , die es dem Ministerium ermöglichen sollen , zwei aus 1992 ausstehende Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4620,21 +4758,22 @@
 18	aus	aus	APPR	*	*	*	*
 19	1992	@card@	CARD	*	*	*	*
 20	ausstehende	ausstehend	ADJA	*	*	*	*
-21	Rechnungen	Rechnung	NN	1	1	1	1
+21	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 22	zu	zu	PTKZU	*	*	*	*
-23	begleichen	begleichen	VVINF	1	1	1	1
+23	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931126.71
 # sent_id = 5322
 # text = Solche Rechnungen jetzt zu begleichen hätte für den Friedensprozeß tödliche Folgen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Solche	solche	PIAT	*	*	*	*
-2	Rechnungen	Rechnung	NN	2	2	2	2
+2	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 3	jetzt	jetzt	ADV	*	*	*	*
 4	zu	zu	PTKZU	*	*	*	*
-5	begleichen	begleichen	VVINF	2	2	2	2
+5	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 6	hätte	haben	VAFIN	*	*	*	*
 7	für	für	APPR	*	*	*	*
 8	den	die	ART	*	*	*	*
@@ -4646,6 +4785,7 @@
 # tuepp_article_id = T931105.84
 # sent_id = 5323
 # text = Wenn jetzt von den Medien dieser kriminelle Skandal dazu benutzt wird , alte Rechnungen mit Seehofers Vor-Vorgängern Süssmuth und Geißler zu begleichen , wird wieder mal das Pferd vom falschen Ende aufgezäumt .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -4661,7 +4801,7 @@
 11	wird	werden	VAFIN	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	alte	alt	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 15	mit	mit	APPR	*	*	*	*
 16	Seehofers	Seehofer	NE	*	*	*	*
 17	Vor-Vorgängern	<unknown>	NN	*	*	*	*
@@ -4669,7 +4809,7 @@
 19	und	und	KON	*	*	*	*
 20	Geißler	Geißler	NE	*	*	*	*
 21	zu	zu	PTKZU	*	*	*	*
-22	begleichen	begleichen	VVINF	2	2	2	2
+22	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 23	,	,	$,	*	*	*	*
 24	wird	werden	VAFIN	*	*	*	*
 25	wieder	wieder	ADV	*	*	*	*
@@ -4685,6 +4825,7 @@
 # tuepp_article_id = T930211.16
 # sent_id = 5324
 # text = Croissant versuchte weit ausholend nachzuweisen , daß seine MfS- Kontakte nur als Vorwand benutzt würden , um " alte Rechnungen " - gemeint ist seine scharfe Kritik an Bundesanwaltschaft und Bundesgerichtshof wegen der Haftbedingungen der RAF-Gefangenen - zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Croissant	<unknown>	ADJD	*	*	*	*
@@ -4706,7 +4847,7 @@
 17	um	um	KOUI	*	*	*	*
 18	"	"	$(	*	*	*	*
 19	alte	alt	ADJA	*	*	*	*
-20	Rechnungen	Rechnung	NN	2	2	2	2
+20	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 21	"	"	$(	*	*	*	*
 22	-	-	$(	*	*	*	*
 23	gemeint	meinen	VVPP	*	*	*	*
@@ -4725,12 +4866,13 @@
 36	RAF-Gefangenen	RAF-Gefangene	NN	*	*	*	*
 37	-	-	$(	*	*	*	*
 38	zu	zu	PTKZU	*	*	*	*
-39	begleichen	begleichen	VVINF	2	2	2	2
+39	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 40	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930211.106
 # sent_id = 5325
 # text = Aljona , die Herrscherin im Luna Park , hat mit Naum Kheifitz eine alte Rechnung zu begleichen , weil der eitle Musiker sie einmal bei einem Vorstellungsgespräch hat abblitzen lassen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aljona	<unknown>	NE	*	*	*	*
@@ -4747,9 +4889,9 @@
 12	Kheifitz	<unknown>	NE	*	*	*	*
 13	eine	eine	ART	*	*	*	*
 14	alte	alt	ADJA	*	*	*	*
-15	Rechnung	Rechnung	NN	2	2	2	2
+15	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 16	zu	zu	PTKZU	*	*	*	*
-17	begleichen	begleichen	VVINF	2	2	2	2
+17	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	weil	weil	KOUS	*	*	*	*
 20	der	die	ART	*	*	*	*
@@ -4768,6 +4910,7 @@
 # tuepp_article_id = T930204.97
 # sent_id = 5326
 # text = Jetzt müssen wir eben die Rechnung begleichen - aber was soll's !
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jetzt	jetzt	ADV	*	*	*	*
@@ -4775,8 +4918,8 @@
 3	wir	wir	PPER	*	*	*	*
 4	eben	eben	ADV	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Rechnung	Rechnung	NN	2	2	2	2
-7	begleichen	begleichen	VVINF	2	2	2	2
+6	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
+7	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 8	-	-	$(	*	*	*	*
 9	aber	aber	KON	*	*	*	*
 10	was	was	PWS	*	*	*	*
@@ -4787,6 +4930,7 @@
 # tuepp_article_id = T960522.23
 # sent_id = 5327
 # text = Seit gestern verhandelt das Gericht die Klage des Möbelhändlers , dessen Rechnung nie beglichen wurde .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	KOUS	*	*	*	*
@@ -4800,15 +4944,16 @@
 9	Möbelhändlers	Möbelhändler	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
 11	dessen	die	PRELAT	*	*	*	*
-12	Rechnung	Rechnung	NN	1	1	1	1
+12	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 13	nie	nie	ADV	*	*	*	*
-14	beglichen	begleichen	VVPP	1	1	1	1
+14	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 15	wurde	werden	VAFIN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960528.5
 # sent_id = 5328
 # text = Und der neue Chef Jandarbijew , der anders als sein Vorgänger keine persönlichen Rechnungen zu begleichen hat , beweist einen kühlen Kopf .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -4824,9 +4969,9 @@
 11	Vorgänger	Vorgänger	NN	*	*	*	*
 12	keine	keine	PIAT	*	*	*	*
 13	persönlichen	persönlich	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 15	zu	zu	PTKZU	*	*	*	*
-16	begleichen	begleichen	VVINF	2	2	2	2
+16	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 17	hat	haben	VAFIN	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	beweist	beweisen	VVFIN	*	*	*	*
@@ -4838,6 +4983,7 @@
 # tuepp_article_id = T960502.115
 # sent_id = 5329
 # text = Sie haben mit der serbischen wie der kroatischen Seite noch Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -4850,14 +4996,15 @@
 8	kroatischen	kroatisch	ADJA	*	*	*	*
 9	Seite	Seite	NN	*	*	*	*
 10	noch	noch	KON	*	*	*	*
-11	Rechnungen	Rechnung	NN	2	2	2	2
+11	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 12	zu	zu	PTKZU	*	*	*	*
-13	begleichen	begleichen	VVINF	2	2	2	2
+13	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961028.149
 # sent_id = 5330
 # text = Aber ich wollte ja auch , denn es war ein schönes Gefühl , von den Gästen geschätzt zu werden für eine gute Küche und eine kultivierte Atmosphäre , auch wenn sie nicht immer ihre Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -4894,13 +5041,14 @@
 32	nicht	nicht	PTKNEG	*	*	*	*
 33	immer	immer	ADV	*	*	*	*
 34	ihre	ihr	PPOSAT	*	*	*	*
-35	Rechnungen	Rechnung	NN	1	2	1	1
-36	beglichen	begleichen	VVPP	1	2	1	1
+35	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
+36	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961026.295
 # sent_id = 5331
 # text = Jedem Exemplar legt man vorsorglich eine Rechnung bei , die aber nur von rund 10 Prozent der Kundschaft beglichen wird .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jedem	jede	PIAT	*	*	*	*
@@ -4909,7 +5057,7 @@
 4	man	man	PIS	*	*	*	*
 5	vorsorglich	vorsorglich	ADJD	*	*	*	*
 6	eine	eine	ART	*	*	*	*
-7	Rechnung	Rechnung	NN	1	1	1	1
+7	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 8	bei	bei	PTKVZ	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	die	die	PRELS	*	*	*	*
@@ -4921,13 +5069,14 @@
 16	Prozent	Prozent	NN	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	Kundschaft	Kundschaft	NN	*	*	*	*
-19	beglichen	begleichen	VVPP	1	1	1	1
+19	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 20	wird	werden	VAFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961012.118
 # sent_id = 5332
 # text = Und selbstverständlich auch nicht die Banker und Firmenangestellten , deren Betriebe die offene Rechnung beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -4943,13 +5092,14 @@
 11	Betriebe	Betrieb	NN	*	*	*	*
 12	die	die	ART	*	*	*	*
 13	offene	offen	ADJA	*	*	*	*
-14	Rechnung	Rechnung	NN	1	1	1	1
-15	beglichen	begleichen	VVPP	1	1	1	1
+14	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
+15	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961017.323
 # sent_id = 5333
 # text = Er ist dabei , seine alten Rechnungen zu begleichen und zahlt außerdem jeden Monat 500 Mark Unterhalt für seine 17jährige Tochter .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -4958,9 +5108,9 @@
 4	,	,	$,	*	*	*	*
 5	seine	sein	PPOSAT	*	*	*	*
 6	alten	alt	ADJA	*	*	*	*
-7	Rechnungen	Rechnung	NN	1	1	1	1
+7	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 8	zu	zu	PTKZU	*	*	*	*
-9	begleichen	begleichen	VVINF	1	1	1	1
+9	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 10	und	und	KON	*	*	*	*
 11	zahlt	zahlen	VVFIN	*	*	*	*
 12	außerdem	außerdem	ADV	*	*	*	*
@@ -4978,6 +5128,7 @@
 # tuepp_article_id = T961016.132
 # sent_id = 5334
 # text = Etwa weil man sie für Kollaborateure hielt , manchmal aber auch , weil der eine oder andere Ex-Partisan eine private Rechnung begleichen wollte .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Etwa	etwa	ADV	*	*	*	*
@@ -5000,14 +5151,15 @@
 18	Ex-Partisan	<unknown>	NN	*	*	*	*
 19	eine	eine	ART	*	*	*	*
 20	private	privat	ADJA	*	*	*	*
-21	Rechnung	Rechnung	NN	2	2	2	2
-22	begleichen	begleichen	VVINF	2	2	2	2
+21	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
+22	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 23	wollte	wollen	VMFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960921.72
 # sent_id = 5335
 # text = Der Zusammenbruch des Realsozialismus erwischte den Westen im Grunde auf dem falschen Bein : Der unverhoffte Sieg ließ die Illusion aufkommen , die offenen Rechnungen der Geschichte seien nun ein für allemal beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5034,7 +5186,7 @@
 22	,	,	$,	*	*	*	*
 23	die	die	ART	*	*	*	*
 24	offenen	offen	ADJA	*	*	*	*
-25	Rechnungen	Rechnung	NN	2	2	2	2
+25	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 26	der	die	ART	*	*	*	*
 27	Geschichte	Geschichte	NN	*	*	*	*
 28	seien	sein	VAFIN	*	*	*	*
@@ -5042,12 +5194,13 @@
 30	ein	eine	ART	*	*	*	*
 31	für	für	APPR	*	*	*	*
 32	allemal	allemal	ADV	*	*	*	*
-33	beglichen	begleichen	VVPP	2	2	2	2
+33	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960912.94
 # sent_id = 5336
 # text = Schade nur , daß die Rechnung für diese politische Ignoranz andere begleichen müssen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schade	schade	ADJD	*	*	*	*
@@ -5055,19 +5208,20 @@
 3	,	,	$,	*	*	*	*
 4	daß	dass	KOUS	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Rechnung	Rechnung	NN	2	2	2	2
+6	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 7	für	für	APPR	*	*	*	*
 8	diese	dies	PDAT	*	*	*	*
 9	politische	politisch	ADJA	*	*	*	*
 10	Ignoranz	Ignoranz	NN	*	*	*	*
 11	andere	andere	PIS	*	*	*	*
-12	begleichen	begleichen	VVINF	2	2	2	2
+12	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 13	müssen	müssen	VMINF	*	*	*	*
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960905.94
 # sent_id = 5337
 # text = " Wir müssen wieder einmal die Rechnung begleichen " , titelte die islamistische Tageszeitung Yeni Safak ( Neue Morgendämmerung ) .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5076,8 +5230,8 @@
 4	wieder	wieder	ADV	*	*	*	*
 5	einmal	einmal	ADV	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Rechnung	Rechnung	NN	1	2	2	2
-8	begleichen	begleichen	VVINF	1	2	2	2
+7	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
+8	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 9	"	"	$(	*	*	*	*
 10	,	,	$,	*	*	*	*
 11	titelte	titeln	VVFIN	*	*	*	*
@@ -5095,6 +5249,7 @@
 # tuepp_article_id = T960817.66
 # sent_id = 5338
 # text = Nach wir vor ist der Staat nicht in der Lage , allen seinen Angestellten rechtzeitig die Löhne auszuzahlen oder die Rechnungen für seine Aufträge an Unternehmen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -5117,19 +5272,20 @@
 18	auszuzahlen	auszahlen	VVIZU	*	*	*	*
 19	oder	oder	KON	*	*	*	*
 20	die	die	ART	*	*	*	*
-21	Rechnungen	Rechnung	NN	1	1	1	1
+21	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 22	für	für	APPR	*	*	*	*
 23	seine	sein	PPOSAT	*	*	*	*
 24	Aufträge	Auftrag	NN	*	*	*	*
 25	an	an	APPR	*	*	*	*
 26	Unternehmen	Unternehmen	NN	*	*	*	*
 27	zu	zu	PTKZU	*	*	*	*
-28	begleichen	begleichen	VVINF	1	1	1	1
+28	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960808.322
 # sent_id = 5339
 # text = Mit der anderen Hälfte müßten Rechnungen vom Vorjahr beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5137,16 +5293,17 @@
 3	anderen	andere	PIAT	*	*	*	*
 4	Hälfte	Hälfte	NN	*	*	*	*
 5	müßten	müssen	VMFIN	*	*	*	*
-6	Rechnungen	Rechnung	NN	1	1	1	1
+6	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 7	vom	von	APPRART	*	*	*	*
 8	Vorjahr	Vorjahr	NN	*	*	*	*
-9	beglichen	begleichen	VVPP	1	1	1	1
+9	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 10	werden	werden	VAINF	*	*	*	*
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960329.302
 # sent_id = 5340
 # text = Doch während die GenossInnen die Rechnung prompt beglichen , hat die CDU damals Einspruch eingelegt .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -5154,9 +5311,9 @@
 3	die	die	ART	*	*	*	*
 4	GenossInnen	Genossin	NN	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Rechnung	Rechnung	NN	1	2	1	1
+6	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
 7	prompt	prompt	ADJD	*	*	*	*
-8	beglichen	begleichen	VVPP	1	2	1	1
+8	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 9	,	,	$,	*	*	*	*
 10	hat	haben	VAFIN	*	*	*	*
 11	die	die	ART	*	*	*	*
@@ -5169,6 +5326,7 @@
 # tuepp_article_id = T960326.203
 # sent_id = 5341
 # text = Diepgen und sein Sprecher erhärten diesen Verdacht auch noch , weil sie bis heute nicht bereit sind , alle für Reporter beglichene Rechnungen auf den Tisch zu legen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -5176,9 +5334,9 @@
 3	die	die	ART	*	*	*	*
 4	GenossInnen	Genossin	NN	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Rechnung	Rechnung	NN	1	2	1	1
+6	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
 7	prompt	prompt	ADJD	*	*	*	*
-8	beglichen	begleichen	VVPP	1	2	1	1
+8	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 9	,	,	$,	*	*	*	*
 10	hat	haben	VAFIN	*	*	*	*
 11	die	die	ART	*	*	*	*
@@ -5191,6 +5349,7 @@
 # tuepp_article_id = T960305.206
 # sent_id = 5342
 # text = Zugleich seien sie nicht bereit , " als Prügelknabe herzuhalten für die wirklich Verantwortlichen oder für andere , die meinen , alte offene Rechnungen mit der IG Metall jetzt begleichen zu können " , sagte Teichmüller .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zugleich	zugleich	ADV	*	*	*	*
@@ -5216,13 +5375,13 @@
 21	,	,	$,	*	*	*	*
 22	alte	alt	ADJA	*	*	*	*
 23	offene	offen	ADJA	*	*	*	*
-24	Rechnungen	Rechnung	NN	2	2	2	2
+24	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 25	mit	mit	APPR	*	*	*	*
 26	der	die	ART	*	*	*	*
 27	IG	IG	NN	*	*	*	*
 28	Metall	Metall	NN	*	*	*	*
 29	jetzt	jetzt	ADV	*	*	*	*
-30	begleichen	begleichen	VVINF	2	2	2	2
+30	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 31	zu	zu	PTKZU	*	*	*	*
 32	können	können	VMINF	*	*	*	*
 33	"	"	$(	*	*	*	*
@@ -5234,6 +5393,7 @@
 # tuepp_article_id = T980512.199
 # sent_id = 5343
 # text = Es gibt im inzwischen von den Amerikanern hochgerüsteten Bosnien viele Menschen mit offenen Rechnungen , die nur auf eine Gelegenheit warten , diese zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -5249,7 +5409,7 @@
 11	Menschen	Mensch	NN	*	*	*	*
 12	mit	mit	APPR	*	*	*	*
 13	offenen	offen	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	die	die	PRELS	*	*	*	*
 17	nur	nur	ADV	*	*	*	*
@@ -5260,12 +5420,13 @@
 22	,	,	$,	*	*	*	*
 23	diese	diese	PDS	*	*	*	*
 24	zu	zu	PTKZU	*	*	*	*
-25	begleichen	begleichen	VVINF	2	2	2	2
+25	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980526.125
 # sent_id = 5344
 # text = In dieser Zeit kann man zwar schon ein Euro- Konto eröffnen , Überweisungen in Euro abwickeln und Rechnungen mit der Euro-Kreditkarte begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -5285,16 +5446,17 @@
 15	Euro	Euro	NN	*	*	*	*
 16	abwickeln	abwickeln	VVINF	*	*	*	*
 17	und	und	KON	*	*	*	*
-18	Rechnungen	Rechnung	NN	1	1	1	1
+18	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 19	mit	mit	APPR	*	*	*	*
 20	der	die	ART	*	*	*	*
 21	Euro-Kreditkarte	<unknown>	NN	*	*	*	*
-22	begleichen	begleichen	VVINF	1	1	1	1
+22	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980606.52
 # sent_id = 5345
 # text = " Der Fraktionschef hat eine Rechnung beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5302,13 +5464,14 @@
 3	Fraktionschef	Fraktionschef	NN	*	*	*	*
 4	hat	haben	VAFIN	*	*	*	*
 5	eine	eine	ART	*	*	*	*
-6	Rechnung	Rechnung	NN	2	2	2	2
-7	beglichen	begleichen	VVPP	2	2	2	2
+6	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
+7	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980612.406
 # sent_id = 5346
 # text = Andere Mitgliedstaaten zeigen wenig Sympathie für diesen großen Plan und vermuten gar , daß Paris " die Rechnung für sein , neues Modell ' der Kooperation mit Afrika von Europa begleichen lassen will " , wie es ein niederländischer Diplomat formuliert hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andere	andere	PIAT	*	*	*	*
@@ -5328,7 +5491,7 @@
 15	Paris	Paris	NE	*	*	*	*
 16	"	"	$(	*	*	*	*
 17	die	die	ART	*	*	*	*
-18	Rechnung	Rechnung	NN	1	2	2	2
+18	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 19	für	für	APPR	*	*	*	*
 20	sein	sein	PPOSAT	*	*	*	*
 21	,	,	$,	*	*	*	*
@@ -5341,7 +5504,7 @@
 28	Afrika	Afrika	NE	*	*	*	*
 29	von	von	APPR	*	*	*	*
 30	Europa	Europa	NE	*	*	*	*
-31	begleichen	begleichen	VVINF	1	2	2	2
+31	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 32	lassen	lassen	VVINF	*	*	*	*
 33	will	wollen	VMFIN	*	*	*	*
 34	"	"	$(	*	*	*	*
@@ -5358,6 +5521,7 @@
 # tuepp_article_id = T980622.93
 # sent_id = 5347
 # text = Jetzt scheint die Gelegenheit günstig , persönliche Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jetzt	jetzt	ADV	*	*	*	*
@@ -5367,14 +5531,15 @@
 5	günstig	günstig	ADJD	*	*	*	*
 6	,	,	$,	*	*	*	*
 7	persönliche	persönlich	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 9	zu	zu	PTKZU	*	*	*	*
-10	begleichen	begleichen	VVINF	2	2	2	2
+10	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980915.249
 # sent_id = 5348
 # text = Die - lange offengebliebene - Rechnung für den Elektriker hat er nach einem verlorenen Zivilprozeß mittlerweile zwar beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5382,7 +5547,7 @@
 3	lange	lang	ADJA	*	*	*	*
 4	offengebliebene	offengeblieben	ADJA	*	*	*	*
 5	-	-	$(	*	*	*	*
-6	Rechnung	Rechnung	NN	1	1	1	1
+6	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 7	für	für	APPR	*	*	*	*
 8	den	die	ART	*	*	*	*
 9	Elektriker	Elektriker	NN	*	*	*	*
@@ -5394,12 +5559,13 @@
 15	Zivilprozeß	Zivilprozess	NN	*	*	*	*
 16	mittlerweile	mittlerweile	ADV	*	*	*	*
 17	zwar	zwar	ADV	*	*	*	*
-18	beglichen	begleichen	VVPP	1	1	1	1
+18	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980911.470
 # sent_id = 5349
 # text = Zugleich könnte Frankreich damit auch einige offene Rechnungen mit sich selbst begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zugleich	zugleich	ADV	*	*	*	*
@@ -5409,16 +5575,17 @@
 5	auch	auch	ADV	*	*	*	*
 6	einige	einige	PIAT	*	*	*	*
 7	offene	offen	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 9	mit	mit	APPR	*	*	*	*
 10	sich	sich	PRF	*	*	*	*
 11	selbst	selbst	ADV	*	*	*	*
-12	begleichen	begleichen	VVINF	2	2	2	2
+12	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980105.242
 # sent_id = 5350
 # text = Woher ich das weiß , wo wir doch als wohlerzogene Gebührenzahler unsere Rechnungen stets fristgerecht begleichen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Woher	woher	PWAV	*	*	*	*
@@ -5433,15 +5600,16 @@
 10	wohlerzogene	wohlerzogen	ADJA	*	*	*	*
 11	Gebührenzahler	Gebührenzahler	NN	*	*	*	*
 12	unsere	unser	PPOSAT	*	*	*	*
-13	Rechnungen	Rechnung	NN	1	3	1	1
+13	Rechnungen	Rechnung	NN	LIT	UND	LIT	LIT
 14	stets	stets	ADV	*	*	*	*
 15	fristgerecht	fristgerecht	ADJD	*	*	*	*
-16	begleichen	begleichen	VVINF	1	3	1	1
+16	begleichen	begleichen	VVINF	LIT	UND	LIT	LIT
 17	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T980124.59
 # sent_id = 5351
 # text = Der Prozess um Klaus T. hat noch einen Hacken : hier werden alte Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5457,13 +5625,14 @@
 11	hier	hier	ADV	*	*	*	*
 12	werden	werden	VAFIN	*	*	*	*
 13	alte	alt	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
-15	beglichen	begleichen	VVPP	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+15	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980424.356
 # sent_id = 5352
 # text = hat die Staatsanwaltschaft dagegen Anklage wegen Betrugs erhoben : Er soll sich in Hotels eingemietet haben , ohne die Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	hat	haben	VAFIN	*	*	*	*
@@ -5485,14 +5654,15 @@
 17	,	,	$,	*	*	*	*
 18	ohne	ohne	KOUI	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Rechnung	Rechnung	NN	1	1	1	1
+20	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 21	zu	zu	PTKZU	*	*	*	*
-22	begleichen	begleichen	VVINF	1	1	1	1
+22	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980404.76
 # sent_id = 5353
 # text = Einige könnten den geheimen Wahlgang zum Begleichen alter Rechnungen nutzen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	hat	haben	VAFIN	*	*	*	*
@@ -5514,14 +5684,15 @@
 17	,	,	$,	*	*	*	*
 18	ohne	ohne	KOUI	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Rechnung	Rechnung	NN	1	2	2	2
+20	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 21	zu	zu	PTKZU	*	*	*	*
-22	begleichen	begleichen	VVINF	1	2	2	2
+22	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980422.70
 # sent_id = 5354
 # text = Bis Jahresende werden demnach weitere 600 nicht mehr in der Lage sein , ihre Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bis	bis	APPR	*	*	*	*
@@ -5538,14 +5709,15 @@
 12	sein	sein	VAINF	*	*	*	*
 13	,	,	$,	*	*	*	*
 14	ihre	ihr	PPOSAT	*	*	*	*
-15	Rechnungen	Rechnung	NN	1	2	1	1
+15	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 16	zu	zu	PTKZU	*	*	*	*
-17	begleichen	begleichen	VVINF	1	2	1	1
+17	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980415.172
 # sent_id = 5355
 # text = Er denkt nicht daran , für den Fernseher zu bezahlen oder die Rechnungen für das Handy zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -5560,24 +5732,25 @@
 10	bezahlen	bezahlen	VVINF	*	*	*	*
 11	oder	oder	KON	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Rechnungen	Rechnung	NN	1	1	1	1
+13	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 14	für	für	APPR	*	*	*	*
 15	das	die	ART	*	*	*	*
 16	Handy	Handy	NE	*	*	*	*
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	1	1	1	1
+18	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980414.197
 # sent_id = 5356
 # text = Gemäß der Verdingungsordnung würden Rechnungen von den Behörden in der Regel spätestens zwei Monate nach Eingang beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gemäß	gemäß	APPR	*	*	*	*
 2	der	die	ART	*	*	*	*
 3	Verdingungsordnung	<unknown>	NN	*	*	*	*
 4	würden	werden	VAFIN	*	*	*	*
-5	Rechnungen	Rechnung	NN	1	1	1	1
+5	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 6	von	von	APPR	*	*	*	*
 7	den	die	ART	*	*	*	*
 8	Behörden	Behörde	NN	*	*	*	*
@@ -5589,22 +5762,23 @@
 14	Monate	Monat	NN	*	*	*	*
 15	nach	nach	APPR	*	*	*	*
 16	Eingang	Eingang	NN	*	*	*	*
-17	beglichen	begleichen	VVPP	1	1	1	1
+17	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980723.101
 # sent_id = 5357
 # text = Nach Ditkos Auskunft begleichen die Abgeordneten die Rechnung für die Behebung ihrer Rededefizite aus eigener Tasche .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
 2	Ditkos	<unknown>	NE	*	*	*	*
 3	Auskunft	Auskunft	NN	*	*	*	*
-4	begleichen	begleichen	VVFIN	1	2	2	2
+4	begleichen	begleichen	VVFIN	LIT	FIG	FIG	FIG
 5	die	die	ART	*	*	*	*
 6	Abgeordneten	Abgeordnete	NN	*	*	*	*
 7	die	die	ART	*	*	*	*
-8	Rechnung	Rechnung	NN	1	2	2	2
+8	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 9	für	für	APPR	*	*	*	*
 10	die	die	ART	*	*	*	*
 11	Behebung	Behebung	NN	*	*	*	*
@@ -5618,11 +5792,12 @@
 # tuepp_article_id = T980714.24
 # sent_id = 5358
 # text = Die nächste Rechnung für meine Rundfunkgebühren werde ich nicht mehr begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	nächste	nah	ADJA	*	*	*	*
-3	Rechnung	Rechnung	NN	1	1	1	1
+3	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 4	für	für	APPR	*	*	*	*
 5	meine	mein	PPOSAT	*	*	*	*
 6	Rundfunkgebühren	Rundfunkgebühr	NN	*	*	*	*
@@ -5630,12 +5805,13 @@
 8	ich	ich	PPER	*	*	*	*
 9	nicht	nicht	PTKNEG	*	*	*	*
 10	mehr	mehr	ADV	*	*	*	*
-11	begleichen	begleichen	VVINF	1	1	1	1
+11	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980827.170
 # sent_id = 5359
 # text = Ein Patriarch kehrt zurück , ein verbitterter , betrogener Mann , auch er hat seine Rechnung zu begleichen mit diesem feinen Bruder , der doch auch ein Versager war , nicht weniger als er selbst , der gescheiterte Unternehmer .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -5653,9 +5829,9 @@
 13	er	er	PPER	*	*	*	*
 14	hat	haben	VAFIN	*	*	*	*
 15	seine	sein	PPOSAT	*	*	*	*
-16	Rechnung	Rechnung	NN	2	2	2	2
+16	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	2	2	2	2
+18	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 19	mit	mit	APPR	*	*	*	*
 20	diesem	dies	PDAT	*	*	*	*
 21	feinen	fein	ADJA	*	*	*	*
@@ -5682,6 +5858,7 @@
 # tuepp_article_id = T980312.1
 # sent_id = 5360
 # text = Es herrscht Bürgerkrieg , in dessen Schatten viele Rechnungen beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -5692,14 +5869,15 @@
 6	dessen	die	PRELAT	*	*	*	*
 7	Schatten	Schatten	NN	*	*	*	*
 8	viele	viele	PIAT	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
-10	beglichen	begleichen	VVPP	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+10	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 11	werden	werden	VAINF	*	*	*	*
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981103.216
 # sent_id = 5361
 # text = " Die Höhe der am Ende des Übergangszeitraums zu begleichenden Rechnung ändere sich dadurch allerdings nicht .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -5710,14 +5888,15 @@
 6	dessen	die	PRELAT	*	*	*	*
 7	Schatten	Schatten	NN	*	*	*	*
 8	viele	viele	PIAT	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	1	1	1
-10	beglichen	begleichen	VVPP	2	1	1	1
+9	Rechnungen	Rechnung	NN	FIG	LIT	LIT	LIT
+10	beglichen	begleichen	VVPP	FIG	LIT	LIT	LIT
 11	werden	werden	VAINF	*	*	*	*
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980212.236
 # sent_id = 5362
 # text = Haß , Liebe , Demütigungen und alte Rechnungen , die stets bloß präsentiert , aber nie beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Haß	Hass	NN	*	*	*	*
@@ -5727,7 +5906,7 @@
 5	Demütigungen	Demütigung	NN	*	*	*	*
 6	und	und	KON	*	*	*	*
 7	alte	alt	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	die	die	PRELS	*	*	*	*
 11	stets	stets	ADV	*	*	*	*
@@ -5736,13 +5915,14 @@
 14	,	,	$,	*	*	*	*
 15	aber	aber	KON	*	*	*	*
 16	nie	nie	ADV	*	*	*	*
-17	beglichen	begleichen	VVPP	2	2	2	2
+17	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 18	werden	werden	VAINF	*	*	*	*
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980214.378
 # sent_id = 5363
 # text = Für Such repräsentiert Gröbe den " typischen V-Mann , der unter dem Schutz der Polizei persönliche Rechnungen begleicht und Leute seiner Wahl in die Pfanne haut " .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -5761,8 +5941,8 @@
 14	der	die	ART	*	*	*	*
 15	Polizei	Polizei	NN	*	*	*	*
 16	persönliche	persönlich	ADJA	*	*	*	*
-17	Rechnungen	Rechnung	NN	2	2	2	2
-18	begleicht	begleichen	VVFIN	2	2	2	2
+17	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+18	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 19	und	und	KON	*	*	*	*
 20	Leute	Leute	NN	*	*	*	*
 21	seiner	sein	PPOSAT	*	*	*	*
@@ -5777,6 +5957,7 @@
 # tuepp_article_id = T970513.167
 # sent_id = 5364
 # text = Der Flug wurde im Namen des Ministerpräsidenten geordert , hat dann etwa das Ministerpräsidentenamt die Rechnung beglichen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5794,13 +5975,14 @@
 13	das	die	ART	*	*	*	*
 14	Ministerpräsidentenamt	Ministerpräsidentenamt	NN	*	*	*	*
 15	die	die	ART	*	*	*	*
-16	Rechnung	Rechnung	NN	1	2	1	1
-17	beglichen	begleichen	VVPP	1	2	1	1
+16	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
+17	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 18	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T970502.62
 # sent_id = 5365
 # text = Trotz der Befürchtung , daß rund um die Wahlen alte Rechnungen und Stammeszwiste beglichen werden könnten , blieb es relativ ruhig .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Trotz	trotz	APPR	*	*	*	*
@@ -5813,10 +5995,10 @@
 8	die	die	ART	*	*	*	*
 9	Wahlen	Wahl	NN	*	*	*	*
 10	alte	alt	ADJA	*	*	*	*
-11	Rechnungen	Rechnung	NN	2	2	2	2
+11	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 12	und	und	KON	*	*	*	*
 13	Stammeszwiste	<unknown>	NN	*	*	*	*
-14	beglichen	begleichen	VVPP	2	2	2	2
+14	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 15	werden	werden	VAINF	*	*	*	*
 16	könnten	können	VMFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
@@ -5829,6 +6011,7 @@
 # tuepp_article_id = T970517.88
 # sent_id = 5366
 # text = Daß dieses Jahr bereits zwölf Touristen , darunter elf deutsche , für mehrere Tage von Stämmen entführt wurden , die mit der Regierung in der Hauptstadt eine Rechnung zu begleichen hatten , hat niemanden von seiner großen Reise abgehalten .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -5858,9 +6041,9 @@
 25	der	die	ART	*	*	*	*
 26	Hauptstadt	Hauptstadt	NN	*	*	*	*
 27	eine	eine	ART	*	*	*	*
-28	Rechnung	Rechnung	NN	2	2	2	2
+28	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 29	zu	zu	PTKZU	*	*	*	*
-30	begleichen	begleichen	VVINF	2	2	2	2
+30	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 31	hatten	haben	VAFIN	*	*	*	*
 32	,	,	$,	*	*	*	*
 33	hat	haben	VAFIN	*	*	*	*
@@ -5875,19 +6058,21 @@
 # tuepp_article_id = T970613.262
 # sent_id = 5367
 # text = Dabei wurden viele alte Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
 2	wurden	werden	VAFIN	*	*	*	*
 3	viele	viele	PIAT	*	*	*	*
 4	alte	alt	ADJA	*	*	*	*
-5	Rechnungen	Rechnung	NN	2	2	2	2
-6	beglichen	begleichen	VVPP	2	2	2	2
+5	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+6	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971001.179
 # sent_id = 5368
 # text = Es gehe offenbar darum , alte Rechnungen zu begleichen , vermutete Wolf .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -5896,9 +6081,9 @@
 4	darum	darum	PAV	*	*	*	*
 5	,	,	$,	*	*	*	*
 6	alte	alt	ADJA	*	*	*	*
-7	Rechnungen	Rechnung	NN	2	2	2	2
+7	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 8	zu	zu	PTKZU	*	*	*	*
-9	begleichen	begleichen	VVINF	2	2	2	2
+9	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	vermutete	vermuten	VVFIN	*	*	*	*
 12	Wolf	Wolf	NE	*	*	*	*
@@ -5907,6 +6092,7 @@
 # tuepp_article_id = T971015.95
 # sent_id = 5369
 # text = " Sie haben jetzt zehn Tage Zeit , um Ihre Rechnungen mit dem Staat zu begleichen und Ihre Schulden zu bezahlen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5919,12 +6105,12 @@
 8	,	,	$,	*	*	*	*
 9	um	um	KOUI	*	*	*	*
 10	Ihre	ihr	PPOSAT	*	*	*	*
-11	Rechnungen	Rechnung	NN	1	2	2	2
+11	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
 12	mit	mit	APPR	*	*	*	*
 13	dem	die	ART	*	*	*	*
 14	Staat	Staat	NN	*	*	*	*
 15	zu	zu	PTKZU	*	*	*	*
-16	begleichen	begleichen	VVINF	1	2	2	2
+16	begleichen	begleichen	VVINF	LIT	FIG	FIG	FIG
 17	und	und	KON	*	*	*	*
 18	Ihre	ihr	PPOSAT	*	*	*	*
 19	Schulden	Schuld	NN	*	*	*	*
@@ -5935,20 +6121,22 @@
 # tuepp_article_id = T971018.120
 # sent_id = 5370
 # text = Die Verwaltung hatte ihre Rechnungen nicht beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	Verwaltung	Verwaltung	NN	*	*	*	*
 3	hatte	haben	VAFIN	*	*	*	*
 4	ihre	ihr	PPOSAT	*	*	*	*
-5	Rechnungen	Rechnung	NN	1	2	2	2
+5	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
 6	nicht	nicht	PTKNEG	*	*	*	*
-7	beglichen	begleichen	VVPP	1	2	2	2
+7	beglichen	begleichen	VVPP	LIT	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970129.118
 # sent_id = 5371
 # text = Häufig wurden auch nur private Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Häufig	häufig	ADJD	*	*	*	*
@@ -5956,18 +6144,19 @@
 3	auch	auch	ADV	*	*	*	*
 4	nur	nur	ADV	*	*	*	*
 5	private	privat	ADJA	*	*	*	*
-6	Rechnungen	Rechnung	NN	2	2	2	2
-7	beglichen	begleichen	VVPP	2	2	2	2
+6	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+7	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970128.232
 # sent_id = 5372
 # text = Wecker soll Rechnungen in Höhe von rund 14.000 Mark für Fahnen-Embleme und Stickereien nicht beglichen haben .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wecker	Wecker	NN	*	*	*	*
 2	soll	sollen	VMFIN	*	*	*	*
-3	Rechnungen	Rechnung	NN	1	1	1	1
+3	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 4	in	in	APPR	*	*	*	*
 5	Höhe	Höhe	NN	*	*	*	*
 6	von	von	APPR	*	*	*	*
@@ -5979,20 +6168,21 @@
 12	und	und	KON	*	*	*	*
 13	Stickereien	Stickerei	NN	*	*	*	*
 14	nicht	nicht	PTKNEG	*	*	*	*
-15	beglichen	begleichen	VVPP	1	1	1	1
+15	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 16	haben	haben	VAFIN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970422.11
 # sent_id = 5373
 # text = Ordnung schaffen und Rechnungen begleichen wolle er , hatte Netanjahu seinen Beratern anvertraut .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ordnung	Ordnung	NN	*	*	*	*
 2	schaffen	schaffen	VVINF	*	*	*	*
 3	und	und	KON	*	*	*	*
-4	Rechnungen	Rechnung	NN	3	2	2	2
-5	begleichen	begleichen	VVINF	3	2	2	2
+4	Rechnungen	Rechnung	NN	UND	FIG	FIG	FIG
+5	begleichen	begleichen	VVINF	UND	FIG	FIG	FIG
 6	wolle	wollen	VMFIN	*	*	*	*
 7	er	er	PPER	*	*	*	*
 8	,	,	$,	*	*	*	*
@@ -6006,6 +6196,7 @@
 # tuepp_article_id = T970407.5
 # sent_id = 5374
 # text = Mit einer Verbaloffensive gegen das " faschistische Deutschland " sollten innen- sowie außenpolitische Rechnungen beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -6021,14 +6212,15 @@
 11	innen-	innen-	TRUNC	*	*	*	*
 12	sowie	sowie	KON	*	*	*	*
 13	außenpolitische	außenpolitisch	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
-15	beglichen	begleichen	VVPP	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+15	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 16	werden	werden	VAINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970428.170
 # sent_id = 5375
 # text = Andererseits ist die verschuldete Holding nicht einmal in der Lage , ihre Rechnung bei der Stadtreinigung in voller Höhe zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andererseits	andererseits	ADV	*	*	*	*
@@ -6043,7 +6235,7 @@
 10	Lage	Lage	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	ihre	ihr	PPOSAT	*	*	*	*
-13	Rechnung	Rechnung	NN	1	1	1	1
+13	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 14	bei	bei	APPR	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	Stadtreinigung	Stadtreinigung	NN	*	*	*	*
@@ -6051,12 +6243,13 @@
 18	voller	voll	ADJA	*	*	*	*
 19	Höhe	Höhe	NN	*	*	*	*
 20	zu	zu	PTKZU	*	*	*	*
-21	begleichen	begleichen	VVINF	1	1	1	1
+21	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970701.150
 # sent_id = 5376
 # text = " Wer Richter kennt " , so ein Springer-Experte , " der weiß , daß er seine Rechnungen immer begleicht - manchmal etwas später .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
@@ -6076,9 +6269,9 @@
 15	daß	dass	KOUS	*	*	*	*
 16	er	er	PPER	*	*	*	*
 17	seine	sein	PPOSAT	*	*	*	*
-18	Rechnungen	Rechnung	NN	2	2	2	2
+18	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 19	immer	immer	ADV	*	*	*	*
-20	begleicht	begleichen	VVFIN	2	2	2	2
+20	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 21	-	-	$(	*	*	*	*
 22	manchmal	manchmal	ADV	*	*	*	*
 23	etwas	etwas	ADV	*	*	*	*
@@ -6088,6 +6281,7 @@
 # tuepp_article_id = T970711.258
 # sent_id = 5377
 # text = Die Bevölkerung , rund 93 Millionen Einwohner , hat die ewigen Krisen satt und nutzte die Wahlen am 6. Juli , um einige Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6114,14 +6308,15 @@
 22	,	,	$,	*	*	*	*
 23	um	um	APPR	*	*	*	*
 24	einige	einige	PIAT	*	*	*	*
-25	Rechnungen	Rechnung	NN	2	2	2	2
+25	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 26	zu	zu	PTKZU	*	*	*	*
-27	begleichen	begleichen	VVINF	2	2	2	2
+27	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971216.133
 # sent_id = 5378
 # text = Mag sein , daß dabei der eine oder andere Neonazi oder gar Rekrut nur alte Rechnungen begleichen möchte und sich der Medienmaschinerie andient .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mag	mögen	VMFIN	*	*	*	*
@@ -6139,8 +6334,8 @@
 13	Rekrut	Rekrut	NN	*	*	*	*
 14	nur	nur	ADV	*	*	*	*
 15	alte	alt	ADJA	*	*	*	*
-16	Rechnungen	Rechnung	NN	2	2	2	2
-17	begleichen	begleichen	VVINF	2	2	2	2
+16	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+17	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 18	möchte	mögen	VMFIN	*	*	*	*
 19	und	und	KON	*	*	*	*
 20	sich	sich	PRF	*	*	*	*
@@ -6152,11 +6347,12 @@
 # tuepp_article_id = T971216.134
 # sent_id = 5379
 # text = Seine " Rechnung mit der Justiz " , wie er das nennt , habe er " in jeder Hinsicht " beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seine	sein	PPOSAT	*	*	*	*
 2	"	"	$(	*	*	*	*
-3	Rechnung	Rechnung	NN	2	2	2	2
+3	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 4	mit	mit	APPR	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	Justiz	Justiz	NN	*	*	*	*
@@ -6174,12 +6370,13 @@
 18	jeder	jede	PIAT	*	*	*	*
 19	Hinsicht	Hinsicht	NN	*	*	*	*
 20	"	"	$(	*	*	*	*
-21	beglichen	begleichen	VVPP	2	2	2	2
+21	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971209.199
 # sent_id = 5380
 # text = Kommenden Donnerstag wird die DLZ wahrscheinlich überhaupt nicht ausgeliefert werden , da Reinhardt Becker Rechnungen der Vertriebsfirma AVZ nicht beglichen haben soll .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kommenden	kommend	ADJA	*	*	*	*
@@ -6196,12 +6393,12 @@
 12	da	da	KOUS	*	*	*	*
 13	Reinhardt	Reinhardt	NE	*	*	*	*
 14	Becker	Becker	NE	*	*	*	*
-15	Rechnungen	Rechnung	NN	1	1	2	1
+15	Rechnungen	Rechnung	NN	LIT	LIT	FIG	LIT
 16	der	die	ART	*	*	*	*
 17	Vertriebsfirma	Vertriebsfirma	NN	*	*	*	*
 18	AVZ	AVZ	NE	*	*	*	*
 19	nicht	nicht	PTKNEG	*	*	*	*
-20	beglichen	begleichen	VVPP	1	1	2	1
+20	beglichen	begleichen	VVPP	LIT	LIT	FIG	LIT
 21	haben	haben	VAINF	*	*	*	*
 22	soll	sollen	VMFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
@@ -6209,6 +6406,7 @@
 # tuepp_article_id = T970812.202
 # sent_id = 5381
 # text = Zudem sollen bis Ende August die offenen Rechnungen beglichen werden - sonst wird künftig nur noch gegen Vorauskasse gesendet .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zudem	zudem	ADV	*	*	*	*
@@ -6218,8 +6416,8 @@
 5	August	August	NN	*	*	*	*
 6	die	die	ART	*	*	*	*
 7	offenen	offen	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	1	1	1	1
-9	beglichen	begleichen	VVPP	1	1	1	1
+8	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
+9	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 10	werden	werden	VAINF	*	*	*	*
 11	-	-	$(	*	*	*	*
 12	sonst	sonst	ADV	*	*	*	*
@@ -6235,6 +6433,7 @@
 # tuepp_article_id = T970314.149
 # sent_id = 5382
 # text = Jeder , der eine Pistole hat oder eine Flinte , begleicht seine Rechnungen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jeder	jede	PIS	*	*	*	*
@@ -6247,14 +6446,15 @@
 8	eine	eine	ART	*	*	*	*
 9	Flinte	Flinte	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	begleicht	begleichen	VVFIN	2	2	2	2
+11	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 12	seine	sein	PPOSAT	*	*	*	*
-13	Rechnungen	Rechnung	NN	2	2	2	2
+13	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970301.21
 # sent_id = 5383
 # text = Wenn sie nicht sofort die Rechnung begleicht , werde der Strom am Montag abgeschaltet , warnte gestern der Energieversorger .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -6262,8 +6462,8 @@
 3	nicht	nicht	PTKNEG	*	*	*	*
 4	sofort	sofort	ADV	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Rechnung	Rechnung	NN	1	1	1	1
-7	begleicht	begleichen	VVFIN	1	1	1	1
+6	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
+7	begleicht	begleichen	VVFIN	LIT	LIT	LIT	LIT
 8	,	,	$,	*	*	*	*
 9	werde	werden	VAFIN	*	*	*	*
 10	der	die	ART	*	*	*	*
@@ -6281,6 +6481,7 @@
 # tuepp_article_id = T970204.220
 # sent_id = 5384
 # text = Justiz-Staatsrat Michael Göbel will deshalb " nicht ausschließen , daß hier auch alte Rechnungen beglichen werden sollen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Justiz-Staatsrat	<unknown>	NN	*	*	*	*
@@ -6296,8 +6497,8 @@
 11	hier	hier	ADV	*	*	*	*
 12	auch	auch	ADV	*	*	*	*
 13	alte	alt	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
-15	beglichen	begleichen	VVPP	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+15	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 16	werden	werden	VAINF	*	*	*	*
 17	sollen	sollen	VMFIN	*	*	*	*
 18	.	.	$.	*	*	*	*
@@ -6305,6 +6506,7 @@
 # tuepp_article_id = T970206.312
 # sent_id = 5385
 # text = Ich möchte nach reiflicher Überlegung diese Gelegenheit nutzen , um noch eine recht alte , private Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ich	ich	PPER	*	*	*	*
@@ -6323,14 +6525,15 @@
 14	alte	alt	ADJA	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	private	privat	ADJA	*	*	*	*
-17	Rechnung	Rechnung	NN	2	2	2	2
+17	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 18	zu	zu	PTKZU	*	*	*	*
-19	begleichen	begleichen	VVINF	2	2	2	2
+19	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940519.154
 # sent_id = 5386
 # text = Sie habe genug Geld und begleiche viele Rechnungen aus ihrer eigenen Tasche , aber sie versprach , in Zukunft mehr auf den Penny zu achten .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -6338,9 +6541,9 @@
 3	genug	genug	ADV	*	*	*	*
 4	Geld	Geld	NN	*	*	*	*
 5	und	und	KON	*	*	*	*
-6	begleiche	begleichen	VVFIN	1	1	1	1
+6	begleiche	begleichen	VVFIN	LIT	LIT	LIT	LIT
 7	viele	viele	PIAT	*	*	*	*
-8	Rechnungen	Rechnung	NN	1	1	1	1
+8	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 9	aus	aus	APPR	*	*	*	*
 10	ihrer	ihr	PPOSAT	*	*	*	*
 11	eigenen	eigen	ADJA	*	*	*	*
@@ -6363,6 +6566,7 @@
 # tuepp_article_id = T940517.47
 # sent_id = 5387
 # text = Kaum zu bezweifeln , daß es einige Wahlmänner gibt , die mit Helmut Kohl offene Rechnungen zu begleichen haben , daß ostdeutsche CDUler ihm den Heitmann- Rückzug übelnehmen , daß - nach Berechnungen der Baracke - 59 Bundestagsabgeordnete der Union keine sicheren Listenplätze mehr ergattern konnten ...
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kaum	kaum	ADV	*	*	*	*
@@ -6380,9 +6584,9 @@
 13	Helmut	Helmut	NE	*	*	*	*
 14	Kohl	Kohl	NE	*	*	*	*
 15	offene	offen	ADJA	*	*	*	*
-16	Rechnungen	Rechnung	NN	2	2	2	2
+16	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	begleichen	begleichen	VVINF	2	2	2	2
+18	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 19	haben	haben	VAFIN	*	*	*	*
 20	,	,	$,	*	*	*	*
 21	daß	dass	KOUS	*	*	*	*
@@ -6416,14 +6620,15 @@
 # tuepp_article_id = T940627.90
 # sent_id = 5388
 # text = Im Gaza-Streifen werden alte Rechnungen beglichen : Palästinenser , die einst angebliche Kollaborateure mit Israel umbrachten , müssen nun selbst um ihr Leben fürchten
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
 2	Gaza-Streifen	Gaza-Streifen	NN	*	*	*	*
 3	werden	werden	VAFIN	*	*	*	*
 4	alte	alt	ADJA	*	*	*	*
-5	Rechnungen	Rechnung	NN	2	2	2	2
-6	beglichen	begleichen	VVPP	2	2	2	2
+5	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+6	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 7	:	:	$.	*	*	*	*
 8	Palästinenser	Palästinenser	NN	*	*	*	*
 9	,	,	$,	*	*	*	*
@@ -6446,6 +6651,7 @@
 # tuepp_article_id = T940609.170
 # sent_id = 5389
 # text = Dabei geht die Ermittlungsbehörde davon aus , daß die überwiegend aus Ostberlin stammenden Jugendlichen im Juli vergangenen Jahres in die Discothek " Volkshaus " nach Storkow gefahren waren , um eine " alte Rechnung " zu begleichen : Bei einem vorangegangenen Besuch an Pfingsten 93 hatte es Streit um ortsansässige Mädchen gegeben .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
@@ -6481,10 +6687,10 @@
 31	eine	eine	ART	*	*	*	*
 32	"	"	$(	*	*	*	*
 33	alte	alt	ADJA	*	*	*	*
-34	Rechnung	Rechnung	NN	2	2	2	2
+34	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 35	"	"	$(	*	*	*	*
 36	zu	zu	PTKZU	*	*	*	*
-37	begleichen	begleichen	VVINF	2	2	2	2
+37	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 38	:	:	$.	*	*	*	*
 39	Bei	bei	APPR	*	*	*	*
 40	einem	eine	ART	*	*	*	*
@@ -6505,6 +6711,7 @@
 # tuepp_article_id = T940609.179
 # sent_id = 5390
 # text = Die Geschichte ist klassisch : Frau Stone reitet in die Stadt , um mit Gene Hackman ( jaja , schon wieder ) eine offene Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6531,14 +6738,15 @@
 22	)	)	$(	*	*	*	*
 23	eine	eine	ART	*	*	*	*
 24	offene	offen	ADJA	*	*	*	*
-25	Rechnung	Rechnung	NN	2	2	2	2
+25	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 26	zu	zu	PTKZU	*	*	*	*
-27	begleichen	begleichen	VVINF	2	2	2	2
+27	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941027.120
 # sent_id = 5391
 # text = " Erreicht Becker das Viertelfinale , könnte er dort möglicherweise eine Rechnung gegen Michael Stich begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6552,16 +6760,17 @@
 9	dort	dort	ADV	*	*	*	*
 10	möglicherweise	möglicherweise	ADV	*	*	*	*
 11	eine	eine	ART	*	*	*	*
-12	Rechnung	Rechnung	NN	2	2	2	2
+12	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 13	gegen	gegen	APPR	*	*	*	*
 14	Michael	Michael	NE	*	*	*	*
 15	Stich	Stich	NN	*	*	*	*
-16	begleichen	begleichen	VVINF	2	2	2	2
+16	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941006.115
 # sent_id = 5392
 # text = Man trifft sich regelmäßig , teilt die Gebiete auf , begleicht Rechnungen miteinander , und wenn die eine Partei im Urlaub ist , treibt die andere die Gelder ein .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Man	man	PIS	*	*	*	*
@@ -6574,8 +6783,8 @@
 8	Gebiete	Gebiet	NN	*	*	*	*
 9	auf	auf	PTKVZ	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	begleicht	begleichen	VVFIN	3	2	2	2
-12	Rechnungen	Rechnung	NN	3	2	2	2
+11	begleicht	begleichen	VVFIN	UND	FIG	FIG	FIG
+12	Rechnungen	Rechnung	NN	UND	FIG	FIG	FIG
 13	miteinander	miteinander	ADV	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	und	und	KON	*	*	*	*
@@ -6598,6 +6807,7 @@
 # tuepp_article_id = T940107.188
 # sent_id = 5393
 # text = Vom Flug bis zum Kaviar , alle Rechnungen sind aus der Kasse der Bürgerschaftsgruppe beglichen worden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vom	von	APPRART	*	*	*	*
@@ -6607,20 +6817,21 @@
 5	Kaviar	Kaviar	NN	*	*	*	*
 6	,	,	$,	*	*	*	*
 7	alle	alle	PIAT	*	*	*	*
-8	Rechnungen	Rechnung	NN	1	1	1	1
+8	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 9	sind	sein	VAFIN	*	*	*	*
 10	aus	aus	APPR	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Kasse	Kasse	NN	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Bürgerschaftsgruppe	Bürgerschaftsgruppe	NN	*	*	*	*
-15	beglichen	begleichen	VVPP	1	1	1	1
+15	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 16	worden	werden	VAPP	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940413.126
 # sent_id = 5394
 # text = " In gut zwei Stunden hat sie 200 Mark verdient - vorausgesetzt , die Telefonfreier begleichen ihre Rechnung .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6638,14 +6849,15 @@
 13	,	,	$,	*	*	*	*
 14	die	die	ART	*	*	*	*
 15	Telefonfreier	Telefonfreie	NN	*	*	*	*
-16	begleichen	begleichen	VVFIN	1	1	1	1
+16	begleichen	begleichen	VVFIN	LIT	LIT	LIT	LIT
 17	ihre	ihr	PPOSAT	*	*	*	*
-18	Rechnung	Rechnung	NN	1	1	1	1
+18	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940423.183
 # sent_id = 5395
 # text = Die Maifeiern , besonders aber der fürs Volk immer symbolträchtigere 1. Mai wurde so manchen Herrschern bald gefährlich - oft entwickelten sich Aufstände ; zumindest aber wurde so manche Rechnung mit den Schergen des Landvogts oder des Bürgermeisters beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6678,7 +6890,7 @@
 28	wurde	werden	VAFIN	*	*	*	*
 29	so	so	ADV	*	*	*	*
 30	manche	manche	PIAT	*	*	*	*
-31	Rechnung	Rechnung	NN	2	2	2	2
+31	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 32	mit	mit	APPR	*	*	*	*
 33	den	die	ART	*	*	*	*
 34	Schergen	Scherge	NN	*	*	*	*
@@ -6687,12 +6899,13 @@
 37	oder	oder	KON	*	*	*	*
 38	des	die	ART	*	*	*	*
 39	Bürgermeisters	Bürgermeister	NN	*	*	*	*
-40	beglichen	begleichen	VVPP	2	2	2	2
+40	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 41	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940723.113
 # sent_id = 5396
 # text = Die Frage nach der Daseinsberechtigung der Goodwill Games stellt sich nicht , solange nur Turner die Rechnungen begleicht .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
@@ -6711,13 +6924,14 @@
 14	nur	nur	ADV	*	*	*	*
 15	Turner	Turner	NN	*	*	*	*
 16	die	die	ART	*	*	*	*
-17	Rechnungen	Rechnung	NN	1	2	2	2
-18	begleicht	begleichen	VVFIN	1	2	2	2
+17	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
+18	begleicht	begleichen	VVFIN	LIT	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940726.33
 # sent_id = 5397
 # text = Da in dem schleichenden Bürgerkrieg auch alte Rechnungen beglichen werden , lassen sich nur selten zweifelsfrei politische Motive nachweisen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -6727,8 +6941,8 @@
 5	Bürgerkrieg	Bürgerkrieg	NN	*	*	*	*
 6	auch	auch	ADV	*	*	*	*
 7	alte	alt	ADJA	*	*	*	*
-8	Rechnungen	Rechnung	NN	2	2	2	2
-9	beglichen	begleichen	VVPP	2	2	2	2
+8	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+9	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 10	werden	werden	VAINF	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	lassen	lassen	VVFIN	*	*	*	*
@@ -6744,6 +6958,7 @@
 # tuepp_article_id = T941213.31
 # sent_id = 5398
 # text = Jetzt ist es Zeit , alte Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jetzt	jetzt	ADV	*	*	*	*
@@ -6752,14 +6967,15 @@
 4	Zeit	Zeit	NN	*	*	*	*
 5	,	,	$,	*	*	*	*
 6	alte	alt	ADJA	*	*	*	*
-7	Rechnungen	Rechnung	NN	2	2	2	2
+7	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 8	zu	zu	PTKZU	*	*	*	*
-9	begleichen	begleichen	VVINF	2	2	2	2
+9	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941201.7
 # sent_id = 5399
 # text = Diese jedoch brauche die PDS , so Gysi , um Mitgliederdarlehen zurückzuzahlen sowie um offene Rechnungen aus dem Wahlkampf zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Diese	diese	PDS	*	*	*	*
@@ -6777,17 +6993,18 @@
 13	sowie	sowie	KON	*	*	*	*
 14	um	um	APPR	*	*	*	*
 15	offene	offen	ADJA	*	*	*	*
-16	Rechnungen	Rechnung	NN	1	2	1	1
+16	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 17	aus	aus	APPR	*	*	*	*
 18	dem	die	ART	*	*	*	*
 19	Wahlkampf	Wahlkampf	NN	*	*	*	*
 20	zu	zu	PTKZU	*	*	*	*
-21	begleichen	begleichen	VVINF	1	2	1	1
+21	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940826.307
 # sent_id = 5400
 # text = Devils-Pressesprecher Jens Stümpel zeigt sich trotz der Stärken des Kontrahenten optimistisch : " Wir haben noch eine Rechnung offen und die wollen wir begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Devils-Pressesprecher	<unknown>	NN	*	*	*	*
@@ -6807,18 +7024,19 @@
 15	haben	haben	VAFIN	*	*	*	*
 16	noch	noch	ADV	*	*	*	*
 17	eine	eine	ART	*	*	*	*
-18	Rechnung	Rechnung	NN	2	2	2	2
+18	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 19	offen	offen	ADJD	*	*	*	*
 20	und	und	KON	*	*	*	*
 21	die	die	PDS	*	*	*	*
 22	wollen	wollen	VMFIN	*	*	*	*
 23	wir	wir	PPER	*	*	*	*
-24	begleichen	begleichen	VVINF	2	2	2	2
+24	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940823.183
 # sent_id = 5401
 # text = Oder werden mit solchen Tricks ganz andere Rechnungen beglichen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Oder	oder	KON	*	*	*	*
@@ -6828,13 +7046,14 @@
 5	Tricks	Trick	NN	*	*	*	*
 6	ganz	ganz	ADV	*	*	*	*
 7	andere	andere	PIAT	*	*	*	*
-8	Rechnungen	Rechnung	NN	4	2	2	2
-9	beglichen	begleichen	VVPP	4	2	2	2
+8	Rechnungen	Rechnung	NN	BOTH	FIG	FIG	FIG
+9	beglichen	begleichen	VVPP	BOTH	FIG	FIG	FIG
 10	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T940823.234
 # sent_id = 5402
 # text = Sie habe 24 Weinflaschen der Weinhandlung P. geordert , so die Anklage , obwohl sie nicht in der Lage war , die Rechnung zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -6859,14 +7078,15 @@
 20	war	sein	VAFIN	*	*	*	*
 21	,	,	$,	*	*	*	*
 22	die	die	ART	*	*	*	*
-23	Rechnung	Rechnung	NN	1	1	1	1
+23	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 24	zu	zu	PTKZU	*	*	*	*
-25	begleichen	begleichen	VVINF	1	1	1	1
+25	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940811.72
 # sent_id = 5403
 # text = Moskau ( AP ) - Rußland will der Ukraine und Weißrußland kein Erdgas mehr liefern , solange die offenen Rechnungen nicht beglichen sind , so ein Sprecher der russischen Erdgasindustrie .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Moskau	Moskau	NE	*	*	*	*
@@ -6888,9 +7108,9 @@
 17	solange	solange	KOUS	*	*	*	*
 18	die	die	ART	*	*	*	*
 19	offenen	offen	ADJA	*	*	*	*
-20	Rechnungen	Rechnung	NN	1	1	1	1
+20	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 21	nicht	nicht	PTKNEG	*	*	*	*
-22	beglichen	begleichen	VVPP	1	1	1	1
+22	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 23	sind	sein	VAFIN	*	*	*	*
 24	,	,	$,	*	*	*	*
 25	so	so	ADV	*	*	*	*
@@ -6904,6 +7124,7 @@
 # tuepp_article_id = T941109.66
 # sent_id = 5404
 # text = Eine andere nicht unglaubwürdige Erklärung kursierte , die Stadt Moskau habe alte Rechnungen nicht beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -6918,14 +7139,15 @@
 10	Moskau	Moskau	NE	*	*	*	*
 11	habe	haben	VAFIN	*	*	*	*
 12	alte	alt	ADJA	*	*	*	*
-13	Rechnungen	Rechnung	NN	1	2	1	1
+13	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 14	nicht	nicht	PTKNEG	*	*	*	*
-15	beglichen	begleichen	VVPP	1	2	1	1
+15	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941125.93
 # sent_id = 5405
 # text = Heute jedoch habe er mit dem Staat keine Rechnungen zu begleichen , müsse aber auch keine besonderen Opfer erbringen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Heute	heute	ADV	*	*	*	*
@@ -6936,9 +7158,9 @@
 6	dem	die	ART	*	*	*	*
 7	Staat	Staat	NN	*	*	*	*
 8	keine	keine	PIAT	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
-11	begleichen	begleichen	VVINF	2	2	2	2
+11	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	müsse	müssen	VMFIN	*	*	*	*
 14	aber	aber	ADV	*	*	*	*
@@ -6952,6 +7174,7 @@
 # tuepp_article_id = T941105.207
 # sent_id = 5406
 # text = Und neben den Geschichten über die großen Spekulationen der Geschichte , neben den Anekdoten , Überlieferungen und verbürgten Biographien der Gentlemen und über das Kabinett der Räuber in der Spekulantenzunft lernt man noch etwas über Devisenreserven , typische Phasen eines Crashs , Chaostheorie , Warentermingeschäfte und Junk-bonds , denn : " Nur wenn man seine Rechnungen nicht begleicht , kann man hoffen , im Gedächtnis der Geschäftswelt weiterzuleben " ( Wilde ) .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -7009,9 +7232,9 @@
 53	wenn	wenn	KOUS	*	*	*	*
 54	man	man	PIS	*	*	*	*
 55	seine	sein	PPOSAT	*	*	*	*
-56	Rechnungen	Rechnung	NN	1	2	2	2
+56	Rechnungen	Rechnung	NN	LIT	FIG	FIG	FIG
 57	nicht	nicht	PTKNEG	*	*	*	*
-58	begleicht	begleichen	VVFIN	1	2	2	2
+58	begleicht	begleichen	VVFIN	LIT	FIG	FIG	FIG
 59	,	,	$,	*	*	*	*
 60	kann	können	VMFIN	*	*	*	*
 61	man	man	PIS	*	*	*	*
@@ -7031,22 +7254,24 @@
 # tuepp_article_id = T940217.203
 # sent_id = 5407
 # text = Sämtliche Rechnungen können ab sofort nicht mehr beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sämtliche	sämtliche	PIAT	*	*	*	*
-2	Rechnungen	Rechnung	NN	1	2	1	1
+2	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 3	können	können	VMFIN	*	*	*	*
 4	ab	ab	ADV	*	*	*	*
 5	sofort	sofort	ADV	*	*	*	*
 6	nicht	nicht	PTKNEG	*	*	*	*
 7	mehr	mehr	ADV	*	*	*	*
-8	beglichen	begleichen	VVPP	1	2	1	1
+8	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 9	werden	werden	VAINF	*	*	*	*
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940209.92
 # sent_id = 5408
 # text = Die ganz Alten fühlen sich ein wenig an die Atmosphäre nach Kriegsende erinnert , als ehemalige Resistance- Kämpfer und Kollaborateure ihre Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7070,13 +7295,14 @@
 19	und	und	KON	*	*	*	*
 20	Kollaborateure	Kollaborateur	NN	*	*	*	*
 21	ihre	ihr	PPOSAT	*	*	*	*
-22	Rechnungen	Rechnung	NN	2	2	2	2
-23	beglichen	begleichen	VVPP	2	2	2	2
+22	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+23	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950517.95
 # sent_id = 5409
 # text = Um nicht vollends pleite zu gehen , verlangen sie von Patienten saftige Gebühren , was viele Menschen vom Klinikbesuch abhält und auch dazu führt , daß Tote nicht abgeholt werden , da die Angehörigen dafür die ausstehenden Rechnungen begleichen müssen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	APPR	*	*	*	*
@@ -7116,14 +7342,15 @@
 35	dafür	dafür	PAV	*	*	*	*
 36	die	die	ART	*	*	*	*
 37	ausstehenden	ausstehend	ADJA	*	*	*	*
-38	Rechnungen	Rechnung	NN	1	1	1	1
-39	begleichen	begleichen	VVINF	1	1	1	1
+38	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
+39	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 40	müssen	müssen	VMINF	*	*	*	*
 41	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950602.257
 # sent_id = 5410
 # text = " Da werden wohl alte Rechnungen beglichen " , kommentierte Mahr .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7131,8 +7358,8 @@
 3	werden	werden	VAFIN	*	*	*	*
 4	wohl	wohl	ADV	*	*	*	*
 5	alte	alt	ADJA	*	*	*	*
-6	Rechnungen	Rechnung	NN	2	2	2	2
-7	beglichen	begleichen	VVPP	2	2	2	2
+6	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+7	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 8	"	"	$(	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	kommentierte	kommentieren	VVFIN	*	*	*	*
@@ -7142,6 +7369,7 @@
 # tuepp_article_id = T950616.246
 # sent_id = 5411
 # text = Shashi Tharoor ist keineswegs der einzige , der mit Indira Gandhi eine Rechnung zu begleichen hat .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Shashi	Shashi	NE	*	*	*	*
@@ -7156,23 +7384,24 @@
 10	Indira	Indira	NE	*	*	*	*
 11	Gandhi	Gandhi	NE	*	*	*	*
 12	eine	eine	ART	*	*	*	*
-13	Rechnung	Rechnung	NN	2	2	2	2
+13	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 14	zu	zu	PTKZU	*	*	*	*
-15	begleichen	begleichen	VVINF	2	2	2	2
+15	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 16	hat	haben	VAFIN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950619.253
 # sent_id = 5412
 # text = St. Pauli begleicht die offene Rechnung mit dem VfL Wolfsburg durch ein 0:0 .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	St.	St.	NE	*	*	*	*
 2	Pauli	Pauli	NE	*	*	*	*
-3	begleicht	begleichen	VVFIN	2	2	2	2
+3	begleicht	begleichen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	offene	offen	ADJA	*	*	*	*
-6	Rechnung	Rechnung	NN	2	2	2	2
+6	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 7	mit	mit	APPR	*	*	*	*
 8	dem	die	ART	*	*	*	*
 9	VfL	<unknown>	NN	*	*	*	*
@@ -7185,6 +7414,7 @@
 # tuepp_article_id = T950915.225
 # sent_id = 5413
 # text = So müßte Tatarstan 30 Prozent seiner Steuereinnahmen an das Budget der Russischen Föderation abführen , doch kürzlich gab ein Sprecher bekannt , man habe diese Gelder eingefroren , da " Moskau die Rechnung für seine Militäreinkäufe nicht beglichen " habe .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -7219,12 +7449,12 @@
 30	"	"	$(	*	*	*	*
 31	Moskau	Moskau	NE	*	*	*	*
 32	die	die	ART	*	*	*	*
-33	Rechnung	Rechnung	NN	1	1	1	1
+33	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 34	für	für	APPR	*	*	*	*
 35	seine	sein	PPOSAT	*	*	*	*
 36	Militäreinkäufe	<unknown>	NN	*	*	*	*
 37	nicht	nicht	PTKNEG	*	*	*	*
-38	beglichen	begleichen	VVPP	1	1	1	1
+38	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 39	"	"	$(	*	*	*	*
 40	habe	haben	VAFIN	*	*	*	*
 41	.	.	$.	*	*	*	*
@@ -7232,6 +7462,7 @@
 # tuepp_article_id = T950923.52
 # sent_id = 5414
 # text = Damit hatte das wirtschaftlich angeschlagene und daher selbst mit ernsthaften Sicherheitsproblemen kämpfende Atomkraftwerk seit über einem Jahr mehrfach gedroht , um wenigstens ein paar seiner offenen Rechnungen begleichen zu können .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
@@ -7260,8 +7491,8 @@
 24	paar	paar	PIAT	*	*	*	*
 25	seiner	sein	PPOSAT	*	*	*	*
 26	offenen	offen	ADJA	*	*	*	*
-27	Rechnungen	Rechnung	NN	1	2	1	1
-28	begleichen	begleichen	VVINF	1	2	1	1
+27	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
+28	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 29	zu	zu	PTKZU	*	*	*	*
 30	können	können	VMINF	*	*	*	*
 31	.	.	$.	*	*	*	*
@@ -7269,6 +7500,7 @@
 # tuepp_article_id = T950926.252
 # sent_id = 5415
 # text = Eine typische Lokalposse , wenn sie nicht so tragisch wäre : Im Karo-Viertel wird nichts weiter beglichen als eine alte Rechnung zwischen Investor und Bezirk - die Schadenfreude , wenn ein Reicher nicht noch reicher wird , bleibt doch die schönste Freude .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Eine	eine	ART	*	*	*	*
@@ -7287,11 +7519,11 @@
 14	wird	werden	VAFIN	*	*	*	*
 15	nichts	nichts	PIS	*	*	*	*
 16	weiter	weiter	ADV	*	*	*	*
-17	beglichen	begleichen	VVPP	2	2	2	2
+17	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 18	als	als	KOKOM	*	*	*	*
 19	eine	eine	ART	*	*	*	*
 20	alte	alt	ADJA	*	*	*	*
-21	Rechnung	Rechnung	NN	2	2	2	2
+21	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 22	zwischen	zwischen	APPR	*	*	*	*
 23	Investor	Investor	NN	*	*	*	*
 24	und	und	KON	*	*	*	*
@@ -7318,19 +7550,21 @@
 # tuepp_article_id = T950919.95
 # sent_id = 5416
 # text = Da wurden viele alte Rechnungen beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
 2	wurden	werden	VAFIN	*	*	*	*
 3	viele	viele	PIAT	*	*	*	*
 4	alte	alt	ADJA	*	*	*	*
-5	Rechnungen	Rechnung	NN	2	2	2	2
-6	beglichen	begleichen	VVPP	2	2	2	2
+5	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+6	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 7	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950902.165
 # sent_id = 5417
 # text = In besonderen Fällen aber konnte seine Rechnung auch mit einer Einladung zu einem guten Essen beglichen werden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -7339,7 +7573,7 @@
 4	aber	aber	ADV	*	*	*	*
 5	konnte	können	VMFIN	*	*	*	*
 6	seine	sein	PPOSAT	*	*	*	*
-7	Rechnung	Rechnung	NN	1	2	1	1
+7	Rechnung	Rechnung	NN	LIT	FIG	LIT	LIT
 8	auch	auch	ADV	*	*	*	*
 9	mit	mit	APPR	*	*	*	*
 10	einer	eine	ART	*	*	*	*
@@ -7348,13 +7582,14 @@
 13	einem	eine	ART	*	*	*	*
 14	guten	gut	ADJA	*	*	*	*
 15	Essen	Essen	NN	*	*	*	*
-16	beglichen	begleichen	VVPP	1	2	1	1
+16	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 17	werden	werden	VAINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950111.178
 # sent_id = 5418
 # text = Es nimmt zur Zeit billige Bankkredite auf , um laufende Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -7367,14 +7602,15 @@
 8	,	,	$,	*	*	*	*
 9	um	um	KOUI	*	*	*	*
 10	laufende	laufend	ADJA	*	*	*	*
-11	Rechnungen	Rechnung	NN	1	1	1	1
+11	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 12	zu	zu	PTKZU	*	*	*	*
-13	begleichen	begleichen	VVINF	1	1	1	1
+13	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950715.124
 # sent_id = 5419
 # text = Wer nicht zahlen will oder kann , begleicht die Rechnung im Ferienclub Lüneburger Heide Sarenseck mit Muskelkraft oder Naturalien .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
@@ -7384,9 +7620,9 @@
 5	oder	oder	KON	*	*	*	*
 6	kann	können	VMFIN	*	*	*	*
 7	,	,	$,	*	*	*	*
-8	begleicht	begleichen	VVFIN	1	2	2	2
+8	begleicht	begleichen	VVFIN	LIT	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Rechnung	Rechnung	NN	1	2	2	2
+10	Rechnung	Rechnung	NN	LIT	FIG	FIG	FIG
 11	im	in	APPRART	*	*	*	*
 12	Ferienclub	Ferienclub	NN	*	*	*	*
 13	Lüneburger	Lüneburger	NN	*	*	*	*
@@ -7401,6 +7637,7 @@
 # tuepp_article_id = T950724.213
 # sent_id = 5420
 # text = Um Himmels Willen , welche Rechnung wurde hier beglichen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Um	um	APPR	*	*	*	*
@@ -7408,15 +7645,16 @@
 3	Willen	Wille	NN	*	*	*	*
 4	,	,	$,	*	*	*	*
 5	welche	welche	PRELS	*	*	*	*
-6	Rechnung	Rechnung	NN	2	2	2	2
+6	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 7	wurde	werden	VAFIN	*	*	*	*
 8	hier	hier	ADV	*	*	*	*
-9	beglichen	begleichen	VVPP	2	2	2	2
+9	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 10	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T951227.70
 # sent_id = 5421
 # text = Jedes Jahr zu Weihnachten , wenn Hunderttausende von Minen-Wanderarbeitern zu ihren Familien zurückkehren , werden alte Rechnungen an politischen Gegnern beglichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jedes	jede	PIAT	*	*	*	*
@@ -7435,16 +7673,17 @@
 14	,	,	$,	*	*	*	*
 15	werden	werden	VAFIN	*	*	*	*
 16	alte	alt	ADJA	*	*	*	*
-17	Rechnungen	Rechnung	NN	2	2	2	2
+17	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 18	an	an	APPR	*	*	*	*
 19	politischen	politisch	ADJA	*	*	*	*
 20	Gegnern	Gegner	NN	*	*	*	*
-21	beglichen	begleichen	VVPP	2	2	2	2
+21	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951227.158
 # sent_id = 5422
 # text = Das Land Berlin muß die Rechnung aber irgendwann begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -7452,15 +7691,16 @@
 3	Berlin	Berlin	NE	*	*	*	*
 4	muß	müssen	VMFIN	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Rechnung	Rechnung	NN	1	1	1	1
+6	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 7	aber	aber	ADV	*	*	*	*
 8	irgendwann	irgendwann	ADV	*	*	*	*
-9	begleichen	begleichen	VVINF	1	1	1	1
+9	begleichen	begleichen	VVINF	LIT	LIT	LIT	LIT
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950826.114
 # sent_id = 5423
 # text = Falls ein Hotelzimmer von Sozialhilfe bezahlt wird , führt er den Papierkrieg und ist sehr geduldig , wenn eine Rechnung mal nicht gleich beglichen wird .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Falls	falls	KOUS	*	*	*	*
@@ -7482,17 +7722,18 @@
 17	,	,	$,	*	*	*	*
 18	wenn	wenn	KOUS	*	*	*	*
 19	eine	eine	ART	*	*	*	*
-20	Rechnung	Rechnung	NN	1	1	1	1
+20	Rechnung	Rechnung	NN	LIT	LIT	LIT	LIT
 21	mal	mal	ADV	*	*	*	*
 22	nicht	nicht	PTKNEG	*	*	*	*
 23	gleich	gleich	ADJD	*	*	*	*
-24	beglichen	begleichen	VVPP	1	1	1	1
+24	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 25	wird	werden	VAFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950816.170
 # sent_id = 5424
 # text = " Ich wollte noch eine alte Rechnung bei einem Kumpel begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7501,16 +7742,17 @@
 4	noch	noch	ADV	*	*	*	*
 5	eine	eine	ART	*	*	*	*
 6	alte	alt	ADJA	*	*	*	*
-7	Rechnung	Rechnung	NN	2	2	2	2
+7	Rechnung	Rechnung	NN	FIG	FIG	FIG	FIG
 8	bei	bei	APPR	*	*	*	*
 9	einem	eine	ART	*	*	*	*
 10	Kumpel	Kumpel	NN	*	*	*	*
-11	begleichen	begleichen	VVINF	2	2	2	2
+11	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950328.182
 # sent_id = 5425
 # text = Hier mußten sich offizielle dänische Persönlichkeiten damit abfinden , Ehrengäste bei großen und feierlichen Empfängen zu sein , deren Rechnungen - was die kulinarischen Dinge anbetraf - von der dänischen Nationalbank beglichen wurden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hier	hier	ADV	*	*	*	*
@@ -7532,7 +7774,7 @@
 17	sein	sein	VAINF	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	deren	die	PRELAT	*	*	*	*
-20	Rechnungen	Rechnung	NN	1	2	1	1
+20	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 21	-	-	$(	*	*	*	*
 22	was	was	PWS	*	*	*	*
 23	die	die	ART	*	*	*	*
@@ -7544,13 +7786,14 @@
 29	der	die	ART	*	*	*	*
 30	dänischen	dänisch	ADJA	*	*	*	*
 31	Nationalbank	Nationalbank	NN	*	*	*	*
-32	beglichen	begleichen	VVPP	1	2	1	1
+32	beglichen	begleichen	VVPP	LIT	FIG	LIT	LIT
 33	wurden	werden	VAFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951127.2
 # sent_id = 5426
 # text = Aber was ist schon der Friedensprozeß im Nahen Osten , was bedeutet der Bundesanwaltschaft die beginnende Versöhnung zweier Völker , wenn sich die Gelegenheit bietet , alte Rechnungen zu begleichen ?
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -7580,14 +7823,15 @@
 25	bietet	bieten	VVFIN	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	alte	alt	ADJA	*	*	*	*
-28	Rechnungen	Rechnung	NN	2	2	2	2
+28	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 29	zu	zu	PTKZU	*	*	*	*
-30	begleichen	begleichen	VVINF	2	2	2	2
+30	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 31	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T950216.150
 # sent_id = 5427
 # text = Und damit das ganz klar ist - wer jetzt aufmuckt , ist entweder ein ostdeutscher SPD-Gründer , der sich vor den " Unterwanderstiefeln " der SED beziehungsweise PDS fürchtet , oder ein " Eiferer " , der glaubt , " auf diese Weise alte Rechnungen begleichen zu können " , sagt der Genosse stellvertretender Vorsitzender .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -7634,8 +7878,8 @@
 42	diese	dies	PDAT	*	*	*	*
 43	Weise	Weise	NN	*	*	*	*
 44	alte	alt	ADJA	*	*	*	*
-45	Rechnungen	Rechnung	NN	2	2	2	2
-46	begleichen	begleichen	VVINF	2	2	2	2
+45	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+46	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 47	zu	zu	PTKZU	*	*	*	*
 48	können	können	VMINF	*	*	*	*
 49	"	"	$(	*	*	*	*
@@ -7650,6 +7894,7 @@
 # tuepp_article_id = T950207.98
 # sent_id = 5428
 # text = Gewiß gab und gibt es Eiferer , die glauben , auf diese Weise alte Rechnungen begleichen zu können .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gewiß	gewiss	ADJD	*	*	*	*
@@ -7666,8 +7911,8 @@
 12	diese	dies	PDAT	*	*	*	*
 13	Weise	Weise	NN	*	*	*	*
 14	alte	alt	ADJA	*	*	*	*
-15	Rechnungen	Rechnung	NN	2	2	2	2
-16	begleichen	begleichen	VVINF	2	2	2	2
+15	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+16	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
 18	können	können	VMINF	*	*	*	*
 19	.	.	$.	*	*	*	*
@@ -7675,6 +7920,7 @@
 # tuepp_article_id = T990423.137
 # sent_id = 5429
 # text = Nicht integrierte OTO-Einheiten bekämpfen sich gegenseitig , alte Rechnungen werden beglichen , die auch vor Spitzenpolitikern nicht haltmachen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -7685,9 +7931,9 @@
 6	gegenseitig	gegenseitig	ADJD	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	alte	alt	ADJA	*	*	*	*
-9	Rechnungen	Rechnung	NN	2	2	2	2
+9	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 10	werden	werden	VAFIN	*	*	*	*
-11	beglichen	begleichen	VVPP	2	2	2	2
+11	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	die	die	PRELS	*	*	*	*
 14	auch	auch	ADV	*	*	*	*
@@ -7700,6 +7946,7 @@
 # tuepp_article_id = T990324.213
 # sent_id = 5430
 # text = Dort soll er sich " amüsiert " und die Rechnungen mit einer im Fahrzeug gefundenen Kreditkarte beglichen haben , hieß es .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dort	dort	ADV	*	*	*	*
@@ -7711,14 +7958,14 @@
 7	"	"	$(	*	*	*	*
 8	und	und	KON	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Rechnungen	Rechnung	NN	1	1	1	1
+10	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
 11	mit	mit	APPR	*	*	*	*
 12	einer	eine	ART	*	*	*	*
 13	im	in	APPRART	*	*	*	*
 14	Fahrzeug	Fahrzeug	NN	*	*	*	*
 15	gefundenen	gefunden	ADJA	*	*	*	*
 16	Kreditkarte	Kreditkarte	NN	*	*	*	*
-17	beglichen	begleichen	VVPP	1	1	1	1
+17	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 18	haben	haben	VAFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	hieß	heißen	VVFIN	*	*	*	*
@@ -7728,6 +7975,7 @@
 # tuepp_article_id = T990315.81
 # sent_id = 5431
 # text = Andere vor ihm - wie Willy Brandt mit Helmut Schmidt - hatten ebenfalls Rechnungen zu begleichen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andere	andere	PIS	*	*	*	*
@@ -7743,14 +7991,15 @@
 11	-	-	$(	*	*	*	*
 12	hatten	haben	VAFIN	*	*	*	*
 13	ebenfalls	ebenfalls	ADV	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
 15	zu	zu	PTKZU	*	*	*	*
-16	begleichen	begleichen	VVINF	2	2	2	2
+16	begleichen	begleichen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990327.309
 # sent_id = 5432
 # text = In anderen Fällen sorgte er dafür , daß überhöhte Rechnungen beglichen wurden .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -7762,14 +8011,15 @@
 7	,	,	$,	*	*	*	*
 8	daß	dass	KOUS	*	*	*	*
 9	überhöhte	überhöht	ADJA	*	*	*	*
-10	Rechnungen	Rechnung	NN	1	1	1	1
-11	beglichen	begleichen	VVPP	1	1	1	1
+10	Rechnungen	Rechnung	NN	LIT	LIT	LIT	LIT
+11	beglichen	begleichen	VVPP	LIT	LIT	LIT	LIT
 12	wurden	werden	VAFIN	*	*	*	*
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990213.358
 # sent_id = 5433
 # text = " Goethe registrierte aber auch , wie unter dem Schutz der Maske alte Rechnungen beglichen wurden : " Oft aber werden die Händel sehr ernsthaft und allgemein , und man sieht mit Erstaunen , wie Eifersucht und persönlicher Hass sich befreyten Lauf lassen .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7785,8 +8035,8 @@
 11	der	die	ART	*	*	*	*
 12	Maske	Maske	NN	*	*	*	*
 13	alte	alt	ADJA	*	*	*	*
-14	Rechnungen	Rechnung	NN	2	2	2	2
-15	beglichen	begleichen	VVPP	2	2	2	2
+14	Rechnungen	Rechnung	NN	FIG	FIG	FIG	FIG
+15	beglichen	begleichen	VVPP	FIG	FIG	FIG	FIG
 16	wurden	werden	VAFIN	*	*	*	*
 17	:	:	$.	*	*	*	*
 18	"	"	$(	*	*	*	*
@@ -7820,6 +8070,7 @@
 # tuepp_article_id = T990226.107
 # sent_id = 5434
 # text = Einzig die US- Gesellschaft Sprint und das puertoricanische Unternehmen TLDI würden von der Kappung ausgenommen , da sie ihre Rechnungen pünktlich begleichen , hieß es in einer Erklärung der Regierung in Havanna .
+# vid_types = rechnung begleichen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einzig	einzig	ADJD	*	*	*	*
@@ -7841,9 +8092,9 @@
 17	da	da	KOUS	*	*	*	*
 18	sie	sie	PPER	*	*	*	*
 19	ihre	ihr	PPOSAT	*	*	*	*
-20	Rechnungen	Rechnung	NN	1	2	1	1
+20	Rechnungen	Rechnung	NN	LIT	FIG	LIT	LIT
 21	pünktlich	pünktlich	ADJD	*	*	*	*
-22	begleichen	begleichen	VVINF	1	2	1	1
+22	begleichen	begleichen	VVINF	LIT	FIG	LIT	LIT
 23	,	,	$,	*	*	*	*
 24	hieß	heißen	VVFIN	*	*	*	*
 25	es	es	PPER	*	*	*	*

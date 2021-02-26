@@ -1,15 +1,16 @@
 # tuepp_article_id = T890519.22
 # sent_id = 4488
 # text = " Sie haben mit dem Feuer gespielt " , sagte gestern ein PLO-Sprecher in Tunis .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Sie	Sie	PPER	*	*	*	*
 3	haben	haben	VAFIN	*	*	*	*
-4	mit	mit	APPR	2	2	2	2
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
-7	gespielt	spielen	VVPP	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+7	gespielt	spielen	VVPP	FIG	FIG	FIG	FIG
 8	"	"	$(	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	sagte	sagen	VVFIN	*	*	*	*
@@ -23,15 +24,16 @@
 # tuepp_article_id = T890718.48
 # sent_id = 4489
 # text = Sie spielen also weiter mit dem Feuer , und zwar öffentlich , heute , Mitte 1989 .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	spielen	spielen	VVFIN	2	2	2	2
+2	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
 3	also	also	ADV	*	*	*	*
 4	weiter	weiter	ADV	*	*	*	*
-5	mit	mit	APPR	2	2	2	2
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	und	und	KON	*	*	*	*
 10	zwar	zwar	ADV	*	*	*	*
@@ -46,6 +48,7 @@
 # tuepp_article_id = T890814.147
 # sent_id = 4490
 # text = Die Behörden der Zone wissen offenbar nicht , daß sie mit dem Feuer spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -58,15 +61,16 @@
 8	,	,	$,	*	*	*	*
 9	daß	dass	KOUS	*	*	*	*
 10	sie	sie	PPER	*	*	*	*
-11	mit	mit	APPR	2	2	2	2
+11	mit	mit	APPR	FIG	FIG	FIG	FIG
 12	dem	die	ART	*	*	*	*
-13	Feuer	Feuer	NN	2	2	2	2
-14	spielen	spielen	VVINF	2	2	2	2
+13	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+14	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890824.77
 # sent_id = 4491
 # text = Es heißt aufpassen : Mitterrand spielt mit dem Feuer in einer Region , wo die Zündschnüre nur so herumliegen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -74,10 +78,10 @@
 3	aufpassen	aufpassen	VVINF	*	*	*	*
 4	:	:	$.	*	*	*	*
 5	Mitterrand	Mitterrand	NE	*	*	*	*
-6	spielt	spielen	VVFIN	2	2	2	2
-7	mit	mit	APPR	2	2	2	2
+6	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+7	mit	mit	APPR	FIG	FIG	FIG	FIG
 8	dem	die	ART	*	*	*	*
-9	Feuer	Feuer	NN	2	2	2	2
+9	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 10	in	in	APPR	*	*	*	*
 11	einer	eine	ART	*	*	*	*
 12	Region	Region	NN	*	*	*	*
@@ -93,6 +97,7 @@
 # tuepp_article_id = T890321.75
 # sent_id = 4492
 # text = Vor allem muß die westliche Allianz begreifen , daß sie einen schrecklichen Fehler machen würde , wenn sie begänne , mit dem Feuer des Nationalismus in Osteuropa zu spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -115,30 +120,31 @@
 18	sie	sie	PPER	*	*	*	*
 19	begänne	beginnen	VVFIN	*	*	*	*
 20	,	,	$,	*	*	*	*
-21	mit	mit	APPR	2	2	2	2
+21	mit	mit	APPR	FIG	FIG	FIG	FIG
 22	dem	die	ART	*	*	*	*
-23	Feuer	Feuer	NN	2	2	2	2
+23	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 24	des	die	ART	*	*	*	*
 25	Nationalismus	Nationalismus	NN	*	*	*	*
 26	in	in	APPR	*	*	*	*
 27	Osteuropa	Osteuropa	NE	*	*	*	*
 28	zu	zu	PTKZU	*	*	*	*
-29	spielen	spielen	VVINF	2	2	2	2
+29	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891103.89
 # sent_id = 4493
 # text = Zugleich spielt Ortega aber auch mit dem Feuer , denn die einhellige Sandinistenbeschimpfung durch die Heuchler im US - Kongreß muß er vorhergesehen haben .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zugleich	zugleich	ADV	*	*	*	*
-2	spielt	spielen	VVFIN	2	2	2	2
+2	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 3	Ortega	<unknown>	NE	*	*	*	*
 4	aber	aber	ADV	*	*	*	*
 5	auch	auch	ADV	*	*	*	*
-6	mit	mit	APPR	2	2	2	2
+6	mit	mit	APPR	FIG	FIG	FIG	FIG
 7	dem	die	ART	*	*	*	*
-8	Feuer	Feuer	NN	2	2	2	2
+8	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	denn	denn	KON	*	*	*	*
 11	die	die	ART	*	*	*	*
@@ -160,6 +166,7 @@
 # tuepp_article_id = T911221.56
 # sent_id = 4494
 # text = Eine kürzlich ausgesprochene Drohung : " Die mit Feuer spielen , werden zu Asche verbrannt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -169,9 +176,9 @@
 5	:	:	$.	*	*	*	*
 6	"	"	$(	*	*	*	*
 7	Die	die	ART	*	*	*	*
-8	mit	mit	APPR	2	2	2	2
-9	Feuer	Feuer	NN	2	2	2	2
-10	spielen	spielen	VVINF	2	2	2	2
+8	mit	mit	APPR	FIG	FIG	FIG	FIG
+9	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+10	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	werden	werden	VAFIN	*	*	*	*
 13	zu	zu	APPR	*	*	*	*
@@ -182,6 +189,7 @@
 # tuepp_article_id = T911123.181
 # sent_id = 4495
 # text = Der Schweinehirt Ho-ti , der eines Morgens in die Wälder gegangen war , um Mastfutter für seine Schweine zu sammeln , hatte seine Hütte in der Obhut seines Sohnes Bo-bo zurückgelassen , eines großen Lümmels , der wie alle Jungen seines Alters zu gerne mit Feuer spielte .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Der	die	ART	*	*	*	*
@@ -228,21 +236,22 @@
 42	Alters	Alter	NN	*	*	*	*
 43	zu	zu	APPR	*	*	*	*
 44	gerne	gerne	ADV	*	*	*	*
-45	mit	mit	APPR	1	1	1	1
-46	Feuer	Feuer	NN	1	1	1	1
-47	spielte	spielen	VVFIN	1	1	1	1
+45	mit	mit	APPR	LIT	LIT	LIT	LIT
+46	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
+47	spielte	spielen	VVFIN	LIT	LIT	LIT	LIT
 48	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911126.189
 # sent_id = 4496
 # text = Karawahn spielt mit dem Feuer und zeigt sowohl Schrecken als auch Schönheit , die diesem Element eigen sind .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Karawahn	<unknown>	NN	*	*	*	*
-2	spielt	spielen	VVFIN	1	1	1	1
-3	mit	mit	APPR	1	1	1	1
+2	spielt	spielen	VVFIN	LIT	LIT	LIT	LIT
+3	mit	mit	APPR	LIT	LIT	LIT	LIT
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	1	1	1	1
+5	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
 6	und	und	KON	*	*	*	*
 7	zeigt	zeigen	VVFIN	*	*	*	*
 8	sowohl	sowohl	KON	*	*	*	*
@@ -261,6 +270,7 @@
 # tuepp_article_id = T900625.34
 # sent_id = 4497
 # text = Die Bürgerinitiativen gegen geplante Verbrennungsanlagen protestierten energisch , auch die Grünen würden mit dem Feuer spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -275,34 +285,36 @@
 10	die	die	ART	*	*	*	*
 11	Grünen	Grüne	NN	*	*	*	*
 12	würden	werden	VAFIN	*	*	*	*
-13	mit	mit	APPR	2	2	2	2
+13	mit	mit	APPR	FIG	FIG	FIG	FIG
 14	dem	die	ART	*	*	*	*
-15	Feuer	Feuer	NN	2	2	2	2
-16	spielen	spielen	VVINF	2	2	2	2
+15	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+16	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901012.75
 # sent_id = 4498
 # text = Israel spielt mit dem Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Israel	Israel	NE	*	*	*	*
-2	spielt	spielen	VVFIN	2	2	2	2
-3	mit	mit	APPR	2	2	2	2
+2	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+3	mit	mit	APPR	FIG	FIG	FIG	FIG
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	2	2	2	2
+5	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T901012.75
 # sent_id = 4499
 # text = Israel spielt erneut mit dem Feuer , in einer Zeit , da die Gefühle überall wegen der tyrannischen irakischen Besetzung von Kuweit aufgebracht sind .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Israel	Israel	NE	*	*	*	*
-2	spielt	spielen	VVFIN	2	2	2	2
+2	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 3	erneut	erneut	ADJD	*	*	*	*
-4	mit	mit	APPR	2	2	2	2
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	in	in	APPR	*	*	*	*
 9	einer	eine	ART	*	*	*	*
@@ -326,6 +338,7 @@
 # tuepp_article_id = T900104.64
 # sent_id = 4500
 # text = Der IG-Metall-Chef Franz Steinkühler " spielt mit dem Feuer " , sagte der Leiter des Unternehmensverbandes Gesamtmetall , Werner Stumpfe .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -333,10 +346,10 @@
 3	Franz	Franz	NE	*	*	*	*
 4	Steinkühler	Steinkühler	NE	*	*	*	*
 5	"	"	$(	*	*	*	*
-6	spielt	spielen	VVFIN	2	2	2	2
-7	mit	mit	APPR	2	2	2	2
+6	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+7	mit	mit	APPR	FIG	FIG	FIG	FIG
 8	dem	die	ART	*	*	*	*
-9	Feuer	Feuer	NN	2	2	2	2
+9	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 10	"	"	$(	*	*	*	*
 11	,	,	$,	*	*	*	*
 12	sagte	sagen	VVFIN	*	*	*	*
@@ -353,6 +366,7 @@
 # tuepp_article_id = T901219.130
 # sent_id = 4501
 # text = Obgleich bekannt war , daß Mader , umgeben von vielen Wasserträgern , gern mit dem Feuer spielt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Obgleich	obgleich	KOUS	*	*	*	*
@@ -368,15 +382,16 @@
 11	Wasserträgern	Wasserträger	NN	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	gern	gern	ADV	*	*	*	*
-14	mit	mit	APPR	2	2	2	2
+14	mit	mit	APPR	FIG	FIG	FIG	FIG
 15	dem	die	ART	*	*	*	*
-16	Feuer	Feuer	NN	2	2	2	2
-17	spielt	spielen	VVFIN	2	2	2	2
+16	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+17	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900818.178
 # sent_id = 4502
 # text = Vorwurf der DAG : Die DDR-Regierung " spielt mit dem Feuer " .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vorwurf	Vorwurf	NN	*	*	*	*
@@ -386,16 +401,17 @@
 5	Die	die	ART	*	*	*	*
 6	DDR-Regierung	DDR-Regierung	NN	*	*	*	*
 7	"	"	$(	*	*	*	*
-8	spielt	spielen	VVFIN	2	2	2	2
-9	mit	mit	APPR	2	2	2	2
+8	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+9	mit	mit	APPR	FIG	FIG	FIG	FIG
 10	dem	die	ART	*	*	*	*
-11	Feuer	Feuer	NN	2	2	2	2
+11	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 12	"	"	$(	*	*	*	*
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900312.387
 # sent_id = 4503
 # text = Er sprach sich für die Anerkennung der Oder-Neiße-Grenze aus : " Wer sie in Frage stellt , spielt mit dem Feuer " .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -415,47 +431,50 @@
 15	Frage	Frage	NN	*	*	*	*
 16	stellt	stellen	VVFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
-18	spielt	spielen	VVFIN	2	2	2	2
-19	mit	mit	APPR	2	2	2	2
+18	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+19	mit	mit	APPR	FIG	FIG	FIG	FIG
 20	dem	die	ART	*	*	*	*
-21	Feuer	Feuer	NN	2	2	2	2
+21	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 22	"	"	$(	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900306.113
 # sent_id = 4504
 # text = In dieser hochexplosiven Atmosphäre spielen die russischen Nationalisten mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	dieser	dies	PDAT	*	*	*	*
 3	hochexplosiven	hochexplosiv	ADJA	*	*	*	*
 4	Atmosphäre	Atmosphäre	NN	*	*	*	*
-5	spielen	spielen	VVFIN	2	2	2	2
+5	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
 7	russischen	russisch	ADJA	*	*	*	*
 8	Nationalisten	Nationalist	NN	*	*	*	*
-9	mit	mit	APPR	2	2	2	2
+9	mit	mit	APPR	FIG	FIG	FIG	FIG
 10	dem	die	ART	*	*	*	*
-11	Feuer	Feuer	NN	2	2	2	2
+11	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901114.226
 # sent_id = 4505
 # text = » Räumen bedeutet mit Feuer spielen «
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	»	<unknown>	ADJA	*	*	*	*
 2	Räumen	Raum|Räumen	NN	*	*	*	*
 3	bedeutet	bedeuten	VVFIN	*	*	*	*
-4	mit	mit	APPR	2	2	2	2
-5	Feuer	Feuer	NN	2	2	2	2
-6	spielen	spielen	VVFIN	2	2	2	2
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
+5	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+6	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
 7	«	<unknown>	ADJD	*	*	*	*
 
 # tuepp_article_id = T901114.226
 # sent_id = 4506
 # text = Zu diesem Zeitpunkt ein Haus zu räumen , bedeutet , mit dem Feuer zu spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zu	zu	APPR	*	*	*	*
@@ -468,16 +487,17 @@
 8	,	,	$,	*	*	*	*
 9	bedeutet	bedeuten	VVFIN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	mit	mit	APPR	2	2	2	2
+11	mit	mit	APPR	FIG	FIG	FIG	FIG
 12	dem	die	ART	*	*	*	*
-13	Feuer	Feuer	NN	2	2	2	2
+13	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 14	zu	zu	PTKZU	*	*	*	*
-15	spielen	spielen	VVINF	2	2	2	2
+15	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901115.27
 # sent_id = 4507
 # text = " Zu diesem Zeitpunkt ein Haus zu räumen , bedeutet , mit dem Feuer zu spielen " , hieß es in dem Schreiben , das der Verfasser schon am Sonntag beim Polizeipräsidium abgegeben hat .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -491,11 +511,11 @@
 9	,	,	$,	*	*	*	*
 10	bedeutet	bedeuten	VVFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	mit	mit	APPR	2	2	2	2
+12	mit	mit	APPR	FIG	FIG	FIG	FIG
 13	dem	die	ART	*	*	*	*
-14	Feuer	Feuer	NN	2	2	2	2
+14	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 15	zu	zu	PTKZU	*	*	*	*
-16	spielen	spielen	VVINF	2	2	2	2
+16	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 17	"	"	$(	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	hieß	heißen	VVFIN	*	*	*	*
@@ -519,6 +539,7 @@
 # tuepp_article_id = T901115.191
 # sent_id = 4508
 # text = » Zu diesem Zeitpunkt ein Haus zu räumen , bedeutet , mit dem Feuer zu spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	»	<unknown>	NN	*	*	*	*
@@ -532,16 +553,17 @@
 9	,	,	$,	*	*	*	*
 10	bedeutet	bedeuten	VVFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	mit	mit	APPR	2	2	2	2
+12	mit	mit	APPR	FIG	FIG	FIG	FIG
 13	dem	die	ART	*	*	*	*
-14	Feuer	Feuer	NN	2	2	2	2
+14	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 15	zu	zu	PTKZU	*	*	*	*
-16	spielen	spielen	VVINF	2	2	2	2
+16	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900214.62
 # sent_id = 4509
 # text = " Wer den Arbeitnehmern wieder regelmäßige Samstagsarbeit aufdrücken will , der spielt mit dem Feuer und braucht sich nicht zu wundern , daß auch die Bereitschaft zu Überstunden schwindet " , erklärte Kemeth .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -555,10 +577,10 @@
 9	will	wollen	VMFIN	*	*	*	*
 10	,	,	$,	*	*	*	*
 11	der	die	PDS	*	*	*	*
-12	spielt	spielen	VVFIN	2	2	2	2
-13	mit	mit	APPR	2	2	2	2
+12	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+13	mit	mit	APPR	FIG	FIG	FIG	FIG
 14	dem	die	ART	*	*	*	*
-15	Feuer	Feuer	NN	2	2	2	2
+15	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 16	und	und	KON	*	*	*	*
 17	braucht	brauchen	VVFIN	*	*	*	*
 18	sich	sich	PRF	*	*	*	*
@@ -582,6 +604,7 @@
 # tuepp_article_id = T920902.55
 # sent_id = 4510
 # text = Magdanz , Kilimann und Innenminister Kupfer hätten " mit dem Feuer gespielt und die Explosion erlebt " .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Magdanz	<unknown>	NN	*	*	*	*
@@ -592,10 +615,10 @@
 6	Kupfer	Kupfer	NN	*	*	*	*
 7	hätten	haben	VAFIN	*	*	*	*
 8	"	"	$(	*	*	*	*
-9	mit	mit	APPR	2	2	2	2
+9	mit	mit	APPR	FIG	FIG	FIG	FIG
 10	dem	die	ART	*	*	*	*
-11	Feuer	Feuer	NN	2	2	2	2
-12	gespielt	spielen	VVPP	2	2	2	2
+11	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+12	gespielt	spielen	VVPP	FIG	FIG	FIG	FIG
 13	und	und	KON	*	*	*	*
 14	die	die	ART	*	*	*	*
 15	Explosion	Explosion	NN	*	*	*	*
@@ -606,34 +629,37 @@
 # tuepp_article_id = T921207.205
 # sent_id = 4511
 # text = Jäger spielt mit dem Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Jäger	Jäger	NE	*	*	*	*
-2	spielt	spielen	VVFIN	2	3	3	3
-3	mit	mit	APPR	2	3	3	3
+2	spielt	spielen	VVFIN	FIG	UND	UND	UND
+3	mit	mit	APPR	FIG	UND	UND	UND
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	2	3	3	3
+5	Feuer	Feuer	NN	FIG	UND	UND	UND
 
 # tuepp_article_id = T920814.28
 # sent_id = 4512
 # text = Cage spielt mit dem Zufall wie Kinder mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Cage	<unknown>	NN	*	*	*	*
-2	spielt	spielen	VVFIN	4	2	2	2
+2	spielt	spielen	VVFIN	BOTH	FIG	FIG	FIG
 3	mit	mit	APPR	*	*	*	*
 4	dem	die	ART	*	*	*	*
 5	Zufall	Zufall	NN	*	*	*	*
 6	wie	wie	KOKOM	*	*	*	*
 7	Kinder	Kind	NN	*	*	*	*
-8	mit	mit	APPR	4	2	2	2
+8	mit	mit	APPR	BOTH	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Feuer	Feuer	NN	4	2	2	2
+10	Feuer	Feuer	NN	BOTH	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921104.64
 # sent_id = 4513
 # text = Und David Hunt , der Minister für Wales , fügte hinzu : " Die Leute spielen mit dem Feuer , wenn sie glauben , daß die Regierung bei den Maastrichter Verträgen niedergestimmt werden kann , und am nächsten Tag würde sich alles wieder beruhigen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -651,10 +677,10 @@
 13	"	"	$(	*	*	*	*
 14	Die	die	ART	*	*	*	*
 15	Leute	Leute	NN	*	*	*	*
-16	spielen	spielen	VVFIN	2	2	2	2
-17	mit	mit	APPR	2	2	2	2
+16	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+17	mit	mit	APPR	FIG	FIG	FIG	FIG
 18	dem	die	ART	*	*	*	*
-19	Feuer	Feuer	NN	2	2	2	2
+19	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	wenn	wenn	KOUS	*	*	*	*
 22	sie	sie	PPER	*	*	*	*
@@ -685,13 +711,14 @@
 # tuepp_article_id = T880128.13
 # sent_id = 4514
 # text = Sie spielen mit dem Feuer : wir werden nicht frieren .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Sie	Sie	PPER	*	*	*	*
-2	spielen	spielen	VVFIN	4	2	2	2
-3	mit	mit	APPR	4	2	2	2
+2	spielen	spielen	VVFIN	BOTH	FIG	FIG	FIG
+3	mit	mit	APPR	BOTH	FIG	FIG	FIG
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	4	2	2	2
+5	Feuer	Feuer	NN	BOTH	FIG	FIG	FIG
 6	:	:	$.	*	*	*	*
 7	wir	wir	PPER	*	*	*	*
 8	werden	werden	VAFIN	*	*	*	*
@@ -702,30 +729,32 @@
 # tuepp_article_id = T880426.24
 # sent_id = 4515
 # text = Beide spielen mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Beide	beide	PIS	*	*	*	*
-2	spielen	spielen	VVFIN	2	2	2	2
-3	mit	mit	APPR	2	2	2	2
+2	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+3	mit	mit	APPR	FIG	FIG	FIG	FIG
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	2	2	2	2
+5	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881114.43
 # sent_id = 4516
 # text = Mehrere Delegierte spielten denn auch am Sonnabend mit dem Feuer : Schließlich sei Wilhelm mit einem " Superergebnis " zum Parteivorsitzenden gewählt worden .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mehrere	mehrere	PIAT	*	*	*	*
 2	Delegierte	Delegierte	NN	*	*	*	*
-3	spielten	spielen	VVFIN	2	2	2	2
+3	spielten	spielen	VVFIN	FIG	FIG	FIG	FIG
 4	denn	denn	KON	*	*	*	*
 5	auch	auch	ADV	*	*	*	*
 6	am	an	APPRART	*	*	*	*
 7	Sonnabend	Sonnabend	NN	*	*	*	*
-8	mit	mit	APPR	2	2	2	2
+8	mit	mit	APPR	FIG	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Feuer	Feuer	NN	2	2	2	2
+10	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 11	:	:	$.	*	*	*	*
 12	Schließlich	schließlich	ADV	*	*	*	*
 13	sei	sein	VAFIN	*	*	*	*
@@ -744,29 +773,31 @@
 # tuepp_article_id = T881121.31
 # sent_id = 4517
 # text = Der Serbe Milosevic spielt mit dem Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Serbe	Serbe	NN	*	*	*	*
 3	Milosevic	<unknown>	NE	*	*	*	*
-4	spielt	spielen	VVFIN	2	3	3	3
-5	mit	mit	APPR	2	3	3	3
+4	spielt	spielen	VVFIN	FIG	UND	UND	UND
+5	mit	mit	APPR	FIG	UND	UND	UND
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	3	3	3
+7	Feuer	Feuer	NN	FIG	UND	UND	UND
 
 # tuepp_article_id = T881121.187
 # sent_id = 4518
 # text = Hier wird wieder einmal mit dem Feuer gespielt , das so vielen ein Grab in den Lüften grub .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Hier	hier	ADV	*	*	*	*
 2	wird	werden	VAFIN	*	*	*	*
 3	wieder	wieder	ADV	*	*	*	*
 4	einmal	einmal	ADV	*	*	*	*
-5	mit	mit	APPR	2	2	2	2
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
-8	gespielt	spielen	VVPP	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+8	gespielt	spielen	VVPP	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	das	die	PRELS	*	*	*	*
 11	so	so	ADV	*	*	*	*
@@ -782,14 +813,15 @@
 # tuepp_article_id = T880202.57
 # sent_id = 4519
 # text = " Die spielen mit dem Feuer , die Parteiherren " , sagt ein Passant in Warschau und ein Arbeiter : " Totale Volksverarschung " .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Die	die	PDS	*	*	*	*
-3	spielen	spielen	VVFIN	2	2	2	2
-4	mit	mit	APPR	2	2	2	2
+3	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	die	die	ART	*	*	*	*
 9	Parteiherren	<unknown>	NN	*	*	*	*
@@ -813,23 +845,25 @@
 # tuepp_article_id = T870307.48
 # sent_id = 4520
 # text = Arbeitgeber spielen mit Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Arbeitgeber	Arbeitgeber	NN	*	*	*	*
-2	spielen	spielen	VVFIN	2	2	2	2
-3	mit	mit	APPR	2	2	2	2
-4	Feuer	Feuer	NN	2	2	2	2
+2	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+3	mit	mit	APPR	FIG	FIG	FIG	FIG
+4	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T870307.48
 # sent_id = 4521
 # text = Gesamtmetall spiele mit dem Feuer des Arbeitskampfes .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Gesamtmetall	Gesamtmetall	NN	*	*	*	*
-2	spiele	spielen	VVFIN	2	2	2	2
-3	mit	mit	APPR	2	2	2	2
+2	spiele	spielen	VVFIN	FIG	FIG	FIG	FIG
+3	mit	mit	APPR	FIG	FIG	FIG	FIG
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	2	2	2	2
+5	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 6	des	die	ART	*	*	*	*
 7	Arbeitskampfes	Arbeitskampf	NN	*	*	*	*
 8	.	.	$.	*	*	*	*
@@ -837,19 +871,21 @@
 # tuepp_article_id = T861028.73
 # sent_id = 4522
 # text = " Amerika spielt mit dem Feuer "
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Amerika	Amerika	NE	*	*	*	*
-3	spielt	spielen	VVFIN	2	2	2	2
-4	mit	mit	APPR	2	2	2	2
+3	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 7	"	"	$(	*	*	*	*
 
 # tuepp_article_id = T861028.73
 # sent_id = 4523
 # text = Amerika tut alles , um seine eigenen Interessen durchzusetzen und spielt mit dem Feuer in einem Gebiet , das weit entfernt von seinen Grenzen liegt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Amerika	Amerika	NE	*	*	*	*
@@ -862,10 +898,10 @@
 8	Interessen	Interesse	NN	*	*	*	*
 9	durchzusetzen	durchsetzen	VVIZU	*	*	*	*
 10	und	und	KON	*	*	*	*
-11	spielt	spielen	VVFIN	2	2	2	2
-12	mit	mit	APPR	2	2	2	2
+11	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+12	mit	mit	APPR	FIG	FIG	FIG	FIG
 13	dem	die	ART	*	*	*	*
-14	Feuer	Feuer	NN	2	2	2	2
+14	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 15	in	in	APPR	*	*	*	*
 16	einem	eine	ART	*	*	*	*
 17	Gebiet	Gebiet	NN	*	*	*	*
@@ -882,6 +918,7 @@
 # tuepp_article_id = T930902.52
 # sent_id = 4524
 # text = " Arafat weiß , daß er mit dem Feuer spielt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -890,36 +927,38 @@
 4	,	,	$,	*	*	*	*
 5	daß	dass	KOUS	*	*	*	*
 6	er	er	PPER	*	*	*	*
-7	mit	mit	APPR	2	2	2	2
+7	mit	mit	APPR	FIG	FIG	FIG	FIG
 8	dem	die	ART	*	*	*	*
-9	Feuer	Feuer	NN	2	2	2	2
-10	spielt	spielen	VVFIN	2	2	2	2
+9	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+10	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930112.22
 # sent_id = 4525
 # text = Der Irak spielt erneut mit dem Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Irak	Irak	NE	*	*	*	*
-3	spielt	spielen	VVFIN	2	2	2	2
+3	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 4	erneut	erneut	ADJD	*	*	*	*
-5	mit	mit	APPR	2	2	2	2
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T930106.8
 # sent_id = 4526
 # text = Saddam Hussein spielt mit dem Feuer : Nach Angaben des Pentagon hat die irakische Führung Raketen in die Flugverbotszone zum Schutz der Schiiten im Süden des Landes verlegt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Saddam	Saddam	NE	*	*	*	*
 2	Hussein	Hussein	NE	*	*	*	*
-3	spielt	spielen	VVFIN	2	2	2	2
-4	mit	mit	APPR	2	2	2	2
+3	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 7	:	:	$.	*	*	*	*
 8	Nach	nach	APPR	*	*	*	*
 9	Angaben	Angabe	NN	*	*	*	*
@@ -947,6 +986,7 @@
 # tuepp_article_id = T930427.248
 # sent_id = 4527
 # text = Und außerdem : die Titel der Bücher - sie sind teilweise noch lesbar - hatten anscheinend alle in ihrem Wortlaut " mit dem Feuer gespielt " - von " Eine kleine Flamme " über " Solange das Feuer brannte " bis " Menschen im Feuer " , und so fort .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -970,10 +1010,10 @@
 19	ihrem	ihr	PPOSAT	*	*	*	*
 20	Wortlaut	Wortlaut	NN	*	*	*	*
 21	"	"	$(	*	*	*	*
-22	mit	mit	APPR	2	2	2	2
+22	mit	mit	APPR	FIG	FIG	FIG	FIG
 23	dem	die	ART	*	*	*	*
-24	Feuer	Feuer	NN	2	2	2	2
-25	gespielt	spielen	VVPP	2	2	2	2
+24	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+25	gespielt	spielen	VVPP	FIG	FIG	FIG	FIG
 26	"	"	$(	*	*	*	*
 27	-	-	$(	*	*	*	*
 28	von	von	NE	*	*	*	*
@@ -1004,20 +1044,22 @@
 # tuepp_article_id = T930727.219
 # sent_id = 4528
 # text = Der Hamburger SV spielt mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Hamburger	Hamburger	ADJA	*	*	*	*
 3	SV	SV	NE	*	*	*	*
-4	spielt	spielen	VVFIN	2	2	2	2
-5	mit	mit	APPR	2	2	2	2
+4	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931228.39
 # sent_id = 4529
 # text = Das ist an sich schon gefährlich , so mit dem Feuer zu spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Das	die	PDS	*	*	*	*
@@ -1028,21 +1070,22 @@
 6	gefährlich	gefährlich	ADJD	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	so	so	ADV	*	*	*	*
-9	mit	mit	APPR	1	1	1	1
+9	mit	mit	APPR	LIT	LIT	LIT	LIT
 10	dem	die	ART	*	*	*	*
-11	Feuer	Feuer	NN	1	1	1	1
+11	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
 12	zu	zu	PTKZU	*	*	*	*
-13	spielen	spielen	VVINF	1	1	1	1
+13	spielen	spielen	VVINF	LIT	LIT	LIT	LIT
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930827.142
 # sent_id = 4530
 # text = Mit Feuer gespielt : Wohnung ausgebrannt
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Mit	mit	APPR	1	1	1	1
-2	Feuer	Feuer	NN	1	1	1	1
-3	gespielt	spielen	VVPP	1	1	1	1
+1	Mit	mit	APPR	LIT	LIT	LIT	LIT
+2	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
+3	gespielt	spielen	VVPP	LIT	LIT	LIT	LIT
 4	:	:	$.	*	*	*	*
 5	Wohnung	Wohnung	NN	*	*	*	*
 6	ausgebrannt	ausbrennen	VVPP	*	*	*	*
@@ -1050,14 +1093,15 @@
 # tuepp_article_id = T930827.142
 # sent_id = 4531
 # text = Der Junge hatte mit Feuer gespielt und es nicht mehr unter Kontrolle bekommen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Junge	Junge	NN	*	*	*	*
 3	hatte	haben	VAFIN	*	*	*	*
-4	mit	mit	APPR	1	1	1	1
-5	Feuer	Feuer	NN	1	1	1	1
-6	gespielt	spielen	VVPP	1	1	1	1
+4	mit	mit	APPR	LIT	LIT	LIT	LIT
+5	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
+6	gespielt	spielen	VVPP	LIT	LIT	LIT	LIT
 7	und	und	KON	*	*	*	*
 8	es	es	PPER	*	*	*	*
 9	nicht	nicht	PTKNEG	*	*	*	*
@@ -1070,6 +1114,7 @@
 # tuepp_article_id = T930305.156
 # sent_id = 4532
 # text = Angeblich habe Klaus im Grenzgebiet mit Feuer gespielt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Angeblich	angeblich	ADJD	*	*	*	*
@@ -1077,14 +1122,15 @@
 3	Klaus	Klaus	NE	*	*	*	*
 4	im	in	APPRART	*	*	*	*
 5	Grenzgebiet	Grenzgebiet	NN	*	*	*	*
-6	mit	mit	APPR	1	1	1	1
-7	Feuer	Feuer	NN	1	1	1	1
-8	gespielt	spielen	VVPP	1	1	1	1
+6	mit	mit	APPR	LIT	LIT	LIT	LIT
+7	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
+8	gespielt	spielen	VVPP	LIT	LIT	LIT	LIT
 9	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960502.9
 # sent_id = 4533
 # text = " Wer die Lohnfortzahlungen im Krankheitsfall angreife , spiele mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1095,15 +1141,16 @@
 6	Krankheitsfall	Krankheitsfall	NN	*	*	*	*
 7	angreife	angreifen	VVFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	spiele	spielen	VVFIN	2	2	2	2
-10	mit	mit	APPR	2	2	2	2
+9	spiele	spielen	VVFIN	FIG	FIG	FIG	FIG
+10	mit	mit	APPR	FIG	FIG	FIG	FIG
 11	dem	die	ART	*	*	*	*
-12	Feuer	Feuer	NN	2	2	2	2
+12	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960122.107
 # sent_id = 4534
 # text = Mindestens zwei der Verhafteten haben auch in der Vergangenheit schon gerne mit dem Feuer gespielt : Sie waren aus dem Militärdienst entlassen worden , nachdem sie sich im Dezember 1990 am Putschversuch des rechtsextremen Mohamed Ali Seineldin beteiligt hatten .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Mindestens	mindestens	ADV	*	*	*	*
@@ -1117,10 +1164,10 @@
 9	Vergangenheit	Vergangenheit	NN	*	*	*	*
 10	schon	schon	ADV	*	*	*	*
 11	gerne	gerne	ADV	*	*	*	*
-12	mit	mit	APPR	2	3	2	2
+12	mit	mit	APPR	FIG	UND	FIG	FIG
 13	dem	die	ART	*	*	*	*
-14	Feuer	Feuer	NN	2	3	2	2
-15	gespielt	spielen	VVPP	2	3	2	2
+14	Feuer	Feuer	NN	FIG	UND	FIG	FIG
+15	gespielt	spielen	VVPP	FIG	UND	FIG	FIG
 16	:	:	$.	*	*	*	*
 17	Sie	Sie	PPER	*	*	*	*
 18	waren	sein	VAFIN	*	*	*	*
@@ -1150,6 +1197,7 @@
 # tuepp_article_id = T960116.36
 # sent_id = 4535
 # text = Wieder mal hat der Kreml nicht bemerkt , wie er in Dagestan mit dem Feuer spielt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wieder	wieder	ADV	*	*	*	*
@@ -1164,15 +1212,16 @@
 10	er	er	PPER	*	*	*	*
 11	in	in	APPR	*	*	*	*
 12	Dagestan	<unknown>	NE	*	*	*	*
-13	mit	mit	APPR	2	2	2	2
+13	mit	mit	APPR	FIG	FIG	FIG	FIG
 14	dem	die	ART	*	*	*	*
-15	Feuer	Feuer	NN	2	2	2	2
-16	spielt	spielen	VVFIN	2	2	2	2
+15	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+16	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960416.224
 # sent_id = 4536
 # text = Was mußte das Fotomaterial schon alles über sich ergehen lassen : Joan Fontcuberta liebte es , mit seinen Bartstoppeln auf dem weichen Fotopapier herumzukratzen - genau : auf dem Motiv eines Kaktus ' ; Kollege Inigo Royo spielte sogar mit dem Feuer und sengelte seine düsteren Landschaftsbilder formschön an .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Was	was	PWS	*	*	*	*
@@ -1212,11 +1261,11 @@
 35	Kollege	Kollege	NN	*	*	*	*
 36	Inigo	Inigo	NE	*	*	*	*
 37	Royo	<unknown>	NE	*	*	*	*
-38	spielte	spielen	VVFIN	1	2	1	1
+38	spielte	spielen	VVFIN	LIT	FIG	LIT	LIT
 39	sogar	sogar	ADV	*	*	*	*
-40	mit	mit	APPR	1	2	1	1
+40	mit	mit	APPR	LIT	FIG	LIT	LIT
 41	dem	die	ART	*	*	*	*
-42	Feuer	Feuer	NN	1	2	1	1
+42	Feuer	Feuer	NN	LIT	FIG	LIT	LIT
 43	und	und	KON	*	*	*	*
 44	sengelte	<unknown>	VVFIN	*	*	*	*
 45	seine	sein	PPOSAT	*	*	*	*
@@ -1229,6 +1278,7 @@
 # tuepp_article_id = T961202.58
 # sent_id = 4537
 # text = Während er sich dafür von eben dieser Regierung vorhalten lassen mußte , daß er die parteipolitische Neutralität verletze und mit dem Feuer spiele , feierten ihn die grünen Delegierten mit der gleichen routinierten Freundlichkeit ab wie Stunden später eine Suhler Bürgerinitiative gegen den Autobahnbau .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -1250,10 +1300,10 @@
 17	Neutralität	Neutralität	NN	*	*	*	*
 18	verletze	verletzen	VVFIN	*	*	*	*
 19	und	und	KON	*	*	*	*
-20	mit	mit	APPR	2	2	2	2
+20	mit	mit	APPR	FIG	FIG	FIG	FIG
 21	dem	die	ART	*	*	*	*
-22	Feuer	Feuer	NN	2	2	2	2
-23	spiele	spielen	VVFIN	2	2	2	2
+22	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+23	spiele	spielen	VVFIN	FIG	FIG	FIG	FIG
 24	,	,	$,	*	*	*	*
 25	feierten	feiern	VVFIN	*	*	*	*
 26	ihn	er	PPER	*	*	*	*
@@ -1280,6 +1330,7 @@
 # tuepp_article_id = T960802.99
 # sent_id = 4538
 # text = Die Zeitung L'Independant aus dem benachbarten Burkina Faso analysiert die französische Position so : " In einem Niger im Tuareg-Aufstand , an den Grenzen zu Libyen und Nigeria , Riegel des französischen Hinterhofs gegenüber der islamistischen Bedrohung und dazu noch ein Land mit Uran , darf man nicht mit dem Feuer spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1330,27 +1381,28 @@
 46	darf	dürfen	VMFIN	*	*	*	*
 47	man	man	PIS	*	*	*	*
 48	nicht	nicht	PTKNEG	*	*	*	*
-49	mit	mit	APPR	2	2	2	2
+49	mit	mit	APPR	FIG	FIG	FIG	FIG
 50	dem	die	ART	*	*	*	*
-51	Feuer	Feuer	NN	2	2	2	2
-52	spielen	spielen	VVINF	2	2	2	2
+51	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+52	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 53	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960821.73
 # sent_id = 4539
 # text = " Brot ist das Feuer , mit dem Politiker spielen und sich verbrennen " , mahnte die arabische Zeitung An- Nahar , als Ende letzten Monats bekannt wurde , die Brotpreise zu verdoppeln .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Brot	Brot	NN	*	*	*	*
 3	ist	sein	VAFIN	*	*	*	*
 4	das	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	2	2	2	2
+5	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 6	,	,	$,	*	*	*	*
-7	mit	mit	APPR	2	2	2	2
+7	mit	mit	APPR	FIG	FIG	FIG	FIG
 8	dem	die	ART	*	*	*	*
 9	Politiker	Politiker	NN	*	*	*	*
-10	spielen	spielen	VVINF	2	2	2	2
+10	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 11	und	und	KON	*	*	*	*
 12	sich	sich	PRF	*	*	*	*
 13	verbrennen	verbrennen	VVINF	*	*	*	*
@@ -1379,15 +1431,16 @@
 # tuepp_article_id = T960323.135
 # sent_id = 4540
 # text = " Vielleicht spiele ich mit dem Feuer , indem ich das Böse in schönen Bildern zeige " , deutet Volker Schlöndorff die hypnotisierende Wirkung der Nazizeremonie .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Vielleicht	vielleicht	ADV	*	*	*	*
-3	spiele	spielen	VVFIN	2	2	2	2
+3	spiele	spielen	VVFIN	FIG	FIG	FIG	FIG
 4	ich	ich	PPER	*	*	*	*
-5	mit	mit	APPR	2	2	2	2
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	indem	indem	KOUS	*	*	*	*
 10	ich	ich	PPER	*	*	*	*
@@ -1412,14 +1465,15 @@
 # tuepp_article_id = T961108.102
 # sent_id = 4541
 # text = Er spiele " mit dem Feuer " , hieß es danach von Leuten , die ihm nahestehen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
-2	spiele	spielen	VVFIN	2	2	2	2
+2	spiele	spielen	VVFIN	FIG	FIG	FIG	FIG
 3	"	"	$(	*	*	*	*
-4	mit	mit	APPR	2	2	2	2
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 7	"	"	$(	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	hieß	heißen	VVFIN	*	*	*	*
@@ -1436,14 +1490,15 @@
 # tuepp_article_id = T960219.311
 # sent_id = 4542
 # text = " Safoan spielt nicht mit Feuer " , sagt Mohammed Eid : " Er ist unschuldig .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	"	"	$(	*	*	*	*
 2	Safoan	<unknown>	NE	*	*	*	*
-3	spielt	spielen	VVFIN	1	1	1	1
+3	spielt	spielen	VVFIN	LIT	LIT	LIT	LIT
 4	nicht	nicht	PTKNEG	*	*	*	*
-5	mit	mit	APPR	1	1	1	1
-6	Feuer	Feuer	NN	1	1	1	1
+5	mit	mit	APPR	LIT	LIT	LIT	LIT
+6	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
 7	"	"	$(	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	sagt	sagen	VVFIN	*	*	*	*
@@ -1459,6 +1514,7 @@
 # tuepp_article_id = T980514.174
 # sent_id = 4543
 # text = Wenn das Übel zu etwas gut sein soll , dann muß das indische Atomexperiment zu einer radikalen internationalen Bewußtwerdung führen : Es ist nicht mehr erlaubt , mit dem Feuer zu spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -1488,16 +1544,17 @@
 25	mehr	mehr	ADV	*	*	*	*
 26	erlaubt	erlauben	VVPP	*	*	*	*
 27	,	,	$,	*	*	*	*
-28	mit	mit	APPR	2	2	2	2
+28	mit	mit	APPR	FIG	FIG	FIG	FIG
 29	dem	die	ART	*	*	*	*
-30	Feuer	Feuer	NN	2	2	2	2
+30	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 31	zu	zu	PTKZU	*	*	*	*
-32	spielen	spielen	VVINF	2	2	2	2
+32	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980624.207
 # sent_id = 4544
 # text = " Ich fürchte , daß die Fachgemeinschaft mit dem Feuer spielt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1507,15 +1564,16 @@
 5	daß	dass	KOUS	*	*	*	*
 6	die	die	ART	*	*	*	*
 7	Fachgemeinschaft	Fachgemeinschaft	NN	*	*	*	*
-8	mit	mit	APPR	2	2	2	2
+8	mit	mit	APPR	FIG	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Feuer	Feuer	NN	2	2	2	2
-11	spielt	spielen	VVFIN	2	2	2	2
+10	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+11	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980925.51
 # sent_id = 4545
 # text = Solange die AKWs nicht abgeschaltet seien , spiele man wie in Tschernobyl mit dem Feuer , wo die Katastrophe " ein Stück des Planten unbewohnbar gemacht " habe , warnte sie .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Solange	solange	KOUS	*	*	*	*
@@ -1525,14 +1583,14 @@
 5	abgeschaltet	abschalten	VVPP	*	*	*	*
 6	seien	sein	VAFIN	*	*	*	*
 7	,	,	$,	*	*	*	*
-8	spiele	spielen	VVFIN	2	2	2	2
+8	spiele	spielen	VVFIN	FIG	FIG	FIG	FIG
 9	man	man	PIS	*	*	*	*
 10	wie	wie	KOKOM	*	*	*	*
 11	in	in	APPR	*	*	*	*
 12	Tschernobyl	Tschernobyl	NE	*	*	*	*
-13	mit	mit	APPR	2	2	2	2
+13	mit	mit	APPR	FIG	FIG	FIG	FIG
 14	dem	die	ART	*	*	*	*
-15	Feuer	Feuer	NN	2	2	2	2
+15	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	wo	wo	PWAV	*	*	*	*
 18	die	die	ART	*	*	*	*
@@ -1554,10 +1612,11 @@
 # tuepp_article_id = T980724.38
 # sent_id = 4546
 # text = Jospin spielt mit dieser in aller Heimlichkeit ausgehandelten Fusion mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Jospin	<unknown>	NE	*	*	*	*
-2	spielt	spielen	VVFIN	2	2	2	2
+2	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 3	mit	mit	APPR	*	*	*	*
 4	dieser	dies	PDAT	*	*	*	*
 5	in	in	APPR	*	*	*	*
@@ -1565,24 +1624,25 @@
 7	Heimlichkeit	Heimlichkeit	NN	*	*	*	*
 8	ausgehandelten	ausgehandelt	ADJA	*	*	*	*
 9	Fusion	Fusion	NN	*	*	*	*
-10	mit	mit	APPR	2	2	2	2
+10	mit	mit	APPR	FIG	FIG	FIG	FIG
 11	dem	die	ART	*	*	*	*
-12	Feuer	Feuer	NN	2	2	2	2
+12	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980708.124
 # sent_id = 4547
 # text = Nachdem sie Anfang März mit dem Feuer spielten , indem sie vorschlugen , den Benzinpreis zu verdreifachen , und damit einen Einbruch in den Umfragen erlitten , werden sie nun bei der Geschwindigkeitsbegrenzung rückfällig .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nachdem	nachdem	KOUS	*	*	*	*
 2	sie	sie	PPER	*	*	*	*
 3	Anfang	Anfang	NN	*	*	*	*
 4	März	März	NN	*	*	*	*
-5	mit	mit	APPR	2	2	2	2
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
-8	spielten	spielen	VVFIN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+8	spielten	spielen	VVFIN	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	indem	indem	KOUS	*	*	*	*
 11	sie	sie	PPER	*	*	*	*
@@ -1614,6 +1674,7 @@
 # tuepp_article_id = T980302.197
 # sent_id = 4548
 # text = Der Angriff auf Polen habe nicht außerhalb der " Gepflogenheiten " jener Zeit gelegen : " Polen hatte zu oft selbst mit dem Feuer des Krieges gespielt , um 1939 ein Gefühl des Bedauerns in Deutschland zu erregen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1637,12 +1698,12 @@
 19	zu	zu	PTKA	*	*	*	*
 20	oft	oft	ADV	*	*	*	*
 21	selbst	selbst	ADV	*	*	*	*
-22	mit	mit	APPR	2	2	2	2
+22	mit	mit	APPR	FIG	FIG	FIG	FIG
 23	dem	die	ART	*	*	*	*
-24	Feuer	Feuer	NN	2	2	2	2
+24	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 25	des	die	ART	*	*	*	*
 26	Krieges	Krieg	NN	*	*	*	*
-27	gespielt	spielen	VVPP	2	2	2	2
+27	gespielt	spielen	VVPP	FIG	FIG	FIG	FIG
 28	,	,	$,	*	*	*	*
 29	um	um	APPR	*	*	*	*
 30	1939	@card@	CARD	*	*	*	*
@@ -1659,6 +1720,7 @@
 # tuepp_article_id = T980204.235
 # sent_id = 4549
 # text = Weil ein Kind offenbar in seinem Bett mit Feuer spielt hatte , ist am Montagabend eine Dachgeschoßwohnung in Brand geraten .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Weil	weil	KOUS	*	*	*	*
@@ -1668,9 +1730,9 @@
 5	in	in	APPR	*	*	*	*
 6	seinem	sein	PPOSAT	*	*	*	*
 7	Bett	Bett	NN	*	*	*	*
-8	mit	mit	APPR	1	1	1	1
-9	Feuer	Feuer	NN	1	1	1	1
-10	spielt	spielen	VVFIN	1	1	1	1
+8	mit	mit	APPR	LIT	LIT	LIT	LIT
+9	Feuer	Feuer	NN	LIT	LIT	LIT	LIT
+10	spielt	spielen	VVFIN	LIT	LIT	LIT	LIT
 11	hatte	haben	VAFIN	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	ist	sein	VAFIN	*	*	*	*
@@ -1686,26 +1748,28 @@
 # tuepp_article_id = T970513.85
 # sent_id = 4550
 # text = Die türkischen Islamisten spielen mit dem Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	türkischen	türkisch	ADJA	*	*	*	*
 3	Islamisten	<unknown>	NN	*	*	*	*
-4	spielen	spielen	VVFIN	2	2	2	2
-5	mit	mit	APPR	2	2	2	2
+4	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T971017.360
 # sent_id = 4551
 # text = Wer mit dem Feuer spielt , sollte sich zuerst um die Sicherheit seiner Mitbürger sorgen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
-2	mit	mit	APPR	2	2	2	2
+2	mit	mit	APPR	FIG	FIG	FIG	FIG
 3	dem	die	ART	*	*	*	*
-4	Feuer	Feuer	NN	2	2	2	2
-5	spielt	spielen	VVFIN	2	2	2	2
+4	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+5	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 6	,	,	$,	*	*	*	*
 7	sollte	sollen	VMFIN	*	*	*	*
 8	sich	sich	PRF	*	*	*	*
@@ -1721,13 +1785,14 @@
 # tuepp_article_id = T971015.35
 # sent_id = 4552
 # text = Sie spielen mit dem Feuer " , sagte der für Zypern zuständige türkische Staatsminister Sükrü Gürgel in Ankara .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	spielen	spielen	VVFIN	2	2	2	2
-3	mit	mit	APPR	2	2	2	2
+2	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+3	mit	mit	APPR	FIG	FIG	FIG	FIG
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	2	2	2	2
+5	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 6	"	"	$(	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	sagte	sagen	VVFIN	*	*	*	*
@@ -1746,15 +1811,16 @@
 # tuepp_article_id = T970414.87
 # sent_id = 4553
 # text = " Tshisekedi hat mit dem Feuer gespielt " , meint Rechtsanwalt Kinkela , zugleich erster Parlamentsreferent .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Tshisekedi	<unknown>	NE	*	*	*	*
 3	hat	haben	VAFIN	*	*	*	*
-4	mit	mit	APPR	2	2	2	2
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
-7	gespielt	spielen	VVPP	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+7	gespielt	spielen	VVPP	FIG	FIG	FIG	FIG
 8	"	"	$(	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	meint	meinen	VVFIN	*	*	*	*
@@ -1769,29 +1835,31 @@
 # tuepp_article_id = T970304.42
 # sent_id = 4554
 # text = Wir sollten nicht mit dem Feuer spielen .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
 2	sollten	sollen	VMFIN	*	*	*	*
 3	nicht	nicht	PTKNEG	*	*	*	*
-4	mit	mit	APPR	2	2	2	2
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
-7	spielen	spielen	VVINF	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+7	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970227.97
 # sent_id = 4555
 # text = " Die Israelis spielen mit dem Feuer " , erklärte gestern der für Jerusalem zuständige Vertreter der palästinensischen Autonomiebehörden , Faisal Husseini .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Die	die	ART	*	*	*	*
 3	Israelis	Israeli	NN	*	*	*	*
-4	spielen	spielen	VVFIN	2	2	2	2
-5	mit	mit	APPR	2	2	2	2
+4	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	"	"	$(	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	erklärte	erklären	VVFIN	*	*	*	*
@@ -1812,15 +1880,16 @@
 # tuepp_article_id = T940604.79
 # sent_id = 4556
 # text = " Die Regierung spielt mit dem Feuer " , warnt ein Mitglied einer deutschen Hilfsorganisation .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Die	die	ART	*	*	*	*
 3	Regierung	Regierung	NN	*	*	*	*
-4	spielt	spielen	VVFIN	2	2	2	2
-5	mit	mit	APPR	2	2	2	2
+4	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	"	"	$(	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	warnt	warnen	VVFIN	*	*	*	*
@@ -1834,6 +1903,7 @@
 # tuepp_article_id = T940622.135
 # sent_id = 4557
 # text = Ulrike Windsperger von den Grünen forderte CSU-Mann Ellmaier auf , sich bei Pfarrer Stahlschmidt zu entschuldigen : " Gerade in Zeiten wie diesen muß man all denen , die mit dem Feuer spielen , mutig entgegentreten .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ulrike	Ulrike	NE	*	*	*	*
@@ -1865,10 +1935,10 @@
 27	denen	die	PDS	*	*	*	*
 28	,	,	$,	*	*	*	*
 29	die	die	PRELS	*	*	*	*
-30	mit	mit	APPR	2	2	2	2
+30	mit	mit	APPR	FIG	FIG	FIG	FIG
 31	dem	die	ART	*	*	*	*
-32	Feuer	Feuer	NN	2	2	2	2
-33	spielen	spielen	VVINF	2	2	2	2
+32	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+33	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 34	,	,	$,	*	*	*	*
 35	mutig	mutig	ADJD	*	*	*	*
 36	entgegentreten	entgegentreten	VVINF	*	*	*	*
@@ -1877,6 +1947,7 @@
 # tuepp_article_id = T940609.76
 # sent_id = 4558
 # text = Major warnte , daß sie mit dem Feuer spielen , wenn sie ihr Kreuzchen verweigerten : " Beschwert euch nicht bei mir , wenn eine sozialistische Mehrheit in Brüssel dann Ausgaben und Steuern erhöht und sich in jeden Winkel eures Lebens einmischt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Major	Major	NN	*	*	*	*
@@ -1884,10 +1955,10 @@
 3	,	,	$,	*	*	*	*
 4	daß	dass	KOUS	*	*	*	*
 5	sie	sie	PPER	*	*	*	*
-6	mit	mit	APPR	2	2	2	2
+6	mit	mit	APPR	FIG	FIG	FIG	FIG
 7	dem	die	ART	*	*	*	*
-8	Feuer	Feuer	NN	2	2	2	2
-9	spielen	spielen	VVINF	2	2	2	2
+8	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+9	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	wenn	wenn	KOUS	*	*	*	*
 12	sie	sie	PPER	*	*	*	*
@@ -1926,17 +1997,19 @@
 # tuepp_article_id = T941006.217
 # sent_id = 4559
 # text = CDUSPDFDP spielen mit dem Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	CDUSPDFDP	<unknown>	NN	*	*	*	*
-2	spielen	spielen	VVFIN	2	2	2	2
-3	mit	mit	APPR	2	2	2	2
+2	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+3	mit	mit	APPR	FIG	FIG	FIG	FIG
 4	dem	die	ART	*	*	*	*
-5	Feuer	Feuer	NN	2	2	2	2
+5	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T940909.24
 # sent_id = 4560
 # text = " Wir warnen Arafats Regierung , nicht mit dem Feuer zu spielen " , hieß es auf dem Flugblatt .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1946,11 +2019,11 @@
 5	Regierung	Regierung	NN	*	*	*	*
 6	,	,	$,	*	*	*	*
 7	nicht	nicht	PTKNEG	*	*	*	*
-8	mit	mit	APPR	2	2	2	2
+8	mit	mit	APPR	FIG	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Feuer	Feuer	NN	2	2	2	2
+10	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 11	zu	zu	PTKZU	*	*	*	*
-12	spielen	spielen	VVINF	2	2	2	2
+12	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 13	"	"	$(	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	hieß	heißen	VVFIN	*	*	*	*
@@ -1963,6 +2036,7 @@
 # tuepp_article_id = T940128.71
 # sent_id = 4561
 # text = Aber einige Beobachter meinen , Bouteflika habe mit dem Feuer gespielt und sei zur Zeit im Ausland besser aufgehoben .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	ADV	*	*	*	*
@@ -1972,10 +2046,10 @@
 5	,	,	$,	*	*	*	*
 6	Bouteflika	<unknown>	NE	*	*	*	*
 7	habe	haben	VAFIN	*	*	*	*
-8	mit	mit	APPR	2	2	2	2
+8	mit	mit	APPR	FIG	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Feuer	Feuer	NN	2	2	2	2
-11	gespielt	spielen	VVPP	2	2	2	2
+10	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+11	gespielt	spielen	VVPP	FIG	FIG	FIG	FIG
 12	und	und	KON	*	*	*	*
 13	sei	sein	VAFIN	*	*	*	*
 14	zur	zu	APPRART	*	*	*	*
@@ -1989,26 +2063,28 @@
 # tuepp_article_id = T940713.15
 # sent_id = 4562
 # text = Haitis Militärs spielen mit dem Feuer
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Haitis	Haiti	NE	*	*	*	*
 2	Militärs	Militär	NN	*	*	*	*
-3	spielen	spielen	VVFIN	2	2	2	2
-4	mit	mit	APPR	2	2	2	2
+3	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+4	mit	mit	APPR	FIG	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	2	2	2	2
+6	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T941221.173
 # sent_id = 4563
 # text = Zwei Paare spielen mit dem Feuer , wissentlich und voller Lust am Untergang .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Zwei	zwei	CARD	*	*	*	*
 2	Paare	Paar	NN	*	*	*	*
-3	spielen	spielen	VVFIN	4	2	2	2
-4	mit	mit	APPR	4	2	2	2
+3	spielen	spielen	VVFIN	BOTH	FIG	FIG	FIG
+4	mit	mit	APPR	BOTH	FIG	FIG	FIG
 5	dem	die	ART	*	*	*	*
-6	Feuer	Feuer	NN	4	2	2	2
+6	Feuer	Feuer	NN	BOTH	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	wissentlich	wissentlich	ADJD	*	*	*	*
 9	und	und	KON	*	*	*	*
@@ -2021,29 +2097,31 @@
 # tuepp_article_id = T941227.82
 # sent_id = 4564
 # text = Warum spielt Boris Jelzin mit dem Feuer ?
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Warum	warum	PWAV	*	*	*	*
-2	spielt	spielen	VVFIN	2	2	2	2
+2	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 3	Boris	Boris	NE	*	*	*	*
 4	Jelzin	Jelzin	NE	*	*	*	*
-5	mit	mit	APPR	2	2	2	2
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T941231.28
 # sent_id = 4565
 # text = Moskau spielt nicht mehr nur mit Feuer , atavistische Züge treten hervor .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Moskau	Moskau	NE	*	*	*	*
-2	spielt	spielen	VVFIN	2	2	2	2
+2	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
 3	nicht	nicht	PTKNEG	*	*	*	*
 4	mehr	mehr	ADV	*	*	*	*
 5	nur	nur	ADV	*	*	*	*
-6	mit	mit	APPR	2	2	2	2
-7	Feuer	Feuer	NN	2	2	2	2
+6	mit	mit	APPR	FIG	FIG	FIG	FIG
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	atavistische	atavistisch	ADJA	*	*	*	*
 10	Züge	Zug	NN	*	*	*	*
@@ -2054,6 +2132,7 @@
 # tuepp_article_id = T940205.69
 # sent_id = 4566
 # text = Ein UNO-Mitarbeiter : " Beide Seiten spielen mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -2062,15 +2141,16 @@
 4	"	"	$(	*	*	*	*
 5	Beide	beide	PIAT	*	*	*	*
 6	Seiten	Seite	NN	*	*	*	*
-7	spielen	spielen	VVFIN	2	2	2	2
-8	mit	mit	APPR	2	2	2	2
+7	spielen	spielen	VVFIN	FIG	FIG	FIG	FIG
+8	mit	mit	APPR	FIG	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Feuer	Feuer	NN	2	2	2	2
+10	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950616.281
 # sent_id = 4567
 # text = Nach den scharfen Maßnahmen , die die palästinensische Autonomiebehörde ergriffen hatte , warf das Büro der Hamas in Amman Arafat vor , er habe " die rote Linie überschritten " und " spiele mit dem Feuer " .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -2105,16 +2185,17 @@
 30	"	"	$(	*	*	*	*
 31	und	und	KON	*	*	*	*
 32	"	"	$(	*	*	*	*
-33	spiele	spielen	VVFIN	2	2	2	2
-34	mit	mit	APPR	2	2	2	2
+33	spiele	spielen	VVFIN	FIG	FIG	FIG	FIG
+34	mit	mit	APPR	FIG	FIG	FIG	FIG
 35	dem	die	ART	*	*	*	*
-36	Feuer	Feuer	NN	2	2	2	2
+36	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 37	"	"	$(	*	*	*	*
 38	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950621.124
 # sent_id = 4568
 # text = Andererseits ist die Frauenbewegung vielleicht wirklich so weit gekommen , daß unsereins jetzt nicht nur mit dem Feuer spielen , sondern endlich damit hantieren darf , und zwar mit Grillbesteck und Konsorten .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andererseits	andererseits	ADV	*	*	*	*
@@ -2132,10 +2213,10 @@
 13	jetzt	jetzt	ADV	*	*	*	*
 14	nicht	nicht	PTKNEG	*	*	*	*
 15	nur	nur	ADV	*	*	*	*
-16	mit	mit	APPR	2	2	2	2
+16	mit	mit	APPR	FIG	FIG	FIG	FIG
 17	dem	die	ART	*	*	*	*
-18	Feuer	Feuer	NN	2	2	2	2
-19	spielen	spielen	VVINF	2	2	2	2
+18	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+19	spielen	spielen	VVINF	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	sondern	sondern	KON	*	*	*	*
 22	endlich	endlich	ADV	*	*	*	*
@@ -2154,6 +2235,7 @@
 # tuepp_article_id = T950801.199
 # sent_id = 4569
 # text = Um sich persönlich abzusichern , spielte er mit dem Feuer : er soll umfangreiches belastendes Material über die Korruptionsstrukturen in der Militär-Beschaffung zusammengestellt haben , das wollte er Frau Tu mit nach Bremen geben .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	APPR	*	*	*	*
@@ -2161,11 +2243,11 @@
 3	persönlich	persönlich	ADJD	*	*	*	*
 4	abzusichern	absichern	VVIZU	*	*	*	*
 5	,	,	$,	*	*	*	*
-6	spielte	spielen	VVFIN	2	2	2	2
+6	spielte	spielen	VVFIN	FIG	FIG	FIG	FIG
 7	er	er	PPER	*	*	*	*
-8	mit	mit	APPR	2	2	2	2
+8	mit	mit	APPR	FIG	FIG	FIG	FIG
 9	dem	die	ART	*	*	*	*
-10	Feuer	Feuer	NN	2	2	2	2
+10	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 11	:	:	$.	*	*	*	*
 12	er	er	PPER	*	*	*	*
 13	soll	sollen	VMFIN	*	*	*	*
@@ -2195,6 +2277,7 @@
 # tuepp_article_id = T990507.173
 # sent_id = 4570
 # text = " Wir wußten damals , daß wir mit diesem Film mit dem Feuer spielten " , sagt Krystyna Janda auf der Diskussionsveranstaltung nach der Aufführung , " aber mit so einer harten Zensur hatten wir nicht gerechnet .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2207,10 +2290,10 @@
 8	mit	mit	APPR	*	*	*	*
 9	diesem	dies	PDAT	*	*	*	*
 10	Film	Film	NN	*	*	*	*
-11	mit	mit	APPR	2	2	2	2
+11	mit	mit	APPR	FIG	FIG	FIG	FIG
 12	dem	die	ART	*	*	*	*
-13	Feuer	Feuer	NN	2	2	2	2
-14	spielten	spielen	VVFIN	2	2	2	2
+13	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+14	spielten	spielen	VVFIN	FIG	FIG	FIG	FIG
 15	"	"	$(	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	sagt	sagen	VVFIN	*	*	*	*
@@ -2239,6 +2322,7 @@
 # tuepp_article_id = T990123.334
 # sent_id = 4571
 # text = Selbst Bill Clinton sah man ab und an mit einem prächtigen Großformat zwischen den Lippen - eine Liebhaberei , die er sich öffentlich versagt , seitdem er und die Praktikantin mit dem Feuer spielten .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Selbst	selbst	ADV	*	*	*	*
@@ -2271,23 +2355,24 @@
 28	und	und	KON	*	*	*	*
 29	die	die	ART	*	*	*	*
 30	Praktikantin	Praktikantin	NN	*	*	*	*
-31	mit	mit	APPR	2	2	2	2
+31	mit	mit	APPR	FIG	FIG	FIG	FIG
 32	dem	die	ART	*	*	*	*
-33	Feuer	Feuer	NN	2	2	2	2
-34	spielten	spielen	VVFIN	2	2	2	2
+33	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
+34	spielten	spielen	VVFIN	FIG	FIG	FIG	FIG
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990421.89
 # sent_id = 4572
 # text = " Irgend jemand spielt mit dem Feuer .
+# vid_types = mit feuer spielen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Irgend	irgend	ADV	*	*	*	*
 3	jemand	jemand	PIS	*	*	*	*
-4	spielt	spielen	VVFIN	2	2	2	2
-5	mit	mit	APPR	2	2	2	2
+4	spielt	spielen	VVFIN	FIG	FIG	FIG	FIG
+5	mit	mit	APPR	FIG	FIG	FIG	FIG
 6	dem	die	ART	*	*	*	*
-7	Feuer	Feuer	NN	2	2	2	2
+7	Feuer	Feuer	NN	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 

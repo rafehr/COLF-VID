@@ -1,6 +1,7 @@
 # tuepp_article_id = T890607.112
 # sent_id = 64
 # text = Das ZDF hat einen besonders dicken Brocken an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -10,20 +11,21 @@
 5	besonders	besonders	ADV	*	*	*	*
 6	dicken	dick	ADJA	*	*	*	*
 7	Brocken	Brocken	NN	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
-10	gezogen	ziehen	VVPP	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
+10	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891007.105
 # sent_id = 65
 # text = Seinen dicksten Fisch zog " der Alte " , wie ihn seine Mitarbeiter nannten , 1978 an Land : Ein exklusives Agenturabkommen mit Techsnabexport über Urananreicherungsdienstleistungen in der UdSSR .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Seinen	sein	PPOSAT	*	*	*	*
 2	dicksten	dick	ADJA	*	*	*	*
 3	Fisch	Fisch	NN	*	*	*	*
-4	zog	ziehen	VVFIN	2	2	2	2
+4	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 5	"	"	$(	*	*	*	*
 6	der	die	ART	*	*	*	*
 7	Alte	Alte	NN	*	*	*	*
@@ -36,8 +38,8 @@
 14	nannten	nennen	VVFIN	*	*	*	*
 15	,	,	$,	*	*	*	*
 16	1978	@card@	CARD	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
 19	:	:	$.	*	*	*	*
 20	Ein	eine	ART	*	*	*	*
 21	exklusives	exklusiv	ADJA	*	*	*	*
@@ -54,6 +56,7 @@
 # tuepp_article_id = T891004.71
 # sent_id = 66
 # text = Berlin ( taz ) - Wäre ja auch wirklich zu dumm , wenn Amerikas Ölgiganten zig Millionen Dollar einfach nur ins Wasser geworfen hätten , ohne damit einen goldenen Fisch an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -86,15 +89,16 @@
 28	einen	eine	ART	*	*	*	*
 29	goldenen	golden	ADJA	*	*	*	*
 30	Fisch	Fisch	NN	*	*	*	*
-31	an	an	APPR	2	2	2	2
-32	Land	Land	NN	2	2	2	2
+31	an	an	APPR	FIG	FIG	FIG	FIG
+32	Land	Land	NN	FIG	FIG	FIG	FIG
 33	zu	zu	PTKZU	*	*	*	*
-34	ziehen	ziehen	VVINF	2	2	2	2
+34	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890906.45
 # sent_id = 67
 # text = Rund 7.000 Abonnenten will Räuschel-Schulte in den nächsten Monaten an Land ziehen - erst dann trage sich das Unternehmen finanziell .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rund	rund	ADV	*	*	*	*
@@ -106,9 +110,9 @@
 7	den	die	ART	*	*	*	*
 8	nächsten	nah	ADJA	*	*	*	*
 9	Monaten	Monat	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
-12	ziehen	ziehen	VVINF	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	-	-	$(	*	*	*	*
 14	erst	erst	ADV	*	*	*	*
 15	dann	dann	ADV	*	*	*	*
@@ -122,6 +126,7 @@
 # tuepp_article_id = T890914.59
 # sent_id = 68
 # text = Indirekt bezuschußt wird dafür der Kohl-Freund Dieter Haupt , dessen Agentur sich den Drei-Millionen-Auftrag zur Organisation der Jubelfeier an Land gezogen hat .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Indirekt	indirekt	ADJD	*	*	*	*
@@ -142,15 +147,16 @@
 16	Organisation	Organisation	NN	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	Jubelfeier	Jubelfeier	NN	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
-21	gezogen	ziehen	VVPP	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
+21	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 22	hat	haben	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890905.66
 # sent_id = 69
 # text = Offenbar sollen in das geplante deutsch-sowjetische Joint-venture auch die Exklusivverträge über Urananreicherung in der UdSSR eingebunden werden , die der kürzlich verstorbene Düsseldorfer Atomalienhändler und Schwarzmarktkünstler Alfred Hempel 1978 an Land gezogen hatte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Offenbar	offenbar	ADJD	*	*	*	*
@@ -182,19 +188,20 @@
 27	Alfred	Alfred	NE	*	*	*	*
 28	Hempel	<unknown>	NN	*	*	*	*
 29	1978	@card@	CARD	*	*	*	*
-30	an	an	APPR	2	2	2	2
-31	Land	Land	NN	2	2	2	2
-32	gezogen	ziehen	VVPP	2	2	2	2
+30	an	an	APPR	FIG	FIG	FIG	FIG
+31	Land	Land	NN	FIG	FIG	FIG	FIG
+32	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 33	hatte	haben	VAFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890909.175
 # sent_id = 70
 # text = Freilich zog das Kreuzberger Bauamt 140 Millionen Mark Sanierungsmittel jährlich an Land - in Tiergarten waren es mal gerade 20 Millionen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Freilich	freilich	ADV	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	das	die	ART	*	*	*	*
 4	Kreuzberger	Kreuzberger	NE	*	*	*	*
 5	Bauamt	Bauamt	NN	*	*	*	*
@@ -203,8 +210,8 @@
 8	Mark	Mark	NN	*	*	*	*
 9	Sanierungsmittel	Sanierungsmittel	NN	*	*	*	*
 10	jährlich	jährlich	ADJD	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
 13	-	-	$(	*	*	*	*
 14	in	in	APPR	*	*	*	*
 15	Tiergarten	Tiergarten	NN	*	*	*	*
@@ -219,6 +226,7 @@
 # tuepp_article_id = T890128.219
 # sent_id = 71
 # text = Später soll die Firma Fertigungsaufträge an Land ziehen , die seine Mitglieder dann abarbeiten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Später	spät	ADJD	*	*	*	*
@@ -226,9 +234,9 @@
 3	die	die	ART	*	*	*	*
 4	Firma	Firma	NN	*	*	*	*
 5	Fertigungsaufträge	Fertigungsauftrag	NN	*	*	*	*
-6	an	an	APPR	2	2	2	2
-7	Land	Land	NN	2	2	2	2
-8	ziehen	ziehen	VVINF	2	2	2	2
+6	an	an	APPR	FIG	FIG	FIG	FIG
+7	Land	Land	NN	FIG	FIG	FIG	FIG
+8	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	die	die	PRELS	*	*	*	*
 11	seine	sein	PPOSAT	*	*	*	*
@@ -240,6 +248,7 @@
 # tuepp_article_id = T890401.71
 # sent_id = 72
 # text = Nach sicheren Informationen der taz aus Kreisen der Frankfurter Hochfinanz sowie des Bonner Kanzleramtes ist es nun dem Bundeskanzler in seinem Osterurlaub - der ja vor allem der Kabinettsreform dienen sollte - gelungen , den Abs - " Enkel " und heutigen Vorstandsvorsitzenden der Deutschen Bank , Alfred Herrhausen , als neuen Finanzminister am Rhein an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -297,15 +306,16 @@
 53	Finanzminister	Finanzminister	NN	*	*	*	*
 54	am	an	APPRART	*	*	*	*
 55	Rhein	Rhein	NE	*	*	*	*
-56	an	an	APPR	2	2	2	2
-57	Land	Land	NN	2	2	2	2
+56	an	an	APPR	FIG	FIG	FIG	FIG
+57	Land	Land	NN	FIG	FIG	FIG	FIG
 58	zu	zu	PTKZU	*	*	*	*
-59	ziehen	ziehen	VVINF	2	2	2	2
+59	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 60	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890421.122
 # sent_id = 73
 # text = Ein Moderator sitzt hinter dem Mikrophon , sagt die Musik und das Wetter an , die Redakteure kommen von und gehen zu Pressekonferenzen , und in der Akquisition versucht man , Werbespots an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -340,15 +350,16 @@
 30	man	man	PIS	*	*	*	*
 31	,	,	$,	*	*	*	*
 32	Werbespots	Werbespot	NN	*	*	*	*
-33	an	an	APPR	2	2	2	2
-34	Land	Land	NN	2	2	2	2
+33	an	an	APPR	FIG	FIG	FIG	FIG
+34	Land	Land	NN	FIG	FIG	FIG	FIG
 35	zu	zu	PTKZU	*	*	*	*
-36	ziehen	ziehen	VVINF	2	2	2	2
+36	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890714.140
 # sent_id = 74
 # text = Ein bekannter bundesdeutscher Vermittler , von Genf " auf dem Sprung zum Spielermarkt nach Mailand " berichtete stolz von " einem dicken Fisch aus der Sowjetunion " , den er " ganz billig " für einen Bundesligaklub an Land gezogen habe .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -388,24 +399,25 @@
 35	für	für	APPR	*	*	*	*
 36	einen	eine	ART	*	*	*	*
 37	Bundesligaklub	Bundesligaklub	NN	*	*	*	*
-38	an	an	APPR	2	2	2	2
-39	Land	Land	NN	2	2	2	2
-40	gezogen	ziehen	VVPP	2	2	2	2
+38	an	an	APPR	FIG	FIG	FIG	FIG
+39	Land	Land	NN	FIG	FIG	FIG	FIG
+40	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 41	habe	haben	VAFIN	*	*	*	*
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890729.76
 # sent_id = 75
 # text = 1. Wo Siege ans Land gezogen werden 2. Zum Bugsieren gedacht 3. Tennisspielerin , die auf den Bush klopft 4. Entionisierte Aufregung 5. Laufbehinderte Zuchtpferde 6. Jammerhaftes Antriebsgerät 7. Plural von 30,48 cm 8. Formelhafter Challenge-Cup 9. Boxendes Zwerghuhn 10. Verknotete Fleischscheibe 11. Aus abgeschittenem Haar entstandenes Wappentier 12. Jeder kann sie ziehen und gleichzeitig sein 14. Sie verdient im Sport das meiste Geld 16. Das fehlt an diesen Center wie Nessy im Loch Ness 24. Der Mann bewirkt es bei der Karre 26. Teil des bargeldlosen Zahlungsverkehrs 28. Braucht jedes Stadion mehrfach 29. Tarifskala bei Tischtennisspielern 33 .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1	@card@	CARD	*	*	*	*
 2	.	.	$.	*	*	*	*
 3	Wo	wo	PWAV	*	*	*	*
 4	Siege	Sieg	NN	*	*	*	*
-5	ans	ans	APPRART	2	2	2	2
-6	Land	Land	NN	2	2	2	2
-7	gezogen	ziehen	VVPP	2	2	2	2
+5	ans	ans	APPRART	FIG	FIG	FIG	FIG
+6	Land	Land	NN	FIG	FIG	FIG	FIG
+7	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 8	werden	werden	VAINF	*	*	*	*
 9	2	@card@	CARD	*	*	*	*
 10	.	.	$.	*	*	*	*
@@ -520,6 +532,7 @@
 # tuepp_article_id = T891214.87
 # sent_id = 76
 # text = Und sie werden von Tag zu Tag reicher - wenn nicht durch Drogenhandel , dann durch öffentliche Aufträge , die ihre Firmen oder Scheinfirmen an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -546,14 +559,15 @@
 22	Firmen	Firma	NN	*	*	*	*
 23	oder	oder	KON	*	*	*	*
 24	Scheinfirmen	Scheinfirma	NN	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
-27	ziehen	ziehen	VVINF	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
+27	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890816.128
 # sent_id = 77
 # text = Die BesitzerInnen großer Yachten brauchen nämlich aufwendige Vorrichtungen an den Ufern , sogenannte " Slip-Anlagen " , um die Boote an Land zu ziehen und wieder zu Wasser zu lassen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -576,10 +590,10 @@
 18	um	um	KOUI	*	*	*	*
 19	die	die	ART	*	*	*	*
 20	Boote	Boot	NN	*	*	*	*
-21	an	an	APPR	1	1	1	1
-22	Land	Land	NN	1	1	1	1
+21	an	an	APPR	LIT	LIT	LIT	LIT
+22	Land	Land	NN	LIT	LIT	LIT	LIT
 23	zu	zu	PTKZU	*	*	*	*
-24	ziehen	ziehen	VVINF	1	1	1	1
+24	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 25	und	und	KON	*	*	*	*
 26	wieder	wieder	ADV	*	*	*	*
 27	zu	zu	APPR	*	*	*	*
@@ -591,6 +605,7 @@
 # tuepp_article_id = T890828.110
 # sent_id = 78
 # text = Wirf die Angel des Ohres aus , und du wirst immer einen Fisch an Land ziehen und nie einen alten Stiefel .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wirf	werfen	VVIMP	*	*	*	*
@@ -606,9 +621,9 @@
 11	immer	immer	ADV	*	*	*	*
 12	einen	eine	ART	*	*	*	*
 13	Fisch	Fisch	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	ziehen	ziehen	VVINF	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 17	und	und	KON	*	*	*	*
 18	nie	nie	ADV	*	*	*	*
 19	einen	eine	ART	*	*	*	*
@@ -619,6 +634,7 @@
 # tuepp_article_id = T890322.54
 # sent_id = 79
 # text = Linde hat einen Großauftrag für Kühlanlagen an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Linde	Linde	NE	*	*	*	*
@@ -627,14 +643,15 @@
 4	Großauftrag	Großauftrag	NN	*	*	*	*
 5	für	für	APPR	*	*	*	*
 6	Kühlanlagen	Kühlanlage	NN	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	gezogen	ziehen	VVPP	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891101.37
 # sent_id = 80
 # text = Im Gemüseladen gleich nebenan hat die Geschäftsleitung Zitronen und Bananen an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -647,14 +664,15 @@
 8	Zitronen	Zitrone	NN	*	*	*	*
 9	und	und	KON	*	*	*	*
 10	Bananen	Banane	NN	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
-13	gezogen	ziehen	VVPP	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890204.93
 # sent_id = 81
 # text = Hat sich schon einmal ein Sammler oder Ethnologe überlegt , was da für eine Kraft an Land gezogen wurde und was die vielleicht bewirken könnte ?
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Hat	haben	VAFIN	*	*	*	*
@@ -672,9 +690,9 @@
 13	für	für	APPR	*	*	*	*
 14	eine	eine	ART	*	*	*	*
 15	Kraft	Kraft	NN	*	*	*	*
-16	an	an	APPR	2	2	2	2
-17	Land	Land	NN	2	2	2	2
-18	gezogen	ziehen	VVPP	2	2	2	2
+16	an	an	APPR	FIG	FIG	FIG	FIG
+17	Land	Land	NN	FIG	FIG	FIG	FIG
+18	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 19	wurde	werden	VAFIN	*	*	*	*
 20	und	und	KON	*	*	*	*
 21	was	was	PWS	*	*	*	*
@@ -687,6 +705,7 @@
 # tuepp_article_id = T890223.128
 # sent_id = 82
 # text = " Den Studenten wird überhaupt nicht beigebracht , wie sie Forschungsmittel an Land ziehen können und wie ein Forschungsprojekt anzulegen ist " , klagt Peter Grottian .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -700,9 +719,9 @@
 9	wie	wie	KOUS	*	*	*	*
 10	sie	sie	PPER	*	*	*	*
 11	Forschungsmittel	Forschungsmittel	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
-14	ziehen	ziehen	VVINF	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
+14	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 15	können	können	VMINF	*	*	*	*
 16	und	und	KON	*	*	*	*
 17	wie	wie	KOUS	*	*	*	*
@@ -720,6 +739,7 @@
 # tuepp_article_id = T910613.266
 # sent_id = 83
 # text = Trotz dauernder Bemühungen war der große Industriefisch nicht an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Trotz	trotz	APPR	*	*	*	*
@@ -730,15 +750,16 @@
 6	große	groß	ADJA	*	*	*	*
 7	Industriefisch	Industriefisch	NN	*	*	*	*
 8	nicht	nicht	PTKNEG	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
 11	zu	zu	PTKZU	*	*	*	*
-12	ziehen	ziehen	VVINF	2	2	2	2
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910111.108
 # sent_id = 84
 # text = Schon im Oktober habe der Konzern einen CSFR-Auftrag für Reaktorleittechnik im Wert von 280 Millionen Mark nur noch als Kompensationsgeschäft an Land ziehen können .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
@@ -761,15 +782,16 @@
 18	noch	noch	ADV	*	*	*	*
 19	als	als	KOKOM	*	*	*	*
 20	Kompensationsgeschäft	Kompensationsgeschäft	NN	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	ziehen	ziehen	VVINF	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	können	können	VMINF	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910112.54
 # sent_id = 85
 # text = Nach Hersch Bekers Flucht steht vor allem eine Frage zur Klärung an : Wurde ihm seine Flucht ermöglicht , um zu verhindern , daß er vor Gericht hochrangige Landes- und Kommunalpolitiker mit in den mafiosen Sumpf reißen könnte , aus dem die Bordellbrüder jahrelang ihre großen und kleinen Fische an Land zogen ?
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -821,14 +843,15 @@
 47	und	und	KON	*	*	*	*
 48	kleinen	klein	ADJA	*	*	*	*
 49	Fische	Fisch	NN	*	*	*	*
-50	an	an	APPR	2	2	2	2
-51	Land	Land	NN	2	2	2	2
-52	zogen	ziehen	VVFIN	2	2	2	2
+50	an	an	APPR	FIG	FIG	FIG	FIG
+51	Land	Land	NN	FIG	FIG	FIG	FIG
+52	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 53	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T910425.82
 # sent_id = 86
 # text = Obwohl einige Firmen zusätzliche Aufträge für Munition , Ersatzteile und Raketen an Land ziehen konnten , hat der Krieg den allgemeinen Trend - rückläufige Waffenverkäufe - nicht aufhalten können .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Obwohl	obwohl	KOUS	*	*	*	*
@@ -842,9 +865,9 @@
 9	Ersatzteile	Ersatzteil	NN	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	Raketen	Rakete	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
-14	ziehen	ziehen	VVINF	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
+14	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 15	konnten	können	VMFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	hat	haben	VAFIN	*	*	*	*
@@ -865,6 +888,7 @@
 # tuepp_article_id = T910408.88
 # sent_id = 87
 # text = Die letzte DDR-Auswahl fischte bei der Weltmeisterschaft 1990 in Bordeaux fast alles aus dem WM-Pott , was es an Land zu ziehen gab .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -885,22 +909,23 @@
 16	,	,	$,	*	*	*	*
 17	was	was	PRELS	*	*	*	*
 18	es	es	PPER	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
 21	zu	zu	PTKZU	*	*	*	*
-22	ziehen	ziehen	VVINF	2	2	2	2
+22	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 23	gab	geben	VVFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910412.89
 # sent_id = 88
 # text = Den dicksten Fisch zog Serbien sich mit der gesetzeswidrigen Übernahme von 187 Tankstellen des kroatischen Ölriesen INA im Wert von 150 Millionen Dollar an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
 2	dicksten	dick	ADJA	*	*	*	*
 3	Fisch	Fisch	NN	*	*	*	*
-4	zog	ziehen	VVFIN	2	2	2	2
+4	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 5	Serbien	Serbien	NE	*	*	*	*
 6	sich	sich	PRF	*	*	*	*
 7	mit	mit	APPR	*	*	*	*
@@ -920,13 +945,14 @@
 21	150	@card@	CARD	*	*	*	*
 22	Millionen	Million	NN	*	*	*	*
 23	Dollar	Dollar	NN	*	*	*	*
-24	an	an	APPR	2	2	2	2
-25	Land	Land	NN	2	2	2	2
+24	an	an	APPR	FIG	FIG	FIG	FIG
+25	Land	Land	NN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911214.106
 # sent_id = 89
 # text = Wo ein Willi ist , ist auch ein Geschäftsführer , der spuren muß : Mit Axel Nawrocki hat sich der eigensinnige NOK-Chef Willi Daume endlich einen Olympia GmbH-Leiter von seinen Gnaden an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wo	wo	PWAV	*	*	*	*
@@ -960,14 +986,15 @@
 29	von	von	APPR	*	*	*	*
 30	seinen	sein	PPOSAT	*	*	*	*
 31	Gnaden	Gnade	NN	*	*	*	*
-32	an	an	APPR	2	2	2	2
-33	Land	Land	NN	2	2	2	2
-34	gezogen	ziehen	VVPP	2	2	2	2
+32	an	an	APPR	FIG	FIG	FIG	FIG
+33	Land	Land	NN	FIG	FIG	FIG	FIG
+34	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910325.176
 # sent_id = 90
 # text = Ein heikler Punkt , mit dem sich die Anstalt möglicherweise wäschekörbevoll Prozesse an Land ziehen könnte , für die Pächter winkt bereits heute das ( fast ) sichere Aus .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -982,9 +1009,9 @@
 10	möglicherweise	möglicherweise	ADV	*	*	*	*
 11	wäschekörbevoll	<unknown>	ADJD	*	*	*	*
 12	Prozesse	Prozess	NN	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
-15	ziehen	ziehen	VVINF	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
+15	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 16	könnte	können	VMFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
 18	für	für	APPR	*	*	*	*
@@ -1004,6 +1031,7 @@
 # tuepp_article_id = T910316.240
 # sent_id = 91
 # text = Die Diskussion nimmt allmählich psychopathische Züge an : Wie die Wanderprediger ziehen CDU- Fraktionäre durchs Land und beschwören im Gleichklang mit Vertretern der Handelskammer und inszenierten Medienkampagnen das Verkehrschaos .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1017,11 +1045,11 @@
 9	Wie	wie	KOUS	*	*	*	*
 10	die	die	ART	*	*	*	*
 11	Wanderprediger	Wanderprediger	NN	*	*	*	*
-12	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+12	ziehen	zeihen|ziehen	VVFIN	FIG	FIG	FIG	FIG
 13	CDU-	CDU-	TRUNC	*	*	*	*
 14	Fraktionäre	<unknown>	NN	*	*	*	*
-15	durchs	durchs	APPRART	2	2	2	2
-16	Land	Land	NN	2	2	2	2
+15	durchs	durchs	APPRART	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
 17	und	und	KON	*	*	*	*
 18	beschwören	beschwören	VVFIN	*	*	*	*
 19	im	in	APPRART	*	*	*	*
@@ -1040,6 +1068,7 @@
 # tuepp_article_id = T910316.255
 # sent_id = 92
 # text = Köder , die " Number-one " Autopolitur , angepriesen , jetzt wird der Fisch an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Köder	Köder	NN	*	*	*	*
@@ -1056,14 +1085,15 @@
 12	wird	werden	VAFIN	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Fisch	Fisch	NN	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
-17	gezogen	ziehen	VVPP	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
+17	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910311.42
 # sent_id = 93
 # text = Eichel " schwamm " , doch Fischer zog ihn schnell an Land : " Wir werden doch den Nachtragshaushalt des Landes nicht zusammen mit der Landespressekonferenz beraten .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Eichel	Eichel	NN	*	*	*	*
@@ -1073,11 +1103,11 @@
 5	,	,	$,	*	*	*	*
 6	doch	doch	KON	*	*	*	*
 7	Fischer	Fischer	NE	*	*	*	*
-8	zog	ziehen	VVFIN	2	2	2	2
+8	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 9	ihn	er	PPER	*	*	*	*
 10	schnell	schnell	ADJD	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
 13	:	:	$.	*	*	*	*
 14	"	"	$(	*	*	*	*
 15	Wir	wir	PPER	*	*	*	*
@@ -1098,6 +1128,7 @@
 # tuepp_article_id = T910327.141
 # sent_id = 94
 # text = Bleibt zu befürchten , daß die " Monopolisierung " weiter voranschreitet , da finanzkräftige Großunternehmen des Handels es jetzt noch leichter haben werden , sich die letzten Quadratmeter Gewerberaum an Land zu ziehen und unliebsame Konkurrenz aus dem Feld zu schlagen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bleibt	bleiben	VVFIN	*	*	*	*
@@ -1129,10 +1160,10 @@
 27	letzten	letzt	ADJA	*	*	*	*
 28	Quadratmeter	Quadratmeter	NN	*	*	*	*
 29	Gewerberaum	Gewerberaum	NN	*	*	*	*
-30	an	an	APPR	2	2	2	2
-31	Land	Land	NN	2	2	2	2
+30	an	an	APPR	FIG	FIG	FIG	FIG
+31	Land	Land	NN	FIG	FIG	FIG	FIG
 32	zu	zu	PTKZU	*	*	*	*
-33	ziehen	ziehen	VVINF	2	2	2	2
+33	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 34	und	und	KON	*	*	*	*
 35	unliebsame	unliebsam	ADJA	*	*	*	*
 36	Konkurrenz	Konkurrenz	NN	*	*	*	*
@@ -1146,6 +1177,7 @@
 # tuepp_article_id = T910327.258
 # sent_id = 95
 # text = Das verpachtet an einen privaten Gastronomiebetrieb , der zwar in die Ausstattung einiges investieren müßte , dafür aber auch mit dem ersten Ausflugslokal mitten in der Weser eine wahre Goldgrube an Land zöge .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -1178,14 +1210,15 @@
 28	eine	eine	ART	*	*	*	*
 29	wahre	wahr	ADJA	*	*	*	*
 30	Goldgrube	Goldgrube	NN	*	*	*	*
-31	an	an	APPR	2	2	2	2
-32	Land	Land	NN	2	2	2	2
-33	zöge	ziehen	VVFIN	2	2	2	2
+31	an	an	APPR	FIG	FIG	FIG	FIG
+32	Land	Land	NN	FIG	FIG	FIG	FIG
+33	zöge	ziehen	VVFIN	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910227.229
 # sent_id = 96
 # text = Sie sei » wild entschlossen , das Geld an Land zu ziehen « .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -1196,16 +1229,17 @@
 6	,	,	$,	*	*	*	*
 7	das	die	ART	*	*	*	*
 8	Geld	Geld	NN	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
 11	zu	zu	PTKZU	*	*	*	*
-12	ziehen	ziehen	VVINF	2	2	2	2
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	«	<unknown>	VVFIN	*	*	*	*
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900529.314
 # sent_id = 97
 # text = Und die Lagerhaus-Gesellschaft hat für das Bremer Schlappen-Ensemble Eintrittskarten für " Cats " an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -1221,21 +1255,22 @@
 11	"	"	$(	*	*	*	*
 12	Cats	<unknown>	NN	*	*	*	*
 13	"	"	$(	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	gezogen	ziehen	VVPP	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900508.59
 # sent_id = 98
 # text = Und ihre mühsam an Land gezogene Satellitenpartei , die DSU , hat wenig Erfolg .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
-2	ihre	ihr	PPOSAT	2	2	2	2
+2	ihre	ihr	PPOSAT	FIG	FIG	FIG	FIG
 3	mühsam	mühsam	ADJD	*	*	*	*
-4	an	an	APPR	2	2	2	2
-5	Land	Land	NN	2	2	2	2
+4	an	an	APPR	FIG	FIG	FIG	FIG
+5	Land	Land	NN	FIG	FIG	FIG	FIG
 6	gezogene	gezogen	ADJA	*	*	*	*
 7	Satellitenpartei	Satellitenpartei	NN	*	*	*	*
 8	,	,	$,	*	*	*	*
@@ -1250,6 +1285,7 @@
 # tuepp_article_id = T900516.137
 # sent_id = 99
 # text = Ein sportlicher Aufstieg ist für die Bonner Kicker nicht in Sicht : fast schon traditionell verlassen auch in diesem Jahr zum Saisonende die besten Spieler den Verein , dem es trotz seines Hauptstadtbonus bis heute nicht gelungen ist , einen zahlungskräftigen Sponsor an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -1294,15 +1330,16 @@
 40	einen	eine	ART	*	*	*	*
 41	zahlungskräftigen	zahlungskräftig	ADJA	*	*	*	*
 42	Sponsor	Sponsor	NN	*	*	*	*
-43	an	an	APPR	2	2	2	2
-44	Land	Land	NN	2	2	2	2
+43	an	an	APPR	FIG	FIG	FIG	FIG
+44	Land	Land	NN	FIG	FIG	FIG	FIG
 45	zu	zu	PTKZU	*	*	*	*
-46	ziehen	ziehen	VVINF	2	2	2	2
+46	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 47	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900607.73
 # sent_id = 100
 # text = Den Schuhkremüberhang von 1,5 Mio. Tuben hat sich für 1990 die Sowjetunion - mit 12 Mio. Stück ohnehin Hauptkunde - an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
@@ -1325,27 +1362,28 @@
 18	ohnehin	ohnehin	ADV	*	*	*	*
 19	Hauptkunde	Hauptkunde	NN	*	*	*	*
 20	-	-	$(	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	gezogen	ziehen	VVPP	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900606.149
 # sent_id = 101
 # text = Den dicksten Fisch aber zog der Zoll bei Rom an Land : Tonnenweise " Ciao " , made in Taiwan .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
 2	dicksten	dick	ADJA	*	*	*	*
 3	Fisch	Fisch	NN	*	*	*	*
 4	aber	aber	KON	*	*	*	*
-5	zog	ziehen	VVFIN	2	2	2	2
+5	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	der	die	ART	*	*	*	*
 7	Zoll	Zoll	NN	*	*	*	*
 8	bei	bei	APPR	*	*	*	*
 9	Rom	Rom	NE	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
 12	:	:	$.	*	*	*	*
 13	Tonnenweise	Tonnenweise	NN	*	*	*	*
 14	"	"	$(	*	*	*	*
@@ -1360,6 +1398,7 @@
 # tuepp_article_id = T901029.144
 # sent_id = 102
 # text = Ob das Satellitenradio aus der Eifel die Zeit hat , die nötigen Werbekunden zur Finanzierung seines Programmes an Land zu ziehen , ist mehr als fraglich .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ob	ob	KOUS	*	*	*	*
@@ -1379,10 +1418,10 @@
 15	Finanzierung	Finanzierung	NN	*	*	*	*
 16	seines	sein	PPOSAT	*	*	*	*
 17	Programmes	Programm	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
 20	zu	zu	PTKZU	*	*	*	*
-21	ziehen	ziehen	VVINF	2	2	2	2
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	ist	sein	VAFIN	*	*	*	*
 24	mehr	mehr	ADV	*	*	*	*
@@ -1393,6 +1432,7 @@
 # tuepp_article_id = T901001.189
 # sent_id = 103
 # text = Außerdem wollte man sich zusätzlich ein paar talentierte Zeichner an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Außerdem	außerdem	ADV	*	*	*	*
@@ -1404,14 +1444,15 @@
 7	paar	paar	PIAT	*	*	*	*
 8	talentierte	talentiert	ADJA	*	*	*	*
 9	Zeichner	Zeichner	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
-12	ziehen	ziehen	VVINF	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901009.158
 # sent_id = 104
 # text = Diverse Vorverträge mit Hotels und Verwaltungseinrichtungen sind bereits an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diverse	divers	ADJA	*	*	*	*
@@ -1422,14 +1463,15 @@
 6	Verwaltungseinrichtungen	Verwaltungseinrichtung	NN	*	*	*	*
 7	sind	sein	VAFIN	*	*	*	*
 8	bereits	bereits	ADV	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
-11	gezogen	ziehen	VVPP	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
+11	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901008.41
 # sent_id = 105
 # text = In Erfurt hat sich die Grüne Liga eine ehemalige KGB-Villa für Initiativen und Projektgruppen an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1446,14 +1488,15 @@
 12	Initiativen	Initiative	NN	*	*	*	*
 13	und	und	KON	*	*	*	*
 14	Projektgruppen	Projektgruppe	NN	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
-17	gezogen	ziehen	VVPP	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
+17	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900926.139
 # sent_id = 106
 # text = Bauminister will Bauaufträge aus der UdSSR an Land ziehen
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bauminister	Bauminister	NN	*	*	*	*
@@ -1462,13 +1505,14 @@
 4	aus	aus	APPR	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	UdSSR	<unknown>	NN	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	ziehen	ziehen	VVINF	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T900926.139
 # sent_id = 107
 # text = Berlin ( dpa ) - Kurz vor dem Ausscheiden aus seinem Amt hat der DDR-Bauminister Axel Viehweger ( FDP ) einen Vorstoß unternommen , um Bauaufträge aus der Sowjetunion an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -1500,15 +1544,16 @@
 27	aus	aus	APPR	*	*	*	*
 28	der	die	ART	*	*	*	*
 29	Sowjetunion	Sowjetunion	NE	*	*	*	*
-30	an	an	APPR	2	2	2	2
-31	Land	Land	NN	2	2	2	2
+30	an	an	APPR	FIG	FIG	FIG	FIG
+31	Land	Land	NN	FIG	FIG	FIG	FIG
 32	zu	zu	PTKZU	*	*	*	*
-33	ziehen	ziehen	VVINF	2	2	2	2
+33	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900915.93
 # sent_id = 108
 # text = Dabei konnten sie mit Daimler-Benz eigentlich einen dicken Fisch an Land ziehen , bloß haben die Vereinsvorständler wohl nicht das Kleingedruckte gelesen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
@@ -1520,9 +1565,9 @@
 7	einen	eine	ART	*	*	*	*
 8	dicken	dick	ADJA	*	*	*	*
 9	Fisch	Fisch	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
-12	ziehen	ziehen	VVINF	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	bloß	bloß	ADJD	*	*	*	*
 15	haben	haben	VAFIN	*	*	*	*
@@ -1538,6 +1583,7 @@
 # tuepp_article_id = T900914.27
 # sent_id = 109
 # text = In Nippon knechten schon die Schulkinder , die Studenten arbeiten sich den Arsch ab , und wenn sie erst mal einen der begehrten Jobs an Land gezogen haben , gibt 's überhaupt kein Halten mehr : leben , um zu arbeiten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1564,9 +1610,9 @@
 22	der	die	ART	*	*	*	*
 23	begehrten	begehrt	ADJA	*	*	*	*
 24	Jobs	Job	NN	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
-27	gezogen	ziehen	VVPP	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
+27	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 28	haben	haben	VAFIN	*	*	*	*
 29	,	,	$,	*	*	*	*
 30	gibt	geben	VVFIN	*	*	*	*
@@ -1586,6 +1632,7 @@
 # tuepp_article_id = T900914.108
 # sent_id = 110
 # text = Schaefers , der an der MPK selbst mit 25,5 % beteiligt ist , schaffte es , zwei Versicherungen , einen Immobilienhändler und die Neue Constantin als MediaPark-Investoren an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schaefers	Schaefer	NE	*	*	*	*
@@ -1615,15 +1662,16 @@
 25	Constantin	Constantin	NE	*	*	*	*
 26	als	als	KOKOM	*	*	*	*
 27	MediaPark-Investoren	<unknown>	NN	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Land	Land	NN	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Land	Land	NN	FIG	FIG	FIG	FIG
 30	zu	zu	PTKZU	*	*	*	*
-31	ziehen	ziehen	VVINF	2	2	2	2
+31	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900903.131
 # sent_id = 111
 # text = Mehr noch : Für Wilde war nicht der Mangel der Wasserwelt , sondern - frech - die Seele seines Helden der entscheidende Störfaktor eines Liebesglücks , das folgerichtig nicht , wie sonst , die Nixe an Land , sondern den verknallten Fischer unter Wasser ziehen sollte .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Mehr	mehr	ADV	*	*	*	*
@@ -1661,8 +1709,8 @@
 33	,	,	$,	*	*	*	*
 34	die	die	ART	*	*	*	*
 35	Nixe	Nixe	NN	*	*	*	*
-36	an	an	APPR	1	2	2	2
-37	Land	Land	NN	1	2	2	2
+36	an	an	APPR	LIT	FIG	FIG	FIG
+37	Land	Land	NN	LIT	FIG	FIG	FIG
 38	,	,	$,	*	*	*	*
 39	sondern	sondern	KON	*	*	*	*
 40	den	die	ART	*	*	*	*
@@ -1670,13 +1718,14 @@
 42	Fischer	Fischer	NN	*	*	*	*
 43	unter	unter	APPR	*	*	*	*
 44	Wasser	Wasser	NN	*	*	*	*
-45	ziehen	ziehen	VVINF	1	2	2	2
+45	ziehen	ziehen	VVINF	LIT	FIG	FIG	FIG
 46	sollte	sollen	VMFIN	*	*	*	*
 47	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900125.221
 # sent_id = 112
 # text = Wippend sitzt sie auf dem Drehstuhl : das DDR-Girl mit Lederkäppi und Walkman , platzt los über ihren Erfolg beim neuen Onkel , den sich die Mutter an Land gezogen hat , hört zwei Sekunden lang autistisch nickend ihrem Walkman zu und plappert weiter über den Selbstmord des ins Altersheim abgeschobenen Opas .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wippend	wippend	ADJD	*	*	*	*
@@ -1706,9 +1755,9 @@
 25	sich	sich	PRF	*	*	*	*
 26	die	die	ART	*	*	*	*
 27	Mutter	Mutter	NN	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Land	Land	NN	2	2	2	2
-30	gezogen	ziehen	VVPP	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Land	Land	NN	FIG	FIG	FIG	FIG
+30	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 31	hat	haben	VAFIN	*	*	*	*
 32	,	,	$,	*	*	*	*
 33	hört	hören	VVFIN	*	*	*	*
@@ -1736,6 +1785,7 @@
 # tuepp_article_id = T900103.219
 # sent_id = 113
 # text = Nur dann , so glaubt Kuhn , hat Berlin eine größere Chance , das Spektakel an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nur	nur	ADV	*	*	*	*
@@ -1753,15 +1803,16 @@
 13	,	,	$,	*	*	*	*
 14	das	die	ART	*	*	*	*
 15	Spektakel	Spektakel	NN	*	*	*	*
-16	an	an	APPR	2	2	2	2
-17	Land	Land	NN	2	2	2	2
+16	an	an	APPR	FIG	FIG	FIG	FIG
+17	Land	Land	NN	FIG	FIG	FIG	FIG
 18	zu	zu	PTKZU	*	*	*	*
-19	ziehen	ziehen	VVINF	2	2	2	2
+19	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900411.253
 # sent_id = 114
 # text = Zwar setzte sich die SPD mit ihrer Forderung schließlich durch ursprünglich war ihr der Posten des Volkskammerpräsidenten zugesichert worden , der dann an die CDU fiel - aber dafür mußte sie die Kröte DSU schlucken , die sich mit dem Innenministerium ein wichtigen Posten an Land zog .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwar	zwar	ADV	*	*	*	*
@@ -1808,14 +1859,15 @@
 42	ein	eine	ART	*	*	*	*
 43	wichtigen	wichtig	ADJA	*	*	*	*
 44	Posten	Posten	NN	*	*	*	*
-45	an	an	APPR	2	2	2	2
-46	Land	Land	NN	2	2	2	2
-47	zog	ziehen	VVFIN	2	2	2	2
+45	an	an	APPR	FIG	FIG	FIG	FIG
+46	Land	Land	NN	FIG	FIG	FIG	FIG
+47	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 48	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900405.121
 # sent_id = 115
 # text = Dortmund möchte das Nationenturnier im Januar an Land ziehen , Stuttgart den Masters Cup im September .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dortmund	Dortmund	NE	*	*	*	*
@@ -1824,9 +1876,9 @@
 4	Nationenturnier	Nationenturnier	NN	*	*	*	*
 5	im	in	APPRART	*	*	*	*
 6	Januar	Januar	NN	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	ziehen	ziehen	VVINF	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	Stuttgart	Stuttgart	NE	*	*	*	*
 12	den	die	ART	*	*	*	*
@@ -1839,6 +1891,7 @@
 # tuepp_article_id = T900426.40
 # sent_id = 116
 # text = Damit hatte sich die CSU-Frau jedoch einen Experten ganz besonderer Art an Land gezogen : Ritter wurde nämlich wegen seiner rassistischen Thesen in seinem Buch Sturm auf Europa vom Innenministerium in die Autobahndirektion zwangsversetzt .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
@@ -1852,9 +1905,9 @@
 9	ganz	ganz	ADV	*	*	*	*
 10	besonderer	besonder	ADJA	*	*	*	*
 11	Art	Art	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
-14	gezogen	ziehen	VVPP	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
+14	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 15	:	:	$.	*	*	*	*
 16	Ritter	Ritter	NE	*	*	*	*
 17	wurde	werden	VAFIN	*	*	*	*
@@ -1880,6 +1933,7 @@
 # tuepp_article_id = T900407.391
 # sent_id = 117
 # text = Nach Aussage der Statistiker betrifft dieser Anstieg allerdings nur die sogenannte große Hochseefischerei , die mit 98.700 Tonnen 37.700 Tonnen oder 62 Prozent mehr an Land zog .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -1906,14 +1960,15 @@
 22	62	@card@	CARD	*	*	*	*
 23	Prozent	Prozent	NN	*	*	*	*
 24	mehr	mehr	ADV	*	*	*	*
-25	an	an	APPR	1	1	1	1
-26	Land	Land	NN	1	1	1	1
-27	zog	ziehen	VVFIN	1	1	1	1
+25	an	an	APPR	LIT	LIT	LIT	LIT
+26	Land	Land	NN	LIT	LIT	LIT	LIT
+27	zog	ziehen	VVFIN	LIT	LIT	LIT	LIT
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900716.89
 # sent_id = 118
 # text = Nicht weniger als einhundertdreiundzwanzig ( in Zahlen : 123 ) Mal zogen die Recken der Angelrute Weltmeisterschaftsgold an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -1927,26 +1982,27 @@
 9	123	@card@	CARD	*	*	*	*
 10	)	)	$(	*	*	*	*
 11	Mal	Mal	NN	*	*	*	*
-12	zogen	ziehen	VVFIN	2	2	2	2
+12	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
 14	Recken	Reck|Recke|Recken	NN	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	Angelrute	Angelrute	NN	*	*	*	*
 17	Weltmeisterschaftsgold	<unknown>	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900723.259
 # sent_id = 119
 # text = Boot verschwiegen an Land ziehen und dabei die Holzplanken verbiegen .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Boot	Boot	NN	*	*	*	*
 2	verschwiegen	verschweigen	VVPP	*	*	*	*
-3	an	an	APPR	1	1	1	1
-4	Land	Land	NN	1	1	1	1
-5	ziehen	ziehen	VVINF	1	1	1	1
+3	an	an	APPR	LIT	LIT	LIT	LIT
+4	Land	Land	NN	LIT	LIT	LIT	LIT
+5	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 6	und	und	KON	*	*	*	*
 7	dabei	dabei	PAV	*	*	*	*
 8	die	die	ART	*	*	*	*
@@ -1957,6 +2013,7 @@
 # tuepp_article_id = T900726.121
 # sent_id = 120
 # text = Dahinter steht der Versuch der polnischen Regierung , endlich auch " große Fische " an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dahinter	dahinter	PAV	*	*	*	*
@@ -1973,15 +2030,16 @@
 12	große	groß	ADJA	*	*	*	*
 13	Fische	Fisch	NN	*	*	*	*
 14	"	"	$(	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	ziehen	ziehen	VVINF	2	2	2	2
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900704.261
 # sent_id = 121
 # text = Fälschungen , versteht sich , die D. zum Stückpreis von 30 Mark an Land gezogen hatte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Fälschungen	Fälschung	NN	*	*	*	*
@@ -1996,15 +2054,16 @@
 10	von	von	APPR	*	*	*	*
 11	30	@card@	CARD	*	*	*	*
 12	Mark	Mark	NN	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
-15	gezogen	ziehen	VVPP	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	hatte	haben	VAFIN	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901222.197
 # sent_id = 122
 # text = Für scharf kalkulierte 200 DM konnte er 1.200 Schrippen , 10 Kilo Holstensegel- Margarine , 5 Kilo Karwendel- Streichkäse und 5 Kilo Teewurst an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -2030,14 +2089,15 @@
 21	5	@card@	CARD	*	*	*	*
 22	Kilo	Kilo	NN	*	*	*	*
 23	Teewurst	Teewurst	NN	*	*	*	*
-24	an	an	APPR	2	2	2	2
-25	Land	Land	NN	2	2	2	2
-26	ziehen	ziehen	VVINF	2	2	2	2
+24	an	an	APPR	FIG	FIG	FIG	FIG
+25	Land	Land	NN	FIG	FIG	FIG	FIG
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900818.179
 # sent_id = 123
 # text = Ich kann mir nicht vorstellen , daß sich das Tiefbauamt aus heiterem Himmel einen neuen Kriegsschauplatz an Land ziehen will .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ich	ich	PPER	*	*	*	*
@@ -2056,15 +2116,16 @@
 14	einen	eine	ART	*	*	*	*
 15	neuen	neu	ADJA	*	*	*	*
 16	Kriegsschauplatz	Kriegsschauplatz	NN	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
-19	ziehen	ziehen	VVINF	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
+19	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 20	will	wollen	VMFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900302.141
 # sent_id = 124
 # text = Die Auftragslage sei gut , sagt der Werksdirektor , man habe für 16 Millionen Mark mehr Aufträge an Land ziehen können als im Vorjahr , aber es fehle an Mitteln , die laufenden Kredite zurückzuzahlen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2084,9 +2145,9 @@
 15	Mark	Mark	NN	*	*	*	*
 16	mehr	mehr	PIAT	*	*	*	*
 17	Aufträge	Auftrag	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
-20	ziehen	ziehen	VVINF	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
+20	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 21	können	können	VMINF	*	*	*	*
 22	als	als	KOKOM	*	*	*	*
 23	im	in	APPRART	*	*	*	*
@@ -2107,6 +2168,7 @@
 # tuepp_article_id = T900303.138
 # sent_id = 125
 # text = Bei einer Bootsfahrt labert ihm die Schwester aufs Ohr , wie er eine Frau an Land zu ziehen hat , und überhaupt ... Auch seine verkupplungswütige Mutter erklärt ihm klipp und klar , daß die Frauen nichts wollen , als auf geschickte Weise gegängelt werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -2123,10 +2185,10 @@
 12	er	er	PPER	*	*	*	*
 13	eine	eine	ART	*	*	*	*
 14	Frau	Frau	NN	*	*	*	*
-15	an	an	APPR	2	1	2	2
-16	Land	Land	NN	2	1	2	2
+15	an	an	APPR	FIG	LIT	FIG	FIG
+16	Land	Land	NN	FIG	LIT	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	ziehen	ziehen	VVINF	2	1	2	2
+18	ziehen	ziehen	VVINF	FIG	LIT	FIG	FIG
 19	hat	haben	VAFIN	*	*	*	*
 20	,	,	$,	*	*	*	*
 21	und	und	KON	*	*	*	*
@@ -2159,6 +2221,7 @@
 # tuepp_article_id = T901122.265
 # sent_id = 126
 # text = ) , Uni-Bibliotheksreferent , der sich nicht nur der NFS verbunden fühlt und eine Ausstellung zu ihrem 25. Jubiläum ( " ... Kritiker der Elche waren früher selber welche " ) an Land gezogen hat ( bis 30.11. ) , sondern auch Bernd Eilert kennt , Oldenburger ( !
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	)	)	$(	*	*	*	*
@@ -2193,9 +2256,9 @@
 30	welche	welche	PIS	*	*	*	*
 31	"	"	$(	*	*	*	*
 32	)	)	$(	*	*	*	*
-33	an	an	APPR	2	2	2	2
-34	Land	Land	NN	2	2	2	2
-35	gezogen	ziehen	VVPP	2	2	2	2
+33	an	an	APPR	FIG	FIG	FIG	FIG
+34	Land	Land	NN	FIG	FIG	FIG	FIG
+35	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 36	hat	haben	VAFIN	*	*	*	*
 37	(	(	$(	*	*	*	*
 38	bis	bis	APPR	*	*	*	*
@@ -2216,19 +2279,20 @@
 # tuepp_article_id = T901105.115
 # sent_id = 127
 # text = Vier der fünf DRV-Medaillen zogen Boote des Leistungszentrums Dortmund an Land : Gold für den Männer-Achter und Frauen- Zweier , Silber für die Riemenvierer ( ebenfalls Männer und Frauen ) .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vier	vier	CARD	*	*	*	*
 2	der	die	ART	*	*	*	*
 3	fünf	fünf	CARD	*	*	*	*
 4	DRV-Medaillen	<unknown>	NN	*	*	*	*
-5	zogen	ziehen	VVFIN	2	2	2	2
+5	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	Boote	Boot	NN	*	*	*	*
 7	des	die	ART	*	*	*	*
 8	Leistungszentrums	Leistungszentrum	NN	*	*	*	*
 9	Dortmund	Dortmund	NE	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
 12	:	:	$.	*	*	*	*
 13	Gold	Gold	NN	*	*	*	*
 14	für	für	APPR	*	*	*	*
@@ -2253,6 +2317,7 @@
 # tuepp_article_id = T900206.48
 # sent_id = 128
 # text = Am brennendsten aber interessiert die Modeleute , welche 130 " Top-Firmen " Essen an Land gezogen haben will .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	am	PTKA	*	*	*	*
@@ -2268,9 +2333,9 @@
 11	Top-Firmen	Top-Firma	NN	*	*	*	*
 12	"	"	$(	*	*	*	*
 13	Essen	Essen	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	gezogen	ziehen	VVPP	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 17	haben	haben	VAINF	*	*	*	*
 18	will	wollen	VMFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
@@ -2278,17 +2343,18 @@
 # tuepp_article_id = T921008.115
 # sent_id = 129
 # text = Nicht die erhofften Zahnbrassen zog das Paar an Land , sondern einen 110 Kilogramm schweren Eber , der offenbar von einer der Inseln mit der Meeresströmung ans Festland schwimmen wollte .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
 2	die	die	ART	*	*	*	*
 3	erhofften	erhofft	ADJA	*	*	*	*
 4	Zahnbrassen	<unknown>	NN	*	*	*	*
-5	zog	ziehen	VVFIN	1	1	1	1
+5	zog	ziehen	VVFIN	LIT	LIT	LIT	LIT
 6	das	die	ART	*	*	*	*
 7	Paar	Paar	NN	*	*	*	*
-8	an	an	APPR	1	1	1	1
-9	Land	Land	NN	1	1	1	1
+8	an	an	APPR	LIT	LIT	LIT	LIT
+9	Land	Land	NN	LIT	LIT	LIT	LIT
 10	,	,	$,	*	*	*	*
 11	sondern	sondern	KON	*	*	*	*
 12	einen	eine	ART	*	*	*	*
@@ -2315,6 +2381,7 @@
 # tuepp_article_id = T921009.114
 # sent_id = 130
 # text = Als er sich 1969 einen bequemen Job bei der National Guard an Land zog , war den meisten Leuten längst klar , daß Amerika in Vietnam nicht für die Rettung der Demokratie kämpfte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOUS	*	*	*	*
@@ -2328,9 +2395,9 @@
 9	der	die	ART	*	*	*	*
 10	National	National	FM	*	*	*	*
 11	Guard	<unknown>	NE	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
-14	zog	ziehen	VVFIN	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
+14	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	war	sein	VAFIN	*	*	*	*
 17	den	die	ART	*	*	*	*
@@ -2355,6 +2422,7 @@
 # tuepp_article_id = T920922.113
 # sent_id = 131
 # text = Mannheim ( dpa ) - Einen " dicken Fisch " hat ein Angler im Rheinauer See in Mannheim an Land gezogen : einen aufgebrochenen Tresor .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mannheim	Mannheim	NE	*	*	*	*
@@ -2375,9 +2443,9 @@
 16	See	See	NN	*	*	*	*
 17	in	in	APPR	*	*	*	*
 18	Mannheim	Mannheim	NE	*	*	*	*
-19	an	an	APPR	1	1	1	1
-20	Land	Land	NN	1	1	1	1
-21	gezogen	ziehen	VVPP	1	1	1	1
+19	an	an	APPR	LIT	LIT	LIT	LIT
+20	Land	Land	NN	LIT	LIT	LIT	LIT
+21	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 22	:	:	$.	*	*	*	*
 23	einen	eine	ART	*	*	*	*
 24	aufgebrochenen	aufgebrochen	ADJA	*	*	*	*
@@ -2387,6 +2455,7 @@
 # tuepp_article_id = T920903.98
 # sent_id = 132
 # text = Stuttgart ( AP / taz ) - Gerade hatte sich Mercedes einen Großauftrag aus der Ukraine an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Stuttgart	Stuttgart	NE	*	*	*	*
@@ -2405,14 +2474,15 @@
 14	aus	aus	APPR	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	Ukraine	Ukraine	NE	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
-19	gezogen	ziehen	VVPP	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
+19	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920128.18
 # sent_id = 133
 # text = Aufträge in " zweistelliger Milliardenhöhe " zog Wirtschaftsminister Möllemann Ende Juni in Teheran an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aufträge	Auftrag	NN	*	*	*	*
@@ -2421,20 +2491,21 @@
 4	zweistelliger	zweistellig	ADJA	*	*	*	*
 5	Milliardenhöhe	Milliardenhöhe	NN	*	*	*	*
 6	"	"	$(	*	*	*	*
-7	zog	ziehen	VVFIN	2	2	2	2
+7	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 8	Wirtschaftsminister	Wirtschaftsminister	NN	*	*	*	*
 9	Möllemann	Möllemann	NE	*	*	*	*
 10	Ende	Ende	NN	*	*	*	*
 11	Juni	Juni	NN	*	*	*	*
 12	in	in	APPR	*	*	*	*
 13	Teheran	Teheran	NE	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920103.79
 # sent_id = 134
 # text = Da sprach Renner davon , daß wir jetzt bis ins Jahr 2000 ausgesorgt hätten , da wir einen großen Auftrag an Land gezogen hätten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -2457,15 +2528,16 @@
 18	einen	eine	ART	*	*	*	*
 19	großen	groß	ADJA	*	*	*	*
 20	Auftrag	Auftrag	NN	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	gezogen	ziehen	VVPP	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 24	hätten	haben	VAFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920108.189
 # sent_id = 135
 # text = Der Senat einer hoch verschuldeten Gemeinde bezahlt einen hohen Preis , um Arbeitsplätze an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -2481,15 +2553,16 @@
 11	,	,	$,	*	*	*	*
 12	um	um	KOUI	*	*	*	*
 13	Arbeitsplätze	Arbeitsplatz	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
 16	zu	zu	PTKZU	*	*	*	*
-17	ziehen	ziehen	VVINF	2	2	2	2
+17	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920121.241
 # sent_id = 136
 # text = Den bisher " dicksten Fisch " in ihrer 200jährigen Geschichte hat jetzt die Papenburger Meyer- Werft an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
@@ -2508,14 +2581,15 @@
 14	Papenburger	<unknown>	ADJA	*	*	*	*
 15	Meyer-	Meyer-	TRUNC	*	*	*	*
 16	Werft	Werft	NN	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
-19	gezogen	ziehen	VVPP	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
+19	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920425.159
 # sent_id = 137
 # text = » Solch einen Mann finden wir nicht per Stellenanzeige « , klagt der Chef der Flugzeugfirma Stemme , für die Amador Millionenaufträge an Land ziehen sollte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	»	<unknown>	ADJA	*	*	*	*
@@ -2540,15 +2614,16 @@
 20	die	die	PRELS	*	*	*	*
 21	Amador	Amador	NE	*	*	*	*
 22	Millionenaufträge	Millionenauftrag	NN	*	*	*	*
-23	an	an	APPR	2	2	2	2
-24	Land	Land	NN	2	2	2	2
-25	ziehen	ziehen	VVINF	2	2	2	2
+23	an	an	APPR	FIG	FIG	FIG	FIG
+24	Land	Land	NN	FIG	FIG	FIG	FIG
+25	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 26	sollte	sollen	VMFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920401.72
 # sent_id = 138
 # text = Der Spiele- und Spielkartenproduzent Schmid , nach den Ravensburgern die Nummer zwei in der bundesdeutschen Gesellschaftsspielbranche , zog sich die Kartenhersteller aus der Geburtsstadt des Skatspiels an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -2568,7 +2643,7 @@
 15	bundesdeutschen	bundesdeutsch	ADJA	*	*	*	*
 16	Gesellschaftsspielbranche	Gesellschaftsspielbranche	NN	*	*	*	*
 17	,	,	$,	*	*	*	*
-18	zog	ziehen	VVFIN	2	2	2	2
+18	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 19	sich	sich	PRF	*	*	*	*
 20	die	die	ART	*	*	*	*
 21	Kartenhersteller	Kartenhersteller	NN	*	*	*	*
@@ -2577,13 +2652,14 @@
 24	Geburtsstadt	Geburtsstadt	NN	*	*	*	*
 25	des	die	ART	*	*	*	*
 26	Skatspiels	Skatspiel	NN	*	*	*	*
-27	an	an	APPR	2	2	2	2
-28	Land	Land	NN	2	2	2	2
+27	an	an	APPR	FIG	FIG	FIG	FIG
+28	Land	Land	NN	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920724.143
 # sent_id = 139
 # text = Nun hat sie mit dem Dieter eine leicht verbesserte Ausgabe an Land gezogen , einen alerten weichen Blondling , zu Scherzen aufgelegt .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nun	nun	ADV	*	*	*	*
@@ -2596,9 +2672,9 @@
 8	leicht	leicht	ADJD	*	*	*	*
 9	verbesserte	verbessert	ADJA	*	*	*	*
 10	Ausgabe	Ausgabe	NN	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
-13	gezogen	ziehen	VVPP	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	einen	eine	ART	*	*	*	*
 16	alerten	alert	ADJA	*	*	*	*
@@ -2613,6 +2689,7 @@
 # tuepp_article_id = T921203.172
 # sent_id = 140
 # text = Damit soll gegen den großen Rüstungsauftrag zur Produktion von Aufklärungsdrohnen protestiert werden , den STN an Land gezogen hat : 250 Millionen Mark will der Bund dafür ausgeben .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Damit	damit	PAV	*	*	*	*
@@ -2630,9 +2707,9 @@
 13	,	,	$,	*	*	*	*
 14	den	die	ART	*	*	*	*
 15	STN	STN	NE	*	*	*	*
-16	an	an	APPR	2	2	2	2
-17	Land	Land	NN	2	2	2	2
-18	gezogen	ziehen	VVPP	2	2	2	2
+16	an	an	APPR	FIG	FIG	FIG	FIG
+17	Land	Land	NN	FIG	FIG	FIG	FIG
+18	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 19	hat	haben	VAFIN	*	*	*	*
 20	:	:	$.	*	*	*	*
 21	250	@card@	CARD	*	*	*	*
@@ -2648,6 +2725,7 @@
 # tuepp_article_id = T920812.34
 # sent_id = 141
 # text = Seine Verbindungen aus der Politik könnten ihm vor allem im dritten Geschäftsbereich zugute kommen : Momper soll Aufträge der Bundesregierung an Land ziehen - für neue Regierungsbauten an der Spree .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seine	sein	PPOSAT	*	*	*	*
@@ -2670,9 +2748,9 @@
 18	Aufträge	Auftrag	NN	*	*	*	*
 19	der	die	ART	*	*	*	*
 20	Bundesregierung	Bundesregierung	NN	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	ziehen	ziehen	VVINF	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	-	-	$(	*	*	*	*
 25	für	für	APPR	*	*	*	*
 26	neue	neu	ADJA	*	*	*	*
@@ -2685,6 +2763,7 @@
 # tuepp_article_id = T920822.112
 # sent_id = 142
 # text = So manche Tochter aus etwas bescheidenerem , aber gutem Hause angelte sich auf dem Luxusliner nach Amerika den langersehnten Milliardär , so mancher verarmte Adlige zog das zurechtgemachte Industriellentöchterchen an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -2712,17 +2791,18 @@
 23	mancher	manche	PIAT	*	*	*	*
 24	verarmte	verarmt	ADJA	*	*	*	*
 25	Adlige	Adlige	NN	*	*	*	*
-26	zog	ziehen	VVFIN	2	2	2	2
+26	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 27	das	die	ART	*	*	*	*
 28	zurechtgemachte	zurechtgemacht	ADJA	*	*	*	*
 29	Industriellentöchterchen	<unknown>	NN	*	*	*	*
-30	an	an	APPR	2	2	2	2
-31	Land	Land	NN	2	2	2	2
+30	an	an	APPR	FIG	FIG	FIG	FIG
+31	Land	Land	NN	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920319.41
 # sent_id = 143
 # text = Wie Andreas Bernstorff von Greenpeace auf Nachfrage mitteilte , habe " Tyre Recycling " durch die Ausschüttung von Schmiergeldern in Millionenhöhe in Rumänien Verträge zur Ablagerung riesiger Mengen von geschredderten Autoteilen auf abgeräumten Braunkohlehalden und zur Errichtung einer Giftmüllverbrennungsanlage an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -2764,14 +2844,15 @@
 37	Errichtung	Errichtung	NN	*	*	*	*
 38	einer	eine	ART	*	*	*	*
 39	Giftmüllverbrennungsanlage	Giftmüllverbrennungsanlage	NN	*	*	*	*
-40	an	an	APPR	2	2	2	2
-41	Land	Land	NN	2	2	2	2
-42	gezogen	ziehen	VVPP	2	2	2	2
+40	an	an	APPR	FIG	FIG	FIG	FIG
+41	Land	Land	NN	FIG	FIG	FIG	FIG
+42	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 43	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920321.29
 # sent_id = 144
 # text = Das Geschäft wurde seinerzeit zwar im letzten Moment abgeblasen ; Weber aber hatte immerhin schon ein verbindliches Angebot der österreichischen Firma Hirtenberger an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -2796,14 +2877,15 @@
 20	österreichischen	österreichisch	ADJA	*	*	*	*
 21	Firma	Firma	NN	*	*	*	*
 22	Hirtenberger	Hirtenberger	NE	*	*	*	*
-23	an	an	APPR	2	2	2	2
-24	Land	Land	NN	2	2	2	2
-25	gezogen	ziehen	VVPP	2	2	2	2
+23	an	an	APPR	FIG	FIG	FIG	FIG
+24	Land	Land	NN	FIG	FIG	FIG	FIG
+25	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920326.172
 # sent_id = 145
 # text = Aber wenigstens konnte der Professor einen dicken Fisch an Land ziehen : Die Firma Intrac .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -2814,9 +2896,9 @@
 6	einen	eine	ART	*	*	*	*
 7	dicken	dick	ADJA	*	*	*	*
 8	Fisch	Fisch	NN	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
-11	ziehen	ziehen	VVINF	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
+11	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 12	:	:	$.	*	*	*	*
 13	Die	die	ART	*	*	*	*
 14	Firma	Firma	NN	*	*	*	*
@@ -2826,6 +2908,7 @@
 # tuepp_article_id = T921121.136
 # sent_id = 146
 # text = Wir hatten ein Stipendium von der Video Foundation aus Boston an Land gezogen und damit Zeit auf einem Fernsehsatelliten gekauft , um unsere Show und die Arbeiten von anderen Gruppen im ganzen Land zu verbreiten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
@@ -2838,9 +2921,9 @@
 8	Foundation	<unknown>	NN	*	*	*	*
 9	aus	aus	APPR	*	*	*	*
 10	Boston	Boston	NE	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
-13	gezogen	ziehen	VVPP	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 14	und	und	KON	*	*	*	*
 15	damit	damit	PAV	*	*	*	*
 16	Zeit	Zeit	NN	*	*	*	*
@@ -2868,6 +2951,7 @@
 # tuepp_article_id = T921128.223
 # sent_id = 147
 # text = Denn das liebe Jesulein ist nicht blöde und hat sich den Werbeträger Nummer Eins an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -2884,14 +2968,15 @@
 12	Werbeträger	Werbeträger	NN	*	*	*	*
 13	Nummer	Nummer	NN	*	*	*	*
 14	Eins	Eins	NN	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
-17	gezogen	ziehen	VVPP	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
+17	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920221.101
 # sent_id = 148
 # text = Sogar einen Auftrag der privaten Combiwaggon in Eltville über 300 hochwertige Güterwaggons konnten die Waggonwerke in Niesky 1990 gegen eine starke internationale Konkurrenz an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sogar	sogar	ADV	*	*	*	*
@@ -2917,14 +3002,15 @@
 21	starke	stark	ADJA	*	*	*	*
 22	internationale	international	ADJA	*	*	*	*
 23	Konkurrenz	Konkurrenz	NN	*	*	*	*
-24	an	an	APPR	2	2	2	2
-25	Land	Land	NN	2	2	2	2
-26	ziehen	ziehen	VVINF	2	2	2	2
+24	an	an	APPR	FIG	FIG	FIG	FIG
+25	Land	Land	NN	FIG	FIG	FIG	FIG
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920228.61
 # sent_id = 149
 # text = Kein Wunder , daß der hessische Innenminister Günther seinen Verfassungsschutz , der den Ex- V-Mann " Siggi " Nonne an Land gezogen hatte , über den Klee lobte : Erstmals , so Günther , sei es gelungen , " ganz nah an die Tatverdächtigen " heranzukommen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kein	keine	PIAT	*	*	*	*
@@ -2946,9 +3032,9 @@
 17	Siggi	Siggi	NE	*	*	*	*
 18	"	"	$(	*	*	*	*
 19	Nonne	Nonne	NN	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
-22	gezogen	ziehen	VVPP	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
+22	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 23	hatte	haben	VAFIN	*	*	*	*
 24	,	,	$,	*	*	*	*
 25	über	über	APPR	*	*	*	*
@@ -2978,6 +3064,7 @@
 # tuepp_article_id = T881013.123
 # sent_id = 150
 # text = Viele Fischsorten dürfen nicht mehr an Land gezogen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Viele	viele	PIAT	*	*	*	*
@@ -2985,15 +3072,16 @@
 3	dürfen	dürfen	VMFIN	*	*	*	*
 4	nicht	nicht	PTKNEG	*	*	*	*
 5	mehr	mehr	ADV	*	*	*	*
-6	an	an	APPR	1	1	1	1
-7	Land	Land	NN	1	1	1	1
-8	gezogen	ziehen	VVPP	1	1	1	1
+6	an	an	APPR	LIT	LIT	LIT	LIT
+7	Land	Land	NN	LIT	LIT	LIT	LIT
+8	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 9	werden	werden	VAINF	*	*	*	*
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880909.160
 # sent_id = 151
 # text = Bestimmt kein schlechter Fang , den die Stadtfestmacher da an Land gezogen haben , auch wenn Austern für die Nordseeregion sicher etwas ungewöhnlich sind .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bestimmt	bestimmt	ADV	*	*	*	*
@@ -3005,9 +3093,9 @@
 7	die	die	ART	*	*	*	*
 8	Stadtfestmacher	<unknown>	NN	*	*	*	*
 9	da	da	ADV	*	*	*	*
-10	an	an	APPR	2	1	1	1
-11	Land	Land	NN	2	1	1	1
-12	gezogen	ziehen	VVPP	2	1	1	1
+10	an	an	APPR	FIG	LIT	LIT	LIT
+11	Land	Land	NN	FIG	LIT	LIT	LIT
+12	gezogen	ziehen	VVPP	FIG	LIT	LIT	LIT
 13	haben	haben	VAFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	auch	auch	ADV	*	*	*	*
@@ -3025,6 +3113,7 @@
 # tuepp_article_id = T880929.36
 # sent_id = 152
 # text = Auf seiner am Wochenende beendeten Ostasienreise sicherte er Hamburg die Olympischen Spiele im Jahre 2004 und dann zog er in Schanghai einen dicken Fisch an Land : Die chinesische Staatsreederei wählte Hamburg als Stützpunkt ihrer europäischen Aktivitäten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -3044,15 +3133,15 @@
 15	2004	@card@	CARD	*	*	*	*
 16	und	und	KON	*	*	*	*
 17	dann	dann	ADV	*	*	*	*
-18	zog	ziehen	VVFIN	2	2	2	2
+18	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 19	er	er	PPER	*	*	*	*
 20	in	in	APPR	*	*	*	*
 21	Schanghai	Schanghai	NE	*	*	*	*
 22	einen	eine	ART	*	*	*	*
 23	dicken	dick	ADJA	*	*	*	*
 24	Fisch	Fisch	NN	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
 27	:	:	$.	*	*	*	*
 28	Die	die	ART	*	*	*	*
 29	chinesische	chinesisch	ADJA	*	*	*	*
@@ -3069,6 +3158,7 @@
 # tuepp_article_id = T880721.69
 # sent_id = 153
 # text = Es traf sich , daß der ältere in diesem Jahr ungewöhnlich schwere Fische an Land zog , und es wurde ein Mikroskop gekauft .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Es	es	PPER	*	*	*	*
@@ -3084,9 +3174,9 @@
 11	ungewöhnlich	ungewöhnlich	ADJD	*	*	*	*
 12	schwere	schwer	ADJA	*	*	*	*
 13	Fische	Fisch	NN	*	*	*	*
-14	an	an	APPR	1	1	1	1
-15	Land	Land	NN	1	1	1	1
-16	zog	ziehen	VVFIN	1	1	1	1
+14	an	an	APPR	LIT	LIT	LIT	LIT
+15	Land	Land	NN	LIT	LIT	LIT	LIT
+16	zog	ziehen	VVFIN	LIT	LIT	LIT	LIT
 17	,	,	$,	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	es	es	PPER	*	*	*	*
@@ -3099,6 +3189,7 @@
 # tuepp_article_id = T880707.163
 # sent_id = 154
 # text = Uwe Stoll , der bereits mit seinem Film " Diabolo Felizitas " im Rahmen der " Ersten Bremer Filmschau " kürzlich in Erscheinung getreten ist , hat sich mit den Kameramann Jürgen Dombrowsky von Radio Bremen sowie dem Beleuchter Rolf Essers und der Produktionsleiterin Christa Beland , - beide vom Bremer Theater-professionell gesehen , " fette Fische " an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Uwe	Uwe	NE	*	*	*	*
@@ -3159,14 +3250,15 @@
 56	fette	fett	ADJA	*	*	*	*
 57	Fische	Fisch	NN	*	*	*	*
 58	"	"	$(	*	*	*	*
-59	an	an	APPR	2	2	2	2
-60	Land	Land	NN	2	2	2	2
-61	gezogen	ziehen	VVPP	2	2	2	2
+59	an	an	APPR	FIG	FIG	FIG	FIG
+60	Land	Land	NN	FIG	FIG	FIG	FIG
+61	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 62	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881208.180
 # sent_id = 155
 # text = Voß konnte den gesamten Auftrag ja auch nur unter erheblichem Preisnachlaß für sich an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Voß	<unknown>	NN	*	*	*	*
@@ -3182,14 +3274,15 @@
 11	Preisnachlaß	Preisnachlass	NN	*	*	*	*
 12	für	für	APPR	*	*	*	*
 13	sich	sich	PRF	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	ziehen	ziehen	VVINF	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881104.25
 # sent_id = 156
 # text = 1973 konnte das " mittelständische Handelsunternehmen " ( Swyen ) einen bis ins nächste Jahrtausend reichenden Exklusivvertrag über sowjetische Urananreicherungs-Dienstleistungen an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1973	@card@	CARD	*	*	*	*
@@ -3212,14 +3305,15 @@
 18	über	über	APPR	*	*	*	*
 19	sowjetische	sowjetisch	ADJA	*	*	*	*
 20	Urananreicherungs-Dienstleistungen	<unknown>	NN	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	ziehen	ziehen	VVINF	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880216.70
 # sent_id = 157
 # text = Peking ( dpa ) - Bundesdeutsche Unternehmen haben im China-Geschäft neue dicke Fische an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Peking	Peking	NE	*	*	*	*
@@ -3235,14 +3329,15 @@
 11	neue	neu	ADJA	*	*	*	*
 12	dicke	dick	ADJA	*	*	*	*
 13	Fische	Fisch	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	gezogen	ziehen	VVPP	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870128.66
 # sent_id = 158
 # text = McDonnell Douglas ist es vor wenigen Tagen gelungen , einen 1 Mrd.-Dollar-Auftrag zum Bau von 20 Delta II-Raketen an Land zu ziehen , mit dem jetzt die GPS-Satelitten an den Himmel gehängt werden sollen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	McDonnell	McDonnell	NE	*	*	*	*
@@ -3263,10 +3358,10 @@
 16	20	@card@	CARD	*	*	*	*
 17	Delta	Delta	NN	*	*	*	*
 18	II-Raketen	II-Rakete	NN	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
 21	zu	zu	PTKZU	*	*	*	*
-22	ziehen	ziehen	VVINF	2	2	2	2
+22	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 23	,	,	$,	*	*	*	*
 24	mit	mit	APPR	*	*	*	*
 25	dem	die	PRELS	*	*	*	*
@@ -3284,6 +3379,7 @@
 # tuepp_article_id = T870421.75
 # sent_id = 159
 # text = Auf die Frage , ob die staatliche HDW tatsächlich Dokumente weitergereicht habe , sei bis heute keine befriedigende Antwort von der Bundesregierung gekommen , heißt es im Hindu vom 14.4. Am 17.4. zeichnete sich schon der nächste Rüstungsskandal ab : der staatliche schwedische Rundfunk berichtet , daß die Rüstungsfirma Bofors Schwedens größten Exportauftrag an Land ziehen konnte , indem sie indischen Congress- ( I ) - Politikern - " Schlüsselfiguren im Verteidigungsbereich " - Schmiergelder auf Schweizer Bankkonten überwiesen habe .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -3341,9 +3437,9 @@
 53	Schwedens	Schweden	NE	*	*	*	*
 54	größten	groß	ADJA	*	*	*	*
 55	Exportauftrag	<unknown>	NN	*	*	*	*
-56	an	an	APPR	2	2	2	2
-57	Land	Land	NN	2	2	2	2
-58	ziehen	ziehen	VVINF	2	2	2	2
+56	an	an	APPR	FIG	FIG	FIG	FIG
+57	Land	Land	NN	FIG	FIG	FIG	FIG
+58	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 59	konnte	können	VMFIN	*	*	*	*
 60	,	,	$,	*	*	*	*
 61	indem	indem	KOUS	*	*	*	*
@@ -3373,6 +3469,7 @@
 # tuepp_article_id = T870814.74
 # sent_id = 160
 # text = Er sieht keinen Sinn darin , wenn bei den Wettkämpfen tonnenweise Fisch an Land gezogen wird und zum Teil unverzehrt an irgendwelchen Uferböschungen vergammelt .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -3387,9 +3484,9 @@
 10	Wettkämpfen	Wettkampf	NN	*	*	*	*
 11	tonnenweise	tonnenweise	ADJA	*	*	*	*
 12	Fisch	Fisch	NN	*	*	*	*
-13	an	an	APPR	1	1	1	1
-14	Land	Land	NN	1	1	1	1
-15	gezogen	ziehen	VVPP	1	1	1	1
+13	an	an	APPR	LIT	LIT	LIT	LIT
+14	Land	Land	NN	LIT	LIT	LIT	LIT
+15	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 16	wird	werden	VAFIN	*	*	*	*
 17	und	und	KON	*	*	*	*
 18	zum	zu	APPRART	*	*	*	*
@@ -3404,6 +3501,7 @@
 # tuepp_article_id = T860905.28
 # sent_id = 161
 # text = Entsprechend dünn sind die Aufträge , die bundesdeutsche Firmen sich während der Messe an Land ziehen können .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Entsprechend	entsprechend	ADJD	*	*	*	*
@@ -3419,15 +3517,16 @@
 11	während	während	APPR	*	*	*	*
 12	der	die	ART	*	*	*	*
 13	Messe	Messe	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	ziehen	ziehen	VVINF	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 17	können	können	VMINF	*	*	*	*
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T861213.66
 # sent_id = 162
 # text = So hat Siemens den Auftrag für den Auf- und Ausbau des Anfang des Jahres eingeführten Fernsehens an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -3446,14 +3545,15 @@
 14	Jahres	Jahr	NN	*	*	*	*
 15	eingeführten	eingeführt	ADJA	*	*	*	*
 16	Fernsehens	Fernsehen	NN	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
-19	gezogen	ziehen	VVPP	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
+19	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T861213.70
 # sent_id = 163
 # text = Die Grünen haben sich diesmal Profis an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3462,14 +3562,15 @@
 4	sich	sich	PRF	*	*	*	*
 5	diesmal	diesmal	ADV	*	*	*	*
 6	Profis	Profi	NN	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	gezogen	ziehen	VVPP	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930519.80
 # sent_id = 164
 # text = Antonio Strecht Monteiro , "Weidleplan"-Repräsentant in Portugal , wollte seine Verbindungen zu den illustren "Emaudio"-Teilhabern nutzen , um für seine Stuttgarter Auftraggeber ein Riesengeschäft an Land zu ziehen : den Bau eines Flughafens in der portugiesischen Kolonie Macau .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Antonio	Antonio	NE	*	*	*	*
@@ -3498,10 +3599,10 @@
 24	Auftraggeber	Auftraggeber	NN	*	*	*	*
 25	ein	eine	ART	*	*	*	*
 26	Riesengeschäft	Riesengeschäft	NN	*	*	*	*
-27	an	an	APPR	2	2	2	2
-28	Land	Land	NN	2	2	2	2
+27	an	an	APPR	FIG	FIG	FIG	FIG
+28	Land	Land	NN	FIG	FIG	FIG	FIG
 29	zu	zu	PTKZU	*	*	*	*
-30	ziehen	ziehen	VVINF	2	2	2	2
+30	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 31	:	:	$.	*	*	*	*
 32	den	die	ART	*	*	*	*
 33	Bau	Bau	NN	*	*	*	*
@@ -3517,6 +3618,7 @@
 # tuepp_article_id = T930602.130
 # sent_id = 165
 # text = Noch Ende letzten Jahres hatte der Betriebsrat ein tragfähig scheinendes Konzept an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Noch	noch	ADV	*	*	*	*
@@ -3530,14 +3632,15 @@
 9	tragfähig	tragfähig	ADJD	*	*	*	*
 10	scheinendes	scheinend	ADJA	*	*	*	*
 11	Konzept	Konzept	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
-14	gezogen	ziehen	VVPP	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
+14	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930607.203
 # sent_id = 166
 # text = Zwar hat die Werft Aufträge für vier weitere Containerschiffe an Land gezogen , aber die Belegschaft ist nicht ausgelastet .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zwar	zwar	ADV	*	*	*	*
@@ -3549,9 +3652,9 @@
 7	vier	vier	CARD	*	*	*	*
 8	weitere	weit	ADJA	*	*	*	*
 9	Containerschiffe	Containerschiff	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
-12	gezogen	ziehen	VVPP	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
+12	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	aber	aber	KON	*	*	*	*
 15	die	die	ART	*	*	*	*
@@ -3564,6 +3667,7 @@
 # tuepp_article_id = T931001.114
 # sent_id = 167
 # text = Die nächsten Aufträge für zwei Schwesterschiffe der " Oriana " hat sich die Werft jedenfalls schon an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3582,28 +3686,30 @@
 14	Werft	Werft	NN	*	*	*	*
 15	jedenfalls	jedenfalls	ADV	*	*	*	*
 16	schon	schon	ADV	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
-19	gezogen	ziehen	VVPP	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
+19	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930906.160
 # sent_id = 168
 # text = Dann zog er das Opfer an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Dann	dann	ADV	*	*	*	*
-2	zog	ziehen	VVFIN	1	1	1	1
+2	zog	ziehen	VVFIN	LIT	LIT	LIT	LIT
 3	er	er	PPER	*	*	*	*
 4	das	die	ART	*	*	*	*
 5	Opfer	Opfer	NN	*	*	*	*
-6	an	an	APPR	1	1	1	1
-7	Land	Land	NN	1	1	1	1
+6	an	an	APPR	LIT	LIT	LIT	LIT
+7	Land	Land	NN	LIT	LIT	LIT	LIT
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930908.51
 # sent_id = 169
 # text = Als im vergangenen Jahr bekannt wurde , daß der Flughafen in Mexiko-Stadt sein Leitsystem komplett erneuern muß , weil sich der Flugverkehr seit der letzten Modernisierung 1980 versechsfacht hat , versuchte Moussavi , den lukrativen Auftrag an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KON	*	*	*	*
@@ -3642,15 +3748,16 @@
 34	den	die	ART	*	*	*	*
 35	lukrativen	lukrativ	ADJA	*	*	*	*
 36	Auftrag	Auftrag	NN	*	*	*	*
-37	an	an	APPR	2	2	2	2
-38	Land	Land	NN	2	2	2	2
+37	an	an	APPR	FIG	FIG	FIG	FIG
+38	Land	Land	NN	FIG	FIG	FIG	FIG
 39	zu	zu	PTKZU	*	*	*	*
-40	ziehen	ziehen	VVINF	2	2	2	2
+40	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 41	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930119.103
 # sent_id = 170
 # text = Michael Schweiger , Kopf des Projektes , versucht in erster Linie mit sozial- und jugendpolitischen Argumenten Mittel an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Michael	Michael	NE	*	*	*	*
@@ -3670,15 +3777,16 @@
 15	jugendpolitischen	jugendpolitisch	ADJA	*	*	*	*
 16	Argumenten	Argument	NN	*	*	*	*
 17	Mittel	Mittel	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
 20	zu	zu	PTKZU	*	*	*	*
-21	ziehen	ziehen	VVINF	2	2	2	2
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930407.219
 # sent_id = 171
 # text = Einen harten Job hat er sich an Land gezogen , der neue Hamburger Arbeitsamtsdirektor , Olaf Koglin .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einen	eine	ART	*	*	*	*
@@ -3687,9 +3795,9 @@
 4	hat	haben	VAFIN	*	*	*	*
 5	er	er	PPER	*	*	*	*
 6	sich	sich	PRF	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	gezogen	ziehen	VVPP	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	neue	neu	ADJA	*	*	*	*
@@ -3703,6 +3811,7 @@
 # tuepp_article_id = T930428.72
 # sent_id = 172
 # text = Es war ja nicht nur der Staat DDR , der die alten Besitzansprüche übernahm , es waren oft auch einzelne , die sich mit bisweilen zweifelhaften Methoden ein Häuschen im Grünen an Land zogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -3736,14 +3845,15 @@
 29	Häuschen	Häuschen	NN	*	*	*	*
 30	im	in	APPRART	*	*	*	*
 31	Grünen	Grüne	NN	*	*	*	*
-32	an	an	APPR	2	2	2	2
-33	Land	Land	NN	2	2	2	2
-34	zogen	ziehen	VVFIN	2	2	2	2
+32	an	an	APPR	FIG	FIG	FIG	FIG
+33	Land	Land	NN	FIG	FIG	FIG	FIG
+34	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930715.5
 # sent_id = 173
 # text = " Mister Gras " wird er genannt , weil er die werbemäßig geniale Idee hatte , Wimbledon in Halle zu kopieren und auch noch das Daviscup-Finale an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3772,15 +3882,16 @@
 24	noch	noch	ADV	*	*	*	*
 25	das	die	ART	*	*	*	*
 26	Daviscup-Finale	Daviscup-Finale	NN	*	*	*	*
-27	an	an	APPR	2	2	2	2
-28	Land	Land	NN	2	2	2	2
+27	an	an	APPR	FIG	FIG	FIG	FIG
+28	Land	Land	NN	FIG	FIG	FIG	FIG
 29	zu	zu	PTKZU	*	*	*	*
-30	ziehen	ziehen	VVINF	2	2	2	2
+30	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930715.84
 # sent_id = 174
 # text = Man muß eben erst einmal auf die Idee kommen , Klein- Wimbledon aus dem westfälischen Boden zu stampfen , ein drittes Rasenturnier ( neben Queens und dem besagten Wimbledon ) auszurichten und auch noch das Daviscup-Viertelfinale an diesem Wochenende zwischen Deutschland und dem tschecho-slowakischen Tennisbündnis an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Man	man	PIS	*	*	*	*
@@ -3828,15 +3939,16 @@
 43	dem	die	ART	*	*	*	*
 44	tschecho-slowakischen	tschecho-slowakisch	ADJA	*	*	*	*
 45	Tennisbündnis	<unknown>	NN	*	*	*	*
-46	an	an	APPR	2	2	2	2
-47	Land	Land	NN	2	2	2	2
+46	an	an	APPR	FIG	FIG	FIG	FIG
+47	Land	Land	NN	FIG	FIG	FIG	FIG
 48	zu	zu	PTKZU	*	*	*	*
-49	ziehen	ziehen	VVINF	2	2	2	2
+49	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 50	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930708.108
 # sent_id = 175
 # text = Ziemlich überbelichtet , dieser Kontaktabzug eines Fotoreporters , der Stories an Land und Huren aus der Elbe ziehen soll .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ziemlich	ziemlich	ADV	*	*	*	*
@@ -3849,20 +3961,21 @@
 8	,	,	$,	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Stories	<unknown>	NN	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
 13	und	und	KON	*	*	*	*
 14	Huren	Hure	NN	*	*	*	*
 15	aus	aus	APPR	*	*	*	*
 16	der	die	ART	*	*	*	*
 17	Elbe	Elbe	NE	*	*	*	*
-18	ziehen	ziehen	VVINF	2	2	2	2
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	soll	sollen	VMFIN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930708.154
 # sent_id = 176
 # text = Mit den Westküsten-Haudegen Econochrist aus den USA haben sie einen derben Hardcore-Act an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -3877,14 +3990,15 @@
 10	einen	eine	ART	*	*	*	*
 11	derben	derb	ADJA	*	*	*	*
 12	Hardcore-Act	<unknown>	NN	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
-15	gezogen	ziehen	VVPP	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930723.108
 # sent_id = 177
 # text = Er verkraftete die Tiraden des Hafenstraßen-Boris gegen den schnöden Mammon ebenso klaglos wie Beckers Weigerung , gewisse Werbeverträge , die Tiriac mühsam an Land gezogen hatte , zu unterschreiben , und wartete geduldig auf die nächste Wandlung des amtierenden ATP- Champions in Sachen Philosophie und Selbsterforschung .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -3909,9 +4023,9 @@
 20	die	die	PRELS	*	*	*	*
 21	Tiriac	<unknown>	NE	*	*	*	*
 22	mühsam	mühsam	ADJD	*	*	*	*
-23	an	an	APPR	2	2	2	2
-24	Land	Land	NN	2	2	2	2
-25	gezogen	ziehen	VVPP	2	2	2	2
+23	an	an	APPR	FIG	FIG	FIG	FIG
+24	Land	Land	NN	FIG	FIG	FIG	FIG
+25	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 26	hatte	haben	VAFIN	*	*	*	*
 27	,	,	$,	*	*	*	*
 28	zu	zu	PTKZU	*	*	*	*
@@ -3938,6 +4052,7 @@
 # tuepp_article_id = T930707.140
 # sent_id = 178
 # text = Es muß am Haken liegen : Bisher hat die Industrie noch kaum einen Fisch aus dem Netz der Weltmusik an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -3959,14 +4074,15 @@
 17	Netz	Netz	NN	*	*	*	*
 18	der	die	ART	*	*	*	*
 19	Weltmusik	Weltmusik	NN	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
-22	gezogen	ziehen	VVPP	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
+22	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930731.174
 # sent_id = 179
 # text = Mit der Exlibris-Sammlung der Universitätsbibliothek Breslau hat das Kunstamt Tiergarten einen kleinen Schatz an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -3982,14 +4098,15 @@
 11	einen	eine	ART	*	*	*	*
 12	kleinen	klein	ADJA	*	*	*	*
 13	Schatz	Schatz	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	gezogen	ziehen	VVPP	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930712.73
 # sent_id = 180
 # text = Mit Fatima Sewifi , Künstlername " Fatima die Amazone " , hat sie sich auch eine äußerst gut qualifizierte Partnerin an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -4012,14 +4129,15 @@
 18	gut	gut	ADJD	*	*	*	*
 19	qualifizierte	qualifiziert	ADJA	*	*	*	*
 20	Partnerin	Partnerin	NN	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	gezogen	ziehen	VVPP	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931223.122
 # sent_id = 181
 # text = " Herr Leyendecker hat wohl doch das , Sahnehäubchen ` des Journalismus klammheimlich an Land gezogen " , schrieb Ernst K. an Gerhard Mauz .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4035,9 +4153,9 @@
 11	des	die	ART	*	*	*	*
 12	Journalismus	Journalismus	NN	*	*	*	*
 13	klammheimlich	klammheimlich	ADJD	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	gezogen	ziehen	VVPP	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 17	"	"	$(	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	schrieb	schreiben	VVFIN	*	*	*	*
@@ -4051,6 +4169,7 @@
 # tuepp_article_id = T931207.77
 # sent_id = 182
 # text = Das tut er auch in der Hoffnung , sich so vielleicht einen der vakanten Abteilungsleiterposten in der Karlsruher Bundesanwaltschaft an Land ziehen zu können .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -4072,9 +4191,9 @@
 17	der	die	ART	*	*	*	*
 18	Karlsruher	Karlsruher	ADJA	*	*	*	*
 19	Bundesanwaltschaft	Bundesanwaltschaft	NN	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
-22	ziehen	ziehen	VVINF	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
+22	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 23	zu	zu	PTKZU	*	*	*	*
 24	können	können	VMINF	*	*	*	*
 25	.	.	$.	*	*	*	*
@@ -4082,6 +4201,7 @@
 # tuepp_article_id = T930803.107
 # sent_id = 183
 # text = Der Deutsche Eishockey-Bund ( DEB ) nämlich liebt auch das Geld , hat die Brauerei Krombacher als Generalsponsor an Land gezogen , schreckte nicht einmal davor zurück , die Bundesliga in " Krombacher-Liga " umzubenennen , und verpflichtete alle Klubs , Bierwerbung zu betreiben .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4102,9 +4222,9 @@
 16	Krombacher	<unknown>	NN	*	*	*	*
 17	als	als	KOKOM	*	*	*	*
 18	Generalsponsor	Generalsponsor	NN	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
-21	gezogen	ziehen	VVPP	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
+21	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	schreckte	schrecken	VVFIN	*	*	*	*
 24	nicht	nicht	PTKNEG	*	*	*	*
@@ -4133,6 +4253,7 @@
 # tuepp_article_id = T930828.191
 # sent_id = 184
 # text = Konnten die sizilianischen "Mattanza"-Fischer früher im Juli / August mindestens zehntausend Tonnen Thunfisch an Land ziehen , so schaffen es heute nur noch ein paar hundert Exemplare bis ins mittlere Mittelmeer .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Konnten	können	VMFIN	*	*	*	*
@@ -4149,9 +4270,9 @@
 12	zehntausend	zehntausend	CARD	*	*	*	*
 13	Tonnen	Tonne	NN	*	*	*	*
 14	Thunfisch	Thunfisch	NN	*	*	*	*
-15	an	an	APPR	1	1	1	1
-16	Land	Land	NN	1	1	1	1
-17	ziehen	ziehen	VVINF	1	1	1	1
+15	an	an	APPR	LIT	LIT	LIT	LIT
+16	Land	Land	NN	LIT	LIT	LIT	LIT
+17	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 18	,	,	$,	*	*	*	*
 19	so	so	ADV	*	*	*	*
 20	schaffen	schaffen	VVFIN	*	*	*	*
@@ -4172,19 +4293,20 @@
 # tuepp_article_id = T930821.167
 # sent_id = 185
 # text = Ein Jahrzehnt lang zog man diverse Aufträge im Ostblock an Land und verdiente bombig Geld .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
 2	Jahrzehnt	Jahrzehnt	NN	*	*	*	*
 3	lang	lang	ADJD	*	*	*	*
-4	zog	ziehen	VVFIN	2	2	2	2
+4	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 5	man	man	PIS	*	*	*	*
 6	diverse	divers	ADJA	*	*	*	*
 7	Aufträge	Auftrag	NN	*	*	*	*
 8	im	in	APPRART	*	*	*	*
 9	Ostblock	Ostblock	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
 12	und	und	KON	*	*	*	*
 13	verdiente	verdienen	VVFIN	*	*	*	*
 14	bombig	bombig	ADJD	*	*	*	*
@@ -4194,6 +4316,7 @@
 # tuepp_article_id = T930821.167
 # sent_id = 186
 # text = Im Jahre 1978 wähnte die Berlin Consult , sie habe ein lukratives Geschäft an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -4209,14 +4332,15 @@
 11	ein	eine	ART	*	*	*	*
 12	lukratives	lukrativ	ADJA	*	*	*	*
 13	Geschäft	Geschäft	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	gezogen	ziehen	VVPP	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930301.60
 # sent_id = 187
 # text = 14 Tage nachdem er diesen Posten verlassen hatte , gründete er 1989 die Gesellschaft Atacir , SA , und bald darauf zog seine Firma einen fetten Fisch an Land : Zwei Prozent des Auftragsvolumens versprach ihm die deutsche Firma Siemens für den Fall , daß Siemens den Zuschlag für den Bau der Stromversorgung des Hochgeschwindigkeitszugs Madrid-Sevilla bekomme .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	14	@card@	CARD	*	*	*	*
@@ -4240,14 +4364,14 @@
 19	und	und	KON	*	*	*	*
 20	bald	bald	ADV	*	*	*	*
 21	darauf	darauf	PAV	*	*	*	*
-22	zog	ziehen	VVFIN	2	2	2	2
+22	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 23	seine	sein	PPOSAT	*	*	*	*
 24	Firma	Firma	NN	*	*	*	*
 25	einen	eine	ART	*	*	*	*
 26	fetten	fett	ADJA	*	*	*	*
 27	Fisch	Fisch	NN	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Land	Land	NN	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Land	Land	NN	FIG	FIG	FIG	FIG
 30	:	:	$.	*	*	*	*
 31	Zwei	zwei	CARD	*	*	*	*
 32	Prozent	Prozent	NN	*	*	*	*
@@ -4281,6 +4405,7 @@
 # tuepp_article_id = T931102.159
 # sent_id = 188
 # text = Ein Jahresvertrag mit " West " , der die halbe Miete sichert : Was das rührige Junge Theater jetzt an Land zog , ist der Traum manch gebeutelter Künstlergruppe und der Alptraum der letzten Puristen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -4302,9 +4427,9 @@
 17	Junge	Junge	NN	*	*	*	*
 18	Theater	Theater	NN	*	*	*	*
 19	jetzt	jetzt	ADV	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
-22	zog	ziehen	VVFIN	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
+22	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 23	,	,	$,	*	*	*	*
 24	ist	sein	VAFIN	*	*	*	*
 25	der	die	ART	*	*	*	*
@@ -4323,6 +4448,7 @@
 # tuepp_article_id = T931108.225
 # sent_id = 189
 # text = Eine Loslösung von Dasa sollte nach seiner Ansicht allerdings langsam stattfinden : Erst müsse eine eigene Infrastruktur aufgebaut werden , um Aufträge an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -4347,15 +4473,16 @@
 20	,	,	$,	*	*	*	*
 21	um	um	KOUI	*	*	*	*
 22	Aufträge	Auftrag	NN	*	*	*	*
-23	an	an	APPR	2	2	2	2
-24	Land	Land	NN	2	2	2	2
+23	an	an	APPR	FIG	FIG	FIG	FIG
+24	Land	Land	NN	FIG	FIG	FIG	FIG
 25	zu	zu	PTKZU	*	*	*	*
-26	ziehen	ziehen	VVINF	2	2	2	2
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930211.221
 # sent_id = 190
 # text = Mit Findigkeit , Hartnäckigkeit , Argumenten und Kontakten , womöglich auch noch mit Charme und Penetranz hat das Bremer Umwelt-Ressort ein interessantes EG-Projekt , 2,4 Millionen stark , an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -4386,14 +4513,15 @@
 26	Millionen	Million	NN	*	*	*	*
 27	stark	stark	ADJD	*	*	*	*
 28	,	,	$,	*	*	*	*
-29	an	an	APPR	2	2	2	2
-30	Land	Land	NN	2	2	2	2
-31	gezogen	ziehen	VVPP	2	2	2	2
+29	an	an	APPR	FIG	FIG	FIG	FIG
+30	Land	Land	NN	FIG	FIG	FIG	FIG
+31	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930205.251
 # sent_id = 191
 # text = Einen vermeintlich dicken Fisch hat sich Verbandsligist Bergedorf 85 für Sonntag an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einen	eine	ART	*	*	*	*
@@ -4407,30 +4535,32 @@
 9	85	@card@	CARD	*	*	*	*
 10	für	für	APPR	*	*	*	*
 11	Sonntag	Sonntag	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
-14	gezogen	ziehen	VVPP	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
+14	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960511.80
 # sent_id = 192
 # text = Sie zog dieser Tage einen 275- Millionen-Mark-Auftrag an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	dieser	dies	PDAT	*	*	*	*
 4	Tage	Tag	NN	*	*	*	*
 5	einen	eine	ART	*	*	*	*
 6	275-	@card@	ADJA	*	*	*	*
 7	Millionen-Mark-Auftrag	<unknown>	NN	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960517.248
 # sent_id = 193
 # text = Die bewies er im letzten Jahr , als er gemeinsam mit einigen freien Gruppen die Sophiensäle als neue Spielstätte an Land ziehen wollte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	PDS	*	*	*	*
@@ -4452,15 +4582,16 @@
 17	als	als	KOKOM	*	*	*	*
 18	neue	neu	ADJA	*	*	*	*
 19	Spielstätte	Spielstätte	NN	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
-22	ziehen	ziehen	VVINF	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
+22	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 23	wollte	wollen	VMFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960605.57
 # sent_id = 194
 # text = " Damit können wir neue Aufträge an Land ziehen , müssen allerdings auch kostendeckend arbeiten " , sagte er .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4469,9 +4600,9 @@
 4	wir	wir	PPER	*	*	*	*
 5	neue	neu	ADJA	*	*	*	*
 6	Aufträge	Auftrag	NN	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	ziehen	ziehen	VVINF	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	müssen	müssen	VMFIN	*	*	*	*
 12	allerdings	allerdings	ADV	*	*	*	*
@@ -4487,6 +4618,7 @@
 # tuepp_article_id = T960604.130
 # sent_id = 195
 # text = Mit dem Titel hofft der TSV nun , entweder die Siegener Wirtschaft in Zugzwang zu bringen oder in letzter Sekunde einen ganz neuen Sponsor an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -4513,15 +4645,16 @@
 22	ganz	ganz	ADV	*	*	*	*
 23	neuen	neu	ADJA	*	*	*	*
 24	Sponsor	Sponsor	NN	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
 27	zu	zu	PTKZU	*	*	*	*
-28	ziehen	ziehen	VVINF	2	2	2	2
+28	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961026.293
 # sent_id = 196
 # text = Irana Rusta , kulturpolitische Sprecherin der Fraktion : " Schwenkow hat den Senat reingelegt , als er sich den Vertrag mit diesen Versprechen an Land gezogen hat .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Irana	<unknown>	NE	*	*	*	*
@@ -4547,15 +4680,16 @@
 21	mit	mit	APPR	*	*	*	*
 22	diesen	dies	PDAT	*	*	*	*
 23	Versprechen	Versprechen	NN	*	*	*	*
-24	an	an	APPR	2	2	2	2
-25	Land	Land	NN	2	2	2	2
-26	gezogen	ziehen	VVPP	2	2	2	2
+24	an	an	APPR	FIG	FIG	FIG	FIG
+25	Land	Land	NN	FIG	FIG	FIG	FIG
+26	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 27	hat	haben	VAFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961026.308
 # sent_id = 197
 # text = Warum muß man sich solch ein Problem an Land ziehen ?
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Warum	warum	PWAV	*	*	*	*
@@ -4565,14 +4699,15 @@
 5	solch	solche	PIAT	*	*	*	*
 6	ein	eine	ART	*	*	*	*
 7	Problem	Problem	NN	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
-10	ziehen	ziehen	VVINF	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
+10	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 11	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T961017.271
 # sent_id = 198
 # text = In der Zwischenzeit hatte das BBI internationale Ausbildungsprojekte in Griechenland und Indonesien an Land gezogen , um an EG-Zuschüsse zu kommen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -4587,9 +4722,9 @@
 10	Griechenland	Griechenland	NE	*	*	*	*
 11	und	und	KON	*	*	*	*
 12	Indonesien	Indonesien	NE	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
-15	gezogen	ziehen	VVPP	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	um	um	KOUI	*	*	*	*
 18	an	an	APPR	*	*	*	*
@@ -4601,6 +4736,7 @@
 # tuepp_article_id = T961008.117
 # sent_id = 199
 # text = Mit den Sportjournalisten Silke Buttgereit und Michael Groneberg hat sich der kleine Berliner Verlag Leute vom Fach an Land gezogen , die der Dokumentierung eines " weiteren Meilensteins der Emanzipationsbewegung von Lesben und Schwulen " - so die jubelnde Umschreibung der warmen Sporttage im Vorwort - , ein tragfähiges journalistisches Konzept abzuringen vermochten : eine Mischung aus witzigen und hintergründigen Texten , Grußworten , Wettkampfergebnissen , Interviews und vielen Fotos .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -4620,9 +4756,9 @@
 15	Leute	Leute	NN	*	*	*	*
 16	vom	von	APPRART	*	*	*	*
 17	Fach	Fach	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
-20	gezogen	ziehen	VVPP	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
+20	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 21	,	,	$,	*	*	*	*
 22	die	die	PRELS	*	*	*	*
 23	der	die	ART	*	*	*	*
@@ -4678,6 +4814,7 @@
 # tuepp_article_id = T960927.196
 # sent_id = 200
 # text = 1979 suchten die Verfechter alternativer Lernformen nach einem neuen Dach über dem Kopf und taten etwas für damalige Verhältnisse sehr Exotisches : Statt , wie in der Szene üblich , einfach einen alten Kasten zu besetzen , zogen die Lehrer Kredite und Teilhaber an Land und kauften das alte Fabrikgebäude der Druckerei Berthold an der Gneisenaustraße für knapp zwei Millionen Mark .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1979	@card@	CARD	*	*	*	*
@@ -4717,14 +4854,14 @@
 35	zu	zu	PTKZU	*	*	*	*
 36	besetzen	besetzen	VVINF	*	*	*	*
 37	,	,	$,	*	*	*	*
-38	zogen	ziehen	VVFIN	2	2	2	2
+38	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 39	die	die	ART	*	*	*	*
 40	Lehrer	Lehrer	NN	*	*	*	*
 41	Kredite	Kredit	NN	*	*	*	*
 42	und	und	KON	*	*	*	*
 43	Teilhaber	Teilhaber	NN	*	*	*	*
-44	an	an	APPR	2	2	2	2
-45	Land	Land	NN	2	2	2	2
+44	an	an	APPR	FIG	FIG	FIG	FIG
+45	Land	Land	NN	FIG	FIG	FIG	FIG
 46	und	und	KON	*	*	*	*
 47	kauften	kaufen	VVFIN	*	*	*	*
 48	das	die	ART	*	*	*	*
@@ -4746,6 +4883,7 @@
 # tuepp_article_id = T960927.246
 # sent_id = 201
 # text = Arbeiten von 13 NachwuchskünstlerInnen dieser Städte hat die Kunsthistorikerin deshalb an Land der Teerhofinsel gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Arbeiten	Arbeit|Arbeiten	NN	*	*	*	*
@@ -4758,20 +4896,21 @@
 8	die	die	ART	*	*	*	*
 9	Kunsthistorikerin	Kunsthistorikerin	NN	*	*	*	*
 10	deshalb	deshalb	PAV	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
 14	Teerhofinsel	Teerhofinsel	NN	*	*	*	*
-15	gezogen	ziehen	VVPP	2	2	2	2
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960905.218
 # sent_id = 202
 # text = Dort zogen sie mit Hilfe von Bundeskanzler Kohl den 220 Millionen umfassenden Entwicklungsauftrag für eine neue Elektrolok an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dort	dort	ADV	*	*	*	*
-2	zogen	ziehen	VVFIN	2	2	2	2
+2	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	sie	sie	PPER	*	*	*	*
 4	mit	mit	APPR	*	*	*	*
 5	Hilfe	Hilfe	NN	*	*	*	*
@@ -4787,22 +4926,23 @@
 15	eine	eine	ART	*	*	*	*
 16	neue	neu	ADJA	*	*	*	*
 17	Elektrolok	Elektrolok	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960914.243
 # sent_id = 203
 # text = Wer die meisten Anzeigenschaltungen an Land ziehen kann , überlebt .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
 2	die	die	ART	*	*	*	*
 3	meisten	meist	PIAT	*	*	*	*
 4	Anzeigenschaltungen	<unknown>	NN	*	*	*	*
-5	an	an	APPR	2	2	2	2
-6	Land	Land	NN	2	2	2	2
-7	ziehen	ziehen	VVINF	2	2	2	2
+5	an	an	APPR	FIG	FIG	FIG	FIG
+6	Land	Land	NN	FIG	FIG	FIG	FIG
+7	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 8	kann	können	VMFIN	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	überlebt	überleben	VVPP	*	*	*	*
@@ -4811,6 +4951,7 @@
 # tuepp_article_id = T960108.249
 # sent_id = 204
 # text = Als besonders schwierig erwies sich der Abtransport eines Mannes , den nach einem Sturz das Bewußtsein verlassen hatte : Er mußte in einem Schlauchboot auf Kufen an Land gezogen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -4839,15 +4980,16 @@
 24	Schlauchboot	Schlauchboot	NN	*	*	*	*
 25	auf	auf	APPR	*	*	*	*
 26	Kufen	Kufe	NN	*	*	*	*
-27	an	an	APPR	1	1	1	1
-28	Land	Land	NN	1	1	1	1
-29	gezogen	ziehen	VVPP	1	1	1	1
+27	an	an	APPR	LIT	LIT	LIT	LIT
+28	Land	Land	NN	LIT	LIT	LIT	LIT
+29	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 30	werden	werden	VAINF	*	*	*	*
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960716.219
 # sent_id = 205
 # text = Manager für den vor einem Jahr gebildeten eigenständigen Geschäftsbereich konnte der Senat bislang nicht an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Manager	Manager	NN	*	*	*	*
@@ -4864,14 +5006,15 @@
 12	Senat	Senat	NN	*	*	*	*
 13	bislang	bislang	ADV	*	*	*	*
 14	nicht	nicht	PTKNEG	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
-17	ziehen	ziehen	VVINF	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
+17	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960705.221
 # sent_id = 206
 # text = Der Erfolg und die schnelle Expansion der Windkraftbauer , die große Aufträge für riesige Windanlagen an Land gezogen hatten , brachen ihnen das Genick : Für die großen Anlagen mußten Materialien beschafft werden , das Eigenkapital reichte für diese Vorfinanzierung nicht aus .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4889,9 +5032,9 @@
 13	für	für	APPR	*	*	*	*
 14	riesige	riesig	ADJA	*	*	*	*
 15	Windanlagen	Windanlage	NN	*	*	*	*
-16	an	an	APPR	2	2	2	2
-17	Land	Land	NN	2	2	2	2
-18	gezogen	ziehen	VVPP	2	2	2	2
+16	an	an	APPR	FIG	FIG	FIG	FIG
+17	Land	Land	NN	FIG	FIG	FIG	FIG
+18	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 19	hatten	haben	VAFIN	*	*	*	*
 20	,	,	$,	*	*	*	*
 21	brachen	brechen	VVFIN	*	*	*	*
@@ -4921,6 +5064,7 @@
 # tuepp_article_id = T961204.220
 # sent_id = 207
 # text = Der Tote zählte zu den größten Brennstoffhändlern der Hauptstadt und hatte Geld wie Heu : Gerhard Malicha war der erste , der mit dem Verkauf von schwefelarmem Heizöl bei der BVG einen Großauftrag an Land zog .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4956,14 +5100,15 @@
 31	BVG	BVG	NE	*	*	*	*
 32	einen	eine	ART	*	*	*	*
 33	Großauftrag	Großauftrag	NN	*	*	*	*
-34	an	an	APPR	2	2	2	2
-35	Land	Land	NN	2	2	2	2
-36	zog	ziehen	VVFIN	2	2	2	2
+34	an	an	APPR	FIG	FIG	FIG	FIG
+35	Land	Land	NN	FIG	FIG	FIG	FIG
+36	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961221.59
 # sent_id = 208
 # text = Vor allem mehr Dorsch und Sprotten dürfen an Land gezogen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -4973,15 +5118,16 @@
 5	und	und	KON	*	*	*	*
 6	Sprotten	Sprotte	NN	*	*	*	*
 7	dürfen	dürfen	VMFIN	*	*	*	*
-8	an	an	APPR	1	1	1	1
-9	Land	Land	NN	1	1	1	1
-10	gezogen	ziehen	VVPP	1	1	1	1
+8	an	an	APPR	LIT	LIT	LIT	LIT
+9	Land	Land	NN	LIT	LIT	LIT	LIT
+10	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 11	werden	werden	VAINF	*	*	*	*
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961205.278
 # sent_id = 209
 # text = Lutz Kayser und Jochen Curth , die Masterminds des Projektes , haben einige Klassiker und Newcomer an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Lutz	Lutz	NE	*	*	*	*
@@ -5000,14 +5146,15 @@
 14	Klassiker	Klassiker	NN	*	*	*	*
 15	und	und	KON	*	*	*	*
 16	Newcomer	Newcomer	NN	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
-19	gezogen	ziehen	VVPP	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
+19	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960815.186
 # sent_id = 210
 # text = Dies ist zum Beispiel die Verkehrsindustrie , die unlängst einen fetten Auftrag für die U-Bahn in Schanghai an Land zog .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dies	dies	PDS	*	*	*	*
@@ -5027,14 +5174,15 @@
 15	U-Bahn	U-Bahn	NN	*	*	*	*
 16	in	in	APPR	*	*	*	*
 17	Schanghai	Schanghai	NE	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
-20	zog	ziehen	VVFIN	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
+20	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960826.266
 # sent_id = 211
 # text = Der Inhaber eines Bürogroßhandels und ehemalige Zweitliga-Spieler des BC Johanneum unterstützt den Verein nicht nur mit eigenem Geld , sondern hat mit Samsung , Toshiba und Sharp zahlungskräftige Sponsoren an Land ziehen können .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5066,15 +5214,16 @@
 27	Sharp	<unknown>	NE	*	*	*	*
 28	zahlungskräftige	zahlungskräftig	ADJA	*	*	*	*
 29	Sponsoren	Sponsor	NN	*	*	*	*
-30	an	an	APPR	2	2	2	2
-31	Land	Land	NN	2	2	2	2
-32	ziehen	ziehen	VVINF	2	2	2	2
+30	an	an	APPR	FIG	FIG	FIG	FIG
+31	Land	Land	NN	FIG	FIG	FIG	FIG
+32	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 33	können	können	VMINF	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960819.236
 # sent_id = 212
 # text = Da kommt die Erfolgsmeldung gerade recht : ADtranz und Siemens haben einen 650-Millionen-Auftrag für den Bau der U-Bahn im chinesischen Schanghai an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -5098,14 +5247,15 @@
 19	im	in	APPRART	*	*	*	*
 20	chinesischen	chinesisch	ADJA	*	*	*	*
 21	Schanghai	Schanghai	NE	*	*	*	*
-22	an	an	APPR	2	2	2	2
-23	Land	Land	NN	2	2	2	2
-24	gezogen	ziehen	VVPP	2	2	2	2
+22	an	an	APPR	FIG	FIG	FIG	FIG
+23	Land	Land	NN	FIG	FIG	FIG	FIG
+24	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960805.81
 # sent_id = 213
 # text = Aber der Auftrag war nicht leicht an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -5114,15 +5264,16 @@
 4	war	sein	VAFIN	*	*	*	*
 5	nicht	nicht	PTKNEG	*	*	*	*
 6	leicht	leicht	ADJD	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
 9	zu	zu	PTKZU	*	*	*	*
-10	ziehen	ziehen	VVINF	2	2	2	2
+10	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961111.170
 # sent_id = 214
 # text = Mit jeweils einem Treffer in zwei Tips konnten die erwünschten Millionenbeträge nicht an Land gezogen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5137,15 +5288,16 @@
 10	erwünschten	erwünscht	ADJA	*	*	*	*
 11	Millionenbeträge	Millionenbetrag	NN	*	*	*	*
 12	nicht	nicht	PTKNEG	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
-15	gezogen	ziehen	VVPP	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	werden	werden	VAINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961117.3
 # sent_id = 215
 # text = " Nu muß Jungunternehmer Aschler lachen , wo er aber schlecht mit ankommt bei Heinzi : " Ich weiß , daß Sie sich ne Generalvertretung für Spräientferner an Land gezogen habn und gleichzeitig Prämien für sogenannte Spräikünstler auswerfen ... aber , wie gesagt : Wenn ich ein ' von diese Schmiersäue erwisch , denn geht das aber rund !
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5175,9 +5327,9 @@
 25	Generalvertretung	Generalvertretung	NN	*	*	*	*
 26	für	für	APPR	*	*	*	*
 27	Spräientferner	<unknown>	NN	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Land	Land	NN	2	2	2	2
-30	gezogen	ziehen	VVPP	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Land	Land	NN	FIG	FIG	FIG	FIG
+30	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 31	habn	<unknown>	ADJD	*	*	*	*
 32	und	und	KON	*	*	*	*
 33	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
@@ -5211,6 +5363,7 @@
 # tuepp_article_id = T961115.130
 # sent_id = 216
 # text = Nun mußte ich einen neuen Job an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nun	nun	ADV	*	*	*	*
@@ -5219,14 +5372,15 @@
 4	einen	eine	ART	*	*	*	*
 5	neuen	neu	ADJA	*	*	*	*
 6	Job	Job	NN	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	ziehen	ziehen	VVINF	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961123.58
 # sent_id = 217
 # text = Neben den klassischen Aufgaben in der Berufsausbildung und beim Außenhandel haben sie sich staatliche Aufgaben im Gutachterwesen an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Neben	neben	APPR	*	*	*	*
@@ -5246,14 +5400,15 @@
 15	Aufgaben	Aufgabe	NN	*	*	*	*
 16	im	in	APPRART	*	*	*	*
 17	Gutachterwesen	<unknown>	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
-20	gezogen	ziehen	VVPP	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
+20	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960229.258
 # sent_id = 218
 # text = Das Bremer " Lagerhaus " hat den fetten Brocken beizeiten an Land gezogen ; dort tritt die Band morgen auf .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -5266,9 +5421,9 @@
 8	fetten	fett	ADJA	*	*	*	*
 9	Brocken	Brocken	NN	*	*	*	*
 10	beizeiten	beizeiten	ADV	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
-13	gezogen	ziehen	VVPP	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 14	;	;	$.	*	*	*	*
 15	dort	dort	ADV	*	*	*	*
 16	tritt	treten	VVFIN	*	*	*	*
@@ -5281,6 +5436,7 @@
 # tuepp_article_id = T960212.238
 # sent_id = 219
 # text = Erst einmal loslegen , Drittmittel an Land ziehen , der Rest wird sich schon finden " .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Erst	erst	ADV	*	*	*	*
@@ -5288,9 +5444,9 @@
 3	loslegen	loslegen	VVFIN	*	*	*	*
 4	,	,	$,	*	*	*	*
 5	Drittmittel	Drittmittel	NN	*	*	*	*
-6	an	an	APPR	2	2	2	2
-7	Land	Land	NN	2	2	2	2
-8	ziehen	ziehen	VVINF	2	2	2	2
+6	an	an	APPR	FIG	FIG	FIG	FIG
+7	Land	Land	NN	FIG	FIG	FIG	FIG
+8	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Rest	Rest	NN	*	*	*	*
@@ -5304,6 +5460,7 @@
 # tuepp_article_id = T960205.59
 # sent_id = 220
 # text = Ohnehin begibt sich Dounraey mehr und mehr auf den internationalen Markt , um Wiederaufbereitungsaufträge an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ohnehin	ohnehin	ADV	*	*	*	*
@@ -5320,15 +5477,16 @@
 12	,	,	$,	*	*	*	*
 13	um	um	KOUI	*	*	*	*
 14	Wiederaufbereitungsaufträge	<unknown>	NN	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	ziehen	ziehen	VVINF	2	2	2	2
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980515.82
 # sent_id = 221
 # text = Nach der Wende Treuhand-Direktor , sollte Nawrocki dann für Berlin mit Gesamtkosten von 50 Millionen Mark die Olympiade an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -5349,14 +5507,15 @@
 16	Mark	Mark	NN	*	*	*	*
 17	die	die	ART	*	*	*	*
 18	Olympiade	Olympiade	NN	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
-21	ziehen	ziehen	VVINF	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980526.149
 # sent_id = 222
 # text = Auf höherem Niveau aber nutzen sie manchmal auch eine instabile politische Situation für sich aus , indem sie lukrative Schutzverträge an Land ziehen oder gar Aktien der betroffenen Firmen erwerben , was zuweilen der wirkliche Grund für diese nicht ungefährliche Arbeit zu sein scheint .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -5379,9 +5538,9 @@
 18	sie	sie	PPER	*	*	*	*
 19	lukrative	lukrativ	ADJA	*	*	*	*
 20	Schutzverträge	Schutzvertrag	NN	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	ziehen	ziehen	VVINF	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	oder	oder	KON	*	*	*	*
 25	gar	gar	ADV	*	*	*	*
 26	Aktien	Aktie	NN	*	*	*	*
@@ -5408,6 +5567,7 @@
 # tuepp_article_id = T980529.150
 # sent_id = 223
 # text = Die Regierung möchte darum neben den Großsponsoren auch ein paar kleinere Interessenten an Land ziehen , die sich dann mit Abgelegenerem begnügen müßten : Wer sich in Pompeji ( oder Herculaneum oder Castellamar di Stabia , den beiden anderen einst verschütteten Orten ) engagiert , kriegt gleich mal 30 Prozent der eingesetzten Summe als zinslosen Kredit auf drei Jahre vorgeschossen , " und das könnte auch schon ein örtliches Restaurant oder Hotel oder eine Backwarenfirma aus Neapel anlocken " , so jedenfalls Kulturminister Veltroni .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5422,9 +5582,9 @@
 10	paar	paar	PIAT	*	*	*	*
 11	kleinere	klein	ADJA	*	*	*	*
 12	Interessenten	Interessent	NN	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
-15	ziehen	ziehen	VVINF	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
+15	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	die	die	PRELS	*	*	*	*
 18	sich	sich	PRF	*	*	*	*
@@ -5499,6 +5659,7 @@
 # tuepp_article_id = T980608.87
 # sent_id = 224
 # text = 1996 wurden weltweit rekordverdächtige 121 Millionen Tonnen Fisch an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1996	@card@	CARD	*	*	*	*
@@ -5509,14 +5670,15 @@
 6	Millionen	Million	NN	*	*	*	*
 7	Tonnen	Tonne	NN	*	*	*	*
 8	Fisch	Fisch	NN	*	*	*	*
-9	an	an	APPR	1	1	1	1
-10	Land	Land	NN	1	1	1	1
-11	gezogen	ziehen	VVPP	1	1	1	1
+9	an	an	APPR	LIT	LIT	LIT	LIT
+10	Land	Land	NN	LIT	LIT	LIT	LIT
+11	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981021.228
 # sent_id = 225
 # text = Gemeinsam gelang es beiden , den bewußtlosen Mann aus der Mitte des Gewässers an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gemeinsam	gemeinsam	ADJD	*	*	*	*
@@ -5532,20 +5694,21 @@
 11	Mitte	Mitte	NN	*	*	*	*
 12	des	die	ART	*	*	*	*
 13	Gewässers	Gewässer	NN	*	*	*	*
-14	an	an	APPR	1	1	1	1
-15	Land	Land	NN	1	1	1	1
+14	an	an	APPR	LIT	LIT	LIT	LIT
+15	Land	Land	NN	LIT	LIT	LIT	LIT
 16	zu	zu	PTKZU	*	*	*	*
-17	ziehen	ziehen	VVINF	1	1	1	1
+17	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980907.235
 # sent_id = 226
 # text = In München zog sie zusammen mit ihrem Geschäftspartner Wolfram Wöhr Großprojekte an Land - und wurde so bekannt , daß Daimler- Benz auf sie aufmerksam wurde .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	München	München	NE	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	sie	sie	PPER	*	*	*	*
 5	zusammen	zusammen	ADV	*	*	*	*
 6	mit	mit	APPR	*	*	*	*
@@ -5554,8 +5717,8 @@
 9	Wolfram	Wolfram	NE	*	*	*	*
 10	Wöhr	Wöhr	NE	*	*	*	*
 11	Großprojekte	Großprojekt	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
 14	-	-	$(	*	*	*	*
 15	und	und	KON	*	*	*	*
 16	wurde	werden	VAFIN	*	*	*	*
@@ -5574,6 +5737,7 @@
 # tuepp_article_id = T980113.32
 # sent_id = 227
 # text = Aus STN-Firmenkreisen wurde laut , Frensel habe sein STN-Aufsichtsrats-Pöstchen genutzt , um das Gebäudemanagement des Unternehmens für die Stadtwerke-Tochter an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aus	aus	APPR	*	*	*	*
@@ -5595,15 +5759,16 @@
 17	für	für	APPR	*	*	*	*
 18	die	die	ART	*	*	*	*
 19	Stadtwerke-Tochter	<unknown>	NN	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
 22	zu	zu	PTKZU	*	*	*	*
-23	ziehen	ziehen	VVINF	2	2	2	2
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980112.265
 # sent_id = 228
 # text = Nur bayerische Unternehmen standen noch besser da , sie zogen knapp ein Fünftel der begehrten Rüstungsmilliarden an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nur	nur	ADV	*	*	*	*
@@ -5615,20 +5780,21 @@
 7	da	da	PTKVZ	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	sie	sie	PPER	*	*	*	*
-10	zogen	ziehen	VVFIN	2	2	2	2
+10	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 11	knapp	knapp	ADJD	*	*	*	*
 12	ein	eine	ART	*	*	*	*
 13	Fünftel	Fünftel	NN	*	*	*	*
 14	der	die	ART	*	*	*	*
 15	begehrten	begehrt	ADJA	*	*	*	*
 16	Rüstungsmilliarden	Rüstungsmilliarde	NN	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980102.136
 # sent_id = 229
 # text = Schließlich gilt es , Subventionen an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schließlich	schließlich	ADV	*	*	*	*
@@ -5636,26 +5802,27 @@
 3	es	es	PPER	*	*	*	*
 4	,	,	$,	*	*	*	*
 5	Subventionen	Subvention	NN	*	*	*	*
-6	an	an	APPR	2	2	2	2
-7	Land	Land	NN	2	2	2	2
+6	an	an	APPR	FIG	FIG	FIG	FIG
+7	Land	Land	NN	FIG	FIG	FIG	FIG
 8	zu	zu	PTKZU	*	*	*	*
-9	ziehen	ziehen	VVINF	2	2	2	2
+9	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980418.239
 # sent_id = 230
 # text = 1985 zog der Physiker das erste Auslandsprojekt an Land : Die Gesellschaft für technische Zusammenarbeit erteilte dem Simonswälder Unternehmen den Auftrag , in Peru eine Kleinwasserkraftanlage zu planen und zu bauen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1985	@card@	CARD	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	der	die	ART	*	*	*	*
 4	Physiker	Physiker	NN	*	*	*	*
 5	das	die	ART	*	*	*	*
 6	erste	erst	ADJA	*	*	*	*
 7	Auslandsprojekt	<unknown>	NN	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
 10	:	:	$.	*	*	*	*
 11	Die	die	ART	*	*	*	*
 12	Gesellschaft	Gesellschaft	NN	*	*	*	*
@@ -5683,6 +5850,7 @@
 # tuepp_article_id = T980402.154
 # sent_id = 231
 # text = Andererseits endet die laufende Legislaturperiode erst im Dezember 1999 , da bleibt noch ausreichend Zeit , um zusätzliche Pfründe an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andererseits	andererseits	ADV	*	*	*	*
@@ -5704,15 +5872,16 @@
 17	um	um	KOUI	*	*	*	*
 18	zusätzliche	zusätzlich	ADJA	*	*	*	*
 19	Pfründe	Pfründe	NN	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
 22	zu	zu	PTKZU	*	*	*	*
-23	ziehen	ziehen	VVINF	2	2	2	2
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980718.245
 # sent_id = 232
 # text = So blieb nach über einer Stunde vergeblichen Wartens nichts anderes übrig , als die Überlebenskiste wieder an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	So	so	ADV	*	*	*	*
@@ -5731,15 +5900,16 @@
 14	die	die	ART	*	*	*	*
 15	Überlebenskiste	<unknown>	NN	*	*	*	*
 16	wieder	wieder	ADV	*	*	*	*
-17	an	an	APPR	1	1	1	1
-18	Land	Land	NN	1	1	1	1
+17	an	an	APPR	LIT	LIT	LIT	LIT
+18	Land	Land	NN	LIT	LIT	LIT	LIT
 19	zu	zu	PTKZU	*	*	*	*
-20	ziehen	ziehen	VVINF	1	1	1	1
+20	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980709.126
 # sent_id = 233
 # text = " Das Ärgerlichste an alldem " , weiß Armando , der Forstmann , " ist aber nicht , daß die Gangster die Aufforstungsaufträge mit ihren hinterhältigen Mitteln an Land ziehen und ehrliche Konkurrenten ausschalten - das Schlimmste ist , daß sie danach ja gar nichts aufforsten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5769,9 +5939,9 @@
 25	ihren	ihr	PPOSAT	*	*	*	*
 26	hinterhältigen	hinterhältig	ADJA	*	*	*	*
 27	Mitteln	Mittel|Mitteln	NN	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Land	Land	NN	2	2	2	2
-30	ziehen	ziehen	VVINF	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Land	Land	NN	FIG	FIG	FIG	FIG
+30	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 31	und	und	KON	*	*	*	*
 32	ehrliche	ehrlich	ADJA	*	*	*	*
 33	Konkurrenten	Konkurrent	NN	*	*	*	*
@@ -5793,23 +5963,25 @@
 # tuepp_article_id = T980714.240
 # sent_id = 234
 # text = Neben den sportlichen Einkäufen zog er Nina Hagen an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Neben	neben	APPR	*	*	*	*
 2	den	die	ART	*	*	*	*
 3	sportlichen	sportlich	ADJA	*	*	*	*
 4	Einkäufen	Einkauf	NN	*	*	*	*
-5	zog	ziehen	VVFIN	2	2	2	2
+5	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	er	er	PPER	*	*	*	*
 7	Nina	Nina	NE	*	*	*	*
 8	Hagen	Hagen	NE	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981214.122
 # sent_id = 235
 # text = Parallel zum Mochovce-Auftrag gelang es Siemens nämlich , 40 Prozent eines Auftrags über 275 Millionen zur Nachrüstung der beiden Blöcke von Bohunice an Land zu ziehen , der in den Jahren 1996 bis 1999 abgearbeitet werden soll .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Parallel	parallel	ADJD	*	*	*	*
@@ -5834,10 +6006,10 @@
 20	Blöcke	Block	NN	*	*	*	*
 21	von	von	APPR	*	*	*	*
 22	Bohunice	<unknown>	NE	*	*	*	*
-23	an	an	APPR	2	2	2	2
-24	Land	Land	NN	2	2	2	2
+23	an	an	APPR	FIG	FIG	FIG	FIG
+24	Land	Land	NN	FIG	FIG	FIG	FIG
 25	zu	zu	PTKZU	*	*	*	*
-26	ziehen	ziehen	VVINF	2	2	2	2
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	,	,	$,	*	*	*	*
 28	der	die	PRELS	*	*	*	*
 29	in	in	APPR	*	*	*	*
@@ -5854,6 +6026,7 @@
 # tuepp_article_id = T981202.169
 # sent_id = 236
 # text = Um nicht den Termin für die Bewerbung im Frühjahr 1999 zur Fußballweltmeisterschaft 2006 zu verschlafen , hat sich das Land gerade noch rechtzeitig ein Konzept zur Sanierung des bröckelnden Olympiastadions an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	APPR	*	*	*	*
@@ -5886,14 +6059,15 @@
 28	des	die	ART	*	*	*	*
 29	bröckelnden	bröckelnd	ADJA	*	*	*	*
 30	Olympiastadions	Olympiastadien	NN	*	*	*	*
-31	an	an	APPR	2	2	2	2
-32	Land	Land	NN	2	2	2	2
-33	gezogen	ziehen	VVPP	2	2	2	2
+31	an	an	APPR	FIG	FIG	FIG	FIG
+32	Land	Land	NN	FIG	FIG	FIG	FIG
+33	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981219.159
 # sent_id = 237
 # text = Schlecht für die Sprotte : Obwohl Wissenschaftler dringend von einer Erhöhung der Fangmenge in der Nordsee abgeraten hatten , sollen im nächsten Jahr 175.000 statt der bisherigen 150.000 Tonnen an Land gezogen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schlecht	schlecht	ADJD	*	*	*	*
@@ -5925,29 +6099,31 @@
 27	bisherigen	bisherig	ADJA	*	*	*	*
 28	150.000	@card@	CARD	*	*	*	*
 29	Tonnen	Tonne	NN	*	*	*	*
-30	an	an	APPR	1	1	1	1
-31	Land	Land	NN	1	1	1	1
-32	gezogen	ziehen	VVPP	1	1	1	1
+30	an	an	APPR	LIT	LIT	LIT	LIT
+31	Land	Land	NN	LIT	LIT	LIT	LIT
+32	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 33	werden	werden	VAINF	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981215.21
 # sent_id = 238
 # text = Carry a la Metro an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Carry	Carry	NE	*	*	*	*
 2	a	a	FM	*	*	*	*
 3	la	la	FM	*	*	*	*
 4	Metro	Metro	NE	*	*	*	*
-5	an	an	APPR	2	2	2	2
-6	Land	Land	NN	2	2	2	2
-7	ziehen	ziehen	VVINF	2	2	2	2
+5	an	an	APPR	FIG	FIG	FIG	FIG
+6	Land	Land	NN	FIG	FIG	FIG	FIG
+7	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980817.22
 # sent_id = 239
 # text = Allerdings lohnt sich der Hotline-Dienst für die Anwälte nur durch die Mandanten , die sie per Telefon an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allerdings	allerdings	ADV	*	*	*	*
@@ -5967,14 +6143,15 @@
 15	sie	sie	PPER	*	*	*	*
 16	per	per	APPR	*	*	*	*
 17	Telefon	Telefon	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
-20	ziehen	ziehen	VVINF	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
+20	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980307.250
 # sent_id = 240
 # text = Mit der größeren Kapitalkraft einer Großbank im Rücken , kann Landowsky im Sinne der CDU-Spitze zusätzliche Großprojekte an Land ziehen und damit vermehrten Einfluß auf die Stadtgestaltung nehmen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5994,9 +6171,9 @@
 15	CDU-Spitze	CDU-Spitze	NN	*	*	*	*
 16	zusätzliche	zusätzlich	ADJA	*	*	*	*
 17	Großprojekte	Großprojekt	NN	*	*	*	*
-18	an	an	APPR	2	2	2	2
-19	Land	Land	NN	2	2	2	2
-20	ziehen	ziehen	VVINF	2	2	2	2
+18	an	an	APPR	FIG	FIG	FIG	FIG
+19	Land	Land	NN	FIG	FIG	FIG	FIG
+20	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 21	und	und	KON	*	*	*	*
 22	damit	damit	PAV	*	*	*	*
 23	vermehrten	vermehrt	ADJA	*	*	*	*
@@ -6010,6 +6187,7 @@
 # tuepp_article_id = T981118.30
 # sent_id = 241
 # text = Berlin ( taz ) - Das " Deutsche Fregattenkonsortium " hat guten Chancen , einen lukrativen Auftrag zum Bau von U-Booten für Südafrika an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -6035,15 +6213,16 @@
 21	U-Booten	U-Boot	NN	*	*	*	*
 22	für	für	APPR	*	*	*	*
 23	Südafrika	Südafrika	NE	*	*	*	*
-24	an	an	APPR	2	2	2	2
-25	Land	Land	NN	2	2	2	2
+24	an	an	APPR	FIG	FIG	FIG	FIG
+25	Land	Land	NN	FIG	FIG	FIG	FIG
 26	zu	zu	PTKZU	*	*	*	*
-27	ziehen	ziehen	VVINF	2	2	2	2
+27	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981109.175
 # sent_id = 242
 # text = Stadtbekannte Hallenbetreiber wie die VELOMAX ( Schwenkow , Gegenbauer , Otremba und Hauert ) oder auch die OSB-Sportstättenbauten GmbH haben kein Interesse , sich das Prestigeobjekt an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Stadtbekannte	stadtbekannt	ADJA	*	*	*	*
@@ -6072,34 +6251,36 @@
 24	sich	sich	PRF	*	*	*	*
 25	das	die	ART	*	*	*	*
 26	Prestigeobjekt	Prestigeobjekt	NN	*	*	*	*
-27	an	an	APPR	2	2	2	2
-28	Land	Land	NN	2	2	2	2
+27	an	an	APPR	FIG	FIG	FIG	FIG
+28	Land	Land	NN	FIG	FIG	FIG	FIG
 29	zu	zu	PTKZU	*	*	*	*
-30	ziehen	ziehen	VVINF	2	2	2	2
+30	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980226.161
 # sent_id = 243
 # text = Das irische Nationale Filmstudio zog die 11,5-Millionen-Dollar-Produktion " Excalibur " an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
 2	irische	irisch	ADJA	*	*	*	*
 3	Nationale	Nationale	NN	*	*	*	*
 4	Filmstudio	Filmstudio	NN	*	*	*	*
-5	zog	ziehen	VVFIN	2	2	2	2
+5	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
 7	11,5-Millionen-Dollar-Produktion	<unknown>	NN	*	*	*	*
 8	"	"	$(	*	*	*	*
 9	Excalibur	<unknown>	NN	*	*	*	*
 10	"	"	$(	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970514.138
 # sent_id = 244
 # text = Immerhin war es dem Schatzmeister gelungen , diverse Sponsoren an Land zu ziehen , die Gaudino das Bleiben vergolden sollten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Immerhin	immerhin	ADV	*	*	*	*
@@ -6111,10 +6292,10 @@
 7	,	,	$,	*	*	*	*
 8	diverse	divers	ADJA	*	*	*	*
 9	Sponsoren	Sponsor	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
 12	zu	zu	PTKZU	*	*	*	*
-13	ziehen	ziehen	VVINF	2	2	2	2
+13	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	die	die	ART	*	*	*	*
 16	Gaudino	Gaudino	NN	*	*	*	*
@@ -6127,6 +6308,7 @@
 # tuepp_article_id = T970616.179
 # sent_id = 245
 # text = Aber offensichtlich haben Sie übersehen , daß sie bereits während ihrer Genesung im Haus eine kleine Werbekampagne startet , um neue Aufträge an Land zu ziehen ( zum Beispiel bei Carsten Flöter ) .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	ADV	*	*	*	*
@@ -6151,10 +6333,10 @@
 20	um	um	KOUI	*	*	*	*
 21	neue	neu	ADJA	*	*	*	*
 22	Aufträge	Auftrag	NN	*	*	*	*
-23	an	an	APPR	2	2	2	2
-24	Land	Land	NN	2	2	2	2
+23	an	an	APPR	FIG	FIG	FIG	FIG
+24	Land	Land	NN	FIG	FIG	FIG	FIG
 25	zu	zu	PTKZU	*	*	*	*
-26	ziehen	ziehen	VVINF	2	2	2	2
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	(	(	$(	*	*	*	*
 28	zum	zu	APPRART	*	*	*	*
 29	Beispiel	Beispiel	NN	*	*	*	*
@@ -6167,6 +6349,7 @@
 # tuepp_article_id = T971007.232
 # sent_id = 246
 # text = Die 28jährige sprang hinterher und zog die Frau wieder an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6174,17 +6357,18 @@
 3	sprang	springen	VVFIN	*	*	*	*
 4	hinterher	hinterher	ADV	*	*	*	*
 5	und	und	KON	*	*	*	*
-6	zog	ziehen	VVFIN	1	1	1	1
+6	zog	ziehen	VVFIN	LIT	LIT	LIT	LIT
 7	die	die	ART	*	*	*	*
 8	Frau	Frau	NN	*	*	*	*
 9	wieder	wieder	ADV	*	*	*	*
-10	an	an	APPR	1	1	1	1
-11	Land	Land	NN	1	1	1	1
+10	an	an	APPR	LIT	LIT	LIT	LIT
+11	Land	Land	NN	LIT	LIT	LIT	LIT
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971009.188
 # sent_id = 247
 # text = Den zweistelligen Millionenetat einer bekannten großen deutschen Automarke konnte Dorland-Chef Hans Hansen erst vor kurzem an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
@@ -6202,25 +6386,26 @@
 13	erst	erst	ADV	*	*	*	*
 14	vor	vor	APPR	*	*	*	*
 15	kurzem	kurz	ADJA	*	*	*	*
-16	an	an	APPR	2	2	2	2
-17	Land	Land	NN	2	2	2	2
-18	ziehen	ziehen	VVINF	2	2	2	2
+16	an	an	APPR	FIG	FIG	FIG	FIG
+17	Land	Land	NN	FIG	FIG	FIG	FIG
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970419.65
 # sent_id = 248
 # text = Den Milliardenauftrag zog die finnische Firma Nokia an Land , die in Bochum Mobiltelefone produziert .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Den	die	ART	*	*	*	*
 2	Milliardenauftrag	Milliardenauftrag	NN	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	finnische	finnisch	ADJA	*	*	*	*
 6	Firma	Firma	NN	*	*	*	*
 7	Nokia	<unknown>	NE	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	die	die	PRELS	*	*	*	*
 12	in	in	APPR	*	*	*	*
@@ -6232,6 +6417,7 @@
 # tuepp_article_id = T970426.161
 # sent_id = 249
 # text = Es kann also sein , daß die Folklorekommissare Groth und Hinrichs in " Polizeiruf 110 : Der Fremde " ( So. , 20.15 Uhr , ARD ) beim Postbankraub einen großen Fisch an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -6266,14 +6452,15 @@
 30	einen	eine	ART	*	*	*	*
 31	großen	groß	ADJA	*	*	*	*
 32	Fisch	Fisch	NN	*	*	*	*
-33	an	an	APPR	2	2	2	2
-34	Land	Land	NN	2	2	2	2
-35	ziehen	ziehen	VVINF	2	2	2	2
+33	an	an	APPR	FIG	FIG	FIG	FIG
+34	Land	Land	NN	FIG	FIG	FIG	FIG
+35	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970425.143
 # sent_id = 250
 # text = Hella Moormann hat sich immer die falschen Männer an Land gezogen : mal waren es manisch Depressive , mal ewige Studenten und sonstige Versager .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hella	Hella	NE	*	*	*	*
@@ -6284,9 +6471,9 @@
 6	die	die	ART	*	*	*	*
 7	falschen	falsch	ADJA	*	*	*	*
 8	Männer	Mann	NN	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
-11	gezogen	ziehen	VVPP	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
+11	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 12	:	:	$.	*	*	*	*
 13	mal	mal	ADV	*	*	*	*
 14	waren	sein	VAFIN	*	*	*	*
@@ -6305,6 +6492,7 @@
 # tuepp_article_id = T970719.213
 # sent_id = 251
 # text = Bisweilen haben es gerade mittelständische Unternehmen schwer , Aufträge beispielsweise in Asien an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bisweilen	bisweilen	ADV	*	*	*	*
@@ -6319,15 +6507,16 @@
 10	beispielsweise	beispielsweise	ADV	*	*	*	*
 11	in	in	APPR	*	*	*	*
 12	Asien	Asien	NE	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
 15	zu	zu	PTKZU	*	*	*	*
-16	ziehen	ziehen	VVINF	2	2	2	2
+16	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971231.117
 # sent_id = 252
 # text = Die Zentralbank hofft , mit Hilfe dieses Signals , längerfristige aus- und inländische Investitionen an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -6344,15 +6533,16 @@
 12	und	und	KON	*	*	*	*
 13	inländische	inländisch	ADJA	*	*	*	*
 14	Investitionen	Investition	NN	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	ziehen	ziehen	VVINF	2	2	2	2
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971218.277
 # sent_id = 253
 # text = Er steuerte Soundtracks zu Werbespots des Stifte-Herstellers Schwan Stabilo bei - und zog damit den Sponsor für Code + 49 an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -6367,7 +6557,7 @@
 10	bei	bei	PTKVZ	*	*	*	*
 11	-	-	$(	*	*	*	*
 12	und	und	KON	*	*	*	*
-13	zog	ziehen	VVFIN	2	2	2	2
+13	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 14	damit	damit	PAV	*	*	*	*
 15	den	die	ART	*	*	*	*
 16	Sponsor	Sponsor	NN	*	*	*	*
@@ -6375,13 +6565,14 @@
 18	Code	Code	NN	*	*	*	*
 19	+	+	KON	*	*	*	*
 20	49	@card@	CARD	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971217.4
 # sent_id = 254
 # text = Für amerikanische Hochschulen sind " Brückenköpfe " in Übersee interessant , um direkt mit ausländischen Firmen lukrative Forschungsprojekte an Land zu ziehen und die Auslandsorientierung ihrer Studenten zu verstärken .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
@@ -6402,10 +6593,10 @@
 16	Firmen	Firma	NN	*	*	*	*
 17	lukrative	lukrativ	ADJA	*	*	*	*
 18	Forschungsprojekte	Forschungsprojekt	NN	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
 21	zu	zu	PTKZU	*	*	*	*
-22	ziehen	ziehen	VVINF	2	2	2	2
+22	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 23	und	und	KON	*	*	*	*
 24	die	die	ART	*	*	*	*
 25	Auslandsorientierung	<unknown>	NN	*	*	*	*
@@ -6418,6 +6609,7 @@
 # tuepp_article_id = T970811.209
 # sent_id = 255
 # text = Bei manchen Aufträgen , die Gegenbauer in den vergangenen Jahren an Land zog , mögen derartige Beziehungen zumindest nicht hinderlich gewesen sein .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -6430,9 +6622,9 @@
 8	den	die	ART	*	*	*	*
 9	vergangenen	vergangen	ADJA	*	*	*	*
 10	Jahren	Jahr	NN	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
-13	zog	ziehen	VVFIN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
+13	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	mögen	mögen	VMFIN	*	*	*	*
 16	derartige	derartig	ADJA	*	*	*	*
@@ -6447,15 +6639,16 @@
 # tuepp_article_id = T970809.337
 # sent_id = 256
 # text = Der Verein zog drei Investoren an Land - die städtische " Gesellschaft für Wohnen und Bauen " , die Sozialeinrichtung " Leben mit Behinderung " sowie - für die Gewerbebebauung - die Dr. Greve AG .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Verein	Verein	NN	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	drei	drei	CARD	*	*	*	*
 5	Investoren	Investor	NN	*	*	*	*
-6	an	an	APPR	2	2	2	2
-7	Land	Land	NN	2	2	2	2
+6	an	an	APPR	FIG	FIG	FIG	FIG
+7	Land	Land	NN	FIG	FIG	FIG	FIG
 8	-	-	$(	*	*	*	*
 9	die	die	ART	*	*	*	*
 10	städtische	städtisch	ADJA	*	*	*	*
@@ -6489,6 +6682,7 @@
 # tuepp_article_id = T970808.126
 # sent_id = 257
 # text = Allein im Bereich der Grundlagenforschung zogen sie im letzten Jahr 50 russische Stipendien an Land und etwa ein Dutzend internationale in Kooperation mit Ausländern .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allein	allein	ADV	*	*	*	*
@@ -6496,7 +6690,7 @@
 3	Bereich	Bereich	NN	*	*	*	*
 4	der	die	ART	*	*	*	*
 5	Grundlagenforschung	Grundlagenforschung	NN	*	*	*	*
-6	zogen	ziehen	VVFIN	2	2	2	2
+6	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 7	sie	sie	PPER	*	*	*	*
 8	im	in	APPRART	*	*	*	*
 9	letzten	letzt	ADJA	*	*	*	*
@@ -6504,8 +6698,8 @@
 11	50	@card@	CARD	*	*	*	*
 12	russische	russisch	ADJA	*	*	*	*
 13	Stipendien	Stipendium	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
 16	und	und	KON	*	*	*	*
 17	etwa	etwa	ADV	*	*	*	*
 18	ein	eine	ART	*	*	*	*
@@ -6520,6 +6714,7 @@
 # tuepp_article_id = T970818.153
 # sent_id = 258
 # text = Und um ein gutes Gespräch mit dem " Dreikäsehoch " an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -6532,15 +6727,16 @@
 8	"	"	$(	*	*	*	*
 9	Dreikäsehoch	Dreikäsehoch	NN	*	*	*	*
 10	"	"	$(	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
 13	zu	zu	PTKZU	*	*	*	*
-14	ziehen	ziehen	VVINF	2	2	2	2
+14	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971121.226
 # sent_id = 259
 # text = Neben einer Kamera ( Erik Poppe ) , die oft unerwartete Winkel und Zögerlichkeiten eingeht , ergibt das würdevolle Understatement , mit dem die Oldtimer ihre Schrulligkeit zelebrieren , einen Film , der zum Originellsten zählt , was die fsk-Leute und der Kairos- Filmverleih dieses Jahr an Land gezogen haben .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Neben	neben	APPR	*	*	*	*
@@ -6589,15 +6785,16 @@
 44	Filmverleih	Filmverleih	NN	*	*	*	*
 45	dieses	dies	PDAT	*	*	*	*
 46	Jahr	Jahr	NN	*	*	*	*
-47	an	an	APPR	2	2	2	2
-48	Land	Land	NN	2	2	2	2
-49	gezogen	ziehen	VVPP	2	2	2	2
+47	an	an	APPR	FIG	FIG	FIG	FIG
+48	Land	Land	NN	FIG	FIG	FIG	FIG
+49	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 50	haben	haben	VAFIN	*	*	*	*
 51	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971129.121
 # sent_id = 260
 # text = " Damit kann man die Ästhetik unseres Sports vermitteln " , glaubt Hoffmann - und das wiederum läßt sich besser bei den Sponsoren verkaufen , von denen der Deutsche Handball- Bund ( DHB ) erstmals vier allein und ganz speziell für die Frauen an Land ziehen konnte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6643,15 +6840,16 @@
 41	für	für	APPR	*	*	*	*
 42	die	die	ART	*	*	*	*
 43	Frauen	Frau	NN	*	*	*	*
-44	an	an	APPR	2	2	2	2
-45	Land	Land	NN	2	2	2	2
-46	ziehen	ziehen	VVINF	2	2	2	2
+44	an	an	APPR	FIG	FIG	FIG	FIG
+45	Land	Land	NN	FIG	FIG	FIG	FIG
+46	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 47	konnte	können	VMFIN	*	*	*	*
 48	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971125.90
 # sent_id = 261
 # text = Kiel ( dpa ) - Mit dem Bau des Luxuswohnschiffs " The World of ResidenSea " hat die Kieler Werft HDW ihren bisher größten Einzelauftrag in der Handelsschifffahrt an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kiel	Kiel	NE	*	*	*	*
@@ -6682,14 +6880,15 @@
 26	in	in	APPR	*	*	*	*
 27	der	die	ART	*	*	*	*
 28	Handelsschifffahrt	<unknown>	NN	*	*	*	*
-29	an	an	APPR	2	2	2	2
-30	Land	Land	NN	2	2	2	2
-31	gezogen	ziehen	VVPP	2	2	2	2
+29	an	an	APPR	FIG	FIG	FIG	FIG
+30	Land	Land	NN	FIG	FIG	FIG	FIG
+31	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971125.279
 # sent_id = 262
 # text = Mit einem am Montag unterzeichneten Vorvertrag über den Bau des 850 Millionen Mark teuren Edel-Wohnschiffs " The World of ResidenSea " hat die Kieler Werft HDW ihren bisher größten Einzelauftrag in der Handelsschiffahrt an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -6725,14 +6924,15 @@
 31	in	in	APPR	*	*	*	*
 32	der	die	ART	*	*	*	*
 33	Handelsschiffahrt	Handelsschiffahrt	NN	*	*	*	*
-34	an	an	APPR	2	2	2	2
-35	Land	Land	NN	2	2	2	2
-36	gezogen	ziehen	VVPP	2	2	2	2
+34	an	an	APPR	FIG	FIG	FIG	FIG
+35	Land	Land	NN	FIG	FIG	FIG	FIG
+36	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970215.209
 # sent_id = 263
 # text = " Die Vermittlung muß einfach mehr Jobs an Land ziehen " , meint die Lateinstudentin .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -6742,9 +6942,9 @@
 5	einfach	einfach	ADJD	*	*	*	*
 6	mehr	mehr	PIAT	*	*	*	*
 7	Jobs	Job	NN	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
-10	ziehen	ziehen	VVINF	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
+10	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 11	"	"	$(	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	meint	meinen	VVFIN	*	*	*	*
@@ -6755,6 +6955,7 @@
 # tuepp_article_id = T940524.140
 # sent_id = 264
 # text = Nun war die Lady nicht etwa in den See gesprungen , um den obdachlosen Alkoholiker Martin O'Donoghue an Land zu ziehen , sondern das hatte sie einem 29jährigen finnischen Studenten überlassen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Nun	nun	ADV	*	*	*	*
@@ -6774,10 +6975,10 @@
 15	Alkoholiker	Alkoholiker	NN	*	*	*	*
 16	Martin	Martin	NE	*	*	*	*
 17	O'Donoghue	<unknown>	NE	*	*	*	*
-18	an	an	APPR	1	1	1	1
-19	Land	Land	NN	1	1	1	1
+18	an	an	APPR	LIT	LIT	LIT	LIT
+19	Land	Land	NN	LIT	LIT	LIT	LIT
 20	zu	zu	PTKZU	*	*	*	*
-21	ziehen	ziehen	VVINF	1	1	1	1
+21	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 22	,	,	$,	*	*	*	*
 23	sondern	sondern	KON	*	*	*	*
 24	das	die	PDS	*	*	*	*
@@ -6793,6 +6994,7 @@
 # tuepp_article_id = T940503.215
 # sent_id = 265
 # text = Manchmal gehe ich auch los und versuche Geld an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Manchmal	manchmal	ADV	*	*	*	*
@@ -6803,15 +7005,16 @@
 6	und	und	KON	*	*	*	*
 7	versuche	versuchen	VVFIN	*	*	*	*
 8	Geld	Geld	NN	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
 11	zu	zu	PTKZU	*	*	*	*
-12	ziehen	ziehen	VVINF	2	2	2	2
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940502.213
 # sent_id = 266
 # text = Wir haben zwei große Sponsoren an Land gezogen und hoffen , bei der Breminale plus-minus Null zu machen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
@@ -6819,9 +7022,9 @@
 3	zwei	zwei	CARD	*	*	*	*
 4	große	groß	ADJA	*	*	*	*
 5	Sponsoren	Sponsor	NN	*	*	*	*
-6	an	an	APPR	2	2	2	2
-7	Land	Land	NN	2	2	2	2
-8	gezogen	ziehen	VVPP	2	2	2	2
+6	an	an	APPR	FIG	FIG	FIG	FIG
+7	Land	Land	NN	FIG	FIG	FIG	FIG
+8	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 9	und	und	KON	*	*	*	*
 10	hoffen	hoffen	VVFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
@@ -6837,6 +7040,7 @@
 # tuepp_article_id = T940516.259
 # sent_id = 267
 # text = Zudem haben die Eagles-Präsiden auf eine Agentur gesetzt , die weder in der Lage war , die so dringend benötigten Finanziers an Land zu ziehen , noch die gewünschte PR-Arbeit zu leisten vermochte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zudem	zudem	ADV	*	*	*	*
@@ -6860,10 +7064,10 @@
 19	dringend	dringend	ADJD	*	*	*	*
 20	benötigten	benötigt	ADJA	*	*	*	*
 21	Finanziers	Finanzier	NN	*	*	*	*
-22	an	an	APPR	2	2	2	2
-23	Land	Land	NN	2	2	2	2
+22	an	an	APPR	FIG	FIG	FIG	FIG
+23	Land	Land	NN	FIG	FIG	FIG	FIG
 24	zu	zu	PTKZU	*	*	*	*
-25	ziehen	ziehen	VVINF	2	2	2	2
+25	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 26	,	,	$,	*	*	*	*
 27	noch	noch	ADV	*	*	*	*
 28	die	die	ART	*	*	*	*
@@ -6877,6 +7081,7 @@
 # tuepp_article_id = T940526.188
 # sent_id = 268
 # text = Die muß nun allerdings unter Beobachtung bleiben , denn es geht erfahrungsgemäß schnell , daß sich arbeitsentlastete Verwaltungen neue Aufgaben an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	PDS	*	*	*	*
@@ -6899,14 +7104,15 @@
 18	Verwaltungen	Verwaltung	NN	*	*	*	*
 19	neue	neu	ADJA	*	*	*	*
 20	Aufgaben	Aufgabe	NN	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Land	Land	NN	2	2	2	2
-23	ziehen	ziehen	VVINF	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Land	Land	NN	FIG	FIG	FIG	FIG
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940601.30
 # sent_id = 269
 # text = Einer der Höhepunkte im Leben des Tschekisten Schalck war zweifellos , als es ihm 1983 gemeinsam mit dem damaligen bayerischen Ministerpräsidenten Franz Josef Strauß gelang , einen Milliardenkredit bundesdeutscher Banken für die devisenarme DDR an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einer	eine	PIS	*	*	*	*
@@ -6943,19 +7149,20 @@
 32	die	die	ART	*	*	*	*
 33	devisenarme	devisenarm	ADJA	*	*	*	*
 34	DDR	DDR	NE	*	*	*	*
-35	an	an	APPR	2	2	2	2
-36	Land	Land	NN	2	2	2	2
+35	an	an	APPR	FIG	FIG	FIG	FIG
+36	Land	Land	NN	FIG	FIG	FIG	FIG
 37	zu	zu	PTKZU	*	*	*	*
-38	ziehen	ziehen	VVINF	2	2	2	2
+38	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 39	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940621.68
 # sent_id = 270
 # text = Soeben zog die deutsch-französische Datenübermittlungs-Tochter , so Telekom- Sprecher Schawinski , auch einen 200 Millionen Mark schweren Dienstleistungs-Auftrag für die dänischen Kollegen von DansNet an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Soeben	soeben	ADV	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
 4	deutsch-französische	deutsch-französisch	ADJA	*	*	*	*
 5	Datenübermittlungs-Tochter	<unknown>	NN	*	*	*	*
@@ -6978,24 +7185,25 @@
 22	Kollegen	Kollege	NN	*	*	*	*
 23	von	von	APPR	*	*	*	*
 24	DansNet	<unknown>	ADJA	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941004.224
 # sent_id = 271
 # text = Er zog einen etwas zwielichtigen indischen Stahlindustriellen an Land , der seine britische Caparo-Gruppe um ein Hamburger Schnäppchen ergänzen wollte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	einen	eine	ART	*	*	*	*
 4	etwas	etwas	ADV	*	*	*	*
 5	zwielichtigen	zwielichtig	ADJA	*	*	*	*
 6	indischen	indisch	ADJA	*	*	*	*
 7	Stahlindustriellen	Stahlindustrielle	NN	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	der	die	PRELS	*	*	*	*
 12	seine	sein	PPOSAT	*	*	*	*
@@ -7012,6 +7220,7 @@
 # tuepp_article_id = T941026.110
 # sent_id = 272
 # text = Der Fisch dürfe nicht nach kanadischer Waldläufermanier schwungvoll mit der Angel an Land gezogen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -7025,15 +7234,16 @@
 9	mit	mit	APPR	*	*	*	*
 10	der	die	ART	*	*	*	*
 11	Angel	Angel	NN	*	*	*	*
-12	an	an	APPR	1	1	1	1
-13	Land	Land	NN	1	1	1	1
-14	gezogen	ziehen	VVPP	1	1	1	1
+12	an	an	APPR	LIT	LIT	LIT	LIT
+13	Land	Land	NN	LIT	LIT	LIT	LIT
+14	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 15	werden	werden	VAINF	*	*	*	*
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941026.222
 # sent_id = 273
 # text = Witsch , erklärt Biermann : " ... beim Schreiben an all diesen schwarzen Strophen kam es mir allen Ernstes so vor , als hätte ich nur 30 Jahre meine Kräfte geübt , um nun endlich dieses Werk lebendig ans deutsche Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Witsch	<unknown>	NN	*	*	*	*
@@ -7074,16 +7284,17 @@
 36	dieses	dies	PDAT	*	*	*	*
 37	Werk	Werk	NN	*	*	*	*
 38	lebendig	lebendig	ADJD	*	*	*	*
-39	ans	ans	APPRART	2	2	2	2
+39	ans	ans	APPRART	FIG	FIG	FIG	FIG
 40	deutsche	deutsch	ADJA	*	*	*	*
-41	Land	Land	NN	2	2	2	2
+41	Land	Land	NN	FIG	FIG	FIG	FIG
 42	zu	zu	PTKZU	*	*	*	*
-43	ziehen	ziehen	VVINF	2	2	2	2
+43	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 44	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940426.67
 # sent_id = 274
 # text = Berlin ( taz ) - Dieter Schoenfeldt hat einen Großauftrag an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -7096,14 +7307,15 @@
 8	hat	haben	VAFIN	*	*	*	*
 9	einen	eine	ART	*	*	*	*
 10	Großauftrag	Großauftrag	NN	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
-13	gezogen	ziehen	VVPP	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940416.269
 # sent_id = 275
 # text = Sie haben sich in den letzten Jahren zwei Professoren für Fachdidaktik an Land gezogen und eigene Veranstaltungen für Mathematik und Physik etabliert ; fast alle ihrer Studienordnungen haben sie reformiert .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -7117,9 +7329,9 @@
 9	Professoren	Professor	NN	*	*	*	*
 10	für	für	APPR	*	*	*	*
 11	Fachdidaktik	Fachdidaktik	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
-14	gezogen	ziehen	VVPP	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
+14	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 15	und	und	KON	*	*	*	*
 16	eigene	eigen	ADJA	*	*	*	*
 17	Veranstaltungen	Veranstaltung	NN	*	*	*	*
@@ -7141,6 +7353,7 @@
 # tuepp_article_id = T940721.176
 # sent_id = 276
 # text = Mittlerweile hat das Vorstandsmitglied Werner Orlowsky , von 1981 bis 1989 Kreuzberger Baustadtrat , seine Beziehungen spielen lassen und einen spendablen Unternehmer der Baubranche an Land ziehen können .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mittlerweile	mittlerweile	ADV	*	*	*	*
@@ -7167,15 +7380,16 @@
 22	Unternehmer	Unternehmer	NN	*	*	*	*
 23	der	die	ART	*	*	*	*
 24	Baubranche	Baubranche	NN	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
-27	ziehen	ziehen	VVINF	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
+27	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 28	können	können	VMINF	*	*	*	*
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941219.137
 # sent_id = 277
 # text = In drei Flügeln des Zeughauses ist seit Freitag zu besichtigen , was Direktor Stölzl und seine Mitarbeiter in sieben Jahren Raritätenjagd an Land gezogen haben .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -7199,15 +7413,16 @@
 19	sieben	sieben	CARD	*	*	*	*
 20	Jahren	Jahr	NN	*	*	*	*
 21	Raritätenjagd	<unknown>	NN	*	*	*	*
-22	an	an	APPR	2	2	2	2
-23	Land	Land	NN	2	2	2	2
-24	gezogen	ziehen	VVPP	2	2	2	2
+22	an	an	APPR	FIG	FIG	FIG	FIG
+23	Land	Land	NN	FIG	FIG	FIG	FIG
+24	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 25	haben	haben	VAFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940825.254
 # sent_id = 278
 # text = Als Headliner hat die Überschallcrew einen wahrhaft dicken Fisch an Land gezogen - den Boo-Yaa-T. R. I. B. E. : Das Quartett aus Los Angeles weiß nicht nur musikalisch , wo die Wurst wächst .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -7219,9 +7434,9 @@
 7	wahrhaft	wahrhaft	ADJD	*	*	*	*
 8	dicken	dick	ADJA	*	*	*	*
 9	Fisch	Fisch	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Land	Land	NN	2	2	2	2
-12	gezogen	ziehen	VVPP	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Land	Land	NN	FIG	FIG	FIG	FIG
+12	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 13	-	-	$(	*	*	*	*
 14	den	die	ART	*	*	*	*
 15	Boo-Yaa-T.	<unknown>	NN	*	*	*	*
@@ -7249,6 +7464,7 @@
 # tuepp_article_id = T940822.54
 # sent_id = 279
 # text = Sie versucht hier den Fisch an Land zu ziehen , nach dem sie schon lange vergebens angelt : ein Zwischenlager für hochradioaktiven Atommüll .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -7256,10 +7472,10 @@
 3	hier	hier	ADV	*	*	*	*
 4	den	die	ART	*	*	*	*
 5	Fisch	Fisch	NN	*	*	*	*
-6	an	an	APPR	2	2	2	2
-7	Land	Land	NN	2	2	2	2
+6	an	an	APPR	FIG	FIG	FIG	FIG
+7	Land	Land	NN	FIG	FIG	FIG	FIG
 8	zu	zu	PTKZU	*	*	*	*
-9	ziehen	ziehen	VVINF	2	2	2	2
+9	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	nach	nach	APPR	*	*	*	*
 12	dem	die	PRELS	*	*	*	*
@@ -7279,6 +7495,7 @@
 # tuepp_article_id = T940806.201
 # sent_id = 280
 # text = Ziel der beiden Konzerne ist es , eine bundesweite Kette lokaler Sender unter ihren Einfluß zu bekommen und damit die großen Werbeetats von Markenartikelherstellern an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ziel	Ziel	NN	*	*	*	*
@@ -7305,15 +7522,16 @@
 22	Werbeetats	Werbeetat	NN	*	*	*	*
 23	von	von	APPR	*	*	*	*
 24	Markenartikelherstellern	<unknown>	NN	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
 27	zu	zu	PTKZU	*	*	*	*
-28	ziehen	ziehen	VVINF	2	2	2	2
+28	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940813.205
 # sent_id = 281
 # text = Sein Bezirk will für einen Teil des Geländes einen Motel-Betreiber an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sein	sein	PPOSAT	*	*	*	*
@@ -7326,14 +7544,15 @@
 8	Geländes	Gelände	NN	*	*	*	*
 9	einen	eine	ART	*	*	*	*
 10	Motel-Betreiber	<unknown>	NN	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
-13	ziehen	ziehen	VVINF	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
+13	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940321.90
 # sent_id = 282
 # text = Söhne , das Brauereimaschinen , Wursttrocknungsanlagen , aber auch Einäscherungsöfen für Krematorien baute , zog im November 1939 den ersten KZ-Auftrag an Land : ein Verbrennungsofen für das KZ Dachau zum Preis von 8.759 Mark .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Söhne	Sohn	NN	*	*	*	*
@@ -7350,15 +7569,15 @@
 12	Krematorien	Krematorium	NN	*	*	*	*
 13	baute	bauen	VVFIN	*	*	*	*
 14	,	,	$,	*	*	*	*
-15	zog	ziehen	VVFIN	2	2	2	2
+15	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 16	im	in	APPRART	*	*	*	*
 17	November	November	NN	*	*	*	*
 18	1939	@card@	CARD	*	*	*	*
 19	den	die	ART	*	*	*	*
 20	ersten	erst	ADJA	*	*	*	*
 21	KZ-Auftrag	<unknown>	NN	*	*	*	*
-22	an	an	APPR	2	2	2	2
-23	Land	Land	NN	2	2	2	2
+22	an	an	APPR	FIG	FIG	FIG	FIG
+23	Land	Land	NN	FIG	FIG	FIG	FIG
 24	:	:	$.	*	*	*	*
 25	ein	eine	ART	*	*	*	*
 26	Verbrennungsofen	Verbrennungsofen	NN	*	*	*	*
@@ -7376,6 +7595,7 @@
 # tuepp_article_id = T940207.7
 # sent_id = 283
 # text = Dort kandidiert , letzter Stand der Dinge , für die SPD deren stellvertretender Vorsitzender Wolfgang Thierse ; die CDU schickt ( wahrscheinlich ) ihren Rechtsausleger Heinrich Lummer ins Rennen , und die PDS beabsichtigt - seit gestern ist es nun offiziell - , mit dem parteilosen Schriftsteller Stefan Heym das Direktmandat im Herzen der Stadt an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dort	dort	ADV	*	*	*	*
@@ -7433,21 +7653,22 @@
 53	Herzen	Herz	NN	*	*	*	*
 54	der	die	ART	*	*	*	*
 55	Stadt	Stadt	NN	*	*	*	*
-56	an	an	APPR	2	2	2	2
-57	Land	Land	NN	2	2	2	2
+56	an	an	APPR	FIG	FIG	FIG	FIG
+57	Land	Land	NN	FIG	FIG	FIG	FIG
 58	zu	zu	PTKZU	*	*	*	*
-59	ziehen	ziehen	VVINF	2	2	2	2
+59	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 60	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940216.90
 # sent_id = 284
 # text = Die zweite Million zog " Käpt 'n Bodo " mit dem Lachsack an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	zweite	zweit	ADJA	*	*	*	*
 3	Million	Million	NN	*	*	*	*
-4	zog	ziehen	VVFIN	2	2	2	2
+4	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 5	"	"	$(	*	*	*	*
 6	Käpt	<unknown>	NN	*	*	*	*
 7	'n	<unknown>	NE	*	*	*	*
@@ -7456,13 +7677,14 @@
 10	mit	mit	APPR	*	*	*	*
 11	dem	die	ART	*	*	*	*
 12	Lachsack	Lachsack	NN	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950522.121
 # sent_id = 285
 # text = Die WTA hat es trotz monatelanger Bemühungen nicht geschafft , einen Hauptsponsor an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7477,15 +7699,16 @@
 10	,	,	$,	*	*	*	*
 11	einen	eine	ART	*	*	*	*
 12	Hauptsponsor	Hauptsponsor	NN	*	*	*	*
-13	an	an	APPR	2	2	2	2
-14	Land	Land	NN	2	2	2	2
+13	an	an	APPR	FIG	FIG	FIG	FIG
+14	Land	Land	NN	FIG	FIG	FIG	FIG
 15	zu	zu	PTKZU	*	*	*	*
-16	ziehen	ziehen	VVINF	2	2	2	2
+16	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950619.50
 # sent_id = 286
 # text = Das Unternehmen führt in einer Presseerklärung aus : " In unserem Vorschlag würde die Brent Spar senkrecht an Land gezogen und dort abgerissen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -7505,9 +7728,9 @@
 15	Brent	Brent	NE	*	*	*	*
 16	Spar	Spar	NE	*	*	*	*
 17	senkrecht	senkrecht	ADJD	*	*	*	*
-18	an	an	APPR	1	2	2	2
-19	Land	Land	NN	1	2	2	2
-20	gezogen	ziehen	VVPP	1	2	2	2
+18	an	an	APPR	LIT	FIG	FIG	FIG
+19	Land	Land	NN	LIT	FIG	FIG	FIG
+20	gezogen	ziehen	VVPP	LIT	FIG	FIG	FIG
 21	und	und	KON	*	*	*	*
 22	dort	dort	ADV	*	*	*	*
 23	abgerissen	abreißen	VVPP	*	*	*	*
@@ -7517,6 +7740,7 @@
 # tuepp_article_id = T950609.63
 # sent_id = 287
 # text = Die meisten der versprochenen Gelder sind bisher nicht freigegeben , und den Flughafenauftrag hat sich eine ägyptische Baufirma an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -7537,14 +7761,15 @@
 16	eine	eine	ART	*	*	*	*
 17	ägyptische	ägyptisch	ADJA	*	*	*	*
 18	Baufirma	Baufirma	NN	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
-21	gezogen	ziehen	VVPP	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
+21	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950627.73
 # sent_id = 288
 # text = In den letzten Jahren stellte sie die Produktion um auf westliche Märkte und konnte schon Aufträge für S-Bahnen und den ICE an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -7568,14 +7793,15 @@
 19	und	und	KON	*	*	*	*
 20	den	die	ART	*	*	*	*
 21	ICE	ICE	NE	*	*	*	*
-22	an	an	APPR	2	2	2	2
-23	Land	Land	NN	2	2	2	2
-24	ziehen	ziehen	VVINF	2	2	2	2
+22	an	an	APPR	FIG	FIG	FIG	FIG
+23	Land	Land	NN	FIG	FIG	FIG	FIG
+24	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950621.162
 # sent_id = 289
 # text = Da hat die Humboldt-Universität wieder einen dicken Fisch an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -7586,14 +7812,15 @@
 6	einen	eine	ART	*	*	*	*
 7	dicken	dick	ADJA	*	*	*	*
 8	Fisch	Fisch	NN	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
-11	gezogen	ziehen	VVPP	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
+11	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950626.62
 # sent_id = 290
 # text = Werde die 14.000-Tonnen-Plattform im Wasser flachgelegt , um sie später an Land zu ziehen , werde sie tiefer sinken , und es bestehe die Gefahr , daß sie dann auseinanderbricht .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Werde	werden	VAFIN	*	*	*	*
@@ -7606,10 +7833,10 @@
 8	um	um	KOUI	*	*	*	*
 9	sie	sie	PPER	*	*	*	*
 10	später	spät	ADJD	*	*	*	*
-11	an	an	APPR	1	1	1	1
-12	Land	Land	NN	1	1	1	1
+11	an	an	APPR	LIT	LIT	LIT	LIT
+12	Land	Land	NN	LIT	LIT	LIT	LIT
 13	zu	zu	PTKZU	*	*	*	*
-14	ziehen	ziehen	VVINF	1	1	1	1
+14	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 15	,	,	$,	*	*	*	*
 16	werde	werden	VAFIN	*	*	*	*
 17	sie	sie	PPER	*	*	*	*
@@ -7631,6 +7858,7 @@
 # tuepp_article_id = T950606.126
 # sent_id = 291
 # text = Doch hat man die Rechte gerade teuer an Land gezogen , muß das Buch schnell raus .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	ADV	*	*	*	*
@@ -7640,9 +7868,9 @@
 5	Rechte	Recht|Rechte	NN	*	*	*	*
 6	gerade	gerade	ADV	*	*	*	*
 7	teuer	teuer	ADJD	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
-10	gezogen	ziehen	VVPP	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
+10	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	muß	müssen	VMFIN	*	*	*	*
 13	das	die	ART	*	*	*	*
@@ -7654,6 +7882,7 @@
 # tuepp_article_id = T951011.252
 # sent_id = 292
 # text = Seitdem haben sie keinen Auftrag mehr an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seitdem	seitdem	PAV	*	*	*	*
@@ -7662,14 +7891,15 @@
 4	keinen	keine	PIAT	*	*	*	*
 5	Auftrag	Auftrag	NN	*	*	*	*
 6	mehr	mehr	ADV	*	*	*	*
-7	an	an	APPR	2	2	2	2
-8	Land	Land	NN	2	2	2	2
-9	gezogen	ziehen	VVPP	2	2	2	2
+7	an	an	APPR	FIG	FIG	FIG	FIG
+8	Land	Land	NN	FIG	FIG	FIG	FIG
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951031.133
 # sent_id = 293
 # text = Zweimal in Folge haben die Eisbären nun gewonnen , unversehens den Anschluß zum Tabellenmittelfeld hergestellt und hoffen künftig auf noch mehr Vergnügen , denn sie haben einen weiteren Russen an Land gezogen , der bisher in der zweiten amerikanischen Liga spielte .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zweimal	zweimal	ADV	*	*	*	*
@@ -7701,9 +7931,9 @@
 27	einen	eine	ART	*	*	*	*
 28	weiteren	weit	ADJA	*	*	*	*
 29	Russen	Russe	NN	*	*	*	*
-30	an	an	APPR	2	2	2	2
-31	Land	Land	NN	2	2	2	2
-32	gezogen	ziehen	VVPP	2	2	2	2
+30	an	an	APPR	FIG	FIG	FIG	FIG
+31	Land	Land	NN	FIG	FIG	FIG	FIG
+32	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 33	,	,	$,	*	*	*	*
 34	der	die	PRELS	*	*	*	*
 35	bisher	bisher	ADV	*	*	*	*
@@ -7718,6 +7948,7 @@
 # tuepp_article_id = T951019.189
 # sent_id = 294
 # text = Wegen der hohen Uferbefestigung habe er sich jedoch nicht aus eigener Kraft an Land ziehen können .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wegen	wegen	APPR	*	*	*	*
@@ -7732,15 +7963,16 @@
 10	aus	aus	APPR	*	*	*	*
 11	eigener	eigen	ADJA	*	*	*	*
 12	Kraft	Kraft	NN	*	*	*	*
-13	an	an	APPR	1	1	1	1
-14	Land	Land	NN	1	1	1	1
-15	ziehen	ziehen	VVINF	1	1	1	1
+13	an	an	APPR	LIT	LIT	LIT	LIT
+14	Land	Land	NN	LIT	LIT	LIT	LIT
+15	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 16	können	können	VMINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951012.202
 # sent_id = 295
 # text = Auch große Anbieter sind nicht frei davon , sich - wissentlich oder unwissentlich - solche Rundgänge an Land zu ziehen und mit ihren größeren Marketing-Möglichkeiten auf den Markt zu schmeißen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -7759,10 +7991,10 @@
 14	-	-	$(	*	*	*	*
 15	solche	solche	PIAT	*	*	*	*
 16	Rundgänge	Rundgang	NN	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
 19	zu	zu	PTKZU	*	*	*	*
-20	ziehen	ziehen	VVINF	2	2	2	2
+20	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 21	und	und	KON	*	*	*	*
 22	mit	mit	APPR	*	*	*	*
 23	ihren	ihr	PPOSAT	*	*	*	*
@@ -7778,6 +8010,7 @@
 # tuepp_article_id = T951024.202
 # sent_id = 296
 # text = " Mit erheblichem Kraftaufwand " , wie die Polizeipressestelle bemerkt , sei die Frau schließlich an Land gezogen worden , wobei das Trio noch eine rund 20 Meter breite Schlickzone durchwaten mußte - und hernach entsprechend aussah .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -7795,9 +8028,9 @@
 13	die	die	ART	*	*	*	*
 14	Frau	Frau	NN	*	*	*	*
 15	schließlich	schließlich	ADV	*	*	*	*
-16	an	an	APPR	1	1	1	1
-17	Land	Land	NN	1	1	1	1
-18	gezogen	ziehen	VVPP	1	1	1	1
+16	an	an	APPR	LIT	LIT	LIT	LIT
+17	Land	Land	NN	LIT	LIT	LIT	LIT
+18	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 19	worden	werden	VAPP	*	*	*	*
 20	,	,	$,	*	*	*	*
 21	wobei	wobei	PWAV	*	*	*	*
@@ -7822,6 +8055,7 @@
 # tuepp_article_id = T950905.183
 # sent_id = 297
 # text = Denn jener Geschaßte , von dem hier die Rede ist , gilt als Bremens Musical-Hoffnung : Frank Buecheler , der in Hamburg als Produzent und Geschäftsführer der Firma " Neue Metropol Theater Produktion " die Gesamtverantwortung hatte für das nur mäßig erfolgreiche " Buddy Holly " - Musical , soll für Bremen ein Stück nicht nur an Land ziehen , sondern auch für Inszenierung und Vermarktung sorgen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -7880,9 +8114,9 @@
 54	Stück	Stück	NN	*	*	*	*
 55	nicht	nicht	PTKNEG	*	*	*	*
 56	nur	nur	ADV	*	*	*	*
-57	an	an	APPR	2	2	2	2
-58	Land	Land	NN	2	2	2	2
-59	ziehen	ziehen	VVINF	2	2	2	2
+57	an	an	APPR	FIG	FIG	FIG	FIG
+58	Land	Land	NN	FIG	FIG	FIG	FIG
+59	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 60	,	,	$,	*	*	*	*
 61	sondern	sondern	KON	*	*	*	*
 62	auch	auch	ADV	*	*	*	*
@@ -7896,6 +8130,7 @@
 # tuepp_article_id = T950905.223
 # sent_id = 298
 # text = Da seien die 30 Millionen " kein Pappenstiel " , meint Kleineidam ; möglicherweise wolle Hamburg sich nun als Forschungsgelder getarnte Beihilfen aus Bonn für seine Unternehmungen an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -7925,14 +8160,15 @@
 25	für	für	APPR	*	*	*	*
 26	seine	sein	PPOSAT	*	*	*	*
 27	Unternehmungen	Unternehmung	NN	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Land	Land	NN	2	2	2	2
-30	ziehen	ziehen	VVINF	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Land	Land	NN	FIG	FIG	FIG	FIG
+30	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950901.240
 # sent_id = 299
 # text = Nach ewigem Hin und Her ist es den Veranstaltern des Filmfestes Oldenburg gelungen " Witch Hunt " , den neuen Streifen von Paul Schrader an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -7959,15 +8195,16 @@
 22	von	von	APPR	*	*	*	*
 23	Paul	Paul	NE	*	*	*	*
 24	Schrader	<unknown>	NN	*	*	*	*
-25	an	an	APPR	2	2	2	2
-26	Land	Land	NN	2	2	2	2
+25	an	an	APPR	FIG	FIG	FIG	FIG
+26	Land	Land	NN	FIG	FIG	FIG	FIG
 27	zu	zu	PTKZU	*	*	*	*
-28	ziehen	ziehen	VVINF	2	2	2	2
+28	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950418.57
 # sent_id = 300
 # text = Sie ziehen die letzten zwei Jahre zum Vergleich heran , in denen sie jeweils knapp 40.000 Tonnen Heilbutt mit einem Jahresumsatz von 2 Milliarden Mark an Land zogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -7995,26 +8232,27 @@
 23	2	@card@	CARD	*	*	*	*
 24	Milliarden	Milliarde	NN	*	*	*	*
 25	Mark	Mark	NN	*	*	*	*
-26	an	an	APPR	1	2	1	1
-27	Land	Land	NN	1	2	1	1
-28	zogen	ziehen	VVFIN	1	2	1	1
+26	an	an	APPR	LIT	FIG	LIT	LIT
+27	Land	Land	NN	LIT	FIG	LIT	LIT
+28	zogen	ziehen	VVFIN	LIT	FIG	LIT	LIT
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950428.19
 # sent_id = 301
 # text = Wenig später zog die Nachrichtenredaktion sie für sich an Land ; damit unterfordert , wurde sie zur Chefin vom Dienst in der Auslandsredaktion .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenig	wenig	ADV	*	*	*	*
 2	später	spät	ADJD	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	Nachrichtenredaktion	Nachrichtenredaktion	NN	*	*	*	*
 6	sie	sie	PPER	*	*	*	*
 7	für	für	APPR	*	*	*	*
 8	sich	sich	PRF	*	*	*	*
-9	an	an	APPR	2	2	2	2
-10	Land	Land	NN	2	2	2	2
+9	an	an	APPR	FIG	FIG	FIG	FIG
+10	Land	Land	NN	FIG	FIG	FIG	FIG
 11	;	;	$.	*	*	*	*
 12	damit	damit	PAV	*	*	*	*
 13	unterfordert	unterfordern	VVFIN	*	*	*	*
@@ -8033,6 +8271,7 @@
 # tuepp_article_id = T950701.241
 # sent_id = 302
 # text = 1000 FörderInnen will der Hamburger BUND-Landesverband auf diesem " neuen Weg der Mittelbeschaffung " an Land ziehen , um so seine leeren Kassen wieder zu füllen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1000	@card@	CARD	*	*	*	*
@@ -8049,9 +8288,9 @@
 12	der	die	ART	*	*	*	*
 13	Mittelbeschaffung	Mittelbeschaffung	NN	*	*	*	*
 14	"	"	$(	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
-17	ziehen	ziehen	VVINF	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
+17	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	um	um	KOUI	*	*	*	*
 20	so	so	ADV	*	*	*	*
@@ -8066,6 +8305,7 @@
 # tuepp_article_id = T950704.200
 # sent_id = 303
 # text = Das bewegungslose Kind konnte von einem Badegast an Land gezogen werden .
+# vid_types = an land ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -8075,15 +8315,16 @@
 5	von	von	APPR	*	*	*	*
 6	einem	eine	ART	*	*	*	*
 7	Badegast	Badegast	NN	*	*	*	*
-8	an	an	APPR	1	1	1	1
-9	Land	Land	NN	1	1	1	1
-10	gezogen	ziehen	VVPP	1	1	1	1
+8	an	an	APPR	LIT	LIT	LIT	LIT
+9	Land	Land	NN	LIT	LIT	LIT	LIT
+10	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 11	werden	werden	VAINF	*	*	*	*
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950703.235
 # sent_id = 304
 # text = Stattdessen werden Sechs-Monats-Zeitverträge - zum Teil im Außendienst als VertreterInnen - angeboten , wo dann auf Provisionsbasis Versicherungspolicen an Land zu ziehen sind .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Stattdessen	stattdessen	ADV	*	*	*	*
@@ -8104,16 +8345,17 @@
 16	auf	auf	APPR	*	*	*	*
 17	Provisionsbasis	Provisionsbasis	NN	*	*	*	*
 18	Versicherungspolicen	Versicherungspolice	NN	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
 21	zu	zu	PTKZU	*	*	*	*
-22	ziehen	ziehen	VVINF	2	2	2	2
+22	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 23	sind	sein	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951219.169
 # sent_id = 305
 # text = " Andreas " , davon war er felsenfest überzeugt , wende wieder einen seiner Tricks an , um Subventionen an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -8135,15 +8377,16 @@
 17	,	,	$,	*	*	*	*
 18	um	um	KOUI	*	*	*	*
 19	Subventionen	Subvention	NN	*	*	*	*
-20	an	an	APPR	2	2	2	2
-21	Land	Land	NN	2	2	2	2
+20	an	an	APPR	FIG	FIG	FIG	FIG
+21	Land	Land	NN	FIG	FIG	FIG	FIG
 22	zu	zu	PTKZU	*	*	*	*
-23	ziehen	ziehen	VVINF	2	2	2	2
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951202.137
 # sent_id = 306
 # text = Von außen gesehen scheint es ihr gelungen zu sein , sich eine Reihe großartiger Sachen an Land zu ziehen , die ihr jedoch keine Zeit zum Nachdenken lassen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Von	von	APPR	*	*	*	*
@@ -8161,10 +8404,10 @@
 13	Reihe	Reihe	NN	*	*	*	*
 14	großartiger	großartig	ADJA	*	*	*	*
 15	Sachen	Sache	NN	*	*	*	*
-16	an	an	APPR	2	2	2	2
-17	Land	Land	NN	2	2	2	2
+16	an	an	APPR	FIG	FIG	FIG	FIG
+17	Land	Land	NN	FIG	FIG	FIG	FIG
 18	zu	zu	PTKZU	*	*	*	*
-19	ziehen	ziehen	VVINF	2	2	2	2
+19	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	die	die	PRELS	*	*	*	*
 22	ihr	ihr	PPER	*	*	*	*
@@ -8179,13 +8422,14 @@
 # tuepp_article_id = T950316.97
 # sent_id = 307
 # text = Die texanische Firma Conco zog einen eine Milliarde Dollar schweren Auftrag von der Regierung in Teheran an Land , um in einige Ölquellen vor der iranischen Küste zu investieren .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	texanische	<unknown>	ADJA	*	*	*	*
 3	Firma	Firma	NN	*	*	*	*
 4	Conco	<unknown>	NN	*	*	*	*
-5	zog	ziehen	VVFIN	2	2	2	2
+5	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	einen	eine	PIS	*	*	*	*
 7	eine	eine	ART	*	*	*	*
 8	Milliarde	Milliarde	NN	*	*	*	*
@@ -8197,8 +8441,8 @@
 14	Regierung	Regierung	NN	*	*	*	*
 15	in	in	APPR	*	*	*	*
 16	Teheran	Teheran	NE	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	um	um	KOUI	*	*	*	*
 21	in	in	APPR	*	*	*	*
@@ -8215,6 +8459,7 @@
 # tuepp_article_id = T950325.124
 # sent_id = 308
 # text = Die Gemeinden St. Josse , Schaerbeek und Alt-Brüssel hatten 1967 das Rennen gemacht und das Manhattan-Projekt , wie es inzwischen offiziell hieß , an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -8240,14 +8485,15 @@
 21	offiziell	offiziell	ADJD	*	*	*	*
 22	hieß	heißen	VVFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
-24	an	an	APPR	2	2	2	2
-25	Land	Land	NN	2	2	2	2
-26	gezogen	ziehen	VVPP	2	2	2	2
+24	an	an	APPR	FIG	FIG	FIG	FIG
+25	Land	Land	NN	FIG	FIG	FIG	FIG
+26	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950325.229
 # sent_id = 309
 # text = Fußball- Promis wie Fritz Walter und Uwe Seeler sollen die Werbetrommel rühren , um finanzkräftige Sponsoren an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Fußball-	Fußball-	TRUNC	*	*	*	*
@@ -8266,29 +8512,30 @@
 14	um	um	KOUI	*	*	*	*
 15	finanzkräftige	finanzkräftig	ADJA	*	*	*	*
 16	Sponsoren	Sponsor	NN	*	*	*	*
-17	an	an	APPR	2	2	2	2
-18	Land	Land	NN	2	2	2	2
+17	an	an	APPR	FIG	FIG	FIG	FIG
+18	Land	Land	NN	FIG	FIG	FIG	FIG
 19	zu	zu	PTKZU	*	*	*	*
-20	ziehen	ziehen	VVINF	2	2	2	2
+20	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951108.176
 # sent_id = 310
 # text = Vor allem besorgt ihn , daß seine vor zwei Monaten an Land gezogenen neuen TV-Gesellschafter Kirch , Rupert und Waalid immer unruhiger werden , ob es mit dem versprochenen Gang an die Börse 1996 wirklich etwas wird .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
 2	allem	alle	PIS	*	*	*	*
 3	besorgt	besorgen	VVFIN	*	*	*	*
-4	ihn	er	PPER	2	2	2	2
+4	ihn	er	PPER	FIG	FIG	FIG	FIG
 5	,	,	$,	*	*	*	*
 6	daß	dass	KOUS	*	*	*	*
 7	seine	sein	PPOSAT	*	*	*	*
 8	vor	vor	APPR	*	*	*	*
 9	zwei	zwei	CARD	*	*	*	*
 10	Monaten	Monat	NN	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Land	Land	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Land	Land	NN	FIG	FIG	FIG	FIG
 13	gezogenen	gezogen	ADJA	*	*	*	*
 14	neuen	neu	ADJA	*	*	*	*
 15	TV-Gesellschafter	<unknown>	NN	*	*	*	*
@@ -8319,6 +8566,7 @@
 # tuepp_article_id = T951113.1
 # sent_id = 311
 # text = Nur weil Kohl den chinesischen Kommunisten schmeichelt , wird kein einziges deutsches Unternehmen auch nur einen Auftrag mehr an Land ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nur	nur	ADV	*	*	*	*
@@ -8339,14 +8587,15 @@
 16	einen	eine	ART	*	*	*	*
 17	Auftrag	Auftrag	NN	*	*	*	*
 18	mehr	mehr	ADV	*	*	*	*
-19	an	an	APPR	2	2	2	2
-20	Land	Land	NN	2	2	2	2
-21	ziehen	ziehen	VVINF	2	2	2	2
+19	an	an	APPR	FIG	FIG	FIG	FIG
+20	Land	Land	NN	FIG	FIG	FIG	FIG
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951113.67
 # sent_id = 312
 # text = Daß Kohl in China kaum Skrupel kennt , um für die deutsche Wirtschaft Aufträge an Land zu ziehen , hat er bereits 1987 gezeigt : Damals erfüllte er sich seinen Herzenswunsch - und den seiner Gastgeber - und reiste in das von China besetzte Tibet , zum Entsetzen des Auswärtigen Amtes .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -8363,10 +8612,10 @@
 12	deutsche	deutsch	ADJA	*	*	*	*
 13	Wirtschaft	Wirtschaft	NN	*	*	*	*
 14	Aufträge	Auftrag	NN	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
 17	zu	zu	PTKZU	*	*	*	*
-18	ziehen	ziehen	VVINF	2	2	2	2
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	hat	haben	VAFIN	*	*	*	*
 21	er	er	PPER	*	*	*	*
@@ -8405,6 +8654,7 @@
 # tuepp_article_id = T951124.91
 # sent_id = 313
 # text = Ganze 30 Milliarden Won , etwa 54 Millionen Mark , machte , den Angaben der Staatsanwaltschaft nach , Hyundai-Chef Chung Ju Yung locker , um Aufträge zum Bau mehrerer Atomkraftwerke an Land zu ziehen - für Chung eine Kleinigkeit , denn schließlich erwirtschaftet sein Imperium ein Fünftel des südkoreanischen Bruttosozialproduktes .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ganze	ganz	ADJA	*	*	*	*
@@ -8437,10 +8687,10 @@
 28	Bau	Bau	NN	*	*	*	*
 29	mehrerer	mehrere	PIAT	*	*	*	*
 30	Atomkraftwerke	Atomkraftwerk	NN	*	*	*	*
-31	an	an	APPR	2	2	2	2
-32	Land	Land	NN	2	2	2	2
+31	an	an	APPR	FIG	FIG	FIG	FIG
+32	Land	Land	NN	FIG	FIG	FIG	FIG
 33	zu	zu	PTKZU	*	*	*	*
-34	ziehen	ziehen	VVINF	2	2	2	2
+34	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 35	-	-	$(	*	*	*	*
 36	für	für	APPR	*	*	*	*
 37	Chung	Chung	NE	*	*	*	*
@@ -8462,6 +8712,7 @@
 # tuepp_article_id = T950202.227
 # sent_id = 314
 # text = Wieviel Travolta den Studios letztlich wert ist , wird sich beim Einspielergebnis der nächsten Rolle zeigen , die die einstige Teenie-Ikone an Land ziehen kann .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wieviel	wieviele	PWAV	*	*	*	*
@@ -8485,23 +8736,24 @@
 19	die	die	ART	*	*	*	*
 20	einstige	einstig	ADJA	*	*	*	*
 21	Teenie-Ikone	<unknown>	NN	*	*	*	*
-22	an	an	APPR	2	2	2	2
-23	Land	Land	NN	2	2	2	2
-24	ziehen	ziehen	VVINF	2	2	2	2
+22	an	an	APPR	FIG	FIG	FIG	FIG
+23	Land	Land	NN	FIG	FIG	FIG	FIG
+24	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 25	kann	können	VMFIN	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950228.99
 # sent_id = 315
 # text = Ist der Auftrag an Land gezogen , ist die weitere Emsvertiefung unvermeidbar .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ist	sein	VAFIN	*	*	*	*
 2	der	die	ART	*	*	*	*
 3	Auftrag	Auftrag	NN	*	*	*	*
-4	an	an	APPR	2	2	2	2
-5	Land	Land	NN	2	2	2	2
-6	gezogen	ziehen	VVPP	2	2	2	2
+4	an	an	APPR	FIG	FIG	FIG	FIG
+5	Land	Land	NN	FIG	FIG	FIG	FIG
+6	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	ist	sein	VAFIN	*	*	*	*
 9	die	die	ART	*	*	*	*
@@ -8513,6 +8765,7 @@
 # tuepp_article_id = T950228.113
 # sent_id = 316
 # text = Zu Beginn der neuen Spielzeit zog Gil einen besonders dicken Fisch an Land : den kolumbianischen Nationaltrainer Francisco Maturana .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zu	zu	APPR	*	*	*	*
@@ -8520,14 +8773,14 @@
 3	der	die	ART	*	*	*	*
 4	neuen	neu	ADJA	*	*	*	*
 5	Spielzeit	Spielzeit	NN	*	*	*	*
-6	zog	ziehen	VVFIN	2	2	2	2
+6	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 7	Gil	Gil	NE	*	*	*	*
 8	einen	eine	ART	*	*	*	*
 9	besonders	besonders	ADV	*	*	*	*
 10	dicken	dick	ADJA	*	*	*	*
 11	Fisch	Fisch	NN	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Land	Land	NN	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Land	Land	NN	FIG	FIG	FIG	FIG
 14	:	:	$.	*	*	*	*
 15	den	die	ART	*	*	*	*
 16	kolumbianischen	<unknown>	ADJA	*	*	*	*
@@ -8539,6 +8792,7 @@
 # tuepp_article_id = T950201.127
 # sent_id = 317
 # text = " Auch der PDS-Bürgermeister Paul Reinecke ( 60 ) , der Fördermittel und Investoren an Land gezogen hat , ärgert sich : " Sie können hier zwischen sechs Autohäusern wählen " , schimpft er , " aber etwas zu essen kriegt man nicht - lächerlich .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -8555,9 +8809,9 @@
 12	Fördermittel	Fördermittel	NN	*	*	*	*
 13	und	und	KON	*	*	*	*
 14	Investoren	Investor	NN	*	*	*	*
-15	an	an	APPR	2	2	2	2
-16	Land	Land	NN	2	2	2	2
-17	gezogen	ziehen	VVPP	2	2	2	2
+15	an	an	APPR	FIG	FIG	FIG	FIG
+16	Land	Land	NN	FIG	FIG	FIG	FIG
+17	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 18	hat	haben	VAFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	ärgert	ärgern	VVFIN	*	*	*	*
@@ -8591,6 +8845,7 @@
 # tuepp_article_id = T990507.153
 # sent_id = 318
 # text = Große Namen hat die Freie Universität ( FU ) da für ihr Kuratorium an Land gezogen - zwei Damen , die Ämter innehaben , und drei Herren , die Ämter innehatten : Jutta Limbach , Präsidentin des Bundesverfassungsgerichts ; Heidi Diggelmann , Präsidentin des Forschungsrats der Schweizer Wissenschaftsstiftung ; der frühere Bahnchef Heinz Dürr ; der frühere Gewerkschaftsboß Hermann Rappe ; der frühere Präsident der Deutschen Forschungsgemeinschaft , Wolfgang Frühwald .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Große	groß	ADJA	*	*	*	*
@@ -8606,9 +8861,9 @@
 11	für	für	APPR	*	*	*	*
 12	ihr	ihr	PPOSAT	*	*	*	*
 13	Kuratorium	Kuratorium	NN	*	*	*	*
-14	an	an	APPR	2	2	2	2
-15	Land	Land	NN	2	2	2	2
-16	gezogen	ziehen	VVPP	2	2	2	2
+14	an	an	APPR	FIG	FIG	FIG	FIG
+15	Land	Land	NN	FIG	FIG	FIG	FIG
+16	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 17	-	-	$(	*	*	*	*
 18	zwei	zwei	CARD	*	*	*	*
 19	Damen	Dame	NN	*	*	*	*
@@ -8668,6 +8923,7 @@
 # tuepp_article_id = T990116.351
 # sent_id = 319
 # text = Die so entstandene Baumafia dominierte später auch in den Großstädten : Firmen , die keine einzige Schaufel besaßen , zogen millionenschwere staatliche Bauaufträge an Land , behielten bis zu achtzig Prozent für sich und gaben den Auftrag zu Hungerlöhnen an Subunternehmer weiter , die miserable Arbeit lieferten .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -8689,12 +8945,12 @@
 17	Schaufel	Schaufel	NN	*	*	*	*
 18	besaßen	besitzen	VVFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
-20	zogen	ziehen	VVFIN	2	2	2	2
+20	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 21	millionenschwere	millionenschwer	ADJA	*	*	*	*
 22	staatliche	staatlich	ADJA	*	*	*	*
 23	Bauaufträge	Bauauftrag	NN	*	*	*	*
-24	an	an	APPR	2	2	2	2
-25	Land	Land	NN	2	2	2	2
+24	an	an	APPR	FIG	FIG	FIG	FIG
+25	Land	Land	NN	FIG	FIG	FIG	FIG
 26	,	,	$,	*	*	*	*
 27	behielten	behalten	VVFIN	*	*	*	*
 28	bis	bis	KON	*	*	*	*
@@ -8722,6 +8978,7 @@
 # tuepp_article_id = T990414.170
 # sent_id = 320
 # text = Genau dieses Wohlwollen benötigt Chavez allerdings auch , denn selbst wenn es ihm wie geplant gelingen sollte , das Defizit auf fünf Milliarden US-Dollar zu drücken , ist er darauf angewiesen , Kredite zur Dekkung dieses Finanzlochs an Land zu ziehen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Genau	genau	ADJD	*	*	*	*
@@ -8761,15 +9018,16 @@
 35	Dekkung	<unknown>	NN	*	*	*	*
 36	dieses	dies	PDAT	*	*	*	*
 37	Finanzlochs	Finanzloch	NN	*	*	*	*
-38	an	an	APPR	2	2	2	2
-39	Land	Land	NN	2	2	2	2
+38	an	an	APPR	FIG	FIG	FIG	FIG
+39	Land	Land	NN	FIG	FIG	FIG	FIG
 40	zu	zu	PTKZU	*	*	*	*
-41	ziehen	ziehen	VVINF	2	2	2	2
+41	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990311.141
 # sent_id = 321
 # text = Im Falle von Henning Harnisch ist das aber nicht mehr relevant ; schließlich glaubt der Mann ja wohl nicht im Ernst , daß ich ihm die einmal an Land gezogene Kolumne wieder zurückgebe .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -8799,33 +9057,35 @@
 25	ihm	er	PPER	*	*	*	*
 26	die	die	ART	*	*	*	*
 27	einmal	einmal	ADV	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Land	Land	NN	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Land	Land	NN	FIG	FIG	FIG	FIG
 30	gezogene	gezogen	ADJA	*	*	*	*
 31	Kolumne	Kolumne	NN	*	*	*	*
-32	wieder	wieder	ADV	2	2	2	2
+32	wieder	wieder	ADV	FIG	FIG	FIG	FIG
 33	zurückgebe	zurückgeben	VVFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990315.229
 # sent_id = 322
 # text = Sie zogen einige Fördermittel der Europäischen Union an Land .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
-2	zogen	ziehen	VVFIN	2	2	2	2
+2	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	einige	einige	PIAT	*	*	*	*
 4	Fördermittel	Fördermittel	NN	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	Europäischen	europäisch	ADJA	*	*	*	*
 7	Union	Union	NN	*	*	*	*
-8	an	an	APPR	2	2	2	2
-9	Land	Land	NN	2	2	2	2
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Land	Land	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990201.201
 # sent_id = 323
 # text = Doch Konrad , der scheinbar ratlose TeBe-Boß , hatte seine Netze längst nach einem weit größeren Fisch als Aracic ausgeworfen und ihn auch fristgerecht zum Transferschluß am 15. Januar an Land gezogen .
+# vid_types = an land ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Doch	doch	KON	*	*	*	*
@@ -8858,8 +9118,8 @@
 28	15	@card@	CARD	*	*	*	*
 29	.	.	$.	*	*	*	*
 30	Januar	Januar	NN	*	*	*	*
-31	an	an	APPR	2	2	2	2
-32	Land	Land	NN	2	2	2	2
-33	gezogen	ziehen	VVPP	2	2	2	2
+31	an	an	APPR	FIG	FIG	FIG	FIG
+32	Land	Land	NN	FIG	FIG	FIG	FIG
+33	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 

@@ -1,6 +1,7 @@
 # tuepp_article_id = T890512.153
 # sent_id = 48
 # text = Allerdings hat das Experiment , über den Bildschirm das Evangelium zu verkünden - sei es als Varietevorstellung oder als bibelversdonnernde Predigt - , in letzter Zeit durch einige Predigeraffären erheblich an Glanz und damit auch an Geld verloren .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Allerdings	allerdings	ADV	*	*	*	*
@@ -33,19 +34,20 @@
 28	einige	einige	PIAT	*	*	*	*
 29	Predigeraffären	<unknown>	NN	*	*	*	*
 30	erheblich	erheblich	ADJD	*	*	*	*
-31	an	an	APPR	2	2	2	2
-32	Glanz	Glanz	NN	2	2	2	2
+31	an	an	APPR	FIG	FIG	FIG	FIG
+32	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 33	und	und	KON	*	*	*	*
 34	damit	damit	PAV	*	*	*	*
 35	auch	auch	ADV	*	*	*	*
 36	an	an	APPR	*	*	*	*
 37	Geld	Geld	NN	*	*	*	*
-38	verloren	verlieren	VVPP	2	2	2	2
+38	verloren	verlieren	VVPP	FIG	FIG	FIG	FIG
 39	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900531.61
 # sent_id = 49
 # text = Die großen Hoffnungsträger in der Regierung verlieren an Glanz .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -54,26 +56,28 @@
 4	in	in	APPR	*	*	*	*
 5	der	die	ART	*	*	*	*
 6	Regierung	Regierung	NN	*	*	*	*
-7	verlieren	verlieren	VVFIN	2	2	2	2
-8	an	an	APPR	2	2	2	2
-9	Glanz	Glanz	NN	2	2	2	2
+7	verlieren	verlieren	VVFIN	FIG	FIG	FIG	FIG
+8	an	an	APPR	FIG	FIG	FIG	FIG
+9	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900405.131
 # sent_id = 50
 # text = Der Brillanteffekt verliert an Glanz .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Der	die	ART	*	*	*	*
 2	Brillanteffekt	<unknown>	NN	*	*	*	*
-3	verliert	verlieren	VVFIN	2	2	2	2
-4	an	an	APPR	2	2	2	2
-5	Glanz	Glanz	NN	2	2	2	2
+3	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
+4	an	an	APPR	FIG	FIG	FIG	FIG
+5	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 6	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920131.75
 # sent_id = 51
 # text = Aber die Zweifel an der mechanistischen Landwirtschaft und Medizin wachsen , die Vision von der Unterwerfung der Natur verliert ihren Glanz , und das Klima ändert sich - im wörtlichen wie im übertragenen Sinne .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Aber	aber	KON	*	*	*	*
@@ -94,9 +98,9 @@
 16	Unterwerfung	Unterwerfung	NN	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	Natur	Natur	NN	*	*	*	*
-19	verliert	verlieren	VVFIN	2	2	2	2
+19	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
 20	ihren	ihr	PPOSAT	*	*	*	*
-21	Glanz	Glanz	NN	2	2	2	2
+21	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	und	und	KON	*	*	*	*
 24	das	die	ART	*	*	*	*
@@ -115,6 +119,7 @@
 # tuepp_article_id = T880628.150
 # sent_id = 52
 # text = Der Effekt ist verblüffend : Saint-Saens Musik verliert an virtuosem Glanz und gewinnt an Substanz .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -124,10 +129,10 @@
 5	:	:	$.	*	*	*	*
 6	Saint-Saens	<unknown>	ADJA	*	*	*	*
 7	Musik	Musik	NN	*	*	*	*
-8	verliert	verlieren	VVFIN	2	2	2	2
-9	an	an	APPR	2	2	2	2
+8	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
+9	an	an	APPR	FIG	FIG	FIG	FIG
 10	virtuosem	virtuos	ADJA	*	*	*	*
-11	Glanz	Glanz	NN	2	2	2	2
+11	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 12	und	und	KON	*	*	*	*
 13	gewinnt	gewinnen	VVFIN	*	*	*	*
 14	an	an	APPR	*	*	*	*
@@ -137,15 +142,16 @@
 # tuepp_article_id = T881006.31
 # sent_id = 53
 # text = Die Tracht der Partei verliert an Glanz , doch der Apparat steht bis ins letzte Dorf
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Tracht	Tracht	NN	*	*	*	*
 3	der	die	ART	*	*	*	*
 4	Partei	Partei	NN	*	*	*	*
-5	verliert	verlieren	VVFIN	2	2	2	2
-6	an	an	APPR	2	2	2	2
-7	Glanz	Glanz	NN	2	2	2	2
+5	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
+6	an	an	APPR	FIG	FIG	FIG	FIG
+7	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	doch	doch	KON	*	*	*	*
 10	der	die	ART	*	*	*	*
@@ -159,6 +165,7 @@
 # tuepp_article_id = T881006.31
 # sent_id = 54
 # text = Wenn jetzt durch das Abtreten von Strauß die Tracht an Glanz verliert und damit als beruhigendes Element der Tradition wegfällt , weil sie keiner seiner Nachfolger mehr erfolgreich als Deckmantel benützen kann , verliert auch die CSU nach und nach an Faszination .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -170,9 +177,9 @@
 7	Strauß	Strauß	NE	*	*	*	*
 8	die	die	ART	*	*	*	*
 9	Tracht	Tracht	NN	*	*	*	*
-10	an	an	APPR	2	2	2	2
-11	Glanz	Glanz	NN	2	2	2	2
-12	verliert	verlieren	VVFIN	2	2	2	2
+10	an	an	APPR	FIG	FIG	FIG	FIG
+11	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
+12	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
 13	und	und	KON	*	*	*	*
 14	damit	damit	PAV	*	*	*	*
 15	als	als	KOKOM	*	*	*	*
@@ -208,6 +215,7 @@
 # tuepp_article_id = T930324.49
 # sent_id = 55
 # text = Doch heute ist alles ganz anders : Der Rohstoff hat längst an Glanz und Anziehungskraft verloren .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Doch	doch	KON	*	*	*	*
@@ -221,16 +229,17 @@
 9	Rohstoff	Rohstoff	NN	*	*	*	*
 10	hat	haben	VAFIN	*	*	*	*
 11	längst	längst	ADV	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Glanz	Glanz	NN	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 14	und	und	KON	*	*	*	*
 15	Anziehungskraft	Anziehungskraft	NN	*	*	*	*
-16	verloren	verlieren	VVPP	2	2	2	2
+16	verloren	verlieren	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960219.170
 # sent_id = 56
 # text = Dieses Leid- Motiv ist tatsächlich das Leitmotiv des Films , der die Wandlung des englischen Simplicissimus vom eitlen , aber nicht völlig an den Glanz verlorenen Gecken zum Heiler und Aufklärer beschreibt .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Dieses	dies	PDAT	*	*	*	*
@@ -255,10 +264,10 @@
 20	aber	aber	ADV	*	*	*	*
 21	nicht	nicht	PTKNEG	*	*	*	*
 22	völlig	völlig	ADJD	*	*	*	*
-23	an	an	APPR	2	2	2	2
+23	an	an	APPR	FIG	FIG	FIG	FIG
 24	den	die	ART	*	*	*	*
-25	Glanz	Glanz	NN	2	2	2	2
-26	verlorenen	verloren	ADJA	2	2	2	2
+25	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
+26	verlorenen	verloren	ADJA	FIG	FIG	FIG	FIG
 27	Gecken	Geck	NN	*	*	*	*
 28	zum	zu	APPRART	*	*	*	*
 29	Heiler	Heile	NN	*	*	*	*
@@ -270,6 +279,7 @@
 # tuepp_article_id = T980415.221
 # sent_id = 57
 # text = Doch läßt sich das prominente BBC-Programm , das dort seit 34 Jahren läuft und läuft und läuft , auf deutsche Verhältnisse übertragen , ohne daß es dabei an Glanz verliert ?
+# vid_types = an glanz verlieren
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Doch	doch	ADV	*	*	*	*
@@ -299,14 +309,15 @@
 25	daß	dass	KOUS	*	*	*	*
 26	es	es	PPER	*	*	*	*
 27	dabei	dabei	PAV	*	*	*	*
-28	an	an	APPR	2	2	2	2
-29	Glanz	Glanz	NN	2	2	2	2
-30	verliert	verlieren	VVFIN	2	2	2	2
+28	an	an	APPR	FIG	FIG	FIG	FIG
+29	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
+30	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
 31	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T981221.79
 # sent_id = 58
 # text = Das von Luschkow reklamierte " Wirtschaftswunder " in Moskau dürfte bald an Glanz verlieren .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -320,14 +331,15 @@
 9	Moskau	Moskau	NE	*	*	*	*
 10	dürfte	dürfen	VMFIN	*	*	*	*
 11	bald	bald	ADV	*	*	*	*
-12	an	an	APPR	2	2	2	2
-13	Glanz	Glanz	NN	2	2	2	2
-14	verlieren	verlieren	VVINF	2	2	2	2
+12	an	an	APPR	FIG	FIG	FIG	FIG
+13	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
+14	verlieren	verlieren	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971004.302
 # sent_id = 59
 # text = Im selben Moment wurde Azraa'eels Körper übersät mit den Augen aller lebenden Wesen , und wenn ein Wesen starb , verloren die Augen des toten Wesens ihren Glanz und fielen von Azraa'eels Körper ab , und die Augen eines neugeborenen Wesens erschienen an ihrer Stelle .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Im	in	APPRART	*	*	*	*
@@ -350,14 +362,14 @@
 18	Wesen	Wesen	NN	*	*	*	*
 19	starb	sterben	VVFIN	*	*	*	*
 20	,	,	$,	*	*	*	*
-21	verloren	verlieren	VVFIN	1	4	2	3
+21	verloren	verlieren	VVFIN	LIT	BOTH	FIG	UND
 22	die	die	ART	*	*	*	*
 23	Augen	Auge	NN	*	*	*	*
 24	des	die	ART	*	*	*	*
 25	toten	tot	ADJA	*	*	*	*
 26	Wesens	Wesen	NN	*	*	*	*
 27	ihren	ihr	PPOSAT	*	*	*	*
-28	Glanz	Glanz	NN	1	4	2	3
+28	Glanz	Glanz	NN	LIT	BOTH	FIG	UND
 29	und	und	KON	*	*	*	*
 30	fielen	fallen	VVFIN	*	*	*	*
 31	von	von	APPR	*	*	*	*
@@ -380,6 +392,7 @@
 # tuepp_article_id = T940219.317
 # sent_id = 60
 # text = Diese traute Idylle von Politik und Planung verliert jedoch schnell an Glanz , wendet man sich den Innereien des Gutachtens und seinen voraussichtlichen Konsequenzen zu .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	dies	PDAT	*	*	*	*
@@ -389,11 +402,11 @@
 5	Politik	Politik	NN	*	*	*	*
 6	und	und	KON	*	*	*	*
 7	Planung	Planung	NN	*	*	*	*
-8	verliert	verlieren	VVFIN	2	2	2	2
+8	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
 9	jedoch	jedoch	ADV	*	*	*	*
 10	schnell	schnell	ADJD	*	*	*	*
-11	an	an	APPR	2	2	2	2
-12	Glanz	Glanz	NN	2	2	2	2
+11	an	an	APPR	FIG	FIG	FIG	FIG
+12	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	wendet	wenden	VVFIN	*	*	*	*
 15	man	man	PIS	*	*	*	*
@@ -412,6 +425,7 @@
 # tuepp_article_id = T950505.245
 # sent_id = 61
 # text = Jeder der drei Tänzer darf einmal mit der einen Tänzerin im Duett sich als Macho zeigen , während eine Million Papierschnipsel auf dem Boden liegen - das ist ein bißchen glatt , zu klischeehaft auch , und die Bewegungen gehen zu sehr ins Sportive und verlieren an Glanz .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Jeder	jede	PIS	*	*	*	*
@@ -459,14 +473,15 @@
 43	ins	in	APPRART	*	*	*	*
 44	Sportive	Sportive	NN	*	*	*	*
 45	und	und	KON	*	*	*	*
-46	verlieren	verlieren	VVFIN	2	2	2	2
-47	an	an	APPR	2	2	2	2
-48	Glanz	Glanz	NN	2	2	2	2
+46	verlieren	verlieren	VVFIN	FIG	FIG	FIG	FIG
+47	an	an	APPR	FIG	FIG	FIG	FIG
+48	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
 49	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951223.340
 # sent_id = 62
 # text = Wenn uns unsere Erinnerung nicht täuscht , war dies auch genau der Zeitpunkt , an dem der Heilige Abend insgesamt an Glanz verlor .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -489,14 +504,15 @@
 18	Heilige	Heilige	NN	*	*	*	*
 19	Abend	Abend	NN	*	*	*	*
 20	insgesamt	insgesamt	ADV	*	*	*	*
-21	an	an	APPR	2	2	2	2
-22	Glanz	Glanz	NN	2	2	2	2
-23	verlor	verlieren	VVFIN	2	2	2	2
+21	an	an	APPR	FIG	FIG	FIG	FIG
+22	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
+23	verlor	verlieren	VVFIN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990409.146
 # sent_id = 63
 # text = Der Auftritt der Münchner am Mittwoch abend in Kiew zeigte nämlich kraß , daß alles , was in der Bundesliga so überirdisch wirkt , in Europas Spitzenregionen rapide an Glanz verliert .
+# vid_types = an glanz verlieren
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -527,8 +543,8 @@
 26	Europas	Europa	NE	*	*	*	*
 27	Spitzenregionen	<unknown>	NN	*	*	*	*
 28	rapide	rapide	ADJD	*	*	*	*
-29	an	an	APPR	2	2	2	2
-30	Glanz	Glanz	NN	2	2	2	2
-31	verliert	verlieren	VVFIN	2	2	2	2
+29	an	an	APPR	FIG	FIG	FIG	FIG
+30	Glanz	Glanz	NN	FIG	FIG	FIG	FIG
+31	verliert	verlieren	VVFIN	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 

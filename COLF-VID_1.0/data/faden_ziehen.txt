@@ -1,6 +1,7 @@
 # tuepp_article_id = T890503.80
 # sent_id = 2801
 # text = Daß die Militärs kurz vor der Wahl kräftig destabilisieren und ihren nächsten Putsch vorbereiten wollen , sei unwahrscheinlich ; die Fäden an der Inflationsspirale haben andere gezogen , schreibt die liberale Wochenzeitschrift ' Periodista ` : " die Weizenexporteure , die ausländischen Banken und die großen Agroproduzenten " .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -23,13 +24,13 @@
 18	unwahrscheinlich	unwahrscheinlich	ADJD	*	*	*	*
 19	;	;	$.	*	*	*	*
 20	die	die	ART	*	*	*	*
-21	Fäden	Faden	NN	2	2	2	2
+21	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 22	an	an	APPR	*	*	*	*
 23	der	die	ART	*	*	*	*
 24	Inflationsspirale	Inflationsspirale	NN	*	*	*	*
 25	haben	haben	VAFIN	*	*	*	*
 26	andere	andere	PIS	*	*	*	*
-27	gezogen	ziehen	VVPP	2	2	2	2
+27	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 28	,	,	$,	*	*	*	*
 29	schreibt	schreiben	VVFIN	*	*	*	*
 30	die	die	ART	*	*	*	*
@@ -56,17 +57,18 @@
 # tuepp_article_id = T890506.26
 # sent_id = 2802
 # text = Im März zog gar Hans-Jürgen Wischnewski 1988 die Fäden bei der Herstellung eines Waffenstillstands zwischen Regierung und Contra , und die Sandinisten machten immer mehr Zugeständnisse an die westeuropäischen Demokratievorstellungen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
 2	März	März	NN	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	gar	gar	ADV	*	*	*	*
 5	Hans-Jürgen	<unknown>	NE	*	*	*	*
 6	Wischnewski	<unknown>	NE	*	*	*	*
 7	1988	@card@	CARD	*	*	*	*
 8	die	die	ART	*	*	*	*
-9	Fäden	Faden	NN	2	2	2	2
+9	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 10	bei	bei	APPR	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Herstellung	Herstellung	NN	*	*	*	*
@@ -93,6 +95,7 @@
 # tuepp_article_id = T890623.152
 # sent_id = 2803
 # text = Hauptfigur bei diesen Telefonverhandlungen : ein gewisser Carlos Ponze , der die Bremer Fäden vom Brüsseler Sheraton-Hotel aus zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hauptfigur	Hauptfigur	NN	*	*	*	*
@@ -108,17 +111,18 @@
 11	der	die	PRELS	*	*	*	*
 12	die	die	ART	*	*	*	*
 13	Bremer	Bremer	NN	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 15	vom	von	APPRART	*	*	*	*
 16	Brüsseler	Brüsseler	ADJA	*	*	*	*
 17	Sheraton-Hotel	Sheraton-Hotel	NN	*	*	*	*
 18	aus	aus	APZR	*	*	*	*
-19	zog	ziehen	VVFIN	2	2	2	2
+19	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891002.53
 # sent_id = 2804
 # text = " Coyote spricht heute bitter über seine Kriegserfahrungen und über die Reagan-Regierung , die die Fäden zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -136,13 +140,14 @@
 13	,	,	$,	*	*	*	*
 14	die	die	PRELS	*	*	*	*
 15	die	die	ART	*	*	*	*
-16	Fäden	Faden	NN	2	2	2	2
-17	zog	ziehen	VVFIN	2	2	2	2
+16	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+17	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891023.96
 # sent_id = 2805
 # text = Der dynamische Reuter war der Motor im Spiel , Hansi Dorfner versuchte , diesem seinen Stempel aufzudrücken , Augenthaler zog geschickt die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -164,15 +169,16 @@
 17	aufzudrücken	aufdrücken	VVIZU	*	*	*	*
 18	,	,	$,	*	*	*	*
 19	Augenthaler	Augenthaler	NE	*	*	*	*
-20	zog	ziehen	VVFIN	2	2	2	2
+20	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 21	geschickt	geschickt	ADJD	*	*	*	*
 22	die	die	ART	*	*	*	*
-23	Fäden	Faden	NN	2	2	2	2
+23	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890919.109
 # sent_id = 2806
 # text = Seit das " Bärchen aus Kiew " und das " Füchslein aus Minsk " , wie Alexander Zavarow und Sergej Aleinikow von der italienischen Presse liebevoll genannt werden , bei Juve die Fäden ziehen , geht es aufwärts .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
@@ -207,8 +213,8 @@
 30	bei	bei	APPR	*	*	*	*
 31	Juve	<unknown>	NN	*	*	*	*
 32	die	die	ART	*	*	*	*
-33	Fäden	Faden	NN	2	2	2	2
-34	ziehen	ziehen	VVINF	2	2	2	2
+33	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+34	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 35	,	,	$,	*	*	*	*
 36	geht	gehen	VVFIN	*	*	*	*
 37	es	es	PPER	*	*	*	*
@@ -218,11 +224,12 @@
 # tuepp_article_id = T890915.143
 # sent_id = 2807
 # text = Fäden werden gezogen , zwischen der Reislamisierung in Aserbaidschan , den neuen iranisch-sowjetischen Kontakten , der Bestechungsaffäre in Usbekistan , deren Spuren auch ins Moskauer Zentralkomitee führten , und den Pogromen gegen die Meschketen in Ferghana .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-1	Fäden	Faden	NN	2	2	2	2
+1	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 2	werden	werden	VAFIN	*	*	*	*
-3	gezogen	ziehen	VVPP	2	2	2	2
+3	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 4	,	,	$,	*	*	*	*
 5	zwischen	zwischen	APPR	*	*	*	*
 6	der	die	ART	*	*	*	*
@@ -261,10 +268,11 @@
 # tuepp_article_id = T890125.5
 # sent_id = 2808
 # text = Die Fäden in diesem Markt werden von großen Spezialagenturen gezogen , deren Namen in der Öffentlichkeit kaum bekannt sind .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
-2	Fäden	Faden	NN	2	2	2	2
+2	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 3	in	in	APPR	*	*	*	*
 4	diesem	dies	PDAT	*	*	*	*
 5	Markt	Markt	NN	*	*	*	*
@@ -272,7 +280,7 @@
 7	von	von	APPR	*	*	*	*
 8	großen	groß	ADJA	*	*	*	*
 9	Spezialagenturen	Spezialagentur	NN	*	*	*	*
-10	gezogen	ziehen	VVPP	2	2	2	2
+10	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	deren	die	PRELAT	*	*	*	*
 13	Namen	Name	NN	*	*	*	*
@@ -287,6 +295,7 @@
 # tuepp_article_id = T890106.168
 # sent_id = 2809
 # text = Daß der Rechtsextremist und ehemalige SS-Kombattent , der in den siebziger Jahren mit seiner Loge einen " Plan zur demokratischen Erneuerung " mit " eindeutigem Staatsstreichcharakter " ( so die Präsidentin der P2 - Kommission , Tina Anselmi ) verfolgt hat , sich nun wieder in alter Munterkeit in Italien tummeln und aufs neue seine Fäden ziehen kann , ist nicht verwunderlich .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -344,8 +353,8 @@
 53	aufs	aufs	APPRART	*	*	*	*
 54	neue	neu	ADJA	*	*	*	*
 55	seine	sein	PPOSAT	*	*	*	*
-56	Fäden	Faden	NN	2	2	2	2
-57	ziehen	ziehen	VVINF	2	2	2	2
+56	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+57	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 58	kann	können	VMFIN	*	*	*	*
 59	,	,	$,	*	*	*	*
 60	ist	sein	VAFIN	*	*	*	*
@@ -356,6 +365,7 @@
 # tuepp_article_id = T890401.43
 # sent_id = 2810
 # text = Noch immer ist die " Lehrprophetin Schwester Gabriele " ( " Ich bin das absolute Gesetz " ) das Aushängeschild der Sekte , doch im Hintergrund ziehen Wirtschaftswissenschaftler und Kaufleute die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Noch	noch	ADV	*	*	*	*
@@ -384,17 +394,18 @@
 24	doch	doch	ADV	*	*	*	*
 25	im	in	APPRART	*	*	*	*
 26	Hintergrund	Hintergrund	NN	*	*	*	*
-27	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+27	ziehen	zeihen|ziehen	VVFIN	FIG	FIG	FIG	FIG
 28	Wirtschaftswissenschaftler	Wirtschaftswissenschaftler	NN	*	*	*	*
 29	und	und	KON	*	*	*	*
 30	Kaufleute	Kaufleute	NN	*	*	*	*
 31	die	die	ART	*	*	*	*
-32	Fäden	Faden	NN	2	2	2	2
+32	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890403.108
 # sent_id = 2811
 # text = Getreu dem antimaterialistischen Grundschema des bürgerlichen Intellektuellen glaubt er offenbar , Kultur entstehe nicht auf der Basis gesellschafltich-materieller Bedingungen , sondern als Produkt von Manipulation , von Fäden ziehenden Bewußtseinstechnikern .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Noch	noch	ADV	*	*	*	*
@@ -423,25 +434,26 @@
 24	doch	doch	ADV	*	*	*	*
 25	im	in	APPRART	*	*	*	*
 26	Hintergrund	Hintergrund	NN	*	*	*	*
-27	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+27	ziehen	zeihen|ziehen	VVFIN	FIG	FIG	FIG	FIG
 28	Wirtschaftswissenschaftler	Wirtschaftswissenschaftler	NN	*	*	*	*
 29	und	und	KON	*	*	*	*
 30	Kaufleute	Kaufleute	NN	*	*	*	*
 31	die	die	ART	*	*	*	*
-32	Fäden	Faden	NN	2	2	2	2
+32	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890408.40
 # sent_id = 2812
 # text = Im Hintergrund die Fäden zu ziehen , hat Klaus Kinkel nie gestört .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
 2	Hintergrund	Hintergrund	NN	*	*	*	*
 3	die	die	ART	*	*	*	*
-4	Fäden	Faden	NN	2	2	2	2
+4	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 5	zu	zu	PTKZU	*	*	*	*
-6	ziehen	ziehen	VVINF	2	2	2	2
+6	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	hat	haben	VAFIN	*	*	*	*
 9	Klaus	Klaus	NE	*	*	*	*
@@ -453,12 +465,13 @@
 # tuepp_article_id = T891211.134
 # sent_id = 2813
 # text = Auf dem Rasen zog jedoch noch bis zur Halbzeit der Tschechoslowake Petr Rada die Fäden für das gefällige Angriffsspiel der Düsseldorfer .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
 2	dem	die	ART	*	*	*	*
 3	Rasen	Rasen	NN	*	*	*	*
-4	zog	ziehen	VVFIN	2	2	2	2
+4	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 5	jedoch	jedoch	ADV	*	*	*	*
 6	noch	noch	ADV	*	*	*	*
 7	bis	bis	APPR	*	*	*	*
@@ -469,7 +482,7 @@
 12	Petr	Petr	NE	*	*	*	*
 13	Rada	Rada	NE	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 16	für	für	APPR	*	*	*	*
 17	das	die	ART	*	*	*	*
 18	gefällige	gefällig	ADJA	*	*	*	*
@@ -481,15 +494,16 @@
 # tuepp_article_id = T890805.80
 # sent_id = 2814
 # text = A " - Institute ziehen die Fäden im Hintergrund , bereiten vor , indem sie Expertisen auch schon mal detektivistisch erarbeiten , warnen im Zweifel , sind aber auch genauso um strategischen Rat gefragt , wenn eine Unternehmensleitung Abwehrschlachten schlagen muß gegen eine " feindliche Übernahme " durch einen Dritten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	A	A	NN	*	*	*	*
 2	"	"	$(	*	*	*	*
 3	-	-	$(	*	*	*	*
 4	Institute	Institut	NN	*	*	*	*
-5	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+5	ziehen	zeihen|ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
-7	Fäden	Faden	NN	2	2	2	2
+7	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 8	im	in	APPRART	*	*	*	*
 9	Hintergrund	Hintergrund	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
@@ -538,6 +552,7 @@
 # tuepp_article_id = T890225.63
 # sent_id = 2815
 # text = Die christdemokratischen Parteifürsten und Sozialistenchef Craxi waren noch dabei , hinter den Kulissen diskret die Fäden für einen möglichst tiefen , aber gleichzeitig eleganten Sturz des von ihnen ungeliebten DC - Chefs Ciriaco De Mita zu ziehen , da platzte ' L'Unita ` mit der Schlagzeile heraus : " Hat sich De Mita an den Geldern für Erdbebenopfer bereichert ?
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -555,7 +570,7 @@
 13	Kulissen	Kulisse	NN	*	*	*	*
 14	diskret	diskret	ADJD	*	*	*	*
 15	die	die	ART	*	*	*	*
-16	Fäden	Faden	NN	2	2	2	2
+16	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 17	für	für	APPR	*	*	*	*
 18	einen	eine	ART	*	*	*	*
 19	möglichst	möglichst	ADV	*	*	*	*
@@ -576,7 +591,7 @@
 34	De	De	NE	*	*	*	*
 35	Mita	<unknown>	NN	*	*	*	*
 36	zu	zu	PTKZU	*	*	*	*
-37	ziehen	ziehen	VVINF	2	2	2	2
+37	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 38	,	,	$,	*	*	*	*
 39	da	da	ADV	*	*	*	*
 40	platzte	platzen	VVFIN	*	*	*	*
@@ -604,6 +619,7 @@
 # tuepp_article_id = T910603.188
 # sent_id = 2816
 # text = In den Fünfzigern und Sechzigern wurde in Griechenland die Vereinigte Demokratische Linke ( EDA ) aufgebaut , die im Grunde die legale Organisation der damals illegalen Kommunistischen Partei darstellte , deren Führung aus dem sozialistischen Ausland die Fäden zog , also wiederum vollkommen undemokratisch Beschlüsse faßte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -643,8 +659,8 @@
 35	sozialistischen	sozialistisch	ADJA	*	*	*	*
 36	Ausland	Ausland	NN	*	*	*	*
 37	die	die	ART	*	*	*	*
-38	Fäden	Faden	NN	2	2	2	2
-39	zog	ziehen	VVFIN	2	2	2	2
+38	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+39	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 40	,	,	$,	*	*	*	*
 41	also	also	ADV	*	*	*	*
 42	wiederum	wiederum	ADV	*	*	*	*
@@ -657,6 +673,7 @@
 # tuepp_article_id = T910119.112
 # sent_id = 2817
 # text = Während seiner gesamten politischen Laufbahn hielt er sich stets im Hintergrund : als Mann , der im Apparat die Fäden zog , und als beamteter Aufpasser für seine Vorleute - erst Genscher , dann Engelhard .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	APPR	*	*	*	*
@@ -678,8 +695,8 @@
 17	im	in	APPRART	*	*	*	*
 18	Apparat	Apparat	NN	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Fäden	Faden	NN	2	2	2	2
-21	zog	ziehen	VVFIN	2	2	2	2
+20	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+21	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	und	und	KON	*	*	*	*
 24	als	als	KOKOM	*	*	*	*
@@ -699,6 +716,7 @@
 # tuepp_article_id = T910112.54
 # sent_id = 2818
 # text = Die Bordellbrüder Beker , denen die Staatsanwaltschaft Steuerhinterziehung im großen Stil , die Bildung einer kriminellen Vereinigung und die Organisation illegaler Glücksspiele vorwirft , zogen in den 70er und 80er Jahren in der Frankfurter Unterwelt mit die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -725,7 +743,7 @@
 22	Glücksspiele	Glücksspiel	NN	*	*	*	*
 23	vorwirft	vorwerfen	VVFIN	*	*	*	*
 24	,	,	$,	*	*	*	*
-25	zogen	ziehen	VVFIN	2	2	2	2
+25	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 26	in	in	APPR	*	*	*	*
 27	den	die	ART	*	*	*	*
 28	70er	70er	ADJA	*	*	*	*
@@ -738,12 +756,13 @@
 35	Unterwelt	Unterwelt	NN	*	*	*	*
 36	mit	mit	APPR	*	*	*	*
 37	die	die	ART	*	*	*	*
-38	Fäden	Faden	NN	2	2	2	2
+38	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 39	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910118.213
 # sent_id = 2819
 # text = Wahrhaft spannend gestaltete sich die Inspektion aber erst , als einer von uns beiden auf die Idee kam , einzelne Fäden nach unten zu ziehen um sie dann plötzlich loszulassen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Wahrhaft	wahrhaft	ADJD	*	*	*	*
@@ -766,11 +785,11 @@
 18	kam	kommen	VVFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	einzelne	einzeln	ADJA	*	*	*	*
-21	Fäden	Faden	NN	1	2	1	1
+21	Fäden	Faden	NN	LIT	FIG	LIT	LIT
 22	nach	nach	APPR	*	*	*	*
 23	unten	unten	ADV	*	*	*	*
 24	zu	zu	PTKZU	*	*	*	*
-25	ziehen	ziehen	VVINF	1	2	1	1
+25	ziehen	ziehen	VVINF	LIT	FIG	LIT	LIT
 26	um	um	APPR	*	*	*	*
 27	sie	sie	PPER	*	*	*	*
 28	dann	dann	ADV	*	*	*	*
@@ -781,6 +800,7 @@
 # tuepp_article_id = T910416.107
 # sent_id = 2820
 # text = Daß auch die Mannschaft am vergangenen Sonnabend beim Jahrhundertdebakel gegen den HSV ( 0:6 ) gegen den Trainer spielte , ist Beleg dafür , daß der mit Werbe- und Anlageverträgen handelnde Gerster , dem per Vereinsbeschluß die Einmischung in die Belange der Lizenspieler- Abteilung untersagt worden war , seit Möllers Wechsel zur Eintracht dort die Fäden zog und das Präsidium nach Belieben unter Druck setzte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -838,8 +858,8 @@
 53	Eintracht	Eintracht	NN	*	*	*	*
 54	dort	dort	ADV	*	*	*	*
 55	die	die	ART	*	*	*	*
-56	Fäden	Faden	NN	2	2	2	2
-57	zog	ziehen	VVFIN	2	2	2	2
+56	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+57	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 58	und	und	KON	*	*	*	*
 59	das	die	ART	*	*	*	*
 60	Präsidium	Präsidium	NN	*	*	*	*
@@ -853,11 +873,12 @@
 # tuepp_article_id = T910413.201
 # sent_id = 2821
 # text = Denn die Fäden für das Jugendwerk würden vor allem von den zuständigen Ministerien , in diesem Fall das Bundesaußenministerium und das Bundesministerium für Jugend , Frauen und Familie , gezogen - und die haben bereits einen Vertragsentwurf ausgearbeitet .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
 2	die	die	ART	*	*	*	*
-3	Fäden	Faden	NN	2	2	2	2
+3	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 4	für	für	APPR	*	*	*	*
 5	das	die	ART	*	*	*	*
 6	Jugendwerk	Jugendwerk	NN	*	*	*	*
@@ -884,7 +905,7 @@
 27	und	und	KON	*	*	*	*
 28	Familie	Familie	NN	*	*	*	*
 29	,	,	$,	*	*	*	*
-30	gezogen	ziehen	VVPP	2	2	2	2
+30	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 31	-	-	$(	*	*	*	*
 32	und	und	KON	*	*	*	*
 33	die	die	PDS	*	*	*	*
@@ -898,6 +919,7 @@
 # tuepp_article_id = T910702.66
 # sent_id = 2822
 # text = Deng war viel zu klug , als daß er jemals selbst die Parteiführung übernommen hätte ; er zog es vielmehr vor , im Hintergrund aus einer Position der Macht die Fäden zu ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Deng	<unknown>	ADJD	*	*	*	*
@@ -930,14 +952,15 @@
 28	der	die	ART	*	*	*	*
 29	Macht	Macht	NN	*	*	*	*
 30	die	die	ART	*	*	*	*
-31	Fäden	Faden	NN	2	2	2	2
+31	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 32	zu	zu	PTKZU	*	*	*	*
-33	ziehen	ziehen	VVINF	2	2	2	2
+33	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910311.42
 # sent_id = 2823
 # text = Der designierte Ministerpräsident Hans Eichel ( SPD ) und Joschka Fischer ( Grüne ) hatten nach Abschluß der sechswöchigen Verhandlungen zur Koalitionspressekonferenz nach Wiesbaden geladen - und der kommende stellvertretende Ministerpräsident Fischer darf wunschgemäß in Hessen und in Bonn die politischen Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -981,13 +1004,14 @@
 39	Bonn	Bonn	NE	*	*	*	*
 40	die	die	ART	*	*	*	*
 41	politischen	politisch	ADJA	*	*	*	*
-42	Fäden	Faden	NN	2	2	2	2
-43	ziehen	ziehen	VVINF	2	2	2	2
+42	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+43	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 44	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910309.71
 # sent_id = 2824
 # text = Am ehesten überleben diejenigen , die am meisten Fäden ziehen können .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Am	am	PTKA	*	*	*	*
@@ -998,14 +1022,15 @@
 6	die	die	PRELS	*	*	*	*
 7	am	an	APPRART	*	*	*	*
 8	meisten	meist	PIAT	*	*	*	*
-9	Fäden	Faden	NN	2	2	2	2
-10	ziehen	ziehen	VVINF	2	2	2	2
+9	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+10	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 11	können	können	VMINF	*	*	*	*
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911104.219
 # sent_id = 2825
 # text = Der Pferdehändler und Willi Lemke Vor-Vorgänger Hansi Wolff zog als Geschäftsführer von 1945 bis 1975 die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1016,7 +1041,7 @@
 6	Vor-Vorgänger	Vor-Vorgänger	NN	*	*	*	*
 7	Hansi	Hansi	NE	*	*	*	*
 8	Wolff	Wolff	NE	*	*	*	*
-9	zog	ziehen	VVFIN	2	2	2	2
+9	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 10	als	als	KOKOM	*	*	*	*
 11	Geschäftsführer	Geschäftsführer	NN	*	*	*	*
 12	von	von	APPR	*	*	*	*
@@ -1024,12 +1049,13 @@
 14	bis	bis	KON	*	*	*	*
 15	1975	@card@	CARD	*	*	*	*
 16	die	die	ART	*	*	*	*
-17	Fäden	Faden	NN	2	2	2	2
+17	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911111.29
 # sent_id = 2826
 # text = Da habe " der Himmel die Fäden " gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -1038,14 +1064,15 @@
 4	der	die	ART	*	*	*	*
 5	Himmel	Himmel	NN	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Fäden	Faden	NN	2	2	2	2
+7	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 8	"	"	$(	*	*	*	*
-9	gezogen	ziehen	VVPP	2	2	2	2
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910222.273
 # sent_id = 2827
 # text = Statt in verstaubten Bibliotheken ein Idyll der Harmonie zu pinseln , tummelte Marlowe sich lieber in den dunkeln Gassen Englands , gab sich atheistisch und zog als Spion staatspolitische Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Statt	statt	APPR	*	*	*	*
@@ -1073,16 +1100,17 @@
 23	sich	sich	PRF	*	*	*	*
 24	atheistisch	atheistisch	ADJD	*	*	*	*
 25	und	und	KON	*	*	*	*
-26	zog	ziehen	VVFIN	2	2	2	2
+26	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 27	als	als	KOKOM	*	*	*	*
 28	Spion	Spion	NN	*	*	*	*
 29	staatspolitische	staatspolitisch	ADJA	*	*	*	*
-30	Fäden	Faden	NN	2	2	2	2
+30	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910214.98
 # sent_id = 2828
 # text = Ob nun von der " Wall Street " aus global die Fäden gezogen wurden oder die internationale zionistische Konspiration ihr dunkles Spiel trieb oder beides auf einmal - stets war der Verschwörungsmythos zur Hand , wenn es galt , Verantwortung für die Krise " nach außen " abzuwälzen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ob	ob	KOUS	*	*	*	*
@@ -1096,8 +1124,8 @@
 9	aus	aus	APPR	*	*	*	*
 10	global	global	ADJD	*	*	*	*
 11	die	die	ART	*	*	*	*
-12	Fäden	Faden	NN	2	2	2	2
-13	gezogen	ziehen	VVPP	2	2	2	2
+12	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 14	wurden	werden	VAFIN	*	*	*	*
 15	oder	oder	KON	*	*	*	*
 16	die	die	ART	*	*	*	*
@@ -1138,6 +1166,7 @@
 # tuepp_article_id = T901012.103
 # sent_id = 2829
 # text = Seine erste Begegnung mit Johannes R. Becher , dem alten Genossen , der jetzt Präsident des Kulturbundes war und in der stacheldrahtbewehrten Funktionärssiedlung am Rande Pankows in unmittelbarer Nähe der SED-Gewaltigen Ulbricht , Pieck , Grotewohl und Dahlem residierte , zeigte dem parteitreuen Emigranten und Spätheimkehrer , daß die wichtigsten Plätze schon besetzt waren - von der " Gruppe Ulbricht " , die von Moskau aus die Fäden gezogen hatte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seine	sein	PPOSAT	*	*	*	*
@@ -1207,14 +1236,15 @@
 65	Moskau	Moskau	NE	*	*	*	*
 66	aus	aus	APPR	*	*	*	*
 67	die	die	ART	*	*	*	*
-68	Fäden	Faden	NN	2	2	2	2
-69	gezogen	ziehen	VVPP	2	2	2	2
+68	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+69	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 70	hatte	haben	VAFIN	*	*	*	*
 71	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900427.107
 # sent_id = 2830
 # text = Der Ökonomieprofessor Francisco Mayorga , der den Wirtschaftsplan der neuen Regierung entworfen hat , wird als Zentralbankdirektor die Fäden der Wirtschafts- und Finanzpolitik ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1235,17 +1265,18 @@
 16	als	als	KOKOM	*	*	*	*
 17	Zentralbankdirektor	<unknown>	NN	*	*	*	*
 18	die	die	ART	*	*	*	*
-19	Fäden	Faden	NN	2	2	2	2
+19	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 20	der	die	ART	*	*	*	*
 21	Wirtschafts-	Wirtschafts-	TRUNC	*	*	*	*
 22	und	und	KON	*	*	*	*
 23	Finanzpolitik	Finanzpolitik	NN	*	*	*	*
-24	ziehen	ziehen	VVINF	2	2	2	2
+24	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900426.79
 # sent_id = 2831
 # text = Wir achten aber in unserem Amt darauf , daß niemand eingestellt wird , der als Stratege in der Wirtschaft oder Verwaltung bei der Entwicklung marktbeherrschender Strukturen die Fäden gezogen hat .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wir	wir	PPER	*	*	*	*
@@ -1275,14 +1306,15 @@
 25	marktbeherrschender	marktbeherrschend	ADJA	*	*	*	*
 26	Strukturen	Struktur	NN	*	*	*	*
 27	die	die	ART	*	*	*	*
-28	Fäden	Faden	NN	2	2	2	2
-29	gezogen	ziehen	VVPP	2	2	2	2
+28	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+29	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 30	hat	haben	VAFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900809.111
 # sent_id = 2832
 # text = Entsprechend auch Albert Scharf , dem Vorsitzenden der EBU ( European Broadcasting-Union ) , der mit unbestrittener Kompetenz weltweit Fäden zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Entsprechend	entsprechend	ADJD	*	*	*	*
@@ -1304,21 +1336,22 @@
 17	unbestrittener	unbestritten	ADJA	*	*	*	*
 18	Kompetenz	Kompetenz	NN	*	*	*	*
 19	weltweit	weltweit	ADJD	*	*	*	*
-20	Fäden	Faden	NN	2	2	2	2
-21	zog	ziehen	VVFIN	2	2	2	2
+20	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+21	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900312.114
 # sent_id = 2833
 # text = Mit Bärenruhe zog er die Fäden vor dem gegnerischen Kreis und nicht einmal ein brutales , von den Schiedsrichtern ungeahndetes " Nußknackerfoul " ( DDR-Fernsehkommentator ) , bei dem zwei sowjetische Abwehrspieler in einer Art Pogo-Einlage wuchtig mit den Schultern gegeneinander sprangen , während sich der arme Olsson genau zwischen ihnen befand , konnte ihn dauerhaft lahmlegen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
 2	Bärenruhe	Bärenruhe	NN	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	er	er	PPER	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Fäden	Faden	NN	2	2	2	2
+6	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 7	vor	vor	APPR	*	*	*	*
 8	dem	die	ART	*	*	*	*
 9	gegnerischen	gegnerisch	ADJA	*	*	*	*
@@ -1375,6 +1408,7 @@
 # tuepp_article_id = T900303.35
 # sent_id = 2834
 # text = Huber bat Schreiner darin , alle möglichen Fäden zu ziehen , um ihm zu helfen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Huber	Huber	NE	*	*	*	*
@@ -1384,9 +1418,9 @@
 5	,	,	$,	*	*	*	*
 6	alle	alle	PIAT	*	*	*	*
 7	möglichen	möglich	ADJA	*	*	*	*
-8	Fäden	Faden	NN	2	2	2	2
+8	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 9	zu	zu	PTKZU	*	*	*	*
-10	ziehen	ziehen	VVINF	2	2	2	2
+10	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	um	um	KOUI	*	*	*	*
 13	ihm	er	PPER	*	*	*	*
@@ -1397,6 +1431,7 @@
 # tuepp_article_id = T901108.127
 # sent_id = 2835
 # text = Der kleine Irrwisch half in der Abwehr aus , zog die Fäden im Mittelfeld , wo der hochgelobte " Maradona der Walachei " , Pavel Padea , diesmal blaß blieb , und wirkte zwischendurch auch mal als einsamer Angreifer , der sich tapfer der dreifachen Borussenübermacht aus Schulz , Gorkukowitsch und Helmer zum Kopfballduell stellte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1408,9 +1443,9 @@
 7	Abwehr	Abwehr	NN	*	*	*	*
 8	aus	aus	PTKVZ	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	zog	ziehen	VVFIN	2	2	2	2
+10	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Fäden	Faden	NN	2	2	2	2
+12	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 13	im	in	APPRART	*	*	*	*
 14	Mittelfeld	Mittelfeld	NN	*	*	*	*
 15	,	,	$,	*	*	*	*
@@ -1459,6 +1494,7 @@
 # tuepp_article_id = T901115.125
 # sent_id = 2836
 # text = Dem 28fachen tschechoslowakischen Nationalspieler gelang das , worum sich Anthony Baffoe bei der Fortuna meist vergeblich bemühte : Er zog vom rechten Flügel aus die Fäden , setzte klug seine Mitspieler ein und flankte dann und wann gefährlich .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dem	die	ART	*	*	*	*
@@ -1480,13 +1516,13 @@
 17	bemühte	bemühen	VVFIN	*	*	*	*
 18	:	:	$.	*	*	*	*
 19	Er	er	PPER	*	*	*	*
-20	zog	ziehen	VVFIN	2	2	2	2
+20	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 21	vom	von	APPRART	*	*	*	*
 22	rechten	recht|rechts	ADJA	*	*	*	*
 23	Flügel	Flügel	NN	*	*	*	*
 24	aus	aus	APPR	*	*	*	*
 25	die	die	ART	*	*	*	*
-26	Fäden	Faden	NN	2	2	2	2
+26	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 27	,	,	$,	*	*	*	*
 28	setzte	setzen	VVFIN	*	*	*	*
 29	klug	klug	ADJD	*	*	*	*
@@ -1504,6 +1540,7 @@
 # tuepp_article_id = T901119.142
 # sent_id = 2837
 # text = Heute weiß man , daß dieselben Industriellen weiterhin ungebrochen an den Fäden der Macht ziehen konnten und daß die Siegermächte die Entnazifizierungsprozesse eher halbherzig durchführten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Heute	heute	ADV	*	*	*	*
@@ -1517,10 +1554,10 @@
 9	ungebrochen	ungebrochen	ADJD	*	*	*	*
 10	an	an	APPR	*	*	*	*
 11	den	die	ART	*	*	*	*
-12	Fäden	Faden	NN	2	2	2	2
+12	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 13	der	die	ART	*	*	*	*
 14	Macht	Macht	NN	*	*	*	*
-15	ziehen	ziehen	VVINF	2	2	2	2
+15	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 16	konnten	können	VMFIN	*	*	*	*
 17	und	und	KON	*	*	*	*
 18	daß	dass	KOUS	*	*	*	*
@@ -1536,6 +1573,7 @@
 # tuepp_article_id = T920518.62
 # sent_id = 2838
 # text = Am Ende würden nicht die Ärmsten ihre Geschicke selbst in die Hand nehmen , sondern wieder die Reichen von außen die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -1559,13 +1597,14 @@
 19	von	von	APPR	*	*	*	*
 20	außen	außen	ADV	*	*	*	*
 21	die	die	ART	*	*	*	*
-22	Fäden	Faden	NN	2	2	2	2
-23	ziehen	ziehen	VVINF	2	2	2	2
+22	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920609.72
 # sent_id = 2839
 # text = Wenn dann auch noch König Alexander , der von seinem Londoner Exil aus viele Fäden zu ziehen scheint , sich zur Rückkehr nach Serbien entschließen könnte , wäre die Autorität von Milosevic in Serbien selbst erschüttert .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -1582,9 +1621,9 @@
 12	Exil	Exil	NN	*	*	*	*
 13	aus	aus	APPR	*	*	*	*
 14	viele	viele	PIAT	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 16	zu	zu	PTKZU	*	*	*	*
-17	ziehen	ziehen	VVINF	2	2	2	2
+17	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 18	scheint	scheinen	VVFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	sich	sich	PRF	*	*	*	*
@@ -1609,6 +1648,7 @@
 # tuepp_article_id = T920623.32
 # sent_id = 2840
 # text = Er wurde israelischer Botschafter in Washington , wo er die Fäden beim Aufbau der militärischen und politischen Beziehungen zwischen den USA und Israel zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -1621,7 +1661,7 @@
 8	wo	wo	PWAV	*	*	*	*
 9	er	er	PPER	*	*	*	*
 10	die	die	ART	*	*	*	*
-11	Fäden	Faden	NN	2	2	2	2
+11	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 12	beim	bei	APPRART	*	*	*	*
 13	Aufbau	Aufbau	NN	*	*	*	*
 14	der	die	ART	*	*	*	*
@@ -1634,12 +1674,13 @@
 21	USA	USA	NE	*	*	*	*
 22	und	und	KON	*	*	*	*
 23	Israel	Israel	NE	*	*	*	*
-24	zog	ziehen	VVFIN	2	2	2	2
+24	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920907.46
 # sent_id = 2841
 # text = Dafür steht er aber in ständigem Kontakt mit den Herren , die im seriösen Outfit im Hintergrund die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dafür	dafür	PAV	*	*	*	*
@@ -1660,13 +1701,14 @@
 16	im	in	APPRART	*	*	*	*
 17	Hintergrund	Hintergrund	NN	*	*	*	*
 18	die	die	ART	*	*	*	*
-19	Fäden	Faden	NN	2	2	2	2
-20	ziehen	ziehen	VVINF	2	2	2	2
+19	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+20	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920406.43
 # sent_id = 2842
 # text = Nachdem ehemalige Stasi-Mitarbeiter mehrfach mit widersprüchlichen Aussagen an die Öffentlichkeit getreten sind , könnte das Risiko einer strafbewehrten Falschaussage die früheren Stasi-Mitarbeiter von ihrer Vorstellung abbringen , sie könnten gefahrlos im Hintergrund die Fäden ziehen , indem sie das eine Mal belastende und ein anderes Mal entlastende Angaben machten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nachdem	nachdem	KOUS	*	*	*	*
@@ -1702,8 +1744,8 @@
 31	im	in	APPRART	*	*	*	*
 32	Hintergrund	Hintergrund	NN	*	*	*	*
 33	die	die	ART	*	*	*	*
-34	Fäden	Faden	NN	2	2	2	2
-35	ziehen	ziehen	VVINF	2	2	2	2
+34	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+35	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 36	,	,	$,	*	*	*	*
 37	indem	indem	KOUS	*	*	*	*
 38	sie	sie	PPER	*	*	*	*
@@ -1723,18 +1765,19 @@
 # tuepp_article_id = T920709.27
 # sent_id = 2843
 # text = " Die Fäden , die früher Moskau zog , zieht heute Brüssel " , sagte Fleischer .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
 2	Die	die	ART	*	*	*	*
-3	Fäden	Faden	NN	2	2	2	2
+3	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 4	,	,	$,	*	*	*	*
 5	die	die	PRELS	*	*	*	*
 6	früher	früher	ADV	*	*	*	*
 7	Moskau	Moskau	NE	*	*	*	*
 8	zog	ziehen	VVFIN	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	zieht	zeihen|ziehen	VVFIN	2	2	2	2
+10	zieht	zeihen|ziehen	VVFIN	FIG	FIG	FIG	FIG
 11	heute	heute	ADV	*	*	*	*
 12	Brüssel	Brüssel	NE	*	*	*	*
 13	"	"	$(	*	*	*	*
@@ -1746,6 +1789,7 @@
 # tuepp_article_id = T921211.34
 # sent_id = 2844
 # text = Neben den in der DDR bereits einschlägig vorbestraften Neonazis Karsten Wolter und Rene Koswig zog insbesondere der von der Bundesregierung 1985 freigekaufte " politische Häftling " Frank Hübner die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Neben	neben	APPR	*	*	*	*
@@ -1762,7 +1806,7 @@
 12	und	und	KON	*	*	*	*
 13	Rene	Ren	NN	*	*	*	*
 14	Koswig	<unknown>	NE	*	*	*	*
-15	zog	ziehen	VVFIN	2	2	2	2
+15	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 16	insbesondere	insbesondere	ADV	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	von	von	APPR	*	*	*	*
@@ -1777,20 +1821,21 @@
 27	Frank	Frank	NE	*	*	*	*
 28	Hübner	Hübner	NE	*	*	*	*
 29	die	die	ART	*	*	*	*
-30	Fäden	Faden	NN	2	2	2	2
+30	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921219.142
 # sent_id = 2845
 # text = Wie die Fäden im einzelnen gezogen wurden , läßt sich nur vermuten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
 2	die	die	ART	*	*	*	*
-3	Fäden	Faden	NN	2	2	2	2
+3	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 4	im	in	APPRART	*	*	*	*
 5	einzelnen	einzeln	ADJA	*	*	*	*
-6	gezogen	ziehen	VVPP	2	2	2	2
+6	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 7	wurden	werden	VAFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	läßt	lassen	VVFIN	*	*	*	*
@@ -1802,6 +1847,7 @@
 # tuepp_article_id = T920815.45
 # sent_id = 2846
 # text = Der ansonsten um Objektivität bemühte Deutschlandkorrespondent zog gleich den welthistorischen Faden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1810,16 +1856,17 @@
 4	Objektivität	Objektivität	NN	*	*	*	*
 5	bemühte	bemüht	ADJA	*	*	*	*
 6	Deutschlandkorrespondent	Deutschlandkorrespondent	NN	*	*	*	*
-7	zog	ziehen	VVFIN	2	2	2	2
+7	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 8	gleich	gleich	APPR	*	*	*	*
 9	den	die	ART	*	*	*	*
 10	welthistorischen	welthistorisch	ADJA	*	*	*	*
-11	Faden	Faden	NN	2	2	2	2
+11	Faden	Faden	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920314.54
 # sent_id = 2847
 # text = Wie sich herausstellte , hatten dazu zwar Rotbrigadisten als Werkzeuge gedient , doch den Großteil der Fäden zogen von Anfang an Geheimdienstler aus Rom , Washington und Tel Aviv .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -1838,8 +1885,8 @@
 14	den	die	ART	*	*	*	*
 15	Großteil	Großteil	NN	*	*	*	*
 16	der	die	ART	*	*	*	*
-17	Fäden	Faden	NN	2	2	2	2
-18	zogen	ziehen	VVFIN	2	2	2	2
+17	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+18	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 19	von	von	APPR	*	*	*	*
 20	Anfang	Anfang	NN	*	*	*	*
 21	an	an	APPR	*	*	*	*
@@ -1856,6 +1903,7 @@
 # tuepp_article_id = T920324.95
 # sent_id = 2848
 # text = Die Paten und ehrwürdigen Patriarchen - etwa Jacob Moyses oder Abraham Picard ( " Kinder , wenn 's Mitternacht wird , bin ich König " ) , das Haupt der Brabanter Bande - zogen aus dem Hintergrund die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1891,17 +1939,18 @@
 31	Brabanter	<unknown>	ADJA	*	*	*	*
 32	Bande	Bande	NN	*	*	*	*
 33	-	-	$(	*	*	*	*
-34	zogen	ziehen	VVFIN	2	2	2	2
+34	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 35	aus	aus	APPR	*	*	*	*
 36	dem	die	ART	*	*	*	*
 37	Hintergrund	Hintergrund	NN	*	*	*	*
 38	die	die	ART	*	*	*	*
-39	Fäden	Faden	NN	2	2	2	2
+39	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 40	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921102.91
 # sent_id = 2849
 # text = " Dabei wurden mir erst am Montag die Fäden aus der Schlaghand gezogen , die ich mir an einem Nagel beim Hallenfußball aufgerissen hatte " , freute sich der Berliner Juniorenmeister .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1912,11 +1961,11 @@
 6	am	an	APPRART	*	*	*	*
 7	Montag	Montag	NN	*	*	*	*
 8	die	die	ART	*	*	*	*
-9	Fäden	Faden	NN	1	1	1	1
+9	Fäden	Faden	NN	LIT	LIT	LIT	LIT
 10	aus	aus	APPR	*	*	*	*
 11	der	die	ART	*	*	*	*
 12	Schlaghand	Schlaghand	NN	*	*	*	*
-13	gezogen	ziehen	VVPP	1	1	1	1
+13	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 14	,	,	$,	*	*	*	*
 15	die	die	PRELS	*	*	*	*
 16	ich	ich	PPER	*	*	*	*
@@ -1940,6 +1989,7 @@
 # tuepp_article_id = T920222.90
 # sent_id = 2850
 # text = Als Arena 1988 an die Macht kam , zog D'Aubuisson hinter Präsident Cristiani weiterhin die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -1950,19 +2000,20 @@
 6	Macht	Macht	NN	*	*	*	*
 7	kam	kommen	VVFIN	*	*	*	*
 8	,	,	$,	*	*	*	*
-9	zog	ziehen	VVFIN	2	2	2	2
+9	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 10	D'Aubuisson	<unknown>	NN	*	*	*	*
 11	hinter	hinter	APPR	*	*	*	*
 12	Präsident	Präsident	NN	*	*	*	*
 13	Cristiani	<unknown>	NE	*	*	*	*
 14	weiterhin	weiterhin	ADV	*	*	*	*
 15	die	die	ART	*	*	*	*
-16	Fäden	Faden	NN	2	2	2	2
+16	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880608.41
 # sent_id = 2851
 # text = In einem als " Kellerparlament " bezeichneten Mauschelgremium zog Voscherau mit anderen Partei-Rechten die Fäden sozialdemokratischer Politik .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -1973,13 +2024,13 @@
 6	"	"	$(	*	*	*	*
 7	bezeichneten	bezeichnet	ADJA	*	*	*	*
 8	Mauschelgremium	<unknown>	NN	*	*	*	*
-9	zog	ziehen	VVFIN	2	2	2	2
+9	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 10	Voscherau	<unknown>	NN	*	*	*	*
 11	mit	mit	APPR	*	*	*	*
 12	anderen	andere	PIS	*	*	*	*
 13	Partei-Rechten	Partei-Rechte	NN	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 16	sozialdemokratischer	sozialdemokratisch	ADJA	*	*	*	*
 17	Politik	Politik	NN	*	*	*	*
 18	.	.	$.	*	*	*	*
@@ -1987,6 +2038,7 @@
 # tuepp_article_id = T881021.36
 # sent_id = 2852
 # text = Mit einzelnen Journalisten beziehungsweise Chefredakteuren vornehmlich der Springer - Presse und ausgewählten Partei-Rechten , mit denen er schon zu Dohnanyis Zeiten kungelnd die Fäden Hamburger SPD-Politik zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -2012,15 +2064,16 @@
 21	Zeiten	Zeit	NN	*	*	*	*
 22	kungelnd	<unknown>	ADJD	*	*	*	*
 23	die	die	ART	*	*	*	*
-24	Fäden	Faden	NN	2	2	2	2
+24	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 25	Hamburger	Hamburger	ADJA	*	*	*	*
 26	SPD-Politik	SPD-Politik	NN	*	*	*	*
-27	zog	ziehen	VVFIN	2	2	2	2
+27	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T881014.77
 # sent_id = 2853
 # text = 15 Filialen befinden sich in den Vereinigten Staaten , und von den USA aus zogen Awan und Bilgrami , so beschuldigt sie der amerikanische Zoll in der Anklageschrift , ihre Fäden in einer großangelegten Geldwasch-Operation für 32 Millionen Dollar Drogenprofite .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	15	@card@	CARD	*	*	*	*
@@ -2037,7 +2090,7 @@
 12	den	die	ART	*	*	*	*
 13	USA	USA	NE	*	*	*	*
 14	aus	aus	PTKVZ	*	*	*	*
-15	zogen	ziehen	VVFIN	2	2	2	2
+15	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 16	Awan	Awan	NE	*	*	*	*
 17	und	und	KON	*	*	*	*
 18	Bilgrami	<unknown>	NE	*	*	*	*
@@ -2053,7 +2106,7 @@
 28	Anklageschrift	Anklageschrift	NN	*	*	*	*
 29	,	,	$,	*	*	*	*
 30	ihre	ihr	PPOSAT	*	*	*	*
-31	Fäden	Faden	NN	2	2	2	2
+31	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 32	in	in	APPR	*	*	*	*
 33	einer	eine	ART	*	*	*	*
 34	großangelegten	großangelegt	ADJA	*	*	*	*
@@ -2068,6 +2121,7 @@
 # tuepp_article_id = T880713.33
 # sent_id = 2854
 # text = Egal , ob sich Washingtons Statthalter in Managua den jetzt nach ihm benannten " Melton-Plan " nun selber ausgedacht oder nur die Fäden gezogen hat - fest steht , daß die US-Botschaft seit langem Clearing-Stelle und Finanzier der traditionell zerstrittenen Rechtsopposition ist .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Egal	egal	ADJD	*	*	*	*
@@ -2092,8 +2146,8 @@
 20	oder	oder	KON	*	*	*	*
 21	nur	nur	ADV	*	*	*	*
 22	die	die	ART	*	*	*	*
-23	Fäden	Faden	NN	2	2	2	2
-24	gezogen	ziehen	VVPP	2	2	2	2
+23	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+24	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 25	hat	haben	VAFIN	*	*	*	*
 26	-	-	$(	*	*	*	*
 27	fest	fest	ADJD	*	*	*	*
@@ -2117,6 +2171,7 @@
 # tuepp_article_id = T881215.29
 # sent_id = 2855
 # text = Der Eindruck entsteht , daß an diesem Prozeß viele die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -2129,13 +2184,14 @@
 8	Prozeß	Prozess	NN	*	*	*	*
 9	viele	viele	PIS	*	*	*	*
 10	die	die	ART	*	*	*	*
-11	Fäden	Faden	NN	2	2	2	2
-12	ziehen	ziehen	VVINF	2	2	2	2
+11	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T880829.134
 # sent_id = 2856
 # text = Die Leute , die beim Berliner Basketballbundesligisten DTV Charlottenburg in der zweiten Reihe die Fäden ziehen , sind Profis .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2152,8 +2208,8 @@
 12	zweiten	zweit	ADJA	*	*	*	*
 13	Reihe	Reihe	NN	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
-16	ziehen	ziehen	VVINF	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+16	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	sind	sein	VAFIN	*	*	*	*
 19	Profis	Profi	NN	*	*	*	*
@@ -2162,6 +2218,7 @@
 # tuepp_article_id = T880825.99
 # sent_id = 2857
 # text = ( Als jüngst der ' Spiegel ` ein entsprechendes Angebot der UdSSR an die BRD meldete , wurde in der Atomgemeinde prompt gemunkelt , heutige oder ehemalige Hempel - Leute hätten mit an den Fäden gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	(	(	$(	*	*	*	*
@@ -2198,13 +2255,14 @@
 32	mit	mit	APPR	*	*	*	*
 33	an	an	APPR	*	*	*	*
 34	den	die	ART	*	*	*	*
-35	Fäden	Faden	NN	2	2	2	2
-36	gezogen	ziehen	VVPP	2	2	2	2
+35	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+36	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T870522.46
 # sent_id = 2858
 # text = Ein positives Ergebnis hat seine Wahl jedoch : Feller wird als Fernsehdirektor hinter den Kulissen die Fäden ziehen und weniger auf dem Bildschirm erscheinen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -2223,8 +2281,8 @@
 14	den	die	ART	*	*	*	*
 15	Kulissen	Kulisse	NN	*	*	*	*
 16	die	die	ART	*	*	*	*
-17	Fäden	Faden	NN	2	2	2	2
-18	ziehen	ziehen	VVINF	2	2	2	2
+17	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	und	und	KON	*	*	*	*
 20	weniger	weniger	ADV	*	*	*	*
 21	auf	auf	APPR	*	*	*	*
@@ -2236,6 +2294,7 @@
 # tuepp_article_id = T870914.24
 # sent_id = 2859
 # text = Wenn Syrien bei der neuen Übereinkunft wieder einmal die Fäden zog , so deshalb , weil sich der Lagerkrieg zum gegenwärtigen Zeitpunkt als hinderlich erwies für die Durchsetzung eines anderen Zieles : Die Festigung des im Juli gegen den christlichen Präsidenten Gemayel gegründeten Oppositionsbündnisses FULL , dem neben Amal auch die Drusenpartei PSP sowie verschiedene linke und pro-syrische Gruppen angehören .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -2247,8 +2306,8 @@
 7	wieder	wieder	ADV	*	*	*	*
 8	einmal	einmal	ADV	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
-11	zog	ziehen	VVFIN	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+11	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	so	so	ADV	*	*	*	*
 14	deshalb	deshalb	PAV	*	*	*	*
@@ -2303,6 +2362,7 @@
 # tuepp_article_id = T870917.15
 # sent_id = 2860
 # text = Dieser handelte sich gestern gleich vier Tage Ordnungshaft ein , weil er OStA Rosenbaum mit den Worten " Sei still , Du hast die Fäden gezogen " am Verlesen der Anklageschrift hindern wollte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dieser	diese	PDS	*	*	*	*
@@ -2329,8 +2389,8 @@
 22	Du	du	PPER	*	*	*	*
 23	hast	haben	VAFIN	*	*	*	*
 24	die	die	ART	*	*	*	*
-25	Fäden	Faden	NN	2	2	2	2
-26	gezogen	ziehen	VVPP	2	2	2	2
+25	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+26	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 27	"	"	$(	*	*	*	*
 28	am	an	APPRART	*	*	*	*
 29	Verlesen	Verlesen	NN	*	*	*	*
@@ -2343,6 +2403,7 @@
 # tuepp_article_id = T870408.31
 # sent_id = 2861
 # text = Daß ausgerechnet Wallmanns Parteifreund Warrikoff in Sachen ALKEM die Fäden zog , dürfte dem " Ruhebedürfnis " des Ministerpräsidenten gleichfalls kaum entgegenkommen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -2354,8 +2415,8 @@
 7	Sachen	Sache	NN	*	*	*	*
 8	ALKEM	<unknown>	NN	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
-11	zog	ziehen	VVFIN	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+11	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	dürfte	dürfen	VMFIN	*	*	*	*
 14	dem	die	ART	*	*	*	*
@@ -2372,6 +2433,7 @@
 # tuepp_article_id = T870704.30
 # sent_id = 2862
 # text = Da am kommenden Montag bei Kemal Ajoub die Fäden gezogen werden , ist davon auszugehen , daß seine Abschiebung schon unmittelbar danach erfolgen könnte , betonen die Anwälte .
+# vid_types = faden ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Da	da	ADV	*	*	*	*
@@ -2382,8 +2444,8 @@
 6	Kemal	Kemal	NE	*	*	*	*
 7	Ajoub	<unknown>	NE	*	*	*	*
 8	die	die	ART	*	*	*	*
-9	Fäden	Faden	NN	1	1	1	1
-10	gezogen	ziehen	VVPP	1	1	1	1
+9	Fäden	Faden	NN	LIT	LIT	LIT	LIT
+10	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 11	werden	werden	VAINF	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	ist	sein	VAFIN	*	*	*	*
@@ -2407,6 +2469,7 @@
 # tuepp_article_id = T870316.74
 # sent_id = 2863
 # text = Immerhin wurde auch hier ein Zeichen gesetzt : Seit Dezember ist Pol Pot öffentlich nicht mehr aufgetreten , doch gibt es klare Hinweise darauf , daß er und seine Leute immer noch bei den Khmer Rouge die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Immerhin	immerhin	ADV	*	*	*	*
@@ -2446,13 +2509,14 @@
 35	Khmer	<unknown>	NN	*	*	*	*
 36	Rouge	Rouge	NN	*	*	*	*
 37	die	die	ART	*	*	*	*
-38	Fäden	Faden	NN	2	2	2	2
-39	ziehen	ziehen	VVINF	2	2	2	2
+38	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+39	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 40	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930609.63
 # sent_id = 2864
 # text = Bousquet ist das Paradebeispiel für den hohen Staatsbeamten und Geschäftsmann , der unbeschadet von einem Regime zum nächsten seine Fäden ziehen konnte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bousquet	<unknown>	ADJD	*	*	*	*
@@ -2474,14 +2538,15 @@
 17	zum	zu	APPRART	*	*	*	*
 18	nächsten	nah	ADJA	*	*	*	*
 19	seine	sein	PPOSAT	*	*	*	*
-20	Fäden	Faden	NN	2	2	2	2
-21	ziehen	ziehen	VVINF	2	2	2	2
+20	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	konnte	können	VMFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T931026.194
 # sent_id = 2865
 # text = Während Heinz Weisener in Zukunft nur noch in dem neu zu gründenden Verwaltungs- und Wirtschaftsrat hinter den Kulissen die Fäden ziehen wird , soll Vizepräsident Christian Hinzpeter den neuen Frontman miemen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -2503,8 +2568,8 @@
 17	den	die	ART	*	*	*	*
 18	Kulissen	Kulisse	NN	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Fäden	Faden	NN	2	2	2	2
-21	ziehen	ziehen	VVINF	2	2	2	2
+20	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	wird	werden	VAFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
 24	soll	sollen	VMFIN	*	*	*	*
@@ -2520,6 +2585,7 @@
 # tuepp_article_id = T931002.300
 # sent_id = 2866
 # text = Am sonntagnachmittäglichen Aufeinandertreffen des FC St. Pauli und der Saarbrücker Equipe ( 15 Uhr , Wilhelm-Koch-Stadion ) wird bei den Saarländern ein anderer die Fäden im Mittelfeld ziehen müssen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -2546,16 +2612,17 @@
 22	ein	eine	ART	*	*	*	*
 23	anderer	andere	PIS	*	*	*	*
 24	die	die	ART	*	*	*	*
-25	Fäden	Faden	NN	2	2	2	2
+25	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 26	im	in	APPRART	*	*	*	*
 27	Mittelfeld	Mittelfeld	NN	*	*	*	*
-28	ziehen	ziehen	VVINF	2	2	2	2
+28	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 29	müssen	müssen	VMINF	*	*	*	*
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930111.46
 # sent_id = 2867
 # text = Also sind alle dort vertreten , wo die hohe Politik spielt und die Fäden gezogen werden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Also	also	ADV	*	*	*	*
@@ -2571,14 +2638,15 @@
 11	spielt	spielen	VVFIN	*	*	*	*
 12	und	und	KON	*	*	*	*
 13	die	die	ART	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
-15	gezogen	ziehen	VVPP	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	werden	werden	VAINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930408.108
 # sent_id = 2868
 # text = Die Frau beherrscht den Ort , an dem die Fäden gezogen werden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2590,14 +2658,15 @@
 7	an	an	APPR	*	*	*	*
 8	dem	die	PRELS	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
-11	gezogen	ziehen	VVPP	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+11	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 12	werden	werden	VAINF	*	*	*	*
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930802.196
 # sent_id = 2869
 # text = Festen Einzug in die Fanchoräle erhielt dann der Mann , der von nun an im St. Paulianischen Mittelfeld die Fäden ziehen soll , in der 25. Minute , als seine Hereingabe von Martin Drillers Kopf ins Tor sprang .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Festen	fest	ADJA	*	*	*	*
@@ -2619,8 +2688,8 @@
 17	Paulianischen	<unknown>	NN	*	*	*	*
 18	Mittelfeld	Mittelfeld	NN	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Fäden	Faden	NN	2	2	2	2
-21	ziehen	ziehen	VVINF	2	2	2	2
+20	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	soll	sollen	VMFIN	*	*	*	*
 23	,	,	$,	*	*	*	*
 24	in	in	APPR	*	*	*	*
@@ -2644,6 +2713,7 @@
 # tuepp_article_id = T930818.113
 # sent_id = 2870
 # text = Ob es um Waffenhandel , die Unterstützung südamerikanischer Diktatoren oder um dubiose Firmenzusammenbrüche wie dem des größten spanischen Konzerns Rumasa vor einigen Jahren geht - immer soll Opus Dei nach Darstellung von abtrünnig gewordenen Mitgliedern im Hintergrund die Fäden gezogen haben .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ob	ob	KOUS	*	*	*	*
@@ -2684,25 +2754,26 @@
 36	im	in	APPRART	*	*	*	*
 37	Hintergrund	Hintergrund	NN	*	*	*	*
 38	die	die	ART	*	*	*	*
-39	Fäden	Faden	NN	2	2	2	2
-40	gezogen	ziehen	VVPP	2	2	2	2
+39	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+40	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 41	haben	haben	VAFIN	*	*	*	*
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T930302.28
 # sent_id = 2871
 # text = Dieser hat bereits alle Fäden im Obersten Sowjet gezogen , damit dessen Abgeordnete für Mitte März den bisher verfassunggebenden Kongreß der Volksdeputierten einberufen - eine durch eine ganze Anzahl von Ex-KPdSU-Bossen personell erweiterte Ausgabe des regulären Parlamentes .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dieser	diese	PDS	*	*	*	*
 2	hat	haben	VAFIN	*	*	*	*
 3	bereits	bereits	ADV	*	*	*	*
 4	alle	alle	PIAT	*	*	*	*
-5	Fäden	Faden	NN	2	2	2	2
+5	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 6	im	in	APPRART	*	*	*	*
 7	Obersten	Oberst|Oberste	NN	*	*	*	*
 8	Sowjet	Sowjet	NN	*	*	*	*
-9	gezogen	ziehen	VVPP	2	2	2	2
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	damit	damit	KOUS	*	*	*	*
 12	dessen	die	PDAT	*	*	*	*
@@ -2736,14 +2807,15 @@
 # tuepp_article_id = T930302.82
 # sent_id = 2872
 # text = Und je dünner die Fäden gezogen werden , desto länger geraten sie .
+# vid_types = faden ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
 2	je	je	ADV	*	*	*	*
 3	dünner	dünn	ADJD	*	*	*	*
 4	die	die	ART	*	*	*	*
-5	Fäden	Faden	NN	2	2	2	2
-6	gezogen	ziehen	VVPP	2	2	2	2
+5	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+6	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 7	werden	werden	VAINF	*	*	*	*
 8	,	,	$,	*	*	*	*
 9	desto	desto	KON	*	*	*	*
@@ -2755,6 +2827,7 @@
 # tuepp_article_id = T930317.77
 # sent_id = 2873
 # text = Wie , wenn der gemeinhin als unentschlossen-sensibel Qualifizierte , der erst mit der Opfer-Masche die Kieler Staatskanzlei eroberte , von Anfang an weitsichtig und entschlossen die Fäden des " Barschel-Skandals " gezogen hätte : Rainer Pfeiffer nur vermeintlich Barschels Mann fürs Grobe , in Wahrheit aber derjenige , der , instruiert von Engholms Vertrauensmann Klaus Nilius , den Barschel-Herausforderer in die politisch einzig aussichtsreiche Position - die des unschuldig Verfolgten intrigierte ?
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -2783,12 +2856,12 @@
 24	und	und	KON	*	*	*	*
 25	entschlossen	entschlossen	ADJD	*	*	*	*
 26	die	die	ART	*	*	*	*
-27	Fäden	Faden	NN	2	2	2	2
+27	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 28	des	die	ART	*	*	*	*
 29	"	"	$(	*	*	*	*
 30	Barschel-Skandals	<unknown>	NN	*	*	*	*
 31	"	"	$(	*	*	*	*
-32	gezogen	ziehen	VVPP	2	2	2	2
+32	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 33	hätte	haben	VAFIN	*	*	*	*
 34	:	:	$.	*	*	*	*
 35	Rainer	Rainer	NE	*	*	*	*
@@ -2833,6 +2906,7 @@
 # tuepp_article_id = T930329.242
 # sent_id = 2874
 # text = Der polnische Routinier konnte nach Belieben im Rückraum die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -2844,13 +2918,14 @@
 7	im	in	APPRART	*	*	*	*
 8	Rückraum	Rückraum	NN	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
-11	ziehen	ziehen	VVINF	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+11	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960628.38
 # sent_id = 2875
 # text = Auch über die Massenhinrichtungen bosnisch-moslemischer Kämpfer wurde detailliert gesprochen und bei allen Anklagepunkten darauf hingewiesen , daß Karadzic und Mladic die Fäden bei diesen " Verbrechen gegen die Menschlichkeit " und dem " Völkermord an Zivilisten " aus dem Hintergrund gezogen hätten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -2874,7 +2949,7 @@
 19	und	und	KON	*	*	*	*
 20	Mladic	<unknown>	NE	*	*	*	*
 21	die	die	ART	*	*	*	*
-22	Fäden	Faden	NN	2	2	2	2
+22	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 23	bei	bei	APPR	*	*	*	*
 24	diesen	dies	PDAT	*	*	*	*
 25	"	"	$(	*	*	*	*
@@ -2893,20 +2968,21 @@
 38	aus	aus	APPR	*	*	*	*
 39	dem	die	ART	*	*	*	*
 40	Hintergrund	Hintergrund	NN	*	*	*	*
-41	gezogen	ziehen	VVPP	2	2	2	2
+41	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 42	hätten	haben	VAFIN	*	*	*	*
 43	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961025.261
 # sent_id = 2876
 # text = Nicht mehr am Faden gezogen , sondern im Grafiklabor geklont mit der perversen Begründung , daß dies dem aktuellen Trend im Kinderzimmer entspräche .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Nicht	nicht	PTKNEG	*	*	*	*
 2	mehr	mehr	ADV	*	*	*	*
 3	am	an	APPRART	*	*	*	*
-4	Faden	Faden	NN	1	2	1	1
-5	gezogen	ziehen	VVPP	1	2	1	1
+4	Faden	Faden	NN	LIT	FIG	LIT	LIT
+5	gezogen	ziehen	VVPP	LIT	FIG	LIT	LIT
 6	,	,	$,	*	*	*	*
 7	sondern	sondern	KON	*	*	*	*
 8	im	in	APPRART	*	*	*	*
@@ -2930,6 +3006,7 @@
 # tuepp_article_id = T960102.91
 # sent_id = 2877
 # text = Wer bei und nach seinem Sturz die Fäden zog , das verschwimmt noch immer zwischen den Spekulationen von Amateurgeschichtsschreibern und dem Schweigen der Machthaber .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Wer	wer	PWS	*	*	*	*
@@ -2939,8 +3016,8 @@
 5	seinem	sein	PPOSAT	*	*	*	*
 6	Sturz	Sturz	NN	*	*	*	*
 7	die	die	ART	*	*	*	*
-8	Fäden	Faden	NN	2	2	2	2
-9	zog	ziehen	VVFIN	2	2	2	2
+8	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+9	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	das	die	PDS	*	*	*	*
 12	verschwimmt	verschwimmen	VVFIN	*	*	*	*
@@ -2961,6 +3038,7 @@
 # tuepp_article_id = T960123.138
 # sent_id = 2878
 # text = In der Summe ließen sie letztlich nur den Schluß zu , daß hinter den Kulissen an Fäden gezogen wurde , die in Polizeidateien ihren Anfang nehmen mußten : So teilten ihr zum Beispiel gelegentlich einige ihrer Auftraggeber mit , das Bundeskriminalamt habe sich nach ihr erkundigt .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -2979,8 +3057,8 @@
 14	den	die	ART	*	*	*	*
 15	Kulissen	Kulisse	NN	*	*	*	*
 16	an	an	APPR	*	*	*	*
-17	Fäden	Faden	NN	2	2	2	2
-18	gezogen	ziehen	VVPP	2	2	2	2
+17	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+18	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 19	wurde	werden	VAFIN	*	*	*	*
 20	,	,	$,	*	*	*	*
 21	die	die	PRELS	*	*	*	*
@@ -3014,6 +3092,7 @@
 # tuepp_article_id = T960403.90
 # sent_id = 2879
 # text = Jemand versucht , im Hintergrund heimlich die Fäden zu ziehen " , erklärte er .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jemand	jemand	PIS	*	*	*	*
@@ -3023,9 +3102,9 @@
 5	Hintergrund	Hintergrund	NN	*	*	*	*
 6	heimlich	heimlich	ADJD	*	*	*	*
 7	die	die	ART	*	*	*	*
-8	Fäden	Faden	NN	2	2	2	2
+8	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 9	zu	zu	PTKZU	*	*	*	*
-10	ziehen	ziehen	VVINF	2	2	2	2
+10	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 11	"	"	$(	*	*	*	*
 12	,	,	$,	*	*	*	*
 13	erklärte	erklären	VVFIN	*	*	*	*
@@ -3035,6 +3114,7 @@
 # tuepp_article_id = T960418.113
 # sent_id = 2880
 # text = Die Schonfrist verschafft der Verlagsgruppe Zeit , hinter den Kulissen neue Fäden zu ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3048,14 +3128,15 @@
 9	den	die	ART	*	*	*	*
 10	Kulissen	Kulisse	NN	*	*	*	*
 11	neue	neu	ADJA	*	*	*	*
-12	Fäden	Faden	NN	2	2	2	2
+12	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 13	zu	zu	PTKZU	*	*	*	*
-14	ziehen	ziehen	VVINF	2	2	2	2
+14	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960406.116
 # sent_id = 2881
 # text = Sie sei es , die hinter den Kulissen die Fäden zöge , argwöhnte die Volksseele .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sie	Sie	PPER	*	*	*	*
@@ -3067,8 +3148,8 @@
 7	den	die	ART	*	*	*	*
 8	Kulissen	Kulisse	NN	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
-11	zöge	ziehen	VVFIN	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+11	zöge	ziehen	VVFIN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	argwöhnte	argwöhnen	VVFIN	*	*	*	*
 14	die	die	ART	*	*	*	*
@@ -3078,6 +3159,7 @@
 # tuepp_article_id = T960706.140
 # sent_id = 2882
 # text = Wie etwa Kurt Lofquist aus Kopenhagen , der im dortigen " Ripley's " als Ausstellungsstück Nr. 145 eine Nadel entdeckte , durch deren Öhr ein ehrgeiziger US-Amerikaner insgesamt 93 Fäden gezogen hatte .
+# vid_types = faden ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
 1	Wie	wie	KOKOM	*	*	*	*
@@ -3110,14 +3192,15 @@
 28	US-Amerikaner	US-Amerikaner	NN	*	*	*	*
 29	insgesamt	insgesamt	ADV	*	*	*	*
 30	93	@card@	CARD	*	*	*	*
-31	Fäden	Faden	NN	1	1	1	1
-32	gezogen	ziehen	VVPP	1	1	1	1
+31	Fäden	Faden	NN	LIT	LIT	LIT	LIT
+32	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 33	hatte	haben	VAFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960716.95
 # sent_id = 2883
 # text = Dort bekommt die 12jährige Sarah die Fäden ihrer Amputationswunde gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dort	dort	ADV	*	*	*	*
@@ -3126,15 +3209,16 @@
 4	12jährige	12jährig	ADJA	*	*	*	*
 5	Sarah	Sarah	NE	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Fäden	Faden	NN	1	1	1	1
+7	Fäden	Faden	NN	LIT	LIT	LIT	LIT
 8	ihrer	ihr	PPOSAT	*	*	*	*
 9	Amputationswunde	<unknown>	NN	*	*	*	*
-10	gezogen	ziehen	VVPP	1	1	1	1
+10	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960715.119
 # sent_id = 2884
 # text = 1982 wurde er persönliches Mitglied des deutschen NOK , drei Jahre später orientierte er sich zielstrebig dorthin , wo zu jener Zeit das wahre Zentrum der Macht im internationalen Sport saß : zur Firma adidas , deren Chef Horst Dassler die Fäden bei diversen Sportverbänden und im IOC zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	1982	@card@	CARD	*	*	*	*
@@ -3178,19 +3262,20 @@
 39	Horst	Horst	NE	*	*	*	*
 40	Dassler	<unknown>	NE	*	*	*	*
 41	die	die	ART	*	*	*	*
-42	Fäden	Faden	NN	2	2	2	2
+42	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 43	bei	bei	APPR	*	*	*	*
 44	diversen	divers	ADJA	*	*	*	*
 45	Sportverbänden	Sportverband	NN	*	*	*	*
 46	und	und	KON	*	*	*	*
 47	im	in	APPRART	*	*	*	*
 48	IOC	IOC	NE	*	*	*	*
-49	zog	ziehen	VVFIN	2	2	2	2
+49	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 50	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T961224.216
 # sent_id = 2885
 # text = Warum sich Michael Cramer ( Bündnisgrüne ) für Hanna-Renate Laurien ( CDU ) ins Strick-Zeug legte und keine Lust hat , für Petra Pau ( PDS ) die Fäden zu ziehen
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Warum	warum	PWAV	*	*	*	*
@@ -3221,18 +3306,19 @@
 26	PDS	PDS	NE	*	*	*	*
 27	)	)	$(	*	*	*	*
 28	die	die	ART	*	*	*	*
-29	Fäden	Faden	NN	2	2	2	2
+29	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 30	zu	zu	PTKZU	*	*	*	*
-31	ziehen	ziehen	VVINF	2	2	2	2
+31	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T960301.4
 # sent_id = 2886
 # text = Die Fäden zog im Hintergrund wieder einmal Schmidbauer .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
-2	Fäden	Faden	NN	2	2	2	2
-3	zog	ziehen	VVFIN	2	2	2	2
+2	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	im	in	APPRART	*	*	*	*
 5	Hintergrund	Hintergrund	NN	*	*	*	*
 6	wieder	wieder	ADV	*	*	*	*
@@ -3243,6 +3329,7 @@
 # tuepp_article_id = T961108.108
 # sent_id = 2887
 # text = Daß Jelzin nicht zum erstenmal krankheitsbedingt ausfällt und jetzt schon monatelang nicht wirklich regiert , dafür aber andere die Fäden ziehen , liegt auf der Hand .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -3264,8 +3351,8 @@
 17	aber	aber	ADV	*	*	*	*
 18	andere	andere	PIS	*	*	*	*
 19	die	die	ART	*	*	*	*
-20	Fäden	Faden	NN	2	2	2	2
-21	ziehen	ziehen	VVINF	2	2	2	2
+20	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+21	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 22	,	,	$,	*	*	*	*
 23	liegt	liegen	VVFIN	*	*	*	*
 24	auf	auf	APPR	*	*	*	*
@@ -3276,6 +3363,7 @@
 # tuepp_article_id = T960202.20
 # sent_id = 2888
 # text = Und manch einer vermutet , das sei vielen bisher auch ganz lieb gewesen - seit seinen Tagen im Quirinalspalast des Staatspräsidenten beherrscht Maccanico es perfekt , aus dem Hintergrund die politischen Fäden zu ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -3309,25 +3397,27 @@
 29	Hintergrund	Hintergrund	NN	*	*	*	*
 30	die	die	ART	*	*	*	*
 31	politischen	politisch	ADJA	*	*	*	*
-32	Fäden	Faden	NN	2	2	2	2
+32	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 33	zu	zu	PTKZU	*	*	*	*
-34	ziehen	ziehen	VVINF	2	2	2	2
+34	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T960229.106
 # sent_id = 2889
 # text = Anneliese Knop zog die Fäden
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Anneliese	Anneliese	NE	*	*	*	*
 2	Knop	<unknown>	NE	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
-5	Fäden	Faden	NN	2	2	2	2
+5	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T960208.86
 # sent_id = 2890
 # text = Prevals Vorgänger , Haitis beliebtester Politiker Jean Bertrand Aristide , werde nicht in den Kulissen die Fäden ziehen , wie einige dächten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Prevals	<unknown>	NN	*	*	*	*
@@ -3346,8 +3436,8 @@
 14	den	die	ART	*	*	*	*
 15	Kulissen	Kulisse	NN	*	*	*	*
 16	die	die	ART	*	*	*	*
-17	Fäden	Faden	NN	2	2	2	2
-18	ziehen	ziehen	VVINF	2	2	2	2
+17	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+18	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	wie	wie	KOUS	*	*	*	*
 21	einige	einige	PIS	*	*	*	*
@@ -3357,6 +3447,7 @@
 # tuepp_article_id = T960228.147
 # sent_id = 2891
 # text = Doch wie es sich mit der Untermalung und der chemischen Analyse ihrer Farbpigmente verhält und wo jeweils die mit bloßem Auge erkennbaren Einstiche der Nägel auf der Leinwand sind , mit deren Hilfe Vermeer Perspektivenkorrektheit garantierende Fäden zog , sei uns egal .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -3395,8 +3486,8 @@
 34	Vermeer	<unknown>	NN	*	*	*	*
 35	Perspektivenkorrektheit	<unknown>	NN	*	*	*	*
 36	garantierende	garantierend	ADJA	*	*	*	*
-37	Fäden	Faden	NN	1	2	2	2
-38	zog	ziehen	VVFIN	1	2	2	2
+37	Fäden	Faden	NN	LIT	FIG	FIG	FIG
+38	zog	ziehen	VVFIN	LIT	FIG	FIG	FIG
 39	,	,	$,	*	*	*	*
 40	sei	sein	VAFIN	*	*	*	*
 41	uns	wir	PPER	*	*	*	*
@@ -3406,6 +3497,7 @@
 # tuepp_article_id = T960226.264
 # sent_id = 2892
 # text = " " Der Ortsverein Lüssum-Bockhorn hat personalpolitisch schon immer die Fäden gezogen " , weiß auch ein anderes SPD-Mitglied aus Bremen- Nord .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3418,8 +3510,8 @@
 8	schon	schon	ADV	*	*	*	*
 9	immer	immer	ADV	*	*	*	*
 10	die	die	ART	*	*	*	*
-11	Fäden	Faden	NN	2	2	2	2
-12	gezogen	ziehen	VVPP	2	2	2	2
+11	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+12	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 13	"	"	$(	*	*	*	*
 14	,	,	$,	*	*	*	*
 15	weiß	wissen	VVFIN	*	*	*	*
@@ -3435,6 +3527,7 @@
 # tuepp_article_id = T980514.222
 # sent_id = 2893
 # text = Folgerichtig beschreibt das wetteramtliche Informationsblatt " Geschäftsfeld Medien " die TV-bekannten Computeranimationen als " filmreife Szenen , bei denen wir hinter den Kulissen die Fäden ziehen " .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Folgerichtig	folgerichtig	ADJD	*	*	*	*
@@ -3461,23 +3554,24 @@
 22	den	die	ART	*	*	*	*
 23	Kulissen	Kulisse	NN	*	*	*	*
 24	die	die	ART	*	*	*	*
-25	Fäden	Faden	NN	2	2	2	2
-26	ziehen	ziehen	VVINF	2	2	2	2
+25	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	"	"	$(	*	*	*	*
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980623.178
 # sent_id = 2894
 # text = Bei denen zog Zoubaier Baya die Fäden , während sich Mehdi Ben Slimane als Ministurmtank betätigte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
 2	denen	die	PDS	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	Zoubaier	<unknown>	NE	*	*	*	*
 5	Baya	<unknown>	NE	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Fäden	Faden	NN	2	2	2	2
+7	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 8	,	,	$,	*	*	*	*
 9	während	während	KOUS	*	*	*	*
 10	sich	sich	PRF	*	*	*	*
@@ -3492,6 +3586,7 @@
 # tuepp_article_id = T981024.90
 # sent_id = 2895
 # text = Bald wird sie auch dort die Fäden ziehen , als Vertreterin des zweithöchsten Mannes im Staat .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bald	bald	ADV	*	*	*	*
@@ -3500,8 +3595,8 @@
 4	auch	auch	ADV	*	*	*	*
 5	dort	dort	ADV	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Fäden	Faden	NN	2	2	2	2
-8	ziehen	ziehen	VVINF	2	2	2	2
+7	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+8	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 9	,	,	$,	*	*	*	*
 10	als	als	KOKOM	*	*	*	*
 11	Vertreterin	Vertreterin	NN	*	*	*	*
@@ -3515,6 +3610,7 @@
 # tuepp_article_id = T980905.110
 # sent_id = 2896
 # text = In seinem Plädoyer am Donnerstag versuchte sein kamerunischer Anwalt Olivier Inglis deshalb , Kambanda als " Marionette " darzustellen , an deren " Fäden die Militärs zogen " .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -3540,16 +3636,17 @@
 21	an	an	APPR	*	*	*	*
 22	deren	die	PRELAT	*	*	*	*
 23	"	"	$(	*	*	*	*
-24	Fäden	Faden	NN	1	2	2	2
+24	Fäden	Faden	NN	LIT	FIG	FIG	FIG
 25	die	die	ART	*	*	*	*
 26	Militärs	Militär	NN	*	*	*	*
-27	zogen	ziehen	VVFIN	1	2	2	2
+27	zogen	ziehen	VVFIN	LIT	FIG	FIG	FIG
 28	"	"	$(	*	*	*	*
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980919.148
 # sent_id = 2897
 # text = Das Netz derer , die die Fäden ziehen und am Organhandel gut verdienen , reicht bis in die Türkei
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -3558,8 +3655,8 @@
 4	,	,	$,	*	*	*	*
 5	die	die	PRELS	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Fäden	Faden	NN	2	2	2	2
-8	ziehen	ziehen	VVINF	2	2	2	2
+7	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+8	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 9	und	und	KON	*	*	*	*
 10	am	an	APPRART	*	*	*	*
 11	Organhandel	Organhandel	NN	*	*	*	*
@@ -3575,6 +3672,7 @@
 # tuepp_article_id = T980919.255
 # sent_id = 2898
 # text = Die Choreographie ist zwar anspruchsvoll in der Herausforderung ungewohnter Koordinationen und löst den Körper in bewegte Elemente mit Schräglagen und abgewinkelten Gliedern auf , die manchmal fast wie an Fäden gezogen auf- und zuklappen , pendeln und schwingen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3606,8 +3704,8 @@
 27	fast	fast	ADV	*	*	*	*
 28	wie	wie	KOKOM	*	*	*	*
 29	an	an	APPR	*	*	*	*
-30	Fäden	Faden	NN	1	2	2	2
-31	gezogen	ziehen	VVPP	1	2	2	2
+30	Fäden	Faden	NN	LIT	FIG	FIG	FIG
+31	gezogen	ziehen	VVPP	LIT	FIG	FIG	FIG
 32	auf-	auf-	TRUNC	*	*	*	*
 33	und	und	KON	*	*	*	*
 34	zuklappen	zuklappen	VVFIN	*	*	*	*
@@ -3620,13 +3718,14 @@
 # tuepp_article_id = T980119.65
 # sent_id = 2899
 # text = Rau zog zwar die Fäden , er polarisierte aber nicht , er verharrte so lange im Unentschiedenen , bis sich eindeutige Mehrheiten abzeichneten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rau	Rau	NE	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	zwar	zwar	ADV	*	*	*	*
 4	die	die	ART	*	*	*	*
-5	Fäden	Faden	NN	2	2	2	2
+5	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 6	,	,	$,	*	*	*	*
 7	er	er	PPER	*	*	*	*
 8	polarisierte	polarisieren	VVFIN	*	*	*	*
@@ -3650,6 +3749,7 @@
 # tuepp_article_id = T980715.74
 # sent_id = 2900
 # text = Die Armee habe mehrere Personen identifiziert , die bei den Krawallen die Fäden gezogen hätten , erklärte der Militärsprecher .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3664,8 +3764,8 @@
 10	den	die	ART	*	*	*	*
 11	Krawallen	Krawall	NN	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Fäden	Faden	NN	2	2	2	2
-14	gezogen	ziehen	VVPP	2	2	2	2
+13	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+14	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 15	hätten	haben	VAFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
 17	erklärte	erklären	VVFIN	*	*	*	*
@@ -3676,6 +3776,7 @@
 # tuepp_article_id = T980711.105
 # sent_id = 2901
 # text = So abweisend zeigte sich Bonn nicht immer : 1996 zogen Staatsminister Bernd Schmidbauer und Mauss ihre Fäden , um die kolumbianischen Konfliktparteien in Bonn an einen Tisch zu bringen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -3687,14 +3788,14 @@
 7	immer	immer	ADV	*	*	*	*
 8	:	:	$.	*	*	*	*
 9	1996	@card@	CARD	*	*	*	*
-10	zogen	ziehen	VVFIN	2	2	2	2
+10	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 11	Staatsminister	Staatsminister	NN	*	*	*	*
 12	Bernd	Bernd	NE	*	*	*	*
 13	Schmidbauer	Schmidbauer	NE	*	*	*	*
 14	und	und	KON	*	*	*	*
 15	Mauss	<unknown>	NN	*	*	*	*
 16	ihre	ihr	PPOSAT	*	*	*	*
-17	Fäden	Faden	NN	2	2	2	2
+17	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	um	um	KOUI	*	*	*	*
 20	die	die	ART	*	*	*	*
@@ -3712,6 +3813,7 @@
 # tuepp_article_id = T981219.22
 # sent_id = 2902
 # text = Und im Vorfeld der Bestimmung der Delegierten , da sind die entscheidenden Fäden gezogen worden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -3726,14 +3828,15 @@
 10	sind	sein	VAFIN	*	*	*	*
 11	die	die	ART	*	*	*	*
 12	entscheidenden	entscheidend	ADJA	*	*	*	*
-13	Fäden	Faden	NN	2	2	2	2
-14	gezogen	ziehen	VVPP	2	2	2	2
+13	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+14	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 15	worden	werden	VAPP	*	*	*	*
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981215.5
 # sent_id = 2903
 # text = Neumann und Perschau , die in der CDU die dicksten Fäden ziehen , brauchen die vorderen Plätze zum Beispiel für treue Gefolgsleute wie es die 42jährige Annedore Windler ist .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Neumann	Neumann	NE	*	*	*	*
@@ -3746,8 +3849,8 @@
 8	CDU	CDU	NE	*	*	*	*
 9	die	die	ART	*	*	*	*
 10	dicksten	dick	ADJA	*	*	*	*
-11	Fäden	Faden	NN	2	2	2	2
-12	ziehen	ziehen	VVINF	2	2	2	2
+11	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+12	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	brauchen	brauchen	VVFIN	*	*	*	*
 15	die	die	ART	*	*	*	*
@@ -3770,6 +3873,7 @@
 # tuepp_article_id = T981211.436
 # sent_id = 2904
 # text = Es heißt , daß er bei dem letztjährigen Wechsel die Fäden gezogen habe .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -3782,14 +3886,15 @@
 8	letztjährigen	letztjährig	ADJA	*	*	*	*
 9	Wechsel	Wechsel	NN	*	*	*	*
 10	die	die	ART	*	*	*	*
-11	Fäden	Faden	NN	2	2	2	2
-12	gezogen	ziehen	VVPP	2	2	2	2
+11	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+12	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 13	habe	haben	VAFIN	*	*	*	*
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980831.104
 # sent_id = 2905
 # text = Zusammen mit ihm und dem Geheimdienstberater Vladimiro Montesinos zog Hermoza Rios die Fäden in Peru , er gilt als einer der mächtigsten Männer des Landes .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zusammen	zusammen	ADV	*	*	*	*
@@ -3800,11 +3905,11 @@
 6	Geheimdienstberater	<unknown>	NN	*	*	*	*
 7	Vladimiro	Vladimiro	NE	*	*	*	*
 8	Montesinos	<unknown>	NN	*	*	*	*
-9	zog	ziehen	VVFIN	2	2	2	2
+9	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 10	Hermoza	<unknown>	NE	*	*	*	*
 11	Rios	Rio	NE	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Fäden	Faden	NN	2	2	2	2
+13	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 14	in	in	APPR	*	*	*	*
 15	Peru	Peru	NE	*	*	*	*
 16	,	,	$,	*	*	*	*
@@ -3822,6 +3927,7 @@
 # tuepp_article_id = T980807.191
 # sent_id = 2906
 # text = Wo politische Verantwortlichkeiten zu verschwimmen drohen , macht die Demo vor dem Roten Rathaus nur noch wenig Sinn - sind doch weder die Marionetten noch die an den Fäden ziehenden Großkapitalisten ernsthaft auszumachen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zusammen	zusammen	ADV	*	*	*	*
@@ -3832,11 +3938,11 @@
 6	Geheimdienstberater	<unknown>	NN	*	*	*	*
 7	Vladimiro	Vladimiro	NE	*	*	*	*
 8	Montesinos	<unknown>	NN	*	*	*	*
-9	zog	ziehen	VVFIN	2	2	2	2
+9	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 10	Hermoza	<unknown>	NE	*	*	*	*
 11	Rios	Rio	NE	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Fäden	Faden	NN	2	2	2	2
+13	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 14	in	in	APPR	*	*	*	*
 15	Peru	Peru	NE	*	*	*	*
 16	,	,	$,	*	*	*	*
@@ -3854,6 +3960,7 @@
 # tuepp_article_id = T980313.397
 # sent_id = 2907
 # text = Die Kontrolle äußert sich hier eher als Manipulation denn als Zwang , und die Fäden werden aus der Ferne gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3870,17 +3977,18 @@
 12	,	,	$,	*	*	*	*
 13	und	und	KON	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 16	werden	werden	VAFIN	*	*	*	*
 17	aus	aus	APPR	*	*	*	*
 18	der	die	ART	*	*	*	*
 19	Ferne	Ferne	NN	*	*	*	*
-20	gezogen	ziehen	VVPP	2	2	2	2
+20	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T981105.263
 # sent_id = 2908
 # text = Die größeren historischen Taten des Politikers , der in Jena unter anderem bei Johann Gottlieb Fichte Philosophie studiert und Goethe und Schiller persönlich gekannt hatte , bevor er später in Bremen lernte , politische Fäden zu ziehen , sind weitgehend bekannt .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3917,9 +4025,9 @@
 32	lernte	lernen	VVFIN	*	*	*	*
 33	,	,	$,	*	*	*	*
 34	politische	politisch	ADJA	*	*	*	*
-35	Fäden	Faden	NN	2	2	2	2
+35	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 36	zu	zu	PTKZU	*	*	*	*
-37	ziehen	ziehen	VVINF	2	2	2	2
+37	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 38	,	,	$,	*	*	*	*
 39	sind	sein	VAFIN	*	*	*	*
 40	weitgehend	weitgehend	ADJD	*	*	*	*
@@ -3929,6 +4037,7 @@
 # tuepp_article_id = T981104.173
 # sent_id = 2909
 # text = Als ich zum Beispiel die " Suspension events " gemacht habe , bei denen ich Fäden durch meine Haut ziehen ließ , an denen ich aufgehängt wurde , konnte man die Haken in meiner Haut sehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOUS	*	*	*	*
@@ -3946,11 +4055,11 @@
 13	bei	bei	APPR	*	*	*	*
 14	denen	die	PRELS	*	*	*	*
 15	ich	ich	PPER	*	*	*	*
-16	Fäden	Faden	NN	1	1	1	1
+16	Fäden	Faden	NN	LIT	LIT	LIT	LIT
 17	durch	durch	APPR	*	*	*	*
 18	meine	mein	PPOSAT	*	*	*	*
 19	Haut	Haut	NN	*	*	*	*
-20	ziehen	ziehen	VVINF	1	1	1	1
+20	ziehen	ziehen	VVINF	LIT	LIT	LIT	LIT
 21	ließ	lassen	VVFIN	*	*	*	*
 22	,	,	$,	*	*	*	*
 23	an	an	APPR	*	*	*	*
@@ -3972,6 +4081,7 @@
 # tuepp_article_id = T981104.175
 # sent_id = 2910
 # text = " Im übrigen ist der 1946 geborene australische Künstler ein charmanter , freundlicher Gesprächspartner mit einigem Sinn für Humor - nicht gerade der Typ , von dem man erwarten würde , daß er sich für seine Kunst über den Straßen New Yorks aufhängen läßt - an Fäden , die direkt durch seine Haut gezogen wurden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4020,20 +4130,21 @@
 44	läßt	lassen	VVFIN	*	*	*	*
 45	-	-	$(	*	*	*	*
 46	an	an	APPR	*	*	*	*
-47	Fäden	Faden	NN	1	1	1	1
+47	Fäden	Faden	NN	LIT	LIT	LIT	LIT
 48	,	,	$,	*	*	*	*
 49	die	die	PRELS	*	*	*	*
 50	direkt	direkt	ADJD	*	*	*	*
 51	durch	durch	APPR	*	*	*	*
 52	seine	sein	PPOSAT	*	*	*	*
 53	Haut	Haut	NN	*	*	*	*
-54	gezogen	ziehen	VVPP	1	1	1	1
+54	gezogen	ziehen	VVPP	LIT	LIT	LIT	LIT
 55	wurden	werden	VAFIN	*	*	*	*
 56	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980216.267
 # sent_id = 2911
 # text = " Immerhin etwas , denn das spieltechnische Pulver war bereits 15 Minuten nach Winterpausenende verschossen - trotzdem Pröpper-Vertreter und Spielmacher Christian Springer bemüht war , die Fäden zu ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4062,14 +4173,15 @@
 24	war	sein	VAFIN	*	*	*	*
 25	,	,	$,	*	*	*	*
 26	die	die	ART	*	*	*	*
-27	Fäden	Faden	NN	2	2	2	2
+27	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 28	zu	zu	PTKZU	*	*	*	*
-29	ziehen	ziehen	VVINF	2	2	2	2
+29	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T980217.108
 # sent_id = 2912
 # text = Dort , in der " Koordinierungsstelle gewerkschaftlicher Arbeitslosengruppen " , werden die Fäden der landesweiten Aktionen gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dort	dort	ADV	*	*	*	*
@@ -4084,16 +4196,17 @@
 10	,	,	$,	*	*	*	*
 11	werden	werden	VAFIN	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Fäden	Faden	NN	2	2	2	2
+13	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 14	der	die	ART	*	*	*	*
 15	landesweiten	landesweit	ADJA	*	*	*	*
 16	Aktionen	Aktion	NN	*	*	*	*
-17	gezogen	ziehen	VVPP	2	2	2	2
+17	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970515.309
 # sent_id = 2913
 # text = Er weiß dabei SPD-Bürgermeister Henning Voscherau klammheimlich auf seiner Seite , der schon einmal als Stadtchef so vergnügt die rot-gelben Fäden zog , daß er 1991 , überraschend plötzlich mit der absoluten Mehrheit der Mandate ausgestattet , der FDP das Mitregieren anbot , um seine Parteilinke besser unter Kontrolle zu halten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -4116,8 +4229,8 @@
 18	vergnügt	vergnügen	VVFIN	*	*	*	*
 19	die	die	ART	*	*	*	*
 20	rot-gelben	rot-gelb	ADJA	*	*	*	*
-21	Fäden	Faden	NN	2	2	2	2
-22	zog	ziehen	VVFIN	2	2	2	2
+21	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+22	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 23	,	,	$,	*	*	*	*
 24	daß	dass	KOUS	*	*	*	*
 25	er	er	PPER	*	*	*	*
@@ -4152,6 +4265,7 @@
 # tuepp_article_id = T970509.45
 # sent_id = 2914
 # text = Es handelt sich um den einstigen Paten der Mafia im Allgäu , Vito di Stefano , der jahrelang von einer Pizzeria in Memmingen aus die Fäden gezogen haben soll .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -4179,8 +4293,8 @@
 23	Memmingen	Memmingen	NE	*	*	*	*
 24	aus	aus	APPR	*	*	*	*
 25	die	die	ART	*	*	*	*
-26	Fäden	Faden	NN	2	2	2	2
-27	gezogen	ziehen	VVPP	2	2	2	2
+26	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+27	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 28	haben	haben	VAINF	*	*	*	*
 29	soll	sollen	VMFIN	*	*	*	*
 30	.	.	$.	*	*	*	*
@@ -4188,6 +4302,7 @@
 # tuepp_article_id = T970603.104
 # sent_id = 2915
 # text = Er bietet Einsichten , wie der späte Ulbricht Konföderationsgedanken nachgehangen habe , während Honecker bereits die Fäden hinter dessen Rücken zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Er	er	PPER	*	*	*	*
@@ -4206,16 +4321,17 @@
 14	Honecker	Honecker	NE	*	*	*	*
 15	bereits	bereits	ADV	*	*	*	*
 16	die	die	ART	*	*	*	*
-17	Fäden	Faden	NN	2	2	2	2
+17	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 18	hinter	hinter	APPR	*	*	*	*
 19	dessen	die	PDAT	*	*	*	*
 20	Rücken	Rücken	NN	*	*	*	*
-21	zog	ziehen	VVFIN	2	2	2	2
+21	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971017.353
 # sent_id = 2916
 # text = Die strategischen Überlegungen bleiben Washington vorbehalten , wo diejenigen sitzen , die die Fäden ziehen : die US-Regierung und die internationalen Finanzinstitutionen wie der Internationale Währungsfonds ( IWF ) und die Weltbank , die mit der Regierung gemeinsame Sache machen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -4231,8 +4347,8 @@
 11	,	,	$,	*	*	*	*
 12	die	die	PRELS	*	*	*	*
 13	die	die	ART	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
-15	ziehen	ziehen	VVINF	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+15	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 16	:	:	$.	*	*	*	*
 17	die	die	ART	*	*	*	*
 18	US-Regierung	US-Regierung	NN	*	*	*	*
@@ -4263,6 +4379,7 @@
 # tuepp_article_id = T971013.78
 # sent_id = 2917
 # text = Scheinbar bescheiden leugnet Vaatz , die maßgeblichen Fäden gezogen zu haben .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Scheinbar	scheinbar	ADJD	*	*	*	*
@@ -4272,8 +4389,8 @@
 5	,	,	$,	*	*	*	*
 6	die	die	ART	*	*	*	*
 7	maßgeblichen	maßgeblich	ADJA	*	*	*	*
-8	Fäden	Faden	NN	2	2	2	2
-9	gezogen	ziehen	VVPP	2	2	2	2
+8	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	zu	zu	PTKZU	*	*	*	*
 11	haben	haben	VAINF	*	*	*	*
 12	.	.	$.	*	*	*	*
@@ -4281,6 +4398,7 @@
 # tuepp_article_id = T971015.277
 # sent_id = 2918
 # text = Über alledem schwebt der einbeinige Philanthrop und Säufer Christian , bei dem die Fäden , an denen zu ziehen er sich weigert , zusammenlaufen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Über	über	APPR	*	*	*	*
@@ -4296,12 +4414,12 @@
 11	bei	bei	APPR	*	*	*	*
 12	dem	die	PRELS	*	*	*	*
 13	die	die	ART	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	an	an	APPR	*	*	*	*
 17	denen	die	PRELS	*	*	*	*
 18	zu	zu	ADV	*	*	*	*
-19	ziehen	zeihen|ziehen	VVFIN	2	2	2	2
+19	ziehen	zeihen|ziehen	VVFIN	FIG	FIG	FIG	FIG
 20	er	er	PPER	*	*	*	*
 21	sich	sich	PRF	*	*	*	*
 22	weigert	weigern	VVFIN	*	*	*	*
@@ -4312,6 +4430,7 @@
 # tuepp_article_id = T970909.42
 # sent_id = 2919
 # text = In Zaire , dem 1971 ausgerufenen neuen Staat , sollte es keinen Pluralismus geben , keine Privatwirtschaft , keine europäischen Namen oder Kleidung ; statt dessen Einheitspartei mit Zwangsmitgliedschaft , Führerkult und beispielloser Wohlstandskonzentration in den Händen der herrschenden Elite , an deren Spitze Mobutu alle Fäden zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -4360,13 +4479,14 @@
 44	Spitze	Spitze	NN	*	*	*	*
 45	Mobutu	<unknown>	NN	*	*	*	*
 46	alle	alle	PIAT	*	*	*	*
-47	Fäden	Faden	NN	2	2	2	2
-48	zog	ziehen	VVFIN	2	2	2	2
+47	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+48	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 49	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970913.268
 # sent_id = 2920
 # text = Schon 1995 hatte Haller aus dem Hintergrund der AfB die Fäden gezogen und das Ziel einer Ablösung der SPD aus dem Rathaus verfolgt .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
@@ -4379,8 +4499,8 @@
 8	der	die	ART	*	*	*	*
 9	AfB	<unknown>	NN	*	*	*	*
 10	die	die	ART	*	*	*	*
-11	Fäden	Faden	NN	2	2	2	2
-12	gezogen	ziehen	VVPP	2	2	2	2
+11	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+12	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 13	und	und	KON	*	*	*	*
 14	das	die	ART	*	*	*	*
 15	Ziel	Ziel	NN	*	*	*	*
@@ -4397,6 +4517,7 @@
 # tuepp_article_id = T970918.197
 # sent_id = 2921
 # text = Sozusagen von Geisterhand werden dabei die Fäden einer wirren Technikalptraum-Geschichte gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sozusagen	sozusagen	ADV	*	*	*	*
@@ -4405,16 +4526,17 @@
 4	werden	werden	VAFIN	*	*	*	*
 5	dabei	dabei	PAV	*	*	*	*
 6	die	die	ART	*	*	*	*
-7	Fäden	Faden	NN	2	2	2	2
+7	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 8	einer	eine	ART	*	*	*	*
 9	wirren	wirr	ADJA	*	*	*	*
 10	Technikalptraum-Geschichte	<unknown>	NN	*	*	*	*
-11	gezogen	ziehen	VVPP	2	2	2	2
+11	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970908.67
 # sent_id = 2922
 # text = Organisiert wird die kommunale Macht vom Verband der kommunalen Aktionäre ( VKA ) , in dem Stadtdirektoren und Bürgermeister von SPD und CDU die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Organisiert	organisieren	VVPP	*	*	*	*
@@ -4441,13 +4563,14 @@
 22	und	und	KON	*	*	*	*
 23	CDU	CDU	NE	*	*	*	*
 24	die	die	ART	*	*	*	*
-25	Fäden	Faden	NN	2	2	2	2
-26	ziehen	ziehen	VVINF	2	2	2	2
+25	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970102.124
 # sent_id = 2923
 # text = Oder der Anfang vom " Paten " , wenn die Kamera langsam vom Gesicht des Bittstellers ( " Ich glaube an Amerrrika " ) zurückzoomt , bis die Silhouette des Godfather-Kopfes die halbe Leinwand ausfüllt : Kann man diskreter und deutlicher zeigen , wer hier als Schattenmann die Fäden ziehen wird ?
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Oder	oder	KON	*	*	*	*
@@ -4498,14 +4621,15 @@
 46	als	als	KOKOM	*	*	*	*
 47	Schattenmann	Schattenmann	NN	*	*	*	*
 48	die	die	ART	*	*	*	*
-49	Fäden	Faden	NN	2	2	2	2
-50	ziehen	ziehen	VVINF	2	2	2	2
+49	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+50	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 51	wird	werden	VAFIN	*	*	*	*
 52	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T970113.71
 # sent_id = 2924
 # text = Nicht viel anders klingt die Kritik von Umweltministerin Bärbel Höhn , die einst mit Busch und Kreutz zusammen im linken Forum die politischen Fäden zog .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -4531,13 +4655,14 @@
 21	Forum	Forum	NN	*	*	*	*
 22	die	die	ART	*	*	*	*
 23	politischen	politisch	ADJA	*	*	*	*
-24	Fäden	Faden	NN	2	2	2	2
-25	zog	ziehen	VVFIN	2	2	2	2
+24	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+25	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970422.255
 # sent_id = 2925
 # text = Der Staatsrat im Wirtschaftsressort hat mal wieder bewiesen , daß niemand so prima Fäden ziehen kann wie er .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4553,8 +4678,8 @@
 11	niemand	niemand	PIS	*	*	*	*
 12	so	so	ADV	*	*	*	*
 13	prima	prima	ADJA	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
-15	ziehen	ziehen	VVINF	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+15	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 16	kann	können	VMFIN	*	*	*	*
 17	wie	wie	KOKOM	*	*	*	*
 18	er	er	PPER	*	*	*	*
@@ -4563,6 +4688,7 @@
 # tuepp_article_id = T970425.336
 # sent_id = 2926
 # text = Immer wieder drehen sie sich im Kreis herum wie von unsichtbaren Fäden gezogen , jeder in einem anderen selbstgewählten Kreisel .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Immer	immer	ADV	*	*	*	*
@@ -4576,8 +4702,8 @@
 9	wie	wie	KOKOM	*	*	*	*
 10	von	von	APPR	*	*	*	*
 11	unsichtbaren	unsichtbar	ADJA	*	*	*	*
-12	Fäden	Faden	NN	1	2	2	2
-13	gezogen	ziehen	VVPP	1	2	2	2
+12	Fäden	Faden	NN	LIT	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	LIT	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	jeder	jede	PIS	*	*	*	*
 16	in	in	APPR	*	*	*	*
@@ -4590,6 +4716,7 @@
 # tuepp_article_id = T970701.20
 # sent_id = 2927
 # text = Die extravagante Abschiedsfeier der englischen Kolonialherren - da gab es in Mikrochipgewand verhüllte Tänzer und orientalische Modeshows - konnte nicht verdecken , wer auch bei den gestrigen Festivitäten hinter den Kulissen der Wolkenkratzer die Fäden zog , wer Hongkong gestern beherrschte und auch heute dominiert : Leute wie James Tien .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -4626,8 +4753,8 @@
 32	der	die	ART	*	*	*	*
 33	Wolkenkratzer	Wolkenkratzer	NN	*	*	*	*
 34	die	die	ART	*	*	*	*
-35	Fäden	Faden	NN	2	2	2	2
-36	zog	ziehen	VVFIN	2	2	2	2
+35	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+36	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 37	,	,	$,	*	*	*	*
 38	wer	wer	PWS	*	*	*	*
 39	Hongkong	Hongkong	NE	*	*	*	*
@@ -4647,6 +4774,7 @@
 # tuepp_article_id = T970707.43
 # sent_id = 2928
 # text = Bei dem Konflikt handelt sich nicht mehr nur um einen Machtkampf zwischen Plavsic und ihrem Vorgänger Radovan Karadzic , der nach wie vor alle Fäden ziehen will .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -4673,14 +4801,15 @@
 22	wie	wie	KOKOM	*	*	*	*
 23	vor	vor	APPR	*	*	*	*
 24	alle	alle	PIAT	*	*	*	*
-25	Fäden	Faden	NN	2	2	2	2
-26	ziehen	ziehen	VVINF	2	2	2	2
+25	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+26	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 27	will	wollen	VMFIN	*	*	*	*
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971213.150
 # sent_id = 2929
 # text = Seit der Verurteilung des HB-Vorstands hatte sie unermüdlich ihre Fäden hinter den Kulissen gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seit	seit	APPR	*	*	*	*
@@ -4692,20 +4821,21 @@
 7	sie	sie	PPER	*	*	*	*
 8	unermüdlich	unermüdlich	ADJD	*	*	*	*
 9	ihre	ihr	PPOSAT	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 11	hinter	hinter	APPR	*	*	*	*
 12	den	die	ART	*	*	*	*
 13	Kulissen	Kulisse	NN	*	*	*	*
-14	gezogen	ziehen	VVPP	2	2	2	2
+14	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971206.242
 # sent_id = 2930
 # text = Die Fäden in diesem ausgedehnten Geflecht zwischen den Standorten von inzwischen 17 Museen , die zur Stiftung Preußischer Kulturbesitz gehören , hat seit 20 Jahren der Stiftungspräsident Werner Knopp gezogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
-2	Fäden	Faden	NN	2	2	2	2
+2	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 3	in	in	APPR	*	*	*	*
 4	diesem	dies	PDAT	*	*	*	*
 5	ausgedehnten	ausgedehnt	ADJA	*	*	*	*
@@ -4733,35 +4863,37 @@
 27	Stiftungspräsident	Stiftungspräsident	NN	*	*	*	*
 28	Werner	Werner	NE	*	*	*	*
 29	Knopp	<unknown>	NN	*	*	*	*
-30	gezogen	ziehen	VVPP	2	2	2	2
+30	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971222.212
 # sent_id = 2931
 # text = Schon damals zog er lieber aus dem Hintergrund die Fäden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
 2	damals	damals	ADV	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	er	er	PPER	*	*	*	*
 5	lieber	lieb	ADJD	*	*	*	*
 6	aus	aus	APPR	*	*	*	*
 7	dem	die	ART	*	*	*	*
 8	Hintergrund	Hintergrund	NN	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T971211.44
 # sent_id = 2932
 # text = Wagner zog die Fäden im unübersichtlichen HAG-Firmengeflecht und setzte auf alle wichtigen Unternehmenspositionen Mitglieder seiner vielköpfigen Familie .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wagner	Wagner	NE	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	die	die	ART	*	*	*	*
-4	Fäden	Faden	NN	2	2	2	2
+4	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 5	im	in	APPRART	*	*	*	*
 6	unübersichtlichen	unübersichtlich	ADJA	*	*	*	*
 7	HAG-Firmengeflecht	<unknown>	NN	*	*	*	*
@@ -4780,6 +4912,7 @@
 # tuepp_article_id = T970815.237
 # sent_id = 2933
 # text = Um dem Titel des besten Fußballers der Welt zu genügen , muß er allerdings noch die strategische Vollkommenheit eines Di Stefano , eines Pele oder Cruyff erlangen und sich nicht nur zwischen Mittellinie und gegnerischem Strafraum bewegen , sondern seine Fäden über das gesamte Spielfeld ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Um	um	KOUI	*	*	*	*
@@ -4822,17 +4955,18 @@
 38	,	,	$,	*	*	*	*
 39	sondern	sondern	KON	*	*	*	*
 40	seine	sein	PPOSAT	*	*	*	*
-41	Fäden	Faden	NN	2	2	2	2
+41	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 42	über	über	APPR	*	*	*	*
 43	das	die	ART	*	*	*	*
 44	gesamte	gesamt	ADJA	*	*	*	*
 45	Spielfeld	Spielfeld	NN	*	*	*	*
-46	ziehen	ziehen	VVINF	2	2	2	2
+46	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 47	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970827.167
 # sent_id = 2934
 # text = Frank Zimmermann ( SPD ) , Sprecher und " Michel Platini " der Finanzverwaltung , soll die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Frank	Frank	NE	*	*	*	*
@@ -4852,13 +4986,14 @@
 15	,	,	$,	*	*	*	*
 16	soll	sollen	VMFIN	*	*	*	*
 17	die	die	ART	*	*	*	*
-18	Fäden	Faden	NN	2	2	2	2
-19	ziehen	ziehen	VVINF	2	2	2	2
+18	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+19	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970802.239
 # sent_id = 2935
 # text = AfB-Spitzenmann und dann Wirtschaftssenator der Koalition , für die Haller mit der AfB schon 1995 Fäden gezogen hat .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	AfB-Spitzenmann	<unknown>	NN	*	*	*	*
@@ -4876,14 +5011,15 @@
 13	AfB	<unknown>	NN	*	*	*	*
 14	schon	schon	ADV	*	*	*	*
 15	1995	@card@	CARD	*	*	*	*
-16	Fäden	Faden	NN	2	2	2	2
-17	gezogen	ziehen	VVPP	2	2	2	2
+16	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+17	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 18	hat	haben	VAFIN	*	*	*	*
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T970301.146
 # sent_id = 2936
 # text = " OibE " , so eines der landesüblichen Kürzel , zogen hier die Fäden , Offiziere im besonderen Einsatz .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -4896,10 +5032,10 @@
 8	landesüblichen	landesüblich	ADJA	*	*	*	*
 9	Kürzel	Kürzel	NN	*	*	*	*
 10	,	,	$,	*	*	*	*
-11	zogen	ziehen	VVFIN	2	2	2	2
+11	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 12	hier	hier	ADV	*	*	*	*
 13	die	die	ART	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	Offiziere	Offizier	NN	*	*	*	*
 17	im	in	APPRART	*	*	*	*
@@ -4910,6 +5046,7 @@
 # tuepp_article_id = T971126.9
 # sent_id = 2937
 # text = Daß man den Extremisten in Brcko sowohl bei den Kommunalwahlen wie bei der Umstrukturierung der Polizei nachgab , daß man die recht starke Opposition in der ostbosnischen Stadt Bijeljina im Stich ließ , daß die Kriegsverbrecher nach wie vor Fäden ziehen dürfen , wirft ein Schlaglicht auf die Halbherzigkeit der internationalen Politik .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -4951,8 +5088,8 @@
 37	nach	nach	PTKVZ	*	*	*	*
 38	wie	wie	KOKOM	*	*	*	*
 39	vor	vor	APPR	*	*	*	*
-40	Fäden	Faden	NN	2	2	2	2
-41	ziehen	ziehen	VVINF	2	2	2	2
+40	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+41	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 42	dürfen	dürfen	VMINF	*	*	*	*
 43	,	,	$,	*	*	*	*
 44	wirft	werfen	VVFIN	*	*	*	*
@@ -4969,14 +5106,15 @@
 # tuepp_article_id = T970227.121
 # sent_id = 2938
 # text = Die Fäden im Hintergrund zu ziehen liegt Heide Rühle mehr als der Auftritt vor Fernsehkameras .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
-2	Fäden	Faden	NN	2	2	2	2
+2	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 3	im	in	APPRART	*	*	*	*
 4	Hintergrund	Hintergrund	NN	*	*	*	*
 5	zu	zu	PTKZU	*	*	*	*
-6	ziehen	ziehen	VVINF	2	2	2	2
+6	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 7	liegt	liegen	VVFIN	*	*	*	*
 8	Heide	Heide	NE	*	*	*	*
 9	Rühle	<unknown>	NN	*	*	*	*
@@ -4991,6 +5129,7 @@
 # tuepp_article_id = T940503.176
 # sent_id = 2939
 # text = Wegen Fälschung von 188 Überweisungsaufträgen mit einem Gesamtbetrag von fast einer Million Mark stehen ein 24jähriger Ex- Bankkaufmann , der dank seiner Fachkenntnisse die Fäden gezogen haben soll , und drei Mitangeklagte im Alter von 22 bis 27 Jahren vor Gericht .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wegen	wegen	APPR	*	*	*	*
@@ -5017,8 +5156,8 @@
 22	seiner	sein	PPOSAT	*	*	*	*
 23	Fachkenntnisse	Fachkenntnis	NN	*	*	*	*
 24	die	die	ART	*	*	*	*
-25	Fäden	Faden	NN	2	2	2	2
-26	gezogen	ziehen	VVPP	2	2	2	2
+25	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+26	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 27	haben	haben	VAINF	*	*	*	*
 28	soll	sollen	VMFIN	*	*	*	*
 29	,	,	$,	*	*	*	*
@@ -5039,14 +5178,15 @@
 # tuepp_article_id = T940513.139
 # sent_id = 2940
 # text = Katharina von Medici zog die Fäden bei dieser Intrige .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Katharina	Katharina	NE	*	*	*	*
 2	von	von	APPR	*	*	*	*
 3	Medici	<unknown>	NE	*	*	*	*
-4	zog	ziehen	VVFIN	2	2	2	2
+4	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 5	die	die	ART	*	*	*	*
-6	Fäden	Faden	NN	2	2	2	2
+6	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 7	bei	bei	APPR	*	*	*	*
 8	dieser	dies	PDAT	*	*	*	*
 9	Intrige	Intrige	NN	*	*	*	*
@@ -5055,6 +5195,7 @@
 # tuepp_article_id = T941017.59
 # sent_id = 2941
 # text = " Doch wenn deutsche Nazis beginnen , von hier aus die Fäden zu ziehen , müssen wir Flagge zeigen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5068,9 +5209,9 @@
 9	hier	hier	ADV	*	*	*	*
 10	aus	aus	APPR	*	*	*	*
 11	die	die	ART	*	*	*	*
-12	Fäden	Faden	NN	2	2	2	2
+12	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 13	zu	zu	PTKZU	*	*	*	*
-14	ziehen	ziehen	VVINF	2	2	2	2
+14	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	müssen	müssen	VMFIN	*	*	*	*
 17	wir	wir	PPER	*	*	*	*
@@ -5081,6 +5222,7 @@
 # tuepp_article_id = T940928.239
 # sent_id = 2942
 # text = Rund um dieses Experimentierfeld nutzen die Woosters Mischpulte und Mikros , um wie Chirurgen oder Puppenspieler die Fäden zu ziehen und das Geschehen auf der Bühne zu gestalten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rund	rund	ADV	*	*	*	*
@@ -5100,9 +5242,9 @@
 15	oder	oder	KON	*	*	*	*
 16	Puppenspieler	Puppenspieler	NN	*	*	*	*
 17	die	die	ART	*	*	*	*
-18	Fäden	Faden	NN	2	2	2	2
+18	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 19	zu	zu	PTKZU	*	*	*	*
-20	ziehen	ziehen	VVINF	2	2	2	2
+20	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 21	und	und	KON	*	*	*	*
 22	das	die	ART	*	*	*	*
 23	Geschehen	Geschehen	NN	*	*	*	*
@@ -5116,6 +5258,7 @@
 # tuepp_article_id = T940922.119
 # sent_id = 2943
 # text = Südafrikas Geheimpolizei schlug gegen Biko im Herbst 1977 zu , als die IUEF gerade die Fäden für ein geheimes Treffen in London zwischen ihm und Oliver Tambo , dem ANC- Führer im Exil , zog , um die beiden Organisationen zusammenzubringen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Südafrikas	Südafrika	NE	*	*	*	*
@@ -5133,7 +5276,7 @@
 13	IUEF	<unknown>	NN	*	*	*	*
 14	gerade	gerade	ADV	*	*	*	*
 15	die	die	ART	*	*	*	*
-16	Fäden	Faden	NN	2	2	2	2
+16	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 17	für	für	APPR	*	*	*	*
 18	ein	eine	ART	*	*	*	*
 19	geheimes	geheim	ADJA	*	*	*	*
@@ -5152,7 +5295,7 @@
 32	im	in	APPRART	*	*	*	*
 33	Exil	Exil	NN	*	*	*	*
 34	,	,	$,	*	*	*	*
-35	zog	ziehen	VVFIN	2	2	2	2
+35	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 36	,	,	$,	*	*	*	*
 37	um	um	KOUI	*	*	*	*
 38	die	die	ART	*	*	*	*
@@ -5164,6 +5307,7 @@
 # tuepp_article_id = T940117.65
 # sent_id = 2944
 # text = Boban wird bei den Gesprächen von Mile Akmadzic vertreten , der schon seit einigen Monaten in der Westherzegowina politisch die Fäden zu ziehen scheint .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Boban	Boban	NE	*	*	*	*
@@ -5186,15 +5330,16 @@
 18	Westherzegowina	Westherzegowina	NE	*	*	*	*
 19	politisch	politisch	ADJD	*	*	*	*
 20	die	die	ART	*	*	*	*
-21	Fäden	Faden	NN	2	2	2	2
+21	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 22	zu	zu	PTKZU	*	*	*	*
-23	ziehen	ziehen	VVINF	2	2	2	2
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	scheint	scheinen	VVFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940124.236
 # sent_id = 2945
 # text = Der Ball eckte und rollte jetzt wie an einem Faden gezogen über den grünen Filz - beeindruckend .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5206,8 +5351,8 @@
 7	wie	wie	KOKOM	*	*	*	*
 8	an	an	APPR	*	*	*	*
 9	einem	eine	ART	*	*	*	*
-10	Faden	Faden	NN	1	2	2	2
-11	gezogen	ziehen	VVPP	1	2	2	2
+10	Faden	Faden	NN	LIT	FIG	FIG	FIG
+11	gezogen	ziehen	VVPP	LIT	FIG	FIG	FIG
 12	über	über	APPR	*	*	*	*
 13	den	die	ART	*	*	*	*
 14	grünen	grün	ADJA	*	*	*	*
@@ -5219,6 +5364,7 @@
 # tuepp_article_id = T940409.63
 # sent_id = 2946
 # text = Klar ist : Das in zwanzig Jahren Habyarimana-Herrschaft gewachsene Staatswesen Ruandas , in dem Verwandte und Freunde des Hutu- Präsidenten die Fäden zogen , bricht auseinander .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Klar	klar	ADJD	*	*	*	*
@@ -5242,8 +5388,8 @@
 19	Hutu-	Hutu-	TRUNC	*	*	*	*
 20	Präsidenten	Präsident	NN	*	*	*	*
 21	die	die	ART	*	*	*	*
-22	Fäden	Faden	NN	2	2	2	2
-23	zogen	ziehen	VVFIN	2	2	2	2
+22	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+23	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 24	,	,	$,	*	*	*	*
 25	bricht	brechen	VVFIN	*	*	*	*
 26	auseinander	auseinander	PTKVZ	*	*	*	*
@@ -5252,6 +5398,7 @@
 # tuepp_article_id = T940409.303
 # sent_id = 2947
 # text = Der 28jährige Kjendalen , bis 1992 beim TuS Schutterwald unter Vertrag und zuletzt bei IL Runar Sandefjord / Norwegen am Ball , soll beim VfL als Spielmacher die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5282,13 +5429,14 @@
 26	als	als	KOKOM	*	*	*	*
 27	Spielmacher	Spielmacher	NN	*	*	*	*
 28	die	die	ART	*	*	*	*
-29	Fäden	Faden	NN	2	2	2	2
-30	ziehen	ziehen	VVINF	2	2	2	2
+29	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+30	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941212.28
 # sent_id = 2948
 # text = Hinter allem vermutet er eine Verschwörung , deren Fäden in Moskau und Grosny gleichzeitig gezogen werden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Hinter	hinter	APPR	*	*	*	*
@@ -5299,19 +5447,20 @@
 6	Verschwörung	Verschwörung	NN	*	*	*	*
 7	,	,	$,	*	*	*	*
 8	deren	die	PRELAT	*	*	*	*
-9	Fäden	Faden	NN	2	2	2	2
+9	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 10	in	in	APPR	*	*	*	*
 11	Moskau	Moskau	NE	*	*	*	*
 12	und	und	KON	*	*	*	*
 13	Grosny	<unknown>	NE	*	*	*	*
 14	gleichzeitig	gleichzeitig	ADJD	*	*	*	*
-15	gezogen	ziehen	VVPP	2	2	2	2
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	werden	werden	VAINF	*	*	*	*
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T941229.34
 # sent_id = 2949
 # text = Vielleicht noch ausgeprägter als den Frauen in Serbien und Kroatien , ist es ihnen innerhalb der bosnischen Gesellschaft jedoch gelungen , die Fäden im Hintergrund zu ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vielleicht	vielleicht	ADV	*	*	*	*
@@ -5336,23 +5485,24 @@
 20	gelungen	gelingen	VVPP	*	*	*	*
 21	,	,	$,	*	*	*	*
 22	die	die	ART	*	*	*	*
-23	Fäden	Faden	NN	2	2	2	2
+23	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 24	im	in	APPRART	*	*	*	*
 25	Hintergrund	Hintergrund	NN	*	*	*	*
 26	zu	zu	PTKZU	*	*	*	*
-27	ziehen	ziehen	VVINF	2	2	2	2
+27	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T940813.48
 # sent_id = 2950
 # text = Für den Bremer Monopolisten zog hinter den Kulissen längst ein anderer die Fäden : Claus Grobecker , zuletzt Finanzsenator und gut befreundet mit Hennemann , der seine Laufbahn als Sanierer der Bremer Werften im Amt des Staatssekretärs im Wirtschaftsministerium der kleinen , aber feinen Hansestadt begonnen hatte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Für	für	APPR	*	*	*	*
 2	den	die	ART	*	*	*	*
 3	Bremer	Bremer	NN	*	*	*	*
 4	Monopolisten	Monopolist	NN	*	*	*	*
-5	zog	ziehen	VVFIN	2	2	2	2
+5	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	hinter	hinter	APPR	*	*	*	*
 7	den	die	ART	*	*	*	*
 8	Kulissen	Kulisse	NN	*	*	*	*
@@ -5360,7 +5510,7 @@
 10	ein	eine	ART	*	*	*	*
 11	anderer	andere	PIS	*	*	*	*
 12	die	die	ART	*	*	*	*
-13	Fäden	Faden	NN	2	2	2	2
+13	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 14	:	:	$.	*	*	*	*
 15	Claus	Claus	NE	*	*	*	*
 16	Grobecker	Grobecker	NN	*	*	*	*
@@ -5400,6 +5550,7 @@
 # tuepp_article_id = T941124.186
 # sent_id = 2951
 # text = Während Wissenschaftler bekanntlich dazu neigen , Strukturen und Prozesse jenseits der unmittelbar Handelnden in den Mittelpunkt zu stellen , hält der Ex-Außenminister die Fäden , die er zog , auch für jene , die die Welt bewegen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	APPR	*	*	*	*
@@ -5425,11 +5576,11 @@
 21	der	die	ART	*	*	*	*
 22	Ex-Außenminister	Ex-Außenminister	NN	*	*	*	*
 23	die	die	ART	*	*	*	*
-24	Fäden	Faden	NN	2	2	2	2
+24	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 25	,	,	$,	*	*	*	*
 26	die	die	PRELS	*	*	*	*
 27	er	er	PPER	*	*	*	*
-28	zog	ziehen	VVFIN	2	2	2	2
+28	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 29	,	,	$,	*	*	*	*
 30	auch	auch	ADV	*	*	*	*
 31	für	für	APPR	*	*	*	*
@@ -5444,18 +5595,19 @@
 # tuepp_article_id = T940226.81
 # sent_id = 2952
 # text = Ein halbes Jahrhundert lang zog J. Edgar Hoover die Fäden bei der US-amerikanischen Bundespolizei / Er war korrupt , verklemmt , paranoid , haßte Linke , Juden , Schwarze , Schwule und kollaborierte mit der Mafia
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
 2	halbes	halb	ADJA	*	*	*	*
 3	Jahrhundert	Jahrhundert	NN	*	*	*	*
 4	lang	lang	ADJD	*	*	*	*
-5	zog	ziehen	VVFIN	2	2	2	2
+5	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 6	J.	j.	APPR	*	*	*	*
 7	Edgar	Edgar	NE	*	*	*	*
 8	Hoover	<unknown>	NE	*	*	*	*
 9	die	die	ART	*	*	*	*
-10	Fäden	Faden	NN	2	2	2	2
+10	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 11	bei	bei	APPR	*	*	*	*
 12	der	die	ART	*	*	*	*
 13	US-amerikanischen	US-amerikanisch	ADJA	*	*	*	*
@@ -5486,13 +5638,14 @@
 # tuepp_article_id = T940209.11
 # sent_id = 2953
 # text = Einkaufsberater Möllemann zog die Fäden und bescherte Schalke 04 nach dem Sonnen ( flecken ) könig Eichberg einen neuen Heilsbringer als Präsidenten .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einkaufsberater	<unknown>	NN	*	*	*	*
 2	Möllemann	Möllemann	NE	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
-5	Fäden	Faden	NN	2	2	2	2
+5	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 6	und	und	KON	*	*	*	*
 7	bescherte	beschert	ADJA	*	*	*	*
 8	Schalke	Schalk	NN	*	*	*	*
@@ -5515,13 +5668,14 @@
 # tuepp_article_id = T950526.256
 # sent_id = 2954
 # text = Es geht um Dirk Oetelshovens Jim Knopfs neue Abenteuer , wo sich die Schauspieler wie die an Fäden gezogenen Marionetten der Augsburger Puppenkiste bewegen , was die beiden Lichtmeß-Vertreter recht gut vorführen können .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einkaufsberater	<unknown>	NN	*	*	*	*
 2	Möllemann	Möllemann	NE	*	*	*	*
-3	zog	ziehen	VVFIN	2	2	2	2
+3	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
-5	Fäden	Faden	NN	2	2	2	2
+5	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 6	und	und	KON	*	*	*	*
 7	bescherte	beschert	ADJA	*	*	*	*
 8	Schalke	Schalk	NN	*	*	*	*
@@ -5544,6 +5698,7 @@
 # tuepp_article_id = T950623.89
 # sent_id = 2955
 # text = Nicht zuletzt wird dies von der Haltung der Mächtigen im Kreml und im Weißen Haus abhängen , die im Hintergrund die Fäden ziehen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nicht	nicht	PTKNEG	*	*	*	*
@@ -5567,13 +5722,14 @@
 19	im	in	APPRART	*	*	*	*
 20	Hintergrund	Hintergrund	NN	*	*	*	*
 21	die	die	ART	*	*	*	*
-22	Fäden	Faden	NN	2	2	2	2
-23	ziehen	ziehen	VVINF	2	2	2	2
+22	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+23	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950904.104
 # sent_id = 2956
 # text = Als Chef der Düsseldorfer Staatskanzlei zog der 55jährige Jurist und Journalist Wolfgang Clement für seinen Regierungschef und persönlichen Freund Johannes Rau im Hintergrund die politischen Fäden - zielstrebig , nervenstark , mitunter ruppig .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -5581,7 +5737,7 @@
 3	der	die	ART	*	*	*	*
 4	Düsseldorfer	Düsseldorfer	ADJA	*	*	*	*
 5	Staatskanzlei	Staatskanzlei	NN	*	*	*	*
-6	zog	ziehen	VVFIN	2	2	2	2
+6	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 7	der	die	ART	*	*	*	*
 8	55jährige	55jährig	ADJA	*	*	*	*
 9	Jurist	Jurist	NN	*	*	*	*
@@ -5601,7 +5757,7 @@
 23	Hintergrund	Hintergrund	NN	*	*	*	*
 24	die	die	ART	*	*	*	*
 25	politischen	politisch	ADJA	*	*	*	*
-26	Fäden	Faden	NN	2	2	2	2
+26	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 27	-	-	$(	*	*	*	*
 28	zielstrebig	zielstrebig	ADJD	*	*	*	*
 29	,	,	$,	*	*	*	*
@@ -5614,6 +5770,7 @@
 # tuepp_article_id = T950123.94
 # sent_id = 2957
 # text = Das wirft ein Licht darauf , wie in der Führungsetage die Fäden gezogen werden für eine schleichende Veränderung des nach außen gezeichneten Profils einer sich erneuernden , ehrlichen , pluralistischen Oppositionspartei .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -5627,8 +5784,8 @@
 9	der	die	ART	*	*	*	*
 10	Führungsetage	Führungsetage	NN	*	*	*	*
 11	die	die	ART	*	*	*	*
-12	Fäden	Faden	NN	2	2	2	2
-13	gezogen	ziehen	VVPP	2	2	2	2
+12	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+13	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 14	werden	werden	VAFIN	*	*	*	*
 15	für	für	APPR	*	*	*	*
 16	eine	eine	ART	*	*	*	*
@@ -5652,6 +5809,7 @@
 # tuepp_article_id = T950126.159
 # sent_id = 2958
 # text = Wenn diejenigen , die die Fäden in diesem Krieg ziehen - außerhalb und auf dem Balkan - die Nato gebraucht hätten , dann hätte es genügend Gründe gegeben , sie zum Einsatz kommen zu lassen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -5659,11 +5817,11 @@
 3	,	,	$,	*	*	*	*
 4	die	die	PRELS	*	*	*	*
 5	die	die	ART	*	*	*	*
-6	Fäden	Faden	NN	2	2	2	2
+6	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 7	in	in	APPR	*	*	*	*
 8	diesem	dies	PDAT	*	*	*	*
 9	Krieg	Krieg	NN	*	*	*	*
-10	ziehen	ziehen	VVINF	2	2	2	2
+10	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 11	-	-	$(	*	*	*	*
 12	außerhalb	außerhalb	ADV	*	*	*	*
 13	und	und	KON	*	*	*	*
@@ -5694,6 +5852,7 @@
 # tuepp_article_id = T950415.70
 # sent_id = 2959
 # text = Andererseits aber blieb die Kirche trotz der Krise ein Machtzentrum , zog ihre Fäden , plazierte ihre Leute an einflußreichen Stellen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Andererseits	andererseits	ADV	*	*	*	*
@@ -5707,9 +5866,9 @@
 9	ein	eine	ART	*	*	*	*
 10	Machtzentrum	Machtzentrum	NN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	zog	ziehen	VVFIN	2	2	2	2
+12	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 13	ihre	ihr	PPOSAT	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	plazierte	plazieren	VVFIN	*	*	*	*
 17	ihre	ihr	PPOSAT	*	*	*	*
@@ -5722,6 +5881,7 @@
 # tuepp_article_id = T950731.114
 # sent_id = 2960
 # text = Insider vermuten , daß Otto dabei die Fäden gezogen hat .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Insider	Insider	NN	*	*	*	*
@@ -5731,14 +5891,15 @@
 5	Otto	Otto	NE	*	*	*	*
 6	dabei	dabei	PAV	*	*	*	*
 7	die	die	ART	*	*	*	*
-8	Fäden	Faden	NN	2	2	2	2
-9	gezogen	ziehen	VVPP	2	2	2	2
+8	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+9	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 10	hat	haben	VAFIN	*	*	*	*
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950704.212
 # sent_id = 2961
 # text = Belanglos - wären die Hauptcharaktere nicht tote , verkleidete Hühner , die sich zum Jazz-Soundtrack bewegen wie Marionetten , an Fäden gezogen und zu bizarrem Leben erweckt .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Belanglos	belanglos	ADJD	*	*	*	*
@@ -5761,8 +5922,8 @@
 18	Marionetten	Marionette	NN	*	*	*	*
 19	,	,	$,	*	*	*	*
 20	an	an	APPR	*	*	*	*
-21	Fäden	Faden	NN	1	2	2	2
-22	gezogen	ziehen	VVPP	1	2	2	2
+21	Fäden	Faden	NN	LIT	FIG	FIG	FIG
+22	gezogen	ziehen	VVPP	LIT	FIG	FIG	FIG
 23	und	und	KON	*	*	*	*
 24	zu	zu	APPR	*	*	*	*
 25	bizarrem	bizarr	ADJA	*	*	*	*
@@ -5773,6 +5934,7 @@
 # tuepp_article_id = T951219.113
 # sent_id = 2962
 # text = Und jetzt kommen Wolffsohns Beweise , daß aber hinter den Kulissen die Kommunisten die Fäden zogen , geschickter , als sich " Nollau in seiner Schulweisheit " erträumen konnte .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -5789,8 +5951,8 @@
 12	die	die	ART	*	*	*	*
 13	Kommunisten	Kommunist	NN	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
-16	zogen	ziehen	VVFIN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+16	zogen	ziehen	VVFIN	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	geschickter	geschickt	ADJD	*	*	*	*
 19	,	,	$,	*	*	*	*
@@ -5809,6 +5971,7 @@
 # tuepp_article_id = T950818.99
 # sent_id = 2963
 # text = Schließlich haben die chinesischen Kommunisten noch in guter Erinnerung , wie sie selbst die Fäden nützlicher Frontorganisationen gezogen haben .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schließlich	schließlich	ADV	*	*	*	*
@@ -5825,16 +5988,17 @@
 12	sie	sie	PPER	*	*	*	*
 13	selbst	selbst	ADV	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 16	nützlicher	nützlich	ADJA	*	*	*	*
 17	Frontorganisationen	Frontorganisation	NN	*	*	*	*
-18	gezogen	ziehen	VVPP	2	2	2	2
+18	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 19	haben	haben	VAFIN	*	*	*	*
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950829.114
 # sent_id = 2964
 # text = Seine Interpretation scheint unhaltbar , seit immer offenkundiger wird , daß sich in Bosnien eben nicht " primitive " Krieger planlos abschlachten , sondern in Belgrad und Zagreb durchaus politische Fäden gezogen werden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Seine	sein	PPOSAT	*	*	*	*
@@ -5867,14 +6031,15 @@
 28	Zagreb	Zagreb	NE	*	*	*	*
 29	durchaus	durchaus	ADV	*	*	*	*
 30	politische	politisch	ADJA	*	*	*	*
-31	Fäden	Faden	NN	2	2	2	2
-32	gezogen	ziehen	VVPP	2	2	2	2
+31	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+32	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 33	werden	werden	VAINF	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T950317.246
 # sent_id = 2965
 # text = Vogel verhehlt dabei nicht , daß er mithilfe seines neuen Amtes auch wieder die Fäden für die stadtweite Entwicklung der zur Splitterpartei mutierten Elbliberalen ziehen will .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vogel	Vogel	NN	*	*	*	*
@@ -5891,7 +6056,7 @@
 12	auch	auch	ADV	*	*	*	*
 13	wieder	wieder	ADV	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 16	für	für	APPR	*	*	*	*
 17	die	die	ART	*	*	*	*
 18	stadtweite	stadtweit	ADJA	*	*	*	*
@@ -5901,13 +6066,14 @@
 22	Splitterpartei	Splitterpartei	NN	*	*	*	*
 23	mutierten	mutiert	ADJA	*	*	*	*
 24	Elbliberalen	<unknown>	NN	*	*	*	*
-25	ziehen	ziehen	VVINF	2	2	2	2
+25	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 26	will	wollen	VMFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951117.16
 # sent_id = 2966
 # text = Zog Rau die Fäden ?
+# vid_types = faden ziehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
 1	Vogel	Vogel	NN	*	*	*	*
@@ -5924,7 +6090,7 @@
 12	auch	auch	ADV	*	*	*	*
 13	wieder	wieder	ADV	*	*	*	*
 14	die	die	ART	*	*	*	*
-15	Fäden	Faden	NN	2	2	2	2
+15	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 16	für	für	APPR	*	*	*	*
 17	die	die	ART	*	*	*	*
 18	stadtweite	stadtweit	ADJA	*	*	*	*
@@ -5934,13 +6100,14 @@
 22	Splitterpartei	Splitterpartei	NN	*	*	*	*
 23	mutierten	mutiert	ADJA	*	*	*	*
 24	Elbliberalen	<unknown>	NN	*	*	*	*
-25	ziehen	ziehen	VVINF	2	2	2	2
+25	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 26	will	wollen	VMFIN	*	*	*	*
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951129.15
 # sent_id = 2967
 # text = Die Union glaubt nun , daß durch die Zeugenvernehmungen vor dem Ausschuß der Beweis erbracht worden sei , daß ein solches Küchenkabinett aus Bündnisgrünen im Ministerium die Fäden gezogen hat .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5970,14 +6137,15 @@
 25	im	in	APPRART	*	*	*	*
 26	Ministerium	Ministerium	NN	*	*	*	*
 27	die	die	ART	*	*	*	*
-28	Fäden	Faden	NN	2	2	2	2
-29	gezogen	ziehen	VVPP	2	2	2	2
+28	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+29	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 30	hat	haben	VAFIN	*	*	*	*
 31	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T951128.252
 # sent_id = 2968
 # text = Voraussichtlich bereits im Januar wird Elste den Stab an den einstigen Voscherau-Gegner Jan Ehlers weiterreichen , der seit Jahren davon träumt , die Fäden einer rot-grünen Koalition zu ziehen , und in den vergangenen Jahren durch allertreueste Gefolgschaft dem Bürgermeister solide Ergebenheit bewies .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Voraussichtlich	voraussichtlich	ADJD	*	*	*	*
@@ -6003,12 +6171,12 @@
 21	träumt	träumen	VVFIN	*	*	*	*
 22	,	,	$,	*	*	*	*
 23	die	die	ART	*	*	*	*
-24	Fäden	Faden	NN	2	2	2	2
+24	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 25	einer	eine	ART	*	*	*	*
 26	rot-grünen	rot-grün	ADJA	*	*	*	*
 27	Koalition	Koalition	NN	*	*	*	*
 28	zu	zu	PTKZU	*	*	*	*
-29	ziehen	ziehen	VVINF	2	2	2	2
+29	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 30	,	,	$,	*	*	*	*
 31	und	und	KON	*	*	*	*
 32	in	in	APPR	*	*	*	*
@@ -6028,6 +6196,7 @@
 # tuepp_article_id = T990108.357
 # sent_id = 2969
 # text = Zum Beweis offenbarte er , daß die Fäden für die Politik der rechtsextremen Partei in den einzelnen Bundesländern ausschließlich in München gezogen werden .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zum	zu	APPRART	*	*	*	*
@@ -6037,7 +6206,7 @@
 5	,	,	$,	*	*	*	*
 6	daß	dass	KOUS	*	*	*	*
 7	die	die	ART	*	*	*	*
-8	Fäden	Faden	NN	2	2	2	2
+8	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 9	für	für	APPR	*	*	*	*
 10	die	die	ART	*	*	*	*
 11	Politik	Politik	NN	*	*	*	*
@@ -6051,13 +6220,14 @@
 19	ausschließlich	ausschließlich	ADV	*	*	*	*
 20	in	in	APPR	*	*	*	*
 21	München	München	NE	*	*	*	*
-22	gezogen	ziehen	VVPP	2	2	2	2
+22	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 23	werden	werden	VAINF	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990414.17
 # sent_id = 2970
 # text = Vor der Bonner Beethovenhalle hatten sie einen gut zwei Meter großen Hampelmann mit dem Gesicht des Bundespräsidenten aufgebaut , an dessen Fäden der milliardenschwere Bertelsmann-Konzern und seine Stiftung zogen .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -6081,19 +6251,20 @@
 19	,	,	$,	*	*	*	*
 20	an	an	APPR	*	*	*	*
 21	dessen	die	PRELAT	*	*	*	*
-22	Fäden	Faden	NN	1	2	1	1
+22	Fäden	Faden	NN	LIT	FIG	LIT	LIT
 23	der	die	ART	*	*	*	*
 24	milliardenschwere	milliardenschwer	ADJA	*	*	*	*
 25	Bertelsmann-Konzern	Bertelsmann-Konzern	NN	*	*	*	*
 26	und	und	KON	*	*	*	*
 27	seine	sein	PPOSAT	*	*	*	*
 28	Stiftung	Stiftung	NN	*	*	*	*
-29	zogen	ziehen	VVFIN	1	2	1	1
+29	zogen	ziehen	VVFIN	LIT	FIG	LIT	LIT
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T990219.323
 # sent_id = 2971
 # text = Sein Gehalt wird ihm regelmäßig überwiesen , aber arbeiten , sprich im Mittelfeld des Hamburger SV die Fäden ziehen , muß er nicht .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sein	sein	PPOSAT	*	*	*	*
@@ -6113,8 +6284,8 @@
 15	Hamburger	Hamburger	ADJA	*	*	*	*
 16	SV	SV	NE	*	*	*	*
 17	die	die	ART	*	*	*	*
-18	Fäden	Faden	NN	2	2	2	2
-19	ziehen	ziehen	VVINF	2	2	2	2
+18	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+19	ziehen	ziehen	VVINF	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	muß	müssen	VMFIN	*	*	*	*
 22	er	er	PPER	*	*	*	*
@@ -6124,17 +6295,18 @@
 # tuepp_article_id = T990223.107
 # sent_id = 2972
 # text = Brockmeyer zog über viele Jahre als Ministerialdirigent die Fäden der Schulpolitik in NRW .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Brockmeyer	Brockmeyer	NE	*	*	*	*
-2	zog	ziehen	VVFIN	2	2	2	2
+2	zog	ziehen	VVFIN	FIG	FIG	FIG	FIG
 3	über	über	APPR	*	*	*	*
 4	viele	viele	PIAT	*	*	*	*
 5	Jahre	Jahr	NN	*	*	*	*
 6	als	als	KOKOM	*	*	*	*
 7	Ministerialdirigent	Ministerialdirigent	NN	*	*	*	*
 8	die	die	ART	*	*	*	*
-9	Fäden	Faden	NN	2	2	2	2
+9	Fäden	Faden	NN	FIG	FIG	FIG	FIG
 10	der	die	ART	*	*	*	*
 11	Schulpolitik	Schulpolitik	NN	*	*	*	*
 12	in	in	APPR	*	*	*	*
@@ -6144,6 +6316,7 @@
 # tuepp_article_id = T990227.154
 # sent_id = 2973
 # text = Anfang des Monats wurden zwei Ex- Offiziere , die beim Entführungsfall Kovac die Fäden gezogen haben sollen , verhaftet .
+# vid_types = faden ziehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Anfang	Anfang	NN	*	*	*	*
@@ -6159,8 +6332,8 @@
 11	Entführungsfall	Entführungsfall	NN	*	*	*	*
 12	Kovac	<unknown>	NE	*	*	*	*
 13	die	die	ART	*	*	*	*
-14	Fäden	Faden	NN	2	2	2	2
-15	gezogen	ziehen	VVPP	2	2	2	2
+14	Fäden	Faden	NN	FIG	FIG	FIG	FIG
+15	gezogen	ziehen	VVPP	FIG	FIG	FIG	FIG
 16	haben	haben	VAINF	*	*	*	*
 17	sollen	sollen	VMFIN	*	*	*	*
 18	,	,	$,	*	*	*	*

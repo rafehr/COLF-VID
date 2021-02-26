@@ -1,6 +1,7 @@
 # tuepp_article_id = T890505.114
 # sent_id = 6786
 # text = Vor allem dann , als Kosugi einmal über die Bühne geht als wäre er der Geiger im Cafe .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vor	vor	APPR	*	*	*	*
@@ -10,10 +11,10 @@
 5	als	als	KOUS	*	*	*	*
 6	Kosugi	<unknown>	NE	*	*	*	*
 7	einmal	einmal	ADV	*	*	*	*
-8	über	über	APPR	1	1	1	1
+8	über	über	APPR	LIT	LIT	LIT	LIT
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	1	1	1	1
-11	geht	gehen	VVFIN	1	1	1	1
+10	Bühne	Bühne	NN	LIT	LIT	LIT	LIT
+11	geht	gehen	VVFIN	LIT	LIT	LIT	LIT
 12	als	als	KOKOM	*	*	*	*
 13	wäre	sein	VAFIN	*	*	*	*
 14	er	er	PPER	*	*	*	*
@@ -26,6 +27,7 @@
 # tuepp_article_id = T890502.40
 # sent_id = 6787
 # text = " Daß der Ärztetag neun Jahre nach der Geburtsstunde der Gesundheitsbewegung relativ unbehelligt von Kontrastprogrammen über die Bühne gehen kann , hängt jedoch nicht nur mit einer zunehmenden Einbindung der kritischen Ärzteschaft in den Standesgremien zusammen , sondern auch mit einem Abflauen der Gesundheitsbewegung selber , die sich auf dem letzten " Gesundheitstag " in Kassel zusätzlich noch zu intern behakte .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -43,10 +45,10 @@
 13	unbehelligt	unbehelligt	ADJD	*	*	*	*
 14	von	von	APPR	*	*	*	*
 15	Kontrastprogrammen	<unknown>	NN	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	kann	können	VMFIN	*	*	*	*
 21	,	,	$,	*	*	*	*
 22	hängt	hängen	VVFIN	*	*	*	*
@@ -94,6 +96,7 @@
 # tuepp_article_id = T890517.27
 # sent_id = 6788
 # text = Wer meint , das neuerliche G-7-Treffen ( USA , Kanada , Italien , Frankreich , Großbritannien , Japan und die Bundesrepublik ) auf Staatssekretärsebene , das Montag und Dienstag in New York über die Bühne ging , habe sich wie angekündigt vor allem über die Pläne des US-Finanzministers Nicholas Brady zur Entschuldung der Dritten Welt unterhalten , der irrt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wer	wer	PWS	*	*	*	*
@@ -128,10 +131,10 @@
 30	in	in	APPR	*	*	*	*
 31	New	New	NE	*	*	*	*
 32	York	York	NE	*	*	*	*
-33	über	über	APPR	2	2	2	2
+33	über	über	APPR	FIG	FIG	FIG	FIG
 34	die	die	ART	*	*	*	*
-35	Bühne	Bühne	NN	2	2	2	2
-36	ging	gehen	VVFIN	2	2	2	2
+35	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+36	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 37	,	,	$,	*	*	*	*
 38	habe	haben	VAFIN	*	*	*	*
 39	sich	sich	PRF	*	*	*	*
@@ -160,6 +163,7 @@
 # tuepp_article_id = T890531.38
 # sent_id = 6789
 # text = Berlin ( taz ) - " Wenn die jetzt noch offenen Punkte in der nächsten Woche geklärt werden können , dann kann die Wiederaufnahme in die IGMetall schon im ersten Halbjahr 1989 komplett über die Bühne gegangen sein .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -195,16 +199,17 @@
 31	Halbjahr	Halbjahr	NN	*	*	*	*
 32	1989	@card@	CARD	*	*	*	*
 33	komplett	komplett	ADJD	*	*	*	*
-34	über	über	APPR	2	2	2	2
+34	über	über	APPR	FIG	FIG	FIG	FIG
 35	die	die	ART	*	*	*	*
-36	Bühne	Bühne	NN	2	2	2	2
-37	gegangen	gehen	VVPP	2	2	2	2
+36	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+37	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 38	sein	sein	VAINF	*	*	*	*
 39	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890523.109
 # sent_id = 6790
 # text = Das ist nicht nur der Traum der nicaraguanischen Regierung , die sich für die großen Wahlen vom kommenden Februar rüstet , sondern auch das Ergebnis der Studentenvertretungswahlen , die letzte Woche an allen Hochschulen des Landes über die Bühne gegangen sind .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -243,16 +248,17 @@
 34	Hochschulen	Hochschule	NN	*	*	*	*
 35	des	die	ART	*	*	*	*
 36	Landes	Land	NN	*	*	*	*
-37	über	über	APPR	2	2	2	2
+37	über	über	APPR	FIG	FIG	FIG	FIG
 38	die	die	ART	*	*	*	*
-39	Bühne	Bühne	NN	2	2	2	2
-40	gegangen	gehen	VVPP	2	2	2	2
+39	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+40	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 41	sind	sein	VAFIN	*	*	*	*
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890508.145
 # sent_id = 6791
 # text = Auch der ausgeschriebene Architektenwettbewerb wäre ohne die Mitentscheidung der Mieter über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -265,15 +271,16 @@
 8	Mitentscheidung	<unknown>	NN	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Mieter	Mieter	NN	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
-14	gegangen	gehen	VVPP	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+14	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890621.29
 # sent_id = 6792
 # text = Berlin ( taz ) - Ohne die bundesdeutsche Politik gegenüber der Türkei einer kritischen Würdigung zu unterziehen , ging am Wochenanfang im Unterauschuß des Bundestages für Menschenrechte und humanitäre Fragen ein Hearing zur Türkei über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -294,7 +301,7 @@
 16	zu	zu	PTKZU	*	*	*	*
 17	unterziehen	unterziehen	VVINF	*	*	*	*
 18	,	,	$,	*	*	*	*
-19	ging	gehen	VVFIN	2	2	2	2
+19	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 20	am	an	APPRART	*	*	*	*
 21	Wochenanfang	Wochenanfang	NN	*	*	*	*
 22	im	in	APPRART	*	*	*	*
@@ -310,14 +317,15 @@
 32	Hearing	<unknown>	NN	*	*	*	*
 33	zur	zu	APPRART	*	*	*	*
 34	Türkei	Türkei	NE	*	*	*	*
-35	über	über	APPR	2	2	2	2
+35	über	über	APPR	FIG	FIG	FIG	FIG
 36	die	die	ART	*	*	*	*
-37	Bühne	Bühne	NN	2	2	2	2
+37	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 38	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891011.59
 # sent_id = 6793
 # text = Das " Gesetz über das Lösungsverfahren bei kollektiven Arbeitsstreitigkeiten " ging ohne größere Änderungen der Vorlage über die Bühne , obwohl es an Zusatzanträgen und Verbesserungsvorschlägen nicht mangelte .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -330,15 +338,15 @@
 8	kollektiven	kollektiv	ADJA	*	*	*	*
 9	Arbeitsstreitigkeiten	Arbeitsstreitigkeit	NN	*	*	*	*
 10	"	"	$(	*	*	*	*
-11	ging	gehen	VVFIN	2	2	2	2
+11	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 12	ohne	ohne	APPR	*	*	*	*
 13	größere	groß	ADJA	*	*	*	*
 14	Änderungen	Änderung	NN	*	*	*	*
 15	der	die	ART	*	*	*	*
 16	Vorlage	Vorlage	NN	*	*	*	*
-17	über	über	APPR	2	2	2	2
+17	über	über	APPR	FIG	FIG	FIG	FIG
 18	die	die	ART	*	*	*	*
-19	Bühne	Bühne	NN	2	2	2	2
+19	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	obwohl	obwohl	KOUS	*	*	*	*
 22	es	es	PPER	*	*	*	*
@@ -353,6 +361,7 @@
 # tuepp_article_id = T891013.119
 # sent_id = 6794
 # text = Und als am vergangenen Sonntag in Berlin das " 4. Internationale - Kraftsport-Kulturistik-Pokal-Turnier " über die Bühne ging , war der renommierteste Ort gerade recht : die Werner - Seelenbinder-Halle .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -370,10 +379,10 @@
 13	-	-	$(	*	*	*	*
 14	Kraftsport-Kulturistik-Pokal-Turnier	<unknown>	NN	*	*	*	*
 15	"	"	$(	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	ging	gehen	VVFIN	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 20	,	,	$,	*	*	*	*
 21	war	sein	VAFIN	*	*	*	*
 22	der	die	ART	*	*	*	*
@@ -391,6 +400,7 @@
 # tuepp_article_id = T891017.44
 # sent_id = 6795
 # text = Bislang waren solche riskanten Finanzierungen mit " Dreckspapieren " fast immer einigermaßen sicher über die Bühne gegangen , weil die " Junkies " attraktiv ausgestattet , sprich : hoch verzinst wurden .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bislang	bislang	ADV	*	*	*	*
@@ -406,10 +416,10 @@
 11	immer	immer	ADV	*	*	*	*
 12	einigermaßen	einigermaßen	ADV	*	*	*	*
 13	sicher	sicher	ADJD	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
-17	gegangen	gehen	VVPP	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+17	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 18	,	,	$,	*	*	*	*
 19	weil	weil	KOUS	*	*	*	*
 20	die	die	ART	*	*	*	*
@@ -429,6 +439,7 @@
 # tuepp_article_id = T891003.7
 # sent_id = 6796
 # text = Der Wechsel in Oslo soll auf dem Wege eines für Ende Oktober erwarteten Mißtrauensvotums über die parlamentarische Bühne gehen - " falls Frau Brundtland jetzt nicht umgehend freiwillig zurücktritt " , verkündete der bürgerliche Kandidat für das Ministerpräsidentenamt , Jan P. Syse , nach der Einigung der künftigen Koalitionspartner in der Nacht zum Montag .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -445,11 +456,11 @@
 12	Oktober	Oktober	NN	*	*	*	*
 13	erwarteten	erwartet	ADJA	*	*	*	*
 14	Mißtrauensvotums	Misstrauensvotum	NN	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
 17	parlamentarische	parlamentarisch	ADJA	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	-	-	$(	*	*	*	*
 21	"	"	$(	*	*	*	*
 22	falls	falls	KOUS	*	*	*	*
@@ -490,6 +501,7 @@
 # tuepp_article_id = T890902.144
 # sent_id = 6797
 # text = Das Mozart-Jubeljahr wird noch ohne sein neues , ernsthaft an den Werken orientiertes Konzept über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -506,15 +518,16 @@
 12	Werken	Werk	NN	*	*	*	*
 13	orientiertes	orientiert	ADJA	*	*	*	*
 14	Konzept	Konzept	NN	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
-18	gehen	gehen	VVINF	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+18	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890923.140
 # sent_id = 6798
 # text = Nachdem der sowjetische Botschafter im Juli Momper nach Moskau eingeladen hatte , war von seiten des Senats der Eindruck erweckt worden , als würde die Moskau-Reise ziemlich bald über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nachdem	nachdem	KOUS	*	*	*	*
@@ -545,20 +558,21 @@
 26	Moskau-Reise	Moskau-Reise	NN	*	*	*	*
 27	ziemlich	ziemlich	ADV	*	*	*	*
 28	bald	bald	ADV	*	*	*	*
-29	über	über	APPR	2	2	2	2
+29	über	über	APPR	FIG	FIG	FIG	FIG
 30	die	die	ART	*	*	*	*
-31	Bühne	Bühne	NN	2	2	2	2
-32	gehen	gehen	VVINF	2	2	2	2
+31	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+32	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890905.73
 # sent_id = 6799
 # text = Überraschend friedlich ging andererseits ein Protest gegen Rassentrennung an Stränden in der Hafenstadt Durban am Sonntag nachmittag über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Überraschend	überraschend	ADJD	*	*	*	*
 2	friedlich	friedlich	ADJD	*	*	*	*
-3	ging	gehen	VVFIN	2	2	2	2
+3	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	andererseits	andererseits	ADV	*	*	*	*
 5	ein	eine	ART	*	*	*	*
 6	Protest	Protest	NN	*	*	*	*
@@ -573,14 +587,15 @@
 15	am	an	APPRART	*	*	*	*
 16	Sonntag	Sonntag	NN	*	*	*	*
 17	nachmittag	nachmittag	ADV	*	*	*	*
-18	über	über	APPR	2	2	2	2
+18	über	über	APPR	FIG	FIG	FIG	FIG
 19	die	die	ART	*	*	*	*
-20	Bühne	Bühne	NN	2	2	2	2
+20	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890909.111
 # sent_id = 6800
 # text = Daß dieser gigantische Arbeitsplatzabbau ohne große Eruptionen über die Bühne ging
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -590,14 +605,15 @@
 5	ohne	ohne	APPR	*	*	*	*
 6	große	groß	ADJA	*	*	*	*
 7	Eruptionen	Eruption	NN	*	*	*	*
-8	über	über	APPR	2	2	2	2
+8	über	über	APPR	FIG	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	2	2	2	2
-11	ging	gehen	VVFIN	2	2	2	2
+10	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+11	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T890922.74
 # sent_id = 6801
 # text = Dessen modifizierte Fassung wird der Bundesrat heute verabschieden , und noch in diesem Herbst soll es nach den Plänen der Bundesregierung über die Bühne gegangen sein .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dessen	die	PDAT	*	*	*	*
@@ -621,16 +637,17 @@
 19	Plänen	Plan	NN	*	*	*	*
 20	der	die	ART	*	*	*	*
 21	Bundesregierung	Bundesregierung	NN	*	*	*	*
-22	über	über	APPR	2	2	2	2
+22	über	über	APPR	FIG	FIG	FIG	FIG
 23	die	die	ART	*	*	*	*
-24	Bühne	Bühne	NN	2	2	2	2
-25	gegangen	gehen	VVPP	2	2	2	2
+24	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+25	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 26	sein	sein	VAINF	*	*	*	*
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890131.160
 # sent_id = 6802
 # text = Mit einem bißchen Bangemachen von seiten der Unileitung und mit einem schriftlichen Entwurf zwischen Angebot und Ultimatum an den Rektor und den Bildungssenator von seiten der StudentInnen ging gestern die Vollversammlung ( VV ) in der Universität über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -660,7 +677,7 @@
 25	seiten	seiten	APPR	*	*	*	*
 26	der	die	ART	*	*	*	*
 27	StudentInnen	Studentin	NN	*	*	*	*
-28	ging	gehen	VVFIN	2	2	2	2
+28	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 29	gestern	gestern	ADV	*	*	*	*
 30	die	die	ART	*	*	*	*
 31	Vollversammlung	Vollversammlung	NN	*	*	*	*
@@ -670,23 +687,24 @@
 35	in	in	APPR	*	*	*	*
 36	der	die	ART	*	*	*	*
 37	Universität	Universität	NN	*	*	*	*
-38	über	über	APPR	2	2	2	2
+38	über	über	APPR	FIG	FIG	FIG	FIG
 39	die	die	ART	*	*	*	*
-40	Bühne	Bühne	NN	2	2	2	2
+40	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 41	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890106.189
 # sent_id = 6803
 # text = Ob er glatt über die Bühne gehen wird , muß sich noch herausstellen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ob	ob	KOUS	*	*	*	*
 2	er	er	PPER	*	*	*	*
 3	glatt	glatt	ADJD	*	*	*	*
-4	über	über	APPR	2	2	2	2
+4	über	über	APPR	FIG	FIG	FIG	FIG
 5	die	die	ART	*	*	*	*
-6	Bühne	Bühne	NN	2	2	2	2
-7	gehen	gehen	VVINF	2	2	2	2
+6	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+7	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 8	wird	werden	VAFIN	*	*	*	*
 9	,	,	$,	*	*	*	*
 10	muß	müssen	VMFIN	*	*	*	*
@@ -698,6 +716,7 @@
 # tuepp_article_id = T890124.278
 # sent_id = 6804
 # text = Bei der Bremer Polizei war man hernach hochzufrieden , daß diese Geiselnahme ohne offensichtliche organisatorische Pannen über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -716,15 +735,16 @@
 14	offensichtliche	offensichtlich	ADJA	*	*	*	*
 15	organisatorische	organisatorisch	ADJA	*	*	*	*
 16	Pannen	Panne	NN	*	*	*	*
-17	über	über	APPR	2	2	2	2
+17	über	über	APPR	FIG	FIG	FIG	FIG
 18	die	die	ART	*	*	*	*
-19	Bühne	Bühne	NN	2	2	2	2
-20	ging	gehen	VVFIN	2	2	2	2
+19	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+20	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890116.91
 # sent_id = 6805
 # text = In Abwesenheit der Angeklagten konnte das Verfahren im Fall des ermordeten Renault-Chefs Georges Besse reibungslos über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -742,15 +762,16 @@
 13	Georges	George	NE	*	*	*	*
 14	Besse	<unknown>	NN	*	*	*	*
 15	reibungslos	reibungslos	ADJD	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890118.51
 # sent_id = 6806
 # text = Marburg ( taz ) - " Vielleicht hätte man die Geschichte gar nicht an die große Glocke hängen sollen , dann wäre sie genauso über die Bühne gegangen , wie so manche andere Personalentscheidung am Fachbereich Politikwissenschaften der Marburger Philipps-Universität " , spekuliert ein studentischer Gremienvertreter .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Marburg	Marburg	NE	*	*	*	*
@@ -777,10 +798,10 @@
 22	wäre	sein	VAFIN	*	*	*	*
 23	sie	sie	PPER	*	*	*	*
 24	genauso	genauso	ADV	*	*	*	*
-25	über	über	APPR	2	2	2	2
+25	über	über	APPR	FIG	FIG	FIG	FIG
 26	die	die	ART	*	*	*	*
-27	Bühne	Bühne	NN	2	2	2	2
-28	gegangen	gehen	VVPP	2	2	2	2
+27	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+28	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 29	,	,	$,	*	*	*	*
 30	wie	wie	KOUS	*	*	*	*
 31	so	so	ADV	*	*	*	*
@@ -804,6 +825,7 @@
 # tuepp_article_id = T890104.239
 # sent_id = 6807
 # text = Eine Ehrung Alfred Sohn Rethels kann nicht ohne Bitternisse und unzeitgemäße politische Betrachtungen über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -819,15 +841,16 @@
 11	unzeitgemäße	unzeitgemäß	ADJA	*	*	*	*
 12	politische	politisch	ADJA	*	*	*	*
 13	Betrachtungen	Betrachtung	NN	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
-17	gehen	gehen	VVINF	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+17	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890109.218
 # sent_id = 6808
 # text = Und als der Kossmann zum erstenmal angezählt wurde , war klar , daß das Ding hier schnell über die Bühne gehen würde .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -847,16 +870,17 @@
 15	Ding	Ding	NN	*	*	*	*
 16	hier	hier	ADV	*	*	*	*
 17	schnell	schnell	ADJD	*	*	*	*
-18	über	über	APPR	2	2	2	2
+18	über	über	APPR	FIG	FIG	FIG	FIG
 19	die	die	ART	*	*	*	*
-20	Bühne	Bühne	NN	2	2	2	2
-21	gehen	gehen	VVINF	2	2	2	2
+20	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+21	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 22	würde	werden	VAFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890427.155
 # sent_id = 6809
 # text = Alles wolle man tun , sagte gestern Landespolizeidirektor Kittlaus , " damit der 1. Mai in Kreuzberg ganz friedlich über die Bühne geht " .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Alles	alle	PIS	*	*	*	*
@@ -879,24 +903,25 @@
 18	Kreuzberg	Kreuzberg	NE	*	*	*	*
 19	ganz	ganz	ADV	*	*	*	*
 20	friedlich	friedlich	ADJD	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
-24	geht	gehen	VVFIN	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+24	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 25	"	"	$(	*	*	*	*
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890425.133
 # sent_id = 6810
 # text = Die Auseinandersetzung geht über die Bühne , aber es bewegt sich nichts : " Das Messer steckt , aber das Herz schlägt weiter " .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Auseinandersetzung	Auseinandersetzung	NN	*	*	*	*
-3	geht	gehen	VVFIN	2	2	1	2
-4	über	über	APPR	2	2	1	2
+3	geht	gehen	VVFIN	FIG	FIG	LIT	FIG
+4	über	über	APPR	FIG	FIG	LIT	FIG
 5	die	die	ART	*	*	*	*
-6	Bühne	Bühne	NN	2	2	1	2
+6	Bühne	Bühne	NN	FIG	FIG	LIT	FIG
 7	,	,	$,	*	*	*	*
 8	aber	aber	KON	*	*	*	*
 9	es	es	PPER	*	*	*	*
@@ -920,6 +945,7 @@
 # tuepp_article_id = T890728.110
 # sent_id = 6811
 # text = Eigentlich hätte auch die diesjährige Hauptversammlung der Springer-Aktionäre am Mittwochnachmittag bereits um 16 Uhr glatt über die Bühne des blauen Saals im Internationalen Congreß-Centrum ( ICC ) Berlin gegangen sein können .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eigentlich	eigentlich	ADV	*	*	*	*
@@ -937,9 +963,9 @@
 13	16	@card@	CARD	*	*	*	*
 14	Uhr	Uhr	NN	*	*	*	*
 15	glatt	glatt	ADJD	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 19	des	die	ART	*	*	*	*
 20	blauen	blau	ADJA	*	*	*	*
 21	Saals	Saal	NN	*	*	*	*
@@ -950,7 +976,7 @@
 26	ICC	ICC	NE	*	*	*	*
 27	)	)	$(	*	*	*	*
 28	Berlin	Berlin	NE	*	*	*	*
-29	gegangen	gehen	VVPP	2	2	2	2
+29	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 30	sein	sein	VAINF	*	*	*	*
 31	können	können	VMFIN	*	*	*	*
 32	.	.	$.	*	*	*	*
@@ -958,11 +984,12 @@
 # tuepp_article_id = T890728.110
 # sent_id = 6812
 # text = Nach all diesen Positiv-Meldungen berichtete der Aufsichtsrats-Vorsitzende Servatius den versammelten Aktionären , daß die Bilanzprüfung für 1988 ohne Beanstandungen glatt über die Bühne gegangenen sei und erklärte der Versammlung noch kurz und bündig die Formalitäten für die erforderliche Entlastung des Vorstands und des Aufsichtsrats , um sodann die Aussprache im blauen Saal zu eröffnen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
 2	all	alle	PIAT	*	*	*	*
-3	diesen	dies	PDAT	2	2	2	2
+3	diesen	dies	PDAT	FIG	FIG	FIG	FIG
 4	Positiv-Meldungen	<unknown>	NN	*	*	*	*
 5	berichtete	berichten	VVFIN	*	*	*	*
 6	der	die	ART	*	*	*	*
@@ -980,9 +1007,9 @@
 18	ohne	ohne	APPR	*	*	*	*
 19	Beanstandungen	Beanstandung	NN	*	*	*	*
 20	glatt	glatt	ADJD	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 24	gegangenen	gegangen	ADJA	*	*	*	*
 25	sei	sein	VAFIN	*	*	*	*
 26	und	und	KON	*	*	*	*
@@ -1019,6 +1046,7 @@
 # tuepp_article_id = T890728.110
 # sent_id = 6813
 # text = Die Angelegenheit Monti konnte noch nicht behandelt werden , weil sie erst im Jahre 1989 über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1036,32 +1064,34 @@
 13	im	in	APPRART	*	*	*	*
 14	Jahre	Jahr	NN	*	*	*	*
 15	1989	@card@	CARD	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	ging	gehen	VVFIN	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890713.61
 # sent_id = 6814
 # text = In diesem Jahr ging bisher alles reibungslos über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	diesem	dies	PDAT	*	*	*	*
 3	Jahr	Jahr	NN	*	*	*	*
-4	ging	gehen	VVFIN	2	2	2	2
+4	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	bisher	bisher	ADV	*	*	*	*
 6	alles	alle	PIS	*	*	*	*
 7	reibungslos	reibungslos	ADJD	*	*	*	*
-8	über	über	APPR	2	2	2	2
+8	über	über	APPR	FIG	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	2	2	2	2
+10	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891218.153
 # sent_id = 6815
 # text = Obgleich auch im benachbarten Jahn-Sportpark solche Veranstaltungen über die Bühne gingen , dauerte es noch 13 Jahre , bis die Dynamo-Arena renoviert wurde .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Obgleich	obgleich	KOUS	*	*	*	*
@@ -1071,10 +1101,10 @@
 5	Jahn-Sportpark	Jahn-Sportpark	NN	*	*	*	*
 6	solche	solche	PIAT	*	*	*	*
 7	Veranstaltungen	Veranstaltung	NN	*	*	*	*
-8	über	über	APPR	2	2	2	2
+8	über	über	APPR	FIG	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	2	2	2	2
-11	gingen	gehen	VVFIN	2	2	2	2
+10	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+11	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	dauerte	dauern	VVFIN	*	*	*	*
 14	es	es	PPER	*	*	*	*
@@ -1092,6 +1122,7 @@
 # tuepp_article_id = T891204.91
 # sent_id = 6816
 # text = Eine sofort eingeleitete Suchaktion verlief ergebnislos , so daß die Ehrung in Baden-Baden ohne die junge Frau über die Bühne gehen mußte .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -1111,16 +1142,17 @@
 15	die	die	ART	*	*	*	*
 16	junge	jung	ADJA	*	*	*	*
 17	Frau	Frau	NN	*	*	*	*
-18	über	über	APPR	2	2	2	2
+18	über	über	APPR	FIG	FIG	FIG	FIG
 19	die	die	ART	*	*	*	*
-20	Bühne	Bühne	NN	2	2	2	2
-21	gehen	gehen	VVINF	2	2	2	2
+20	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+21	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 22	mußte	müssen	VMFIN	*	*	*	*
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891222.121
 # sent_id = 6817
 # text = Als Anfang Oktober zeitgleich die Tennis-Classics und das Golf-Masters über die Bühne gingen , saßen Sportmuffel Rommel und Tennisfreund Späth einträchtig in der Schleyer-Halle der SMK ( Eigner : 65 Prozent Stadt , 25 Prozent Land ) , das Filzspiel zu verfolgen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -1132,10 +1164,10 @@
 7	und	und	KON	*	*	*	*
 8	das	die	ART	*	*	*	*
 9	Golf-Masters	<unknown>	NN	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	gingen	gehen	VVFIN	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	saßen	sitzen	VVFIN	*	*	*	*
 16	Sportmuffel	Sportmuffel	NN	*	*	*	*
@@ -1170,6 +1202,7 @@
 # tuepp_article_id = T890815.164
 # sent_id = 6818
 # text = Der 13. August ist ohne besondere Ereignisse über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -1180,25 +1213,26 @@
 6	ohne	ohne	APPR	*	*	*	*
 7	besondere	besonder	ADJA	*	*	*	*
 8	Ereignisse	Ereignis	NN	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
-12	gegangen	gehen	VVPP	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+12	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890823.160
 # sent_id = 6819
 # text = Spätestens wenn der Deal über die Bühne gegangen ist , sind Daimler und Bonn in ihrer Auftragsvergabe wieder frei , und wer dann noch anfängt zu meckern , macht sich lächerlich .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Spätestens	spätestens	ADV	*	*	*	*
 2	wenn	wenn	KOUS	*	*	*	*
 3	der	die	ART	*	*	*	*
 4	Deal	Deal	NE	*	*	*	*
-5	über	über	APPR	2	2	2	2
+5	über	über	APPR	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
-7	Bühne	Bühne	NN	2	2	2	2
-8	gegangen	gehen	VVPP	2	2	2	2
+7	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+8	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 9	ist	sein	VAFIN	*	*	*	*
 10	,	,	$,	*	*	*	*
 11	sind	sein	VAFIN	*	*	*	*
@@ -1227,6 +1261,7 @@
 # tuepp_article_id = T890818.149
 # sent_id = 6820
 # text = " Tatsache ist , daß 300 Meter vom Verteidigungsministerium entfernt , die Warteschlangen vor dem Stadion an die Kasse drängten , während von rebellierenden Piloten gesteuerte MIG 23-Düsenjäger im Tiefflug über der Stadt die Schallmauer durchbrachen , ging das angekündigte Fußballspiel ohne Unterbrechung über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1266,20 +1301,21 @@
 35	Schallmauer	Schallmauer	NN	*	*	*	*
 36	durchbrachen	durchbrechen	VVFIN	*	*	*	*
 37	,	,	$,	*	*	*	*
-38	ging	gehen	VVFIN	2	2	2	2
+38	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 39	das	die	ART	*	*	*	*
 40	angekündigte	angekündigt	ADJA	*	*	*	*
 41	Fußballspiel	Fußballspiel	NN	*	*	*	*
 42	ohne	ohne	APPR	*	*	*	*
 43	Unterbrechung	Unterbrechung	NN	*	*	*	*
-44	über	über	APPR	2	2	2	2
+44	über	über	APPR	FIG	FIG	FIG	FIG
 45	die	die	ART	*	*	*	*
-46	Bühne	Bühne	NN	2	2	2	2
+46	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 47	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890304.31
 # sent_id = 6821
 # text = Über eine einstweilige Anordnung will der Betriebsrat jetzt verhindern , daß der Deal in der nächsten Woche über die Bühne geht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Über	über	APPR	*	*	*	*
@@ -1299,15 +1335,16 @@
 15	der	die	ART	*	*	*	*
 16	nächsten	nah	ADJA	*	*	*	*
 17	Woche	Woche	NN	*	*	*	*
-18	über	über	APPR	2	2	2	2
+18	über	über	APPR	FIG	FIG	FIG	FIG
 19	die	die	ART	*	*	*	*
-20	Bühne	Bühne	NN	2	2	2	2
-21	geht	gehen	VVFIN	2	2	2	2
+20	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+21	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890323.93
 # sent_id = 6822
 # text = Also ab nach Kassel , wo nach Dähnerts Frauenbad in Dieppe und Wisniewskis Der schwarze Zug nun innerhalb kürzester Zeit eine dritte bemerkenswerte Uraufführung über die Bühne geht - nicht in der schwedischen Heimat .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Also	also	ADV	*	*	*	*
@@ -1334,10 +1371,10 @@
 22	dritte	dritt	ADJA	*	*	*	*
 23	bemerkenswerte	bemerkenswert	ADJA	*	*	*	*
 24	Uraufführung	Uraufführung	NN	*	*	*	*
-25	über	über	APPR	2	2	2	2
+25	über	über	APPR	FIG	FIG	FIG	FIG
 26	die	die	ART	*	*	*	*
-27	Bühne	Bühne	NN	2	2	2	2
-28	geht	gehen	VVFIN	2	2	2	2
+27	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+28	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 29	-	-	$(	*	*	*	*
 30	nicht	nicht	PTKNEG	*	*	*	*
 31	in	in	APPR	*	*	*	*
@@ -1349,6 +1386,7 @@
 # tuepp_article_id = T890323.171
 # sent_id = 6823
 # text = Die Haushaltsvorschläge für 1990 sind schon im letzten November erstellt worden , die hausinterne Abwägung zwischen den Ressorts ist schon im Januar über die Bühne gegangen und im Mai wird der neue Finanzsenator auf dieser Grundlage sein Prüfergebnis mitteilen , sprich den einzelnen Senatorinnen sagen , wie wenig Geld sie 1990 zur Verfügung haben .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1373,10 +1411,10 @@
 20	schon	schon	ADV	*	*	*	*
 21	im	in	APPRART	*	*	*	*
 22	Januar	Januar	NN	*	*	*	*
-23	über	über	APPR	2	2	2	2
+23	über	über	APPR	FIG	FIG	FIG	FIG
 24	die	die	ART	*	*	*	*
-25	Bühne	Bühne	NN	2	2	2	2
-26	gegangen	gehen	VVPP	2	2	2	2
+25	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+26	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 27	und	und	KON	*	*	*	*
 28	im	in	APPRART	*	*	*	*
 29	Mai	Mai	NN	*	*	*	*
@@ -1410,6 +1448,7 @@
 # tuepp_article_id = T890306.127
 # sent_id = 6824
 # text = Ohne schwere Querelen , abseits der großen Streitpunkte , gingen dem Vernehmen nach die rot-grünen Verhandlungen zur Sportpolitik über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ohne	ohne	APPR	*	*	*	*
@@ -1421,7 +1460,7 @@
 7	großen	groß	ADJA	*	*	*	*
 8	Streitpunkte	Streitpunkt	NN	*	*	*	*
 9	,	,	$,	*	*	*	*
-10	gingen	gehen	VVFIN	2	2	2	2
+10	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 11	dem	die	ART	*	*	*	*
 12	Vernehmen	Vernehmen	NN	*	*	*	*
 13	nach	nach	APPR	*	*	*	*
@@ -1430,14 +1469,15 @@
 16	Verhandlungen	Verhandlung	NN	*	*	*	*
 17	zur	zu	APPRART	*	*	*	*
 18	Sportpolitik	Sportpolitik	NN	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890306.127
 # sent_id = 6825
 # text = Zu den Bauplänen der SPD/AL-Sportpolitiker : Der Ausbau des Poststadions ( bisher waren 90 Millionen Mark veranschlagt ) würde - aus Geldmangel - wohl kaum in der vom alten Senat geplanten Form über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zu	zu	APPR	*	*	*	*
@@ -1472,15 +1512,16 @@
 30	Senat	Senat	NN	*	*	*	*
 31	geplanten	geplant	ADJA	*	*	*	*
 32	Form	Form	NN	*	*	*	*
-33	über	über	APPR	2	2	2	2
+33	über	über	APPR	FIG	FIG	FIG	FIG
 34	die	die	ART	*	*	*	*
-35	Bühne	Bühne	NN	2	2	2	2
-36	gehen	gehen	VVINF	2	2	2	2
+35	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+36	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890318.34
 # sent_id = 6826
 # text = Die Wahl des neues Senats in Berlin , die so glatt über die Bühne ging wie keine in den letzten Jahren , war der konsequente vorläufige Endpunkt der Verhandlungsführung des Walter Momper .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -1494,10 +1535,10 @@
 9	die	die	PRELS	*	*	*	*
 10	so	so	ADV	*	*	*	*
 11	glatt	glatt	ADJD	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	ging	gehen	VVFIN	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 16	wie	wie	KOKOM	*	*	*	*
 17	keine	keine	PIS	*	*	*	*
 18	in	in	APPR	*	*	*	*
@@ -1520,6 +1561,7 @@
 # tuepp_article_id = T891118.11
 # sent_id = 6827
 # text = Und wenn dieses Wochenende so freudig und friedlich über die Bühne gehen soll wie das letzte , wird ein jeder in dieser Stadt sein Höchstmaß an Geduld und guter Laune aufbieten müssen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -1530,10 +1572,10 @@
 6	freudig	freudig	ADJD	*	*	*	*
 7	und	und	KON	*	*	*	*
 8	friedlich	friedlich	ADJD	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
-12	gehen	gehen	VVINF	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+12	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 13	soll	sollen	VMFIN	*	*	*	*
 14	wie	wie	KOKOM	*	*	*	*
 15	das	die	ART	*	*	*	*
@@ -1559,6 +1601,7 @@
 # tuepp_article_id = T891116.53
 # sent_id = 6828
 # text = Berlin / Brüssel ( taz ) - Direkt vor den Toren der Brüsseler Atomkontrolleure der Euratom sollte ein internationaler Deal mit illegal ausgeführten Spaltprodukten über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -1585,34 +1628,36 @@
 22	illegal	illegal	ADJD	*	*	*	*
 23	ausgeführten	ausgeführt	ADJA	*	*	*	*
 24	Spaltprodukten	Spaltprodukt	NN	*	*	*	*
-25	über	über	APPR	2	2	2	2
+25	über	über	APPR	FIG	FIG	FIG	FIG
 26	die	die	ART	*	*	*	*
-27	Bühne	Bühne	NN	2	2	2	2
-28	gehen	gehen	VVINF	2	2	2	2
+27	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+28	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T891116.129
 # sent_id = 6829
 # text = Kurz und schmerzlos ging am Sonntag abend die Preisverleihung über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kurz	kurz	ADJD	*	*	*	*
 2	und	und	KON	*	*	*	*
 3	schmerzlos	schmerzlos	ADJD	*	*	*	*
-4	ging	gehen	VVFIN	2	2	2	2
+4	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	am	an	APPRART	*	*	*	*
 6	Sonntag	Sonntag	NN	*	*	*	*
 7	abend	abend	ADV	*	*	*	*
 8	die	die	ART	*	*	*	*
 9	Preisverleihung	Preisverleihung	NN	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890208.78
 # sent_id = 6830
 # text = Kein Wort über die größte Studentendemo in Stuttgart , die je über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Kein	keine	PIAT	*	*	*	*
@@ -1626,15 +1671,16 @@
 9	,	,	$,	*	*	*	*
 10	die	die	PRELS	*	*	*	*
 11	je	je	ADV	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	ging	gehen	VVFIN	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890206.90
 # sent_id = 6831
 # text = Jahr erhält die Comic-Hauptstadt Europas durch den im März über die Bühne gehenden " Ersten Europäischen Comic - Salon " in Grenoble ernsthaft Konkurrenz .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jahr	Jahr	NN	*	*	*	*
@@ -1646,10 +1692,10 @@
 7	den	die	ART	*	*	*	*
 8	im	in	APPRART	*	*	*	*
 9	März	März	NN	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	gehenden	gehend	ADJA	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	gehenden	gehend	ADJA	FIG	FIG	FIG	FIG
 14	"	"	$(	*	*	*	*
 15	Ersten	Erste	NN	*	*	*	*
 16	Europäischen	europäisch	ADJA	*	*	*	*
@@ -1666,6 +1712,7 @@
 # tuepp_article_id = T890213.160
 # sent_id = 6832
 # text = Ein einwöchiges Architektur-Symposion mit internationalen und Berliner Architekturautoritäten und ehemaligen Querköpfen aus der Studentenbewegung ging letzte Woche über die Bühne des Fachbereichs , um den Gegenbeweis zur maroden Ausbildung zu führen : Nämlich daß Lehre mehr bedeutet als nur Büffeln hohler Formeln , daß der Anspruch auf selbstbestimmte Inhalte und strukturverändernde Formen besteht und schließlich , daß die Vision akademischer Utopie noch längst nicht ausgeträumt ist .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -1682,12 +1729,12 @@
 12	aus	aus	APPR	*	*	*	*
 13	der	die	ART	*	*	*	*
 14	Studentenbewegung	Studentenbewegung	NN	*	*	*	*
-15	ging	gehen	VVFIN	2	2	2	2
+15	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 16	letzte	letzt	ADJA	*	*	*	*
 17	Woche	Woche	NN	*	*	*	*
-18	über	über	APPR	2	2	2	2
+18	über	über	APPR	FIG	FIG	FIG	FIG
 19	die	die	ART	*	*	*	*
-20	Bühne	Bühne	NN	2	2	2	2
+20	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 21	des	die	ART	*	*	*	*
 22	Fachbereichs	Fachbereich	NN	*	*	*	*
 23	,	,	$,	*	*	*	*
@@ -1739,6 +1786,7 @@
 # tuepp_article_id = T890223.136
 # sent_id = 6833
 # text = Dann darf der Feuerwehrmann von rechts nach links und von links nach rechts über die Bühne gehen , dann dürfen Schnüre sich vom Boden zur Decke spannen , dann dürfen Stimmen aus anderen Stücken Strindbergs und sonstige merkwürdige Geräusche über Lautsprecher tönen , dann dürfen die Schatten lang und länger werden , dann leuchten die Scheinwerfer ihr härtestes Licht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dann	dann	ADV	*	*	*	*
@@ -1754,10 +1802,10 @@
 11	links	links	ADV	*	*	*	*
 12	nach	nach	APPR	*	*	*	*
 13	rechts	rechts	ADV	*	*	*	*
-14	über	über	APPR	1	1	1	1
+14	über	über	APPR	LIT	LIT	LIT	LIT
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	1	1	1	1
-17	gehen	gehen	VVINF	1	1	1	1
+16	Bühne	Bühne	NN	LIT	LIT	LIT	LIT
+17	gehen	gehen	VVINF	LIT	LIT	LIT	LIT
 18	,	,	$,	*	*	*	*
 19	dann	dann	ADV	*	*	*	*
 20	dürfen	dürfen	VMFIN	*	*	*	*
@@ -1805,6 +1853,7 @@
 # tuepp_article_id = T890207.36
 # sent_id = 6834
 # text = taz : Heute wird die zweite Gesprächsrunde zwischen AL und SPD über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	taz	<unknown>	NE	*	*	*	*
@@ -1818,34 +1867,36 @@
 9	AL	AL	NE	*	*	*	*
 10	und	und	KON	*	*	*	*
 11	SPD	SPD	NE	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	gehen	gehen	VVINF	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T890207.97
 # sent_id = 6835
 # text = Das Positiven-Treffen ging in München an streng geheimgehaltenen Orten über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
 2	Positiven-Treffen	<unknown>	NN	*	*	*	*
-3	ging	gehen	VVFIN	2	2	2	2
+3	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	in	in	APPR	*	*	*	*
 5	München	München	NE	*	*	*	*
 6	an	an	APPR	*	*	*	*
 7	streng	streng	ADJD	*	*	*	*
 8	geheimgehaltenen	geheimgehalten	ADJA	*	*	*	*
 9	Orten	Ort|Orten	NN	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910517.233
 # sent_id = 6836
 # text = Man kann nur hoffen , daß die Tortur wenigsten halbwegs reibungslos über die Bühne geht , für 's Publikum und die Akteure .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Man	man	PIS	*	*	*	*
@@ -1859,10 +1910,10 @@
 9	wenigsten	wenigsten	ADV	*	*	*	*
 10	halbwegs	halbwegs	ADV	*	*	*	*
 11	reibungslos	reibungslos	ADJD	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	geht	gehen	VVFIN	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	für	für	APPR	*	*	*	*
 18	's	es	PPER	*	*	*	*
@@ -1875,6 +1926,7 @@
 # tuepp_article_id = T910525.203
 # sent_id = 6837
 # text = Das allerdings wird nicht ohne Koalitionskrach über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
@@ -1883,15 +1935,16 @@
 4	nicht	nicht	PTKNEG	*	*	*	*
 5	ohne	ohne	APPR	*	*	*	*
 6	Koalitionskrach	Koalitionskrach	NN	*	*	*	*
-7	über	über	APPR	2	2	2	2
+7	über	über	APPR	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
-9	Bühne	Bühne	NN	2	2	2	2
-10	gehen	gehen	VVINF	2	2	2	2
+9	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+10	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910513.143
 # sent_id = 6838
 # text = " - das Plansoll an Volksliedfrohsinn , der in exakt 90 Minuten über die Bühne der Kurhaus-Wandelhalle rollt , " denn ohne Sangesfreude geht es nicht " .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -1906,9 +1959,9 @@
 10	exakt	exakt	ADJD	*	*	*	*
 11	90	@card@	CARD	*	*	*	*
 12	Minuten	Minute	NN	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Bühne	Bühne	NN	2	2	2	2
+15	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 16	der	die	ART	*	*	*	*
 17	Kurhaus-Wandelhalle	<unknown>	NN	*	*	*	*
 18	rollt	rollen	VVFIN	*	*	*	*
@@ -1917,7 +1970,7 @@
 21	denn	denn	KON	*	*	*	*
 22	ohne	ohne	APPR	*	*	*	*
 23	Sangesfreude	Sangesfreude	NN	*	*	*	*
-24	geht	gehen	VVFIN	2	2	2	2
+24	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 25	es	es	PPER	*	*	*	*
 26	nicht	nicht	PTKNEG	*	*	*	*
 27	"	"	$(	*	*	*	*
@@ -1926,6 +1979,7 @@
 # tuepp_article_id = T910513.240
 # sent_id = 6839
 # text = Am meisten beeindruckt hat sie , daß die ganze Fahrt ohne viel Organisation über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -1941,15 +1995,16 @@
 11	ohne	ohne	APPR	*	*	*	*
 12	viel	viele	PIAT	*	*	*	*
 13	Organisation	Organisation	NN	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
-17	ging	gehen	VVFIN	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+17	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910513.250
 # sent_id = 6840
 # text = Da sollte am Sonnabend im Wehrschloß ein Niederländisches Hard-Core-Festival über die Bühne gehen , doch eigentlich fand es einen Tag später statt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	ADV	*	*	*	*
@@ -1961,10 +2016,10 @@
 7	ein	eine	ART	*	*	*	*
 8	Niederländisches	Niederländische	NN	*	*	*	*
 9	Hard-Core-Festival	<unknown>	NN	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	gehen	gehen	VVINF	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	doch	doch	KON	*	*	*	*
 16	eigentlich	eigentlich	ADV	*	*	*	*
@@ -1979,6 +2034,7 @@
 # tuepp_article_id = T910522.79
 # sent_id = 6841
 # text = Jahrestag der chinesischen Herrschaft über Tibet ungestört über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jahrestag	Jahrestag	NN	*	*	*	*
@@ -1988,15 +2044,16 @@
 5	über	über	APPR	*	*	*	*
 6	Tibet	Tibet	NE	*	*	*	*
 7	ungestört	ungestört	ADJD	*	*	*	*
-8	über	über	APPR	2	2	2	2
+8	über	über	APPR	FIG	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	2	2	2	2
-11	gehen	gehen	VVINF	2	2	2	2
+10	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+11	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910514.198
 # sent_id = 6842
 # text = So sind sie eben in Potsdam : Sagen nicht nur zu , wenn sie zum Abschluß der ersten Brandenburger Frauenwoche - die übrigens mit gutem Erfolg in zahlreichen Städten des Landes über die Bühne ging - zur Diskussion eingeladen werden .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -2030,10 +2087,10 @@
 29	Städten	Stadt	NN	*	*	*	*
 30	des	die	ART	*	*	*	*
 31	Landes	Land	NN	*	*	*	*
-32	über	über	APPR	2	2	2	2
+32	über	über	APPR	FIG	FIG	FIG	FIG
 33	die	die	ART	*	*	*	*
-34	Bühne	Bühne	NN	2	2	2	2
-35	ging	gehen	VVFIN	2	2	2	2
+34	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+35	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 36	-	-	$(	*	*	*	*
 37	zur	zu	APPRART	*	*	*	*
 38	Diskussion	Diskussion	NN	*	*	*	*
@@ -2044,6 +2101,7 @@
 # tuepp_article_id = T910518.228
 # sent_id = 6843
 # text = Es war alles andere als ein Zufall , daß Wicke von einer » Internationalen Konferenz zur Popmusikforschung « , die 1985 in Montreal über die Bühne ging , mit der Idee zu einer längerfristigen Kooperationsvereinbarung zwischen dem » Centre for Research on Culture and Society « an der Carleton University Ottawa und dem Forschungszentrum zurückkehrte .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -2069,10 +2127,10 @@
 21	1985	@card@	CARD	*	*	*	*
 22	in	in	APPR	*	*	*	*
 23	Montreal	Montreal	NE	*	*	*	*
-24	über	über	APPR	2	2	2	2
+24	über	über	APPR	FIG	FIG	FIG	FIG
 25	die	die	ART	*	*	*	*
-26	Bühne	Bühne	NN	2	2	2	2
-27	ging	gehen	VVFIN	2	2	2	2
+26	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+27	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 28	,	,	$,	*	*	*	*
 29	mit	mit	APPR	*	*	*	*
 30	der	die	ART	*	*	*	*
@@ -2106,6 +2164,7 @@
 # tuepp_article_id = T910507.53
 # sent_id = 6844
 # text = " Ohne inhaltliche Debatte und ohne eine Kandidatenbefragung sei in Neumünster die Vorstandswahl über die Bühne gegangen und Christine Weiske von einer Mehrheit als " kleinstes Übel " gewählt worden .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -2121,10 +2180,10 @@
 11	Neumünster	Neumünster	NE	*	*	*	*
 12	die	die	ART	*	*	*	*
 13	Vorstandswahl	Vorstandswahl	NN	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
-17	gegangen	gehen	VVPP	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+17	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 18	und	und	KON	*	*	*	*
 19	Christine	Christine	NE	*	*	*	*
 20	Weiske	<unknown>	NE	*	*	*	*
@@ -2143,6 +2202,7 @@
 # tuepp_article_id = T910502.43
 # sent_id = 6845
 # text = Am 8. und 9. Juni soll in der Ostberliner Humboldt-Universität unter dem Motto " Kein 218 in Ost und West " ein Kongreßtribunal mit anschließenden Arbeitsgruppen und Podiumsdiskussion über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -2175,15 +2235,16 @@
 28	Arbeitsgruppen	Arbeitsgruppe	NN	*	*	*	*
 29	und	und	KON	*	*	*	*
 30	Podiumsdiskussion	Podiumsdiskussion	NN	*	*	*	*
-31	über	über	APPR	2	2	2	2
+31	über	über	APPR	FIG	FIG	FIG	FIG
 32	die	die	ART	*	*	*	*
-33	Bühne	Bühne	NN	2	2	2	2
-34	gehen	gehen	VVINF	2	2	2	2
+33	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+34	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 35	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910629.43
 # sent_id = 6846
 # text = Nachdem vor rund zwei Wochen aufgebrachte Bergleute eine Strohpuppe mit der Aufschrift Möllemann verbrannt hatten , gingen die Proteste gestern ohne jeden Zwischenfall über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nachdem	nachdem	KOUS	*	*	*	*
@@ -2202,21 +2263,22 @@
 14	verbrannt	verbrennen	VVPP	*	*	*	*
 15	hatten	haben	VAFIN	*	*	*	*
 16	,	,	$,	*	*	*	*
-17	gingen	gehen	VVFIN	2	2	2	2
+17	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 18	die	die	ART	*	*	*	*
 19	Proteste	Protest	NN	*	*	*	*
 20	gestern	gestern	ADV	*	*	*	*
 21	ohne	ohne	APPR	*	*	*	*
 22	jeden	jede	PIAT	*	*	*	*
 23	Zwischenfall	Zwischenfall	NN	*	*	*	*
-24	über	über	APPR	2	2	2	2
+24	über	über	APPR	FIG	FIG	FIG	FIG
 25	die	die	ART	*	*	*	*
-26	Bühne	Bühne	NN	2	2	2	2
+26	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910629.127
 # sent_id = 6847
 # text = Ein Trauerspiel auch bei der Bürgerrechtsbewegung in den neuen Bundesländern , die die Privatisierung ihres Bodens sang- und klanglos über die Bühne gehen läßt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -2238,16 +2300,17 @@
 17	sang-	sang-	TRUNC	*	*	*	*
 18	und	und	KON	*	*	*	*
 19	klanglos	klanglos	ADJD	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
-23	gehen	gehen	VVINF	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+23	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 24	läßt	lassen	VVFIN	*	*	*	*
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910614.54
 # sent_id = 6848
 # text = Denn die Protestaktionen , die vorzugsweise in der ohnehin total verstopften Innenstadt über die Bühne gehen , führen immer wieder für Stunden zu endlosen Verkehrsstaus und verschlimmern dadurch noch den Smog über der Stadt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Denn	denn	KON	*	*	*	*
@@ -2262,10 +2325,10 @@
 10	total	total	ADJD	*	*	*	*
 11	verstopften	verstopft	ADJA	*	*	*	*
 12	Innenstadt	Innenstadt	NN	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Bühne	Bühne	NN	2	2	2	2
-16	gehen	gehen	VVINF	2	2	2	2
+15	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+16	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	führen	fahren|führen	VVFIN	*	*	*	*
 19	immer	immer	ADV	*	*	*	*
@@ -2289,6 +2352,7 @@
 # tuepp_article_id = T910603.62
 # sent_id = 6849
 # text = Allerdings rennt ihm die Zeit davon : Die Frist , in der sämtliche Gesprächsphasen über die Bühne gehen sollten , läuft in sechs Wochen ab .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Allerdings	allerdings	ADV	*	*	*	*
@@ -2305,10 +2369,10 @@
 12	der	die	PRELS	*	*	*	*
 13	sämtliche	sämtliche	PIAT	*	*	*	*
 14	Gesprächsphasen	<unknown>	NN	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
-18	gehen	gehen	VVINF	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+18	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 19	sollten	sollen	VMFIN	*	*	*	*
 20	,	,	$,	*	*	*	*
 21	läuft	laufen	VVFIN	*	*	*	*
@@ -2321,6 +2385,7 @@
 # tuepp_article_id = T911001.75
 # sent_id = 6850
 # text = Die Fusion hätte in Form einer Mehrheitsübernahme durch die Erste über die Bühne gehen sollen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -2333,16 +2398,17 @@
 8	durch	durch	APPR	*	*	*	*
 9	die	die	ART	*	*	*	*
 10	Erste	Erste	NN	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
-14	gehen	gehen	VVINF	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+14	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 15	sollen	sollen	VMFIN	*	*	*	*
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911008.208
 # sent_id = 6851
 # text = Das Jazzfest Berlin kann trotz leicht verknappter Mittel - Bund gibt keinen Zuschuß mehr - mit 18 Acts , an diesmal sogar sechs Tagen , über zwei Bühnen gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -2370,15 +2436,16 @@
 23	sechs	sechs	CARD	*	*	*	*
 24	Tagen	Tag	NN	*	*	*	*
 25	,	,	$,	*	*	*	*
-26	über	über	APPR	2	3	2	2
+26	über	über	APPR	FIG	UND	FIG	FIG
 27	zwei	zwei	CARD	*	*	*	*
-28	Bühnen	Bühne	NN	2	3	2	2
-29	gehen	gehen	VVINF	2	3	2	2
+28	Bühnen	Bühne	NN	FIG	UND	FIG	FIG
+29	gehen	gehen	VVINF	FIG	UND	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911025.147
 # sent_id = 6852
 # text = Der Verkauf soll , so eine Treuhandsprecherin , noch dieses Jahr über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -2392,15 +2459,16 @@
 9	noch	noch	ADV	*	*	*	*
 10	dieses	dies	PDAT	*	*	*	*
 11	Jahr	Jahr	NN	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	gehen	gehen	VVINF	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910919.94
 # sent_id = 6853
 # text = Diese Änderung , die unter anderem den Betrieb von ausgewählten , nichtkommerziellen Radioprojekten ermöglicht , soll Anfang 1992 über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	dies	PDAT	*	*	*	*
@@ -2421,15 +2489,16 @@
 16	soll	sollen	VMFIN	*	*	*	*
 17	Anfang	Anfang	NN	*	*	*	*
 18	1992	@card@	CARD	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
-22	gehen	gehen	VVINF	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+22	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910926.187
 # sent_id = 6854
 # text = Das Kindermusical für die ganz Kleinen Ich bin dein Freund geht am 3. 10. um 15 Uhr über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Das	die	ART	*	*	*	*
@@ -2442,7 +2511,7 @@
 8	bin	sein	VAFIN	*	*	*	*
 9	dein	dein	PPOSAT	*	*	*	*
 10	Freund	Freund	NN	*	*	*	*
-11	geht	gehen	VVFIN	2	2	2	2
+11	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 12	am	an	APPRART	*	*	*	*
 13	3	@card@	CARD	*	*	*	*
 14	.	.	$.	*	*	*	*
@@ -2451,14 +2520,15 @@
 17	um	um	APPR	*	*	*	*
 18	15	@card@	CARD	*	*	*	*
 19	Uhr	Uhr	NN	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910927.56
 # sent_id = 6855
 # text = Gleich nachdem die Bundeswehr ihr Erbe am Rande des alten Kasernenviertels in " Sächsisches Soldatenheim " umbeschildert hatte , ging gar eine Strip-Show vor jauchzender Kulisse über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gleich	gleich	APPR	*	*	*	*
@@ -2480,28 +2550,29 @@
 17	umbeschildert	<unknown>	VVPP	*	*	*	*
 18	hatte	haben	VAFIN	*	*	*	*
 19	,	,	$,	*	*	*	*
-20	ging	gehen	VVFIN	2	2	1	2
+20	ging	gehen	VVFIN	FIG	FIG	LIT	FIG
 21	gar	gar	ADV	*	*	*	*
 22	eine	eine	ART	*	*	*	*
 23	Strip-Show	Strip-Show	NN	*	*	*	*
 24	vor	vor	APPR	*	*	*	*
 25	jauchzender	jauchzend	ADJA	*	*	*	*
 26	Kulisse	Kulisse	NN	*	*	*	*
-27	über	über	APPR	2	2	1	2
+27	über	über	APPR	FIG	FIG	LIT	FIG
 28	die	die	ART	*	*	*	*
-29	Bühne	Bühne	NN	2	2	1	2
+29	Bühne	Bühne	NN	FIG	FIG	LIT	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910111.253
 # sent_id = 6856
 # text = Ohne den erwarteten Streit ging am Mittwoch abend die Anhörung des Gesamtelternbeirates der Bremer Kindertagesheime mit Sozialsenatorin Sabine Uhl über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ohne	ohne	APPR	*	*	*	*
 2	den	die	ART	*	*	*	*
 3	erwarteten	erwartet	ADJA	*	*	*	*
 4	Streit	Streit	NN	*	*	*	*
-5	ging	gehen	VVFIN	2	2	2	2
+5	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 6	am	an	APPRART	*	*	*	*
 7	Mittwoch	Mittwoch	NN	*	*	*	*
 8	abend	abend	ADV	*	*	*	*
@@ -2516,14 +2587,15 @@
 17	Sozialsenatorin	Sozialsenatorin	NN	*	*	*	*
 18	Sabine	Sabine	NE	*	*	*	*
 19	Uhl	Uhl	NE	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910128.110
 # sent_id = 6857
 # text = Jetzt sollte die Rodel-WM ursprünglich in der lettischen Stadt Sigulda über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Jetzt	jetzt	ADV	*	*	*	*
@@ -2536,15 +2608,16 @@
 8	lettischen	lettisch	ADJA	*	*	*	*
 9	Stadt	Stadt	NN	*	*	*	*
 10	Sigulda	<unknown>	NE	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
-14	gehen	gehen	VVINF	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+14	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910422.63
 # sent_id = 6858
 # text = Und trotz der überwältigenden Parlamentsmehrheit von CDU bis Grünen-Mehrheit wird auch im Rathaus nicht damit gerechnet , daß der geplante Abriß reibungslos über die städtische Bühne gehen wird .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -2569,17 +2642,18 @@
 20	geplante	geplant	ADJA	*	*	*	*
 21	Abriß	Abriss	NN	*	*	*	*
 22	reibungslos	reibungslos	ADJD	*	*	*	*
-23	über	über	APPR	2	2	2	2
+23	über	über	APPR	FIG	FIG	FIG	FIG
 24	die	die	ART	*	*	*	*
 25	städtische	städtisch	ADJA	*	*	*	*
-26	Bühne	Bühne	NN	2	2	2	2
-27	gehen	gehen	VVINF	2	2	2	2
+26	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+27	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 28	wird	werden	VAFIN	*	*	*	*
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910429.25
 # sent_id = 6859
 # text = Und dies hing mit der Bedeutung zusammen , die man dieser Bundesversammlung , die am Wochenende im schleswig-holsteinischen Neumünster über die Bühne ging , zugemessen hatte - der schicksalhaften Bedeutung für die Partei , besonders aber für die verschiedenen Strömungen in der Partei .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -2601,10 +2675,10 @@
 17	im	in	APPRART	*	*	*	*
 18	schleswig-holsteinischen	schleswig-holsteinisch	ADJA	*	*	*	*
 19	Neumünster	Neumünster	NN	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
-23	ging	gehen	VVFIN	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+23	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 24	,	,	$,	*	*	*	*
 25	zugemessen	zumessen	VVPP	*	*	*	*
 26	hatte	haben	VAFIN	*	*	*	*
@@ -2630,6 +2704,7 @@
 # tuepp_article_id = T910701.168
 # sent_id = 6860
 # text = London ( dpa / taz ) - Eingefleischte Traditionalisten , die gehofft hatten , die Tennisgötter würden mit Donner , Blitz und Wolkenbruch dreinschlagen und verhindern , daß zum ersten Mal seit 114 Jahren am ersten Sonntag des Turnieres von Wimbledon gespielt würde , sahen sich bitter enttäuscht : Reibungslos gingen die Spiele des Nachmittages über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	London	London	NE	*	*	*	*
@@ -2682,19 +2757,20 @@
 48	enttäuscht	enttäuschen	VVPP	*	*	*	*
 49	:	:	$.	*	*	*	*
 50	Reibungslos	reibungslos	ADJD	*	*	*	*
-51	gingen	gehen	VVFIN	2	2	2	2
+51	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 52	die	die	ART	*	*	*	*
 53	Spiele	Spiel	NN	*	*	*	*
 54	des	die	ART	*	*	*	*
 55	Nachmittages	Nachmittag	NN	*	*	*	*
-56	über	über	APPR	2	2	2	2
+56	über	über	APPR	FIG	FIG	FIG	FIG
 57	die	die	ART	*	*	*	*
-58	Bühne	Bühne	NN	2	2	2	2
+58	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 59	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910713.122
 # sent_id = 6861
 # text = ls " Deutschlands schrillste Modemesse " bezeichnete der ' Spiegel ` die Münchner Modemesse " Avantgarde " , die im vergangenen Herbst mit viel Tamtam über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	ls	ls	NE	*	*	*	*
@@ -2722,22 +2798,23 @@
 23	mit	mit	APPR	*	*	*	*
 24	viel	viele	PIAT	*	*	*	*
 25	Tamtam	Tamtam	NN	*	*	*	*
-26	über	über	APPR	2	2	2	2
+26	über	über	APPR	FIG	FIG	FIG	FIG
 27	die	die	ART	*	*	*	*
-28	Bühne	Bühne	NN	2	2	2	2
-29	ging	gehen	VVFIN	2	2	2	2
+28	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+29	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910705.37
 # sent_id = 6862
 # text = So glatt wie vorgesehen ging Münchs Wahl zum Gies-Nachfolger dann doch nicht über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
 2	glatt	glatt	ADJD	*	*	*	*
 3	wie	wie	KOKOM	*	*	*	*
 4	vorgesehen	vorgesehen	ADJD	*	*	*	*
-5	ging	gehen	VVFIN	2	2	2	2
+5	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 6	Münchs	<unknown>	NN	*	*	*	*
 7	Wahl	Wahl	NN	*	*	*	*
 8	zum	zu	APPRART	*	*	*	*
@@ -2745,14 +2822,15 @@
 10	dann	dann	ADV	*	*	*	*
 11	doch	doch	ADV	*	*	*	*
 12	nicht	nicht	PTKNEG	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Bühne	Bühne	NN	2	2	2	2
+15	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910708.117
 # sent_id = 6863
 # text = Gesponsert von Mercedes-Benz und unter der Schirmherrschaft des baden-württembergischen Ministerpräsidenten Teufel ( CDU ) zählt das Freiburger Zelt-Musik-Festival , das dieses Jahr zum neunten Mal am Stadtrand der Breisgau-Metropole über die Bühne ging , wohl zu den " erfolgreichsten " Großveranstaltungen der alternativen Art. " Die unvergleichliche Atmosphäre der kleinen Zeltstadt im Grünen " - so die Programmzeitschrift - wolle Kultur bieten , die " den vielseitigen Programmwünschen eines breiten Publikums gerecht " wird .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Gesponsert	sponsern	VVPP	*	*	*	*
@@ -2784,10 +2862,10 @@
 27	Stadtrand	Stadtrand	NN	*	*	*	*
 28	der	die	ART	*	*	*	*
 29	Breisgau-Metropole	<unknown>	NN	*	*	*	*
-30	über	über	APPR	2	2	2	2
+30	über	über	APPR	FIG	FIG	FIG	FIG
 31	die	die	ART	*	*	*	*
-32	Bühne	Bühne	NN	2	2	2	2
-33	ging	gehen	VVFIN	2	2	2	2
+32	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+33	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 34	,	,	$,	*	*	*	*
 35	wohl	wohl	ADV	*	*	*	*
 36	zu	zu	APPR	*	*	*	*
@@ -2835,6 +2913,7 @@
 # tuepp_article_id = T911211.115
 # sent_id = 6864
 # text = Doch was da unter dem Titel German Screenings auf einer Etage eines Kölner Nobelhotels über die Bühne ging , mutete doch eher an wie ein geselliges Beisammensein im kleinen Kreis .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -2851,10 +2930,10 @@
 12	eines	eine	ART	*	*	*	*
 13	Kölner	Kölner	ADJA	*	*	*	*
 14	Nobelhotels	Nobelhotel	NN	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
-18	ging	gehen	VVFIN	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+18	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	mutete	muten	VVFIN	*	*	*	*
 21	doch	doch	ADV	*	*	*	*
@@ -2872,6 +2951,7 @@
 # tuepp_article_id = T911207.50
 # sent_id = 6865
 # text = Was in früheren Jahren noch zu heftigen Protesten geführt hatte , geht nun geradezu routiniert über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Was	was	PWS	*	*	*	*
@@ -2885,18 +2965,19 @@
 9	geführt	führen	VVPP	*	*	*	*
 10	hatte	haben	VAFIN	*	*	*	*
 11	,	,	$,	*	*	*	*
-12	geht	gehen	VVFIN	2	2	2	2
+12	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 13	nun	nun	ADV	*	*	*	*
 14	geradezu	geradezu	ADV	*	*	*	*
 15	routiniert	routiniert	ADJD	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911205.172
 # sent_id = 6866
 # text = Es gibt ja Fachbereiche , beispielsweise bei den Juristen , da ist der Selbsterneuerungsprozeß in geradezu beispielhafter Weise über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -2917,15 +2998,16 @@
 16	geradezu	geradezu	ADV	*	*	*	*
 17	beispielhafter	beispielhaft	ADJA	*	*	*	*
 18	Weise	Weise	NN	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
-22	gegangen	gehen	VVPP	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+22	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910316.41
 # sent_id = 6867
 # text = Doch ganz so glatt wie von der Parteispitze prognostiziert wird der Parteitag morgen doch nicht über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -2943,15 +3025,16 @@
 13	morgen	morgen	ADV	*	*	*	*
 14	doch	doch	ADV	*	*	*	*
 15	nicht	nicht	PTKNEG	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911128.97
 # sent_id = 6868
 # text = Rachearie heißt das neueste Stück des Schweden Lars Noren , dessen deutsche Erstaufführung in Darmstadt über die Bühne ging - und auf der ist wider aller Erwartung auch keine jener weitläufigen und teuer anmutenden Innendekorationen zu sehen , die Bühnenbildner für zeitgenössische Stücke aus dem Milieu des gehobenen Mittelstandes derzeit für gewöhnlich bauen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Rachearie	Rachearie	NN	*	*	*	*
@@ -2969,10 +3052,10 @@
 13	Erstaufführung	Erstaufführung	NN	*	*	*	*
 14	in	in	APPR	*	*	*	*
 15	Darmstadt	Darmstadt	NE	*	*	*	*
-16	über	über	APPR	2	2	1	2
+16	über	über	APPR	FIG	FIG	LIT	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	1	2
-19	ging	gehen	VVFIN	2	2	1	2
+18	Bühne	Bühne	NN	FIG	FIG	LIT	FIG
+19	ging	gehen	VVFIN	FIG	FIG	LIT	FIG
 20	-	-	$(	*	*	*	*
 21	und	und	KON	*	*	*	*
 22	auf	auf	APPR	*	*	*	*
@@ -3012,6 +3095,7 @@
 # tuepp_article_id = T911129.18
 # sent_id = 6869
 # text = Der ganze Prozeß könnte - die Zustimmung Serbiens und Kroatiens zu der " Pufferzonen-Lösung " vorausgesetzt - binnen einer Woche über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3034,15 +3118,16 @@
 18	binnen	binnen	APPR	*	*	*	*
 19	einer	eine	ART	*	*	*	*
 20	Woche	Woche	NN	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
-24	gehen	gehen	VVINF	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+24	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T911107.44
 # sent_id = 6870
 # text = Später am Nachmittag soll hier eine Kundgebung mit mehreren " Dosen-Reden " über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Später	spät	ADJD	*	*	*	*
@@ -3057,15 +3142,16 @@
 10	"	"	$(	*	*	*	*
 11	Dosen-Reden	Dosen-Rede	NN	*	*	*	*
 12	"	"	$(	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Bühne	Bühne	NN	2	2	2	2
-16	gehen	gehen	VVINF	2	2	2	2
+15	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+16	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910218.176
 # sent_id = 6871
 # text = Was die Schließung des Hauses für die Stadt Halle bedeutet , ist noch nicht abzusehen : Im Jahr nach der Wende gingen im ersten Haus am Platze in Halle mehr als 2.500 Veranstaltungen über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Was	was	PWS	*	*	*	*
@@ -3089,7 +3175,7 @@
 19	nach	nach	APPR	*	*	*	*
 20	der	die	ART	*	*	*	*
 21	Wende	Wende	NN	*	*	*	*
-22	gingen	gehen	VVFIN	2	2	2	2
+22	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 23	im	in	APPRART	*	*	*	*
 24	ersten	erst	ADJA	*	*	*	*
 25	Haus	Haus	NN	*	*	*	*
@@ -3101,14 +3187,15 @@
 31	als	als	KOKOM	*	*	*	*
 32	2.500	@card@	CARD	*	*	*	*
 33	Veranstaltungen	Veranstaltung	NN	*	*	*	*
-34	über	über	APPR	2	2	2	2
+34	über	über	APPR	FIG	FIG	FIG	FIG
 35	die	die	ART	*	*	*	*
-36	Bühne	Bühne	NN	2	2	2	2
+36	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 37	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T910214.84
 # sent_id = 6872
 # text = Der Atomenergielobby fiel ein Stein vom Herzen , da die Genehmigung neuer Kraftwerke künftig schneller über die Bühne gehen soll .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3126,16 +3213,17 @@
 13	Kraftwerke	Kraftwerk	NN	*	*	*	*
 14	künftig	künftig	ADJD	*	*	*	*
 15	schneller	schnell	ADJD	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	soll	sollen	VMFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900519.339
 # sent_id = 6873
 # text = Warum so schreiben gegen einen Mann , gegen seine Kunst , gegen sein Auftreten , gegen all die Menschen , die mit ihm dieses " Was ihr wollt " am Bremer Thater geschaffen haben , so wie es jetzt über die Bühne geht ?
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Warum	warum	PWAV	*	*	*	*
@@ -3177,15 +3265,16 @@
 37	wie	wie	KOUS	*	*	*	*
 38	es	es	PPER	*	*	*	*
 39	jetzt	jetzt	ADV	*	*	*	*
-40	über	über	APPR	2	2	2	2
+40	über	über	APPR	FIG	FIG	FIG	FIG
 41	die	die	ART	*	*	*	*
-42	Bühne	Bühne	NN	2	2	2	2
-43	geht	gehen	VVFIN	2	2	2	2
+42	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+43	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 44	?	?	$.	*	*	*	*
 
 # tuepp_article_id = T900522.203
 # sent_id = 6874
 # text = So glatt und wenig demokratisch , wie dieser Deal über die Bühne ging , wird auch die nötige Grundgesetzänderung vonstatten gehen - wenn " der wahre Souverän , das Volk " nicht endlich beginnt , mitzureden .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	So	so	ADV	*	*	*	*
@@ -3197,10 +3286,10 @@
 7	wie	wie	KOUS	*	*	*	*
 8	dieser	dies	PDAT	*	*	*	*
 9	Deal	Deal	NE	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	ging	gehen	VVFIN	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	wird	werden	VAFIN	*	*	*	*
 16	auch	auch	ADV	*	*	*	*
@@ -3229,17 +3318,18 @@
 # tuepp_article_id = T900512.261
 # sent_id = 6875
 # text = Wirklich Gutes geht am 6.7. über die Bühne des Sommergartens .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wirklich	wirklich	ADJD	*	*	*	*
 2	Gutes	Gute	NN	*	*	*	*
-3	geht	gehen	VVFIN	2	2	2	2
+3	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	am	an	APPRART	*	*	*	*
 5	6.7	@card@	CARD	*	*	*	*
 6	.	.	$.	*	*	*	*
-7	über	über	APPR	2	2	2	2
+7	über	über	APPR	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
-9	Bühne	Bühne	NN	2	2	2	2
+9	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 10	des	die	ART	*	*	*	*
 11	Sommergartens	Sommergarten	NN	*	*	*	*
 12	.	.	$.	*	*	*	*
@@ -3247,6 +3337,7 @@
 # tuepp_article_id = T900511.298
 # sent_id = 6876
 # text = Dies alles soll mit Ost- und Westberliner Planern bzw. Beamten über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dies	dies	PDS	*	*	*	*
@@ -3259,15 +3350,16 @@
 8	Planern	Planer	NN	*	*	*	*
 9	bzw.	bzw.	KON	*	*	*	*
 10	Beamten	Beamter	NN	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
-14	gehen	gehen	VVINF	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+14	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900503.130
 # sent_id = 6877
 # text = Dabei schien es in den ersten beiden Dritteln so , als würde die Sache recht problemlos über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dabei	dabei	PAV	*	*	*	*
@@ -3286,28 +3378,29 @@
 14	Sache	Sache	NN	*	*	*	*
 15	recht	recht	ADJD	*	*	*	*
 16	problemlos	problemlos	ADJD	*	*	*	*
-17	über	über	APPR	2	2	2	2
+17	über	über	APPR	FIG	FIG	FIG	FIG
 18	die	die	ART	*	*	*	*
-19	Bühne	Bühne	NN	2	2	2	2
-20	gehen	gehen	VVINF	2	2	2	2
+19	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+20	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900529.196
 # sent_id = 6878
 # text = In Leipzig ging am Wochenende das erste Aids-Benefiz über die Bühne / Rosa von Praunheims Aids-Trilogie vor den Augen der " negativen " Besucherschar
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	Leipzig	Leipzig	NE	*	*	*	*
-3	ging	gehen	VVFIN	2	2	2	2
+3	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	am	an	APPRART	*	*	*	*
 5	Wochenende	Wochenende	NN	*	*	*	*
 6	das	die	ART	*	*	*	*
 7	erste	erst	ADJA	*	*	*	*
 8	Aids-Benefiz	<unknown>	NN	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 12	/	/	$(	*	*	*	*
 13	Rosa	Rosa	NN	*	*	*	*
 14	von	von	APPR	*	*	*	*
@@ -3325,6 +3418,7 @@
 # tuepp_article_id = T900529.246
 # sent_id = 6879
 # text = Als sehr sozial im Sinne von Eigennutz gebärden sich die Veranstalter des Rock-Spektakels " The Wall " , das am 21. Juli auf dem " Führer-Bunker " über die Bühne gehen soll .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOKOM	*	*	*	*
@@ -3355,16 +3449,17 @@
 26	"	"	$(	*	*	*	*
 27	Führer-Bunker	<unknown>	NN	*	*	*	*
 28	"	"	$(	*	*	*	*
-29	über	über	APPR	2	2	2	2
+29	über	über	APPR	FIG	FIG	FIG	FIG
 30	die	die	ART	*	*	*	*
-31	Bühne	Bühne	NN	2	2	2	2
-32	gehen	gehen	VVINF	2	2	2	2
+31	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+32	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 33	soll	sollen	VMFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900529.255
 # sent_id = 6880
 # text = Auch die Wahl der fünf Beisitzer , die ebenfalls zum Präsidium der Stadtverordnetenversammlung gehören , ging en bloc glatt über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -3382,18 +3477,19 @@
 13	Stadtverordnetenversammlung	Stadtverordnetenversammlung	NN	*	*	*	*
 14	gehören	gehören	VVFIN	*	*	*	*
 15	,	,	$,	*	*	*	*
-16	ging	gehen	VVFIN	2	2	2	2
+16	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 17	en	en	FM	*	*	*	*
 18	bloc	bloc	FM	*	*	*	*
 19	glatt	glatt	ADJD	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900523.379
 # sent_id = 6881
 # text = In der Bundesrepublik soll er dagegen nach dem Motto " Giftgasmunition als Wahlkampfmunition " im Eiltempo noch vor der Bundestagswahl über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -3416,28 +3512,29 @@
 18	vor	vor	APPR	*	*	*	*
 19	der	die	ART	*	*	*	*
 20	Bundestagswahl	Bundestagswahl	NN	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
-24	gehen	gehen	VVINF	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+24	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900531.2
 # sent_id = 6882
 # text = Die Wahl des Magistrats ging gestern ohne Probleme über die Bühne : Alle KandidatInnen - fünf aus der CDU , neun aus der SPD - kamen im ersten Wahlgang durch .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Wahl	Wahl	NN	*	*	*	*
 3	des	die	ART	*	*	*	*
 4	Magistrats	Magistrat	NN	*	*	*	*
-5	ging	gehen	VVFIN	2	2	2	2
+5	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 6	gestern	gestern	ADV	*	*	*	*
 7	ohne	ohne	APPR	*	*	*	*
 8	Probleme	Problem	NN	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 12	:	:	$.	*	*	*	*
 13	Alle	alle	PIAT	*	*	*	*
 14	KandidatInnen	Kandidatin	NN	*	*	*	*
@@ -3462,6 +3559,7 @@
 # tuepp_article_id = T900531.96
 # sent_id = 6883
 # text = Berlin ( taz ) - Nach sechs Jahren Vorbereitung und zum Teil heftigen Auseinandersetzungen soll heute im Bundestag nun ein Gesetzespaket über die parlamentarische Bühne gehen , mit dem die Arbeit der bundesdeutschen Geheimdienste neu definiert wird .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Berlin	Berlin	NE	*	*	*	*
@@ -3485,11 +3583,11 @@
 19	nun	nun	ADV	*	*	*	*
 20	ein	eine	ART	*	*	*	*
 21	Gesetzespaket	Gesetzespaket	NN	*	*	*	*
-22	über	über	APPR	2	2	2	2
+22	über	über	APPR	FIG	FIG	FIG	FIG
 23	die	die	ART	*	*	*	*
 24	parlamentarische	parlamentarisch	ADJA	*	*	*	*
-25	Bühne	Bühne	NN	2	2	2	2
-26	gehen	gehen	VVINF	2	2	2	2
+25	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+26	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 27	,	,	$,	*	*	*	*
 28	mit	mit	APPR	*	*	*	*
 29	dem	die	PRELS	*	*	*	*
@@ -3506,6 +3604,7 @@
 # tuepp_article_id = T900531.223
 # sent_id = 6884
 # text = Vizepräsident Stoll sprach von einer " Titanenarbeit " und bat um Verständnis und Bereitschaft aller , damit dieses Mammutprojekt möglichst reibungslos über die Bühne geht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vizepräsident	Vizepräsident	NN	*	*	*	*
@@ -3529,34 +3628,36 @@
 19	Mammutprojekt	Mammutprojekt	NN	*	*	*	*
 20	möglichst	möglichst	ADV	*	*	*	*
 21	reibungslos	reibungslos	ADJD	*	*	*	*
-22	über	über	APPR	2	2	2	2
+22	über	über	APPR	FIG	FIG	FIG	FIG
 23	die	die	ART	*	*	*	*
-24	Bühne	Bühne	NN	2	2	2	2
-25	geht	gehen	VVFIN	2	2	2	2
+24	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+25	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900505.53
 # sent_id = 6885
 # text = Im VMI-Lager ging die Göppinger Kompromißlinie nicht so glatt über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
 2	VMI-Lager	<unknown>	NN	*	*	*	*
-3	ging	gehen	VVFIN	2	2	2	2
+3	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	die	die	ART	*	*	*	*
 5	Göppinger	Göppinger	NN	*	*	*	*
 6	Kompromißlinie	Kompromisslinie	NN	*	*	*	*
 7	nicht	nicht	PTKNEG	*	*	*	*
 8	so	so	ADV	*	*	*	*
 9	glatt	glatt	ADJD	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900526.56
 # sent_id = 6886
 # text = In Berlin versammelten sich rund 150 Leute vor dem ICC , wo die Hauptaktionärsversammlung der Dresdner Bank über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -3576,15 +3677,16 @@
 15	der	die	ART	*	*	*	*
 16	Dresdner	Dresdner	NN	*	*	*	*
 17	Bank	Bank	NN	*	*	*	*
-18	über	über	APPR	2	2	2	2
+18	über	über	APPR	FIG	FIG	FIG	FIG
 19	die	die	ART	*	*	*	*
-20	Bühne	Bühne	NN	2	2	2	2
-21	ging	gehen	VVFIN	2	2	2	2
+20	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+21	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900528.110
 # sent_id = 6887
 # text = " Det ist ja allet schön und jut , dat der Ullmann die DDR vor einem internationalen Jericht verklagen will , aber bis det über die Bühne geht , sitze ich mit meiner Frau und den drei Kindern vielleicht schon uff der Straße " .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3611,10 +3713,10 @@
 22	aber	aber	ADV	*	*	*	*
 23	bis	bis	APPR	*	*	*	*
 24	det	<unknown>	ADJA	*	*	*	*
-25	über	über	APPR	2	2	2	2
+25	über	über	APPR	FIG	FIG	FIG	FIG
 26	die	die	ART	*	*	*	*
-27	Bühne	Bühne	NN	2	2	2	2
-28	geht	gehen	VVFIN	2	2	2	2
+27	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+28	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 29	,	,	$,	*	*	*	*
 30	sitze	sitzen	VVFIN	*	*	*	*
 31	ich	ich	PPER	*	*	*	*
@@ -3636,6 +3738,7 @@
 # tuepp_article_id = T900516.147
 # sent_id = 6888
 # text = Die Kanadier waren zweifellos Publikumsliebling Nr. 1 eines Theaterfestvals , das nun schon zum zweiten Mal seit 1988 in der Osterwoche in Bogota über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3661,15 +3764,16 @@
 21	Osterwoche	Osterwoche	NN	*	*	*	*
 22	in	in	APPR	*	*	*	*
 23	Bogota	<unknown>	NE	*	*	*	*
-24	über	über	APPR	2	2	2	2
+24	über	über	APPR	FIG	FIG	FIG	FIG
 25	die	die	ART	*	*	*	*
-26	Bühne	Bühne	NN	2	2	2	2
-27	ging	gehen	VVFIN	2	2	2	2
+26	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+27	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900609.170
 # sent_id = 6889
 # text = Die Wahl des agilen Hannoveraners Lehmann-Grube , der des zähen Beamtenrechts wegen für die Leipziger Oberbürgermeisterei nur beurlaubt ist , und seines Stellvertreters Ahnert ( CDU ) ging ohne Tücken über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3699,17 +3803,18 @@
 25	(	(	$(	*	*	*	*
 26	CDU	CDU	NE	*	*	*	*
 27	)	)	$(	*	*	*	*
-28	ging	gehen	VVFIN	2	2	2	2
+28	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 29	ohne	ohne	APPR	*	*	*	*
 30	Tücken	Tücke	NN	*	*	*	*
-31	über	über	APPR	2	2	2	2
+31	über	über	APPR	FIG	FIG	FIG	FIG
 32	die	die	ART	*	*	*	*
-33	Bühne	Bühne	NN	2	2	2	2
+33	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900618.63
 # sent_id = 6890
 # text = " Weg mit dem 218 Frauen entscheiden selbst " , in der Bundeshauptstadt ging am Samstag die seit Jahren größte Demonstration für die Abschaffung des Abtreibungsparagraphen über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -3725,7 +3830,7 @@
 11	in	in	APPR	*	*	*	*
 12	der	die	ART	*	*	*	*
 13	Bundeshauptstadt	Bundeshauptstadt	NN	*	*	*	*
-14	ging	gehen	VVFIN	2	2	2	2
+14	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 15	am	an	APPRART	*	*	*	*
 16	Samstag	Samstag	NN	*	*	*	*
 17	die	die	ART	*	*	*	*
@@ -3738,14 +3843,15 @@
 24	Abschaffung	Abschaffung	NN	*	*	*	*
 25	des	die	ART	*	*	*	*
 26	Abtreibungsparagraphen	Abtreibungsparagraph	NN	*	*	*	*
-27	über	über	APPR	2	2	2	2
+27	über	über	APPR	FIG	FIG	FIG	FIG
 28	die	die	ART	*	*	*	*
-29	Bühne	Bühne	NN	2	2	2	2
+29	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900605.33
 # sent_id = 6891
 # text = Die rot-grünen Verhandlungen in Niedersachsen sind bisher überraschend konfliktarm über die Bühne gegangen , und auch von außen sind es fast ausschließlich die Bürgerinitiativen aus dem AKW- und Müllbereich , die explizit Ansprüche anmelden .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -3757,10 +3863,10 @@
 7	bisher	bisher	ADV	*	*	*	*
 8	überraschend	überraschend	ADJD	*	*	*	*
 9	konfliktarm	konfliktarm	ADJD	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	gegangen	gehen	VVPP	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	und	und	KON	*	*	*	*
 16	auch	auch	ADV	*	*	*	*
@@ -3787,20 +3893,22 @@
 # tuepp_article_id = T900605.264
 # sent_id = 6892
 # text = Die Premiere geht dennoch über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
 1	Die	die	ART	*	*	*	*
 2	Premiere	Premiere	NN	*	*	*	*
-3	geht	gehen	VVFIN	2	2	2	2
+3	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	dennoch	dennoch	ADV	*	*	*	*
-5	über	über	APPR	2	2	2	2
+5	über	über	APPR	FIG	FIG	FIG	FIG
 6	die	die	ART	*	*	*	*
-7	Bühne	Bühne	NN	2	2	2	2
+7	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 8	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900626.210
 # sent_id = 6893
 # text = Der Richter beglückwünschte die Parteien , daß es " so relativ problemlos über die Bühne gegangen ist " .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3815,10 +3923,10 @@
 10	so	so	ADV	*	*	*	*
 11	relativ	relativ	ADJD	*	*	*	*
 12	problemlos	problemlos	ADJD	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Bühne	Bühne	NN	2	2	2	2
-16	gegangen	gehen	VVPP	2	2	2	2
+15	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+16	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 17	ist	sein	VAFIN	*	*	*	*
 18	"	"	$(	*	*	*	*
 19	.	.	$.	*	*	*	*
@@ -3826,6 +3934,7 @@
 # tuepp_article_id = T900627.44
 # sent_id = 6894
 # text = Der Poddle fließt nämlich genau unter dem Dubliner Schloß , wo in den vergangenen zwei Tagen die Gipfelkonferenz der Europäischen Gemeinschaft über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3849,15 +3958,16 @@
 19	der	die	ART	*	*	*	*
 20	Europäischen	europäisch	ADJA	*	*	*	*
 21	Gemeinschaft	Gemeinschaft	NN	*	*	*	*
-22	über	über	APPR	2	2	2	2
+22	über	über	APPR	FIG	FIG	FIG	FIG
 23	die	die	ART	*	*	*	*
-24	Bühne	Bühne	NN	2	2	2	2
-25	ging	gehen	VVFIN	2	2	2	2
+24	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+25	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 26	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900627.86
 # sent_id = 6895
 # text = Der im Volksmund bereits als " Aktion Lindwurm " bezeichnete Überlandtransport mit etwa 30 Fahrzeugkonvois von Clausen zum Zwischenlager im pfälzischen Miesau solle wie vorgesehen zwischen Juli und September über die Bühne gehen , hieß es aus amerikanischen Militärkreisen weiter .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -3889,10 +3999,10 @@
 27	Juli	Juli	NN	*	*	*	*
 28	und	und	KON	*	*	*	*
 29	September	September	NN	*	*	*	*
-30	über	über	APPR	2	2	2	2
+30	über	über	APPR	FIG	FIG	FIG	FIG
 31	die	die	ART	*	*	*	*
-32	Bühne	Bühne	NN	2	2	2	2
-33	gehen	gehen	VVINF	2	2	2	2
+32	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+33	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 34	,	,	$,	*	*	*	*
 35	hieß	heißen	VVFIN	*	*	*	*
 36	es	es	PPER	*	*	*	*
@@ -3905,6 +4015,7 @@
 # tuepp_article_id = T900614.111
 # sent_id = 6896
 # text = Parallel zur großen bundesweiten Demonstration in Bonn zur Abschaffung des § 218 wird am Samstag , den 16. Juni , eine zentrale Kundgebung auf dem Platz der Akademie in Ost-Berlin über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Parallel	parallel	ADJD	*	*	*	*
@@ -3938,15 +4049,16 @@
 29	Akademie	Akademie	NN	*	*	*	*
 30	in	in	APPR	*	*	*	*
 31	Ost-Berlin	Ost-Berlin	NE	*	*	*	*
-32	über	über	APPR	2	2	2	2
+32	über	über	APPR	FIG	FIG	FIG	FIG
 33	die	die	ART	*	*	*	*
-34	Bühne	Bühne	NN	2	2	2	2
-35	gehen	gehen	VVINF	2	2	2	2
+34	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+35	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 36	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900614.286
 # sent_id = 6897
 # text = Karin : Heute steht in der Zeitung , daß ein Nachtragshaushalt über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Karin	Karin	NE	*	*	*	*
@@ -3960,15 +4072,16 @@
 9	daß	dass	KOUS	*	*	*	*
 10	ein	eine	ART	*	*	*	*
 11	Nachtragshaushalt	Nachtragshaushalt	NN	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	ging	gehen	VVFIN	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900629.373
 # sent_id = 6898
 # text = Zeitgleich mit dem Viertelfinale lassen sie an diesem Wochenende ihr Roskilde-Festival über die Bühnen gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zeitgleich	zeitgleich	ADJD	*	*	*	*
@@ -3982,15 +4095,16 @@
 9	Wochenende	Wochenende	NN	*	*	*	*
 10	ihr	ihr	PPOSAT	*	*	*	*
 11	Roskilde-Festival	Roskilde-Festival	NN	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühnen	Bühne	NN	2	2	2	2
-15	gehen	gehen	VVINF	2	2	2	2
+14	Bühnen	Bühne	NN	FIG	FIG	FIG	FIG
+15	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900607.47
 # sent_id = 6899
 # text = Wie von der NRW-Verfassung vorgesehen , ging der Wahlakt ohne jede Debatte über die parlamentarische Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -3999,21 +4113,22 @@
 4	NRW-Verfassung	<unknown>	NN	*	*	*	*
 5	vorgesehen	vorsehen	VVPP	*	*	*	*
 6	,	,	$,	*	*	*	*
-7	ging	gehen	VVFIN	2	2	2	2
+7	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 8	der	die	ART	*	*	*	*
 9	Wahlakt	Wahlakt	NN	*	*	*	*
 10	ohne	ohne	APPR	*	*	*	*
 11	jede	jede	PIAT	*	*	*	*
 12	Debatte	Debatte	NN	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
 15	parlamentarische	parlamentarisch	ADJA	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900613.77
 # sent_id = 6900
 # text = Am Samstag , den 16. Juni , um 11Uhr startet die Demonstration von der Bonner Nordbrücke ; um 14Uhr wird am Münsterplatz eine Kundgebung mit " Kulturveranstaltung " über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -4045,20 +4160,21 @@
 27	"	"	$(	*	*	*	*
 28	Kulturveranstaltung	Kulturveranstaltung	NN	*	*	*	*
 29	"	"	$(	*	*	*	*
-30	über	über	APPR	2	2	2	2
+30	über	über	APPR	FIG	FIG	FIG	FIG
 31	die	die	ART	*	*	*	*
-32	Bühne	Bühne	NN	2	2	2	2
-33	gehen	gehen	VVINF	2	2	2	2
+32	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+33	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900611.26
 # sent_id = 6901
 # text = Aber dann ging der Gründungsakt der " ÖTV in der DDR " im Eiltempo über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
 2	dann	dann	ADV	*	*	*	*
-3	ging	gehen	VVFIN	2	2	2	2
+3	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	der	die	ART	*	*	*	*
 5	Gründungsakt	Gründungsakt	NN	*	*	*	*
 6	der	die	ART	*	*	*	*
@@ -4070,22 +4186,23 @@
 12	"	"	$(	*	*	*	*
 13	im	in	APPRART	*	*	*	*
 14	Eiltempo	Eiltempi	NN	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901023.254
 # sent_id = 6902
 # text = Die gehe leise über die Bühne , wird kritisiert , per Stellenstreichung und Dienstpostenreduzierung .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	PDS	*	*	*	*
-2	gehe	gehen	VVFIN	2	2	2	2
+2	gehe	gehen	VVFIN	FIG	FIG	FIG	FIG
 3	leise	leise	ADJD	*	*	*	*
-4	über	über	APPR	2	2	2	2
+4	über	über	APPR	FIG	FIG	FIG	FIG
 5	die	die	ART	*	*	*	*
-6	Bühne	Bühne	NN	2	2	2	2
+6	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 7	,	,	$,	*	*	*	*
 8	wird	werden	VAFIN	*	*	*	*
 9	kritisiert	kritisieren	VVPP	*	*	*	*
@@ -4099,12 +4216,13 @@
 # tuepp_article_id = T901031.32
 # sent_id = 6903
 # text = In diesen Tagen geht als einer der letzten Akte der Verkauf des früher von der Partei kontrollierten VerIagsimperiums " Ruch " über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
 2	diesen	dies	PDAT	*	*	*	*
 3	Tagen	Tag	NN	*	*	*	*
-4	geht	gehen	VVFIN	2	2	2	2
+4	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	als	als	KOKOM	*	*	*	*
 6	einer	eine	PIS	*	*	*	*
 7	der	die	ART	*	*	*	*
@@ -4122,14 +4240,15 @@
 19	"	"	$(	*	*	*	*
 20	Ruch	Ruch	NN	*	*	*	*
 21	"	"	$(	*	*	*	*
-22	über	über	APPR	2	2	2	2
+22	über	über	APPR	FIG	FIG	FIG	FIG
 23	die	die	ART	*	*	*	*
-24	Bühne	Bühne	NN	2	2	2	2
+24	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 25	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901031.32
 # sent_id = 6904
 # text = Im schroffen Gegensatz zu allen Ländern des ehemaligen Ostblocks ist die Säuberung des Sicherheitsapparats völlig geräuschlos über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -4148,15 +4267,16 @@
 14	Sicherheitsapparats	Sicherheitsapparat	NN	*	*	*	*
 15	völlig	völlig	ADJD	*	*	*	*
 16	geräuschlos	geräuschlos	ADJD	*	*	*	*
-17	über	über	APPR	2	2	2	2
+17	über	über	APPR	FIG	FIG	FIG	FIG
 18	die	die	ART	*	*	*	*
-19	Bühne	Bühne	NN	2	2	2	2
-20	gegangen	gehen	VVPP	2	2	2	2
+19	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+20	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901018.270
 # sent_id = 6905
 # text = « Jetzt hofft er , daß die Verhandlungen zügig über die Bühne gehen , denn Reserven , um bis Ende des Jahres durchzuhalten , besitzt dieser Laden nicht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	«	<unknown>	ADJA	*	*	*	*
@@ -4168,10 +4288,10 @@
 7	die	die	ART	*	*	*	*
 8	Verhandlungen	Verhandlung	NN	*	*	*	*
 9	zügig	zügig	ADJD	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	gehen	gehen	VVINF	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	denn	denn	KON	*	*	*	*
 16	Reserven	Reserve	NN	*	*	*	*
@@ -4192,6 +4312,7 @@
 # tuepp_article_id = T901019.142
 # sent_id = 6906
 # text = Der erste ist ohne große Probleme über die Bühne gegangen , der zweite ist sehr stark zensiert worden .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4200,10 +4321,10 @@
 4	ohne	ohne	APPR	*	*	*	*
 5	große	groß	ADJA	*	*	*	*
 6	Probleme	Problem	NN	*	*	*	*
-7	über	über	APPR	2	2	2	2
+7	über	über	APPR	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
-9	Bühne	Bühne	NN	2	2	2	2
-10	gegangen	gehen	VVPP	2	2	2	2
+9	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+10	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 11	,	,	$,	*	*	*	*
 12	der	die	ART	*	*	*	*
 13	zweite	zweit	ADJA	*	*	*	*
@@ -4217,21 +4338,22 @@
 # tuepp_article_id = T901013.145
 # sent_id = 6907
 # text = Eine Premiere besonderer Art ging gestern im Haus des DGB über die Bühne : Erstmals saßen anläßlich der Betriebsrätekonferenz der IG Metall ArbeitnehmerInnen , Arbeitgeber und Mitglieder des rot-grünen Senats an einen Tisch .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
 2	Premiere	Premiere	NN	*	*	*	*
 3	besonderer	besonder	ADJA	*	*	*	*
 4	Art	Art	NN	*	*	*	*
-5	ging	gehen	VVFIN	2	2	2	2
+5	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 6	gestern	gestern	ADV	*	*	*	*
 7	im	in	APPRART	*	*	*	*
 8	Haus	Haus	NN	*	*	*	*
 9	des	die	ART	*	*	*	*
 10	DGB	DGB	NE	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 14	:	:	$.	*	*	*	*
 15	Erstmals	erstmals	ADV	*	*	*	*
 16	saßen	sitzen	VVFIN	*	*	*	*
@@ -4257,12 +4379,13 @@
 # tuepp_article_id = T900905.171
 # sent_id = 6908
 # text = Die erste Premiere geht dieser Tage mit Jacke wie Hose von Manfred Karge über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	erste	erst	ADJA	*	*	*	*
 3	Premiere	Premiere	NN	*	*	*	*
-4	geht	gehen	VVFIN	2	2	2	2
+4	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	dieser	dies	PDAT	*	*	*	*
 6	Tage	Tag	NN	*	*	*	*
 7	mit	mit	APPR	*	*	*	*
@@ -4272,31 +4395,33 @@
 11	von	von	APPR	*	*	*	*
 12	Manfred	Manfred	NE	*	*	*	*
 13	Karge	Karge	NN	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900925.92
 # sent_id = 6909
 # text = Die anschließende Verlängerung ging endlich unter Polizeischutz über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	anschließende	anschließend	ADJA	*	*	*	*
 3	Verlängerung	Verlängerung	NN	*	*	*	*
-4	ging	gehen	VVFIN	2	2	2	2
+4	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	endlich	endlich	ADV	*	*	*	*
 6	unter	unter	APPR	*	*	*	*
 7	Polizeischutz	Polizeischutz	NN	*	*	*	*
-8	über	über	APPR	2	2	2	2
+8	über	über	APPR	FIG	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	2	2	2	2
+10	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900919.36
 # sent_id = 6910
 # text = Diese sollte nach einer Vereinbarung zwischen Betreibern und Wirtschaftsministerium innerhalb von zwei Jahren über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Diese	diese	PDS	*	*	*	*
@@ -4312,15 +4437,16 @@
 11	von	von	APPR	*	*	*	*
 12	zwei	zwei	CARD	*	*	*	*
 13	Jahren	Jahr	NN	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
-17	gehen	gehen	VVINF	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+17	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900906.146
 # sent_id = 6911
 # text = Die Gründung des ersten europäischen Gesamtbetriebsrats ging recht unspektakulär über die Bühne : Auf dem VW-Werksgelände in Wolfsburg kamen Ende letzter Woche die Belegschaftsvertreter der inländischen VW-Werke , von Audi - Neckarsulm , der spanischen VW-Tochter SEAT und von VW - Brüssel für zwei Tage zusammen , um einen europäischen VW - Konzernbetriebsrat abzusegnen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -4329,12 +4455,12 @@
 4	ersten	erst	ADJA	*	*	*	*
 5	europäischen	europäisch	ADJA	*	*	*	*
 6	Gesamtbetriebsrats	Gesamtbetriebsrat	NN	*	*	*	*
-7	ging	gehen	VVFIN	2	2	2	2
+7	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 8	recht	recht	ADJD	*	*	*	*
 9	unspektakulär	unspektakulär	ADJD	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 13	:	:	$.	*	*	*	*
 14	Auf	auf	APPR	*	*	*	*
 15	dem	die	ART	*	*	*	*
@@ -4382,6 +4508,7 @@
 # tuepp_article_id = T900914.2
 # sent_id = 6912
 # text = Während der erste Transport problemlos über die Bühne ging , häufen sich in Hessen die Proteste wegen des fehlenden Flugverbots an der " Rhein-Main-Airbase " und dem Großflughafen Frankfurt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Während	während	KOUS	*	*	*	*
@@ -4389,10 +4516,10 @@
 3	erste	erst	ADJA	*	*	*	*
 4	Transport	Transport	NN	*	*	*	*
 5	problemlos	problemlos	ADJD	*	*	*	*
-6	über	über	APPR	2	2	2	2
+6	über	über	APPR	FIG	FIG	FIG	FIG
 7	die	die	ART	*	*	*	*
-8	Bühne	Bühne	NN	2	2	2	2
-9	ging	gehen	VVFIN	2	2	2	2
+8	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+9	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	häufen	häufen	VVFIN	*	*	*	*
 12	sich	sich	PRF	*	*	*	*
@@ -4418,6 +4545,7 @@
 # tuepp_article_id = T900922.130
 # sent_id = 6913
 # text = Es sah so aus , als würde der Beitritt der DDR geordnet über die politische Bühne gehen - doch jetzt kommt Ärger von denen , an die bisher niemand dachte .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -4432,11 +4560,11 @@
 10	der	die	ART	*	*	*	*
 11	DDR	DDR	NE	*	*	*	*
 12	geordnet	ordnen	VVPP	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
 15	politische	politisch	ADJA	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
-17	gehen	gehen	VVINF	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+17	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 18	-	-	$(	*	*	*	*
 19	doch	doch	KON	*	*	*	*
 20	jetzt	jetzt	ADV	*	*	*	*
@@ -4455,6 +4583,7 @@
 # tuepp_article_id = T900912.109
 # sent_id = 6914
 # text = Am Montag mittag ist in der Kupferrohhütte Helbra der letzte Abstich über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -4468,15 +4597,16 @@
 9	der	die	ART	*	*	*	*
 10	letzte	letzt	ADJA	*	*	*	*
 11	Abstich	Abstich	NN	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	gegangen	gehen	VVPP	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900111.117
 # sent_id = 6915
 # text = Keine Rehabilitierung der Dissidenten / Li Peng kündigt " neue Aufgaben " für die Volkspolizei an / Wiederherstellung der Beziehungen zu den wichtigsten Handelspartnern geht reibungslos über die Bühne / Britischer Gouverneur aus Hongkong erstmals wieder in der Volksrepublik
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Keine	keine	PIAT	*	*	*	*
@@ -4503,11 +4633,11 @@
 22	den	die	ART	*	*	*	*
 23	wichtigsten	wichtig	ADJA	*	*	*	*
 24	Handelspartnern	Handelspartner	NN	*	*	*	*
-25	geht	gehen	VVFIN	2	2	2	2
+25	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 26	reibungslos	reibungslos	ADJD	*	*	*	*
-27	über	über	APPR	2	2	2	2
+27	über	über	APPR	FIG	FIG	FIG	FIG
 28	die	die	ART	*	*	*	*
-29	Bühne	Bühne	NN	2	2	2	2
+29	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 30	/	/	$(	*	*	*	*
 31	Britischer	britisch	ADJA	*	*	*	*
 32	Gouverneur	Gouverneur	NN	*	*	*	*
@@ -4522,6 +4652,7 @@
 # tuepp_article_id = T900122.57
 # sent_id = 6916
 # text = Daß die Ost-CDU im Begriff ist dazuzustoßen , zeigte sich auch im Verlauf des Gründungsparteitags des Landesverbandes Thüringen , der ebenfalls am Samstag in Weimar über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -4549,15 +4680,16 @@
 23	Samstag	Samstag	NN	*	*	*	*
 24	in	in	APPR	*	*	*	*
 25	Weimar	Weimar	NE	*	*	*	*
-26	über	über	APPR	2	2	2	2
+26	über	über	APPR	FIG	FIG	FIG	FIG
 27	die	die	ART	*	*	*	*
-28	Bühne	Bühne	NN	2	2	2	2
-29	ging	gehen	VVFIN	2	2	2	2
+28	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+29	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 30	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900124.32
 # sent_id = 6917
 # text = Eine offizielle Parteigründung , so wurde vereinbart , soll am 4. Februar in Berlin über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -4575,15 +4707,16 @@
 13	Februar	Februar	NN	*	*	*	*
 14	in	in	APPR	*	*	*	*
 15	Berlin	Berlin	NE	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900126.207
 # sent_id = 6918
 # text = Beispiel hierfür ist die lebendige Phase der späten 70er und frühen 80er Jahre , als im Zuge der Hausbesetzungen Bands wie Teller Bunte Knete oder Westend Sechs entstanden und im SO36 in der Kreuzberger Oranienstraße turbulente Konzerte über die Bühne gingen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Beispiel	Beispiel	NN	*	*	*	*
@@ -4623,15 +4756,16 @@
 35	Oranienstraße	<unknown>	NN	*	*	*	*
 36	turbulente	turbulent	ADJA	*	*	*	*
 37	Konzerte	Konzert	NN	*	*	*	*
-38	über	über	APPR	2	2	2	2
+38	über	über	APPR	FIG	FIG	FIG	FIG
 39	die	die	ART	*	*	*	*
-40	Bühne	Bühne	NN	2	2	2	2
-41	gingen	gehen	VVFIN	2	2	2	2
+40	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+41	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900103.158
 # sent_id = 6919
 # text = Im Juni '91 soll in Köln " Homululu II " über die Bühne gehen , benannt nach dem ersten schwulen Kulturspektakel 1979 in Frankfurt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -4645,10 +4779,10 @@
 9	Homululu	<unknown>	NE	*	*	*	*
 10	II	II	CARD	*	*	*	*
 11	"	"	$(	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	gehen	gehen	VVINF	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	benannt	benennen	VVPP	*	*	*	*
 18	nach	nach	APPR	*	*	*	*
@@ -4664,6 +4798,7 @@
 # tuepp_article_id = T900116.224
 # sent_id = 6920
 # text = Doch so ganz ohne größeres öffentliches Aufsehen , wie sich die Programmdirektorin das gewünscht haben mag , geht die Einstellung von Biz Bize nicht über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Doch	doch	KON	*	*	*	*
@@ -4683,21 +4818,22 @@
 15	haben	haben	VAINF	*	*	*	*
 16	mag	mögen	VMFIN	*	*	*	*
 17	,	,	$,	*	*	*	*
-18	geht	gehen	VVFIN	2	2	2	2
+18	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 19	die	die	ART	*	*	*	*
 20	Einstellung	Einstellung	NN	*	*	*	*
 21	von	von	APPR	*	*	*	*
 22	Biz	<unknown>	NE	*	*	*	*
 23	Bize	<unknown>	NN	*	*	*	*
 24	nicht	nicht	PTKNEG	*	*	*	*
-25	über	über	APPR	2	2	2	2
+25	über	über	APPR	FIG	FIG	FIG	FIG
 26	die	die	ART	*	*	*	*
-27	Bühne	Bühne	NN	2	2	2	2
+27	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900427.278
 # sent_id = 6921
 # text = Nach Kreuzbergs Hausbesetzeraustausch mit dem Prenzlauer Berg geben sich im Mai auch die Kindertheater der beiden Bezirke die Klinke in die Hand : Anlaß ist das erste Gesamtberliner Kindertheaterfestival , daß vom 4. bis 6. Mai in Kreuzberg im Westen und vom 12. bis 13. Mai im Prenzlauer Berg im Osten über die Bühne geht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Nach	nach	APPR	*	*	*	*
@@ -4755,15 +4891,16 @@
 53	Berg	Berg	NN	*	*	*	*
 54	im	in	APPRART	*	*	*	*
 55	Osten	Osten	NN	*	*	*	*
-56	über	über	APPR	2	2	2	2
+56	über	über	APPR	FIG	FIG	FIG	FIG
 57	die	die	ART	*	*	*	*
-58	Bühne	Bühne	NN	2	2	2	2
-59	geht	gehen	VVFIN	2	2	2	2
+58	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+59	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 60	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900419.129
 # sent_id = 6922
 # text = Über eines sind sich die meisten Beobachter jedenfalls einig : daß der Vollzug der Währungsunion nicht erst zu dem Termin über die Bühne gehen wird , den die Bundesregierung nennt : 1 .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Über	über	APPR	*	*	*	*
@@ -4786,10 +4923,10 @@
 18	zu	zu	APPR	*	*	*	*
 19	dem	die	ART	*	*	*	*
 20	Termin	Termin	NN	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
-24	gehen	gehen	VVINF	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+24	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 25	wird	werden	VAFIN	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	den	die	PRELS	*	*	*	*
@@ -4803,6 +4940,7 @@
 # tuepp_article_id = T900705.64
 # sent_id = 6923
 # text = Immerhin - die konstituierende Sitzung der Anklamer Stadtverordneten ging schon glatt in Platt über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Immerhin	immerhin	ADV	*	*	*	*
@@ -4813,19 +4951,20 @@
 6	der	die	ART	*	*	*	*
 7	Anklamer	<unknown>	NN	*	*	*	*
 8	Stadtverordneten	Stadtverordnete	NN	*	*	*	*
-9	ging	gehen	VVFIN	2	2	2	2
+9	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 10	schon	schon	ADV	*	*	*	*
 11	glatt	glatt	ADJD	*	*	*	*
 12	in	in	APPR	*	*	*	*
 13	Platt	Platt	NN	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900709.197
 # sent_id = 6924
 # text = Geburtstag wäre beim Fußball-Zweitligisten Blau-Weiß 90 beinahe als Begräbnis über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Geburtstag	Geburtstag	NN	*	*	*	*
@@ -4837,15 +4976,16 @@
 7	beinahe	beinahe	ADV	*	*	*	*
 8	als	als	KOKOM	*	*	*	*
 9	Begräbnis	Begräbnis	NN	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	gegangen	gehen	VVPP	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900704.7
 # sent_id = 6925
 # text = Der Umzug sollte bereits in der letzten Woche über die Bühne gehen , doch Schalck wartete erst den vollständigen Abbau der Grenzkontrollen am 1. Juli ab .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4856,10 +4996,10 @@
 6	der	die	ART	*	*	*	*
 7	letzten	letzt	ADJA	*	*	*	*
 8	Woche	Woche	NN	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
-12	gehen	gehen	VVINF	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+12	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	doch	doch	KON	*	*	*	*
 15	Schalck	Schalck	NE	*	*	*	*
@@ -4880,6 +5020,7 @@
 # tuepp_article_id = T900727.133
 # sent_id = 6926
 # text = Wie gesagt , das könnte in guter Commedia-dell'arte-Manier über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wie	wie	KOUS	*	*	*	*
@@ -4890,15 +5031,16 @@
 6	in	in	APPR	*	*	*	*
 7	guter	gut	ADJA	*	*	*	*
 8	Commedia-dell'arte-Manier	<unknown>	NN	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
-12	gehen	gehen	VVINF	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+12	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 13	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900713.145
 # sent_id = 6927
 # text = Eine Fehleinschätzung , denn im Ruhrpott ging gerade zum drittenmal hintereinander - von der taz erneut unbeachtet der NRW Christopher-Street-Day über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Eine	eine	ART	*	*	*	*
@@ -4907,7 +5049,7 @@
 4	denn	denn	KON	*	*	*	*
 5	im	in	APPRART	*	*	*	*
 6	Ruhrpott	Ruhrpott	NN	*	*	*	*
-7	ging	gehen	VVFIN	2	2	2	2
+7	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 8	gerade	gerade	ADV	*	*	*	*
 9	zum	zu	APPRART	*	*	*	*
 10	drittenmal	drittenmal	NN	*	*	*	*
@@ -4921,14 +5063,15 @@
 18	der	die	ART	*	*	*	*
 19	NRW	NRW	NE	*	*	*	*
 20	Christopher-Street-Day	<unknown>	NE	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900712.225
 # sent_id = 6928
 # text = Anstandslos wird dagegen die umstrittene Haus-Berufung von des bisherigen Abteilungsleiters Fritz Sehring zum neuen Stadtwerke-Vorstandsmitglied über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Anstandslos	anstandslos	ADJD	*	*	*	*
@@ -4946,15 +5089,16 @@
 13	zum	zu	APPRART	*	*	*	*
 14	neuen	neu	ADJA	*	*	*	*
 15	Stadtwerke-Vorstandsmitglied	Stadtwerke-Vorstandsmitglied	NN	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901212.179
 # sent_id = 6929
 # text = Der große Musiksaal des ehemaligen Kulturbundclubs , in dem die Auktion unter der Leitung des Westberliner Maklers Hans Peter Plettner über die Bühne gehen sollte , war bereits lange vor Auktionsbeginn hoffnungslos überfüllt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -4977,10 +5121,10 @@
 18	Hans	Hans	NE	*	*	*	*
 19	Peter	Peter	NE	*	*	*	*
 20	Plettner	<unknown>	NN	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
-24	gehen	gehen	VVINF	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+24	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 25	sollte	sollen	VMFIN	*	*	*	*
 26	,	,	$,	*	*	*	*
 27	war	sein	VAFIN	*	*	*	*
@@ -4995,6 +5139,7 @@
 # tuepp_article_id = T900807.131
 # sent_id = 6930
 # text = " Der Herr von der städtischen Bestattung macht es sich leicht mit der Definition jener Haupt- und Staatszeremonie , die am heutigen Dienstag in der Wiener Innenstadt über die Bühne gehen wird .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	"	"	$(	*	*	*	*
@@ -5024,16 +5169,17 @@
 25	der	die	ART	*	*	*	*
 26	Wiener	Wiener	ADJA	*	*	*	*
 27	Innenstadt	Innenstadt	NN	*	*	*	*
-28	über	über	APPR	2	2	2	2
+28	über	über	APPR	FIG	FIG	FIG	FIG
 29	die	die	ART	*	*	*	*
-30	Bühne	Bühne	NN	2	2	2	2
-31	gehen	gehen	VVINF	2	2	2	2
+30	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+31	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 32	wird	werden	VAFIN	*	*	*	*
 33	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900818.123
 # sent_id = 6931
 # text = Am 24. November soll in Salzgitter der Piratenakt über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
@@ -5045,15 +5191,16 @@
 7	Salzgitter	Salzgitter	NN	*	*	*	*
 8	der	die	ART	*	*	*	*
 9	Piratenakt	Piratenakt	NN	*	*	*	*
-10	über	über	APPR	2	2	2	2
+10	über	über	APPR	FIG	FIG	FIG	FIG
 11	die	die	ART	*	*	*	*
-12	Bühne	Bühne	NN	2	2	2	2
-13	gehen	gehen	VVINF	2	2	2	2
+12	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+13	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900825.153
 # sent_id = 6932
 # text = An der Spitze die Golfkrise , die auch ohne Korrespondenten anschaulich über die Bühne geht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	An	an	APPR	*	*	*	*
@@ -5067,15 +5214,16 @@
 9	ohne	ohne	APPR	*	*	*	*
 10	Korrespondenten	Korrespondent	NN	*	*	*	*
 11	anschaulich	anschaulich	ADJD	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	geht	gehen	VVFIN	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900813.121
 # sent_id = 6933
 # text = Und trotzdem - daß kaum jemand wirklich mit ihm brach , daß er immer wieder engagiert wurde ( unter anderem auch für das Großkonzert , das am Ostermontag in Anwesenheit von Nelson Mandela über die Bühne ging ) , zeugt von der künstlerischen Kraft , die Dudus Kompositionen und Arrangements innewohnte , von dem bewegenden Aufschrei des Protestes gegen die massive Unterdrückung von Kreativität durch die Apartheid , der sich diesem immer leicht verstimmt wirkenden Altsaxophon entrang .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Und	und	KON	*	*	*	*
@@ -5111,10 +5259,10 @@
 31	von	von	APPR	*	*	*	*
 32	Nelson	Nelson	NE	*	*	*	*
 33	Mandela	Mandela	NE	*	*	*	*
-34	über	über	APPR	2	2	2	2
+34	über	über	APPR	FIG	FIG	FIG	FIG
 35	die	die	ART	*	*	*	*
-36	Bühne	Bühne	NN	2	2	2	2
-37	ging	gehen	VVFIN	2	2	2	2
+36	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+37	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 38	)	)	$(	*	*	*	*
 39	,	,	$,	*	*	*	*
 40	zeugt	zeugen	VVFIN	*	*	*	*
@@ -5160,6 +5308,7 @@
 # tuepp_article_id = T900827.148
 # sent_id = 6934
 # text = Schon gleich nach Vorliegen der 4.000 Seiten umfassenden Anklageschrift wurden ganz erstaunliche Aktivitäten entfaltet , das Gerichtsverfahren nicht , oder zumindest nicht so , wie jetzt geplant , über die Bühne gehen zu lassen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
@@ -5190,10 +5339,10 @@
 26	jetzt	jetzt	ADV	*	*	*	*
 27	geplant	planen	VVPP	*	*	*	*
 28	,	,	$,	*	*	*	*
-29	über	über	APPR	2	2	2	2
+29	über	über	APPR	FIG	FIG	FIG	FIG
 30	die	die	ART	*	*	*	*
-31	Bühne	Bühne	NN	2	2	2	2
-32	gehen	gehen	VVINF	2	2	2	2
+31	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+32	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 33	zu	zu	PTKZU	*	*	*	*
 34	lassen	lassen	VVINF	*	*	*	*
 35	.	.	$.	*	*	*	*
@@ -5201,6 +5350,7 @@
 # tuepp_article_id = T900827.148
 # sent_id = 6935
 # text = Auch die beispielhaft erwiesene Unfähigkeit der SÄPO kann nicht der Grund dafür sein , daß nun ein Geisterprozeß über die Bühne gehen wird .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -5221,16 +5371,17 @@
 16	nun	nun	ADV	*	*	*	*
 17	ein	eine	ART	*	*	*	*
 18	Geisterprozeß	Geisterprozess	NN	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
-22	gehen	gehen	VVINF	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+22	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 23	wird	werden	VAFIN	*	*	*	*
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900312.77
 # sent_id = 6936
 # text = Die Modalitäten der ersten freien Wahl und das vorläufige Mediengesetz gingen im Konsens über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5243,35 +5394,37 @@
 8	das	die	ART	*	*	*	*
 9	vorläufige	vorläufig	ADJA	*	*	*	*
 10	Mediengesetz	Mediengesetz	NN	*	*	*	*
-11	gingen	gehen	VVFIN	2	2	2	2
+11	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 12	im	in	APPRART	*	*	*	*
 13	Konsens	Konsens	NN	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900331.281
 # sent_id = 6937
 # text = Am nächsten Tag ging alles wie erwartet glatt über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Am	an	APPRART	*	*	*	*
 2	nächsten	nah	ADJA	*	*	*	*
 3	Tag	Tag	NN	*	*	*	*
-4	ging	gehen	VVFIN	2	2	2	2
+4	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	alles	alle	PIS	*	*	*	*
 6	wie	wie	KOKOM	*	*	*	*
 7	erwartet	erwartet	ADJD	*	*	*	*
 8	glatt	glatt	ADJD	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 12	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900303.112
 # sent_id = 6938
 # text = Bevor die erste Titelverteidigung des neuen Weltmeisters in Las Vegas , oder wo auch immer , über die Bühne gehen kann , steht jedenfalls erst mal ein langwieriger Rechtsstreit ins Haus .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bevor	bevor	KOUS	*	*	*	*
@@ -5290,10 +5443,10 @@
 14	auch	auch	ADV	*	*	*	*
 15	immer	immer	ADV	*	*	*	*
 16	,	,	$,	*	*	*	*
-17	über	über	APPR	2	2	2	2
+17	über	über	APPR	FIG	FIG	FIG	FIG
 18	die	die	ART	*	*	*	*
-19	Bühne	Bühne	NN	2	2	2	2
-20	gehen	gehen	VVINF	2	2	2	2
+19	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+20	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 21	kann	können	VMFIN	*	*	*	*
 22	,	,	$,	*	*	*	*
 23	steht	stehen	VVFIN	*	*	*	*
@@ -5310,6 +5463,7 @@
 # tuepp_article_id = T900309.87
 # sent_id = 6939
 # text = Was die Bürokratie aus Mangel an Dringlichkeit in zehn jahren nicht bewältigt hat , muß nun im Schnellverfahren über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Was	was	PWS	*	*	*	*
@@ -5330,15 +5484,16 @@
 16	nun	nun	ADV	*	*	*	*
 17	im	in	APPRART	*	*	*	*
 18	Schnellverfahren	Schnellverfahren	NN	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
-22	gehen	gehen	VVINF	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+22	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900309.230
 # sent_id = 6940
 # text = Schon zum vierten Male wird hier heute abend ein Talk SchwuZ über die Bühne gehen , in einer Dekoration fast wie im richtigen Bildschirmleben : bequeme Sessel , ein Mikro für jeden , smarte Couchtische und Selters für die trockenen Kehlen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Schon	schon	ADV	*	*	*	*
@@ -5352,10 +5507,10 @@
 9	ein	eine	ART	*	*	*	*
 10	Talk	Talk	NN	*	*	*	*
 11	SchwuZ	<unknown>	NN	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	gehen	gehen	VVINF	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 16	,	,	$,	*	*	*	*
 17	in	in	APPR	*	*	*	*
 18	einer	eine	ART	*	*	*	*
@@ -5387,6 +5542,7 @@
 # tuepp_article_id = T900307.45
 # sent_id = 6941
 # text = Verschiedene Bürgerinitiativen haben in der Vergangenheit immer wieder dagegen protestiert , daß die Vorbereitungen zum Abzug unter Ausschluß der Öffentlichkeit und ohne Anhörung der Betroffenen oder externer Gutachter über die Bühne gehen soll .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Verschiedene	verschieden	ADJA	*	*	*	*
@@ -5417,16 +5573,17 @@
 26	oder	oder	KON	*	*	*	*
 27	externer	extern	ADJA	*	*	*	*
 28	Gutachter	Gutachter	NN	*	*	*	*
-29	über	über	APPR	2	2	2	2
+29	über	über	APPR	FIG	FIG	FIG	FIG
 30	die	die	ART	*	*	*	*
-31	Bühne	Bühne	NN	2	2	2	2
-32	gehen	gehen	VVINF	2	2	2	2
+31	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+32	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 33	soll	sollen	VMFIN	*	*	*	*
 34	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900305.147
 # sent_id = 6942
 # text = Angesichts der schlimmen Erfahrungen mit der Stasi bleibt zu hoffen , daß die Installation einer derartigen Überwachungstechnologie in der DDR doch nicht so glatt über die Bühne geht , wie zum Beispiel SEL erhofft .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Angesichts	angesichts	APPR	*	*	*	*
@@ -5453,10 +5610,10 @@
 22	nicht	nicht	PTKNEG	*	*	*	*
 23	so	so	ADV	*	*	*	*
 24	glatt	glatt	ADJD	*	*	*	*
-25	über	über	APPR	2	2	2	2
+25	über	über	APPR	FIG	FIG	FIG	FIG
 26	die	die	ART	*	*	*	*
-27	Bühne	Bühne	NN	2	2	2	2
-28	geht	gehen	VVFIN	2	2	2	2
+27	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+28	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 29	,	,	$,	*	*	*	*
 30	wie	wie	KOKOM	*	*	*	*
 31	zum	zu	APPRART	*	*	*	*
@@ -5468,6 +5625,7 @@
 # tuepp_article_id = T901117.101
 # sent_id = 6943
 # text = Dem Kohlschen Druck gab de Maiziere im Frühsommer nach , als das Ausmaß der wirtschaftlichen Misere sich abzeichnete , keine Volkskammersitzung ohne Demonstrationen über die Bühne ging .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Dem	die	ART	*	*	*	*
@@ -5493,15 +5651,16 @@
 21	Volkskammersitzung	Volkskammersitzung	NN	*	*	*	*
 22	ohne	ohne	APPR	*	*	*	*
 23	Demonstrationen	Demonstration	NN	*	*	*	*
-24	über	über	APPR	2	2	2	2
+24	über	über	APPR	FIG	FIG	FIG	FIG
 25	die	die	ART	*	*	*	*
-26	Bühne	Bühne	NN	2	2	2	2
-27	ging	gehen	VVFIN	2	2	2	2
+26	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+27	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 28	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901124.204
 # sent_id = 6944
 # text = Deshalb war die Rotlichtstunde nicht eine verdiente Zugabe zum harten Seminaristenalltag , wie ähnliches nach CDU-Parteitagen oder Medizinerkongressen mehr oder weniger heimlich über die Bühne geht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Deshalb	deshalb	PAV	*	*	*	*
@@ -5526,15 +5685,16 @@
 20	oder	oder	KON	*	*	*	*
 21	weniger	weniger	ADV	*	*	*	*
 22	heimlich	heimlich	ADJD	*	*	*	*
-23	über	über	APPR	2	2	2	2
+23	über	über	APPR	FIG	FIG	FIG	FIG
 24	die	die	ART	*	*	*	*
-25	Bühne	Bühne	NN	2	2	2	2
-26	geht	gehen	VVFIN	2	2	2	2
+25	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+26	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 27	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T901105.186
 # sent_id = 6945
 # text = In Ankara versprach man nun der Delegation , zumindest das Verfahren zu beschleunigen : Die von den deutschen Behörden geforderte Entlassung aus der türkischen Staatsbürgerschaft soll in Zukunft , wie auch die Wiedereinbürgerung , innerhalb weniger Monate über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -5574,15 +5734,16 @@
 35	innerhalb	innerhalb	APPR	*	*	*	*
 36	weniger	wenige	PIAT	*	*	*	*
 37	Monate	Monat	NN	*	*	*	*
-38	über	über	APPR	2	2	2	2
+38	über	über	APPR	FIG	FIG	FIG	FIG
 39	die	die	ART	*	*	*	*
-40	Bühne	Bühne	NN	2	2	2	2
-41	gehen	gehen	VVINF	2	2	2	2
+40	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+41	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900217.273
 # sent_id = 6946
 # text = Der ganze Umlauf soll allerdings möglichst rasch über die Bühne gehen , denn letztendlich trachten Esalen-Besucher danach , ihre neugewonnenen Synthesen aus Seele und Gewissen daheim zum Beruf machen zu können , und zwar nach Möglichkeit zu einem , der das sanfte Gute und das erkenntnisreiche Heile in unseren fragmentierten Körpern und Geistern aufs holistischste wieder verquickt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -5592,10 +5753,10 @@
 5	allerdings	allerdings	ADV	*	*	*	*
 6	möglichst	möglichst	ADV	*	*	*	*
 7	rasch	rasch	ADJD	*	*	*	*
-8	über	über	APPR	2	2	2	2
+8	über	über	APPR	FIG	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	2	2	2	2
-11	gehen	gehen	VVINF	2	2	2	2
+10	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+11	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 12	,	,	$,	*	*	*	*
 13	denn	denn	ADV	*	*	*	*
 14	letztendlich	letztendlich	ADJD	*	*	*	*
@@ -5647,6 +5808,7 @@
 # tuepp_article_id = T900203.125
 # sent_id = 6947
 # text = Es habe jedoch keinen Plan gegeben , wie der Widerstand der Panamaer zu brechen oder die Gefangenahme von Geiseln zu vereiteln sei ; und , wie die ' Times ` schrieb : " Außer daß in einigen Fällen Fallschirmtruppen über falschen Gebieten abgeworfen wurden , ging die Operation glatt über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Es	es	PPER	*	*	*	*
@@ -5694,18 +5856,19 @@
 43	abgeworfen	abwerfen	VVPP	*	*	*	*
 44	wurden	werden	VAFIN	*	*	*	*
 45	,	,	$,	*	*	*	*
-46	ging	gehen	VVFIN	2	2	2	2
+46	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 47	die	die	ART	*	*	*	*
 48	Operation	Operation	NN	*	*	*	*
 49	glatt	glatt	ADJD	*	*	*	*
-50	über	über	APPR	2	2	2	2
+50	über	über	APPR	FIG	FIG	FIG	FIG
 51	die	die	ART	*	*	*	*
-52	Bühne	Bühne	NN	2	2	2	2
+52	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 53	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900202.121
 # sent_id = 6948
 # text = Unter dem Motto " Lesben leben offen und fordern Aktzeptanz " sollen in der Woche vom 1.- 7. April überall in der Stadt Aktionen über die Bühne gehen : Multi-Media auf der Straße , Stadtrundfahrten , Podiumsdiskussionen ... LESBerlin versteht sich als Teil eines internationalen Netzwerks .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Unter	unter	APPR	*	*	*	*
@@ -5733,10 +5896,10 @@
 23	der	die	ART	*	*	*	*
 24	Stadt	Stadt	NN	*	*	*	*
 25	Aktionen	Aktion	NN	*	*	*	*
-26	über	über	APPR	2	2	2	2
+26	über	über	APPR	FIG	FIG	FIG	FIG
 27	die	die	ART	*	*	*	*
-28	Bühne	Bühne	NN	2	2	2	2
-29	gehen	gehen	VVINF	2	2	2	2
+28	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+29	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 30	:	:	$.	*	*	*	*
 31	Multi-Media	<unknown>	NN	*	*	*	*
 32	auf	auf	APPR	*	*	*	*
@@ -5760,27 +5923,29 @@
 # tuepp_article_id = T900219.77
 # sent_id = 6949
 # text = Verbandsstatut und - programm gingen mit kleineren Änderungen und ohne Grundsatzdiskussionen über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Verbandsstatut	Verbandsstatut	NN	*	*	*	*
 2	und	und	KON	*	*	*	*
 3	-	-	$(	*	*	*	*
 4	programm	Programm	NN	*	*	*	*
-5	gingen	gehen	VVFIN	2	2	2	2
+5	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 6	mit	mit	APPR	*	*	*	*
 7	kleineren	klein	ADJA	*	*	*	*
 8	Änderungen	Änderung	NN	*	*	*	*
 9	und	und	KON	*	*	*	*
 10	ohne	ohne	APPR	*	*	*	*
 11	Grundsatzdiskussionen	Grundsatzdiskussion	NN	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 15	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T900226.53
 # sent_id = 6950
 # text = Die von den ALern mit Spannung erwartete und lange diskutierte Aktion ging zu deren eigener Überraschung völlig unspektakulär über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
@@ -5794,21 +5959,22 @@
 9	lange	lange	ADV	*	*	*	*
 10	diskutierte	diskutiert	ADJA	*	*	*	*
 11	Aktion	Aktion	NN	*	*	*	*
-12	ging	gehen	VVFIN	2	2	2	2
+12	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 13	zu	zu	APPR	*	*	*	*
 14	deren	die	PDAT	*	*	*	*
 15	eigener	eigen	ADJA	*	*	*	*
 16	Überraschung	Überraschung	NN	*	*	*	*
 17	völlig	völlig	ADJD	*	*	*	*
 18	unspektakulär	unspektakulär	ADJD	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 22	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920502.98
 # sent_id = 6951
 # text = Außerdem soll im Februar 1993 Lothar Trolles " Wstawate , Lizzy , Wstawate " erstmals über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Außerdem	außerdem	ADV	*	*	*	*
@@ -5826,15 +5992,16 @@
 13	Wstawate	<unknown>	NN	*	*	*	*
 14	"	"	$(	*	*	*	*
 15	erstmals	erstmals	ADV	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920514.141
 # sent_id = 6952
 # text = ( Vom Sinn des Theaters , ZDF , 23.30 Uhr ) - Wenn alle Jahre wieder in Berlin das Theatertreffen über die Bühne geht , öffnet sich auch im Fernsehen der Vorhang für die Schauspielkunst .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	(	(	$(	*	*	*	*
@@ -5857,10 +6024,10 @@
 18	Berlin	Berlin	NE	*	*	*	*
 19	das	die	ART	*	*	*	*
 20	Theatertreffen	Theatertreffen	NN	*	*	*	*
-21	über	über	APPR	2	2	2	2
+21	über	über	APPR	FIG	FIG	FIG	FIG
 22	die	die	ART	*	*	*	*
-23	Bühne	Bühne	NN	2	2	2	2
-24	geht	gehen	VVFIN	2	2	2	2
+23	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+24	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 25	,	,	$,	*	*	*	*
 26	öffnet	öffnen	VVFIN	*	*	*	*
 27	sich	sich	PRF	*	*	*	*
@@ -5877,6 +6044,7 @@
 # tuepp_article_id = T920522.205
 # sent_id = 6953
 # text = Mit einem Paukenschlag ist die diesjährige Mitgliederversammlung der Sparkasse am Montag über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -5890,15 +6058,16 @@
 9	Sparkasse	Sparkasse	NN	*	*	*	*
 10	am	an	APPRART	*	*	*	*
 11	Montag	Montag	NN	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
-15	gegangen	gehen	VVPP	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+15	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 16	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920525.104
 # sent_id = 6954
 # text = Ganz anders spielen sie unter Otto Klemperer : Da geht Beethovens Fünfte kühl analytisch über die Bühne des Wiener Musikvereins , jede Stimmführung für sich deutlich und direkt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ganz	ganz	ADV	*	*	*	*
@@ -5910,14 +6079,14 @@
 7	Klemperer	<unknown>	NN	*	*	*	*
 8	:	:	$.	*	*	*	*
 9	Da	da	ADV	*	*	*	*
-10	geht	gehen	VVFIN	2	2	2	2
+10	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 11	Beethovens	Beethoven	NE	*	*	*	*
 12	Fünfte	Fünfte	NN	*	*	*	*
 13	kühl	kühl	ADJD	*	*	*	*
 14	analytisch	analytisch	ADJD	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 18	des	die	ART	*	*	*	*
 19	Wiener	Wiener	ADJA	*	*	*	*
 20	Musikvereins	Musikverein	NN	*	*	*	*
@@ -5934,37 +6103,39 @@
 # tuepp_article_id = T920529.42
 # sent_id = 6955
 # text = Der Deal ging dennoch ohne Landtag über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
 2	Deal	Deal	NE	*	*	*	*
-3	ging	gehen	VVFIN	2	2	2	2
+3	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 4	dennoch	dennoch	ADV	*	*	*	*
 5	ohne	ohne	APPR	*	*	*	*
 6	Landtag	Landtag	NN	*	*	*	*
-7	über	über	APPR	2	2	2	2
+7	über	über	APPR	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
-9	Bühne	Bühne	NN	2	2	2	2
+9	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 10	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920523.189
 # sent_id = 6956
 # text = Aber die ganze Show geht in einem solch rasanten Tempo über die Bühne , daß diese kleinen Hänger kaum auffallen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
 2	die	die	ART	*	*	*	*
 3	ganze	ganz	ADJA	*	*	*	*
 4	Show	Show	NN	*	*	*	*
-5	geht	gehen	VVFIN	2	2	2	2
+5	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 6	in	in	APPR	*	*	*	*
 7	einem	eine	ART	*	*	*	*
 8	solch	solche	PIAT	*	*	*	*
 9	rasanten	rasant	ADJA	*	*	*	*
 10	Tempo	Tempo	NN	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 14	,	,	$,	*	*	*	*
 15	daß	dass	KOUS	*	*	*	*
 16	diese	dies	PDAT	*	*	*	*
@@ -5977,6 +6148,7 @@
 # tuepp_article_id = T920515.85
 # sent_id = 6957
 # text = Als vorläufig letzte öffentliche Initiative der " Memorandumsgruppe " ging das Hearing im Dezember 1991 dennoch , auch ohne den Segen des Akademischen Senats , über die Bühne - und endete im Eklat .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Als	als	KOUS	*	*	*	*
@@ -5988,7 +6160,7 @@
 7	"	"	$(	*	*	*	*
 8	Memorandumsgruppe	Memorandumsgruppe	NN	*	*	*	*
 9	"	"	$(	*	*	*	*
-10	ging	gehen	VVFIN	2	2	2	2
+10	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 11	das	die	ART	*	*	*	*
 12	Hearing	<unknown>	NN	*	*	*	*
 13	im	in	APPRART	*	*	*	*
@@ -6004,9 +6176,9 @@
 23	Akademischen	akademisch	ADJA	*	*	*	*
 24	Senats	Senat	NN	*	*	*	*
 25	,	,	$,	*	*	*	*
-26	über	über	APPR	2	2	2	2
+26	über	über	APPR	FIG	FIG	FIG	FIG
 27	die	die	ART	*	*	*	*
-28	Bühne	Bühne	NN	2	2	2	2
+28	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 29	-	-	$(	*	*	*	*
 30	und	und	KON	*	*	*	*
 31	endete	enden	VVFIN	*	*	*	*
@@ -6017,6 +6189,7 @@
 # tuepp_article_id = T920604.201
 # sent_id = 6958
 # text = Werder-Geschäftsführer Barkhausen auf Anfrage : " Wir haben gedacht , das geht locker über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Werder-Geschäftsführer	Werder-Geschäftsführer	NN	*	*	*	*
@@ -6030,16 +6203,17 @@
 9	gedacht	denken|gedenken	VVPP	*	*	*	*
 10	,	,	$,	*	*	*	*
 11	das	die	PDS	*	*	*	*
-12	geht	gehen	VVFIN	2	2	2	2
+12	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 13	locker	locker	ADJD	*	*	*	*
-14	über	über	APPR	2	2	2	2
+14	über	über	APPR	FIG	FIG	FIG	FIG
 15	die	die	ART	*	*	*	*
-16	Bühne	Bühne	NN	2	2	2	2
+16	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920611.171
 # sent_id = 6959
 # text = Mit der Einstellung von Pawlowsky-Flodell , die voraussichtlich im Herbst über die Bühne geht , hätte die AGB nach zwei Jahren die DirektorInnenstelle wieder besetzt .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Mit	mit	APPR	*	*	*	*
@@ -6052,10 +6226,10 @@
 8	voraussichtlich	voraussichtlich	ADJD	*	*	*	*
 9	im	in	APPRART	*	*	*	*
 10	Herbst	Herbst	NN	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
-14	geht	gehen	VVFIN	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+14	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	hätte	haben	VAFIN	*	*	*	*
 17	die	die	ART	*	*	*	*
@@ -6072,6 +6246,7 @@
 # tuepp_article_id = T920618.76
 # sent_id = 6960
 # text = Wenn die EWR- Ratifizierung glatt über die Bühne geht , werden Schweden , Norwegen , Finnland , Island , Österreich und die Schweiz samt Liechtenstein ab Anfang nächsten Jahres am EG-Binnenmarkt teilhaben - von Ausnahmebereichen wie der Landwirtschaft abgesehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Wenn	wenn	KOUS	*	*	*	*
@@ -6079,10 +6254,10 @@
 3	EWR-	EWR-	TRUNC	*	*	*	*
 4	Ratifizierung	Ratifizierung	NN	*	*	*	*
 5	glatt	glatt	ADJD	*	*	*	*
-6	über	über	APPR	2	2	2	2
+6	über	über	APPR	FIG	FIG	FIG	FIG
 7	die	die	ART	*	*	*	*
-8	Bühne	Bühne	NN	2	2	2	2
-9	geht	gehen	VVFIN	2	2	2	2
+8	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+9	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	werden	werden	VAFIN	*	*	*	*
 12	Schweden	Schweden	NE	*	*	*	*
@@ -6118,6 +6293,7 @@
 # tuepp_article_id = T921024.112
 # sent_id = 6961
 # text = Vom 14. bis 21. November sollen an fünf Ost-Berliner Spielstätten acht Inszenierungen aus acht europäischen Ländern über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Vom	von	APPRART	*	*	*	*
@@ -6138,21 +6314,22 @@
 16	acht	acht	CARD	*	*	*	*
 17	europäischen	europäisch	ADJA	*	*	*	*
 18	Ländern	Land	NN	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
-22	gehen	gehen	VVINF	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+22	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921001.240
 # sent_id = 6962
 # text = Zum fünften Mal geht morgen und übermorgen im Wehrschloß das Bremer " Off-Festival " über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zum	zu	APPRART	*	*	*	*
 2	fünften	fünft	ADJA	*	*	*	*
 3	Mal	Mal	NN	*	*	*	*
-4	geht	gehen	VVFIN	2	2	2	2
+4	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	morgen	morgen	ADV	*	*	*	*
 6	und	und	KON	*	*	*	*
 7	übermorgen	übermorgen	ADV	*	*	*	*
@@ -6163,14 +6340,15 @@
 12	"	"	$(	*	*	*	*
 13	Off-Festival	Off-Festival	NN	*	*	*	*
 14	"	"	$(	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 18	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921015.165
 # sent_id = 6963
 # text = Martina Ernst : " Wir fragen uns alle , wie das innerhalb von vierzehn Tagen über die Bühne gehen soll .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Martina	Martina	NE	*	*	*	*
@@ -6188,16 +6366,17 @@
 13	von	von	APPR	*	*	*	*
 14	vierzehn	vierzehn	CARD	*	*	*	*
 15	Tagen	Tag	NN	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	gehen	gehen	VVINF	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 20	soll	sollen	VMFIN	*	*	*	*
 21	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921027.168
 # sent_id = 6964
 # text = Ein Song , bei dem er sich als Rapper versucht , wirkt entsprechend halbherzig und verfehlt , aber von diesen wenigen Minuten abgesehen ging seine " oldie but goldie show " solide und peppig über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
@@ -6223,7 +6402,7 @@
 21	wenigen	wenige	PIAT	*	*	*	*
 22	Minuten	Minute	NN	*	*	*	*
 23	abgesehen	absehen	VVPP	*	*	*	*
-24	ging	gehen	VVFIN	2	2	2	2
+24	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 25	seine	sein	PPOSAT	*	*	*	*
 26	"	"	$(	*	*	*	*
 27	oldie	<unknown>	ADJA	*	*	*	*
@@ -6234,14 +6413,15 @@
 32	solide	solide	ADJD	*	*	*	*
 33	und	und	KON	*	*	*	*
 34	peppig	<unknown>	ADJD	*	*	*	*
-35	über	über	APPR	2	2	2	2
+35	über	über	APPR	FIG	FIG	FIG	FIG
 36	die	die	ART	*	*	*	*
-37	Bühne	Bühne	NN	2	2	2	2
+37	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 38	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921013.123
 # sent_id = 6965
 # text = Aber nein , das tut die Bundesregierung nicht , sie nennt die Zigeuner Rumänen , Scheinasylanten , damit die Abschiebung vor der Haustür problemlos über die Bühne geht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Aber	aber	KON	*	*	*	*
@@ -6268,15 +6448,16 @@
 22	der	die	ART	*	*	*	*
 23	Haustür	Haustür	NN	*	*	*	*
 24	problemlos	problemlos	ADJD	*	*	*	*
-25	über	über	APPR	2	2	2	2
+25	über	über	APPR	FIG	FIG	FIG	FIG
 26	die	die	ART	*	*	*	*
-27	Bühne	Bühne	NN	2	2	2	2
-28	geht	gehen	VVFIN	2	2	2	2
+27	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+28	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T921002.34
 # sent_id = 6966
 # text = Auf einem Wiesenstück in der Nähe von Kusel , das die Kreisverwaltung auf eigene Kosten vom Bund gemietet hat , um die Roma und Sinti aus der Stadt herauszuhalten , sollte gestern in einem Baucontainer die Zinsauszahlung über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auf	auf	APPR	*	*	*	*
@@ -6316,15 +6497,16 @@
 35	Baucontainer	Baucontainer	NN	*	*	*	*
 36	die	die	ART	*	*	*	*
 37	Zinsauszahlung	Zinsauszahlung	NN	*	*	*	*
-38	über	über	APPR	2	2	2	2
+38	über	über	APPR	FIG	FIG	FIG	FIG
 39	die	die	ART	*	*	*	*
-40	Bühne	Bühne	NN	2	2	2	2
-41	gehen	gehen	VVINF	2	2	2	2
+40	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+41	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 42	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920918.230
 # sent_id = 6967
 # text = Der Umbau soll in der Sommerpause 1993 " über die Bühne gehen " .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Der	die	ART	*	*	*	*
@@ -6335,16 +6517,17 @@
 6	Sommerpause	Sommerpause	NN	*	*	*	*
 7	1993	@card@	CARD	*	*	*	*
 8	"	"	$(	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
-12	gehen	gehen	VVINF	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+12	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 13	"	"	$(	*	*	*	*
 14	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920925.83
 # sent_id = 6968
 # text = Das Impeachment wird ohne Probleme über die Bühne gehen , " triumphiert Sozialdemokrat Miro Teixeira .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -6352,10 +6535,10 @@
 3	wird	werden	VAFIN	*	*	*	*
 4	ohne	ohne	APPR	*	*	*	*
 5	Probleme	Problem	NN	*	*	*	*
-6	über	über	APPR	2	2	2	2
+6	über	über	APPR	FIG	FIG	FIG	FIG
 7	die	die	ART	*	*	*	*
-8	Bühne	Bühne	NN	2	2	2	2
-9	gehen	gehen	VVINF	2	2	2	2
+8	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+9	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 10	,	,	$,	*	*	*	*
 11	"	"	$(	*	*	*	*
 12	triumphiert	triumphieren	VVFIN	*	*	*	*
@@ -6367,10 +6550,11 @@
 # tuepp_article_id = T920911.283
 # sent_id = 6969
 # text = Das geht zwar auch nicht ohne Rastafari-Erklärungen und " ganya-smoke " über die Bühne , ist aber in seiner präzisen Sicht himmelweit vom üblichen Good-Vibration-Dämmerzustand entfernt , der auf schwer erkältete Norddeutsche so eine fatale Anziehungskraft hat .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	PDS	*	*	*	*
-2	geht	gehen	VVFIN	2	2	2	2
+2	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 3	zwar	zwar	ADV	*	*	*	*
 4	auch	auch	ADV	*	*	*	*
 5	nicht	nicht	PTKNEG	*	*	*	*
@@ -6380,9 +6564,9 @@
 9	"	"	$(	*	*	*	*
 10	ganya-smoke	<unknown>	ADJD	*	*	*	*
 11	"	"	$(	*	*	*	*
-12	über	über	APPR	2	2	2	2
+12	über	über	APPR	FIG	FIG	FIG	FIG
 13	die	die	ART	*	*	*	*
-14	Bühne	Bühne	NN	2	2	2	2
+14	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	ist	sein	VAFIN	*	*	*	*
 17	aber	aber	ADV	*	*	*	*
@@ -6411,6 +6595,7 @@
 # tuepp_article_id = T920911.283
 # sent_id = 6970
 # text = Das Sommertheater-Festival im Zeichen Lateinamerikas ist gerade glücklich über die Bühne gegangen , da steht den Freunden des südamerikanischen Kontinents schon die nächste Festivität ins Haus .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Das	die	ART	*	*	*	*
@@ -6421,10 +6606,10 @@
 6	ist	sein	VAFIN	*	*	*	*
 7	gerade	gerade	ADV	*	*	*	*
 8	glücklich	glücklich	ADJD	*	*	*	*
-9	über	über	APPR	2	2	2	2
+9	über	über	APPR	FIG	FIG	FIG	FIG
 10	die	die	ART	*	*	*	*
-11	Bühne	Bühne	NN	2	2	2	2
-12	gegangen	gehen	VVPP	2	2	2	2
+11	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+12	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 13	,	,	$,	*	*	*	*
 14	da	da	ADV	*	*	*	*
 15	steht	stehen	VVFIN	*	*	*	*
@@ -6444,6 +6629,7 @@
 # tuepp_article_id = T920911.284
 # sent_id = 6971
 # text = Ich hoffe , daß die Verpflichtung von Jochen Heisig ( bisher 1860 München ) bald über die Bühne geht .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ich	ich	PPER	*	*	*	*
@@ -6461,15 +6647,16 @@
 13	München	München	NE	*	*	*	*
 14	)	)	$(	*	*	*	*
 15	bald	bald	ADV	*	*	*	*
-16	über	über	APPR	2	2	2	2
+16	über	über	APPR	FIG	FIG	FIG	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	2	2
-19	geht	gehen	VVFIN	2	2	2	2
+18	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+19	geht	gehen	VVFIN	FIG	FIG	FIG	FIG
 20	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920905.28
 # sent_id = 6972
 # text = Sonst müßten Wahlkampf und Bundestagswahl 1994 ohne die hämischen , die kritischen , die konstruktiven Einmischungen der taz über die Bühne einer langweiliger und konformer gewordenen Öffentlichkeit gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Sonst	sonst	ADV	*	*	*	*
@@ -6490,21 +6677,22 @@
 16	Einmischungen	Einmischung	NN	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	taz	<unknown>	NE	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 22	einer	eine	ART	*	*	*	*
 23	langweiliger	langweilig	ADJA	*	*	*	*
 24	und	und	KON	*	*	*	*
 25	konformer	konform	ADJA	*	*	*	*
 26	gewordenen	worden	ADJA	*	*	*	*
 27	Öffentlichkeit	Öffentlichkeit	NN	*	*	*	*
-28	gehen	gehen	VVINF	2	2	2	2
+28	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 29	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920907.36
 # sent_id = 6973
 # text = Im Gegensatz zu Daimler sei das Wettbewerbsverfahren bei Sony in kürzester Frist über die Bühne gegangen , es wurde sogar darauf verzichtet , der Jury alle Modelle vorzuführen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Im	in	APPRART	*	*	*	*
@@ -6519,10 +6707,10 @@
 10	in	in	APPR	*	*	*	*
 11	kürzester	kurz	ADJA	*	*	*	*
 12	Frist	Frist	NN	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Bühne	Bühne	NN	2	2	2	2
-16	gegangen	gehen	VVPP	2	2	2	2
+15	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+16	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 17	,	,	$,	*	*	*	*
 18	es	es	PPER	*	*	*	*
 19	wurde	werden	VAFIN	*	*	*	*
@@ -6540,6 +6728,7 @@
 # tuepp_article_id = T920907.192
 # sent_id = 6974
 # text = Da Sänger Björn Mohr auch noch im Besitz von Stimme und Melodieverständnis ist , kann die Party ohne Mißtöne über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Da	da	KOUS	*	*	*	*
@@ -6561,15 +6750,16 @@
 17	Party	Party	NN	*	*	*	*
 18	ohne	ohne	APPR	*	*	*	*
 19	Mißtöne	Misston	NN	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
-23	gehen	gehen	VVINF	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+23	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 24	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920914.189
 # sent_id = 6975
 # text = Zu dünn , zu kommerziell und zu sehr inszeniert war das Konzert der 60jährigen Afrikanerin in der Fabrik über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Zu	zu	PTKA	*	*	*	*
@@ -6590,15 +6780,16 @@
 16	in	in	APPR	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	Fabrik	Fabrik	NN	*	*	*	*
-19	über	über	APPR	2	2	2	2
+19	über	über	APPR	FIG	FIG	FIG	FIG
 20	die	die	ART	*	*	*	*
-21	Bühne	Bühne	NN	2	2	2	2
-22	gegangen	gehen	VVPP	2	2	2	2
+21	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+22	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 23	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920103.172
 # sent_id = 6976
 # text = Auch die Grundstückstransaktionen , die noch zu Zeiten der Modrow-Regierung über die Bühne gingen , werden überprüft .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Auch	auch	ADV	*	*	*	*
@@ -6611,10 +6802,10 @@
 8	Zeiten	Zeit	NN	*	*	*	*
 9	der	die	ART	*	*	*	*
 10	Modrow-Regierung	Modrow-Regierung	NN	*	*	*	*
-11	über	über	APPR	2	2	2	2
+11	über	über	APPR	FIG	FIG	FIG	FIG
 12	die	die	ART	*	*	*	*
-13	Bühne	Bühne	NN	2	2	2	2
-14	gingen	gehen	VVFIN	2	2	2	2
+13	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+14	gingen	gehen	VVFIN	FIG	FIG	FIG	FIG
 15	,	,	$,	*	*	*	*
 16	werden	werden	VAFIN	*	*	*	*
 17	überprüft	überprüfen	VVPP	*	*	*	*
@@ -6623,6 +6814,7 @@
 # tuepp_article_id = T920415.65
 # sent_id = 6977
 # text = Einen Tag nach dem Einzug der Rechtsextremen in die Landesparlamente von Schleswig-Holstein und Baden-Württemberg ging dann der Auszug der Flüchtlinge aus der TU fast ohne Interesse der Öffentlichkeit über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Einen	eine	ART	*	*	*	*
@@ -6639,7 +6831,7 @@
 12	Schleswig-Holstein	Schleswig-Holstein	NE	*	*	*	*
 13	und	und	KON	*	*	*	*
 14	Baden-Württemberg	Baden-Württemberg	NE	*	*	*	*
-15	ging	gehen	VVFIN	2	2	2	2
+15	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 16	dann	dann	ADV	*	*	*	*
 17	der	die	ART	*	*	*	*
 18	Auszug	Auszug	NN	*	*	*	*
@@ -6653,14 +6845,15 @@
 26	Interesse	Interesse	NN	*	*	*	*
 27	der	die	ART	*	*	*	*
 28	Öffentlichkeit	Öffentlichkeit	NN	*	*	*	*
-29	über	über	APPR	2	2	2	2
+29	über	über	APPR	FIG	FIG	FIG	FIG
 30	die	die	ART	*	*	*	*
-31	Bühne	Bühne	NN	2	2	2	2
+31	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 32	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920427.83
 # sent_id = 6978
 # text = In keinem einem anderen afrikanischen Land ist ein so tiefgreifender Wandel reibungslos über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -6675,15 +6868,16 @@
 10	tiefgreifender	tiefgreifend	ADJA	*	*	*	*
 11	Wandel	Wandel	NN	*	*	*	*
 12	reibungslos	reibungslos	ADJD	*	*	*	*
-13	über	über	APPR	2	2	2	2
+13	über	über	APPR	FIG	FIG	FIG	FIG
 14	die	die	ART	*	*	*	*
-15	Bühne	Bühne	NN	2	2	2	2
-16	gegangen	gehen	VVPP	2	2	2	2
+15	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+16	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 17	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920403.110
 # sent_id = 6979
 # text = Enten Variationen ist seine erste Regie auf dem glatten Parkett der Stadt- und Staatstheater ; daß sie ohne Ausrutscher über die Bühne ging , hat viel mit dem Mainzer Schauspielfrühling zu tun , also damit , daß die Fahrt in die konservativ-karnevalistische ZDF-Stadt inzwischen zur Theatermärchenreise geworden ist .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Enten	Ente	NN	*	*	*	*
@@ -6705,10 +6899,10 @@
 17	sie	sie	PPER	*	*	*	*
 18	ohne	ohne	APPR	*	*	*	*
 19	Ausrutscher	Ausrutscher	NN	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
-23	ging	gehen	VVFIN	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+23	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 24	,	,	$,	*	*	*	*
 25	hat	haben	VAFIN	*	*	*	*
 26	viel	viel	ADV	*	*	*	*
@@ -6739,6 +6933,7 @@
 # tuepp_article_id = T920413.95
 # sent_id = 6980
 # text = Bei der Gründungsversammlung , die mit Hilfe der Vereinigung der Vertragsfußballspieler ( vdv ) über die Bühne ging , war die deutsche Nationalmannschaft mit 26 Spielern komplett vertreten .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Bei	bei	APPR	*	*	*	*
@@ -6755,10 +6950,10 @@
 12	(	(	$(	*	*	*	*
 13	vdv	<unknown>	NE	*	*	*	*
 14	)	)	$(	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
-18	ging	gehen	VVFIN	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+18	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 19	,	,	$,	*	*	*	*
 20	war	sein	VAFIN	*	*	*	*
 21	die	die	ART	*	*	*	*
@@ -6774,23 +6969,25 @@
 # tuepp_article_id = T920428.37
 # sent_id = 6981
 # text = Die Wagner-Oper Lohengrin ging nur mit Notlicht über die Bühne .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Die	die	ART	*	*	*	*
 2	Wagner-Oper	Wagner-Oper	NN	*	*	*	*
 3	Lohengrin	<unknown>	NN	*	*	*	*
-4	ging	gehen	VVFIN	2	2	2	2
+4	ging	gehen	VVFIN	FIG	FIG	FIG	FIG
 5	nur	nur	ADV	*	*	*	*
 6	mit	mit	APPR	*	*	*	*
 7	Notlicht	Notlicht	NN	*	*	*	*
-8	über	über	APPR	2	2	2	2
+8	über	über	APPR	FIG	FIG	FIG	FIG
 9	die	die	ART	*	*	*	*
-10	Bühne	Bühne	NN	2	2	2	2
+10	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920428.42
 # sent_id = 6982
 # text = In deren Räumlichkeiten soll der Kongreß vom 3. bis 5. Juli auch über die Bühne gehen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -6807,21 +7004,22 @@
 12	.	.	$.	*	*	*	*
 13	Juli	Juli	NN	*	*	*	*
 14	auch	auch	ADV	*	*	*	*
-15	über	über	APPR	2	2	2	2
+15	über	über	APPR	FIG	FIG	FIG	FIG
 16	die	die	ART	*	*	*	*
-17	Bühne	Bühne	NN	2	2	2	2
-18	gehen	gehen	VVINF	2	2	2	2
+17	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+18	gehen	gehen	VVINF	FIG	FIG	FIG	FIG
 19	.	.	$.	*	*	*	*
 
 # tuepp_article_id = T920424.199
 # sent_id = 6983
 # text = Ein letztes Mal ging 1932 vor der Machtübernahme durch die Nationalsozialisten ein Werk Gerhart Hauptmanns über die Bühne des Deutschen Theaters .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Ein	eine	ART	*	*	*	*
 2	letztes	letzt	ADJA	*	*	*	*
 3	Mal	Mal	NN	*	*	*	*
-4	ging	gehen	VVFIN	2	2	1	2
+4	ging	gehen	VVFIN	FIG	FIG	LIT	FIG
 5	1932	@card@	CARD	*	*	*	*
 6	vor	vor	APPR	*	*	*	*
 7	der	die	ART	*	*	*	*
@@ -6833,9 +7031,9 @@
 13	Werk	Werk	NN	*	*	*	*
 14	Gerhart	Gerhart	NE	*	*	*	*
 15	Hauptmanns	Hauptmann	NE	*	*	*	*
-16	über	über	APPR	2	2	1	2
+16	über	über	APPR	FIG	FIG	LIT	FIG
 17	die	die	ART	*	*	*	*
-18	Bühne	Bühne	NN	2	2	1	2
+18	Bühne	Bühne	NN	FIG	FIG	LIT	FIG
 19	des	die	ART	*	*	*	*
 20	Deutschen	deutsch	ADJA	*	*	*	*
 21	Theaters	Theater	NN	*	*	*	*
@@ -6844,6 +7042,7 @@
 # tuepp_article_id = T920422.183
 # sent_id = 6984
 # text = Daß die von Wissenschaftssenator Manfred Erhardt ( CDU ) angeordnete Evaluierung der Forschungsstudenten und Aspiranten im Eilverfahren nicht tadellos über die Bühne gegangen war , stand für die Universität schon im Herbst vergangenen Jahres fest .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	Daß	dass	KOUS	*	*	*	*
@@ -6865,10 +7064,10 @@
 17	Eilverfahren	Eilverfahren	NN	*	*	*	*
 18	nicht	nicht	PTKNEG	*	*	*	*
 19	tadellos	tadellos	ADJD	*	*	*	*
-20	über	über	APPR	2	2	2	2
+20	über	über	APPR	FIG	FIG	FIG	FIG
 21	die	die	ART	*	*	*	*
-22	Bühne	Bühne	NN	2	2	2	2
-23	gegangen	gehen	VVPP	2	2	2	2
+22	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+23	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 24	war	sein	VAFIN	*	*	*	*
 25	,	,	$,	*	*	*	*
 26	stand	stehen	VVFIN	*	*	*	*
@@ -6886,6 +7085,7 @@
 # tuepp_article_id = T920408.84
 # sent_id = 6985
 # text = In Peru ist ein veritabler Staatsstreich über die Bühne gegangen .
+# vid_types = über bühne gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
 1	In	in	APPR	*	*	*	*
@@ -6894,9 +7094,9 @@
 4	ein	eine	ART	*	*	*	*
 5	veritabler	veritabel	ADJA	*	*	*	*
 6	Staatsstreich	Staatsstreich	NN	*	*	*	*
-7	über	über	APPR	2	2	2	2
+7	über	über	APPR	FIG	FIG	FIG	FIG
 8	die	die	ART	*	*	*	*
-9	Bühne	Bühne	NN	2	2	2	2
-10	gegangen	gehen	VVPP	2	2	2	2
+9	Bühne	Bühne	NN	FIG	FIG	FIG	FIG
+10	gegangen	gehen	VVPP	FIG	FIG	FIG	FIG
 11	.	.	$.	*	*	*	*
 

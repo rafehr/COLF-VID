@@ -1,13 +1,14 @@
 # tuepp_article_id = T890609.187
 # sent_id = 395
+# text = " Auf den Arm nehmen kann ich mich alleine , " meinte er zusehends zornig und begann eine heftige Befragung .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Auf den Arm nehmen kann ich mich alleine , " meinte er zusehends zornig und begann eine heftige Befragung .
 1	"	*	*	*	*
-2	Auf	2	2	2	2
+2	Auf	FIG	FIG	FIG	FIG
 3	den	*	*	*	*
-4	Arm	2	2	2	2
-5	nehmen	2	2	2	2
+4	Arm	FIG	FIG	FIG	FIG
+5	nehmen	FIG	FIG	FIG	FIG
 6	kann	*	*	*	*
 7	ich	*	*	*	*
 8	mich	*	*	*	*
@@ -27,9 +28,10 @@
 
 # tuepp_article_id = T890614.45
 # sent_id = 396
+# text = Die abgenutzten Versatzstücke eines diplomatischen Zeremoniells sind da ; auch jenes verlogene Beiwerk eingeplanter " menschlicher Begegnungen " : Der kleine Junge , der auf Befehl Blumen bringt und auf den Arm genommen wird ; das Winken in die Menge gemeinsam mit Frau Gorbatschowa .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Die abgenutzten Versatzstücke eines diplomatischen Zeremoniells sind da ; auch jenes verlogene Beiwerk eingeplanter " menschlicher Begegnungen " : Der kleine Junge , der auf Befehl Blumen bringt und auf den Arm genommen wird ; das Winken in die Menge gemeinsam mit Frau Gorbatschowa .
 1	Die	*	*	*	*
 2	abgenutzten	*	*	*	*
 3	Versatzstücke	*	*	*	*
@@ -59,10 +61,10 @@
 27	Blumen	*	*	*	*
 28	bringt	*	*	*	*
 29	und	*	*	*	*
-30	auf	1	1	1	1
+30	auf	LIT	LIT	LIT	LIT
 31	den	*	*	*	*
-32	Arm	1	1	1	1
-33	genommen	1	1	1	1
+32	Arm	LIT	LIT	LIT	LIT
+33	genommen	LIT	LIT	LIT	LIT
 34	wird	*	*	*	*
 35	;	*	*	*	*
 36	das	*	*	*	*
@@ -78,9 +80,10 @@
 
 # tuepp_article_id = T890727.65
 # sent_id = 397
+# text = Güllner zur taz : " Die Leute fühlen sich doch auf den Arm genommen , wenn die Realitäten so weggewischt werden .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Güllner zur taz : " Die Leute fühlen sich doch auf den Arm genommen , wenn die Realitäten so weggewischt werden .
 1	Güllner	*	*	*	*
 2	zur	*	*	*	*
 3	taz	*	*	*	*
@@ -91,10 +94,10 @@
 8	fühlen	*	*	*	*
 9	sich	*	*	*	*
 10	doch	*	*	*	*
-11	auf	2	2	2	2
+11	auf	FIG	FIG	FIG	FIG
 12	den	*	*	*	*
-13	Arm	2	2	2	2
-14	genommen	2	2	2	2
+13	Arm	FIG	FIG	FIG	FIG
+14	genommen	FIG	FIG	FIG	FIG
 15	,	*	*	*	*
 16	wenn	*	*	*	*
 17	die	*	*	*	*
@@ -106,30 +109,32 @@
 
 # tuepp_article_id = T891102.156
 # sent_id = 398
+# text = Wollen Sie mich auf den Arm nehmen ?
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Wollen Sie mich auf den Arm nehmen ?
 1	Wollen	*	*	*	*
 2	Sie	*	*	*	*
 3	mich	*	*	*	*
-4	auf	2	2	2	2
+4	auf	FIG	FIG	FIG	FIG
 5	den	*	*	*	*
-6	Arm	2	2	2	2
-7	nehmen	2	2	2	2
+6	Arm	FIG	FIG	FIG	FIG
+7	nehmen	FIG	FIG	FIG	FIG
 8	?	*	*	*	*
 
 # tuepp_article_id = T910515.186
 # sent_id = 399
+# text = Ihr Mann nimmt sie auf den Arm und dreht sich mit ihr in einen Tanz ein , den die ganze Welt immer schon tanzt .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Ihr Mann nimmt sie auf den Arm und dreht sich mit ihr in einen Tanz ein , den die ganze Welt immer schon tanzt .
 1	Ihr	*	*	*	*
 2	Mann	*	*	*	*
-3	nimmt	1	1	1	1
+3	nimmt	LIT	LIT	LIT	LIT
 4	sie	*	*	*	*
-5	auf	1	1	1	1
+5	auf	LIT	LIT	LIT	LIT
 6	den	*	*	*	*
-7	Arm	1	1	1	1
+7	Arm	LIT	LIT	LIT	LIT
 8	und	*	*	*	*
 9	dreht	*	*	*	*
 10	sich	*	*	*	*
@@ -151,9 +156,10 @@
 
 # tuepp_article_id = T910119.87
 # sent_id = 400
+# text = Abgesehen davon fühlen sich die Leute durch das , was jetzt gemacht wird und vor der Wahl gesagt wurde - und das ist mit das Schlimmste , was eine Partei oder eine Regierung machen kann - , auf den Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Abgesehen davon fühlen sich die Leute durch das , was jetzt gemacht wird und vor der Wahl gesagt wurde - und das ist mit das Schlimmste , was eine Partei oder eine Regierung machen kann - , auf den Arm genommen .
 1	Abgesehen	*	*	*	*
 2	davon	*	*	*	*
 3	fühlen	*	*	*	*
@@ -191,17 +197,18 @@
 35	kann	*	*	*	*
 36	-	*	*	*	*
 37	,	*	*	*	*
-38	auf	2	2	2	2
+38	auf	FIG	FIG	FIG	FIG
 39	den	*	*	*	*
-40	Arm	2	2	2	2
-41	genommen	2	2	2	2
+40	Arm	FIG	FIG	FIG	FIG
+41	genommen	FIG	FIG	FIG	FIG
 42	.	*	*	*	*
 
 # tuepp_article_id = T910418.92
 # sent_id = 401
+# text = Qureisha wird in eine Decke eingehüllt , bevor der Vater sie zum letztenmal auf die Arme nimmt und fortträgt .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Qureisha wird in eine Decke eingehüllt , bevor der Vater sie zum letztenmal auf die Arme nimmt und fortträgt .
 1	Qureisha	*	*	*	*
 2	wird	*	*	*	*
 3	in	*	*	*	*
@@ -215,19 +222,20 @@
 11	sie	*	*	*	*
 12	zum	*	*	*	*
 13	letztenmal	*	*	*	*
-14	auf	1	1	1	1
+14	auf	LIT	LIT	LIT	LIT
 15	die	*	*	*	*
-16	Arme	1	1	1	1
-17	nimmt	1	1	1	1
+16	Arme	LIT	LIT	LIT	LIT
+17	nimmt	LIT	LIT	LIT	LIT
 18	und	*	*	*	*
 19	fortträgt	*	*	*	*
 20	.	*	*	*	*
 
 # tuepp_article_id = T910712.222
 # sent_id = 402
+# text = Nur einmal , als ein junger Mann " nur mal so wissen will , wo-s denn hier wohl Stoff gibt " und ihr " auf den Zahn fühlen " will , ob sie überhaupt Bescheid weiß , wovon sie redet - da wird sie kurz angebunden : " Sie wollen mich wohl auf den Arm nehmen !
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nur einmal , als ein junger Mann " nur mal so wissen will , wo-s denn hier wohl Stoff gibt " und ihr " auf den Zahn fühlen " will , ob sie überhaupt Bescheid weiß , wovon sie redet - da wird sie kurz angebunden : " Sie wollen mich wohl auf den Arm nehmen !
 1	Nur	*	*	*	*
 2	einmal	*	*	*	*
 3	,	*	*	*	*
@@ -280,17 +288,18 @@
 50	wollen	*	*	*	*
 51	mich	*	*	*	*
 52	wohl	*	*	*	*
-53	auf	2	2	2	2
+53	auf	FIG	FIG	FIG	FIG
 54	den	*	*	*	*
-55	Arm	2	2	2	2
-56	nehmen	2	2	2	2
+55	Arm	FIG	FIG	FIG	FIG
+56	nehmen	FIG	FIG	FIG	FIG
 57	!	*	*	*	*
 
 # tuepp_article_id = T911223.84
 # sent_id = 403
+# text = Rollentausch : die Sächsin , die ihn um Gnade für ihren desertierten Mann bittet , wird entsprechend von einem kräftigen Mann mit Frauenperücke und Kleid verkörpert , der die kleine Friederike mal eben auf den Arm nimmt und in Embryohaltung wiegt .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Rollentausch : die Sächsin , die ihn um Gnade für ihren desertierten Mann bittet , wird entsprechend von einem kräftigen Mann mit Frauenperücke und Kleid verkörpert , der die kleine Friederike mal eben auf den Arm nimmt und in Embryohaltung wiegt .
 1	Rollentausch	*	*	*	*
 2	:	*	*	*	*
 3	die	*	*	*	*
@@ -324,10 +333,10 @@
 31	Friederike	*	*	*	*
 32	mal	*	*	*	*
 33	eben	*	*	*	*
-34	auf	1	1	1	1
+34	auf	LIT	LIT	LIT	LIT
 35	den	*	*	*	*
-36	Arm	1	1	1	1
-37	nimmt	1	1	1	1
+36	Arm	LIT	LIT	LIT	LIT
+37	nimmt	LIT	LIT	LIT	LIT
 38	und	*	*	*	*
 39	in	*	*	*	*
 40	Embryohaltung	*	*	*	*
@@ -336,9 +345,10 @@
 
 # tuepp_article_id = T911112.26
 # sent_id = 404
+# text = Der kleine Peter schaut verängstigt , die Mutter läßt das Telefon klingeln , nimmt ihren Sohn auf den Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der kleine Peter schaut verängstigt , die Mutter läßt das Telefon klingeln , nimmt ihren Sohn auf den Arm .
 1	Der	*	*	*	*
 2	kleine	*	*	*	*
 3	Peter	*	*	*	*
@@ -352,29 +362,30 @@
 11	Telefon	*	*	*	*
 12	klingeln	*	*	*	*
 13	,	*	*	*	*
-14	nimmt	1	1	1	1
+14	nimmt	LIT	LIT	LIT	LIT
 15	ihren	*	*	*	*
 16	Sohn	*	*	*	*
-17	auf	1	1	1	1
+17	auf	LIT	LIT	LIT	LIT
 18	den	*	*	*	*
-19	Arm	1	1	1	1
+19	Arm	LIT	LIT	LIT	LIT
 20	.	*	*	*	*
 
 # tuepp_article_id = T911109.147
 # sent_id = 405
+# text = Als Bundespäsident Weizsäcker ein arabisches Kind auf den Arm nahm , flackerten mindestens 80 Blitzlichter auf .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als Bundespäsident Weizsäcker ein arabisches Kind auf den Arm nahm , flackerten mindestens 80 Blitzlichter auf .
 1	Als	*	*	*	*
 2	Bundespäsident	*	*	*	*
 3	Weizsäcker	*	*	*	*
 4	ein	*	*	*	*
 5	arabisches	*	*	*	*
 6	Kind	*	*	*	*
-7	auf	1	1	1	1
+7	auf	LIT	LIT	LIT	LIT
 8	den	*	*	*	*
-9	Arm	1	1	1	1
-10	nahm	1	1	1	1
+9	Arm	LIT	LIT	LIT	LIT
+10	nahm	LIT	LIT	LIT	LIT
 11	,	*	*	*	*
 12	flackerten	*	*	*	*
 13	mindestens	*	*	*	*
@@ -385,16 +396,17 @@
 
 # tuepp_article_id = T910207.171
 # sent_id = 406
+# text = Der so viel besser gestellte Westdeutsche nimmt den armen Bruder und die arme Schwester auf den besagten Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Der so viel besser gestellte Westdeutsche nimmt den armen Bruder und die arme Schwester auf den besagten Arm .
 1	Der	*	*	*	*
 2	so	*	*	*	*
 3	viel	*	*	*	*
 4	besser	*	*	*	*
 5	gestellte	*	*	*	*
 6	Westdeutsche	*	*	*	*
-7	nimmt	2	2	2	2
+7	nimmt	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
 9	armen	*	*	*	*
 10	Bruder	*	*	*	*
@@ -402,17 +414,18 @@
 12	die	*	*	*	*
 13	arme	*	*	*	*
 14	Schwester	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
 17	besagten	*	*	*	*
-18	Arm	2	2	2	2
+18	Arm	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T900507.88
 # sent_id = 407
+# text = Die Friedenstruppen , die seit November in Zentralamerika stationiert sind , um die Waffen der Contras entgegenzunehmen , fühlen sich langsam auf den Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Friedenstruppen , die seit November in Zentralamerika stationiert sind , um die Waffen der Contras entgegenzunehmen , fühlen sich langsam auf den Arm genommen .
 1	Die	*	*	*	*
 2	Friedenstruppen	*	*	*	*
 3	,	*	*	*	*
@@ -434,24 +447,25 @@
 19	fühlen	*	*	*	*
 20	sich	*	*	*	*
 21	langsam	*	*	*	*
-22	auf	2	2	2	2
+22	auf	FIG	FIG	FIG	FIG
 23	den	*	*	*	*
-24	Arm	2	2	2	2
-25	genommen	2	2	2	2
+24	Arm	FIG	FIG	FIG	FIG
+25	genommen	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T901001.63
 # sent_id = 408
+# text = Man kann sie auf den Arm nehmen und vor den Fernsehkameras liebevoll küssen , man kann sie als Kulisse für Fototermine benutzen - nur füttern und am Leben erhalten kann man sie offenbar nicht .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Man kann sie auf den Arm nehmen und vor den Fernsehkameras liebevoll küssen , man kann sie als Kulisse für Fototermine benutzen - nur füttern und am Leben erhalten kann man sie offenbar nicht .
 1	Man	*	*	*	*
 2	kann	*	*	*	*
 3	sie	*	*	*	*
-4	auf	1	1	1	1
+4	auf	LIT	LIT	LIT	LIT
 5	den	*	*	*	*
-6	Arm	1	1	1	1
-7	nehmen	1	1	1	1
+6	Arm	LIT	LIT	LIT	LIT
+7	nehmen	LIT	LIT	LIT	LIT
 8	und	*	*	*	*
 9	vor	*	*	*	*
 10	den	*	*	*	*
@@ -483,18 +497,19 @@
 
 # tuepp_article_id = T900924.167
 # sent_id = 409
+# text = Der jungenhafte Fernsehschwätzer nimmt das Kleine auf dem Arm , während sich Mutti hektisch und verbissen die Finger klemmt .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der jungenhafte Fernsehschwätzer nimmt das Kleine auf dem Arm , während sich Mutti hektisch und verbissen die Finger klemmt .
 1	Der	*	*	*	*
 2	jungenhafte	*	*	*	*
 3	Fernsehschwätzer	*	*	*	*
-4	nimmt	1	1	1	1
+4	nimmt	LIT	LIT	LIT	LIT
 5	das	*	*	*	*
 6	Kleine	*	*	*	*
-7	auf	1	1	1	1
+7	auf	LIT	LIT	LIT	LIT
 8	dem	*	*	*	*
-9	Arm	1	1	1	1
+9	Arm	LIT	LIT	LIT	LIT
 10	,	*	*	*	*
 11	während	*	*	*	*
 12	sich	*	*	*	*
@@ -509,9 +524,10 @@
 
 # tuepp_article_id = T901113.126
 # sent_id = 410
+# text = Italien : Während Rudi Völler ( AS Rom ) als zweifacher Torschütze brillierte und ihm " weltmeisterliche Form " bescheinigt wurde , Jürgen Klinsmann ( Inter Mailand ) zu hören bekam , daß er " zu viel Staub " aufwirbele und Lothar Matthäus für Inter einen Elfmeter verwandelte , fürchtet sich Karl-Heinz Riedle trotz des schmeichelhaften 1:0 seines Lazio Rom in Cagliari durch eine Eigentor mittlerweile vor Spott : " Wir müssen in den Europacup , sonst nehmen mich meine Bremer Freunde auf den Arm " .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Italien : Während Rudi Völler ( AS Rom ) als zweifacher Torschütze brillierte und ihm " weltmeisterliche Form " bescheinigt wurde , Jürgen Klinsmann ( Inter Mailand ) zu hören bekam , daß er " zu viel Staub " aufwirbele und Lothar Matthäus für Inter einen Elfmeter verwandelte , fürchtet sich Karl-Heinz Riedle trotz des schmeichelhaften 1:0 seines Lazio Rom in Cagliari durch eine Eigentor mittlerweile vor Spott : " Wir müssen in den Europacup , sonst nehmen mich meine Bremer Freunde auf den Arm " .
 1	Italien	*	*	*	*
 2	:	*	*	*	*
 3	Während	*	*	*	*
@@ -589,22 +605,23 @@
 75	Europacup	*	*	*	*
 76	,	*	*	*	*
 77	sonst	*	*	*	*
-78	nehmen	2	2	2	2
+78	nehmen	FIG	FIG	FIG	FIG
 79	mich	*	*	*	*
 80	meine	*	*	*	*
 81	Bremer	*	*	*	*
 82	Freunde	*	*	*	*
-83	auf	2	2	2	2
+83	auf	FIG	FIG	FIG	FIG
 84	den	*	*	*	*
-85	Arm	2	2	2	2
+85	Arm	FIG	FIG	FIG	FIG
 86	"	*	*	*	*
 87	.	*	*	*	*
 
 # tuepp_article_id = T901108.78
 # sent_id = 411
+# text = Die beiden Gestalten sind typisch für zwei unterschiedliche Politikerkarrieren : Rajiv Gandhi auf der einen Seite , mit dem Silberlöffel im Mund geboren , der bereits als Kind von Staatsmännern auf den Arm genommen wurde .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Die beiden Gestalten sind typisch für zwei unterschiedliche Politikerkarrieren : Rajiv Gandhi auf der einen Seite , mit dem Silberlöffel im Mund geboren , der bereits als Kind von Staatsmännern auf den Arm genommen wurde .
 1	Die	*	*	*	*
 2	beiden	*	*	*	*
 3	Gestalten	*	*	*	*
@@ -635,18 +652,19 @@
 28	Kind	*	*	*	*
 29	von	*	*	*	*
 30	Staatsmännern	*	*	*	*
-31	auf	1	1	1	1
+31	auf	LIT	LIT	LIT	LIT
 32	den	*	*	*	*
-33	Arm	1	1	1	1
-34	genommen	1	1	1	1
+33	Arm	LIT	LIT	LIT	LIT
+34	genommen	LIT	LIT	LIT	LIT
 35	wurde	*	*	*	*
 36	.	*	*	*	*
 
 # tuepp_article_id = T900203.104
 # sent_id = 412
+# text = Dabei reicht es schon , wenn ein Erwachsener ihm permanent über die Haare streicht , es ständig auf den Arm nehmen oder abknutschen zu müssen meint .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dabei reicht es schon , wenn ein Erwachsener ihm permanent über die Haare streicht , es ständig auf den Arm nehmen oder abknutschen zu müssen meint .
 1	Dabei	*	*	*	*
 2	reicht	*	*	*	*
 3	es	*	*	*	*
@@ -664,10 +682,10 @@
 15	,	*	*	*	*
 16	es	*	*	*	*
 17	ständig	*	*	*	*
-18	auf	1	1	1	1
+18	auf	LIT	LIT	LIT	LIT
 19	den	*	*	*	*
-20	Arm	1	1	1	1
-21	nehmen	1	1	1	1
+20	Arm	LIT	LIT	LIT	LIT
+21	nehmen	LIT	LIT	LIT	LIT
 22	oder	*	*	*	*
 23	abknutschen	*	*	*	*
 24	zu	*	*	*	*
@@ -677,9 +695,10 @@
 
 # tuepp_article_id = T920527.188
 # sent_id = 413
+# text = Das war vor Jahren camp und Attitüde , heute nehmen sich gestandene Werbetexter damit gegenseitig auf den Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das war vor Jahren camp und Attitüde , heute nehmen sich gestandene Werbetexter damit gegenseitig auf den Arm .
 1	Das	*	*	*	*
 2	war	*	*	*	*
 3	vor	*	*	*	*
@@ -689,22 +708,23 @@
 7	Attitüde	*	*	*	*
 8	,	*	*	*	*
 9	heute	*	*	*	*
-10	nehmen	2	2	2	2
+10	nehmen	FIG	FIG	FIG	FIG
 11	sich	*	*	*	*
 12	gestandene	*	*	*	*
 13	Werbetexter	*	*	*	*
 14	damit	*	*	*	*
 15	gegenseitig	*	*	*	*
-16	auf	2	2	2	2
+16	auf	FIG	FIG	FIG	FIG
 17	den	*	*	*	*
-18	Arm	2	2	2	2
+18	Arm	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T920623.175
 # sent_id = 414
+# text = Auffallend ist die hohe Politikverdrossenheit der Bürger : » Von Politikern wurden wir zu lange auf den Arm genommen , sehen Sie sich doch nur mal den Dorfanger an , die Eisenbahn fährt mitten durch den Dorfteich .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auffallend ist die hohe Politikverdrossenheit der Bürger : » Von Politikern wurden wir zu lange auf den Arm genommen , sehen Sie sich doch nur mal den Dorfanger an , die Eisenbahn fährt mitten durch den Dorfteich .
 1	Auffallend	*	*	*	*
 2	ist	*	*	*	*
 3	die	*	*	*	*
@@ -720,10 +740,10 @@
 13	wir	*	*	*	*
 14	zu	*	*	*	*
 15	lange	*	*	*	*
-16	auf	2	2	2	2
+16	auf	FIG	FIG	FIG	FIG
 17	den	*	*	*	*
-18	Arm	2	2	2	2
-19	genommen	2	2	2	2
+18	Arm	FIG	FIG	FIG	FIG
+19	genommen	FIG	FIG	FIG	FIG
 20	,	*	*	*	*
 21	sehen	*	*	*	*
 22	Sie	*	*	*	*
@@ -746,9 +766,10 @@
 
 # tuepp_article_id = T921001.147
 # sent_id = 415
+# text = Es ist ein Abenteuer- und fast ein Schelmenroman , der die Gelegenheit des Themas , den Kunstbetrieb zum x-ten Male auf den Arm zu nehmen , Gott sei Dank nahezu ungenützt vorübergehen läßt .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Es ist ein Abenteuer- und fast ein Schelmenroman , der die Gelegenheit des Themas , den Kunstbetrieb zum x-ten Male auf den Arm zu nehmen , Gott sei Dank nahezu ungenützt vorübergehen läßt .
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	ein	*	*	*	*
@@ -769,11 +790,11 @@
 18	zum	*	*	*	*
 19	x-ten	*	*	*	*
 20	Male	*	*	*	*
-21	auf	2	2	2	2
+21	auf	FIG	FIG	FIG	FIG
 22	den	*	*	*	*
-23	Arm	2	2	2	2
+23	Arm	FIG	FIG	FIG	FIG
 24	zu	*	*	*	*
-25	nehmen	2	2	2	2
+25	nehmen	FIG	FIG	FIG	FIG
 26	,	*	*	*	*
 27	Gott	*	*	*	*
 28	sei	*	*	*	*
@@ -786,9 +807,10 @@
 
 # tuepp_article_id = T920915.219
 # sent_id = 416
+# text = Der zweite Hauptbelastungszeuge im Verfahren gegen die beiden Rote-Flora-Aktivisten Ralf Gauger und Knud Andresen , dieser Eindruck drängte sich geradezu auf , nahm das Gericht gehörig auf den Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der zweite Hauptbelastungszeuge im Verfahren gegen die beiden Rote-Flora-Aktivisten Ralf Gauger und Knud Andresen , dieser Eindruck drängte sich geradezu auf , nahm das Gericht gehörig auf den Arm .
 1	Der	*	*	*	*
 2	zweite	*	*	*	*
 3	Hauptbelastungszeuge	*	*	*	*
@@ -811,27 +833,28 @@
 20	geradezu	*	*	*	*
 21	auf	*	*	*	*
 22	,	*	*	*	*
-23	nahm	2	2	2	2
+23	nahm	FIG	FIG	FIG	FIG
 24	das	*	*	*	*
 25	Gericht	*	*	*	*
 26	gehörig	*	*	*	*
-27	auf	2	2	2	2
+27	auf	FIG	FIG	FIG	FIG
 28	den	*	*	*	*
-29	Arm	2	2	2	2
+29	Arm	FIG	FIG	FIG	FIG
 30	.	*	*	*	*
 
 # tuepp_article_id = T920106.50
 # sent_id = 417
+# text = Sie nimmt das Kind auf den Arm , um es bis zum Füttern zu beruhigen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie nimmt das Kind auf den Arm , um es bis zum Füttern zu beruhigen .
 1	Sie	*	*	*	*
-2	nimmt	1	1	1	1
+2	nimmt	LIT	LIT	LIT	LIT
 3	das	*	*	*	*
 4	Kind	*	*	*	*
-5	auf	1	1	1	1
+5	auf	LIT	LIT	LIT	LIT
 6	den	*	*	*	*
-7	Arm	1	1	1	1
+7	Arm	LIT	LIT	LIT	LIT
 8	,	*	*	*	*
 9	um	*	*	*	*
 10	es	*	*	*	*
@@ -844,9 +867,10 @@
 
 # tuepp_article_id = T920123.106
 # sent_id = 418
+# text = Hanna streckt Eveline demonstrativ den Hintern entgegen , nimmt dann die körperlich Unterlegene , hilflos Zappelnde auf den Arm , läßt sie kreisen wie ein Kind .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hanna streckt Eveline demonstrativ den Hintern entgegen , nimmt dann die körperlich Unterlegene , hilflos Zappelnde auf den Arm , läßt sie kreisen wie ein Kind .
 1	Hanna	*	*	*	*
 2	streckt	*	*	*	*
 3	Eveline	*	*	*	*
@@ -855,7 +879,7 @@
 6	Hintern	*	*	*	*
 7	entgegen	*	*	*	*
 8	,	*	*	*	*
-9	nimmt	1	1	1	1
+9	nimmt	LIT	LIT	LIT	LIT
 10	dann	*	*	*	*
 11	die	*	*	*	*
 12	körperlich	*	*	*	*
@@ -863,9 +887,9 @@
 14	,	*	*	*	*
 15	hilflos	*	*	*	*
 16	Zappelnde	*	*	*	*
-17	auf	1	1	1	1
+17	auf	LIT	LIT	LIT	LIT
 18	den	*	*	*	*
-19	Arm	1	1	1	1
+19	Arm	LIT	LIT	LIT	LIT
 20	,	*	*	*	*
 21	läßt	*	*	*	*
 22	sie	*	*	*	*
@@ -877,9 +901,10 @@
 
 # tuepp_article_id = T920116.154
 # sent_id = 419
+# text = Weil ich sie nicht an den Zähnen hinter mir herziehen will , nehme ich sie auf den Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Weil ich sie nicht an den Zähnen hinter mir herziehen will , nehme ich sie auf den Arm .
 1	Weil	*	*	*	*
 2	ich	*	*	*	*
 3	sie	*	*	*	*
@@ -892,19 +917,20 @@
 10	herziehen	*	*	*	*
 11	will	*	*	*	*
 12	,	*	*	*	*
-13	nehme	1	1	1	1
+13	nehme	LIT	LIT	LIT	LIT
 14	ich	*	*	*	*
 15	sie	*	*	*	*
-16	auf	1	1	1	1
+16	auf	LIT	LIT	LIT	LIT
 17	den	*	*	*	*
-18	Arm	1	1	1	1
+18	Arm	LIT	LIT	LIT	LIT
 19	.	*	*	*	*
 
 # tuepp_article_id = T920718.111
 # sent_id = 420
+# text = Anschließend werden die Eltern der Welpen vorgestellt , währenddessen Rudi einen der Welpen liebevoll auf den Arm nimmt .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Anschließend werden die Eltern der Welpen vorgestellt , währenddessen Rudi einen der Welpen liebevoll auf den Arm nimmt .
 1	Anschließend	*	*	*	*
 2	werden	*	*	*	*
 3	die	*	*	*	*
@@ -919,26 +945,27 @@
 12	der	*	*	*	*
 13	Welpen	*	*	*	*
 14	liebevoll	*	*	*	*
-15	auf	1	1	1	1
+15	auf	LIT	LIT	LIT	LIT
 16	den	*	*	*	*
-17	Arm	1	1	1	1
-18	nimmt	1	1	1	1
+17	Arm	LIT	LIT	LIT	LIT
+18	nimmt	LIT	LIT	LIT	LIT
 19	.	*	*	*	*
 
 # tuepp_article_id = T921203.177
 # sent_id = 421
+# text = Nein , Sie werden nicht auf den Arm genommen , der Oberton- Guru Michael Vetter schlägt zu mit einer Uraufführung .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nein , Sie werden nicht auf den Arm genommen , der Oberton- Guru Michael Vetter schlägt zu mit einer Uraufführung .
 1	Nein	*	*	*	*
 2	,	*	*	*	*
 3	Sie	*	*	*	*
 4	werden	*	*	*	*
 5	nicht	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Arm	2	2	2	2
-9	genommen	2	2	2	2
+8	Arm	FIG	FIG	FIG	FIG
+9	genommen	FIG	FIG	FIG	FIG
 10	,	*	*	*	*
 11	der	*	*	*	*
 12	Oberton-	*	*	*	*
@@ -954,9 +981,10 @@
 
 # tuepp_article_id = T920302.29
 # sent_id = 422
+# text = Wie Puderbach erklärte , wurden sie von dem anonymen Anrufer möglicherweise " auf den Arm genommen " .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wie Puderbach erklärte , wurden sie von dem anonymen Anrufer möglicherweise " auf den Arm genommen " .
 1	Wie	*	*	*	*
 2	Puderbach	*	*	*	*
 3	erklärte	*	*	*	*
@@ -969,31 +997,32 @@
 10	Anrufer	*	*	*	*
 11	möglicherweise	*	*	*	*
 12	"	*	*	*	*
-13	auf	2	2	2	2
+13	auf	FIG	FIG	FIG	FIG
 14	den	*	*	*	*
-15	Arm	2	2	2	2
-16	genommen	2	2	2	2
+15	Arm	FIG	FIG	FIG	FIG
+16	genommen	FIG	FIG	FIG	FIG
 17	"	*	*	*	*
 18	.	*	*	*	*
 
 # tuepp_article_id = T920325.38
 # sent_id = 423
+# text = Sie mustert kritisch den Besuch und nimmt die kleine Trang auf den Arm , die schon wieder weint .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie mustert kritisch den Besuch und nimmt die kleine Trang auf den Arm , die schon wieder weint .
 1	Sie	*	*	*	*
 2	mustert	*	*	*	*
 3	kritisch	*	*	*	*
 4	den	*	*	*	*
 5	Besuch	*	*	*	*
 6	und	*	*	*	*
-7	nimmt	1	1	1	1
+7	nimmt	LIT	LIT	LIT	LIT
 8	die	*	*	*	*
 9	kleine	*	*	*	*
 10	Trang	*	*	*	*
-11	auf	1	1	1	1
+11	auf	LIT	LIT	LIT	LIT
 12	den	*	*	*	*
-13	Arm	1	1	1	1
+13	Arm	LIT	LIT	LIT	LIT
 14	,	*	*	*	*
 15	die	*	*	*	*
 16	schon	*	*	*	*
@@ -1003,9 +1032,10 @@
 
 # tuepp_article_id = T921102.244
 # sent_id = 424
+# text = Erzieherin Sabine Stemmler geht es wenig anders : Auch sie verbringt einen Großteil des Tages in gebückter Haltung , muß öfter die Sprößlinge hochheben und auf den Arm nehmen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Erzieherin Sabine Stemmler geht es wenig anders : Auch sie verbringt einen Großteil des Tages in gebückter Haltung , muß öfter die Sprößlinge hochheben und auf den Arm nehmen .
 1	Erzieherin	*	*	*	*
 2	Sabine	*	*	*	*
 3	Stemmler	*	*	*	*
@@ -1031,27 +1061,28 @@
 23	Sprößlinge	*	*	*	*
 24	hochheben	*	*	*	*
 25	und	*	*	*	*
-26	auf	1	1	1	1
+26	auf	LIT	LIT	LIT	LIT
 27	den	*	*	*	*
-28	Arm	1	1	1	1
-29	nehmen	1	1	1	1
+28	Arm	LIT	LIT	LIT	LIT
+29	nehmen	LIT	LIT	LIT	LIT
 30	.	*	*	*	*
 
 # tuepp_article_id = T921105.44
 # sent_id = 425
+# text = " Wir fühlen uns als Branche auf den Arm genommen " , so der Sprecher des Bundesverbands Druck , Peter Klemm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wir fühlen uns als Branche auf den Arm genommen " , so der Sprecher des Bundesverbands Druck , Peter Klemm .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	fühlen	*	*	*	*
 4	uns	*	*	*	*
 5	als	*	*	*	*
 6	Branche	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Arm	2	2	2	2
-10	genommen	2	2	2	2
+9	Arm	FIG	FIG	FIG	FIG
+10	genommen	FIG	FIG	FIG	FIG
 11	"	*	*	*	*
 12	,	*	*	*	*
 13	so	*	*	*	*
@@ -1067,35 +1098,37 @@
 
 # tuepp_article_id = T921128.283
 # sent_id = 426
+# text = Das korpulente Energiebündel nahm aber auch sich selbst auf den Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das korpulente Energiebündel nahm aber auch sich selbst auf den Arm .
 1	Das	*	*	*	*
 2	korpulente	*	*	*	*
 3	Energiebündel	*	*	*	*
-4	nahm	2	2	2	2
+4	nahm	FIG	FIG	FIG	FIG
 5	aber	*	*	*	*
 6	auch	*	*	*	*
 7	sich	*	*	*	*
 8	selbst	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
-11	Arm	2	2	2	2
+11	Arm	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T881017.191
 # sent_id = 427
+# text = Jetzt nimmt Liane eine Amme auf den Arm und hebt sie vom Grund auf .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Jetzt nimmt Liane eine Amme auf den Arm und hebt sie vom Grund auf .
 1	Jetzt	*	*	*	*
-2	nimmt	1	1	1	1
+2	nimmt	LIT	LIT	LIT	LIT
 3	Liane	*	*	*	*
 4	eine	*	*	*	*
 5	Amme	*	*	*	*
-6	auf	1	1	1	1
+6	auf	LIT	LIT	LIT	LIT
 7	den	*	*	*	*
-8	Arm	1	1	1	1
+8	Arm	LIT	LIT	LIT	LIT
 9	und	*	*	*	*
 10	hebt	*	*	*	*
 11	sie	*	*	*	*
@@ -1106,9 +1139,10 @@
 
 # tuepp_article_id = T870428.79
 # sent_id = 428
+# text = " ruft Ibu Hartini ihrer Nachbarin zu , nimmt ihr jüngstes Kind auf den Arm und eilt im Laufschritt zu einer nahegelegenen Schnellstraße , von der donnerndes Motorengeräusch zu vernehmen ist .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = " ruft Ibu Hartini ihrer Nachbarin zu , nimmt ihr jüngstes Kind auf den Arm und eilt im Laufschritt zu einer nahegelegenen Schnellstraße , von der donnerndes Motorengeräusch zu vernehmen ist .
 1	"	*	*	*	*
 2	ruft	*	*	*	*
 3	Ibu	*	*	*	*
@@ -1117,13 +1151,13 @@
 6	Nachbarin	*	*	*	*
 7	zu	*	*	*	*
 8	,	*	*	*	*
-9	nimmt	1	1	1	1
+9	nimmt	LIT	LIT	LIT	LIT
 10	ihr	*	*	*	*
 11	jüngstes	*	*	*	*
 12	Kind	*	*	*	*
-13	auf	1	1	1	1
+13	auf	LIT	LIT	LIT	LIT
 14	den	*	*	*	*
-15	Arm	1	1	1	1
+15	Arm	LIT	LIT	LIT	LIT
 16	und	*	*	*	*
 17	eilt	*	*	*	*
 18	im	*	*	*	*
@@ -1144,24 +1178,26 @@
 
 # tuepp_article_id = T871224.70
 # sent_id = 429
+# text = " Wollen Sie mich auf den Arm nehmen ?
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = " Wollen Sie mich auf den Arm nehmen ?
 1	"	*	*	*	*
 2	Wollen	*	*	*	*
 3	Sie	*	*	*	*
 4	mich	*	*	*	*
-5	auf	2	2	2	2
+5	auf	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
-7	Arm	2	2	2	2
-8	nehmen	2	2	2	2
+7	Arm	FIG	FIG	FIG	FIG
+8	nehmen	FIG	FIG	FIG	FIG
 9	?	*	*	*	*
 
 # tuepp_article_id = T870303.68
 # sent_id = 430
+# text = Am Schluß kam ein leicht kriegsverletzter Vater ins Zimmer , der glücksstrahlend beide Kinder auf den Arm nahm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Am Schluß kam ein leicht kriegsverletzter Vater ins Zimmer , der glücksstrahlend beide Kinder auf den Arm nahm .
 1	Am	*	*	*	*
 2	Schluß	*	*	*	*
 3	kam	*	*	*	*
@@ -1176,17 +1212,18 @@
 12	glücksstrahlend	*	*	*	*
 13	beide	*	*	*	*
 14	Kinder	*	*	*	*
-15	auf	1	1	1	1
+15	auf	LIT	LIT	LIT	LIT
 16	den	*	*	*	*
-17	Arm	1	1	1	1
-18	nahm	1	1	1	1
+17	Arm	LIT	LIT	LIT	LIT
+18	nahm	LIT	LIT	LIT	LIT
 19	.	*	*	*	*
 
 # tuepp_article_id = T931028.236
 # sent_id = 431
+# text = Aber das Publikum weiß , wie es von Schneider in die Irre geführt und auf den Arm genommen werden will , während der Meister gesteht : " Ich selber würde jetzt hier nicht hingegangen sein , ich bin so müde .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aber das Publikum weiß , wie es von Schneider in die Irre geführt und auf den Arm genommen werden will , während der Meister gesteht : " Ich selber würde jetzt hier nicht hingegangen sein , ich bin so müde .
 1	Aber	*	*	*	*
 2	das	*	*	*	*
 3	Publikum	*	*	*	*
@@ -1201,10 +1238,10 @@
 12	Irre	*	*	*	*
 13	geführt	*	*	*	*
 14	und	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Arm	2	2	2	2
-18	genommen	2	2	2	2
+17	Arm	FIG	FIG	FIG	FIG
+18	genommen	FIG	FIG	FIG	FIG
 19	werden	*	*	*	*
 20	will	*	*	*	*
 21	,	*	*	*	*
@@ -1231,18 +1268,19 @@
 
 # tuepp_article_id = T930917.110
 # sent_id = 432
+# text = Ethnische Musik nimmt man am besten auf den Arm , kommentiert er seine Platte " Country Music in the World of Islam , Vol .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ethnische Musik nimmt man am besten auf den Arm , kommentiert er seine Platte " Country Music in the World of Islam , Vol .
 1	Ethnische	*	*	*	*
 2	Musik	*	*	*	*
-3	nimmt	2	2	2	2
+3	nimmt	FIG	FIG	FIG	FIG
 4	man	*	*	*	*
 5	am	*	*	*	*
 6	besten	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Arm	2	2	2	2
+9	Arm	FIG	FIG	FIG	FIG
 10	,	*	*	*	*
 11	kommentiert	*	*	*	*
 12	er	*	*	*	*
@@ -1262,9 +1300,10 @@
 
 # tuepp_article_id = T930129.179
 # sent_id = 433
+# text = Doch bestünde Tschierschs Programm " Armsein ist asozial " nur daraus , gewichtige Männer auf den Arm zu nehmen , wäre geradezu der Vergleich zu einem Trockentraining mit Luftballonhanteln angebracht .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch bestünde Tschierschs Programm " Armsein ist asozial " nur daraus , gewichtige Männer auf den Arm zu nehmen , wäre geradezu der Vergleich zu einem Trockentraining mit Luftballonhanteln angebracht .
 1	Doch	*	*	*	*
 2	bestünde	*	*	*	*
 3	Tschierschs	*	*	*	*
@@ -1279,11 +1318,11 @@
 12	,	*	*	*	*
 13	gewichtige	*	*	*	*
 14	Männer	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Arm	2	2	2	2
+17	Arm	FIG	FIG	FIG	FIG
 18	zu	*	*	*	*
-19	nehmen	2	2	2	2
+19	nehmen	FIG	FIG	FIG	FIG
 20	,	*	*	*	*
 21	wäre	*	*	*	*
 22	geradezu	*	*	*	*
@@ -1299,9 +1338,10 @@
 
 # tuepp_article_id = T931111.139
 # sent_id = 434
+# text = Umweltsenator Volker Hassemer ( CDU ) soll 85.000 Berliner auf den Arm genommen haben .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Umweltsenator Volker Hassemer ( CDU ) soll 85.000 Berliner auf den Arm genommen haben .
 1	Umweltsenator	*	*	*	*
 2	Volker	*	*	*	*
 3	Hassemer	*	*	*	*
@@ -1311,24 +1351,25 @@
 7	soll	*	*	*	*
 8	85.000	*	*	*	*
 9	Berliner	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Arm	2	2	2	2
-13	genommen	2	2	2	2
+12	Arm	FIG	FIG	FIG	FIG
+13	genommen	FIG	FIG	FIG	FIG
 14	haben	*	*	*	*
 15	.	*	*	*	*
 
 # tuepp_article_id = T930206.225
 # sent_id = 435
+# text = Beko nimmt sie auf den Arm , und irgendwie erreicht er Europa .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Beko nimmt sie auf den Arm , und irgendwie erreicht er Europa .
 1	Beko	*	*	*	*
-2	nimmt	1	1	1	1
+2	nimmt	LIT	LIT	LIT	LIT
 3	sie	*	*	*	*
-4	auf	1	1	1	1
+4	auf	LIT	LIT	LIT	LIT
 5	den	*	*	*	*
-6	Arm	1	1	1	1
+6	Arm	LIT	LIT	LIT	LIT
 7	,	*	*	*	*
 8	und	*	*	*	*
 9	irgendwie	*	*	*	*
@@ -1339,9 +1380,10 @@
 
 # tuepp_article_id = T960118.66
 # sent_id = 436
+# text = Am neuen Volkssport " Telekom-Bashing " sei Sommer selber schuld , sagte Bury , der Bürger habe sich " auf den Arm genommen gefühlt " .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Am neuen Volkssport " Telekom-Bashing " sei Sommer selber schuld , sagte Bury , der Bürger habe sich " auf den Arm genommen gefühlt " .
 1	Am	*	*	*	*
 2	neuen	*	*	*	*
 3	Volkssport	*	*	*	*
@@ -1361,19 +1403,20 @@
 17	habe	*	*	*	*
 18	sich	*	*	*	*
 19	"	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
-22	Arm	2	2	2	2
-23	genommen	2	2	2	2
+22	Arm	FIG	FIG	FIG	FIG
+23	genommen	FIG	FIG	FIG	FIG
 24	gefühlt	*	*	*	*
 25	"	*	*	*	*
 26	.	*	*	*	*
 
 # tuepp_article_id = T960729.117
 # sent_id = 437
+# text = Neugeborene werden von den Eltern fast immer auf den linken Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Neugeborene werden von den Eltern fast immer auf den linken Arm genommen .
 1	Neugeborene	*	*	*	*
 2	werden	*	*	*	*
 3	von	*	*	*	*
@@ -1381,18 +1424,19 @@
 5	Eltern	*	*	*	*
 6	fast	*	*	*	*
 7	immer	*	*	*	*
-8	auf	1	1	1	1
+8	auf	LIT	LIT	LIT	LIT
 9	den	*	*	*	*
 10	linken	*	*	*	*
-11	Arm	1	1	1	1
-12	genommen	1	1	1	1
+11	Arm	LIT	LIT	LIT	LIT
+12	genommen	LIT	LIT	LIT	LIT
 13	.	*	*	*	*
 
 # tuepp_article_id = T960816.187
 # sent_id = 438
+# text = Freiwillig würde sich Sielmann dieser Fototermin genannten Prozedur wohl kaum aussetzen , aber es gilt für eine neue Staffel von Tierfilmen zu werben , und Vertrag ist Vertrag : Artig nimmt er immer wieder den Affen auf den Arm , lächelt in die Objektive und zuckt telegen mit den graumelierten Augenbrauen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Freiwillig würde sich Sielmann dieser Fototermin genannten Prozedur wohl kaum aussetzen , aber es gilt für eine neue Staffel von Tierfilmen zu werben , und Vertrag ist Vertrag : Artig nimmt er immer wieder den Affen auf den Arm , lächelt in die Objektive und zuckt telegen mit den graumelierten Augenbrauen .
 1	Freiwillig	*	*	*	*
 2	würde	*	*	*	*
 3	sich	*	*	*	*
@@ -1423,15 +1467,15 @@
 28	Vertrag	*	*	*	*
 29	:	*	*	*	*
 30	Artig	*	*	*	*
-31	nimmt	1	1	1	1
+31	nimmt	LIT	LIT	LIT	LIT
 32	er	*	*	*	*
 33	immer	*	*	*	*
 34	wieder	*	*	*	*
 35	den	*	*	*	*
 36	Affen	*	*	*	*
-37	auf	1	1	1	1
+37	auf	LIT	LIT	LIT	LIT
 38	den	*	*	*	*
-39	Arm	1	1	1	1
+39	Arm	LIT	LIT	LIT	LIT
 40	,	*	*	*	*
 41	lächelt	*	*	*	*
 42	in	*	*	*	*
@@ -1448,9 +1492,10 @@
 
 # tuepp_article_id = T960215.400
 # sent_id = 439
+# text = Wenn nach einer halben Stunde eine junge , hübsche Amerikanerin das Kind unbedingt auf den Arm nehmen will , weiß man schon genau , worum es im Rest des Films geht , aber das hat bei romantischen Komödien ja noch nie gestört .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wenn nach einer halben Stunde eine junge , hübsche Amerikanerin das Kind unbedingt auf den Arm nehmen will , weiß man schon genau , worum es im Rest des Films geht , aber das hat bei romantischen Komödien ja noch nie gestört .
 1	Wenn	*	*	*	*
 2	nach	*	*	*	*
 3	einer	*	*	*	*
@@ -1464,10 +1509,10 @@
 11	das	*	*	*	*
 12	Kind	*	*	*	*
 13	unbedingt	*	*	*	*
-14	auf	1	1	1	1
+14	auf	LIT	LIT	LIT	LIT
 15	den	*	*	*	*
-16	Arm	1	1	1	1
-17	nehmen	1	1	1	1
+16	Arm	LIT	LIT	LIT	LIT
+17	nehmen	LIT	LIT	LIT	LIT
 18	will	*	*	*	*
 19	,	*	*	*	*
 20	weiß	*	*	*	*
@@ -1497,9 +1542,10 @@
 
 # tuepp_article_id = T980505.125
 # sent_id = 440
+# text = Es ist eine einfache , eingängige Rede in der Nationalsprache Tagalog , gewürzt mit Scherzen , bei denen er sich selbst auf den Arm nimmt .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Es ist eine einfache , eingängige Rede in der Nationalsprache Tagalog , gewürzt mit Scherzen , bei denen er sich selbst auf den Arm nimmt .
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	eine	*	*	*	*
@@ -1521,45 +1567,47 @@
 19	er	*	*	*	*
 20	sich	*	*	*	*
 21	selbst	*	*	*	*
-22	auf	2	2	2	2
+22	auf	FIG	FIG	FIG	FIG
 23	den	*	*	*	*
-24	Arm	2	2	2	2
-25	nimmt	2	2	2	2
+24	Arm	FIG	FIG	FIG	FIG
+25	nimmt	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T980612.62
 # sent_id = 441
+# text = Die SPD nimmt mit ihren Programmen die Arbeitnehmer doch auf den Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die SPD nimmt mit ihren Programmen die Arbeitnehmer doch auf den Arm .
 1	Die	*	*	*	*
 2	SPD	*	*	*	*
-3	nimmt	2	2	2	2
+3	nimmt	FIG	FIG	FIG	FIG
 4	mit	*	*	*	*
 5	ihren	*	*	*	*
 6	Programmen	*	*	*	*
 7	die	*	*	*	*
 8	Arbeitnehmer	*	*	*	*
 9	doch	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Arm	2	2	2	2
+12	Arm	FIG	FIG	FIG	FIG
 13	.	*	*	*	*
 
 # tuepp_article_id = T980921.177
 # sent_id = 442
+# text = " Da haben wir uns auf den Arm genommen gefühlt " , empört sich Richter Neuschild .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Da haben wir uns auf den Arm genommen gefühlt " , empört sich Richter Neuschild .
 1	"	*	*	*	*
 2	Da	*	*	*	*
 3	haben	*	*	*	*
 4	wir	*	*	*	*
 5	uns	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Arm	2	2	2	2
-9	genommen	2	2	2	2
+8	Arm	FIG	FIG	FIG	FIG
+9	genommen	FIG	FIG	FIG	FIG
 10	gefühlt	*	*	*	*
 11	"	*	*	*	*
 12	,	*	*	*	*
@@ -1571,9 +1619,10 @@
 
 # tuepp_article_id = T980401.272
 # sent_id = 443
+# text = Der nämlich wollte das Leben seines Dackels retten , nahm diesen auf den Arm und wurde mit Bissen in die Wade und den Oberarm abgestraft .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der nämlich wollte das Leben seines Dackels retten , nahm diesen auf den Arm und wurde mit Bissen in die Wade und den Oberarm abgestraft .
 1	Der	*	*	*	*
 2	nämlich	*	*	*	*
 3	wollte	*	*	*	*
@@ -1583,11 +1632,11 @@
 7	Dackels	*	*	*	*
 8	retten	*	*	*	*
 9	,	*	*	*	*
-10	nahm	1	1	1	1
+10	nahm	LIT	LIT	LIT	LIT
 11	diesen	*	*	*	*
-12	auf	1	1	1	1
+12	auf	LIT	LIT	LIT	LIT
 13	den	*	*	*	*
-14	Arm	1	1	1	1
+14	Arm	LIT	LIT	LIT	LIT
 15	und	*	*	*	*
 16	wurde	*	*	*	*
 17	mit	*	*	*	*
@@ -1603,19 +1652,20 @@
 
 # tuepp_article_id = T980714.246
 # sent_id = 444
+# text = Und nehme ich eines der Welpen liebevoll auf den Arm , steht ihr das Wort " Kindesentführung " ins Gesicht geschrieben .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und nehme ich eines der Welpen liebevoll auf den Arm , steht ihr das Wort " Kindesentführung " ins Gesicht geschrieben .
 1	Und	*	*	*	*
-2	nehme	1	1	1	1
+2	nehme	LIT	LIT	LIT	LIT
 3	ich	*	*	*	*
 4	eines	*	*	*	*
 5	der	*	*	*	*
 6	Welpen	*	*	*	*
 7	liebevoll	*	*	*	*
-8	auf	1	1	1	1
+8	auf	LIT	LIT	LIT	LIT
 9	den	*	*	*	*
-10	Arm	1	1	1	1
+10	Arm	LIT	LIT	LIT	LIT
 11	,	*	*	*	*
 12	steht	*	*	*	*
 13	ihr	*	*	*	*
@@ -1631,9 +1681,10 @@
 
 # tuepp_article_id = T981223.164
 # sent_id = 445
+# text = Die deutsche Sprache , hat Stickel festgestellt , ist nämlich großen Gefahren ausgesetzt : " Immer mehr Menschen , nicht nur ältere , fühlen sich durch die Flut sogenannter Anglizismen auf den Arm genommen !
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die deutsche Sprache , hat Stickel festgestellt , ist nämlich großen Gefahren ausgesetzt : " Immer mehr Menschen , nicht nur ältere , fühlen sich durch die Flut sogenannter Anglizismen auf den Arm genommen !
 1	Die	*	*	*	*
 2	deutsche	*	*	*	*
 3	Sprache	*	*	*	*
@@ -1664,17 +1715,18 @@
 28	Flut	*	*	*	*
 29	sogenannter	*	*	*	*
 30	Anglizismen	*	*	*	*
-31	auf	2	2	2	2
+31	auf	FIG	FIG	FIG	FIG
 32	den	*	*	*	*
-33	Arm	2	2	2	2
-34	genommen	2	2	2	2
+33	Arm	FIG	FIG	FIG	FIG
+34	genommen	FIG	FIG	FIG	FIG
 35	!	*	*	*	*
 
 # tuepp_article_id = T980323.89
 # sent_id = 446
+# text = Der den Einsatz leitende Polizeidirektor Horst Haase räumte am Samstag in Ahaus ein , daß sich " die Bürger womöglich von uns auf den Arm genommen " fühlten .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der den Einsatz leitende Polizeidirektor Horst Haase räumte am Samstag in Ahaus ein , daß sich " die Bürger womöglich von uns auf den Arm genommen " fühlten .
 1	Der	*	*	*	*
 2	den	*	*	*	*
 3	Einsatz	*	*	*	*
@@ -1697,30 +1749,31 @@
 20	womöglich	*	*	*	*
 21	von	*	*	*	*
 22	uns	*	*	*	*
-23	auf	2	2	2	2
+23	auf	FIG	FIG	FIG	FIG
 24	den	*	*	*	*
-25	Arm	2	2	2	2
-26	genommen	2	2	2	2
+25	Arm	FIG	FIG	FIG	FIG
+26	genommen	FIG	FIG	FIG	FIG
 27	"	*	*	*	*
 28	fühlten	*	*	*	*
 29	.	*	*	*	*
 
 # tuepp_article_id = T981109.215
 # sent_id = 447
+# text = Nach dieser Ausflipp-Einlage nahm sie ihr männlicher Kollege auf die Arme und trug das zappelnde Bündel weg .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nach dieser Ausflipp-Einlage nahm sie ihr männlicher Kollege auf die Arme und trug das zappelnde Bündel weg .
 1	Nach	*	*	*	*
 2	dieser	*	*	*	*
 3	Ausflipp-Einlage	*	*	*	*
-4	nahm	1	1	1	1
+4	nahm	LIT	LIT	LIT	LIT
 5	sie	*	*	*	*
 6	ihr	*	*	*	*
 7	männlicher	*	*	*	*
 8	Kollege	*	*	*	*
-9	auf	1	1	1	1
+9	auf	LIT	LIT	LIT	LIT
 10	die	*	*	*	*
-11	Arme	1	1	1	1
+11	Arme	LIT	LIT	LIT	LIT
 12	und	*	*	*	*
 13	trug	*	*	*	*
 14	das	*	*	*	*
@@ -1731,9 +1784,10 @@
 
 # tuepp_article_id = T980207.313
 # sent_id = 448
+# text = " Man wird glaubwürdiger , wenn man nicht nur austeilt , sondern auch sich selber auf den Arm nimmt " , so lautet die Devise des türkischen Kabarettisten Mushin Omurca .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Man wird glaubwürdiger , wenn man nicht nur austeilt , sondern auch sich selber auf den Arm nimmt " , so lautet die Devise des türkischen Kabarettisten Mushin Omurca .
 1	"	*	*	*	*
 2	Man	*	*	*	*
 3	wird	*	*	*	*
@@ -1749,10 +1803,10 @@
 13	auch	*	*	*	*
 14	sich	*	*	*	*
 15	selber	*	*	*	*
-16	auf	2	2	2	2
+16	auf	FIG	FIG	FIG	FIG
 17	den	*	*	*	*
-18	Arm	2	2	2	2
-19	nimmt	2	2	2	2
+18	Arm	FIG	FIG	FIG	FIG
+19	nimmt	FIG	FIG	FIG	FIG
 20	"	*	*	*	*
 21	,	*	*	*	*
 22	so	*	*	*	*
@@ -1768,9 +1822,10 @@
 
 # tuepp_article_id = T970512.120
 # sent_id = 449
+# text = Achtjährige steigen auf die Biertische oder werden von Muttern zwecks besserer Sicht auf den Arm genommen , als sich die " Stribberinnen " heißes Wachs auf die Brust träufeln .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Achtjährige steigen auf die Biertische oder werden von Muttern zwecks besserer Sicht auf den Arm genommen , als sich die " Stribberinnen " heißes Wachs auf die Brust träufeln .
 1	Achtjährige	*	*	*	*
 2	steigen	*	*	*	*
 3	auf	*	*	*	*
@@ -1783,10 +1838,10 @@
 10	zwecks	*	*	*	*
 11	besserer	*	*	*	*
 12	Sicht	*	*	*	*
-13	auf	1	1	1	1
+13	auf	LIT	LIT	LIT	LIT
 14	den	*	*	*	*
-15	Arm	1	1	1	1
-16	genommen	1	1	1	1
+15	Arm	LIT	LIT	LIT	LIT
+16	genommen	LIT	LIT	LIT	LIT
 17	,	*	*	*	*
 18	als	*	*	*	*
 19	sich	*	*	*	*
@@ -1804,9 +1859,10 @@
 
 # tuepp_article_id = T970916.185
 # sent_id = 450
+# text = Das sei ein " Klaps " , der Henning Voscherau " aufjaulen " lasse , schließlich sei die Kabel seit Jahrzehnten mit dessen Familie gut bekannt und habe schon " den lütten Henning " auf den Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Das sei ein " Klaps " , der Henning Voscherau " aufjaulen " lasse , schließlich sei die Kabel seit Jahrzehnten mit dessen Familie gut bekannt und habe schon " den lütten Henning " auf den Arm genommen .
 1	Das	*	*	*	*
 2	sei	*	*	*	*
 3	ein	*	*	*	*
@@ -1841,24 +1897,25 @@
 32	lütten	*	*	*	*
 33	Henning	*	*	*	*
 34	"	*	*	*	*
-35	auf	2	1	2	2
+35	auf	FIG	LIT	FIG	FIG
 36	den	*	*	*	*
-37	Arm	2	1	2	2
-38	genommen	2	1	2	2
+37	Arm	FIG	LIT	FIG	FIG
+38	genommen	FIG	LIT	FIG	FIG
 39	.	*	*	*	*
 
 # tuepp_article_id = T970412.57
 # sent_id = 451
+# text = Seine Mutter nahm ihn auf den Arm und mit in die Wahlkabine .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Seine Mutter nahm ihn auf den Arm und mit in die Wahlkabine .
 1	Seine	*	*	*	*
 2	Mutter	*	*	*	*
-3	nahm	1	1	1	1
+3	nahm	LIT	LIT	LIT	LIT
 4	ihn	*	*	*	*
-5	auf	1	1	1	1
+5	auf	LIT	LIT	LIT	LIT
 6	den	*	*	*	*
-7	Arm	1	1	1	1
+7	Arm	LIT	LIT	LIT	LIT
 8	und	*	*	*	*
 9	mit	*	*	*	*
 10	in	*	*	*	*
@@ -1868,9 +1925,10 @@
 
 # tuepp_article_id = T970412.174
 # sent_id = 452
+# text = Die versammelten Egos wollen bei dieser Zeremonie nicht auf den Arm genommen , sondern auf die Bühne gerufen werden , um mit Pathos in der Stimme ihr " Ich danke Gott , meiner Mutter und dem Produzenten " - Sprüchlein loszuwerden .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die versammelten Egos wollen bei dieser Zeremonie nicht auf den Arm genommen , sondern auf die Bühne gerufen werden , um mit Pathos in der Stimme ihr " Ich danke Gott , meiner Mutter und dem Produzenten " - Sprüchlein loszuwerden .
 1	Die	*	*	*	*
 2	versammelten	*	*	*	*
 3	Egos	*	*	*	*
@@ -1879,10 +1937,10 @@
 6	dieser	*	*	*	*
 7	Zeremonie	*	*	*	*
 8	nicht	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
-11	Arm	2	2	2	2
-12	genommen	2	2	2	2
+11	Arm	FIG	FIG	FIG	FIG
+12	genommen	FIG	FIG	FIG	FIG
 13	,	*	*	*	*
 14	sondern	*	*	*	*
 15	auf	*	*	*	*
@@ -1916,15 +1974,16 @@
 
 # tuepp_article_id = T970415.188
 # sent_id = 453
+# text = Die eigene Geschichte auf den Arm , auf die Schippe und die leichte Schulter nehmend , hielten sie tapfer ein " Kicken Kicken Kicken " - Transparent in die Höhe .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die eigene Geschichte auf den Arm , auf die Schippe und die leichte Schulter nehmend , hielten sie tapfer ein " Kicken Kicken Kicken " - Transparent in die Höhe .
 1	Die	*	*	*	*
 2	eigene	*	*	*	*
 3	Geschichte	*	*	*	*
-4	auf	2	2	1	2
+4	auf	FIG	FIG	LIT	FIG
 5	den	*	*	*	*
-6	Arm	2	2	1	2
+6	Arm	FIG	FIG	LIT	FIG
 7	,	*	*	*	*
 8	auf	*	*	*	*
 9	die	*	*	*	*
@@ -1933,7 +1992,7 @@
 12	die	*	*	*	*
 13	leichte	*	*	*	*
 14	Schulter	*	*	*	*
-15	nehmend	2	2	1	2
+15	nehmend	FIG	FIG	LIT	FIG
 16	,	*	*	*	*
 17	hielten	*	*	*	*
 18	sie	*	*	*	*
@@ -1953,9 +2012,10 @@
 
 # tuepp_article_id = T970428.192
 # sent_id = 454
+# text = Stücke wie " Take Me Baby " oder das stompernde " Sugardaddy " sind so eher die Ausnahmen , das Sounduniversum von Jimi Tenor ist ansonsten warm , smoothy , zum Andächtig-Lauschen ; man kann sich aber auch wichtigen Tätigkeiten im Haushalt widmen und ein bißchen auf den Arm genommen fühlen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Stücke wie " Take Me Baby " oder das stompernde " Sugardaddy " sind so eher die Ausnahmen , das Sounduniversum von Jimi Tenor ist ansonsten warm , smoothy , zum Andächtig-Lauschen ; man kann sich aber auch wichtigen Tätigkeiten im Haushalt widmen und ein bißchen auf den Arm genommen fühlen .
 1	Stücke	*	*	*	*
 2	wie	*	*	*	*
 3	"	*	*	*	*
@@ -2002,18 +2062,19 @@
 44	und	*	*	*	*
 45	ein	*	*	*	*
 46	bißchen	*	*	*	*
-47	auf	2	2	2	2
+47	auf	FIG	FIG	FIG	FIG
 48	den	*	*	*	*
-49	Arm	2	2	2	2
-50	genommen	2	2	2	2
+49	Arm	FIG	FIG	FIG	FIG
+50	genommen	FIG	FIG	FIG	FIG
 51	fühlen	*	*	*	*
 52	.	*	*	*	*
 
 # tuepp_article_id = T970712.130
 # sent_id = 455
+# text = Raphaela , das zweimonatige Baby , wird auf Mutters Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Raphaela , das zweimonatige Baby , wird auf Mutters Arm genommen .
 1	Raphaela	*	*	*	*
 2	,	*	*	*	*
 3	das	*	*	*	*
@@ -2021,17 +2082,18 @@
 5	Baby	*	*	*	*
 6	,	*	*	*	*
 7	wird	*	*	*	*
-8	auf	1	1	1	1
+8	auf	LIT	LIT	LIT	LIT
 9	Mutters	*	*	*	*
-10	Arm	1	1	1	1
-11	genommen	1	1	1	1
+10	Arm	LIT	LIT	LIT	LIT
+11	genommen	LIT	LIT	LIT	LIT
 12	.	*	*	*	*
 
 # tuepp_article_id = T971209.110
 # sent_id = 456
+# text = Als wäre er schon im Wahlkampf , nahm er als erstes vor den Fernsehkameras sein Töchterlein auf den Arm und küßte seine blonde US-amerikanische Frau .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als wäre er schon im Wahlkampf , nahm er als erstes vor den Fernsehkameras sein Töchterlein auf den Arm und küßte seine blonde US-amerikanische Frau .
 1	Als	*	*	*	*
 2	wäre	*	*	*	*
 3	er	*	*	*	*
@@ -2039,7 +2101,7 @@
 5	im	*	*	*	*
 6	Wahlkampf	*	*	*	*
 7	,	*	*	*	*
-8	nahm	1	1	1	1
+8	nahm	LIT	LIT	LIT	LIT
 9	er	*	*	*	*
 10	als	*	*	*	*
 11	erstes	*	*	*	*
@@ -2048,9 +2110,9 @@
 14	Fernsehkameras	*	*	*	*
 15	sein	*	*	*	*
 16	Töchterlein	*	*	*	*
-17	auf	1	1	1	1
+17	auf	LIT	LIT	LIT	LIT
 18	den	*	*	*	*
-19	Arm	1	1	1	1
+19	Arm	LIT	LIT	LIT	LIT
 20	und	*	*	*	*
 21	küßte	*	*	*	*
 22	seine	*	*	*	*
@@ -2061,9 +2123,10 @@
 
 # tuepp_article_id = T970814.226
 # sent_id = 457
+# text = Als Manager Lemke kürzlich verkündete , daß Werder bis zu sieben Millionen Mark für einen Torjäger ausgeben wolle , habe er sich " auf den Arm genommen gefühlt " .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als Manager Lemke kürzlich verkündete , daß Werder bis zu sieben Millionen Mark für einen Torjäger ausgeben wolle , habe er sich " auf den Arm genommen gefühlt " .
 1	Als	*	*	*	*
 2	Manager	*	*	*	*
 3	Lemke	*	*	*	*
@@ -2087,19 +2150,20 @@
 21	er	*	*	*	*
 22	sich	*	*	*	*
 23	"	*	*	*	*
-24	auf	2	2	2	2
+24	auf	FIG	FIG	FIG	FIG
 25	den	*	*	*	*
-26	Arm	2	2	2	2
-27	genommen	2	2	2	2
+26	Arm	FIG	FIG	FIG	FIG
+27	genommen	FIG	FIG	FIG	FIG
 28	gefühlt	*	*	*	*
 29	"	*	*	*	*
 30	.	*	*	*	*
 
 # tuepp_article_id = T940503.150
 # sent_id = 458
+# text = Außer Atem begegnet ein junges Paar immer neuen Institutionen und Zwängen des Alltags , die dabei hemmungslos auf den Arm genommen werden .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Außer Atem begegnet ein junges Paar immer neuen Institutionen und Zwängen des Alltags , die dabei hemmungslos auf den Arm genommen werden .
 1	Außer	*	*	*	*
 2	Atem	*	*	*	*
 3	begegnet	*	*	*	*
@@ -2117,18 +2181,19 @@
 15	die	*	*	*	*
 16	dabei	*	*	*	*
 17	hemmungslos	*	*	*	*
-18	auf	2	2	2	2
+18	auf	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Arm	2	2	2	2
-21	genommen	2	2	2	2
+20	Arm	FIG	FIG	FIG	FIG
+21	genommen	FIG	FIG	FIG	FIG
 22	werden	*	*	*	*
 23	.	*	*	*	*
 
 # tuepp_article_id = T940516.118
 # sent_id = 459
+# text = Die Patienten , die wir seit Jahren mit AZT behandeln , fühlen sich natürlich auf den Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Patienten , die wir seit Jahren mit AZT behandeln , fühlen sich natürlich auf den Arm genommen .
 1	Die	*	*	*	*
 2	Patienten	*	*	*	*
 3	,	*	*	*	*
@@ -2143,17 +2208,18 @@
 12	fühlen	*	*	*	*
 13	sich	*	*	*	*
 14	natürlich	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Arm	2	2	2	2
-18	genommen	2	2	2	2
+17	Arm	FIG	FIG	FIG	FIG
+18	genommen	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T940603.151
 # sent_id = 460
+# text = Die Polizei , die sich nicht von ihm auf den Arm nehmen lassen wollte , forderte eine psychiatrische Untersuchung .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Polizei , die sich nicht von ihm auf den Arm nehmen lassen wollte , forderte eine psychiatrische Untersuchung .
 1	Die	*	*	*	*
 2	Polizei	*	*	*	*
 3	,	*	*	*	*
@@ -2162,10 +2228,10 @@
 6	nicht	*	*	*	*
 7	von	*	*	*	*
 8	ihm	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
-11	Arm	2	2	2	2
-12	nehmen	2	2	2	2
+11	Arm	FIG	FIG	FIG	FIG
+12	nehmen	FIG	FIG	FIG	FIG
 13	lassen	*	*	*	*
 14	wollte	*	*	*	*
 15	,	*	*	*	*
@@ -2177,9 +2243,10 @@
 
 # tuepp_article_id = T940402.48
 # sent_id = 461
+# text = Kannenportionen gewohnte Nordlichter fühlen sich beim erstmaligen Anblick eines Espressos regelrecht auf den Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kannenportionen gewohnte Nordlichter fühlen sich beim erstmaligen Anblick eines Espressos regelrecht auf den Arm genommen .
 1	Kannenportionen	*	*	*	*
 2	gewohnte	*	*	*	*
 3	Nordlichter	*	*	*	*
@@ -2191,28 +2258,29 @@
 9	eines	*	*	*	*
 10	Espressos	*	*	*	*
 11	regelrecht	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Arm	2	2	2	2
-15	genommen	2	2	2	2
+14	Arm	FIG	FIG	FIG	FIG
+15	genommen	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T940406.87
 # sent_id = 462
+# text = In den Arm nehmen , um auf den Arm zu nehmen - und von dort runterplumpsen zu lassen : ein glattes drei zu null für den Altmeister , bevor auch nur ein inhaltliches Argument ausgetauscht wird .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = In den Arm nehmen , um auf den Arm zu nehmen - und von dort runterplumpsen zu lassen : ein glattes drei zu null für den Altmeister , bevor auch nur ein inhaltliches Argument ausgetauscht wird .
 1	In	*	*	*	*
 2	den	*	*	*	*
 3	Arm	*	*	*	*
 4	nehmen	*	*	*	*
 5	,	*	*	*	*
 6	um	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Arm	2	2	2	2
+9	Arm	FIG	FIG	FIG	FIG
 10	zu	*	*	*	*
-11	nehmen	2	2	2	2
+11	nehmen	FIG	FIG	FIG	FIG
 12	-	*	*	*	*
 13	und	*	*	*	*
 14	von	*	*	*	*
@@ -2242,9 +2310,10 @@
 
 # tuepp_article_id = T940826.19
 # sent_id = 463
+# text = Der fühlt sich offenbar von seinem Mandanten auf den Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der fühlt sich offenbar von seinem Mandanten auf den Arm genommen .
 1	Der	*	*	*	*
 2	fühlt	*	*	*	*
 3	sich	*	*	*	*
@@ -2252,17 +2321,18 @@
 5	von	*	*	*	*
 6	seinem	*	*	*	*
 7	Mandanten	*	*	*	*
-8	auf	2	2	2	2
+8	auf	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
-10	Arm	2	2	2	2
-11	genommen	2	2	2	2
+10	Arm	FIG	FIG	FIG	FIG
+11	genommen	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T940326.92
 # sent_id = 464
+# text = " gellt da der Entsetzensschrei einer überwinternden Rentnerin , die ihren Purzel vorsichtshalber auf den Arm genommen hat .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " gellt da der Entsetzensschrei einer überwinternden Rentnerin , die ihren Purzel vorsichtshalber auf den Arm genommen hat .
 1	"	*	*	*	*
 2	gellt	*	*	*	*
 3	da	*	*	*	*
@@ -2276,18 +2346,19 @@
 11	ihren	*	*	*	*
 12	Purzel	*	*	*	*
 13	vorsichtshalber	*	*	*	*
-14	auf	2	1	1	1
+14	auf	FIG	LIT	LIT	LIT
 15	den	*	*	*	*
-16	Arm	2	1	1	1
-17	genommen	2	1	1	1
+16	Arm	FIG	LIT	LIT	LIT
+17	genommen	FIG	LIT	LIT	LIT
 18	hat	*	*	*	*
 19	.	*	*	*	*
 
 # tuepp_article_id = T940319.126
 # sent_id = 465
+# text = Die einzig vorstellbare Grenze für mich ist , Dinge auf den Arm zu nehmen , für die das Opfer meiner Ironien offensichtlich nichts kann .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die einzig vorstellbare Grenze für mich ist , Dinge auf den Arm zu nehmen , für die das Opfer meiner Ironien offensichtlich nichts kann .
 1	Die	*	*	*	*
 2	einzig	*	*	*	*
 3	vorstellbare	*	*	*	*
@@ -2297,11 +2368,11 @@
 7	ist	*	*	*	*
 8	,	*	*	*	*
 9	Dinge	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Arm	2	2	2	2
+12	Arm	FIG	FIG	FIG	FIG
 13	zu	*	*	*	*
-14	nehmen	2	2	2	2
+14	nehmen	FIG	FIG	FIG	FIG
 15	,	*	*	*	*
 16	für	*	*	*	*
 17	die	*	*	*	*
@@ -2316,9 +2387,10 @@
 
 # tuepp_article_id = T940223.92
 # sent_id = 466
+# text = Als Sture Sivertsen , Vegard Ulvang , Thomas Alsgaard und Björn Dählie Mikrofonen ihre Niederlage zu erklären suchen , nehmen sich die italienischen Altmeister gegenseitig auf den Arm , wissen nicht , wohin mit ihrem Freudentaumel .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Als Sture Sivertsen , Vegard Ulvang , Thomas Alsgaard und Björn Dählie Mikrofonen ihre Niederlage zu erklären suchen , nehmen sich die italienischen Altmeister gegenseitig auf den Arm , wissen nicht , wohin mit ihrem Freudentaumel .
 1	Als	*	*	*	*
 2	Sture	*	*	*	*
 3	Sivertsen	*	*	*	*
@@ -2338,15 +2410,15 @@
 17	erklären	*	*	*	*
 18	suchen	*	*	*	*
 19	,	*	*	*	*
-20	nehmen	2	1	1	1
+20	nehmen	FIG	LIT	LIT	LIT
 21	sich	*	*	*	*
 22	die	*	*	*	*
 23	italienischen	*	*	*	*
 24	Altmeister	*	*	*	*
 25	gegenseitig	*	*	*	*
-26	auf	2	1	1	1
+26	auf	FIG	LIT	LIT	LIT
 27	den	*	*	*	*
-28	Arm	2	1	1	1
+28	Arm	FIG	LIT	LIT	LIT
 29	,	*	*	*	*
 30	wissen	*	*	*	*
 31	nicht	*	*	*	*
@@ -2359,9 +2431,10 @@
 
 # tuepp_article_id = T940217.225
 # sent_id = 467
+# text = Eine ältere CDU-Vertreterin des Ortsausschusses will sich von dort notfalls auch wegtragen lassen : " Die einzige Chance für eine Frau meines Alters , nochmal von einem jungen Polizisten auf den Arm genommen zu werden " .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Eine ältere CDU-Vertreterin des Ortsausschusses will sich von dort notfalls auch wegtragen lassen : " Die einzige Chance für eine Frau meines Alters , nochmal von einem jungen Polizisten auf den Arm genommen zu werden " .
 1	Eine	*	*	*	*
 2	ältere	*	*	*	*
 3	CDU-Vertreterin	*	*	*	*
@@ -2391,10 +2464,10 @@
 27	einem	*	*	*	*
 28	jungen	*	*	*	*
 29	Polizisten	*	*	*	*
-30	auf	1	1	1	1
+30	auf	LIT	LIT	LIT	LIT
 31	den	*	*	*	*
-32	Arm	1	1	1	1
-33	genommen	1	1	1	1
+32	Arm	LIT	LIT	LIT	LIT
+33	genommen	LIT	LIT	LIT	LIT
 34	zu	*	*	*	*
 35	werden	*	*	*	*
 36	"	*	*	*	*
@@ -2402,9 +2475,10 @@
 
 # tuepp_article_id = T951011.271
 # sent_id = 468
+# text = Daß dabei hin und wieder eine Ikone des Rock und Pop auf den Arm genommen wird , beweist nur , daß " Kick la Luna " auch schauspielerisch betrachtet als bühnenfest zu bezeichnen ist .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Daß dabei hin und wieder eine Ikone des Rock und Pop auf den Arm genommen wird , beweist nur , daß " Kick la Luna " auch schauspielerisch betrachtet als bühnenfest zu bezeichnen ist .
 1	Daß	*	*	*	*
 2	dabei	*	*	*	*
 3	hin	*	*	*	*
@@ -2416,10 +2490,10 @@
 9	Rock	*	*	*	*
 10	und	*	*	*	*
 11	Pop	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Arm	2	2	2	2
-15	genommen	2	2	2	2
+14	Arm	FIG	FIG	FIG	FIG
+15	genommen	FIG	FIG	FIG	FIG
 16	wird	*	*	*	*
 17	,	*	*	*	*
 18	beweist	*	*	*	*
@@ -2443,9 +2517,10 @@
 
 # tuepp_article_id = T951014.160
 # sent_id = 469
+# text = Dem Kritiker von Variety schwante was , und doch traute er den eigenen Augen nicht so recht : " Könnte sein , daß Clint Eastwood und sein Team sich mit diesem Film den Spaß erlaubt haben , sich ein bißchen selbst auf den Arm zu nehmen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dem Kritiker von Variety schwante was , und doch traute er den eigenen Augen nicht so recht : " Könnte sein , daß Clint Eastwood und sein Team sich mit diesem Film den Spaß erlaubt haben , sich ein bißchen selbst auf den Arm zu nehmen .
 1	Dem	*	*	*	*
 2	Kritiker	*	*	*	*
 3	von	*	*	*	*
@@ -2487,18 +2562,19 @@
 39	ein	*	*	*	*
 40	bißchen	*	*	*	*
 41	selbst	*	*	*	*
-42	auf	2	2	2	2
+42	auf	FIG	FIG	FIG	FIG
 43	den	*	*	*	*
-44	Arm	2	2	2	2
+44	Arm	FIG	FIG	FIG	FIG
 45	zu	*	*	*	*
-46	nehmen	2	2	2	2
+46	nehmen	FIG	FIG	FIG	FIG
 47	.	*	*	*	*
 
 # tuepp_article_id = T950111.30
 # sent_id = 470
+# text = Pikanterweise erklärt der sich ausgerechnet aus Attentatsdrohungen der Islamisten - denn das Stück nahm das Verhältnis von Islamisten und Staatsmacht auf den Arm .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Pikanterweise erklärt der sich ausgerechnet aus Attentatsdrohungen der Islamisten - denn das Stück nahm das Verhältnis von Islamisten und Staatsmacht auf den Arm .
 1	Pikanterweise	*	*	*	*
 2	erklärt	*	*	*	*
 3	der	*	*	*	*
@@ -2512,23 +2588,24 @@
 11	denn	*	*	*	*
 12	das	*	*	*	*
 13	Stück	*	*	*	*
-14	nahm	2	2	2	2
+14	nahm	FIG	FIG	FIG	FIG
 15	das	*	*	*	*
 16	Verhältnis	*	*	*	*
 17	von	*	*	*	*
 18	Islamisten	*	*	*	*
 19	und	*	*	*	*
 20	Staatsmacht	*	*	*	*
-21	auf	2	2	2	2
+21	auf	FIG	FIG	FIG	FIG
 22	den	*	*	*	*
-23	Arm	2	2	2	2
+23	Arm	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T951207.240
 # sent_id = 471
+# text = Wedemeier war eigens ans Rednerpult gegangen , um seiner Empörung über den Innensenator Ralf Borttscheller Luft zu machen : " Sie haben lediglich das Parlament auf den Arm genommen , das ist das einzige , was sie hier geleistet haben .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wedemeier war eigens ans Rednerpult gegangen , um seiner Empörung über den Innensenator Ralf Borttscheller Luft zu machen : " Sie haben lediglich das Parlament auf den Arm genommen , das ist das einzige , was sie hier geleistet haben .
 1	Wedemeier	*	*	*	*
 2	war	*	*	*	*
 3	eigens	*	*	*	*
@@ -2554,10 +2631,10 @@
 23	lediglich	*	*	*	*
 24	das	*	*	*	*
 25	Parlament	*	*	*	*
-26	auf	2	2	2	2
+26	auf	FIG	FIG	FIG	FIG
 27	den	*	*	*	*
-28	Arm	2	2	2	2
-29	genommen	2	2	2	2
+28	Arm	FIG	FIG	FIG	FIG
+29	genommen	FIG	FIG	FIG	FIG
 30	,	*	*	*	*
 31	das	*	*	*	*
 32	ist	*	*	*	*
@@ -2573,17 +2650,18 @@
 
 # tuepp_article_id = T950828.144
 # sent_id = 472
+# text = Gerd : Ihr nehmt mich auf den Arm , das ist nicht fair !
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Gerd : Ihr nehmt mich auf den Arm , das ist nicht fair !
 1	Gerd	*	*	*	*
 2	:	*	*	*	*
 3	Ihr	*	*	*	*
-4	nehmt	2	2	2	2
+4	nehmt	FIG	FIG	FIG	FIG
 5	mich	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Arm	2	2	2	2
+8	Arm	FIG	FIG	FIG	FIG
 9	,	*	*	*	*
 10	das	*	*	*	*
 11	ist	*	*	*	*
@@ -2593,17 +2671,18 @@
 
 # tuepp_article_id = T950816.212
 # sent_id = 473
+# text = Zum Abschied ein Huhn auf den Arm nehmen möchte sie nicht : " Das widerstrebt mir .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zum Abschied ein Huhn auf den Arm nehmen möchte sie nicht : " Das widerstrebt mir .
 1	Zum	*	*	*	*
 2	Abschied	*	*	*	*
 3	ein	*	*	*	*
 4	Huhn	*	*	*	*
-5	auf	1	1	1	1
+5	auf	LIT	LIT	LIT	LIT
 6	den	*	*	*	*
-7	Arm	1	1	1	1
-8	nehmen	1	1	1	1
+7	Arm	LIT	LIT	LIT	LIT
+8	nehmen	LIT	LIT	LIT	LIT
 9	möchte	*	*	*	*
 10	sie	*	*	*	*
 11	nicht	*	*	*	*
@@ -2616,9 +2695,10 @@
 
 # tuepp_article_id = T950829.147
 # sent_id = 474
+# text = Sydney ( AP / taz ) - Die Koalas in den Tierparks des australischen Staates New South Wales dürfen von Zoobesuchern nicht mehr auf den Arm genommen werden .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sydney ( AP / taz ) - Die Koalas in den Tierparks des australischen Staates New South Wales dürfen von Zoobesuchern nicht mehr auf den Arm genommen werden .
 1	Sydney	*	*	*	*
 2	(	*	*	*	*
 3	AP	*	*	*	*
@@ -2642,18 +2722,19 @@
 21	Zoobesuchern	*	*	*	*
 22	nicht	*	*	*	*
 23	mehr	*	*	*	*
-24	auf	1	1	1	1
+24	auf	LIT	LIT	LIT	LIT
 25	den	*	*	*	*
-26	Arm	1	1	1	1
-27	genommen	1	1	1	1
+26	Arm	LIT	LIT	LIT	LIT
+27	genommen	LIT	LIT	LIT	LIT
 28	werden	*	*	*	*
 29	.	*	*	*	*
 
 # tuepp_article_id = T950811.287
 # sent_id = 475
+# text = Es ist ein ambivalentes Bild , das zwischen dem Ideal einer Presse , wie es der Canard enchaine5 verkörpert , und dem karikierten Sumpf des Fernsehjournalismus , der täglich erneut auf den Arm genommen wird , oszilliert .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Es ist ein ambivalentes Bild , das zwischen dem Ideal einer Presse , wie es der Canard enchaine5 verkörpert , und dem karikierten Sumpf des Fernsehjournalismus , der täglich erneut auf den Arm genommen wird , oszilliert .
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	ein	*	*	*	*
@@ -2684,10 +2765,10 @@
 28	der	*	*	*	*
 29	täglich	*	*	*	*
 30	erneut	*	*	*	*
-31	auf	2	2	2	2
+31	auf	FIG	FIG	FIG	FIG
 32	den	*	*	*	*
-33	Arm	2	2	2	2
-34	genommen	2	2	2	2
+33	Arm	FIG	FIG	FIG	FIG
+34	genommen	FIG	FIG	FIG	FIG
 35	wird	*	*	*	*
 36	,	*	*	*	*
 37	oszilliert	*	*	*	*
@@ -2695,9 +2776,10 @@
 
 # tuepp_article_id = T950204.132
 # sent_id = 476
+# text = Wichtigstes Requisit : die Stühle , die kleinen , die man auf den Arm nehmen kann wie ein Baby , die riesigen , die Marie kleiner scheinen lassen , als sie ist , und den Verführer größer , als er ist .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wichtigstes Requisit : die Stühle , die kleinen , die man auf den Arm nehmen kann wie ein Baby , die riesigen , die Marie kleiner scheinen lassen , als sie ist , und den Verführer größer , als er ist .
 1	Wichtigstes	*	*	*	*
 2	Requisit	*	*	*	*
 3	:	*	*	*	*
@@ -2709,10 +2791,10 @@
 9	,	*	*	*	*
 10	die	*	*	*	*
 11	man	*	*	*	*
-12	auf	1	1	1	1
+12	auf	LIT	LIT	LIT	LIT
 13	den	*	*	*	*
-14	Arm	1	1	1	1
-15	nehmen	1	1	1	1
+14	Arm	LIT	LIT	LIT	LIT
+15	nehmen	LIT	LIT	LIT	LIT
 16	kann	*	*	*	*
 17	wie	*	*	*	*
 18	ein	*	*	*	*
@@ -2743,9 +2825,10 @@
 
 # tuepp_article_id = T990419.242
 # sent_id = 477
+# text = Vor Gericht erinnerte sich Trzebinski später : " Frahm nahm den Jungen auf den Arm und sagte zu den anderen : Er wird jetzt ins Bett gebracht .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vor Gericht erinnerte sich Trzebinski später : " Frahm nahm den Jungen auf den Arm und sagte zu den anderen : Er wird jetzt ins Bett gebracht .
 1	Vor	*	*	*	*
 2	Gericht	*	*	*	*
 3	erinnerte	*	*	*	*
@@ -2755,12 +2838,12 @@
 7	:	*	*	*	*
 8	"	*	*	*	*
 9	Frahm	*	*	*	*
-10	nahm	1	1	1	1
+10	nahm	LIT	LIT	LIT	LIT
 11	den	*	*	*	*
 12	Jungen	*	*	*	*
-13	auf	1	1	1	1
+13	auf	LIT	LIT	LIT	LIT
 14	den	*	*	*	*
-15	Arm	1	1	1	1
+15	Arm	LIT	LIT	LIT	LIT
 16	und	*	*	*	*
 17	sagte	*	*	*	*
 18	zu	*	*	*	*
@@ -2777,9 +2860,10 @@
 
 # tuepp_article_id = T990421.136
 # sent_id = 478
+# text = Wie die 35jährige Mutter des kleinen Franz am ersten Verhandlungstag berichtete , war ihr Sohn ein kleines Stück vorausgelaufen , als er von einem fremden Mann mit einer tief ins Gesicht gezogenen Mütze auf den Arm genommen wurde .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wie die 35jährige Mutter des kleinen Franz am ersten Verhandlungstag berichtete , war ihr Sohn ein kleines Stück vorausgelaufen , als er von einem fremden Mann mit einer tief ins Gesicht gezogenen Mütze auf den Arm genommen wurde .
 1	Wie	*	*	*	*
 2	die	*	*	*	*
 3	35jährige	*	*	*	*
@@ -2813,18 +2897,19 @@
 31	Gesicht	*	*	*	*
 32	gezogenen	*	*	*	*
 33	Mütze	*	*	*	*
-34	auf	1	1	1	1
+34	auf	LIT	LIT	LIT	LIT
 35	den	*	*	*	*
-36	Arm	1	1	1	1
-37	genommen	1	1	1	1
+36	Arm	LIT	LIT	LIT	LIT
+37	genommen	LIT	LIT	LIT	LIT
 38	wurde	*	*	*	*
 39	.	*	*	*	*
 
 # tuepp_article_id = T990311.21
 # sent_id = 479
+# text = Thomas : " Dann habe ich JD auf den Arm genommen und so schnell wie möglich aus dem Wasser getragen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Thomas : " Dann habe ich JD auf den Arm genommen und so schnell wie möglich aus dem Wasser getragen .
 1	Thomas	*	*	*	*
 2	:	*	*	*	*
 3	"	*	*	*	*
@@ -2832,10 +2917,10 @@
 5	habe	*	*	*	*
 6	ich	*	*	*	*
 7	JD	*	*	*	*
-8	auf	1	1	1	1
+8	auf	LIT	LIT	LIT	LIT
 9	den	*	*	*	*
-10	Arm	1	1	1	1
-11	genommen	1	1	1	1
+10	Arm	LIT	LIT	LIT	LIT
+11	genommen	LIT	LIT	LIT	LIT
 12	und	*	*	*	*
 13	so	*	*	*	*
 14	schnell	*	*	*	*
@@ -2849,9 +2934,10 @@
 
 # tuepp_article_id = T990306.10
 # sent_id = 480
+# text = " Als sich der eine Mitbewerber mit seinem tatsächlichen Namen , " Toni Sailer " , und der andere ganz ehrlich als " Andreas Hofer " vorgestellt hatte , fühlte sich der Chef bereits auf den Arm genommen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Als sich der eine Mitbewerber mit seinem tatsächlichen Namen , " Toni Sailer " , und der andere ganz ehrlich als " Andreas Hofer " vorgestellt hatte , fühlte sich der Chef bereits auf den Arm genommen .
 1	"	*	*	*	*
 2	Als	*	*	*	*
 3	sich	*	*	*	*
@@ -2886,17 +2972,18 @@
 32	der	*	*	*	*
 33	Chef	*	*	*	*
 34	bereits	*	*	*	*
-35	auf	2	2	2	2
+35	auf	FIG	FIG	FIG	FIG
 36	den	*	*	*	*
-37	Arm	2	2	2	2
-38	genommen	2	2	2	2
+37	Arm	FIG	FIG	FIG	FIG
+38	genommen	FIG	FIG	FIG	FIG
 39	.	*	*	*	*
 
 # tuepp_article_id = T990218.250
 # sent_id = 481
+# text = " Sicher " , antwortet er mit einem Blick , als wolle man ihn auf den Arm nehmen .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Sicher " , antwortet er mit einem Blick , als wolle man ihn auf den Arm nehmen .
 1	"	*	*	*	*
 2	Sicher	*	*	*	*
 3	"	*	*	*	*
@@ -2911,17 +2998,18 @@
 12	wolle	*	*	*	*
 13	man	*	*	*	*
 14	ihn	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Arm	2	2	2	2
-18	nehmen	2	2	2	2
+17	Arm	FIG	FIG	FIG	FIG
+18	nehmen	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T990205.186
 # sent_id = 482
+# text = TU-Präsident Hans-Jürgen Ewers fühlt sich " von der Politik auf den Arm genommen "
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = TU-Präsident Hans-Jürgen Ewers fühlt sich " von der Politik auf den Arm genommen "
 1	TU-Präsident	*	*	*	*
 2	Hans-Jürgen	*	*	*	*
 3	Ewers	*	*	*	*
@@ -2931,17 +3019,18 @@
 7	von	*	*	*	*
 8	der	*	*	*	*
 9	Politik	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Arm	2	2	2	2
-13	genommen	2	2	2	2
+12	Arm	FIG	FIG	FIG	FIG
+13	genommen	FIG	FIG	FIG	FIG
 14	"	*	*	*	*
 
 # tuepp_article_id = T990205.186
 # sent_id = 483
+# text = " Wir fühlen uns von der Politik auf den Arm genommen " , klagt der Präsident der Technischen Universität ( TU ) , Hans-Jürgen Ewers .
+# vid_types = auf arm nehmen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wir fühlen uns von der Politik auf den Arm genommen " , klagt der Präsident der Technischen Universität ( TU ) , Hans-Jürgen Ewers .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	fühlen	*	*	*	*
@@ -2949,10 +3038,10 @@
 5	von	*	*	*	*
 6	der	*	*	*	*
 7	Politik	*	*	*	*
-8	auf	2	2	2	2
+8	auf	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
-10	Arm	2	2	2	2
-11	genommen	2	2	2	2
+10	Arm	FIG	FIG	FIG	FIG
+11	genommen	FIG	FIG	FIG	FIG
 12	"	*	*	*	*
 13	,	*	*	*	*
 14	klagt	*	*	*	*

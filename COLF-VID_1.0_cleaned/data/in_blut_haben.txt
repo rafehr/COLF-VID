@@ -1,8 +1,9 @@
 # tuepp_article_id = T890905.54
 # sent_id = 2974
+# text = In der Regel sind die Opfer jung , männlich und schwarz ; jedes zweite hat noch Spuren des Rauschmittels im Blut .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In der Regel sind die Opfer jung , männlich und schwarz ; jedes zweite hat noch Spuren des Rauschmittels im Blut .
 1	In	*	*	*	*
 2	der	*	*	*	*
 3	Regel	*	*	*	*
@@ -17,27 +18,28 @@
 12	;	*	*	*	*
 13	jedes	*	*	*	*
 14	zweite	*	*	*	*
-15	hat	1	1	1	1
+15	hat	LIT	LIT	LIT	LIT
 16	noch	*	*	*	*
 17	Spuren	*	*	*	*
 18	des	*	*	*	*
 19	Rauschmittels	*	*	*	*
-20	im	1	1	1	1
-21	Blut	1	1	1	1
+20	im	LIT	LIT	LIT	LIT
+21	Blut	LIT	LIT	LIT	LIT
 22	.	*	*	*	*
 
 # tuepp_article_id = T890811.44
 # sent_id = 2975
+# text = Köln ( dpa ) - Großstadtkinder haben nach einer Studie des Medizinischen Instituts für Umwelthygiene in Düsseldorf erheblich mehr krebserregendes Benzol im Blut als ihre Altersgenossen in kleineren Städten .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Köln ( dpa ) - Großstadtkinder haben nach einer Studie des Medizinischen Instituts für Umwelthygiene in Düsseldorf erheblich mehr krebserregendes Benzol im Blut als ihre Altersgenossen in kleineren Städten .
 1	Köln	*	*	*	*
 2	(	*	*	*	*
 3	dpa	*	*	*	*
 4	)	*	*	*	*
 5	-	*	*	*	*
 6	Großstadtkinder	*	*	*	*
-7	haben	1	1	1	1
+7	haben	LIT	LIT	LIT	LIT
 8	nach	*	*	*	*
 9	einer	*	*	*	*
 10	Studie	*	*	*	*
@@ -52,8 +54,8 @@
 19	mehr	*	*	*	*
 20	krebserregendes	*	*	*	*
 21	Benzol	*	*	*	*
-22	im	1	1	1	1
-23	Blut	1	1	1	1
+22	im	LIT	LIT	LIT	LIT
+23	Blut	LIT	LIT	LIT	LIT
 24	als	*	*	*	*
 25	ihre	*	*	*	*
 26	Altersgenossen	*	*	*	*
@@ -64,9 +66,10 @@
 
 # tuepp_article_id = T890811.44
 # sent_id = 2976
+# text = Die gestern vom Kölner Gesundheitsamt veröffentlichte Untersuchung ergab , daß Sechsjährige in der verkehrsreichen Domstadt mit fast einer Million Einwohnern 71 Prozent mehr Benzol im Blut haben als ihre Altersgenossen aus der knapp 35.000 Einwohner zählenden Kreisstadt Borken .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die gestern vom Kölner Gesundheitsamt veröffentlichte Untersuchung ergab , daß Sechsjährige in der verkehrsreichen Domstadt mit fast einer Million Einwohnern 71 Prozent mehr Benzol im Blut haben als ihre Altersgenossen aus der knapp 35.000 Einwohner zählenden Kreisstadt Borken .
 1	Die	*	*	*	*
 2	gestern	*	*	*	*
 3	vom	*	*	*	*
@@ -91,9 +94,9 @@
 22	Prozent	*	*	*	*
 23	mehr	*	*	*	*
 24	Benzol	*	*	*	*
-25	im	1	1	1	1
-26	Blut	1	1	1	1
-27	haben	1	1	1	1
+25	im	LIT	LIT	LIT	LIT
+26	Blut	LIT	LIT	LIT	LIT
+27	haben	LIT	LIT	LIT	LIT
 28	als	*	*	*	*
 29	ihre	*	*	*	*
 30	Altersgenossen	*	*	*	*
@@ -109,9 +112,10 @@
 
 # tuepp_article_id = T910531.38
 # sent_id = 2977
+# text = In Köln hat eine Studie gezeigt , daß Kölner Kinder im Schnitt 70 Prozent mehr krebserzeugendes Benzol im Blut haben , als Kinder im unbelasteten Landkreis Borken .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Köln hat eine Studie gezeigt , daß Kölner Kinder im Schnitt 70 Prozent mehr krebserzeugendes Benzol im Blut haben , als Kinder im unbelasteten Landkreis Borken .
 1	In	*	*	*	*
 2	Köln	*	*	*	*
 3	hat	*	*	*	*
@@ -129,9 +133,9 @@
 15	mehr	*	*	*	*
 16	krebserzeugendes	*	*	*	*
 17	Benzol	*	*	*	*
-18	im	1	1	1	1
-19	Blut	1	1	1	1
-20	haben	1	1	1	1
+18	im	LIT	LIT	LIT	LIT
+19	Blut	LIT	LIT	LIT	LIT
+20	haben	LIT	LIT	LIT	LIT
 21	,	*	*	*	*
 22	als	*	*	*	*
 23	Kinder	*	*	*	*
@@ -143,9 +147,10 @@
 
 # tuepp_article_id = T910107.113
 # sent_id = 2978
+# text = Dabei hatte schon 1987 eine Untersuchung gezeigt , daß 70 Prozent der Prostituierten , die in den Bars an der Fernstraße von Zimbabwe nach Zambia arbeiten , den Erreger im Blut haben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dabei hatte schon 1987 eine Untersuchung gezeigt , daß 70 Prozent der Prostituierten , die in den Bars an der Fernstraße von Zimbabwe nach Zambia arbeiten , den Erreger im Blut haben .
 1	Dabei	*	*	*	*
 2	hatte	*	*	*	*
 3	schon	*	*	*	*
@@ -175,16 +180,17 @@
 27	,	*	*	*	*
 28	den	*	*	*	*
 29	Erreger	*	*	*	*
-30	im	1	1	1	1
-31	Blut	1	1	1	1
-32	haben	1	1	1	1
+30	im	LIT	LIT	LIT	LIT
+31	Blut	LIT	LIT	LIT	LIT
+32	haben	LIT	LIT	LIT	LIT
 33	.	*	*	*	*
 
 # tuepp_article_id = T911211.88
 # sent_id = 2979
+# text = Auch in Japan wurde nach Untersuchungen festgestellt , daß Läufer im Ziel weniger Schadstoffe im Blut hatten als am Start .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auch in Japan wurde nach Untersuchungen festgestellt , daß Läufer im Ziel weniger Schadstoffe im Blut hatten als am Start .
 1	Auch	*	*	*	*
 2	in	*	*	*	*
 3	Japan	*	*	*	*
@@ -199,9 +205,9 @@
 12	Ziel	*	*	*	*
 13	weniger	*	*	*	*
 14	Schadstoffe	*	*	*	*
-15	im	1	1	1	1
-16	Blut	1	1	1	1
-17	hatten	1	1	1	1
+15	im	LIT	LIT	LIT	LIT
+16	Blut	LIT	LIT	LIT	LIT
+17	hatten	LIT	LIT	LIT	LIT
 18	als	*	*	*	*
 19	am	*	*	*	*
 20	Start	*	*	*	*
@@ -209,9 +215,10 @@
 
 # tuepp_article_id = T901211.14
 # sent_id = 2980
+# text = Verletzte auf einer Betriebsfeier in Düsseldorf ; der Busfahrer , der die fröhlich gestimmten Gäste heimfahren sollte , hatte beachtenswerte 2,67 Promille im Blut ;
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Verletzte auf einer Betriebsfeier in Düsseldorf ; der Busfahrer , der die fröhlich gestimmten Gäste heimfahren sollte , hatte beachtenswerte 2,67 Promille im Blut ;
 1	Verletzte	*	*	*	*
 2	auf	*	*	*	*
 3	einer	*	*	*	*
@@ -230,28 +237,29 @@
 16	heimfahren	*	*	*	*
 17	sollte	*	*	*	*
 18	,	*	*	*	*
-19	hatte	1	1	1	1
+19	hatte	LIT	LIT	LIT	LIT
 20	beachtenswerte	*	*	*	*
 21	2,67	*	*	*	*
 22	Promille	*	*	*	*
-23	im	1	1	1	1
-24	Blut	1	1	1	1
+23	im	LIT	LIT	LIT	LIT
+24	Blut	LIT	LIT	LIT	LIT
 25	;	*	*	*	*
 
 # tuepp_article_id = T900806.210
 # sent_id = 2981
+# text = Zuviel Alkohol sollte man aber nicht im Blut haben , sonst kann man es nicht mehr verwenden , um durch eine Spende beim Spendenbus des Bayerischen Roten Kreuzes den Blutnotstand in Ost-Berlin beheben zu helfen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zuviel Alkohol sollte man aber nicht im Blut haben , sonst kann man es nicht mehr verwenden , um durch eine Spende beim Spendenbus des Bayerischen Roten Kreuzes den Blutnotstand in Ost-Berlin beheben zu helfen .
 1	Zuviel	*	*	*	*
 2	Alkohol	*	*	*	*
 3	sollte	*	*	*	*
 4	man	*	*	*	*
 5	aber	*	*	*	*
 6	nicht	*	*	*	*
-7	im	1	1	1	1
-8	Blut	1	1	1	1
-9	haben	1	1	1	1
+7	im	LIT	LIT	LIT	LIT
+8	Blut	LIT	LIT	LIT	LIT
+9	haben	LIT	LIT	LIT	LIT
 10	,	*	*	*	*
 11	sonst	*	*	*	*
 12	kann	*	*	*	*
@@ -282,9 +290,10 @@
 
 # tuepp_article_id = T920918.263
 # sent_id = 2982
+# text = Und die schleichende Vergiftung durch Abgase bedroht Großstadtkinder immer mehr : Sie haben 60 bis 70 Prozent mehr krebserregendes Benzol in Blut als Kinder aus ländlichen Gebieten .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und die schleichende Vergiftung durch Abgase bedroht Großstadtkinder immer mehr : Sie haben 60 bis 70 Prozent mehr krebserregendes Benzol in Blut als Kinder aus ländlichen Gebieten .
 1	Und	*	*	*	*
 2	die	*	*	*	*
 3	schleichende	*	*	*	*
@@ -297,7 +306,7 @@
 10	mehr	*	*	*	*
 11	:	*	*	*	*
 12	Sie	*	*	*	*
-13	haben	1	1	1	1
+13	haben	LIT	LIT	LIT	LIT
 14	60	*	*	*	*
 15	bis	*	*	*	*
 16	70	*	*	*	*
@@ -305,8 +314,8 @@
 18	mehr	*	*	*	*
 19	krebserregendes	*	*	*	*
 20	Benzol	*	*	*	*
-21	in	1	1	1	1
-22	Blut	1	1	1	1
+21	in	LIT	LIT	LIT	LIT
+22	Blut	LIT	LIT	LIT	LIT
 23	als	*	*	*	*
 24	Kinder	*	*	*	*
 25	aus	*	*	*	*
@@ -316,12 +325,13 @@
 
 # tuepp_article_id = T920409.117
 # sent_id = 2983
+# text = Dicke Männer haben nicht nur höhere Blutdruckwerte sowie höhere Cholesterinkonzentrationen im Blut , sondern in der Regel auch eine andere Fettverteilung als Frauen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dicke Männer haben nicht nur höhere Blutdruckwerte sowie höhere Cholesterinkonzentrationen im Blut , sondern in der Regel auch eine andere Fettverteilung als Frauen .
 1	Dicke	*	*	*	*
 2	Männer	*	*	*	*
-3	haben	1	1	1	1
+3	haben	LIT	LIT	LIT	LIT
 4	nicht	*	*	*	*
 5	nur	*	*	*	*
 6	höhere	*	*	*	*
@@ -329,8 +339,8 @@
 8	sowie	*	*	*	*
 9	höhere	*	*	*	*
 10	Cholesterinkonzentrationen	*	*	*	*
-11	im	1	1	1	1
-12	Blut	1	1	1	1
+11	im	LIT	LIT	LIT	LIT
+12	Blut	LIT	LIT	LIT	LIT
 13	,	*	*	*	*
 14	sondern	*	*	*	*
 15	in	*	*	*	*
@@ -346,18 +356,19 @@
 
 # tuepp_article_id = T920321.87
 # sent_id = 2984
+# text = In Köln haben Kinder 70Prozent mehr Benzol im Blut als in der westfälischen Kleinstadt Borken .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Köln haben Kinder 70Prozent mehr Benzol im Blut als in der westfälischen Kleinstadt Borken .
 1	In	*	*	*	*
 2	Köln	*	*	*	*
-3	haben	1	1	1	1
+3	haben	LIT	LIT	LIT	LIT
 4	Kinder	*	*	*	*
 5	70Prozent	*	*	*	*
 6	mehr	*	*	*	*
 7	Benzol	*	*	*	*
-8	im	1	1	1	1
-9	Blut	1	1	1	1
+8	im	LIT	LIT	LIT	LIT
+9	Blut	LIT	LIT	LIT	LIT
 10	als	*	*	*	*
 11	in	*	*	*	*
 12	der	*	*	*	*
@@ -368,9 +379,10 @@
 
 # tuepp_article_id = T920211.75
 # sent_id = 2985
+# text = Ein Positionspapier der britischen Botschaft hält fest , etwa 50 Prozent der neugeborenen Babys in Mexiko- Stadt hätten so hohe Bleikonzentrationen im Blut , daß es zu schweren Schädigungen ihres zentralen Nervensystems kommen könne .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein Positionspapier der britischen Botschaft hält fest , etwa 50 Prozent der neugeborenen Babys in Mexiko- Stadt hätten so hohe Bleikonzentrationen im Blut , daß es zu schweren Schädigungen ihres zentralen Nervensystems kommen könne .
 1	Ein	*	*	*	*
 2	Positionspapier	*	*	*	*
 3	der	*	*	*	*
@@ -388,12 +400,12 @@
 15	in	*	*	*	*
 16	Mexiko-	*	*	*	*
 17	Stadt	*	*	*	*
-18	hätten	1	1	1	1
+18	hätten	LIT	LIT	LIT	LIT
 19	so	*	*	*	*
 20	hohe	*	*	*	*
 21	Bleikonzentrationen	*	*	*	*
-22	im	1	1	1	1
-23	Blut	1	1	1	1
+22	im	LIT	LIT	LIT	LIT
+23	Blut	LIT	LIT	LIT	LIT
 24	,	*	*	*	*
 25	daß	*	*	*	*
 26	es	*	*	*	*
@@ -409,12 +421,13 @@
 
 # tuepp_article_id = T881007.159
 # sent_id = 2986
+# text = " Bradley hat nur noch die Hälfte der Normalzahl der T-Helferzellen im Blut , die für die Bekämpfung von in den Körper eingedrungenen Erregern zuständig sind .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Bradley hat nur noch die Hälfte der Normalzahl der T-Helferzellen im Blut , die für die Bekämpfung von in den Körper eingedrungenen Erregern zuständig sind .
 1	"	*	*	*	*
 2	Bradley	*	*	*	*
-3	hat	1	1	1	1
+3	hat	LIT	LIT	LIT	LIT
 4	nur	*	*	*	*
 5	noch	*	*	*	*
 6	die	*	*	*	*
@@ -423,8 +436,8 @@
 9	Normalzahl	*	*	*	*
 10	der	*	*	*	*
 11	T-Helferzellen	*	*	*	*
-12	im	1	1	1	1
-13	Blut	1	1	1	1
+12	im	LIT	LIT	LIT	LIT
+13	Blut	LIT	LIT	LIT	LIT
 14	,	*	*	*	*
 15	die	*	*	*	*
 16	für	*	*	*	*
@@ -442,9 +455,10 @@
 
 # tuepp_article_id = T880718.82
 # sent_id = 2987
+# text = Innerhalb eines Jahres war ich mit dem Notarztwagen zwölfmal in Krankenhäuser eingeliefert worden , nicht weil ich zu viel Zucker im Blut hatte , sondern weil zu wenig Zucker in meinem Blut war und deshalb die Energieversorgung des Gehirns zusammengebrochen war .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Innerhalb eines Jahres war ich mit dem Notarztwagen zwölfmal in Krankenhäuser eingeliefert worden , nicht weil ich zu viel Zucker im Blut hatte , sondern weil zu wenig Zucker in meinem Blut war und deshalb die Energieversorgung des Gehirns zusammengebrochen war .
 1	Innerhalb	*	*	*	*
 2	eines	*	*	*	*
 3	Jahres	*	*	*	*
@@ -465,9 +479,9 @@
 18	zu	*	*	*	*
 19	viel	*	*	*	*
 20	Zucker	*	*	*	*
-21	im	1	1	1	1
-22	Blut	1	1	1	1
-23	hatte	1	1	1	1
+21	im	LIT	LIT	LIT	LIT
+22	Blut	LIT	LIT	LIT	LIT
+23	hatte	LIT	LIT	LIT	LIT
 24	,	*	*	*	*
 25	sondern	*	*	*	*
 26	weil	*	*	*	*
@@ -490,9 +504,10 @@
 
 # tuepp_article_id = T870625.73
 # sent_id = 2988
+# text = Das ist zum Beispiel der Grund , warum viele der in den fünfziger Jahren gegen Polio ( Kinderlähmung ) Geimpften auch Antikörper gegen ein aus Affen stammendes , in einigen Tierarten Krebs erzeugendes Virus ( das sogenannte SV 40 Virus , wurde erst 1960 " entdeckt " ) im Blut haben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das ist zum Beispiel der Grund , warum viele der in den fünfziger Jahren gegen Polio ( Kinderlähmung ) Geimpften auch Antikörper gegen ein aus Affen stammendes , in einigen Tierarten Krebs erzeugendes Virus ( das sogenannte SV 40 Virus , wurde erst 1960 " entdeckt " ) im Blut haben .
 1	Das	*	*	*	*
 2	ist	*	*	*	*
 3	zum	*	*	*	*
@@ -541,16 +556,17 @@
 46	entdeckt	*	*	*	*
 47	"	*	*	*	*
 48	)	*	*	*	*
-49	im	1	1	1	1
-50	Blut	1	1	1	1
-51	haben	1	1	1	1
+49	im	LIT	LIT	LIT	LIT
+50	Blut	LIT	LIT	LIT	LIT
+51	haben	LIT	LIT	LIT	LIT
 52	.	*	*	*	*
 
 # tuepp_article_id = T861128.85
 # sent_id = 2989
+# text = Die am schlimmsten betroffene Stadt in den USA ist New York , wo einer von 250 Bewohnern HIV-Antikörper im Blut hat .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die am schlimmsten betroffene Stadt in den USA ist New York , wo einer von 250 Bewohnern HIV-Antikörper im Blut hat .
 1	Die	*	*	*	*
 2	am	*	*	*	*
 3	schlimmsten	*	*	*	*
@@ -569,16 +585,17 @@
 16	250	*	*	*	*
 17	Bewohnern	*	*	*	*
 18	HIV-Antikörper	*	*	*	*
-19	im	1	1	1	1
-20	Blut	1	1	1	1
-21	hat	1	1	1	1
+19	im	LIT	LIT	LIT	LIT
+20	Blut	LIT	LIT	LIT	LIT
+21	hat	LIT	LIT	LIT	LIT
 22	.	*	*	*	*
 
 # tuepp_article_id = T931018.80
 # sent_id = 2990
+# text = Dieser Test kann aber fehlerhaft sein , weil ein frischinfizierter Spender in den ersten Wochen nach der Ansteckung noch keine Antikörper in seinem Blut hat und deshalb nicht als " Positiver " entdeckt wird .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dieser Test kann aber fehlerhaft sein , weil ein frischinfizierter Spender in den ersten Wochen nach der Ansteckung noch keine Antikörper in seinem Blut hat und deshalb nicht als " Positiver " entdeckt wird .
 1	Dieser	*	*	*	*
 2	Test	*	*	*	*
 3	kann	*	*	*	*
@@ -600,10 +617,10 @@
 19	noch	*	*	*	*
 20	keine	*	*	*	*
 21	Antikörper	*	*	*	*
-22	in	1	1	1	1
+22	in	LIT	LIT	LIT	LIT
 23	seinem	*	*	*	*
-24	Blut	1	1	1	1
-25	hat	1	1	1	1
+24	Blut	LIT	LIT	LIT	LIT
+25	hat	LIT	LIT	LIT	LIT
 26	und	*	*	*	*
 27	deshalb	*	*	*	*
 28	nicht	*	*	*	*
@@ -617,9 +634,10 @@
 
 # tuepp_article_id = T930408.93
 # sent_id = 2991
+# text = Die Gegenexpertise in einem römischen Labor bestätigte die A-Probe , nach der der Stürmer am 21. März ausgerechnet im Spiel gegen den SSC Neapel Kokain im Blut hatte .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Gegenexpertise in einem römischen Labor bestätigte die A-Probe , nach der der Stürmer am 21. März ausgerechnet im Spiel gegen den SSC Neapel Kokain im Blut hatte .
 1	Die	*	*	*	*
 2	Gegenexpertise	*	*	*	*
 3	in	*	*	*	*
@@ -646,26 +664,27 @@
 24	SSC	*	*	*	*
 25	Neapel	*	*	*	*
 26	Kokain	*	*	*	*
-27	im	1	1	1	1
-28	Blut	1	1	1	1
-29	hatte	1	1	1	1
+27	im	LIT	LIT	LIT	LIT
+28	Blut	LIT	LIT	LIT	LIT
+29	hatte	LIT	LIT	LIT	LIT
 30	.	*	*	*	*
 
 # tuepp_article_id = T930813.214
 # sent_id = 2992
+# text = Zur Tatzeit hatte sie über 3 Promille Alkohol im Blut , konnte sich an nichts mehr erinnern und sei damals erst in der Frauenklinik wieder aufgewacht .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zur Tatzeit hatte sie über 3 Promille Alkohol im Blut , konnte sich an nichts mehr erinnern und sei damals erst in der Frauenklinik wieder aufgewacht .
 1	Zur	*	*	*	*
 2	Tatzeit	*	*	*	*
-3	hatte	1	1	1	1
+3	hatte	LIT	LIT	LIT	LIT
 4	sie	*	*	*	*
 5	über	*	*	*	*
 6	3	*	*	*	*
 7	Promille	*	*	*	*
 8	Alkohol	*	*	*	*
-9	im	1	1	1	1
-10	Blut	1	1	1	1
+9	im	LIT	LIT	LIT	LIT
+10	Blut	LIT	LIT	LIT	LIT
 11	,	*	*	*	*
 12	konnte	*	*	*	*
 13	sich	*	*	*	*
@@ -686,9 +705,10 @@
 
 # tuepp_article_id = T931102.35
 # sent_id = 2993
+# text = Vor allem frisch infizierte Blutspender , die noch keinen hohen Antikörper-Gehalt in ihrem Blut haben , können durch das Zusammenschütten von zwei bis drei Spenden , wie es bei UB-Plasma jahrelang Praxis war , unerkannt bleiben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vor allem frisch infizierte Blutspender , die noch keinen hohen Antikörper-Gehalt in ihrem Blut haben , können durch das Zusammenschütten von zwei bis drei Spenden , wie es bei UB-Plasma jahrelang Praxis war , unerkannt bleiben .
 1	Vor	*	*	*	*
 2	allem	*	*	*	*
 3	frisch	*	*	*	*
@@ -700,10 +720,10 @@
 9	keinen	*	*	*	*
 10	hohen	*	*	*	*
 11	Antikörper-Gehalt	*	*	*	*
-12	in	1	1	1	1
+12	in	LIT	LIT	LIT	LIT
 13	ihrem	*	*	*	*
-14	Blut	1	1	1	1
-15	haben	1	1	1	1
+14	Blut	LIT	LIT	LIT	LIT
+15	haben	LIT	LIT	LIT	LIT
 16	,	*	*	*	*
 17	können	*	*	*	*
 18	durch	*	*	*	*
@@ -729,15 +749,16 @@
 
 # tuepp_article_id = T961209.43
 # sent_id = 2994
+# text = Sylvio Amoussou hatte weder im Blut noch in der Lunge die für Brandopfer typischen Ruß- oder Gasspuren .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sylvio Amoussou hatte weder im Blut noch in der Lunge die für Brandopfer typischen Ruß- oder Gasspuren .
 1	Sylvio	*	*	*	*
 2	Amoussou	*	*	*	*
-3	hatte	1	1	1	1
+3	hatte	LIT	LIT	LIT	LIT
 4	weder	*	*	*	*
-5	im	1	1	1	1
-6	Blut	1	1	1	1
+5	im	LIT	LIT	LIT	LIT
+6	Blut	LIT	LIT	LIT	LIT
 7	noch	*	*	*	*
 8	in	*	*	*	*
 9	der	*	*	*	*
@@ -753,20 +774,21 @@
 
 # tuepp_article_id = T961119.232
 # sent_id = 2995
+# text = Sie haben doppelt so hohe Dioxin- und Furankonzentrationen in ihrem Blut wie der Hamburger Durchschnitt .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie haben doppelt so hohe Dioxin- und Furankonzentrationen in ihrem Blut wie der Hamburger Durchschnitt .
 1	Sie	*	*	*	*
-2	haben	1	1	1	1
+2	haben	LIT	LIT	LIT	LIT
 3	doppelt	*	*	*	*
 4	so	*	*	*	*
 5	hohe	*	*	*	*
 6	Dioxin-	*	*	*	*
 7	und	*	*	*	*
 8	Furankonzentrationen	*	*	*	*
-9	in	1	1	1	1
+9	in	LIT	LIT	LIT	LIT
 10	ihrem	*	*	*	*
-11	Blut	1	1	1	1
+11	Blut	LIT	LIT	LIT	LIT
 12	wie	*	*	*	*
 13	der	*	*	*	*
 14	Hamburger	*	*	*	*
@@ -775,16 +797,17 @@
 
 # tuepp_article_id = T960215.124
 # sent_id = 2996
+# text = " Wir haben den Samba im Blut " , sagt sie stolz und die dreißig Kolleginnen , die mit ihr in der " Plataforma " trainieren , nicken zustimmend .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wir haben den Samba im Blut " , sagt sie stolz und die dreißig Kolleginnen , die mit ihr in der " Plataforma " trainieren , nicken zustimmend .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
-3	haben	2	2	2	2
+3	haben	FIG	FIG	FIG	FIG
 4	den	*	*	*	*
 5	Samba	*	*	*	*
-6	im	2	2	2	2
-7	Blut	2	2	2	2
+6	im	FIG	FIG	FIG	FIG
+7	Blut	FIG	FIG	FIG	FIG
 8	"	*	*	*	*
 9	,	*	*	*	*
 10	sagt	*	*	*	*
@@ -811,9 +834,10 @@
 
 # tuepp_article_id = T980312.230
 # sent_id = 2997
+# text = Das gleiche Gesetz besagt allerdings auch : Wer sich hinters Steuer klemmt und Rückstände einer anderen Droge in irgendeiner Form im Blut hat , dem droht der Führerscheinentzug .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das gleiche Gesetz besagt allerdings auch : Wer sich hinters Steuer klemmt und Rückstände einer anderen Droge in irgendeiner Form im Blut hat , dem droht der Führerscheinentzug .
 1	Das	*	*	*	*
 2	gleiche	*	*	*	*
 3	Gesetz	*	*	*	*
@@ -834,9 +858,9 @@
 18	in	*	*	*	*
 19	irgendeiner	*	*	*	*
 20	Form	*	*	*	*
-21	im	1	1	1	1
-22	Blut	1	1	1	1
-23	hat	1	1	1	1
+21	im	LIT	LIT	LIT	LIT
+22	Blut	LIT	LIT	LIT	LIT
+23	hat	LIT	LIT	LIT	LIT
 24	,	*	*	*	*
 25	dem	*	*	*	*
 26	droht	*	*	*	*
@@ -846,16 +870,17 @@
 
 # tuepp_article_id = T981118.118
 # sent_id = 2998
+# text = Es ist gemein : Die Niederländer haben die bessere Technik und das System " in Fleisch und Blut " ( Stielike ) .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Es ist gemein : Die Niederländer haben die bessere Technik und das System " in Fleisch und Blut " ( Stielike ) .
 1	Es	*	*	*	*
 2	ist	*	*	*	*
 3	gemein	*	*	*	*
 4	:	*	*	*	*
 5	Die	*	*	*	*
 6	Niederländer	*	*	*	*
-7	haben	2	2	2	2
+7	haben	FIG	FIG	FIG	FIG
 8	die	*	*	*	*
 9	bessere	*	*	*	*
 10	Technik	*	*	*	*
@@ -866,7 +891,7 @@
 15	in	*	*	*	*
 16	Fleisch	*	*	*	*
 17	und	*	*	*	*
-18	Blut	2	2	2	2
+18	Blut	FIG	FIG	FIG	FIG
 19	"	*	*	*	*
 20	(	*	*	*	*
 21	Stielike	*	*	*	*
@@ -875,9 +900,10 @@
 
 # tuepp_article_id = T971013.170
 # sent_id = 2999
+# text = Ein Mann , dessen Cousin in den Sechzigern das 24-Stunden-Rennen von Le Mans gewann und der einen Porsche besitzt , muß doch Speed im Blut haben .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein Mann , dessen Cousin in den Sechzigern das 24-Stunden-Rennen von Le Mans gewann und der einen Porsche besitzt , muß doch Speed im Blut haben .
 1	Ein	*	*	*	*
 2	Mann	*	*	*	*
 3	,	*	*	*	*
@@ -901,16 +927,17 @@
 21	muß	*	*	*	*
 22	doch	*	*	*	*
 23	Speed	*	*	*	*
-24	im	2	2	2	2
-25	Blut	2	2	2	2
-26	haben	2	2	2	2
+24	im	FIG	FIG	FIG	FIG
+25	Blut	FIG	FIG	FIG	FIG
+26	haben	FIG	FIG	FIG	FIG
 27	.	*	*	*	*
 
 # tuepp_article_id = T970923.76
 # sent_id = 3000
+# text = Diese Personen sind weitgehend gesund geblieben und haben in ihrem Blut kaum noch nachweisbare Mengen des Aidsvirus .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Diese Personen sind weitgehend gesund geblieben und haben in ihrem Blut kaum noch nachweisbare Mengen des Aidsvirus .
 1	Diese	*	*	*	*
 2	Personen	*	*	*	*
 3	sind	*	*	*	*
@@ -918,10 +945,10 @@
 5	gesund	*	*	*	*
 6	geblieben	*	*	*	*
 7	und	*	*	*	*
-8	haben	1	1	1	1
-9	in	1	1	1	1
+8	haben	LIT	LIT	LIT	LIT
+9	in	LIT	LIT	LIT	LIT
 10	ihrem	*	*	*	*
-11	Blut	1	1	1	1
+11	Blut	LIT	LIT	LIT	LIT
 12	kaum	*	*	*	*
 13	noch	*	*	*	*
 14	nachweisbare	*	*	*	*
@@ -932,9 +959,10 @@
 
 # tuepp_article_id = T970408.16
 # sent_id = 3001
+# text = Sind Weicht und Heym in der Absicht , die in Trebbin beschäftigten Arbeiter zu verprügeln , mit dem Trabant von der Tankstelle am Rande der Stadt weggefahren , und wieviel Alkohol hatten die beiden Angeklagten im Blut ?
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sind Weicht und Heym in der Absicht , die in Trebbin beschäftigten Arbeiter zu verprügeln , mit dem Trabant von der Tankstelle am Rande der Stadt weggefahren , und wieviel Alkohol hatten die beiden Angeklagten im Blut ?
 1	Sind	*	*	*	*
 2	Weicht	*	*	*	*
 3	und	*	*	*	*
@@ -966,19 +994,20 @@
 29	und	*	*	*	*
 30	wieviel	*	*	*	*
 31	Alkohol	*	*	*	*
-32	hatten	1	1	1	1
+32	hatten	LIT	LIT	LIT	LIT
 33	die	*	*	*	*
 34	beiden	*	*	*	*
 35	Angeklagten	*	*	*	*
-36	im	1	1	1	1
-37	Blut	1	1	1	1
+36	im	LIT	LIT	LIT	LIT
+37	Blut	LIT	LIT	LIT	LIT
 38	?	*	*	*	*
 
 # tuepp_article_id = T970728.123
 # sent_id = 3002
+# text = Im Gegensatz zu glatzköpfigen Männern , die meistens einen sehr hohen Anteil des Hormons Testosteron in ihrem Blut hätten , sei die Niere bei Alkoholikern derart stark geschädigt , daß das Hormon nicht mehr richtig gebildet werden könne .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Im Gegensatz zu glatzköpfigen Männern , die meistens einen sehr hohen Anteil des Hormons Testosteron in ihrem Blut hätten , sei die Niere bei Alkoholikern derart stark geschädigt , daß das Hormon nicht mehr richtig gebildet werden könne .
 1	Im	*	*	*	*
 2	Gegensatz	*	*	*	*
 3	zu	*	*	*	*
@@ -994,10 +1023,10 @@
 13	des	*	*	*	*
 14	Hormons	*	*	*	*
 15	Testosteron	*	*	*	*
-16	in	1	1	1	1
+16	in	LIT	LIT	LIT	LIT
 17	ihrem	*	*	*	*
-18	Blut	1	1	1	1
-19	hätten	1	1	1	1
+18	Blut	LIT	LIT	LIT	LIT
+19	hätten	LIT	LIT	LIT	LIT
 20	,	*	*	*	*
 21	sei	*	*	*	*
 22	die	*	*	*	*
@@ -1021,9 +1050,10 @@
 
 # tuepp_article_id = T940504.131
 # sent_id = 3003
+# text = Der Pilot und der Kopilot des Flugzeugs aus Taiwan , das Ende April in Japan abstürzte und 264 Menschen in den Tod riß , hatten einem Zeitungsbericht zufolge jeweils Alkohol im Blut .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Pilot und der Kopilot des Flugzeugs aus Taiwan , das Ende April in Japan abstürzte und 264 Menschen in den Tod riß , hatten einem Zeitungsbericht zufolge jeweils Alkohol im Blut .
 1	Der	*	*	*	*
 2	Pilot	*	*	*	*
 3	und	*	*	*	*
@@ -1048,21 +1078,22 @@
 22	Tod	*	*	*	*
 23	riß	*	*	*	*
 24	,	*	*	*	*
-25	hatten	1	1	1	1
+25	hatten	LIT	LIT	LIT	LIT
 26	einem	*	*	*	*
 27	Zeitungsbericht	*	*	*	*
 28	zufolge	*	*	*	*
 29	jeweils	*	*	*	*
 30	Alkohol	*	*	*	*
-31	im	1	1	1	1
-32	Blut	1	1	1	1
+31	im	LIT	LIT	LIT	LIT
+32	Blut	LIT	LIT	LIT	LIT
 33	.	*	*	*	*
 
 # tuepp_article_id = T940722.243
 # sent_id = 3004
+# text = Allerdings sind sie nicht so schlimm wie " Hallberg " , die nach eigener Auffassung " den Norden im Blut " haben , also knurriges Einsiedlertum in langatmigen Folk packen und den Abend unter freiem Himmel eröffnen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Allerdings sind sie nicht so schlimm wie " Hallberg " , die nach eigener Auffassung " den Norden im Blut " haben , also knurriges Einsiedlertum in langatmigen Folk packen und den Abend unter freiem Himmel eröffnen .
 1	Allerdings	*	*	*	*
 2	sind	*	*	*	*
 3	sie	*	*	*	*
@@ -1081,10 +1112,10 @@
 16	"	*	*	*	*
 17	den	*	*	*	*
 18	Norden	*	*	*	*
-19	im	2	2	2	2
-20	Blut	2	2	2	2
+19	im	FIG	FIG	FIG	FIG
+20	Blut	FIG	FIG	FIG	FIG
 21	"	*	*	*	*
-22	haben	2	2	2	2
+22	haben	FIG	FIG	FIG	FIG
 23	,	*	*	*	*
 24	also	*	*	*	*
 25	knurriges	*	*	*	*
@@ -1104,20 +1135,21 @@
 
 # tuepp_article_id = T940709.50
 # sent_id = 3005
+# text = In Köln haben Schulkinder 70 Prozent mehr krebserregendes Benzol im Blut als ihre AltersgenossInnen 60 Kilometer weiter auf dem Lande .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Köln haben Schulkinder 70 Prozent mehr krebserregendes Benzol im Blut als ihre AltersgenossInnen 60 Kilometer weiter auf dem Lande .
 1	In	*	*	*	*
 2	Köln	*	*	*	*
-3	haben	1	1	1	1
+3	haben	LIT	LIT	LIT	LIT
 4	Schulkinder	*	*	*	*
 5	70	*	*	*	*
 6	Prozent	*	*	*	*
 7	mehr	*	*	*	*
 8	krebserregendes	*	*	*	*
 9	Benzol	*	*	*	*
-10	im	1	1	1	1
-11	Blut	1	1	1	1
+10	im	LIT	LIT	LIT	LIT
+11	Blut	LIT	LIT	LIT	LIT
 12	als	*	*	*	*
 13	ihre	*	*	*	*
 14	AltersgenossInnen	*	*	*	*
@@ -1131,9 +1163,10 @@
 
 # tuepp_article_id = T940214.198
 # sent_id = 3006
+# text = Niemals in alltägliche Routine zu verfallen - Rudi Rückert glaubt , daß er das " wie ein Gen " seit seiner Geburt im Blut hat .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Niemals in alltägliche Routine zu verfallen - Rudi Rückert glaubt , daß er das " wie ein Gen " seit seiner Geburt im Blut hat .
 1	Niemals	*	*	*	*
 2	in	*	*	*	*
 3	alltägliche	*	*	*	*
@@ -1156,16 +1189,17 @@
 20	seit	*	*	*	*
 21	seiner	*	*	*	*
 22	Geburt	*	*	*	*
-23	im	2	2	2	2
-24	Blut	2	2	2	2
-25	hat	2	2	2	2
+23	im	FIG	FIG	FIG	FIG
+24	Blut	FIG	FIG	FIG	FIG
+25	hat	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T950909.177
 # sent_id = 3007
+# text = In Vorträgen soll er seine Gedichte getanzt , bei Debatten die Gedanken seiner Gegner gar " übertanzt " haben : Andrej Belj , zentraler Theoretiker und Dichter des russischen Symbolismus , Anhänger von Rudolf Steiner und während seiner Berliner Jahre 1921 bis 1923 dem Foxtrott-Fieber völlig erlegen , hatte den Rhythmus nicht nur im Blut , sondern auch im Geist .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Vorträgen soll er seine Gedichte getanzt , bei Debatten die Gedanken seiner Gegner gar " übertanzt " haben : Andrej Belj , zentraler Theoretiker und Dichter des russischen Symbolismus , Anhänger von Rudolf Steiner und während seiner Berliner Jahre 1921 bis 1923 dem Foxtrott-Fieber völlig erlegen , hatte den Rhythmus nicht nur im Blut , sondern auch im Geist .
 1	In	*	*	*	*
 2	Vorträgen	*	*	*	*
 3	soll	*	*	*	*
@@ -1214,13 +1248,13 @@
 46	völlig	*	*	*	*
 47	erlegen	*	*	*	*
 48	,	*	*	*	*
-49	hatte	2	2	2	2
+49	hatte	FIG	FIG	FIG	FIG
 50	den	*	*	*	*
 51	Rhythmus	*	*	*	*
 52	nicht	*	*	*	*
 53	nur	*	*	*	*
-54	im	2	2	2	2
-55	Blut	2	2	2	2
+54	im	FIG	FIG	FIG	FIG
+55	Blut	FIG	FIG	FIG	FIG
 56	,	*	*	*	*
 57	sondern	*	*	*	*
 58	auch	*	*	*	*
@@ -1230,9 +1264,10 @@
 
 # tuepp_article_id = T950814.251
 # sent_id = 3008
+# text = 100 Beanstandungen , darunter ein Autofahrer , der 2,94 Promille Alkohol im Blut hatte - das ist die Bilanz einer großangelegten Kontrolle der Landespolizei Schleswig-Holstein in der Nacht zum Samstag , bei der insgesamt 821 Fahrzeuge überprüft wurden .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = 100 Beanstandungen , darunter ein Autofahrer , der 2,94 Promille Alkohol im Blut hatte - das ist die Bilanz einer großangelegten Kontrolle der Landespolizei Schleswig-Holstein in der Nacht zum Samstag , bei der insgesamt 821 Fahrzeuge überprüft wurden .
 1	100	*	*	*	*
 2	Beanstandungen	*	*	*	*
 3	,	*	*	*	*
@@ -1244,9 +1279,9 @@
 9	2,94	*	*	*	*
 10	Promille	*	*	*	*
 11	Alkohol	*	*	*	*
-12	im	1	1	1	1
-13	Blut	1	1	1	1
-14	hatte	1	1	1	1
+12	im	LIT	LIT	LIT	LIT
+13	Blut	LIT	LIT	LIT	LIT
+14	hatte	LIT	LIT	LIT	LIT
 15	-	*	*	*	*
 16	das	*	*	*	*
 17	ist	*	*	*	*
@@ -1275,9 +1310,10 @@
 
 # tuepp_article_id = T950216.146
 # sent_id = 3009
+# text = Und das wohlgemerkt in einer Stadt , wo " Benzin im Blut " zu haben , so wie der begnadete Autohändler Helmut Becker ( mein Kollege Hans- Hermann Kotte ehrte ihn unlängst an dieser Stelle ) , Ausweis gesundesten Bürgersinns ist und namentlich viele an den großen Ein- und Ausfallstraßen lebende Kinder Beckers stolzes Bonmot längst tapfer mit medizinischem Leben erfüllen .
+# vid_types = in blut haben
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und das wohlgemerkt in einer Stadt , wo " Benzin im Blut " zu haben , so wie der begnadete Autohändler Helmut Becker ( mein Kollege Hans- Hermann Kotte ehrte ihn unlängst an dieser Stelle ) , Ausweis gesundesten Bürgersinns ist und namentlich viele an den großen Ein- und Ausfallstraßen lebende Kinder Beckers stolzes Bonmot längst tapfer mit medizinischem Leben erfüllen .
 1	Und	*	*	*	*
 2	das	*	*	*	*
 3	wohlgemerkt	*	*	*	*
@@ -1288,11 +1324,11 @@
 8	wo	*	*	*	*
 9	"	*	*	*	*
 10	Benzin	*	*	*	*
-11	im	2	2	2	2
-12	Blut	2	2	2	2
+11	im	FIG	FIG	FIG	FIG
+12	Blut	FIG	FIG	FIG	FIG
 13	"	*	*	*	*
 14	zu	*	*	*	*
-15	haben	2	2	2	2
+15	haben	FIG	FIG	FIG	FIG
 16	,	*	*	*	*
 17	so	*	*	*	*
 18	wie	*	*	*	*

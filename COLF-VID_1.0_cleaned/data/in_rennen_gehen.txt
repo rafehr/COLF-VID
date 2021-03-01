@@ -1,8 +1,9 @@
 # tuepp_article_id = T890607.99
 # sent_id = 3798
+# text = Der Dollar , von den entäuschenden US-Arbeitslosenzahlen geschwächt , erhielt am Montag durch die politischen Ereignisse Unterstützung und ging in Tokio , Singapur und Hongkong nach starkem Auf und Ab halbwegs stabil aus dem Rennen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Dollar , von den entäuschenden US-Arbeitslosenzahlen geschwächt , erhielt am Montag durch die politischen Ereignisse Unterstützung und ging in Tokio , Singapur und Hongkong nach starkem Auf und Ab halbwegs stabil aus dem Rennen .
 1	Der	*	*	*	*
 2	Dollar	*	*	*	*
 3	,	*	*	*	*
@@ -21,7 +22,7 @@
 16	Ereignisse	*	*	*	*
 17	Unterstützung	*	*	*	*
 18	und	*	*	*	*
-19	ging	2	2	2	2
+19	ging	FIG	FIG	FIG	FIG
 20	in	*	*	*	*
 21	Tokio	*	*	*	*
 22	,	*	*	*	*
@@ -35,16 +36,17 @@
 30	Ab	*	*	*	*
 31	halbwegs	*	*	*	*
 32	stabil	*	*	*	*
-33	aus	2	2	2	2
+33	aus	FIG	FIG	FIG	FIG
 34	dem	*	*	*	*
-35	Rennen	2	2	2	2
+35	Rennen	FIG	FIG	FIG	FIG
 36	.	*	*	*	*
 
 # tuepp_article_id = T890117.78
 # sent_id = 3799
+# text = Ganz zu schweigen von der 21jährigen Deutschen Meisterin Petra Becker , die grippegeschwächt in die Rennen gegangen war , aber immerhin den Sprung ins Finale am Sonntag schaffte .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ganz zu schweigen von der 21jährigen Deutschen Meisterin Petra Becker , die grippegeschwächt in die Rennen gegangen war , aber immerhin den Sprung ins Finale am Sonntag schaffte .
 1	Ganz	*	*	*	*
 2	zu	*	*	*	*
 3	schweigen	*	*	*	*
@@ -58,10 +60,10 @@
 11	,	*	*	*	*
 12	die	*	*	*	*
 13	grippegeschwächt	*	*	*	*
-14	in	1	1	1	1
+14	in	LIT	LIT	LIT	LIT
 15	die	*	*	*	*
-16	Rennen	1	1	1	1
-17	gegangen	1	1	1	1
+16	Rennen	LIT	LIT	LIT	LIT
+17	gegangen	LIT	LIT	LIT	LIT
 18	war	*	*	*	*
 19	,	*	*	*	*
 20	aber	*	*	*	*
@@ -77,9 +79,10 @@
 
 # tuepp_article_id = T891113.59
 # sent_id = 3800
+# text = Der Beschluß , die geplante Parteikonferenz in einen Sonderparteitag umzuwandeln , geht in die gleiche Richtung : Er nimmt nicht nur Druck von Seiten der Parteibasis weg , sondern eröffnet auch die Möglichkeit , mit einer weniger kompromittierten Führungsmannschaft - vielleicht sogar einigen Frauen - und besser motivierten Mitgliedern ins politische Rennen zu gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Beschluß , die geplante Parteikonferenz in einen Sonderparteitag umzuwandeln , geht in die gleiche Richtung : Er nimmt nicht nur Druck von Seiten der Parteibasis weg , sondern eröffnet auch die Möglichkeit , mit einer weniger kompromittierten Führungsmannschaft - vielleicht sogar einigen Frauen - und besser motivierten Mitgliedern ins politische Rennen zu gehen .
 1	Der	*	*	*	*
 2	Beschluß	*	*	*	*
 3	,	*	*	*	*
@@ -129,18 +132,19 @@
 47	besser	*	*	*	*
 48	motivierten	*	*	*	*
 49	Mitgliedern	*	*	*	*
-50	ins	2	2	2	2
+50	ins	FIG	FIG	FIG	FIG
 51	politische	*	*	*	*
-52	Rennen	2	2	2	2
+52	Rennen	FIG	FIG	FIG	FIG
 53	zu	*	*	*	*
-54	gehen	2	2	2	2
+54	gehen	FIG	FIG	FIG	FIG
 55	.	*	*	*	*
 
 # tuepp_article_id = T910109.118
 # sent_id = 3801
+# text = Die deutschen DDR-Schwimmer besiegten schon 1986 in Madrid die Amerikaner , Steffen Zeßner ging somit als Titelverteidiger ins Rennen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die deutschen DDR-Schwimmer besiegten schon 1986 in Madrid die Amerikaner , Steffen Zeßner ging somit als Titelverteidiger ins Rennen .
 1	Die	*	*	*	*
 2	deutschen	*	*	*	*
 3	DDR-Schwimmer	*	*	*	*
@@ -154,27 +158,28 @@
 11	,	*	*	*	*
 12	Steffen	*	*	*	*
 13	Zeßner	*	*	*	*
-14	ging	1	1	1	1
+14	ging	LIT	LIT	LIT	LIT
 15	somit	*	*	*	*
 16	als	*	*	*	*
 17	Titelverteidiger	*	*	*	*
-18	ins	1	1	1	1
-19	Rennen	1	1	1	1
+18	ins	LIT	LIT	LIT	LIT
+19	Rennen	LIT	LIT	LIT	LIT
 20	.	*	*	*	*
 
 # tuepp_article_id = T910122.25
 # sent_id = 3802
+# text = Sie war eher schwach ins hessische Rennen gegangen : Das Ergebnis der Bundestagswahl war für die CDU nicht so , daß es ihr am Sonntag in Hessen den Rücken besonders hätte stärken können .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie war eher schwach ins hessische Rennen gegangen : Das Ergebnis der Bundestagswahl war für die CDU nicht so , daß es ihr am Sonntag in Hessen den Rücken besonders hätte stärken können .
 1	Sie	*	*	*	*
 2	war	*	*	*	*
 3	eher	*	*	*	*
 4	schwach	*	*	*	*
-5	ins	2	2	2	2
+5	ins	FIG	FIG	FIG	FIG
 6	hessische	*	*	*	*
-7	Rennen	2	2	2	2
-8	gegangen	2	2	2	2
+7	Rennen	FIG	FIG	FIG	FIG
+8	gegangen	FIG	FIG	FIG	FIG
 9	:	*	*	*	*
 10	Das	*	*	*	*
 11	Ergebnis	*	*	*	*
@@ -204,9 +209,10 @@
 
 # tuepp_article_id = T910311.143
 # sent_id = 3803
+# text = 1Ford ist dagegen nur mit verminderter Energie ins Rennen gegangen , 80 Millionen Dollar wurden in Ungarn investiert .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = 1Ford ist dagegen nur mit verminderter Energie ins Rennen gegangen , 80 Millionen Dollar wurden in Ungarn investiert .
 1	1Ford	*	*	*	*
 2	ist	*	*	*	*
 3	dagegen	*	*	*	*
@@ -214,9 +220,9 @@
 5	mit	*	*	*	*
 6	verminderter	*	*	*	*
 7	Energie	*	*	*	*
-8	ins	2	2	2	2
-9	Rennen	2	2	2	2
-10	gegangen	2	2	2	2
+8	ins	FIG	FIG	FIG	FIG
+9	Rennen	FIG	FIG	FIG	FIG
+10	gegangen	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	80	*	*	*	*
 13	Millionen	*	*	*	*
@@ -229,9 +235,10 @@
 
 # tuepp_article_id = T911107.58
 # sent_id = 3804
+# text = Im US-Bundesstaat von Pennsylvania schlug der nahezu unbekannte demokratische Kandidat Harris Wofford George Bushs ehemaligen Justizminister Richard Thornburgh , der als ehemaliger Gouverneur des Arbeiterstaates mit einem Vorsprung von über 40 % in den Meinungsumfragen ins Rennen gegangen war .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Im US-Bundesstaat von Pennsylvania schlug der nahezu unbekannte demokratische Kandidat Harris Wofford George Bushs ehemaligen Justizminister Richard Thornburgh , der als ehemaliger Gouverneur des Arbeiterstaates mit einem Vorsprung von über 40 % in den Meinungsumfragen ins Rennen gegangen war .
 1	Im	*	*	*	*
 2	US-Bundesstaat	*	*	*	*
 3	von	*	*	*	*
@@ -267,25 +274,26 @@
 33	in	*	*	*	*
 34	den	*	*	*	*
 35	Meinungsumfragen	*	*	*	*
-36	ins	2	2	2	2
-37	Rennen	2	2	2	2
-38	gegangen	2	2	2	2
+36	ins	FIG	FIG	FIG	FIG
+37	Rennen	FIG	FIG	FIG	FIG
+38	gegangen	FIG	FIG	FIG	FIG
 39	war	*	*	*	*
 40	.	*	*	*	*
 
 # tuepp_article_id = T910216.124
 # sent_id = 3805
+# text = Hoppe sollte in der Vierer-Entscheidung ins Rennen gehen , bummelte aber im Training .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hoppe sollte in der Vierer-Entscheidung ins Rennen gehen , bummelte aber im Training .
 1	Hoppe	*	*	*	*
 2	sollte	*	*	*	*
 3	in	*	*	*	*
 4	der	*	*	*	*
 5	Vierer-Entscheidung	*	*	*	*
-6	ins	1	1	1	1
-7	Rennen	1	1	1	1
-8	gehen	1	1	1	1
+6	ins	LIT	LIT	LIT	LIT
+7	Rennen	LIT	LIT	LIT	LIT
+8	gehen	LIT	LIT	LIT	LIT
 9	,	*	*	*	*
 10	bummelte	*	*	*	*
 11	aber	*	*	*	*
@@ -295,14 +303,15 @@
 
 # tuepp_article_id = T900507.255
 # sent_id = 3806
+# text = Neben den bekannten Parteien gingen zwei Bürgerinitiativen aus Babelsberg und der Deutsche Anglerverband in das Rennen um die Wählergunst .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Neben den bekannten Parteien gingen zwei Bürgerinitiativen aus Babelsberg und der Deutsche Anglerverband in das Rennen um die Wählergunst .
 1	Neben	*	*	*	*
 2	den	*	*	*	*
 3	bekannten	*	*	*	*
 4	Parteien	*	*	*	*
-5	gingen	2	2	2	2
+5	gingen	FIG	FIG	FIG	FIG
 6	zwei	*	*	*	*
 7	Bürgerinitiativen	*	*	*	*
 8	aus	*	*	*	*
@@ -311,9 +320,9 @@
 11	der	*	*	*	*
 12	Deutsche	*	*	*	*
 13	Anglerverband	*	*	*	*
-14	in	2	2	2	2
+14	in	FIG	FIG	FIG	FIG
 15	das	*	*	*	*
-16	Rennen	2	2	2	2
+16	Rennen	FIG	FIG	FIG	FIG
 17	um	*	*	*	*
 18	die	*	*	*	*
 19	Wählergunst	*	*	*	*
@@ -321,9 +330,10 @@
 
 # tuepp_article_id = T901205.106
 # sent_id = 3807
+# text = Wenn er wirklich - wie er angibt - psychisch und physisch dazu nicht in der Lage sein sollte , dann hätte er sich auch nicht überreden lassen dürfen , als Kanzlerkandidat ins Rennen zu gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wenn er wirklich - wie er angibt - psychisch und physisch dazu nicht in der Lage sein sollte , dann hätte er sich auch nicht überreden lassen dürfen , als Kanzlerkandidat ins Rennen zu gehen .
 1	Wenn	*	*	*	*
 2	er	*	*	*	*
 3	wirklich	*	*	*	*
@@ -355,17 +365,18 @@
 29	,	*	*	*	*
 30	als	*	*	*	*
 31	Kanzlerkandidat	*	*	*	*
-32	ins	2	2	2	2
-33	Rennen	2	2	2	2
+32	ins	FIG	FIG	FIG	FIG
+33	Rennen	FIG	FIG	FIG	FIG
 34	zu	*	*	*	*
-35	gehen	2	2	2	2
+35	gehen	FIG	FIG	FIG	FIG
 36	.	*	*	*	*
 
 # tuepp_article_id = T901211.84
 # sent_id = 3808
+# text = In der zweiten Runde der Parlamentswahlen in Ägypten am vergangenen Donnerstag kämpfte die regierende Nationaldemokratische Partei ( NDP ) vor allem mit sich selber : Ihren offiziellen Kandidaten standen " Unabhängige " gegenüber , die auf eigene Kosten ins Rennen gegangen waren , nachdem die NDP ihnen die Unterstützung verweigert hatte .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In der zweiten Runde der Parlamentswahlen in Ägypten am vergangenen Donnerstag kämpfte die regierende Nationaldemokratische Partei ( NDP ) vor allem mit sich selber : Ihren offiziellen Kandidaten standen " Unabhängige " gegenüber , die auf eigene Kosten ins Rennen gegangen waren , nachdem die NDP ihnen die Unterstützung verweigert hatte .
 1	In	*	*	*	*
 2	der	*	*	*	*
 3	zweiten	*	*	*	*
@@ -404,9 +415,9 @@
 36	auf	*	*	*	*
 37	eigene	*	*	*	*
 38	Kosten	*	*	*	*
-39	ins	2	2	2	2
-40	Rennen	2	2	2	2
-41	gegangen	2	2	2	2
+39	ins	FIG	FIG	FIG	FIG
+40	Rennen	FIG	FIG	FIG	FIG
+41	gegangen	FIG	FIG	FIG	FIG
 42	waren	*	*	*	*
 43	,	*	*	*	*
 44	nachdem	*	*	*	*
@@ -421,24 +432,26 @@
 
 # tuepp_article_id = T900807.32
 # sent_id = 3809
+# text = Friedhelm Farthmann soll in Thüringen ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Friedhelm Farthmann soll in Thüringen ins Rennen gehen .
 1	Friedhelm	*	*	*	*
 2	Farthmann	*	*	*	*
 3	soll	*	*	*	*
 4	in	*	*	*	*
 5	Thüringen	*	*	*	*
-6	ins	2	2	2	2
-7	Rennen	2	2	2	2
-8	gehen	2	2	2	2
+6	ins	FIG	FIG	FIG	FIG
+7	Rennen	FIG	FIG	FIG	FIG
+8	gehen	FIG	FIG	FIG	FIG
 9	.	*	*	*	*
 
 # tuepp_article_id = T900827.30
 # sent_id = 3810
+# text = In Sachsen wird der politisierende Professor Biedenkopf für die CDU ins Rennen gegen die ungeliebte SPD-Bundesgeschäftsführerin Anke Fuchs gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Sachsen wird der politisierende Professor Biedenkopf für die CDU ins Rennen gegen die ungeliebte SPD-Bundesgeschäftsführerin Anke Fuchs gehen .
 1	In	*	*	*	*
 2	Sachsen	*	*	*	*
 3	wird	*	*	*	*
@@ -449,22 +462,23 @@
 8	für	*	*	*	*
 9	die	*	*	*	*
 10	CDU	*	*	*	*
-11	ins	2	2	2	2
-12	Rennen	2	2	2	2
+11	ins	FIG	FIG	FIG	FIG
+12	Rennen	FIG	FIG	FIG	FIG
 13	gegen	*	*	*	*
 14	die	*	*	*	*
 15	ungeliebte	*	*	*	*
 16	SPD-Bundesgeschäftsführerin	*	*	*	*
 17	Anke	*	*	*	*
 18	Fuchs	*	*	*	*
-19	gehen	2	2	2	2
+19	gehen	FIG	FIG	FIG	FIG
 20	.	*	*	*	*
 
 # tuepp_article_id = T921028.37
 # sent_id = 3811
+# text = Nicht wahr , freut er sich , das sei selbst bei den Grünen schwierig , als Außenseiter in das Rennen zu gehen und sich dann gegen längst getroffene Absprachen einfach durchzusetzen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nicht wahr , freut er sich , das sei selbst bei den Grünen schwierig , als Außenseiter in das Rennen zu gehen und sich dann gegen längst getroffene Absprachen einfach durchzusetzen .
 1	Nicht	*	*	*	*
 2	wahr	*	*	*	*
 3	,	*	*	*	*
@@ -482,11 +496,11 @@
 15	,	*	*	*	*
 16	als	*	*	*	*
 17	Außenseiter	*	*	*	*
-18	in	2	2	2	2
+18	in	FIG	FIG	FIG	FIG
 19	das	*	*	*	*
-20	Rennen	2	2	2	2
+20	Rennen	FIG	FIG	FIG	FIG
 21	zu	*	*	*	*
-22	gehen	2	2	2	2
+22	gehen	FIG	FIG	FIG	FIG
 23	und	*	*	*	*
 24	sich	*	*	*	*
 25	dann	*	*	*	*
@@ -500,19 +514,20 @@
 
 # tuepp_article_id = T920115.107
 # sent_id = 3812
+# text = Schweden als Veranstalter geht in GruppeI ebenso gesetzt ins Rennen wie Titelverteidiger Niederlande in GruppeII .
+# vid_types = in rennen gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Schweden als Veranstalter geht in GruppeI ebenso gesetzt ins Rennen wie Titelverteidiger Niederlande in GruppeII .
 1	Schweden	*	*	*	*
 2	als	*	*	*	*
 3	Veranstalter	*	*	*	*
-4	geht	2	2	2	2
+4	geht	FIG	FIG	FIG	FIG
 5	in	*	*	*	*
 6	GruppeI	*	*	*	*
 7	ebenso	*	*	*	*
 8	gesetzt	*	*	*	*
-9	ins	2	2	2	2
-10	Rennen	2	2	2	2
+9	ins	FIG	FIG	FIG	FIG
+10	Rennen	FIG	FIG	FIG	FIG
 11	wie	*	*	*	*
 12	Titelverteidiger	*	*	*	*
 13	Niederlande	*	*	*	*
@@ -522,9 +537,10 @@
 
 # tuepp_article_id = T920117.100
 # sent_id = 3813
+# text = Das stimmte auch , aber in der Bewältigung gab es dann doch erhebliche Unterschiede : Das russische Red-Star-Syndikat ging mit 13 Millionen Dollar ins Rennen , der Italiener Raul Gardini ließ sich den Spaß immerhin 150 Millionen kosten .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das stimmte auch , aber in der Bewältigung gab es dann doch erhebliche Unterschiede : Das russische Red-Star-Syndikat ging mit 13 Millionen Dollar ins Rennen , der Italiener Raul Gardini ließ sich den Spaß immerhin 150 Millionen kosten .
 1	Das	*	*	*	*
 2	stimmte	*	*	*	*
 3	auch	*	*	*	*
@@ -543,13 +559,13 @@
 16	Das	*	*	*	*
 17	russische	*	*	*	*
 18	Red-Star-Syndikat	*	*	*	*
-19	ging	2	2	1	2
+19	ging	FIG	FIG	LIT	FIG
 20	mit	*	*	*	*
 21	13	*	*	*	*
 22	Millionen	*	*	*	*
 23	Dollar	*	*	*	*
-24	ins	2	2	1	2
-25	Rennen	2	2	1	2
+24	ins	FIG	FIG	LIT	FIG
+25	Rennen	FIG	FIG	LIT	FIG
 26	,	*	*	*	*
 27	der	*	*	*	*
 28	Italiener	*	*	*	*
@@ -567,9 +583,10 @@
 
 # tuepp_article_id = T920109.65
 # sent_id = 3814
+# text = Seinen Parteifreunden , vor allem dem auf Mitterrands Ablösung in drei Jahren hoffenden Rocard , versicherte Fabius jedoch , er werden 1995 noch nicht ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Seinen Parteifreunden , vor allem dem auf Mitterrands Ablösung in drei Jahren hoffenden Rocard , versicherte Fabius jedoch , er werden 1995 noch nicht ins Rennen gehen .
 1	Seinen	*	*	*	*
 2	Parteifreunden	*	*	*	*
 3	,	*	*	*	*
@@ -594,22 +611,23 @@
 22	1995	*	*	*	*
 23	noch	*	*	*	*
 24	nicht	*	*	*	*
-25	ins	2	2	2	2
-26	Rennen	2	2	2	2
-27	gehen	2	2	2	2
+25	ins	FIG	FIG	FIG	FIG
+26	Rennen	FIG	FIG	FIG	FIG
+27	gehen	FIG	FIG	FIG	FIG
 28	.	*	*	*	*
 
 # tuepp_article_id = T920729.77
 # sent_id = 3815
+# text = Durchaus mit Gold-Ambitionen ins Rennen gegangen , brach Glücklich in der letzten Runde ein und kam schließlich nur auf den vierten Platz .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Durchaus mit Gold-Ambitionen ins Rennen gegangen , brach Glücklich in der letzten Runde ein und kam schließlich nur auf den vierten Platz .
 1	Durchaus	*	*	*	*
 2	mit	*	*	*	*
 3	Gold-Ambitionen	*	*	*	*
-4	ins	1	1	1	1
-5	Rennen	1	1	1	1
-6	gegangen	1	1	1	1
+4	ins	LIT	LIT	LIT	LIT
+5	Rennen	LIT	LIT	LIT	LIT
+6	gegangen	LIT	LIT	LIT	LIT
 7	,	*	*	*	*
 8	brach	*	*	*	*
 9	Glücklich	*	*	*	*
@@ -630,9 +648,10 @@
 
 # tuepp_article_id = T920217.103
 # sent_id = 3816
+# text = Dabei hatte die 19jährige Favoritin , die in dieser Saison schon zwei Abfahrten gewonnen hatte und mit der Startnummer 10 ins Rennen gegangen war , noch bei der letzen Zeitnahme vor der Zieleinfahrt die weitaus beste Zwischenzeit gehabt : stolze 17 Hundertstel schneller als die spätere Siegerin Kerrin Lee- Gartner aus Kanada .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dabei hatte die 19jährige Favoritin , die in dieser Saison schon zwei Abfahrten gewonnen hatte und mit der Startnummer 10 ins Rennen gegangen war , noch bei der letzen Zeitnahme vor der Zieleinfahrt die weitaus beste Zwischenzeit gehabt : stolze 17 Hundertstel schneller als die spätere Siegerin Kerrin Lee- Gartner aus Kanada .
 1	Dabei	*	*	*	*
 2	hatte	*	*	*	*
 3	die	*	*	*	*
@@ -653,9 +672,9 @@
 18	der	*	*	*	*
 19	Startnummer	*	*	*	*
 20	10	*	*	*	*
-21	ins	1	1	1	1
-22	Rennen	1	1	1	1
-23	gegangen	1	1	1	1
+21	ins	LIT	LIT	LIT	LIT
+22	Rennen	LIT	LIT	LIT	LIT
+23	gegangen	LIT	LIT	LIT	LIT
 24	war	*	*	*	*
 25	,	*	*	*	*
 26	noch	*	*	*	*
@@ -689,12 +708,13 @@
 
 # tuepp_article_id = T880614.60
 # sent_id = 3817
+# text = In Marseille gingen durchschnittlich zwei Drittel der bürgerlichen Stimmen vom ersten Wahlgang an die im Rennen gebliebenen Kandidaten der " Front National " .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Marseille gingen durchschnittlich zwei Drittel der bürgerlichen Stimmen vom ersten Wahlgang an die im Rennen gebliebenen Kandidaten der " Front National " .
 1	In	*	*	*	*
 2	Marseille	*	*	*	*
-3	gingen	2	2	2	2
+3	gingen	FIG	FIG	FIG	FIG
 4	durchschnittlich	*	*	*	*
 5	zwei	*	*	*	*
 6	Drittel	*	*	*	*
@@ -706,8 +726,8 @@
 12	Wahlgang	*	*	*	*
 13	an	*	*	*	*
 14	die	*	*	*	*
-15	im	2	2	2	2
-16	Rennen	2	2	2	2
+15	im	FIG	FIG	FIG	FIG
+16	Rennen	FIG	FIG	FIG	FIG
 17	gebliebenen	*	*	*	*
 18	Kandidaten	*	*	*	*
 19	der	*	*	*	*
@@ -719,9 +739,10 @@
 
 # tuepp_article_id = T870209.66
 # sent_id = 3818
+# text = Der nun gewählte Hernandez Mancha war dabei erst in letzter Minute ins Rennen gegangen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Der nun gewählte Hernandez Mancha war dabei erst in letzter Minute ins Rennen gegangen .
 1	Der	*	*	*	*
 2	nun	*	*	*	*
 3	gewählte	*	*	*	*
@@ -733,16 +754,17 @@
 9	in	*	*	*	*
 10	letzter	*	*	*	*
 11	Minute	*	*	*	*
-12	ins	2	2	2	2
-13	Rennen	2	2	2	2
-14	gegangen	2	2	2	2
+12	ins	FIG	FIG	FIG	FIG
+13	Rennen	FIG	FIG	FIG	FIG
+14	gegangen	FIG	FIG	FIG	FIG
 15	.	*	*	*	*
 
 # tuepp_article_id = T930506.95
 # sent_id = 3819
+# text = Ihnen verdankt er , daß er als Favorit in das Rennen um die Nachfolge Arthur Dunkels als Gatt-Generaldirektor geht .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ihnen verdankt er , daß er als Favorit in das Rennen um die Nachfolge Arthur Dunkels als Gatt-Generaldirektor geht .
 1	Ihnen	*	*	*	*
 2	verdankt	*	*	*	*
 3	er	*	*	*	*
@@ -751,9 +773,9 @@
 6	er	*	*	*	*
 7	als	*	*	*	*
 8	Favorit	*	*	*	*
-9	in	2	2	2	2
+9	in	FIG	FIG	FIG	FIG
 10	das	*	*	*	*
-11	Rennen	2	2	2	2
+11	Rennen	FIG	FIG	FIG	FIG
 12	um	*	*	*	*
 13	die	*	*	*	*
 14	Nachfolge	*	*	*	*
@@ -761,14 +783,15 @@
 16	Dunkels	*	*	*	*
 17	als	*	*	*	*
 18	Gatt-Generaldirektor	*	*	*	*
-19	geht	2	2	2	2
+19	geht	FIG	FIG	FIG	FIG
 20	.	*	*	*	*
 
 # tuepp_article_id = T930603.242
 # sent_id = 3820
+# text = Denkbar wären zum Beispiel zehn internationale Programme , in denen nicht mehr nach den bisherigen Kategorien zwangssortiert wird , und in denen neben geförderten Werken gleichberechtigt auch No-Budget-Produktionen und Trash ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Denkbar wären zum Beispiel zehn internationale Programme , in denen nicht mehr nach den bisherigen Kategorien zwangssortiert wird , und in denen neben geförderten Werken gleichberechtigt auch No-Budget-Produktionen und Trash ins Rennen gehen .
 1	Denkbar	*	*	*	*
 2	wären	*	*	*	*
 3	zum	*	*	*	*
@@ -799,24 +822,25 @@
 28	No-Budget-Produktionen	*	*	*	*
 29	und	*	*	*	*
 30	Trash	*	*	*	*
-31	ins	2	2	2	2
-32	Rennen	2	2	2	2
-33	gehen	2	2	2	2
+31	ins	FIG	FIG	FIG	FIG
+32	Rennen	FIG	FIG	FIG	FIG
+33	gehen	FIG	FIG	FIG	FIG
 34	.	*	*	*	*
 
 # tuepp_article_id = T930626.156
 # sent_id = 3821
+# text = In das zweite - unverschämte - Rennen ging er darum nur zum Schein .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In das zweite - unverschämte - Rennen ging er darum nur zum Schein .
-1	In	2	2	2	2
+1	In	FIG	FIG	FIG	FIG
 2	das	*	*	*	*
 3	zweite	*	*	*	*
 4	-	*	*	*	*
 5	unverschämte	*	*	*	*
 6	-	*	*	*	*
-7	Rennen	2	2	2	2
-8	ging	2	2	2	2
+7	Rennen	FIG	FIG	FIG	FIG
+8	ging	FIG	FIG	FIG	FIG
 9	er	*	*	*	*
 10	darum	*	*	*	*
 11	nur	*	*	*	*
@@ -826,9 +850,10 @@
 
 # tuepp_article_id = T930604.189
 # sent_id = 3822
+# text = Daß die SPD mit der Leiterin des Bremer Brüssel-Büros Karin Jöns eine qualifizierte Kandidatin hat , die sich bestens in der Brüsseler Politik auskennt , wiegt offensichtlich wenig , wenn Kandidaten des eigenen Unterbezirks oder Ortsvereins ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß die SPD mit der Leiterin des Bremer Brüssel-Büros Karin Jöns eine qualifizierte Kandidatin hat , die sich bestens in der Brüsseler Politik auskennt , wiegt offensichtlich wenig , wenn Kandidaten des eigenen Unterbezirks oder Ortsvereins ins Rennen gehen .
 1	Daß	*	*	*	*
 2	die	*	*	*	*
 3	SPD	*	*	*	*
@@ -865,16 +890,17 @@
 34	Unterbezirks	*	*	*	*
 35	oder	*	*	*	*
 36	Ortsvereins	*	*	*	*
-37	ins	2	2	2	2
-38	Rennen	2	2	2	2
-39	gehen	2	2	2	2
+37	ins	FIG	FIG	FIG	FIG
+38	Rennen	FIG	FIG	FIG	FIG
+39	gehen	FIG	FIG	FIG	FIG
 40	.	*	*	*	*
 
 # tuepp_article_id = T930114.28
 # sent_id = 3823
+# text = Sie wollen in 480 der 577 Wahlkreise mit gemeinsamen Kandidaten ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie wollen in 480 der 577 Wahlkreise mit gemeinsamen Kandidaten ins Rennen gehen .
 1	Sie	*	*	*	*
 2	wollen	*	*	*	*
 3	in	*	*	*	*
@@ -885,23 +911,24 @@
 8	mit	*	*	*	*
 9	gemeinsamen	*	*	*	*
 10	Kandidaten	*	*	*	*
-11	ins	2	2	2	2
-12	Rennen	2	2	2	2
-13	gehen	2	2	2	2
+11	ins	FIG	FIG	FIG	FIG
+12	Rennen	FIG	FIG	FIG	FIG
+13	gehen	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T930701.228
 # sent_id = 3824
+# text = Die Pferde gehen in das erste Rennen - eine Amateurveranstaltung , benannt nach dem Rennclubmitglied Otto Traun .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Pferde gehen in das erste Rennen - eine Amateurveranstaltung , benannt nach dem Rennclubmitglied Otto Traun .
 1	Die	*	*	*	*
 2	Pferde	*	*	*	*
-3	gehen	1	1	1	1
-4	in	1	1	1	1
+3	gehen	LIT	LIT	LIT	LIT
+4	in	LIT	LIT	LIT	LIT
 5	das	*	*	*	*
 6	erste	*	*	*	*
-7	Rennen	1	1	1	1
+7	Rennen	LIT	LIT	LIT	LIT
 8	-	*	*	*	*
 9	eine	*	*	*	*
 10	Amateurveranstaltung	*	*	*	*
@@ -916,9 +943,10 @@
 
 # tuepp_article_id = T930308.111
 # sent_id = 3825
+# text = Wieder anders in den sechziger Jahren : Jeder Titel ging in doppelter Version ins Rennen , eine wurde vorgetragen von einem Einheimischen , die andere von einem Gast aus dem Ausland .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Wieder anders in den sechziger Jahren : Jeder Titel ging in doppelter Version ins Rennen , eine wurde vorgetragen von einem Einheimischen , die andere von einem Gast aus dem Ausland .
 1	Wieder	*	*	*	*
 2	anders	*	*	*	*
 3	in	*	*	*	*
@@ -928,12 +956,12 @@
 7	:	*	*	*	*
 8	Jeder	*	*	*	*
 9	Titel	*	*	*	*
-10	ging	2	2	2	2
+10	ging	FIG	FIG	FIG	FIG
 11	in	*	*	*	*
 12	doppelter	*	*	*	*
 13	Version	*	*	*	*
-14	ins	2	2	2	2
-15	Rennen	2	2	2	2
+14	ins	FIG	FIG	FIG	FIG
+15	Rennen	FIG	FIG	FIG	FIG
 16	,	*	*	*	*
 17	eine	*	*	*	*
 18	wurde	*	*	*	*
@@ -954,9 +982,10 @@
 
 # tuepp_article_id = T931104.75
 # sent_id = 3826
+# text = Terry war laut Meinungsumfragen mit großem Vorsprung in dieses Rennen um die Nachfolge des demokratischen Gouverneurs Douglas Wilder gegangen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Terry war laut Meinungsumfragen mit großem Vorsprung in dieses Rennen um die Nachfolge des demokratischen Gouverneurs Douglas Wilder gegangen .
 1	Terry	*	*	*	*
 2	war	*	*	*	*
 3	laut	*	*	*	*
@@ -964,9 +993,9 @@
 5	mit	*	*	*	*
 6	großem	*	*	*	*
 7	Vorsprung	*	*	*	*
-8	in	2	2	2	2
+8	in	FIG	FIG	FIG	FIG
 9	dieses	*	*	*	*
-10	Rennen	2	2	2	2
+10	Rennen	FIG	FIG	FIG	FIG
 11	um	*	*	*	*
 12	die	*	*	*	*
 13	Nachfolge	*	*	*	*
@@ -975,14 +1004,15 @@
 16	Gouverneurs	*	*	*	*
 17	Douglas	*	*	*	*
 18	Wilder	*	*	*	*
-19	gegangen	2	2	2	2
+19	gegangen	FIG	FIG	FIG	FIG
 20	.	*	*	*	*
 
 # tuepp_article_id = T961024.117
 # sent_id = 3827
+# text = Und freut sich im Moment vor allem darüber , welchen Wirbel er damit in " seiner " SPD auslöste , die mit dem braven Parteisoldaten Rainer Brechtken ins Rennen gegangen war .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und freut sich im Moment vor allem darüber , welchen Wirbel er damit in " seiner " SPD auslöste , die mit dem braven Parteisoldaten Rainer Brechtken ins Rennen gegangen war .
 1	Und	*	*	*	*
 2	freut	*	*	*	*
 3	sich	*	*	*	*
@@ -1010,17 +1040,18 @@
 25	Parteisoldaten	*	*	*	*
 26	Rainer	*	*	*	*
 27	Brechtken	*	*	*	*
-28	ins	2	2	2	2
-29	Rennen	2	2	2	2
-30	gegangen	2	2	2	2
+28	ins	FIG	FIG	FIG	FIG
+29	Rennen	FIG	FIG	FIG	FIG
+30	gegangen	FIG	FIG	FIG	FIG
 31	war	*	*	*	*
 32	.	*	*	*	*
 
 # tuepp_article_id = T960917.100
 # sent_id = 3828
+# text = Niemand weiß , wer gegen Premierminister Ryutaro Hashimoto ins Rennen um das höchste Regierungsamt geht , geschweige denn welche Parteienkoalition in wenigen Wochen die Macht in Tokio übernimmt .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Niemand weiß , wer gegen Premierminister Ryutaro Hashimoto ins Rennen um das höchste Regierungsamt geht , geschweige denn welche Parteienkoalition in wenigen Wochen die Macht in Tokio übernimmt .
 1	Niemand	*	*	*	*
 2	weiß	*	*	*	*
 3	,	*	*	*	*
@@ -1029,13 +1060,13 @@
 6	Premierminister	*	*	*	*
 7	Ryutaro	*	*	*	*
 8	Hashimoto	*	*	*	*
-9	ins	2	2	2	2
-10	Rennen	2	2	2	2
+9	ins	FIG	FIG	FIG	FIG
+10	Rennen	FIG	FIG	FIG	FIG
 11	um	*	*	*	*
 12	das	*	*	*	*
 13	höchste	*	*	*	*
 14	Regierungsamt	*	*	*	*
-15	geht	2	2	2	2
+15	geht	FIG	FIG	FIG	FIG
 16	,	*	*	*	*
 17	geschweige	*	*	*	*
 18	denn	*	*	*	*
@@ -1053,17 +1084,18 @@
 
 # tuepp_article_id = T960119.26
 # sent_id = 3829
+# text = Simitis war zwar als Favorit ins Rennen gegangen , hatte aber in der ersten Wahlrunde nur 53 Stimmen erzielt .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Simitis war zwar als Favorit ins Rennen gegangen , hatte aber in der ersten Wahlrunde nur 53 Stimmen erzielt .
 1	Simitis	*	*	*	*
 2	war	*	*	*	*
 3	zwar	*	*	*	*
 4	als	*	*	*	*
 5	Favorit	*	*	*	*
-6	ins	2	2	2	2
-7	Rennen	2	2	2	2
-8	gegangen	2	2	2	2
+6	ins	FIG	FIG	FIG	FIG
+7	Rennen	FIG	FIG	FIG	FIG
+8	gegangen	FIG	FIG	FIG	FIG
 9	,	*	*	*	*
 10	hatte	*	*	*	*
 11	aber	*	*	*	*
@@ -1079,9 +1111,10 @@
 
 # tuepp_article_id = T960809.273
 # sent_id = 3830
+# text = Neben den etablierten Parteien CDU , SPD , Bündnis 90 / Die Grünen und FDP gehen 15 weitere Gruppierungen ins Rennen um die Gunst der WahlbürgerInnen in Gemeinden und Landkreisen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Neben den etablierten Parteien CDU , SPD , Bündnis 90 / Die Grünen und FDP gehen 15 weitere Gruppierungen ins Rennen um die Gunst der WahlbürgerInnen in Gemeinden und Landkreisen .
 1	Neben	*	*	*	*
 2	den	*	*	*	*
 3	etablierten	*	*	*	*
@@ -1097,12 +1130,12 @@
 13	Grünen	*	*	*	*
 14	und	*	*	*	*
 15	FDP	*	*	*	*
-16	gehen	2	2	2	2
+16	gehen	FIG	FIG	FIG	FIG
 17	15	*	*	*	*
 18	weitere	*	*	*	*
 19	Gruppierungen	*	*	*	*
-20	ins	2	2	2	2
-21	Rennen	2	2	2	2
+20	ins	FIG	FIG	FIG	FIG
+21	Rennen	FIG	FIG	FIG	FIG
 22	um	*	*	*	*
 23	die	*	*	*	*
 24	Gunst	*	*	*	*
@@ -1116,9 +1149,10 @@
 
 # tuepp_article_id = T960222.93
 # sent_id = 3831
+# text = Doch in New Hampshire entscheidet sich meist , ob ein Kandidat mit Rückenwind oder mit Beulen ins Rennen durch die anderen Bundesstaaten geht .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch in New Hampshire entscheidet sich meist , ob ein Kandidat mit Rückenwind oder mit Beulen ins Rennen durch die anderen Bundesstaaten geht .
 1	Doch	*	*	*	*
 2	in	*	*	*	*
 3	New	*	*	*	*
@@ -1135,28 +1169,29 @@
 14	oder	*	*	*	*
 15	mit	*	*	*	*
 16	Beulen	*	*	*	*
-17	ins	2	2	2	2
-18	Rennen	2	2	2	2
+17	ins	FIG	FIG	FIG	FIG
+18	Rennen	FIG	FIG	FIG	FIG
 19	durch	*	*	*	*
 20	die	*	*	*	*
 21	anderen	*	*	*	*
 22	Bundesstaaten	*	*	*	*
-23	geht	2	2	2	2
+23	geht	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T980518.135
 # sent_id = 3832
+# text = Telekom-Star Riis war ohnehin nur ins Rennen gegangen , um sich bei einer für ihn mittelschweren Rundfahrt über zehn Etappen und 1.608 km nach einer Handverletzung im Frühjahr für die Tour in Form zu bringen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Telekom-Star Riis war ohnehin nur ins Rennen gegangen , um sich bei einer für ihn mittelschweren Rundfahrt über zehn Etappen und 1.608 km nach einer Handverletzung im Frühjahr für die Tour in Form zu bringen .
 1	Telekom-Star	*	*	*	*
 2	Riis	*	*	*	*
 3	war	*	*	*	*
 4	ohnehin	*	*	*	*
 5	nur	*	*	*	*
-6	ins	1	1	1	1
-7	Rennen	1	1	1	1
-8	gegangen	1	1	1	1
+6	ins	LIT	LIT	LIT	LIT
+7	Rennen	LIT	LIT	LIT	LIT
+8	gegangen	LIT	LIT	LIT	LIT
 9	,	*	*	*	*
 10	um	*	*	*	*
 11	sich	*	*	*	*
@@ -1188,9 +1223,10 @@
 
 # tuepp_article_id = T981009.185
 # sent_id = 3833
+# text = Statt bloß auf die Urwahl im Januar zu schielen und dabei mit einem ( faulen ) Kompromißkadidaten ins eigentliche Rennen um die Abgeordnetenhauswahl im Herbst 1999 zu gehen , sollte in der Partei der Diskurs um Inhalte und Personen erst einmal beginnen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Statt bloß auf die Urwahl im Januar zu schielen und dabei mit einem ( faulen ) Kompromißkadidaten ins eigentliche Rennen um die Abgeordnetenhauswahl im Herbst 1999 zu gehen , sollte in der Partei der Diskurs um Inhalte und Personen erst einmal beginnen .
 1	Statt	*	*	*	*
 2	bloß	*	*	*	*
 3	auf	*	*	*	*
@@ -1208,9 +1244,9 @@
 15	faulen	*	*	*	*
 16	)	*	*	*	*
 17	Kompromißkadidaten	*	*	*	*
-18	ins	2	2	2	2
+18	ins	FIG	FIG	FIG	FIG
 19	eigentliche	*	*	*	*
-20	Rennen	2	2	2	2
+20	Rennen	FIG	FIG	FIG	FIG
 21	um	*	*	*	*
 22	die	*	*	*	*
 23	Abgeordnetenhauswahl	*	*	*	*
@@ -1218,7 +1254,7 @@
 25	Herbst	*	*	*	*
 26	1999	*	*	*	*
 27	zu	*	*	*	*
-28	gehen	2	2	2	2
+28	gehen	FIG	FIG	FIG	FIG
 29	,	*	*	*	*
 30	sollte	*	*	*	*
 31	in	*	*	*	*
@@ -1237,9 +1273,10 @@
 
 # tuepp_article_id = T980917.109
 # sent_id = 3834
+# text = New York ( AP / AFP ) - Die Demokraten im US-Staat New York gehen mit Charles Schumer in das Rennen gegen den republikanischen Senator Alfonse D'Amato .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = New York ( AP / AFP ) - Die Demokraten im US-Staat New York gehen mit Charles Schumer in das Rennen gegen den republikanischen Senator Alfonse D'Amato .
 1	New	*	*	*	*
 2	York	*	*	*	*
 3	(	*	*	*	*
@@ -1254,13 +1291,13 @@
 12	US-Staat	*	*	*	*
 13	New	*	*	*	*
 14	York	*	*	*	*
-15	gehen	2	2	2	2
+15	gehen	FIG	FIG	FIG	FIG
 16	mit	*	*	*	*
 17	Charles	*	*	*	*
 18	Schumer	*	*	*	*
-19	in	2	2	2	2
+19	in	FIG	FIG	FIG	FIG
 20	das	*	*	*	*
-21	Rennen	2	2	2	2
+21	Rennen	FIG	FIG	FIG	FIG
 22	gegen	*	*	*	*
 23	den	*	*	*	*
 24	republikanischen	*	*	*	*
@@ -1271,9 +1308,10 @@
 
 # tuepp_article_id = T980131.374
 # sent_id = 3835
+# text = Die neuen Länder weisen aufgrund ihrer Geschichte eine extrem niedrige Wirtschafts- und Finanzkraft aus , sie würden mit einem gewaltigen Handicap in das Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die neuen Länder weisen aufgrund ihrer Geschichte eine extrem niedrige Wirtschafts- und Finanzkraft aus , sie würden mit einem gewaltigen Handicap in das Rennen gehen .
 1	Die	*	*	*	*
 2	neuen	*	*	*	*
 3	Länder	*	*	*	*
@@ -1295,17 +1333,18 @@
 19	einem	*	*	*	*
 20	gewaltigen	*	*	*	*
 21	Handicap	*	*	*	*
-22	in	2	2	2	2
+22	in	FIG	FIG	FIG	FIG
 23	das	*	*	*	*
-24	Rennen	2	2	2	2
-25	gehen	2	2	2	2
+24	Rennen	FIG	FIG	FIG	FIG
+25	gehen	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T980307.234
 # sent_id = 3836
+# text = Die Wut der Basis hatte der Bundesvorstand in dieser Woche noch damit geschürt , daß PDS- Wahlkampfleiter Andre Brie angekündigt hatte , am kommenden Dienstag sämtliche Kandidaten für den Bundestagswahlkampf zu präsentieren - und somit auch jenen , der am 27. September gegen Wolfgang Thierse ( SPD ) , Günter Nooke ( CDU ) und Marianne Birthler ( Bündnisgrüne ) ins Rennen gehen soll .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Wut der Basis hatte der Bundesvorstand in dieser Woche noch damit geschürt , daß PDS- Wahlkampfleiter Andre Brie angekündigt hatte , am kommenden Dienstag sämtliche Kandidaten für den Bundestagswahlkampf zu präsentieren - und somit auch jenen , der am 27. September gegen Wolfgang Thierse ( SPD ) , Günter Nooke ( CDU ) und Marianne Birthler ( Bündnisgrüne ) ins Rennen gehen soll .
 1	Die	*	*	*	*
 2	Wut	*	*	*	*
 3	der	*	*	*	*
@@ -1367,17 +1406,18 @@
 59	(	*	*	*	*
 60	Bündnisgrüne	*	*	*	*
 61	)	*	*	*	*
-62	ins	2	2	2	2
-63	Rennen	2	2	2	2
-64	gehen	2	2	2	2
+62	ins	FIG	FIG	FIG	FIG
+63	Rennen	FIG	FIG	FIG	FIG
+64	gehen	FIG	FIG	FIG	FIG
 65	soll	*	*	*	*
 66	.	*	*	*	*
 
 # tuepp_article_id = T980312.283
 # sent_id = 3837
+# text = In diesem Jahr werden erstmals Läufer , Rollstuhlfahrer und Inline-Skater gemeinsam ins 42,195 Kilometer lange Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In diesem Jahr werden erstmals Läufer , Rollstuhlfahrer und Inline-Skater gemeinsam ins 42,195 Kilometer lange Rennen gehen .
 1	In	*	*	*	*
 2	diesem	*	*	*	*
 3	Jahr	*	*	*	*
@@ -1389,22 +1429,23 @@
 9	und	*	*	*	*
 10	Inline-Skater	*	*	*	*
 11	gemeinsam	*	*	*	*
-12	ins	1	1	1	1
+12	ins	LIT	LIT	LIT	LIT
 13	42,195	*	*	*	*
 14	Kilometer	*	*	*	*
 15	lange	*	*	*	*
-16	Rennen	1	1	1	1
-17	gehen	1	1	1	1
+16	Rennen	LIT	LIT	LIT	LIT
+17	gehen	LIT	LIT	LIT	LIT
 18	.	*	*	*	*
 
 # tuepp_article_id = T980303.131
 # sent_id = 3838
+# text = Gerhard Schröder geht nach seinem furiosen Sieg in Hannover nun auch gegen Kohl ins Rennen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Gerhard Schröder geht nach seinem furiosen Sieg in Hannover nun auch gegen Kohl ins Rennen .
 1	Gerhard	*	*	*	*
 2	Schröder	*	*	*	*
-3	geht	2	2	2	2
+3	geht	FIG	FIG	FIG	FIG
 4	nach	*	*	*	*
 5	seinem	*	*	*	*
 6	furiosen	*	*	*	*
@@ -1415,15 +1456,16 @@
 11	auch	*	*	*	*
 12	gegen	*	*	*	*
 13	Kohl	*	*	*	*
-14	ins	2	2	2	2
-15	Rennen	2	2	2	2
+14	ins	FIG	FIG	FIG	FIG
+15	Rennen	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T971015.22
 # sent_id = 3839
+# text = An zwei oder drei Prozent weniger in Niedersachsen werde sich nicht entscheiden , wer für die SPD bundesweit ins Rennen geht .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = An zwei oder drei Prozent weniger in Niedersachsen werde sich nicht entscheiden , wer für die SPD bundesweit ins Rennen geht .
 1	An	*	*	*	*
 2	zwei	*	*	*	*
 3	oder	*	*	*	*
@@ -1442,16 +1484,17 @@
 16	die	*	*	*	*
 17	SPD	*	*	*	*
 18	bundesweit	*	*	*	*
-19	ins	2	2	2	2
-20	Rennen	2	2	2	2
-21	geht	2	2	2	2
+19	ins	FIG	FIG	FIG	FIG
+20	Rennen	FIG	FIG	FIG	FIG
+21	geht	FIG	FIG	FIG	FIG
 22	.	*	*	*	*
 
 # tuepp_article_id = T971029.67
 # sent_id = 3840
+# text = Oder geht man auf Nummer Sicher und läßt noch einmal den mittlerweile 68jährigen Urbaniak ins Rennen gehen , der in der nächsten Legislaturperiode gute Chancen hat , Alterspräsident des Bundestages zu werden ?
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Oder geht man auf Nummer Sicher und läßt noch einmal den mittlerweile 68jährigen Urbaniak ins Rennen gehen , der in der nächsten Legislaturperiode gute Chancen hat , Alterspräsident des Bundestages zu werden ?
 1	Oder	*	*	*	*
 2	geht	*	*	*	*
 3	man	*	*	*	*
@@ -1466,9 +1509,9 @@
 12	mittlerweile	*	*	*	*
 13	68jährigen	*	*	*	*
 14	Urbaniak	*	*	*	*
-15	ins	2	2	2	2
-16	Rennen	2	2	2	2
-17	gehen	2	2	2	2
+15	ins	FIG	FIG	FIG	FIG
+16	Rennen	FIG	FIG	FIG	FIG
+17	gehen	FIG	FIG	FIG	FIG
 18	,	*	*	*	*
 19	der	*	*	*	*
 20	in	*	*	*	*
@@ -1488,14 +1531,15 @@
 
 # tuepp_article_id = T971029.187
 # sent_id = 3841
+# text = Als Kandidat der SPD geht der Parteivize und das ostdeutsches Gewissen der Sozialdemokratie , Wolfgang Thierse , ins Rennen um ein Direktmandat , die Bündnisgrünen wollen von dort - nachdem Marianne Birthler nicht gegen Thierse kandidieren mag - dennoch eine Ostdeutsche in den Bundestag schicken .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als Kandidat der SPD geht der Parteivize und das ostdeutsches Gewissen der Sozialdemokratie , Wolfgang Thierse , ins Rennen um ein Direktmandat , die Bündnisgrünen wollen von dort - nachdem Marianne Birthler nicht gegen Thierse kandidieren mag - dennoch eine Ostdeutsche in den Bundestag schicken .
 1	Als	*	*	*	*
 2	Kandidat	*	*	*	*
 3	der	*	*	*	*
 4	SPD	*	*	*	*
-5	geht	2	2	2	2
+5	geht	FIG	FIG	FIG	FIG
 6	der	*	*	*	*
 7	Parteivize	*	*	*	*
 8	und	*	*	*	*
@@ -1508,8 +1552,8 @@
 15	Wolfgang	*	*	*	*
 16	Thierse	*	*	*	*
 17	,	*	*	*	*
-18	ins	2	2	2	2
-19	Rennen	2	2	2	2
+18	ins	FIG	FIG	FIG	FIG
+19	Rennen	FIG	FIG	FIG	FIG
 20	um	*	*	*	*
 21	ein	*	*	*	*
 22	Direktmandat	*	*	*	*
@@ -1540,9 +1584,10 @@
 
 # tuepp_article_id = T970924.133
 # sent_id = 3842
+# text = Der Giro-Sieger war schon mit einer Magen-Darm-Grippe ins Rennen gegangen , kassierte nach einem Schwächeanfall in der ersten Woche fast eine halbe Stunde Rückstand , hielt aber dennoch durch und ließ sich letzte Woche auch durch die Geburt seines Sohnes ( " er ist so häßlich wie ich " ) nicht stoppen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Giro-Sieger war schon mit einer Magen-Darm-Grippe ins Rennen gegangen , kassierte nach einem Schwächeanfall in der ersten Woche fast eine halbe Stunde Rückstand , hielt aber dennoch durch und ließ sich letzte Woche auch durch die Geburt seines Sohnes ( " er ist so häßlich wie ich " ) nicht stoppen .
 1	Der	*	*	*	*
 2	Giro-Sieger	*	*	*	*
 3	war	*	*	*	*
@@ -1550,9 +1595,9 @@
 5	mit	*	*	*	*
 6	einer	*	*	*	*
 7	Magen-Darm-Grippe	*	*	*	*
-8	ins	1	1	1	1
-9	Rennen	1	1	1	1
-10	gegangen	1	1	1	1
+8	ins	LIT	LIT	LIT	LIT
+9	Rennen	LIT	LIT	LIT	LIT
+10	gegangen	LIT	LIT	LIT	LIT
 11	,	*	*	*	*
 12	kassierte	*	*	*	*
 13	nach	*	*	*	*
@@ -1599,9 +1644,10 @@
 
 # tuepp_article_id = T970929.189
 # sent_id = 3843
+# text = In der PDS-Hochburg Marzahn / Hellersdorf wird die stellvertretende Kreisvorsitzende von Marzahn , Kerstin Raschke , ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In der PDS-Hochburg Marzahn / Hellersdorf wird die stellvertretende Kreisvorsitzende von Marzahn , Kerstin Raschke , ins Rennen gehen .
 1	In	*	*	*	*
 2	der	*	*	*	*
 3	PDS-Hochburg	*	*	*	*
@@ -1618,16 +1664,17 @@
 14	Kerstin	*	*	*	*
 15	Raschke	*	*	*	*
 16	,	*	*	*	*
-17	ins	2	2	2	2
-18	Rennen	2	2	2	2
-19	gehen	2	2	2	2
+17	ins	FIG	FIG	FIG	FIG
+18	Rennen	FIG	FIG	FIG	FIG
+19	gehen	FIG	FIG	FIG	FIG
 20	.	*	*	*	*
 
 # tuepp_article_id = T970227.143
 # sent_id = 3844
+# text = Stuttgart ( dpa ) - Der Deutsche Leichtathletik-Verband ( DLV ) muß bei den Hallen-Weltmeisterschaften vom 7. bis 9. März in Paris ohne Dieter Baumann ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Stuttgart ( dpa ) - Der Deutsche Leichtathletik-Verband ( DLV ) muß bei den Hallen-Weltmeisterschaften vom 7. bis 9. März in Paris ohne Dieter Baumann ins Rennen gehen .
 1	Stuttgart	*	*	*	*
 2	(	*	*	*	*
 3	dpa	*	*	*	*
@@ -1655,20 +1702,21 @@
 25	ohne	*	*	*	*
 26	Dieter	*	*	*	*
 27	Baumann	*	*	*	*
-28	ins	2	1	1	1
-29	Rennen	2	1	1	1
-30	gehen	2	1	1	1
+28	ins	FIG	LIT	LIT	LIT
+29	Rennen	FIG	LIT	LIT	LIT
+30	gehen	FIG	LIT	LIT	LIT
 31	.	*	*	*	*
 
 # tuepp_article_id = T940919.121
 # sent_id = 3845
+# text = Streppelhoff / Hoeltzenbein gingen nach der Devise " alles oder nichts " in das Rennen und legten mit einer 38er-Schlagfrequenz los .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Streppelhoff / Hoeltzenbein gingen nach der Devise " alles oder nichts " in das Rennen und legten mit einer 38er-Schlagfrequenz los .
 1	Streppelhoff	*	*	*	*
 2	/	*	*	*	*
 3	Hoeltzenbein	*	*	*	*
-4	gingen	1	1	1	1
+4	gingen	LIT	LIT	LIT	LIT
 5	nach	*	*	*	*
 6	der	*	*	*	*
 7	Devise	*	*	*	*
@@ -1677,9 +1725,9 @@
 10	oder	*	*	*	*
 11	nichts	*	*	*	*
 12	"	*	*	*	*
-13	in	1	1	1	1
+13	in	LIT	LIT	LIT	LIT
 14	das	*	*	*	*
-15	Rennen	1	1	1	1
+15	Rennen	LIT	LIT	LIT	LIT
 16	und	*	*	*	*
 17	legten	*	*	*	*
 18	mit	*	*	*	*
@@ -1690,9 +1738,10 @@
 
 # tuepp_article_id = T940929.202
 # sent_id = 3846
+# text = Blauauge Paul Newman sowie Regisseur und Autor Robert Benton könnten mit " Nobody's Fool " ins Rennen gehen , und Sir Anthony Hopkins ' Leistung in " Willkommen in Welville " gilt als stark oscarverdächtig .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Blauauge Paul Newman sowie Regisseur und Autor Robert Benton könnten mit " Nobody's Fool " ins Rennen gehen , und Sir Anthony Hopkins ' Leistung in " Willkommen in Welville " gilt als stark oscarverdächtig .
 1	Blauauge	*	*	*	*
 2	Paul	*	*	*	*
 3	Newman	*	*	*	*
@@ -1709,9 +1758,9 @@
 14	's	*	*	*	*
 15	Fool	*	*	*	*
 16	"	*	*	*	*
-17	ins	2	2	2	2
-18	Rennen	2	2	2	2
-19	gehen	2	2	2	2
+17	ins	FIG	FIG	FIG	FIG
+18	Rennen	FIG	FIG	FIG	FIG
+19	gehen	FIG	FIG	FIG	FIG
 20	,	*	*	*	*
 21	und	*	*	*	*
 22	Sir	*	*	*	*
@@ -1733,20 +1782,21 @@
 
 # tuepp_article_id = T940818.73
 # sent_id = 3847
+# text = Er geht nun mit dem Stigma eines Verlierers in dieses Rennen - falls sich der 78jährige Politiker überhaupt noch der Wahl stellt .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Er geht nun mit dem Stigma eines Verlierers in dieses Rennen - falls sich der 78jährige Politiker überhaupt noch der Wahl stellt .
 1	Er	*	*	*	*
-2	geht	2	2	2	2
+2	geht	FIG	FIG	FIG	FIG
 3	nun	*	*	*	*
 4	mit	*	*	*	*
 5	dem	*	*	*	*
 6	Stigma	*	*	*	*
 7	eines	*	*	*	*
 8	Verlierers	*	*	*	*
-9	in	2	2	2	2
+9	in	FIG	FIG	FIG	FIG
 10	dieses	*	*	*	*
-11	Rennen	2	2	2	2
+11	Rennen	FIG	FIG	FIG	FIG
 12	-	*	*	*	*
 13	falls	*	*	*	*
 14	sich	*	*	*	*
@@ -1762,11 +1812,12 @@
 
 # tuepp_article_id = T940211.281
 # sent_id = 3848
+# text = Jetzt geht der HTHC nach nur einer Niederlage in der Bundesliga gegen Halbfinalgegner Limburger HC sowie Titelverteidiger Rot-Weiß Köln und Feldmeister Dürkheimer HC , die sich im zweiten Semifinale gegenüberstehen , als Favorit ins Rennen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Jetzt geht der HTHC nach nur einer Niederlage in der Bundesliga gegen Halbfinalgegner Limburger HC sowie Titelverteidiger Rot-Weiß Köln und Feldmeister Dürkheimer HC , die sich im zweiten Semifinale gegenüberstehen , als Favorit ins Rennen .
 1	Jetzt	*	*	*	*
-2	geht	2	2	2	2
+2	geht	FIG	FIG	FIG	FIG
 3	der	*	*	*	*
 4	HTHC	*	*	*	*
 5	nach	*	*	*	*
@@ -1798,41 +1849,43 @@
 31	,	*	*	*	*
 32	als	*	*	*	*
 33	Favorit	*	*	*	*
-34	ins	2	2	2	2
-35	Rennen	2	2	2	2
+34	ins	FIG	FIG	FIG	FIG
+35	Rennen	FIG	FIG	FIG	FIG
 36	.	*	*	*	*
 
 # tuepp_article_id = T940228.39
 # sent_id = 3849
+# text = Für die SPD geht in Berlin-Mitte Wolfgang Thierse ins Rennen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Für die SPD geht in Berlin-Mitte Wolfgang Thierse ins Rennen .
 1	Für	*	*	*	*
 2	die	*	*	*	*
 3	SPD	*	*	*	*
-4	geht	2	2	2	2
+4	geht	FIG	FIG	FIG	FIG
 5	in	*	*	*	*
 6	Berlin-Mitte	*	*	*	*
 7	Wolfgang	*	*	*	*
 8	Thierse	*	*	*	*
-9	ins	2	2	2	2
-10	Rennen	2	2	2	2
+9	ins	FIG	FIG	FIG	FIG
+10	Rennen	FIG	FIG	FIG	FIG
 11	.	*	*	*	*
 
 # tuepp_article_id = T950612.268
 # sent_id = 3850
+# text = Die Nummer zwei in Golfdeutschland ging gut ins Rennen , fiel am Schluß aber noch auf Rang 55 zurück und resümierte : " Es war schlimmer als schrecklich .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Nummer zwei in Golfdeutschland ging gut ins Rennen , fiel am Schluß aber noch auf Rang 55 zurück und resümierte : " Es war schlimmer als schrecklich .
 1	Die	*	*	*	*
 2	Nummer	*	*	*	*
 3	zwei	*	*	*	*
 4	in	*	*	*	*
 5	Golfdeutschland	*	*	*	*
-6	ging	2	2	2	2
+6	ging	FIG	FIG	FIG	FIG
 7	gut	*	*	*	*
-8	ins	2	2	2	2
-9	Rennen	2	2	2	2
+8	ins	FIG	FIG	FIG	FIG
+9	Rennen	FIG	FIG	FIG	FIG
 10	,	*	*	*	*
 11	fiel	*	*	*	*
 12	am	*	*	*	*
@@ -1856,9 +1909,10 @@
 
 # tuepp_article_id = T950603.244
 # sent_id = 3851
+# text = Darf Finanzsenator Manfred Fluß nach dem Absturz als Bürgermeisterkandidat jetzt bald wieder in seiner Firma Regenwürmer einführen , oder geht er als Bürgerschaftspräsident ins Rennen ?
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Darf Finanzsenator Manfred Fluß nach dem Absturz als Bürgermeisterkandidat jetzt bald wieder in seiner Firma Regenwürmer einführen , oder geht er als Bürgerschaftspräsident ins Rennen ?
 1	Darf	*	*	*	*
 2	Finanzsenator	*	*	*	*
 3	Manfred	*	*	*	*
@@ -1878,19 +1932,20 @@
 17	einführen	*	*	*	*
 18	,	*	*	*	*
 19	oder	*	*	*	*
-20	geht	2	2	2	2
+20	geht	FIG	FIG	FIG	FIG
 21	er	*	*	*	*
 22	als	*	*	*	*
 23	Bürgerschaftspräsident	*	*	*	*
-24	ins	2	2	2	2
-25	Rennen	2	2	2	2
+24	ins	FIG	FIG	FIG	FIG
+25	Rennen	FIG	FIG	FIG	FIG
 26	?	*	*	*	*
 
 # tuepp_article_id = T951016.199
 # sent_id = 3852
+# text = Die Ökologisch- Demokratische Partei ( ÖDP ) , stramm auf Anti-Abtreibungs- Kurs , geht mit einer Landesliste ins Rennen , schaffte es aber mangels Personal nur zur Aufstellung von Wahlkreisbewerbern in 8 der 24 Berliner Bezirke .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Ökologisch- Demokratische Partei ( ÖDP ) , stramm auf Anti-Abtreibungs- Kurs , geht mit einer Landesliste ins Rennen , schaffte es aber mangels Personal nur zur Aufstellung von Wahlkreisbewerbern in 8 der 24 Berliner Bezirke .
 1	Die	*	*	*	*
 2	Ökologisch-	*	*	*	*
 3	Demokratische	*	*	*	*
@@ -1904,12 +1959,12 @@
 11	Anti-Abtreibungs-	*	*	*	*
 12	Kurs	*	*	*	*
 13	,	*	*	*	*
-14	geht	2	2	2	2
+14	geht	FIG	FIG	FIG	FIG
 15	mit	*	*	*	*
 16	einer	*	*	*	*
 17	Landesliste	*	*	*	*
-18	ins	2	2	2	2
-19	Rennen	2	2	2	2
+18	ins	FIG	FIG	FIG	FIG
+19	Rennen	FIG	FIG	FIG	FIG
 20	,	*	*	*	*
 21	schaffte	*	*	*	*
 22	es	*	*	*	*
@@ -1931,9 +1986,10 @@
 
 # tuepp_article_id = T950731.63
 # sent_id = 3853
+# text = In über 70 Städten und Kommunen , so schätzt der Deutsche Städtetag , wollen lokale Unternehmen mit rechtlich eigenständigen Gesellschaften ins Rennen gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In über 70 Städten und Kommunen , so schätzt der Deutsche Städtetag , wollen lokale Unternehmen mit rechtlich eigenständigen Gesellschaften ins Rennen gehen .
 1	In	*	*	*	*
 2	über	*	*	*	*
 3	70	*	*	*	*
@@ -1954,16 +2010,17 @@
 18	rechtlich	*	*	*	*
 19	eigenständigen	*	*	*	*
 20	Gesellschaften	*	*	*	*
-21	ins	2	2	2	2
-22	Rennen	2	2	2	2
-23	gehen	2	2	2	2
+21	ins	FIG	FIG	FIG	FIG
+22	Rennen	FIG	FIG	FIG	FIG
+23	gehen	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T950811.224
 # sent_id = 3854
+# text = Die meisten stellen einfach neue Kreditforderungen , so als sei die Arbeiterpartei noch an der Macht , andere gehen gleich richtig ins kapitalistische Rennen , stürzen sich in finanzielle Transaktionen und fangen , ohne alle Gewissensbisse , die wildesten Börsenspekulationen an .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die meisten stellen einfach neue Kreditforderungen , so als sei die Arbeiterpartei noch an der Macht , andere gehen gleich richtig ins kapitalistische Rennen , stürzen sich in finanzielle Transaktionen und fangen , ohne alle Gewissensbisse , die wildesten Börsenspekulationen an .
 1	Die	*	*	*	*
 2	meisten	*	*	*	*
 3	stellen	*	*	*	*
@@ -1982,12 +2039,12 @@
 16	Macht	*	*	*	*
 17	,	*	*	*	*
 18	andere	*	*	*	*
-19	gehen	2	2	2	2
+19	gehen	FIG	FIG	FIG	FIG
 20	gleich	*	*	*	*
 21	richtig	*	*	*	*
-22	ins	2	2	2	2
+22	ins	FIG	FIG	FIG	FIG
 23	kapitalistische	*	*	*	*
-24	Rennen	2	2	2	2
+24	Rennen	FIG	FIG	FIG	FIG
 25	,	*	*	*	*
 26	stürzen	*	*	*	*
 27	sich	*	*	*	*
@@ -2009,17 +2066,18 @@
 
 # tuepp_article_id = T950308.80
 # sent_id = 3855
+# text = Die Frauen , die ins politische Rennen gingen , leiden unter akuter Atemnot in der dünnen Luft der Macht oder haben sich ganz aus dem " Kriegsgebiet " der Frauenpolitik zurückgezogen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Frauen , die ins politische Rennen gingen , leiden unter akuter Atemnot in der dünnen Luft der Macht oder haben sich ganz aus dem " Kriegsgebiet " der Frauenpolitik zurückgezogen .
 1	Die	*	*	*	*
 2	Frauen	*	*	*	*
 3	,	*	*	*	*
 4	die	*	*	*	*
-5	ins	2	2	2	2
+5	ins	FIG	FIG	FIG	FIG
 6	politische	*	*	*	*
-7	Rennen	2	2	2	2
-8	gingen	2	2	2	2
+7	Rennen	FIG	FIG	FIG	FIG
+8	gingen	FIG	FIG	FIG	FIG
 9	,	*	*	*	*
 10	leiden	*	*	*	*
 11	unter	*	*	*	*
@@ -2047,15 +2105,16 @@
 
 # tuepp_article_id = T990123.12
 # sent_id = 3857
+# text = Zeitgleich ging auch Hamburg ins Rennen , nachdem GAL-Umweltsenator Alexander Porschke das Umwelt-Glück in die landeseigene Lottogesellschaft puschte .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zeitgleich ging auch Hamburg ins Rennen , nachdem GAL-Umweltsenator Alexander Porschke das Umwelt-Glück in die landeseigene Lottogesellschaft puschte .
 1	Zeitgleich	*	*	*	*
-2	ging	2	2	2	2
+2	ging	FIG	FIG	FIG	FIG
 3	auch	*	*	*	*
 4	Hamburg	*	*	*	*
-5	ins	2	2	2	2
-6	Rennen	2	2	2	2
+5	ins	FIG	FIG	FIG	FIG
+6	Rennen	FIG	FIG	FIG	FIG
 7	,	*	*	*	*
 8	nachdem	*	*	*	*
 9	GAL-Umweltsenator	*	*	*	*
@@ -2072,9 +2131,10 @@
 
 # tuepp_article_id = T990119.150
 # sent_id = 3858
+# text = Mit Walter Momper , so lautet ihre Hoffnung , wird einer ins Rennen gehen , der nicht nur den Schröder-Effekt in die Hauptstadt bringen , sondern den Wählern den Willen zu einem rot-grünen Wechsel als einziger glaubhaft vermitteln kann .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit Walter Momper , so lautet ihre Hoffnung , wird einer ins Rennen gehen , der nicht nur den Schröder-Effekt in die Hauptstadt bringen , sondern den Wählern den Willen zu einem rot-grünen Wechsel als einziger glaubhaft vermitteln kann .
 1	Mit	*	*	*	*
 2	Walter	*	*	*	*
 3	Momper	*	*	*	*
@@ -2086,9 +2146,9 @@
 9	,	*	*	*	*
 10	wird	*	*	*	*
 11	einer	*	*	*	*
-12	ins	2	2	2	2
-13	Rennen	2	2	2	2
-14	gehen	2	2	2	2
+12	ins	FIG	FIG	FIG	FIG
+13	Rennen	FIG	FIG	FIG	FIG
+14	gehen	FIG	FIG	FIG	FIG
 15	,	*	*	*	*
 16	der	*	*	*	*
 17	nicht	*	*	*	*
@@ -2118,9 +2178,10 @@
 
 # tuepp_article_id = T990215.271
 # sent_id = 3859
+# text = Die jetzige Lübecker Umweltsenatorin Beate Hoffmann ( parteilos ) soll für die CDU in das Rennen um das Bürgermeisteramt der Stadt gehen .
+# vid_types = in rennen gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die jetzige Lübecker Umweltsenatorin Beate Hoffmann ( parteilos ) soll für die CDU in das Rennen um das Bürgermeisteramt der Stadt gehen .
 1	Die	*	*	*	*
 2	jetzige	*	*	*	*
 3	Lübecker	*	*	*	*
@@ -2134,14 +2195,14 @@
 11	für	*	*	*	*
 12	die	*	*	*	*
 13	CDU	*	*	*	*
-14	in	2	2	2	2
+14	in	FIG	FIG	FIG	FIG
 15	das	*	*	*	*
-16	Rennen	2	2	2	2
+16	Rennen	FIG	FIG	FIG	FIG
 17	um	*	*	*	*
 18	das	*	*	*	*
 19	Bürgermeisteramt	*	*	*	*
 20	der	*	*	*	*
 21	Stadt	*	*	*	*
-22	gehen	2	2	2	2
+22	gehen	FIG	FIG	FIG	FIG
 23	.	*	*	*	*
 

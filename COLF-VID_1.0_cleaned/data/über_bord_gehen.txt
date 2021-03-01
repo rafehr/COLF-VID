@@ -1,11 +1,12 @@
 # tuepp_article_id = T890526.121
 # sent_id = 6228
+# text = Über Bord gegangen ist damit die allgemeine Erklärung der Menschenrechte , nicht als unmittelbar praktikable Vorstellung , die sie im übrigen nie war , sondern sogar als Ideal - ohne die jedoch die vollentwickelte Apartheid weltweit der einzig logische Schluß sein kann : eine Vorstellung , die Khomeini bestimmt freudig begrüßen würde .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Über Bord gegangen ist damit die allgemeine Erklärung der Menschenrechte , nicht als unmittelbar praktikable Vorstellung , die sie im übrigen nie war , sondern sogar als Ideal - ohne die jedoch die vollentwickelte Apartheid weltweit der einzig logische Schluß sein kann : eine Vorstellung , die Khomeini bestimmt freudig begrüßen würde .
-1	Über	2	2	2	2
-2	Bord	2	2	2	2
-3	gegangen	2	2	2	2
+1	Über	FIG	FIG	FIG	FIG
+2	Bord	FIG	FIG	FIG	FIG
+3	gegangen	FIG	FIG	FIG	FIG
 4	ist	*	*	*	*
 5	damit	*	*	*	*
 6	die	*	*	*	*
@@ -59,9 +60,10 @@
 
 # tuepp_article_id = T891025.122
 # sent_id = 6229
+# text = Dies allerdings nur , wenn baurechtliche Beschränkungen und bürokratische Hemmnisse über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dies allerdings nur , wenn baurechtliche Beschränkungen und bürokratische Hemmnisse über Bord gehen .
 1	Dies	*	*	*	*
 2	allerdings	*	*	*	*
 3	nur	*	*	*	*
@@ -72,16 +74,17 @@
 8	und	*	*	*	*
 9	bürokratische	*	*	*	*
 10	Hemmnisse	*	*	*	*
-11	über	2	2	2	2
-12	Bord	2	2	2	2
-13	gehen	2	2	2	2
+11	über	FIG	FIG	FIG	FIG
+12	Bord	FIG	FIG	FIG	FIG
+13	gehen	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T891204.87
 # sent_id = 6230
+# text = Jetzt ist auch Krenz mitsamt dem Politbüro und dem ZK über Bord gegangen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Jetzt ist auch Krenz mitsamt dem Politbüro und dem ZK über Bord gegangen .
 1	Jetzt	*	*	*	*
 2	ist	*	*	*	*
 3	auch	*	*	*	*
@@ -92,22 +95,23 @@
 8	und	*	*	*	*
 9	dem	*	*	*	*
 10	ZK	*	*	*	*
-11	über	2	2	2	2
-12	Bord	2	2	2	2
-13	gegangen	2	2	2	2
+11	über	FIG	FIG	FIG	FIG
+12	Bord	FIG	FIG	FIG	FIG
+13	gegangen	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T890323.58
 # sent_id = 6231
+# text = Der Container war über Bord gegangenen , als ein panamaischer Frachter am Montag vergangener Woche Schiffbruch erlitt .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Container war über Bord gegangenen , als ein panamaischer Frachter am Montag vergangener Woche Schiffbruch erlitt .
 1	Der	*	*	*	*
 2	Container	*	*	*	*
 3	war	*	*	*	*
-4	über	1	1	1	1
-5	Bord	1	1	1	1
-6	gegangenen	1	1	1	1
+4	über	LIT	LIT	LIT	LIT
+5	Bord	LIT	LIT	LIT	LIT
+6	gegangenen	LIT	LIT	LIT	LIT
 7	,	*	*	*	*
 8	als	*	*	*	*
 9	ein	*	*	*	*
@@ -123,9 +127,10 @@
 
 # tuepp_article_id = T890321.64
 # sent_id = 6232
+# text = Der rund 12 Meter lange Container , in dem sich das hochgiftige Holzschutzmittel in zehn Fiberglasfässern befindet , war nach einem Schiffbruch des unter panamaischer Flagge fahrenden Frachters " Perintis " auf der Reise von Hamburg nach Jakarta am vergangenen Montag bei schwerem Sturm mit vier weiteren Lindan-Containern über Bord gegangen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der rund 12 Meter lange Container , in dem sich das hochgiftige Holzschutzmittel in zehn Fiberglasfässern befindet , war nach einem Schiffbruch des unter panamaischer Flagge fahrenden Frachters " Perintis " auf der Reise von Hamburg nach Jakarta am vergangenen Montag bei schwerem Sturm mit vier weiteren Lindan-Containern über Bord gegangen .
 1	Der	*	*	*	*
 2	rund	*	*	*	*
 3	12	*	*	*	*
@@ -174,32 +179,34 @@
 46	vier	*	*	*	*
 47	weiteren	*	*	*	*
 48	Lindan-Containern	*	*	*	*
-49	über	1	1	1	1
-50	Bord	1	1	1	1
-51	gegangen	1	1	1	1
+49	über	LIT	LIT	LIT	LIT
+50	Bord	LIT	LIT	LIT	LIT
+51	gegangen	LIT	LIT	LIT	LIT
 52	.	*	*	*	*
 
 # tuepp_article_id = T891111.98
 # sent_id = 6233
+# text = Experimente gehen in einem solchen Fall zuerst über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Experimente gehen in einem solchen Fall zuerst über Bord .
 1	Experimente	*	*	*	*
-2	gehen	2	2	2	2
+2	gehen	FIG	FIG	FIG	FIG
 3	in	*	*	*	*
 4	einem	*	*	*	*
 5	solchen	*	*	*	*
 6	Fall	*	*	*	*
 7	zuerst	*	*	*	*
-8	über	2	2	2	2
-9	Bord	2	2	2	2
+8	über	FIG	FIG	FIG	FIG
+9	Bord	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T910502.94
 # sent_id = 6234
+# text = Die Euro-Grünen beobachten bei den EWR- Verhandlungen die Entwicklung eines Europas der Händler zwischen EG und Efta , bei dem die teilweise fortschrittlichere Umwelt- und Sozialpolitik der Efta- Länder über Bord gehe .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Euro-Grünen beobachten bei den EWR- Verhandlungen die Entwicklung eines Europas der Händler zwischen EG und Efta , bei dem die teilweise fortschrittlichere Umwelt- und Sozialpolitik der Efta- Länder über Bord gehe .
 1	Die	*	*	*	*
 2	Euro-Grünen	*	*	*	*
 3	beobachten	*	*	*	*
@@ -229,16 +236,17 @@
 27	der	*	*	*	*
 28	Efta-	*	*	*	*
 29	Länder	*	*	*	*
-30	über	2	2	2	2
-31	Bord	2	2	2	2
-32	gehe	2	2	2	2
+30	über	FIG	FIG	FIG	FIG
+31	Bord	FIG	FIG	FIG	FIG
+32	gehe	FIG	FIG	FIG	FIG
 33	.	*	*	*	*
 
 # tuepp_article_id = T911107.20
 # sent_id = 6235
+# text = Nick Baker , der Manager der Yachtagentur , bei der auch Maxwells " Lady Ghislaine " gemeldet war , sagte : " Selbst bei sehr hohem Seegang wäre es zwar möglich gewesen , über Bord zu gehen , aber immer noch ziemlich unwahrscheinlich .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nick Baker , der Manager der Yachtagentur , bei der auch Maxwells " Lady Ghislaine " gemeldet war , sagte : " Selbst bei sehr hohem Seegang wäre es zwar möglich gewesen , über Bord zu gehen , aber immer noch ziemlich unwahrscheinlich .
 1	Nick	*	*	*	*
 2	Baker	*	*	*	*
 3	,	*	*	*	*
@@ -272,10 +280,10 @@
 31	möglich	*	*	*	*
 32	gewesen	*	*	*	*
 33	,	*	*	*	*
-34	über	1	1	1	1
-35	Bord	1	1	1	1
+34	über	LIT	LIT	LIT	LIT
+35	Bord	LIT	LIT	LIT	LIT
 36	zu	*	*	*	*
-37	gehen	1	1	1	1
+37	gehen	LIT	LIT	LIT	LIT
 38	,	*	*	*	*
 39	aber	*	*	*	*
 40	immer	*	*	*	*
@@ -286,9 +294,10 @@
 
 # tuepp_article_id = T911113.133
 # sent_id = 6236
+# text = Deshalb ist es von entscheidender Bedeutung , ob Maxwell aufgrund eines Herzinfarkts über Bord gegangen ist ( natürlicher Tod ) oder ob er erst im Wasser einen Herzinfarkt erlitten hat ( Unfall ) .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Deshalb ist es von entscheidender Bedeutung , ob Maxwell aufgrund eines Herzinfarkts über Bord gegangen ist ( natürlicher Tod ) oder ob er erst im Wasser einen Herzinfarkt erlitten hat ( Unfall ) .
 1	Deshalb	*	*	*	*
 2	ist	*	*	*	*
 3	es	*	*	*	*
@@ -301,9 +310,9 @@
 10	aufgrund	*	*	*	*
 11	eines	*	*	*	*
 12	Herzinfarkts	*	*	*	*
-13	über	1	1	1	1
-14	Bord	1	1	1	1
-15	gegangen	1	1	1	1
+13	über	LIT	LIT	LIT	LIT
+14	Bord	LIT	LIT	LIT	LIT
+15	gegangen	LIT	LIT	LIT	LIT
 16	ist	*	*	*	*
 17	(	*	*	*	*
 18	natürlicher	*	*	*	*
@@ -326,9 +335,10 @@
 
 # tuepp_article_id = T900503.233
 # sent_id = 6237
+# text = Als Gabi , " Ich mach ` ein glückliches Mädchen aus Dir , die ganze Nacht " anstimmt , legt einer vom VEB-Kombinat Weiße Flotte vorsichtig seinen Arm um die Hübsche aus der Westberliner Verkehrs- und Hafenverwaltung ... " Kollege Kühl " soll über Bord gegangen sein , witzelt einer .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Als Gabi , " Ich mach ` ein glückliches Mädchen aus Dir , die ganze Nacht " anstimmt , legt einer vom VEB-Kombinat Weiße Flotte vorsichtig seinen Arm um die Hübsche aus der Westberliner Verkehrs- und Hafenverwaltung ... " Kollege Kühl " soll über Bord gegangen sein , witzelt einer .
 1	Als	*	*	*	*
 2	Gabi	*	*	*	*
 3	,	*	*	*	*
@@ -372,9 +382,9 @@
 41	Kühl	*	*	*	*
 42	"	*	*	*	*
 43	soll	*	*	*	*
-44	über	1	1	2	1
-45	Bord	1	1	2	1
-46	gegangen	1	1	2	1
+44	über	LIT	LIT	FIG	LIT
+45	Bord	LIT	LIT	FIG	LIT
+46	gegangen	LIT	LIT	FIG	LIT
 47	sein	*	*	*	*
 48	,	*	*	*	*
 49	witzelt	*	*	*	*
@@ -383,9 +393,10 @@
 
 # tuepp_article_id = T900915.100
 # sent_id = 6238
+# text = Statt dessen rollen zunehmend Wohnmobile auf die Wattensände , und so manche Chemietoilette geht über Bord : Die High-Tech-Goldeimer mit ihrem hochgiftigen Inhalt sind zu wahren Ökokillern geworden , die niemand entsorgen kann und will , denn sie bringen auch jede Biologie in kommunalen Kläranlagen um .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Statt dessen rollen zunehmend Wohnmobile auf die Wattensände , und so manche Chemietoilette geht über Bord : Die High-Tech-Goldeimer mit ihrem hochgiftigen Inhalt sind zu wahren Ökokillern geworden , die niemand entsorgen kann und will , denn sie bringen auch jede Biologie in kommunalen Kläranlagen um .
 1	Statt	*	*	*	*
 2	dessen	*	*	*	*
 3	rollen	*	*	*	*
@@ -399,9 +410,9 @@
 11	so	*	*	*	*
 12	manche	*	*	*	*
 13	Chemietoilette	*	*	*	*
-14	geht	1	1	1	1
-15	über	1	1	1	1
-16	Bord	1	1	1	1
+14	geht	LIT	LIT	LIT	LIT
+15	über	LIT	LIT	LIT	LIT
+16	Bord	LIT	LIT	LIT	LIT
 17	:	*	*	*	*
 18	Die	*	*	*	*
 19	High-Tech-Goldeimer	*	*	*	*
@@ -436,9 +447,10 @@
 
 # tuepp_article_id = T900706.37
 # sent_id = 6239
+# text = " Die IG Metall will aber nicht nur zusehen , wie Rüstungsinteresssen der Bundesregierung und Gewinninteressen der Unternehmen in Einklang gebracht werden , die Interessen der Beschäftigten dabei aber über Bord gehen " , betonte der Gewerkschaftschef .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Die IG Metall will aber nicht nur zusehen , wie Rüstungsinteresssen der Bundesregierung und Gewinninteressen der Unternehmen in Einklang gebracht werden , die Interessen der Beschäftigten dabei aber über Bord gehen " , betonte der Gewerkschaftschef .
 1	"	*	*	*	*
 2	Die	*	*	*	*
 3	IG	*	*	*	*
@@ -468,9 +480,9 @@
 27	Beschäftigten	*	*	*	*
 28	dabei	*	*	*	*
 29	aber	*	*	*	*
-30	über	2	2	2	2
-31	Bord	2	2	2	2
-32	gehen	2	2	2	2
+30	über	FIG	FIG	FIG	FIG
+31	Bord	FIG	FIG	FIG	FIG
+32	gehen	FIG	FIG	FIG	FIG
 33	"	*	*	*	*
 34	,	*	*	*	*
 35	betonte	*	*	*	*
@@ -480,9 +492,10 @@
 
 # tuepp_article_id = T900303.372
 # sent_id = 6240
+# text = " Zu viel Gutes sei mit der Wende über Bord gegangen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Zu viel Gutes sei mit der Wende über Bord gegangen .
 1	"	*	*	*	*
 2	Zu	*	*	*	*
 3	viel	*	*	*	*
@@ -491,16 +504,17 @@
 6	mit	*	*	*	*
 7	der	*	*	*	*
 8	Wende	*	*	*	*
-9	über	2	2	2	2
-10	Bord	2	2	2	2
-11	gegangen	2	2	2	2
+9	über	FIG	FIG	FIG	FIG
+10	Bord	FIG	FIG	FIG	FIG
+11	gegangen	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T920502.203
 # sent_id = 6241
+# text = Schätze sind dort zu finden , zum Teil noch in diesen unsäglichen Plastikeinschweißungen , Ausgaben , die das Herz eines Biblomanen schneller schlagen und die Haushaltsplanungen über Bord gehen lassen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schätze sind dort zu finden , zum Teil noch in diesen unsäglichen Plastikeinschweißungen , Ausgaben , die das Herz eines Biblomanen schneller schlagen und die Haushaltsplanungen über Bord gehen lassen .
 1	Schätze	*	*	*	*
 2	sind	*	*	*	*
 3	dort	*	*	*	*
@@ -527,17 +541,18 @@
 24	und	*	*	*	*
 25	die	*	*	*	*
 26	Haushaltsplanungen	*	*	*	*
-27	über	2	2	2	2
-28	Bord	2	2	2	2
-29	gehen	2	2	2	2
+27	über	FIG	FIG	FIG	FIG
+28	Bord	FIG	FIG	FIG	FIG
+29	gehen	FIG	FIG	FIG	FIG
 30	lassen	*	*	*	*
 31	.	*	*	*	*
 
 # tuepp_article_id = T920515.126
 # sent_id = 6242
+# text = Die uns dauernd sagen , das Boot sei voll , verschweigen uns , was über Bord geht .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Die uns dauernd sagen , das Boot sei voll , verschweigen uns , was über Bord geht .
 1	Die	*	*	*	*
 2	uns	*	*	*	*
 3	dauernd	*	*	*	*
@@ -552,16 +567,17 @@
 12	uns	*	*	*	*
 13	,	*	*	*	*
 14	was	*	*	*	*
-15	über	2	2	2	2
-16	Bord	2	2	2	2
-17	geht	2	2	2	2
+15	über	FIG	FIG	FIG	FIG
+16	Bord	FIG	FIG	FIG	FIG
+17	geht	FIG	FIG	FIG	FIG
 18	.	*	*	*	*
 
 # tuepp_article_id = T920613.129
 # sent_id = 6243
+# text = Vielleicht ist es der Verlust eines politischen Leitbildes , das mit dem Sozialismus über Bord gegangen ist .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vielleicht ist es der Verlust eines politischen Leitbildes , das mit dem Sozialismus über Bord gegangen ist .
 1	Vielleicht	*	*	*	*
 2	ist	*	*	*	*
 3	es	*	*	*	*
@@ -575,17 +591,18 @@
 11	mit	*	*	*	*
 12	dem	*	*	*	*
 13	Sozialismus	*	*	*	*
-14	über	2	2	2	2
-15	Bord	2	2	2	2
-16	gegangen	2	2	2	2
+14	über	FIG	FIG	FIG	FIG
+15	Bord	FIG	FIG	FIG	FIG
+16	gegangen	FIG	FIG	FIG	FIG
 17	ist	*	*	*	*
 18	.	*	*	*	*
 
 # tuepp_article_id = T920604.80
 # sent_id = 6244
+# text = Tennisbälle nämlich waren an Deck denkbar ungeeignet , da sie gleich reihenweise über Bord gingen und ein Zurückholen angesichts der Gefahren durch beißende Haifische unmöglich war .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Tennisbälle nämlich waren an Deck denkbar ungeeignet , da sie gleich reihenweise über Bord gingen und ein Zurückholen angesichts der Gefahren durch beißende Haifische unmöglich war .
 1	Tennisbälle	*	*	*	*
 2	nämlich	*	*	*	*
 3	waren	*	*	*	*
@@ -598,9 +615,9 @@
 10	sie	*	*	*	*
 11	gleich	*	*	*	*
 12	reihenweise	*	*	*	*
-13	über	1	1	1	1
-14	Bord	1	1	1	1
-15	gingen	1	1	1	1
+13	über	LIT	LIT	LIT	LIT
+14	Bord	LIT	LIT	LIT	LIT
+15	gingen	LIT	LIT	LIT	LIT
 16	und	*	*	*	*
 17	ein	*	*	*	*
 18	Zurückholen	*	*	*	*
@@ -616,13 +633,14 @@
 
 # tuepp_article_id = T920605.84
 # sent_id = 6245
+# text = Endgültig über Bord geht mit dem gestern verabschiedeten Gesetz das 1946 von den Alliierten verfügte Gebot der Trennung von Polizei und Geheimdienst .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Endgültig über Bord geht mit dem gestern verabschiedeten Gesetz das 1946 von den Alliierten verfügte Gebot der Trennung von Polizei und Geheimdienst .
 1	Endgültig	*	*	*	*
-2	über	2	2	2	2
-3	Bord	2	2	2	2
-4	geht	2	2	2	2
+2	über	FIG	FIG	FIG	FIG
+3	Bord	FIG	FIG	FIG	FIG
+4	geht	FIG	FIG	FIG	FIG
 5	mit	*	*	*	*
 6	dem	*	*	*	*
 7	gestern	*	*	*	*
@@ -645,25 +663,27 @@
 
 # tuepp_article_id = T920406.259
 # sent_id = 6246
+# text = Manchmal ging auch die ganze Eimerkette dabei über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Manchmal ging auch die ganze Eimerkette dabei über Bord .
 1	Manchmal	*	*	*	*
-2	ging	1	1	1	1
+2	ging	LIT	LIT	LIT	LIT
 3	auch	*	*	*	*
 4	die	*	*	*	*
 5	ganze	*	*	*	*
 6	Eimerkette	*	*	*	*
 7	dabei	*	*	*	*
-8	über	1	1	1	1
-9	Bord	1	1	1	1
+8	über	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
 10	.	*	*	*	*
 
 # tuepp_article_id = T920728.107
 # sent_id = 6247
+# text = " Schon will ich ein gereiztes " Red nicht so 'n Unsinn " dazwischenbellen , weil es ja doch gerade die Halbverrückten sind , die Kultur ausmachen , da biegt ein zum Lastentransporter umgestyltes Moped um die Ecke , auf der Ladefläche ein Rasta-Mann und ein Hund , der mit der rasanten Kurventechnik des Fahrers nicht zurechtkommt und über Bord geht .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = " Schon will ich ein gereiztes " Red nicht so 'n Unsinn " dazwischenbellen , weil es ja doch gerade die Halbverrückten sind , die Kultur ausmachen , da biegt ein zum Lastentransporter umgestyltes Moped um die Ecke , auf der Ladefläche ein Rasta-Mann und ein Hund , der mit der rasanten Kurventechnik des Fahrers nicht zurechtkommt und über Bord geht .
 1	"	*	*	*	*
 2	Schon	*	*	*	*
 3	will	*	*	*	*
@@ -722,16 +742,17 @@
 56	nicht	*	*	*	*
 57	zurechtkommt	*	*	*	*
 58	und	*	*	*	*
-59	über	2	2	2	2
-60	Bord	2	2	2	2
-61	geht	2	2	2	2
+59	über	FIG	FIG	FIG	FIG
+60	Bord	FIG	FIG	FIG	FIG
+61	geht	FIG	FIG	FIG	FIG
 62	.	*	*	*	*
 
 # tuepp_article_id = T920706.31
 # sent_id = 6248
+# text = " Thank God that Maxwell became a floating issue himself " , befand jedenfalls der ' Index ` - Chefredakteur , auf den Tod des über Bord seiner eigenen Luxusjacht gegangenen Pressezaren anspielend .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = " Thank God that Maxwell became a floating issue himself " , befand jedenfalls der ' Index ` - Chefredakteur , auf den Tod des über Bord seiner eigenen Luxusjacht gegangenen Pressezaren anspielend .
 1	"	*	*	*	*
 2	Thank	*	*	*	*
 3	God	*	*	*	*
@@ -757,10 +778,10 @@
 23	den	*	*	*	*
 24	Tod	*	*	*	*
 25	des	*	*	*	*
-26	über	1	1	1	1
-27	Bord	1	1	1	1
+26	über	LIT	LIT	LIT	LIT
+27	Bord	LIT	LIT	LIT	LIT
 28	seiner	*	*	*	*
-29	eigenen	1	1	1	1
+29	eigenen	LIT	LIT	LIT	LIT
 30	Luxusjacht	*	*	*	*
 31	gegangenen	*	*	*	*
 32	Pressezaren	*	*	*	*
@@ -769,9 +790,10 @@
 
 # tuepp_article_id = T920831.102
 # sent_id = 6249
+# text = Der Pressekrieg wurde vor zwei Wochen vom Daily Mirror eröffnet , der tief in den roten Zahlen schwimmt , seit sein Verleger Robert Maxwell über Bord gegangen ist - und mit ihm die Pensionskasse .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Der Pressekrieg wurde vor zwei Wochen vom Daily Mirror eröffnet , der tief in den roten Zahlen schwimmt , seit sein Verleger Robert Maxwell über Bord gegangen ist - und mit ihm die Pensionskasse .
 1	Der	*	*	*	*
 2	Pressekrieg	*	*	*	*
 3	wurde	*	*	*	*
@@ -796,9 +818,9 @@
 22	Verleger	*	*	*	*
 23	Robert	*	*	*	*
 24	Maxwell	*	*	*	*
-25	über	2	2	2	2
-26	Bord	2	2	2	2
-27	gegangen	2	2	2	2
+25	über	FIG	FIG	FIG	FIG
+26	Bord	FIG	FIG	FIG	FIG
+27	gegangen	FIG	FIG	FIG	FIG
 28	ist	*	*	*	*
 29	-	*	*	*	*
 30	und	*	*	*	*
@@ -810,21 +832,22 @@
 
 # tuepp_article_id = T921121.277
 # sent_id = 6250
+# text = Vor der ostfriesischen Insel Wangerooge ging abends ein 45jähriger Mann über Bord einer in Seenot geratenen Segelyacht .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vor der ostfriesischen Insel Wangerooge ging abends ein 45jähriger Mann über Bord einer in Seenot geratenen Segelyacht .
 1	Vor	*	*	*	*
 2	der	*	*	*	*
 3	ostfriesischen	*	*	*	*
 4	Insel	*	*	*	*
 5	Wangerooge	*	*	*	*
-6	ging	1	1	1	1
+6	ging	LIT	LIT	LIT	LIT
 7	abends	*	*	*	*
 8	ein	*	*	*	*
 9	45jähriger	*	*	*	*
 10	Mann	*	*	*	*
-11	über	1	1	1	1
-12	Bord	1	1	1	1
+11	über	LIT	LIT	LIT	LIT
+12	Bord	LIT	LIT	LIT	LIT
 13	einer	*	*	*	*
 14	in	*	*	*	*
 15	Seenot	*	*	*	*
@@ -834,9 +857,10 @@
 
 # tuepp_article_id = T920218.166
 # sent_id = 6251
+# text = Eine weise Lösung wäre die Anhörung nur gewesen , insofern sie den streitenden Partnern hilft , das Gesicht zu wahren und zu einer konkreten Entscheidung zu finden - und nicht zugleich die Maßstäbe sorgfältiger Prüfung über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Eine weise Lösung wäre die Anhörung nur gewesen , insofern sie den streitenden Partnern hilft , das Gesicht zu wahren und zu einer konkreten Entscheidung zu finden - und nicht zugleich die Maßstäbe sorgfältiger Prüfung über Bord gehen .
 1	Eine	*	*	*	*
 2	weise	*	*	*	*
 3	Lösung	*	*	*	*
@@ -872,22 +896,23 @@
 33	Maßstäbe	*	*	*	*
 34	sorgfältiger	*	*	*	*
 35	Prüfung	*	*	*	*
-36	über	2	2	2	2
-37	Bord	2	2	2	2
-38	gehen	2	2	2	2
+36	über	FIG	FIG	FIG	FIG
+37	Bord	FIG	FIG	FIG	FIG
+38	gehen	FIG	FIG	FIG	FIG
 39	.	*	*	*	*
 
 # tuepp_article_id = T881028.27
 # sent_id = 6252
+# text = Müssen alle Hemmungen über Bord gehen bei der Aussicht auf fette Gewinne ?
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Müssen alle Hemmungen über Bord gehen bei der Aussicht auf fette Gewinne ?
 1	Müssen	*	*	*	*
 2	alle	*	*	*	*
 3	Hemmungen	*	*	*	*
-4	über	2	2	2	2
-5	Bord	2	2	2	2
-6	gehen	2	2	2	2
+4	über	FIG	FIG	FIG	FIG
+5	Bord	FIG	FIG	FIG	FIG
+6	gehen	FIG	FIG	FIG	FIG
 7	bei	*	*	*	*
 8	der	*	*	*	*
 9	Aussicht	*	*	*	*
@@ -898,9 +923,10 @@
 
 # tuepp_article_id = T880702.138
 # sent_id = 6253
+# text = Wir müssen nur sichern , daß die materielle Sicherheit der Menschen dabei nicht über Bord geht , wie die FDP es will .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wir müssen nur sichern , daß die materielle Sicherheit der Menschen dabei nicht über Bord geht , wie die FDP es will .
 1	Wir	*	*	*	*
 2	müssen	*	*	*	*
 3	nur	*	*	*	*
@@ -914,9 +940,9 @@
 11	Menschen	*	*	*	*
 12	dabei	*	*	*	*
 13	nicht	*	*	*	*
-14	über	2	2	2	2
-15	Bord	2	2	2	2
-16	geht	2	2	2	2
+14	über	FIG	FIG	FIG	FIG
+15	Bord	FIG	FIG	FIG	FIG
+16	geht	FIG	FIG	FIG	FIG
 17	,	*	*	*	*
 18	wie	*	*	*	*
 19	die	*	*	*	*
@@ -927,9 +953,10 @@
 
 # tuepp_article_id = T880709.76
 # sent_id = 6254
+# text = Seine Fans hätten es allerdings lieber gesehen , Jim Bowie hätte seine edle Klinge behalten und die schartigen Damen über Bord gehen lassen , berichtet das Western-Lexikon von Joe Hembus und anempfiehlt sich damit der frauenfreundlichen Sexismus-Kommission zur Lektüre .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Seine Fans hätten es allerdings lieber gesehen , Jim Bowie hätte seine edle Klinge behalten und die schartigen Damen über Bord gehen lassen , berichtet das Western-Lexikon von Joe Hembus und anempfiehlt sich damit der frauenfreundlichen Sexismus-Kommission zur Lektüre .
 1	Seine	*	*	*	*
 2	Fans	*	*	*	*
 3	hätten	*	*	*	*
@@ -949,9 +976,9 @@
 17	die	*	*	*	*
 18	schartigen	*	*	*	*
 19	Damen	*	*	*	*
-20	über	1	2	2	2
-21	Bord	1	2	2	2
-22	gehen	1	2	2	2
+20	über	LIT	FIG	FIG	FIG
+21	Bord	LIT	FIG	FIG	FIG
+22	gehen	LIT	FIG	FIG	FIG
 23	lassen	*	*	*	*
 24	,	*	*	*	*
 25	berichtet	*	*	*	*
@@ -973,9 +1000,10 @@
 
 # tuepp_article_id = T880714.68
 # sent_id = 6255
+# text = Der in den USA von Ken Annakin ( " Die tollkühnen Männer in ihren fliegenden Kisten " ) gedrehte Streifen " Pippi Langstrumpfs neueste Streiche " macht dieses Dilemma deutlich : In der ersten Szene geht Pippi über Bord der " Hoppetosse " und brüllt : " Papa , ich hab Angst !
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der in den USA von Ken Annakin ( " Die tollkühnen Männer in ihren fliegenden Kisten " ) gedrehte Streifen " Pippi Langstrumpfs neueste Streiche " macht dieses Dilemma deutlich : In der ersten Szene geht Pippi über Bord der " Hoppetosse " und brüllt : " Papa , ich hab Angst !
 1	Der	*	*	*	*
 2	in	*	*	*	*
 3	den	*	*	*	*
@@ -1011,10 +1039,10 @@
 33	der	*	*	*	*
 34	ersten	*	*	*	*
 35	Szene	*	*	*	*
-36	geht	1	1	1	1
+36	geht	LIT	LIT	LIT	LIT
 37	Pippi	*	*	*	*
-38	über	1	1	1	1
-39	Bord	1	1	1	1
+38	über	LIT	LIT	LIT	LIT
+39	Bord	LIT	LIT	LIT	LIT
 40	der	*	*	*	*
 41	"	*	*	*	*
 42	Hoppetosse	*	*	*	*
@@ -1032,9 +1060,10 @@
 
 # tuepp_article_id = T881219.119
 # sent_id = 6256
+# text = In Emlichheim in Ostfriesland trafen sich Junkies aus der ganzen Bundesrepublik , um ihre Erfahrungen mit dem Ersatzstoff Methadon auszutauschen / Die Aids-Angst läßt bei den Ämtern zwar geheiligte Bedenken über Bord gehen , doch das Ziel ist nicht die Hilfe für die Süchtigen , sondern " Schutz " der Gesellschaft
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Emlichheim in Ostfriesland trafen sich Junkies aus der ganzen Bundesrepublik , um ihre Erfahrungen mit dem Ersatzstoff Methadon auszutauschen / Die Aids-Angst läßt bei den Ämtern zwar geheiligte Bedenken über Bord gehen , doch das Ziel ist nicht die Hilfe für die Süchtigen , sondern " Schutz " der Gesellschaft
 1	In	*	*	*	*
 2	Emlichheim	*	*	*	*
 3	in	*	*	*	*
@@ -1065,9 +1094,9 @@
 28	zwar	*	*	*	*
 29	geheiligte	*	*	*	*
 30	Bedenken	*	*	*	*
-31	über	2	2	2	2
-32	Bord	2	2	2	2
-33	gehen	2	2	2	2
+31	über	FIG	FIG	FIG	FIG
+32	Bord	FIG	FIG	FIG	FIG
+33	gehen	FIG	FIG	FIG	FIG
 34	,	*	*	*	*
 35	doch	*	*	*	*
 36	das	*	*	*	*
@@ -1089,18 +1118,19 @@
 
 # tuepp_article_id = T880812.88
 # sent_id = 6257
+# text = Dabei gehen schon einige Mülltonnen ganz normal über Bord ; die ' New York Times ` spricht von einer Tonne pro Schiffsladung .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dabei gehen schon einige Mülltonnen ganz normal über Bord ; die ' New York Times ` spricht von einer Tonne pro Schiffsladung .
 1	Dabei	*	*	*	*
-2	gehen	1	1	1	1
+2	gehen	LIT	LIT	LIT	LIT
 3	schon	*	*	*	*
 4	einige	*	*	*	*
 5	Mülltonnen	*	*	*	*
 6	ganz	*	*	*	*
 7	normal	*	*	*	*
-8	über	1	1	1	1
-9	Bord	1	1	1	1
+8	über	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
 10	;	*	*	*	*
 11	die	*	*	*	*
 12	'	*	*	*	*
@@ -1118,11 +1148,12 @@
 
 # tuepp_article_id = T880316.33
 # sent_id = 6258
+# text = Jetzt geht der " Lotse " ( Degussa über Degussa ) von Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Jetzt geht der " Lotse " ( Degussa über Degussa ) von Bord .
 1	Jetzt	*	*	*	*
-2	geht	2	2	2	2
+2	geht	FIG	FIG	FIG	FIG
 3	der	*	*	*	*
 4	"	*	*	*	*
 5	Lotse	*	*	*	*
@@ -1132,15 +1163,16 @@
 9	über	*	*	*	*
 10	Degussa	*	*	*	*
 11	)	*	*	*	*
-12	von	2	2	2	2
-13	Bord	2	2	2	2
+12	von	FIG	FIG	FIG	FIG
+13	Bord	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T871009.61
 # sent_id = 6259
+# text = Doch schon nach wenigen Kilo metern Fahrt kenterte das Boot , und die Passagiere gingen über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch schon nach wenigen Kilo metern Fahrt kenterte das Boot , und die Passagiere gingen über Bord .
 1	Doch	*	*	*	*
 2	schon	*	*	*	*
 3	nach	*	*	*	*
@@ -1155,16 +1187,17 @@
 12	und	*	*	*	*
 13	die	*	*	*	*
 14	Passagiere	*	*	*	*
-15	gingen	1	1	1	1
-16	über	1	1	1	1
-17	Bord	1	1	1	1
+15	gingen	LIT	LIT	LIT	LIT
+16	über	LIT	LIT	LIT	LIT
+17	Bord	LIT	LIT	LIT	LIT
 18	.	*	*	*	*
 
 # tuepp_article_id = T870121.29
 # sent_id = 6260
+# text = Seit im April letzten Jahres der Wettbewerb um die freie Frequenz begann , ist manches über Bord gegangen , was vorher als unverzichtbar galt .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Seit im April letzten Jahres der Wettbewerb um die freie Frequenz begann , ist manches über Bord gegangen , was vorher als unverzichtbar galt .
 1	Seit	*	*	*	*
 2	im	*	*	*	*
 3	April	*	*	*	*
@@ -1180,9 +1213,9 @@
 13	,	*	*	*	*
 14	ist	*	*	*	*
 15	manches	*	*	*	*
-16	über	2	2	2	2
-17	Bord	2	2	2	2
-18	gegangen	2	2	2	2
+16	über	FIG	FIG	FIG	FIG
+17	Bord	FIG	FIG	FIG	FIG
+18	gegangen	FIG	FIG	FIG	FIG
 19	,	*	*	*	*
 20	was	*	*	*	*
 21	vorher	*	*	*	*
@@ -1193,16 +1226,17 @@
 
 # tuepp_article_id = T870121.33
 # sent_id = 6261
+# text = Daß aber diese Prinzipien über Bord gehen konnten , ist ganz einfach zu erklären .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß aber diese Prinzipien über Bord gehen konnten , ist ganz einfach zu erklären .
 1	Daß	*	*	*	*
 2	aber	*	*	*	*
 3	diese	*	*	*	*
 4	Prinzipien	*	*	*	*
-5	über	2	2	2	2
-6	Bord	2	2	2	2
-7	gehen	2	2	2	2
+5	über	FIG	FIG	FIG	FIG
+6	Bord	FIG	FIG	FIG	FIG
+7	gehen	FIG	FIG	FIG	FIG
 8	konnten	*	*	*	*
 9	,	*	*	*	*
 10	ist	*	*	*	*
@@ -1214,9 +1248,10 @@
 
 # tuepp_article_id = T871105.61
 # sent_id = 6262
+# text = Mir ging es darum , den Prozeß in einer isolierten Gruppe im Untergrund zu beschreiben - wie der Idealismus über Bord geht und der nackte Überlebenskampf dominiert .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mir ging es darum , den Prozeß in einer isolierten Gruppe im Untergrund zu beschreiben - wie der Idealismus über Bord geht und der nackte Überlebenskampf dominiert .
 1	Mir	*	*	*	*
 2	ging	*	*	*	*
 3	es	*	*	*	*
@@ -1236,9 +1271,9 @@
 17	wie	*	*	*	*
 18	der	*	*	*	*
 19	Idealismus	*	*	*	*
-20	über	2	2	2	2
-21	Bord	2	2	2	2
-22	geht	2	2	2	2
+20	über	FIG	FIG	FIG	FIG
+21	Bord	FIG	FIG	FIG	FIG
+22	geht	FIG	FIG	FIG	FIG
 23	und	*	*	*	*
 24	der	*	*	*	*
 25	nackte	*	*	*	*
@@ -1248,9 +1283,10 @@
 
 # tuepp_article_id = T930524.136
 # sent_id = 6263
+# text = Den Gesamtschaden inklusive Einnahmeausfall bezifferte die Stern- und Kreisschiffahrt auf rund 18.000 Mark : 29 Stühle , rund 120 Biergläser , 170 Besteckteile und über 50 Aschenbecher seien über Bord oder zu Bruch gegangen , Außenreling Backbord und Herrentoilette seien demoliert worden .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Den Gesamtschaden inklusive Einnahmeausfall bezifferte die Stern- und Kreisschiffahrt auf rund 18.000 Mark : 29 Stühle , rund 120 Biergläser , 170 Besteckteile und über 50 Aschenbecher seien über Bord oder zu Bruch gegangen , Außenreling Backbord und Herrentoilette seien demoliert worden .
 1	Den	*	*	*	*
 2	Gesamtschaden	*	*	*	*
 3	inklusive	*	*	*	*
@@ -1279,12 +1315,12 @@
 26	50	*	*	*	*
 27	Aschenbecher	*	*	*	*
 28	seien	*	*	*	*
-29	über	1	1	1	1
-30	Bord	1	1	1	1
+29	über	LIT	LIT	LIT	LIT
+30	Bord	LIT	LIT	LIT	LIT
 31	oder	*	*	*	*
 32	zu	*	*	*	*
 33	Bruch	*	*	*	*
-34	gegangen	1	1	1	1
+34	gegangen	LIT	LIT	LIT	LIT
 35	,	*	*	*	*
 36	Außenreling	*	*	*	*
 37	Backbord	*	*	*	*
@@ -1297,9 +1333,10 @@
 
 # tuepp_article_id = T930513.114
 # sent_id = 6264
+# text = Und Freude auch darüber , daß der ganze " ideologische Ballast " in der Marx-Forschung endlich über Bord gegangen ist und die Archive offenstehen : " Marx in seiner Zeit sehen - als historische Figur .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und Freude auch darüber , daß der ganze " ideologische Ballast " in der Marx-Forschung endlich über Bord gegangen ist und die Archive offenstehen : " Marx in seiner Zeit sehen - als historische Figur .
 1	Und	*	*	*	*
 2	Freude	*	*	*	*
 3	auch	*	*	*	*
@@ -1316,9 +1353,9 @@
 14	der	*	*	*	*
 15	Marx-Forschung	*	*	*	*
 16	endlich	*	*	*	*
-17	über	2	2	2	2
-18	Bord	2	2	2	2
-19	gegangen	2	2	2	2
+17	über	FIG	FIG	FIG	FIG
+18	Bord	FIG	FIG	FIG	FIG
+19	gegangen	FIG	FIG	FIG	FIG
 20	ist	*	*	*	*
 21	und	*	*	*	*
 22	die	*	*	*	*
@@ -1339,9 +1376,10 @@
 
 # tuepp_article_id = T931022.166
 # sent_id = 6265
+# text = Die alten Werte wackeln , vertraute Wahrheiten gehen über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die alten Werte wackeln , vertraute Wahrheiten gehen über Bord .
 1	Die	*	*	*	*
 2	alten	*	*	*	*
 3	Werte	*	*	*	*
@@ -1349,16 +1387,17 @@
 5	,	*	*	*	*
 6	vertraute	*	*	*	*
 7	Wahrheiten	*	*	*	*
-8	gehen	2	2	2	2
-9	über	2	2	2	2
-10	Bord	2	2	2	2
+8	gehen	FIG	FIG	FIG	FIG
+9	über	FIG	FIG	FIG	FIG
+10	Bord	FIG	FIG	FIG	FIG
 11	.	*	*	*	*
 
 # tuepp_article_id = T930929.156
 # sent_id = 6266
+# text = Kaempfe : Wir historisieren unsere Stücke nicht , sondern Übersetzen sie im wahrsten Sinne des Wortes : Wenn jemand Macht will , geht jedes andere Prinzip über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kaempfe : Wir historisieren unsere Stücke nicht , sondern Übersetzen sie im wahrsten Sinne des Wortes : Wenn jemand Macht will , geht jedes andere Prinzip über Bord .
 1	Kaempfe	*	*	*	*
 2	:	*	*	*	*
 3	Wir	*	*	*	*
@@ -1381,19 +1420,20 @@
 20	Macht	*	*	*	*
 21	will	*	*	*	*
 22	,	*	*	*	*
-23	geht	2	2	2	2
+23	geht	FIG	FIG	FIG	FIG
 24	jedes	*	*	*	*
 25	andere	*	*	*	*
 26	Prinzip	*	*	*	*
-27	über	2	2	2	2
-28	Bord	2	2	2	2
+27	über	FIG	FIG	FIG	FIG
+28	Bord	FIG	FIG	FIG	FIG
 29	.	*	*	*	*
 
 # tuepp_article_id = T930125.95
 # sent_id = 6267
+# text = Da alle vier weißen Bauern isoliert stehen , sich also nicht mehr gegenseitig decken können , geht nun einer nach dem anderen über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Da alle vier weißen Bauern isoliert stehen , sich also nicht mehr gegenseitig decken können , geht nun einer nach dem anderen über Bord .
 1	Da	*	*	*	*
 2	alle	*	*	*	*
 3	vier	*	*	*	*
@@ -1410,42 +1450,44 @@
 14	decken	*	*	*	*
 15	können	*	*	*	*
 16	,	*	*	*	*
-17	geht	2	2	2	2
+17	geht	FIG	FIG	FIG	FIG
 18	nun	*	*	*	*
 19	einer	*	*	*	*
 20	nach	*	*	*	*
 21	dem	*	*	*	*
 22	anderen	*	*	*	*
-23	über	2	2	2	2
-24	Bord	2	2	2	2
+23	über	FIG	FIG	FIG	FIG
+24	Bord	FIG	FIG	FIG	FIG
 25	.	*	*	*	*
 
 # tuepp_article_id = T930125.213
 # sent_id = 6268
+# text = Nordwestlich von Borkum ging ein Seemann über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nordwestlich von Borkum ging ein Seemann über Bord .
 1	Nordwestlich	*	*	*	*
 2	von	*	*	*	*
 3	Borkum	*	*	*	*
-4	ging	1	1	1	1
+4	ging	LIT	LIT	LIT	LIT
 5	ein	*	*	*	*
 6	Seemann	*	*	*	*
-7	über	1	1	1	1
-8	Bord	1	1	1	1
+7	über	LIT	LIT	LIT	LIT
+8	Bord	LIT	LIT	LIT	LIT
 9	.	*	*	*	*
 
 # tuepp_article_id = T930104.52
 # sent_id = 6269
+# text = Nach Angaben der russischen Regierung gehen jährlich 1.000 Kubikmeter flüssiger und 2.000 Kubikmeter fester Atommüll über Bord - sowohl vor der russischen als auch vor der norwegischen Nordküste .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nach Angaben der russischen Regierung gehen jährlich 1.000 Kubikmeter flüssiger und 2.000 Kubikmeter fester Atommüll über Bord - sowohl vor der russischen als auch vor der norwegischen Nordküste .
 1	Nach	*	*	*	*
 2	Angaben	*	*	*	*
 3	der	*	*	*	*
 4	russischen	*	*	*	*
 5	Regierung	*	*	*	*
-6	gehen	1	1	1	1
+6	gehen	LIT	LIT	LIT	LIT
 7	jährlich	*	*	*	*
 8	1.000	*	*	*	*
 9	Kubikmeter	*	*	*	*
@@ -1455,8 +1497,8 @@
 13	Kubikmeter	*	*	*	*
 14	fester	*	*	*	*
 15	Atommüll	*	*	*	*
-16	über	1	1	1	1
-17	Bord	1	1	1	1
+16	über	LIT	LIT	LIT	LIT
+17	Bord	LIT	LIT	LIT	LIT
 18	-	*	*	*	*
 19	sowohl	*	*	*	*
 20	vor	*	*	*	*
@@ -1472,9 +1514,10 @@
 
 # tuepp_article_id = T930114.148
 # sent_id = 6270
+# text = Nicht nur die Ausgewogenheit soll beim " Zeitsprung " über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nicht nur die Ausgewogenheit soll beim " Zeitsprung " über Bord gehen .
 1	Nicht	*	*	*	*
 2	nur	*	*	*	*
 3	die	*	*	*	*
@@ -1484,29 +1527,31 @@
 7	"	*	*	*	*
 8	Zeitsprung	*	*	*	*
 9	"	*	*	*	*
-10	über	2	2	2	2
-11	Bord	2	2	2	2
-12	gehen	2	2	2	2
+10	über	FIG	FIG	FIG	FIG
+11	Bord	FIG	FIG	FIG	FIG
+12	gehen	FIG	FIG	FIG	FIG
 13	.	*	*	*	*
 
 # tuepp_article_id = T930701.127
 # sent_id = 6271
+# text = Frauen gehen zuerst über Bord
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Frauen gehen zuerst über Bord
 1	Frauen	*	*	*	*
-2	gehen	1	1	1	1
+2	gehen	LIT	LIT	LIT	LIT
 3	zuerst	*	*	*	*
-4	über	1	1	1	1
-5	Bord	1	1	1	1
+4	über	LIT	LIT	LIT	LIT
+5	Bord	LIT	LIT	LIT	LIT
 
 # tuepp_article_id = T930325.107
 # sent_id = 6272
+# text = Vermutlich ging tatsächlich erst mit dem Erfolg von Wagners selbstgeschnitzten Stabreim-Libretti jenes uralte , von Generation zu Generation weitergereichte Grundwissen über das Verhältnis von Wort und Ton über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vermutlich ging tatsächlich erst mit dem Erfolg von Wagners selbstgeschnitzten Stabreim-Libretti jenes uralte , von Generation zu Generation weitergereichte Grundwissen über das Verhältnis von Wort und Ton über Bord .
 1	Vermutlich	*	*	*	*
-2	ging	2	2	2	2
+2	ging	FIG	FIG	FIG	FIG
 3	tatsächlich	*	*	*	*
 4	erst	*	*	*	*
 5	mit	*	*	*	*
@@ -1532,15 +1577,16 @@
 25	Wort	*	*	*	*
 26	und	*	*	*	*
 27	Ton	*	*	*	*
-28	über	2	2	2	2
-29	Bord	2	2	2	2
+28	über	FIG	FIG	FIG	FIG
+29	Bord	FIG	FIG	FIG	FIG
 30	.	*	*	*	*
 
 # tuepp_article_id = T930227.237
 # sent_id = 6273
+# text = " Damit zum Beispiel Chemikaliengebinde , die bei einem Sturm kaputtgegangen sind , nicht einfach über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Damit zum Beispiel Chemikaliengebinde , die bei einem Sturm kaputtgegangen sind , nicht einfach über Bord gehen .
 1	"	*	*	*	*
 2	Damit	*	*	*	*
 3	zum	*	*	*	*
@@ -1556,16 +1602,17 @@
 13	,	*	*	*	*
 14	nicht	*	*	*	*
 15	einfach	*	*	*	*
-16	über	1	1	1	1
-17	Bord	1	1	1	1
-18	gehen	1	1	1	1
+16	über	LIT	LIT	LIT	LIT
+17	Bord	LIT	LIT	LIT	LIT
+18	gehen	LIT	LIT	LIT	LIT
 19	.	*	*	*	*
 
 # tuepp_article_id = T960515.231
 # sent_id = 6274
+# text = Nun aber ist eine Generation angetreten , die schon beim leichtesten Seegang über Bord zu gehen droht .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Nun aber ist eine Generation angetreten , die schon beim leichtesten Seegang über Bord zu gehen droht .
 1	Nun	*	*	*	*
 2	aber	*	*	*	*
 3	ist	*	*	*	*
@@ -1578,18 +1625,19 @@
 10	beim	*	*	*	*
 11	leichtesten	*	*	*	*
 12	Seegang	*	*	*	*
-13	über	2	2	2	2
-14	Bord	2	2	2	2
+13	über	FIG	FIG	FIG	FIG
+14	Bord	FIG	FIG	FIG	FIG
 15	zu	*	*	*	*
-16	gehen	2	2	2	2
+16	gehen	FIG	FIG	FIG	FIG
 17	droht	*	*	*	*
 18	.	*	*	*	*
 
 # tuepp_article_id = T960624.128
 # sent_id = 6275
+# text = " Der russische Präsident war von den unterschiedlichsten Menschen umgeben , viele von ihnen hielten der Macht- und Reformprobe nicht stand und gingen über Bord ... " , droht das Magazin unverhohlen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Der russische Präsident war von den unterschiedlichsten Menschen umgeben , viele von ihnen hielten der Macht- und Reformprobe nicht stand und gingen über Bord ... " , droht das Magazin unverhohlen .
 1	"	*	*	*	*
 2	Der	*	*	*	*
 3	russische	*	*	*	*
@@ -1612,9 +1660,9 @@
 20	nicht	*	*	*	*
 21	stand	*	*	*	*
 22	und	*	*	*	*
-23	gingen	2	2	2	2
-24	über	2	2	2	2
-25	Bord	2	2	2	2
+23	gingen	FIG	FIG	FIG	FIG
+24	über	FIG	FIG	FIG	FIG
+25	Bord	FIG	FIG	FIG	FIG
 26	...	*	*	*	*
 27	"	*	*	*	*
 28	,	*	*	*	*
@@ -1626,24 +1674,26 @@
 
 # tuepp_article_id = T960904.112
 # sent_id = 6276
+# text = Alles ging in ein paar Stunden über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Alles ging in ein paar Stunden über Bord .
 1	Alles	*	*	*	*
-2	ging	2	2	2	2
+2	ging	FIG	FIG	FIG	FIG
 3	in	*	*	*	*
 4	ein	*	*	*	*
 5	paar	*	*	*	*
 6	Stunden	*	*	*	*
-7	über	2	2	2	2
-8	Bord	2	2	2	2
+7	über	FIG	FIG	FIG	FIG
+8	Bord	FIG	FIG	FIG	FIG
 9	.	*	*	*	*
 
 # tuepp_article_id = T960409.279
 # sent_id = 6277
+# text = Ringtennis , unter den Fittichen des Deutschen Turner-Bundes laufend , wurde 1927 entwickelt - auf Hochseeschiffen versuchte man damals das Decktennis so zu gestalten , daß nicht dauernd der Ball über Bord ging .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ringtennis , unter den Fittichen des Deutschen Turner-Bundes laufend , wurde 1927 entwickelt - auf Hochseeschiffen versuchte man damals das Decktennis so zu gestalten , daß nicht dauernd der Ball über Bord ging .
 1	Ringtennis	*	*	*	*
 2	,	*	*	*	*
 3	unter	*	*	*	*
@@ -1674,16 +1724,17 @@
 28	dauernd	*	*	*	*
 29	der	*	*	*	*
 30	Ball	*	*	*	*
-31	über	1	1	1	1
-32	Bord	1	1	1	1
-33	ging	1	1	1	1
+31	über	LIT	LIT	LIT	LIT
+32	Bord	LIT	LIT	LIT	LIT
+33	ging	LIT	LIT	LIT	LIT
 34	.	*	*	*	*
 
 # tuepp_article_id = T960718.135
 # sent_id = 6278
+# text = Aber Haveldampfer sind robust und fahren unbeirrt weiter - vermutlich selbst dann , wenn einer über Bord geht .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aber Haveldampfer sind robust und fahren unbeirrt weiter - vermutlich selbst dann , wenn einer über Bord geht .
 1	Aber	*	*	*	*
 2	Haveldampfer	*	*	*	*
 3	sind	*	*	*	*
@@ -1699,16 +1750,17 @@
 13	,	*	*	*	*
 14	wenn	*	*	*	*
 15	einer	*	*	*	*
-16	über	1	1	1	1
-17	Bord	1	1	1	1
-18	geht	1	1	1	1
+16	über	LIT	LIT	LIT	LIT
+17	Bord	LIT	LIT	LIT	LIT
+18	geht	LIT	LIT	LIT	LIT
 19	.	*	*	*	*
 
 # tuepp_article_id = T960309.87
 # sent_id = 6279
+# text = Daß zukunftsfähige Arbeitsplätze nur im Einklang mit den ökologischen Erfordernissen zu schaffen sind , geht dabei über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß zukunftsfähige Arbeitsplätze nur im Einklang mit den ökologischen Erfordernissen zu schaffen sind , geht dabei über Bord .
 1	Daß	*	*	*	*
 2	zukunftsfähige	*	*	*	*
 3	Arbeitsplätze	*	*	*	*
@@ -1723,37 +1775,39 @@
 12	schaffen	*	*	*	*
 13	sind	*	*	*	*
 14	,	*	*	*	*
-15	geht	2	2	2	2
+15	geht	FIG	FIG	FIG	FIG
 16	dabei	*	*	*	*
-17	über	2	2	2	2
-18	Bord	2	2	2	2
+17	über	FIG	FIG	FIG	FIG
+18	Bord	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T960321.78
 # sent_id = 6280
+# text = Bei so viel Einsatz geht die vielzitierte journalistische Objektivität schon mal über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bei so viel Einsatz geht die vielzitierte journalistische Objektivität schon mal über Bord .
 1	Bei	*	*	*	*
 2	so	*	*	*	*
 3	viel	*	*	*	*
 4	Einsatz	*	*	*	*
-5	geht	2	2	2	2
+5	geht	FIG	FIG	FIG	FIG
 6	die	*	*	*	*
 7	vielzitierte	*	*	*	*
 8	journalistische	*	*	*	*
 9	Objektivität	*	*	*	*
 10	schon	*	*	*	*
 11	mal	*	*	*	*
-12	über	2	2	2	2
-13	Bord	2	2	2	2
+12	über	FIG	FIG	FIG	FIG
+13	Bord	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T960209.266
 # sent_id = 6281
+# text = Als Kapitäne haben sie gelernt , wie man Müll , Öl und Kacke über Bord gehen läßt , ohne erwischt zu werden .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als Kapitäne haben sie gelernt , wie man Müll , Öl und Kacke über Bord gehen läßt , ohne erwischt zu werden .
 1	Als	*	*	*	*
 2	Kapitäne	*	*	*	*
 3	haben	*	*	*	*
@@ -1767,9 +1821,9 @@
 11	Öl	*	*	*	*
 12	und	*	*	*	*
 13	Kacke	*	*	*	*
-14	über	1	1	1	1
-15	Bord	1	1	1	1
-16	gehen	1	1	1	1
+14	über	LIT	LIT	LIT	LIT
+15	Bord	LIT	LIT	LIT	LIT
+16	gehen	LIT	LIT	LIT	LIT
 17	läßt	*	*	*	*
 18	,	*	*	*	*
 19	ohne	*	*	*	*
@@ -1780,9 +1834,10 @@
 
 # tuepp_article_id = T960226.68
 # sent_id = 6282
+# text = In der Nordsee kommen auf einen Kilo Fisch , der angelandet wird , vier Kilo , die wieder über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In der Nordsee kommen auf einen Kilo Fisch , der angelandet wird , vier Kilo , die wieder über Bord gehen .
 1	In	*	*	*	*
 2	der	*	*	*	*
 3	Nordsee	*	*	*	*
@@ -1801,16 +1856,17 @@
 16	,	*	*	*	*
 17	die	*	*	*	*
 18	wieder	*	*	*	*
-19	über	1	1	1	1
-20	Bord	1	1	1	1
-21	gehen	1	1	1	1
+19	über	LIT	LIT	LIT	LIT
+20	Bord	LIT	LIT	LIT	LIT
+21	gehen	LIT	LIT	LIT	LIT
 22	.	*	*	*	*
 
 # tuepp_article_id = T980523.282
 # sent_id = 6283
+# text = Deshalb wird von vielen Frauenbewegten der Verstoß gegen das Gleichheitsgebot fanatisch verteidigt - so schnell gehen bei mancher die Prinzipien der Aufklärung über Bord , wenn es nur zum eigenen Nutzen ist .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Deshalb wird von vielen Frauenbewegten der Verstoß gegen das Gleichheitsgebot fanatisch verteidigt - so schnell gehen bei mancher die Prinzipien der Aufklärung über Bord , wenn es nur zum eigenen Nutzen ist .
 1	Deshalb	*	*	*	*
 2	wird	*	*	*	*
 3	von	*	*	*	*
@@ -1826,15 +1882,15 @@
 13	-	*	*	*	*
 14	so	*	*	*	*
 15	schnell	*	*	*	*
-16	gehen	2	2	2	2
+16	gehen	FIG	FIG	FIG	FIG
 17	bei	*	*	*	*
 18	mancher	*	*	*	*
 19	die	*	*	*	*
 20	Prinzipien	*	*	*	*
 21	der	*	*	*	*
 22	Aufklärung	*	*	*	*
-23	über	2	2	2	2
-24	Bord	2	2	2	2
+23	über	FIG	FIG	FIG	FIG
+24	Bord	FIG	FIG	FIG	FIG
 25	,	*	*	*	*
 26	wenn	*	*	*	*
 27	es	*	*	*	*
@@ -1847,9 +1903,10 @@
 
 # tuepp_article_id = T980605.197
 # sent_id = 6284
+# text = Trennen sich aber die Eltern , ohne daß dabei " die Prinzipien der Aufklärung über Bord gehen " , das heißt , ohne daß sie in irrationale Kämpfe um die Kinder verfallen - auch gut , dann werden sie schon eine Regelung finden , wie sie ihre Elternschaft zum Wohle der Kinder weiterhin organisieren .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Trennen sich aber die Eltern , ohne daß dabei " die Prinzipien der Aufklärung über Bord gehen " , das heißt , ohne daß sie in irrationale Kämpfe um die Kinder verfallen - auch gut , dann werden sie schon eine Regelung finden , wie sie ihre Elternschaft zum Wohle der Kinder weiterhin organisieren .
 1	Trennen	*	*	*	*
 2	sich	*	*	*	*
 3	aber	*	*	*	*
@@ -1864,9 +1921,9 @@
 12	Prinzipien	*	*	*	*
 13	der	*	*	*	*
 14	Aufklärung	*	*	*	*
-15	über	2	2	2	2
-16	Bord	2	2	2	2
-17	gehen	2	2	2	2
+15	über	FIG	FIG	FIG	FIG
+16	Bord	FIG	FIG	FIG	FIG
+17	gehen	FIG	FIG	FIG	FIG
 18	"	*	*	*	*
 19	,	*	*	*	*
 20	das	*	*	*	*
@@ -1908,9 +1965,10 @@
 
 # tuepp_article_id = T980921.67
 # sent_id = 6285
+# text = Angetrieben von Sprechchören und Trillerpfeifenkonzerten enterten " Panzerknacker " das Schiff " MS Regierung " und ließen Kanzler und Minister über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Angetrieben von Sprechchören und Trillerpfeifenkonzerten enterten " Panzerknacker " das Schiff " MS Regierung " und ließen Kanzler und Minister über Bord gehen .
 1	Angetrieben	*	*	*	*
 2	von	*	*	*	*
 3	Sprechchören	*	*	*	*
@@ -1931,54 +1989,57 @@
 18	Kanzler	*	*	*	*
 19	und	*	*	*	*
 20	Minister	*	*	*	*
-21	über	1	2	2	2
-22	Bord	1	2	2	2
-23	gehen	1	2	2	2
+21	über	LIT	FIG	FIG	FIG
+22	Bord	LIT	FIG	FIG	FIG
+23	gehen	LIT	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T980925.115
 # sent_id = 6286
+# text = " Waigel und Kohl gingen über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Waigel und Kohl gingen über Bord .
 1	"	*	*	*	*
 2	Waigel	*	*	*	*
 3	und	*	*	*	*
 4	Kohl	*	*	*	*
-5	gingen	1	2	2	2
-6	über	1	2	2	2
-7	Bord	1	2	2	2
+5	gingen	LIT	FIG	FIG	FIG
+6	über	LIT	FIG	FIG	FIG
+7	Bord	LIT	FIG	FIG	FIG
 8	.	*	*	*	*
 
 # tuepp_article_id = T980903.36
 # sent_id = 6287
+# text = Leider geht das Gör auf der Schiffsreise über Bord und ertrinkt .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Leider geht das Gör auf der Schiffsreise über Bord und ertrinkt .
 1	Leider	*	*	*	*
-2	geht	1	1	1	1
+2	geht	LIT	LIT	LIT	LIT
 3	das	*	*	*	*
 4	Gör	*	*	*	*
 5	auf	*	*	*	*
 6	der	*	*	*	*
 7	Schiffsreise	*	*	*	*
-8	über	1	1	1	1
-9	Bord	1	1	1	1
+8	über	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
 10	und	*	*	*	*
 11	ertrinkt	*	*	*	*
 12	.	*	*	*	*
 
 # tuepp_article_id = T980107.95
 # sent_id = 6288
+# text = Die neun Besatzungsmitglieder gingen über Bord , konnten aber unverletzt geborgen werden .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die neun Besatzungsmitglieder gingen über Bord , konnten aber unverletzt geborgen werden .
 1	Die	*	*	*	*
 2	neun	*	*	*	*
 3	Besatzungsmitglieder	*	*	*	*
-4	gingen	1	1	1	1
-5	über	1	1	1	1
-6	Bord	1	1	1	1
+4	gingen	LIT	LIT	LIT	LIT
+5	über	LIT	LIT	LIT	LIT
+6	Bord	LIT	LIT	LIT	LIT
 7	,	*	*	*	*
 8	konnten	*	*	*	*
 9	aber	*	*	*	*
@@ -1989,9 +2050,10 @@
 
 # tuepp_article_id = T980404.219
 # sent_id = 6289
+# text = Jedenfalls ein Wesen , das sich mit Lust und Vorliebe im Meer tummelt und mit etwas anderen , kaleidoskopisch organisierten Augen aus dem Wasser heraus perspektivisch stark verzerrte Ansichten vom Ufer festhält , gesunkenen Schiffen nachspürt , beobachtet , wie ein Matrose über Bord geht , oder einfach eine Yacht mit Beiboot im Schlepptau als Motiv entdeckt , so bei " Vollendung " , 1993 .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Jedenfalls ein Wesen , das sich mit Lust und Vorliebe im Meer tummelt und mit etwas anderen , kaleidoskopisch organisierten Augen aus dem Wasser heraus perspektivisch stark verzerrte Ansichten vom Ufer festhält , gesunkenen Schiffen nachspürt , beobachtet , wie ein Matrose über Bord geht , oder einfach eine Yacht mit Beiboot im Schlepptau als Motiv entdeckt , so bei " Vollendung " , 1993 .
 1	Jedenfalls	*	*	*	*
 2	ein	*	*	*	*
 3	Wesen	*	*	*	*
@@ -2034,9 +2096,9 @@
 40	wie	*	*	*	*
 41	ein	*	*	*	*
 42	Matrose	*	*	*	*
-43	über	1	1	1	1
-44	Bord	1	1	1	1
-45	geht	1	1	1	1
+43	über	LIT	LIT	LIT	LIT
+44	Bord	LIT	LIT	LIT	LIT
+45	geht	LIT	LIT	LIT	LIT
 46	,	*	*	*	*
 47	oder	*	*	*	*
 48	einfach	*	*	*	*
@@ -2061,14 +2123,15 @@
 
 # tuepp_article_id = T980721.159
 # sent_id = 6290
+# text = Ein 18jähriger ging über Bord und nahm ein unfreiwilliges Bad , wie die Polizei mitteilte .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein 18jähriger ging über Bord und nahm ein unfreiwilliges Bad , wie die Polizei mitteilte .
 1	Ein	*	*	*	*
 2	18jähriger	*	*	*	*
-3	ging	1	1	1	1
-4	über	1	1	1	1
-5	Bord	1	1	1	1
+3	ging	LIT	LIT	LIT	LIT
+4	über	LIT	LIT	LIT	LIT
+5	Bord	LIT	LIT	LIT	LIT
 6	und	*	*	*	*
 7	nahm	*	*	*	*
 8	ein	*	*	*	*
@@ -2083,9 +2146,10 @@
 
 # tuepp_article_id = T981219.75
 # sent_id = 6291
+# text = Und schon schaukelt alles ungeheuerlich , zwei Matrosen gehen fast über Bord , und in Kapitän Fritjofs Kajüte macht es rumpeldipumpel .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und schon schaukelt alles ungeheuerlich , zwei Matrosen gehen fast über Bord , und in Kapitän Fritjofs Kajüte macht es rumpeldipumpel .
 1	Und	*	*	*	*
 2	schon	*	*	*	*
 3	schaukelt	*	*	*	*
@@ -2094,10 +2158,10 @@
 6	,	*	*	*	*
 7	zwei	*	*	*	*
 8	Matrosen	*	*	*	*
-9	gehen	1	1	1	1
+9	gehen	LIT	LIT	LIT	LIT
 10	fast	*	*	*	*
-11	über	1	1	1	1
-12	Bord	1	1	1	1
+11	über	LIT	LIT	LIT	LIT
+12	Bord	LIT	LIT	LIT	LIT
 13	,	*	*	*	*
 14	und	*	*	*	*
 15	in	*	*	*	*
@@ -2111,17 +2175,18 @@
 
 # tuepp_article_id = T980803.77
 # sent_id = 6292
+# text = Möglicherweise stammen sie aus einer über Bord gegangenen Ladung eines spanischen Schiffes .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Möglicherweise stammen sie aus einer über Bord gegangenen Ladung eines spanischen Schiffes .
 1	Möglicherweise	*	*	*	*
 2	stammen	*	*	*	*
 3	sie	*	*	*	*
 4	aus	*	*	*	*
 5	einer	*	*	*	*
-6	über	1	1	1	1
-7	Bord	1	1	1	1
-8	gegangenen	1	1	1	1
+6	über	LIT	LIT	LIT	LIT
+7	Bord	LIT	LIT	LIT	LIT
+8	gegangenen	LIT	LIT	LIT	LIT
 9	Ladung	*	*	*	*
 10	eines	*	*	*	*
 11	spanischen	*	*	*	*
@@ -2130,9 +2195,10 @@
 
 # tuepp_article_id = T980824.119
 # sent_id = 6293
+# text = Dieser Politikverzicht war , wie bei der SPD , aus der Angst geboren , daß dann , je härter man politisch am Wind segelt , der ganze Kahn kentert und einige über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dieser Politikverzicht war , wie bei der SPD , aus der Angst geboren , daß dann , je härter man politisch am Wind segelt , der ganze Kahn kentert und einige über Bord gehen .
 1	Dieser	*	*	*	*
 2	Politikverzicht	*	*	*	*
 3	war	*	*	*	*
@@ -2164,16 +2230,17 @@
 29	kentert	*	*	*	*
 30	und	*	*	*	*
 31	einige	*	*	*	*
-32	über	2	2	2	2
-33	Bord	2	2	2	2
-34	gehen	2	2	2	2
+32	über	FIG	FIG	FIG	FIG
+33	Bord	FIG	FIG	FIG	FIG
+34	gehen	FIG	FIG	FIG	FIG
 35	.	*	*	*	*
 
 # tuepp_article_id = T980218.218
 # sent_id = 6294
+# text = Der Skipper war im Oktober 1997 während einer Fahrt von Hooksiel ( Kreis Friesland ) nach Bremerhaven bei stürmischem Wind über Bord gegangen und ertrunken .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Skipper war im Oktober 1997 während einer Fahrt von Hooksiel ( Kreis Friesland ) nach Bremerhaven bei stürmischem Wind über Bord gegangen und ertrunken .
 1	Der	*	*	*	*
 2	Skipper	*	*	*	*
 3	war	*	*	*	*
@@ -2194,18 +2261,19 @@
 18	bei	*	*	*	*
 19	stürmischem	*	*	*	*
 20	Wind	*	*	*	*
-21	über	1	1	1	1
-22	Bord	1	1	1	1
-23	gegangen	1	1	1	1
+21	über	LIT	LIT	LIT	LIT
+22	Bord	LIT	LIT	LIT	LIT
+23	gegangen	LIT	LIT	LIT	LIT
 24	und	*	*	*	*
 25	ertrunken	*	*	*	*
 26	.	*	*	*	*
 
 # tuepp_article_id = T970503.263
 # sent_id = 6295
+# text = Als ein lautdröhnendes Motorboot am Kahn vorbeifährt , geht sein " Essen " über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als ein lautdröhnendes Motorboot am Kahn vorbeifährt , geht sein " Essen " über Bord .
 1	Als	*	*	*	*
 2	ein	*	*	*	*
 3	lautdröhnendes	*	*	*	*
@@ -2214,20 +2282,21 @@
 6	Kahn	*	*	*	*
 7	vorbeifährt	*	*	*	*
 8	,	*	*	*	*
-9	geht	1	1	1	1
+9	geht	LIT	LIT	LIT	LIT
 10	sein	*	*	*	*
 11	"	*	*	*	*
 12	Essen	*	*	*	*
 13	"	*	*	*	*
-14	über	1	1	1	1
-15	Bord	1	1	1	1
+14	über	LIT	LIT	LIT	LIT
+15	Bord	LIT	LIT	LIT	LIT
 16	.	*	*	*	*
 
 # tuepp_article_id = T970612.172
 # sent_id = 6296
+# text = Durch ihn kam ein neuer Ton in die kulturpolitische Szene , die sich nach Kräften bemühte , ihre Erbschaft aus den siebziger Jahren zwanglos über Bord gehen zu lassen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Durch ihn kam ein neuer Ton in die kulturpolitische Szene , die sich nach Kräften bemühte , ihre Erbschaft aus den siebziger Jahren zwanglos über Bord gehen zu lassen .
 1	Durch	*	*	*	*
 2	ihn	*	*	*	*
 3	kam	*	*	*	*
@@ -2252,18 +2321,19 @@
 22	siebziger	*	*	*	*
 23	Jahren	*	*	*	*
 24	zwanglos	*	*	*	*
-25	über	2	2	2	2
-26	Bord	2	2	2	2
-27	gehen	2	2	2	2
+25	über	FIG	FIG	FIG	FIG
+26	Bord	FIG	FIG	FIG	FIG
+27	gehen	FIG	FIG	FIG	FIG
 28	zu	*	*	*	*
 29	lassen	*	*	*	*
 30	.	*	*	*	*
 
 # tuepp_article_id = T970613.205
 # sent_id = 6297
+# text = Betriebsräte der Genossenschaftsinstitute verweisen darauf , daß bei derartigen Zusammenschlüssen erfahrungsgemäß " mindestens zehn Prozent der Stellen " über Bord gingen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Betriebsräte der Genossenschaftsinstitute verweisen darauf , daß bei derartigen Zusammenschlüssen erfahrungsgemäß " mindestens zehn Prozent der Stellen " über Bord gingen .
 1	Betriebsräte	*	*	*	*
 2	der	*	*	*	*
 3	Genossenschaftsinstitute	*	*	*	*
@@ -2282,18 +2352,19 @@
 16	der	*	*	*	*
 17	Stellen	*	*	*	*
 18	"	*	*	*	*
-19	über	2	2	2	2
-20	Bord	2	2	2	2
-21	gingen	2	2	2	2
+19	über	FIG	FIG	FIG	FIG
+20	Bord	FIG	FIG	FIG	FIG
+21	gingen	FIG	FIG	FIG	FIG
 22	.	*	*	*	*
 
 # tuepp_article_id = T971013.295
 # sent_id = 6298
+# text = Dabei ging nach Angaben der Wasserschutzpolizei Bremerhaven der 39jährige aus bislang unbekannter Ursache über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dabei ging nach Angaben der Wasserschutzpolizei Bremerhaven der 39jährige aus bislang unbekannter Ursache über Bord .
 1	Dabei	*	*	*	*
-2	ging	1	1	1	1
+2	ging	LIT	LIT	LIT	LIT
 3	nach	*	*	*	*
 4	Angaben	*	*	*	*
 5	der	*	*	*	*
@@ -2305,15 +2376,16 @@
 11	bislang	*	*	*	*
 12	unbekannter	*	*	*	*
 13	Ursache	*	*	*	*
-14	über	1	1	1	1
-15	Bord	1	1	1	1
+14	über	LIT	LIT	LIT	LIT
+15	Bord	LIT	LIT	LIT	LIT
 16	.	*	*	*	*
 
 # tuepp_article_id = T971014.141
 # sent_id = 6299
+# text = Besonders stolz sind die WNBA-Managerinnen darauf , wieder Emotionen in den US-Profi-Basketball zurückgebracht zu haben , die in der NBA über Bord gegangen sind .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Besonders stolz sind die WNBA-Managerinnen darauf , wieder Emotionen in den US-Profi-Basketball zurückgebracht zu haben , die in der NBA über Bord gegangen sind .
 1	Besonders	*	*	*	*
 2	stolz	*	*	*	*
 3	sind	*	*	*	*
@@ -2334,17 +2406,18 @@
 18	in	*	*	*	*
 19	der	*	*	*	*
 20	NBA	*	*	*	*
-21	über	2	2	2	2
-22	Bord	2	2	2	2
-23	gegangen	2	2	2	2
+21	über	FIG	FIG	FIG	FIG
+22	Bord	FIG	FIG	FIG	FIG
+23	gegangen	FIG	FIG	FIG	FIG
 24	sind	*	*	*	*
 25	.	*	*	*	*
 
 # tuepp_article_id = T970922.277
 # sent_id = 6300
+# text = Ich will nicht ausschließen , daß hier und da mal ein Farbeimer über Bord gegangen ist .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ich will nicht ausschließen , daß hier und da mal ein Farbeimer über Bord gegangen ist .
 1	Ich	*	*	*	*
 2	will	*	*	*	*
 3	nicht	*	*	*	*
@@ -2357,35 +2430,37 @@
 10	mal	*	*	*	*
 11	ein	*	*	*	*
 12	Farbeimer	*	*	*	*
-13	über	1	1	2	1
-14	Bord	1	1	2	1
-15	gegangen	1	1	2	1
+13	über	LIT	LIT	FIG	LIT
+14	Bord	LIT	LIT	FIG	LIT
+15	gegangen	LIT	LIT	FIG	LIT
 16	ist	*	*	*	*
 17	.	*	*	*	*
 
 # tuepp_article_id = T970115.99
 # sent_id = 6301
+# text = Ob die Fischer hier etwas von über Bord gegangenen Leuten wissen ?
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ob die Fischer hier etwas von über Bord gegangenen Leuten wissen ?
 1	Ob	*	*	*	*
 2	die	*	*	*	*
 3	Fischer	*	*	*	*
 4	hier	*	*	*	*
 5	etwas	*	*	*	*
 6	von	*	*	*	*
-7	über	1	1	1	1
-8	Bord	1	1	1	1
+7	über	LIT	LIT	LIT	LIT
+8	Bord	LIT	LIT	LIT	LIT
 9	gegangenen	*	*	*	*
-10	Leuten	1	1	1	1
+10	Leuten	LIT	LIT	LIT	LIT
 11	wissen	*	*	*	*
 12	?	*	*	*	*
 
 # tuepp_article_id = T970115.99
 # sent_id = 6302
+# text = " Wir wissen , daß Ihnen Personen über Bord gegangen sind " , schreit Berghini , " und wenn Sie nicht sofort weitermachen mit der Suche nach ihnen , verhafte ich Sie , notfalls auch hier außerhalb der Zehnmeilenzone .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wir wissen , daß Ihnen Personen über Bord gegangen sind " , schreit Berghini , " und wenn Sie nicht sofort weitermachen mit der Suche nach ihnen , verhafte ich Sie , notfalls auch hier außerhalb der Zehnmeilenzone .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	wissen	*	*	*	*
@@ -2393,9 +2468,9 @@
 5	daß	*	*	*	*
 6	Ihnen	*	*	*	*
 7	Personen	*	*	*	*
-8	über	1	1	1	1
-9	Bord	1	1	1	1
-10	gegangen	1	1	1	1
+8	über	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
+10	gegangen	LIT	LIT	LIT	LIT
 11	sind	*	*	*	*
 12	"	*	*	*	*
 13	,	*	*	*	*
@@ -2429,16 +2504,17 @@
 
 # tuepp_article_id = T970703.257
 # sent_id = 6303
+# text = Wer unter mannschaftlichem Druck über Bord geht oder zur Strafe festgezurrt auf dem Mastbaum kauert , hatte die Hackordnungen der Männergemeinschaft diffamiert , die Schatzkarte heimlich an sich genommen oder die dünnhäutige Adelsdame mit ausgelassener Kneipenderbheit beleidigt .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wer unter mannschaftlichem Druck über Bord geht oder zur Strafe festgezurrt auf dem Mastbaum kauert , hatte die Hackordnungen der Männergemeinschaft diffamiert , die Schatzkarte heimlich an sich genommen oder die dünnhäutige Adelsdame mit ausgelassener Kneipenderbheit beleidigt .
 1	Wer	*	*	*	*
 2	unter	*	*	*	*
 3	mannschaftlichem	*	*	*	*
 4	Druck	*	*	*	*
-5	über	1	2	1	1
-6	Bord	1	2	1	1
-7	geht	1	2	1	1
+5	über	LIT	FIG	LIT	LIT
+6	Bord	LIT	FIG	LIT	LIT
+7	geht	LIT	FIG	LIT	LIT
 8	oder	*	*	*	*
 9	zur	*	*	*	*
 10	Strafe	*	*	*	*
@@ -2473,9 +2549,10 @@
 
 # tuepp_article_id = T970809.276
 # sent_id = 6304
+# text = Kapitän Johann Behrens vom Bestattungsschiff " Pax Mare " braucht drei Stunden für die Tour , inklusive Ehrenrunde um die Stelle , an der die Urne über Bord geht .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kapitän Johann Behrens vom Bestattungsschiff " Pax Mare " braucht drei Stunden für die Tour , inklusive Ehrenrunde um die Stelle , an der die Urne über Bord geht .
 1	Kapitän	*	*	*	*
 2	Johann	*	*	*	*
 3	Behrens	*	*	*	*
@@ -2502,16 +2579,17 @@
 24	der	*	*	*	*
 25	die	*	*	*	*
 26	Urne	*	*	*	*
-27	über	1	1	1	1
-28	Bord	1	1	1	1
-29	geht	1	1	1	1
+27	über	LIT	LIT	LIT	LIT
+28	Bord	LIT	LIT	LIT	LIT
+29	geht	LIT	LIT	LIT	LIT
 30	.	*	*	*	*
 
 # tuepp_article_id = T970306.265
 # sent_id = 6305
+# text = Der größte Teil des Fangs wird jedoch nicht vermarktet , sondern geht als Beifang tot oder verletzt wieder über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der größte Teil des Fangs wird jedoch nicht vermarktet , sondern geht als Beifang tot oder verletzt wieder über Bord .
 1	Der	*	*	*	*
 2	größte	*	*	*	*
 3	Teil	*	*	*	*
@@ -2523,22 +2601,23 @@
 9	vermarktet	*	*	*	*
 10	,	*	*	*	*
 11	sondern	*	*	*	*
-12	geht	1	1	1	1
+12	geht	LIT	LIT	LIT	LIT
 13	als	*	*	*	*
 14	Beifang	*	*	*	*
 15	tot	*	*	*	*
 16	oder	*	*	*	*
 17	verletzt	*	*	*	*
 18	wieder	*	*	*	*
-19	über	1	1	1	1
-20	Bord	1	1	1	1
+19	über	LIT	LIT	LIT	LIT
+20	Bord	LIT	LIT	LIT	LIT
 21	.	*	*	*	*
 
 # tuepp_article_id = T940919.87
 # sent_id = 6306
+# text = Für den Bundessprecher der Grünen , Peter Pilz , ist die Ankündigung einer Teilnahme Österreichs an der Nato-Partnerschaft das " Eingeständnis , daß mit dem EU-Beitritt auch die Neutralität über Bord geht " .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Für den Bundessprecher der Grünen , Peter Pilz , ist die Ankündigung einer Teilnahme Österreichs an der Nato-Partnerschaft das " Eingeständnis , daß mit dem EU-Beitritt auch die Neutralität über Bord geht " .
 1	Für	*	*	*	*
 2	den	*	*	*	*
 3	Bundessprecher	*	*	*	*
@@ -2568,17 +2647,18 @@
 27	auch	*	*	*	*
 28	die	*	*	*	*
 29	Neutralität	*	*	*	*
-30	über	2	2	2	2
-31	Bord	2	2	2	2
-32	geht	2	2	2	2
+30	über	FIG	FIG	FIG	FIG
+31	Bord	FIG	FIG	FIG	FIG
+32	geht	FIG	FIG	FIG	FIG
 33	"	*	*	*	*
 34	.	*	*	*	*
 
 # tuepp_article_id = T940122.256
 # sent_id = 6307
+# text = Die Gift-Beutel waren von dem französischen Frachter " Sherbro " in der Nacht zum 10. Dezember 1993 bei stürmischer See über Bord gegangen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Gift-Beutel waren von dem französischen Frachter " Sherbro " in der Nacht zum 10. Dezember 1993 bei stürmischer See über Bord gegangen .
 1	Die	*	*	*	*
 2	Gift-Beutel	*	*	*	*
 3	waren	*	*	*	*
@@ -2600,16 +2680,17 @@
 19	bei	*	*	*	*
 20	stürmischer	*	*	*	*
 21	See	*	*	*	*
-22	über	1	1	1	1
-23	Bord	1	1	1	1
-24	gegangen	1	1	1	1
+22	über	LIT	LIT	LIT	LIT
+23	Bord	LIT	LIT	LIT	LIT
+24	gegangen	LIT	LIT	LIT	LIT
 25	.	*	*	*	*
 
 # tuepp_article_id = T940125.2
 # sent_id = 6308
+# text = Hamburg / Juist ( taz / dpa / AP ) - Verwirrung um die auch der deutschen Nordseeküste drohende Beutelpest aus dem Hause Ciba-Geigy : Greenpeace hatte zunächst erklärt , daß es sich bei vier auf der Insel Juist gestrandeten Behältnissen um Tüten mit dem Pestizid " Apron Plus 50 DS " handele , die aus der über Bord gegangenen hochgiftigen Ladung des Frachters " Sherbro " stammten .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hamburg / Juist ( taz / dpa / AP ) - Verwirrung um die auch der deutschen Nordseeküste drohende Beutelpest aus dem Hause Ciba-Geigy : Greenpeace hatte zunächst erklärt , daß es sich bei vier auf der Insel Juist gestrandeten Behältnissen um Tüten mit dem Pestizid " Apron Plus 50 DS " handele , die aus der über Bord gegangenen hochgiftigen Ladung des Frachters " Sherbro " stammten .
 1	Hamburg	*	*	*	*
 2	/	*	*	*	*
 3	Juist	*	*	*	*
@@ -2667,9 +2748,9 @@
 55	die	*	*	*	*
 56	aus	*	*	*	*
 57	der	*	*	*	*
-58	über	1	1	1	1
-59	Bord	1	1	1	1
-60	gegangenen	1	1	1	1
+58	über	LIT	LIT	LIT	LIT
+59	Bord	LIT	LIT	LIT	LIT
+60	gegangenen	LIT	LIT	LIT	LIT
 61	hochgiftigen	*	*	*	*
 62	Ladung	*	*	*	*
 63	des	*	*	*	*
@@ -2682,18 +2763,19 @@
 
 # tuepp_article_id = T940125.2
 # sent_id = 6309
+# text = Nach Berechnungen von Greenpeace hat der über Bord gegangene Container 7,2 Tonnen Ladung gehabt .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nach Berechnungen von Greenpeace hat der über Bord gegangene Container 7,2 Tonnen Ladung gehabt .
 1	Nach	*	*	*	*
 2	Berechnungen	*	*	*	*
 3	von	*	*	*	*
 4	Greenpeace	*	*	*	*
 5	hat	*	*	*	*
 6	der	*	*	*	*
-7	über	1	1	1	1
-8	Bord	1	1	1	1
-9	gegangene	1	1	1	1
+7	über	LIT	LIT	LIT	LIT
+8	Bord	LIT	LIT	LIT	LIT
+9	gegangene	LIT	LIT	LIT	LIT
 10	Container	*	*	*	*
 11	7,2	*	*	*	*
 12	Tonnen	*	*	*	*
@@ -2703,9 +2785,10 @@
 
 # tuepp_article_id = T940125.50
 # sent_id = 6310
+# text = " Über Deck könne man gefährliche Ladung in kritischen Situationen einfach über Bord gehen lassen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Über Deck könne man gefährliche Ladung in kritischen Situationen einfach über Bord gehen lassen .
 1	"	*	*	*	*
 2	Über	*	*	*	*
 3	Deck	*	*	*	*
@@ -2717,17 +2800,18 @@
 9	kritischen	*	*	*	*
 10	Situationen	*	*	*	*
 11	einfach	*	*	*	*
-12	über	1	1	1	1
-13	Bord	1	1	1	1
-14	gehen	1	1	1	1
+12	über	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
+14	gehen	LIT	LIT	LIT	LIT
 15	lassen	*	*	*	*
 16	.	*	*	*	*
 
 # tuepp_article_id = T940125.88
 # sent_id = 6311
+# text = Doch das gesellschaftlich legitimierte Gewinnstreben verschärft das Risiko : Das Gift wird über Deck verstaut , lieber läßt der Reeder es über Bord gehen , als sein Schiff bei einem Unfall zu verlieren .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch das gesellschaftlich legitimierte Gewinnstreben verschärft das Risiko : Das Gift wird über Deck verstaut , lieber läßt der Reeder es über Bord gehen , als sein Schiff bei einem Unfall zu verlieren .
 1	Doch	*	*	*	*
 2	das	*	*	*	*
 3	gesellschaftlich	*	*	*	*
@@ -2749,9 +2833,9 @@
 19	der	*	*	*	*
 20	Reeder	*	*	*	*
 21	es	*	*	*	*
-22	über	1	1	1	1
-23	Bord	1	1	1	1
-24	gehen	1	1	1	1
+22	über	LIT	LIT	LIT	LIT
+23	Bord	LIT	LIT	LIT	LIT
+24	gehen	LIT	LIT	LIT	LIT
 25	,	*	*	*	*
 26	als	*	*	*	*
 27	sein	*	*	*	*
@@ -2765,9 +2849,10 @@
 
 # tuepp_article_id = T940131.89
 # sent_id = 6312
+# text = In den 70er Jahren , als die KPF noch die zweitgrößte kommunistische Partei des Westens war , ging auf diese Art die " Diktatur des Proletariats " über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In den 70er Jahren , als die KPF noch die zweitgrößte kommunistische Partei des Westens war , ging auf diese Art die " Diktatur des Proletariats " über Bord .
 1	In	*	*	*	*
 2	den	*	*	*	*
 3	70er	*	*	*	*
@@ -2785,7 +2870,7 @@
 15	Westens	*	*	*	*
 16	war	*	*	*	*
 17	,	*	*	*	*
-18	ging	2	2	2	2
+18	ging	FIG	FIG	FIG	FIG
 19	auf	*	*	*	*
 20	diese	*	*	*	*
 21	Art	*	*	*	*
@@ -2795,20 +2880,21 @@
 25	des	*	*	*	*
 26	Proletariats	*	*	*	*
 27	"	*	*	*	*
-28	über	2	2	2	2
-29	Bord	2	2	2	2
+28	über	FIG	FIG	FIG	FIG
+29	Bord	FIG	FIG	FIG	FIG
 30	.	*	*	*	*
 
 # tuepp_article_id = T940126.24
 # sent_id = 6313
+# text = Vor der französischen Kanalküste gingen sie dem Frachter " Sherbro " der großen französischen Privatreederei Delmas Vieljeux über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Vor der französischen Kanalküste gingen sie dem Frachter " Sherbro " der großen französischen Privatreederei Delmas Vieljeux über Bord .
 1	Vor	*	*	*	*
 2	der	*	*	*	*
 3	französischen	*	*	*	*
 4	Kanalküste	*	*	*	*
-5	gingen	1	1	1	1
+5	gingen	LIT	LIT	LIT	LIT
 6	sie	*	*	*	*
 7	dem	*	*	*	*
 8	Frachter	*	*	*	*
@@ -2821,17 +2907,18 @@
 15	Privatreederei	*	*	*	*
 16	Delmas	*	*	*	*
 17	Vieljeux	*	*	*	*
-18	über	1	1	1	1
-19	Bord	1	1	1	1
+18	über	LIT	LIT	LIT	LIT
+19	Bord	LIT	LIT	LIT	LIT
 20	.	*	*	*	*
 
 # tuepp_article_id = T940126.24
 # sent_id = 6314
+# text = Normalerweise gehen auch bei schwerer See nur einzelne Container über Bord .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Normalerweise gehen auch bei schwerer See nur einzelne Container über Bord .
 1	Normalerweise	*	*	*	*
-2	gehen	1	1	1	1
+2	gehen	LIT	LIT	LIT	LIT
 3	auch	*	*	*	*
 4	bei	*	*	*	*
 5	schwerer	*	*	*	*
@@ -2839,15 +2926,16 @@
 7	nur	*	*	*	*
 8	einzelne	*	*	*	*
 9	Container	*	*	*	*
-10	über	1	1	1	1
-11	Bord	1	1	1	1
+10	über	LIT	LIT	LIT	LIT
+11	Bord	LIT	LIT	LIT	LIT
 12	.	*	*	*	*
 
 # tuepp_article_id = T940126.131
 # sent_id = 6315
+# text = Auch die Ziele von Bürgernähe und Transparenz seien " ziemlich über Bord gegangen " zugunsten von Strukturen , die sehr den Altparteien glichen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auch die Ziele von Bürgernähe und Transparenz seien " ziemlich über Bord gegangen " zugunsten von Strukturen , die sehr den Altparteien glichen .
 1	Auch	*	*	*	*
 2	die	*	*	*	*
 3	Ziele	*	*	*	*
@@ -2858,9 +2946,9 @@
 8	seien	*	*	*	*
 9	"	*	*	*	*
 10	ziemlich	*	*	*	*
-11	über	2	2	2	2
-12	Bord	2	2	2	2
-13	gegangen	2	2	2	2
+11	über	FIG	FIG	FIG	FIG
+12	Bord	FIG	FIG	FIG	FIG
+13	gegangen	FIG	FIG	FIG	FIG
 14	"	*	*	*	*
 15	zugunsten	*	*	*	*
 16	von	*	*	*	*
@@ -2875,9 +2963,10 @@
 
 # tuepp_article_id = T940121.56
 # sent_id = 6316
+# text = Die Sherbro hatte bei einem Sturm Anfang Dezember mindestens 88 Container verloren oder über Bord gehen lassen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Sherbro hatte bei einem Sturm Anfang Dezember mindestens 88 Container verloren oder über Bord gehen lassen .
 1	Die	*	*	*	*
 2	Sherbro	*	*	*	*
 3	hatte	*	*	*	*
@@ -2891,24 +2980,25 @@
 11	Container	*	*	*	*
 12	verloren	*	*	*	*
 13	oder	*	*	*	*
-14	über	1	1	1	1
-15	Bord	1	1	1	1
-16	gehen	1	1	1	1
+14	über	LIT	LIT	LIT	LIT
+15	Bord	LIT	LIT	LIT	LIT
+16	gehen	LIT	LIT	LIT	LIT
 17	lassen	*	*	*	*
 18	.	*	*	*	*
 
 # tuepp_article_id = T940121.56
 # sent_id = 6317
+# text = Sprengzünder , die mit über Bord gegangen waren und zu Tausenden an Frankreichs Stränden auftauchten , haben die niederländischen Behörden bislang nicht gefunden .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sprengzünder , die mit über Bord gegangen waren und zu Tausenden an Frankreichs Stränden auftauchten , haben die niederländischen Behörden bislang nicht gefunden .
 1	Sprengzünder	*	*	*	*
 2	,	*	*	*	*
 3	die	*	*	*	*
 4	mit	*	*	*	*
-5	über	1	1	1	1
-6	Bord	1	1	1	1
-7	gegangen	1	1	1	1
+5	über	LIT	LIT	LIT	LIT
+6	Bord	LIT	LIT	LIT	LIT
+7	gegangen	LIT	LIT	LIT	LIT
 8	waren	*	*	*	*
 9	und	*	*	*	*
 10	zu	*	*	*	*
@@ -2929,9 +3019,10 @@
 
 # tuepp_article_id = T940121.56
 # sent_id = 6318
+# text = Rainer Alpers von der Seeberufsgenossenschaft in Hamburg zumindest glaubt nicht , daß die Giftbeutel schon vor der französischen Küste über Bord gegangen sind .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Rainer Alpers von der Seeberufsgenossenschaft in Hamburg zumindest glaubt nicht , daß die Giftbeutel schon vor der französischen Küste über Bord gegangen sind .
 1	Rainer	*	*	*	*
 2	Alpers	*	*	*	*
 3	von	*	*	*	*
@@ -2951,25 +3042,26 @@
 17	der	*	*	*	*
 18	französischen	*	*	*	*
 19	Küste	*	*	*	*
-20	über	1	1	1	1
-21	Bord	1	1	1	1
-22	gegangen	1	1	1	1
+20	über	LIT	LIT	LIT	LIT
+21	Bord	LIT	LIT	LIT	LIT
+22	gegangen	LIT	LIT	LIT	LIT
 23	sind	*	*	*	*
 24	.	*	*	*	*
 
 # tuepp_article_id = T940127.188
 # sent_id = 6319
+# text = Daß ein Container mit Gefahrgut über Bord geht , das ist nach den Transportvorschriften sogar gewollt , sagt Peter Ulrich vom Arbeitskreis .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß ein Container mit Gefahrgut über Bord geht , das ist nach den Transportvorschriften sogar gewollt , sagt Peter Ulrich vom Arbeitskreis .
 1	Daß	*	*	*	*
 2	ein	*	*	*	*
 3	Container	*	*	*	*
 4	mit	*	*	*	*
 5	Gefahrgut	*	*	*	*
-6	über	1	1	1	1
-7	Bord	1	1	1	1
-8	geht	1	1	1	1
+6	über	LIT	LIT	LIT	LIT
+7	Bord	LIT	LIT	LIT	LIT
+8	geht	LIT	LIT	LIT	LIT
 9	,	*	*	*	*
 10	das	*	*	*	*
 11	ist	*	*	*	*
@@ -2988,18 +3080,19 @@
 
 # tuepp_article_id = T941231.56
 # sent_id = 6320
+# text = Die Fracht ging vor der niederländischen Küste über Bord und sank auf Grund .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Fracht ging vor der niederländischen Küste über Bord und sank auf Grund .
 1	Die	*	*	*	*
 2	Fracht	*	*	*	*
-3	ging	1	1	1	1
+3	ging	LIT	LIT	LIT	LIT
 4	vor	*	*	*	*
 5	der	*	*	*	*
 6	niederländischen	*	*	*	*
 7	Küste	*	*	*	*
-8	über	1	1	1	1
-9	Bord	1	1	1	1
+8	über	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
 10	und	*	*	*	*
 11	sank	*	*	*	*
 12	auf	*	*	*	*
@@ -3008,15 +3101,16 @@
 
 # tuepp_article_id = T941231.56
 # sent_id = 6321
+# text = Vierzig Fässer seien über Bord gegangen ; die restlichen , an Bord gebliebenen , seien in Goole geborgen worden .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vierzig Fässer seien über Bord gegangen ; die restlichen , an Bord gebliebenen , seien in Goole geborgen worden .
 1	Vierzig	*	*	*	*
 2	Fässer	*	*	*	*
 3	seien	*	*	*	*
-4	über	1	1	1	1
-5	Bord	1	1	1	1
-6	gegangen	1	1	1	1
+4	über	LIT	LIT	LIT	LIT
+5	Bord	LIT	LIT	LIT	LIT
+6	gegangen	LIT	LIT	LIT	LIT
 7	;	*	*	*	*
 8	die	*	*	*	*
 9	restlichen	*	*	*	*
@@ -3034,23 +3128,25 @@
 
 # tuepp_article_id = T940822.64
 # sent_id = 6322
+# text = Da wird einiges Wir-Gefühl über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Da wird einiges Wir-Gefühl über Bord gehen .
 1	Da	*	*	*	*
 2	wird	*	*	*	*
 3	einiges	*	*	*	*
 4	Wir-Gefühl	*	*	*	*
-5	über	2	2	2	2
-6	Bord	2	2	2	2
-7	gehen	2	2	2	2
+5	über	FIG	FIG	FIG	FIG
+6	Bord	FIG	FIG	FIG	FIG
+7	gehen	FIG	FIG	FIG	FIG
 8	.	*	*	*	*
 
 # tuepp_article_id = T941123.171
 # sent_id = 6324
+# text = Gemeinsam improvisatorisch erarbeitet , entstand eine vollständig entzauberte Fassung des Stoffes , in welcher zusammen mit den Mythen leider auch die Spannung über Bord ging .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Gemeinsam improvisatorisch erarbeitet , entstand eine vollständig entzauberte Fassung des Stoffes , in welcher zusammen mit den Mythen leider auch die Spannung über Bord ging .
 1	Gemeinsam	*	*	*	*
 2	improvisatorisch	*	*	*	*
 3	erarbeitet	*	*	*	*
@@ -3073,16 +3169,17 @@
 20	auch	*	*	*	*
 21	die	*	*	*	*
 22	Spannung	*	*	*	*
-23	über	2	2	2	2
-24	Bord	2	2	2	2
-25	ging	2	2	2	2
+23	über	FIG	FIG	FIG	FIG
+24	Bord	FIG	FIG	FIG	FIG
+25	ging	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T940221.50
 # sent_id = 6325
+# text = Cuxhaven ( dpa ) - Das deutsche Ölbekämpfungsschiff Scharhörn hat sieben vom norwegischen Frachter Marine Trader über Bord gegangene Chemiecontainer geborgen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Cuxhaven ( dpa ) - Das deutsche Ölbekämpfungsschiff Scharhörn hat sieben vom norwegischen Frachter Marine Trader über Bord gegangene Chemiecontainer geborgen .
 1	Cuxhaven	*	*	*	*
 2	(	*	*	*	*
 3	dpa	*	*	*	*
@@ -3099,18 +3196,19 @@
 14	Frachter	*	*	*	*
 15	Marine	*	*	*	*
 16	Trader	*	*	*	*
-17	über	1	1	1	1
-18	Bord	1	1	1	1
+17	über	LIT	LIT	LIT	LIT
+18	Bord	LIT	LIT	LIT	LIT
 19	gegangene	*	*	*	*
 20	Chemiecontainer	*	*	*	*
-21	geborgen	1	1	1	1
+21	geborgen	LIT	LIT	LIT	LIT
 22	.	*	*	*	*
 
 # tuepp_article_id = T950615.72
 # sent_id = 6327
+# text = Bei Schiffsunfällen und dem illegalen Auswaschen der Treibstofftanks auf dem Meer gehen jährlich zwischen 15.000 und 20.000 Tonnen über Bord , durch Flüsse und direkte Einleitung von Industrieunternehmen an der Küste wälzen sich weitere 23.000 bis 65.000 Tonnen in die Nordsee .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bei Schiffsunfällen und dem illegalen Auswaschen der Treibstofftanks auf dem Meer gehen jährlich zwischen 15.000 und 20.000 Tonnen über Bord , durch Flüsse und direkte Einleitung von Industrieunternehmen an der Küste wälzen sich weitere 23.000 bis 65.000 Tonnen in die Nordsee .
 1	Bei	*	*	*	*
 2	Schiffsunfällen	*	*	*	*
 3	und	*	*	*	*
@@ -3122,15 +3220,15 @@
 9	auf	*	*	*	*
 10	dem	*	*	*	*
 11	Meer	*	*	*	*
-12	gehen	1	1	1	1
+12	gehen	LIT	LIT	LIT	LIT
 13	jährlich	*	*	*	*
 14	zwischen	*	*	*	*
 15	15.000	*	*	*	*
 16	und	*	*	*	*
 17	20.000	*	*	*	*
 18	Tonnen	*	*	*	*
-19	über	1	1	1	1
-20	Bord	1	1	1	1
+19	über	LIT	LIT	LIT	LIT
+20	Bord	LIT	LIT	LIT	LIT
 21	,	*	*	*	*
 22	durch	*	*	*	*
 23	Flüsse	*	*	*	*
@@ -3156,9 +3254,10 @@
 
 # tuepp_article_id = T950627.198
 # sent_id = 6328
+# text = Ein 42jähriger Segler , der bei einem Wendemanöver über Bord gegangen war , konnte nach mehreren Stunden nur noch tot geborgen werden .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein 42jähriger Segler , der bei einem Wendemanöver über Bord gegangen war , konnte nach mehreren Stunden nur noch tot geborgen werden .
 1	Ein	*	*	*	*
 2	42jähriger	*	*	*	*
 3	Segler	*	*	*	*
@@ -3167,9 +3266,9 @@
 6	bei	*	*	*	*
 7	einem	*	*	*	*
 8	Wendemanöver	*	*	*	*
-9	über	1	1	1	1
-10	Bord	1	1	1	1
-11	gegangen	1	1	1	1
+9	über	LIT	LIT	LIT	LIT
+10	Bord	LIT	LIT	LIT	LIT
+11	gegangen	LIT	LIT	LIT	LIT
 12	war	*	*	*	*
 13	,	*	*	*	*
 14	konnte	*	*	*	*
@@ -3185,13 +3284,14 @@
 
 # tuepp_article_id = T951014.164
 # sent_id = 6329
+# text = Mit über Bord ging dabei auch das bis dato äußerst angesehene SFB-Magazin " Moskito " .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit über Bord ging dabei auch das bis dato äußerst angesehene SFB-Magazin " Moskito " .
 1	Mit	*	*	*	*
-2	über	2	2	2	2
-3	Bord	2	2	2	2
-4	ging	2	2	2	2
+2	über	FIG	FIG	FIG	FIG
+3	Bord	FIG	FIG	FIG	FIG
+4	ging	FIG	FIG	FIG	FIG
 5	dabei	*	*	*	*
 6	auch	*	*	*	*
 7	das	*	*	*	*
@@ -3207,9 +3307,10 @@
 
 # tuepp_article_id = T951013.320
 # sent_id = 6330
+# text = Die nicht durch Leinen gesicherte Besatzung sei über Bord gegangen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die nicht durch Leinen gesicherte Besatzung sei über Bord gegangen .
 1	Die	*	*	*	*
 2	nicht	*	*	*	*
 3	durch	*	*	*	*
@@ -3217,16 +3318,17 @@
 5	gesicherte	*	*	*	*
 6	Besatzung	*	*	*	*
 7	sei	*	*	*	*
-8	über	1	1	1	1
-9	Bord	1	1	1	1
-10	gegangen	1	1	1	1
+8	über	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
+10	gegangen	LIT	LIT	LIT	LIT
 11	.	*	*	*	*
 
 # tuepp_article_id = T950921.101
 # sent_id = 6331
+# text = Die Grundidee des Staates als des allgemein zu Regelnden sollte bei aller Staatskritik nicht mit über Bord gehen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Grundidee des Staates als des allgemein zu Regelnden sollte bei aller Staatskritik nicht mit über Bord gehen .
 1	Die	*	*	*	*
 2	Grundidee	*	*	*	*
 3	des	*	*	*	*
@@ -3242,16 +3344,17 @@
 13	Staatskritik	*	*	*	*
 14	nicht	*	*	*	*
 15	mit	*	*	*	*
-16	über	2	2	2	2
-17	Bord	2	2	2	2
-18	gehen	2	2	2	2
+16	über	FIG	FIG	FIG	FIG
+17	Bord	FIG	FIG	FIG	FIG
+18	gehen	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T950103.22
 # sent_id = 6332
+# text = Bremen ( AFP ) - Auf der Rückfahrt von einer Rettungsfahrt sind zwei Besatzungsmitglieder des deutschen Seenotkreuzers " Alfried Krupp " am späten Sonntagabend bei einem Sturm auf der Nordsee über Bord gegangen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bremen ( AFP ) - Auf der Rückfahrt von einer Rettungsfahrt sind zwei Besatzungsmitglieder des deutschen Seenotkreuzers " Alfried Krupp " am späten Sonntagabend bei einem Sturm auf der Nordsee über Bord gegangen .
 1	Bremen	*	*	*	*
 2	(	*	*	*	*
 3	AFP	*	*	*	*
@@ -3282,16 +3385,17 @@
 28	auf	*	*	*	*
 29	der	*	*	*	*
 30	Nordsee	*	*	*	*
-31	über	1	1	1	1
-32	Bord	1	1	1	1
-33	gegangen	1	1	1	1
+31	über	LIT	LIT	LIT	LIT
+32	Bord	LIT	LIT	LIT	LIT
+33	gegangen	LIT	LIT	LIT	LIT
 34	.	*	*	*	*
 
 # tuepp_article_id = T950103.22
 # sent_id = 6333
+# text = Der deutsche Seenotkreuzer hatte sich an der Rettung eines niederländischen Seemannes beteiligt , der bei schwerem Wetter über Bord gegangen war .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der deutsche Seenotkreuzer hatte sich an der Rettung eines niederländischen Seemannes beteiligt , der bei schwerem Wetter über Bord gegangen war .
 1	Der	*	*	*	*
 2	deutsche	*	*	*	*
 3	Seenotkreuzer	*	*	*	*
@@ -3309,17 +3413,18 @@
 15	bei	*	*	*	*
 16	schwerem	*	*	*	*
 17	Wetter	*	*	*	*
-18	über	1	1	1	1
-19	Bord	1	1	1	1
-20	gegangen	1	1	1	1
+18	über	LIT	LIT	LIT	LIT
+19	Bord	LIT	LIT	LIT	LIT
+20	gegangen	LIT	LIT	LIT	LIT
 21	war	*	*	*	*
 22	.	*	*	*	*
 
 # tuepp_article_id = T950103.195
 # sent_id = 6334
+# text = Der Seenotkreuzer " Alfried Krupp " war ausgelaufen , um dem niederländischen Seenotkreuzer bei der Suche nach dem über Bord gegangenen Rettungsmann zu helfen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Seenotkreuzer " Alfried Krupp " war ausgelaufen , um dem niederländischen Seenotkreuzer bei der Suche nach dem über Bord gegangenen Rettungsmann zu helfen .
 1	Der	*	*	*	*
 2	Seenotkreuzer	*	*	*	*
 3	"	*	*	*	*
@@ -3338,19 +3443,20 @@
 16	Suche	*	*	*	*
 17	nach	*	*	*	*
 18	dem	*	*	*	*
-19	über	1	1	1	1
-20	Bord	1	1	1	1
+19	über	LIT	LIT	LIT	LIT
+20	Bord	LIT	LIT	LIT	LIT
 21	gegangenen	*	*	*	*
 22	Rettungsmann	*	*	*	*
 23	zu	*	*	*	*
-24	helfen	1	1	1	1
+24	helfen	LIT	LIT	LIT	LIT
 25	.	*	*	*	*
 
 # tuepp_article_id = T950102.214
 # sent_id = 6335
+# text = " Letztes Jahr hatten wir noch - ne echte Tanne , aber die ist nach Weihnachten mit den Kugeln über Bord gegangen , weil keiner sie abschmücken wollte " , erzählt der Käpt'n .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Letztes Jahr hatten wir noch - ne echte Tanne , aber die ist nach Weihnachten mit den Kugeln über Bord gegangen , weil keiner sie abschmücken wollte " , erzählt der Käpt'n .
 1	"	*	*	*	*
 2	Letztes	*	*	*	*
 3	Jahr	*	*	*	*
@@ -3370,9 +3476,9 @@
 17	mit	*	*	*	*
 18	den	*	*	*	*
 19	Kugeln	*	*	*	*
-20	über	1	1	1	1
-21	Bord	1	1	1	1
-22	gegangen	1	1	1	1
+20	über	LIT	LIT	LIT	LIT
+21	Bord	LIT	LIT	LIT	LIT
+22	gegangen	LIT	LIT	LIT	LIT
 23	,	*	*	*	*
 24	weil	*	*	*	*
 25	keiner	*	*	*	*
@@ -3388,25 +3494,27 @@
 
 # tuepp_article_id = T950124.11
 # sent_id = 6336
+# text = " Grüne Essentials zum Paragraph 218 gehen über Bord "
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Grüne Essentials zum Paragraph 218 gehen über Bord "
 1	"	*	*	*	*
 2	Grüne	*	*	*	*
 3	Essentials	*	*	*	*
 4	zum	*	*	*	*
 5	Paragraph	*	*	*	*
 6	218	*	*	*	*
-7	gehen	2	2	2	2
-8	über	2	2	2	2
-9	Bord	2	2	2	2
+7	gehen	FIG	FIG	FIG	FIG
+8	über	FIG	FIG	FIG	FIG
+9	Bord	FIG	FIG	FIG	FIG
 10	"	*	*	*	*
 
 # tuepp_article_id = T950107.313
 # sent_id = 6337
+# text = Bei diesem Durchkentern , das gilt der DGzRS inzwischen als sicher , ging der erste Mann über Bord : Der Maschinist , der sich gerade auf dem Weg unter Deck befand , weil ein Maschinenschaden gemeldet worden war , wurde vom Wasser vom Achterdeck gerissen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bei diesem Durchkentern , das gilt der DGzRS inzwischen als sicher , ging der erste Mann über Bord : Der Maschinist , der sich gerade auf dem Weg unter Deck befand , weil ein Maschinenschaden gemeldet worden war , wurde vom Wasser vom Achterdeck gerissen .
 1	Bei	*	*	*	*
 2	diesem	*	*	*	*
 3	Durchkentern	*	*	*	*
@@ -3419,12 +3527,12 @@
 10	als	*	*	*	*
 11	sicher	*	*	*	*
 12	,	*	*	*	*
-13	ging	1	1	1	1
+13	ging	LIT	LIT	LIT	LIT
 14	der	*	*	*	*
 15	erste	*	*	*	*
 16	Mann	*	*	*	*
-17	über	1	1	1	1
-18	Bord	1	1	1	1
+17	über	LIT	LIT	LIT	LIT
+18	Bord	LIT	LIT	LIT	LIT
 19	:	*	*	*	*
 20	Der	*	*	*	*
 21	Maschinist	*	*	*	*
@@ -3456,9 +3564,10 @@
 
 # tuepp_article_id = T950731.219
 # sent_id = 6338
+# text = Oder irgendeines Ansehens des Westens , weil das in Bosnien-Herzegowina längst über Bord gegangen ist .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Oder irgendeines Ansehens des Westens , weil das in Bosnien-Herzegowina längst über Bord gegangen ist .
 1	Oder	*	*	*	*
 2	irgendeines	*	*	*	*
 3	Ansehens	*	*	*	*
@@ -3470,17 +3579,18 @@
 9	in	*	*	*	*
 10	Bosnien-Herzegowina	*	*	*	*
 11	längst	*	*	*	*
-12	über	2	2	2	2
-13	Bord	2	2	2	2
-14	gegangen	2	2	2	2
+12	über	FIG	FIG	FIG	FIG
+13	Bord	FIG	FIG	FIG	FIG
+14	gegangen	FIG	FIG	FIG	FIG
 15	ist	*	*	*	*
 16	.	*	*	*	*
 
 # tuepp_article_id = T950825.60
 # sent_id = 6339
+# text = Schön werden sie es haben : Es gibt nicht genügend Betten , und der Seegang ist so hoch , daß so mancher Mageninhalt schon über Bord gegangen ist .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schön werden sie es haben : Es gibt nicht genügend Betten , und der Seegang ist so hoch , daß so mancher Mageninhalt schon über Bord gegangen ist .
 1	Schön	*	*	*	*
 2	werden	*	*	*	*
 3	sie	*	*	*	*
@@ -3505,17 +3615,18 @@
 22	mancher	*	*	*	*
 23	Mageninhalt	*	*	*	*
 24	schon	*	*	*	*
-25	über	1	1	1	1
-26	Bord	1	1	1	1
-27	gegangen	1	1	1	1
+25	über	LIT	LIT	LIT	LIT
+26	Bord	LIT	LIT	LIT	LIT
+27	gegangen	LIT	LIT	LIT	LIT
 28	ist	*	*	*	*
 29	.	*	*	*	*
 
 # tuepp_article_id = T950831.192
 # sent_id = 6340
+# text = Der Kapitän mußte immer aufpassen , daß ich dabei nicht über Bord ging .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Der Kapitän mußte immer aufpassen , daß ich dabei nicht über Bord ging .
 1	Der	*	*	*	*
 2	Kapitän	*	*	*	*
 3	mußte	*	*	*	*
@@ -3526,16 +3637,17 @@
 8	ich	*	*	*	*
 9	dabei	*	*	*	*
 10	nicht	*	*	*	*
-11	über	1	3	3	3
-12	Bord	1	3	3	3
-13	ging	1	3	3	3
+11	über	LIT	UND	UND	UND
+12	Bord	LIT	UND	UND	UND
+13	ging	LIT	UND	UND	UND
 14	.	*	*	*	*
 
 # tuepp_article_id = T951115.277
 # sent_id = 6341
+# text = Vermutet wird , daß das Kokain zwischen Helgoland und St. Peter-Ording über Bord gegangen ist .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vermutet wird , daß das Kokain zwischen Helgoland und St. Peter-Ording über Bord gegangen ist .
 1	Vermutet	*	*	*	*
 2	wird	*	*	*	*
 3	,	*	*	*	*
@@ -3547,26 +3659,27 @@
 9	und	*	*	*	*
 10	St.	*	*	*	*
 11	Peter-Ording	*	*	*	*
-12	über	1	1	1	1
-13	Bord	1	1	1	1
-14	gegangen	1	1	1	1
+12	über	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
+14	gegangen	LIT	LIT	LIT	LIT
 15	ist	*	*	*	*
 16	.	*	*	*	*
 
 # tuepp_article_id = T990311.114
 # sent_id = 6342
+# text = Für den Fall , daß Mindeststandards über Bord gehen , haben einige Parlamentarier schon damit gedroht , die Wasserrahmenrichtlinie platzen zu lassen .
+# vid_types = über bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Für den Fall , daß Mindeststandards über Bord gehen , haben einige Parlamentarier schon damit gedroht , die Wasserrahmenrichtlinie platzen zu lassen .
 1	Für	*	*	*	*
 2	den	*	*	*	*
 3	Fall	*	*	*	*
 4	,	*	*	*	*
 5	daß	*	*	*	*
 6	Mindeststandards	*	*	*	*
-7	über	2	2	2	2
-8	Bord	2	2	2	2
-9	gehen	2	2	2	2
+7	über	FIG	FIG	FIG	FIG
+8	Bord	FIG	FIG	FIG	FIG
+9	gehen	FIG	FIG	FIG	FIG
 10	,	*	*	*	*
 11	haben	*	*	*	*
 12	einige	*	*	*	*

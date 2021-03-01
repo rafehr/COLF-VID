@@ -1,8 +1,9 @@
 # tuepp_article_id = T890128.188
 # sent_id = 3010
+# text = " Bisher hatte sich die intensive Schweinehaltung gelohnt , aber jetzt geht der Preis in den Keller " , legte einer der Bauern , Alois Schwarz , den Sinn des Ganzen of
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Bisher hatte sich die intensive Schweinehaltung gelohnt , aber jetzt geht der Preis in den Keller " , legte einer der Bauern , Alois Schwarz , den Sinn des Ganzen of
 1	"	*	*	*	*
 2	Bisher	*	*	*	*
 3	hatte	*	*	*	*
@@ -14,12 +15,12 @@
 9	,	*	*	*	*
 10	aber	*	*	*	*
 11	jetzt	*	*	*	*
-12	geht	2	2	2	2
+12	geht	FIG	FIG	FIG	FIG
 13	der	*	*	*	*
 14	Preis	*	*	*	*
-15	in	2	2	2	2
+15	in	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Keller	2	2	2	2
+17	Keller	FIG	FIG	FIG	FIG
 18	"	*	*	*	*
 19	,	*	*	*	*
 20	legte	*	*	*	*
@@ -38,9 +39,10 @@
 
 # tuepp_article_id = T890127.124
 # sent_id = 3011
+# text = Hinzu kommt der starke Wettbewerb in der Bürocomputer-Branche - IBM legt die Standards fest , und im scharfen Wettbewerb gehen die Preise in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hinzu kommt der starke Wettbewerb in der Bürocomputer-Branche - IBM legt die Standards fest , und im scharfen Wettbewerb gehen die Preise in den Keller .
 1	Hinzu	*	*	*	*
 2	kommt	*	*	*	*
 3	der	*	*	*	*
@@ -60,23 +62,24 @@
 17	im	*	*	*	*
 18	scharfen	*	*	*	*
 19	Wettbewerb	*	*	*	*
-20	gehen	2	2	2	2
+20	gehen	FIG	FIG	FIG	FIG
 21	die	*	*	*	*
 22	Preise	*	*	*	*
-23	in	2	2	2	2
+23	in	FIG	FIG	FIG	FIG
 24	den	*	*	*	*
-25	Keller	2	2	2	2
+25	Keller	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T890715.147
 # sent_id = 3012
+# text = Geh in den Keller , statt Kaffee zu trinken , wenn du dich langweilst , und grab einen Fluchttunnel .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Geh in den Keller , statt Kaffee zu trinken , wenn du dich langweilst , und grab einen Fluchttunnel .
-1	Geh	1	1	1	1
-2	in	1	1	1	1
+1	Geh	LIT	LIT	LIT	LIT
+2	in	LIT	LIT	LIT	LIT
 3	den	*	*	*	*
-4	Keller	1	1	1	1
+4	Keller	LIT	LIT	LIT	LIT
 5	,	*	*	*	*
 6	statt	*	*	*	*
 7	Kaffee	*	*	*	*
@@ -96,9 +99,10 @@
 
 # tuepp_article_id = T890725.94
 # sent_id = 3013
+# text = K.O.-Sieg in 37 Profikämpfen , " wenn er glaubt , mich schlagen zu können , gehen wir in den Keller , und der , der mit dem Schlüssel wieder hochkommt , ist Champion .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = K.O.-Sieg in 37 Profikämpfen , " wenn er glaubt , mich schlagen zu können , gehen wir in den Keller , und der , der mit dem Schlüssel wieder hochkommt , ist Champion .
 1	K.O.-Sieg	*	*	*	*
 2	in	*	*	*	*
 3	37	*	*	*	*
@@ -114,11 +118,11 @@
 13	zu	*	*	*	*
 14	können	*	*	*	*
 15	,	*	*	*	*
-16	gehen	1	2	2	2
+16	gehen	LIT	FIG	FIG	FIG
 17	wir	*	*	*	*
-18	in	1	2	2	2
+18	in	LIT	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Keller	1	2	2	2
+20	Keller	LIT	FIG	FIG	FIG
 21	,	*	*	*	*
 22	und	*	*	*	*
 23	der	*	*	*	*
@@ -136,9 +140,10 @@
 
 # tuepp_article_id = T891223.210
 # sent_id = 3014
+# text = Damit trösten wir uns und beschließen , allen angestammten Vorlieben in der politischen Landschaft Lebewohl zu sagen und gehen in Auerbachs Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Damit trösten wir uns und beschließen , allen angestammten Vorlieben in der politischen Landschaft Lebewohl zu sagen und gehen in Auerbachs Keller .
 1	Damit	*	*	*	*
 2	trösten	*	*	*	*
 3	wir	*	*	*	*
@@ -157,17 +162,18 @@
 16	zu	*	*	*	*
 17	sagen	*	*	*	*
 18	und	*	*	*	*
-19	gehen	1	2	2	2
-20	in	1	2	2	2
+19	gehen	LIT	FIG	FIG	FIG
+20	in	LIT	FIG	FIG	FIG
 21	Auerbachs	*	*	*	*
-22	Keller	1	2	2	2
+22	Keller	LIT	FIG	FIG	FIG
 23	.	*	*	*	*
 
 # tuepp_article_id = T891123.162
 # sent_id = 3015
+# text = Wer in der Drehe Sophie - Charlotte-Platz , Stutti , Lietzensee lebt oder arbeitet und mittags schlicht knüppelsatt werden will , geht zum dicken Koch in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wer in der Drehe Sophie - Charlotte-Platz , Stutti , Lietzensee lebt oder arbeitet und mittags schlicht knüppelsatt werden will , geht zum dicken Koch in den Keller .
 1	Wer	*	*	*	*
 2	in	*	*	*	*
 3	der	*	*	*	*
@@ -189,29 +195,30 @@
 19	werden	*	*	*	*
 20	will	*	*	*	*
 21	,	*	*	*	*
-22	geht	1	1	2	1
+22	geht	LIT	LIT	FIG	LIT
 23	zum	*	*	*	*
 24	dicken	*	*	*	*
 25	Koch	*	*	*	*
-26	in	1	1	2	1
+26	in	LIT	LIT	FIG	LIT
 27	den	*	*	*	*
-28	Keller	1	1	2	1
+28	Keller	LIT	LIT	FIG	LIT
 29	.	*	*	*	*
 
 # tuepp_article_id = T890215.75
 # sent_id = 3016
+# text = Als die Ölpreise dann 1986 in den Keller gingen , stimmten alle hochgerechneten Zukunftserwartungen nicht mehr .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als die Ölpreise dann 1986 in den Keller gingen , stimmten alle hochgerechneten Zukunftserwartungen nicht mehr .
 1	Als	*	*	*	*
 2	die	*	*	*	*
 3	Ölpreise	*	*	*	*
 4	dann	*	*	*	*
 5	1986	*	*	*	*
-6	in	2	2	2	2
+6	in	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Keller	2	2	2	2
-9	gingen	2	2	2	2
+8	Keller	FIG	FIG	FIG	FIG
+9	gingen	FIG	FIG	FIG	FIG
 10	,	*	*	*	*
 11	stimmten	*	*	*	*
 12	alle	*	*	*	*
@@ -223,9 +230,10 @@
 
 # tuepp_article_id = T890206.153
 # sent_id = 3017
+# text = Die größte Überraschung war ja , wie die CDU in den Keller gegangen ist und daß die FDP rausgeflogen ist .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die größte Überraschung war ja , wie die CDU in den Keller gegangen ist und daß die FDP rausgeflogen ist .
 1	Die	*	*	*	*
 2	größte	*	*	*	*
 3	Überraschung	*	*	*	*
@@ -235,10 +243,10 @@
 7	wie	*	*	*	*
 8	die	*	*	*	*
 9	CDU	*	*	*	*
-10	in	2	2	2	2
+10	in	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Keller	2	2	2	2
-13	gegangen	2	2	2	2
+12	Keller	FIG	FIG	FIG	FIG
+13	gegangen	FIG	FIG	FIG	FIG
 14	ist	*	*	*	*
 15	und	*	*	*	*
 16	daß	*	*	*	*
@@ -250,9 +258,10 @@
 
 # tuepp_article_id = T911008.195
 # sent_id = 3019
+# text = Das Deutschland der kriminellen Elemente liegt zwischen der Mutlosigkeit von einem , der in den Keller geht und weiß , daß er jetzt zwei Kohlentragen bis in den vierten Stock hochschleppen muß , und dem sexy Zynismus von Heiner Müller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das Deutschland der kriminellen Elemente liegt zwischen der Mutlosigkeit von einem , der in den Keller geht und weiß , daß er jetzt zwei Kohlentragen bis in den vierten Stock hochschleppen muß , und dem sexy Zynismus von Heiner Müller .
 1	Das	*	*	*	*
 2	Deutschland	*	*	*	*
 3	der	*	*	*	*
@@ -266,10 +275,10 @@
 11	einem	*	*	*	*
 12	,	*	*	*	*
 13	der	*	*	*	*
-14	in	1	1	2	1
+14	in	LIT	LIT	FIG	LIT
 15	den	*	*	*	*
-16	Keller	1	1	2	1
-17	geht	1	1	2	1
+16	Keller	LIT	LIT	FIG	LIT
+17	geht	LIT	LIT	FIG	LIT
 18	und	*	*	*	*
 19	weiß	*	*	*	*
 20	,	*	*	*	*
@@ -297,9 +306,10 @@
 
 # tuepp_article_id = T911014.26
 # sent_id = 3020
+# text = Genau wie in den anderen osteuropäischen Ländern " wird der Stromverbrauch auch dort durch den wirtschaftlichen Strukturwandel in den Keller gehen " .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Genau wie in den anderen osteuropäischen Ländern " wird der Stromverbrauch auch dort durch den wirtschaftlichen Strukturwandel in den Keller gehen " .
 1	Genau	*	*	*	*
 2	wie	*	*	*	*
 3	in	*	*	*	*
@@ -317,18 +327,19 @@
 15	den	*	*	*	*
 16	wirtschaftlichen	*	*	*	*
 17	Strukturwandel	*	*	*	*
-18	in	2	2	2	2
+18	in	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Keller	2	2	2	2
-21	gehen	2	2	2	2
+20	Keller	FIG	FIG	FIG	FIG
+21	gehen	FIG	FIG	FIG	FIG
 22	"	*	*	*	*
 23	.	*	*	*	*
 
 # tuepp_article_id = T910115.105
 # sent_id = 3021
+# text = Zum anderen rechnet ohnehin kaum ein Händler damit , daß der Dollar seinen Charakter als ausgesprochene Krisenwährung behält - eher über kurz als über lang wird er dank Rezession in den USA wieder in den Keller gehen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zum anderen rechnet ohnehin kaum ein Händler damit , daß der Dollar seinen Charakter als ausgesprochene Krisenwährung behält - eher über kurz als über lang wird er dank Rezession in den USA wieder in den Keller gehen .
 1	Zum	*	*	*	*
 2	anderen	*	*	*	*
 3	rechnet	*	*	*	*
@@ -362,17 +373,18 @@
 31	den	*	*	*	*
 32	USA	*	*	*	*
 33	wieder	*	*	*	*
-34	in	2	2	2	2
+34	in	FIG	FIG	FIG	FIG
 35	den	*	*	*	*
-36	Keller	2	2	2	2
-37	gehen	2	2	2	2
+36	Keller	FIG	FIG	FIG	FIG
+37	gehen	FIG	FIG	FIG	FIG
 38	.	*	*	*	*
 
 # tuepp_article_id = T910118.107
 # sent_id = 3022
+# text = Als der Krieg am Golf begann , gingen die Aktienkurse in Tokio , wo die Börse gerade geöffnet war , in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als der Krieg am Golf begann , gingen die Aktienkurse in Tokio , wo die Börse gerade geöffnet war , in den Keller .
 1	Als	*	*	*	*
 2	der	*	*	*	*
 3	Krieg	*	*	*	*
@@ -380,7 +392,7 @@
 5	Golf	*	*	*	*
 6	begann	*	*	*	*
 7	,	*	*	*	*
-8	gingen	2	2	2	2
+8	gingen	FIG	FIG	FIG	FIG
 9	die	*	*	*	*
 10	Aktienkurse	*	*	*	*
 11	in	*	*	*	*
@@ -393,19 +405,20 @@
 18	geöffnet	*	*	*	*
 19	war	*	*	*	*
 20	,	*	*	*	*
-21	in	2	2	2	2
+21	in	FIG	FIG	FIG	FIG
 22	den	*	*	*	*
-23	Keller	2	2	2	2
+23	Keller	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T910117.14
 # sent_id = 3023
+# text = Gestern nun ging dort der Nikkei- Aktienindex um 3,3 Prozent in den Keller und endete mit minus 770,53 bei 22.442,70 Punkten .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Gestern nun ging dort der Nikkei- Aktienindex um 3,3 Prozent in den Keller und endete mit minus 770,53 bei 22.442,70 Punkten .
 1	Gestern	*	*	*	*
 2	nun	*	*	*	*
-3	ging	2	2	2	2
+3	ging	FIG	FIG	FIG	FIG
 4	dort	*	*	*	*
 5	der	*	*	*	*
 6	Nikkei-	*	*	*	*
@@ -413,9 +426,9 @@
 8	um	*	*	*	*
 9	3,3	*	*	*	*
 10	Prozent	*	*	*	*
-11	in	2	2	2	2
+11	in	FIG	FIG	FIG	FIG
 12	den	*	*	*	*
-13	Keller	2	2	2	2
+13	Keller	FIG	FIG	FIG	FIG
 14	und	*	*	*	*
 15	endete	*	*	*	*
 16	mit	*	*	*	*
@@ -428,9 +441,10 @@
 
 # tuepp_article_id = T911203.80
 # sent_id = 3024
+# text = Am 1. Januar 1990 hatte der Tokioter Aktienindex seinen Höhepunkt erreicht , und fortan ging es bis tief in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Am 1. Januar 1990 hatte der Tokioter Aktienindex seinen Höhepunkt erreicht , und fortan ging es bis tief in den Keller .
 1	Am	*	*	*	*
 2	1	*	*	*	*
 3	.	*	*	*	*
@@ -446,20 +460,21 @@
 13	,	*	*	*	*
 14	und	*	*	*	*
 15	fortan	*	*	*	*
-16	ging	2	2	2	2
+16	ging	FIG	FIG	FIG	FIG
 17	es	*	*	*	*
 18	bis	*	*	*	*
 19	tief	*	*	*	*
-20	in	2	2	2	2
+20	in	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
-22	Keller	2	2	2	2
+22	Keller	FIG	FIG	FIG	FIG
 23	.	*	*	*	*
 
 # tuepp_article_id = T911214.230
 # sent_id = 3025
+# text = Den Menschen im weiteren Umfeld der Fundstellte wird empfohlen , die Fenster zu öffnen und in den inneren Bereich der Wohnungen oder in den Keller zu gehen , während Sprengmeister Harry Warrelmann die Bombe entweder entschärft oder auch sprengen muß .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Den Menschen im weiteren Umfeld der Fundstellte wird empfohlen , die Fenster zu öffnen und in den inneren Bereich der Wohnungen oder in den Keller zu gehen , während Sprengmeister Harry Warrelmann die Bombe entweder entschärft oder auch sprengen muß .
 1	Den	*	*	*	*
 2	Menschen	*	*	*	*
 3	im	*	*	*	*
@@ -482,11 +497,11 @@
 20	der	*	*	*	*
 21	Wohnungen	*	*	*	*
 22	oder	*	*	*	*
-23	in	1	1	1	1
+23	in	LIT	LIT	LIT	LIT
 24	den	*	*	*	*
-25	Keller	1	1	1	1
+25	Keller	LIT	LIT	LIT	LIT
 26	zu	*	*	*	*
-27	gehen	1	1	1	1
+27	gehen	LIT	LIT	LIT	LIT
 28	,	*	*	*	*
 29	während	*	*	*	*
 30	Sprengmeister	*	*	*	*
@@ -504,18 +519,19 @@
 
 # tuepp_article_id = T911112.194
 # sent_id = 3026
+# text = Wie immer ging ich mit Katja in den Keller , um die Milch zu holen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wie immer ging ich mit Katja in den Keller , um die Milch zu holen .
 1	Wie	*	*	*	*
 2	immer	*	*	*	*
-3	ging	1	1	1	1
+3	ging	LIT	LIT	LIT	LIT
 4	ich	*	*	*	*
 5	mit	*	*	*	*
 6	Katja	*	*	*	*
-7	in	1	1	1	1
+7	in	LIT	LIT	LIT	LIT
 8	den	*	*	*	*
-9	Keller	1	1	1	1
+9	Keller	LIT	LIT	LIT	LIT
 10	,	*	*	*	*
 11	um	*	*	*	*
 12	die	*	*	*	*
@@ -526,9 +542,10 @@
 
 # tuepp_article_id = T910228.268
 # sent_id = 3027
+# text = Auch vom Umweltressort wäre Geld zu holen gewesen : Mit 50 Mark pro Tonne wollte Umwelt einspringen , als der Papierpreis in den Keller ging .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auch vom Umweltressort wäre Geld zu holen gewesen : Mit 50 Mark pro Tonne wollte Umwelt einspringen , als der Papierpreis in den Keller ging .
 1	Auch	*	*	*	*
 2	vom	*	*	*	*
 3	Umweltressort	*	*	*	*
@@ -550,17 +567,18 @@
 19	als	*	*	*	*
 20	der	*	*	*	*
 21	Papierpreis	*	*	*	*
-22	in	2	2	2	2
+22	in	FIG	FIG	FIG	FIG
 23	den	*	*	*	*
-24	Keller	2	2	2	2
-25	ging	2	2	2	2
+24	Keller	FIG	FIG	FIG	FIG
+25	ging	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T910226.117
 # sent_id = 3028
+# text = Bereits in dieser Woche seien die Preise von 40 Dollar pro Barrel um 17 Dollar gesunken , und Hamar schätzt , daß sie nach Kriegsende weiter in den Keller gehen werden , sollte es der OPEC nicht gelingen , die Förderquoten weiter einzuschränken .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bereits in dieser Woche seien die Preise von 40 Dollar pro Barrel um 17 Dollar gesunken , und Hamar schätzt , daß sie nach Kriegsende weiter in den Keller gehen werden , sollte es der OPEC nicht gelingen , die Förderquoten weiter einzuschränken .
 1	Bereits	*	*	*	*
 2	in	*	*	*	*
 3	dieser	*	*	*	*
@@ -587,10 +605,10 @@
 24	nach	*	*	*	*
 25	Kriegsende	*	*	*	*
 26	weiter	*	*	*	*
-27	in	2	2	2	2
+27	in	FIG	FIG	FIG	FIG
 28	den	*	*	*	*
-29	Keller	2	2	2	2
-30	gehen	2	2	2	2
+29	Keller	FIG	FIG	FIG	FIG
+30	gehen	FIG	FIG	FIG	FIG
 31	werden	*	*	*	*
 32	,	*	*	*	*
 33	sollte	*	*	*	*
@@ -608,9 +626,10 @@
 
 # tuepp_article_id = T910202.204
 # sent_id = 3029
+# text = Ute Baran : Es gibt von offizieller Seite die Empfehlung , im Falle eines Bombenangriffs in den Keller zu gehen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ute Baran : Es gibt von offizieller Seite die Empfehlung , im Falle eines Bombenangriffs in den Keller zu gehen .
 1	Ute	*	*	*	*
 2	Baran	*	*	*	*
 3	:	*	*	*	*
@@ -626,44 +645,46 @@
 13	Falle	*	*	*	*
 14	eines	*	*	*	*
 15	Bombenangriffs	*	*	*	*
-16	in	1	1	1	1
+16	in	LIT	LIT	LIT	LIT
 17	den	*	*	*	*
-18	Keller	1	1	1	1
+18	Keller	LIT	LIT	LIT	LIT
 19	zu	*	*	*	*
-20	gehen	1	1	1	1
+20	gehen	LIT	LIT	LIT	LIT
 21	.	*	*	*	*
 
 # tuepp_article_id = T910205.113
 # sent_id = 3030
+# text = Prompte Folge : Der Dollar geht in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Prompte Folge : Der Dollar geht in den Keller .
 1	Prompte	*	*	*	*
 2	Folge	*	*	*	*
 3	:	*	*	*	*
 4	Der	*	*	*	*
 5	Dollar	*	*	*	*
-6	geht	2	2	2	2
-7	in	2	2	2	2
+6	geht	FIG	FIG	FIG	FIG
+7	in	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Keller	2	2	2	2
+9	Keller	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T900512.262
 # sent_id = 3031
+# text = " Mein Mann ist immer extra in den Keller gegangen " , erinnert sich Frau J. gut .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Mein Mann ist immer extra in den Keller gegangen " , erinnert sich Frau J. gut .
 1	"	*	*	*	*
 2	Mein	*	*	*	*
 3	Mann	*	*	*	*
 4	ist	*	*	*	*
 5	immer	*	*	*	*
 6	extra	*	*	*	*
-7	in	1	1	1	1
+7	in	LIT	LIT	LIT	LIT
 8	den	*	*	*	*
-9	Keller	1	1	1	1
-10	gegangen	1	1	1	1
+9	Keller	LIT	LIT	LIT	LIT
+10	gegangen	LIT	LIT	LIT	LIT
 11	"	*	*	*	*
 12	,	*	*	*	*
 13	erinnert	*	*	*	*
@@ -675,9 +696,10 @@
 
 # tuepp_article_id = T900612.55
 # sent_id = 3032
+# text = Unklar sei außerdem , ob die OPEC auseinanderbricht und der Ölpreis dadurch in den Keller geht .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Unklar sei außerdem , ob die OPEC auseinanderbricht und der Ölpreis dadurch in den Keller geht .
 1	Unklar	*	*	*	*
 2	sei	*	*	*	*
 3	außerdem	*	*	*	*
@@ -690,17 +712,18 @@
 10	der	*	*	*	*
 11	Ölpreis	*	*	*	*
 12	dadurch	*	*	*	*
-13	in	2	2	2	2
+13	in	FIG	FIG	FIG	FIG
 14	den	*	*	*	*
-15	Keller	2	2	2	2
-16	geht	2	2	2	2
+15	Keller	FIG	FIG	FIG	FIG
+16	geht	FIG	FIG	FIG	FIG
 17	.	*	*	*	*
 
 # tuepp_article_id = T900929.130
 # sent_id = 3033
+# text = Kein Olympia : Nach dem Abblitzen Athens beim IOC gingen dort die Börsenkurse in den Keller - aber die wenigen Bäume atmeten auf / Eine Möchtegern-Olympiastadt eine Woche nach dem Schock
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kein Olympia : Nach dem Abblitzen Athens beim IOC gingen dort die Börsenkurse in den Keller - aber die wenigen Bäume atmeten auf / Eine Möchtegern-Olympiastadt eine Woche nach dem Schock
 1	Kein	*	*	*	*
 2	Olympia	*	*	*	*
 3	:	*	*	*	*
@@ -710,13 +733,13 @@
 7	Athens	*	*	*	*
 8	beim	*	*	*	*
 9	IOC	*	*	*	*
-10	gingen	2	2	2	2
+10	gingen	FIG	FIG	FIG	FIG
 11	dort	*	*	*	*
 12	die	*	*	*	*
 13	Börsenkurse	*	*	*	*
-14	in	2	2	2	2
+14	in	FIG	FIG	FIG	FIG
 15	den	*	*	*	*
-16	Keller	2	2	2	2
+16	Keller	FIG	FIG	FIG	FIG
 17	-	*	*	*	*
 18	aber	*	*	*	*
 19	die	*	*	*	*
@@ -735,9 +758,10 @@
 
 # tuepp_article_id = T900111.246
 # sent_id = 3034
+# text = Als sich in Bremen das Rennen Jahr für Jahr steigerte , gingen woanders , in Berlin und Dortmund zum Beispiel , die Zuschauerzahlen , die Atmosphäre in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als sich in Bremen das Rennen Jahr für Jahr steigerte , gingen woanders , in Berlin und Dortmund zum Beispiel , die Zuschauerzahlen , die Atmosphäre in den Keller .
 1	Als	*	*	*	*
 2	sich	*	*	*	*
 3	in	*	*	*	*
@@ -749,7 +773,7 @@
 9	Jahr	*	*	*	*
 10	steigerte	*	*	*	*
 11	,	*	*	*	*
-12	gingen	2	2	2	2
+12	gingen	FIG	FIG	FIG	FIG
 13	woanders	*	*	*	*
 14	,	*	*	*	*
 15	in	*	*	*	*
@@ -764,39 +788,41 @@
 24	,	*	*	*	*
 25	die	*	*	*	*
 26	Atmosphäre	*	*	*	*
-27	in	2	2	2	2
+27	in	FIG	FIG	FIG	FIG
 28	den	*	*	*	*
-29	Keller	2	2	2	2
+29	Keller	FIG	FIG	FIG	FIG
 30	.	*	*	*	*
 
 # tuepp_article_id = T900717.240
 # sent_id = 3035
+# text = Ihre Leistungen gingen in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ihre Leistungen gingen in den Keller .
 1	Ihre	*	*	*	*
 2	Leistungen	*	*	*	*
-3	gingen	2	2	2	2
-4	in	2	2	2	2
+3	gingen	FIG	FIG	FIG	FIG
+4	in	FIG	FIG	FIG	FIG
 5	den	*	*	*	*
-6	Keller	2	2	2	2
+6	Keller	FIG	FIG	FIG	FIG
 7	.	*	*	*	*
 
 # tuepp_article_id = T900703.77
 # sent_id = 3036
+# text = Karstadt-Papiere stiegen um 11,50 DM , in den Keller ging es allerdings mit Konkurrent Horten ( minus 9,50 ) .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Karstadt-Papiere stiegen um 11,50 DM , in den Keller ging es allerdings mit Konkurrent Horten ( minus 9,50 ) .
 1	Karstadt-Papiere	*	*	*	*
 2	stiegen	*	*	*	*
 3	um	*	*	*	*
 4	11,50	*	*	*	*
 5	DM	*	*	*	*
 6	,	*	*	*	*
-7	in	2	2	2	2
+7	in	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Keller	2	2	2	2
-10	ging	2	2	2	2
+9	Keller	FIG	FIG	FIG	FIG
+10	ging	FIG	FIG	FIG	FIG
 11	es	*	*	*	*
 12	allerdings	*	*	*	*
 13	mit	*	*	*	*
@@ -810,24 +836,26 @@
 
 # tuepp_article_id = T901217.224
 # sent_id = 3037
+# text = Rechts im Seitenflügel geht 's in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Rechts im Seitenflügel geht 's in den Keller .
 1	Rechts	*	*	*	*
 2	im	*	*	*	*
 3	Seitenflügel	*	*	*	*
-4	geht	1	1	1	1
+4	geht	LIT	LIT	LIT	LIT
 5	's	*	*	*	*
-6	in	1	1	1	1
+6	in	LIT	LIT	LIT	LIT
 7	den	*	*	*	*
-8	Keller	1	1	1	1
+8	Keller	LIT	LIT	LIT	LIT
 9	.	*	*	*	*
 
 # tuepp_article_id = T900818.143
 # sent_id = 3038
+# text = Während minutenlanger Sequenzen , da LKW-Kolonnen monoton durch Wüstensand brummen , kann man getrost in den Keller Bier holen gehen , ohne etwas zu verpassen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Während minutenlanger Sequenzen , da LKW-Kolonnen monoton durch Wüstensand brummen , kann man getrost in den Keller Bier holen gehen , ohne etwas zu verpassen .
 1	Während	*	*	*	*
 2	minutenlanger	*	*	*	*
 3	Sequenzen	*	*	*	*
@@ -842,12 +870,12 @@
 12	kann	*	*	*	*
 13	man	*	*	*	*
 14	getrost	*	*	*	*
-15	in	1	1	1	1
+15	in	LIT	LIT	LIT	LIT
 16	den	*	*	*	*
-17	Keller	1	1	1	1
+17	Keller	LIT	LIT	LIT	LIT
 18	Bier	*	*	*	*
 19	holen	*	*	*	*
-20	gehen	1	1	1	1
+20	gehen	LIT	LIT	LIT	LIT
 21	,	*	*	*	*
 22	ohne	*	*	*	*
 23	etwas	*	*	*	*
@@ -857,24 +885,26 @@
 
 # tuepp_article_id = T900201.262
 # sent_id = 3039
+# text = Ergebnis : Die Zensuren gehen in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ergebnis : Die Zensuren gehen in den Keller .
 1	Ergebnis	*	*	*	*
 2	:	*	*	*	*
 3	Die	*	*	*	*
 4	Zensuren	*	*	*	*
-5	gehen	2	2	2	2
-6	in	2	2	2	2
+5	gehen	FIG	FIG	FIG	FIG
+6	in	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Keller	2	2	2	2
+8	Keller	FIG	FIG	FIG	FIG
 9	.	*	*	*	*
 
 # tuepp_article_id = T900221.56
 # sent_id = 3040
+# text = Der Nudelhersteller protestierte , doch es half nichts - der Absatz ging in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Nudelhersteller protestierte , doch es half nichts - der Absatz ging in den Keller .
 1	Der	*	*	*	*
 2	Nudelhersteller	*	*	*	*
 3	protestierte	*	*	*	*
@@ -886,17 +916,18 @@
 9	-	*	*	*	*
 10	der	*	*	*	*
 11	Absatz	*	*	*	*
-12	ging	2	2	2	2
-13	in	2	2	2	2
+12	ging	FIG	FIG	FIG	FIG
+13	in	FIG	FIG	FIG	FIG
 14	den	*	*	*	*
-15	Keller	2	2	2	2
+15	Keller	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T921021.68
 # sent_id = 3041
+# text = Mit scharfer Stimme präsentiert sie ihren Zuhörern ein verheerendes Resümee der letzten zwölf "Reagan-Bush-und-Specter"-Jahre : Arbeitsmarkt , Lohnentwicklung , Gesundheitsversorgung und industrielle Infrastruktur - " alles ist in den Keller gegangen " .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit scharfer Stimme präsentiert sie ihren Zuhörern ein verheerendes Resümee der letzten zwölf "Reagan-Bush-und-Specter"-Jahre : Arbeitsmarkt , Lohnentwicklung , Gesundheitsversorgung und industrielle Infrastruktur - " alles ist in den Keller gegangen " .
 1	Mit	*	*	*	*
 2	scharfer	*	*	*	*
 3	Stimme	*	*	*	*
@@ -925,18 +956,19 @@
 26	"	*	*	*	*
 27	alles	*	*	*	*
 28	ist	*	*	*	*
-29	in	2	2	2	2
+29	in	FIG	FIG	FIG	FIG
 30	den	*	*	*	*
-31	Keller	2	2	2	2
-32	gegangen	2	2	2	2
+31	Keller	FIG	FIG	FIG	FIG
+32	gegangen	FIG	FIG	FIG	FIG
 33	"	*	*	*	*
 34	.	*	*	*	*
 
 # tuepp_article_id = T921002.62
 # sent_id = 3042
+# text = Die Industrieproduktion sank um 70 Prozent , und das Bruttoinlandsprodukt ( BIP ) , also der Wert aller Güter und Dienstleistungen , die von Inländern in den neuen Bundesländern produziert wurden , ging um rund 45 Prozent in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Industrieproduktion sank um 70 Prozent , und das Bruttoinlandsprodukt ( BIP ) , also der Wert aller Güter und Dienstleistungen , die von Inländern in den neuen Bundesländern produziert wurden , ging um rund 45 Prozent in den Keller .
 1	Die	*	*	*	*
 2	Industrieproduktion	*	*	*	*
 3	sank	*	*	*	*
@@ -969,29 +1001,30 @@
 30	produziert	*	*	*	*
 31	wurden	*	*	*	*
 32	,	*	*	*	*
-33	ging	2	2	2	2
+33	ging	FIG	FIG	FIG	FIG
 34	um	*	*	*	*
 35	rund	*	*	*	*
 36	45	*	*	*	*
 37	Prozent	*	*	*	*
-38	in	2	2	2	2
+38	in	FIG	FIG	FIG	FIG
 39	den	*	*	*	*
-40	Keller	2	2	2	2
+40	Keller	FIG	FIG	FIG	FIG
 41	.	*	*	*	*
 
 # tuepp_article_id = T920404.161
 # sent_id = 3043
+# text = Nur wenn ich morgens in unseren Keller gegangen bin , da waren sie mir eklig .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nur wenn ich morgens in unseren Keller gegangen bin , da waren sie mir eklig .
 1	Nur	*	*	*	*
 2	wenn	*	*	*	*
 3	ich	*	*	*	*
 4	morgens	*	*	*	*
-5	in	1	1	1	1
+5	in	LIT	LIT	LIT	LIT
 6	unseren	*	*	*	*
-7	Keller	1	1	1	1
-8	gegangen	1	1	1	1
+7	Keller	LIT	LIT	LIT	LIT
+8	gegangen	LIT	LIT	LIT	LIT
 9	bin	*	*	*	*
 10	,	*	*	*	*
 11	da	*	*	*	*
@@ -1003,9 +1036,10 @@
 
 # tuepp_article_id = T880506.86
 # sent_id = 3044
+# text = Gegen allerlei Unpäßlichkeiten soll auch eine Taschenlampe helfen - aber bitte nicht die , mit der man nachts in den Keller geht .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Gegen allerlei Unpäßlichkeiten soll auch eine Taschenlampe helfen - aber bitte nicht die , mit der man nachts in den Keller geht .
 1	Gegen	*	*	*	*
 2	allerlei	*	*	*	*
 3	Unpäßlichkeiten	*	*	*	*
@@ -1024,17 +1058,18 @@
 16	der	*	*	*	*
 17	man	*	*	*	*
 18	nachts	*	*	*	*
-19	in	1	1	1	1
+19	in	LIT	LIT	LIT	LIT
 20	den	*	*	*	*
-21	Keller	1	1	1	1
-22	geht	1	1	1	1
+21	Keller	LIT	LIT	LIT	LIT
+22	geht	LIT	LIT	LIT	LIT
 23	.	*	*	*	*
 
 # tuepp_article_id = T881008.65
 # sent_id = 3045
+# text = Ein früheres Vorstandsmitglied des 'Communale'-Vereins " Forum der Bürger " erklärt : " Immerhin hat es zwei Jahre lang keine Einmischung sondern eine Masse Geld gegeben , und das Projekt ging trotzdem immer weiter in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein früheres Vorstandsmitglied des 'Communale'-Vereins " Forum der Bürger " erklärt : " Immerhin hat es zwei Jahre lang keine Einmischung sondern eine Masse Geld gegeben , und das Projekt ging trotzdem immer weiter in den Keller .
 1	Ein	*	*	*	*
 2	früheres	*	*	*	*
 3	Vorstandsmitglied	*	*	*	*
@@ -1066,37 +1101,39 @@
 29	und	*	*	*	*
 30	das	*	*	*	*
 31	Projekt	*	*	*	*
-32	ging	2	2	2	2
+32	ging	FIG	FIG	FIG	FIG
 33	trotzdem	*	*	*	*
 34	immer	*	*	*	*
 35	weiter	*	*	*	*
-36	in	2	2	2	2
+36	in	FIG	FIG	FIG	FIG
 37	den	*	*	*	*
-38	Keller	2	2	2	2
+38	Keller	FIG	FIG	FIG	FIG
 39	.	*	*	*	*
 
 # tuepp_article_id = T880916.144
 # sent_id = 3046
+# text = Prompt gehen die Preise für ihre Produkte in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Prompt gehen die Preise für ihre Produkte in den Keller .
 1	Prompt	*	*	*	*
-2	gehen	2	2	2	2
+2	gehen	FIG	FIG	FIG	FIG
 3	die	*	*	*	*
 4	Preise	*	*	*	*
 5	für	*	*	*	*
 6	ihre	*	*	*	*
 7	Produkte	*	*	*	*
-8	in	2	2	2	2
+8	in	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
-10	Keller	2	2	2	2
+10	Keller	FIG	FIG	FIG	FIG
 11	.	*	*	*	*
 
 # tuepp_article_id = T881205.125
 # sent_id = 3047
+# text = Weil es daran in der DDR mangele , gehe die Produktivität in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Weil es daran in der DDR mangele , gehe die Produktivität in den Keller .
 1	Weil	*	*	*	*
 2	es	*	*	*	*
 3	daran	*	*	*	*
@@ -1105,19 +1142,20 @@
 6	DDR	*	*	*	*
 7	mangele	*	*	*	*
 8	,	*	*	*	*
-9	gehe	2	2	2	2
+9	gehe	FIG	FIG	FIG	FIG
 10	die	*	*	*	*
 11	Produktivität	*	*	*	*
-12	in	2	2	2	2
+12	in	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Keller	2	2	2	2
+14	Keller	FIG	FIG	FIG	FIG
 15	.	*	*	*	*
 
 # tuepp_article_id = T881101.86
 # sent_id = 3048
+# text = Wenn dann abends um 22 Uhr der Salon geschlossen wird und alles gesagt , aber noch längst nicht alles getrunken ist , geht man hinunter in den Keller , wo im " Cabaret de la Derniere Chance " drei Bands bis zum Morgengrauen dafür sorgen , daß das Festival auch Fest ist .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wenn dann abends um 22 Uhr der Salon geschlossen wird und alles gesagt , aber noch längst nicht alles getrunken ist , geht man hinunter in den Keller , wo im " Cabaret de la Derniere Chance " drei Bands bis zum Morgengrauen dafür sorgen , daß das Festival auch Fest ist .
 1	Wenn	*	*	*	*
 2	dann	*	*	*	*
 3	abends	*	*	*	*
@@ -1140,12 +1178,12 @@
 20	getrunken	*	*	*	*
 21	ist	*	*	*	*
 22	,	*	*	*	*
-23	geht	1	1	1	1
+23	geht	LIT	LIT	LIT	LIT
 24	man	*	*	*	*
 25	hinunter	*	*	*	*
-26	in	1	1	1	1
+26	in	LIT	LIT	LIT	LIT
 27	den	*	*	*	*
-28	Keller	1	1	1	1
+28	Keller	LIT	LIT	LIT	LIT
 29	,	*	*	*	*
 30	wo	*	*	*	*
 31	im	*	*	*	*
@@ -1174,9 +1212,10 @@
 
 # tuepp_article_id = T870509.56
 # sent_id = 3049
+# text = Erste Blitzumfragen beweisen ein gesundes Urteil der amerikanischen Leser : Der Herald bekommt schlechte Noten , weil er jeden Respekt vor der Privatsphäre eines Menschen vermissen ließ ; doch gleichzeitig deuten sie an , daß Harts Reputation tief in den Keller gegangen ist .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Erste Blitzumfragen beweisen ein gesundes Urteil der amerikanischen Leser : Der Herald bekommt schlechte Noten , weil er jeden Respekt vor der Privatsphäre eines Menschen vermissen ließ ; doch gleichzeitig deuten sie an , daß Harts Reputation tief in den Keller gegangen ist .
 1	Erste	*	*	*	*
 2	Blitzumfragen	*	*	*	*
 3	beweisen	*	*	*	*
@@ -1215,28 +1254,29 @@
 36	Harts	*	*	*	*
 37	Reputation	*	*	*	*
 38	tief	*	*	*	*
-39	in	2	2	2	2
+39	in	FIG	FIG	FIG	FIG
 40	den	*	*	*	*
-41	Keller	2	2	2	2
-42	gegangen	2	2	2	2
+41	Keller	FIG	FIG	FIG	FIG
+42	gegangen	FIG	FIG	FIG	FIG
 43	ist	*	*	*	*
 44	.	*	*	*	*
 
 # tuepp_article_id = T870616.73
 # sent_id = 3050
+# text = Jetzt geht der Ölpreis auch im RGW-Absatzgebiet in den Keller , aber die hohen Preise für Maschinenbauerzeugnisse , die Moskau aus diesem Raum bezieht , sind unangetastet geblieben .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Jetzt geht der Ölpreis auch im RGW-Absatzgebiet in den Keller , aber die hohen Preise für Maschinenbauerzeugnisse , die Moskau aus diesem Raum bezieht , sind unangetastet geblieben .
 1	Jetzt	*	*	*	*
-2	geht	2	2	2	2
+2	geht	FIG	FIG	FIG	FIG
 3	der	*	*	*	*
 4	Ölpreis	*	*	*	*
 5	auch	*	*	*	*
 6	im	*	*	*	*
 7	RGW-Absatzgebiet	*	*	*	*
-8	in	2	2	2	2
+8	in	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
-10	Keller	2	2	2	2
+10	Keller	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	aber	*	*	*	*
 13	die	*	*	*	*
@@ -1259,9 +1299,10 @@
 
 # tuepp_article_id = T870605.70
 # sent_id = 3051
+# text = Die arbeiten fanatisch daran , daß dieses Airbus-Projekt etwas wird , aber sie sehen auch , daß das Management nichts taugt , um das mal deutlich zu sagen , daß das eigentlich in den Keller gehen muß .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die arbeiten fanatisch daran , daß dieses Airbus-Projekt etwas wird , aber sie sehen auch , daß das Management nichts taugt , um das mal deutlich zu sagen , daß das eigentlich in den Keller gehen muß .
 1	Die	*	*	*	*
 2	arbeiten	*	*	*	*
 3	fanatisch	*	*	*	*
@@ -1294,18 +1335,19 @@
 30	daß	*	*	*	*
 31	das	*	*	*	*
 32	eigentlich	*	*	*	*
-33	in	2	2	2	2
+33	in	FIG	FIG	FIG	FIG
 34	den	*	*	*	*
-35	Keller	2	2	2	2
-36	gehen	2	2	2	2
+35	Keller	FIG	FIG	FIG	FIG
+36	gehen	FIG	FIG	FIG	FIG
 37	muß	*	*	*	*
 38	.	*	*	*	*
 
 # tuepp_article_id = T871013.78
 # sent_id = 3052
+# text = Natürlich kann auch eine Quellenbesteuerung ins Leere laufen , wenn daraufhin die Kapitalanleger ins Ausland ziehen , wodurch auch die Kurse der Staatsanleihen in den Keller gehen dürften .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Natürlich kann auch eine Quellenbesteuerung ins Leere laufen , wenn daraufhin die Kapitalanleger ins Ausland ziehen , wodurch auch die Kurse der Staatsanleihen in den Keller gehen dürften .
 1	Natürlich	*	*	*	*
 2	kann	*	*	*	*
 3	auch	*	*	*	*
@@ -1329,18 +1371,19 @@
 21	Kurse	*	*	*	*
 22	der	*	*	*	*
 23	Staatsanleihen	*	*	*	*
-24	in	2	2	2	2
+24	in	FIG	FIG	FIG	FIG
 25	den	*	*	*	*
-26	Keller	2	2	2	2
-27	gehen	2	2	2	2
+26	Keller	FIG	FIG	FIG	FIG
+27	gehen	FIG	FIG	FIG	FIG
 28	dürften	*	*	*	*
 29	.	*	*	*	*
 
 # tuepp_article_id = T871023.15
 # sent_id = 3053
+# text = Berlin ( taz ) - Kaum haben sich die Aktienkurse an den internationalen Wertpapierbörsen wieder erholt , da geht es auch schon wieder in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Berlin ( taz ) - Kaum haben sich die Aktienkurse an den internationalen Wertpapierbörsen wieder erholt , da geht es auch schon wieder in den Keller .
 1	Berlin	*	*	*	*
 2	(	*	*	*	*
 3	taz	*	*	*	*
@@ -1359,28 +1402,29 @@
 16	erholt	*	*	*	*
 17	,	*	*	*	*
 18	da	*	*	*	*
-19	geht	2	2	2	2
+19	geht	FIG	FIG	FIG	FIG
 20	es	*	*	*	*
 21	auch	*	*	*	*
 22	schon	*	*	*	*
 23	wieder	*	*	*	*
-24	in	2	2	2	2
+24	in	FIG	FIG	FIG	FIG
 25	den	*	*	*	*
-26	Keller	2	2	2	2
+26	Keller	FIG	FIG	FIG	FIG
 27	.	*	*	*	*
 
 # tuepp_article_id = T870127.24
 # sent_id = 3054
+# text = " Doch gleich nach Straußens TV-Auftritt geht die Stimmung im Ehrengastbereich des Olympiastadions - dem Ort angemessen - wieder in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Doch gleich nach Straußens TV-Auftritt geht die Stimmung im Ehrengastbereich des Olympiastadions - dem Ort angemessen - wieder in den Keller .
 1	"	*	*	*	*
 2	Doch	*	*	*	*
 3	gleich	*	*	*	*
 4	nach	*	*	*	*
 5	Straußens	*	*	*	*
 6	TV-Auftritt	*	*	*	*
-7	geht	2	2	2	2
+7	geht	FIG	FIG	FIG	FIG
 8	die	*	*	*	*
 9	Stimmung	*	*	*	*
 10	im	*	*	*	*
@@ -1393,16 +1437,17 @@
 17	angemessen	*	*	*	*
 18	-	*	*	*	*
 19	wieder	*	*	*	*
-20	in	2	2	2	2
+20	in	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
-22	Keller	2	2	2	2
+22	Keller	FIG	FIG	FIG	FIG
 23	.	*	*	*	*
 
 # tuepp_article_id = T870121.29
 # sent_id = 3055
+# text = Denn in der vom Kabelrat zugewiesenen Sendezeit von 19 bis 23 Uhr gehen die Einschaltquoten im Hörfunk in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Denn in der vom Kabelrat zugewiesenen Sendezeit von 19 bis 23 Uhr gehen die Einschaltquoten im Hörfunk in den Keller .
 1	Denn	*	*	*	*
 2	in	*	*	*	*
 3	der	*	*	*	*
@@ -1415,28 +1460,29 @@
 10	bis	*	*	*	*
 11	23	*	*	*	*
 12	Uhr	*	*	*	*
-13	gehen	2	2	2	2
+13	gehen	FIG	FIG	FIG	FIG
 14	die	*	*	*	*
 15	Einschaltquoten	*	*	*	*
 16	im	*	*	*	*
 17	Hörfunk	*	*	*	*
-18	in	2	2	2	2
+18	in	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Keller	2	2	2	2
+20	Keller	FIG	FIG	FIG	FIG
 21	.	*	*	*	*
 
 # tuepp_article_id = T930517.160
 # sent_id = 3056
+# text = Jeannettes schulische Leistungen gingen in den Keller , als sich ihre Eltern trennten .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Jeannettes schulische Leistungen gingen in den Keller , als sich ihre Eltern trennten .
 1	Jeannettes	*	*	*	*
 2	schulische	*	*	*	*
 3	Leistungen	*	*	*	*
-4	gingen	2	2	2	2
-5	in	2	2	2	2
+4	gingen	FIG	FIG	FIG	FIG
+5	in	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
-7	Keller	2	2	2	2
+7	Keller	FIG	FIG	FIG	FIG
 8	,	*	*	*	*
 9	als	*	*	*	*
 10	sich	*	*	*	*
@@ -1447,9 +1493,10 @@
 
 # tuepp_article_id = T931021.115
 # sent_id = 3057
+# text = Nur wenn sie auf die Toilette mußten , hätten sie in den Keller gehen dürfen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nur wenn sie auf die Toilette mußten , hätten sie in den Keller gehen dürfen .
 1	Nur	*	*	*	*
 2	wenn	*	*	*	*
 3	sie	*	*	*	*
@@ -1460,18 +1507,19 @@
 8	,	*	*	*	*
 9	hätten	*	*	*	*
 10	sie	*	*	*	*
-11	in	1	1	1	1
+11	in	LIT	LIT	LIT	LIT
 12	den	*	*	*	*
-13	Keller	1	1	1	1
-14	gehen	1	1	1	1
+13	Keller	LIT	LIT	LIT	LIT
+14	gehen	LIT	LIT	LIT	LIT
 15	dürfen	*	*	*	*
 16	.	*	*	*	*
 
 # tuepp_article_id = T930908.105
 # sent_id = 3059
+# text = Tagsüber wird es dort bis zu 40 Grad heiß , nachts gehen die Temperaturen bei fünf Grad in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Tagsüber wird es dort bis zu 40 Grad heiß , nachts gehen die Temperaturen bei fünf Grad in den Keller .
 1	Tagsüber	*	*	*	*
 2	wird	*	*	*	*
 3	es	*	*	*	*
@@ -1483,22 +1531,23 @@
 9	heiß	*	*	*	*
 10	,	*	*	*	*
 11	nachts	*	*	*	*
-12	gehen	2	2	2	2
+12	gehen	FIG	FIG	FIG	FIG
 13	die	*	*	*	*
 14	Temperaturen	*	*	*	*
 15	bei	*	*	*	*
 16	fünf	*	*	*	*
 17	Grad	*	*	*	*
-18	in	2	2	2	2
+18	in	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Keller	2	2	2	2
+20	Keller	FIG	FIG	FIG	FIG
 21	.	*	*	*	*
 
 # tuepp_article_id = T930125.53
 # sent_id = 3060
+# text = Seit dem " schwarzen Donnerstag " im vergangenen Herbst , als das Pfund in den Keller ging , ist die Lobby für eine unabhängige Bank gewachsen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Seit dem " schwarzen Donnerstag " im vergangenen Herbst , als das Pfund in den Keller ging , ist die Lobby für eine unabhängige Bank gewachsen .
 1	Seit	*	*	*	*
 2	dem	*	*	*	*
 3	"	*	*	*	*
@@ -1512,10 +1561,10 @@
 11	als	*	*	*	*
 12	das	*	*	*	*
 13	Pfund	*	*	*	*
-14	in	2	2	2	2
+14	in	FIG	FIG	FIG	FIG
 15	den	*	*	*	*
-16	Keller	2	2	2	2
-17	ging	2	2	2	2
+16	Keller	FIG	FIG	FIG	FIG
+17	ging	FIG	FIG	FIG	FIG
 18	,	*	*	*	*
 19	ist	*	*	*	*
 20	die	*	*	*	*
@@ -1529,22 +1578,24 @@
 
 # tuepp_article_id = T930108.191
 # sent_id = 3061
+# text = Schließlich geht es in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Schließlich geht es in den Keller .
 1	Schließlich	*	*	*	*
-2	geht	1	2	1	1
+2	geht	LIT	FIG	LIT	LIT
 3	es	*	*	*	*
-4	in	1	2	1	1
+4	in	LIT	FIG	LIT	LIT
 5	den	*	*	*	*
-6	Keller	1	2	1	1
+6	Keller	LIT	FIG	LIT	LIT
 7	.	*	*	*	*
 
 # tuepp_article_id = T930116.221
 # sent_id = 3062
+# text = Aber seit einem Jahr sind die Preise für Rohöl in den Keller gegangen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aber seit einem Jahr sind die Preise für Rohöl in den Keller gegangen .
 1	Aber	*	*	*	*
 2	seit	*	*	*	*
 3	einem	*	*	*	*
@@ -1554,49 +1605,51 @@
 7	Preise	*	*	*	*
 8	für	*	*	*	*
 9	Rohöl	*	*	*	*
-10	in	2	2	2	2
+10	in	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Keller	2	2	2	2
-13	gegangen	2	2	2	2
+12	Keller	FIG	FIG	FIG	FIG
+13	gegangen	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T930724.291
 # sent_id = 3063
+# text = Wenn die Sirenen heulen , geht es eben " ab in den Keller " .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wenn die Sirenen heulen , geht es eben " ab in den Keller " .
 1	Wenn	*	*	*	*
 2	die	*	*	*	*
 3	Sirenen	*	*	*	*
 4	heulen	*	*	*	*
 5	,	*	*	*	*
-6	geht	1	1	1	1
+6	geht	LIT	LIT	LIT	LIT
 7	es	*	*	*	*
 8	eben	*	*	*	*
 9	"	*	*	*	*
 10	ab	*	*	*	*
-11	in	1	1	1	1
+11	in	LIT	LIT	LIT	LIT
 12	den	*	*	*	*
-13	Keller	1	1	1	1
+13	Keller	LIT	LIT	LIT	LIT
 14	"	*	*	*	*
 15	.	*	*	*	*
 
 # tuepp_article_id = T931216.16
 # sent_id = 3064
+# text = Ich gehe nicht ins Treppenhaus und auch nicht in den Keller , ich fühle mich besser , wenn ich lese , während die Granaten niedergehen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ich gehe nicht ins Treppenhaus und auch nicht in den Keller , ich fühle mich besser , wenn ich lese , während die Granaten niedergehen .
 1	Ich	*	*	*	*
-2	gehe	1	1	1	1
+2	gehe	LIT	LIT	LIT	LIT
 3	nicht	*	*	*	*
 4	ins	*	*	*	*
 5	Treppenhaus	*	*	*	*
 6	und	*	*	*	*
 7	auch	*	*	*	*
 8	nicht	*	*	*	*
-9	in	1	1	1	1
+9	in	LIT	LIT	LIT	LIT
 10	den	*	*	*	*
-11	Keller	1	1	1	1
+11	Keller	LIT	LIT	LIT	LIT
 12	,	*	*	*	*
 13	ich	*	*	*	*
 14	fühle	*	*	*	*
@@ -1615,9 +1668,10 @@
 
 # tuepp_article_id = T931216.16
 # sent_id = 3065
+# text = Und sie sitzt , bis sie mich so wütend gemacht hat , daß auch ich ins Treppenhaus oder in den Keller gehe .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und sie sitzt , bis sie mich so wütend gemacht hat , daß auch ich ins Treppenhaus oder in den Keller gehe .
 1	Und	*	*	*	*
 2	sie	*	*	*	*
 3	sitzt	*	*	*	*
@@ -1636,43 +1690,45 @@
 16	ins	*	*	*	*
 17	Treppenhaus	*	*	*	*
 18	oder	*	*	*	*
-19	in	1	1	1	1
+19	in	LIT	LIT	LIT	LIT
 20	den	*	*	*	*
-21	Keller	1	1	1	1
-22	gehe	1	1	1	1
+21	Keller	LIT	LIT	LIT	LIT
+22	gehe	LIT	LIT	LIT	LIT
 23	.	*	*	*	*
 
 # tuepp_article_id = T930302.159
 # sent_id = 3066
+# text = Vorbei an einer rotbeleuchteten Heiligenfigur ging es in den Keller hinunter .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vorbei an einer rotbeleuchteten Heiligenfigur ging es in den Keller hinunter .
 1	Vorbei	*	*	*	*
 2	an	*	*	*	*
 3	einer	*	*	*	*
 4	rotbeleuchteten	*	*	*	*
 5	Heiligenfigur	*	*	*	*
-6	ging	1	1	1	1
+6	ging	LIT	LIT	LIT	LIT
 7	es	*	*	*	*
-8	in	1	1	1	1
+8	in	LIT	LIT	LIT	LIT
 9	den	*	*	*	*
-10	Keller	1	1	1	1
+10	Keller	LIT	LIT	LIT	LIT
 11	hinunter	*	*	*	*
 12	.	*	*	*	*
 
 # tuepp_article_id = T930324.222
 # sent_id = 3067
+# text = Da auch die Steuereinnahmen in den Keller gehen , rechnen Bürgermeister und Finanzsenator bereits 1994 mit einer Deckungslücke von 510 Millionen Mark im Hamburger Haushalt .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Da auch die Steuereinnahmen in den Keller gehen , rechnen Bürgermeister und Finanzsenator bereits 1994 mit einer Deckungslücke von 510 Millionen Mark im Hamburger Haushalt .
 1	Da	*	*	*	*
 2	auch	*	*	*	*
 3	die	*	*	*	*
 4	Steuereinnahmen	*	*	*	*
-5	in	2	2	2	2
+5	in	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
-7	Keller	2	2	2	2
-8	gehen	2	2	2	2
+7	Keller	FIG	FIG	FIG	FIG
+8	gehen	FIG	FIG	FIG	FIG
 9	,	*	*	*	*
 10	rechnen	*	*	*	*
 11	Bürgermeister	*	*	*	*
@@ -1694,29 +1750,31 @@
 
 # tuepp_article_id = T930303.25
 # sent_id = 3068
+# text = Hans Eichel : Die CDU geht heute tatsächlich wieder tief in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hans Eichel : Die CDU geht heute tatsächlich wieder tief in den Keller .
 1	Hans	*	*	*	*
 2	Eichel	*	*	*	*
 3	:	*	*	*	*
 4	Die	*	*	*	*
 5	CDU	*	*	*	*
-6	geht	1	2	2	2
+6	geht	LIT	FIG	FIG	FIG
 7	heute	*	*	*	*
 8	tatsächlich	*	*	*	*
 9	wieder	*	*	*	*
 10	tief	*	*	*	*
-11	in	1	2	2	2
+11	in	LIT	FIG	FIG	FIG
 12	den	*	*	*	*
-13	Keller	1	2	2	2
+13	Keller	LIT	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T930201.43
 # sent_id = 3069
+# text = Es war bereits die fünfte Abwertung einer EWS-Währung seit September : Nach dem Ausstieg Großbritanniens und Italiens aus dem EWS gingen Sterling und Lira in den Keller , und im November wurden die spanische Peseta und der portugiesische Escudo um jeweils sechs Prozent abgewertet .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Es war bereits die fünfte Abwertung einer EWS-Währung seit September : Nach dem Ausstieg Großbritanniens und Italiens aus dem EWS gingen Sterling und Lira in den Keller , und im November wurden die spanische Peseta und der portugiesische Escudo um jeweils sechs Prozent abgewertet .
 1	Es	*	*	*	*
 2	war	*	*	*	*
 3	bereits	*	*	*	*
@@ -1737,13 +1795,13 @@
 18	aus	*	*	*	*
 19	dem	*	*	*	*
 20	EWS	*	*	*	*
-21	gingen	2	2	2	2
+21	gingen	FIG	FIG	FIG	FIG
 22	Sterling	*	*	*	*
 23	und	*	*	*	*
 24	Lira	*	*	*	*
-25	in	2	2	2	2
+25	in	FIG	FIG	FIG	FIG
 26	den	*	*	*	*
-27	Keller	2	2	2	2
+27	Keller	FIG	FIG	FIG	FIG
 28	,	*	*	*	*
 29	und	*	*	*	*
 30	im	*	*	*	*
@@ -1765,14 +1823,15 @@
 
 # tuepp_article_id = T960419.340
 # sent_id = 3070
+# text = Die never ending story geht inzwischen in ihre x-te Runde , das Niveau dabei vollends in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die never ending story geht inzwischen in ihre x-te Runde , das Niveau dabei vollends in den Keller .
 1	Die	*	*	*	*
 2	never	*	*	*	*
 3	ending	*	*	*	*
 4	story	*	*	*	*
-5	geht	2	2	2	2
+5	geht	FIG	FIG	FIG	FIG
 6	inzwischen	*	*	*	*
 7	in	*	*	*	*
 8	ihre	*	*	*	*
@@ -1783,22 +1842,23 @@
 13	Niveau	*	*	*	*
 14	dabei	*	*	*	*
 15	vollends	*	*	*	*
-16	in	2	2	2	2
+16	in	FIG	FIG	FIG	FIG
 17	den	*	*	*	*
-18	Keller	2	2	2	2
+18	Keller	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T961214.360
 # sent_id = 3071
+# text = Gehen die Strompreise in den Keller , amortisieren sich Energieeinspar-Investitionen für Betriebe und Verbraucher erst nach vielen Jahren .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Gehen die Strompreise in den Keller , amortisieren sich Energieeinspar-Investitionen für Betriebe und Verbraucher erst nach vielen Jahren .
-1	Gehen	2	2	2	2
+1	Gehen	FIG	FIG	FIG	FIG
 2	die	*	*	*	*
 3	Strompreise	*	*	*	*
-4	in	2	2	2	2
+4	in	FIG	FIG	FIG	FIG
 5	den	*	*	*	*
-6	Keller	2	2	2	2
+6	Keller	FIG	FIG	FIG	FIG
 7	,	*	*	*	*
 8	amortisieren	*	*	*	*
 9	sich	*	*	*	*
@@ -1815,9 +1875,10 @@
 
 # tuepp_article_id = T961224.214
 # sent_id = 3072
+# text = " Hier kann man seine Krisen ausleben , um fünf Uhr morgens auf den Jüdischen Friedhof gehen oder in den Keller und ein paar Stunden abschreien .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Hier kann man seine Krisen ausleben , um fünf Uhr morgens auf den Jüdischen Friedhof gehen oder in den Keller und ein paar Stunden abschreien .
 1	"	*	*	*	*
 2	Hier	*	*	*	*
 3	kann	*	*	*	*
@@ -1834,11 +1895,11 @@
 14	den	*	*	*	*
 15	Jüdischen	*	*	*	*
 16	Friedhof	*	*	*	*
-17	gehen	1	1	1	1
+17	gehen	LIT	LIT	LIT	LIT
 18	oder	*	*	*	*
-19	in	1	1	1	1
+19	in	LIT	LIT	LIT	LIT
 20	den	*	*	*	*
-21	Keller	1	1	1	1
+21	Keller	LIT	LIT	LIT	LIT
 22	und	*	*	*	*
 23	ein	*	*	*	*
 24	paar	*	*	*	*
@@ -1848,9 +1909,10 @@
 
 # tuepp_article_id = T960812.206
 # sent_id = 3073
+# text = Kaum ein Sender verschleudert seine teuren Eigenproduktionen an die wenigen Daheimgebliebenen - wenn schon die Quoten in den Keller gehen , steigt der Programmplaner lieber gleich mit hinab ins Archiv und hebt kostenneutrale Wiederholungen auf die verwaisten Sendeplätze .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kaum ein Sender verschleudert seine teuren Eigenproduktionen an die wenigen Daheimgebliebenen - wenn schon die Quoten in den Keller gehen , steigt der Programmplaner lieber gleich mit hinab ins Archiv und hebt kostenneutrale Wiederholungen auf die verwaisten Sendeplätze .
 1	Kaum	*	*	*	*
 2	ein	*	*	*	*
 3	Sender	*	*	*	*
@@ -1867,10 +1929,10 @@
 14	schon	*	*	*	*
 15	die	*	*	*	*
 16	Quoten	*	*	*	*
-17	in	2	2	2	2
+17	in	FIG	FIG	FIG	FIG
 18	den	*	*	*	*
-19	Keller	2	2	2	2
-20	gehen	2	2	2	2
+19	Keller	FIG	FIG	FIG	FIG
+20	gehen	FIG	FIG	FIG	FIG
 21	,	*	*	*	*
 22	steigt	*	*	*	*
 23	der	*	*	*	*
@@ -1893,9 +1955,10 @@
 
 # tuepp_article_id = T960806.182
 # sent_id = 3074
+# text = Ein ganz kleiner Vorgeschmack war's , was auf uns zukommt , wenn Deutschland in wenigen Jahren ins Mittelfeld der Industrienationen zurückgefallen sein wird und das Selbstwertgefühl der Bürger gemeinsam mit dem Wechselkurs der D-Mark in den Keller geht .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein ganz kleiner Vorgeschmack war's , was auf uns zukommt , wenn Deutschland in wenigen Jahren ins Mittelfeld der Industrienationen zurückgefallen sein wird und das Selbstwertgefühl der Bürger gemeinsam mit dem Wechselkurs der D-Mark in den Keller geht .
 1	Ein	*	*	*	*
 2	ganz	*	*	*	*
 3	kleiner	*	*	*	*
@@ -1931,17 +1994,18 @@
 33	Wechselkurs	*	*	*	*
 34	der	*	*	*	*
 35	D-Mark	*	*	*	*
-36	in	2	2	2	2
+36	in	FIG	FIG	FIG	FIG
 37	den	*	*	*	*
-38	Keller	2	2	2	2
-39	geht	2	2	2	2
+38	Keller	FIG	FIG	FIG	FIG
+39	geht	FIG	FIG	FIG	FIG
 40	.	*	*	*	*
 
 # tuepp_article_id = T960813.109
 # sent_id = 3075
+# text = Die Arzneimittelkosten , zumindest solche in Form von Suppositorien , gehen schlagartig in den Keller , denn für Sadomasospielzeug zahlt schließlich auch keine Kasse !
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Arzneimittelkosten , zumindest solche in Form von Suppositorien , gehen schlagartig in den Keller , denn für Sadomasospielzeug zahlt schließlich auch keine Kasse !
 1	Die	*	*	*	*
 2	Arzneimittelkosten	*	*	*	*
 3	,	*	*	*	*
@@ -1952,11 +2016,11 @@
 8	von	*	*	*	*
 9	Suppositorien	*	*	*	*
 10	,	*	*	*	*
-11	gehen	2	2	2	2
+11	gehen	FIG	FIG	FIG	FIG
 12	schlagartig	*	*	*	*
-13	in	2	2	2	2
+13	in	FIG	FIG	FIG	FIG
 14	den	*	*	*	*
-15	Keller	2	2	2	2
+15	Keller	FIG	FIG	FIG	FIG
 16	,	*	*	*	*
 17	denn	*	*	*	*
 18	für	*	*	*	*
@@ -1970,9 +2034,10 @@
 
 # tuepp_article_id = T960821.48
 # sent_id = 3076
+# text = Allerdings war die Stimmung unter den engagierten Asyl-Anwälten ziemlich in den Keller gegangen , nachdem das BVerfG im Mai diesen Jahres die Grundgesetzänderung zum Asylrecht ohne größere Skrupel abgesegnet hatte .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Allerdings war die Stimmung unter den engagierten Asyl-Anwälten ziemlich in den Keller gegangen , nachdem das BVerfG im Mai diesen Jahres die Grundgesetzänderung zum Asylrecht ohne größere Skrupel abgesegnet hatte .
 1	Allerdings	*	*	*	*
 2	war	*	*	*	*
 3	die	*	*	*	*
@@ -1982,10 +2047,10 @@
 7	engagierten	*	*	*	*
 8	Asyl-Anwälten	*	*	*	*
 9	ziemlich	*	*	*	*
-10	in	2	2	2	2
+10	in	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Keller	2	2	2	2
-13	gegangen	2	2	2	2
+12	Keller	FIG	FIG	FIG	FIG
+13	gegangen	FIG	FIG	FIG	FIG
 14	,	*	*	*	*
 15	nachdem	*	*	*	*
 16	das	*	*	*	*
@@ -2007,9 +2072,10 @@
 
 # tuepp_article_id = T960808.246
 # sent_id = 3077
+# text = " Gerade die Spätshows sind auch als Wartesaal für Zuschauer gedacht , die den Höhepunkt des Abends schon hinter oder noch vor sich haben : " Manche lassen den Abend hier ausklingen , für andere ist es der Auftakt , bevor sie in irgendeinen Techno- Keller gehen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Gerade die Spätshows sind auch als Wartesaal für Zuschauer gedacht , die den Höhepunkt des Abends schon hinter oder noch vor sich haben : " Manche lassen den Abend hier ausklingen , für andere ist es der Auftakt , bevor sie in irgendeinen Techno- Keller gehen .
 1	"	*	*	*	*
 2	Gerade	*	*	*	*
 3	die	*	*	*	*
@@ -2052,34 +2118,36 @@
 40	,	*	*	*	*
 41	bevor	*	*	*	*
 42	sie	*	*	*	*
-43	in	1	1	2	1
+43	in	LIT	LIT	FIG	LIT
 44	irgendeinen	*	*	*	*
 45	Techno-	*	*	*	*
-46	Keller	1	1	2	1
-47	gehen	1	1	2	1
+46	Keller	LIT	LIT	FIG	LIT
+47	gehen	LIT	LIT	FIG	LIT
 48	.	*	*	*	*
 
 # tuepp_article_id = T960323.265
 # sent_id = 3078
+# text = Der Wert ihrer Häuschen ist in den Keller gegangen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Wert ihrer Häuschen ist in den Keller gegangen .
 1	Der	*	*	*	*
 2	Wert	*	*	*	*
 3	ihrer	*	*	*	*
 4	Häuschen	*	*	*	*
 5	ist	*	*	*	*
-6	in	2	2	2	2
+6	in	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Keller	2	2	2	2
-9	gegangen	2	2	2	2
+8	Keller	FIG	FIG	FIG	FIG
+9	gegangen	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T960321.20
 # sent_id = 3079
+# text = Aber die beruhigenden Worte werden nicht verhindern , daß der Verkauf von Rindfleisch in den Keller gehen wird .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aber die beruhigenden Worte werden nicht verhindern , daß der Verkauf von Rindfleisch in den Keller gehen wird .
 1	Aber	*	*	*	*
 2	die	*	*	*	*
 3	beruhigenden	*	*	*	*
@@ -2093,18 +2161,19 @@
 11	Verkauf	*	*	*	*
 12	von	*	*	*	*
 13	Rindfleisch	*	*	*	*
-14	in	2	2	2	2
+14	in	FIG	FIG	FIG	FIG
 15	den	*	*	*	*
-16	Keller	2	2	2	2
-17	gehen	2	2	2	2
+16	Keller	FIG	FIG	FIG	FIG
+17	gehen	FIG	FIG	FIG	FIG
 18	wird	*	*	*	*
 19	.	*	*	*	*
 
 # tuepp_article_id = T960325.56
 # sent_id = 3080
+# text = Sollten die Experten empfehlen , sämtliche 11,8 Millionen britische Rinder zu töten , würde der Sterling in den Keller gehen , die Inflation um eineinhalb Prozent ansteigen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sollten die Experten empfehlen , sämtliche 11,8 Millionen britische Rinder zu töten , würde der Sterling in den Keller gehen , die Inflation um eineinhalb Prozent ansteigen .
 1	Sollten	*	*	*	*
 2	die	*	*	*	*
 3	Experten	*	*	*	*
@@ -2121,10 +2190,10 @@
 14	würde	*	*	*	*
 15	der	*	*	*	*
 16	Sterling	*	*	*	*
-17	in	2	2	2	2
+17	in	FIG	FIG	FIG	FIG
 18	den	*	*	*	*
-19	Keller	2	2	2	2
-20	gehen	2	2	2	2
+19	Keller	FIG	FIG	FIG	FIG
+20	gehen	FIG	FIG	FIG	FIG
 21	,	*	*	*	*
 22	die	*	*	*	*
 23	Inflation	*	*	*	*
@@ -2136,18 +2205,19 @@
 
 # tuepp_article_id = T960325.71
 # sent_id = 3081
+# text = " Man hätte doch nur in den Keller gehen müssen und in den Akten nachschauen müssen " , argumentiert Gudrun Lehmann .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Man hätte doch nur in den Keller gehen müssen und in den Akten nachschauen müssen " , argumentiert Gudrun Lehmann .
 1	"	*	*	*	*
 2	Man	*	*	*	*
 3	hätte	*	*	*	*
 4	doch	*	*	*	*
 5	nur	*	*	*	*
-6	in	1	1	1	1
+6	in	LIT	LIT	LIT	LIT
 7	den	*	*	*	*
-8	Keller	1	1	1	1
-9	gehen	1	1	1	1
+8	Keller	LIT	LIT	LIT	LIT
+9	gehen	LIT	LIT	LIT	LIT
 10	müssen	*	*	*	*
 11	und	*	*	*	*
 12	in	*	*	*	*
@@ -2164,9 +2234,10 @@
 
 # tuepp_article_id = T961106.109
 # sent_id = 3082
+# text = Er biegt in einen Hinterhof ein , es geht einige Stufen hinunter in einen Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Er biegt in einen Hinterhof ein , es geht einige Stufen hinunter in einen Keller .
 1	Er	*	*	*	*
 2	biegt	*	*	*	*
 3	in	*	*	*	*
@@ -2175,20 +2246,21 @@
 6	ein	*	*	*	*
 7	,	*	*	*	*
 8	es	*	*	*	*
-9	geht	1	1	1	1
+9	geht	LIT	LIT	LIT	LIT
 10	einige	*	*	*	*
 11	Stufen	*	*	*	*
 12	hinunter	*	*	*	*
-13	in	1	1	1	1
+13	in	LIT	LIT	LIT	LIT
 14	einen	*	*	*	*
-15	Keller	1	1	1	1
+15	Keller	LIT	LIT	LIT	LIT
 16	.	*	*	*	*
 
 # tuepp_article_id = T980514.256
 # sent_id = 3083
+# text = Sie haben Paris erwähnt , dort werden Museen als Ereignisse inszeniert - hier geht die Berlinische Galerie in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie haben Paris erwähnt , dort werden Museen als Ereignisse inszeniert - hier geht die Berlinische Galerie in den Keller .
 1	Sie	*	*	*	*
 2	haben	*	*	*	*
 3	Paris	*	*	*	*
@@ -2202,27 +2274,28 @@
 11	inszeniert	*	*	*	*
 12	-	*	*	*	*
 13	hier	*	*	*	*
-14	geht	2	2	2	2
+14	geht	FIG	FIG	FIG	FIG
 15	die	*	*	*	*
 16	Berlinische	*	*	*	*
 17	Galerie	*	*	*	*
-18	in	2	2	2	2
+18	in	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Keller	2	2	2	2
+20	Keller	FIG	FIG	FIG	FIG
 21	.	*	*	*	*
 
 # tuepp_article_id = T981019.221
 # sent_id = 3084
+# text = Ein Winzer war in seinen Keller gegangen , in dem mehrere Fuder des Mostes gärten .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein Winzer war in seinen Keller gegangen , in dem mehrere Fuder des Mostes gärten .
 1	Ein	*	*	*	*
 2	Winzer	*	*	*	*
 3	war	*	*	*	*
-4	in	1	1	1	1
+4	in	LIT	LIT	LIT	LIT
 5	seinen	*	*	*	*
-6	Keller	1	1	1	1
-7	gegangen	1	1	1	1
+6	Keller	LIT	LIT	LIT	LIT
+7	gegangen	LIT	LIT	LIT	LIT
 8	,	*	*	*	*
 9	in	*	*	*	*
 10	dem	*	*	*	*
@@ -2235,23 +2308,25 @@
 
 # tuepp_article_id = T980905.206
 # sent_id = 3085
+# text = Dann geht es in den Keller runter .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dann geht es in den Keller runter .
 1	Dann	*	*	*	*
-2	geht	1	1	1	1
+2	geht	LIT	LIT	LIT	LIT
 3	es	*	*	*	*
-4	in	1	1	1	1
+4	in	LIT	LIT	LIT	LIT
 5	den	*	*	*	*
-6	Keller	1	1	1	1
+6	Keller	LIT	LIT	LIT	LIT
 7	runter	*	*	*	*
 8	.	*	*	*	*
 
 # tuepp_article_id = T980427.97
 # sent_id = 3086
+# text = Mit dem Aufstieg der Neonazis wird eine große Koalition in Magdeburg wahrscheinlich - und das , obwohl die CDU von bisher 34 auf rund 22 Prozent in den Keller ging .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit dem Aufstieg der Neonazis wird eine große Koalition in Magdeburg wahrscheinlich - und das , obwohl die CDU von bisher 34 auf rund 22 Prozent in den Keller ging .
 1	Mit	*	*	*	*
 2	dem	*	*	*	*
 3	Aufstieg	*	*	*	*
@@ -2278,17 +2353,18 @@
 24	rund	*	*	*	*
 25	22	*	*	*	*
 26	Prozent	*	*	*	*
-27	in	2	2	2	2
+27	in	FIG	FIG	FIG	FIG
 28	den	*	*	*	*
-29	Keller	2	2	2	2
-30	ging	2	2	2	2
+29	Keller	FIG	FIG	FIG	FIG
+30	ging	FIG	FIG	FIG	FIG
 31	.	*	*	*	*
 
 # tuepp_article_id = T981212.332
 # sent_id = 3087
+# text = Denn der Verbrauch an Kerzen , so lehrt uns die Erfahrung , geht nach Beendigung der Christenzeremonie rapide in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Denn der Verbrauch an Kerzen , so lehrt uns die Erfahrung , geht nach Beendigung der Christenzeremonie rapide in den Keller .
 1	Denn	*	*	*	*
 2	der	*	*	*	*
 3	Verbrauch	*	*	*	*
@@ -2301,32 +2377,33 @@
 10	die	*	*	*	*
 11	Erfahrung	*	*	*	*
 12	,	*	*	*	*
-13	geht	2	2	2	2
+13	geht	FIG	FIG	FIG	FIG
 14	nach	*	*	*	*
 15	Beendigung	*	*	*	*
 16	der	*	*	*	*
 17	Christenzeremonie	*	*	*	*
 18	rapide	*	*	*	*
-19	in	2	2	2	2
+19	in	FIG	FIG	FIG	FIG
 20	den	*	*	*	*
-21	Keller	2	2	2	2
+21	Keller	FIG	FIG	FIG	FIG
 22	.	*	*	*	*
 
 # tuepp_article_id = T981229.33
 # sent_id = 3088
+# text = Gehen die Gebühren bis auf sechs Pfennig in den Keller , gehört Telekom zu den billigsten Verbindern .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Gehen die Gebühren bis auf sechs Pfennig in den Keller , gehört Telekom zu den billigsten Verbindern .
-1	Gehen	2	2	2	2
+1	Gehen	FIG	FIG	FIG	FIG
 2	die	*	*	*	*
 3	Gebühren	*	*	*	*
 4	bis	*	*	*	*
 5	auf	*	*	*	*
 6	sechs	*	*	*	*
 7	Pfennig	*	*	*	*
-8	in	2	2	2	2
+8	in	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
-10	Keller	2	2	2	2
+10	Keller	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	gehört	*	*	*	*
 13	Telekom	*	*	*	*
@@ -2338,20 +2415,21 @@
 
 # tuepp_article_id = T980811.131
 # sent_id = 3089
+# text = Im Juni und Juli gingen die CD-Verkäufe derart in den Keller , daß sich die Manager ernsthaft Sorgen machen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Im Juni und Juli gingen die CD-Verkäufe derart in den Keller , daß sich die Manager ernsthaft Sorgen machen .
 1	Im	*	*	*	*
 2	Juni	*	*	*	*
 3	und	*	*	*	*
 4	Juli	*	*	*	*
-5	gingen	2	2	2	2
+5	gingen	FIG	FIG	FIG	FIG
 6	die	*	*	*	*
 7	CD-Verkäufe	*	*	*	*
 8	derart	*	*	*	*
-9	in	2	2	2	2
+9	in	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
-11	Keller	2	2	2	2
+11	Keller	FIG	FIG	FIG	FIG
 12	,	*	*	*	*
 13	daß	*	*	*	*
 14	sich	*	*	*	*
@@ -2364,18 +2442,19 @@
 
 # tuepp_article_id = T980302.279
 # sent_id = 3090
+# text = Wenn man alle paar Tage in den Keller geht , um Kohlen zu holen , kommt auch oft eine grimmige Befriedigung daher , denn man heizt ja sozusagen mit eigener Kraft .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wenn man alle paar Tage in den Keller geht , um Kohlen zu holen , kommt auch oft eine grimmige Befriedigung daher , denn man heizt ja sozusagen mit eigener Kraft .
 1	Wenn	*	*	*	*
 2	man	*	*	*	*
 3	alle	*	*	*	*
 4	paar	*	*	*	*
 5	Tage	*	*	*	*
-6	in	1	1	1	1
+6	in	LIT	LIT	LIT	LIT
 7	den	*	*	*	*
-8	Keller	1	1	1	1
-9	geht	1	1	1	1
+8	Keller	LIT	LIT	LIT	LIT
+9	geht	LIT	LIT	LIT	LIT
 10	,	*	*	*	*
 11	um	*	*	*	*
 12	Kohlen	*	*	*	*
@@ -2402,9 +2481,10 @@
 
 # tuepp_article_id = T981111.83
 # sent_id = 3091
+# text = Als der Aktienkurs des Berliner Instituts im Zuge der weltweiten Finanzkrise in den Keller ging , nahmen die NordLB-Eigner das als Vorwand für den Ausstieg .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als der Aktienkurs des Berliner Instituts im Zuge der weltweiten Finanzkrise in den Keller ging , nahmen die NordLB-Eigner das als Vorwand für den Ausstieg .
 1	Als	*	*	*	*
 2	der	*	*	*	*
 3	Aktienkurs	*	*	*	*
@@ -2416,10 +2496,10 @@
 9	der	*	*	*	*
 10	weltweiten	*	*	*	*
 11	Finanzkrise	*	*	*	*
-12	in	2	2	2	2
+12	in	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Keller	2	2	2	2
-15	ging	2	2	2	2
+14	Keller	FIG	FIG	FIG	FIG
+15	ging	FIG	FIG	FIG	FIG
 16	,	*	*	*	*
 17	nahmen	*	*	*	*
 18	die	*	*	*	*
@@ -2434,9 +2514,10 @@
 
 # tuepp_article_id = T980213.381
 # sent_id = 3092
+# text = Die thailändische Währung , der Baht , sackte ab , und diese Depression erfaßte die übrigen Währungen der Region : Der malaysische Ringgit , der philippinische Peso , die indonesische Rupiah und selbst der Singapur-Dollar verzeichneten starke Verluste , die Börsenkurse gingen steil in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die thailändische Währung , der Baht , sackte ab , und diese Depression erfaßte die übrigen Währungen der Region : Der malaysische Ringgit , der philippinische Peso , die indonesische Rupiah und selbst der Singapur-Dollar verzeichneten starke Verluste , die Börsenkurse gingen steil in den Keller .
 1	Die	*	*	*	*
 2	thailändische	*	*	*	*
 3	Währung	*	*	*	*
@@ -2478,18 +2559,19 @@
 39	,	*	*	*	*
 40	die	*	*	*	*
 41	Börsenkurse	*	*	*	*
-42	gingen	2	2	2	2
+42	gingen	FIG	FIG	FIG	FIG
 43	steil	*	*	*	*
-44	in	2	2	2	2
+44	in	FIG	FIG	FIG	FIG
 45	den	*	*	*	*
-46	Keller	2	2	2	2
+46	Keller	FIG	FIG	FIG	FIG
 47	.	*	*	*	*
 
 # tuepp_article_id = T980223.211
 # sent_id = 3093
+# text = An jenen Tagen , an denen die Times verschleudert wird , geht der Independent-Absatz in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = An jenen Tagen , an denen die Times verschleudert wird , geht der Independent-Absatz in den Keller .
 1	An	*	*	*	*
 2	jenen	*	*	*	*
 3	Tagen	*	*	*	*
@@ -2501,19 +2583,20 @@
 9	verschleudert	*	*	*	*
 10	wird	*	*	*	*
 11	,	*	*	*	*
-12	geht	2	2	2	2
+12	geht	FIG	FIG	FIG	FIG
 13	der	*	*	*	*
 14	Independent-Absatz	*	*	*	*
-15	in	2	2	2	2
+15	in	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Keller	2	2	2	2
+17	Keller	FIG	FIG	FIG	FIG
 18	.	*	*	*	*
 
 # tuepp_article_id = T970617.42
 # sent_id = 3094
+# text = IL-2 stimuliert das Immunsystem , regt die Vermehrung und Reifung der T4-Helferzellen an , deren Zahl bei Aids dramatisch in den Keller geht .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = IL-2 stimuliert das Immunsystem , regt die Vermehrung und Reifung der T4-Helferzellen an , deren Zahl bei Aids dramatisch in den Keller geht .
 1	IL-2	*	*	*	*
 2	stimuliert	*	*	*	*
 3	das	*	*	*	*
@@ -2533,46 +2616,49 @@
 17	bei	*	*	*	*
 18	Aids	*	*	*	*
 19	dramatisch	*	*	*	*
-20	in	2	2	2	2
+20	in	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
-22	Keller	2	2	2	2
-23	geht	2	2	2	2
+22	Keller	FIG	FIG	FIG	FIG
+23	geht	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T970607.301
 # sent_id = 3095
+# text = Die Folge : Die Entsorgungspreise gingen in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Folge : Die Entsorgungspreise gingen in den Keller .
 1	Die	*	*	*	*
 2	Folge	*	*	*	*
 3	:	*	*	*	*
 4	Die	*	*	*	*
 5	Entsorgungspreise	*	*	*	*
-6	gingen	2	2	2	2
-7	in	2	2	2	2
+6	gingen	FIG	FIG	FIG	FIG
+7	in	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Keller	2	2	2	2
+9	Keller	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T971013.25
 # sent_id = 3096
+# text = Die Rendite geht in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Rendite geht in den Keller .
 1	Die	*	*	*	*
 2	Rendite	*	*	*	*
-3	geht	2	2	2	2
-4	in	2	2	2	2
+3	geht	FIG	FIG	FIG	FIG
+4	in	FIG	FIG	FIG	FIG
 5	den	*	*	*	*
-6	Keller	2	2	2	2
+6	Keller	FIG	FIG	FIG	FIG
 7	.	*	*	*	*
 
 # tuepp_article_id = T971018.80
 # sent_id = 3097
+# text = So daß vielleicht sogar ein neuer Schwarzer Montag herbeizuwünschen ist : damit die Aktienrenditen so weit in den Keller gehen , daß sich produktive Investitionen wieder lohnen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = So daß vielleicht sogar ein neuer Schwarzer Montag herbeizuwünschen ist : damit die Aktienrenditen so weit in den Keller gehen , daß sich produktive Investitionen wieder lohnen .
 1	So	*	*	*	*
 2	daß	*	*	*	*
 3	vielleicht	*	*	*	*
@@ -2589,10 +2675,10 @@
 14	Aktienrenditen	*	*	*	*
 15	so	*	*	*	*
 16	weit	*	*	*	*
-17	in	2	2	2	2
+17	in	FIG	FIG	FIG	FIG
 18	den	*	*	*	*
-19	Keller	2	2	2	2
-20	gehen	2	2	2	2
+19	Keller	FIG	FIG	FIG	FIG
+20	gehen	FIG	FIG	FIG	FIG
 21	,	*	*	*	*
 22	daß	*	*	*	*
 23	sich	*	*	*	*
@@ -2604,9 +2690,10 @@
 
 # tuepp_article_id = T970925.126
 # sent_id = 3098
+# text = Das zeigt Wirkung : Von den acht Reedereien , deren Schiffe regelmäßig in Liverpool anlegten , sind nur noch sechs übrig , die MDHC-Aktien gingen in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das zeigt Wirkung : Von den acht Reedereien , deren Schiffe regelmäßig in Liverpool anlegten , sind nur noch sechs übrig , die MDHC-Aktien gingen in den Keller .
 1	Das	*	*	*	*
 2	zeigt	*	*	*	*
 3	Wirkung	*	*	*	*
@@ -2631,17 +2718,18 @@
 22	,	*	*	*	*
 23	die	*	*	*	*
 24	MDHC-Aktien	*	*	*	*
-25	gingen	2	2	2	2
-26	in	2	2	2	2
+25	gingen	FIG	FIG	FIG	FIG
+26	in	FIG	FIG	FIG	FIG
 27	den	*	*	*	*
-28	Keller	2	2	2	2
+28	Keller	FIG	FIG	FIG	FIG
 29	.	*	*	*	*
 
 # tuepp_article_id = T970729.245
 # sent_id = 3099
+# text = " Der 26jährige , Mitglied der KonsumentInnengruppe " Testasy " , kennt auch das Phänomen der sogenannten " Ecstasy-Depression " : Ist das Wochenende um , der Rave vorbei und der Rausch beendet , geht die Stimmung in den Keller - bis zur nächsten Party , der nächsten " E " .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Der 26jährige , Mitglied der KonsumentInnengruppe " Testasy " , kennt auch das Phänomen der sogenannten " Ecstasy-Depression " : Ist das Wochenende um , der Rave vorbei und der Rausch beendet , geht die Stimmung in den Keller - bis zur nächsten Party , der nächsten " E " .
 1	"	*	*	*	*
 2	Der	*	*	*	*
 3	26jährige	*	*	*	*
@@ -2676,12 +2764,12 @@
 32	Rausch	*	*	*	*
 33	beendet	*	*	*	*
 34	,	*	*	*	*
-35	geht	2	2	2	2
+35	geht	FIG	FIG	FIG	FIG
 36	die	*	*	*	*
 37	Stimmung	*	*	*	*
-38	in	2	2	2	2
+38	in	FIG	FIG	FIG	FIG
 39	den	*	*	*	*
-40	Keller	2	2	2	2
+40	Keller	FIG	FIG	FIG	FIG
 41	-	*	*	*	*
 42	bis	*	*	*	*
 43	zur	*	*	*	*
@@ -2697,15 +2785,16 @@
 
 # tuepp_article_id = T970711.154
 # sent_id = 3100
+# text = Ihr Umsatz geht in den Keller , von Profit keine Spur mehr .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ihr Umsatz geht in den Keller , von Profit keine Spur mehr .
 1	Ihr	*	*	*	*
 2	Umsatz	*	*	*	*
-3	geht	2	2	2	2
-4	in	2	2	2	2
+3	geht	FIG	FIG	FIG	FIG
+4	in	FIG	FIG	FIG	FIG
 5	den	*	*	*	*
-6	Keller	2	2	2	2
+6	Keller	FIG	FIG	FIG	FIG
 7	,	*	*	*	*
 8	von	*	*	*	*
 9	Profit	*	*	*	*
@@ -2716,9 +2805,10 @@
 
 # tuepp_article_id = T971224.35
 # sent_id = 3101
+# text = Ganz vorne liegen da bekanntlich Pink Floyd und Genesis , die es beide hingekriegt haben , jeweils zweimal das Aussteigen ihres wichtigsten Mannes zu verkraften , ohne daß daraufhin auch nur im geringsten die Verkaufszahlen in den Keller gingen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ganz vorne liegen da bekanntlich Pink Floyd und Genesis , die es beide hingekriegt haben , jeweils zweimal das Aussteigen ihres wichtigsten Mannes zu verkraften , ohne daß daraufhin auch nur im geringsten die Verkaufszahlen in den Keller gingen .
 1	Ganz	*	*	*	*
 2	vorne	*	*	*	*
 3	liegen	*	*	*	*
@@ -2754,25 +2844,26 @@
 33	geringsten	*	*	*	*
 34	die	*	*	*	*
 35	Verkaufszahlen	*	*	*	*
-36	in	2	2	2	2
+36	in	FIG	FIG	FIG	FIG
 37	den	*	*	*	*
-38	Keller	2	2	2	2
-39	gingen	2	2	2	2
+38	Keller	FIG	FIG	FIG	FIG
+39	gingen	FIG	FIG	FIG	FIG
 40	.	*	*	*	*
 
 # tuepp_article_id = T971204.172
 # sent_id = 3102
+# text = Soll ich dazu diskret in den Keller gehen , damit meine Freundin nicht mitkriegt , wie teuer der Ball war ?
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Soll ich dazu diskret in den Keller gehen , damit meine Freundin nicht mitkriegt , wie teuer der Ball war ?
 1	Soll	*	*	*	*
 2	ich	*	*	*	*
 3	dazu	*	*	*	*
 4	diskret	*	*	*	*
-5	in	1	1	1	1
+5	in	LIT	LIT	LIT	LIT
 6	den	*	*	*	*
-7	Keller	1	1	1	1
-8	gehen	1	1	1	1
+7	Keller	LIT	LIT	LIT	LIT
+8	gehen	LIT	LIT	LIT	LIT
 9	,	*	*	*	*
 10	damit	*	*	*	*
 11	meine	*	*	*	*
@@ -2789,14 +2880,15 @@
 
 # tuepp_article_id = T971201.137
 # sent_id = 3103
+# text = Wenn's Richtung Keller gehen soll , wären Krautzun , Saftig oder Roggensack die richtigen Herren für den vakanten Posten .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Wenn's Richtung Keller gehen soll , wären Krautzun , Saftig oder Roggensack die richtigen Herren für den vakanten Posten .
 1	Wenn	*	*	*	*
 2	's	*	*	*	*
 3	Richtung	*	*	*	*
-4	Keller	2	2	2	2
-5	gehen	2	2	2	2
+4	Keller	FIG	FIG	FIG	FIG
+5	gehen	FIG	FIG	FIG	FIG
 6	soll	*	*	*	*
 7	,	*	*	*	*
 8	wären	*	*	*	*
@@ -2816,16 +2908,17 @@
 
 # tuepp_article_id = T970828.236
 # sent_id = 3104
+# text = Damit gehen wir jetzt in den Keller , so ganz tief runter , basteln das schlimmste Schema kommerzieller Stückelarbeit zusammen und schmücken es mit ein paar Namen .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Damit gehen wir jetzt in den Keller , so ganz tief runter , basteln das schlimmste Schema kommerzieller Stückelarbeit zusammen und schmücken es mit ein paar Namen .
 1	Damit	*	*	*	*
-2	gehen	2	2	2	2
+2	gehen	FIG	FIG	FIG	FIG
 3	wir	*	*	*	*
 4	jetzt	*	*	*	*
-5	in	2	2	2	2
+5	in	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
-7	Keller	2	2	2	2
+7	Keller	FIG	FIG	FIG	FIG
 8	,	*	*	*	*
 9	so	*	*	*	*
 10	ganz	*	*	*	*
@@ -2850,9 +2943,10 @@
 
 # tuepp_article_id = T970801.68
 # sent_id = 3105
+# text = Die Erfolge von Jan Ullrich und Co. sind für die Branche gerade richtig gekommen , bevor die Umsätze weiter in den Keller gehen können .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Erfolge von Jan Ullrich und Co. sind für die Branche gerade richtig gekommen , bevor die Umsätze weiter in den Keller gehen können .
 1	Die	*	*	*	*
 2	Erfolge	*	*	*	*
 3	von	*	*	*	*
@@ -2872,18 +2966,19 @@
 17	die	*	*	*	*
 18	Umsätze	*	*	*	*
 19	weiter	*	*	*	*
-20	in	2	2	2	2
+20	in	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
-22	Keller	2	2	2	2
-23	gehen	2	2	2	2
+22	Keller	FIG	FIG	FIG	FIG
+23	gehen	FIG	FIG	FIG	FIG
 24	können	*	*	*	*
 25	.	*	*	*	*
 
 # tuepp_article_id = T970324.84
 # sent_id = 3106
+# text = Nach der guten Ernte des letzten Jahres seien die Preise für normale Kartoffeln kräftig in den Keller gegangen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nach der guten Ernte des letzten Jahres seien die Preise für normale Kartoffeln kräftig in den Keller gegangen .
 1	Nach	*	*	*	*
 2	der	*	*	*	*
 3	guten	*	*	*	*
@@ -2898,31 +2993,33 @@
 12	normale	*	*	*	*
 13	Kartoffeln	*	*	*	*
 14	kräftig	*	*	*	*
-15	in	2	2	2	2
+15	in	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Keller	2	2	2	2
-18	gegangen	2	2	2	2
+17	Keller	FIG	FIG	FIG	FIG
+18	gegangen	FIG	FIG	FIG	FIG
 19	.	*	*	*	*
 
 # tuepp_article_id = T970204.140
 # sent_id = 3107
+# text = Dann geht es runter in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Dann geht es runter in den Keller .
 1	Dann	*	*	*	*
-2	geht	1	1	1	1
+2	geht	LIT	LIT	LIT	LIT
 3	es	*	*	*	*
 4	runter	*	*	*	*
-5	in	1	1	1	1
+5	in	LIT	LIT	LIT	LIT
 6	den	*	*	*	*
-7	Keller	1	1	1	1
+7	Keller	LIT	LIT	LIT	LIT
 8	.	*	*	*	*
 
 # tuepp_article_id = T940607.210
 # sent_id = 3108
+# text = Durch das BSE-Virus sind allerdings auch die Preise für Galloway-Rinder jetzt in den Keller gegangen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Durch das BSE-Virus sind allerdings auch die Preise für Galloway-Rinder jetzt in den Keller gegangen .
 1	Durch	*	*	*	*
 2	das	*	*	*	*
 3	BSE-Virus	*	*	*	*
@@ -2934,33 +3031,35 @@
 9	für	*	*	*	*
 10	Galloway-Rinder	*	*	*	*
 11	jetzt	*	*	*	*
-12	in	2	2	2	2
+12	in	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Keller	2	2	2	2
-15	gegangen	2	2	2	2
+14	Keller	FIG	FIG	FIG	FIG
+15	gegangen	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T941007.314
 # sent_id = 3109
+# text = Seitdem gingen die Leistungen Sawitschews kontinuierlich in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Seitdem gingen die Leistungen Sawitschews kontinuierlich in den Keller .
 1	Seitdem	*	*	*	*
-2	gingen	2	2	2	2
+2	gingen	FIG	FIG	FIG	FIG
 3	die	*	*	*	*
 4	Leistungen	*	*	*	*
 5	Sawitschews	*	*	*	*
 6	kontinuierlich	*	*	*	*
-7	in	2	2	2	2
+7	in	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Keller	2	2	2	2
+9	Keller	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T941014.300
 # sent_id = 3110
+# text = Hat sich eine Mannschaft erst einmal im unteren Tabellendrittel festgesetzt , greift der Fluch des Kellersyndroms um sich : Das Selbstbewußtsein sinkt , das Abstiegsgespenst beginnt in den Köpfen der Spieler herumzugeistern , der Druck von außen wächst , und die Leistung der Mannschaft geht noch weiter in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hat sich eine Mannschaft erst einmal im unteren Tabellendrittel festgesetzt , greift der Fluch des Kellersyndroms um sich : Das Selbstbewußtsein sinkt , das Abstiegsgespenst beginnt in den Köpfen der Spieler herumzugeistern , der Druck von außen wächst , und die Leistung der Mannschaft geht noch weiter in den Keller .
 1	Hat	*	*	*	*
 2	sich	*	*	*	*
 3	eine	*	*	*	*
@@ -3005,19 +3104,20 @@
 42	Leistung	*	*	*	*
 43	der	*	*	*	*
 44	Mannschaft	*	*	*	*
-45	geht	2	2	2	2
+45	geht	FIG	FIG	FIG	FIG
 46	noch	*	*	*	*
 47	weiter	*	*	*	*
-48	in	2	2	2	2
+48	in	FIG	FIG	FIG	FIG
 49	den	*	*	*	*
-50	Keller	2	2	2	2
+50	Keller	FIG	FIG	FIG	FIG
 51	.	*	*	*	*
 
 # tuepp_article_id = T940115.95
 # sent_id = 3111
+# text = Durch die Auswirkungen des Golfkriegs im Ferntourismus , die politischen Unruhen im Mai 1992 und die weltweite Rezession sind die Preise noch tiefer in den Keller gegangen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Durch die Auswirkungen des Golfkriegs im Ferntourismus , die politischen Unruhen im Mai 1992 und die weltweite Rezession sind die Preise noch tiefer in den Keller gegangen .
 1	Durch	*	*	*	*
 2	die	*	*	*	*
 3	Auswirkungen	*	*	*	*
@@ -3041,27 +3141,28 @@
 21	Preise	*	*	*	*
 22	noch	*	*	*	*
 23	tiefer	*	*	*	*
-24	in	2	2	2	2
+24	in	FIG	FIG	FIG	FIG
 25	den	*	*	*	*
-26	Keller	2	2	2	2
-27	gegangen	2	2	2	2
+26	Keller	FIG	FIG	FIG	FIG
+27	gegangen	FIG	FIG	FIG	FIG
 28	.	*	*	*	*
 
 # tuepp_article_id = T940429.298
 # sent_id = 3112
+# text = " Aber die internationalen Preise sind in den Keller gegangen und die Anbaukosten steigen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Aber die internationalen Preise sind in den Keller gegangen und die Anbaukosten steigen .
 1	"	*	*	*	*
 2	Aber	*	*	*	*
 3	die	*	*	*	*
 4	internationalen	*	*	*	*
 5	Preise	*	*	*	*
 6	sind	*	*	*	*
-7	in	2	2	2	2
+7	in	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Keller	2	2	2	2
-10	gegangen	2	2	2	2
+9	Keller	FIG	FIG	FIG	FIG
+10	gegangen	FIG	FIG	FIG	FIG
 11	und	*	*	*	*
 12	die	*	*	*	*
 13	Anbaukosten	*	*	*	*
@@ -3070,9 +3171,10 @@
 
 # tuepp_article_id = T940427.190
 # sent_id = 3113
+# text = Man kommt durch Räume , die der Reihe nach beschrieben werden mit allem , was sie enthalten , man wird von Mitspielern " angesprochen " , und man kann " handeln " , indem man einfache Sätze eingibt : " Gehe in den Keller hinunter " , dann " Was siehst du jetzt ?
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Man kommt durch Räume , die der Reihe nach beschrieben werden mit allem , was sie enthalten , man wird von Mitspielern " angesprochen " , und man kann " handeln " , indem man einfache Sätze eingibt : " Gehe in den Keller hinunter " , dann " Was siehst du jetzt ?
 1	Man	*	*	*	*
 2	kommt	*	*	*	*
 3	durch	*	*	*	*
@@ -3113,10 +3215,10 @@
 38	eingibt	*	*	*	*
 39	:	*	*	*	*
 40	"	*	*	*	*
-41	Gehe	1	1	1	1
-42	in	1	1	1	1
+41	Gehe	LIT	LIT	LIT	LIT
+42	in	LIT	LIT	LIT	LIT
 43	den	*	*	*	*
-44	Keller	1	1	1	1
+44	Keller	LIT	LIT	LIT	LIT
 45	hinunter	*	*	*	*
 46	"	*	*	*	*
 47	,	*	*	*	*
@@ -3130,9 +3232,10 @@
 
 # tuepp_article_id = T940728.230
 # sent_id = 3114
+# text = Bei einer beginnenden Massenproduktion werden die Preise ähnlich radikal in den Keller gehen wie damals bei den Taschenrechnern .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bei einer beginnenden Massenproduktion werden die Preise ähnlich radikal in den Keller gehen wie damals bei den Taschenrechnern .
 1	Bei	*	*	*	*
 2	einer	*	*	*	*
 3	beginnenden	*	*	*	*
@@ -3142,10 +3245,10 @@
 7	Preise	*	*	*	*
 8	ähnlich	*	*	*	*
 9	radikal	*	*	*	*
-10	in	2	2	2	2
+10	in	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Keller	2	2	2	2
-13	gehen	2	2	2	2
+12	Keller	FIG	FIG	FIG	FIG
+13	gehen	FIG	FIG	FIG	FIG
 14	wie	*	*	*	*
 15	damals	*	*	*	*
 16	bei	*	*	*	*
@@ -3155,9 +3258,10 @@
 
 # tuepp_article_id = T941228.210
 # sent_id = 3115
+# text = Die Mühe der Käufer war indes vergebens : Im heißen Sommer 1994 mochte kaum jemand Kaffee trinken , der gehortete Kaffee wurde nicht zügig verbraucht , und der Absatz ging noch weiter in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Mühe der Käufer war indes vergebens : Im heißen Sommer 1994 mochte kaum jemand Kaffee trinken , der gehortete Kaffee wurde nicht zügig verbraucht , und der Absatz ging noch weiter in den Keller .
 1	Die	*	*	*	*
 2	Mühe	*	*	*	*
 3	der	*	*	*	*
@@ -3187,19 +3291,20 @@
 27	und	*	*	*	*
 28	der	*	*	*	*
 29	Absatz	*	*	*	*
-30	ging	2	2	2	2
+30	ging	FIG	FIG	FIG	FIG
 31	noch	*	*	*	*
 32	weiter	*	*	*	*
-33	in	2	2	2	2
+33	in	FIG	FIG	FIG	FIG
 34	den	*	*	*	*
-35	Keller	2	2	2	2
+35	Keller	FIG	FIG	FIG	FIG
 36	.	*	*	*	*
 
 # tuepp_article_id = T941203.262
 # sent_id = 3116
+# text = Daß das damit zusammenhängen könnte , daß im Vorjahr Bremen in der Konjunkturkrise besonders in den Keller gegangen war , meldet das StaLa nicht .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß das damit zusammenhängen könnte , daß im Vorjahr Bremen in der Konjunkturkrise besonders in den Keller gegangen war , meldet das StaLa nicht .
 1	Daß	*	*	*	*
 2	das	*	*	*	*
 3	damit	*	*	*	*
@@ -3214,10 +3319,10 @@
 12	der	*	*	*	*
 13	Konjunkturkrise	*	*	*	*
 14	besonders	*	*	*	*
-15	in	2	2	2	2
+15	in	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
-17	Keller	2	2	2	2
-18	gegangen	2	2	2	2
+17	Keller	FIG	FIG	FIG	FIG
+18	gegangen	FIG	FIG	FIG	FIG
 19	war	*	*	*	*
 20	,	*	*	*	*
 21	meldet	*	*	*	*
@@ -3228,15 +3333,16 @@
 
 # tuepp_article_id = T940314.281
 # sent_id = 3117
+# text = Sollte es in den Keller gehen , könnte dieser für den DHSRC Landesligaheißen , da der Jahresetat ( 100.000 Mark ) des Teams nur von einem einzigen Sponsoren aufgefüllt wird .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sollte es in den Keller gehen , könnte dieser für den DHSRC Landesligaheißen , da der Jahresetat ( 100.000 Mark ) des Teams nur von einem einzigen Sponsoren aufgefüllt wird .
 1	Sollte	*	*	*	*
 2	es	*	*	*	*
-3	in	2	2	2	2
+3	in	FIG	FIG	FIG	FIG
 4	den	*	*	*	*
-5	Keller	2	2	2	2
-6	gehen	2	2	2	2
+5	Keller	FIG	FIG	FIG	FIG
+6	gehen	FIG	FIG	FIG	FIG
 7	,	*	*	*	*
 8	könnte	*	*	*	*
 9	dieser	*	*	*	*
@@ -3265,26 +3371,28 @@
 
 # tuepp_article_id = T940311.36
 # sent_id = 3118
+# text = Von Wahl zu Wahl ging es tiefer in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Von Wahl zu Wahl ging es tiefer in den Keller .
 1	Von	*	*	*	*
 2	Wahl	*	*	*	*
 3	zu	*	*	*	*
 4	Wahl	*	*	*	*
-5	ging	2	2	2	2
+5	ging	FIG	FIG	FIG	FIG
 6	es	*	*	*	*
 7	tiefer	*	*	*	*
-8	in	2	2	2	2
+8	in	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
-10	Keller	2	2	2	2
+10	Keller	FIG	FIG	FIG	FIG
 11	.	*	*	*	*
 
 # tuepp_article_id = T951027.48
 # sent_id = 3119
+# text = Im Osten wie im Westen , auf dem linken wie auf dem rechten Parteiflügel ist die Sorge groß , in einer Koalition mit den Christdemokraten gehe es mit den Sozialdemokraten in der Hauptstadt weiter in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Im Osten wie im Westen , auf dem linken wie auf dem rechten Parteiflügel ist die Sorge groß , in einer Koalition mit den Christdemokraten gehe es mit den Sozialdemokraten in der Hauptstadt weiter in den Keller .
 1	Im	*	*	*	*
 2	Osten	*	*	*	*
 3	wie	*	*	*	*
@@ -3310,7 +3418,7 @@
 23	mit	*	*	*	*
 24	den	*	*	*	*
 25	Christdemokraten	*	*	*	*
-26	gehe	2	2	2	2
+26	gehe	FIG	FIG	FIG	FIG
 27	es	*	*	*	*
 28	mit	*	*	*	*
 29	den	*	*	*	*
@@ -3319,16 +3427,17 @@
 32	der	*	*	*	*
 33	Hauptstadt	*	*	*	*
 34	weiter	*	*	*	*
-35	in	2	2	2	2
+35	in	FIG	FIG	FIG	FIG
 36	den	*	*	*	*
-37	Keller	2	2	2	2
+37	Keller	FIG	FIG	FIG	FIG
 38	.	*	*	*	*
 
 # tuepp_article_id = T950928.125
 # sent_id = 3120
+# text = Location bleibt der Bunker , das kommt echt gruftig , paßt auch viel besser dazu als diese blöde Asylscheiße , hat mir eh gestunken , das Ding , wirste nur depressiv von , und die Quote geht saumäßig in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Location bleibt der Bunker , das kommt echt gruftig , paßt auch viel besser dazu als diese blöde Asylscheiße , hat mir eh gestunken , das Ding , wirste nur depressiv von , und die Quote geht saumäßig in den Keller .
 1	Location	*	*	*	*
 2	bleibt	*	*	*	*
 3	der	*	*	*	*
@@ -3365,18 +3474,19 @@
 34	und	*	*	*	*
 35	die	*	*	*	*
 36	Quote	*	*	*	*
-37	geht	2	2	2	2
+37	geht	FIG	FIG	FIG	FIG
 38	saumäßig	*	*	*	*
-39	in	2	2	2	2
+39	in	FIG	FIG	FIG	FIG
 40	den	*	*	*	*
-41	Keller	2	2	2	2
+41	Keller	FIG	FIG	FIG	FIG
 42	.	*	*	*	*
 
 # tuepp_article_id = T950906.44
 # sent_id = 3121
+# text = " So eine zerstrittene Partei ist nicht wählbar , wenn nicht schnell etwas passiert , dann geht es ganz böse in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " So eine zerstrittene Partei ist nicht wählbar , wenn nicht schnell etwas passiert , dann geht es ganz böse in den Keller .
 1	"	*	*	*	*
 2	So	*	*	*	*
 3	eine	*	*	*	*
@@ -3393,27 +3503,28 @@
 14	passiert	*	*	*	*
 15	,	*	*	*	*
 16	dann	*	*	*	*
-17	geht	2	2	2	2
+17	geht	FIG	FIG	FIG	FIG
 18	es	*	*	*	*
 19	ganz	*	*	*	*
 20	böse	*	*	*	*
-21	in	2	2	2	2
+21	in	FIG	FIG	FIG	FIG
 22	den	*	*	*	*
-23	Keller	2	2	2	2
+23	Keller	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T950106.311
 # sent_id = 3122
+# text = Geht der Sauerstoffgehalt nicht in den Keller , wenn 6.000 Fußballfans da sind , von denen viele Bier trinken und auch mal rülpsen müssen ?
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Geht der Sauerstoffgehalt nicht in den Keller , wenn 6.000 Fußballfans da sind , von denen viele Bier trinken und auch mal rülpsen müssen ?
-1	Geht	2	2	2	2
+1	Geht	FIG	FIG	FIG	FIG
 2	der	*	*	*	*
 3	Sauerstoffgehalt	*	*	*	*
 4	nicht	*	*	*	*
-5	in	2	2	2	2
+5	in	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
-7	Keller	2	2	2	2
+7	Keller	FIG	FIG	FIG	FIG
 8	,	*	*	*	*
 9	wenn	*	*	*	*
 10	6.000	*	*	*	*
@@ -3435,9 +3546,10 @@
 
 # tuepp_article_id = T950421.178
 # sent_id = 3123
+# text = Nachmittags kam Herr Mietusch ( ein Stock unter mir ) , der seit Freitag aktiv beim Volkssturm war , und sagte , Goebbels habe nochmals eine Rede gehalten ; heute abend ab 8 Uhr sei Artilleriebeschuß ; man müsse in den Keller gehen , Lebensmittel mitnehmen , da man vielleicht über Nacht bleiben müsse .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nachmittags kam Herr Mietusch ( ein Stock unter mir ) , der seit Freitag aktiv beim Volkssturm war , und sagte , Goebbels habe nochmals eine Rede gehalten ; heute abend ab 8 Uhr sei Artilleriebeschuß ; man müsse in den Keller gehen , Lebensmittel mitnehmen , da man vielleicht über Nacht bleiben müsse .
 1	Nachmittags	*	*	*	*
 2	kam	*	*	*	*
 3	Herr	*	*	*	*
@@ -3477,10 +3589,10 @@
 37	;	*	*	*	*
 38	man	*	*	*	*
 39	müsse	*	*	*	*
-40	in	1	1	1	1
+40	in	LIT	LIT	LIT	LIT
 41	den	*	*	*	*
-42	Keller	1	1	1	1
-43	gehen	1	1	1	1
+42	Keller	LIT	LIT	LIT	LIT
+43	gehen	LIT	LIT	LIT	LIT
 44	,	*	*	*	*
 45	Lebensmittel	*	*	*	*
 46	mitnehmen	*	*	*	*
@@ -3496,9 +3608,10 @@
 
 # tuepp_article_id = T950421.178
 # sent_id = 3124
+# text = Woher will der Goebbels wissen , wann die Russen schießen ; außerdem geht es noch nicht gerade in die Wundtstraße ; ich gehe erst in den Keller , wenn der erste Schuß in meine Wohnung gefallen ist .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Woher will der Goebbels wissen , wann die Russen schießen ; außerdem geht es noch nicht gerade in die Wundtstraße ; ich gehe erst in den Keller , wenn der erste Schuß in meine Wohnung gefallen ist .
 1	Woher	*	*	*	*
 2	will	*	*	*	*
 3	der	*	*	*	*
@@ -3521,11 +3634,11 @@
 20	Wundtstraße	*	*	*	*
 21	;	*	*	*	*
 22	ich	*	*	*	*
-23	gehe	1	1	1	1
+23	gehe	LIT	LIT	LIT	LIT
 24	erst	*	*	*	*
-25	in	1	1	1	1
+25	in	LIT	LIT	LIT	LIT
 26	den	*	*	*	*
-27	Keller	1	1	1	1
+27	Keller	LIT	LIT	LIT	LIT
 28	,	*	*	*	*
 29	wenn	*	*	*	*
 30	der	*	*	*	*
@@ -3540,28 +3653,30 @@
 
 # tuepp_article_id = T950727.167
 # sent_id = 3125
+# text = Und dann geht euer " Arbeitsmarktwert " sehr schnell in den Keller !
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und dann geht euer " Arbeitsmarktwert " sehr schnell in den Keller !
 1	Und	*	*	*	*
 2	dann	*	*	*	*
-3	geht	2	2	2	2
+3	geht	FIG	FIG	FIG	FIG
 4	euer	*	*	*	*
 5	"	*	*	*	*
 6	Arbeitsmarktwert	*	*	*	*
 7	"	*	*	*	*
 8	sehr	*	*	*	*
 9	schnell	*	*	*	*
-10	in	2	2	2	2
+10	in	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Keller	2	2	2	2
+12	Keller	FIG	FIG	FIG	FIG
 13	!	*	*	*	*
 
 # tuepp_article_id = T951223.54
 # sent_id = 3126
+# text = Obwohl die Erzeugerstaaten bereits Anfang des Jahres 20 Prozent ihrer Ernten einbehielten , gingen die Preise seitdem kontinuierlich in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Obwohl die Erzeugerstaaten bereits Anfang des Jahres 20 Prozent ihrer Ernten einbehielten , gingen die Preise seitdem kontinuierlich in den Keller .
 1	Obwohl	*	*	*	*
 2	die	*	*	*	*
 3	Erzeugerstaaten	*	*	*	*
@@ -3575,47 +3690,49 @@
 11	Ernten	*	*	*	*
 12	einbehielten	*	*	*	*
 13	,	*	*	*	*
-14	gingen	2	2	2	2
+14	gingen	FIG	FIG	FIG	FIG
 15	die	*	*	*	*
 16	Preise	*	*	*	*
 17	seitdem	*	*	*	*
 18	kontinuierlich	*	*	*	*
-19	in	2	2	2	2
+19	in	FIG	FIG	FIG	FIG
 20	den	*	*	*	*
-21	Keller	2	2	2	2
+21	Keller	FIG	FIG	FIG	FIG
 22	.	*	*	*	*
 
 # tuepp_article_id = T950811.408
 # sent_id = 3127
+# text = So , und jetzt geht es wirklich in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = So , und jetzt geht es wirklich in den Keller .
 1	So	*	*	*	*
 2	,	*	*	*	*
 3	und	*	*	*	*
 4	jetzt	*	*	*	*
-5	geht	1	1	2	1
+5	geht	LIT	LIT	FIG	LIT
 6	es	*	*	*	*
 7	wirklich	*	*	*	*
-8	in	1	1	2	1
+8	in	LIT	LIT	FIG	LIT
 9	den	*	*	*	*
-10	Keller	1	1	2	1
+10	Keller	LIT	LIT	FIG	LIT
 11	.	*	*	*	*
 
 # tuepp_article_id = T950308.203
 # sent_id = 3128
+# text = Nur in Mecklenburg-Vorpommern geht es weiter in den Keller , dort liegt die Arbeitslosenquote inzwischen bei 15,7 Prozent .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nur in Mecklenburg-Vorpommern geht es weiter in den Keller , dort liegt die Arbeitslosenquote inzwischen bei 15,7 Prozent .
 1	Nur	*	*	*	*
 2	in	*	*	*	*
 3	Mecklenburg-Vorpommern	*	*	*	*
-4	geht	2	2	2	2
+4	geht	FIG	FIG	FIG	FIG
 5	es	*	*	*	*
 6	weiter	*	*	*	*
-7	in	2	2	2	2
+7	in	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Keller	2	2	2	2
+9	Keller	FIG	FIG	FIG	FIG
 10	,	*	*	*	*
 11	dort	*	*	*	*
 12	liegt	*	*	*	*
@@ -3629,37 +3746,40 @@
 
 # tuepp_article_id = T950317.100
 # sent_id = 3129
+# text = Plötzlich geht der Franc in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Plötzlich geht der Franc in den Keller .
 1	Plötzlich	*	*	*	*
-2	geht	2	2	2	2
+2	geht	FIG	FIG	FIG	FIG
 3	der	*	*	*	*
 4	Franc	*	*	*	*
-5	in	2	2	2	2
+5	in	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
-7	Keller	2	2	2	2
+7	Keller	FIG	FIG	FIG	FIG
 8	.	*	*	*	*
 
 # tuepp_article_id = T990417.199
 # sent_id = 3130
+# text = Die Aktien des Unternehmens gehen in den Keller
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Aktien des Unternehmens gehen in den Keller
 1	Die	*	*	*	*
 2	Aktien	*	*	*	*
 3	des	*	*	*	*
 4	Unternehmens	*	*	*	*
-5	gehen	2	2	2	2
-6	in	2	2	2	2
+5	gehen	FIG	FIG	FIG	FIG
+6	in	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Keller	2	2	2	2
+8	Keller	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T990417.199
 # sent_id = 3131
+# text = Nach einem Jahresverlust von 250 Millionen bei 8,6 Milliarden Dollar Umsatz 1998 und einer gescheiterten Fusion mit " American Home Products " gingen die Aktien in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nach einem Jahresverlust von 250 Millionen bei 8,6 Milliarden Dollar Umsatz 1998 und einer gescheiterten Fusion mit " American Home Products " gingen die Aktien in den Keller .
 1	Nach	*	*	*	*
 2	einem	*	*	*	*
 3	Jahresverlust	*	*	*	*
@@ -3682,36 +3802,38 @@
 20	Home	*	*	*	*
 21	Products	*	*	*	*
 22	"	*	*	*	*
-23	gingen	2	2	2	2
+23	gingen	FIG	FIG	FIG	FIG
 24	die	*	*	*	*
 25	Aktien	*	*	*	*
-26	in	2	2	2	2
+26	in	FIG	FIG	FIG	FIG
 27	den	*	*	*	*
-28	Keller	2	2	2	2
+28	Keller	FIG	FIG	FIG	FIG
 29	.	*	*	*	*
 
 # tuepp_article_id = T990306.28
 # sent_id = 3132
+# text = " Na , dann geh ' mal in den Keller .
+# vid_types = in keller gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = " Na , dann geh ' mal in den Keller .
 1	"	*	*	*	*
 2	Na	*	*	*	*
 3	,	*	*	*	*
 4	dann	*	*	*	*
-5	geh	1	1	1	1
+5	geh	LIT	LIT	LIT	LIT
 6	'	*	*	*	*
 7	mal	*	*	*	*
-8	in	1	1	1	1
+8	in	LIT	LIT	LIT	LIT
 9	den	*	*	*	*
-10	Keller	1	1	1	1
+10	Keller	LIT	LIT	LIT	LIT
 11	.	*	*	*	*
 
 # tuepp_article_id = T990227.13
 # sent_id = 3133
+# text = Eine ältere Hausfrau , so berichteten mir entsetzte , trauernde Nachbarn , war in den Keller ihres Einfamilienhauses gegangen , um dort die Waschmaschine anzustellen .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Eine ältere Hausfrau , so berichteten mir entsetzte , trauernde Nachbarn , war in den Keller ihres Einfamilienhauses gegangen , um dort die Waschmaschine anzustellen .
 1	Eine	*	*	*	*
 2	ältere	*	*	*	*
 3	Hausfrau	*	*	*	*
@@ -3725,12 +3847,12 @@
 11	Nachbarn	*	*	*	*
 12	,	*	*	*	*
 13	war	*	*	*	*
-14	in	1	1	1	1
+14	in	LIT	LIT	LIT	LIT
 15	den	*	*	*	*
-16	Keller	1	1	1	1
+16	Keller	LIT	LIT	LIT	LIT
 17	ihres	*	*	*	*
 18	Einfamilienhauses	*	*	*	*
-19	gegangen	1	1	1	1
+19	gegangen	LIT	LIT	LIT	LIT
 20	,	*	*	*	*
 21	um	*	*	*	*
 22	dort	*	*	*	*
@@ -3741,9 +3863,10 @@
 
 # tuepp_article_id = T990211.326
 # sent_id = 3134
+# text = Allerdings drängt sich die Frage auf , weshalb ausgerechnet das Knust , dessen Programm im letzten Jahr vollkommen in den Keller gegangen ist , mit der höchsten Prämie bedacht wurde , während das Molotow , wo zur Zeit die spannendsten Rock-Veranstaltungen stattfinden , gar nicht auftaucht .
+# vid_types = in keller gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Allerdings drängt sich die Frage auf , weshalb ausgerechnet das Knust , dessen Programm im letzten Jahr vollkommen in den Keller gegangen ist , mit der höchsten Prämie bedacht wurde , während das Molotow , wo zur Zeit die spannendsten Rock-Veranstaltungen stattfinden , gar nicht auftaucht .
 1	Allerdings	*	*	*	*
 2	drängt	*	*	*	*
 3	sich	*	*	*	*
@@ -3762,10 +3885,10 @@
 16	letzten	*	*	*	*
 17	Jahr	*	*	*	*
 18	vollkommen	*	*	*	*
-19	in	2	2	2	2
+19	in	FIG	FIG	FIG	FIG
 20	den	*	*	*	*
-21	Keller	2	2	2	2
-22	gegangen	2	2	2	2
+21	Keller	FIG	FIG	FIG	FIG
+22	gegangen	FIG	FIG	FIG	FIG
 23	ist	*	*	*	*
 24	,	*	*	*	*
 25	mit	*	*	*	*

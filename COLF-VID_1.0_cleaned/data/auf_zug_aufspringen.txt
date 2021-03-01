@@ -1,8 +1,9 @@
 # tuepp_article_id = T891026.71
 # sent_id = 2327
+# text = Auch Wolf klinkte sich darin ein : daß soviele ohne Reue auf den Zug in andere Richtung aufspringen , " kann dem Vertrauen nicht zuträglich sein " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auch Wolf klinkte sich darin ein : daß soviele ohne Reue auf den Zug in andere Richtung aufspringen , " kann dem Vertrauen nicht zuträglich sein " .
 1	Auch	*	*	*	*
 2	Wolf	*	*	*	*
 3	klinkte	*	*	*	*
@@ -14,13 +15,13 @@
 9	soviele	*	*	*	*
 10	ohne	*	*	*	*
 11	Reue	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Zug	2	2	2	2
+14	Zug	FIG	FIG	FIG	FIG
 15	in	*	*	*	*
 16	andere	*	*	*	*
 17	Richtung	*	*	*	*
-18	aufspringen	2	2	2	2
+18	aufspringen	FIG	FIG	FIG	FIG
 19	,	*	*	*	*
 20	"	*	*	*	*
 21	kann	*	*	*	*
@@ -34,9 +35,10 @@
 
 # tuepp_article_id = T891007.13
 # sent_id = 2328
+# text = ben sich am Mittwoch auf Bahnschienen gelegt , um auf Züge in Richtung Bayern aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = ben sich am Mittwoch auf Bahnschienen gelegt , um auf Züge in Richtung Bayern aufzuspringen .
 1	ben	*	*	*	*
 2	sich	*	*	*	*
 3	am	*	*	*	*
@@ -46,19 +48,20 @@
 7	gelegt	*	*	*	*
 8	,	*	*	*	*
 9	um	*	*	*	*
-10	auf	1	1	1	1
-11	Züge	1	1	1	1
+10	auf	LIT	LIT	LIT	LIT
+11	Züge	LIT	LIT	LIT	LIT
 12	in	*	*	*	*
 13	Richtung	*	*	*	*
 14	Bayern	*	*	*	*
-15	aufzuspringen	1	1	1	1
+15	aufzuspringen	LIT	LIT	LIT	LIT
 16	.	*	*	*	*
 
 # tuepp_article_id = T891023.23
 # sent_id = 2329
+# text = Entgegen der Warnung des Redners Thomas Ebermann , die Linken sollten nicht die immergleichen Fehler wiederholen und nun auf einen Zug aufspringen , den andere gerade verlassen , sieht Stürmann Möglichkeiten bei den Grünen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Entgegen der Warnung des Redners Thomas Ebermann , die Linken sollten nicht die immergleichen Fehler wiederholen und nun auf einen Zug aufspringen , den andere gerade verlassen , sieht Stürmann Möglichkeiten bei den Grünen .
 1	Entgegen	*	*	*	*
 2	der	*	*	*	*
 3	Warnung	*	*	*	*
@@ -77,10 +80,10 @@
 16	wiederholen	*	*	*	*
 17	und	*	*	*	*
 18	nun	*	*	*	*
-19	auf	2	2	2	2
+19	auf	FIG	FIG	FIG	FIG
 20	einen	*	*	*	*
-21	Zug	2	2	2	2
-22	aufspringen	2	2	2	2
+21	Zug	FIG	FIG	FIG	FIG
+22	aufspringen	FIG	FIG	FIG	FIG
 23	,	*	*	*	*
 24	den	*	*	*	*
 25	andere	*	*	*	*
@@ -97,9 +100,10 @@
 
 # tuepp_article_id = T891005.1
 # sent_id = 2330
+# text = Die lagen offenbar darin , daß zahlreiche DDRler Gleise und Bahnhöfe belagerten , um auf die Züge in den Westen aufspringen zu können .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die lagen offenbar darin , daß zahlreiche DDRler Gleise und Bahnhöfe belagerten , um auf die Züge in den Westen aufspringen zu können .
 1	Die	*	*	*	*
 2	lagen	*	*	*	*
 3	offenbar	*	*	*	*
@@ -114,30 +118,31 @@
 12	belagerten	*	*	*	*
 13	,	*	*	*	*
 14	um	*	*	*	*
-15	auf	1	1	1	1
+15	auf	LIT	LIT	LIT	LIT
 16	die	*	*	*	*
-17	Züge	1	1	1	1
+17	Züge	LIT	LIT	LIT	LIT
 18	in	*	*	*	*
 19	den	*	*	*	*
 20	Westen	*	*	*	*
-21	aufspringen	1	1	1	1
+21	aufspringen	LIT	LIT	LIT	LIT
 22	zu	*	*	*	*
 23	können	*	*	*	*
 24	.	*	*	*	*
 
 # tuepp_article_id = T891005.183
 # sent_id = 2331
+# text = Beispielsweise indem man aufspringt auf " den Zug der Zeit , der voll im Fahren ist : die Kultur " , wobei an Kinos und Bowlingbahnen gedacht wird .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Beispielsweise indem man aufspringt auf " den Zug der Zeit , der voll im Fahren ist : die Kultur " , wobei an Kinos und Bowlingbahnen gedacht wird .
 1	Beispielsweise	*	*	*	*
 2	indem	*	*	*	*
 3	man	*	*	*	*
-4	aufspringt	2	2	2	2
+4	aufspringt	FIG	FIG	FIG	FIG
 5	auf	*	*	*	*
 6	"	*	*	*	*
 7	den	*	*	*	*
-8	Zug	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
 9	der	*	*	*	*
 10	Zeit	*	*	*	*
 11	,	*	*	*	*
@@ -162,36 +167,38 @@
 
 # tuepp_article_id = T890912.85
 # sent_id = 2332
+# text = Denn das chinesische Volk ist auf diesen Zug nur widerwillig aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Denn das chinesische Volk ist auf diesen Zug nur widerwillig aufgesprungen .
 1	Denn	*	*	*	*
 2	das	*	*	*	*
 3	chinesische	*	*	*	*
 4	Volk	*	*	*	*
 5	ist	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	diesen	*	*	*	*
-8	Zug	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
 9	nur	*	*	*	*
 10	widerwillig	*	*	*	*
-11	aufgesprungen	2	2	2	2
+11	aufgesprungen	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T891204.42
 # sent_id = 2333
+# text = Die SDP ist inzwischen auf den populistischen Zug aufgesprungen , und in Mecklenburg ist eine " Freie deutsche Union " aufgetaucht , die - unterstützt von der Bonner CDU - Zentrale - die Wiedervereinigung zur Hauptforderung erhoben hat .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die SDP ist inzwischen auf den populistischen Zug aufgesprungen , und in Mecklenburg ist eine " Freie deutsche Union " aufgetaucht , die - unterstützt von der Bonner CDU - Zentrale - die Wiedervereinigung zur Hauptforderung erhoben hat .
 1	Die	*	*	*	*
 2	SDP	*	*	*	*
 3	ist	*	*	*	*
 4	inzwischen	*	*	*	*
-5	auf	2	2	2	2
+5	auf	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
 7	populistischen	*	*	*	*
-8	Zug	2	2	2	2
-9	aufgesprungen	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
+9	aufgesprungen	FIG	FIG	FIG	FIG
 10	,	*	*	*	*
 11	und	*	*	*	*
 12	in	*	*	*	*
@@ -225,9 +232,10 @@
 
 # tuepp_article_id = T890306.68
 # sent_id = 2334
+# text = Wie bei anderen Umweltproblemen , so erklärten die " Friends of the Earth " , sei die Regierung auch hier nur auf den bereits fahrenden Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wie bei anderen Umweltproblemen , so erklärten die " Friends of the Earth " , sei die Regierung auch hier nur auf den bereits fahrenden Zug aufgesprungen .
 1	Wie	*	*	*	*
 2	bei	*	*	*	*
 3	anderen	*	*	*	*
@@ -249,19 +257,20 @@
 19	auch	*	*	*	*
 20	hier	*	*	*	*
 21	nur	*	*	*	*
-22	auf	2	2	2	2
+22	auf	FIG	FIG	FIG	FIG
 23	den	*	*	*	*
 24	bereits	*	*	*	*
 25	fahrenden	*	*	*	*
-26	Zug	2	2	2	2
-27	aufgesprungen	2	2	2	2
+26	Zug	FIG	FIG	FIG	FIG
+27	aufgesprungen	FIG	FIG	FIG	FIG
 28	.	*	*	*	*
 
 # tuepp_article_id = T890316.80
 # sent_id = 2335
+# text = Andererseits : " Grundsätzlich ist das Interesse von Forschern aber auch , auf einen Zug aufzuspringen , nämlich immer schnellere und größere Computer zu bauen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Andererseits : " Grundsätzlich ist das Interesse von Forschern aber auch , auf einen Zug aufzuspringen , nämlich immer schnellere und größere Computer zu bauen .
 1	Andererseits	*	*	*	*
 2	:	*	*	*	*
 3	"	*	*	*	*
@@ -274,10 +283,10 @@
 10	aber	*	*	*	*
 11	auch	*	*	*	*
 12	,	*	*	*	*
-13	auf	2	2	2	2
+13	auf	FIG	FIG	FIG	FIG
 14	einen	*	*	*	*
-15	Zug	2	2	2	2
-16	aufzuspringen	2	2	2	2
+15	Zug	FIG	FIG	FIG	FIG
+16	aufzuspringen	FIG	FIG	FIG	FIG
 17	,	*	*	*	*
 18	nämlich	*	*	*	*
 19	immer	*	*	*	*
@@ -291,9 +300,10 @@
 
 # tuepp_article_id = T891117.74
 # sent_id = 2336
+# text = " Von Überholen ist jetzt natürlich nicht die Rede , aber auf den Zug aufspringen will man .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Von Überholen ist jetzt natürlich nicht die Rede , aber auf den Zug aufspringen will man .
 1	"	*	*	*	*
 2	Von	*	*	*	*
 3	Überholen	*	*	*	*
@@ -305,19 +315,20 @@
 9	Rede	*	*	*	*
 10	,	*	*	*	*
 11	aber	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Zug	2	2	2	2
-15	aufspringen	2	2	2	2
+14	Zug	FIG	FIG	FIG	FIG
+15	aufspringen	FIG	FIG	FIG	FIG
 16	will	*	*	*	*
 17	man	*	*	*	*
 18	.	*	*	*	*
 
 # tuepp_article_id = T890201.28
 # sent_id = 2337
+# text = Nachdem Bundeskanzler Kohl und CSU-Chef Waigel die Ausländerpolitik wieder als prioritäres Anliegen entdeckten , versuchen jetzt auch die Neonazis , auf den anfahrenden Zug aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nachdem Bundeskanzler Kohl und CSU-Chef Waigel die Ausländerpolitik wieder als prioritäres Anliegen entdeckten , versuchen jetzt auch die Neonazis , auf den anfahrenden Zug aufzuspringen .
 1	Nachdem	*	*	*	*
 2	Bundeskanzler	*	*	*	*
 3	Kohl	*	*	*	*
@@ -338,28 +349,29 @@
 18	die	*	*	*	*
 19	Neonazis	*	*	*	*
 20	,	*	*	*	*
-21	auf	2	2	2	2
+21	auf	FIG	FIG	FIG	FIG
 22	den	*	*	*	*
 23	anfahrenden	*	*	*	*
-24	Zug	2	2	2	2
-25	aufzuspringen	2	2	2	2
+24	Zug	FIG	FIG	FIG	FIG
+25	aufzuspringen	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T910507.208
 # sent_id = 2338
+# text = Du mußt unbedingt versuchen , auf den neuen Zug aufzuspringen , entweder in der Arbeit oder durch Sex .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Du mußt unbedingt versuchen , auf den neuen Zug aufzuspringen , entweder in der Arbeit oder durch Sex .
 1	Du	*	*	*	*
 2	mußt	*	*	*	*
 3	unbedingt	*	*	*	*
 4	versuchen	*	*	*	*
 5	,	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
 8	neuen	*	*	*	*
-9	Zug	2	2	2	2
-10	aufzuspringen	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
+10	aufzuspringen	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	entweder	*	*	*	*
 13	in	*	*	*	*
@@ -372,17 +384,18 @@
 
 # tuepp_article_id = T910612.27
 # sent_id = 2339
+# text = Er war einfach auf den nächsten Zug aufgesprungen und hatte sich an das Dach des Waggons hinter der Lokomotive geklammert .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Er war einfach auf den nächsten Zug aufgesprungen und hatte sich an das Dach des Waggons hinter der Lokomotive geklammert .
 1	Er	*	*	*	*
 2	war	*	*	*	*
 3	einfach	*	*	*	*
-4	auf	1	1	1	1
+4	auf	LIT	LIT	LIT	LIT
 5	den	*	*	*	*
 6	nächsten	*	*	*	*
-7	Zug	1	1	1	1
-8	aufgesprungen	1	1	1	1
+7	Zug	LIT	LIT	LIT	LIT
+8	aufgesprungen	LIT	LIT	LIT	LIT
 9	und	*	*	*	*
 10	hatte	*	*	*	*
 11	sich	*	*	*	*
@@ -399,9 +412,10 @@
 
 # tuepp_article_id = T910128.188
 # sent_id = 2340
+# text = Ich persönlich fand Bel Ami schon immer besser , weil sie programmatisch zu ihrem Proletentum standen , während PVC krampfhaft versuchten , dies abzulegen , sich mit Leder und Nieten tarnten , um auf den gerade anrollenden Punk- Zug aufzuspringen und dabei vergaßen , die Schnurbärte abzurasieren .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ich persönlich fand Bel Ami schon immer besser , weil sie programmatisch zu ihrem Proletentum standen , während PVC krampfhaft versuchten , dies abzulegen , sich mit Leder und Nieten tarnten , um auf den gerade anrollenden Punk- Zug aufzuspringen und dabei vergaßen , die Schnurbärte abzurasieren .
 1	Ich	*	*	*	*
 2	persönlich	*	*	*	*
 3	fand	*	*	*	*
@@ -435,13 +449,13 @@
 31	tarnten	*	*	*	*
 32	,	*	*	*	*
 33	um	*	*	*	*
-34	auf	2	2	2	2
+34	auf	FIG	FIG	FIG	FIG
 35	den	*	*	*	*
 36	gerade	*	*	*	*
 37	anrollenden	*	*	*	*
 38	Punk-	*	*	*	*
-39	Zug	2	2	2	2
-40	aufzuspringen	2	2	2	2
+39	Zug	FIG	FIG	FIG	FIG
+40	aufzuspringen	FIG	FIG	FIG	FIG
 41	und	*	*	*	*
 42	dabei	*	*	*	*
 43	vergaßen	*	*	*	*
@@ -453,9 +467,10 @@
 
 # tuepp_article_id = T910417.48
 # sent_id = 2341
+# text = Während Vogel noch einmal bekräftigte , die SPD erwarte bei den Gesprächen " erhebliche Zugeständnisse " , werde aber auch in Zukunft auf " massive Kritik " der Bundesregierung nicht verzichten , versuchte der parlamentarische Geschäftsführer der Unionsfraktion , Friedrich Bohl , das parteitaktische Kalkül der SPD zu entlarven : Die SPD versuche jetzt auf den " losgefahrenen Zug aufzuspringen " , weil sie erkannt habe , daß sich die Koalition auf " Erfolgskurs " befinde .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Während Vogel noch einmal bekräftigte , die SPD erwarte bei den Gesprächen " erhebliche Zugeständnisse " , werde aber auch in Zukunft auf " massive Kritik " der Bundesregierung nicht verzichten , versuchte der parlamentarische Geschäftsführer der Unionsfraktion , Friedrich Bohl , das parteitaktische Kalkül der SPD zu entlarven : Die SPD versuche jetzt auf den " losgefahrenen Zug aufzuspringen " , weil sie erkannt habe , daß sich die Koalition auf " Erfolgskurs " befinde .
 1	Während	*	*	*	*
 2	Vogel	*	*	*	*
 3	noch	*	*	*	*
@@ -510,12 +525,12 @@
 52	SPD	*	*	*	*
 53	versuche	*	*	*	*
 54	jetzt	*	*	*	*
-55	auf	2	2	2	2
+55	auf	FIG	FIG	FIG	FIG
 56	den	*	*	*	*
 57	"	*	*	*	*
 58	losgefahrenen	*	*	*	*
-59	Zug	2	2	2	2
-60	aufzuspringen	2	2	2	2
+59	Zug	FIG	FIG	FIG	FIG
+60	aufzuspringen	FIG	FIG	FIG	FIG
 61	"	*	*	*	*
 62	,	*	*	*	*
 63	weil	*	*	*	*
@@ -536,9 +551,10 @@
 
 # tuepp_article_id = T910316.106
 # sent_id = 2342
+# text = Erweist sich der Marien-Verehrer mit seiner fast ins Mittelalter zurückreichenden Simpeltheologie als ein politischer Zwitter , der auch mal auf einen anderen Zug aufzuspringen vermag ?
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Erweist sich der Marien-Verehrer mit seiner fast ins Mittelalter zurückreichenden Simpeltheologie als ein politischer Zwitter , der auch mal auf einen anderen Zug aufzuspringen vermag ?
 1	Erweist	*	*	*	*
 2	sich	*	*	*	*
 3	der	*	*	*	*
@@ -558,19 +574,20 @@
 17	der	*	*	*	*
 18	auch	*	*	*	*
 19	mal	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	einen	*	*	*	*
 22	anderen	*	*	*	*
-23	Zug	2	2	2	2
-24	aufzuspringen	2	2	2	2
+23	Zug	FIG	FIG	FIG	FIG
+24	aufzuspringen	FIG	FIG	FIG	FIG
 25	vermag	*	*	*	*
 26	?	*	*	*	*
 
 # tuepp_article_id = T910308.52
 # sent_id = 2343
+# text = Schiitisch-fundamentalistische Organisationen im Ausland versuchen dabei , mit ihren Erklärungen auf den fahrenden Zug aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schiitisch-fundamentalistische Organisationen im Ausland versuchen dabei , mit ihren Erklärungen auf den fahrenden Zug aufzuspringen .
 1	Schiitisch-fundamentalistische	*	*	*	*
 2	Organisationen	*	*	*	*
 3	im	*	*	*	*
@@ -581,18 +598,19 @@
 8	mit	*	*	*	*
 9	ihren	*	*	*	*
 10	Erklärungen	*	*	*	*
-11	auf	2	2	2	2
+11	auf	FIG	FIG	FIG	FIG
 12	den	*	*	*	*
 13	fahrenden	*	*	*	*
-14	Zug	2	2	2	2
-15	aufzuspringen	2	2	2	2
+14	Zug	FIG	FIG	FIG	FIG
+15	aufzuspringen	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T910201.47
 # sent_id = 2344
+# text = Heute scheinen es weniger die linken Gruppen zu sein , die auf den Zug jeder Befreiungsbewegung aufzuspringen suchen ; nein , in diesen Tagen sind es die Konservativen , die sich andernorts als Befreier unterdrückter Völker aufspielen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Heute scheinen es weniger die linken Gruppen zu sein , die auf den Zug jeder Befreiungsbewegung aufzuspringen suchen ; nein , in diesen Tagen sind es die Konservativen , die sich andernorts als Befreier unterdrückter Völker aufspielen .
 1	Heute	*	*	*	*
 2	scheinen	*	*	*	*
 3	es	*	*	*	*
@@ -604,12 +622,12 @@
 9	sein	*	*	*	*
 10	,	*	*	*	*
 11	die	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Zug	2	2	2	2
+14	Zug	FIG	FIG	FIG	FIG
 15	jeder	*	*	*	*
 16	Befreiungsbewegung	*	*	*	*
-17	aufzuspringen	2	2	2	2
+17	aufzuspringen	FIG	FIG	FIG	FIG
 18	suchen	*	*	*	*
 19	;	*	*	*	*
 20	nein	*	*	*	*
@@ -634,9 +652,10 @@
 
 # tuepp_article_id = T910207.116
 # sent_id = 2345
+# text = Schwach ist der Versuch der PSI , noch auf den fahrenden Zug aufzuspringen und gleichzeitig mit dem Präsidialsystem auch eine Stärkung der Regionen - " alle internen Fragen betreffend " zu versprechen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schwach ist der Versuch der PSI , noch auf den fahrenden Zug aufzuspringen und gleichzeitig mit dem Präsidialsystem auch eine Stärkung der Regionen - " alle internen Fragen betreffend " zu versprechen .
 1	Schwach	*	*	*	*
 2	ist	*	*	*	*
 3	der	*	*	*	*
@@ -645,11 +664,11 @@
 6	PSI	*	*	*	*
 7	,	*	*	*	*
 8	noch	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
 11	fahrenden	*	*	*	*
-12	Zug	2	2	2	2
-13	aufzuspringen	2	2	2	2
+12	Zug	FIG	FIG	FIG	FIG
+13	aufzuspringen	FIG	FIG	FIG	FIG
 14	und	*	*	*	*
 15	gleichzeitig	*	*	*	*
 16	mit	*	*	*	*
@@ -673,9 +692,10 @@
 
 # tuepp_article_id = T900514.173
 # sent_id = 2346
+# text = Weitere Feststellungen : Schon der Name Eures Konzepts " euro - taz " läßt befürchten , daß Ihr eher auf den neoimperialistischen Zug der Zeit aufgesprungen seid , anstatt den Tatort konsequent auszuleuchten .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Weitere Feststellungen : Schon der Name Eures Konzepts " euro - taz " läßt befürchten , daß Ihr eher auf den neoimperialistischen Zug der Zeit aufgesprungen seid , anstatt den Tatort konsequent auszuleuchten .
 1	Weitere	*	*	*	*
 2	Feststellungen	*	*	*	*
 3	:	*	*	*	*
@@ -695,13 +715,13 @@
 17	daß	*	*	*	*
 18	Ihr	*	*	*	*
 19	eher	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
 22	neoimperialistischen	*	*	*	*
-23	Zug	2	2	2	2
+23	Zug	FIG	FIG	FIG	FIG
 24	der	*	*	*	*
 25	Zeit	*	*	*	*
-26	aufgesprungen	2	2	2	2
+26	aufgesprungen	FIG	FIG	FIG	FIG
 27	seid	*	*	*	*
 28	,	*	*	*	*
 29	anstatt	*	*	*	*
@@ -713,9 +733,10 @@
 
 # tuepp_article_id = T900516.103
 # sent_id = 2347
+# text = Doch noch ist nicht alles verloren : " Glücklicherweise haben wir mit Frau Thatcher einen Staatsmann , der die Gefahren sieht und sich weigert , auf den Zug in Richtung Katastrophe aufzuspringen " , meinte Tebbit .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch noch ist nicht alles verloren : " Glücklicherweise haben wir mit Frau Thatcher einen Staatsmann , der die Gefahren sieht und sich weigert , auf den Zug in Richtung Katastrophe aufzuspringen " , meinte Tebbit .
 1	Doch	*	*	*	*
 2	noch	*	*	*	*
 3	ist	*	*	*	*
@@ -741,13 +762,13 @@
 23	sich	*	*	*	*
 24	weigert	*	*	*	*
 25	,	*	*	*	*
-26	auf	2	2	2	2
+26	auf	FIG	FIG	FIG	FIG
 27	den	*	*	*	*
-28	Zug	2	2	2	2
+28	Zug	FIG	FIG	FIG	FIG
 29	in	*	*	*	*
 30	Richtung	*	*	*	*
 31	Katastrophe	*	*	*	*
-32	aufzuspringen	2	2	2	2
+32	aufzuspringen	FIG	FIG	FIG	FIG
 33	"	*	*	*	*
 34	,	*	*	*	*
 35	meinte	*	*	*	*
@@ -756,9 +777,10 @@
 
 # tuepp_article_id = T900411.95
 # sent_id = 2348
+# text = Zugleich äußert er aber Sorge , daß der Wunsch vieler DDR-Bürger nach der Einheit ausschließlich materiell begründet ist : " Bedenklich ist aber , daß der Zug der Vereinigung so viele Fahrgäste hat , die wirkich nur auf den Westwagen aufspringen wollen , die bei der Wahl am 18. März wirklich nur die D-Mark gewählt haben , die wirklich sehr weit entfernt sind von den Gedanken der demokratischen Revolution .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zugleich äußert er aber Sorge , daß der Wunsch vieler DDR-Bürger nach der Einheit ausschließlich materiell begründet ist : " Bedenklich ist aber , daß der Zug der Vereinigung so viele Fahrgäste hat , die wirkich nur auf den Westwagen aufspringen wollen , die bei der Wahl am 18. März wirklich nur die D-Mark gewählt haben , die wirklich sehr weit entfernt sind von den Gedanken der demokratischen Revolution .
 1	Zugleich	*	*	*	*
 2	äußert	*	*	*	*
 3	er	*	*	*	*
@@ -785,7 +807,7 @@
 24	,	*	*	*	*
 25	daß	*	*	*	*
 26	der	*	*	*	*
-27	Zug	2	2	2	2
+27	Zug	FIG	FIG	FIG	FIG
 28	der	*	*	*	*
 29	Vereinigung	*	*	*	*
 30	so	*	*	*	*
@@ -799,7 +821,7 @@
 38	auf	*	*	*	*
 39	den	*	*	*	*
 40	Westwagen	*	*	*	*
-41	aufspringen	2	2	2	2
+41	aufspringen	FIG	FIG	FIG	FIG
 42	wollen	*	*	*	*
 43	,	*	*	*	*
 44	die	*	*	*	*
@@ -833,16 +855,17 @@
 
 # tuepp_article_id = T900417.251
 # sent_id = 2349
+# text = Bedenklich ist aber , daß der Zug der Vereinigung so viele Fahrgäste hat , die wirklich nur auf den Westwagen - als Synonym für alle anderen durchaus erklärlichen Wünsche - aufspringen wollen , die bei der Wahl am 18. März wirklich nur die D-Mark gewählt haben , und die wirklich sehr weit entfernt sind von den Gedanken der demokratischen Revolution , die ja in der DDR gemacht worden ist und nicht in Bonn .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bedenklich ist aber , daß der Zug der Vereinigung so viele Fahrgäste hat , die wirklich nur auf den Westwagen - als Synonym für alle anderen durchaus erklärlichen Wünsche - aufspringen wollen , die bei der Wahl am 18. März wirklich nur die D-Mark gewählt haben , und die wirklich sehr weit entfernt sind von den Gedanken der demokratischen Revolution , die ja in der DDR gemacht worden ist und nicht in Bonn .
 1	Bedenklich	*	*	*	*
 2	ist	*	*	*	*
 3	aber	*	*	*	*
 4	,	*	*	*	*
 5	daß	*	*	*	*
 6	der	*	*	*	*
-7	Zug	2	2	2	2
+7	Zug	FIG	FIG	FIG	FIG
 8	der	*	*	*	*
 9	Vereinigung	*	*	*	*
 10	so	*	*	*	*
@@ -866,7 +889,7 @@
 28	erklärlichen	*	*	*	*
 29	Wünsche	*	*	*	*
 30	-	*	*	*	*
-31	aufspringen	2	2	2	2
+31	aufspringen	FIG	FIG	FIG	FIG
 32	wollen	*	*	*	*
 33	,	*	*	*	*
 34	die	*	*	*	*
@@ -914,9 +937,10 @@
 
 # tuepp_article_id = T901207.32
 # sent_id = 2350
+# text = Noch bevor Slobodan Milosevic , der Wendekommunist und amtierende Präsident der Republik Serbien , auf den nationalen Zug aufsprang , hatte Draskovic Anfang der 80er Jahre erklärt , sein " linker Internationalismus " sei eine " Kinderkrankheit " gewesen , es gehe ihm um eine " Neubewertung des gesunden Nationalgefühls " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Noch bevor Slobodan Milosevic , der Wendekommunist und amtierende Präsident der Republik Serbien , auf den nationalen Zug aufsprang , hatte Draskovic Anfang der 80er Jahre erklärt , sein " linker Internationalismus " sei eine " Kinderkrankheit " gewesen , es gehe ihm um eine " Neubewertung des gesunden Nationalgefühls " .
 1	Noch	*	*	*	*
 2	bevor	*	*	*	*
 3	Slobodan	*	*	*	*
@@ -931,11 +955,11 @@
 12	Republik	*	*	*	*
 13	Serbien	*	*	*	*
 14	,	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
 17	nationalen	*	*	*	*
-18	Zug	2	2	2	2
-19	aufsprang	2	2	2	2
+18	Zug	FIG	FIG	FIG	FIG
+19	aufsprang	FIG	FIG	FIG	FIG
 20	,	*	*	*	*
 21	hatte	*	*	*	*
 22	Draskovic	*	*	*	*
@@ -972,9 +996,10 @@
 
 # tuepp_article_id = T901224.140
 # sent_id = 2351
+# text = Die Kirchen - als die einzigen Institutionen im Ostblock , die in der zweiten Hälfte des Saeculum das Terrain sozialer Kommunikation " besetzt " hatten - werden jetzt zum Ort des Kampfs der nationalen Kräfte , des Kampfs um die Besetzung des " symbolischen Mehrwerts " Nation : Während sich die orthodoxen Staatskirchen , die sich in der Vergangenheit mit dem alten Regime ( etwa in Rumänien ) arrangiert hatten , heute beeilen , auf den nationalistischen Zug aufzuspringen , sind in den baltischen Republiken oder in der Ukraine die unter Stalin verfolgten Katholiken bzw. katholisch Unierten zu Bannerträgern der nationalen Selbstbestimmung geworden : die nationale Bewegung wird selbst zur Partei im Kirchenkampf .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Kirchen - als die einzigen Institutionen im Ostblock , die in der zweiten Hälfte des Saeculum das Terrain sozialer Kommunikation " besetzt " hatten - werden jetzt zum Ort des Kampfs der nationalen Kräfte , des Kampfs um die Besetzung des " symbolischen Mehrwerts " Nation : Während sich die orthodoxen Staatskirchen , die sich in der Vergangenheit mit dem alten Regime ( etwa in Rumänien ) arrangiert hatten , heute beeilen , auf den nationalistischen Zug aufzuspringen , sind in den baltischen Republiken oder in der Ukraine die unter Stalin verfolgten Katholiken bzw. katholisch Unierten zu Bannerträgern der nationalen Selbstbestimmung geworden : die nationale Bewegung wird selbst zur Partei im Kirchenkampf .
 1	Die	*	*	*	*
 2	Kirchen	*	*	*	*
 3	-	*	*	*	*
@@ -1049,11 +1074,11 @@
 72	heute	*	*	*	*
 73	beeilen	*	*	*	*
 74	,	*	*	*	*
-75	auf	2	2	2	2
+75	auf	FIG	FIG	FIG	FIG
 76	den	*	*	*	*
 77	nationalistischen	*	*	*	*
-78	Zug	2	2	2	2
-79	aufzuspringen	2	2	2	2
+78	Zug	FIG	FIG	FIG	FIG
+79	aufzuspringen	FIG	FIG	FIG	FIG
 80	,	*	*	*	*
 81	sind	*	*	*	*
 82	in	*	*	*	*
@@ -1092,9 +1117,10 @@
 
 # tuepp_article_id = T900827.257
 # sent_id = 2352
+# text = Daß aber all jene Frauen , die die gesellschaftlichen Strukturen des 19. Jahrhunderts radikal in Frage stellten und deren Gedanken in vielem richtig , in manchem falsch in die Ideologie der DDR aufgenommen , in dieser Ausstellung einfach unterschlagen werden , läßt keinen Zweifel mehr an der Art des Zuges , auf den da aufgesprungen wurde : " Yesterday Man " und " Oh bum bum bum " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß aber all jene Frauen , die die gesellschaftlichen Strukturen des 19. Jahrhunderts radikal in Frage stellten und deren Gedanken in vielem richtig , in manchem falsch in die Ideologie der DDR aufgenommen , in dieser Ausstellung einfach unterschlagen werden , läßt keinen Zweifel mehr an der Art des Zuges , auf den da aufgesprungen wurde : " Yesterday Man " und " Oh bum bum bum " .
 1	Daß	*	*	*	*
 2	aber	*	*	*	*
 3	all	*	*	*	*
@@ -1145,12 +1171,12 @@
 48	der	*	*	*	*
 49	Art	*	*	*	*
 50	des	*	*	*	*
-51	Zuges	2	2	2	2
+51	Zuges	FIG	FIG	FIG	FIG
 52	,	*	*	*	*
-53	auf	2	2	2	2
+53	auf	FIG	FIG	FIG	FIG
 54	den	*	*	*	*
 55	da	*	*	*	*
-56	aufgesprungen	2	2	2	2
+56	aufgesprungen	FIG	FIG	FIG	FIG
 57	wurde	*	*	*	*
 58	:	*	*	*	*
 59	"	*	*	*	*
@@ -1168,19 +1194,20 @@
 
 # tuepp_article_id = T901117.280
 # sent_id = 2353
+# text = Fücks : " Oder wird Bremen auf den Zug aufspringen , bevor er abgefahren ist ?
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Fücks : " Oder wird Bremen auf den Zug aufspringen , bevor er abgefahren ist ?
 1	Fücks	*	*	*	*
 2	:	*	*	*	*
 3	"	*	*	*	*
 4	Oder	*	*	*	*
 5	wird	*	*	*	*
 6	Bremen	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Zug	2	2	2	2
-10	aufspringen	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
+10	aufspringen	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	bevor	*	*	*	*
 13	er	*	*	*	*
@@ -1190,48 +1217,51 @@
 
 # tuepp_article_id = T920513.74
 # sent_id = 2354
+# text = Auf diesem Zug suchen derzeit allerdings auch schon andere aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Auf diesem Zug suchen derzeit allerdings auch schon andere aufzuspringen .
-1	Auf	2	2	2	2
+1	Auf	FIG	FIG	FIG	FIG
 2	diesem	*	*	*	*
-3	Zug	2	2	2	2
+3	Zug	FIG	FIG	FIG	FIG
 4	suchen	*	*	*	*
 5	derzeit	*	*	*	*
 6	allerdings	*	*	*	*
 7	auch	*	*	*	*
 8	schon	*	*	*	*
 9	andere	*	*	*	*
-10	aufzuspringen	2	2	2	2
+10	aufzuspringen	FIG	FIG	FIG	FIG
 11	.	*	*	*	*
 
 # tuepp_article_id = T920526.118
 # sent_id = 2355
+# text = Dennoch kann es nicht angehen , auf einen protestrevolutionären rechten Zug " Republikaner " aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dennoch kann es nicht angehen , auf einen protestrevolutionären rechten Zug " Republikaner " aufzuspringen .
 1	Dennoch	*	*	*	*
 2	kann	*	*	*	*
 3	es	*	*	*	*
 4	nicht	*	*	*	*
 5	angehen	*	*	*	*
 6	,	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	einen	*	*	*	*
 9	protestrevolutionären	*	*	*	*
 10	rechten	*	*	*	*
-11	Zug	2	2	2	2
+11	Zug	FIG	FIG	FIG	FIG
 12	"	*	*	*	*
 13	Republikaner	*	*	*	*
 14	"	*	*	*	*
-15	aufzuspringen	2	2	2	2
+15	aufzuspringen	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T920617.220
 # sent_id = 2356
+# text = Sunny Ade tat sich nach seinem frühen Höhenflug über Europa und Amerika erstanlich schwer , auf den Zug der " Weltmusik " aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sunny Ade tat sich nach seinem frühen Höhenflug über Europa und Amerika erstanlich schwer , auf den Zug der " Weltmusik " aufzuspringen .
 1	Sunny	*	*	*	*
 2	Ade	*	*	*	*
 3	tat	*	*	*	*
@@ -1247,21 +1277,22 @@
 13	erstanlich	*	*	*	*
 14	schwer	*	*	*	*
 15	,	*	*	*	*
-16	auf	2	2	2	2
+16	auf	FIG	FIG	FIG	FIG
 17	den	*	*	*	*
-18	Zug	2	2	2	2
+18	Zug	FIG	FIG	FIG	FIG
 19	der	*	*	*	*
 20	"	*	*	*	*
 21	Weltmusik	*	*	*	*
 22	"	*	*	*	*
-23	aufzuspringen	2	2	2	2
+23	aufzuspringen	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T921015.62
 # sent_id = 2357
+# text = Der britische UNO-Botschafter Hannay betonte , dies sei " die letzte Chance für die Roten Khmer , auf den Zug aufzuspringen , der bald aus dem Bahnhof abfährt " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der britische UNO-Botschafter Hannay betonte , dies sei " die letzte Chance für die Roten Khmer , auf den Zug aufzuspringen , der bald aus dem Bahnhof abfährt " .
 1	Der	*	*	*	*
 2	britische	*	*	*	*
 3	UNO-Botschafter	*	*	*	*
@@ -1279,10 +1310,10 @@
 15	Roten	*	*	*	*
 16	Khmer	*	*	*	*
 17	,	*	*	*	*
-18	auf	2	2	2	2
+18	auf	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Zug	2	2	2	2
-21	aufzuspringen	2	2	2	2
+20	Zug	FIG	FIG	FIG	FIG
+21	aufzuspringen	FIG	FIG	FIG	FIG
 22	,	*	*	*	*
 23	der	*	*	*	*
 24	bald	*	*	*	*
@@ -1295,17 +1326,18 @@
 
 # tuepp_article_id = T920917.75
 # sent_id = 2358
+# text = Ich muß als Wissenschaftler auf den Zug aufspringen , um ihn umzulenken .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ich muß als Wissenschaftler auf den Zug aufspringen , um ihn umzulenken .
 1	Ich	*	*	*	*
 2	muß	*	*	*	*
 3	als	*	*	*	*
 4	Wissenschaftler	*	*	*	*
-5	auf	2	2	2	2
+5	auf	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
-7	Zug	2	2	2	2
-8	aufspringen	2	2	2	2
+7	Zug	FIG	FIG	FIG	FIG
+8	aufspringen	FIG	FIG	FIG	FIG
 9	,	*	*	*	*
 10	um	*	*	*	*
 11	ihn	*	*	*	*
@@ -1314,9 +1346,10 @@
 
 # tuepp_article_id = T920929.89
 # sent_id = 2359
+# text = Die Wut , die mich in den letzten Jahren aufrecht hielt , ist gestorben , als sich mein Land plötzlich entschied , auf jenen Zug aufzuspringen , der gerade in der ganzen Welt in Mode ist ; als man sich entschied , eiligst in Richtung " Freiheit , Demokratie und Europa " aufzubrechen ; als man plötzlich begann , andere aus dem Zug zu werfen , um selbst drin zu bleiben ; als man allenthalben brüllte : " Wir sind gut , die andern schlecht .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Wut , die mich in den letzten Jahren aufrecht hielt , ist gestorben , als sich mein Land plötzlich entschied , auf jenen Zug aufzuspringen , der gerade in der ganzen Welt in Mode ist ; als man sich entschied , eiligst in Richtung " Freiheit , Demokratie und Europa " aufzubrechen ; als man plötzlich begann , andere aus dem Zug zu werfen , um selbst drin zu bleiben ; als man allenthalben brüllte : " Wir sind gut , die andern schlecht .
 1	Die	*	*	*	*
 2	Wut	*	*	*	*
 3	,	*	*	*	*
@@ -1339,10 +1372,10 @@
 20	plötzlich	*	*	*	*
 21	entschied	*	*	*	*
 22	,	*	*	*	*
-23	auf	2	2	2	2
+23	auf	FIG	FIG	FIG	FIG
 24	jenen	*	*	*	*
-25	Zug	2	2	2	2
-26	aufzuspringen	2	2	2	2
+25	Zug	FIG	FIG	FIG	FIG
+26	aufzuspringen	FIG	FIG	FIG	FIG
 27	,	*	*	*	*
 28	der	*	*	*	*
 29	gerade	*	*	*	*
@@ -1406,9 +1439,10 @@
 
 # tuepp_article_id = T920731.174
 # sent_id = 2360
+# text = Inzwischen sind sie aber - gute zwei Jahre zu spät - auf den jetzt doch ziemlich lahmenden Rave- Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Inzwischen sind sie aber - gute zwei Jahre zu spät - auf den jetzt doch ziemlich lahmenden Rave- Zug aufgesprungen .
 1	Inzwischen	*	*	*	*
 2	sind	*	*	*	*
 3	sie	*	*	*	*
@@ -1427,15 +1461,16 @@
 16	ziemlich	*	*	*	*
 17	lahmenden	*	*	*	*
 18	Rave-	*	*	*	*
-19	Zug	2	2	2	2
-20	aufgesprungen	2	2	2	2
+19	Zug	FIG	FIG	FIG	FIG
+20	aufgesprungen	FIG	FIG	FIG	FIG
 21	.	*	*	*	*
 
 # tuepp_article_id = T920731.206
 # sent_id = 2361
+# text = Wenn Wedemeier jetzt plötzlich seine Meinung ändert , dann höchstens aus Angst , den Zug zu verpassen , auf den seine prominenteren Parteigenossen ohnehin längst aufgesprungen sind .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wenn Wedemeier jetzt plötzlich seine Meinung ändert , dann höchstens aus Angst , den Zug zu verpassen , auf den seine prominenteren Parteigenossen ohnehin längst aufgesprungen sind .
 1	Wenn	*	*	*	*
 2	Wedemeier	*	*	*	*
 3	jetzt	*	*	*	*
@@ -1450,7 +1485,7 @@
 12	Angst	*	*	*	*
 13	,	*	*	*	*
 14	den	*	*	*	*
-15	Zug	2	2	2	2
+15	Zug	FIG	FIG	FIG	FIG
 16	zu	*	*	*	*
 17	verpassen	*	*	*	*
 18	,	*	*	*	*
@@ -1461,15 +1496,16 @@
 23	Parteigenossen	*	*	*	*
 24	ohnehin	*	*	*	*
 25	längst	*	*	*	*
-26	aufgesprungen	2	2	2	2
+26	aufgesprungen	FIG	FIG	FIG	FIG
 27	sind	*	*	*	*
 28	.	*	*	*	*
 
 # tuepp_article_id = T921208.169
 # sent_id = 2362
+# text = Die Sozialdemokraten , im Bund ohne Macht und deshalb auf der Suche nach einem energiepolitischen Ausstiegs-Konsens , sollten das Kleingedruckte der Rückzugs- Konzepte sehr genau lesen , bevor sie blind auf jeden Zug aufspringen , der den Ausstieg als Zielbahnhof hat .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Sozialdemokraten , im Bund ohne Macht und deshalb auf der Suche nach einem energiepolitischen Ausstiegs-Konsens , sollten das Kleingedruckte der Rückzugs- Konzepte sehr genau lesen , bevor sie blind auf jeden Zug aufspringen , der den Ausstieg als Zielbahnhof hat .
 1	Die	*	*	*	*
 2	Sozialdemokraten	*	*	*	*
 3	,	*	*	*	*
@@ -1500,10 +1536,10 @@
 28	bevor	*	*	*	*
 29	sie	*	*	*	*
 30	blind	*	*	*	*
-31	auf	2	2	2	2
+31	auf	FIG	FIG	FIG	FIG
 32	jeden	*	*	*	*
-33	Zug	2	2	2	2
-34	aufspringen	2	2	2	2
+33	Zug	FIG	FIG	FIG	FIG
+34	aufspringen	FIG	FIG	FIG	FIG
 35	,	*	*	*	*
 36	der	*	*	*	*
 37	den	*	*	*	*
@@ -1515,9 +1551,10 @@
 
 # tuepp_article_id = T920801.28
 # sent_id = 2363
+# text = Tatsächlich hatten sich 1990 viele Nutznießer und Träger des alten Systems rechtzeitig umorientiert und waren auf den Zug Tudjmans aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Tatsächlich hatten sich 1990 viele Nutznießer und Träger des alten Systems rechtzeitig umorientiert und waren auf den Zug Tudjmans aufgesprungen .
 1	Tatsächlich	*	*	*	*
 2	hatten	*	*	*	*
 3	sich	*	*	*	*
@@ -1533,37 +1570,39 @@
 13	umorientiert	*	*	*	*
 14	und	*	*	*	*
 15	waren	*	*	*	*
-16	auf	2	2	2	2
+16	auf	FIG	FIG	FIG	FIG
 17	den	*	*	*	*
-18	Zug	2	2	2	2
+18	Zug	FIG	FIG	FIG	FIG
 19	Tudjmans	*	*	*	*
-20	aufgesprungen	2	2	2	2
+20	aufgesprungen	FIG	FIG	FIG	FIG
 21	.	*	*	*	*
 
 # tuepp_article_id = T881024.30
 # sent_id = 2364
+# text = Zu spät nämlich ist Kohl auf den Zug der neuen Detente aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zu spät nämlich ist Kohl auf den Zug der neuen Detente aufgesprungen .
 1	Zu	*	*	*	*
 2	spät	*	*	*	*
 3	nämlich	*	*	*	*
 4	ist	*	*	*	*
 5	Kohl	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Zug	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
 9	der	*	*	*	*
 10	neuen	*	*	*	*
 11	Detente	*	*	*	*
-12	aufgesprungen	2	2	2	2
+12	aufgesprungen	FIG	FIG	FIG	FIG
 13	.	*	*	*	*
 
 # tuepp_article_id = T881028.66
 # sent_id = 2365
+# text = Mit der Ankündigung , bei dem Besuch Gorbatschows im nächsten Jahr in der Bundesrepublik ein Investitionsschutzabkommen abzuschließen , werden weitere deutsche Firmen motiviert , auf den anrollenden Zug des Ostgeschäftes aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit der Ankündigung , bei dem Besuch Gorbatschows im nächsten Jahr in der Bundesrepublik ein Investitionsschutzabkommen abzuschließen , werden weitere deutsche Firmen motiviert , auf den anrollenden Zug des Ostgeschäftes aufzuspringen .
 1	Mit	*	*	*	*
 2	der	*	*	*	*
 3	Ankündigung	*	*	*	*
@@ -1588,20 +1627,21 @@
 22	Firmen	*	*	*	*
 23	motiviert	*	*	*	*
 24	,	*	*	*	*
-25	auf	2	2	2	2
+25	auf	FIG	FIG	FIG	FIG
 26	den	*	*	*	*
 27	anrollenden	*	*	*	*
-28	Zug	2	2	2	2
+28	Zug	FIG	FIG	FIG	FIG
 29	des	*	*	*	*
 30	Ostgeschäftes	*	*	*	*
-31	aufzuspringen	2	2	2	2
+31	aufzuspringen	FIG	FIG	FIG	FIG
 32	.	*	*	*	*
 
 # tuepp_article_id = T881022.91
 # sent_id = 2366
+# text = Viele Urlaubsorte und Fremdenverkehrsregionen in den Alpen sind auf den fahrenden Zug " Mountain-Biking " aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Viele Urlaubsorte und Fremdenverkehrsregionen in den Alpen sind auf den fahrenden Zug " Mountain-Biking " aufgesprungen .
 1	Viele	*	*	*	*
 2	Urlaubsorte	*	*	*	*
 3	und	*	*	*	*
@@ -1610,29 +1650,30 @@
 6	den	*	*	*	*
 7	Alpen	*	*	*	*
 8	sind	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
 11	fahrenden	*	*	*	*
-12	Zug	2	2	2	2
+12	Zug	FIG	FIG	FIG	FIG
 13	"	*	*	*	*
 14	Mountain-Biking	*	*	*	*
 15	"	*	*	*	*
-16	aufgesprungen	2	2	2	2
+16	aufgesprungen	FIG	FIG	FIG	FIG
 17	.	*	*	*	*
 
 # tuepp_article_id = T880919.70
 # sent_id = 2367
+# text = Statt mit großem Getöse auf irgendeinen Zug aufzuspringen , muß die Band über Jahre hinweg vom festen Glauben gezehrt haben , man müsse nur lange genug am selben Fleck bleiben , irgendwann käme der ZUG DER ZEIT schon wieder an einem vorbeigerumpelt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Statt mit großem Getöse auf irgendeinen Zug aufzuspringen , muß die Band über Jahre hinweg vom festen Glauben gezehrt haben , man müsse nur lange genug am selben Fleck bleiben , irgendwann käme der ZUG DER ZEIT schon wieder an einem vorbeigerumpelt .
 1	Statt	*	*	*	*
 2	mit	*	*	*	*
 3	großem	*	*	*	*
 4	Getöse	*	*	*	*
-5	auf	2	2	2	2
+5	auf	FIG	FIG	FIG	FIG
 6	irgendeinen	*	*	*	*
-7	Zug	2	2	2	2
-8	aufzuspringen	2	2	2	2
+7	Zug	FIG	FIG	FIG	FIG
+8	aufzuspringen	FIG	FIG	FIG	FIG
 9	,	*	*	*	*
 10	muß	*	*	*	*
 11	die	*	*	*	*
@@ -1671,9 +1712,10 @@
 
 # tuepp_article_id = T880912.129
 # sent_id = 2368
+# text = Nein , nein - sie seien nicht auf den fahrenden Zug der " mittelalterlichen Konjunktur " , wie sie derzeit durch die Lande schleimt , aufgesprungen , sie seien auch nicht die Nutznießer Umberto Ecos und trügen auch nicht den " Namen der Rose " , versichert Ali Ben Juffi , Märchenerzähler und Gewürzhändler aus fernen Landen ( eigentlich heißt er ja Walter , nun ja ) .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nein , nein - sie seien nicht auf den fahrenden Zug der " mittelalterlichen Konjunktur " , wie sie derzeit durch die Lande schleimt , aufgesprungen , sie seien auch nicht die Nutznießer Umberto Ecos und trügen auch nicht den " Namen der Rose " , versichert Ali Ben Juffi , Märchenerzähler und Gewürzhändler aus fernen Landen ( eigentlich heißt er ja Walter , nun ja ) .
 1	Nein	*	*	*	*
 2	,	*	*	*	*
 3	nein	*	*	*	*
@@ -1681,10 +1723,10 @@
 5	sie	*	*	*	*
 6	seien	*	*	*	*
 7	nicht	*	*	*	*
-8	auf	2	2	2	2
+8	auf	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
 10	fahrenden	*	*	*	*
-11	Zug	2	2	2	2
+11	Zug	FIG	FIG	FIG	FIG
 12	der	*	*	*	*
 13	"	*	*	*	*
 14	mittelalterlichen	*	*	*	*
@@ -1699,7 +1741,7 @@
 23	Lande	*	*	*	*
 24	schleimt	*	*	*	*
 25	,	*	*	*	*
-26	aufgesprungen	2	2	2	2
+26	aufgesprungen	FIG	FIG	FIG	FIG
 27	,	*	*	*	*
 28	sie	*	*	*	*
 29	seien	*	*	*	*
@@ -1745,9 +1787,10 @@
 
 # tuepp_article_id = T880113.76
 # sent_id = 2369
+# text = Ende der siebziger Jahre versuchte der McDonalds Konzern " auf den fahrenden Zug aufzuspringen " , wie es der Vorsitzende Eberitsch des Fördervereins formuliert .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ende der siebziger Jahre versuchte der McDonalds Konzern " auf den fahrenden Zug aufzuspringen " , wie es der Vorsitzende Eberitsch des Fördervereins formuliert .
 1	Ende	*	*	*	*
 2	der	*	*	*	*
 3	siebziger	*	*	*	*
@@ -1757,11 +1800,11 @@
 7	McDonalds	*	*	*	*
 8	Konzern	*	*	*	*
 9	"	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
 12	fahrenden	*	*	*	*
-13	Zug	2	2	2	2
-14	aufzuspringen	2	2	2	2
+13	Zug	FIG	FIG	FIG	FIG
+14	aufzuspringen	FIG	FIG	FIG	FIG
 15	"	*	*	*	*
 16	,	*	*	*	*
 17	wie	*	*	*	*
@@ -1776,9 +1819,10 @@
 
 # tuepp_article_id = T880105.73
 # sent_id = 2370
+# text = Gefährlicher allerdings als die Front selbst ist die Wucht des Zuges , auf den sie aufspringt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Gefährlicher allerdings als die Front selbst ist die Wucht des Zuges , auf den sie aufspringt .
 1	Gefährlicher	*	*	*	*
 2	allerdings	*	*	*	*
 3	als	*	*	*	*
@@ -1789,26 +1833,27 @@
 8	die	*	*	*	*
 9	Wucht	*	*	*	*
 10	des	*	*	*	*
-11	Zuges	2	2	2	2
+11	Zuges	FIG	FIG	FIG	FIG
 12	,	*	*	*	*
-13	auf	2	2	2	2
+13	auf	FIG	FIG	FIG	FIG
 14	den	*	*	*	*
 15	sie	*	*	*	*
-16	aufspringt	2	2	2	2
+16	aufspringt	FIG	FIG	FIG	FIG
 17	.	*	*	*	*
 
 # tuepp_article_id = T881203.205
 # sent_id = 2371
+# text = Von einem Aufspringen auf den lukrativen Zug weiß man dort noch nichts .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Von einem Aufspringen auf den lukrativen Zug weiß man dort noch nichts .
 1	Von	*	*	*	*
 2	einem	*	*	*	*
-3	Aufspringen	2	2	2	2
-4	auf	2	2	2	2
+3	Aufspringen	FIG	FIG	FIG	FIG
+4	auf	FIG	FIG	FIG	FIG
 5	den	*	*	*	*
 6	lukrativen	*	*	*	*
-7	Zug	2	2	2	2
+7	Zug	FIG	FIG	FIG	FIG
 8	weiß	*	*	*	*
 9	man	*	*	*	*
 10	dort	*	*	*	*
@@ -1818,23 +1863,24 @@
 
 # tuepp_article_id = T880805.74
 # sent_id = 2372
+# text = Einige Unternehmen versuchen noch auf den profitträchtigen Zug der großtechnischen Anwendung gentechnologischer Verfahren aufzuspringen , bevor nach der Gesetzesänderung im Herbst öffentliche Anhörungsverfahren bei derlei Plänen zwingend vorgeschrieben werden sollen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Einige Unternehmen versuchen noch auf den profitträchtigen Zug der großtechnischen Anwendung gentechnologischer Verfahren aufzuspringen , bevor nach der Gesetzesänderung im Herbst öffentliche Anhörungsverfahren bei derlei Plänen zwingend vorgeschrieben werden sollen .
 1	Einige	*	*	*	*
 2	Unternehmen	*	*	*	*
 3	versuchen	*	*	*	*
 4	noch	*	*	*	*
-5	auf	2	2	2	2
+5	auf	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
 7	profitträchtigen	*	*	*	*
-8	Zug	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
 9	der	*	*	*	*
 10	großtechnischen	*	*	*	*
 11	Anwendung	*	*	*	*
 12	gentechnologischer	*	*	*	*
 13	Verfahren	*	*	*	*
-14	aufzuspringen	2	2	2	2
+14	aufzuspringen	FIG	FIG	FIG	FIG
 15	,	*	*	*	*
 16	bevor	*	*	*	*
 17	nach	*	*	*	*
@@ -1855,9 +1901,10 @@
 
 # tuepp_article_id = T881126.103
 # sent_id = 2373
+# text = Das ist allerdings völlig unrichtig , Tatsache ist vielmehr , daß bei uns in krassem Gegensatz zu Paris oder Deutschland die Studenten ( bis auf ganz wenig vereinzelte ) gar nichts damit zu tun hatten und brav streberten - ; daß die damalige " Linke " auf einen fahrenden Zug aufgesprungen war , also erst von einer bestehenden Bewegung profitiert hat , um ihre ( unerwünschten ) Parolen und ( Machtablöser- ) Fähnchen reinzuhängen und die jugendlichen Köpfe mit Politmief zu traktieren .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das ist allerdings völlig unrichtig , Tatsache ist vielmehr , daß bei uns in krassem Gegensatz zu Paris oder Deutschland die Studenten ( bis auf ganz wenig vereinzelte ) gar nichts damit zu tun hatten und brav streberten - ; daß die damalige " Linke " auf einen fahrenden Zug aufgesprungen war , also erst von einer bestehenden Bewegung profitiert hat , um ihre ( unerwünschten ) Parolen und ( Machtablöser- ) Fähnchen reinzuhängen und die jugendlichen Köpfe mit Politmief zu traktieren .
 1	Das	*	*	*	*
 2	ist	*	*	*	*
 3	allerdings	*	*	*	*
@@ -1904,11 +1951,11 @@
 44	"	*	*	*	*
 45	Linke	*	*	*	*
 46	"	*	*	*	*
-47	auf	2	2	2	2
+47	auf	FIG	FIG	FIG	FIG
 48	einen	*	*	*	*
 49	fahrenden	*	*	*	*
-50	Zug	2	2	2	2
-51	aufgesprungen	2	2	2	2
+50	Zug	FIG	FIG	FIG	FIG
+51	aufgesprungen	FIG	FIG	FIG	FIG
 52	war	*	*	*	*
 53	,	*	*	*	*
 54	also	*	*	*	*
@@ -1944,9 +1991,10 @@
 
 # tuepp_article_id = T880202.26
 # sent_id = 2374
+# text = Auch vor dem Hintergrund des palästinensischen Aufstands werden sich arabische Staaten wie Ägypten oder Jordanien hüten , auf den israelisch-amerikanischen Zug aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auch vor dem Hintergrund des palästinensischen Aufstands werden sich arabische Staaten wie Ägypten oder Jordanien hüten , auf den israelisch-amerikanischen Zug aufzuspringen .
 1	Auch	*	*	*	*
 2	vor	*	*	*	*
 3	dem	*	*	*	*
@@ -1964,18 +2012,19 @@
 15	Jordanien	*	*	*	*
 16	hüten	*	*	*	*
 17	,	*	*	*	*
-18	auf	2	2	2	2
+18	auf	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
 20	israelisch-amerikanischen	*	*	*	*
-21	Zug	2	2	2	2
-22	aufzuspringen	2	2	2	2
+21	Zug	FIG	FIG	FIG	FIG
+22	aufzuspringen	FIG	FIG	FIG	FIG
 23	.	*	*	*	*
 
 # tuepp_article_id = T870928.9
 # sent_id = 2375
+# text = Die Banken können also durch einen geringen Anteil die Sache ins Rollen bringen : für die Regierungen dürfte es schwierig sein , nicht auf den Zug aufzuspringen , wenn die profitorientierten Banken ihn anschieben .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Banken können also durch einen geringen Anteil die Sache ins Rollen bringen : für die Regierungen dürfte es schwierig sein , nicht auf den Zug aufzuspringen , wenn die profitorientierten Banken ihn anschieben .
 1	Die	*	*	*	*
 2	Banken	*	*	*	*
 3	können	*	*	*	*
@@ -1999,10 +2048,10 @@
 21	sein	*	*	*	*
 22	,	*	*	*	*
 23	nicht	*	*	*	*
-24	auf	2	2	2	2
+24	auf	FIG	FIG	FIG	FIG
 25	den	*	*	*	*
-26	Zug	2	2	2	2
-27	aufzuspringen	2	2	2	2
+26	Zug	FIG	FIG	FIG	FIG
+27	aufzuspringen	FIG	FIG	FIG	FIG
 28	,	*	*	*	*
 29	wenn	*	*	*	*
 30	die	*	*	*	*
@@ -2014,9 +2063,10 @@
 
 # tuepp_article_id = T870921.24
 # sent_id = 2376
+# text = Sein Verbands-Kollege Ralf Fücks : " Bremen war der verspätete Versuch , auf einen rot- grünen Zug aufzuspringen , der schon abgefahren ist .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sein Verbands-Kollege Ralf Fücks : " Bremen war der verspätete Versuch , auf einen rot- grünen Zug aufzuspringen , der schon abgefahren ist .
 1	Sein	*	*	*	*
 2	Verbands-Kollege	*	*	*	*
 3	Ralf	*	*	*	*
@@ -2029,12 +2079,12 @@
 10	verspätete	*	*	*	*
 11	Versuch	*	*	*	*
 12	,	*	*	*	*
-13	auf	2	2	2	2
+13	auf	FIG	FIG	FIG	FIG
 14	einen	*	*	*	*
 15	rot-	*	*	*	*
 16	grünen	*	*	*	*
-17	Zug	2	2	2	2
-18	aufzuspringen	2	2	2	2
+17	Zug	FIG	FIG	FIG	FIG
+18	aufzuspringen	FIG	FIG	FIG	FIG
 19	,	*	*	*	*
 20	der	*	*	*	*
 21	schon	*	*	*	*
@@ -2044,9 +2094,10 @@
 
 # tuepp_article_id = T861129.69
 # sent_id = 2377
+# text = Die Spekulanten hoffen auf weiteren Kursverfall , um kurz vor dem Wiederanstieg auf den Zug aufzuspringen , denn Sandoz ist trotz Brand ein prosperierendes Unternehmen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Spekulanten hoffen auf weiteren Kursverfall , um kurz vor dem Wiederanstieg auf den Zug aufzuspringen , denn Sandoz ist trotz Brand ein prosperierendes Unternehmen .
 1	Die	*	*	*	*
 2	Spekulanten	*	*	*	*
 3	hoffen	*	*	*	*
@@ -2059,10 +2110,10 @@
 10	vor	*	*	*	*
 11	dem	*	*	*	*
 12	Wiederanstieg	*	*	*	*
-13	auf	2	2	2	2
+13	auf	FIG	FIG	FIG	FIG
 14	den	*	*	*	*
-15	Zug	2	2	2	2
-16	aufzuspringen	2	2	2	2
+15	Zug	FIG	FIG	FIG	FIG
+16	aufzuspringen	FIG	FIG	FIG	FIG
 17	,	*	*	*	*
 18	denn	*	*	*	*
 19	Sandoz	*	*	*	*
@@ -2076,9 +2127,10 @@
 
 # tuepp_article_id = T930508.263
 # sent_id = 2378
+# text = " Im Moment boomt es in dieser Richtung und wir sind auf diesen Zug aufgesprungen " , sagt Wiedemeyer .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Im Moment boomt es in dieser Richtung und wir sind auf diesen Zug aufgesprungen " , sagt Wiedemeyer .
 1	"	*	*	*	*
 2	Im	*	*	*	*
 3	Moment	*	*	*	*
@@ -2090,10 +2142,10 @@
 9	und	*	*	*	*
 10	wir	*	*	*	*
 11	sind	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	diesen	*	*	*	*
-14	Zug	2	2	2	2
-15	aufgesprungen	2	2	2	2
+14	Zug	FIG	FIG	FIG	FIG
+15	aufgesprungen	FIG	FIG	FIG	FIG
 16	"	*	*	*	*
 17	,	*	*	*	*
 18	sagt	*	*	*	*
@@ -2102,9 +2154,10 @@
 
 # tuepp_article_id = T930624.59
 # sent_id = 2379
+# text = Schließlich treffen die Verluste keine Kleinsparer , sondern Investoren aus der oberen Mittelschicht , die in der Hoffnung auf eine schnelle Mark auf den Zug aufgesprungen sind .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schließlich treffen die Verluste keine Kleinsparer , sondern Investoren aus der oberen Mittelschicht , die in der Hoffnung auf eine schnelle Mark auf den Zug aufgesprungen sind .
 1	Schließlich	*	*	*	*
 2	treffen	*	*	*	*
 3	die	*	*	*	*
@@ -2127,36 +2180,38 @@
 20	eine	*	*	*	*
 21	schnelle	*	*	*	*
 22	Mark	*	*	*	*
-23	auf	2	2	2	2
+23	auf	FIG	FIG	FIG	FIG
 24	den	*	*	*	*
-25	Zug	2	2	2	2
-26	aufgesprungen	2	2	2	2
+25	Zug	FIG	FIG	FIG	FIG
+26	aufgesprungen	FIG	FIG	FIG	FIG
 27	sind	*	*	*	*
 28	.	*	*	*	*
 
 # tuepp_article_id = T930604.151
 # sent_id = 2380
+# text = Die Frau hatte versucht , auf den bereits fahrenden Zug aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Die Frau hatte versucht , auf den bereits fahrenden Zug aufzuspringen .
 1	Die	*	*	*	*
 2	Frau	*	*	*	*
 3	hatte	*	*	*	*
 4	versucht	*	*	*	*
 5	,	*	*	*	*
-6	auf	1	1	1	1
+6	auf	LIT	LIT	LIT	LIT
 7	den	*	*	*	*
 8	bereits	*	*	*	*
 9	fahrenden	*	*	*	*
-10	Zug	1	1	1	1
-11	aufzuspringen	1	1	1	1
+10	Zug	LIT	LIT	LIT	LIT
+11	aufzuspringen	LIT	LIT	LIT	LIT
 12	.	*	*	*	*
 
 # tuepp_article_id = T931023.144
 # sent_id = 2381
+# text = Irrt er sich einfach , oder ist es opportun , auf derzeit fahrende Züge aufzuspringen ?
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Irrt er sich einfach , oder ist es opportun , auf derzeit fahrende Züge aufzuspringen ?
 1	Irrt	*	*	*	*
 2	er	*	*	*	*
 3	sich	*	*	*	*
@@ -2167,18 +2222,19 @@
 8	es	*	*	*	*
 9	opportun	*	*	*	*
 10	,	*	*	*	*
-11	auf	2	2	2	2
+11	auf	FIG	FIG	FIG	FIG
 12	derzeit	*	*	*	*
 13	fahrende	*	*	*	*
-14	Züge	2	2	2	2
-15	aufzuspringen	2	2	2	2
+14	Züge	FIG	FIG	FIG	FIG
+15	aufzuspringen	FIG	FIG	FIG	FIG
 16	?	*	*	*	*
 
 # tuepp_article_id = T930911.26
 # sent_id = 2382
+# text = Allerdings soll es nach Informationen aus Damaskus tiefe Differenzen zwischen den Oppositionellen über die nächsten Schritte geben , zumal zu erwarten ist , daß ihre Schutzmacht Syrien über kurz oder lang ebenfalls auf den fahrenden Zug aufspringen und als Gegenleistung für einen Rückzug oder Teilrückzug aus dem Golan ebenfalls Israel anerkennen dürfte .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Allerdings soll es nach Informationen aus Damaskus tiefe Differenzen zwischen den Oppositionellen über die nächsten Schritte geben , zumal zu erwarten ist , daß ihre Schutzmacht Syrien über kurz oder lang ebenfalls auf den fahrenden Zug aufspringen und als Gegenleistung für einen Rückzug oder Teilrückzug aus dem Golan ebenfalls Israel anerkennen dürfte .
 1	Allerdings	*	*	*	*
 2	soll	*	*	*	*
 3	es	*	*	*	*
@@ -2211,11 +2267,11 @@
 30	oder	*	*	*	*
 31	lang	*	*	*	*
 32	ebenfalls	*	*	*	*
-33	auf	2	2	2	2
+33	auf	FIG	FIG	FIG	FIG
 34	den	*	*	*	*
 35	fahrenden	*	*	*	*
-36	Zug	2	2	2	2
-37	aufspringen	2	2	2	2
+36	Zug	FIG	FIG	FIG	FIG
+37	aufspringen	FIG	FIG	FIG	FIG
 38	und	*	*	*	*
 39	als	*	*	*	*
 40	Gegenleistung	*	*	*	*
@@ -2235,9 +2291,10 @@
 
 # tuepp_article_id = T930918.190
 # sent_id = 2383
+# text = Das jähe Aufwachen derjenigen Journalisten , die unbewußt und ungewollt , unreflektiert und unsensibel auf diesen auflagensteigernden Zug aufgesprungen waren , sorgte für eine Welle von " positiver " Berichterstattung .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das jähe Aufwachen derjenigen Journalisten , die unbewußt und ungewollt , unreflektiert und unsensibel auf diesen auflagensteigernden Zug aufgesprungen waren , sorgte für eine Welle von " positiver " Berichterstattung .
 1	Das	*	*	*	*
 2	jähe	*	*	*	*
 3	Aufwachen	*	*	*	*
@@ -2252,11 +2309,11 @@
 12	unreflektiert	*	*	*	*
 13	und	*	*	*	*
 14	unsensibel	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	diesen	*	*	*	*
 17	auflagensteigernden	*	*	*	*
-18	Zug	2	2	2	2
-19	aufgesprungen	2	2	2	2
+18	Zug	FIG	FIG	FIG	FIG
+19	aufgesprungen	FIG	FIG	FIG	FIG
 20	waren	*	*	*	*
 21	,	*	*	*	*
 22	sorgte	*	*	*	*
@@ -2272,27 +2329,29 @@
 
 # tuepp_article_id = T930129.1
 # sent_id = 2384
+# text = Die SPD ist wie so oft auf den fahrenden Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die SPD ist wie so oft auf den fahrenden Zug aufgesprungen .
 1	Die	*	*	*	*
 2	SPD	*	*	*	*
 3	ist	*	*	*	*
 4	wie	*	*	*	*
 5	so	*	*	*	*
 6	oft	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
 9	fahrenden	*	*	*	*
-10	Zug	2	2	2	2
-11	aufgesprungen	2	2	2	2
+10	Zug	FIG	FIG	FIG	FIG
+11	aufgesprungen	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T930717.42
 # sent_id = 2385
+# text = Dennoch sind etliche Enthusiasten auf den " Zug Klimasteuer " aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dennoch sind etliche Enthusiasten auf den " Zug Klimasteuer " aufgesprungen .
 1	Dennoch	*	*	*	*
 2	sind	*	*	*	*
 3	etliche	*	*	*	*
@@ -2300,17 +2359,18 @@
 5	auf	*	*	*	*
 6	den	*	*	*	*
 7	"	*	*	*	*
-8	Zug	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
 9	Klimasteuer	*	*	*	*
 10	"	*	*	*	*
-11	aufgesprungen	2	2	2	2
+11	aufgesprungen	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T930816.65
 # sent_id = 2386
+# text = Noch am gleichen Tage war aber auch Ruslan Chasbulatow auf den fahrenden Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Noch am gleichen Tage war aber auch Ruslan Chasbulatow auf den fahrenden Zug aufgesprungen .
 1	Noch	*	*	*	*
 2	am	*	*	*	*
 3	gleichen	*	*	*	*
@@ -2320,18 +2380,19 @@
 7	auch	*	*	*	*
 8	Ruslan	*	*	*	*
 9	Chasbulatow	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
 12	fahrenden	*	*	*	*
-13	Zug	2	2	2	2
-14	aufgesprungen	2	2	2	2
+13	Zug	FIG	FIG	FIG	FIG
+14	aufgesprungen	FIG	FIG	FIG	FIG
 15	.	*	*	*	*
 
 # tuepp_article_id = T930831.223
 # sent_id = 2387
+# text = Unsere kleine Stadt , spätestens seit der "Peter"- Pleite geübt im Aufspringen auf entgleisende Züge , unsere kleine Stadt macht demnächst wieder einmal massig Zaster , jedenfalls wenn es nach dem Verkehrsverein und seinem Vorsitzenden Ulrich Nölle geht : Das Postamt 5 wird , wenn die Post auszieht , flugs umgebaut ; und Bremen wird Musicalstadt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Unsere kleine Stadt , spätestens seit der "Peter"- Pleite geübt im Aufspringen auf entgleisende Züge , unsere kleine Stadt macht demnächst wieder einmal massig Zaster , jedenfalls wenn es nach dem Verkehrsverein und seinem Vorsitzenden Ulrich Nölle geht : Das Postamt 5 wird , wenn die Post auszieht , flugs umgebaut ; und Bremen wird Musicalstadt .
 1	Unsere	*	*	*	*
 2	kleine	*	*	*	*
 3	Stadt	*	*	*	*
@@ -2344,10 +2405,10 @@
 10	Pleite	*	*	*	*
 11	geübt	*	*	*	*
 12	im	*	*	*	*
-13	Aufspringen	2	2	2	2
-14	auf	2	2	2	2
+13	Aufspringen	FIG	FIG	FIG	FIG
+14	auf	FIG	FIG	FIG	FIG
 15	entgleisende	*	*	*	*
-16	Züge	2	2	2	2
+16	Züge	FIG	FIG	FIG	FIG
 17	,	*	*	*	*
 18	unsere	*	*	*	*
 19	kleine	*	*	*	*
@@ -2393,9 +2454,10 @@
 
 # tuepp_article_id = T930806.209
 # sent_id = 2388
+# text = Der DFB sei mit seiner Aktion " Mein Freund ist Ausländer " nur auf fahrende Züge aufgesprungen , kritisierte der Journalist Dietrich Schulze-Marmeling .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der DFB sei mit seiner Aktion " Mein Freund ist Ausländer " nur auf fahrende Züge aufgesprungen , kritisierte der Journalist Dietrich Schulze-Marmeling .
 1	Der	*	*	*	*
 2	DFB	*	*	*	*
 3	sei	*	*	*	*
@@ -2409,10 +2471,10 @@
 11	Ausländer	*	*	*	*
 12	"	*	*	*	*
 13	nur	*	*	*	*
-14	auf	2	2	2	2
+14	auf	FIG	FIG	FIG	FIG
 15	fahrende	*	*	*	*
-16	Züge	2	2	2	2
-17	aufgesprungen	2	2	2	2
+16	Züge	FIG	FIG	FIG	FIG
+17	aufgesprungen	FIG	FIG	FIG	FIG
 18	,	*	*	*	*
 19	kritisierte	*	*	*	*
 20	der	*	*	*	*
@@ -2423,9 +2485,10 @@
 
 # tuepp_article_id = T930316.115
 # sent_id = 2389
+# text = Dino Mikulandra , ein 33jähriger ehemaliger kommunistischer Jugendfunktionär , nämlich gilt bei den Kollegen als einer , der nun auf den nationalistischen Zug aufgesprungen ist und über beste Kontakte nach Zagreb verfügt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dino Mikulandra , ein 33jähriger ehemaliger kommunistischer Jugendfunktionär , nämlich gilt bei den Kollegen als einer , der nun auf den nationalistischen Zug aufgesprungen ist und über beste Kontakte nach Zagreb verfügt .
 1	Dino	*	*	*	*
 2	Mikulandra	*	*	*	*
 3	,	*	*	*	*
@@ -2445,11 +2508,11 @@
 17	,	*	*	*	*
 18	der	*	*	*	*
 19	nun	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
 22	nationalistischen	*	*	*	*
-23	Zug	2	2	2	2
-24	aufgesprungen	2	2	2	2
+23	Zug	FIG	FIG	FIG	FIG
+24	aufgesprungen	FIG	FIG	FIG	FIG
 25	ist	*	*	*	*
 26	und	*	*	*	*
 27	über	*	*	*	*
@@ -2462,41 +2525,43 @@
 
 # tuepp_article_id = T930306.330
 # sent_id = 2390
+# text = Doch nicht alle norddeutschen Firmen wollen auf den Gentech- Zug aufspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch nicht alle norddeutschen Firmen wollen auf den Gentech- Zug aufspringen .
 1	Doch	*	*	*	*
 2	nicht	*	*	*	*
 3	alle	*	*	*	*
 4	norddeutschen	*	*	*	*
 5	Firmen	*	*	*	*
 6	wollen	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
 9	Gentech-	*	*	*	*
-10	Zug	2	2	2	2
-11	aufspringen	2	2	2	2
+10	Zug	FIG	FIG	FIG	FIG
+11	aufspringen	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T931101.164
 # sent_id = 2391
+# text = Was schiene also sinnvoller , als auf einen Zug ( steigende Besucherzahlen ) aufzuspringen und für eine solide und moderne Finanzierung der Besucherförderung für Kinder und Jugendliche zu sorgen , deren Zusatzbedarf vielleicht ein Dreißigstel oder ein Vierzigstel der Schiller-Subvention wäre .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Was schiene also sinnvoller , als auf einen Zug ( steigende Besucherzahlen ) aufzuspringen und für eine solide und moderne Finanzierung der Besucherförderung für Kinder und Jugendliche zu sorgen , deren Zusatzbedarf vielleicht ein Dreißigstel oder ein Vierzigstel der Schiller-Subvention wäre .
 1	Was	*	*	*	*
 2	schiene	*	*	*	*
 3	also	*	*	*	*
 4	sinnvoller	*	*	*	*
 5	,	*	*	*	*
 6	als	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	einen	*	*	*	*
-9	Zug	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
 10	(	*	*	*	*
 11	steigende	*	*	*	*
 12	Besucherzahlen	*	*	*	*
 13	)	*	*	*	*
-14	aufzuspringen	2	2	2	2
+14	aufzuspringen	FIG	FIG	FIG	FIG
 15	und	*	*	*	*
 16	für	*	*	*	*
 17	eine	*	*	*	*
@@ -2528,9 +2593,10 @@
 
 # tuepp_article_id = T931124.69
 # sent_id = 2392
+# text = Inzwischen ist die Permanente Kommission für den Nationalen Dialog ( CPDN ) , ein FMLN- freundlicher Zusammenschluß von kirchlichen und Volksbewegungen , auf den Zug aufgesprungen und organisiert eine Serie von Märschen und anderen Aktionen , die am 10. Dezember in einer Menschenkette durch San Salvador gipfeln sollen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Inzwischen ist die Permanente Kommission für den Nationalen Dialog ( CPDN ) , ein FMLN- freundlicher Zusammenschluß von kirchlichen und Volksbewegungen , auf den Zug aufgesprungen und organisiert eine Serie von Märschen und anderen Aktionen , die am 10. Dezember in einer Menschenkette durch San Salvador gipfeln sollen .
 1	Inzwischen	*	*	*	*
 2	ist	*	*	*	*
 3	die	*	*	*	*
@@ -2553,10 +2619,10 @@
 20	und	*	*	*	*
 21	Volksbewegungen	*	*	*	*
 22	,	*	*	*	*
-23	auf	2	2	2	2
+23	auf	FIG	FIG	FIG	FIG
 24	den	*	*	*	*
-25	Zug	2	2	2	2
-26	aufgesprungen	2	2	2	2
+25	Zug	FIG	FIG	FIG	FIG
+26	aufgesprungen	FIG	FIG	FIG	FIG
 27	und	*	*	*	*
 28	organisiert	*	*	*	*
 29	eine	*	*	*	*
@@ -2584,9 +2650,10 @@
 
 # tuepp_article_id = T931124.142
 # sent_id = 2393
+# text = Stattdessen stellte Elisabeth Hackstein fest , daß " die CDU auf einen Zug aufgesprungen sei , den die SPD schon längst angehalten " habe .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Stattdessen stellte Elisabeth Hackstein fest , daß " die CDU auf einen Zug aufgesprungen sei , den die SPD schon längst angehalten " habe .
 1	Stattdessen	*	*	*	*
 2	stellte	*	*	*	*
 3	Elisabeth	*	*	*	*
@@ -2597,10 +2664,10 @@
 8	"	*	*	*	*
 9	die	*	*	*	*
 10	CDU	*	*	*	*
-11	auf	2	2	2	2
+11	auf	FIG	FIG	FIG	FIG
 12	einen	*	*	*	*
-13	Zug	2	2	2	2
-14	aufgesprungen	2	2	2	2
+13	Zug	FIG	FIG	FIG	FIG
+14	aufgesprungen	FIG	FIG	FIG	FIG
 15	sei	*	*	*	*
 16	,	*	*	*	*
 17	den	*	*	*	*
@@ -2615,19 +2682,20 @@
 
 # tuepp_article_id = T931106.262
 # sent_id = 2394
+# text = Inzwischen sind auf den fahrenden Zug auch andere Emsfischer aufgesprungen : Nach der Regelung für die Ditzumer haben nun auch Emsfischer vom anderen Ufer aus Petkum Klage eingereicht .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Inzwischen sind auf den fahrenden Zug auch andere Emsfischer aufgesprungen : Nach der Regelung für die Ditzumer haben nun auch Emsfischer vom anderen Ufer aus Petkum Klage eingereicht .
 1	Inzwischen	*	*	*	*
 2	sind	*	*	*	*
-3	auf	2	2	2	2
+3	auf	FIG	FIG	FIG	FIG
 4	den	*	*	*	*
 5	fahrenden	*	*	*	*
-6	Zug	2	2	2	2
+6	Zug	FIG	FIG	FIG	FIG
 7	auch	*	*	*	*
 8	andere	*	*	*	*
 9	Emsfischer	*	*	*	*
-10	aufgesprungen	2	2	2	2
+10	aufgesprungen	FIG	FIG	FIG	FIG
 11	:	*	*	*	*
 12	Nach	*	*	*	*
 13	der	*	*	*	*
@@ -2650,9 +2718,10 @@
 
 # tuepp_article_id = T960525.261
 # sent_id = 2395
+# text = Doch auch die Bremer SPD ist jetzt auf den Zug aufgesprungen , entschied sich jedoch für die kleinere Lösung und forderte in einer Senatsanfrage einen " Sektenberater " auf einer mindestens halben Stelle .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch auch die Bremer SPD ist jetzt auf den Zug aufgesprungen , entschied sich jedoch für die kleinere Lösung und forderte in einer Senatsanfrage einen " Sektenberater " auf einer mindestens halben Stelle .
 1	Doch	*	*	*	*
 2	auch	*	*	*	*
 3	die	*	*	*	*
@@ -2660,10 +2729,10 @@
 5	SPD	*	*	*	*
 6	ist	*	*	*	*
 7	jetzt	*	*	*	*
-8	auf	2	2	2	2
+8	auf	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
-10	Zug	2	2	2	2
-11	aufgesprungen	2	2	2	2
+10	Zug	FIG	FIG	FIG	FIG
+11	aufgesprungen	FIG	FIG	FIG	FIG
 12	,	*	*	*	*
 13	entschied	*	*	*	*
 14	sich	*	*	*	*
@@ -2690,9 +2759,10 @@
 
 # tuepp_article_id = T960102.210
 # sent_id = 2396
+# text = Der " Römer " ist ebenfalls kürzlich mit seinem " Dark Paradise " ( jeden zweiten monatlichen Samstag ) auf den Zug in die Hölle aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der " Römer " ist ebenfalls kürzlich mit seinem " Dark Paradise " ( jeden zweiten monatlichen Samstag ) auf den Zug in die Hölle aufgesprungen .
 1	Der	*	*	*	*
 2	"	*	*	*	*
 3	Römer	*	*	*	*
@@ -2712,33 +2782,34 @@
 17	monatlichen	*	*	*	*
 18	Samstag	*	*	*	*
 19	)	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
-22	Zug	2	2	2	2
+22	Zug	FIG	FIG	FIG	FIG
 23	in	*	*	*	*
 24	die	*	*	*	*
 25	Hölle	*	*	*	*
-26	aufgesprungen	2	2	2	2
+26	aufgesprungen	FIG	FIG	FIG	FIG
 27	.	*	*	*	*
 
 # tuepp_article_id = T960119.68
 # sent_id = 2397
+# text = Weil die Union sich schwertut , auf den Zug Richtung ökologische Marktwirtschaft aufzuspringen , will die SPD sie notfalls mit einer Gegenleistung ködern : SPD-Zustimmung für die Änderung des Unternehmenssteuergesetzes .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Weil die Union sich schwertut , auf den Zug Richtung ökologische Marktwirtschaft aufzuspringen , will die SPD sie notfalls mit einer Gegenleistung ködern : SPD-Zustimmung für die Änderung des Unternehmenssteuergesetzes .
 1	Weil	*	*	*	*
 2	die	*	*	*	*
 3	Union	*	*	*	*
 4	sich	*	*	*	*
 5	schwertut	*	*	*	*
 6	,	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Zug	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
 10	Richtung	*	*	*	*
 11	ökologische	*	*	*	*
 12	Marktwirtschaft	*	*	*	*
-13	aufzuspringen	2	2	2	2
+13	aufzuspringen	FIG	FIG	FIG	FIG
 14	,	*	*	*	*
 15	will	*	*	*	*
 16	die	*	*	*	*
@@ -2760,9 +2831,10 @@
 
 # tuepp_article_id = T960729.235
 # sent_id = 2398
+# text = Ihm wurde vorgehalten , er sei nach den ersten Kassenschlagern des Produzenten Horst Wendlandt - darunter " Der Schatz im Silbersee " und " Winnetou " - nur auf den Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Ihm wurde vorgehalten , er sei nach den ersten Kassenschlagern des Produzenten Horst Wendlandt - darunter " Der Schatz im Silbersee " und " Winnetou " - nur auf den Zug aufgesprungen .
 1	Ihm	*	*	*	*
 2	wurde	*	*	*	*
 3	vorgehalten	*	*	*	*
@@ -2791,17 +2863,18 @@
 26	"	*	*	*	*
 27	-	*	*	*	*
 28	nur	*	*	*	*
-29	auf	2	2	2	2
+29	auf	FIG	FIG	FIG	FIG
 30	den	*	*	*	*
-31	Zug	2	2	2	2
-32	aufgesprungen	2	2	2	2
+31	Zug	FIG	FIG	FIG	FIG
+32	aufgesprungen	FIG	FIG	FIG	FIG
 33	.	*	*	*	*
 
 # tuepp_article_id = T960705.163
 # sent_id = 2399
+# text = Renton alias Rent Boy , in der Filmversion zur eigentlichen Hauptfigur erhoben , ist der organische Intellektuelle im Milieu : Er liest Kierkegaard , denkt über die Neighbourhood nach , schlägt sich mit Eltern , Sozialarbeitern und Reha-Programmen herum - mit dem Ergebnis , daß er immer öfter auf den Zug aufspringt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Renton alias Rent Boy , in der Filmversion zur eigentlichen Hauptfigur erhoben , ist der organische Intellektuelle im Milieu : Er liest Kierkegaard , denkt über die Neighbourhood nach , schlägt sich mit Eltern , Sozialarbeitern und Reha-Programmen herum - mit dem Ergebnis , daß er immer öfter auf den Zug aufspringt .
 1	Renton	*	*	*	*
 2	alias	*	*	*	*
 3	Rent	*	*	*	*
@@ -2850,27 +2923,28 @@
 46	er	*	*	*	*
 47	immer	*	*	*	*
 48	öfter	*	*	*	*
-49	auf	2	2	2	2
+49	auf	FIG	FIG	FIG	FIG
 50	den	*	*	*	*
-51	Zug	2	2	2	2
-52	aufspringt	2	2	2	2
+51	Zug	FIG	FIG	FIG	FIG
+52	aufspringt	FIG	FIG	FIG	FIG
 53	.	*	*	*	*
 
 # tuepp_article_id = T960824.269
 # sent_id = 2400
+# text = " Wir sind auf diesen Zug gar nicht erst aufgesprungen " , sagt Detlef Natusch von der Landesvertretung der Technikerkasse .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wir sind auf diesen Zug gar nicht erst aufgesprungen " , sagt Detlef Natusch von der Landesvertretung der Technikerkasse .
 1	"	*	*	*	*
 2	Wir	*	*	*	*
 3	sind	*	*	*	*
-4	auf	2	2	2	2
+4	auf	FIG	FIG	FIG	FIG
 5	diesen	*	*	*	*
-6	Zug	2	2	2	2
+6	Zug	FIG	FIG	FIG	FIG
 7	gar	*	*	*	*
 8	nicht	*	*	*	*
 9	erst	*	*	*	*
-10	aufgesprungen	2	2	2	2
+10	aufgesprungen	FIG	FIG	FIG	FIG
 11	"	*	*	*	*
 12	,	*	*	*	*
 13	sagt	*	*	*	*
@@ -2885,18 +2959,19 @@
 
 # tuepp_article_id = T960808.260
 # sent_id = 2401
+# text = Sogar die Bahn AG ist auf diesen Zug aufgesprungen : In einem GVZ-Masterplan , der inzwischen in zweiter Fassung vorliegt , hat sie sich 35 GVZ-Standorte in ganz Deutschland ausgeguckt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sogar die Bahn AG ist auf diesen Zug aufgesprungen : In einem GVZ-Masterplan , der inzwischen in zweiter Fassung vorliegt , hat sie sich 35 GVZ-Standorte in ganz Deutschland ausgeguckt .
 1	Sogar	*	*	*	*
 2	die	*	*	*	*
 3	Bahn	*	*	*	*
 4	AG	*	*	*	*
 5	ist	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	diesen	*	*	*	*
-8	Zug	2	2	2	2
-9	aufgesprungen	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
+9	aufgesprungen	FIG	FIG	FIG	FIG
 10	:	*	*	*	*
 11	In	*	*	*	*
 12	einem	*	*	*	*
@@ -2922,9 +2997,10 @@
 
 # tuepp_article_id = T960313.162
 # sent_id = 2402
+# text = Begriffsstutzigkeit als Waffe , als ein Mittel , sich erst mal alles in Ruhe anzuschauen , bevor auf den Zug aufgesprungen wird - also genau das , wofür wir die 3 1 / 2 LPs , die Tilman Rossmy mit seiner Band Die Regierung aufgenommen hat , immer geliebt haben .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Begriffsstutzigkeit als Waffe , als ein Mittel , sich erst mal alles in Ruhe anzuschauen , bevor auf den Zug aufgesprungen wird - also genau das , wofür wir die 3 1 / 2 LPs , die Tilman Rossmy mit seiner Band Die Regierung aufgenommen hat , immer geliebt haben .
 1	Begriffsstutzigkeit	*	*	*	*
 2	als	*	*	*	*
 3	Waffe	*	*	*	*
@@ -2942,10 +3018,10 @@
 15	anzuschauen	*	*	*	*
 16	,	*	*	*	*
 17	bevor	*	*	*	*
-18	auf	2	2	2	2
+18	auf	FIG	FIG	FIG	FIG
 19	den	*	*	*	*
-20	Zug	2	2	2	2
-21	aufgesprungen	2	2	2	2
+20	Zug	FIG	FIG	FIG	FIG
+21	aufgesprungen	FIG	FIG	FIG	FIG
 22	wird	*	*	*	*
 23	-	*	*	*	*
 24	also	*	*	*	*
@@ -2979,9 +3055,10 @@
 
 # tuepp_article_id = T961108.35
 # sent_id = 2403
+# text = Die offiziell vorgetragene Skepsis anderer Firmen sei Augenwischerei ; auf den Zug würden alle aufspringen , sobald die Zulassungen erteilt seien .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die offiziell vorgetragene Skepsis anderer Firmen sei Augenwischerei ; auf den Zug würden alle aufspringen , sobald die Zulassungen erteilt seien .
 1	Die	*	*	*	*
 2	offiziell	*	*	*	*
 3	vorgetragene	*	*	*	*
@@ -2991,12 +3068,12 @@
 7	sei	*	*	*	*
 8	Augenwischerei	*	*	*	*
 9	;	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Zug	2	2	2	2
+12	Zug	FIG	FIG	FIG	FIG
 13	würden	*	*	*	*
 14	alle	*	*	*	*
-15	aufspringen	2	2	2	2
+15	aufspringen	FIG	FIG	FIG	FIG
 16	,	*	*	*	*
 17	sobald	*	*	*	*
 18	die	*	*	*	*
@@ -3007,9 +3084,10 @@
 
 # tuepp_article_id = T960219.124
 # sent_id = 2404
+# text = Das wird dann zwar nicht leicht , aber wir sind es ja gewohnt , auf einen fahrenden Zug aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das wird dann zwar nicht leicht , aber wir sind es ja gewohnt , auf einen fahrenden Zug aufzuspringen .
 1	Das	*	*	*	*
 2	wird	*	*	*	*
 3	dann	*	*	*	*
@@ -3024,28 +3102,29 @@
 12	ja	*	*	*	*
 13	gewohnt	*	*	*	*
 14	,	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	einen	*	*	*	*
 17	fahrenden	*	*	*	*
-18	Zug	2	2	2	2
-19	aufzuspringen	2	2	2	2
+18	Zug	FIG	FIG	FIG	FIG
+19	aufzuspringen	FIG	FIG	FIG	FIG
 20	.	*	*	*	*
 
 # tuepp_article_id = T960202.112
 # sent_id = 2405
+# text = Daß bei diesem Aufstieg Trittbrettfahrer auf den grünen Zug aufgesprungen sind , denen die eigene Wohlfahrt wichtiger ist als die der Partei , will der Minister nicht in Abrede stellen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß bei diesem Aufstieg Trittbrettfahrer auf den grünen Zug aufgesprungen sind , denen die eigene Wohlfahrt wichtiger ist als die der Partei , will der Minister nicht in Abrede stellen .
 1	Daß	*	*	*	*
 2	bei	*	*	*	*
 3	diesem	*	*	*	*
 4	Aufstieg	*	*	*	*
 5	Trittbrettfahrer	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
 8	grünen	*	*	*	*
-9	Zug	2	2	2	2
-10	aufgesprungen	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
+10	aufgesprungen	FIG	FIG	FIG	FIG
 11	sind	*	*	*	*
 12	,	*	*	*	*
 13	denen	*	*	*	*
@@ -3070,9 +3149,10 @@
 
 # tuepp_article_id = T980612.420
 # sent_id = 2406
+# text = Um die zunehmend politisierte Zuschauerschaft an sich zu binden , ist auch der Kommerzfilm auf den fahrenden Zug aufgesprungen , allerdings auf die ihm eigene manichäische Weise .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Um die zunehmend politisierte Zuschauerschaft an sich zu binden , ist auch der Kommerzfilm auf den fahrenden Zug aufgesprungen , allerdings auf die ihm eigene manichäische Weise .
 1	Um	*	*	*	*
 2	die	*	*	*	*
 3	zunehmend	*	*	*	*
@@ -3087,11 +3167,11 @@
 12	auch	*	*	*	*
 13	der	*	*	*	*
 14	Kommerzfilm	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
 17	fahrenden	*	*	*	*
-18	Zug	2	2	2	2
-19	aufgesprungen	2	2	2	2
+18	Zug	FIG	FIG	FIG	FIG
+19	aufgesprungen	FIG	FIG	FIG	FIG
 20	,	*	*	*	*
 21	allerdings	*	*	*	*
 22	auf	*	*	*	*
@@ -3104,9 +3184,10 @@
 
 # tuepp_article_id = T981014.184
 # sent_id = 2407
+# text = " " Schönbohm hat nichts Besseres zu tun , als auf einen neuen Zug aufzuspringen , da sollte man doch vielleicht gleich eine größere Revision im Senat machen , wenn ein Nachfolger für Elmar Pieroth gewählt wird " , sagte ein anderes Vorstandsmitglied .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " " Schönbohm hat nichts Besseres zu tun , als auf einen neuen Zug aufzuspringen , da sollte man doch vielleicht gleich eine größere Revision im Senat machen , wenn ein Nachfolger für Elmar Pieroth gewählt wird " , sagte ein anderes Vorstandsmitglied .
 1	"	*	*	*	*
 2	"	*	*	*	*
 3	Schönbohm	*	*	*	*
@@ -3117,11 +3198,11 @@
 8	tun	*	*	*	*
 9	,	*	*	*	*
 10	als	*	*	*	*
-11	auf	2	2	2	2
+11	auf	FIG	FIG	FIG	FIG
 12	einen	*	*	*	*
 13	neuen	*	*	*	*
-14	Zug	2	2	2	2
-15	aufzuspringen	2	2	2	2
+14	Zug	FIG	FIG	FIG	FIG
+15	aufzuspringen	FIG	FIG	FIG	FIG
 16	,	*	*	*	*
 17	da	*	*	*	*
 18	sollte	*	*	*	*
@@ -3154,9 +3235,10 @@
 
 # tuepp_article_id = T980417.340
 # sent_id = 2408
+# text = Curiel aber hatte verstanden , daß die aufgestaute Forderung nach Unabhängigkeit zwangsläufig eine mächtige Dynamik enwickeln würde , daß man also auf den Zug aufspringen mußte , wenn man nicht unter die Räder geraten wollte .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Curiel aber hatte verstanden , daß die aufgestaute Forderung nach Unabhängigkeit zwangsläufig eine mächtige Dynamik enwickeln würde , daß man also auf den Zug aufspringen mußte , wenn man nicht unter die Räder geraten wollte .
 1	Curiel	*	*	*	*
 2	aber	*	*	*	*
 3	hatte	*	*	*	*
@@ -3178,10 +3260,10 @@
 19	daß	*	*	*	*
 20	man	*	*	*	*
 21	also	*	*	*	*
-22	auf	2	2	2	2
+22	auf	FIG	FIG	FIG	FIG
 23	den	*	*	*	*
-24	Zug	2	2	2	2
-25	aufspringen	2	2	2	2
+24	Zug	FIG	FIG	FIG	FIG
+25	aufspringen	FIG	FIG	FIG	FIG
 26	mußte	*	*	*	*
 27	,	*	*	*	*
 28	wenn	*	*	*	*
@@ -3196,9 +3278,10 @@
 
 # tuepp_article_id = T980415.5
 # sent_id = 2409
+# text = Da nichts klappte , mußten Schlagwörter her , wie Deutschland wird wieder High-Tech-Standort - ein Zug , auf den man auch in Bremen nur allzugerne aufgesprungen ist .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Da nichts klappte , mußten Schlagwörter her , wie Deutschland wird wieder High-Tech-Standort - ein Zug , auf den man auch in Bremen nur allzugerne aufgesprungen ist .
 1	Da	*	*	*	*
 2	nichts	*	*	*	*
 3	klappte	*	*	*	*
@@ -3214,7 +3297,7 @@
 13	High-Tech-Standort	*	*	*	*
 14	-	*	*	*	*
 15	ein	*	*	*	*
-16	Zug	2	2	2	2
+16	Zug	FIG	FIG	FIG	FIG
 17	,	*	*	*	*
 18	auf	*	*	*	*
 19	den	*	*	*	*
@@ -3224,15 +3307,16 @@
 23	Bremen	*	*	*	*
 24	nur	*	*	*	*
 25	allzugerne	*	*	*	*
-26	aufgesprungen	2	2	2	2
+26	aufgesprungen	FIG	FIG	FIG	FIG
 27	ist	*	*	*	*
 28	.	*	*	*	*
 
 # tuepp_article_id = T980414.254
 # sent_id = 2410
+# text = Seit Wochen dreschen die RedakteurInnen auf die Grünen ein , und nun , wo sich herausstellt , daß sie alle auf den ( in die falsche Richtung fahrenden ) Zug von Hintze aufgesprungen waren , haben sie nicht einmal den Mut , eine entsprechende " Richtigstellung " zu veröffentlichen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Seit Wochen dreschen die RedakteurInnen auf die Grünen ein , und nun , wo sich herausstellt , daß sie alle auf den ( in die falsche Richtung fahrenden ) Zug von Hintze aufgesprungen waren , haben sie nicht einmal den Mut , eine entsprechende " Richtigstellung " zu veröffentlichen .
 1	Seit	*	*	*	*
 2	Wochen	*	*	*	*
 3	dreschen	*	*	*	*
@@ -3253,7 +3337,7 @@
 18	daß	*	*	*	*
 19	sie	*	*	*	*
 20	alle	*	*	*	*
-21	auf	2	2	2	2
+21	auf	FIG	FIG	FIG	FIG
 22	den	*	*	*	*
 23	(	*	*	*	*
 24	in	*	*	*	*
@@ -3262,10 +3346,10 @@
 27	Richtung	*	*	*	*
 28	fahrenden	*	*	*	*
 29	)	*	*	*	*
-30	Zug	2	2	2	2
+30	Zug	FIG	FIG	FIG	FIG
 31	von	*	*	*	*
 32	Hintze	*	*	*	*
-33	aufgesprungen	2	2	2	2
+33	aufgesprungen	FIG	FIG	FIG	FIG
 34	waren	*	*	*	*
 35	,	*	*	*	*
 36	haben	*	*	*	*
@@ -3286,9 +3370,10 @@
 
 # tuepp_article_id = T980722.141
 # sent_id = 2411
+# text = Vor der Abfahrt aus Langenwang versuchte der rasende Wüterich noch , auf den abfahrenden Zug mit dem flüchtenden Zugbegleiter aufzuspringen , was ihm jedoch mißlang .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Vor der Abfahrt aus Langenwang versuchte der rasende Wüterich noch , auf den abfahrenden Zug mit dem flüchtenden Zugbegleiter aufzuspringen , was ihm jedoch mißlang .
 1	Vor	*	*	*	*
 2	der	*	*	*	*
 3	Abfahrt	*	*	*	*
@@ -3300,15 +3385,15 @@
 9	Wüterich	*	*	*	*
 10	noch	*	*	*	*
 11	,	*	*	*	*
-12	auf	1	1	1	1
+12	auf	LIT	LIT	LIT	LIT
 13	den	*	*	*	*
 14	abfahrenden	*	*	*	*
-15	Zug	1	1	1	1
+15	Zug	LIT	LIT	LIT	LIT
 16	mit	*	*	*	*
 17	dem	*	*	*	*
 18	flüchtenden	*	*	*	*
 19	Zugbegleiter	*	*	*	*
-20	aufzuspringen	1	1	1	1
+20	aufzuspringen	LIT	LIT	LIT	LIT
 21	,	*	*	*	*
 22	was	*	*	*	*
 23	ihm	*	*	*	*
@@ -3318,9 +3403,10 @@
 
 # tuepp_article_id = T980728.136
 # sent_id = 2412
+# text = Nach Ullrichs Massenwahn auslösender Parforcejagd über Alpen und Pyrenäen im letzten Jahr wollte die gebeutelte Anstalt aufspringen auf einen Zug mit Erfolgsgarantie , kaufte sich für fünf Millionen Mark als Sponsor beim Team Telekom ein und räumte Sendezeit frei wie sonst nur bei Fußball-WM oder Olympia .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nach Ullrichs Massenwahn auslösender Parforcejagd über Alpen und Pyrenäen im letzten Jahr wollte die gebeutelte Anstalt aufspringen auf einen Zug mit Erfolgsgarantie , kaufte sich für fünf Millionen Mark als Sponsor beim Team Telekom ein und räumte Sendezeit frei wie sonst nur bei Fußball-WM oder Olympia .
 1	Nach	*	*	*	*
 2	Ullrichs	*	*	*	*
 3	Massenwahn	*	*	*	*
@@ -3337,10 +3423,10 @@
 14	die	*	*	*	*
 15	gebeutelte	*	*	*	*
 16	Anstalt	*	*	*	*
-17	aufspringen	2	2	2	2
-18	auf	2	2	2	2
+17	aufspringen	FIG	FIG	FIG	FIG
+18	auf	FIG	FIG	FIG	FIG
 19	einen	*	*	*	*
-20	Zug	2	2	2	2
+20	Zug	FIG	FIG	FIG	FIG
 21	mit	*	*	*	*
 22	Erfolgsgarantie	*	*	*	*
 23	,	*	*	*	*
@@ -3371,9 +3457,10 @@
 
 # tuepp_article_id = T980803.161
 # sent_id = 2413
+# text = Senat und Bundesregierung müßten sich noch vor der Bundestagswahl am 27. September über die Finanzierung verständigen , forderte Dzembritzki im Privatsender Hundert , 6. Zu einem späteren Zeitpunkt wäre es nach Darstellung des SPD-Politkers " sehr schwierig , auf den Zug Fußball-Weltmeisterschaft aufzuspringen " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Senat und Bundesregierung müßten sich noch vor der Bundestagswahl am 27. September über die Finanzierung verständigen , forderte Dzembritzki im Privatsender Hundert , 6. Zu einem späteren Zeitpunkt wäre es nach Darstellung des SPD-Politkers " sehr schwierig , auf den Zug Fußball-Weltmeisterschaft aufzuspringen " .
 1	Senat	*	*	*	*
 2	und	*	*	*	*
 3	Bundesregierung	*	*	*	*
@@ -3414,25 +3501,26 @@
 38	sehr	*	*	*	*
 39	schwierig	*	*	*	*
 40	,	*	*	*	*
-41	auf	2	2	2	2
+41	auf	FIG	FIG	FIG	FIG
 42	den	*	*	*	*
-43	Zug	2	2	2	2
+43	Zug	FIG	FIG	FIG	FIG
 44	Fußball-Weltmeisterschaft	*	*	*	*
-45	aufzuspringen	2	2	2	2
+45	aufzuspringen	FIG	FIG	FIG	FIG
 46	"	*	*	*	*
 47	.	*	*	*	*
 
 # tuepp_article_id = T980801.55
 # sent_id = 2414
+# text = Auf diesen Zug nun wieder aufzuspringen - das wäre zu langweilig .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auf diesen Zug nun wieder aufzuspringen - das wäre zu langweilig .
-1	Auf	2	2	2	2
+1	Auf	FIG	FIG	FIG	FIG
 2	diesen	*	*	*	*
-3	Zug	2	2	2	2
+3	Zug	FIG	FIG	FIG	FIG
 4	nun	*	*	*	*
 5	wieder	*	*	*	*
-6	aufzuspringen	2	2	2	2
+6	aufzuspringen	FIG	FIG	FIG	FIG
 7	-	*	*	*	*
 8	das	*	*	*	*
 9	wäre	*	*	*	*
@@ -3442,9 +3530,10 @@
 
 # tuepp_article_id = T970516.80
 # sent_id = 2415
+# text = Und Länder wie Indien , Peru und Uganda sind in den vergangenen Jahren auf den Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und Länder wie Indien , Peru und Uganda sind in den vergangenen Jahren auf den Zug aufgesprungen .
 1	Und	*	*	*	*
 2	Länder	*	*	*	*
 3	wie	*	*	*	*
@@ -3458,33 +3547,35 @@
 11	den	*	*	*	*
 12	vergangenen	*	*	*	*
 13	Jahren	*	*	*	*
-14	auf	2	2	2	2
+14	auf	FIG	FIG	FIG	FIG
 15	den	*	*	*	*
-16	Zug	2	2	2	2
-17	aufgesprungen	2	2	2	2
+16	Zug	FIG	FIG	FIG	FIG
+17	aufgesprungen	FIG	FIG	FIG	FIG
 18	.	*	*	*	*
 
 # tuepp_article_id = T970628.115
 # sent_id = 2416
+# text = Längst ist die liberale Gesellschaft auf diesen Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Längst ist die liberale Gesellschaft auf diesen Zug aufgesprungen .
 1	Längst	*	*	*	*
 2	ist	*	*	*	*
 3	die	*	*	*	*
 4	liberale	*	*	*	*
 5	Gesellschaft	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	diesen	*	*	*	*
-8	Zug	2	2	2	2
-9	aufgesprungen	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
+9	aufgesprungen	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T970923.10
 # sent_id = 2417
+# text = Die Grünen sind ja in Hamburg auch notgedrungen auf den Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Grünen sind ja in Hamburg auch notgedrungen auf den Zug aufgesprungen .
 1	Die	*	*	*	*
 2	Grünen	*	*	*	*
 3	sind	*	*	*	*
@@ -3493,17 +3584,18 @@
 6	Hamburg	*	*	*	*
 7	auch	*	*	*	*
 8	notgedrungen	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
-11	Zug	2	2	2	2
-12	aufgesprungen	2	2	2	2
+11	Zug	FIG	FIG	FIG	FIG
+12	aufgesprungen	FIG	FIG	FIG	FIG
 13	.	*	*	*	*
 
 # tuepp_article_id = T970903.174
 # sent_id = 2418
+# text = Schlierer wörtlich : " Ich habe mit Genugtuung zur Kenntnis genommen , daß der Bürgermeister und sein Gegenkandidat auf unseren Zug aufgesprungen sind " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schlierer wörtlich : " Ich habe mit Genugtuung zur Kenntnis genommen , daß der Bürgermeister und sein Gegenkandidat auf unseren Zug aufgesprungen sind " .
 1	Schlierer	*	*	*	*
 2	wörtlich	*	*	*	*
 3	:	*	*	*	*
@@ -3522,27 +3614,28 @@
 16	und	*	*	*	*
 17	sein	*	*	*	*
 18	Gegenkandidat	*	*	*	*
-19	auf	2	2	2	2
+19	auf	FIG	FIG	FIG	FIG
 20	unseren	*	*	*	*
-21	Zug	2	2	2	2
-22	aufgesprungen	2	2	2	2
+21	Zug	FIG	FIG	FIG	FIG
+22	aufgesprungen	FIG	FIG	FIG	FIG
 23	sind	*	*	*	*
 24	"	*	*	*	*
 25	.	*	*	*	*
 
 # tuepp_article_id = T970908.53
 # sent_id = 2419
+# text = Daß das Wahlkämpferduo " auf unseren Zug aufgesprungen ist " , könne am 21. September , dem Wahltag , " nur dem Orginal zugute " kommen , prophezeite der Chef der Reps : " Und das sind wir .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß das Wahlkämpferduo " auf unseren Zug aufgesprungen ist " , könne am 21. September , dem Wahltag , " nur dem Orginal zugute " kommen , prophezeite der Chef der Reps : " Und das sind wir .
 1	Daß	*	*	*	*
 2	das	*	*	*	*
 3	Wahlkämpferduo	*	*	*	*
 4	"	*	*	*	*
-5	auf	2	2	2	2
+5	auf	FIG	FIG	FIG	FIG
 6	unseren	*	*	*	*
-7	Zug	2	2	2	2
-8	aufgesprungen	2	2	2	2
+7	Zug	FIG	FIG	FIG	FIG
+8	aufgesprungen	FIG	FIG	FIG	FIG
 9	ist	*	*	*	*
 10	"	*	*	*	*
 11	,	*	*	*	*
@@ -3578,9 +3671,10 @@
 
 # tuepp_article_id = T970925.336
 # sent_id = 2420
+# text = Der SPD bleibt nun nichts anderes übrig , als auf den Zug aufzuspringen , den die CDU ins Rollen brachte .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der SPD bleibt nun nichts anderes übrig , als auf den Zug aufzuspringen , den die CDU ins Rollen brachte .
 1	Der	*	*	*	*
 2	SPD	*	*	*	*
 3	bleibt	*	*	*	*
@@ -3590,10 +3684,10 @@
 7	übrig	*	*	*	*
 8	,	*	*	*	*
 9	als	*	*	*	*
-10	auf	2	2	2	2
+10	auf	FIG	FIG	FIG	FIG
 11	den	*	*	*	*
-12	Zug	2	2	2	2
-13	aufzuspringen	2	2	2	2
+12	Zug	FIG	FIG	FIG	FIG
+13	aufzuspringen	FIG	FIG	FIG	FIG
 14	,	*	*	*	*
 15	den	*	*	*	*
 16	die	*	*	*	*
@@ -3605,9 +3699,10 @@
 
 # tuepp_article_id = T970117.17
 # sent_id = 2421
+# text = Schon seit langem fordere die Opposition etwa den Abbau der Überstunden , nun sei auch Bundeskanzler Helmut Kohl plötzlich auf den Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schon seit langem fordere die Opposition etwa den Abbau der Überstunden , nun sei auch Bundeskanzler Helmut Kohl plötzlich auf den Zug aufgesprungen .
 1	Schon	*	*	*	*
 2	seit	*	*	*	*
 3	langem	*	*	*	*
@@ -3627,60 +3722,63 @@
 17	Helmut	*	*	*	*
 18	Kohl	*	*	*	*
 19	plötzlich	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	den	*	*	*	*
-22	Zug	2	2	2	2
-23	aufgesprungen	2	2	2	2
+22	Zug	FIG	FIG	FIG	FIG
+23	aufgesprungen	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T970818.146
 # sent_id = 2422
+# text = Andere Schreiber sind inzwischen auf den lukrativen Katzen- Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Andere Schreiber sind inzwischen auf den lukrativen Katzen- Zug aufgesprungen .
 1	Andere	*	*	*	*
 2	Schreiber	*	*	*	*
 3	sind	*	*	*	*
 4	inzwischen	*	*	*	*
-5	auf	2	2	2	2
+5	auf	FIG	FIG	FIG	FIG
 6	den	*	*	*	*
 7	lukrativen	*	*	*	*
 8	Katzen-	*	*	*	*
-9	Zug	2	2	2	2
-10	aufgesprungen	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
+10	aufgesprungen	FIG	FIG	FIG	FIG
 11	.	*	*	*	*
 
 # tuepp_article_id = T970217.231
 # sent_id = 2423
+# text = Landowsky war auf den Zug von Isolde Josipovici aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Landowsky war auf den Zug von Isolde Josipovici aufgesprungen .
 1	Landowsky	*	*	*	*
 2	war	*	*	*	*
-3	auf	2	2	2	2
+3	auf	FIG	FIG	FIG	FIG
 4	den	*	*	*	*
-5	Zug	2	2	2	2
+5	Zug	FIG	FIG	FIG	FIG
 6	von	*	*	*	*
 7	Isolde	*	*	*	*
 8	Josipovici	*	*	*	*
-9	aufgesprungen	2	2	2	2
+9	aufgesprungen	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T970205.169
 # sent_id = 2424
+# text = " Ich habe nicht vor , auf diesen Zug aufzuspringen " , versicherte er .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Ich habe nicht vor , auf diesen Zug aufzuspringen " , versicherte er .
 1	"	*	*	*	*
 2	Ich	*	*	*	*
 3	habe	*	*	*	*
 4	nicht	*	*	*	*
 5	vor	*	*	*	*
 6	,	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	diesen	*	*	*	*
-9	Zug	2	2	2	2
-10	aufzuspringen	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
+10	aufzuspringen	FIG	FIG	FIG	FIG
 11	"	*	*	*	*
 12	,	*	*	*	*
 13	versicherte	*	*	*	*
@@ -3689,9 +3787,10 @@
 
 # tuepp_article_id = T941028.253
 # sent_id = 2425
+# text = ) Natürlich ist Stone auch auf den Serial - Killer - Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = ) Natürlich ist Stone auch auf den Serial - Killer - Zug aufgesprungen .
 1	)	*	*	*	*
 2	Natürlich	*	*	*	*
 3	ist	*	*	*	*
@@ -3703,15 +3802,16 @@
 9	-	*	*	*	*
 10	Killer	*	*	*	*
 11	-	*	*	*	*
-12	Zug	2	2	2	2
-13	aufgesprungen	2	2	2	2
+12	Zug	FIG	FIG	FIG	FIG
+13	aufgesprungen	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T940902.261
 # sent_id = 2426
+# text = Volker Kröning , als Ex-Finanzsenator bei den BremerInnen bekannt wie gefürchtet , wird sich ranhalten müssen , um auf den Zug nach Bonn aufspringen zu können .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Volker Kröning , als Ex-Finanzsenator bei den BremerInnen bekannt wie gefürchtet , wird sich ranhalten müssen , um auf den Zug nach Bonn aufspringen zu können .
 1	Volker	*	*	*	*
 2	Kröning	*	*	*	*
 3	,	*	*	*	*
@@ -3730,21 +3830,22 @@
 16	müssen	*	*	*	*
 17	,	*	*	*	*
 18	um	*	*	*	*
-19	auf	2	2	2	2
+19	auf	FIG	FIG	FIG	FIG
 20	den	*	*	*	*
-21	Zug	2	2	2	2
+21	Zug	FIG	FIG	FIG	FIG
 22	nach	*	*	*	*
 23	Bonn	*	*	*	*
-24	aufspringen	2	2	2	2
+24	aufspringen	FIG	FIG	FIG	FIG
 25	zu	*	*	*	*
 26	können	*	*	*	*
 27	.	*	*	*	*
 
 # tuepp_article_id = T940903.10
 # sent_id = 2427
+# text = Auch Naturschutzorganisationen wie der World Wild Fund for Nature sind mittlerweile auf den Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auch Naturschutzorganisationen wie der World Wild Fund for Nature sind mittlerweile auf den Zug aufgesprungen .
 1	Auch	*	*	*	*
 2	Naturschutzorganisationen	*	*	*	*
 3	wie	*	*	*	*
@@ -3756,32 +3857,34 @@
 9	Nature	*	*	*	*
 10	sind	*	*	*	*
 11	mittlerweile	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
-14	Zug	2	2	2	2
-15	aufgesprungen	2	2	2	2
+14	Zug	FIG	FIG	FIG	FIG
+15	aufgesprungen	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T940901.248
 # sent_id = 2428
+# text = Auf den Zug wollen wir aber nicht aufspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Auf den Zug wollen wir aber nicht aufspringen .
-1	Auf	2	2	2	2
+1	Auf	FIG	FIG	FIG	FIG
 2	den	*	*	*	*
-3	Zug	2	2	2	2
+3	Zug	FIG	FIG	FIG	FIG
 4	wollen	*	*	*	*
 5	wir	*	*	*	*
 6	aber	*	*	*	*
 7	nicht	*	*	*	*
-8	aufspringen	2	2	2	2
+8	aufspringen	FIG	FIG	FIG	FIG
 9	.	*	*	*	*
 
 # tuepp_article_id = T940711.102
 # sent_id = 2429
+# text = Eine exklusive Modernität , die all diejenigen am Wegesrand stehenläßt , die nicht in der Lage sind , auf den Zug des Fortschritts aufzuspringen ?
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Eine exklusive Modernität , die all diejenigen am Wegesrand stehenläßt , die nicht in der Lage sind , auf den Zug des Fortschritts aufzuspringen ?
 1	Eine	*	*	*	*
 2	exklusive	*	*	*	*
 3	Modernität	*	*	*	*
@@ -3800,19 +3903,20 @@
 16	Lage	*	*	*	*
 17	sind	*	*	*	*
 18	,	*	*	*	*
-19	auf	2	2	2	2
+19	auf	FIG	FIG	FIG	FIG
 20	den	*	*	*	*
-21	Zug	2	2	2	2
+21	Zug	FIG	FIG	FIG	FIG
 22	des	*	*	*	*
 23	Fortschritts	*	*	*	*
-24	aufzuspringen	2	2	2	2
+24	aufzuspringen	FIG	FIG	FIG	FIG
 25	?	*	*	*	*
 
 # tuepp_article_id = T941202.116
 # sent_id = 2430
+# text = General Levy , ein Ragga-Star , der " auf den Zug aufgesprungen ist " und mit dem Titel " Incredible " die Top 10 gestürmt hat , dessen Erfolg viele der Hürden , die dem Jungle von den Medien , den offiziellen Radiosendern und sogar von MTV errichtet worden waren , abgebaut hat - dieser General Levy hat sich das Recht herausgenommen , sich als " König des Jungle " zu präsentieren .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = General Levy , ein Ragga-Star , der " auf den Zug aufgesprungen ist " und mit dem Titel " Incredible " die Top 10 gestürmt hat , dessen Erfolg viele der Hürden , die dem Jungle von den Medien , den offiziellen Radiosendern und sogar von MTV errichtet worden waren , abgebaut hat - dieser General Levy hat sich das Recht herausgenommen , sich als " König des Jungle " zu präsentieren .
 1	General	*	*	*	*
 2	Levy	*	*	*	*
 3	,	*	*	*	*
@@ -3821,10 +3925,10 @@
 6	,	*	*	*	*
 7	der	*	*	*	*
 8	"	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
-11	Zug	2	2	2	2
-12	aufgesprungen	2	2	2	2
+11	Zug	FIG	FIG	FIG	FIG
+12	aufgesprungen	FIG	FIG	FIG	FIG
 13	ist	*	*	*	*
 14	"	*	*	*	*
 15	und	*	*	*	*
@@ -3889,9 +3993,10 @@
 
 # tuepp_article_id = T941118.114
 # sent_id = 2431
+# text = " Jetzt muß man sehen , wer auf diesen Zug aufspringt " , mimt von Stahl Gelassenheit , nachdem die gesamte FDP-Spitze seine nationalliberalen Ideen verschmäht hat .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Jetzt muß man sehen , wer auf diesen Zug aufspringt " , mimt von Stahl Gelassenheit , nachdem die gesamte FDP-Spitze seine nationalliberalen Ideen verschmäht hat .
 1	"	*	*	*	*
 2	Jetzt	*	*	*	*
 3	muß	*	*	*	*
@@ -3899,10 +4004,10 @@
 5	sehen	*	*	*	*
 6	,	*	*	*	*
 7	wer	*	*	*	*
-8	auf	2	2	2	2
+8	auf	FIG	FIG	FIG	FIG
 9	diesen	*	*	*	*
-10	Zug	2	2	2	2
-11	aufspringt	2	2	2	2
+10	Zug	FIG	FIG	FIG	FIG
+11	aufspringt	FIG	FIG	FIG	FIG
 12	"	*	*	*	*
 13	,	*	*	*	*
 14	mimt	*	*	*	*
@@ -3923,9 +4028,10 @@
 
 # tuepp_article_id = T940216.217
 # sent_id = 2432
+# text = " Wissen Sie , wir dachten uns , die taz hat da schon drüber geschrieben , die wird ja auf diesen Zug sowieso nicht aufspringen !
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wissen Sie , wir dachten uns , die taz hat da schon drüber geschrieben , die wird ja auf diesen Zug sowieso nicht aufspringen !
 1	"	*	*	*	*
 2	Wissen	*	*	*	*
 3	Sie	*	*	*	*
@@ -3945,19 +4051,20 @@
 17	die	*	*	*	*
 18	wird	*	*	*	*
 19	ja	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	diesen	*	*	*	*
-22	Zug	2	2	2	2
+22	Zug	FIG	FIG	FIG	FIG
 23	sowieso	*	*	*	*
 24	nicht	*	*	*	*
-25	aufspringen	2	2	2	2
+25	aufspringen	FIG	FIG	FIG	FIG
 26	!	*	*	*	*
 
 # tuepp_article_id = T950526.38
 # sent_id = 2433
+# text = Nicht zuletzt auf Druck von Matthiesen hat hier die SPD-Landesregierung die energie- und umweltpolitischen Weichen kurz vor der Wahl so falsch gestellt , daß die Grünen auf diesen Zug definitiv nicht aufspringen können .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nicht zuletzt auf Druck von Matthiesen hat hier die SPD-Landesregierung die energie- und umweltpolitischen Weichen kurz vor der Wahl so falsch gestellt , daß die Grünen auf diesen Zug definitiv nicht aufspringen können .
 1	Nicht	*	*	*	*
 2	zuletzt	*	*	*	*
 3	auf	*	*	*	*
@@ -3984,20 +4091,21 @@
 24	daß	*	*	*	*
 25	die	*	*	*	*
 26	Grünen	*	*	*	*
-27	auf	2	2	2	2
+27	auf	FIG	FIG	FIG	FIG
 28	diesen	*	*	*	*
-29	Zug	2	2	2	2
+29	Zug	FIG	FIG	FIG	FIG
 30	definitiv	*	*	*	*
 31	nicht	*	*	*	*
-32	aufspringen	2	2	2	2
+32	aufspringen	FIG	FIG	FIG	FIG
 33	können	*	*	*	*
 34	.	*	*	*	*
 
 # tuepp_article_id = T950517.54
 # sent_id = 2434
+# text = Hier hat die SPD-Landesregierung mit der Genehmigung von Garzweiler II kurz vor der Wahl die Weichen so gestellt , daß die Grünen auf diesen Zug definitiv nicht aufspringen können .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hier hat die SPD-Landesregierung mit der Genehmigung von Garzweiler II kurz vor der Wahl die Weichen so gestellt , daß die Grünen auf diesen Zug definitiv nicht aufspringen können .
 1	Hier	*	*	*	*
 2	hat	*	*	*	*
 3	die	*	*	*	*
@@ -4020,20 +4128,21 @@
 20	daß	*	*	*	*
 21	die	*	*	*	*
 22	Grünen	*	*	*	*
-23	auf	2	2	2	2
+23	auf	FIG	FIG	FIG	FIG
 24	diesen	*	*	*	*
-25	Zug	2	2	2	2
+25	Zug	FIG	FIG	FIG	FIG
 26	definitiv	*	*	*	*
 27	nicht	*	*	*	*
-28	aufspringen	2	2	2	2
+28	aufspringen	FIG	FIG	FIG	FIG
 29	können	*	*	*	*
 30	.	*	*	*	*
 
 # tuepp_article_id = T950614.99
 # sent_id = 2435
+# text = Die Kampagne gegen die Versenkung der Ölplattform Brent Spar schlägt vor allem in Deutschland derart ein , daß sogar konservative PolitikerInnen , von Umweltministerin Angela Merkel über FDP-Generalsekretär Guido Westerwelle bis zu CSU-Chef Theo Waigel , auf den fahrenden Zug - oder sollte man sagen : die schwimmende Plattform - aufspringen und gegen die Versenkung der Sondermülldeponie zu Wasser protestieren .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Kampagne gegen die Versenkung der Ölplattform Brent Spar schlägt vor allem in Deutschland derart ein , daß sogar konservative PolitikerInnen , von Umweltministerin Angela Merkel über FDP-Generalsekretär Guido Westerwelle bis zu CSU-Chef Theo Waigel , auf den fahrenden Zug - oder sollte man sagen : die schwimmende Plattform - aufspringen und gegen die Versenkung der Sondermülldeponie zu Wasser protestieren .
 1	Die	*	*	*	*
 2	Kampagne	*	*	*	*
 3	gegen	*	*	*	*
@@ -4070,10 +4179,10 @@
 34	Theo	*	*	*	*
 35	Waigel	*	*	*	*
 36	,	*	*	*	*
-37	auf	2	2	2	2
+37	auf	FIG	FIG	FIG	FIG
 38	den	*	*	*	*
 39	fahrenden	*	*	*	*
-40	Zug	2	2	2	2
+40	Zug	FIG	FIG	FIG	FIG
 41	-	*	*	*	*
 42	oder	*	*	*	*
 43	sollte	*	*	*	*
@@ -4084,7 +4193,7 @@
 48	schwimmende	*	*	*	*
 49	Plattform	*	*	*	*
 50	-	*	*	*	*
-51	aufspringen	2	2	2	2
+51	aufspringen	FIG	FIG	FIG	FIG
 52	und	*	*	*	*
 53	gegen	*	*	*	*
 54	die	*	*	*	*
@@ -4098,9 +4207,10 @@
 
 # tuepp_article_id = T951025.5
 # sent_id = 2436
+# text = Wie schon bei der Anti-Shell-Kampagne ist sie auf den fahrenden Zug aufgesprungen , um ihre Fahne hochzuhalten .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Wie schon bei der Anti-Shell-Kampagne ist sie auf den fahrenden Zug aufgesprungen , um ihre Fahne hochzuhalten .
 1	Wie	*	*	*	*
 2	schon	*	*	*	*
 3	bei	*	*	*	*
@@ -4108,11 +4218,11 @@
 5	Anti-Shell-Kampagne	*	*	*	*
 6	ist	*	*	*	*
 7	sie	*	*	*	*
-8	auf	2	2	2	2
+8	auf	FIG	FIG	FIG	FIG
 9	den	*	*	*	*
 10	fahrenden	*	*	*	*
-11	Zug	2	2	2	2
-12	aufgesprungen	2	2	2	2
+11	Zug	FIG	FIG	FIG	FIG
+12	aufgesprungen	FIG	FIG	FIG	FIG
 13	,	*	*	*	*
 14	um	*	*	*	*
 15	ihre	*	*	*	*
@@ -4122,9 +4232,10 @@
 
 # tuepp_article_id = T950131.112
 # sent_id = 2437
+# text = Der Bürgermeister von Bayrischzell wäre sicher besser beraten , wenn er den Groll gegen den Lärcher begrübe und schnell auf dessen Zug aufspränge .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Bürgermeister von Bayrischzell wäre sicher besser beraten , wenn er den Groll gegen den Lärcher begrübe und schnell auf dessen Zug aufspränge .
 1	Der	*	*	*	*
 2	Bürgermeister	*	*	*	*
 3	von	*	*	*	*
@@ -4144,33 +4255,34 @@
 17	begrübe	*	*	*	*
 18	und	*	*	*	*
 19	schnell	*	*	*	*
-20	auf	2	2	2	2
+20	auf	FIG	FIG	FIG	FIG
 21	dessen	*	*	*	*
-22	Zug	2	2	2	2
-23	aufspränge	2	2	2	2
+22	Zug	FIG	FIG	FIG	FIG
+23	aufspränge	FIG	FIG	FIG	FIG
 24	.	*	*	*	*
 
 # tuepp_article_id = T950119.278
 # sent_id = 2438
+# text = Alle , die zu spät auf den sich in rasender Geschwindigkeit befindenden Zug der Quentin-Tarantino-Begeisterung aufgesprungen sind , können jetzt Versäumtes nachholen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Alle , die zu spät auf den sich in rasender Geschwindigkeit befindenden Zug der Quentin-Tarantino-Begeisterung aufgesprungen sind , können jetzt Versäumtes nachholen .
 1	Alle	*	*	*	*
 2	,	*	*	*	*
 3	die	*	*	*	*
 4	zu	*	*	*	*
 5	spät	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
 8	sich	*	*	*	*
 9	in	*	*	*	*
 10	rasender	*	*	*	*
 11	Geschwindigkeit	*	*	*	*
 12	befindenden	*	*	*	*
-13	Zug	2	2	2	2
+13	Zug	FIG	FIG	FIG	FIG
 14	der	*	*	*	*
 15	Quentin-Tarantino-Begeisterung	*	*	*	*
-16	aufgesprungen	2	2	2	2
+16	aufgesprungen	FIG	FIG	FIG	FIG
 17	sind	*	*	*	*
 18	,	*	*	*	*
 19	können	*	*	*	*
@@ -4181,9 +4293,10 @@
 
 # tuepp_article_id = T950102.126
 # sent_id = 2439
+# text = Das jüngste Beispiel dafür ist , wie wenig die Linke aus dem über alle Erwartungen gelungenen Generalstreik von Mitte Oktober zu machen wußte - während der aus der Zentrumspartei ( eine Art italienische CSU ) stammende Arbeitsminister Mastella sofort auf den Zug aufsprang und nun hauptsächlicher Vermittler zu den Gewerkschaften ist .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das jüngste Beispiel dafür ist , wie wenig die Linke aus dem über alle Erwartungen gelungenen Generalstreik von Mitte Oktober zu machen wußte - während der aus der Zentrumspartei ( eine Art italienische CSU ) stammende Arbeitsminister Mastella sofort auf den Zug aufsprang und nun hauptsächlicher Vermittler zu den Gewerkschaften ist .
 1	Das	*	*	*	*
 2	jüngste	*	*	*	*
 3	Beispiel	*	*	*	*
@@ -4223,10 +4336,10 @@
 37	Arbeitsminister	*	*	*	*
 38	Mastella	*	*	*	*
 39	sofort	*	*	*	*
-40	auf	2	2	2	2
+40	auf	FIG	FIG	FIG	FIG
 41	den	*	*	*	*
-42	Zug	2	2	2	2
-43	aufsprang	2	2	2	2
+42	Zug	FIG	FIG	FIG	FIG
+43	aufsprang	FIG	FIG	FIG	FIG
 44	und	*	*	*	*
 45	nun	*	*	*	*
 46	hauptsächlicher	*	*	*	*
@@ -4239,9 +4352,10 @@
 
 # tuepp_article_id = T950407.102
 # sent_id = 2440
+# text = Für manche Besucherin war das Anreiz genug , doch noch auf den internationalen Konferenz- Zug aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Für manche Besucherin war das Anreiz genug , doch noch auf den internationalen Konferenz- Zug aufzuspringen .
 1	Für	*	*	*	*
 2	manche	*	*	*	*
 3	Besucherin	*	*	*	*
@@ -4252,29 +4366,30 @@
 8	,	*	*	*	*
 9	doch	*	*	*	*
 10	noch	*	*	*	*
-11	auf	2	2	2	2
+11	auf	FIG	FIG	FIG	FIG
 12	den	*	*	*	*
 13	internationalen	*	*	*	*
 14	Konferenz-	*	*	*	*
-15	Zug	2	2	2	2
-16	aufzuspringen	2	2	2	2
+15	Zug	FIG	FIG	FIG	FIG
+16	aufzuspringen	FIG	FIG	FIG	FIG
 17	.	*	*	*	*
 
 # tuepp_article_id = T950718.156
 # sent_id = 2441
+# text = Dabei ist es viel leichter , auf einen Zug aufzuspringen , wenn er gerade erst angefahren ist .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Dabei ist es viel leichter , auf einen Zug aufzuspringen , wenn er gerade erst angefahren ist .
 1	Dabei	*	*	*	*
 2	ist	*	*	*	*
 3	es	*	*	*	*
 4	viel	*	*	*	*
 5	leichter	*	*	*	*
 6	,	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	einen	*	*	*	*
-9	Zug	2	2	2	2
-10	aufzuspringen	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
+10	aufzuspringen	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	wenn	*	*	*	*
 13	er	*	*	*	*
@@ -4286,9 +4401,10 @@
 
 # tuepp_article_id = T950729.123
 # sent_id = 2442
+# text = Immerhin sind inzwischen selbst ehemals " hart " denkende Tourismusmacher wie der Fremdenverkehrsobmann Gabriel Obernosterer auf den " sanften " Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Immerhin sind inzwischen selbst ehemals " hart " denkende Tourismusmacher wie der Fremdenverkehrsobmann Gabriel Obernosterer auf den " sanften " Zug aufgesprungen .
 1	Immerhin	*	*	*	*
 2	sind	*	*	*	*
 3	inzwischen	*	*	*	*
@@ -4304,20 +4420,21 @@
 13	Fremdenverkehrsobmann	*	*	*	*
 14	Gabriel	*	*	*	*
 15	Obernosterer	*	*	*	*
-16	auf	2	2	2	2
+16	auf	FIG	FIG	FIG	FIG
 17	den	*	*	*	*
 18	"	*	*	*	*
 19	sanften	*	*	*	*
 20	"	*	*	*	*
-21	Zug	2	2	2	2
-22	aufgesprungen	2	2	2	2
+21	Zug	FIG	FIG	FIG	FIG
+22	aufgesprungen	FIG	FIG	FIG	FIG
 23	.	*	*	*	*
 
 # tuepp_article_id = T951223.301
 # sent_id = 2443
+# text = Daß dieses Buch erst jetzt auf den Markt kommt , als das Jubiläumsjahr fast vorüber ist , liegt an der ambitiösen Absicht des Verlages , gleich auf den Zug der Zeit aufzuspringen und ein Multi-Media-Buch vorzulegen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Daß dieses Buch erst jetzt auf den Markt kommt , als das Jubiläumsjahr fast vorüber ist , liegt an der ambitiösen Absicht des Verlages , gleich auf den Zug der Zeit aufzuspringen und ein Multi-Media-Buch vorzulegen .
 1	Daß	*	*	*	*
 2	dieses	*	*	*	*
 3	Buch	*	*	*	*
@@ -4344,12 +4461,12 @@
 24	Verlages	*	*	*	*
 25	,	*	*	*	*
 26	gleich	*	*	*	*
-27	auf	2	2	2	2
+27	auf	FIG	FIG	FIG	FIG
 28	den	*	*	*	*
-29	Zug	2	2	2	2
+29	Zug	FIG	FIG	FIG	FIG
 30	der	*	*	*	*
 31	Zeit	*	*	*	*
-32	aufzuspringen	2	2	2	2
+32	aufzuspringen	FIG	FIG	FIG	FIG
 33	und	*	*	*	*
 34	ein	*	*	*	*
 35	Multi-Media-Buch	*	*	*	*
@@ -4358,26 +4475,28 @@
 
 # tuepp_article_id = T950815.187
 # sent_id = 2444
+# text = Nun ist auch Linksdemokratenchef Massimo D'Alema auf den Zug aufgesprungen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nun ist auch Linksdemokratenchef Massimo D'Alema auf den Zug aufgesprungen .
 1	Nun	*	*	*	*
 2	ist	*	*	*	*
 3	auch	*	*	*	*
 4	Linksdemokratenchef	*	*	*	*
 5	Massimo	*	*	*	*
 6	D'Alema	*	*	*	*
-7	auf	2	2	2	2
+7	auf	FIG	FIG	FIG	FIG
 8	den	*	*	*	*
-9	Zug	2	2	2	2
-10	aufgesprungen	2	2	2	2
+9	Zug	FIG	FIG	FIG	FIG
+10	aufgesprungen	FIG	FIG	FIG	FIG
 11	.	*	*	*	*
 
 # tuepp_article_id = T950802.231
 # sent_id = 2445
+# text = Voscherau und Runde muß man zugute halten , daß sie nicht auf den wahltaktischen Zug von CDU und SPD aufgesprungen sind .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Voscherau und Runde muß man zugute halten , daß sie nicht auf den wahltaktischen Zug von CDU und SPD aufgesprungen sind .
 1	Voscherau	*	*	*	*
 2	und	*	*	*	*
 3	Runde	*	*	*	*
@@ -4389,23 +4508,24 @@
 9	daß	*	*	*	*
 10	sie	*	*	*	*
 11	nicht	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
 14	wahltaktischen	*	*	*	*
-15	Zug	2	2	2	2
+15	Zug	FIG	FIG	FIG	FIG
 16	von	*	*	*	*
 17	CDU	*	*	*	*
 18	und	*	*	*	*
 19	SPD	*	*	*	*
-20	aufgesprungen	2	2	2	2
+20	aufgesprungen	FIG	FIG	FIG	FIG
 21	sind	*	*	*	*
 22	.	*	*	*	*
 
 # tuepp_article_id = T950811.419
 # sent_id = 2446
+# text = Von der Schiene auf die Straße ; statt auf den Zug des neuen Umweltbewußtseins der Wirtschaft aufzuspringen , macht die Post es umgekehrt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Von der Schiene auf die Straße ; statt auf den Zug des neuen Umweltbewußtseins der Wirtschaft aufzuspringen , macht die Post es umgekehrt .
 1	Von	*	*	*	*
 2	der	*	*	*	*
 3	Schiene	*	*	*	*
@@ -4414,15 +4534,15 @@
 6	Straße	*	*	*	*
 7	;	*	*	*	*
 8	statt	*	*	*	*
-9	auf	2	2	2	2
+9	auf	FIG	FIG	FIG	FIG
 10	den	*	*	*	*
-11	Zug	2	2	2	2
+11	Zug	FIG	FIG	FIG	FIG
 12	des	*	*	*	*
 13	neuen	*	*	*	*
 14	Umweltbewußtseins	*	*	*	*
 15	der	*	*	*	*
 16	Wirtschaft	*	*	*	*
-17	aufzuspringen	2	2	2	2
+17	aufzuspringen	FIG	FIG	FIG	FIG
 18	,	*	*	*	*
 19	macht	*	*	*	*
 20	die	*	*	*	*
@@ -4433,9 +4553,10 @@
 
 # tuepp_article_id = T950302.304
 # sent_id = 2447
+# text = Der Statt Partei warf Mahr vor , mit ihrem neuen Vorsitzenden Achim Reichert " auf den populistischen Zug innere Sicherheit aufzuspringen " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Statt Partei warf Mahr vor , mit ihrem neuen Vorsitzenden Achim Reichert " auf den populistischen Zug innere Sicherheit aufzuspringen " .
 1	Der	*	*	*	*
 2	Statt	*	*	*	*
 3	Partei	*	*	*	*
@@ -4450,21 +4571,22 @@
 12	Achim	*	*	*	*
 13	Reichert	*	*	*	*
 14	"	*	*	*	*
-15	auf	2	2	2	2
+15	auf	FIG	FIG	FIG	FIG
 16	den	*	*	*	*
 17	populistischen	*	*	*	*
-18	Zug	2	2	2	2
+18	Zug	FIG	FIG	FIG	FIG
 19	innere	*	*	*	*
 20	Sicherheit	*	*	*	*
-21	aufzuspringen	2	2	2	2
+21	aufzuspringen	FIG	FIG	FIG	FIG
 22	"	*	*	*	*
 23	.	*	*	*	*
 
 # tuepp_article_id = T950216.269
 # sent_id = 2448
+# text = Warum etwa sollte ein Könner in der größer und größer gewordenen Welle der Singer / Songwriter aus San Francisco spurlos untergehen , nur weil er nicht rechtzeitig vor zwei Jahren auf den Zug aufsprang , sondern sich die Zeit nahm , seine Songs zu entwickeln , die er brauchte ?
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Warum etwa sollte ein Könner in der größer und größer gewordenen Welle der Singer / Songwriter aus San Francisco spurlos untergehen , nur weil er nicht rechtzeitig vor zwei Jahren auf den Zug aufsprang , sondern sich die Zeit nahm , seine Songs zu entwickeln , die er brauchte ?
 1	Warum	*	*	*	*
 2	etwa	*	*	*	*
 3	sollte	*	*	*	*
@@ -4495,10 +4617,10 @@
 28	vor	*	*	*	*
 29	zwei	*	*	*	*
 30	Jahren	*	*	*	*
-31	auf	2	2	2	2
+31	auf	FIG	FIG	FIG	FIG
 32	den	*	*	*	*
-33	Zug	2	2	2	2
-34	aufsprang	2	2	2	2
+33	Zug	FIG	FIG	FIG	FIG
+34	aufsprang	FIG	FIG	FIG	FIG
 35	,	*	*	*	*
 36	sondern	*	*	*	*
 37	sich	*	*	*	*
@@ -4518,9 +4640,10 @@
 
 # tuepp_article_id = T950203.27
 # sent_id = 2449
+# text = Während sich der Berliner Regierende Bürgermeister Eberhard Diepgen noch beeilte , auf den fahrenden Zug aufzuspringen , indem auch er eine Reform der ARD anmahnte , signalisierten Edmund Stoiber ( CSU ) und Kurt Biedenkopf ( CDU ) unterdes erstmals Kompromißbereitschaft : Im Streit um die ARD sei es nötig , so Stoiber , " zu einem Konsens zu kommen , wohl auch zu einem Kompromiß " .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Während sich der Berliner Regierende Bürgermeister Eberhard Diepgen noch beeilte , auf den fahrenden Zug aufzuspringen , indem auch er eine Reform der ARD anmahnte , signalisierten Edmund Stoiber ( CSU ) und Kurt Biedenkopf ( CDU ) unterdes erstmals Kompromißbereitschaft : Im Streit um die ARD sei es nötig , so Stoiber , " zu einem Konsens zu kommen , wohl auch zu einem Kompromiß " .
 1	Während	*	*	*	*
 2	sich	*	*	*	*
 3	der	*	*	*	*
@@ -4532,11 +4655,11 @@
 9	noch	*	*	*	*
 10	beeilte	*	*	*	*
 11	,	*	*	*	*
-12	auf	2	2	2	2
+12	auf	FIG	FIG	FIG	FIG
 13	den	*	*	*	*
 14	fahrenden	*	*	*	*
-15	Zug	2	2	2	2
-16	aufzuspringen	2	2	2	2
+15	Zug	FIG	FIG	FIG	FIG
+16	aufzuspringen	FIG	FIG	FIG	FIG
 17	,	*	*	*	*
 18	indem	*	*	*	*
 19	auch	*	*	*	*
@@ -4592,9 +4715,10 @@
 
 # tuepp_article_id = T950206.239
 # sent_id = 2450
+# text = So sehr ich die taz schätze , ja liebe , so sehr geht mir auf den Geist , wie schnell ihr in Eurem Bemühen um Randgruppen unkritisch auf jeden Zug aufspringt .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = So sehr ich die taz schätze , ja liebe , so sehr geht mir auf den Geist , wie schnell ihr in Eurem Bemühen um Randgruppen unkritisch auf jeden Zug aufspringt .
 1	So	*	*	*	*
 2	sehr	*	*	*	*
 3	ich	*	*	*	*
@@ -4622,17 +4746,18 @@
 25	um	*	*	*	*
 26	Randgruppen	*	*	*	*
 27	unkritisch	*	*	*	*
-28	auf	2	2	2	2
+28	auf	FIG	FIG	FIG	FIG
 29	jeden	*	*	*	*
-30	Zug	2	2	2	2
-31	aufspringt	2	2	2	2
+30	Zug	FIG	FIG	FIG	FIG
+31	aufspringt	FIG	FIG	FIG	FIG
 32	.	*	*	*	*
 
 # tuepp_article_id = T950213.170
 # sent_id = 2451
+# text = Christa Wolf ist in Ungnade gefallen , da lohnt es sich , auch auf den längst schon abgefahrenen Zug aufzuspringen .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Christa Wolf ist in Ungnade gefallen , da lohnt es sich , auch auf den längst schon abgefahrenen Zug aufzuspringen .
 1	Christa	*	*	*	*
 2	Wolf	*	*	*	*
 3	ist	*	*	*	*
@@ -4646,30 +4771,31 @@
 11	sich	*	*	*	*
 12	,	*	*	*	*
 13	auch	*	*	*	*
-14	auf	2	2	2	2
+14	auf	FIG	FIG	FIG	FIG
 15	den	*	*	*	*
 16	längst	*	*	*	*
 17	schon	*	*	*	*
 18	abgefahrenen	*	*	*	*
-19	Zug	2	2	2	2
-20	aufzuspringen	2	2	2	2
+19	Zug	FIG	FIG	FIG	FIG
+20	aufzuspringen	FIG	FIG	FIG	FIG
 21	.	*	*	*	*
 
 # tuepp_article_id = T990111.158
 # sent_id = 2452
+# text = " Wenn die RND nicht auf den Zug Bouteflikas aufspringt , wird sie von der politischen Szene verschwinden " , begründet einer der Vertreter der Abtrünnigen im Nationalrat ihre Position .
+# vid_types = auf zug aufspringen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wenn die RND nicht auf den Zug Bouteflikas aufspringt , wird sie von der politischen Szene verschwinden " , begründet einer der Vertreter der Abtrünnigen im Nationalrat ihre Position .
 1	"	*	*	*	*
 2	Wenn	*	*	*	*
 3	die	*	*	*	*
 4	RND	*	*	*	*
 5	nicht	*	*	*	*
-6	auf	2	2	2	2
+6	auf	FIG	FIG	FIG	FIG
 7	den	*	*	*	*
-8	Zug	2	2	2	2
+8	Zug	FIG	FIG	FIG	FIG
 9	Bouteflikas	*	*	*	*
-10	aufspringt	2	2	2	2
+10	aufspringt	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	wird	*	*	*	*
 13	sie	*	*	*	*

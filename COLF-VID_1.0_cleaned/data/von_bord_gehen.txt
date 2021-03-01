@@ -1,8 +1,9 @@
 # tuepp_article_id = T890102.143
 # sent_id = 5435
+# text = Deshalb also ließ ich Emin Beys Mantelärmel nicht mehr los , als wir endlich von Bord gingen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Deshalb also ließ ich Emin Beys Mantelärmel nicht mehr los , als wir endlich von Bord gingen .
 1	Deshalb	*	*	*	*
 2	also	*	*	*	*
 3	ließ	*	*	*	*
@@ -17,24 +18,25 @@
 12	als	*	*	*	*
 13	wir	*	*	*	*
 14	endlich	*	*	*	*
-15	von	1	1	1	1
-16	Bord	1	1	1	1
-17	gingen	1	1	1	1
+15	von	LIT	LIT	LIT	LIT
+16	Bord	LIT	LIT	LIT	LIT
+17	gingen	LIT	LIT	LIT	LIT
 18	.	*	*	*	*
 
 # tuepp_article_id = T890704.200
 # sent_id = 5436
+# text = " Wenn die Kollegen nicht von Bord gegangen wären , hätten die Philippinos in der Messe auf dem Boden schlafen müssen " .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = " Wenn die Kollegen nicht von Bord gegangen wären , hätten die Philippinos in der Messe auf dem Boden schlafen müssen " .
 1	"	*	*	*	*
 2	Wenn	*	*	*	*
 3	die	*	*	*	*
 4	Kollegen	*	*	*	*
 5	nicht	*	*	*	*
-6	von	1	1	4	1
-7	Bord	1	1	4	1
-8	gegangen	1	1	4	1
+6	von	LIT	LIT	BOTH	LIT
+7	Bord	LIT	LIT	BOTH	LIT
+8	gegangen	LIT	LIT	BOTH	LIT
 9	wären	*	*	*	*
 10	,	*	*	*	*
 11	hätten	*	*	*	*
@@ -53,9 +55,10 @@
 
 # tuepp_article_id = T890731.145
 # sent_id = 5437
+# text = Dietze konnte noch keine Auskunft darüber geben , ob alle verpackten Giftfässer auf einmal umgepackt werden sollen oder an diesem Montag der erste Sammelcontainer von Bord gehen wird .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Dietze konnte noch keine Auskunft darüber geben , ob alle verpackten Giftfässer auf einmal umgepackt werden sollen oder an diesem Montag der erste Sammelcontainer von Bord gehen wird .
 1	Dietze	*	*	*	*
 2	konnte	*	*	*	*
 3	noch	*	*	*	*
@@ -80,17 +83,18 @@
 22	der	*	*	*	*
 23	erste	*	*	*	*
 24	Sammelcontainer	*	*	*	*
-25	von	1	1	1	1
-26	Bord	1	1	1	1
-27	gehen	1	1	1	1
+25	von	LIT	LIT	LIT	LIT
+26	Bord	LIT	LIT	LIT	LIT
+27	gehen	LIT	LIT	LIT	LIT
 28	wird	*	*	*	*
 29	.	*	*	*	*
 
 # tuepp_article_id = T891202.15
 # sent_id = 5438
+# text = Berlin ( taz ) - Um 12 Uhr 16 war es soweit : Der Lotse mit Lenins Kompaß ging von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Berlin ( taz ) - Um 12 Uhr 16 war es soweit : Der Lotse mit Lenins Kompaß ging von Bord .
 1	Berlin	*	*	*	*
 2	(	*	*	*	*
 3	taz	*	*	*	*
@@ -109,16 +113,17 @@
 16	mit	*	*	*	*
 17	Lenins	*	*	*	*
 18	Kompaß	*	*	*	*
-19	ging	2	1	2	2
-20	von	2	1	2	2
-21	Bord	2	1	2	2
+19	ging	FIG	LIT	FIG	FIG
+20	von	FIG	LIT	FIG	FIG
+21	Bord	FIG	LIT	FIG	FIG
 22	.	*	*	*	*
 
 # tuepp_article_id = T890805.93
 # sent_id = 5439
+# text = Als das Schiff Tahiti verließ , sah die Besatzung ganz anders aus als vorher : 14 Mann waren von Bord gegangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Als das Schiff Tahiti verließ , sah die Besatzung ganz anders aus als vorher : 14 Mann waren von Bord gegangen .
 1	Als	*	*	*	*
 2	das	*	*	*	*
 3	Schiff	*	*	*	*
@@ -137,24 +142,25 @@
 16	14	*	*	*	*
 17	Mann	*	*	*	*
 18	waren	*	*	*	*
-19	von	1	1	1	1
-20	Bord	1	1	1	1
-21	gegangen	1	1	1	1
+19	von	LIT	LIT	LIT	LIT
+20	Bord	LIT	LIT	LIT	LIT
+21	gegangen	LIT	LIT	LIT	LIT
 22	.	*	*	*	*
 
 # tuepp_article_id = T890306.179
 # sent_id = 5440
+# text = Die Stauer gehen dann eben einfach von Bord , mögen der Boß und der Kapitän sich noch so die Haare raufen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Stauer gehen dann eben einfach von Bord , mögen der Boß und der Kapitän sich noch so die Haare raufen .
 1	Die	*	*	*	*
 2	Stauer	*	*	*	*
-3	gehen	1	2	1	1
+3	gehen	LIT	FIG	LIT	LIT
 4	dann	*	*	*	*
 5	eben	*	*	*	*
 6	einfach	*	*	*	*
-7	von	1	2	1	1
-8	Bord	1	2	1	1
+7	von	LIT	FIG	LIT	LIT
+8	Bord	LIT	FIG	LIT	LIT
 9	,	*	*	*	*
 10	mögen	*	*	*	*
 11	der	*	*	*	*
@@ -172,9 +178,10 @@
 
 # tuepp_article_id = T910517.112
 # sent_id = 5441
+# text = Ich denke , anstatt ganz herumzufahren , werde ich in Portsmouth von Bord gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ich denke , anstatt ganz herumzufahren , werde ich in Portsmouth von Bord gehen .
 1	Ich	*	*	*	*
 2	denke	*	*	*	*
 3	,	*	*	*	*
@@ -186,16 +193,17 @@
 9	ich	*	*	*	*
 10	in	*	*	*	*
 11	Portsmouth	*	*	*	*
-12	von	1	1	1	1
-13	Bord	1	1	1	1
-14	gehen	1	1	1	1
+12	von	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
+14	gehen	LIT	LIT	LIT	LIT
 15	.	*	*	*	*
 
 # tuepp_article_id = T910517.112
 # sent_id = 5442
+# text = Einer unserer Zwischendeckpassagiere ist mit dem Lotsenboot von Bord gegangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Einer unserer Zwischendeckpassagiere ist mit dem Lotsenboot von Bord gegangen .
 1	Einer	*	*	*	*
 2	unserer	*	*	*	*
 3	Zwischendeckpassagiere	*	*	*	*
@@ -203,23 +211,24 @@
 5	mit	*	*	*	*
 6	dem	*	*	*	*
 7	Lotsenboot	*	*	*	*
-8	von	1	1	1	1
-9	Bord	1	1	1	1
-10	gegangen	1	1	1	1
+8	von	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
+10	gegangen	LIT	LIT	LIT	LIT
 11	.	*	*	*	*
 
 # tuepp_article_id = T910419.183
 # sent_id = 5443
+# text = Wer in der Akadamie von Bord geht , durfte ein Konzept sehen , das mit wenigen Zeichnungen und ohne erklärenden Text auskommt und eine Methode der Präsentation vorgibt , die für die 1993 stattfindende Retrospektive zum 100 .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wer in der Akadamie von Bord geht , durfte ein Konzept sehen , das mit wenigen Zeichnungen und ohne erklärenden Text auskommt und eine Methode der Präsentation vorgibt , die für die 1993 stattfindende Retrospektive zum 100 .
 1	Wer	*	*	*	*
 2	in	*	*	*	*
 3	der	*	*	*	*
 4	Akadamie	*	*	*	*
-5	von	2	2	2	2
-6	Bord	2	2	2	2
-7	geht	2	2	2	2
+5	von	FIG	FIG	FIG	FIG
+6	Bord	FIG	FIG	FIG	FIG
+7	geht	FIG	FIG	FIG	FIG
 8	,	*	*	*	*
 9	durfte	*	*	*	*
 10	ein	*	*	*	*
@@ -254,18 +263,19 @@
 
 # tuepp_article_id = T910711.90
 # sent_id = 5444
+# text = Aufsichtsratsvorsitzender Bernhard Servatius lobte den " von Bord gehenden Lotsen " für seinen " Widerstand gegen die Auswüchse des Zeitgeistes nach 1968 " .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Aufsichtsratsvorsitzender Bernhard Servatius lobte den " von Bord gehenden Lotsen " für seinen " Widerstand gegen die Auswüchse des Zeitgeistes nach 1968 " .
 1	Aufsichtsratsvorsitzender	*	*	*	*
 2	Bernhard	*	*	*	*
 3	Servatius	*	*	*	*
 4	lobte	*	*	*	*
 5	den	*	*	*	*
 6	"	*	*	*	*
-7	von	2	2	2	2
-8	Bord	2	2	2	2
-9	gehenden	2	2	2	2
+7	von	FIG	FIG	FIG	FIG
+8	Bord	FIG	FIG	FIG	FIG
+9	gehenden	FIG	FIG	FIG	FIG
 10	Lotsen	*	*	*	*
 11	"	*	*	*	*
 12	für	*	*	*	*
@@ -284,9 +294,10 @@
 
 # tuepp_article_id = T910318.206
 # sent_id = 5445
+# text = Über 500 Kilo Kokain , versteckt in Fässern mit Ochsengalle , waren nämlich bereits in Hamburg von Bord des peruanischen Schiffes gegangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Über 500 Kilo Kokain , versteckt in Fässern mit Ochsengalle , waren nämlich bereits in Hamburg von Bord des peruanischen Schiffes gegangen .
 1	Über	*	*	*	*
 2	500	*	*	*	*
 3	Kilo	*	*	*	*
@@ -303,19 +314,20 @@
 14	bereits	*	*	*	*
 15	in	*	*	*	*
 16	Hamburg	*	*	*	*
-17	von	1	1	1	1
-18	Bord	1	1	1	1
+17	von	LIT	LIT	LIT	LIT
+18	Bord	LIT	LIT	LIT	LIT
 19	des	*	*	*	*
 20	peruanischen	*	*	*	*
 21	Schiffes	*	*	*	*
-22	gegangen	1	1	1	1
+22	gegangen	LIT	LIT	LIT	LIT
 23	.	*	*	*	*
 
 # tuepp_article_id = T911121.64
 # sent_id = 5446
+# text = Port-au-Prince ( ap / wps / taz ) - Der 9jährige Lumane Noel war der erste , der im Hafen von Port-au- Prince von Bord des US-Coast-Guard-Schiffes ging und schweigend an dem Schild " Welcome to Haiti " vorbeischlich .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Port-au-Prince ( ap / wps / taz ) - Der 9jährige Lumane Noel war der erste , der im Hafen von Port-au- Prince von Bord des US-Coast-Guard-Schiffes ging und schweigend an dem Schild " Welcome to Haiti " vorbeischlich .
 1	Port-au-Prince	*	*	*	*
 2	(	*	*	*	*
 3	ap	*	*	*	*
@@ -339,11 +351,11 @@
 21	von	*	*	*	*
 22	Port-au-	*	*	*	*
 23	Prince	*	*	*	*
-24	von	1	1	1	1
-25	Bord	1	1	1	1
+24	von	LIT	LIT	LIT	LIT
+25	Bord	LIT	LIT	LIT	LIT
 26	des	*	*	*	*
 27	US-Coast-Guard-Schiffes	*	*	*	*
-28	ging	1	1	1	1
+28	ging	LIT	LIT	LIT	LIT
 29	und	*	*	*	*
 30	schweigend	*	*	*	*
 31	an	*	*	*	*
@@ -359,9 +371,10 @@
 
 # tuepp_article_id = T911118.122
 # sent_id = 5447
+# text = Im Verlag der Ostberliner Wochenpost ist einer der beiden Eigentümer kürzlich unerwartet von Bord gegangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Im Verlag der Ostberliner Wochenpost ist einer der beiden Eigentümer kürzlich unerwartet von Bord gegangen .
 1	Im	*	*	*	*
 2	Verlag	*	*	*	*
 3	der	*	*	*	*
@@ -374,16 +387,17 @@
 10	Eigentümer	*	*	*	*
 11	kürzlich	*	*	*	*
 12	unerwartet	*	*	*	*
-13	von	2	2	2	2
-14	Bord	2	2	2	2
-15	gegangen	2	2	2	2
+13	von	FIG	FIG	FIG	FIG
+14	Bord	FIG	FIG	FIG	FIG
+15	gegangen	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T900503.233
 # sent_id = 5448
+# text = Auch wer den Wunsch habe , früher von Bord zu gehen , der könne das jederzeit tun : " Wir sind da sehr operativ und können schnell handeln .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Auch wer den Wunsch habe , früher von Bord zu gehen , der könne das jederzeit tun : " Wir sind da sehr operativ und können schnell handeln .
 1	Auch	*	*	*	*
 2	wer	*	*	*	*
 3	den	*	*	*	*
@@ -391,10 +405,10 @@
 5	habe	*	*	*	*
 6	,	*	*	*	*
 7	früher	*	*	*	*
-8	von	1	2	1	1
-9	Bord	1	2	1	1
+8	von	LIT	FIG	LIT	LIT
+9	Bord	LIT	FIG	LIT	LIT
 10	zu	*	*	*	*
-11	gehen	1	2	1	1
+11	gehen	LIT	FIG	LIT	LIT
 12	,	*	*	*	*
 13	der	*	*	*	*
 14	könne	*	*	*	*
@@ -416,9 +430,10 @@
 
 # tuepp_article_id = T900906.249
 # sent_id = 5449
+# text = Vor allem diese : Bismarck , den letzten großen und schillernden wie relativ unbelasteten großen Helden der deutschen Geschichte vor ihren großen Katastrophen , als Big Otto und damit als jene Integrationsfigur aller Deutschen zu inaugurieren , die Kohl nicht vorstellen kann , ist ein historischer Anschluß an eine Person und an ein Deutschland , dessen Geschichte hätte gutgehen können , wäre der Lotse nicht von Bord des Staatsschiffes gegangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vor allem diese : Bismarck , den letzten großen und schillernden wie relativ unbelasteten großen Helden der deutschen Geschichte vor ihren großen Katastrophen , als Big Otto und damit als jene Integrationsfigur aller Deutschen zu inaugurieren , die Kohl nicht vorstellen kann , ist ein historischer Anschluß an eine Person und an ein Deutschland , dessen Geschichte hätte gutgehen können , wäre der Lotse nicht von Bord des Staatsschiffes gegangen .
 1	Vor	*	*	*	*
 2	allem	*	*	*	*
 3	diese	*	*	*	*
@@ -484,18 +499,19 @@
 63	der	*	*	*	*
 64	Lotse	*	*	*	*
 65	nicht	*	*	*	*
-66	von	2	2	2	2
-67	Bord	2	2	2	2
+66	von	FIG	FIG	FIG	FIG
+67	Bord	FIG	FIG	FIG	FIG
 68	des	*	*	*	*
 69	Staatsschiffes	*	*	*	*
-70	gegangen	2	2	2	2
+70	gegangen	FIG	FIG	FIG	FIG
 71	.	*	*	*	*
 
 # tuepp_article_id = T900924.45
 # sent_id = 5450
+# text = Die Rebhuhnbefreier blieben trotz der Kontrolle aller von Bord gehenden Personen unerkannt .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Rebhuhnbefreier blieben trotz der Kontrolle aller von Bord gehenden Personen unerkannt .
 1	Die	*	*	*	*
 2	Rebhuhnbefreier	*	*	*	*
 3	blieben	*	*	*	*
@@ -503,18 +519,19 @@
 5	der	*	*	*	*
 6	Kontrolle	*	*	*	*
 7	aller	*	*	*	*
-8	von	1	1	1	1
-9	Bord	1	1	1	1
-10	gehenden	1	1	1	1
+8	von	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
+10	gehenden	LIT	LIT	LIT	LIT
 11	Personen	*	*	*	*
 12	unerkannt	*	*	*	*
 13	.	*	*	*	*
 
 # tuepp_article_id = T900126.41
 # sent_id = 5451
+# text = Berlin ( taz ) - Das Greenpeace-Schiff " Rainbow Warrior " kreuzt im südlichen Pazifik : Taucher gehen immer wieder von Bord , hängen hölzerne Symbole für das Überleben der Meerestiere in die Treibnetze der japanischen und taiwanischen Fischfangflotte , versuchen seit zwei Wochen die Fischer zu stören .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Berlin ( taz ) - Das Greenpeace-Schiff " Rainbow Warrior " kreuzt im südlichen Pazifik : Taucher gehen immer wieder von Bord , hängen hölzerne Symbole für das Überleben der Meerestiere in die Treibnetze der japanischen und taiwanischen Fischfangflotte , versuchen seit zwei Wochen die Fischer zu stören .
 1	Berlin	*	*	*	*
 2	(	*	*	*	*
 3	taz	*	*	*	*
@@ -532,11 +549,11 @@
 15	Pazifik	*	*	*	*
 16	:	*	*	*	*
 17	Taucher	*	*	*	*
-18	gehen	1	1	1	1
+18	gehen	LIT	LIT	LIT	LIT
 19	immer	*	*	*	*
 20	wieder	*	*	*	*
-21	von	1	1	1	1
-22	Bord	1	1	1	1
+21	von	LIT	LIT	LIT	LIT
+22	Bord	LIT	LIT	LIT	LIT
 23	,	*	*	*	*
 24	hängen	*	*	*	*
 25	hölzerne	*	*	*	*
@@ -567,9 +584,10 @@
 
 # tuepp_article_id = T900115.94
 # sent_id = 5452
+# text = Die Mehrheitsverhältnisse sind nahezu ausgeglichen , und die Ränder haben sich abgeschlagen ; Schily ist ebenso von Bord gegangen wie die radikale Linke .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Mehrheitsverhältnisse sind nahezu ausgeglichen , und die Ränder haben sich abgeschlagen ; Schily ist ebenso von Bord gegangen wie die radikale Linke .
 1	Die	*	*	*	*
 2	Mehrheitsverhältnisse	*	*	*	*
 3	sind	*	*	*	*
@@ -586,9 +604,9 @@
 14	Schily	*	*	*	*
 15	ist	*	*	*	*
 16	ebenso	*	*	*	*
-17	von	2	2	2	2
-18	Bord	2	2	2	2
-19	gegangen	2	2	2	2
+17	von	FIG	FIG	FIG	FIG
+18	Bord	FIG	FIG	FIG	FIG
+19	gegangen	FIG	FIG	FIG	FIG
 20	wie	*	*	*	*
 21	die	*	*	*	*
 22	radikale	*	*	*	*
@@ -597,9 +615,10 @@
 
 # tuepp_article_id = T900808.12
 # sent_id = 5453
+# text = Darin hatten sich die Seeleute verpflichten müssen , bis zu einem halben Jahr nicht von Bord zu gehen , nur die auf dem Schiff gereichte Nahrung zu sich zu nehmen und sich jeder gewerkschaftlichen Tätigkeit zu enthalten .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Darin hatten sich die Seeleute verpflichten müssen , bis zu einem halben Jahr nicht von Bord zu gehen , nur die auf dem Schiff gereichte Nahrung zu sich zu nehmen und sich jeder gewerkschaftlichen Tätigkeit zu enthalten .
 1	Darin	*	*	*	*
 2	hatten	*	*	*	*
 3	sich	*	*	*	*
@@ -614,10 +633,10 @@
 12	halben	*	*	*	*
 13	Jahr	*	*	*	*
 14	nicht	*	*	*	*
-15	von	1	1	1	1
-16	Bord	1	1	1	1
+15	von	LIT	LIT	LIT	LIT
+16	Bord	LIT	LIT	LIT	LIT
 17	zu	*	*	*	*
-18	gehen	1	1	1	1
+18	gehen	LIT	LIT	LIT	LIT
 19	,	*	*	*	*
 20	nur	*	*	*	*
 21	die	*	*	*	*
@@ -641,9 +660,10 @@
 
 # tuepp_article_id = T901107.231
 # sent_id = 5454
+# text = Der Prozeß gegen den Kolumbianer , der lediglich von einem Peruaner beschuldigt wird , Hintermann des Schmuggels von drei Kilo Kokain zu sein , mit denen der Peruaner im September im Bremer Freihafen erwischt worden war , geriet Ende Oktober ins Schlingern , als bekannt wurde , daß die drei Kilo nur Teil einer Sendung von insgesamt 350 Kilo Kokain waren , die bereits in Hamburg von Bord des Schiffes " Unisierra " gingen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Prozeß gegen den Kolumbianer , der lediglich von einem Peruaner beschuldigt wird , Hintermann des Schmuggels von drei Kilo Kokain zu sein , mit denen der Peruaner im September im Bremer Freihafen erwischt worden war , geriet Ende Oktober ins Schlingern , als bekannt wurde , daß die drei Kilo nur Teil einer Sendung von insgesamt 350 Kilo Kokain waren , die bereits in Hamburg von Bord des Schiffes " Unisierra " gingen .
 1	Der	*	*	*	*
 2	Prozeß	*	*	*	*
 3	gegen	*	*	*	*
@@ -710,21 +730,22 @@
 64	bereits	*	*	*	*
 65	in	*	*	*	*
 66	Hamburg	*	*	*	*
-67	von	1	1	1	1
-68	Bord	1	1	1	1
+67	von	LIT	LIT	LIT	LIT
+68	Bord	LIT	LIT	LIT	LIT
 69	des	*	*	*	*
 70	Schiffes	*	*	*	*
 71	"	*	*	*	*
 72	Unisierra	*	*	*	*
 73	"	*	*	*	*
-74	gingen	1	1	1	1
+74	gingen	LIT	LIT	LIT	LIT
 75	.	*	*	*	*
 
 # tuepp_article_id = T901112.97
 # sent_id = 5455
+# text = Was will Gaft eigentlich selbst machen , als letzter der Rigaer Juden von Bord gehen ?
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Was will Gaft eigentlich selbst machen , als letzter der Rigaer Juden von Bord gehen ?
 1	Was	*	*	*	*
 2	will	*	*	*	*
 3	Gaft	*	*	*	*
@@ -737,16 +758,17 @@
 10	der	*	*	*	*
 11	Rigaer	*	*	*	*
 12	Juden	*	*	*	*
-13	von	2	2	2	2
-14	Bord	2	2	2	2
-15	gehen	2	2	2	2
+13	von	FIG	FIG	FIG	FIG
+14	Bord	FIG	FIG	FIG	FIG
+15	gehen	FIG	FIG	FIG	FIG
 16	?	*	*	*	*
 
 # tuepp_article_id = T920625.46
 # sent_id = 5456
+# text = Sinnierend sitzt er vor der Bücherwand , und Claus Jacobi , ' Welt ` - Mann vom Konzernflaggschiff , gibt noch einmal die schönsten Erkenntnisse seines von Bord gegangenen Lotsen zum besten : " Fragt , was dem Leser wohltut , was er braucht , um seinen Alltag zu verstehen und zu ertragen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sinnierend sitzt er vor der Bücherwand , und Claus Jacobi , ' Welt ` - Mann vom Konzernflaggschiff , gibt noch einmal die schönsten Erkenntnisse seines von Bord gegangenen Lotsen zum besten : " Fragt , was dem Leser wohltut , was er braucht , um seinen Alltag zu verstehen und zu ertragen .
 1	Sinnierend	*	*	*	*
 2	sitzt	*	*	*	*
 3	er	*	*	*	*
@@ -773,8 +795,8 @@
 24	schönsten	*	*	*	*
 25	Erkenntnisse	*	*	*	*
 26	seines	*	*	*	*
-27	von	2	1	2	2
-28	Bord	2	1	2	2
+27	von	FIG	LIT	FIG	FIG
+28	Bord	FIG	LIT	FIG	FIG
 29	gegangenen	*	*	*	*
 30	Lotsen	*	*	*	*
 31	zum	*	*	*	*
@@ -796,7 +818,7 @@
 47	seinen	*	*	*	*
 48	Alltag	*	*	*	*
 49	zu	*	*	*	*
-50	verstehen	2	1	2	2
+50	verstehen	FIG	LIT	FIG	FIG
 51	und	*	*	*	*
 52	zu	*	*	*	*
 53	ertragen	*	*	*	*
@@ -804,16 +826,17 @@
 
 # tuepp_article_id = T920904.112
 # sent_id = 5457
+# text = Die Seeleute gehen nicht mehr von Bord , denn die Anlegezeiten sind zu kurz und die Immigrationsbestimmungen zu rigide ; die Menschen im Hafen sind selbst containerisiert , im Schiff , in der Kran- Kabine , hinter dem Steuer des Lastwagens .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Seeleute gehen nicht mehr von Bord , denn die Anlegezeiten sind zu kurz und die Immigrationsbestimmungen zu rigide ; die Menschen im Hafen sind selbst containerisiert , im Schiff , in der Kran- Kabine , hinter dem Steuer des Lastwagens .
 1	Die	*	*	*	*
 2	Seeleute	*	*	*	*
-3	gehen	1	1	1	1
+3	gehen	LIT	LIT	LIT	LIT
 4	nicht	*	*	*	*
 5	mehr	*	*	*	*
-6	von	1	1	1	1
-7	Bord	1	1	1	1
+6	von	LIT	LIT	LIT	LIT
+7	Bord	LIT	LIT	LIT	LIT
 8	,	*	*	*	*
 9	denn	*	*	*	*
 10	die	*	*	*	*
@@ -852,9 +875,10 @@
 
 # tuepp_article_id = T920926.109
 # sent_id = 5458
+# text = Wenn , sagen wir mal Peter Stein von Bord geht , dann heult ganz Berlin .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wenn , sagen wir mal Peter Stein von Bord geht , dann heult ganz Berlin .
 1	Wenn	*	*	*	*
 2	,	*	*	*	*
 3	sagen	*	*	*	*
@@ -862,9 +886,9 @@
 5	mal	*	*	*	*
 6	Peter	*	*	*	*
 7	Stein	*	*	*	*
-8	von	2	2	2	2
-9	Bord	2	2	2	2
-10	geht	2	2	2	2
+8	von	FIG	FIG	FIG	FIG
+9	Bord	FIG	FIG	FIG	FIG
+10	geht	FIG	FIG	FIG	FIG
 11	,	*	*	*	*
 12	dann	*	*	*	*
 13	heult	*	*	*	*
@@ -874,15 +898,16 @@
 
 # tuepp_article_id = T920928.192
 # sent_id = 5459
+# text = Nachdem die Passagiere von Bord gegangen waren , kam die " Wappen " zur Reparatur in die Cuxhavener Mützelfeldtwerft .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nachdem die Passagiere von Bord gegangen waren , kam die " Wappen " zur Reparatur in die Cuxhavener Mützelfeldtwerft .
 1	Nachdem	*	*	*	*
 2	die	*	*	*	*
 3	Passagiere	*	*	*	*
-4	von	1	1	1	1
-5	Bord	1	1	1	1
-6	gegangen	1	1	1	1
+4	von	LIT	LIT	LIT	LIT
+5	Bord	LIT	LIT	LIT	LIT
+6	gegangen	LIT	LIT	LIT	LIT
 7	waren	*	*	*	*
 8	,	*	*	*	*
 9	kam	*	*	*	*
@@ -900,16 +925,17 @@
 
 # tuepp_article_id = T920928.223
 # sent_id = 5460
+# text = Sie mußten in Cuxhaven von Bord gehen und auf ihren Helgoland-Trip sowie den zollfreien Einkauf verzichten .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie mußten in Cuxhaven von Bord gehen und auf ihren Helgoland-Trip sowie den zollfreien Einkauf verzichten .
 1	Sie	*	*	*	*
 2	mußten	*	*	*	*
 3	in	*	*	*	*
 4	Cuxhaven	*	*	*	*
-5	von	1	1	1	1
-6	Bord	1	1	1	1
-7	gehen	1	1	1	1
+5	von	LIT	LIT	LIT	LIT
+6	Bord	LIT	LIT	LIT	LIT
+7	gehen	LIT	LIT	LIT	LIT
 8	und	*	*	*	*
 9	auf	*	*	*	*
 10	ihren	*	*	*	*
@@ -923,9 +949,10 @@
 
 # tuepp_article_id = T920914.21
 # sent_id = 5461
+# text = SPD-Nachwuchspolitiker in Hannover beharren auf dem Grundrecht auf Asyl : Anstelle der zahlreichen Austritte SPD-verdrossener Mitglieder sähen sie lieber die Lotsen der neuen Kursänderung von Bord gehen
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = SPD-Nachwuchspolitiker in Hannover beharren auf dem Grundrecht auf Asyl : Anstelle der zahlreichen Austritte SPD-verdrossener Mitglieder sähen sie lieber die Lotsen der neuen Kursänderung von Bord gehen
 1	SPD-Nachwuchspolitiker	*	*	*	*
 2	in	*	*	*	*
 3	Hannover	*	*	*	*
@@ -950,15 +977,16 @@
 22	der	*	*	*	*
 23	neuen	*	*	*	*
 24	Kursänderung	*	*	*	*
-25	von	2	2	2	2
-26	Bord	2	2	2	2
-27	gehen	2	2	2	2
+25	von	FIG	FIG	FIG	FIG
+26	Bord	FIG	FIG	FIG	FIG
+27	gehen	FIG	FIG	FIG	FIG
 
 # tuepp_article_id = T920914.53
 # sent_id = 5462
+# text = Doch die Reichen kamen sehr viel schneller in den Genuß freier Luft und durften im New Yorker Hafen nach einer kurzen Untersuchung direkt von Bord gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch die Reichen kamen sehr viel schneller in den Genuß freier Luft und durften im New Yorker Hafen nach einer kurzen Untersuchung direkt von Bord gehen .
 1	Doch	*	*	*	*
 2	die	*	*	*	*
 3	Reichen	*	*	*	*
@@ -982,16 +1010,17 @@
 21	kurzen	*	*	*	*
 22	Untersuchung	*	*	*	*
 23	direkt	*	*	*	*
-24	von	1	1	1	1
-25	Bord	1	1	1	1
-26	gehen	1	1	1	1
+24	von	LIT	LIT	LIT	LIT
+25	Bord	LIT	LIT	LIT	LIT
+26	gehen	LIT	LIT	LIT	LIT
 27	.	*	*	*	*
 
 # tuepp_article_id = T921127.269
 # sent_id = 5463
+# text = Die beiden neuen Vereine sollen sich dann im März konstituieren , also zu dem Zeitpunkt an dem Hunke von Bord gehen will .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die beiden neuen Vereine sollen sich dann im März konstituieren , also zu dem Zeitpunkt an dem Hunke von Bord gehen will .
 1	Die	*	*	*	*
 2	beiden	*	*	*	*
 3	neuen	*	*	*	*
@@ -1010,23 +1039,24 @@
 16	an	*	*	*	*
 17	dem	*	*	*	*
 18	Hunke	*	*	*	*
-19	von	2	2	2	2
-20	Bord	2	2	2	2
-21	gehen	2	2	2	2
+19	von	FIG	FIG	FIG	FIG
+20	Bord	FIG	FIG	FIG	FIG
+21	gehen	FIG	FIG	FIG	FIG
 22	will	*	*	*	*
 23	.	*	*	*	*
 
 # tuepp_article_id = T880906.21
 # sent_id = 5464
+# text = " Der Lotse geht von Bord " , erklärte Becker damals und kündigte an , sein Unternehmen werde seinen 35 % - Anteil an der Hanauer Firma abgeben .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Der Lotse geht von Bord " , erklärte Becker damals und kündigte an , sein Unternehmen werde seinen 35 % - Anteil an der Hanauer Firma abgeben .
 1	"	*	*	*	*
 2	Der	*	*	*	*
 3	Lotse	*	*	*	*
-4	geht	2	2	2	2
-5	von	2	2	2	2
-6	Bord	2	2	2	2
+4	geht	FIG	FIG	FIG	FIG
+5	von	FIG	FIG	FIG	FIG
+6	Bord	FIG	FIG	FIG	FIG
 7	"	*	*	*	*
 8	,	*	*	*	*
 9	erklärte	*	*	*	*
@@ -1053,9 +1083,10 @@
 
 # tuepp_article_id = T880421.9
 # sent_id = 5465
+# text = Es wurde gestern vermutet , daß sie bereits vor den Geiseln von Bord gegangen waren .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Es wurde gestern vermutet , daß sie bereits vor den Geiseln von Bord gegangen waren .
 1	Es	*	*	*	*
 2	wurde	*	*	*	*
 3	gestern	*	*	*	*
@@ -1067,17 +1098,18 @@
 9	vor	*	*	*	*
 10	den	*	*	*	*
 11	Geiseln	*	*	*	*
-12	von	1	1	1	1
-13	Bord	1	1	1	1
-14	gegangen	1	1	1	1
+12	von	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
+14	gegangen	LIT	LIT	LIT	LIT
 15	waren	*	*	*	*
 16	.	*	*	*	*
 
 # tuepp_article_id = T880316.21
 # sent_id = 5466
+# text = Doch jetzt wolle man " so schnell wie möglich " wieder von Bord gehen : Die Degussa , die ihre 35 " unternehmerische Obhut " genommen hatte , wird ihren Anteil an dem Skandalunternehmen abgeben , teilte Becker am Dienstag in Frankfurt mit .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch jetzt wolle man " so schnell wie möglich " wieder von Bord gehen : Die Degussa , die ihre 35 " unternehmerische Obhut " genommen hatte , wird ihren Anteil an dem Skandalunternehmen abgeben , teilte Becker am Dienstag in Frankfurt mit .
 1	Doch	*	*	*	*
 2	jetzt	*	*	*	*
 3	wolle	*	*	*	*
@@ -1089,9 +1121,9 @@
 9	möglich	*	*	*	*
 10	"	*	*	*	*
 11	wieder	*	*	*	*
-12	von	2	2	2	2
-13	Bord	2	2	2	2
-14	gehen	2	2	2	2
+12	von	FIG	FIG	FIG	FIG
+13	Bord	FIG	FIG	FIG	FIG
+14	gehen	FIG	FIG	FIG	FIG
 15	:	*	*	*	*
 16	Die	*	*	*	*
 17	Degussa	*	*	*	*
@@ -1125,11 +1157,12 @@
 
 # tuepp_article_id = T880316.33
 # sent_id = 6258
+# text = Jetzt geht der " Lotse " ( Degussa über Degussa ) von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Jetzt geht der " Lotse " ( Degussa über Degussa ) von Bord .
 1	Jetzt	*	*	*	*
-2	geht	2	2	2	2
+2	geht	FIG	FIG	FIG	FIG
 3	der	*	*	*	*
 4	"	*	*	*	*
 5	Lotse	*	*	*	*
@@ -1139,25 +1172,26 @@
 9	über	*	*	*	*
 10	Degussa	*	*	*	*
 11	)	*	*	*	*
-12	von	2	2	2	2
-13	Bord	2	2	2	2
+12	von	FIG	FIG	FIG	FIG
+13	Bord	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T870615.22
 # sent_id = 5468
+# text = Brandt bleibt versöhnlich , schließlich geht er " von Bord " und " nicht von Deck " , wie er gestern wiederholt .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Brandt bleibt versöhnlich , schließlich geht er " von Bord " und " nicht von Deck " , wie er gestern wiederholt .
 1	Brandt	*	*	*	*
 2	bleibt	*	*	*	*
 3	versöhnlich	*	*	*	*
 4	,	*	*	*	*
 5	schließlich	*	*	*	*
-6	geht	2	2	2	2
+6	geht	FIG	FIG	FIG	FIG
 7	er	*	*	*	*
 8	"	*	*	*	*
-9	von	2	2	2	2
-10	Bord	2	2	2	2
+9	von	FIG	FIG	FIG	FIG
+10	Bord	FIG	FIG	FIG	FIG
 11	"	*	*	*	*
 12	und	*	*	*	*
 13	"	*	*	*	*
@@ -1174,9 +1208,10 @@
 
 # tuepp_article_id = T870327.27
 # sent_id = 5469
+# text = Damit es keine Unklarheiten gibt : Ich verlasse die Brücke , aber ich gehe nicht von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Damit es keine Unklarheiten gibt : Ich verlasse die Brücke , aber ich gehe nicht von Bord .
 1	Damit	*	*	*	*
 2	es	*	*	*	*
 3	keine	*	*	*	*
@@ -1190,17 +1225,18 @@
 11	,	*	*	*	*
 12	aber	*	*	*	*
 13	ich	*	*	*	*
-14	gehe	2	2	2	2
+14	gehe	FIG	FIG	FIG	FIG
 15	nicht	*	*	*	*
-16	von	2	2	2	2
-17	Bord	2	2	2	2
+16	von	FIG	FIG	FIG	FIG
+17	Bord	FIG	FIG	FIG	FIG
 18	.	*	*	*	*
 
 # tuepp_article_id = T870327.30
 # sent_id = 5470
+# text = Hauff : Ich weigere mich zunächst einmal , von einem Abschied zu reden , denn Brandt hat vor dem Parteivorstand auch gesagt , er gehe von der Brücke und nicht von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hauff : Ich weigere mich zunächst einmal , von einem Abschied zu reden , denn Brandt hat vor dem Parteivorstand auch gesagt , er gehe von der Brücke und nicht von Bord .
 1	Hauff	*	*	*	*
 2	:	*	*	*	*
 3	Ich	*	*	*	*
@@ -1225,21 +1261,22 @@
 22	gesagt	*	*	*	*
 23	,	*	*	*	*
 24	er	*	*	*	*
-25	gehe	2	2	2	2
+25	gehe	FIG	FIG	FIG	FIG
 26	von	*	*	*	*
 27	der	*	*	*	*
 28	Brücke	*	*	*	*
 29	und	*	*	*	*
 30	nicht	*	*	*	*
-31	von	2	2	2	2
-32	Bord	2	2	2	2
+31	von	FIG	FIG	FIG	FIG
+32	Bord	FIG	FIG	FIG	FIG
 33	.	*	*	*	*
 
 # tuepp_article_id = T871109.24
 # sent_id = 5471
+# text = " Wenn sich das Schiff in stürmischen Gewässern befindet , darf man nicht von Bord gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Wenn sich das Schiff in stürmischen Gewässern befindet , darf man nicht von Bord gehen .
 1	"	*	*	*	*
 2	Wenn	*	*	*	*
 3	sich	*	*	*	*
@@ -1253,16 +1290,17 @@
 11	darf	*	*	*	*
 12	man	*	*	*	*
 13	nicht	*	*	*	*
-14	von	2	2	2	2
-15	Bord	2	2	2	2
-16	gehen	2	2	2	2
+14	von	FIG	FIG	FIG	FIG
+15	Bord	FIG	FIG	FIG	FIG
+16	gehen	FIG	FIG	FIG	FIG
 17	.	*	*	*	*
 
 # tuepp_article_id = T860918.42
 # sent_id = 5472
+# text = Nach Erkenntnissen der Staatsanwaltschaft hatte Bindel die Flüchtlinge nicht gezwungen , von Bord in die zwei Rettungsboote zu gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Nach Erkenntnissen der Staatsanwaltschaft hatte Bindel die Flüchtlinge nicht gezwungen , von Bord in die zwei Rettungsboote zu gehen .
 1	Nach	*	*	*	*
 2	Erkenntnissen	*	*	*	*
 3	der	*	*	*	*
@@ -1274,21 +1312,22 @@
 9	nicht	*	*	*	*
 10	gezwungen	*	*	*	*
 11	,	*	*	*	*
-12	von	1	1	1	1
-13	Bord	1	1	1	1
+12	von	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
 14	in	*	*	*	*
 15	die	*	*	*	*
 16	zwei	*	*	*	*
 17	Rettungsboote	*	*	*	*
 18	zu	*	*	*	*
-19	gehen	1	1	1	1
+19	gehen	LIT	LIT	LIT	LIT
 20	.	*	*	*	*
 
 # tuepp_article_id = T930504.102
 # sent_id = 5473
+# text = Abends hilft er bei der Casinoaufsicht aus , tagsüber wartet er die Maschinen , die völlig unzureichende Klimaanlage und natürlich die gesamten Seenot-Rettungsmittel der MS JackPott - für den Fall , daß ein Zocker nach Verlust des letzten Jetons und des letzten Hemdes zur falschen Seite von Bord gehen will , müsse man schließlich gerüstet sein .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Abends hilft er bei der Casinoaufsicht aus , tagsüber wartet er die Maschinen , die völlig unzureichende Klimaanlage und natürlich die gesamten Seenot-Rettungsmittel der MS JackPott - für den Fall , daß ein Zocker nach Verlust des letzten Jetons und des letzten Hemdes zur falschen Seite von Bord gehen will , müsse man schließlich gerüstet sein .
 1	Abends	*	*	*	*
 2	hilft	*	*	*	*
 3	er	*	*	*	*
@@ -1335,9 +1374,9 @@
 44	zur	*	*	*	*
 45	falschen	*	*	*	*
 46	Seite	*	*	*	*
-47	von	1	2	1	1
-48	Bord	1	2	1	1
-49	gehen	1	2	1	1
+47	von	LIT	FIG	LIT	LIT
+48	Bord	LIT	FIG	LIT	LIT
+49	gehen	LIT	FIG	LIT	LIT
 50	will	*	*	*	*
 51	,	*	*	*	*
 52	müsse	*	*	*	*
@@ -1349,9 +1388,10 @@
 
 # tuepp_article_id = T931015.113
 # sent_id = 5474
+# text = Spider Stacey , der , nachdem auch der Mann des Übergangs Joe Strummer von Bord gegangen ist , den Platz am Mikrophon eingenommen hat , singt von der Besatzung eines " Drunken Boat " : Korrekt werden die Flaschen zerschmettert , die Gläser geleert , Toasts ausgebracht auf unterwegs verlorengegangene Freunde , vielleicht nicht ganz so jesusmäßig generös wie bei McGowan , vielleicht mit leicht zusammengekniffenen Achselhöhlen , aber doch im Sinne der Forefathers - Männer , Fahrten , Abenteuer .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Spider Stacey , der , nachdem auch der Mann des Übergangs Joe Strummer von Bord gegangen ist , den Platz am Mikrophon eingenommen hat , singt von der Besatzung eines " Drunken Boat " : Korrekt werden die Flaschen zerschmettert , die Gläser geleert , Toasts ausgebracht auf unterwegs verlorengegangene Freunde , vielleicht nicht ganz so jesusmäßig generös wie bei McGowan , vielleicht mit leicht zusammengekniffenen Achselhöhlen , aber doch im Sinne der Forefathers - Männer , Fahrten , Abenteuer .
 1	Spider	*	*	*	*
 2	Stacey	*	*	*	*
 3	,	*	*	*	*
@@ -1365,9 +1405,9 @@
 11	Übergangs	*	*	*	*
 12	Joe	*	*	*	*
 13	Strummer	*	*	*	*
-14	von	2	2	2	2
-15	Bord	2	2	2	2
-16	gegangen	2	2	2	2
+14	von	FIG	FIG	FIG	FIG
+15	Bord	FIG	FIG	FIG	FIG
+16	gegangen	FIG	FIG	FIG	FIG
 17	ist	*	*	*	*
 18	,	*	*	*	*
 19	den	*	*	*	*
@@ -1436,9 +1476,10 @@
 
 # tuepp_article_id = T930115.27
 # sent_id = 5475
+# text = Kinkel und die FDP hatten dagegen bislang stets erklärt , ohne eine vorherige Verfassungsänderung müßten die deutschen Soldaten aussteigen - so wie sie auch heute schon von Bord gehen , wenn die AWACS-Aufklärer über Ungarn und Österreich unterwegs sind .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kinkel und die FDP hatten dagegen bislang stets erklärt , ohne eine vorherige Verfassungsänderung müßten die deutschen Soldaten aussteigen - so wie sie auch heute schon von Bord gehen , wenn die AWACS-Aufklärer über Ungarn und Österreich unterwegs sind .
 1	Kinkel	*	*	*	*
 2	und	*	*	*	*
 3	die	*	*	*	*
@@ -1465,9 +1506,9 @@
 24	auch	*	*	*	*
 25	heute	*	*	*	*
 26	schon	*	*	*	*
-27	von	1	2	2	2
-28	Bord	1	2	2	2
-29	gehen	1	2	2	2
+27	von	LIT	FIG	FIG	FIG
+28	Bord	LIT	FIG	FIG	FIG
+29	gehen	LIT	FIG	FIG	FIG
 30	,	*	*	*	*
 31	wenn	*	*	*	*
 32	die	*	*	*	*
@@ -1482,14 +1523,15 @@
 
 # tuepp_article_id = T930811.81
 # sent_id = 5476
+# text = Am 27. Juli gingen sämtliche 419 russischen und ukrainischen Besatzungsmitglieder , darunter 54 Frauen , von Bord und begannen einen unbefristeten Sitzstreik auf dem Kai .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Am 27. Juli gingen sämtliche 419 russischen und ukrainischen Besatzungsmitglieder , darunter 54 Frauen , von Bord und begannen einen unbefristeten Sitzstreik auf dem Kai .
 1	Am	*	*	*	*
 2	27	*	*	*	*
 3	.	*	*	*	*
 4	Juli	*	*	*	*
-5	gingen	1	1	1	1
+5	gingen	LIT	LIT	LIT	LIT
 6	sämtliche	*	*	*	*
 7	419	*	*	*	*
 8	russischen	*	*	*	*
@@ -1501,8 +1543,8 @@
 14	54	*	*	*	*
 15	Frauen	*	*	*	*
 16	,	*	*	*	*
-17	von	1	1	1	1
-18	Bord	1	1	1	1
+17	von	LIT	LIT	LIT	LIT
+18	Bord	LIT	LIT	LIT	LIT
 19	und	*	*	*	*
 20	begannen	*	*	*	*
 21	einen	*	*	*	*
@@ -1515,14 +1557,15 @@
 
 # tuepp_article_id = T931123.145
 # sent_id = 5477
+# text = Volker Kröning geht von Bord , und in so manchem Politikerherz macht sich Freude breit : Endlich will er weg , der Quälgeist , der jeden Pfennig fünfmal umgedreht hat , wenn er von anderen Ressorts ausgegeben werden sollte .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Volker Kröning geht von Bord , und in so manchem Politikerherz macht sich Freude breit : Endlich will er weg , der Quälgeist , der jeden Pfennig fünfmal umgedreht hat , wenn er von anderen Ressorts ausgegeben werden sollte .
 1	Volker	*	*	*	*
 2	Kröning	*	*	*	*
-3	geht	2	2	2	2
-4	von	2	2	2	2
-5	Bord	2	2	2	2
+3	geht	FIG	FIG	FIG	FIG
+4	von	FIG	FIG	FIG	FIG
+5	Bord	FIG	FIG	FIG	FIG
 6	,	*	*	*	*
 7	und	*	*	*	*
 8	in	*	*	*	*
@@ -1561,9 +1604,10 @@
 
 # tuepp_article_id = T930206.84
 # sent_id = 5478
+# text = Es scheint beinah wie ein letztes , aber um so grelleres , sozialliberales Wetterleuchten : Heide Schmidt , nach Jörg Haider prominentestes Mitglied der FPÖ , geht von Bord des letzten rechtslastigen Schiffes .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Es scheint beinah wie ein letztes , aber um so grelleres , sozialliberales Wetterleuchten : Heide Schmidt , nach Jörg Haider prominentestes Mitglied der FPÖ , geht von Bord des letzten rechtslastigen Schiffes .
 1	Es	*	*	*	*
 2	scheint	*	*	*	*
 3	beinah	*	*	*	*
@@ -1590,9 +1634,9 @@
 24	der	*	*	*	*
 25	FPÖ	*	*	*	*
 26	,	*	*	*	*
-27	geht	2	2	2	2
-28	von	2	2	2	2
-29	Bord	2	2	2	2
+27	geht	FIG	FIG	FIG	FIG
+28	von	FIG	FIG	FIG	FIG
+29	Bord	FIG	FIG	FIG	FIG
 30	des	*	*	*	*
 31	letzten	*	*	*	*
 32	rechtslastigen	*	*	*	*
@@ -1601,14 +1645,15 @@
 
 # tuepp_article_id = T960123.59
 # sent_id = 5479
+# text = Die Besatzung ging von Bord , der Schlepper kappte die Seile und die " North Cape " strandete am Mondsteinstrand südlich von Boston - unmittelbar vor dem Trustom Point National Wildlife Refuge , in dem Hunderttausende von Wasservögeln Station machen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Besatzung ging von Bord , der Schlepper kappte die Seile und die " North Cape " strandete am Mondsteinstrand südlich von Boston - unmittelbar vor dem Trustom Point National Wildlife Refuge , in dem Hunderttausende von Wasservögeln Station machen .
 1	Die	*	*	*	*
 2	Besatzung	*	*	*	*
-3	ging	1	1	1	1
-4	von	1	1	1	1
-5	Bord	1	1	1	1
+3	ging	LIT	LIT	LIT	LIT
+4	von	LIT	LIT	LIT	LIT
+5	Bord	LIT	LIT	LIT	LIT
 6	,	*	*	*	*
 7	der	*	*	*	*
 8	Schlepper	*	*	*	*
@@ -1648,9 +1693,10 @@
 
 # tuepp_article_id = T960731.93
 # sent_id = 5480
+# text = Bei der Landung in Guinea-Bissau weigerten sich die Deportierten , von Bord zu gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Bei der Landung in Guinea-Bissau weigerten sich die Deportierten , von Bord zu gehen .
 1	Bei	*	*	*	*
 2	der	*	*	*	*
 3	Landung	*	*	*	*
@@ -1661,17 +1707,18 @@
 8	die	*	*	*	*
 9	Deportierten	*	*	*	*
 10	,	*	*	*	*
-11	von	1	1	1	1
-12	Bord	1	1	1	1
+11	von	LIT	LIT	LIT	LIT
+12	Bord	LIT	LIT	LIT	LIT
 13	zu	*	*	*	*
-14	gehen	1	1	1	1
+14	gehen	LIT	LIT	LIT	LIT
 15	.	*	*	*	*
 
 # tuepp_article_id = T960813.253
 # sent_id = 5481
+# text = Für viele Seeleute , die nach monatelanger Fahrt für wenige Stunden von Bord gehen , ist dies ganz Hamburg .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Für viele Seeleute , die nach monatelanger Fahrt für wenige Stunden von Bord gehen , ist dies ganz Hamburg .
 1	Für	*	*	*	*
 2	viele	*	*	*	*
 3	Seeleute	*	*	*	*
@@ -1683,9 +1730,9 @@
 9	für	*	*	*	*
 10	wenige	*	*	*	*
 11	Stunden	*	*	*	*
-12	von	1	1	1	1
-13	Bord	1	1	1	1
-14	gehen	1	1	1	1
+12	von	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
+14	gehen	LIT	LIT	LIT	LIT
 15	,	*	*	*	*
 16	ist	*	*	*	*
 17	dies	*	*	*	*
@@ -1695,13 +1742,14 @@
 
 # tuepp_article_id = T960309.87
 # sent_id = 5482
+# text = Wer von Bord geht , nimmt die gegebenen Chancen zur gesellschaftlichen Veränderung nicht wahr .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Wer von Bord geht , nimmt die gegebenen Chancen zur gesellschaftlichen Veränderung nicht wahr .
 1	Wer	*	*	*	*
-2	von	2	2	2	2
-3	Bord	2	2	2	2
-4	geht	2	2	2	2
+2	von	FIG	FIG	FIG	FIG
+3	Bord	FIG	FIG	FIG	FIG
+4	geht	FIG	FIG	FIG	FIG
 5	,	*	*	*	*
 6	nimmt	*	*	*	*
 7	die	*	*	*	*
@@ -1716,9 +1764,10 @@
 
 # tuepp_article_id = T961109.56
 # sent_id = 5483
+# text = Berlin ( taz ) - In der Seefahrt ist es gute Sitte , daß der Kapitän bei einer Havarie als letzter von Bord geht .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Berlin ( taz ) - In der Seefahrt ist es gute Sitte , daß der Kapitän bei einer Havarie als letzter von Bord geht .
 1	Berlin	*	*	*	*
 2	(	*	*	*	*
 3	taz	*	*	*	*
@@ -1740,16 +1789,17 @@
 19	Havarie	*	*	*	*
 20	als	*	*	*	*
 21	letzter	*	*	*	*
-22	von	1	1	1	1
-23	Bord	1	1	1	1
-24	geht	1	1	1	1
+22	von	LIT	LIT	LIT	LIT
+23	Bord	LIT	LIT	LIT	LIT
+24	geht	LIT	LIT	LIT	LIT
 25	.	*	*	*	*
 
 # tuepp_article_id = T960203.108
 # sent_id = 5484
+# text = Wir erhalten einen Passierschein , und die Polizisten gehen mit vollen Plastiktaschen und zufriedenen Gesichtern von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Wir erhalten einen Passierschein , und die Polizisten gehen mit vollen Plastiktaschen und zufriedenen Gesichtern von Bord .
 1	Wir	*	*	*	*
 2	erhalten	*	*	*	*
 3	einen	*	*	*	*
@@ -1758,22 +1808,23 @@
 6	und	*	*	*	*
 7	die	*	*	*	*
 8	Polizisten	*	*	*	*
-9	gehen	1	1	1	1
+9	gehen	LIT	LIT	LIT	LIT
 10	mit	*	*	*	*
 11	vollen	*	*	*	*
 12	Plastiktaschen	*	*	*	*
 13	und	*	*	*	*
 14	zufriedenen	*	*	*	*
 15	Gesichtern	*	*	*	*
-16	von	1	1	1	1
-17	Bord	1	1	1	1
+16	von	LIT	LIT	LIT	LIT
+17	Bord	LIT	LIT	LIT	LIT
 18	.	*	*	*	*
 
 # tuepp_article_id = T980502.340
 # sent_id = 5485
+# text = Seit den siebziger Jahren belegen zunehmend Frauen Nautikstudiengänge und verpflichten sich als Besatzungsmitglied in ihren Arbeitsverträgen , als letzte von Bord zu gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Seit den siebziger Jahren belegen zunehmend Frauen Nautikstudiengänge und verpflichten sich als Besatzungsmitglied in ihren Arbeitsverträgen , als letzte von Bord zu gehen .
 1	Seit	*	*	*	*
 2	den	*	*	*	*
 3	siebziger	*	*	*	*
@@ -1793,33 +1844,35 @@
 17	,	*	*	*	*
 18	als	*	*	*	*
 19	letzte	*	*	*	*
-20	von	1	2	1	1
-21	Bord	1	2	1	1
+20	von	LIT	FIG	LIT	LIT
+21	Bord	LIT	FIG	LIT	LIT
 22	zu	*	*	*	*
-23	gehen	1	2	1	1
+23	gehen	LIT	FIG	LIT	LIT
 24	.	*	*	*	*
 
 # tuepp_article_id = T980617.180
 # sent_id = 5486
+# text = Doch der ist längst von Bord gegangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Doch der ist längst von Bord gegangen .
 1	Doch	*	*	*	*
 2	der	*	*	*	*
 3	ist	*	*	*	*
 4	längst	*	*	*	*
-5	von	2	1	2	2
-6	Bord	2	1	2	2
-7	gegangen	2	1	2	2
+5	von	FIG	LIT	FIG	FIG
+6	Bord	FIG	LIT	FIG	FIG
+7	gegangen	FIG	LIT	FIG	FIG
 8	.	*	*	*	*
 
 # tuepp_article_id = T981017.180
 # sent_id = 5487
+# text = Zuerst ging der amtsmüde Wirtschaftssenator Elmar Pieroth ( CDU ) von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zuerst ging der amtsmüde Wirtschaftssenator Elmar Pieroth ( CDU ) von Bord .
 1	Zuerst	*	*	*	*
-2	ging	2	2	2	2
+2	ging	FIG	FIG	FIG	FIG
 3	der	*	*	*	*
 4	amtsmüde	*	*	*	*
 5	Wirtschaftssenator	*	*	*	*
@@ -1828,50 +1881,53 @@
 8	(	*	*	*	*
 9	CDU	*	*	*	*
 10	)	*	*	*	*
-11	von	2	2	2	2
-12	Bord	2	2	2	2
+11	von	FIG	FIG	FIG	FIG
+12	Bord	FIG	FIG	FIG	FIG
 13	.	*	*	*	*
 
 # tuepp_article_id = T981001.110
 # sent_id = 5488
+# text = Mit Matthias Wissmann geht der entschlossenste Bremser von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit Matthias Wissmann geht der entschlossenste Bremser von Bord .
 1	Mit	*	*	*	*
 2	Matthias	*	*	*	*
 3	Wissmann	*	*	*	*
-4	geht	2	2	2	2
+4	geht	FIG	FIG	FIG	FIG
 5	der	*	*	*	*
 6	entschlossenste	*	*	*	*
 7	Bremser	*	*	*	*
-8	von	2	2	2	2
-9	Bord	2	2	2	2
+8	von	FIG	FIG	FIG	FIG
+9	Bord	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T980917.190
 # sent_id = 5489
+# text = Denn mit Zemaitat ging der letzte " echte " Herthaner von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Denn mit Zemaitat ging der letzte " echte " Herthaner von Bord .
 1	Denn	*	*	*	*
 2	mit	*	*	*	*
 3	Zemaitat	*	*	*	*
-4	ging	2	2	2	2
+4	ging	FIG	FIG	FIG	FIG
 5	der	*	*	*	*
 6	letzte	*	*	*	*
 7	"	*	*	*	*
 8	echte	*	*	*	*
 9	"	*	*	*	*
 10	Herthaner	*	*	*	*
-11	von	2	2	2	2
-12	Bord	2	2	2	2
+11	von	FIG	FIG	FIG	FIG
+12	Bord	FIG	FIG	FIG	FIG
 13	.	*	*	*	*
 
 # tuepp_article_id = T980718.339
 # sent_id = 5490
+# text = 35.000 Dollar bot der "Astron"-Geschäftsführer durchs Telefon und erkundigte sich nach dem Zustand der " Girls " auf St. Pauli : " Im übrigen können Sie den Kerlen sagen , daß sie keinen Cent kriegen , wenn sie von Bord gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = 35.000 Dollar bot der "Astron"-Geschäftsführer durchs Telefon und erkundigte sich nach dem Zustand der " Girls " auf St. Pauli : " Im übrigen können Sie den Kerlen sagen , daß sie keinen Cent kriegen , wenn sie von Bord gehen .
 1	35.000	*	*	*	*
 2	Dollar	*	*	*	*
 3	bot	*	*	*	*
@@ -1911,18 +1967,19 @@
 37	,	*	*	*	*
 38	wenn	*	*	*	*
 39	sie	*	*	*	*
-40	von	1	2	1	1
-41	Bord	1	2	1	1
-42	gehen	1	2	1	1
+40	von	LIT	FIG	LIT	LIT
+41	Bord	LIT	FIG	LIT	LIT
+42	gehen	LIT	FIG	LIT	LIT
 43	.	*	*	*	*
 
 # tuepp_article_id = T981215.130
 # sent_id = 5491
+# text = Damit geht auch der letzte starke Mann der bisherigen politischen Führung Algeriens von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Damit geht auch der letzte starke Mann der bisherigen politischen Führung Algeriens von Bord .
 1	Damit	*	*	*	*
-2	geht	2	2	2	2
+2	geht	FIG	FIG	FIG	FIG
 3	auch	*	*	*	*
 4	der	*	*	*	*
 5	letzte	*	*	*	*
@@ -1933,15 +1990,16 @@
 10	politischen	*	*	*	*
 11	Führung	*	*	*	*
 12	Algeriens	*	*	*	*
-13	von	2	2	2	2
-14	Bord	2	2	2	2
+13	von	FIG	FIG	FIG	FIG
+14	Bord	FIG	FIG	FIG	FIG
 15	.	*	*	*	*
 
 # tuepp_article_id = T980804.25
 # sent_id = 5492
+# text = Doch dazu sehen sie sich körperlich nicht in der Lage und gehen von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Doch dazu sehen sie sich körperlich nicht in der Lage und gehen von Bord .
 1	Doch	*	*	*	*
 2	dazu	*	*	*	*
 3	sehen	*	*	*	*
@@ -1953,16 +2011,17 @@
 9	der	*	*	*	*
 10	Lage	*	*	*	*
 11	und	*	*	*	*
-12	gehen	1	1	2	1
-13	von	1	1	2	1
-14	Bord	1	1	2	1
+12	gehen	LIT	LIT	FIG	LIT
+13	von	LIT	LIT	FIG	LIT
+14	Bord	LIT	LIT	FIG	LIT
 15	.	*	*	*	*
 
 # tuepp_article_id = T980314.133
 # sent_id = 5493
+# text = Von Zeit zu Zeit legen wir irgendwo an , Leute gehen von Bord , Kisten werden entladen , Säcke mit Karitbutter , Zucker , all die Waren , die anders nicht in den Norden gelangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Von Zeit zu Zeit legen wir irgendwo an , Leute gehen von Bord , Kisten werden entladen , Säcke mit Karitbutter , Zucker , all die Waren , die anders nicht in den Norden gelangen .
 1	Von	*	*	*	*
 2	Zeit	*	*	*	*
 3	zu	*	*	*	*
@@ -1973,9 +2032,9 @@
 8	an	*	*	*	*
 9	,	*	*	*	*
 10	Leute	*	*	*	*
-11	gehen	1	1	1	1
-12	von	1	1	1	1
-13	Bord	1	1	1	1
+11	gehen	LIT	LIT	LIT	LIT
+12	von	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
 14	,	*	*	*	*
 15	Kisten	*	*	*	*
 16	werden	*	*	*	*
@@ -2002,9 +2061,10 @@
 
 # tuepp_article_id = T981113.21
 # sent_id = 5494
+# text = Der chinesische Kapitän hatte weder die Maschinen gestoppt noch den Anker geworfen , als er als letzter von Bord ging .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der chinesische Kapitän hatte weder die Maschinen gestoppt noch den Anker geworfen , als er als letzter von Bord ging .
 1	Der	*	*	*	*
 2	chinesische	*	*	*	*
 3	Kapitän	*	*	*	*
@@ -2022,16 +2082,17 @@
 15	er	*	*	*	*
 16	als	*	*	*	*
 17	letzter	*	*	*	*
-18	von	1	1	1	1
-19	Bord	1	1	1	1
-20	ging	1	1	1	1
+18	von	LIT	LIT	LIT	LIT
+19	Bord	LIT	LIT	LIT	LIT
+20	ging	LIT	LIT	LIT	LIT
 21	.	*	*	*	*
 
 # tuepp_article_id = T981128.339
 # sent_id = 5495
+# text = Meinen schüchternen Einwand , daß Kolumbus nach 72 Tagen auf der gleichen Route a ) am falschen Platz und b ) skorbutbedingt ein paar Zähne leichter von Bord ging , quittierte die Gefährtin mit dem lapidaren Bescheid : " Wenn du das so toll findest , dann lern doch segeln !
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Meinen schüchternen Einwand , daß Kolumbus nach 72 Tagen auf der gleichen Route a ) am falschen Platz und b ) skorbutbedingt ein paar Zähne leichter von Bord ging , quittierte die Gefährtin mit dem lapidaren Bescheid : " Wenn du das so toll findest , dann lern doch segeln !
 1	Meinen	*	*	*	*
 2	schüchternen	*	*	*	*
 3	Einwand	*	*	*	*
@@ -2058,9 +2119,9 @@
 24	paar	*	*	*	*
 25	Zähne	*	*	*	*
 26	leichter	*	*	*	*
-27	von	1	2	1	1
-28	Bord	1	2	1	1
-29	ging	1	2	1	1
+27	von	LIT	FIG	LIT	LIT
+28	Bord	LIT	FIG	LIT	LIT
+29	ging	LIT	FIG	LIT	LIT
 30	,	*	*	*	*
 31	quittierte	*	*	*	*
 32	die	*	*	*	*
@@ -2086,9 +2147,10 @@
 
 # tuepp_article_id = T970506.88
 # sent_id = 5496
+# text = Paris ( taz ) - Weil sie " profranzösisch " sind , mußten der togolesische und der kongolesische Staatschef von Bord der " Outeniqua " gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Paris ( taz ) - Weil sie " profranzösisch " sind , mußten der togolesische und der kongolesische Staatschef von Bord der " Outeniqua " gehen .
 1	Paris	*	*	*	*
 2	(	*	*	*	*
 3	taz	*	*	*	*
@@ -2108,20 +2170,21 @@
 17	der	*	*	*	*
 18	kongolesische	*	*	*	*
 19	Staatschef	*	*	*	*
-20	von	1	2	2	2
-21	Bord	1	2	2	2
+20	von	LIT	FIG	FIG	FIG
+21	Bord	LIT	FIG	FIG	FIG
 22	der	*	*	*	*
 23	"	*	*	*	*
 24	Outeniqua	*	*	*	*
 25	"	*	*	*	*
-26	gehen	1	2	2	2
+26	gehen	LIT	FIG	FIG	FIG
 27	.	*	*	*	*
 
 # tuepp_article_id = T970509.102
 # sent_id = 5497
+# text = Und der Schriftsteller Adolf Muschg schniefte : " Der Lotse geht von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und der Schriftsteller Adolf Muschg schniefte : " Der Lotse geht von Bord .
 1	Und	*	*	*	*
 2	der	*	*	*	*
 3	Schriftsteller	*	*	*	*
@@ -2132,24 +2195,25 @@
 8	"	*	*	*	*
 9	Der	*	*	*	*
 10	Lotse	*	*	*	*
-11	geht	2	2	2	2
-12	von	2	2	2	2
-13	Bord	2	2	2	2
+11	geht	FIG	FIG	FIG	FIG
+12	von	FIG	FIG	FIG	FIG
+13	Bord	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T971029.250
 # sent_id = 5498
+# text = Sie wollten am liebsten sofort von Bord gehen , sobald sie ihre ausstehende Heuer von 90.000 Dollar bekommen haben .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie wollten am liebsten sofort von Bord gehen , sobald sie ihre ausstehende Heuer von 90.000 Dollar bekommen haben .
 1	Sie	*	*	*	*
 2	wollten	*	*	*	*
 3	am	*	*	*	*
 4	liebsten	*	*	*	*
 5	sofort	*	*	*	*
-6	von	1	1	1	1
-7	Bord	1	1	1	1
-8	gehen	1	1	1	1
+6	von	LIT	LIT	LIT	LIT
+7	Bord	LIT	LIT	LIT	LIT
+8	gehen	LIT	LIT	LIT	LIT
 9	,	*	*	*	*
 10	sobald	*	*	*	*
 11	sie	*	*	*	*
@@ -2165,69 +2229,73 @@
 
 # tuepp_article_id = T970117.246
 # sent_id = 5499
+# text = Mit zwanzig Dollar in der Tasche ging er an der Pazifikküste von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit zwanzig Dollar in der Tasche ging er an der Pazifikküste von Bord .
 1	Mit	*	*	*	*
 2	zwanzig	*	*	*	*
 3	Dollar	*	*	*	*
 4	in	*	*	*	*
 5	der	*	*	*	*
 6	Tasche	*	*	*	*
-7	ging	1	1	1	1
+7	ging	LIT	LIT	LIT	LIT
 8	er	*	*	*	*
 9	an	*	*	*	*
 10	der	*	*	*	*
 11	Pazifikküste	*	*	*	*
-12	von	1	1	1	1
-13	Bord	1	1	1	1
+12	von	LIT	LIT	LIT	LIT
+13	Bord	LIT	LIT	LIT	LIT
 14	.	*	*	*	*
 
 # tuepp_article_id = T970124.169
 # sent_id = 5500
+# text = Kurt Hammer , bisheriger Kanzler , geht nächsten Freitag von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kurt Hammer , bisheriger Kanzler , geht nächsten Freitag von Bord .
 1	Kurt	*	*	*	*
 2	Hammer	*	*	*	*
 3	,	*	*	*	*
 4	bisheriger	*	*	*	*
 5	Kanzler	*	*	*	*
 6	,	*	*	*	*
-7	geht	2	2	2	2
+7	geht	FIG	FIG	FIG	FIG
 8	nächsten	*	*	*	*
 9	Freitag	*	*	*	*
-10	von	2	2	2	2
-11	Bord	2	2	2	2
+10	von	FIG	FIG	FIG	FIG
+11	Bord	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T970403.89
 # sent_id = 5501
+# text = Wie Korrespondenten berichteten , gingen rund 80 Menschen von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Wie Korrespondenten berichteten , gingen rund 80 Menschen von Bord .
 1	Wie	*	*	*	*
 2	Korrespondenten	*	*	*	*
 3	berichteten	*	*	*	*
 4	,	*	*	*	*
-5	gingen	1	1	1	1
+5	gingen	LIT	LIT	LIT	LIT
 6	rund	*	*	*	*
 7	80	*	*	*	*
 8	Menschen	*	*	*	*
-9	von	1	1	1	1
-10	Bord	1	1	1	1
+9	von	LIT	LIT	LIT	LIT
+10	Bord	LIT	LIT	LIT	LIT
 11	.	*	*	*	*
 
 # tuepp_article_id = T970424.103
 # sent_id = 5502
+# text = Abtreten , von Bord gehen , das wäre wie eine Exmatrikulation .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Abtreten , von Bord gehen , das wäre wie eine Exmatrikulation .
 1	Abtreten	*	*	*	*
 2	,	*	*	*	*
-3	von	2	2	2	2
-4	Bord	2	2	2	2
-5	gehen	2	2	2	2
+3	von	FIG	FIG	FIG	FIG
+4	Bord	FIG	FIG	FIG	FIG
+5	gehen	FIG	FIG	FIG	FIG
 6	,	*	*	*	*
 7	das	*	*	*	*
 8	wäre	*	*	*	*
@@ -2238,17 +2306,18 @@
 
 # tuepp_article_id = T970711.248
 # sent_id = 5503
+# text = Dennoch wagt niemand , von Bord zu gehen oder selbst das Steuer zu ergreifen , um den Kurs zu wechseln .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Dennoch wagt niemand , von Bord zu gehen oder selbst das Steuer zu ergreifen , um den Kurs zu wechseln .
 1	Dennoch	*	*	*	*
 2	wagt	*	*	*	*
 3	niemand	*	*	*	*
 4	,	*	*	*	*
-5	von	2	2	2	2
-6	Bord	2	2	2	2
+5	von	FIG	FIG	FIG	FIG
+6	Bord	FIG	FIG	FIG	FIG
 7	zu	*	*	*	*
-8	gehen	2	2	2	2
+8	gehen	FIG	FIG	FIG	FIG
 9	oder	*	*	*	*
 10	selbst	*	*	*	*
 11	das	*	*	*	*
@@ -2265,9 +2334,10 @@
 
 # tuepp_article_id = T970709.171
 # sent_id = 5504
+# text = Der Chefredakteur war bereits nach der dritten Ausgabe von Bord gegangen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Chefredakteur war bereits nach der dritten Ausgabe von Bord gegangen .
 1	Der	*	*	*	*
 2	Chefredakteur	*	*	*	*
 3	war	*	*	*	*
@@ -2276,16 +2346,17 @@
 6	der	*	*	*	*
 7	dritten	*	*	*	*
 8	Ausgabe	*	*	*	*
-9	von	2	2	2	2
-10	Bord	2	2	2	2
-11	gegangen	2	2	2	2
+9	von	FIG	FIG	FIG	FIG
+10	Bord	FIG	FIG	FIG	FIG
+11	gegangen	FIG	FIG	FIG	FIG
 12	.	*	*	*	*
 
 # tuepp_article_id = T971206.242
 # sent_id = 5505
+# text = Doch nach Dieter Honisch , der bis 1997 die Neue Nationalgalerie 22 Jahre lang führte , geht mit Knopp im Januar 1998 der zweite Lotse von Bord des Museumstankers in den Ruhestand .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Doch nach Dieter Honisch , der bis 1997 die Neue Nationalgalerie 22 Jahre lang führte , geht mit Knopp im Januar 1998 der zweite Lotse von Bord des Museumstankers in den Ruhestand .
 1	Doch	*	*	*	*
 2	nach	*	*	*	*
 3	Dieter	*	*	*	*
@@ -2302,7 +2373,7 @@
 14	lang	*	*	*	*
 15	führte	*	*	*	*
 16	,	*	*	*	*
-17	geht	2	2	2	2
+17	geht	FIG	FIG	FIG	FIG
 18	mit	*	*	*	*
 19	Knopp	*	*	*	*
 20	im	*	*	*	*
@@ -2311,8 +2382,8 @@
 23	der	*	*	*	*
 24	zweite	*	*	*	*
 25	Lotse	*	*	*	*
-26	von	2	2	2	2
-27	Bord	2	2	2	2
+26	von	FIG	FIG	FIG	FIG
+27	Bord	FIG	FIG	FIG	FIG
 28	des	*	*	*	*
 29	Museumstankers	*	*	*	*
 30	in	*	*	*	*
@@ -2322,18 +2393,19 @@
 
 # tuepp_article_id = T940602.87
 # sent_id = 5506
+# text = Als kommandierender Offizier ging er als erster von Bord und bezifferte seine Überlebenschancen mit " fünfzig zu fünfzig " .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Als kommandierender Offizier ging er als erster von Bord und bezifferte seine Überlebenschancen mit " fünfzig zu fünfzig " .
 1	Als	*	*	*	*
 2	kommandierender	*	*	*	*
 3	Offizier	*	*	*	*
-4	ging	1	2	1	1
+4	ging	LIT	FIG	LIT	LIT
 5	er	*	*	*	*
 6	als	*	*	*	*
 7	erster	*	*	*	*
-8	von	1	2	1	1
-9	Bord	1	2	1	1
+8	von	LIT	FIG	LIT	LIT
+9	Bord	LIT	FIG	LIT	LIT
 10	und	*	*	*	*
 11	bezifferte	*	*	*	*
 12	seine	*	*	*	*
@@ -2348,9 +2420,10 @@
 
 # tuepp_article_id = T940621.205
 # sent_id = 5507
+# text = Die gefährlichste Klippe ist umschifft , die größten Löcher sind gestopft , das Schiff ist wieder auf Kurs , da geht der Lotse von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Die gefährlichste Klippe ist umschifft , die größten Löcher sind gestopft , das Schiff ist wieder auf Kurs , da geht der Lotse von Bord .
 1	Die	*	*	*	*
 2	gefährlichste	*	*	*	*
 3	Klippe	*	*	*	*
@@ -2371,18 +2444,19 @@
 18	Kurs	*	*	*	*
 19	,	*	*	*	*
 20	da	*	*	*	*
-21	geht	2	2	2	2
+21	geht	FIG	FIG	FIG	FIG
 22	der	*	*	*	*
 23	Lotse	*	*	*	*
-24	von	2	2	2	2
-25	Bord	2	2	2	2
+24	von	FIG	FIG	FIG	FIG
+25	Bord	FIG	FIG	FIG	FIG
 26	.	*	*	*	*
 
 # tuepp_article_id = T941231.84
 # sent_id = 5508
+# text = Eine Maschine der französischen Fluggesellschaft Air Inter , die aus Marseille kam , wurde unmittelbar nach ihrer Landung in Algerien von der begonnenen Geiselnahme in der Air-France-Maschine informiert und startete sofort wieder , ohne ihre Passagiere von Bord gehen zu lassen oder die Maschine aufzutanken .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Eine Maschine der französischen Fluggesellschaft Air Inter , die aus Marseille kam , wurde unmittelbar nach ihrer Landung in Algerien von der begonnenen Geiselnahme in der Air-France-Maschine informiert und startete sofort wieder , ohne ihre Passagiere von Bord gehen zu lassen oder die Maschine aufzutanken .
 1	Eine	*	*	*	*
 2	Maschine	*	*	*	*
 3	der	*	*	*	*
@@ -2419,9 +2493,9 @@
 34	ohne	*	*	*	*
 35	ihre	*	*	*	*
 36	Passagiere	*	*	*	*
-37	von	1	1	1	1
-38	Bord	1	1	1	1
-39	gehen	1	1	1	1
+37	von	LIT	LIT	LIT	LIT
+38	Bord	LIT	LIT	LIT	LIT
+39	gehen	LIT	LIT	LIT	LIT
 40	zu	*	*	*	*
 41	lassen	*	*	*	*
 42	oder	*	*	*	*
@@ -2432,9 +2506,10 @@
 
 # tuepp_article_id = T940822.239
 # sent_id = 5509
+# text = " Lauter Blech " und " theatre du pain " sind von Bord gegangen und haben viel Spektakuläres mitgenommen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = " Lauter Blech " und " theatre du pain " sind von Bord gegangen und haben viel Spektakuläres mitgenommen .
 1	"	*	*	*	*
 2	Lauter	*	*	*	*
 3	Blech	*	*	*	*
@@ -2446,9 +2521,9 @@
 9	pain	*	*	*	*
 10	"	*	*	*	*
 11	sind	*	*	*	*
-12	von	2	2	2	2
-13	Bord	2	2	2	2
-14	gegangen	2	2	2	2
+12	von	FIG	FIG	FIG	FIG
+13	Bord	FIG	FIG	FIG	FIG
+14	gegangen	FIG	FIG	FIG	FIG
 15	und	*	*	*	*
 16	haben	*	*	*	*
 17	viel	*	*	*	*
@@ -2458,21 +2533,23 @@
 
 # tuepp_article_id = T940822.239
 # sent_id = 5510
+# text = Der taz-Reporter geht von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Der taz-Reporter geht von Bord .
 1	Der	*	*	*	*
 2	taz-Reporter	*	*	*	*
-3	geht	2	2	3	2
-4	von	2	2	3	2
-5	Bord	2	2	3	2
+3	geht	FIG	FIG	UND	FIG
+4	von	FIG	FIG	UND	FIG
+5	Bord	FIG	FIG	UND	FIG
 6	.	*	*	*	*
 
 # tuepp_article_id = T940819.252
 # sent_id = 5511
+# text = " Dann hat sie mich gegenüber einem Mädchen , das wir betreuten , regelrecht bloßgestellt : ' Wenn du glaubst , Ulrike kümmert sich nicht um dich , ruf mich an ' , sagte sie zu ihr , als sie von Bord ging und wir noch einige Wochen alleine weiterfuhren .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = " Dann hat sie mich gegenüber einem Mädchen , das wir betreuten , regelrecht bloßgestellt : ' Wenn du glaubst , Ulrike kümmert sich nicht um dich , ruf mich an ' , sagte sie zu ihr , als sie von Bord ging und wir noch einige Wochen alleine weiterfuhren .
 1	"	*	*	*	*
 2	Dann	*	*	*	*
 3	hat	*	*	*	*
@@ -2513,9 +2590,9 @@
 38	,	*	*	*	*
 39	als	*	*	*	*
 40	sie	*	*	*	*
-41	von	1	2	1	1
-42	Bord	1	2	1	1
-43	ging	1	2	1	1
+41	von	LIT	FIG	LIT	LIT
+42	Bord	LIT	FIG	LIT	LIT
+43	ging	LIT	FIG	LIT	LIT
 44	und	*	*	*	*
 45	wir	*	*	*	*
 46	noch	*	*	*	*
@@ -2527,9 +2604,10 @@
 
 # tuepp_article_id = T940318.56
 # sent_id = 5512
+# text = Ludwigshafen ( dpa / AP / taz ) - Bei BASF geht es angeblich wieder aufwärts , nachdem im letzten Jahr 11.000 der vormals 123.000 Beschäftigten von Bord gehen mußten .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ludwigshafen ( dpa / AP / taz ) - Bei BASF geht es angeblich wieder aufwärts , nachdem im letzten Jahr 11.000 der vormals 123.000 Beschäftigten von Bord gehen mußten .
 1	Ludwigshafen	*	*	*	*
 2	(	*	*	*	*
 3	dpa	*	*	*	*
@@ -2556,29 +2634,31 @@
 24	vormals	*	*	*	*
 25	123.000	*	*	*	*
 26	Beschäftigten	*	*	*	*
-27	von	2	2	2	2
-28	Bord	2	2	2	2
-29	gehen	2	2	2	2
+27	von	FIG	FIG	FIG	FIG
+28	Bord	FIG	FIG	FIG	FIG
+29	gehen	FIG	FIG	FIG	FIG
 30	mußten	*	*	*	*
 31	.	*	*	*	*
 
 # tuepp_article_id = T950512.85
 # sent_id = 5513
+# text = Der Lotse geht von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Lotse geht von Bord .
 1	Der	*	*	*	*
 2	Lotse	*	*	*	*
-3	geht	2	2	2	2
-4	von	2	2	2	2
-5	Bord	2	2	2	2
+3	geht	FIG	FIG	FIG	FIG
+4	von	FIG	FIG	FIG	FIG
+5	Bord	FIG	FIG	FIG	FIG
 6	.	*	*	*	*
 
 # tuepp_article_id = T950512.234
 # sent_id = 5514
+# text = Er wird bald wieder steigen , und die Leute werden froh sein , nicht von Bord gegangen zu sein .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Er wird bald wieder steigen , und die Leute werden froh sein , nicht von Bord gegangen zu sein .
 1	Er	*	*	*	*
 2	wird	*	*	*	*
 3	bald	*	*	*	*
@@ -2593,27 +2673,28 @@
 12	sein	*	*	*	*
 13	,	*	*	*	*
 14	nicht	*	*	*	*
-15	von	2	2	2	2
-16	Bord	2	2	2	2
-17	gegangen	2	2	2	2
+15	von	FIG	FIG	FIG	FIG
+16	Bord	FIG	FIG	FIG	FIG
+17	gegangen	FIG	FIG	FIG	FIG
 18	zu	*	*	*	*
 19	sein	*	*	*	*
 20	.	*	*	*	*
 
 # tuepp_article_id = T950602.206
 # sent_id = 5515
+# text = Die Seeleute dürfen zudem meist nicht von Bord gehen oder Kontakt mit der Außenwelt aufnehmen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Seeleute dürfen zudem meist nicht von Bord gehen oder Kontakt mit der Außenwelt aufnehmen .
 1	Die	*	*	*	*
 2	Seeleute	*	*	*	*
 3	dürfen	*	*	*	*
 4	zudem	*	*	*	*
 5	meist	*	*	*	*
 6	nicht	*	*	*	*
-7	von	1	1	1	1
-8	Bord	1	1	1	1
-9	gehen	1	1	1	1
+7	von	LIT	LIT	LIT	LIT
+8	Bord	LIT	LIT	LIT	LIT
+9	gehen	LIT	LIT	LIT	LIT
 10	oder	*	*	*	*
 11	Kontakt	*	*	*	*
 12	mit	*	*	*	*
@@ -2624,9 +2705,10 @@
 
 # tuepp_article_id = T951019.77
 # sent_id = 5516
+# text = In Larnaca durfte nur eine schwangere Frau von Bord gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In Larnaca durfte nur eine schwangere Frau von Bord gehen .
 1	In	*	*	*	*
 2	Larnaca	*	*	*	*
 3	durfte	*	*	*	*
@@ -2634,19 +2716,20 @@
 5	eine	*	*	*	*
 6	schwangere	*	*	*	*
 7	Frau	*	*	*	*
-8	von	1	1	1	1
-9	Bord	1	1	1	1
-10	gehen	1	1	1	1
+8	von	LIT	LIT	LIT	LIT
+9	Bord	LIT	LIT	LIT	LIT
+10	gehen	LIT	LIT	LIT	LIT
 11	.	*	*	*	*
 
 # tuepp_article_id = T950102.214
 # sent_id = 5517
+# text = In Europa gehen Rafa und seine Kollegen daher nur selten von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = In Europa gehen Rafa und seine Kollegen daher nur selten von Bord .
 1	In	*	*	*	*
 2	Europa	*	*	*	*
-3	gehen	1	1	1	1
+3	gehen	LIT	LIT	LIT	LIT
 4	Rafa	*	*	*	*
 5	und	*	*	*	*
 6	seine	*	*	*	*
@@ -2654,19 +2737,20 @@
 8	daher	*	*	*	*
 9	nur	*	*	*	*
 10	selten	*	*	*	*
-11	von	1	1	1	1
-12	Bord	1	1	1	1
+11	von	LIT	LIT	LIT	LIT
+12	Bord	LIT	LIT	LIT	LIT
 13	.	*	*	*	*
 
 # tuepp_article_id = T951223.142
 # sent_id = 5518
+# text = Aber von Bord gehen im Hafen von Altwarp nicht etwa Besucher aus dem benachbarten Nowe Warpno .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aber von Bord gehen im Hafen von Altwarp nicht etwa Besucher aus dem benachbarten Nowe Warpno .
 1	Aber	*	*	*	*
-2	von	1	1	1	1
-3	Bord	1	1	1	1
-4	gehen	1	1	1	1
+2	von	LIT	LIT	LIT	LIT
+3	Bord	LIT	LIT	LIT	LIT
+4	gehen	LIT	LIT	LIT	LIT
 5	im	*	*	*	*
 6	Hafen	*	*	*	*
 7	von	*	*	*	*
@@ -2683,9 +2767,10 @@
 
 # tuepp_article_id = T951213.145
 # sent_id = 5519
+# text = Wir können es uns nicht leisten , daß unsere Filmtalente von Bord gehen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wir können es uns nicht leisten , daß unsere Filmtalente von Bord gehen .
 1	Wir	*	*	*	*
 2	können	*	*	*	*
 3	es	*	*	*	*
@@ -2696,22 +2781,23 @@
 8	daß	*	*	*	*
 9	unsere	*	*	*	*
 10	Filmtalente	*	*	*	*
-11	von	2	2	2	2
-12	Bord	2	2	2	2
-13	gehen	2	2	2	2
+11	von	FIG	FIG	FIG	FIG
+12	Bord	FIG	FIG	FIG	FIG
+13	gehen	FIG	FIG	FIG	FIG
 14	.	*	*	*	*
 
 # tuepp_article_id = T950211.255
 # sent_id = 5520
+# text = Schließlich ging der Programmgeschäftsführer von Bord , und mit ihm kehrten seine Frau Elisabeth Ruge und Veit Heinichen Frankfurt den Rücken , bei S. Fischer zuständig für russisch- und englischsprachige Literatur beziehungsweise Marketing und Werbung .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Schließlich ging der Programmgeschäftsführer von Bord , und mit ihm kehrten seine Frau Elisabeth Ruge und Veit Heinichen Frankfurt den Rücken , bei S. Fischer zuständig für russisch- und englischsprachige Literatur beziehungsweise Marketing und Werbung .
 1	Schließlich	*	*	*	*
-2	ging	2	2	2	2
+2	ging	FIG	FIG	FIG	FIG
 3	der	*	*	*	*
 4	Programmgeschäftsführer	*	*	*	*
-5	von	2	2	2	2
-6	Bord	2	2	2	2
+5	von	FIG	FIG	FIG	FIG
+6	Bord	FIG	FIG	FIG	FIG
 7	,	*	*	*	*
 8	und	*	*	*	*
 9	mit	*	*	*	*
@@ -2745,9 +2831,10 @@
 
 # tuepp_article_id = T950213.41
 # sent_id = 5521
+# text = Kunze hat schon einmal in einer ähnlich gelagerten Sache öffentlich seinen Austritt erklärt : Als die Westberliner Akademie der Künste die En-bloc-Übernahme von Mitgliedern der Ostberliner Akademie beschlossen hatte , gehörte er mit Günter Kunert zu den ersten , die von Bord gingen .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Kunze hat schon einmal in einer ähnlich gelagerten Sache öffentlich seinen Austritt erklärt : Als die Westberliner Akademie der Künste die En-bloc-Übernahme von Mitgliedern der Ostberliner Akademie beschlossen hatte , gehörte er mit Günter Kunert zu den ersten , die von Bord gingen .
 1	Kunze	*	*	*	*
 2	hat	*	*	*	*
 3	schon	*	*	*	*
@@ -2788,16 +2875,17 @@
 38	ersten	*	*	*	*
 39	,	*	*	*	*
 40	die	*	*	*	*
-41	von	2	2	2	2
-42	Bord	2	2	2	2
-43	gingen	2	2	2	2
+41	von	FIG	FIG	FIG	FIG
+42	Bord	FIG	FIG	FIG	FIG
+43	gingen	FIG	FIG	FIG	FIG
 44	.	*	*	*	*
 
 # tuepp_article_id = T990325.350
 # sent_id = 5522
+# text = Daran hindert sie auch nicht der schiffsmüde Kapitän , der eines Tages von Bord geht und ausgerechnet ihr das Kommando überträgt .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Daran hindert sie auch nicht der schiffsmüde Kapitän , der eines Tages von Bord geht und ausgerechnet ihr das Kommando überträgt .
 1	Daran	*	*	*	*
 2	hindert	*	*	*	*
 3	sie	*	*	*	*
@@ -2810,9 +2898,9 @@
 10	der	*	*	*	*
 11	eines	*	*	*	*
 12	Tages	*	*	*	*
-13	von	1	1	3	1
-14	Bord	1	1	3	1
-15	geht	1	1	3	1
+13	von	LIT	LIT	UND	LIT
+14	Bord	LIT	LIT	UND	LIT
+15	geht	LIT	LIT	UND	LIT
 16	und	*	*	*	*
 17	ausgerechnet	*	*	*	*
 18	ihr	*	*	*	*
@@ -2823,15 +2911,16 @@
 
 # tuepp_article_id = T990313.122
 # sent_id = 5523
+# text = Fährmann Lafontaine ist von Bord gegangen - was passiert mit den Steuergesetzen , die er maßgeblich beeinflußt hat ?
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Fährmann Lafontaine ist von Bord gegangen - was passiert mit den Steuergesetzen , die er maßgeblich beeinflußt hat ?
 1	Fährmann	*	*	*	*
 2	Lafontaine	*	*	*	*
 3	ist	*	*	*	*
-4	von	2	2	2	2
-5	Bord	2	2	2	2
-6	gegangen	2	2	2	2
+4	von	FIG	FIG	FIG	FIG
+5	Bord	FIG	FIG	FIG	FIG
+6	gegangen	FIG	FIG	FIG	FIG
 7	-	*	*	*	*
 8	was	*	*	*	*
 9	passiert	*	*	*	*
@@ -2848,9 +2937,10 @@
 
 # tuepp_article_id = T990316.10
 # sent_id = 5524
+# text = Der niederländische Finanzminister Gerrit Zalm sieht die Felle der Nettozahler bei den Agendaverhandlungen davonschwimmen , da der deutsche Zahlmeister mitten in der Ratspräsidentschaft grußlos von Bord gegangen ist .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der niederländische Finanzminister Gerrit Zalm sieht die Felle der Nettozahler bei den Agendaverhandlungen davonschwimmen , da der deutsche Zahlmeister mitten in der Ratspräsidentschaft grußlos von Bord gegangen ist .
 1	Der	*	*	*	*
 2	niederländische	*	*	*	*
 3	Finanzminister	*	*	*	*
@@ -2875,17 +2965,18 @@
 22	der	*	*	*	*
 23	Ratspräsidentschaft	*	*	*	*
 24	grußlos	*	*	*	*
-25	von	2	2	2	2
-26	Bord	2	2	2	2
-27	gegangen	2	2	2	2
+25	von	FIG	FIG	FIG	FIG
+26	Bord	FIG	FIG	FIG	FIG
+27	gegangen	FIG	FIG	FIG	FIG
 28	ist	*	*	*	*
 29	.	*	*	*	*
 
 # tuepp_article_id = T990327.206
 # sent_id = 5525
+# text = Die Kämpfer für das gute Essen wollen die Archeprodukte , ihre Hersteller und Vertriebswege bekanntmachen und ihren Absatz ankurbeln , damit irgendwann , so die Hoffnung von Kommissionsmitglied Wolfgang Schwöppe , Passagier für Passagier langsam wieder von Bord gehen kann .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Kämpfer für das gute Essen wollen die Archeprodukte , ihre Hersteller und Vertriebswege bekanntmachen und ihren Absatz ankurbeln , damit irgendwann , so die Hoffnung von Kommissionsmitglied Wolfgang Schwöppe , Passagier für Passagier langsam wieder von Bord gehen kann .
 1	Die	*	*	*	*
 2	Kämpfer	*	*	*	*
 3	für	*	*	*	*
@@ -2922,23 +3013,24 @@
 34	Passagier	*	*	*	*
 35	langsam	*	*	*	*
 36	wieder	*	*	*	*
-37	von	2	2	2	2
-38	Bord	2	2	2	2
-39	gehen	2	2	2	2
+37	von	FIG	FIG	FIG	FIG
+38	Bord	FIG	FIG	FIG	FIG
+39	gehen	FIG	FIG	FIG	FIG
 40	kann	*	*	*	*
 41	.	*	*	*	*
 
 # tuepp_article_id = T990317.177
 # sent_id = 5526
+# text = Geht das Land nun von Bord , indem es das Verfahren " aussetzt " , ist jede Debatte schon jetzt Makulatur .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Geht das Land nun von Bord , indem es das Verfahren " aussetzt " , ist jede Debatte schon jetzt Makulatur .
-1	Geht	2	2	2	2
+1	Geht	FIG	FIG	FIG	FIG
 2	das	*	*	*	*
 3	Land	*	*	*	*
 4	nun	*	*	*	*
-5	von	2	2	2	2
-6	Bord	2	2	2	2
+5	von	FIG	FIG	FIG	FIG
+6	Bord	FIG	FIG	FIG	FIG
 7	,	*	*	*	*
 8	indem	*	*	*	*
 9	es	*	*	*	*
@@ -2958,13 +3050,14 @@
 
 # tuepp_article_id = T990303.120
 # sent_id = 5527
+# text = Im Mai 1939 ging die Berlinerin , aus Deutschland kommend , im Hafen von Buenos Aires von Bord .
+# vid_types = von bord gehen
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Im Mai 1939 ging die Berlinerin , aus Deutschland kommend , im Hafen von Buenos Aires von Bord .
 1	Im	*	*	*	*
 2	Mai	*	*	*	*
 3	1939	*	*	*	*
-4	ging	1	1	1	1
+4	ging	LIT	LIT	LIT	LIT
 5	die	*	*	*	*
 6	Berlinerin	*	*	*	*
 7	,	*	*	*	*
@@ -2977,7 +3070,7 @@
 14	von	*	*	*	*
 15	Buenos	*	*	*	*
 16	Aires	*	*	*	*
-17	von	1	1	1	1
-18	Bord	1	1	1	1
+17	von	LIT	LIT	LIT	LIT
+18	Bord	LIT	LIT	LIT	LIT
 19	.	*	*	*	*
 

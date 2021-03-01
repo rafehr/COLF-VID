@@ -1,15 +1,16 @@
 # tuepp_article_id = T890427.171
 # sent_id = 329
+# text = Da muß der Kulturmuffel den Atem anhalten , wenn Batman in Aktion tritt , Dick Tracy sein Zwei-Kanal - Armbanduhr-Funkgerät mit Atombatterie in Betrieb nimmt und Supergirl gegen die surrealen Special Effects der achtziger Jahre zu kämpfen hat .
+# vid_types = atem anhalten
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Da muß der Kulturmuffel den Atem anhalten , wenn Batman in Aktion tritt , Dick Tracy sein Zwei-Kanal - Armbanduhr-Funkgerät mit Atombatterie in Betrieb nimmt und Supergirl gegen die surrealen Special Effects der achtziger Jahre zu kämpfen hat .
 1	Da	*	*	*	*
 2	muß	*	*	*	*
 3	der	*	*	*	*
 4	Kulturmuffel	*	*	*	*
 5	den	*	*	*	*
-6	Atem	2	2	2	2
-7	anhalten	2	2	2	2
+6	Atem	FIG	FIG	FIG	FIG
+7	anhalten	FIG	FIG	FIG	FIG
 8	,	*	*	*	*
 9	wenn	*	*	*	*
 10	Batman	*	*	*	*
@@ -45,9 +46,10 @@
 
 # tuepp_article_id = T890807.96
 # sent_id = 330
+# text = Und die fordern das Publikum - das einmal den Atem anhält : Einer läßt sich in einer Mut - / Vertrauensprobe von einer Wand fallen .
+# vid_types = atem anhalten
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Und die fordern das Publikum - das einmal den Atem anhält : Einer läßt sich in einer Mut - / Vertrauensprobe von einer Wand fallen .
 1	Und	*	*	*	*
 2	die	*	*	*	*
 3	fordern	*	*	*	*
@@ -57,8 +59,8 @@
 7	das	*	*	*	*
 8	einmal	*	*	*	*
 9	den	*	*	*	*
-10	Atem	2	2	2	2
-11	anhält	2	2	2	2
+10	Atem	FIG	FIG	FIG	FIG
+11	anhält	FIG	FIG	FIG	FIG
 12	:	*	*	*	*
 13	Einer	*	*	*	*
 14	läßt	*	*	*	*
@@ -77,9 +79,10 @@
 
 # tuepp_article_id = T891113.114
 # sent_id = 331
+# text = In solchen historischen Situationen , wo die Ereignisse sich überschlagen und die Welt den Atem anhält , da hat vor allem das Radio die Nase vorn .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In solchen historischen Situationen , wo die Ereignisse sich überschlagen und die Welt den Atem anhält , da hat vor allem das Radio die Nase vorn .
 1	In	*	*	*	*
 2	solchen	*	*	*	*
 3	historischen	*	*	*	*
@@ -94,8 +97,8 @@
 12	die	*	*	*	*
 13	Welt	*	*	*	*
 14	den	*	*	*	*
-15	Atem	2	2	2	2
-16	anhält	2	2	2	2
+15	Atem	FIG	FIG	FIG	FIG
+16	anhält	FIG	FIG	FIG	FIG
 17	,	*	*	*	*
 18	da	*	*	*	*
 19	hat	*	*	*	*
@@ -110,9 +113,10 @@
 
 # tuepp_article_id = T890222.34
 # sent_id = 332
+# text = Die miserablen Umfrageergebnisse der Union lassen einige bereits jetzt den Atem anhalten .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die miserablen Umfrageergebnisse der Union lassen einige bereits jetzt den Atem anhalten .
 1	Die	*	*	*	*
 2	miserablen	*	*	*	*
 3	Umfrageergebnisse	*	*	*	*
@@ -123,15 +127,16 @@
 8	bereits	*	*	*	*
 9	jetzt	*	*	*	*
 10	den	*	*	*	*
-11	Atem	2	2	2	2
-12	anhalten	2	2	2	2
+11	Atem	FIG	FIG	FIG	FIG
+12	anhalten	FIG	FIG	FIG	FIG
 13	.	*	*	*	*
 
 # tuepp_article_id = T910517.108
 # sent_id = 333
+# text = ' De Volkskrant ` ( Holland ) : " Rotterdam hatte den Atem angehalten .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = ' De Volkskrant ` ( Holland ) : " Rotterdam hatte den Atem angehalten .
 1	'	*	*	*	*
 2	De	*	*	*	*
 3	Volkskrant	*	*	*	*
@@ -144,15 +149,16 @@
 10	Rotterdam	*	*	*	*
 11	hatte	*	*	*	*
 12	den	*	*	*	*
-13	Atem	2	2	2	2
-14	angehalten	2	2	2	2
+13	Atem	FIG	FIG	FIG	FIG
+14	angehalten	FIG	FIG	FIG	FIG
 15	.	*	*	*	*
 
 # tuepp_article_id = T910611.126
 # sent_id = 334
+# text = Zuvorderst ist die hinreißende Musik zu rühmen : Lothar Zagrosek und das Gewandhausorchester legten eine Figaro-Ouvertüre vor , daß man den Atem anhalten mußte .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zuvorderst ist die hinreißende Musik zu rühmen : Lothar Zagrosek und das Gewandhausorchester legten eine Figaro-Ouvertüre vor , daß man den Atem anhalten mußte .
 1	Zuvorderst	*	*	*	*
 2	ist	*	*	*	*
 3	die	*	*	*	*
@@ -174,31 +180,33 @@
 19	daß	*	*	*	*
 20	man	*	*	*	*
 21	den	*	*	*	*
-22	Atem	2	2	2	2
-23	anhalten	2	2	2	2
+22	Atem	FIG	FIG	FIG	FIG
+23	anhalten	FIG	FIG	FIG	FIG
 24	mußte	*	*	*	*
 25	.	*	*	*	*
 
 # tuepp_article_id = T911203.106
 # sent_id = 335
+# text = Im ersten Augenblick mußte ich den Atem anhalten .
+# vid_types = atem anhalten
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Im ersten Augenblick mußte ich den Atem anhalten .
 1	Im	*	*	*	*
 2	ersten	*	*	*	*
 3	Augenblick	*	*	*	*
 4	mußte	*	*	*	*
 5	ich	*	*	*	*
 6	den	*	*	*	*
-7	Atem	1	1	1	1
-8	anhalten	1	1	1	1
+7	Atem	LIT	LIT	LIT	LIT
+8	anhalten	LIT	LIT	LIT	LIT
 9	.	*	*	*	*
 
 # tuepp_article_id = T910327.204
 # sent_id = 336
+# text = Ich gehe zu dem Bäumchen gegenüber dem Haupteingang : Müllsack ( mit Decken gefüllt ) auf die feuchte Erde , Pappschild und Hut ( Baskenmütze ) in Position und dann den Atem anhalten .
+# vid_types = atem anhalten
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Ich gehe zu dem Bäumchen gegenüber dem Haupteingang : Müllsack ( mit Decken gefüllt ) auf die feuchte Erde , Pappschild und Hut ( Baskenmütze ) in Position und dann den Atem anhalten .
 1	Ich	*	*	*	*
 2	gehe	*	*	*	*
 3	zu	*	*	*	*
@@ -230,15 +238,16 @@
 29	und	*	*	*	*
 30	dann	*	*	*	*
 31	den	*	*	*	*
-32	Atem	2	1	1	1
-33	anhalten	2	1	1	1
+32	Atem	FIG	LIT	LIT	LIT
+33	anhalten	FIG	LIT	LIT	LIT
 34	.	*	*	*	*
 
 # tuepp_article_id = T911101.71
 # sent_id = 337
+# text = Sascha A. , der " Stasi-Spitzel " - da haben viele den Atem angehalten und gefragt , kann er das auch belegen , der Biermann , ist die Akte auffindbar , ist er nicht ein wenig zu weit gegangen ... Paart sich jetzt die Egozentrik , die wir dem Künstler Biermann immer verziehen haben , mit einer übermäßigen Prise Altersstarrsinn ?
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sascha A. , der " Stasi-Spitzel " - da haben viele den Atem angehalten und gefragt , kann er das auch belegen , der Biermann , ist die Akte auffindbar , ist er nicht ein wenig zu weit gegangen ... Paart sich jetzt die Egozentrik , die wir dem Künstler Biermann immer verziehen haben , mit einer übermäßigen Prise Altersstarrsinn ?
 1	Sascha	*	*	*	*
 2	A.	*	*	*	*
 3	,	*	*	*	*
@@ -251,8 +260,8 @@
 10	haben	*	*	*	*
 11	viele	*	*	*	*
 12	den	*	*	*	*
-13	Atem	2	2	2	2
-14	angehalten	2	2	2	2
+13	Atem	FIG	FIG	FIG	FIG
+14	angehalten	FIG	FIG	FIG	FIG
 15	und	*	*	*	*
 16	gefragt	*	*	*	*
 17	,	*	*	*	*
@@ -303,9 +312,10 @@
 
 # tuepp_article_id = T900131.234
 # sent_id = 338
+# text = Koettlitz und sein Ensemble machen das schwierige Stück so leicht , so stimmig , so zärtlich und so kalt , daß die Zuschauer , wie Faßbinder es wollte , in ein Wechselbad von Gefühlen gestürzt werden , daß sie den Atem anhalten und heulen können .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Koettlitz und sein Ensemble machen das schwierige Stück so leicht , so stimmig , so zärtlich und so kalt , daß die Zuschauer , wie Faßbinder es wollte , in ein Wechselbad von Gefühlen gestürzt werden , daß sie den Atem anhalten und heulen können .
 1	Koettlitz	*	*	*	*
 2	und	*	*	*	*
 3	sein	*	*	*	*
@@ -346,8 +356,8 @@
 38	daß	*	*	*	*
 39	sie	*	*	*	*
 40	den	*	*	*	*
-41	Atem	2	2	2	2
-42	anhalten	2	2	2	2
+41	Atem	FIG	FIG	FIG	FIG
+42	anhalten	FIG	FIG	FIG	FIG
 43	und	*	*	*	*
 44	heulen	*	*	*	*
 45	können	*	*	*	*
@@ -355,9 +365,10 @@
 
 # tuepp_article_id = T900223.262
 # sent_id = 339
+# text = Louis Malles erstem und gleich genialem Film von 1957 ( Vorreiter der Nouvelle Vague ) hat das Leben scheinbar den Atem angehalten und doch läuft , irgendwo , die Zeit wie eine unsichtbare Uhr ab .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Louis Malles erstem und gleich genialem Film von 1957 ( Vorreiter der Nouvelle Vague ) hat das Leben scheinbar den Atem angehalten und doch läuft , irgendwo , die Zeit wie eine unsichtbare Uhr ab .
 1	Louis	*	*	*	*
 2	Malles	*	*	*	*
 3	erstem	*	*	*	*
@@ -378,8 +389,8 @@
 18	Leben	*	*	*	*
 19	scheinbar	*	*	*	*
 20	den	*	*	*	*
-21	Atem	2	2	2	2
-22	angehalten	2	2	2	2
+21	Atem	FIG	FIG	FIG	FIG
+22	angehalten	FIG	FIG	FIG	FIG
 23	und	*	*	*	*
 24	doch	*	*	*	*
 25	läuft	*	*	*	*
@@ -397,9 +408,10 @@
 
 # tuepp_article_id = T920102.159
 # sent_id = 340
+# text = Unter Hinweis auf den Krieg in Jugoslawien sagte er , wer auf » unsere Welt sieht , muß den Atem anhalten « .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Unter Hinweis auf den Krieg in Jugoslawien sagte er , wer auf » unsere Welt sieht , muß den Atem anhalten « .
 1	Unter	*	*	*	*
 2	Hinweis	*	*	*	*
 3	auf	*	*	*	*
@@ -419,21 +431,22 @@
 17	,	*	*	*	*
 18	muß	*	*	*	*
 19	den	*	*	*	*
-20	Atem	2	2	2	2
-21	anhalten	2	2	2	2
+20	Atem	FIG	FIG	FIG	FIG
+21	anhalten	FIG	FIG	FIG	FIG
 22	«	*	*	*	*
 23	.	*	*	*	*
 
 # tuepp_article_id = T920129.69
 # sent_id = 341
+# text = Während Algier den Atem anhält unter der Bleikappe der " Securite militaire " , bereitet sich draußen , an den Gestaden des " Club des Pins " , die alte Einheitspartei FLN ein Begräbnis erster Klasse .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Während Algier den Atem anhält unter der Bleikappe der " Securite militaire " , bereitet sich draußen , an den Gestaden des " Club des Pins " , die alte Einheitspartei FLN ein Begräbnis erster Klasse .
 1	Während	*	*	*	*
 2	Algier	*	*	*	*
 3	den	*	*	*	*
-4	Atem	2	1	1	1
-5	anhält	2	1	1	1
+4	Atem	FIG	LIT	LIT	LIT
+5	anhält	FIG	LIT	LIT	LIT
 6	unter	*	*	*	*
 7	der	*	*	*	*
 8	Bleikappe	*	*	*	*
@@ -469,14 +482,15 @@
 
 # tuepp_article_id = T920729.112
 # sent_id = 342
+# text = 1Seit Wochen verfolgt Polens Öffentlichkeit nun schon mit angehaltenem Atem , wie Polens Polizei und Staatsanwaltschaft etwas aufzuklären versuchen , was offenbar gar kein Verbrechen ist .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = 1Seit Wochen verfolgt Polens Öffentlichkeit nun schon mit angehaltenem Atem , wie Polens Polizei und Staatsanwaltschaft etwas aufzuklären versuchen , was offenbar gar kein Verbrechen ist .
 1	Während	*	*	*	*
 2	Algier	*	*	*	*
 3	den	*	*	*	*
-4	Atem	2	2	2	2
-5	anhält	2	2	2	2
+4	Atem	FIG	FIG	FIG	FIG
+5	anhält	FIG	FIG	FIG	FIG
 6	unter	*	*	*	*
 7	der	*	*	*	*
 8	Bleikappe	*	*	*	*
@@ -512,9 +526,10 @@
 
 # tuepp_article_id = T870508.31
 # sent_id = 343
+# text = Und Mompers SPD-Opposition ist ein Wackelpudding , der eben in Windrichtung zittert : Soll jetzt etwa die Weltgeschichte den Atem anhalten , weil auch Momper empört absagt ?
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Und Mompers SPD-Opposition ist ein Wackelpudding , der eben in Windrichtung zittert : Soll jetzt etwa die Weltgeschichte den Atem anhalten , weil auch Momper empört absagt ?
 1	Und	*	*	*	*
 2	Mompers	*	*	*	*
 3	SPD-Opposition	*	*	*	*
@@ -534,8 +549,8 @@
 17	die	*	*	*	*
 18	Weltgeschichte	*	*	*	*
 19	den	*	*	*	*
-20	Atem	2	2	2	2
-21	anhalten	2	2	2	2
+20	Atem	FIG	FIG	FIG	FIG
+21	anhalten	FIG	FIG	FIG	FIG
 22	,	*	*	*	*
 23	weil	*	*	*	*
 24	auch	*	*	*	*
@@ -546,17 +561,18 @@
 
 # tuepp_article_id = T930625.70
 # sent_id = 344
+# text = Wer in verschiedenen Lebensabschnitten kurz den Atem angehalten und Bilanz gezogen hat , wird festgestellt haben , daß der Verlust immer größer ist als der Gewinn .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Wer in verschiedenen Lebensabschnitten kurz den Atem angehalten und Bilanz gezogen hat , wird festgestellt haben , daß der Verlust immer größer ist als der Gewinn .
 1	Wer	*	*	*	*
 2	in	*	*	*	*
 3	verschiedenen	*	*	*	*
 4	Lebensabschnitten	*	*	*	*
 5	kurz	*	*	*	*
 6	den	*	*	*	*
-7	Atem	2	2	2	2
-8	angehalten	2	2	2	2
+7	Atem	FIG	FIG	FIG	FIG
+8	angehalten	FIG	FIG	FIG	FIG
 9	und	*	*	*	*
 10	Bilanz	*	*	*	*
 11	gezogen	*	*	*	*
@@ -579,9 +595,10 @@
 
 # tuepp_article_id = T930118.115
 # sent_id = 345
+# text = Sie füllt die Rolle aus mit jeder Geste , jedem Blick , jedem Ton - so daß die Leute den Atem anhalten müssen , solange sie noch lebt und singt , und , als sie stirbt , ein Stückchen mitsterben .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Sie füllt die Rolle aus mit jeder Geste , jedem Blick , jedem Ton - so daß die Leute den Atem anhalten müssen , solange sie noch lebt und singt , und , als sie stirbt , ein Stückchen mitsterben .
 1	Sie	*	*	*	*
 2	füllt	*	*	*	*
 3	die	*	*	*	*
@@ -602,8 +619,8 @@
 18	die	*	*	*	*
 19	Leute	*	*	*	*
 20	den	*	*	*	*
-21	Atem	2	2	2	2
-22	anhalten	2	2	2	2
+21	Atem	FIG	FIG	FIG	FIG
+22	anhalten	FIG	FIG	FIG	FIG
 23	müssen	*	*	*	*
 24	,	*	*	*	*
 25	solange	*	*	*	*
@@ -626,9 +643,10 @@
 
 # tuepp_article_id = T930708.21
 # sent_id = 346
+# text = Sie und die anderen Lagerinsassen hatten den Atem angehalten , als der Jeep an der Eingangstür des Lagers vorgefahren war .
+# vid_types = atem anhalten
 # context_judgement_1 = 1
 # context_judgement_2 = 1
-# text = Sie und die anderen Lagerinsassen hatten den Atem angehalten , als der Jeep an der Eingangstür des Lagers vorgefahren war .
 1	Sie	*	*	*	*
 2	und	*	*	*	*
 3	die	*	*	*	*
@@ -636,8 +654,8 @@
 5	Lagerinsassen	*	*	*	*
 6	hatten	*	*	*	*
 7	den	*	*	*	*
-8	Atem	2	1	1	1
-9	angehalten	2	1	1	1
+8	Atem	FIG	LIT	LIT	LIT
+9	angehalten	FIG	LIT	LIT	LIT
 10	,	*	*	*	*
 11	als	*	*	*	*
 12	der	*	*	*	*
@@ -653,9 +671,10 @@
 
 # tuepp_article_id = T931209.72
 # sent_id = 347
+# text = Brasiliens Reiche haben allen Grund , den Atem anzuhalten .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Brasiliens Reiche haben allen Grund , den Atem anzuhalten .
 1	Brasiliens	*	*	*	*
 2	Reiche	*	*	*	*
 3	haben	*	*	*	*
@@ -663,22 +682,23 @@
 5	Grund	*	*	*	*
 6	,	*	*	*	*
 7	den	*	*	*	*
-8	Atem	2	2	2	2
-9	anzuhalten	2	2	2	2
+8	Atem	FIG	FIG	FIG	FIG
+9	anzuhalten	FIG	FIG	FIG	FIG
 10	.	*	*	*	*
 
 # tuepp_article_id = T960613.95
 # sent_id = 348
+# text = Das ganze Land würde den Atem anhalten wie zuletzt im Golfkrieg .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das ganze Land würde den Atem anhalten wie zuletzt im Golfkrieg .
 1	Das	*	*	*	*
 2	ganze	*	*	*	*
 3	Land	*	*	*	*
 4	würde	*	*	*	*
 5	den	*	*	*	*
-6	Atem	2	2	2	2
-7	anhalten	2	2	2	2
+6	Atem	FIG	FIG	FIG	FIG
+7	anhalten	FIG	FIG	FIG	FIG
 8	wie	*	*	*	*
 9	zuletzt	*	*	*	*
 10	im	*	*	*	*
@@ -687,9 +707,10 @@
 
 # tuepp_article_id = T961016.246
 # sent_id = 349
+# text = Aber dann offenbarte Levin eine unbeschreibliche Fülle an Klangfarben , Artikulationen und besonders Rubati , die einen nicht selten den Atem anhalten ließen .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aber dann offenbarte Levin eine unbeschreibliche Fülle an Klangfarben , Artikulationen und besonders Rubati , die einen nicht selten den Atem anhalten ließen .
 1	Aber	*	*	*	*
 2	dann	*	*	*	*
 3	offenbarte	*	*	*	*
@@ -710,19 +731,20 @@
 18	nicht	*	*	*	*
 19	selten	*	*	*	*
 20	den	*	*	*	*
-21	Atem	2	2	2	2
-22	anhalten	2	2	2	2
+21	Atem	FIG	FIG	FIG	FIG
+22	anhalten	FIG	FIG	FIG	FIG
 23	ließen	*	*	*	*
 24	.	*	*	*	*
 
 # tuepp_article_id = T961022.102
 # sent_id = 350
+# text = Mit angehaltenem Atem linst der 20jährige durch den Spion .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Mit angehaltenem Atem linst der 20jährige durch den Spion .
 1	Mit	*	*	*	*
-2	angehaltenem	2	1	1	1
-3	Atem	2	1	1	1
+2	angehaltenem	FIG	LIT	LIT	LIT
+3	Atem	FIG	LIT	LIT	LIT
 4	linst	*	*	*	*
 5	der	*	*	*	*
 6	20jährige	*	*	*	*
@@ -733,9 +755,10 @@
 
 # tuepp_article_id = T960801.270
 # sent_id = 351
+# text = Aber zweifellos durchlebt man Eau de la vie zehn Minuten lang mit angehaltenem Atem .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aber zweifellos durchlebt man Eau de la vie zehn Minuten lang mit angehaltenem Atem .
 1	Aber	*	*	*	*
 2	zweifellos	*	*	*	*
 3	durchlebt	*	*	*	*
@@ -748,15 +771,16 @@
 10	Minuten	*	*	*	*
 11	lang	*	*	*	*
 12	mit	*	*	*	*
-13	angehaltenem	2	2	2	2
-14	Atem	2	2	2	2
+13	angehaltenem	FIG	FIG	FIG	FIG
+14	Atem	FIG	FIG	FIG	FIG
 15	.	*	*	*	*
 
 # tuepp_article_id = T960315.274
 # sent_id = 352
+# text = Hierbei durchquert man die Vorstädte und ein Industriegebiet , wo man lieber den Atem anhält , und wechselt über auf das andere Ufer des Tiete , dieses neuzeitlichen Styx am Stadtrand von Sao Paulo .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Hierbei durchquert man die Vorstädte und ein Industriegebiet , wo man lieber den Atem anhält , und wechselt über auf das andere Ufer des Tiete , dieses neuzeitlichen Styx am Stadtrand von Sao Paulo .
 1	Hierbei	*	*	*	*
 2	durchquert	*	*	*	*
 3	man	*	*	*	*
@@ -770,8 +794,8 @@
 11	man	*	*	*	*
 12	lieber	*	*	*	*
 13	den	*	*	*	*
-14	Atem	1	1	2	1
-15	anhält	1	1	2	1
+14	Atem	LIT	LIT	FIG	LIT
+15	anhält	LIT	LIT	FIG	LIT
 16	,	*	*	*	*
 17	und	*	*	*	*
 18	wechselt	*	*	*	*
@@ -795,9 +819,10 @@
 
 # tuepp_article_id = T960328.125
 # sent_id = 353
+# text = In vielen Ihrer Filme gibt es so einen Moment , wo man den Atem anhält .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = In vielen Ihrer Filme gibt es so einen Moment , wo man den Atem anhält .
 1	In	*	*	*	*
 2	vielen	*	*	*	*
 3	Ihrer	*	*	*	*
@@ -811,32 +836,34 @@
 11	wo	*	*	*	*
 12	man	*	*	*	*
 13	den	*	*	*	*
-14	Atem	2	2	2	2
-15	anhält	2	2	2	2
+14	Atem	FIG	FIG	FIG	FIG
+15	anhält	FIG	FIG	FIG	FIG
 16	.	*	*	*	*
 
 # tuepp_article_id = T980131.159
 # sent_id = 354
+# text = - Nie den Atem anhalten !
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = - Nie den Atem anhalten !
 1	-	*	*	*	*
 2	Nie	*	*	*	*
 3	den	*	*	*	*
-4	Atem	1	1	1	1
-5	anhalten	1	1	1	1
+4	Atem	LIT	LIT	LIT	LIT
+5	anhalten	LIT	LIT	LIT	LIT
 6	!	*	*	*	*
 
 # tuepp_article_id = T970526.220
 # sent_id = 355
+# text = Wenn Bremen den Atem anhält und tja - das ist nun die Frage .
+# vid_types = atem anhalten
 # context_judgement_1 = 1
 # context_judgement_2 = 0
-# text = Wenn Bremen den Atem anhält und tja - das ist nun die Frage .
 1	Wenn	*	*	*	*
 2	Bremen	*	*	*	*
 3	den	*	*	*	*
-4	Atem	2	2	2	2
-5	anhält	2	2	2	2
+4	Atem	FIG	FIG	FIG	FIG
+5	anhält	FIG	FIG	FIG	FIG
 6	und	*	*	*	*
 7	tja	*	*	*	*
 8	-	*	*	*	*
@@ -849,9 +876,10 @@
 
 # tuepp_article_id = T971001.251
 # sent_id = 356
+# text = Zwischendurch gibt es immer wieder Phasen mit Tonnuancierungen , die uns den Atem anhalten lassen : Zum Beispiel den Schluß des ersten Satzes der G-Dur-Sonate .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zwischendurch gibt es immer wieder Phasen mit Tonnuancierungen , die uns den Atem anhalten lassen : Zum Beispiel den Schluß des ersten Satzes der G-Dur-Sonate .
 1	Zwischendurch	*	*	*	*
 2	gibt	*	*	*	*
 3	es	*	*	*	*
@@ -864,8 +892,8 @@
 10	die	*	*	*	*
 11	uns	*	*	*	*
 12	den	*	*	*	*
-13	Atem	2	2	2	2
-14	anhalten	2	2	2	2
+13	Atem	FIG	FIG	FIG	FIG
+14	anhalten	FIG	FIG	FIG	FIG
 15	lassen	*	*	*	*
 16	:	*	*	*	*
 17	Zum	*	*	*	*
@@ -881,9 +909,10 @@
 
 # tuepp_article_id = T971031.331
 # sent_id = 357
+# text = Ein mißglückter Start ist ein Mißerfolg aller , und so hielten alle auch in Bremen gestern den Atem an , als kaum mehr als 30 Sekunden vor dem Starttermin der Count-down angehalten wurde .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Ein mißglückter Start ist ein Mißerfolg aller , und so hielten alle auch in Bremen gestern den Atem an , als kaum mehr als 30 Sekunden vor dem Starttermin der Count-down angehalten wurde .
 1	Ein	*	*	*	*
 2	mißglückter	*	*	*	*
 3	Start	*	*	*	*
@@ -901,7 +930,7 @@
 15	Bremen	*	*	*	*
 16	gestern	*	*	*	*
 17	den	*	*	*	*
-18	Atem	2	2	2	2
+18	Atem	FIG	FIG	FIG	FIG
 19	an	*	*	*	*
 20	,	*	*	*	*
 21	als	*	*	*	*
@@ -915,15 +944,16 @@
 29	Starttermin	*	*	*	*
 30	der	*	*	*	*
 31	Count-down	*	*	*	*
-32	angehalten	2	2	2	2
+32	angehalten	FIG	FIG	FIG	FIG
 33	wurde	*	*	*	*
 34	.	*	*	*	*
 
 # tuepp_article_id = T971117.34
 # sent_id = 358
+# text = Die Delegierten des grünen Parteitages unten im Festsaal der Stadthalle von Kassel scheinen kollektiv den Atem anzuhalten .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Die Delegierten des grünen Parteitages unten im Festsaal der Stadthalle von Kassel scheinen kollektiv den Atem anzuhalten .
 1	Die	*	*	*	*
 2	Delegierten	*	*	*	*
 3	des	*	*	*	*
@@ -939,15 +969,16 @@
 13	scheinen	*	*	*	*
 14	kollektiv	*	*	*	*
 15	den	*	*	*	*
-16	Atem	2	2	2	2
-17	anzuhalten	2	2	2	2
+16	Atem	FIG	FIG	FIG	FIG
+17	anzuhalten	FIG	FIG	FIG	FIG
 18	.	*	*	*	*
 
 # tuepp_article_id = T940614.250
 # sent_id = 359
+# text = Dabei wirken sie bereits reifer als ihre Ziehväter und wagen es auch Mal , den Atem anzuhalten .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 1
-# text = Dabei wirken sie bereits reifer als ihre Ziehväter und wagen es auch Mal , den Atem anzuhalten .
 1	Dabei	*	*	*	*
 2	wirken	*	*	*	*
 3	sie	*	*	*	*
@@ -963,22 +994,23 @@
 13	Mal	*	*	*	*
 14	,	*	*	*	*
 15	den	*	*	*	*
-16	Atem	2	1	1	1
-17	anzuhalten	2	1	1	1
+16	Atem	FIG	LIT	LIT	LIT
+17	anzuhalten	FIG	LIT	LIT	LIT
 18	.	*	*	*	*
 
 # tuepp_article_id = T940607.214
 # sent_id = 360
+# text = Man möchte als Zuschauer den Atem anhalten , um nur ja nicht zu stören .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Man möchte als Zuschauer den Atem anhalten , um nur ja nicht zu stören .
 1	Man	*	*	*	*
 2	möchte	*	*	*	*
 3	als	*	*	*	*
 4	Zuschauer	*	*	*	*
 5	den	*	*	*	*
-6	Atem	2	1	2	2
-7	anhalten	2	1	2	2
+6	Atem	FIG	LIT	FIG	FIG
+7	anhalten	FIG	LIT	FIG	FIG
 8	,	*	*	*	*
 9	um	*	*	*	*
 10	nur	*	*	*	*
@@ -990,9 +1022,10 @@
 
 # tuepp_article_id = T941022.186
 # sent_id = 361
+# text = Das " River Cafe " , Water Street 1 , direkt am East River und in unmittelbarer Nähe der Brooklyn Bridge gelegen , bietet , so will uns die Pressemappe glauben machen , einen " Ausblick , bei dem die Welt den Atem anhält " .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Das " River Cafe " , Water Street 1 , direkt am East River und in unmittelbarer Nähe der Brooklyn Bridge gelegen , bietet , so will uns die Pressemappe glauben machen , einen " Ausblick , bei dem die Welt den Atem anhält " .
 1	Das	*	*	*	*
 2	"	*	*	*	*
 3	River	*	*	*	*
@@ -1035,16 +1068,17 @@
 40	die	*	*	*	*
 41	Welt	*	*	*	*
 42	den	*	*	*	*
-43	Atem	2	2	2	2
-44	anhält	2	2	2	2
+43	Atem	FIG	FIG	FIG	FIG
+44	anhält	FIG	FIG	FIG	FIG
 45	"	*	*	*	*
 46	.	*	*	*	*
 
 # tuepp_article_id = T950606.83
 # sent_id = 3385
+# text = Aum-Brüder und - Schwestern meditieren mit dem Ziel , schwerelos in der Luft zu hängen oder unter Wasser sehr lange den Atem anzuhalten , aber auch , um den nächsten Weltkrieg zu überleben .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Aum-Brüder und - Schwestern meditieren mit dem Ziel , schwerelos in der Luft zu hängen oder unter Wasser sehr lange den Atem anzuhalten , aber auch , um den nächsten Weltkrieg zu überleben .
 1	Aum-Brüder	*	*	*	*
 2	und	*	*	*	*
 3	-	*	*	*	*
@@ -1066,8 +1100,8 @@
 19	sehr	*	*	*	*
 20	lange	*	*	*	*
 21	den	*	*	*	*
-22	Atem	1	1	1	1
-23	anzuhalten	1	1	1	1
+22	Atem	LIT	LIT	LIT	LIT
+23	anzuhalten	LIT	LIT	LIT	LIT
 24	,	*	*	*	*
 25	aber	*	*	*	*
 26	auch	*	*	*	*
@@ -1082,9 +1116,10 @@
 
 # tuepp_article_id = T950911.132
 # sent_id = 363
+# text = Beiden wohnt eine gewisse Schärfe inne , mit Strenge und Konsequenz wird eine hieb- und stichfeste Idee durchgezogen , die einen den Atem anhalten und zugleich spüren läßt , daß eine ungeheure Lust am Spiel im Spiel war .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Beiden wohnt eine gewisse Schärfe inne , mit Strenge und Konsequenz wird eine hieb- und stichfeste Idee durchgezogen , die einen den Atem anhalten und zugleich spüren läßt , daß eine ungeheure Lust am Spiel im Spiel war .
 1	Beiden	*	*	*	*
 2	wohnt	*	*	*	*
 3	eine	*	*	*	*
@@ -1107,8 +1142,8 @@
 20	die	*	*	*	*
 21	einen	*	*	*	*
 22	den	*	*	*	*
-23	Atem	2	2	2	2
-24	anhalten	2	2	2	2
+23	Atem	FIG	FIG	FIG	FIG
+24	anhalten	FIG	FIG	FIG	FIG
 25	und	*	*	*	*
 26	zugleich	*	*	*	*
 27	spüren	*	*	*	*
@@ -1127,9 +1162,10 @@
 
 # tuepp_article_id = T950307.102
 # sent_id = 364
+# text = Der Christdemokrat vergleicht die FDP mit griechischen Philosophen aus der Schule der Kyniker , die über Selbstmord grübelten und sich töteten , indem sie den Atem anhielten oder aufhörten zu essen : " In diesem Zustand befindet sich zur Zeit die FDP .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Der Christdemokrat vergleicht die FDP mit griechischen Philosophen aus der Schule der Kyniker , die über Selbstmord grübelten und sich töteten , indem sie den Atem anhielten oder aufhörten zu essen : " In diesem Zustand befindet sich zur Zeit die FDP .
 1	Der	*	*	*	*
 2	Christdemokrat	*	*	*	*
 3	vergleicht	*	*	*	*
@@ -1155,8 +1191,8 @@
 23	indem	*	*	*	*
 24	sie	*	*	*	*
 25	den	*	*	*	*
-26	Atem	1	1	1	1
-27	anhielten	1	1	1	1
+26	Atem	LIT	LIT	LIT	LIT
+27	anhielten	LIT	LIT	LIT	LIT
 28	oder	*	*	*	*
 29	aufhörten	*	*	*	*
 30	zu	*	*	*	*
@@ -1176,9 +1212,10 @@
 
 # tuepp_article_id = T950318.95
 # sent_id = 365
+# text = Zerbrochen ist auch die Fiktion nationaler Souveränität : eine " Demütigung gegenüber den USA " , wie die Wochenzeitschrift Proceso im Januar titelte , während die gesamte Nation den Atem anhielt und betete , daß der US-Kongreß sich ihrer erbarmen möge .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Zerbrochen ist auch die Fiktion nationaler Souveränität : eine " Demütigung gegenüber den USA " , wie die Wochenzeitschrift Proceso im Januar titelte , während die gesamte Nation den Atem anhielt und betete , daß der US-Kongreß sich ihrer erbarmen möge .
 1	Zerbrochen	*	*	*	*
 2	ist	*	*	*	*
 3	auch	*	*	*	*
@@ -1208,8 +1245,8 @@
 27	gesamte	*	*	*	*
 28	Nation	*	*	*	*
 29	den	*	*	*	*
-30	Atem	2	2	2	2
-31	anhielt	2	2	2	2
+30	Atem	FIG	FIG	FIG	FIG
+31	anhielt	FIG	FIG	FIG	FIG
 32	und	*	*	*	*
 33	betete	*	*	*	*
 34	,	*	*	*	*
@@ -1224,9 +1261,10 @@
 
 # tuepp_article_id = T990122.109
 # sent_id = 366
+# text = Vertriebene Sudetendeutsche und deren Nachkommen brauchen nicht den Atem anzuhalten : " Unsere Entscheidung hat keinen Einfluß auf die Gültigkeit der Dekrete als solche " , so das Gericht .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Vertriebene Sudetendeutsche und deren Nachkommen brauchen nicht den Atem anzuhalten : " Unsere Entscheidung hat keinen Einfluß auf die Gültigkeit der Dekrete als solche " , so das Gericht .
 1	Vertriebene	*	*	*	*
 2	Sudetendeutsche	*	*	*	*
 3	und	*	*	*	*
@@ -1235,8 +1273,8 @@
 6	brauchen	*	*	*	*
 7	nicht	*	*	*	*
 8	den	*	*	*	*
-9	Atem	2	2	2	2
-10	anzuhalten	2	2	2	2
+9	Atem	FIG	FIG	FIG	FIG
+10	anzuhalten	FIG	FIG	FIG	FIG
 11	:	*	*	*	*
 12	"	*	*	*	*
 13	Unsere	*	*	*	*
@@ -1260,9 +1298,10 @@
 
 # tuepp_article_id = T990429.111
 # sent_id = 367
+# text = 1Wer hat für einen Moment nicht den Atem angehalten : Rußland , so hieß es , habe seine Nuklearwaffen wieder auf westliche Ziele ausgerichtet .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = 1Wer hat für einen Moment nicht den Atem angehalten : Rußland , so hieß es , habe seine Nuklearwaffen wieder auf westliche Ziele ausgerichtet .
 1	1Wer	*	*	*	*
 2	hat	*	*	*	*
 3	für	*	*	*	*
@@ -1270,8 +1309,8 @@
 5	Moment	*	*	*	*
 6	nicht	*	*	*	*
 7	den	*	*	*	*
-8	Atem	2	2	2	2
-9	angehalten	2	2	2	2
+8	Atem	FIG	FIG	FIG	FIG
+9	angehalten	FIG	FIG	FIG	FIG
 10	:	*	*	*	*
 11	Rußland	*	*	*	*
 12	,	*	*	*	*
@@ -1291,9 +1330,10 @@
 
 # tuepp_article_id = T990324.222
 # sent_id = 368
+# text = Pinnock schafft es , mit dem glänzend aufgelegten Orchester , Pianissimostrukturen aus dem Nichts herauszuholen , so daß man den Atem anhielt .
+# vid_types = atem anhalten
 # context_judgement_1 = 0
 # context_judgement_2 = 0
-# text = Pinnock schafft es , mit dem glänzend aufgelegten Orchester , Pianissimostrukturen aus dem Nichts herauszuholen , so daß man den Atem anhielt .
 1	Pinnock	*	*	*	*
 2	schafft	*	*	*	*
 3	es	*	*	*	*
@@ -1314,7 +1354,7 @@
 18	daß	*	*	*	*
 19	man	*	*	*	*
 20	den	*	*	*	*
-21	Atem	2	2	2	2
-22	anhielt	2	2	2	2
+21	Atem	FIG	FIG	FIG	FIG
+22	anhielt	FIG	FIG	FIG	FIG
 23	.	*	*	*	*
 

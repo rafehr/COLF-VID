@@ -1,4 +1,7 @@
-#Text=Auf der Ersatzbank saßen Nachwuchskräfte namens Markus Münch und Markus Babbel , der selbst in München unbekannt ist .
+# tuepp_article_id = T910418.108
+# sent_id = 484
+# text = Auf der Ersatzbank saßen Nachwuchskräfte namens Markus Münch und Markus Babbel , der selbst in München unbekannt ist .
+# vid_types = auf ersatzbank sitzen
 1	Auf	1:literal
 2	der	_
 3	Ersatzbank	1
@@ -19,7 +22,10 @@
 18	ist	_
 19	.	_
 
-#Text=So saßen auf der Ersatzbank gleich drei Amateure aus der Verbandsliga .
+# tuepp_article_id = T900507.155
+# sent_id = 485
+# text = So saßen auf der Ersatzbank gleich drei Amateure aus der Verbandsliga .
+# vid_types = auf ersatzbank sitzen
 1	So	_
 2	saßen	1:literal
 3	auf	1
@@ -33,7 +39,10 @@
 11	Verbandsliga	_
 12	.	_
 
-#Text=Seitdem sitzt der Gouverneur nur noch auf der Ersatzbank der Verlautbarer .
+# tuepp_article_id = T960807.109
+# sent_id = 486
+# text = Seitdem sitzt der Gouverneur nur noch auf der Ersatzbank der Verlautbarer .
+# vid_types = auf ersatzbank sitzen
 1	Seitdem	_
 2	sitzt	1:non-literal-mwe
 3	der	_
@@ -47,7 +56,10 @@
 11	Verlautbarer	_
 12	.	_
 
-#Text=Glatter und Poller saßen auf der Ersatzbank .
+# tuepp_article_id = T960801.301
+# sent_id = 487
+# text = Glatter und Poller saßen auf der Ersatzbank .
+# vid_types = auf ersatzbank sitzen
 1	Glatter	_
 2	und	_
 3	Poller	_
@@ -57,7 +69,10 @@
 7	Ersatzbank	1
 8	.	_
 
-#Text=Zwei der Brüder saßen bekanntlich auf der Ersatzbank der Engländer , später durften die kompletten Brothers Tell Me Like It Is im Hamburger Dudelfunk zum Besten geben - aber das war lange nach Spielschluß , als wir vor den Autocorsos und ähnlichen " deutschen Tugenden " in einen Billardsalon geflüchtet waren .
+# tuepp_article_id = T960628.278
+# sent_id = 488
+# text = Zwei der Brüder saßen bekanntlich auf der Ersatzbank der Engländer , später durften die kompletten Brothers Tell Me Like It Is im Hamburger Dudelfunk zum Besten geben - aber das war lange nach Spielschluß , als wir vor den Autocorsos und ähnlichen " deutschen Tugenden " in einen Billardsalon geflüchtet waren .
+# vid_types = auf ersatzbank sitzen
 1	Zwei	_
 2	der	_
 3	Brüder	_
@@ -111,7 +126,10 @@
 51	waren	_
 52	.	_
 
-#Text=Auf der Ersatzbank des Dürkheimer HC , des Finalgegners aus diesem und dem letzten Jahr , saß derweil Christian Mayerhöfer .
+# tuepp_article_id = T930216.83
+# sent_id = 489
+# text = Auf der Ersatzbank des Dürkheimer HC , des Finalgegners aus diesem und dem letzten Jahr , saß derweil Christian Mayerhöfer .
+# vid_types = auf ersatzbank sitzen
 1	Auf	1:literal
 2	der	_
 3	Ersatzbank	1
@@ -134,7 +152,10 @@
 20	Mayerhöfer	_
 21	.	_
 
-#Text=Die nämlich sitzen dann bei Berlusconi und seinen Freunden auf Ersatzbank oder Tribüne .
+# tuepp_article_id = T930224.95
+# sent_id = 490
+# text = Die nämlich sitzen dann bei Berlusconi und seinen Freunden auf Ersatzbank oder Tribüne .
+# vid_types = auf ersatzbank sitzen
 1	Die	_
 2	nämlich	_
 3	sitzen	1:literal
@@ -150,7 +171,10 @@
 13	Tribüne	_
 14	.	_
 
-#Text=Denn sein Meisterstück ( die Hauptstadt ) sitzt immer noch auf der Ersatzbank von / für Deutschland .
+# tuepp_article_id = T931004.176
+# sent_id = 491
+# text = Denn sein Meisterstück ( die Hauptstadt ) sitzt immer noch auf der Ersatzbank von / für Deutschland .
+# vid_types = auf ersatzbank sitzen
 1	Denn	_
 2	sein	_
 3	Meisterstück	_
@@ -170,7 +194,10 @@
 17	Deutschland	_
 18	.	_
 
-#Text=Beim vermeintlichen Abstiegskick in Duisburg treffen die Paulianer Toni Sailer wieder - der sitzt dort auf der Ersatzbank
+# tuepp_article_id = T930522.319
+# sent_id = 492
+# text = Beim vermeintlichen Abstiegskick in Duisburg treffen die Paulianer Toni Sailer wieder - der sitzt dort auf der Ersatzbank
+# vid_types = auf ersatzbank sitzen
 1	Beim	_
 2	vermeintlichen	_
 3	Abstiegskick	_
@@ -190,7 +217,10 @@
 17	der	_
 18	Ersatzbank	1
 
-#Text=Berlin , 6 . September : Nachdem er bisher nur auf der Ersatzbank saß und schon damit gedroht hatte , Australier zu werden , schlägt beim WM-Qualifikationsspiel gegen Portugal endlich die große Stunde von Sean Dundee .
+# tuepp_article_id = T970102.106
+# sent_id = 493
+# text = Berlin , 6. September : Nachdem er bisher nur auf der Ersatzbank saß und schon damit gedroht hatte , Australier zu werden , schlägt beim WM-Qualifikationsspiel gegen Portugal endlich die große Stunde von Sean Dundee .
+# vid_types = auf ersatzbank sitzen
 1	Berlin	_
 2	,	_
 3	6	_
@@ -229,7 +259,10 @@
 36	Dundee	_
 37	.	_
 
-#Text=Den Ersatztorwart Frank Rost werden auch seine flotten Sprüche im Sportmagazin " Kicker " nicht von der Ersatzbank ins Tor befördern , prophezeit Werder-Sprecherin Marita Hanke : " Am Samstag gegen Borussia Dortmund sitzt Rost auf der Bank , und Reck steht im Tor .
+# tuepp_article_id = T970919.358
+# sent_id = 494
+# text = Den Ersatztorwart Frank Rost werden auch seine flotten Sprüche im Sportmagazin " Kicker " nicht von der Ersatzbank ins Tor befördern , prophezeit Werder-Sprecherin Marita Hanke : " Am Samstag gegen Borussia Dortmund sitzt Rost auf der Bank , und Reck steht im Tor .
+# vid_types = auf ersatzbank sitzen
 1	Den	_
 2	Ersatztorwart	_
 3	Frank	_
@@ -276,7 +309,10 @@
 44	Tor	_
 45	.	_
 
-#Text=Im vierten Saisonspiel gegen die Bolton Wanderers saß der Deutsche wie gewohnt auf der Ersatzbank , " richtig cool , ich wollte mir einen schönen Nachmittag machen " - doch auf einmal lag Barnsleys erster Torwart verletzt am Boden .
+# tuepp_article_id = T970923.117
+# sent_id = 495
+# text = Im vierten Saisonspiel gegen die Bolton Wanderers saß der Deutsche wie gewohnt auf der Ersatzbank , " richtig cool , ich wollte mir einen schönen Nachmittag machen " - doch auf einmal lag Barnsleys erster Torwart verletzt am Boden .
+# vid_types = auf ersatzbank sitzen
 1	Im	_
 2	vierten	_
 3	Saisonspiel	_
@@ -318,7 +354,10 @@
 39	Boden	_
 40	.	_
 
-#Text=Doch der saß des taktischen Kalküls wegen auf der Ersatzbank und mußte zusehen : etwa wie Pavel Hapal , der des taktischen Kalküls wegen mitmachen durfte , das freie Tor ( 3 . ) oder schlicht den Ball ( 9 . ) nicht traf , über die eigenen Beine stolperte und überhaupt eine mitleiderregende Figur abgab .
+# tuepp_article_id = T950227.121
+# sent_id = 496
+# text = Doch der saß des taktischen Kalküls wegen auf der Ersatzbank und mußte zusehen : etwa wie Pavel Hapal , der des taktischen Kalküls wegen mitmachen durfte , das freie Tor ( 3. ) oder schlicht den Ball ( 9. ) nicht traf , über die eigenen Beine stolperte und überhaupt eine mitleiderregende Figur abgab .
+# vid_types = auf ersatzbank sitzen
 1	Doch	_
 2	der	_
 3	saß	1:literal
@@ -377,7 +416,10 @@
 56	abgab	_
 57	.	_
 
-#Text=Gegen Düsseldorf saßen mit Beiersdorfer , Borowka , Neubarth , Schulz und Votava fünf Ex-Nationalspieler und Rehagel-Stars auf der Ersatzbank oder der Tribüne .
+# tuepp_article_id = T950814.223
+# sent_id = 497
+# text = Gegen Düsseldorf saßen mit Beiersdorfer , Borowka , Neubarth , Schulz und Votava fünf Ex-Nationalspieler und Rehagel-Stars auf der Ersatzbank oder der Tribüne .
+# vid_types = auf ersatzbank sitzen
 1	Gegen	_
 2	Düsseldorf	_
 3	saßen	1:literal
@@ -403,7 +445,10 @@
 23	Tribüne	_
 24	.	_
 
-#Text=Die Bremer sitzen auf jeden Fall erstmal auf der Ersatzbank .
+# tuepp_article_id = T980124.40
+# sent_id = 498
+# text = Die Bremer sitzen auf jeden Fall erstmal auf der Ersatzbank .
+# vid_types = auf ersatzbank sitzen
 1	Die	_
 2	Bremer	_
 3	sitzen	1:non-literal-mwe
@@ -416,7 +461,10 @@
 10	Ersatzbank	1
 11	.	_
 
-#Text=Nach fünf Trainingseinheiten in Tel Aviv können sie jetzt zwar leidlich dribbeln , sitzen aber die meiste Zeit auf der Ersatzbank .
+# tuepp_article_id = T980807.111
+# sent_id = 499
+# text = Nach fünf Trainingseinheiten in Tel Aviv können sie jetzt zwar leidlich dribbeln , sitzen aber die meiste Zeit auf der Ersatzbank .
+# vid_types = auf ersatzbank sitzen
 1	Nach	_
 2	fünf	_
 3	Trainingseinheiten	_
@@ -440,7 +488,10 @@
 21	Ersatzbank	1
 22	.	_
 
-#Text=Der Pröpper-Nachfolger sitzt auch am Sonntag wieder auf der Ersatzbank .
+# tuepp_article_id = T980807.277
+# sent_id = 500
+# text = Der Pröpper-Nachfolger sitzt auch am Sonntag wieder auf der Ersatzbank .
+# vid_types = auf ersatzbank sitzen
 1	Der	_
 2	Pröpper-Nachfolger	_
 3	sitzt	1:literal
@@ -453,7 +504,10 @@
 10	Ersatzbank	1
 11	.	_
 
-#Text=Ich saß auf der Ersatzbank , als wir 1966 in Hannover 0:2 verloren .
+# tuepp_article_id = T980605.163
+# sent_id = 501
+# text = Ich saß auf der Ersatzbank , als wir 1966 in Hannover 0:2 verloren .
+# vid_types = auf ersatzbank sitzen
 1	Ich	_
 2	saß	1:literal
 3	auf	1
@@ -469,7 +523,10 @@
 13	verloren	_
 14	.	_
 
-#Text=Da werden Spieler aufgestellt , die in ihrem Club nur auf der Ersatzbank sitzen , große Stars bleiben zu Hause .
+# tuepp_article_id = T980626.131
+# sent_id = 502
+# text = Da werden Spieler aufgestellt , die in ihrem Club nur auf der Ersatzbank sitzen , große Stars bleiben zu Hause .
+# vid_types = auf ersatzbank sitzen
 1	Da	_
 2	werden	_
 3	Spieler	_
@@ -492,7 +549,10 @@
 20	Hause	_
 21	.	_
 
-#Text=Der nach blamablen Testspiel-Niederlagen von einigen Spielern scharf kritisierte Serbe gewann die Machtprobe mit den " Revoluzzern " und zog erste Konsequenzen : Der frühere Frankfurter Bundesligaspieler Jay-Jay Okocha sitzt gegen Spanien auf der Ersatzbank .
+# tuepp_article_id = T980613.146
+# sent_id = 503
+# text = Der nach blamablen Testspiel-Niederlagen von einigen Spielern scharf kritisierte Serbe gewann die Machtprobe mit den " Revoluzzern " und zog erste Konsequenzen : Der frühere Frankfurter Bundesligaspieler Jay-Jay Okocha sitzt gegen Spanien auf der Ersatzbank .
+# vid_types = auf ersatzbank sitzen
 1	Der	_
 2	nach	_
 3	blamablen	_
@@ -530,7 +590,10 @@
 35	Ersatzbank	1
 36	.	_
 
-#Text=Bei den Bayern sitzen die dann die ganze Saison nur auf der Ersatzbank .
+# tuepp_article_id = T980428.56
+# sent_id = 504
+# text = Bei den Bayern sitzen die dann die ganze Saison nur auf der Ersatzbank .
+# vid_types = auf ersatzbank sitzen
 1	Bei	_
 2	den	_
 3	Bayern	_

@@ -1,4 +1,7 @@
-#Text=Das ZDF hat einen besonders dicken Brocken an Land gezogen .
+# tuepp_article_id = T890607.112
+# sent_id = 64
+# text = Das ZDF hat einen besonders dicken Brocken an Land gezogen .
+# vid_types = an land ziehen
 1	Das	_
 2	ZDF	_
 3	hat	_
@@ -11,7 +14,10 @@
 10	gezogen	1
 11	.	_
 
-#Text=Seinen dicksten Fisch zog " der Alte " , wie ihn seine Mitarbeiter nannten , 1978 an Land : Ein exklusives Agenturabkommen mit Techsnabexport über Urananreicherungsdienstleistungen in der UdSSR .
+# tuepp_article_id = T891007.105
+# sent_id = 65
+# text = Seinen dicksten Fisch zog " der Alte " , wie ihn seine Mitarbeiter nannten , 1978 an Land : Ein exklusives Agenturabkommen mit Techsnabexport über Urananreicherungsdienstleistungen in der UdSSR .
+# vid_types = an land ziehen
 1	Seinen	_
 2	dicksten	1:non-literal
 3	Fisch	1
@@ -43,7 +49,10 @@
 29	UdSSR	_
 30	.	_
 
-#Text=Berlin ( taz ) - Wäre ja auch wirklich zu dumm , wenn Amerikas Ölgiganten zig Millionen Dollar einfach nur ins Wasser geworfen hätten , ohne damit einen goldenen Fisch an Land zu ziehen .
+# tuepp_article_id = T891004.71
+# sent_id = 66
+# text = Berlin ( taz ) - Wäre ja auch wirklich zu dumm , wenn Amerikas Ölgiganten zig Millionen Dollar einfach nur ins Wasser geworfen hätten , ohne damit einen goldenen Fisch an Land zu ziehen .
+# vid_types = an land ziehen
 1	Berlin	_
 2	(	_
 3	taz	_
@@ -80,7 +89,10 @@
 34	ziehen	2
 35	.	_
 
-#Text=Rund 7.000 Abonnenten will Räuschel-Schulte in den nächsten Monaten an Land ziehen - erst dann trage sich das Unternehmen finanziell .
+# tuepp_article_id = T890906.45
+# sent_id = 67
+# text = Rund 7.000 Abonnenten will Räuschel-Schulte in den nächsten Monaten an Land ziehen - erst dann trage sich das Unternehmen finanziell .
+# vid_types = an land ziehen
 1	Rund	_
 2	7.000	_
 3	Abonnenten	_
@@ -103,7 +115,10 @@
 20	finanziell	_
 21	.	_
 
-#Text=Indirekt bezuschußt wird dafür der Kohl-Freund Dieter Haupt , dessen Agentur sich den Drei-Millionen-Auftrag zur Organisation der Jubelfeier an Land gezogen hat .
+# tuepp_article_id = T890914.59
+# sent_id = 68
+# text = Indirekt bezuschußt wird dafür der Kohl-Freund Dieter Haupt , dessen Agentur sich den Drei-Millionen-Auftrag zur Organisation der Jubelfeier an Land gezogen hat .
+# vid_types = an land ziehen
 1	Indirekt	_
 2	bezuschußt	_
 3	wird	_
@@ -128,7 +143,10 @@
 22	hat	_
 23	.	_
 
-#Text=Offenbar sollen in das geplante deutsch-sowjetische Joint-venture auch die Exklusivverträge über Urananreicherung in der UdSSR eingebunden werden , die der kürzlich verstorbene Düsseldorfer Atomalienhändler und Schwarzmarktkünstler Alfred Hempel 1978 an Land gezogen hatte .
+# tuepp_article_id = T890905.66
+# sent_id = 69
+# text = Offenbar sollen in das geplante deutsch-sowjetische Joint-venture auch die Exklusivverträge über Urananreicherung in der UdSSR eingebunden werden , die der kürzlich verstorbene Düsseldorfer Atomalienhändler und Schwarzmarktkünstler Alfred Hempel 1978 an Land gezogen hatte .
+# vid_types = an land ziehen
 1	Offenbar	_
 2	sollen	_
 3	in	_
@@ -164,7 +182,10 @@
 33	hatte	_
 34	.	_
 
-#Text=Freilich zog das Kreuzberger Bauamt 140 Millionen Mark Sanierungsmittel jährlich an Land - in Tiergarten waren es mal gerade 20 Millionen .
+# tuepp_article_id = T890909.175
+# sent_id = 70
+# text = Freilich zog das Kreuzberger Bauamt 140 Millionen Mark Sanierungsmittel jährlich an Land - in Tiergarten waren es mal gerade 20 Millionen .
+# vid_types = an land ziehen
 1	Freilich	_
 2	zog	1:non-literal-mwe
 3	das	_
@@ -188,7 +209,10 @@
 21	Millionen	_
 22	.	_
 
-#Text=Später soll die Firma Fertigungsaufträge an Land ziehen , die seine Mitglieder dann abarbeiten .
+# tuepp_article_id = T890128.219
+# sent_id = 71
+# text = Später soll die Firma Fertigungsaufträge an Land ziehen , die seine Mitglieder dann abarbeiten .
+# vid_types = an land ziehen
 1	Später	_
 2	soll	_
 3	die	_
@@ -205,7 +229,10 @@
 14	abarbeiten	_
 15	.	_
 
-#Text=Nach sicheren Informationen der taz aus Kreisen der Frankfurter Hochfinanz sowie des Bonner Kanzleramtes ist es nun dem Bundeskanzler in seinem Osterurlaub - der ja vor allem der Kabinettsreform dienen sollte - gelungen , den Abs - " Enkel " und heutigen Vorstandsvorsitzenden der Deutschen Bank , Alfred Herrhausen , als neuen Finanzminister am Rhein an Land zu ziehen .
+# tuepp_article_id = T890401.71
+# sent_id = 72
+# text = Nach sicheren Informationen der taz aus Kreisen der Frankfurter Hochfinanz sowie des Bonner Kanzleramtes ist es nun dem Bundeskanzler in seinem Osterurlaub - der ja vor allem der Kabinettsreform dienen sollte - gelungen , den Abs - " Enkel " und heutigen Vorstandsvorsitzenden der Deutschen Bank , Alfred Herrhausen , als neuen Finanzminister am Rhein an Land zu ziehen .
+# vid_types = an land ziehen
 1	Nach	_
 2	sicheren	_
 3	Informationen	_
@@ -267,7 +294,10 @@
 59	ziehen	1
 60	.	_
 
-#Text=Ein Moderator sitzt hinter dem Mikrophon , sagt die Musik und das Wetter an , die Redakteure kommen von und gehen zu Pressekonferenzen , und in der Akquisition versucht man , Werbespots an Land zu ziehen .
+# tuepp_article_id = T890421.122
+# sent_id = 73
+# text = Ein Moderator sitzt hinter dem Mikrophon , sagt die Musik und das Wetter an , die Redakteure kommen von und gehen zu Pressekonferenzen , und in der Akquisition versucht man , Werbespots an Land zu ziehen .
+# vid_types = an land ziehen
 1	Ein	_
 2	Moderator	_
 3	sitzt	_
@@ -306,7 +336,10 @@
 36	ziehen	1
 37	.	_
 
-#Text=Ein bekannter bundesdeutscher Vermittler , von Genf " auf dem Sprung zum Spielermarkt nach Mailand " berichtete stolz von " einem dicken Fisch aus der Sowjetunion " , den er " ganz billig " für einen Bundesligaklub an Land gezogen habe .
+# tuepp_article_id = T890714.140
+# sent_id = 74
+# text = Ein bekannter bundesdeutscher Vermittler , von Genf " auf dem Sprung zum Spielermarkt nach Mailand " berichtete stolz von " einem dicken Fisch aus der Sowjetunion " , den er " ganz billig " für einen Bundesligaklub an Land gezogen habe .
+# vid_types = an land ziehen
 1	Ein	_
 2	bekannter	_
 3	bundesdeutscher	_
@@ -350,7 +383,10 @@
 41	habe	_
 42	.	_
 
-#Text=1 . Wo Siege ans Land gezogen werden 2 . Zum Bugsieren gedacht 3 . Tennisspielerin , die auf den Bush klopft 4 . Entionisierte Aufregung 5 . Laufbehinderte Zuchtpferde 6 . Jammerhaftes Antriebsgerät 7 . Plural von 30,48 cm 8 . Formelhafter Challenge-Cup 9 . Boxendes Zwerghuhn 10 . Verknotete Fleischscheibe 11 . Aus abgeschittenem Haar entstandenes Wappentier 12 . Jeder kann sie ziehen und gleichzeitig sein 14 . Sie verdient im Sport das meiste Geld 16 . Das fehlt an diesen Center wie Nessy im Loch Ness 24 . Der Mann bewirkt es bei der Karre 26 . Teil des bargeldlosen Zahlungsverkehrs 28 . Braucht jedes Stadion mehrfach 29 . Tarifskala bei Tischtennisspielern 33 .
+# tuepp_article_id = T890729.76
+# sent_id = 75
+# text = 1. Wo Siege ans Land gezogen werden 2. Zum Bugsieren gedacht 3. Tennisspielerin , die auf den Bush klopft 4. Entionisierte Aufregung 5. Laufbehinderte Zuchtpferde 6. Jammerhaftes Antriebsgerät 7. Plural von 30,48 cm 8. Formelhafter Challenge-Cup 9. Boxendes Zwerghuhn 10. Verknotete Fleischscheibe 11. Aus abgeschittenem Haar entstandenes Wappentier 12. Jeder kann sie ziehen und gleichzeitig sein 14. Sie verdient im Sport das meiste Geld 16. Das fehlt an diesen Center wie Nessy im Loch Ness 24. Der Mann bewirkt es bei der Karre 26. Teil des bargeldlosen Zahlungsverkehrs 28. Braucht jedes Stadion mehrfach 29. Tarifskala bei Tischtennisspielern 33 .
+# vid_types = an land ziehen
 1	1	_
 2	.	_
 3	Wo	_
@@ -469,7 +505,10 @@
 116	33	_
 117	.	_
 
-#Text=Und sie werden von Tag zu Tag reicher - wenn nicht durch Drogenhandel , dann durch öffentliche Aufträge , die ihre Firmen oder Scheinfirmen an Land ziehen .
+# tuepp_article_id = T891214.87
+# sent_id = 76
+# text = Und sie werden von Tag zu Tag reicher - wenn nicht durch Drogenhandel , dann durch öffentliche Aufträge , die ihre Firmen oder Scheinfirmen an Land ziehen .
+# vid_types = an land ziehen
 1	Und	_
 2	sie	_
 3	werden	_
@@ -499,7 +538,10 @@
 27	ziehen	1
 28	.	_
 
-#Text=Die BesitzerInnen großer Yachten brauchen nämlich aufwendige Vorrichtungen an den Ufern , sogenannte " Slip-Anlagen " , um die Boote an Land zu ziehen und wieder zu Wasser zu lassen .
+# tuepp_article_id = T890816.128
+# sent_id = 77
+# text = Die BesitzerInnen großer Yachten brauchen nämlich aufwendige Vorrichtungen an den Ufern , sogenannte " Slip-Anlagen " , um die Boote an Land zu ziehen und wieder zu Wasser zu lassen .
+# vid_types = an land ziehen
 1	Die	_
 2	BesitzerInnen	_
 3	großer	_
@@ -532,7 +574,10 @@
 30	lassen	_
 31	.	_
 
-#Text=Wirf die Angel des Ohres aus , und du wirst immer einen Fisch an Land ziehen und nie einen alten Stiefel .
+# tuepp_article_id = T890828.110
+# sent_id = 78
+# text = Wirf die Angel des Ohres aus , und du wirst immer einen Fisch an Land ziehen und nie einen alten Stiefel .
+# vid_types = an land ziehen
 1	Wirf	_
 2	die	_
 3	Angel	1:non-literal
@@ -556,7 +601,10 @@
 21	Stiefel	_
 22	.	_
 
-#Text=Linde hat einen Großauftrag für Kühlanlagen an Land gezogen .
+# tuepp_article_id = T890322.54
+# sent_id = 79
+# text = Linde hat einen Großauftrag für Kühlanlagen an Land gezogen .
+# vid_types = an land ziehen
 1	Linde	_
 2	hat	_
 3	einen	_
@@ -568,7 +616,10 @@
 9	gezogen	1
 10	.	_
 
-#Text=Im Gemüseladen gleich nebenan hat die Geschäftsleitung Zitronen und Bananen an Land gezogen .
+# tuepp_article_id = T891101.37
+# sent_id = 80
+# text = Im Gemüseladen gleich nebenan hat die Geschäftsleitung Zitronen und Bananen an Land gezogen .
+# vid_types = an land ziehen
 1	Im	_
 2	Gemüseladen	_
 3	gleich	_
@@ -584,7 +635,10 @@
 13	gezogen	1
 14	.	_
 
-#Text=Hat sich schon einmal ein Sammler oder Ethnologe überlegt , was da für eine Kraft an Land gezogen wurde und was die vielleicht bewirken könnte ?
+# tuepp_article_id = T890204.93
+# sent_id = 81
+# text = Hat sich schon einmal ein Sammler oder Ethnologe überlegt , was da für eine Kraft an Land gezogen wurde und was die vielleicht bewirken könnte ?
+# vid_types = an land ziehen
 1	Hat	_
 2	sich	_
 3	schon	_
@@ -612,7 +666,10 @@
 25	könnte	_
 26	?	_
 
-#Text=" Den Studenten wird überhaupt nicht beigebracht , wie sie Forschungsmittel an Land ziehen können und wie ein Forschungsprojekt anzulegen ist " , klagt Peter Grottian .
+# tuepp_article_id = T890223.128
+# sent_id = 82
+# text = " Den Studenten wird überhaupt nicht beigebracht , wie sie Forschungsmittel an Land ziehen können und wie ein Forschungsprojekt anzulegen ist " , klagt Peter Grottian .
+# vid_types = an land ziehen
 1	"	_
 2	Den	_
 3	Studenten	_
@@ -641,7 +698,10 @@
 26	Grottian	_
 27	.	_
 
-#Text=Trotz dauernder Bemühungen war der große Industriefisch nicht an Land zu ziehen .
+# tuepp_article_id = T910613.266
+# sent_id = 83
+# text = Trotz dauernder Bemühungen war der große Industriefisch nicht an Land zu ziehen .
+# vid_types = an land ziehen
 1	Trotz	_
 2	dauernder	_
 3	Bemühungen	_
@@ -656,7 +716,10 @@
 12	ziehen	2
 13	.	_
 
-#Text=Schon im Oktober habe der Konzern einen CSFR-Auftrag für Reaktorleittechnik im Wert von 280 Millionen Mark nur noch als Kompensationsgeschäft an Land ziehen können .
+# tuepp_article_id = T910111.108
+# sent_id = 84
+# text = Schon im Oktober habe der Konzern einen CSFR-Auftrag für Reaktorleittechnik im Wert von 280 Millionen Mark nur noch als Kompensationsgeschäft an Land ziehen können .
+# vid_types = an land ziehen
 1	Schon	_
 2	im	_
 3	Oktober	_
@@ -683,7 +746,10 @@
 24	können	_
 25	.	_
 
-#Text=Nach Hersch Bekers Flucht steht vor allem eine Frage zur Klärung an : Wurde ihm seine Flucht ermöglicht , um zu verhindern , daß er vor Gericht hochrangige Landes- und Kommunalpolitiker mit in den mafiosen Sumpf reißen könnte , aus dem die Bordellbrüder jahrelang ihre großen und kleinen Fische an Land zogen ?
+# tuepp_article_id = T910112.54
+# sent_id = 85
+# text = Nach Hersch Bekers Flucht steht vor allem eine Frage zur Klärung an : Wurde ihm seine Flucht ermöglicht , um zu verhindern , daß er vor Gericht hochrangige Landes- und Kommunalpolitiker mit in den mafiosen Sumpf reißen könnte , aus dem die Bordellbrüder jahrelang ihre großen und kleinen Fische an Land zogen ?
+# vid_types = an land ziehen
 1	Nach	_
 2	Hersch	_
 3	Bekers	_
@@ -738,7 +804,10 @@
 52	zogen	3
 53	?	_
 
-#Text=Obwohl einige Firmen zusätzliche Aufträge für Munition , Ersatzteile und Raketen an Land ziehen konnten , hat der Krieg den allgemeinen Trend - rückläufige Waffenverkäufe - nicht aufhalten können .
+# tuepp_article_id = T910425.82
+# sent_id = 86
+# text = Obwohl einige Firmen zusätzliche Aufträge für Munition , Ersatzteile und Raketen an Land ziehen konnten , hat der Krieg den allgemeinen Trend - rückläufige Waffenverkäufe - nicht aufhalten können .
+# vid_types = an land ziehen
 1	Obwohl	_
 2	einige	_
 3	Firmen	_
@@ -770,7 +839,10 @@
 29	können	_
 30	.	_
 
-#Text=Die letzte DDR-Auswahl fischte bei der Weltmeisterschaft 1990 in Bordeaux fast alles aus dem WM-Pott , was es an Land zu ziehen gab .
+# tuepp_article_id = T910408.88
+# sent_id = 87
+# text = Die letzte DDR-Auswahl fischte bei der Weltmeisterschaft 1990 in Bordeaux fast alles aus dem WM-Pott , was es an Land zu ziehen gab .
+# vid_types = an land ziehen
 1	Die	_
 2	letzte	_
 3	DDR-Auswahl	_
@@ -796,7 +868,10 @@
 23	gab	_
 24	.	_
 
-#Text=Den dicksten Fisch zog Serbien sich mit der gesetzeswidrigen Übernahme von 187 Tankstellen des kroatischen Ölriesen INA im Wert von 150 Millionen Dollar an Land .
+# tuepp_article_id = T910412.89
+# sent_id = 88
+# text = Den dicksten Fisch zog Serbien sich mit der gesetzeswidrigen Übernahme von 187 Tankstellen des kroatischen Ölriesen INA im Wert von 150 Millionen Dollar an Land .
+# vid_types = an land ziehen
 1	Den	_
 2	dicksten	_
 3	Fisch	1:non-literal
@@ -824,7 +899,10 @@
 25	Land	2
 26	.	_
 
-#Text=Wo ein Willi ist , ist auch ein Geschäftsführer , der spuren muß : Mit Axel Nawrocki hat sich der eigensinnige NOK-Chef Willi Daume endlich einen Olympia GmbH-Leiter von seinen Gnaden an Land gezogen .
+# tuepp_article_id = T911214.106
+# sent_id = 89
+# text = Wo ein Willi ist , ist auch ein Geschäftsführer , der spuren muß : Mit Axel Nawrocki hat sich der eigensinnige NOK-Chef Willi Daume endlich einen Olympia GmbH-Leiter von seinen Gnaden an Land gezogen .
+# vid_types = an land ziehen
 1	Wo	_
 2	ein	_
 3	Willi	_
@@ -861,7 +939,10 @@
 34	gezogen	1
 35	.	_
 
-#Text=Ein heikler Punkt , mit dem sich die Anstalt möglicherweise wäschekörbevoll Prozesse an Land ziehen könnte , für die Pächter winkt bereits heute das ( fast ) sichere Aus .
+# tuepp_article_id = T910325.176
+# sent_id = 90
+# text = Ein heikler Punkt , mit dem sich die Anstalt möglicherweise wäschekörbevoll Prozesse an Land ziehen könnte , für die Pächter winkt bereits heute das ( fast ) sichere Aus .
+# vid_types = an land ziehen
 1	Ein	_
 2	heikler	_
 3	Punkt	_
@@ -893,7 +974,10 @@
 29	Aus	_
 30	.	_
 
-#Text=Die Diskussion nimmt allmählich psychopathische Züge an : Wie die Wanderprediger ziehen CDU- Fraktionäre durchs Land und beschwören im Gleichklang mit Vertretern der Handelskammer und inszenierten Medienkampagnen das Verkehrschaos .
+# tuepp_article_id = T910316.240
+# sent_id = 91
+# text = Die Diskussion nimmt allmählich psychopathische Züge an : Wie die Wanderprediger ziehen CDU- Fraktionäre durchs Land und beschwören im Gleichklang mit Vertretern der Handelskammer und inszenierten Medienkampagnen das Verkehrschaos .
+# vid_types = an land ziehen
 1	Die	_
 2	Diskussion	_
 3	nimmt	_
@@ -925,7 +1009,10 @@
 29	Verkehrschaos	_
 30	.	_
 
-#Text=Köder , die " Number-one " Autopolitur , angepriesen , jetzt wird der Fisch an Land gezogen .
+# tuepp_article_id = T910316.255
+# sent_id = 92
+# text = Köder , die " Number-one " Autopolitur , angepriesen , jetzt wird der Fisch an Land gezogen .
+# vid_types = an land ziehen
 1	Köder	_
 2	,	_
 3	die	_
@@ -945,7 +1032,10 @@
 17	gezogen	2
 18	.	_
 
-#Text=Eichel " schwamm " , doch Fischer zog ihn schnell an Land : " Wir werden doch den Nachtragshaushalt des Landes nicht zusammen mit der Landespressekonferenz beraten .
+# tuepp_article_id = T910311.42
+# sent_id = 93
+# text = Eichel " schwamm " , doch Fischer zog ihn schnell an Land : " Wir werden doch den Nachtragshaushalt des Landes nicht zusammen mit der Landespressekonferenz beraten .
+# vid_types = an land ziehen
 1	Eichel	_
 2	"	_
 3	schwamm	_
@@ -975,7 +1065,10 @@
 27	beraten	_
 28	.	_
 
-#Text=Bleibt zu befürchten , daß die " Monopolisierung " weiter voranschreitet , da finanzkräftige Großunternehmen des Handels es jetzt noch leichter haben werden , sich die letzten Quadratmeter Gewerberaum an Land zu ziehen und unliebsame Konkurrenz aus dem Feld zu schlagen .
+# tuepp_article_id = T910327.141
+# sent_id = 94
+# text = Bleibt zu befürchten , daß die " Monopolisierung " weiter voranschreitet , da finanzkräftige Großunternehmen des Handels es jetzt noch leichter haben werden , sich die letzten Quadratmeter Gewerberaum an Land zu ziehen und unliebsame Konkurrenz aus dem Feld zu schlagen .
+# vid_types = an land ziehen
 1	Bleibt	_
 2	zu	_
 3	befürchten	_
@@ -1019,7 +1112,10 @@
 41	schlagen	_
 42	.	_
 
-#Text=Das verpachtet an einen privaten Gastronomiebetrieb , der zwar in die Ausstattung einiges investieren müßte , dafür aber auch mit dem ersten Ausflugslokal mitten in der Weser eine wahre Goldgrube an Land zöge .
+# tuepp_article_id = T910327.258
+# sent_id = 95
+# text = Das verpachtet an einen privaten Gastronomiebetrieb , der zwar in die Ausstattung einiges investieren müßte , dafür aber auch mit dem ersten Ausflugslokal mitten in der Weser eine wahre Goldgrube an Land zöge .
+# vid_types = an land ziehen
 1	Das	_
 2	verpachtet	_
 3	an	_
@@ -1055,7 +1151,10 @@
 33	zöge	1
 34	.	_
 
-#Text=Sie sei » wild entschlossen , das Geld an Land zu ziehen « .
+# tuepp_article_id = T910227.229
+# sent_id = 96
+# text = Sie sei » wild entschlossen , das Geld an Land zu ziehen « .
+# vid_types = an land ziehen
 1	Sie	_
 2	sei	_
 3	»	_
@@ -1071,7 +1170,10 @@
 13	«	_
 14	.	_
 
-#Text=Und die Lagerhaus-Gesellschaft hat für das Bremer Schlappen-Ensemble Eintrittskarten für " Cats " an Land gezogen .
+# tuepp_article_id = T900529.314
+# sent_id = 97
+# text = Und die Lagerhaus-Gesellschaft hat für das Bremer Schlappen-Ensemble Eintrittskarten für " Cats " an Land gezogen .
+# vid_types = an land ziehen
 1	Und	_
 2	die	_
 3	Lagerhaus-Gesellschaft	_
@@ -1090,7 +1192,10 @@
 16	gezogen	1
 17	.	_
 
-#Text=Und ihre mühsam an Land gezogene Satellitenpartei , die DSU , hat wenig Erfolg .
+# tuepp_article_id = T900508.59
+# sent_id = 98
+# text = Und ihre mühsam an Land gezogene Satellitenpartei , die DSU , hat wenig Erfolg .
+# vid_types = an land ziehen
 1	Und	_
 2	ihre	1:non-literal-mwe
 3	mühsam	_
@@ -1107,7 +1212,10 @@
 14	Erfolg	_
 15	.	_
 
-#Text=Ein sportlicher Aufstieg ist für die Bonner Kicker nicht in Sicht : fast schon traditionell verlassen auch in diesem Jahr zum Saisonende die besten Spieler den Verein , dem es trotz seines Hauptstadtbonus bis heute nicht gelungen ist , einen zahlungskräftigen Sponsor an Land zu ziehen .
+# tuepp_article_id = T900516.137
+# sent_id = 99
+# text = Ein sportlicher Aufstieg ist für die Bonner Kicker nicht in Sicht : fast schon traditionell verlassen auch in diesem Jahr zum Saisonende die besten Spieler den Verein , dem es trotz seines Hauptstadtbonus bis heute nicht gelungen ist , einen zahlungskräftigen Sponsor an Land zu ziehen .
+# vid_types = an land ziehen
 1	Ein	_
 2	sportlicher	_
 3	Aufstieg	_
@@ -1156,7 +1264,10 @@
 46	ziehen	1
 47	.	_
 
-#Text=Den Schuhkremüberhang von 1,5 Mio. Tuben hat sich für 1990 die Sowjetunion - mit 12 Mio. Stück ohnehin Hauptkunde - an Land gezogen .
+# tuepp_article_id = T900607.73
+# sent_id = 100
+# text = Den Schuhkremüberhang von 1,5 Mio. Tuben hat sich für 1990 die Sowjetunion - mit 12 Mio. Stück ohnehin Hauptkunde - an Land gezogen .
+# vid_types = an land ziehen
 1	Den	_
 2	Schuhkremüberhang	_
 3	von	_
@@ -1182,7 +1293,10 @@
 23	gezogen	1
 24	.	_
 
-#Text=Den dicksten Fisch aber zog der Zoll bei Rom an Land : Tonnenweise " Ciao " , made in Taiwan .
+# tuepp_article_id = T900606.149
+# sent_id = 101
+# text = Den dicksten Fisch aber zog der Zoll bei Rom an Land : Tonnenweise " Ciao " , made in Taiwan .
+# vid_types = an land ziehen
 1	Den	_
 2	dicksten	_
 3	Fisch	1:non-literal
@@ -1205,7 +1319,10 @@
 20	Taiwan	_
 21	.	_
 
-#Text=Ob das Satellitenradio aus der Eifel die Zeit hat , die nötigen Werbekunden zur Finanzierung seines Programmes an Land zu ziehen , ist mehr als fraglich .
+# tuepp_article_id = T901029.144
+# sent_id = 102
+# text = Ob das Satellitenradio aus der Eifel die Zeit hat , die nötigen Werbekunden zur Finanzierung seines Programmes an Land zu ziehen , ist mehr als fraglich .
+# vid_types = an land ziehen
 1	Ob	_
 2	das	_
 3	Satellitenradio	_
@@ -1234,7 +1351,10 @@
 26	fraglich	_
 27	.	_
 
-#Text=Außerdem wollte man sich zusätzlich ein paar talentierte Zeichner an Land ziehen .
+# tuepp_article_id = T901001.189
+# sent_id = 103
+# text = Außerdem wollte man sich zusätzlich ein paar talentierte Zeichner an Land ziehen .
+# vid_types = an land ziehen
 1	Außerdem	_
 2	wollte	_
 3	man	_
@@ -1249,7 +1369,10 @@
 12	ziehen	1
 13	.	_
 
-#Text=Diverse Vorverträge mit Hotels und Verwaltungseinrichtungen sind bereits an Land gezogen .
+# tuepp_article_id = T901009.158
+# sent_id = 104
+# text = Diverse Vorverträge mit Hotels und Verwaltungseinrichtungen sind bereits an Land gezogen .
+# vid_types = an land ziehen
 1	Diverse	_
 2	Vorverträge	_
 3	mit	_
@@ -1263,7 +1386,10 @@
 11	gezogen	1
 12	.	_
 
-#Text=In Erfurt hat sich die Grüne Liga eine ehemalige KGB-Villa für Initiativen und Projektgruppen an Land gezogen .
+# tuepp_article_id = T901008.41
+# sent_id = 105
+# text = In Erfurt hat sich die Grüne Liga eine ehemalige KGB-Villa für Initiativen und Projektgruppen an Land gezogen .
+# vid_types = an land ziehen
 1	In	_
 2	Erfurt	_
 3	hat	_
@@ -1283,7 +1409,10 @@
 17	gezogen	1
 18	.	_
 
-#Text=Bauminister will Bauaufträge aus der UdSSR an Land ziehen
+# tuepp_article_id = T900926.139
+# sent_id = 106
+# text = Bauminister will Bauaufträge aus der UdSSR an Land ziehen
+# vid_types = an land ziehen
 1	Bauminister	_
 2	will	_
 3	Bauaufträge	_
@@ -1294,7 +1423,10 @@
 8	Land	1
 9	ziehen	1
 
-#Text=Berlin ( dpa ) - Kurz vor dem Ausscheiden aus seinem Amt hat der DDR-Bauminister Axel Viehweger ( FDP ) einen Vorstoß unternommen , um Bauaufträge aus der Sowjetunion an Land zu ziehen .
+# tuepp_article_id = T900926.139
+# sent_id = 107
+# text = Berlin ( dpa ) - Kurz vor dem Ausscheiden aus seinem Amt hat der DDR-Bauminister Axel Viehweger ( FDP ) einen Vorstoß unternommen , um Bauaufträge aus der Sowjetunion an Land zu ziehen .
+# vid_types = an land ziehen
 1	Berlin	_
 2	(	_
 3	dpa	_
@@ -1330,7 +1462,10 @@
 33	ziehen	1
 34	.	_
 
-#Text=Dabei konnten sie mit Daimler-Benz eigentlich einen dicken Fisch an Land ziehen , bloß haben die Vereinsvorständler wohl nicht das Kleingedruckte gelesen .
+# tuepp_article_id = T900915.93
+# sent_id = 108
+# text = Dabei konnten sie mit Daimler-Benz eigentlich einen dicken Fisch an Land ziehen , bloß haben die Vereinsvorständler wohl nicht das Kleingedruckte gelesen .
+# vid_types = an land ziehen
 1	Dabei	_
 2	konnten	_
 3	sie	_
@@ -1355,7 +1490,10 @@
 22	gelesen	_
 23	.	_
 
-#Text=In Nippon knechten schon die Schulkinder , die Studenten arbeiten sich den Arsch ab , und wenn sie erst mal einen der begehrten Jobs an Land gezogen haben , gibt 's überhaupt kein Halten mehr : leben , um zu arbeiten .
+# tuepp_article_id = T900914.27
+# sent_id = 109
+# text = In Nippon knechten schon die Schulkinder , die Studenten arbeiten sich den Arsch ab , und wenn sie erst mal einen der begehrten Jobs an Land gezogen haben , gibt 's überhaupt kein Halten mehr : leben , um zu arbeiten .
+# vid_types = an land ziehen
 1	In	_
 2	Nippon	_
 3	knechten	_
@@ -1399,7 +1537,10 @@
 41	arbeiten	_
 42	.	_
 
-#Text=Schaefers , der an der MPK selbst mit 25,5 % beteiligt ist , schaffte es , zwei Versicherungen , einen Immobilienhändler und die Neue Constantin als MediaPark-Investoren an Land zu ziehen .
+# tuepp_article_id = T900914.108
+# sent_id = 110
+# text = Schaefers , der an der MPK selbst mit 25,5 % beteiligt ist , schaffte es , zwei Versicherungen , einen Immobilienhändler und die Neue Constantin als MediaPark-Investoren an Land zu ziehen .
+# vid_types = an land ziehen
 1	Schaefers	_
 2	,	_
 3	der	_
@@ -1433,7 +1574,10 @@
 31	ziehen	1
 32	.	_
 
-#Text=Mehr noch : Für Wilde war nicht der Mangel der Wasserwelt , sondern - frech - die Seele seines Helden der entscheidende Störfaktor eines Liebesglücks , das folgerichtig nicht , wie sonst , die Nixe an Land , sondern den verknallten Fischer unter Wasser ziehen sollte .
+# tuepp_article_id = T900903.131
+# sent_id = 111
+# text = Mehr noch : Für Wilde war nicht der Mangel der Wasserwelt , sondern - frech - die Seele seines Helden der entscheidende Störfaktor eines Liebesglücks , das folgerichtig nicht , wie sonst , die Nixe an Land , sondern den verknallten Fischer unter Wasser ziehen sollte .
+# vid_types = an land ziehen
 1	Mehr	_
 2	noch	_
 3	:	_
@@ -1482,7 +1626,10 @@
 46	sollte	_
 47	.	_
 
-#Text=Wippend sitzt sie auf dem Drehstuhl : das DDR-Girl mit Lederkäppi und Walkman , platzt los über ihren Erfolg beim neuen Onkel , den sich die Mutter an Land gezogen hat , hört zwei Sekunden lang autistisch nickend ihrem Walkman zu und plappert weiter über den Selbstmord des ins Altersheim abgeschobenen Opas .
+# tuepp_article_id = T900125.221
+# sent_id = 112
+# text = Wippend sitzt sie auf dem Drehstuhl : das DDR-Girl mit Lederkäppi und Walkman , platzt los über ihren Erfolg beim neuen Onkel , den sich die Mutter an Land gezogen hat , hört zwei Sekunden lang autistisch nickend ihrem Walkman zu und plappert weiter über den Selbstmord des ins Altersheim abgeschobenen Opas .
+# vid_types = an land ziehen
 1	Wippend	_
 2	sitzt	_
 3	sie	_
@@ -1537,7 +1684,10 @@
 52	Opas	_
 53	.	_
 
-#Text=Nur dann , so glaubt Kuhn , hat Berlin eine größere Chance , das Spektakel an Land zu ziehen .
+# tuepp_article_id = T900103.219
+# sent_id = 113
+# text = Nur dann , so glaubt Kuhn , hat Berlin eine größere Chance , das Spektakel an Land zu ziehen .
+# vid_types = an land ziehen
 1	Nur	_
 2	dann	_
 3	,	_
@@ -1559,7 +1709,10 @@
 19	ziehen	1
 20	.	_
 
-#Text=Zwar setzte sich die SPD mit ihrer Forderung schließlich durch ursprünglich war ihr der Posten des Volkskammerpräsidenten zugesichert worden , der dann an die CDU fiel - aber dafür mußte sie die Kröte DSU schlucken , die sich mit dem Innenministerium ein wichtigen Posten an Land zog .
+# tuepp_article_id = T900411.253
+# sent_id = 114
+# text = Zwar setzte sich die SPD mit ihrer Forderung schließlich durch ursprünglich war ihr der Posten des Volkskammerpräsidenten zugesichert worden , der dann an die CDU fiel - aber dafür mußte sie die Kröte DSU schlucken , die sich mit dem Innenministerium ein wichtigen Posten an Land zog .
+# vid_types = an land ziehen
 1	Zwar	_
 2	setzte	_
 3	sich	_
@@ -1609,7 +1762,10 @@
 47	zog	2
 48	.	_
 
-#Text=Dortmund möchte das Nationenturnier im Januar an Land ziehen , Stuttgart den Masters Cup im September .
+# tuepp_article_id = T900405.121
+# sent_id = 115
+# text = Dortmund möchte das Nationenturnier im Januar an Land ziehen , Stuttgart den Masters Cup im September .
+# vid_types = an land ziehen
 1	Dortmund	_
 2	möchte	_
 3	das	_
@@ -1628,7 +1784,10 @@
 16	September	_
 17	.	_
 
-#Text=Damit hatte sich die CSU-Frau jedoch einen Experten ganz besonderer Art an Land gezogen : Ritter wurde nämlich wegen seiner rassistischen Thesen in seinem Buch Sturm auf Europa vom Innenministerium in die Autobahndirektion zwangsversetzt .
+# tuepp_article_id = T900426.40
+# sent_id = 116
+# text = Damit hatte sich die CSU-Frau jedoch einen Experten ganz besonderer Art an Land gezogen : Ritter wurde nämlich wegen seiner rassistischen Thesen in seinem Buch Sturm auf Europa vom Innenministerium in die Autobahndirektion zwangsversetzt .
+# vid_types = an land ziehen
 1	Damit	_
 2	hatte	_
 3	sich	_
@@ -1665,7 +1824,10 @@
 34	zwangsversetzt	_
 35	.	_
 
-#Text=Nach Aussage der Statistiker betrifft dieser Anstieg allerdings nur die sogenannte große Hochseefischerei , die mit 98.700 Tonnen 37.700 Tonnen oder 62 Prozent mehr an Land zog .
+# tuepp_article_id = T900407.391
+# sent_id = 117
+# text = Nach Aussage der Statistiker betrifft dieser Anstieg allerdings nur die sogenannte große Hochseefischerei , die mit 98.700 Tonnen 37.700 Tonnen oder 62 Prozent mehr an Land zog .
+# vid_types = an land ziehen
 1	Nach	_
 2	Aussage	_
 3	der	_
@@ -1695,7 +1857,10 @@
 27	zog	1
 28	.	_
 
-#Text=Nicht weniger als einhundertdreiundzwanzig ( in Zahlen : 123 ) Mal zogen die Recken der Angelrute Weltmeisterschaftsgold an Land .
+# tuepp_article_id = T900716.89
+# sent_id = 118
+# text = Nicht weniger als einhundertdreiundzwanzig ( in Zahlen : 123 ) Mal zogen die Recken der Angelrute Weltmeisterschaftsgold an Land .
+# vid_types = an land ziehen
 1	Nicht	_
 2	weniger	_
 3	als	_
@@ -1717,7 +1882,10 @@
 19	Land	1
 20	.	_
 
-#Text=Boot verschwiegen an Land ziehen und dabei die Holzplanken verbiegen .
+# tuepp_article_id = T900723.259
+# sent_id = 119
+# text = Boot verschwiegen an Land ziehen und dabei die Holzplanken verbiegen .
+# vid_types = an land ziehen
 1	Boot	_
 2	verschwiegen	_
 3	an	1:literal
@@ -1730,7 +1898,10 @@
 10	verbiegen	_
 11	.	_
 
-#Text=Dahinter steht der Versuch der polnischen Regierung , endlich auch " große Fische " an Land zu ziehen .
+# tuepp_article_id = T900726.121
+# sent_id = 120
+# text = Dahinter steht der Versuch der polnischen Regierung , endlich auch " große Fische " an Land zu ziehen .
+# vid_types = an land ziehen
 1	Dahinter	_
 2	steht	_
 3	der	_
@@ -1751,7 +1922,10 @@
 18	ziehen	1
 19	.	_
 
-#Text=Fälschungen , versteht sich , die D. zum Stückpreis von 30 Mark an Land gezogen hatte .
+# tuepp_article_id = T900704.261
+# sent_id = 121
+# text = Fälschungen , versteht sich , die D. zum Stückpreis von 30 Mark an Land gezogen hatte .
+# vid_types = an land ziehen
 1	Fälschungen	_
 2	,	_
 3	versteht	_
@@ -1770,7 +1944,10 @@
 16	hatte	_
 17	.	_
 
-#Text=Für scharf kalkulierte 200 DM konnte er 1.200 Schrippen , 10 Kilo Holstensegel- Margarine , 5 Kilo Karwendel- Streichkäse und 5 Kilo Teewurst an Land ziehen .
+# tuepp_article_id = T901222.197
+# sent_id = 122
+# text = Für scharf kalkulierte 200 DM konnte er 1.200 Schrippen , 10 Kilo Holstensegel- Margarine , 5 Kilo Karwendel- Streichkäse und 5 Kilo Teewurst an Land ziehen .
+# vid_types = an land ziehen
 1	Für	_
 2	scharf	_
 3	kalkulierte	_
@@ -1799,7 +1976,10 @@
 26	ziehen	1
 27	.	_
 
-#Text=Ich kann mir nicht vorstellen , daß sich das Tiefbauamt aus heiterem Himmel einen neuen Kriegsschauplatz an Land ziehen will .
+# tuepp_article_id = T900818.179
+# sent_id = 123
+# text = Ich kann mir nicht vorstellen , daß sich das Tiefbauamt aus heiterem Himmel einen neuen Kriegsschauplatz an Land ziehen will .
+# vid_types = an land ziehen
 1	Ich	_
 2	kann	_
 3	mir	_
@@ -1822,7 +2002,10 @@
 20	will	_
 21	.	_
 
-#Text=Die Auftragslage sei gut , sagt der Werksdirektor , man habe für 16 Millionen Mark mehr Aufträge an Land ziehen können als im Vorjahr , aber es fehle an Mitteln , die laufenden Kredite zurückzuzahlen .
+# tuepp_article_id = T900302.141
+# sent_id = 124
+# text = Die Auftragslage sei gut , sagt der Werksdirektor , man habe für 16 Millionen Mark mehr Aufträge an Land ziehen können als im Vorjahr , aber es fehle an Mitteln , die laufenden Kredite zurückzuzahlen .
+# vid_types = an land ziehen
 1	Die	_
 2	Auftragslage	_
 3	sei	_
@@ -1860,7 +2043,10 @@
 35	zurückzuzahlen	_
 36	.	_
 
-#Text=Bei einer Bootsfahrt labert ihm die Schwester aufs Ohr , wie er eine Frau an Land zu ziehen hat , und überhaupt ... Auch seine verkupplungswütige Mutter erklärt ihm klipp und klar , daß die Frauen nichts wollen , als auf geschickte Weise gegängelt werden .
+# tuepp_article_id = T900303.138
+# sent_id = 125
+# text = Bei einer Bootsfahrt labert ihm die Schwester aufs Ohr , wie er eine Frau an Land zu ziehen hat , und überhaupt ... Auch seine verkupplungswütige Mutter erklärt ihm klipp und klar , daß die Frauen nichts wollen , als auf geschickte Weise gegängelt werden .
+# vid_types = an land ziehen
 1	Bei	_
 2	einer	_
 3	Bootsfahrt	_
@@ -1908,7 +2094,10 @@
 45	werden	_
 46	.	_
 
-#Text=) , Uni-Bibliotheksreferent , der sich nicht nur der NFS verbunden fühlt und eine Ausstellung zu ihrem 25 . Jubiläum ( " ... Kritiker der Elche waren früher selber welche " ) an Land gezogen hat ( bis 30.11 . ) , sondern auch Bernd Eilert kennt , Oldenburger ( !
+# tuepp_article_id = T901122.265
+# sent_id = 126
+# text = ) , Uni-Bibliotheksreferent , der sich nicht nur der NFS verbunden fühlt und eine Ausstellung zu ihrem 25. Jubiläum ( " ... Kritiker der Elche waren früher selber welche " ) an Land gezogen hat ( bis 30.11. ) , sondern auch Bernd Eilert kennt , Oldenburger ( !
+# vid_types = an land ziehen
 1	)	_
 2	,	_
 3	Uni-Bibliotheksreferent	_
@@ -1961,7 +2150,10 @@
 50	(	_
 51	!	_
 
-#Text=Vier der fünf DRV-Medaillen zogen Boote des Leistungszentrums Dortmund an Land : Gold für den Männer-Achter und Frauen- Zweier , Silber für die Riemenvierer ( ebenfalls Männer und Frauen ) .
+# tuepp_article_id = T901105.115
+# sent_id = 127
+# text = Vier der fünf DRV-Medaillen zogen Boote des Leistungszentrums Dortmund an Land : Gold für den Männer-Achter und Frauen- Zweier , Silber für die Riemenvierer ( ebenfalls Männer und Frauen ) .
+# vid_types = an land ziehen
 1	Vier	_
 2	der	_
 3	fünf	_
@@ -1994,7 +2186,10 @@
 30	)	_
 31	.	_
 
-#Text=Am brennendsten aber interessiert die Modeleute , welche 130 " Top-Firmen " Essen an Land gezogen haben will .
+# tuepp_article_id = T900206.48
+# sent_id = 128
+# text = Am brennendsten aber interessiert die Modeleute , welche 130 " Top-Firmen " Essen an Land gezogen haben will .
+# vid_types = an land ziehen
 1	Am	_
 2	brennendsten	_
 3	aber	_
@@ -2015,7 +2210,10 @@
 18	will	_
 19	.	_
 
-#Text=Nicht die erhofften Zahnbrassen zog das Paar an Land , sondern einen 110 Kilogramm schweren Eber , der offenbar von einer der Inseln mit der Meeresströmung ans Festland schwimmen wollte .
+# tuepp_article_id = T921008.115
+# sent_id = 129
+# text = Nicht die erhofften Zahnbrassen zog das Paar an Land , sondern einen 110 Kilogramm schweren Eber , der offenbar von einer der Inseln mit der Meeresströmung ans Festland schwimmen wollte .
+# vid_types = an land ziehen
 1	Nicht	_
 2	die	_
 3	erhofften	_
@@ -2048,7 +2246,10 @@
 30	wollte	_
 31	.	_
 
-#Text=Als er sich 1969 einen bequemen Job bei der National Guard an Land zog , war den meisten Leuten längst klar , daß Amerika in Vietnam nicht für die Rettung der Demokratie kämpfte .
+# tuepp_article_id = T921009.114
+# sent_id = 130
+# text = Als er sich 1969 einen bequemen Job bei der National Guard an Land zog , war den meisten Leuten längst klar , daß Amerika in Vietnam nicht für die Rettung der Demokratie kämpfte .
+# vid_types = an land ziehen
 1	Als	_
 2	er	_
 3	sich	_
@@ -2084,7 +2285,10 @@
 33	kämpfte	_
 34	.	_
 
-#Text=Mannheim ( dpa ) - Einen " dicken Fisch " hat ein Angler im Rheinauer See in Mannheim an Land gezogen : einen aufgebrochenen Tresor .
+# tuepp_article_id = T920922.113
+# sent_id = 131
+# text = Mannheim ( dpa ) - Einen " dicken Fisch " hat ein Angler im Rheinauer See in Mannheim an Land gezogen : einen aufgebrochenen Tresor .
+# vid_types = an land ziehen
 1	Mannheim	_
 2	(	_
 3	dpa	_
@@ -2112,7 +2316,10 @@
 25	Tresor	_
 26	.	_
 
-#Text=Stuttgart ( AP / taz ) - Gerade hatte sich Mercedes einen Großauftrag aus der Ukraine an Land gezogen .
+# tuepp_article_id = T920903.98
+# sent_id = 132
+# text = Stuttgart ( AP / taz ) - Gerade hatte sich Mercedes einen Großauftrag aus der Ukraine an Land gezogen .
+# vid_types = an land ziehen
 1	Stuttgart	_
 2	(	_
 3	AP	_
@@ -2134,7 +2341,10 @@
 19	gezogen	1
 20	.	_
 
-#Text=Aufträge in " zweistelliger Milliardenhöhe " zog Wirtschaftsminister Möllemann Ende Juni in Teheran an Land .
+# tuepp_article_id = T920128.18
+# sent_id = 133
+# text = Aufträge in " zweistelliger Milliardenhöhe " zog Wirtschaftsminister Möllemann Ende Juni in Teheran an Land .
+# vid_types = an land ziehen
 1	Aufträge	_
 2	in	_
 3	"	_
@@ -2152,7 +2362,10 @@
 15	Land	1
 16	.	_
 
-#Text=Da sprach Renner davon , daß wir jetzt bis ins Jahr 2000 ausgesorgt hätten , da wir einen großen Auftrag an Land gezogen hätten .
+# tuepp_article_id = T920103.79
+# sent_id = 134
+# text = Da sprach Renner davon , daß wir jetzt bis ins Jahr 2000 ausgesorgt hätten , da wir einen großen Auftrag an Land gezogen hätten .
+# vid_types = an land ziehen
 1	Da	_
 2	sprach	_
 3	Renner	_
@@ -2179,7 +2392,10 @@
 24	hätten	_
 25	.	_
 
-#Text=Der Senat einer hoch verschuldeten Gemeinde bezahlt einen hohen Preis , um Arbeitsplätze an Land zu ziehen .
+# tuepp_article_id = T920108.189
+# sent_id = 135
+# text = Der Senat einer hoch verschuldeten Gemeinde bezahlt einen hohen Preis , um Arbeitsplätze an Land zu ziehen .
+# vid_types = an land ziehen
 1	Der	_
 2	Senat	_
 3	einer	_
@@ -2199,7 +2415,10 @@
 17	ziehen	1
 18	.	_
 
-#Text=Den bisher " dicksten Fisch " in ihrer 200jährigen Geschichte hat jetzt die Papenburger Meyer- Werft an Land gezogen .
+# tuepp_article_id = T920121.241
+# sent_id = 136
+# text = Den bisher " dicksten Fisch " in ihrer 200jährigen Geschichte hat jetzt die Papenburger Meyer- Werft an Land gezogen .
+# vid_types = an land ziehen
 1	Den	_
 2	bisher	_
 3	"	_
@@ -2221,7 +2440,10 @@
 19	gezogen	1
 20	.	_
 
-#Text=» Solch einen Mann finden wir nicht per Stellenanzeige « , klagt der Chef der Flugzeugfirma Stemme , für die Amador Millionenaufträge an Land ziehen sollte .
+# tuepp_article_id = T920425.159
+# sent_id = 137
+# text = » Solch einen Mann finden wir nicht per Stellenanzeige « , klagt der Chef der Flugzeugfirma Stemme , für die Amador Millionenaufträge an Land ziehen sollte .
+# vid_types = an land ziehen
 1	»	_
 2	Solch	_
 3	einen	_
@@ -2250,7 +2472,10 @@
 26	sollte	_
 27	.	_
 
-#Text=Der Spiele- und Spielkartenproduzent Schmid , nach den Ravensburgern die Nummer zwei in der bundesdeutschen Gesellschaftsspielbranche , zog sich die Kartenhersteller aus der Geburtsstadt des Skatspiels an Land .
+# tuepp_article_id = T920401.72
+# sent_id = 138
+# text = Der Spiele- und Spielkartenproduzent Schmid , nach den Ravensburgern die Nummer zwei in der bundesdeutschen Gesellschaftsspielbranche , zog sich die Kartenhersteller aus der Geburtsstadt des Skatspiels an Land .
+# vid_types = an land ziehen
 1	Der	_
 2	Spiele-	_
 3	und	_
@@ -2281,7 +2506,10 @@
 28	Land	1
 29	.	_
 
-#Text=Nun hat sie mit dem Dieter eine leicht verbesserte Ausgabe an Land gezogen , einen alerten weichen Blondling , zu Scherzen aufgelegt .
+# tuepp_article_id = T920724.143
+# sent_id = 139
+# text = Nun hat sie mit dem Dieter eine leicht verbesserte Ausgabe an Land gezogen , einen alerten weichen Blondling , zu Scherzen aufgelegt .
+# vid_types = an land ziehen
 1	Nun	_
 2	hat	_
 3	sie	_
@@ -2306,7 +2534,10 @@
 22	aufgelegt	_
 23	.	_
 
-#Text=Damit soll gegen den großen Rüstungsauftrag zur Produktion von Aufklärungsdrohnen protestiert werden , den STN an Land gezogen hat : 250 Millionen Mark will der Bund dafür ausgeben .
+# tuepp_article_id = T921203.172
+# sent_id = 140
+# text = Damit soll gegen den großen Rüstungsauftrag zur Produktion von Aufklärungsdrohnen protestiert werden , den STN an Land gezogen hat : 250 Millionen Mark will der Bund dafür ausgeben .
+# vid_types = an land ziehen
 1	Damit	_
 2	soll	_
 3	gegen	_
@@ -2337,7 +2568,10 @@
 28	ausgeben	_
 29	.	_
 
-#Text=Seine Verbindungen aus der Politik könnten ihm vor allem im dritten Geschäftsbereich zugute kommen : Momper soll Aufträge der Bundesregierung an Land ziehen - für neue Regierungsbauten an der Spree .
+# tuepp_article_id = T920812.34
+# sent_id = 141
+# text = Seine Verbindungen aus der Politik könnten ihm vor allem im dritten Geschäftsbereich zugute kommen : Momper soll Aufträge der Bundesregierung an Land ziehen - für neue Regierungsbauten an der Spree .
+# vid_types = an land ziehen
 1	Seine	_
 2	Verbindungen	_
 3	aus	_
@@ -2370,7 +2604,10 @@
 30	Spree	_
 31	.	_
 
-#Text=So manche Tochter aus etwas bescheidenerem , aber gutem Hause angelte sich auf dem Luxusliner nach Amerika den langersehnten Milliardär , so mancher verarmte Adlige zog das zurechtgemachte Industriellentöchterchen an Land .
+# tuepp_article_id = T920822.112
+# sent_id = 142
+# text = So manche Tochter aus etwas bescheidenerem , aber gutem Hause angelte sich auf dem Luxusliner nach Amerika den langersehnten Milliardär , so mancher verarmte Adlige zog das zurechtgemachte Industriellentöchterchen an Land .
+# vid_types = an land ziehen
 1	So	_
 2	manche	_
 3	Tochter	_
@@ -2404,7 +2641,10 @@
 31	Land	1
 32	.	_
 
-#Text=Wie Andreas Bernstorff von Greenpeace auf Nachfrage mitteilte , habe " Tyre Recycling " durch die Ausschüttung von Schmiergeldern in Millionenhöhe in Rumänien Verträge zur Ablagerung riesiger Mengen von geschredderten Autoteilen auf abgeräumten Braunkohlehalden und zur Errichtung einer Giftmüllverbrennungsanlage an Land gezogen .
+# tuepp_article_id = T920319.41
+# sent_id = 143
+# text = Wie Andreas Bernstorff von Greenpeace auf Nachfrage mitteilte , habe " Tyre Recycling " durch die Ausschüttung von Schmiergeldern in Millionenhöhe in Rumänien Verträge zur Ablagerung riesiger Mengen von geschredderten Autoteilen auf abgeräumten Braunkohlehalden und zur Errichtung einer Giftmüllverbrennungsanlage an Land gezogen .
+# vid_types = an land ziehen
 1	Wie	_
 2	Andreas	_
 3	Bernstorff	_
@@ -2449,7 +2689,10 @@
 42	gezogen	1
 43	.	_
 
-#Text=Das Geschäft wurde seinerzeit zwar im letzten Moment abgeblasen ; Weber aber hatte immerhin schon ein verbindliches Angebot der österreichischen Firma Hirtenberger an Land gezogen .
+# tuepp_article_id = T920321.29
+# sent_id = 144
+# text = Das Geschäft wurde seinerzeit zwar im letzten Moment abgeblasen ; Weber aber hatte immerhin schon ein verbindliches Angebot der österreichischen Firma Hirtenberger an Land gezogen .
+# vid_types = an land ziehen
 1	Das	_
 2	Geschäft	_
 3	wurde	_
@@ -2477,7 +2720,10 @@
 25	gezogen	1
 26	.	_
 
-#Text=Aber wenigstens konnte der Professor einen dicken Fisch an Land ziehen : Die Firma Intrac .
+# tuepp_article_id = T920326.172
+# sent_id = 145
+# text = Aber wenigstens konnte der Professor einen dicken Fisch an Land ziehen : Die Firma Intrac .
+# vid_types = an land ziehen
 1	Aber	_
 2	wenigstens	_
 3	konnte	_
@@ -2495,7 +2741,10 @@
 15	Intrac	_
 16	.	_
 
-#Text=Wir hatten ein Stipendium von der Video Foundation aus Boston an Land gezogen und damit Zeit auf einem Fernsehsatelliten gekauft , um unsere Show und die Arbeiten von anderen Gruppen im ganzen Land zu verbreiten .
+# tuepp_article_id = T921121.136
+# sent_id = 146
+# text = Wir hatten ein Stipendium von der Video Foundation aus Boston an Land gezogen und damit Zeit auf einem Fernsehsatelliten gekauft , um unsere Show und die Arbeiten von anderen Gruppen im ganzen Land zu verbreiten .
+# vid_types = an land ziehen
 1	Wir	_
 2	hatten	_
 3	ein	_
@@ -2533,7 +2782,10 @@
 35	verbreiten	_
 36	.	_
 
-#Text=Denn das liebe Jesulein ist nicht blöde und hat sich den Werbeträger Nummer Eins an Land gezogen .
+# tuepp_article_id = T921128.223
+# sent_id = 147
+# text = Denn das liebe Jesulein ist nicht blöde und hat sich den Werbeträger Nummer Eins an Land gezogen .
+# vid_types = an land ziehen
 1	Denn	_
 2	das	_
 3	liebe	_
@@ -2553,7 +2805,10 @@
 17	gezogen	1
 18	.	_
 
-#Text=Sogar einen Auftrag der privaten Combiwaggon in Eltville über 300 hochwertige Güterwaggons konnten die Waggonwerke in Niesky 1990 gegen eine starke internationale Konkurrenz an Land ziehen .
+# tuepp_article_id = T920221.101
+# sent_id = 148
+# text = Sogar einen Auftrag der privaten Combiwaggon in Eltville über 300 hochwertige Güterwaggons konnten die Waggonwerke in Niesky 1990 gegen eine starke internationale Konkurrenz an Land ziehen .
+# vid_types = an land ziehen
 1	Sogar	_
 2	einen	_
 3	Auftrag	_
@@ -2582,7 +2837,10 @@
 26	ziehen	1
 27	.	_
 
-#Text=Kein Wunder , daß der hessische Innenminister Günther seinen Verfassungsschutz , der den Ex- V-Mann " Siggi " Nonne an Land gezogen hatte , über den Klee lobte : Erstmals , so Günther , sei es gelungen , " ganz nah an die Tatverdächtigen " heranzukommen .
+# tuepp_article_id = T920228.61
+# sent_id = 149
+# text = Kein Wunder , daß der hessische Innenminister Günther seinen Verfassungsschutz , der den Ex- V-Mann " Siggi " Nonne an Land gezogen hatte , über den Klee lobte : Erstmals , so Günther , sei es gelungen , " ganz nah an die Tatverdächtigen " heranzukommen .
+# vid_types = an land ziehen
 1	Kein	_
 2	Wunder	_
 3	,	_
@@ -2631,7 +2889,10 @@
 46	heranzukommen	_
 47	.	_
 
-#Text=Viele Fischsorten dürfen nicht mehr an Land gezogen werden .
+# tuepp_article_id = T881013.123
+# sent_id = 150
+# text = Viele Fischsorten dürfen nicht mehr an Land gezogen werden .
+# vid_types = an land ziehen
 1	Viele	_
 2	Fischsorten	_
 3	dürfen	_
@@ -2643,7 +2904,10 @@
 9	werden	_
 10	.	_
 
-#Text=Bestimmt kein schlechter Fang , den die Stadtfestmacher da an Land gezogen haben , auch wenn Austern für die Nordseeregion sicher etwas ungewöhnlich sind .
+# tuepp_article_id = T880909.160
+# sent_id = 151
+# text = Bestimmt kein schlechter Fang , den die Stadtfestmacher da an Land gezogen haben , auch wenn Austern für die Nordseeregion sicher etwas ungewöhnlich sind .
+# vid_types = an land ziehen
 1	Bestimmt	_
 2	kein	_
 3	schlechter	_
@@ -2670,7 +2934,10 @@
 24	sind	_
 25	.	_
 
-#Text=Auf seiner am Wochenende beendeten Ostasienreise sicherte er Hamburg die Olympischen Spiele im Jahre 2004 und dann zog er in Schanghai einen dicken Fisch an Land : Die chinesische Staatsreederei wählte Hamburg als Stützpunkt ihrer europäischen Aktivitäten .
+# tuepp_article_id = T880929.36
+# sent_id = 152
+# text = Auf seiner am Wochenende beendeten Ostasienreise sicherte er Hamburg die Olympischen Spiele im Jahre 2004 und dann zog er in Schanghai einen dicken Fisch an Land : Die chinesische Staatsreederei wählte Hamburg als Stützpunkt ihrer europäischen Aktivitäten .
+# vid_types = an land ziehen
 1	Auf	_
 2	seiner	_
 3	am	_
@@ -2710,7 +2977,10 @@
 37	Aktivitäten	_
 38	.	_
 
-#Text=Es traf sich , daß der ältere in diesem Jahr ungewöhnlich schwere Fische an Land zog , und es wurde ein Mikroskop gekauft .
+# tuepp_article_id = T880721.69
+# sent_id = 153
+# text = Es traf sich , daß der ältere in diesem Jahr ungewöhnlich schwere Fische an Land zog , und es wurde ein Mikroskop gekauft .
+# vid_types = an land ziehen
 1	Es	_
 2	traf	_
 3	sich	_
@@ -2736,7 +3006,10 @@
 23	gekauft	_
 24	.	_
 
-#Text=Uwe Stoll , der bereits mit seinem Film " Diabolo Felizitas " im Rahmen der " Ersten Bremer Filmschau " kürzlich in Erscheinung getreten ist , hat sich mit den Kameramann Jürgen Dombrowsky von Radio Bremen sowie dem Beleuchter Rolf Essers und der Produktionsleiterin Christa Beland , - beide vom Bremer Theater-professionell gesehen , " fette Fische " an Land gezogen .
+# tuepp_article_id = T880707.163
+# sent_id = 154
+# text = Uwe Stoll , der bereits mit seinem Film " Diabolo Felizitas " im Rahmen der " Ersten Bremer Filmschau " kürzlich in Erscheinung getreten ist , hat sich mit den Kameramann Jürgen Dombrowsky von Radio Bremen sowie dem Beleuchter Rolf Essers und der Produktionsleiterin Christa Beland , - beide vom Bremer Theater-professionell gesehen , " fette Fische " an Land gezogen .
+# vid_types = an land ziehen
 1	Uwe	_
 2	Stoll	_
 3	,	_
@@ -2800,7 +3073,10 @@
 61	gezogen	1
 62	.	_
 
-#Text=Voß konnte den gesamten Auftrag ja auch nur unter erheblichem Preisnachlaß für sich an Land ziehen .
+# tuepp_article_id = T881208.180
+# sent_id = 155
+# text = Voß konnte den gesamten Auftrag ja auch nur unter erheblichem Preisnachlaß für sich an Land ziehen .
+# vid_types = an land ziehen
 1	Voß	_
 2	konnte	_
 3	den	_
@@ -2819,7 +3095,10 @@
 16	ziehen	1
 17	.	_
 
-#Text=1973 konnte das " mittelständische Handelsunternehmen " ( Swyen ) einen bis ins nächste Jahrtausend reichenden Exklusivvertrag über sowjetische Urananreicherungs-Dienstleistungen an Land ziehen .
+# tuepp_article_id = T881104.25
+# sent_id = 156
+# text = 1973 konnte das " mittelständische Handelsunternehmen " ( Swyen ) einen bis ins nächste Jahrtausend reichenden Exklusivvertrag über sowjetische Urananreicherungs-Dienstleistungen an Land ziehen .
+# vid_types = an land ziehen
 1	1973	_
 2	konnte	_
 3	das	_
@@ -2845,7 +3124,10 @@
 23	ziehen	1
 24	.	_
 
-#Text=Peking ( dpa ) - Bundesdeutsche Unternehmen haben im China-Geschäft neue dicke Fische an Land gezogen .
+# tuepp_article_id = T880216.70
+# sent_id = 157
+# text = Peking ( dpa ) - Bundesdeutsche Unternehmen haben im China-Geschäft neue dicke Fische an Land gezogen .
+# vid_types = an land ziehen
 1	Peking	_
 2	(	_
 3	dpa	_
@@ -2864,7 +3146,10 @@
 16	gezogen	2
 17	.	_
 
-#Text=McDonnell Douglas ist es vor wenigen Tagen gelungen , einen 1 Mrd.-Dollar-Auftrag zum Bau von 20 Delta II-Raketen an Land zu ziehen , mit dem jetzt die GPS-Satelitten an den Himmel gehängt werden sollen .
+# tuepp_article_id = T870128.66
+# sent_id = 158
+# text = McDonnell Douglas ist es vor wenigen Tagen gelungen , einen 1 Mrd.-Dollar-Auftrag zum Bau von 20 Delta II-Raketen an Land zu ziehen , mit dem jetzt die GPS-Satelitten an den Himmel gehängt werden sollen .
+# vid_types = an land ziehen
 1	McDonnell	_
 2	Douglas	_
 3	ist	_
@@ -2901,7 +3186,10 @@
 34	sollen	_
 35	.	_
 
-#Text=Auf die Frage , ob die staatliche HDW tatsächlich Dokumente weitergereicht habe , sei bis heute keine befriedigende Antwort von der Bundesregierung gekommen , heißt es im Hindu vom 14.4 . Am 17.4 . zeichnete sich schon der nächste Rüstungsskandal ab : der staatliche schwedische Rundfunk berichtet , daß die Rüstungsfirma Bofors Schwedens größten Exportauftrag an Land ziehen konnte , indem sie indischen Congress- ( I ) - Politikern - " Schlüsselfiguren im Verteidigungsbereich " - Schmiergelder auf Schweizer Bankkonten überwiesen habe .
+# tuepp_article_id = T870421.75
+# sent_id = 159
+# text = Auf die Frage , ob die staatliche HDW tatsächlich Dokumente weitergereicht habe , sei bis heute keine befriedigende Antwort von der Bundesregierung gekommen , heißt es im Hindu vom 14.4. Am 17.4. zeichnete sich schon der nächste Rüstungsskandal ab : der staatliche schwedische Rundfunk berichtet , daß die Rüstungsfirma Bofors Schwedens größten Exportauftrag an Land ziehen konnte , indem sie indischen Congress- ( I ) - Politikern - " Schlüsselfiguren im Verteidigungsbereich " - Schmiergelder auf Schweizer Bankkonten überwiesen habe .
+# vid_types = an land ziehen
 1	Auf	_
 2	die	_
 3	Frage	_
@@ -2986,7 +3274,10 @@
 82	habe	_
 83	.	_
 
-#Text=Er sieht keinen Sinn darin , wenn bei den Wettkämpfen tonnenweise Fisch an Land gezogen wird und zum Teil unverzehrt an irgendwelchen Uferböschungen vergammelt .
+# tuepp_article_id = T870814.74
+# sent_id = 160
+# text = Er sieht keinen Sinn darin , wenn bei den Wettkämpfen tonnenweise Fisch an Land gezogen wird und zum Teil unverzehrt an irgendwelchen Uferböschungen vergammelt .
+# vid_types = an land ziehen
 1	Er	_
 2	sieht	_
 3	keinen	_
@@ -3013,7 +3304,10 @@
 24	vergammelt	_
 25	.	_
 
-#Text=Entsprechend dünn sind die Aufträge , die bundesdeutsche Firmen sich während der Messe an Land ziehen können .
+# tuepp_article_id = T860905.28
+# sent_id = 161
+# text = Entsprechend dünn sind die Aufträge , die bundesdeutsche Firmen sich während der Messe an Land ziehen können .
+# vid_types = an land ziehen
 1	Entsprechend	_
 2	dünn	_
 3	sind	_
@@ -3033,7 +3327,10 @@
 17	können	_
 18	.	_
 
-#Text=So hat Siemens den Auftrag für den Auf- und Ausbau des Anfang des Jahres eingeführten Fernsehens an Land gezogen .
+# tuepp_article_id = T861213.66
+# sent_id = 162
+# text = So hat Siemens den Auftrag für den Auf- und Ausbau des Anfang des Jahres eingeführten Fernsehens an Land gezogen .
+# vid_types = an land ziehen
 1	So	_
 2	hat	_
 3	Siemens	_
@@ -3055,7 +3352,10 @@
 19	gezogen	1
 20	.	_
 
-#Text=Die Grünen haben sich diesmal Profis an Land gezogen .
+# tuepp_article_id = T861213.70
+# sent_id = 163
+# text = Die Grünen haben sich diesmal Profis an Land gezogen .
+# vid_types = an land ziehen
 1	Die	_
 2	Grünen	_
 3	haben	_
@@ -3067,7 +3367,10 @@
 9	gezogen	1
 10	.	_
 
-#Text=Antonio Strecht Monteiro , " Weidleplan"-Repräsentant in Portugal , wollte seine Verbindungen zu den illustren " Emaudio"-Teilhabern nutzen , um für seine Stuttgarter Auftraggeber ein Riesengeschäft an Land zu ziehen : den Bau eines Flughafens in der portugiesischen Kolonie Macau .
+# tuepp_article_id = T930519.80
+# sent_id = 164
+# text = Antonio Strecht Monteiro , "Weidleplan"-Repräsentant in Portugal , wollte seine Verbindungen zu den illustren "Emaudio"-Teilhabern nutzen , um für seine Stuttgarter Auftraggeber ein Riesengeschäft an Land zu ziehen : den Bau eines Flughafens in der portugiesischen Kolonie Macau .
+# vid_types = an land ziehen
 1	Antonio	_
 2	Strecht	_
 3	Monteiro	_
@@ -3110,7 +3413,10 @@
 40	Macau	_
 41	.	_
 
-#Text=Noch Ende letzten Jahres hatte der Betriebsrat ein tragfähig scheinendes Konzept an Land gezogen .
+# tuepp_article_id = T930602.130
+# sent_id = 165
+# text = Noch Ende letzten Jahres hatte der Betriebsrat ein tragfähig scheinendes Konzept an Land gezogen .
+# vid_types = an land ziehen
 1	Noch	_
 2	Ende	_
 3	letzten	_
@@ -3127,7 +3433,10 @@
 14	gezogen	1
 15	.	_
 
-#Text=Zwar hat die Werft Aufträge für vier weitere Containerschiffe an Land gezogen , aber die Belegschaft ist nicht ausgelastet .
+# tuepp_article_id = T930607.203
+# sent_id = 166
+# text = Zwar hat die Werft Aufträge für vier weitere Containerschiffe an Land gezogen , aber die Belegschaft ist nicht ausgelastet .
+# vid_types = an land ziehen
 1	Zwar	_
 2	hat	_
 3	die	_
@@ -3149,7 +3458,10 @@
 19	ausgelastet	_
 20	.	_
 
-#Text=Die nächsten Aufträge für zwei Schwesterschiffe der " Oriana " hat sich die Werft jedenfalls schon an Land gezogen .
+# tuepp_article_id = T931001.114
+# sent_id = 167
+# text = Die nächsten Aufträge für zwei Schwesterschiffe der " Oriana " hat sich die Werft jedenfalls schon an Land gezogen .
+# vid_types = an land ziehen
 1	Die	_
 2	nächsten	_
 3	Aufträge	_
@@ -3171,7 +3483,10 @@
 19	gezogen	1
 20	.	_
 
-#Text=Dann zog er das Opfer an Land .
+# tuepp_article_id = T930906.160
+# sent_id = 168
+# text = Dann zog er das Opfer an Land .
+# vid_types = an land ziehen
 1	Dann	_
 2	zog	1:non-literal
 3	er	_
@@ -3181,7 +3496,10 @@
 7	Land	1
 8	.	_
 
-#Text=Als im vergangenen Jahr bekannt wurde , daß der Flughafen in Mexiko-Stadt sein Leitsystem komplett erneuern muß , weil sich der Flugverkehr seit der letzten Modernisierung 1980 versechsfacht hat , versuchte Moussavi , den lukrativen Auftrag an Land zu ziehen .
+# tuepp_article_id = T930908.51
+# sent_id = 169
+# text = Als im vergangenen Jahr bekannt wurde , daß der Flughafen in Mexiko-Stadt sein Leitsystem komplett erneuern muß , weil sich der Flugverkehr seit der letzten Modernisierung 1980 versechsfacht hat , versuchte Moussavi , den lukrativen Auftrag an Land zu ziehen .
+# vid_types = an land ziehen
 1	Als	_
 2	im	_
 3	vergangenen	_
@@ -3224,7 +3542,10 @@
 40	ziehen	1
 41	.	_
 
-#Text=Michael Schweiger , Kopf des Projektes , versucht in erster Linie mit sozial- und jugendpolitischen Argumenten Mittel an Land zu ziehen .
+# tuepp_article_id = T930119.103
+# sent_id = 170
+# text = Michael Schweiger , Kopf des Projektes , versucht in erster Linie mit sozial- und jugendpolitischen Argumenten Mittel an Land zu ziehen .
+# vid_types = an land ziehen
 1	Michael	_
 2	Schweiger	_
 3	,	_
@@ -3248,7 +3569,10 @@
 21	ziehen	1
 22	.	_
 
-#Text=Einen harten Job hat er sich an Land gezogen , der neue Hamburger Arbeitsamtsdirektor , Olaf Koglin .
+# tuepp_article_id = T930407.219
+# sent_id = 171
+# text = Einen harten Job hat er sich an Land gezogen , der neue Hamburger Arbeitsamtsdirektor , Olaf Koglin .
+# vid_types = an land ziehen
 1	Einen	_
 2	harten	_
 3	Job	_
@@ -3268,7 +3592,10 @@
 17	Koglin	_
 18	.	_
 
-#Text=Es war ja nicht nur der Staat DDR , der die alten Besitzansprüche übernahm , es waren oft auch einzelne , die sich mit bisweilen zweifelhaften Methoden ein Häuschen im Grünen an Land zogen .
+# tuepp_article_id = T930428.72
+# sent_id = 172
+# text = Es war ja nicht nur der Staat DDR , der die alten Besitzansprüche übernahm , es waren oft auch einzelne , die sich mit bisweilen zweifelhaften Methoden ein Häuschen im Grünen an Land zogen .
+# vid_types = an land ziehen
 1	Es	_
 2	war	_
 3	ja	_
@@ -3305,7 +3632,10 @@
 34	zogen	1
 35	.	_
 
-#Text=" Mister Gras " wird er genannt , weil er die werbemäßig geniale Idee hatte , Wimbledon in Halle zu kopieren und auch noch das Daviscup-Finale an Land zu ziehen .
+# tuepp_article_id = T930715.5
+# sent_id = 173
+# text = " Mister Gras " wird er genannt , weil er die werbemäßig geniale Idee hatte , Wimbledon in Halle zu kopieren und auch noch das Daviscup-Finale an Land zu ziehen .
+# vid_types = an land ziehen
 1	"	_
 2	Mister	_
 3	Gras	_
@@ -3338,7 +3668,10 @@
 30	ziehen	1
 31	.	_
 
-#Text=Man muß eben erst einmal auf die Idee kommen , Klein- Wimbledon aus dem westfälischen Boden zu stampfen , ein drittes Rasenturnier ( neben Queens und dem besagten Wimbledon ) auszurichten und auch noch das Daviscup-Viertelfinale an diesem Wochenende zwischen Deutschland und dem tschecho-slowakischen Tennisbündnis an Land zu ziehen .
+# tuepp_article_id = T930715.84
+# sent_id = 174
+# text = Man muß eben erst einmal auf die Idee kommen , Klein- Wimbledon aus dem westfälischen Boden zu stampfen , ein drittes Rasenturnier ( neben Queens und dem besagten Wimbledon ) auszurichten und auch noch das Daviscup-Viertelfinale an diesem Wochenende zwischen Deutschland und dem tschecho-slowakischen Tennisbündnis an Land zu ziehen .
+# vid_types = an land ziehen
 1	Man	_
 2	muß	_
 3	eben	_
@@ -3390,7 +3723,10 @@
 49	ziehen	1
 50	.	_
 
-#Text=Ziemlich überbelichtet , dieser Kontaktabzug eines Fotoreporters , der Stories an Land und Huren aus der Elbe ziehen soll .
+# tuepp_article_id = T930708.108
+# sent_id = 175
+# text = Ziemlich überbelichtet , dieser Kontaktabzug eines Fotoreporters , der Stories an Land und Huren aus der Elbe ziehen soll .
+# vid_types = an land ziehen
 1	Ziemlich	_
 2	überbelichtet	_
 3	,	_
@@ -3412,7 +3748,10 @@
 19	soll	_
 20	.	_
 
-#Text=Mit den Westküsten-Haudegen Econochrist aus den USA haben sie einen derben Hardcore-Act an Land gezogen .
+# tuepp_article_id = T930708.154
+# sent_id = 176
+# text = Mit den Westküsten-Haudegen Econochrist aus den USA haben sie einen derben Hardcore-Act an Land gezogen .
+# vid_types = an land ziehen
 1	Mit	_
 2	den	_
 3	Westküsten-Haudegen	_
@@ -3430,7 +3769,10 @@
 15	gezogen	1
 16	.	_
 
-#Text=Er verkraftete die Tiraden des Hafenstraßen-Boris gegen den schnöden Mammon ebenso klaglos wie Beckers Weigerung , gewisse Werbeverträge , die Tiriac mühsam an Land gezogen hatte , zu unterschreiben , und wartete geduldig auf die nächste Wandlung des amtierenden ATP- Champions in Sachen Philosophie und Selbsterforschung .
+# tuepp_article_id = T930723.108
+# sent_id = 177
+# text = Er verkraftete die Tiraden des Hafenstraßen-Boris gegen den schnöden Mammon ebenso klaglos wie Beckers Weigerung , gewisse Werbeverträge , die Tiriac mühsam an Land gezogen hatte , zu unterschreiben , und wartete geduldig auf die nächste Wandlung des amtierenden ATP- Champions in Sachen Philosophie und Selbsterforschung .
+# vid_types = an land ziehen
 1	Er	_
 2	verkraftete	_
 3	die	_
@@ -3479,7 +3821,10 @@
 46	Selbsterforschung	_
 47	.	_
 
-#Text=Es muß am Haken liegen : Bisher hat die Industrie noch kaum einen Fisch aus dem Netz der Weltmusik an Land gezogen .
+# tuepp_article_id = T930707.140
+# sent_id = 178
+# text = Es muß am Haken liegen : Bisher hat die Industrie noch kaum einen Fisch aus dem Netz der Weltmusik an Land gezogen .
+# vid_types = an land ziehen
 1	Es	_
 2	muß	_
 3	am	_
@@ -3504,7 +3849,10 @@
 22	gezogen	2
 23	.	_
 
-#Text=Mit der Exlibris-Sammlung der Universitätsbibliothek Breslau hat das Kunstamt Tiergarten einen kleinen Schatz an Land gezogen .
+# tuepp_article_id = T930731.174
+# sent_id = 179
+# text = Mit der Exlibris-Sammlung der Universitätsbibliothek Breslau hat das Kunstamt Tiergarten einen kleinen Schatz an Land gezogen .
+# vid_types = an land ziehen
 1	Mit	_
 2	der	_
 3	Exlibris-Sammlung	_
@@ -3523,7 +3871,10 @@
 16	gezogen	1
 17	.	_
 
-#Text=Mit Fatima Sewifi , Künstlername " Fatima die Amazone " , hat sie sich auch eine äußerst gut qualifizierte Partnerin an Land gezogen .
+# tuepp_article_id = T930712.73
+# sent_id = 180
+# text = Mit Fatima Sewifi , Künstlername " Fatima die Amazone " , hat sie sich auch eine äußerst gut qualifizierte Partnerin an Land gezogen .
+# vid_types = an land ziehen
 1	Mit	_
 2	Fatima	_
 3	Sewifi	_
@@ -3549,7 +3900,10 @@
 23	gezogen	1
 24	.	_
 
-#Text=" Herr Leyendecker hat wohl doch das , Sahnehäubchen ` des Journalismus klammheimlich an Land gezogen " , schrieb Ernst K. an Gerhard Mauz .
+# tuepp_article_id = T931223.122
+# sent_id = 181
+# text = " Herr Leyendecker hat wohl doch das , Sahnehäubchen ` des Journalismus klammheimlich an Land gezogen " , schrieb Ernst K. an Gerhard Mauz .
+# vid_types = an land ziehen
 1	"	_
 2	Herr	_
 3	Leyendecker	_
@@ -3576,7 +3930,10 @@
 24	Mauz	_
 25	.	_
 
-#Text=Das tut er auch in der Hoffnung , sich so vielleicht einen der vakanten Abteilungsleiterposten in der Karlsruher Bundesanwaltschaft an Land ziehen zu können .
+# tuepp_article_id = T931207.77
+# sent_id = 182
+# text = Das tut er auch in der Hoffnung , sich so vielleicht einen der vakanten Abteilungsleiterposten in der Karlsruher Bundesanwaltschaft an Land ziehen zu können .
+# vid_types = an land ziehen
 1	Das	_
 2	tut	_
 3	er	_
@@ -3603,7 +3960,10 @@
 24	können	_
 25	.	_
 
-#Text=Der Deutsche Eishockey-Bund ( DEB ) nämlich liebt auch das Geld , hat die Brauerei Krombacher als Generalsponsor an Land gezogen , schreckte nicht einmal davor zurück , die Bundesliga in " Krombacher-Liga " umzubenennen , und verpflichtete alle Klubs , Bierwerbung zu betreiben .
+# tuepp_article_id = T930803.107
+# sent_id = 183
+# text = Der Deutsche Eishockey-Bund ( DEB ) nämlich liebt auch das Geld , hat die Brauerei Krombacher als Generalsponsor an Land gezogen , schreckte nicht einmal davor zurück , die Bundesliga in " Krombacher-Liga " umzubenennen , und verpflichtete alle Klubs , Bierwerbung zu betreiben .
+# vid_types = an land ziehen
 1	Der	_
 2	Deutsche	_
 3	Eishockey-Bund	_
@@ -3650,7 +4010,10 @@
 44	betreiben	_
 45	.	_
 
-#Text=Konnten die sizilianischen " Mattanza"-Fischer früher im Juli / August mindestens zehntausend Tonnen Thunfisch an Land ziehen , so schaffen es heute nur noch ein paar hundert Exemplare bis ins mittlere Mittelmeer .
+# tuepp_article_id = T930828.191
+# sent_id = 184
+# text = Konnten die sizilianischen "Mattanza"-Fischer früher im Juli / August mindestens zehntausend Tonnen Thunfisch an Land ziehen , so schaffen es heute nur noch ein paar hundert Exemplare bis ins mittlere Mittelmeer .
+# vid_types = an land ziehen
 1	Konnten	_
 2	die	_
 3	sizilianischen	_
@@ -3685,7 +4048,10 @@
 32	Mittelmeer	_
 33	.	_
 
-#Text=Ein Jahrzehnt lang zog man diverse Aufträge im Ostblock an Land und verdiente bombig Geld .
+# tuepp_article_id = T930821.167
+# sent_id = 185
+# text = Ein Jahrzehnt lang zog man diverse Aufträge im Ostblock an Land und verdiente bombig Geld .
+# vid_types = an land ziehen
 1	Ein	_
 2	Jahrzehnt	_
 3	lang	_
@@ -3703,7 +4069,10 @@
 15	Geld	_
 16	.	_
 
-#Text=Im Jahre 1978 wähnte die Berlin Consult , sie habe ein lukratives Geschäft an Land gezogen .
+# tuepp_article_id = T930821.167
+# sent_id = 186
+# text = Im Jahre 1978 wähnte die Berlin Consult , sie habe ein lukratives Geschäft an Land gezogen .
+# vid_types = an land ziehen
 1	Im	_
 2	Jahre	_
 3	1978	_
@@ -3722,7 +4091,10 @@
 16	gezogen	1
 17	.	_
 
-#Text=14 Tage nachdem er diesen Posten verlassen hatte , gründete er 1989 die Gesellschaft Atacir , SA , und bald darauf zog seine Firma einen fetten Fisch an Land : Zwei Prozent des Auftragsvolumens versprach ihm die deutsche Firma Siemens für den Fall , daß Siemens den Zuschlag für den Bau der Stromversorgung des Hochgeschwindigkeitszugs Madrid-Sevilla bekomme .
+# tuepp_article_id = T930301.60
+# sent_id = 187
+# text = 14 Tage nachdem er diesen Posten verlassen hatte , gründete er 1989 die Gesellschaft Atacir , SA , und bald darauf zog seine Firma einen fetten Fisch an Land : Zwei Prozent des Auftragsvolumens versprach ihm die deutsche Firma Siemens für den Fall , daß Siemens den Zuschlag für den Bau der Stromversorgung des Hochgeschwindigkeitszugs Madrid-Sevilla bekomme .
+# vid_types = an land ziehen
 1	14	_
 2	Tage	_
 3	nachdem	_
@@ -3782,7 +4154,10 @@
 57	bekomme	_
 58	.	_
 
-#Text=Ein Jahresvertrag mit " West " , der die halbe Miete sichert : Was das rührige Junge Theater jetzt an Land zog , ist der Traum manch gebeutelter Künstlergruppe und der Alptraum der letzten Puristen .
+# tuepp_article_id = T931102.159
+# sent_id = 188
+# text = Ein Jahresvertrag mit " West " , der die halbe Miete sichert : Was das rührige Junge Theater jetzt an Land zog , ist der Traum manch gebeutelter Künstlergruppe und der Alptraum der letzten Puristen .
+# vid_types = an land ziehen
 1	Ein	_
 2	Jahresvertrag	_
 3	mit	_
@@ -3820,7 +4195,10 @@
 35	Puristen	_
 36	.	_
 
-#Text=Eine Loslösung von Dasa sollte nach seiner Ansicht allerdings langsam stattfinden : Erst müsse eine eigene Infrastruktur aufgebaut werden , um Aufträge an Land zu ziehen .
+# tuepp_article_id = T931108.225
+# sent_id = 189
+# text = Eine Loslösung von Dasa sollte nach seiner Ansicht allerdings langsam stattfinden : Erst müsse eine eigene Infrastruktur aufgebaut werden , um Aufträge an Land zu ziehen .
+# vid_types = an land ziehen
 1	Eine	_
 2	Loslösung	_
 3	von	_
@@ -3849,7 +4227,10 @@
 26	ziehen	1
 27	.	_
 
-#Text=Mit Findigkeit , Hartnäckigkeit , Argumenten und Kontakten , womöglich auch noch mit Charme und Penetranz hat das Bremer Umwelt-Ressort ein interessantes EG-Projekt , 2,4 Millionen stark , an Land gezogen .
+# tuepp_article_id = T930211.221
+# sent_id = 190
+# text = Mit Findigkeit , Hartnäckigkeit , Argumenten und Kontakten , womöglich auch noch mit Charme und Penetranz hat das Bremer Umwelt-Ressort ein interessantes EG-Projekt , 2,4 Millionen stark , an Land gezogen .
+# vid_types = an land ziehen
 1	Mit	_
 2	Findigkeit	_
 3	,	_
@@ -3883,7 +4264,10 @@
 31	gezogen	1
 32	.	_
 
-#Text=Einen vermeintlich dicken Fisch hat sich Verbandsligist Bergedorf 85 für Sonntag an Land gezogen .
+# tuepp_article_id = T930205.251
+# sent_id = 191
+# text = Einen vermeintlich dicken Fisch hat sich Verbandsligist Bergedorf 85 für Sonntag an Land gezogen .
+# vid_types = an land ziehen
 1	Einen	_
 2	vermeintlich	_
 3	dicken	_
@@ -3900,7 +4284,10 @@
 14	gezogen	2
 15	.	_
 
-#Text=Sie zog dieser Tage einen 275- Millionen-Mark-Auftrag an Land .
+# tuepp_article_id = T960511.80
+# sent_id = 192
+# text = Sie zog dieser Tage einen 275- Millionen-Mark-Auftrag an Land .
+# vid_types = an land ziehen
 1	Sie	_
 2	zog	1:non-literal-mwe
 3	dieser	_
@@ -3912,7 +4299,10 @@
 9	Land	1
 10	.	_
 
-#Text=Die bewies er im letzten Jahr , als er gemeinsam mit einigen freien Gruppen die Sophiensäle als neue Spielstätte an Land ziehen wollte .
+# tuepp_article_id = T960517.248
+# sent_id = 193
+# text = Die bewies er im letzten Jahr , als er gemeinsam mit einigen freien Gruppen die Sophiensäle als neue Spielstätte an Land ziehen wollte .
+# vid_types = an land ziehen
 1	Die	_
 2	bewies	_
 3	er	_
@@ -3938,7 +4328,10 @@
 23	wollte	_
 24	.	_
 
-#Text=" Damit können wir neue Aufträge an Land ziehen , müssen allerdings auch kostendeckend arbeiten " , sagte er .
+# tuepp_article_id = T960605.57
+# sent_id = 194
+# text = " Damit können wir neue Aufträge an Land ziehen , müssen allerdings auch kostendeckend arbeiten " , sagte er .
+# vid_types = an land ziehen
 1	"	_
 2	Damit	_
 3	können	_
@@ -3960,7 +4353,10 @@
 19	er	_
 20	.	_
 
-#Text=Mit dem Titel hofft der TSV nun , entweder die Siegener Wirtschaft in Zugzwang zu bringen oder in letzter Sekunde einen ganz neuen Sponsor an Land zu ziehen .
+# tuepp_article_id = T960604.130
+# sent_id = 195
+# text = Mit dem Titel hofft der TSV nun , entweder die Siegener Wirtschaft in Zugzwang zu bringen oder in letzter Sekunde einen ganz neuen Sponsor an Land zu ziehen .
+# vid_types = an land ziehen
 1	Mit	_
 2	dem	_
 3	Titel	_
@@ -3991,7 +4387,10 @@
 28	ziehen	1
 29	.	_
 
-#Text=Irana Rusta , kulturpolitische Sprecherin der Fraktion : " Schwenkow hat den Senat reingelegt , als er sich den Vertrag mit diesen Versprechen an Land gezogen hat .
+# tuepp_article_id = T961026.293
+# sent_id = 196
+# text = Irana Rusta , kulturpolitische Sprecherin der Fraktion : " Schwenkow hat den Senat reingelegt , als er sich den Vertrag mit diesen Versprechen an Land gezogen hat .
+# vid_types = an land ziehen
 1	Irana	_
 2	Rusta	_
 3	,	_
@@ -4021,7 +4420,10 @@
 27	hat	_
 28	.	_
 
-#Text=Warum muß man sich solch ein Problem an Land ziehen ?
+# tuepp_article_id = T961026.308
+# sent_id = 197
+# text = Warum muß man sich solch ein Problem an Land ziehen ?
+# vid_types = an land ziehen
 1	Warum	_
 2	muß	_
 3	man	_
@@ -4034,7 +4436,10 @@
 10	ziehen	1
 11	?	_
 
-#Text=In der Zwischenzeit hatte das BBI internationale Ausbildungsprojekte in Griechenland und Indonesien an Land gezogen , um an EG-Zuschüsse zu kommen .
+# tuepp_article_id = T961017.271
+# sent_id = 198
+# text = In der Zwischenzeit hatte das BBI internationale Ausbildungsprojekte in Griechenland und Indonesien an Land gezogen , um an EG-Zuschüsse zu kommen .
+# vid_types = an land ziehen
 1	In	_
 2	der	_
 3	Zwischenzeit	_
@@ -4058,7 +4463,10 @@
 21	kommen	_
 22	.	_
 
-#Text=Mit den Sportjournalisten Silke Buttgereit und Michael Groneberg hat sich der kleine Berliner Verlag Leute vom Fach an Land gezogen , die der Dokumentierung eines " weiteren Meilensteins der Emanzipationsbewegung von Lesben und Schwulen " - so die jubelnde Umschreibung der warmen Sporttage im Vorwort - , ein tragfähiges journalistisches Konzept abzuringen vermochten : eine Mischung aus witzigen und hintergründigen Texten , Grußworten , Wettkampfergebnissen , Interviews und vielen Fotos .
+# tuepp_article_id = T961008.117
+# sent_id = 199
+# text = Mit den Sportjournalisten Silke Buttgereit und Michael Groneberg hat sich der kleine Berliner Verlag Leute vom Fach an Land gezogen , die der Dokumentierung eines " weiteren Meilensteins der Emanzipationsbewegung von Lesben und Schwulen " - so die jubelnde Umschreibung der warmen Sporttage im Vorwort - , ein tragfähiges journalistisches Konzept abzuringen vermochten : eine Mischung aus witzigen und hintergründigen Texten , Grußworten , Wettkampfergebnissen , Interviews und vielen Fotos .
+# vid_types = an land ziehen
 1	Mit	_
 2	den	_
 3	Sportjournalisten	_
@@ -4131,7 +4539,10 @@
 70	Fotos	_
 71	.	_
 
-#Text=1979 suchten die Verfechter alternativer Lernformen nach einem neuen Dach über dem Kopf und taten etwas für damalige Verhältnisse sehr Exotisches : Statt , wie in der Szene üblich , einfach einen alten Kasten zu besetzen , zogen die Lehrer Kredite und Teilhaber an Land und kauften das alte Fabrikgebäude der Druckerei Berthold an der Gneisenaustraße für knapp zwei Millionen Mark .
+# tuepp_article_id = T960927.196
+# sent_id = 200
+# text = 1979 suchten die Verfechter alternativer Lernformen nach einem neuen Dach über dem Kopf und taten etwas für damalige Verhältnisse sehr Exotisches : Statt , wie in der Szene üblich , einfach einen alten Kasten zu besetzen , zogen die Lehrer Kredite und Teilhaber an Land und kauften das alte Fabrikgebäude der Druckerei Berthold an der Gneisenaustraße für knapp zwei Millionen Mark .
+# vid_types = an land ziehen
 1	1979	_
 2	suchten	_
 3	die	_
@@ -4195,7 +4606,10 @@
 61	Mark	_
 62	.	_
 
-#Text=Arbeiten von 13 NachwuchskünstlerInnen dieser Städte hat die Kunsthistorikerin deshalb an Land der Teerhofinsel gezogen .
+# tuepp_article_id = T960927.246
+# sent_id = 201
+# text = Arbeiten von 13 NachwuchskünstlerInnen dieser Städte hat die Kunsthistorikerin deshalb an Land der Teerhofinsel gezogen .
+# vid_types = an land ziehen
 1	Arbeiten	_
 2	von	_
 3	13	_
@@ -4213,7 +4627,10 @@
 15	gezogen	1
 16	.	_
 
-#Text=Dort zogen sie mit Hilfe von Bundeskanzler Kohl den 220 Millionen umfassenden Entwicklungsauftrag für eine neue Elektrolok an Land .
+# tuepp_article_id = T960905.218
+# sent_id = 202
+# text = Dort zogen sie mit Hilfe von Bundeskanzler Kohl den 220 Millionen umfassenden Entwicklungsauftrag für eine neue Elektrolok an Land .
+# vid_types = an land ziehen
 1	Dort	_
 2	zogen	1:non-literal-mwe
 3	sie	_
@@ -4235,7 +4652,10 @@
 19	Land	1
 20	.	_
 
-#Text=Wer die meisten Anzeigenschaltungen an Land ziehen kann , überlebt .
+# tuepp_article_id = T960914.243
+# sent_id = 203
+# text = Wer die meisten Anzeigenschaltungen an Land ziehen kann , überlebt .
+# vid_types = an land ziehen
 1	Wer	_
 2	die	_
 3	meisten	_
@@ -4248,7 +4668,10 @@
 10	überlebt	_
 11	.	_
 
-#Text=Als besonders schwierig erwies sich der Abtransport eines Mannes , den nach einem Sturz das Bewußtsein verlassen hatte : Er mußte in einem Schlauchboot auf Kufen an Land gezogen werden .
+# tuepp_article_id = T960108.249
+# sent_id = 204
+# text = Als besonders schwierig erwies sich der Abtransport eines Mannes , den nach einem Sturz das Bewußtsein verlassen hatte : Er mußte in einem Schlauchboot auf Kufen an Land gezogen werden .
+# vid_types = an land ziehen
 1	Als	_
 2	besonders	_
 3	schwierig	_
@@ -4281,7 +4704,10 @@
 30	werden	_
 31	.	_
 
-#Text=Manager für den vor einem Jahr gebildeten eigenständigen Geschäftsbereich konnte der Senat bislang nicht an Land ziehen .
+# tuepp_article_id = T960716.219
+# sent_id = 205
+# text = Manager für den vor einem Jahr gebildeten eigenständigen Geschäftsbereich konnte der Senat bislang nicht an Land ziehen .
+# vid_types = an land ziehen
 1	Manager	_
 2	für	_
 3	den	_
@@ -4301,7 +4727,10 @@
 17	ziehen	1
 18	.	_
 
-#Text=Der Erfolg und die schnelle Expansion der Windkraftbauer , die große Aufträge für riesige Windanlagen an Land gezogen hatten , brachen ihnen das Genick : Für die großen Anlagen mußten Materialien beschafft werden , das Eigenkapital reichte für diese Vorfinanzierung nicht aus .
+# tuepp_article_id = T960705.221
+# sent_id = 206
+# text = Der Erfolg und die schnelle Expansion der Windkraftbauer , die große Aufträge für riesige Windanlagen an Land gezogen hatten , brachen ihnen das Genick : Für die großen Anlagen mußten Materialien beschafft werden , das Eigenkapital reichte für diese Vorfinanzierung nicht aus .
+# vid_types = an land ziehen
 1	Der	_
 2	Erfolg	_
 3	und	_
@@ -4346,7 +4775,10 @@
 42	aus	_
 43	.	_
 
-#Text=Der Tote zählte zu den größten Brennstoffhändlern der Hauptstadt und hatte Geld wie Heu : Gerhard Malicha war der erste , der mit dem Verkauf von schwefelarmem Heizöl bei der BVG einen Großauftrag an Land zog .
+# tuepp_article_id = T961204.220
+# sent_id = 207
+# text = Der Tote zählte zu den größten Brennstoffhändlern der Hauptstadt und hatte Geld wie Heu : Gerhard Malicha war der erste , der mit dem Verkauf von schwefelarmem Heizöl bei der BVG einen Großauftrag an Land zog .
+# vid_types = an land ziehen
 1	Der	_
 2	Tote	_
 3	zählte	_
@@ -4385,7 +4817,10 @@
 36	zog	2
 37	.	_
 
-#Text=Vor allem mehr Dorsch und Sprotten dürfen an Land gezogen werden .
+# tuepp_article_id = T961221.59
+# sent_id = 208
+# text = Vor allem mehr Dorsch und Sprotten dürfen an Land gezogen werden .
+# vid_types = an land ziehen
 1	Vor	_
 2	allem	_
 3	mehr	_
@@ -4399,7 +4834,10 @@
 11	werden	_
 12	.	_
 
-#Text=Lutz Kayser und Jochen Curth , die Masterminds des Projektes , haben einige Klassiker und Newcomer an Land gezogen .
+# tuepp_article_id = T961205.278
+# sent_id = 209
+# text = Lutz Kayser und Jochen Curth , die Masterminds des Projektes , haben einige Klassiker und Newcomer an Land gezogen .
+# vid_types = an land ziehen
 1	Lutz	_
 2	Kayser	_
 3	und	_
@@ -4421,7 +4859,10 @@
 19	gezogen	1
 20	.	_
 
-#Text=Dies ist zum Beispiel die Verkehrsindustrie , die unlängst einen fetten Auftrag für die U-Bahn in Schanghai an Land zog .
+# tuepp_article_id = T960815.186
+# sent_id = 210
+# text = Dies ist zum Beispiel die Verkehrsindustrie , die unlängst einen fetten Auftrag für die U-Bahn in Schanghai an Land zog .
+# vid_types = an land ziehen
 1	Dies	_
 2	ist	_
 3	zum	_
@@ -4444,7 +4885,10 @@
 20	zog	1
 21	.	_
 
-#Text=Der Inhaber eines Bürogroßhandels und ehemalige Zweitliga-Spieler des BC Johanneum unterstützt den Verein nicht nur mit eigenem Geld , sondern hat mit Samsung , Toshiba und Sharp zahlungskräftige Sponsoren an Land ziehen können .
+# tuepp_article_id = T960826.266
+# sent_id = 211
+# text = Der Inhaber eines Bürogroßhandels und ehemalige Zweitliga-Spieler des BC Johanneum unterstützt den Verein nicht nur mit eigenem Geld , sondern hat mit Samsung , Toshiba und Sharp zahlungskräftige Sponsoren an Land ziehen können .
+# vid_types = an land ziehen
 1	Der	_
 2	Inhaber	_
 3	eines	_
@@ -4480,7 +4924,10 @@
 33	können	_
 34	.	_
 
-#Text=Da kommt die Erfolgsmeldung gerade recht : ADtranz und Siemens haben einen 650-Millionen-Auftrag für den Bau der U-Bahn im chinesischen Schanghai an Land gezogen .
+# tuepp_article_id = T960819.236
+# sent_id = 212
+# text = Da kommt die Erfolgsmeldung gerade recht : ADtranz und Siemens haben einen 650-Millionen-Auftrag für den Bau der U-Bahn im chinesischen Schanghai an Land gezogen .
+# vid_types = an land ziehen
 1	Da	_
 2	kommt	_
 3	die	_
@@ -4507,7 +4954,10 @@
 24	gezogen	1
 25	.	_
 
-#Text=Aber der Auftrag war nicht leicht an Land zu ziehen .
+# tuepp_article_id = T960805.81
+# sent_id = 213
+# text = Aber der Auftrag war nicht leicht an Land zu ziehen .
+# vid_types = an land ziehen
 1	Aber	_
 2	der	_
 3	Auftrag	_
@@ -4520,7 +4970,10 @@
 10	ziehen	1
 11	.	_
 
-#Text=Mit jeweils einem Treffer in zwei Tips konnten die erwünschten Millionenbeträge nicht an Land gezogen werden .
+# tuepp_article_id = T961111.170
+# sent_id = 214
+# text = Mit jeweils einem Treffer in zwei Tips konnten die erwünschten Millionenbeträge nicht an Land gezogen werden .
+# vid_types = an land ziehen
 1	Mit	_
 2	jeweils	_
 3	einem	_
@@ -4539,7 +4992,10 @@
 16	werden	_
 17	.	_
 
-#Text=" Nu muß Jungunternehmer Aschler lachen , wo er aber schlecht mit ankommt bei Heinzi : " Ich weiß , daß Sie sich ne Generalvertretung für Spräientferner an Land gezogen habn und gleichzeitig Prämien für sogenannte Spräikünstler auswerfen ... aber , wie gesagt : Wenn ich ein ' von diese Schmiersäue erwisch , denn geht das aber rund !
+# tuepp_article_id = T961117.3
+# sent_id = 215
+# text = " Nu muß Jungunternehmer Aschler lachen , wo er aber schlecht mit ankommt bei Heinzi : " Ich weiß , daß Sie sich ne Generalvertretung für Spräientferner an Land gezogen habn und gleichzeitig Prämien für sogenannte Spräikünstler auswerfen ... aber , wie gesagt : Wenn ich ein ' von diese Schmiersäue erwisch , denn geht das aber rund !
+# vid_types = an land ziehen
 1	"	_
 2	Nu	_
 3	muß	_
@@ -4600,7 +5056,10 @@
 58	rund	_
 59	!	_
 
-#Text=Nun mußte ich einen neuen Job an Land ziehen .
+# tuepp_article_id = T961115.130
+# sent_id = 216
+# text = Nun mußte ich einen neuen Job an Land ziehen .
+# vid_types = an land ziehen
 1	Nun	_
 2	mußte	_
 3	ich	_
@@ -4612,7 +5071,10 @@
 9	ziehen	1
 10	.	_
 
-#Text=Neben den klassischen Aufgaben in der Berufsausbildung und beim Außenhandel haben sie sich staatliche Aufgaben im Gutachterwesen an Land gezogen .
+# tuepp_article_id = T961123.58
+# sent_id = 217
+# text = Neben den klassischen Aufgaben in der Berufsausbildung und beim Außenhandel haben sie sich staatliche Aufgaben im Gutachterwesen an Land gezogen .
+# vid_types = an land ziehen
 1	Neben	_
 2	den	_
 3	klassischen	_
@@ -4635,7 +5097,10 @@
 20	gezogen	1
 21	.	_
 
-#Text=Das Bremer " Lagerhaus " hat den fetten Brocken beizeiten an Land gezogen ; dort tritt die Band morgen auf .
+# tuepp_article_id = T960229.258
+# sent_id = 218
+# text = Das Bremer " Lagerhaus " hat den fetten Brocken beizeiten an Land gezogen ; dort tritt die Band morgen auf .
+# vid_types = an land ziehen
 1	Das	_
 2	Bremer	_
 3	"	_
@@ -4658,7 +5123,10 @@
 20	auf	_
 21	.	_
 
-#Text=Erst einmal loslegen , Drittmittel an Land ziehen , der Rest wird sich schon finden " .
+# tuepp_article_id = T960212.238
+# sent_id = 219
+# text = Erst einmal loslegen , Drittmittel an Land ziehen , der Rest wird sich schon finden " .
+# vid_types = an land ziehen
 1	Erst	_
 2	einmal	_
 3	loslegen	_
@@ -4677,7 +5145,10 @@
 16	"	_
 17	.	_
 
-#Text=Ohnehin begibt sich Dounraey mehr und mehr auf den internationalen Markt , um Wiederaufbereitungsaufträge an Land zu ziehen .
+# tuepp_article_id = T960205.59
+# sent_id = 220
+# text = Ohnehin begibt sich Dounraey mehr und mehr auf den internationalen Markt , um Wiederaufbereitungsaufträge an Land zu ziehen .
+# vid_types = an land ziehen
 1	Ohnehin	_
 2	begibt	_
 3	sich	_
@@ -4698,7 +5169,10 @@
 18	ziehen	1
 19	.	_
 
-#Text=Nach der Wende Treuhand-Direktor , sollte Nawrocki dann für Berlin mit Gesamtkosten von 50 Millionen Mark die Olympiade an Land ziehen .
+# tuepp_article_id = T980515.82
+# sent_id = 221
+# text = Nach der Wende Treuhand-Direktor , sollte Nawrocki dann für Berlin mit Gesamtkosten von 50 Millionen Mark die Olympiade an Land ziehen .
+# vid_types = an land ziehen
 1	Nach	_
 2	der	_
 3	Wende	_
@@ -4722,7 +5196,10 @@
 21	ziehen	1
 22	.	_
 
-#Text=Auf höherem Niveau aber nutzen sie manchmal auch eine instabile politische Situation für sich aus , indem sie lukrative Schutzverträge an Land ziehen oder gar Aktien der betroffenen Firmen erwerben , was zuweilen der wirkliche Grund für diese nicht ungefährliche Arbeit zu sein scheint .
+# tuepp_article_id = T980526.149
+# sent_id = 222
+# text = Auf höherem Niveau aber nutzen sie manchmal auch eine instabile politische Situation für sich aus , indem sie lukrative Schutzverträge an Land ziehen oder gar Aktien der betroffenen Firmen erwerben , was zuweilen der wirkliche Grund für diese nicht ungefährliche Arbeit zu sein scheint .
+# vid_types = an land ziehen
 1	Auf	_
 2	höherem	_
 3	Niveau	_
@@ -4769,7 +5246,10 @@
 44	scheint	_
 45	.	_
 
-#Text=Die Regierung möchte darum neben den Großsponsoren auch ein paar kleinere Interessenten an Land ziehen , die sich dann mit Abgelegenerem begnügen müßten : Wer sich in Pompeji ( oder Herculaneum oder Castellamar di Stabia , den beiden anderen einst verschütteten Orten ) engagiert , kriegt gleich mal 30 Prozent der eingesetzten Summe als zinslosen Kredit auf drei Jahre vorgeschossen , " und das könnte auch schon ein örtliches Restaurant oder Hotel oder eine Backwarenfirma aus Neapel anlocken " , so jedenfalls Kulturminister Veltroni .
+# tuepp_article_id = T980529.150
+# sent_id = 223
+# text = Die Regierung möchte darum neben den Großsponsoren auch ein paar kleinere Interessenten an Land ziehen , die sich dann mit Abgelegenerem begnügen müßten : Wer sich in Pompeji ( oder Herculaneum oder Castellamar di Stabia , den beiden anderen einst verschütteten Orten ) engagiert , kriegt gleich mal 30 Prozent der eingesetzten Summe als zinslosen Kredit auf drei Jahre vorgeschossen , " und das könnte auch schon ein örtliches Restaurant oder Hotel oder eine Backwarenfirma aus Neapel anlocken " , so jedenfalls Kulturminister Veltroni .
+# vid_types = an land ziehen
 1	Die	_
 2	Regierung	_
 3	möchte	_
@@ -4856,7 +5336,10 @@
 84	Veltroni	_
 85	.	_
 
-#Text=1996 wurden weltweit rekordverdächtige 121 Millionen Tonnen Fisch an Land gezogen .
+# tuepp_article_id = T980608.87
+# sent_id = 224
+# text = 1996 wurden weltweit rekordverdächtige 121 Millionen Tonnen Fisch an Land gezogen .
+# vid_types = an land ziehen
 1	1996	_
 2	wurden	_
 3	weltweit	_
@@ -4870,7 +5353,10 @@
 11	gezogen	1
 12	.	_
 
-#Text=Gemeinsam gelang es beiden , den bewußtlosen Mann aus der Mitte des Gewässers an Land zu ziehen .
+# tuepp_article_id = T981021.228
+# sent_id = 225
+# text = Gemeinsam gelang es beiden , den bewußtlosen Mann aus der Mitte des Gewässers an Land zu ziehen .
+# vid_types = an land ziehen
 1	Gemeinsam	_
 2	gelang	_
 3	es	_
@@ -4890,7 +5376,10 @@
 17	ziehen	1
 18	.	_
 
-#Text=In München zog sie zusammen mit ihrem Geschäftspartner Wolfram Wöhr Großprojekte an Land - und wurde so bekannt , daß Daimler- Benz auf sie aufmerksam wurde .
+# tuepp_article_id = T980907.235
+# sent_id = 226
+# text = In München zog sie zusammen mit ihrem Geschäftspartner Wolfram Wöhr Großprojekte an Land - und wurde so bekannt , daß Daimler- Benz auf sie aufmerksam wurde .
+# vid_types = an land ziehen
 1	In	_
 2	München	_
 3	zog	1:non-literal-mwe
@@ -4919,7 +5408,10 @@
 26	wurde	_
 27	.	_
 
-#Text=Aus STN-Firmenkreisen wurde laut , Frensel habe sein STN-Aufsichtsrats-Pöstchen genutzt , um das Gebäudemanagement des Unternehmens für die Stadtwerke-Tochter an Land zu ziehen .
+# tuepp_article_id = T980113.32
+# sent_id = 227
+# text = Aus STN-Firmenkreisen wurde laut , Frensel habe sein STN-Aufsichtsrats-Pöstchen genutzt , um das Gebäudemanagement des Unternehmens für die Stadtwerke-Tochter an Land zu ziehen .
+# vid_types = an land ziehen
 1	Aus	_
 2	STN-Firmenkreisen	_
 3	wurde	_
@@ -4945,7 +5437,10 @@
 23	ziehen	1
 24	.	_
 
-#Text=Nur bayerische Unternehmen standen noch besser da , sie zogen knapp ein Fünftel der begehrten Rüstungsmilliarden an Land .
+# tuepp_article_id = T980112.265
+# sent_id = 228
+# text = Nur bayerische Unternehmen standen noch besser da , sie zogen knapp ein Fünftel der begehrten Rüstungsmilliarden an Land .
+# vid_types = an land ziehen
 1	Nur	_
 2	bayerische	_
 3	Unternehmen	_
@@ -4966,7 +5461,10 @@
 18	Land	1
 19	.	_
 
-#Text=Schließlich gilt es , Subventionen an Land zu ziehen .
+# tuepp_article_id = T980102.136
+# sent_id = 229
+# text = Schließlich gilt es , Subventionen an Land zu ziehen .
+# vid_types = an land ziehen
 1	Schließlich	_
 2	gilt	_
 3	es	_
@@ -4978,7 +5476,10 @@
 9	ziehen	1
 10	.	_
 
-#Text=1985 zog der Physiker das erste Auslandsprojekt an Land : Die Gesellschaft für technische Zusammenarbeit erteilte dem Simonswälder Unternehmen den Auftrag , in Peru eine Kleinwasserkraftanlage zu planen und zu bauen .
+# tuepp_article_id = T980418.239
+# sent_id = 230
+# text = 1985 zog der Physiker das erste Auslandsprojekt an Land : Die Gesellschaft für technische Zusammenarbeit erteilte dem Simonswälder Unternehmen den Auftrag , in Peru eine Kleinwasserkraftanlage zu planen und zu bauen .
+# vid_types = an land ziehen
 1	1985	_
 2	zog	1:non-literal-mwe
 3	der	_
@@ -5012,7 +5513,10 @@
 31	bauen	_
 32	.	_
 
-#Text=Andererseits endet die laufende Legislaturperiode erst im Dezember 1999 , da bleibt noch ausreichend Zeit , um zusätzliche Pfründe an Land zu ziehen .
+# tuepp_article_id = T980402.154
+# sent_id = 231
+# text = Andererseits endet die laufende Legislaturperiode erst im Dezember 1999 , da bleibt noch ausreichend Zeit , um zusätzliche Pfründe an Land zu ziehen .
+# vid_types = an land ziehen
 1	Andererseits	_
 2	endet	_
 3	die	_
@@ -5038,7 +5542,10 @@
 23	ziehen	1
 24	.	_
 
-#Text=So blieb nach über einer Stunde vergeblichen Wartens nichts anderes übrig , als die Überlebenskiste wieder an Land zu ziehen .
+# tuepp_article_id = T980718.245
+# sent_id = 232
+# text = So blieb nach über einer Stunde vergeblichen Wartens nichts anderes übrig , als die Überlebenskiste wieder an Land zu ziehen .
+# vid_types = an land ziehen
 1	So	_
 2	blieb	_
 3	nach	_
@@ -5061,7 +5568,10 @@
 20	ziehen	1
 21	.	_
 
-#Text=" Das Ärgerlichste an alldem " , weiß Armando , der Forstmann , " ist aber nicht , daß die Gangster die Aufforstungsaufträge mit ihren hinterhältigen Mitteln an Land ziehen und ehrliche Konkurrenten ausschalten - das Schlimmste ist , daß sie danach ja gar nichts aufforsten .
+# tuepp_article_id = T980709.126
+# sent_id = 233
+# text = " Das Ärgerlichste an alldem " , weiß Armando , der Forstmann , " ist aber nicht , daß die Gangster die Aufforstungsaufträge mit ihren hinterhältigen Mitteln an Land ziehen und ehrliche Konkurrenten ausschalten - das Schlimmste ist , daß sie danach ja gar nichts aufforsten .
+# vid_types = an land ziehen
 1	"	_
 2	Das	_
 3	Ärgerlichste	_
@@ -5110,7 +5620,10 @@
 46	aufforsten	_
 47	.	_
 
-#Text=Neben den sportlichen Einkäufen zog er Nina Hagen an Land .
+# tuepp_article_id = T980714.240
+# sent_id = 234
+# text = Neben den sportlichen Einkäufen zog er Nina Hagen an Land .
+# vid_types = an land ziehen
 1	Neben	_
 2	den	_
 3	sportlichen	_
@@ -5123,7 +5636,10 @@
 10	Land	1
 11	.	_
 
-#Text=Parallel zum Mochovce-Auftrag gelang es Siemens nämlich , 40 Prozent eines Auftrags über 275 Millionen zur Nachrüstung der beiden Blöcke von Bohunice an Land zu ziehen , der in den Jahren 1996 bis 1999 abgearbeitet werden soll .
+# tuepp_article_id = T981214.122
+# sent_id = 235
+# text = Parallel zum Mochovce-Auftrag gelang es Siemens nämlich , 40 Prozent eines Auftrags über 275 Millionen zur Nachrüstung der beiden Blöcke von Bohunice an Land zu ziehen , der in den Jahren 1996 bis 1999 abgearbeitet werden soll .
+# vid_types = an land ziehen
 1	Parallel	_
 2	zum	_
 3	Mochovce-Auftrag	_
@@ -5163,7 +5679,10 @@
 37	soll	_
 38	.	_
 
-#Text=Um nicht den Termin für die Bewerbung im Frühjahr 1999 zur Fußballweltmeisterschaft 2006 zu verschlafen , hat sich das Land gerade noch rechtzeitig ein Konzept zur Sanierung des bröckelnden Olympiastadions an Land gezogen .
+# tuepp_article_id = T981202.169
+# sent_id = 236
+# text = Um nicht den Termin für die Bewerbung im Frühjahr 1999 zur Fußballweltmeisterschaft 2006 zu verschlafen , hat sich das Land gerade noch rechtzeitig ein Konzept zur Sanierung des bröckelnden Olympiastadions an Land gezogen .
+# vid_types = an land ziehen
 1	Um	_
 2	nicht	_
 3	den	_
@@ -5199,7 +5718,10 @@
 33	gezogen	2
 34	.	_
 
-#Text=Schlecht für die Sprotte : Obwohl Wissenschaftler dringend von einer Erhöhung der Fangmenge in der Nordsee abgeraten hatten , sollen im nächsten Jahr 175.000 statt der bisherigen 150.000 Tonnen an Land gezogen werden .
+# tuepp_article_id = T981219.159
+# sent_id = 237
+# text = Schlecht für die Sprotte : Obwohl Wissenschaftler dringend von einer Erhöhung der Fangmenge in der Nordsee abgeraten hatten , sollen im nächsten Jahr 175.000 statt der bisherigen 150.000 Tonnen an Land gezogen werden .
+# vid_types = an land ziehen
 1	Schlecht	_
 2	für	_
 3	die	_
@@ -5235,7 +5757,10 @@
 33	werden	_
 34	.	_
 
-#Text=Carry a la Metro an Land ziehen .
+# tuepp_article_id = T981215.21
+# sent_id = 238
+# text = Carry a la Metro an Land ziehen .
+# vid_types = an land ziehen
 1	Carry	_
 2	a	_
 3	la	_
@@ -5245,7 +5770,10 @@
 7	ziehen	1
 8	.	_
 
-#Text=Allerdings lohnt sich der Hotline-Dienst für die Anwälte nur durch die Mandanten , die sie per Telefon an Land ziehen .
+# tuepp_article_id = T980817.22
+# sent_id = 239
+# text = Allerdings lohnt sich der Hotline-Dienst für die Anwälte nur durch die Mandanten , die sie per Telefon an Land ziehen .
+# vid_types = an land ziehen
 1	Allerdings	_
 2	lohnt	_
 3	sich	_
@@ -5268,7 +5796,10 @@
 20	ziehen	1
 21	.	_
 
-#Text=Mit der größeren Kapitalkraft einer Großbank im Rücken , kann Landowsky im Sinne der CDU-Spitze zusätzliche Großprojekte an Land ziehen und damit vermehrten Einfluß auf die Stadtgestaltung nehmen .
+# tuepp_article_id = T980307.250
+# sent_id = 240
+# text = Mit der größeren Kapitalkraft einer Großbank im Rücken , kann Landowsky im Sinne der CDU-Spitze zusätzliche Großprojekte an Land ziehen und damit vermehrten Einfluß auf die Stadtgestaltung nehmen .
+# vid_types = an land ziehen
 1	Mit	_
 2	der	_
 3	größeren	_
@@ -5299,7 +5830,10 @@
 28	nehmen	_
 29	.	_
 
-#Text=Berlin ( taz ) - Das " Deutsche Fregattenkonsortium " hat guten Chancen , einen lukrativen Auftrag zum Bau von U-Booten für Südafrika an Land zu ziehen .
+# tuepp_article_id = T981118.30
+# sent_id = 241
+# text = Berlin ( taz ) - Das " Deutsche Fregattenkonsortium " hat guten Chancen , einen lukrativen Auftrag zum Bau von U-Booten für Südafrika an Land zu ziehen .
+# vid_types = an land ziehen
 1	Berlin	_
 2	(	_
 3	taz	_
@@ -5329,7 +5863,10 @@
 27	ziehen	1
 28	.	_
 
-#Text=Stadtbekannte Hallenbetreiber wie die VELOMAX ( Schwenkow , Gegenbauer , Otremba und Hauert ) oder auch die OSB-Sportstättenbauten GmbH haben kein Interesse , sich das Prestigeobjekt an Land zu ziehen .
+# tuepp_article_id = T981109.175
+# sent_id = 242
+# text = Stadtbekannte Hallenbetreiber wie die VELOMAX ( Schwenkow , Gegenbauer , Otremba und Hauert ) oder auch die OSB-Sportstättenbauten GmbH haben kein Interesse , sich das Prestigeobjekt an Land zu ziehen .
+# vid_types = an land ziehen
 1	Stadtbekannte	_
 2	Hallenbetreiber	_
 3	wie	_
@@ -5362,7 +5899,10 @@
 30	ziehen	1
 31	.	_
 
-#Text=Das irische Nationale Filmstudio zog die 11,5-Millionen-Dollar-Produktion " Excalibur " an Land .
+# tuepp_article_id = T980226.161
+# sent_id = 243
+# text = Das irische Nationale Filmstudio zog die 11,5-Millionen-Dollar-Produktion " Excalibur " an Land .
+# vid_types = an land ziehen
 1	Das	_
 2	irische	_
 3	Nationale	_
@@ -5377,7 +5917,10 @@
 12	Land	1
 13	.	_
 
-#Text=Immerhin war es dem Schatzmeister gelungen , diverse Sponsoren an Land zu ziehen , die Gaudino das Bleiben vergolden sollten .
+# tuepp_article_id = T970514.138
+# sent_id = 244
+# text = Immerhin war es dem Schatzmeister gelungen , diverse Sponsoren an Land zu ziehen , die Gaudino das Bleiben vergolden sollten .
+# vid_types = an land ziehen
 1	Immerhin	_
 2	war	_
 3	es	_
@@ -5400,7 +5943,10 @@
 20	sollten	_
 21	.	_
 
-#Text=Aber offensichtlich haben Sie übersehen , daß sie bereits während ihrer Genesung im Haus eine kleine Werbekampagne startet , um neue Aufträge an Land zu ziehen ( zum Beispiel bei Carsten Flöter ) .
+# tuepp_article_id = T970616.179
+# sent_id = 245
+# text = Aber offensichtlich haben Sie übersehen , daß sie bereits während ihrer Genesung im Haus eine kleine Werbekampagne startet , um neue Aufträge an Land zu ziehen ( zum Beispiel bei Carsten Flöter ) .
+# vid_types = an land ziehen
 1	Aber	_
 2	offensichtlich	_
 3	haben	_
@@ -5436,7 +5982,10 @@
 33	)	_
 34	.	_
 
-#Text=Die 28jährige sprang hinterher und zog die Frau wieder an Land .
+# tuepp_article_id = T971007.232
+# sent_id = 246
+# text = Die 28jährige sprang hinterher und zog die Frau wieder an Land .
+# vid_types = an land ziehen
 1	Die	_
 2	28jährige	_
 3	sprang	_
@@ -5450,7 +5999,10 @@
 11	Land	1
 12	.	_
 
-#Text=Den zweistelligen Millionenetat einer bekannten großen deutschen Automarke konnte Dorland-Chef Hans Hansen erst vor kurzem an Land ziehen .
+# tuepp_article_id = T971009.188
+# sent_id = 247
+# text = Den zweistelligen Millionenetat einer bekannten großen deutschen Automarke konnte Dorland-Chef Hans Hansen erst vor kurzem an Land ziehen .
+# vid_types = an land ziehen
 1	Den	_
 2	zweistelligen	_
 3	Millionenetat	_
@@ -5471,7 +6023,10 @@
 18	ziehen	1
 19	.	_
 
-#Text=Den Milliardenauftrag zog die finnische Firma Nokia an Land , die in Bochum Mobiltelefone produziert .
+# tuepp_article_id = T970419.65
+# sent_id = 248
+# text = Den Milliardenauftrag zog die finnische Firma Nokia an Land , die in Bochum Mobiltelefone produziert .
+# vid_types = an land ziehen
 1	Den	_
 2	Milliardenauftrag	_
 3	zog	1:non-literal-mwe
@@ -5489,7 +6044,10 @@
 15	produziert	_
 16	.	_
 
-#Text=Es kann also sein , daß die Folklorekommissare Groth und Hinrichs in " Polizeiruf 110 : Der Fremde " ( So. , 20.15 Uhr , ARD ) beim Postbankraub einen großen Fisch an Land ziehen .
+# tuepp_article_id = T970426.161
+# sent_id = 249
+# text = Es kann also sein , daß die Folklorekommissare Groth und Hinrichs in " Polizeiruf 110 : Der Fremde " ( So. , 20.15 Uhr , ARD ) beim Postbankraub einen großen Fisch an Land ziehen .
+# vid_types = an land ziehen
 1	Es	_
 2	kann	_
 3	also	_
@@ -5527,7 +6085,10 @@
 35	ziehen	2
 36	.	_
 
-#Text=Hella Moormann hat sich immer die falschen Männer an Land gezogen : mal waren es manisch Depressive , mal ewige Studenten und sonstige Versager .
+# tuepp_article_id = T970425.143
+# sent_id = 250
+# text = Hella Moormann hat sich immer die falschen Männer an Land gezogen : mal waren es manisch Depressive , mal ewige Studenten und sonstige Versager .
+# vid_types = an land ziehen
 1	Hella	_
 2	Moormann	_
 3	hat	_
@@ -5554,7 +6115,10 @@
 24	Versager	_
 25	.	_
 
-#Text=Bisweilen haben es gerade mittelständische Unternehmen schwer , Aufträge beispielsweise in Asien an Land zu ziehen .
+# tuepp_article_id = T970719.213
+# sent_id = 251
+# text = Bisweilen haben es gerade mittelständische Unternehmen schwer , Aufträge beispielsweise in Asien an Land zu ziehen .
+# vid_types = an land ziehen
 1	Bisweilen	_
 2	haben	_
 3	es	_
@@ -5573,7 +6137,10 @@
 16	ziehen	1
 17	.	_
 
-#Text=Die Zentralbank hofft , mit Hilfe dieses Signals , längerfristige aus- und inländische Investitionen an Land zu ziehen .
+# tuepp_article_id = T971231.117
+# sent_id = 252
+# text = Die Zentralbank hofft , mit Hilfe dieses Signals , längerfristige aus- und inländische Investitionen an Land zu ziehen .
+# vid_types = an land ziehen
 1	Die	_
 2	Zentralbank	_
 3	hofft	_
@@ -5594,7 +6161,10 @@
 18	ziehen	1
 19	.	_
 
-#Text=Er steuerte Soundtracks zu Werbespots des Stifte-Herstellers Schwan Stabilo bei - und zog damit den Sponsor für Code + 49 an Land .
+# tuepp_article_id = T971218.277
+# sent_id = 253
+# text = Er steuerte Soundtracks zu Werbespots des Stifte-Herstellers Schwan Stabilo bei - und zog damit den Sponsor für Code + 49 an Land .
+# vid_types = an land ziehen
 1	Er	_
 2	steuerte	_
 3	Soundtracks	_
@@ -5619,7 +6189,10 @@
 22	Land	1
 23	.	_
 
-#Text=Für amerikanische Hochschulen sind " Brückenköpfe " in Übersee interessant , um direkt mit ausländischen Firmen lukrative Forschungsprojekte an Land zu ziehen und die Auslandsorientierung ihrer Studenten zu verstärken .
+# tuepp_article_id = T971217.4
+# sent_id = 254
+# text = Für amerikanische Hochschulen sind " Brückenköpfe " in Übersee interessant , um direkt mit ausländischen Firmen lukrative Forschungsprojekte an Land zu ziehen und die Auslandsorientierung ihrer Studenten zu verstärken .
+# vid_types = an land ziehen
 1	Für	_
 2	amerikanische	_
 3	Hochschulen	_
@@ -5651,7 +6224,10 @@
 29	verstärken	_
 30	.	_
 
-#Text=Bei manchen Aufträgen , die Gegenbauer in den vergangenen Jahren an Land zog , mögen derartige Beziehungen zumindest nicht hinderlich gewesen sein .
+# tuepp_article_id = T970811.209
+# sent_id = 255
+# text = Bei manchen Aufträgen , die Gegenbauer in den vergangenen Jahren an Land zog , mögen derartige Beziehungen zumindest nicht hinderlich gewesen sein .
+# vid_types = an land ziehen
 1	Bei	_
 2	manchen	_
 3	Aufträgen	_
@@ -5676,7 +6252,10 @@
 22	sein	_
 23	.	_
 
-#Text=Der Verein zog drei Investoren an Land - die städtische " Gesellschaft für Wohnen und Bauen " , die Sozialeinrichtung " Leben mit Behinderung " sowie - für die Gewerbebebauung - die Dr. Greve AG .
+# tuepp_article_id = T970809.337
+# sent_id = 256
+# text = Der Verein zog drei Investoren an Land - die städtische " Gesellschaft für Wohnen und Bauen " , die Sozialeinrichtung " Leben mit Behinderung " sowie - für die Gewerbebebauung - die Dr. Greve AG .
+# vid_types = an land ziehen
 1	Der	_
 2	Verein	_
 3	zog	1:non-literal-mwe
@@ -5714,7 +6293,10 @@
 35	AG	_
 36	.	_
 
-#Text=Allein im Bereich der Grundlagenforschung zogen sie im letzten Jahr 50 russische Stipendien an Land und etwa ein Dutzend internationale in Kooperation mit Ausländern .
+# tuepp_article_id = T970808.126
+# sent_id = 257
+# text = Allein im Bereich der Grundlagenforschung zogen sie im letzten Jahr 50 russische Stipendien an Land und etwa ein Dutzend internationale in Kooperation mit Ausländern .
+# vid_types = an land ziehen
 1	Allein	_
 2	im	_
 3	Bereich	_
@@ -5741,7 +6323,10 @@
 24	Ausländern	_
 25	.	_
 
-#Text=Und um ein gutes Gespräch mit dem " Dreikäsehoch " an Land zu ziehen .
+# tuepp_article_id = T970818.153
+# sent_id = 258
+# text = Und um ein gutes Gespräch mit dem " Dreikäsehoch " an Land zu ziehen .
+# vid_types = an land ziehen
 1	Und	_
 2	um	_
 3	ein	_
@@ -5758,7 +6343,10 @@
 14	ziehen	1
 15	.	_
 
-#Text=Neben einer Kamera ( Erik Poppe ) , die oft unerwartete Winkel und Zögerlichkeiten eingeht , ergibt das würdevolle Understatement , mit dem die Oldtimer ihre Schrulligkeit zelebrieren , einen Film , der zum Originellsten zählt , was die fsk-Leute und der Kairos- Filmverleih dieses Jahr an Land gezogen haben .
+# tuepp_article_id = T971121.226
+# sent_id = 259
+# text = Neben einer Kamera ( Erik Poppe ) , die oft unerwartete Winkel und Zögerlichkeiten eingeht , ergibt das würdevolle Understatement , mit dem die Oldtimer ihre Schrulligkeit zelebrieren , einen Film , der zum Originellsten zählt , was die fsk-Leute und der Kairos- Filmverleih dieses Jahr an Land gezogen haben .
+# vid_types = an land ziehen
 1	Neben	_
 2	einer	_
 3	Kamera	_
@@ -5811,7 +6399,10 @@
 50	haben	_
 51	.	_
 
-#Text=" Damit kann man die Ästhetik unseres Sports vermitteln " , glaubt Hoffmann - und das wiederum läßt sich besser bei den Sponsoren verkaufen , von denen der Deutsche Handball- Bund ( DHB ) erstmals vier allein und ganz speziell für die Frauen an Land ziehen konnte .
+# tuepp_article_id = T971129.121
+# sent_id = 260
+# text = " Damit kann man die Ästhetik unseres Sports vermitteln " , glaubt Hoffmann - und das wiederum läßt sich besser bei den Sponsoren verkaufen , von denen der Deutsche Handball- Bund ( DHB ) erstmals vier allein und ganz speziell für die Frauen an Land ziehen konnte .
+# vid_types = an land ziehen
 1	"	_
 2	Damit	_
 3	kann	_
@@ -5861,7 +6452,10 @@
 47	konnte	_
 48	.	_
 
-#Text=Kiel ( dpa ) - Mit dem Bau des Luxuswohnschiffs " The World of ResidenSea " hat die Kieler Werft HDW ihren bisher größten Einzelauftrag in der Handelsschifffahrt an Land gezogen .
+# tuepp_article_id = T971125.90
+# sent_id = 261
+# text = Kiel ( dpa ) - Mit dem Bau des Luxuswohnschiffs " The World of ResidenSea " hat die Kieler Werft HDW ihren bisher größten Einzelauftrag in der Handelsschifffahrt an Land gezogen .
+# vid_types = an land ziehen
 1	Kiel	_
 2	(	_
 3	dpa	_
@@ -5895,7 +6489,10 @@
 31	gezogen	1
 32	.	_
 
-#Text=Mit einem am Montag unterzeichneten Vorvertrag über den Bau des 850 Millionen Mark teuren Edel-Wohnschiffs " The World of ResidenSea " hat die Kieler Werft HDW ihren bisher größten Einzelauftrag in der Handelsschiffahrt an Land gezogen .
+# tuepp_article_id = T971125.279
+# sent_id = 262
+# text = Mit einem am Montag unterzeichneten Vorvertrag über den Bau des 850 Millionen Mark teuren Edel-Wohnschiffs " The World of ResidenSea " hat die Kieler Werft HDW ihren bisher größten Einzelauftrag in der Handelsschiffahrt an Land gezogen .
+# vid_types = an land ziehen
 1	Mit	_
 2	einem	_
 3	am	_
@@ -5934,7 +6531,10 @@
 36	gezogen	1
 37	.	_
 
-#Text=" Die Vermittlung muß einfach mehr Jobs an Land ziehen " , meint die Lateinstudentin .
+# tuepp_article_id = T970215.209
+# sent_id = 263
+# text = " Die Vermittlung muß einfach mehr Jobs an Land ziehen " , meint die Lateinstudentin .
+# vid_types = an land ziehen
 1	"	_
 2	Die	_
 3	Vermittlung	_
@@ -5952,7 +6552,10 @@
 15	Lateinstudentin	_
 16	.	_
 
-#Text=Nun war die Lady nicht etwa in den See gesprungen , um den obdachlosen Alkoholiker Martin O'Donoghue an Land zu ziehen , sondern das hatte sie einem 29jährigen finnischen Studenten überlassen .
+# tuepp_article_id = T940524.140
+# sent_id = 264
+# text = Nun war die Lady nicht etwa in den See gesprungen , um den obdachlosen Alkoholiker Martin O'Donoghue an Land zu ziehen , sondern das hatte sie einem 29jährigen finnischen Studenten überlassen .
+# vid_types = an land ziehen
 1	Nun	_
 2	war	_
 3	die	_
@@ -5986,7 +6589,10 @@
 31	überlassen	_
 32	.	_
 
-#Text=Manchmal gehe ich auch los und versuche Geld an Land zu ziehen .
+# tuepp_article_id = T940503.215
+# sent_id = 265
+# text = Manchmal gehe ich auch los und versuche Geld an Land zu ziehen .
+# vid_types = an land ziehen
 1	Manchmal	_
 2	gehe	_
 3	ich	_
@@ -6001,7 +6607,10 @@
 12	ziehen	1
 13	.	_
 
-#Text=Wir haben zwei große Sponsoren an Land gezogen und hoffen , bei der Breminale plus-minus Null zu machen .
+# tuepp_article_id = T940502.213
+# sent_id = 266
+# text = Wir haben zwei große Sponsoren an Land gezogen und hoffen , bei der Breminale plus-minus Null zu machen .
+# vid_types = an land ziehen
 1	Wir	_
 2	haben	_
 3	zwei	_
@@ -6022,7 +6631,10 @@
 18	machen	_
 19	.	_
 
-#Text=Zudem haben die Eagles-Präsiden auf eine Agentur gesetzt , die weder in der Lage war , die so dringend benötigten Finanziers an Land zu ziehen , noch die gewünschte PR-Arbeit zu leisten vermochte .
+# tuepp_article_id = T940516.259
+# sent_id = 267
+# text = Zudem haben die Eagles-Präsiden auf eine Agentur gesetzt , die weder in der Lage war , die so dringend benötigten Finanziers an Land zu ziehen , noch die gewünschte PR-Arbeit zu leisten vermochte .
+# vid_types = an land ziehen
 1	Zudem	_
 2	haben	_
 3	die	_
@@ -6058,7 +6670,10 @@
 33	vermochte	_
 34	.	_
 
-#Text=Die muß nun allerdings unter Beobachtung bleiben , denn es geht erfahrungsgemäß schnell , daß sich arbeitsentlastete Verwaltungen neue Aufgaben an Land ziehen .
+# tuepp_article_id = T940526.188
+# sent_id = 268
+# text = Die muß nun allerdings unter Beobachtung bleiben , denn es geht erfahrungsgemäß schnell , daß sich arbeitsentlastete Verwaltungen neue Aufgaben an Land ziehen .
+# vid_types = an land ziehen
 1	Die	_
 2	muß	_
 3	nun	_
@@ -6084,7 +6699,10 @@
 23	ziehen	1
 24	.	_
 
-#Text=Einer der Höhepunkte im Leben des Tschekisten Schalck war zweifellos , als es ihm 1983 gemeinsam mit dem damaligen bayerischen Ministerpräsidenten Franz Josef Strauß gelang , einen Milliardenkredit bundesdeutscher Banken für die devisenarme DDR an Land zu ziehen .
+# tuepp_article_id = T940601.30
+# sent_id = 269
+# text = Einer der Höhepunkte im Leben des Tschekisten Schalck war zweifellos , als es ihm 1983 gemeinsam mit dem damaligen bayerischen Ministerpräsidenten Franz Josef Strauß gelang , einen Milliardenkredit bundesdeutscher Banken für die devisenarme DDR an Land zu ziehen .
+# vid_types = an land ziehen
 1	Einer	_
 2	der	_
 3	Höhepunkte	_
@@ -6125,7 +6743,10 @@
 38	ziehen	1
 39	.	_
 
-#Text=Soeben zog die deutsch-französische Datenübermittlungs-Tochter , so Telekom- Sprecher Schawinski , auch einen 200 Millionen Mark schweren Dienstleistungs-Auftrag für die dänischen Kollegen von DansNet an Land .
+# tuepp_article_id = T940621.68
+# sent_id = 270
+# text = Soeben zog die deutsch-französische Datenübermittlungs-Tochter , so Telekom- Sprecher Schawinski , auch einen 200 Millionen Mark schweren Dienstleistungs-Auftrag für die dänischen Kollegen von DansNet an Land .
+# vid_types = an land ziehen
 1	Soeben	_
 2	zog	1:non-literal-mwe
 3	die	_
@@ -6154,7 +6775,10 @@
 26	Land	1
 27	.	_
 
-#Text=Er zog einen etwas zwielichtigen indischen Stahlindustriellen an Land , der seine britische Caparo-Gruppe um ein Hamburger Schnäppchen ergänzen wollte .
+# tuepp_article_id = T941004.224
+# sent_id = 271
+# text = Er zog einen etwas zwielichtigen indischen Stahlindustriellen an Land , der seine britische Caparo-Gruppe um ein Hamburger Schnäppchen ergänzen wollte .
+# vid_types = an land ziehen
 1	Er	_
 2	zog	1:non-literal-mwe
 3	einen	_
@@ -6177,7 +6801,10 @@
 20	wollte	_
 21	.	_
 
-#Text=Der Fisch dürfe nicht nach kanadischer Waldläufermanier schwungvoll mit der Angel an Land gezogen werden .
+# tuepp_article_id = T941026.110
+# sent_id = 272
+# text = Der Fisch dürfe nicht nach kanadischer Waldläufermanier schwungvoll mit der Angel an Land gezogen werden .
+# vid_types = an land ziehen
 1	Der	_
 2	Fisch	_
 3	dürfe	_
@@ -6195,7 +6822,10 @@
 15	werden	_
 16	.	_
 
-#Text=Witsch , erklärt Biermann : " ... beim Schreiben an all diesen schwarzen Strophen kam es mir allen Ernstes so vor , als hätte ich nur 30 Jahre meine Kräfte geübt , um nun endlich dieses Werk lebendig ans deutsche Land zu ziehen .
+# tuepp_article_id = T941026.222
+# sent_id = 273
+# text = Witsch , erklärt Biermann : " ... beim Schreiben an all diesen schwarzen Strophen kam es mir allen Ernstes so vor , als hätte ich nur 30 Jahre meine Kräfte geübt , um nun endlich dieses Werk lebendig ans deutsche Land zu ziehen .
+# vid_types = an land ziehen
 1	Witsch	_
 2	,	_
 3	erklärt	_
@@ -6241,7 +6871,10 @@
 43	ziehen	1
 44	.	_
 
-#Text=Berlin ( taz ) - Dieter Schoenfeldt hat einen Großauftrag an Land gezogen .
+# tuepp_article_id = T940426.67
+# sent_id = 274
+# text = Berlin ( taz ) - Dieter Schoenfeldt hat einen Großauftrag an Land gezogen .
+# vid_types = an land ziehen
 1	Berlin	_
 2	(	_
 3	taz	_
@@ -6257,7 +6890,10 @@
 13	gezogen	1
 14	.	_
 
-#Text=Sie haben sich in den letzten Jahren zwei Professoren für Fachdidaktik an Land gezogen und eigene Veranstaltungen für Mathematik und Physik etabliert ; fast alle ihrer Studienordnungen haben sie reformiert .
+# tuepp_article_id = T940416.269
+# sent_id = 275
+# text = Sie haben sich in den letzten Jahren zwei Professoren für Fachdidaktik an Land gezogen und eigene Veranstaltungen für Mathematik und Physik etabliert ; fast alle ihrer Studienordnungen haben sie reformiert .
+# vid_types = an land ziehen
 1	Sie	_
 2	haben	_
 3	sich	_
@@ -6290,7 +6926,10 @@
 30	reformiert	_
 31	.	_
 
-#Text=Mittlerweile hat das Vorstandsmitglied Werner Orlowsky , von 1981 bis 1989 Kreuzberger Baustadtrat , seine Beziehungen spielen lassen und einen spendablen Unternehmer der Baubranche an Land ziehen können .
+# tuepp_article_id = T940721.176
+# sent_id = 276
+# text = Mittlerweile hat das Vorstandsmitglied Werner Orlowsky , von 1981 bis 1989 Kreuzberger Baustadtrat , seine Beziehungen spielen lassen und einen spendablen Unternehmer der Baubranche an Land ziehen können .
+# vid_types = an land ziehen
 1	Mittlerweile	_
 2	hat	_
 3	das	_
@@ -6321,7 +6960,10 @@
 28	können	_
 29	.	_
 
-#Text=In drei Flügeln des Zeughauses ist seit Freitag zu besichtigen , was Direktor Stölzl und seine Mitarbeiter in sieben Jahren Raritätenjagd an Land gezogen haben .
+# tuepp_article_id = T941219.137
+# sent_id = 277
+# text = In drei Flügeln des Zeughauses ist seit Freitag zu besichtigen , was Direktor Stölzl und seine Mitarbeiter in sieben Jahren Raritätenjagd an Land gezogen haben .
+# vid_types = an land ziehen
 1	In	_
 2	drei	_
 3	Flügeln	_
@@ -6349,7 +6991,10 @@
 25	haben	_
 26	.	_
 
-#Text=Als Headliner hat die Überschallcrew einen wahrhaft dicken Fisch an Land gezogen - den Boo-Yaa-T. R. I. B. E. : Das Quartett aus Los Angeles weiß nicht nur musikalisch , wo die Wurst wächst .
+# tuepp_article_id = T940825.254
+# sent_id = 278
+# text = Als Headliner hat die Überschallcrew einen wahrhaft dicken Fisch an Land gezogen - den Boo-Yaa-T. R. I. B. E. : Das Quartett aus Los Angeles weiß nicht nur musikalisch , wo die Wurst wächst .
+# vid_types = an land ziehen
 1	Als	_
 2	Headliner	_
 3	hat	_
@@ -6386,7 +7031,10 @@
 34	wächst	_
 35	.	_
 
-#Text=Sie versucht hier den Fisch an Land zu ziehen , nach dem sie schon lange vergebens angelt : ein Zwischenlager für hochradioaktiven Atommüll .
+# tuepp_article_id = T940822.54
+# sent_id = 279
+# text = Sie versucht hier den Fisch an Land zu ziehen , nach dem sie schon lange vergebens angelt : ein Zwischenlager für hochradioaktiven Atommüll .
+# vid_types = an land ziehen
 1	Sie	_
 2	versucht	_
 3	hier	_
@@ -6412,7 +7060,10 @@
 23	Atommüll	_
 24	.	_
 
-#Text=Ziel der beiden Konzerne ist es , eine bundesweite Kette lokaler Sender unter ihren Einfluß zu bekommen und damit die großen Werbeetats von Markenartikelherstellern an Land zu ziehen .
+# tuepp_article_id = T940806.201
+# sent_id = 280
+# text = Ziel der beiden Konzerne ist es , eine bundesweite Kette lokaler Sender unter ihren Einfluß zu bekommen und damit die großen Werbeetats von Markenartikelherstellern an Land zu ziehen .
+# vid_types = an land ziehen
 1	Ziel	_
 2	der	_
 3	beiden	_
@@ -6443,7 +7094,10 @@
 28	ziehen	1
 29	.	_
 
-#Text=Sein Bezirk will für einen Teil des Geländes einen Motel-Betreiber an Land ziehen .
+# tuepp_article_id = T940813.205
+# sent_id = 281
+# text = Sein Bezirk will für einen Teil des Geländes einen Motel-Betreiber an Land ziehen .
+# vid_types = an land ziehen
 1	Sein	_
 2	Bezirk	_
 3	will	_
@@ -6459,7 +7113,10 @@
 13	ziehen	1
 14	.	_
 
-#Text=Söhne , das Brauereimaschinen , Wursttrocknungsanlagen , aber auch Einäscherungsöfen für Krematorien baute , zog im November 1939 den ersten KZ-Auftrag an Land : ein Verbrennungsofen für das KZ Dachau zum Preis von 8.759 Mark .
+# tuepp_article_id = T940321.90
+# sent_id = 282
+# text = Söhne , das Brauereimaschinen , Wursttrocknungsanlagen , aber auch Einäscherungsöfen für Krematorien baute , zog im November 1939 den ersten KZ-Auftrag an Land : ein Verbrennungsofen für das KZ Dachau zum Preis von 8.759 Mark .
+# vid_types = an land ziehen
 1	Söhne	_
 2	,	_
 3	das	_
@@ -6497,7 +7154,10 @@
 35	Mark	_
 36	.	_
 
-#Text=Dort kandidiert , letzter Stand der Dinge , für die SPD deren stellvertretender Vorsitzender Wolfgang Thierse ; die CDU schickt ( wahrscheinlich ) ihren Rechtsausleger Heinrich Lummer ins Rennen , und die PDS beabsichtigt - seit gestern ist es nun offiziell - , mit dem parteilosen Schriftsteller Stefan Heym das Direktmandat im Herzen der Stadt an Land zu ziehen .
+# tuepp_article_id = T940207.7
+# sent_id = 283
+# text = Dort kandidiert , letzter Stand der Dinge , für die SPD deren stellvertretender Vorsitzender Wolfgang Thierse ; die CDU schickt ( wahrscheinlich ) ihren Rechtsausleger Heinrich Lummer ins Rennen , und die PDS beabsichtigt - seit gestern ist es nun offiziell - , mit dem parteilosen Schriftsteller Stefan Heym das Direktmandat im Herzen der Stadt an Land zu ziehen .
+# vid_types = an land ziehen
 1	Dort	_
 2	kandidiert	_
 3	,	_
@@ -6559,7 +7219,10 @@
 59	ziehen	1
 60	.	_
 
-#Text=Die zweite Million zog " Käpt 'n Bodo " mit dem Lachsack an Land .
+# tuepp_article_id = T940216.90
+# sent_id = 284
+# text = Die zweite Million zog " Käpt 'n Bodo " mit dem Lachsack an Land .
+# vid_types = an land ziehen
 1	Die	_
 2	zweite	_
 3	Million	_
@@ -6576,7 +7239,10 @@
 14	Land	1
 15	.	_
 
-#Text=Die WTA hat es trotz monatelanger Bemühungen nicht geschafft , einen Hauptsponsor an Land zu ziehen .
+# tuepp_article_id = T950522.121
+# sent_id = 285
+# text = Die WTA hat es trotz monatelanger Bemühungen nicht geschafft , einen Hauptsponsor an Land zu ziehen .
+# vid_types = an land ziehen
 1	Die	_
 2	WTA	_
 3	hat	_
@@ -6595,7 +7261,10 @@
 16	ziehen	1
 17	.	_
 
-#Text=Das Unternehmen führt in einer Presseerklärung aus : " In unserem Vorschlag würde die Brent Spar senkrecht an Land gezogen und dort abgerissen werden .
+# tuepp_article_id = T950619.50
+# sent_id = 286
+# text = Das Unternehmen führt in einer Presseerklärung aus : " In unserem Vorschlag würde die Brent Spar senkrecht an Land gezogen und dort abgerissen werden .
+# vid_types = an land ziehen
 1	Das	_
 2	Unternehmen	_
 3	führt	_
@@ -6622,7 +7291,10 @@
 24	werden	_
 25	.	_
 
-#Text=Die meisten der versprochenen Gelder sind bisher nicht freigegeben , und den Flughafenauftrag hat sich eine ägyptische Baufirma an Land gezogen .
+# tuepp_article_id = T950609.63
+# sent_id = 287
+# text = Die meisten der versprochenen Gelder sind bisher nicht freigegeben , und den Flughafenauftrag hat sich eine ägyptische Baufirma an Land gezogen .
+# vid_types = an land ziehen
 1	Die	_
 2	meisten	_
 3	der	_
@@ -6646,7 +7318,10 @@
 21	gezogen	1
 22	.	_
 
-#Text=In den letzten Jahren stellte sie die Produktion um auf westliche Märkte und konnte schon Aufträge für S-Bahnen und den ICE an Land ziehen .
+# tuepp_article_id = T950627.73
+# sent_id = 288
+# text = In den letzten Jahren stellte sie die Produktion um auf westliche Märkte und konnte schon Aufträge für S-Bahnen und den ICE an Land ziehen .
+# vid_types = an land ziehen
 1	In	_
 2	den	_
 3	letzten	_
@@ -6673,7 +7348,10 @@
 24	ziehen	1
 25	.	_
 
-#Text=Da hat die Humboldt-Universität wieder einen dicken Fisch an Land gezogen .
+# tuepp_article_id = T950621.162
+# sent_id = 289
+# text = Da hat die Humboldt-Universität wieder einen dicken Fisch an Land gezogen .
+# vid_types = an land ziehen
 1	Da	_
 2	hat	_
 3	die	_
@@ -6687,7 +7365,10 @@
 11	gezogen	2
 12	.	_
 
-#Text=Werde die 14.000-Tonnen-Plattform im Wasser flachgelegt , um sie später an Land zu ziehen , werde sie tiefer sinken , und es bestehe die Gefahr , daß sie dann auseinanderbricht .
+# tuepp_article_id = T950626.62
+# sent_id = 290
+# text = Werde die 14.000-Tonnen-Plattform im Wasser flachgelegt , um sie später an Land zu ziehen , werde sie tiefer sinken , und es bestehe die Gefahr , daß sie dann auseinanderbricht .
+# vid_types = an land ziehen
 1	Werde	_
 2	die	_
 3	14.000-Tonnen-Plattform	_
@@ -6720,7 +7401,10 @@
 30	auseinanderbricht	_
 31	.	_
 
-#Text=Doch hat man die Rechte gerade teuer an Land gezogen , muß das Buch schnell raus .
+# tuepp_article_id = T950606.126
+# sent_id = 291
+# text = Doch hat man die Rechte gerade teuer an Land gezogen , muß das Buch schnell raus .
+# vid_types = an land ziehen
 1	Doch	_
 2	hat	_
 3	man	_
@@ -6739,7 +7423,10 @@
 16	raus	_
 17	.	_
 
-#Text=Seitdem haben sie keinen Auftrag mehr an Land gezogen .
+# tuepp_article_id = T951011.252
+# sent_id = 292
+# text = Seitdem haben sie keinen Auftrag mehr an Land gezogen .
+# vid_types = an land ziehen
 1	Seitdem	_
 2	haben	_
 3	sie	_
@@ -6751,7 +7438,10 @@
 9	gezogen	1
 10	.	_
 
-#Text=Zweimal in Folge haben die Eisbären nun gewonnen , unversehens den Anschluß zum Tabellenmittelfeld hergestellt und hoffen künftig auf noch mehr Vergnügen , denn sie haben einen weiteren Russen an Land gezogen , der bisher in der zweiten amerikanischen Liga spielte .
+# tuepp_article_id = T951031.133
+# sent_id = 293
+# text = Zweimal in Folge haben die Eisbären nun gewonnen , unversehens den Anschluß zum Tabellenmittelfeld hergestellt und hoffen künftig auf noch mehr Vergnügen , denn sie haben einen weiteren Russen an Land gezogen , der bisher in der zweiten amerikanischen Liga spielte .
+# vid_types = an land ziehen
 1	Zweimal	_
 2	in	_
 3	Folge	_
@@ -6795,7 +7485,10 @@
 41	spielte	_
 42	.	_
 
-#Text=Wegen der hohen Uferbefestigung habe er sich jedoch nicht aus eigener Kraft an Land ziehen können .
+# tuepp_article_id = T951019.189
+# sent_id = 294
+# text = Wegen der hohen Uferbefestigung habe er sich jedoch nicht aus eigener Kraft an Land ziehen können .
+# vid_types = an land ziehen
 1	Wegen	_
 2	der	_
 3	hohen	_
@@ -6814,7 +7507,10 @@
 16	können	_
 17	.	_
 
-#Text=Auch große Anbieter sind nicht frei davon , sich - wissentlich oder unwissentlich - solche Rundgänge an Land zu ziehen und mit ihren größeren Marketing-Möglichkeiten auf den Markt zu schmeißen .
+# tuepp_article_id = T951012.202
+# sent_id = 295
+# text = Auch große Anbieter sind nicht frei davon , sich - wissentlich oder unwissentlich - solche Rundgänge an Land zu ziehen und mit ihren größeren Marketing-Möglichkeiten auf den Markt zu schmeißen .
+# vid_types = an land ziehen
 1	Auch	_
 2	große	_
 3	Anbieter	_
@@ -6847,7 +7543,10 @@
 30	schmeißen	_
 31	.	_
 
-#Text=" Mit erheblichem Kraftaufwand " , wie die Polizeipressestelle bemerkt , sei die Frau schließlich an Land gezogen worden , wobei das Trio noch eine rund 20 Meter breite Schlickzone durchwaten mußte - und hernach entsprechend aussah .
+# tuepp_article_id = T951024.202
+# sent_id = 296
+# text = " Mit erheblichem Kraftaufwand " , wie die Polizeipressestelle bemerkt , sei die Frau schließlich an Land gezogen worden , wobei das Trio noch eine rund 20 Meter breite Schlickzone durchwaten mußte - und hernach entsprechend aussah .
+# vid_types = an land ziehen
 1	"	_
 2	Mit	_
 3	erheblichem	_
@@ -6887,7 +7586,10 @@
 37	aussah	_
 38	.	_
 
-#Text=Denn jener Geschaßte , von dem hier die Rede ist , gilt als Bremens Musical-Hoffnung : Frank Buecheler , der in Hamburg als Produzent und Geschäftsführer der Firma " Neue Metropol Theater Produktion " die Gesamtverantwortung hatte für das nur mäßig erfolgreiche " Buddy Holly " - Musical , soll für Bremen ein Stück nicht nur an Land ziehen , sondern auch für Inszenierung und Vermarktung sorgen .
+# tuepp_article_id = T950905.183
+# sent_id = 297
+# text = Denn jener Geschaßte , von dem hier die Rede ist , gilt als Bremens Musical-Hoffnung : Frank Buecheler , der in Hamburg als Produzent und Geschäftsführer der Firma " Neue Metropol Theater Produktion " die Gesamtverantwortung hatte für das nur mäßig erfolgreiche " Buddy Holly " - Musical , soll für Bremen ein Stück nicht nur an Land ziehen , sondern auch für Inszenierung und Vermarktung sorgen .
+# vid_types = an land ziehen
 1	Denn	_
 2	jener	_
 3	Geschaßte	_
@@ -6957,7 +7659,10 @@
 67	sorgen	_
 68	.	_
 
-#Text=Da seien die 30 Millionen " kein Pappenstiel " , meint Kleineidam ; möglicherweise wolle Hamburg sich nun als Forschungsgelder getarnte Beihilfen aus Bonn für seine Unternehmungen an Land ziehen .
+# tuepp_article_id = T950905.223
+# sent_id = 298
+# text = Da seien die 30 Millionen " kein Pappenstiel " , meint Kleineidam ; möglicherweise wolle Hamburg sich nun als Forschungsgelder getarnte Beihilfen aus Bonn für seine Unternehmungen an Land ziehen .
+# vid_types = an land ziehen
 1	Da	_
 2	seien	_
 3	die	_
@@ -6990,7 +7695,10 @@
 30	ziehen	1
 31	.	_
 
-#Text=Nach ewigem Hin und Her ist es den Veranstaltern des Filmfestes Oldenburg gelungen " Witch Hunt " , den neuen Streifen von Paul Schrader an Land zu ziehen .
+# tuepp_article_id = T950901.240
+# sent_id = 299
+# text = Nach ewigem Hin und Her ist es den Veranstaltern des Filmfestes Oldenburg gelungen " Witch Hunt " , den neuen Streifen von Paul Schrader an Land zu ziehen .
+# vid_types = an land ziehen
 1	Nach	_
 2	ewigem	_
 3	Hin	_
@@ -7021,7 +7729,10 @@
 28	ziehen	1
 29	.	_
 
-#Text=Sie ziehen die letzten zwei Jahre zum Vergleich heran , in denen sie jeweils knapp 40.000 Tonnen Heilbutt mit einem Jahresumsatz von 2 Milliarden Mark an Land zogen .
+# tuepp_article_id = T950418.57
+# sent_id = 300
+# text = Sie ziehen die letzten zwei Jahre zum Vergleich heran , in denen sie jeweils knapp 40.000 Tonnen Heilbutt mit einem Jahresumsatz von 2 Milliarden Mark an Land zogen .
+# vid_types = an land ziehen
 1	Sie	_
 2	ziehen	_
 3	die	_
@@ -7052,7 +7763,10 @@
 28	zogen	1
 29	.	_
 
-#Text=Wenig später zog die Nachrichtenredaktion sie für sich an Land ; damit unterfordert , wurde sie zur Chefin vom Dienst in der Auslandsredaktion .
+# tuepp_article_id = T950428.19
+# sent_id = 301
+# text = Wenig später zog die Nachrichtenredaktion sie für sich an Land ; damit unterfordert , wurde sie zur Chefin vom Dienst in der Auslandsredaktion .
+# vid_types = an land ziehen
 1	Wenig	_
 2	später	_
 3	zog	1:non-literal-mwe
@@ -7078,7 +7792,10 @@
 23	Auslandsredaktion	_
 24	.	_
 
-#Text=1000 FörderInnen will der Hamburger BUND-Landesverband auf diesem " neuen Weg der Mittelbeschaffung " an Land ziehen , um so seine leeren Kassen wieder zu füllen .
+# tuepp_article_id = T950701.241
+# sent_id = 302
+# text = 1000 FörderInnen will der Hamburger BUND-Landesverband auf diesem " neuen Weg der Mittelbeschaffung " an Land ziehen , um so seine leeren Kassen wieder zu füllen .
+# vid_types = an land ziehen
 1	1000	_
 2	FörderInnen	_
 3	will	_
@@ -7107,7 +7824,10 @@
 26	füllen	_
 27	.	_
 
-#Text=Das bewegungslose Kind konnte von einem Badegast an Land gezogen werden .
+# tuepp_article_id = T950704.200
+# sent_id = 303
+# text = Das bewegungslose Kind konnte von einem Badegast an Land gezogen werden .
+# vid_types = an land ziehen
 1	Das	_
 2	bewegungslose	_
 3	Kind	_
@@ -7121,7 +7841,10 @@
 11	werden	_
 12	.	_
 
-#Text=Stattdessen werden Sechs-Monats-Zeitverträge - zum Teil im Außendienst als VertreterInnen - angeboten , wo dann auf Provisionsbasis Versicherungspolicen an Land zu ziehen sind .
+# tuepp_article_id = T950703.235
+# sent_id = 304
+# text = Stattdessen werden Sechs-Monats-Zeitverträge - zum Teil im Außendienst als VertreterInnen - angeboten , wo dann auf Provisionsbasis Versicherungspolicen an Land zu ziehen sind .
+# vid_types = an land ziehen
 1	Stattdessen	_
 2	werden	_
 3	Sechs-Monats-Zeitverträge	_
@@ -7147,7 +7870,10 @@
 23	sind	_
 24	.	_
 
-#Text=" Andreas " , davon war er felsenfest überzeugt , wende wieder einen seiner Tricks an , um Subventionen an Land zu ziehen .
+# tuepp_article_id = T951219.169
+# sent_id = 305
+# text = " Andreas " , davon war er felsenfest überzeugt , wende wieder einen seiner Tricks an , um Subventionen an Land zu ziehen .
+# vid_types = an land ziehen
 1	"	_
 2	Andreas	_
 3	"	_
@@ -7173,7 +7899,10 @@
 23	ziehen	1
 24	.	_
 
-#Text=Von außen gesehen scheint es ihr gelungen zu sein , sich eine Reihe großartiger Sachen an Land zu ziehen , die ihr jedoch keine Zeit zum Nachdenken lassen .
+# tuepp_article_id = T951202.137
+# sent_id = 306
+# text = Von außen gesehen scheint es ihr gelungen zu sein , sich eine Reihe großartiger Sachen an Land zu ziehen , die ihr jedoch keine Zeit zum Nachdenken lassen .
+# vid_types = an land ziehen
 1	Von	_
 2	außen	_
 3	gesehen	_
@@ -7204,7 +7933,10 @@
 28	lassen	_
 29	.	_
 
-#Text=Die texanische Firma Conco zog einen eine Milliarde Dollar schweren Auftrag von der Regierung in Teheran an Land , um in einige Ölquellen vor der iranischen Küste zu investieren .
+# tuepp_article_id = T950316.97
+# sent_id = 307
+# text = Die texanische Firma Conco zog einen eine Milliarde Dollar schweren Auftrag von der Regierung in Teheran an Land , um in einige Ölquellen vor der iranischen Küste zu investieren .
+# vid_types = an land ziehen
 1	Die	_
 2	texanische	_
 3	Firma	_
@@ -7236,7 +7968,10 @@
 29	investieren	_
 30	.	_
 
-#Text=Die Gemeinden St. Josse , Schaerbeek und Alt-Brüssel hatten 1967 das Rennen gemacht und das Manhattan-Projekt , wie es inzwischen offiziell hieß , an Land gezogen .
+# tuepp_article_id = T950325.124
+# sent_id = 308
+# text = Die Gemeinden St. Josse , Schaerbeek und Alt-Brüssel hatten 1967 das Rennen gemacht und das Manhattan-Projekt , wie es inzwischen offiziell hieß , an Land gezogen .
+# vid_types = an land ziehen
 1	Die	_
 2	Gemeinden	_
 3	St.	_
@@ -7265,7 +8000,10 @@
 26	gezogen	1
 27	.	_
 
-#Text=Fußball- Promis wie Fritz Walter und Uwe Seeler sollen die Werbetrommel rühren , um finanzkräftige Sponsoren an Land zu ziehen .
+# tuepp_article_id = T950325.229
+# sent_id = 309
+# text = Fußball- Promis wie Fritz Walter und Uwe Seeler sollen die Werbetrommel rühren , um finanzkräftige Sponsoren an Land zu ziehen .
+# vid_types = an land ziehen
 1	Fußball-	_
 2	Promis	_
 3	wie	_
@@ -7288,7 +8026,10 @@
 20	ziehen	1
 21	.	_
 
-#Text=Vor allem besorgt ihn , daß seine vor zwei Monaten an Land gezogenen neuen TV-Gesellschafter Kirch , Rupert und Waalid immer unruhiger werden , ob es mit dem versprochenen Gang an die Börse 1996 wirklich etwas wird .
+# tuepp_article_id = T951108.176
+# sent_id = 310
+# text = Vor allem besorgt ihn , daß seine vor zwei Monaten an Land gezogenen neuen TV-Gesellschafter Kirch , Rupert und Waalid immer unruhiger werden , ob es mit dem versprochenen Gang an die Börse 1996 wirklich etwas wird .
+# vid_types = an land ziehen
 1	Vor	_
 2	allem	_
 3	besorgt	_
@@ -7328,7 +8069,10 @@
 37	wird	_
 38	.	_
 
-#Text=Nur weil Kohl den chinesischen Kommunisten schmeichelt , wird kein einziges deutsches Unternehmen auch nur einen Auftrag mehr an Land ziehen .
+# tuepp_article_id = T951113.1
+# sent_id = 311
+# text = Nur weil Kohl den chinesischen Kommunisten schmeichelt , wird kein einziges deutsches Unternehmen auch nur einen Auftrag mehr an Land ziehen .
+# vid_types = an land ziehen
 1	Nur	_
 2	weil	_
 3	Kohl	_
@@ -7352,7 +8096,10 @@
 21	ziehen	1
 22	.	_
 
-#Text=Daß Kohl in China kaum Skrupel kennt , um für die deutsche Wirtschaft Aufträge an Land zu ziehen , hat er bereits 1987 gezeigt : Damals erfüllte er sich seinen Herzenswunsch - und den seiner Gastgeber - und reiste in das von China besetzte Tibet , zum Entsetzen des Auswärtigen Amtes .
+# tuepp_article_id = T951113.67
+# sent_id = 312
+# text = Daß Kohl in China kaum Skrupel kennt , um für die deutsche Wirtschaft Aufträge an Land zu ziehen , hat er bereits 1987 gezeigt : Damals erfüllte er sich seinen Herzenswunsch - und den seiner Gastgeber - und reiste in das von China besetzte Tibet , zum Entsetzen des Auswärtigen Amtes .
+# vid_types = an land ziehen
 1	Daß	_
 2	Kohl	_
 3	in	_
@@ -7406,7 +8153,10 @@
 51	Amtes	_
 52	.	_
 
-#Text=Ganze 30 Milliarden Won , etwa 54 Millionen Mark , machte , den Angaben der Staatsanwaltschaft nach , Hyundai-Chef Chung Ju Yung locker , um Aufträge zum Bau mehrerer Atomkraftwerke an Land zu ziehen - für Chung eine Kleinigkeit , denn schließlich erwirtschaftet sein Imperium ein Fünftel des südkoreanischen Bruttosozialproduktes .
+# tuepp_article_id = T951124.91
+# sent_id = 313
+# text = Ganze 30 Milliarden Won , etwa 54 Millionen Mark , machte , den Angaben der Staatsanwaltschaft nach , Hyundai-Chef Chung Ju Yung locker , um Aufträge zum Bau mehrerer Atomkraftwerke an Land zu ziehen - für Chung eine Kleinigkeit , denn schließlich erwirtschaftet sein Imperium ein Fünftel des südkoreanischen Bruttosozialproduktes .
+# vid_types = an land ziehen
 1	Ganze	_
 2	30	_
 3	Milliarden	_
@@ -7459,7 +8209,10 @@
 50	Bruttosozialproduktes	_
 51	.	_
 
-#Text=Wieviel Travolta den Studios letztlich wert ist , wird sich beim Einspielergebnis der nächsten Rolle zeigen , die die einstige Teenie-Ikone an Land ziehen kann .
+# tuepp_article_id = T950202.227
+# sent_id = 314
+# text = Wieviel Travolta den Studios letztlich wert ist , wird sich beim Einspielergebnis der nächsten Rolle zeigen , die die einstige Teenie-Ikone an Land ziehen kann .
+# vid_types = an land ziehen
 1	Wieviel	_
 2	Travolta	_
 3	den	_
@@ -7487,7 +8240,10 @@
 25	kann	_
 26	.	_
 
-#Text=Ist der Auftrag an Land gezogen , ist die weitere Emsvertiefung unvermeidbar .
+# tuepp_article_id = T950228.99
+# sent_id = 315
+# text = Ist der Auftrag an Land gezogen , ist die weitere Emsvertiefung unvermeidbar .
+# vid_types = an land ziehen
 1	Ist	_
 2	der	_
 3	Auftrag	_
@@ -7502,7 +8258,10 @@
 12	unvermeidbar	_
 13	.	_
 
-#Text=Zu Beginn der neuen Spielzeit zog Gil einen besonders dicken Fisch an Land : den kolumbianischen Nationaltrainer Francisco Maturana .
+# tuepp_article_id = T950228.113
+# sent_id = 316
+# text = Zu Beginn der neuen Spielzeit zog Gil einen besonders dicken Fisch an Land : den kolumbianischen Nationaltrainer Francisco Maturana .
+# vid_types = an land ziehen
 1	Zu	_
 2	Beginn	_
 3	der	_
@@ -7524,7 +8283,10 @@
 19	Maturana	_
 20	.	_
 
-#Text=" Auch der PDS-Bürgermeister Paul Reinecke ( 60 ) , der Fördermittel und Investoren an Land gezogen hat , ärgert sich : " Sie können hier zwischen sechs Autohäusern wählen " , schimpft er , " aber etwas zu essen kriegt man nicht - lächerlich .
+# tuepp_article_id = T950201.127
+# sent_id = 317
+# text = " Auch der PDS-Bürgermeister Paul Reinecke ( 60 ) , der Fördermittel und Investoren an Land gezogen hat , ärgert sich : " Sie können hier zwischen sechs Autohäusern wählen " , schimpft er , " aber etwas zu essen kriegt man nicht - lächerlich .
+# vid_types = an land ziehen
 1	"	_
 2	Auch	_
 3	der	_
@@ -7572,7 +8334,10 @@
 45	lächerlich	_
 46	.	_
 
-#Text=Große Namen hat die Freie Universität ( FU ) da für ihr Kuratorium an Land gezogen - zwei Damen , die Ämter innehaben , und drei Herren , die Ämter innehatten : Jutta Limbach , Präsidentin des Bundesverfassungsgerichts ; Heidi Diggelmann , Präsidentin des Forschungsrats der Schweizer Wissenschaftsstiftung ; der frühere Bahnchef Heinz Dürr ; der frühere Gewerkschaftsboß Hermann Rappe ; der frühere Präsident der Deutschen Forschungsgemeinschaft , Wolfgang Frühwald .
+# tuepp_article_id = T990507.153
+# sent_id = 318
+# text = Große Namen hat die Freie Universität ( FU ) da für ihr Kuratorium an Land gezogen - zwei Damen , die Ämter innehaben , und drei Herren , die Ämter innehatten : Jutta Limbach , Präsidentin des Bundesverfassungsgerichts ; Heidi Diggelmann , Präsidentin des Forschungsrats der Schweizer Wissenschaftsstiftung ; der frühere Bahnchef Heinz Dürr ; der frühere Gewerkschaftsboß Hermann Rappe ; der frühere Präsident der Deutschen Forschungsgemeinschaft , Wolfgang Frühwald .
+# vid_types = an land ziehen
 1	Große	_
 2	Namen	_
 3	hat	_
@@ -7645,7 +8410,10 @@
 70	Frühwald	_
 71	.	_
 
-#Text=Die so entstandene Baumafia dominierte später auch in den Großstädten : Firmen , die keine einzige Schaufel besaßen , zogen millionenschwere staatliche Bauaufträge an Land , behielten bis zu achtzig Prozent für sich und gaben den Auftrag zu Hungerlöhnen an Subunternehmer weiter , die miserable Arbeit lieferten .
+# tuepp_article_id = T990116.351
+# sent_id = 319
+# text = Die so entstandene Baumafia dominierte später auch in den Großstädten : Firmen , die keine einzige Schaufel besaßen , zogen millionenschwere staatliche Bauaufträge an Land , behielten bis zu achtzig Prozent für sich und gaben den Auftrag zu Hungerlöhnen an Subunternehmer weiter , die miserable Arbeit lieferten .
+# vid_types = an land ziehen
 1	Die	_
 2	so	_
 3	entstandene	_
@@ -7695,7 +8463,10 @@
 47	lieferten	_
 48	.	_
 
-#Text=Genau dieses Wohlwollen benötigt Chavez allerdings auch , denn selbst wenn es ihm wie geplant gelingen sollte , das Defizit auf fünf Milliarden US-Dollar zu drücken , ist er darauf angewiesen , Kredite zur Dekkung dieses Finanzlochs an Land zu ziehen .
+# tuepp_article_id = T990414.170
+# sent_id = 320
+# text = Genau dieses Wohlwollen benötigt Chavez allerdings auch , denn selbst wenn es ihm wie geplant gelingen sollte , das Defizit auf fünf Milliarden US-Dollar zu drücken , ist er darauf angewiesen , Kredite zur Dekkung dieses Finanzlochs an Land zu ziehen .
+# vid_types = an land ziehen
 1	Genau	_
 2	dieses	_
 3	Wohlwollen	_
@@ -7739,7 +8510,10 @@
 41	ziehen	1
 42	.	_
 
-#Text=Im Falle von Henning Harnisch ist das aber nicht mehr relevant ; schließlich glaubt der Mann ja wohl nicht im Ernst , daß ich ihm die einmal an Land gezogene Kolumne wieder zurückgebe .
+# tuepp_article_id = T990311.141
+# sent_id = 321
+# text = Im Falle von Henning Harnisch ist das aber nicht mehr relevant ; schließlich glaubt der Mann ja wohl nicht im Ernst , daß ich ihm die einmal an Land gezogene Kolumne wieder zurückgebe .
+# vid_types = an land ziehen
 1	Im	_
 2	Falle	_
 3	von	_
@@ -7775,7 +8549,10 @@
 33	zurückgebe	_
 34	.	_
 
-#Text=Sie zogen einige Fördermittel der Europäischen Union an Land .
+# tuepp_article_id = T990315.229
+# sent_id = 322
+# text = Sie zogen einige Fördermittel der Europäischen Union an Land .
+# vid_types = an land ziehen
 1	Sie	_
 2	zogen	1:non-literal-mwe
 3	einige	_
@@ -7787,7 +8564,10 @@
 9	Land	1
 10	.	_
 
-#Text=Doch Konrad , der scheinbar ratlose TeBe-Boß , hatte seine Netze längst nach einem weit größeren Fisch als Aracic ausgeworfen und ihn auch fristgerecht zum Transferschluß am 15 . Januar an Land gezogen .
+# tuepp_article_id = T990201.201
+# sent_id = 323
+# text = Doch Konrad , der scheinbar ratlose TeBe-Boß , hatte seine Netze längst nach einem weit größeren Fisch als Aracic ausgeworfen und ihn auch fristgerecht zum Transferschluß am 15. Januar an Land gezogen .
+# vid_types = an land ziehen
 1	Doch	_
 2	Konrad	_
 3	,	_

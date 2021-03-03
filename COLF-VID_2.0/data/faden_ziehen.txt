@@ -1,4 +1,7 @@
-#Text=Daß die Militärs kurz vor der Wahl kräftig destabilisieren und ihren nächsten Putsch vorbereiten wollen , sei unwahrscheinlich ; die Fäden an der Inflationsspirale haben andere gezogen , schreibt die liberale Wochenzeitschrift ' Periodista ` : " die Weizenexporteure , die ausländischen Banken und die großen Agroproduzenten " .
+# tuepp_article_id = T890503.80
+# sent_id = 2801
+# text = Daß die Militärs kurz vor der Wahl kräftig destabilisieren und ihren nächsten Putsch vorbereiten wollen , sei unwahrscheinlich ; die Fäden an der Inflationsspirale haben andere gezogen , schreibt die liberale Wochenzeitschrift ' Periodista ` : " die Weizenexporteure , die ausländischen Banken und die großen Agroproduzenten " .
+# vid_types = faden ziehen
 1	Daß	_
 2	die	_
 3	Militärs	_
@@ -49,7 +52,10 @@
 48	"	_
 49	.	_
 
-#Text=Im März zog gar Hans-Jürgen Wischnewski 1988 die Fäden bei der Herstellung eines Waffenstillstands zwischen Regierung und Contra , und die Sandinisten machten immer mehr Zugeständnisse an die westeuropäischen Demokratievorstellungen .
+# tuepp_article_id = T890506.26
+# sent_id = 2802
+# text = Im März zog gar Hans-Jürgen Wischnewski 1988 die Fäden bei der Herstellung eines Waffenstillstands zwischen Regierung und Contra , und die Sandinisten machten immer mehr Zugeständnisse an die westeuropäischen Demokratievorstellungen .
+# vid_types = faden ziehen
 1	Im	_
 2	März	_
 3	zog	1:non-literal-mwe
@@ -82,7 +88,10 @@
 30	Demokratievorstellungen	_
 31	.	_
 
-#Text=Hauptfigur bei diesen Telefonverhandlungen : ein gewisser Carlos Ponze , der die Bremer Fäden vom Brüsseler Sheraton-Hotel aus zog .
+# tuepp_article_id = T890623.152
+# sent_id = 2803
+# text = Hauptfigur bei diesen Telefonverhandlungen : ein gewisser Carlos Ponze , der die Bremer Fäden vom Brüsseler Sheraton-Hotel aus zog .
+# vid_types = faden ziehen
 1	Hauptfigur	_
 2	bei	_
 3	diesen	_
@@ -104,7 +113,10 @@
 19	zog	1
 20	.	_
 
-#Text=" Coyote spricht heute bitter über seine Kriegserfahrungen und über die Reagan-Regierung , die die Fäden zog .
+# tuepp_article_id = T891002.53
+# sent_id = 2804
+# text = " Coyote spricht heute bitter über seine Kriegserfahrungen und über die Reagan-Regierung , die die Fäden zog .
+# vid_types = faden ziehen
 1	"	_
 2	Coyote	_
 3	spricht	_
@@ -124,7 +136,10 @@
 17	zog	1
 18	.	_
 
-#Text=Der dynamische Reuter war der Motor im Spiel , Hansi Dorfner versuchte , diesem seinen Stempel aufzudrücken , Augenthaler zog geschickt die Fäden .
+# tuepp_article_id = T891023.96
+# sent_id = 2805
+# text = Der dynamische Reuter war der Motor im Spiel , Hansi Dorfner versuchte , diesem seinen Stempel aufzudrücken , Augenthaler zog geschickt die Fäden .
+# vid_types = faden ziehen
 1	Der	_
 2	dynamische	_
 3	Reuter	_
@@ -150,7 +165,10 @@
 23	Fäden	1
 24	.	_
 
-#Text=Seit das " Bärchen aus Kiew " und das " Füchslein aus Minsk " , wie Alexander Zavarow und Sergej Aleinikow von der italienischen Presse liebevoll genannt werden , bei Juve die Fäden ziehen , geht es aufwärts .
+# tuepp_article_id = T890919.109
+# sent_id = 2806
+# text = Seit das " Bärchen aus Kiew " und das " Füchslein aus Minsk " , wie Alexander Zavarow und Sergej Aleinikow von der italienischen Presse liebevoll genannt werden , bei Juve die Fäden ziehen , geht es aufwärts .
+# vid_types = faden ziehen
 1	Seit	_
 2	das	_
 3	"	_
@@ -191,7 +209,10 @@
 38	aufwärts	_
 39	.	_
 
-#Text=Fäden werden gezogen , zwischen der Reislamisierung in Aserbaidschan , den neuen iranisch-sowjetischen Kontakten , der Bestechungsaffäre in Usbekistan , deren Spuren auch ins Moskauer Zentralkomitee führten , und den Pogromen gegen die Meschketen in Ferghana .
+# tuepp_article_id = T890915.143
+# sent_id = 2807
+# text = Fäden werden gezogen , zwischen der Reislamisierung in Aserbaidschan , den neuen iranisch-sowjetischen Kontakten , der Bestechungsaffäre in Usbekistan , deren Spuren auch ins Moskauer Zentralkomitee führten , und den Pogromen gegen die Meschketen in Ferghana .
+# vid_types = faden ziehen
 1	Fäden	1:*
 2	werden	_
 3	gezogen	1
@@ -230,7 +251,10 @@
 36	Ferghana	_
 37	.	_
 
-#Text=Die Fäden in diesem Markt werden von großen Spezialagenturen gezogen , deren Namen in der Öffentlichkeit kaum bekannt sind .
+# tuepp_article_id = T890125.5
+# sent_id = 2808
+# text = Die Fäden in diesem Markt werden von großen Spezialagenturen gezogen , deren Namen in der Öffentlichkeit kaum bekannt sind .
+# vid_types = faden ziehen
 1	Die	_
 2	Fäden	1:non-literal-mwe
 3	in	_
@@ -252,7 +276,10 @@
 19	sind	_
 20	.	_
 
-#Text=Daß der Rechtsextremist und ehemalige SS-Kombattent , der in den siebziger Jahren mit seiner Loge einen " Plan zur demokratischen Erneuerung " mit " eindeutigem Staatsstreichcharakter " ( so die Präsidentin der P2 - Kommission , Tina Anselmi ) verfolgt hat , sich nun wieder in alter Munterkeit in Italien tummeln und aufs neue seine Fäden ziehen kann , ist nicht verwunderlich .
+# tuepp_article_id = T890106.168
+# sent_id = 2809
+# text = Daß der Rechtsextremist und ehemalige SS-Kombattent , der in den siebziger Jahren mit seiner Loge einen " Plan zur demokratischen Erneuerung " mit " eindeutigem Staatsstreichcharakter " ( so die Präsidentin der P2 - Kommission , Tina Anselmi ) verfolgt hat , sich nun wieder in alter Munterkeit in Italien tummeln und aufs neue seine Fäden ziehen kann , ist nicht verwunderlich .
+# vid_types = faden ziehen
 1	Daß	_
 2	der	_
 3	Rechtsextremist	_
@@ -317,7 +344,10 @@
 62	verwunderlich	_
 63	.	_
 
-#Text=Noch immer ist die " Lehrprophetin Schwester Gabriele " ( " Ich bin das absolute Gesetz " ) das Aushängeschild der Sekte , doch im Hintergrund ziehen Wirtschaftswissenschaftler und Kaufleute die Fäden .
+# tuepp_article_id = T890401.43
+# sent_id = 2810
+# text = Noch immer ist die " Lehrprophetin Schwester Gabriele " ( " Ich bin das absolute Gesetz " ) das Aushängeschild der Sekte , doch im Hintergrund ziehen Wirtschaftswissenschaftler und Kaufleute die Fäden .
+# vid_types = faden ziehen
 1	Noch	_
 2	immer	_
 3	ist	_
@@ -352,7 +382,10 @@
 32	Fäden	1
 33	.	_
 
-#Text=Getreu dem antimaterialistischen Grundschema des bürgerlichen Intellektuellen glaubt er offenbar , Kultur entstehe nicht auf der Basis gesellschafltich-materieller Bedingungen , sondern als Produkt von Manipulation , von Fäden ziehenden Bewußtseinstechnikern .
+# tuepp_article_id = T890403.108
+# sent_id = 2811
+# text = Getreu dem antimaterialistischen Grundschema des bürgerlichen Intellektuellen glaubt er offenbar , Kultur entstehe nicht auf der Basis gesellschafltich-materieller Bedingungen , sondern als Produkt von Manipulation , von Fäden ziehenden Bewußtseinstechnikern .
+# vid_types = faden ziehen
 1	Getreu	_
 2	dem	_
 3	antimaterialistischen	_
@@ -385,7 +418,10 @@
 30	Bewußtseinstechnikern	_
 31	.	_
 
-#Text=Im Hintergrund die Fäden zu ziehen , hat Klaus Kinkel nie gestört .
+# tuepp_article_id = T890408.40
+# sent_id = 2812
+# text = Im Hintergrund die Fäden zu ziehen , hat Klaus Kinkel nie gestört .
+# vid_types = faden ziehen
 1	Im	_
 2	Hintergrund	_
 3	die	_
@@ -400,7 +436,10 @@
 12	gestört	_
 13	.	_
 
-#Text=Auf dem Rasen zog jedoch noch bis zur Halbzeit der Tschechoslowake Petr Rada die Fäden für das gefällige Angriffsspiel der Düsseldorfer .
+# tuepp_article_id = T891211.134
+# sent_id = 2813
+# text = Auf dem Rasen zog jedoch noch bis zur Halbzeit der Tschechoslowake Petr Rada die Fäden für das gefällige Angriffsspiel der Düsseldorfer .
+# vid_types = faden ziehen
 1	Auf	_
 2	dem	_
 3	Rasen	_
@@ -424,7 +463,10 @@
 21	Düsseldorfer	_
 22	.	_
 
-#Text=A " - Institute ziehen die Fäden im Hintergrund , bereiten vor , indem sie Expertisen auch schon mal detektivistisch erarbeiten , warnen im Zweifel , sind aber auch genauso um strategischen Rat gefragt , wenn eine Unternehmensleitung Abwehrschlachten schlagen muß gegen eine " feindliche Übernahme " durch einen Dritten .
+# tuepp_article_id = T890805.80
+# sent_id = 2814
+# text = A " - Institute ziehen die Fäden im Hintergrund , bereiten vor , indem sie Expertisen auch schon mal detektivistisch erarbeiten , warnen im Zweifel , sind aber auch genauso um strategischen Rat gefragt , wenn eine Unternehmensleitung Abwehrschlachten schlagen muß gegen eine " feindliche Übernahme " durch einen Dritten .
+# vid_types = faden ziehen
 1	A	_
 2	"	_
 3	-	_
@@ -477,7 +519,10 @@
 50	Dritten	_
 51	.	_
 
-#Text=Die christdemokratischen Parteifürsten und Sozialistenchef Craxi waren noch dabei , hinter den Kulissen diskret die Fäden für einen möglichst tiefen , aber gleichzeitig eleganten Sturz des von ihnen ungeliebten DC - Chefs Ciriaco De Mita zu ziehen , da platzte ' L'Unita ` mit der Schlagzeile heraus : " Hat sich De Mita an den Geldern für Erdbebenopfer bereichert ?
+# tuepp_article_id = T890225.63
+# sent_id = 2815
+# text = Die christdemokratischen Parteifürsten und Sozialistenchef Craxi waren noch dabei , hinter den Kulissen diskret die Fäden für einen möglichst tiefen , aber gleichzeitig eleganten Sturz des von ihnen ungeliebten DC - Chefs Ciriaco De Mita zu ziehen , da platzte ' L'Unita ` mit der Schlagzeile heraus : " Hat sich De Mita an den Geldern für Erdbebenopfer bereichert ?
+# vid_types = faden ziehen
 1	Die	_
 2	christdemokratischen	_
 3	Parteifürsten	_
@@ -539,7 +584,10 @@
 59	bereichert	_
 60	?	_
 
-#Text=In den Fünfzigern und Sechzigern wurde in Griechenland die Vereinigte Demokratische Linke ( EDA ) aufgebaut , die im Grunde die legale Organisation der damals illegalen Kommunistischen Partei darstellte , deren Führung aus dem sozialistischen Ausland die Fäden zog , also wiederum vollkommen undemokratisch Beschlüsse faßte .
+# tuepp_article_id = T910603.188
+# sent_id = 2816
+# text = In den Fünfzigern und Sechzigern wurde in Griechenland die Vereinigte Demokratische Linke ( EDA ) aufgebaut , die im Grunde die legale Organisation der damals illegalen Kommunistischen Partei darstellte , deren Führung aus dem sozialistischen Ausland die Fäden zog , also wiederum vollkommen undemokratisch Beschlüsse faßte .
+# vid_types = faden ziehen
 1	In	_
 2	den	_
 3	Fünfzigern	_
@@ -588,7 +636,10 @@
 46	faßte	_
 47	.	_
 
-#Text=Während seiner gesamten politischen Laufbahn hielt er sich stets im Hintergrund : als Mann , der im Apparat die Fäden zog , und als beamteter Aufpasser für seine Vorleute - erst Genscher , dann Engelhard .
+# tuepp_article_id = T910119.112
+# sent_id = 2817
+# text = Während seiner gesamten politischen Laufbahn hielt er sich stets im Hintergrund : als Mann , der im Apparat die Fäden zog , und als beamteter Aufpasser für seine Vorleute - erst Genscher , dann Engelhard .
+# vid_types = faden ziehen
 1	Während	_
 2	seiner	_
 3	gesamten	_
@@ -626,7 +677,10 @@
 35	Engelhard	_
 36	.	_
 
-#Text=Die Bordellbrüder Beker , denen die Staatsanwaltschaft Steuerhinterziehung im großen Stil , die Bildung einer kriminellen Vereinigung und die Organisation illegaler Glücksspiele vorwirft , zogen in den 70er und 80er Jahren in der Frankfurter Unterwelt mit die Fäden .
+# tuepp_article_id = T910112.54
+# sent_id = 2818
+# text = Die Bordellbrüder Beker , denen die Staatsanwaltschaft Steuerhinterziehung im großen Stil , die Bildung einer kriminellen Vereinigung und die Organisation illegaler Glücksspiele vorwirft , zogen in den 70er und 80er Jahren in der Frankfurter Unterwelt mit die Fäden .
+# vid_types = faden ziehen
 1	Die	_
 2	Bordellbrüder	_
 3	Beker	_
@@ -667,7 +721,10 @@
 38	Fäden	1
 39	.	_
 
-#Text=Wahrhaft spannend gestaltete sich die Inspektion aber erst , als einer von uns beiden auf die Idee kam , einzelne Fäden nach unten zu ziehen um sie dann plötzlich loszulassen .
+# tuepp_article_id = T910118.213
+# sent_id = 2819
+# text = Wahrhaft spannend gestaltete sich die Inspektion aber erst , als einer von uns beiden auf die Idee kam , einzelne Fäden nach unten zu ziehen um sie dann plötzlich loszulassen .
+# vid_types = faden ziehen
 1	Wahrhaft	_
 2	spannend	_
 3	gestaltete	_
@@ -700,7 +757,10 @@
 30	loszulassen	_
 31	.	_
 
-#Text=Daß auch die Mannschaft am vergangenen Sonnabend beim Jahrhundertdebakel gegen den HSV ( 0:6 ) gegen den Trainer spielte , ist Beleg dafür , daß der mit Werbe- und Anlageverträgen handelnde Gerster , dem per Vereinsbeschluß die Einmischung in die Belange der Lizenspieler- Abteilung untersagt worden war , seit Möllers Wechsel zur Eintracht dort die Fäden zog und das Präsidium nach Belieben unter Druck setzte .
+# tuepp_article_id = T910416.107
+# sent_id = 2820
+# text = Daß auch die Mannschaft am vergangenen Sonnabend beim Jahrhundertdebakel gegen den HSV ( 0:6 ) gegen den Trainer spielte , ist Beleg dafür , daß der mit Werbe- und Anlageverträgen handelnde Gerster , dem per Vereinsbeschluß die Einmischung in die Belange der Lizenspieler- Abteilung untersagt worden war , seit Möllers Wechsel zur Eintracht dort die Fäden zog und das Präsidium nach Belieben unter Druck setzte .
+# vid_types = faden ziehen
 1	Daß	_
 2	auch	_
 3	die	_
@@ -768,7 +828,10 @@
 65	setzte	_
 66	.	_
 
-#Text=Denn die Fäden für das Jugendwerk würden vor allem von den zuständigen Ministerien , in diesem Fall das Bundesaußenministerium und das Bundesministerium für Jugend , Frauen und Familie , gezogen - und die haben bereits einen Vertragsentwurf ausgearbeitet .
+# tuepp_article_id = T910413.201
+# sent_id = 2821
+# text = Denn die Fäden für das Jugendwerk würden vor allem von den zuständigen Ministerien , in diesem Fall das Bundesaußenministerium und das Bundesministerium für Jugend , Frauen und Familie , gezogen - und die haben bereits einen Vertragsentwurf ausgearbeitet .
+# vid_types = faden ziehen
 1	Denn	_
 2	die	_
 3	Fäden	1:non-literal-mwe
@@ -809,7 +872,10 @@
 38	ausgearbeitet	_
 39	.	_
 
-#Text=Deng war viel zu klug , als daß er jemals selbst die Parteiführung übernommen hätte ; er zog es vielmehr vor , im Hintergrund aus einer Position der Macht die Fäden zu ziehen .
+# tuepp_article_id = T910702.66
+# sent_id = 2822
+# text = Deng war viel zu klug , als daß er jemals selbst die Parteiführung übernommen hätte ; er zog es vielmehr vor , im Hintergrund aus einer Position der Macht die Fäden zu ziehen .
+# vid_types = faden ziehen
 1	Deng	_
 2	war	_
 3	viel	_
@@ -845,7 +911,10 @@
 33	ziehen	1
 34	.	_
 
-#Text=Der designierte Ministerpräsident Hans Eichel ( SPD ) und Joschka Fischer ( Grüne ) hatten nach Abschluß der sechswöchigen Verhandlungen zur Koalitionspressekonferenz nach Wiesbaden geladen - und der kommende stellvertretende Ministerpräsident Fischer darf wunschgemäß in Hessen und in Bonn die politischen Fäden ziehen .
+# tuepp_article_id = T910311.42
+# sent_id = 2823
+# text = Der designierte Ministerpräsident Hans Eichel ( SPD ) und Joschka Fischer ( Grüne ) hatten nach Abschluß der sechswöchigen Verhandlungen zur Koalitionspressekonferenz nach Wiesbaden geladen - und der kommende stellvertretende Ministerpräsident Fischer darf wunschgemäß in Hessen und in Bonn die politischen Fäden ziehen .
+# vid_types = faden ziehen
 1	Der	_
 2	designierte	_
 3	Ministerpräsident	_
@@ -891,7 +960,10 @@
 43	ziehen	1
 44	.	_
 
-#Text=Am ehesten überleben diejenigen , die am meisten Fäden ziehen können .
+# tuepp_article_id = T910309.71
+# sent_id = 2824
+# text = Am ehesten überleben diejenigen , die am meisten Fäden ziehen können .
+# vid_types = faden ziehen
 1	Am	_
 2	ehesten	_
 3	überleben	_
@@ -905,7 +977,10 @@
 11	können	_
 12	.	_
 
-#Text=Der Pferdehändler und Willi Lemke Vor-Vorgänger Hansi Wolff zog als Geschäftsführer von 1945 bis 1975 die Fäden .
+# tuepp_article_id = T911104.219
+# sent_id = 2825
+# text = Der Pferdehändler und Willi Lemke Vor-Vorgänger Hansi Wolff zog als Geschäftsführer von 1945 bis 1975 die Fäden .
+# vid_types = faden ziehen
 1	Der	_
 2	Pferdehändler	_
 3	und	_
@@ -925,7 +1000,10 @@
 17	Fäden	1
 18	.	_
 
-#Text=Da habe " der Himmel die Fäden " gezogen .
+# tuepp_article_id = T911111.29
+# sent_id = 2826
+# text = Da habe " der Himmel die Fäden " gezogen .
+# vid_types = faden ziehen
 1	Da	_
 2	habe	_
 3	"	_
@@ -937,7 +1015,10 @@
 9	gezogen	1
 10	.	_
 
-#Text=Statt in verstaubten Bibliotheken ein Idyll der Harmonie zu pinseln , tummelte Marlowe sich lieber in den dunkeln Gassen Englands , gab sich atheistisch und zog als Spion staatspolitische Fäden .
+# tuepp_article_id = T910222.273
+# sent_id = 2827
+# text = Statt in verstaubten Bibliotheken ein Idyll der Harmonie zu pinseln , tummelte Marlowe sich lieber in den dunkeln Gassen Englands , gab sich atheistisch und zog als Spion staatspolitische Fäden .
+# vid_types = faden ziehen
 1	Statt	_
 2	in	_
 3	verstaubten	_
@@ -970,7 +1051,10 @@
 30	Fäden	1
 31	.	_
 
-#Text=Ob nun von der " Wall Street " aus global die Fäden gezogen wurden oder die internationale zionistische Konspiration ihr dunkles Spiel trieb oder beides auf einmal - stets war der Verschwörungsmythos zur Hand , wenn es galt , Verantwortung für die Krise " nach außen " abzuwälzen .
+# tuepp_article_id = T910214.98
+# sent_id = 2828
+# text = Ob nun von der " Wall Street " aus global die Fäden gezogen wurden oder die internationale zionistische Konspiration ihr dunkles Spiel trieb oder beides auf einmal - stets war der Verschwörungsmythos zur Hand , wenn es galt , Verantwortung für die Krise " nach außen " abzuwälzen .
+# vid_types = faden ziehen
 1	Ob	_
 2	nun	_
 3	von	_
@@ -1021,7 +1105,10 @@
 48	abzuwälzen	_
 49	.	_
 
-#Text=Seine erste Begegnung mit Johannes R. Becher , dem alten Genossen , der jetzt Präsident des Kulturbundes war und in der stacheldrahtbewehrten Funktionärssiedlung am Rande Pankows in unmittelbarer Nähe der SED-Gewaltigen Ulbricht , Pieck , Grotewohl und Dahlem residierte , zeigte dem parteitreuen Emigranten und Spätheimkehrer , daß die wichtigsten Plätze schon besetzt waren - von der " Gruppe Ulbricht " , die von Moskau aus die Fäden gezogen hatte .
+# tuepp_article_id = T901012.103
+# sent_id = 2829
+# text = Seine erste Begegnung mit Johannes R. Becher , dem alten Genossen , der jetzt Präsident des Kulturbundes war und in der stacheldrahtbewehrten Funktionärssiedlung am Rande Pankows in unmittelbarer Nähe der SED-Gewaltigen Ulbricht , Pieck , Grotewohl und Dahlem residierte , zeigte dem parteitreuen Emigranten und Spätheimkehrer , daß die wichtigsten Plätze schon besetzt waren - von der " Gruppe Ulbricht " , die von Moskau aus die Fäden gezogen hatte .
+# vid_types = faden ziehen
 1	Seine	_
 2	erste	_
 3	Begegnung	_
@@ -1094,7 +1181,10 @@
 70	hatte	_
 71	.	_
 
-#Text=Der Ökonomieprofessor Francisco Mayorga , der den Wirtschaftsplan der neuen Regierung entworfen hat , wird als Zentralbankdirektor die Fäden der Wirtschafts- und Finanzpolitik ziehen .
+# tuepp_article_id = T900427.107
+# sent_id = 2830
+# text = Der Ökonomieprofessor Francisco Mayorga , der den Wirtschaftsplan der neuen Regierung entworfen hat , wird als Zentralbankdirektor die Fäden der Wirtschafts- und Finanzpolitik ziehen .
+# vid_types = faden ziehen
 1	Der	_
 2	Ökonomieprofessor	_
 3	Francisco	_
@@ -1121,7 +1211,10 @@
 24	ziehen	1
 25	.	_
 
-#Text=Wir achten aber in unserem Amt darauf , daß niemand eingestellt wird , der als Stratege in der Wirtschaft oder Verwaltung bei der Entwicklung marktbeherrschender Strukturen die Fäden gezogen hat .
+# tuepp_article_id = T900426.79
+# sent_id = 2831
+# text = Wir achten aber in unserem Amt darauf , daß niemand eingestellt wird , der als Stratege in der Wirtschaft oder Verwaltung bei der Entwicklung marktbeherrschender Strukturen die Fäden gezogen hat .
+# vid_types = faden ziehen
 1	Wir	_
 2	achten	_
 3	aber	_
@@ -1154,7 +1247,10 @@
 30	hat	_
 31	.	_
 
-#Text=Entsprechend auch Albert Scharf , dem Vorsitzenden der EBU ( European Broadcasting-Union ) , der mit unbestrittener Kompetenz weltweit Fäden zog .
+# tuepp_article_id = T900809.111
+# sent_id = 2832
+# text = Entsprechend auch Albert Scharf , dem Vorsitzenden der EBU ( European Broadcasting-Union ) , der mit unbestrittener Kompetenz weltweit Fäden zog .
+# vid_types = faden ziehen
 1	Entsprechend	_
 2	auch	_
 3	Albert	_
@@ -1178,7 +1274,10 @@
 21	zog	1
 22	.	_
 
-#Text=Mit Bärenruhe zog er die Fäden vor dem gegnerischen Kreis und nicht einmal ein brutales , von den Schiedsrichtern ungeahndetes " Nußknackerfoul " ( DDR-Fernsehkommentator ) , bei dem zwei sowjetische Abwehrspieler in einer Art Pogo-Einlage wuchtig mit den Schultern gegeneinander sprangen , während sich der arme Olsson genau zwischen ihnen befand , konnte ihn dauerhaft lahmlegen .
+# tuepp_article_id = T900312.114
+# sent_id = 2833
+# text = Mit Bärenruhe zog er die Fäden vor dem gegnerischen Kreis und nicht einmal ein brutales , von den Schiedsrichtern ungeahndetes " Nußknackerfoul " ( DDR-Fernsehkommentator ) , bei dem zwei sowjetische Abwehrspieler in einer Art Pogo-Einlage wuchtig mit den Schultern gegeneinander sprangen , während sich der arme Olsson genau zwischen ihnen befand , konnte ihn dauerhaft lahmlegen .
+# vid_types = faden ziehen
 1	Mit	_
 2	Bärenruhe	1:non-literal
 3	zog	2:non-literal-mwe
@@ -1238,7 +1337,10 @@
 57	lahmlegen	_
 58	.	_
 
-#Text=Huber bat Schreiner darin , alle möglichen Fäden zu ziehen , um ihm zu helfen .
+# tuepp_article_id = T900303.35
+# sent_id = 2834
+# text = Huber bat Schreiner darin , alle möglichen Fäden zu ziehen , um ihm zu helfen .
+# vid_types = faden ziehen
 1	Huber	_
 2	bat	_
 3	Schreiner	_
@@ -1256,7 +1358,10 @@
 15	helfen	_
 16	.	_
 
-#Text=Der kleine Irrwisch half in der Abwehr aus , zog die Fäden im Mittelfeld , wo der hochgelobte " Maradona der Walachei " , Pavel Padea , diesmal blaß blieb , und wirkte zwischendurch auch mal als einsamer Angreifer , der sich tapfer der dreifachen Borussenübermacht aus Schulz , Gorkukowitsch und Helmer zum Kopfballduell stellte .
+# tuepp_article_id = T901108.127
+# sent_id = 2835
+# text = Der kleine Irrwisch half in der Abwehr aus , zog die Fäden im Mittelfeld , wo der hochgelobte " Maradona der Walachei " , Pavel Padea , diesmal blaß blieb , und wirkte zwischendurch auch mal als einsamer Angreifer , der sich tapfer der dreifachen Borussenübermacht aus Schulz , Gorkukowitsch und Helmer zum Kopfballduell stellte .
+# vid_types = faden ziehen
 1	Der	_
 2	kleine	_
 3	Irrwisch	_
@@ -1314,7 +1419,10 @@
 55	stellte	_
 56	.	_
 
-#Text=Dem 28fachen tschechoslowakischen Nationalspieler gelang das , worum sich Anthony Baffoe bei der Fortuna meist vergeblich bemühte : Er zog vom rechten Flügel aus die Fäden , setzte klug seine Mitspieler ein und flankte dann und wann gefährlich .
+# tuepp_article_id = T901115.125
+# sent_id = 2836
+# text = Dem 28fachen tschechoslowakischen Nationalspieler gelang das , worum sich Anthony Baffoe bei der Fortuna meist vergeblich bemühte : Er zog vom rechten Flügel aus die Fäden , setzte klug seine Mitspieler ein und flankte dann und wann gefährlich .
+# vid_types = faden ziehen
 1	Dem	_
 2	28fachen	_
 3	tschechoslowakischen	_
@@ -1355,7 +1463,10 @@
 38	gefährlich	_
 39	.	_
 
-#Text=Heute weiß man , daß dieselben Industriellen weiterhin ungebrochen an den Fäden der Macht ziehen konnten und daß die Siegermächte die Entnazifizierungsprozesse eher halbherzig durchführten .
+# tuepp_article_id = T901119.142
+# sent_id = 2837
+# text = Heute weiß man , daß dieselben Industriellen weiterhin ungebrochen an den Fäden der Macht ziehen konnten und daß die Siegermächte die Entnazifizierungsprozesse eher halbherzig durchführten .
+# vid_types = faden ziehen
 1	Heute	_
 2	weiß	_
 3	man	_
@@ -1383,7 +1494,10 @@
 25	durchführten	_
 26	.	_
 
-#Text=Am Ende würden nicht die Ärmsten ihre Geschicke selbst in die Hand nehmen , sondern wieder die Reichen von außen die Fäden ziehen .
+# tuepp_article_id = T920518.62
+# sent_id = 2838
+# text = Am Ende würden nicht die Ärmsten ihre Geschicke selbst in die Hand nehmen , sondern wieder die Reichen von außen die Fäden ziehen .
+# vid_types = faden ziehen
 1	Am	_
 2	Ende	_
 3	würden	_
@@ -1409,7 +1523,10 @@
 23	ziehen	1
 24	.	_
 
-#Text=Wenn dann auch noch König Alexander , der von seinem Londoner Exil aus viele Fäden zu ziehen scheint , sich zur Rückkehr nach Serbien entschließen könnte , wäre die Autorität von Milosevic in Serbien selbst erschüttert .
+# tuepp_article_id = T920609.72
+# sent_id = 2839
+# text = Wenn dann auch noch König Alexander , der von seinem Londoner Exil aus viele Fäden zu ziehen scheint , sich zur Rückkehr nach Serbien entschließen könnte , wäre die Autorität von Milosevic in Serbien selbst erschüttert .
+# vid_types = faden ziehen
 1	Wenn	_
 2	dann	_
 3	auch	_
@@ -1448,7 +1565,10 @@
 36	erschüttert	_
 37	.	_
 
-#Text=Er wurde israelischer Botschafter in Washington , wo er die Fäden beim Aufbau der militärischen und politischen Beziehungen zwischen den USA und Israel zog .
+# tuepp_article_id = T920623.32
+# sent_id = 2840
+# text = Er wurde israelischer Botschafter in Washington , wo er die Fäden beim Aufbau der militärischen und politischen Beziehungen zwischen den USA und Israel zog .
+# vid_types = faden ziehen
 1	Er	_
 2	wurde	_
 3	israelischer	_
@@ -1475,7 +1595,10 @@
 24	zog	1
 25	.	_
 
-#Text=Dafür steht er aber in ständigem Kontakt mit den Herren , die im seriösen Outfit im Hintergrund die Fäden ziehen .
+# tuepp_article_id = T920907.46
+# sent_id = 2841
+# text = Dafür steht er aber in ständigem Kontakt mit den Herren , die im seriösen Outfit im Hintergrund die Fäden ziehen .
+# vid_types = faden ziehen
 1	Dafür	_
 2	steht	_
 3	er	_
@@ -1498,7 +1621,10 @@
 20	ziehen	1
 21	.	_
 
-#Text=Nachdem ehemalige Stasi-Mitarbeiter mehrfach mit widersprüchlichen Aussagen an die Öffentlichkeit getreten sind , könnte das Risiko einer strafbewehrten Falschaussage die früheren Stasi-Mitarbeiter von ihrer Vorstellung abbringen , sie könnten gefahrlos im Hintergrund die Fäden ziehen , indem sie das eine Mal belastende und ein anderes Mal entlastende Angaben machten .
+# tuepp_article_id = T920406.43
+# sent_id = 2842
+# text = Nachdem ehemalige Stasi-Mitarbeiter mehrfach mit widersprüchlichen Aussagen an die Öffentlichkeit getreten sind , könnte das Risiko einer strafbewehrten Falschaussage die früheren Stasi-Mitarbeiter von ihrer Vorstellung abbringen , sie könnten gefahrlos im Hintergrund die Fäden ziehen , indem sie das eine Mal belastende und ein anderes Mal entlastende Angaben machten .
+# vid_types = faden ziehen
 1	Nachdem	_
 2	ehemalige	_
 3	Stasi-Mitarbeiter	_
@@ -1550,7 +1676,10 @@
 49	machten	_
 50	.	_
 
-#Text=" Die Fäden , die früher Moskau zog , zieht heute Brüssel " , sagte Fleischer .
+# tuepp_article_id = T920709.27
+# sent_id = 2843
+# text = " Die Fäden , die früher Moskau zog , zieht heute Brüssel " , sagte Fleischer .
+# vid_types = faden ziehen
 1	"	_
 2	Die	_
 3	Fäden	1:non-literal-mwe
@@ -1569,7 +1698,10 @@
 16	Fleischer	_
 17	.	_
 
-#Text=Neben den in der DDR bereits einschlägig vorbestraften Neonazis Karsten Wolter und Rene Koswig zog insbesondere der von der Bundesregierung 1985 freigekaufte " politische Häftling " Frank Hübner die Fäden .
+# tuepp_article_id = T921211.34
+# sent_id = 2844
+# text = Neben den in der DDR bereits einschlägig vorbestraften Neonazis Karsten Wolter und Rene Koswig zog insbesondere der von der Bundesregierung 1985 freigekaufte " politische Häftling " Frank Hübner die Fäden .
+# vid_types = faden ziehen
 1	Neben	_
 2	den	_
 3	in	_
@@ -1602,7 +1734,10 @@
 30	Fäden	1
 31	.	_
 
-#Text=Wie die Fäden im einzelnen gezogen wurden , läßt sich nur vermuten .
+# tuepp_article_id = T921219.142
+# sent_id = 2845
+# text = Wie die Fäden im einzelnen gezogen wurden , läßt sich nur vermuten .
+# vid_types = faden ziehen
 1	Wie	_
 2	die	_
 3	Fäden	1:non-literal-mwe
@@ -1617,7 +1752,10 @@
 12	vermuten	_
 13	.	_
 
-#Text=Der ansonsten um Objektivität bemühte Deutschlandkorrespondent zog gleich den welthistorischen Faden .
+# tuepp_article_id = T920815.45
+# sent_id = 2846
+# text = Der ansonsten um Objektivität bemühte Deutschlandkorrespondent zog gleich den welthistorischen Faden .
+# vid_types = faden ziehen
 1	Der	_
 2	ansonsten	_
 3	um	_
@@ -1631,7 +1769,10 @@
 11	Faden	1
 12	.	_
 
-#Text=Wie sich herausstellte , hatten dazu zwar Rotbrigadisten als Werkzeuge gedient , doch den Großteil der Fäden zogen von Anfang an Geheimdienstler aus Rom , Washington und Tel Aviv .
+# tuepp_article_id = T920314.54
+# sent_id = 2847
+# text = Wie sich herausstellte , hatten dazu zwar Rotbrigadisten als Werkzeuge gedient , doch den Großteil der Fäden zogen von Anfang an Geheimdienstler aus Rom , Washington und Tel Aviv .
+# vid_types = faden ziehen
 1	Wie	_
 2	sich	_
 3	herausstellte	_
@@ -1663,7 +1804,10 @@
 29	Aviv	_
 30	.	_
 
-#Text=Die Paten und ehrwürdigen Patriarchen - etwa Jacob Moyses oder Abraham Picard ( " Kinder , wenn 's Mitternacht wird , bin ich König " ) , das Haupt der Brabanter Bande - zogen aus dem Hintergrund die Fäden .
+# tuepp_article_id = T920324.95
+# sent_id = 2848
+# text = Die Paten und ehrwürdigen Patriarchen - etwa Jacob Moyses oder Abraham Picard ( " Kinder , wenn 's Mitternacht wird , bin ich König " ) , das Haupt der Brabanter Bande - zogen aus dem Hintergrund die Fäden .
+# vid_types = faden ziehen
 1	Die	_
 2	Paten	_
 3	und	_
@@ -1705,7 +1849,10 @@
 39	Fäden	1
 40	.	_
 
-#Text=" Dabei wurden mir erst am Montag die Fäden aus der Schlaghand gezogen , die ich mir an einem Nagel beim Hallenfußball aufgerissen hatte " , freute sich der Berliner Juniorenmeister .
+# tuepp_article_id = T921102.91
+# sent_id = 2849
+# text = " Dabei wurden mir erst am Montag die Fäden aus der Schlaghand gezogen , die ich mir an einem Nagel beim Hallenfußball aufgerissen hatte " , freute sich der Berliner Juniorenmeister .
+# vid_types = faden ziehen
 1	"	_
 2	Dabei	_
 3	wurden	_
@@ -1739,7 +1886,10 @@
 31	Juniorenmeister	_
 32	.	_
 
-#Text=Als Arena 1988 an die Macht kam , zog D'Aubuisson hinter Präsident Cristiani weiterhin die Fäden .
+# tuepp_article_id = T920222.90
+# sent_id = 2850
+# text = Als Arena 1988 an die Macht kam , zog D'Aubuisson hinter Präsident Cristiani weiterhin die Fäden .
+# vid_types = faden ziehen
 1	Als	_
 2	Arena	_
 3	1988	_
@@ -1758,7 +1908,10 @@
 16	Fäden	1
 17	.	_
 
-#Text=In einem als " Kellerparlament " bezeichneten Mauschelgremium zog Voscherau mit anderen Partei-Rechten die Fäden sozialdemokratischer Politik .
+# tuepp_article_id = T880608.41
+# sent_id = 2851
+# text = In einem als " Kellerparlament " bezeichneten Mauschelgremium zog Voscherau mit anderen Partei-Rechten die Fäden sozialdemokratischer Politik .
+# vid_types = faden ziehen
 1	In	_
 2	einem	_
 3	als	_
@@ -1778,7 +1931,10 @@
 17	Politik	_
 18	.	_
 
-#Text=Mit einzelnen Journalisten beziehungsweise Chefredakteuren vornehmlich der Springer - Presse und ausgewählten Partei-Rechten , mit denen er schon zu Dohnanyis Zeiten kungelnd die Fäden Hamburger SPD-Politik zog .
+# tuepp_article_id = T881021.36
+# sent_id = 2852
+# text = Mit einzelnen Journalisten beziehungsweise Chefredakteuren vornehmlich der Springer - Presse und ausgewählten Partei-Rechten , mit denen er schon zu Dohnanyis Zeiten kungelnd die Fäden Hamburger SPD-Politik zog .
+# vid_types = faden ziehen
 1	Mit	_
 2	einzelnen	_
 3	Journalisten	_
@@ -1808,7 +1964,10 @@
 27	zog	1
 28	.	_
 
-#Text=15 Filialen befinden sich in den Vereinigten Staaten , und von den USA aus zogen Awan und Bilgrami , so beschuldigt sie der amerikanische Zoll in der Anklageschrift , ihre Fäden in einer großangelegten Geldwasch-Operation für 32 Millionen Dollar Drogenprofite .
+# tuepp_article_id = T881014.77
+# sent_id = 2853
+# text = 15 Filialen befinden sich in den Vereinigten Staaten , und von den USA aus zogen Awan und Bilgrami , so beschuldigt sie der amerikanische Zoll in der Anklageschrift , ihre Fäden in einer großangelegten Geldwasch-Operation für 32 Millionen Dollar Drogenprofite .
+# vid_types = faden ziehen
 1	15	_
 2	Filialen	_
 3	befinden	_
@@ -1851,7 +2010,10 @@
 40	Drogenprofite	_
 41	.	_
 
-#Text=Egal , ob sich Washingtons Statthalter in Managua den jetzt nach ihm benannten " Melton-Plan " nun selber ausgedacht oder nur die Fäden gezogen hat - fest steht , daß die US-Botschaft seit langem Clearing-Stelle und Finanzier der traditionell zerstrittenen Rechtsopposition ist .
+# tuepp_article_id = T880713.33
+# sent_id = 2854
+# text = Egal , ob sich Washingtons Statthalter in Managua den jetzt nach ihm benannten " Melton-Plan " nun selber ausgedacht oder nur die Fäden gezogen hat - fest steht , daß die US-Botschaft seit langem Clearing-Stelle und Finanzier der traditionell zerstrittenen Rechtsopposition ist .
+# vid_types = faden ziehen
 1	Egal	_
 2	,	_
 3	ob	_
@@ -1896,7 +2058,10 @@
 42	ist	_
 43	.	_
 
-#Text=Der Eindruck entsteht , daß an diesem Prozeß viele die Fäden ziehen .
+# tuepp_article_id = T881215.29
+# sent_id = 2855
+# text = Der Eindruck entsteht , daß an diesem Prozeß viele die Fäden ziehen .
+# vid_types = faden ziehen
 1	Der	_
 2	Eindruck	_
 3	entsteht	_
@@ -1911,7 +2076,10 @@
 12	ziehen	1
 13	.	_
 
-#Text=Die Leute , die beim Berliner Basketballbundesligisten DTV Charlottenburg in der zweiten Reihe die Fäden ziehen , sind Profis .
+# tuepp_article_id = T880829.134
+# sent_id = 2856
+# text = Die Leute , die beim Berliner Basketballbundesligisten DTV Charlottenburg in der zweiten Reihe die Fäden ziehen , sind Profis .
+# vid_types = faden ziehen
 1	Die	_
 2	Leute	_
 3	,	_
@@ -1933,7 +2101,10 @@
 19	Profis	_
 20	.	_
 
-#Text=( Als jüngst der ' Spiegel ` ein entsprechendes Angebot der UdSSR an die BRD meldete , wurde in der Atomgemeinde prompt gemunkelt , heutige oder ehemalige Hempel - Leute hätten mit an den Fäden gezogen .
+# tuepp_article_id = T880825.99
+# sent_id = 2857
+# text = ( Als jüngst der ' Spiegel ` ein entsprechendes Angebot der UdSSR an die BRD meldete , wurde in der Atomgemeinde prompt gemunkelt , heutige oder ehemalige Hempel - Leute hätten mit an den Fäden gezogen .
+# vid_types = faden ziehen
 1	(	_
 2	Als	_
 3	jüngst	_
@@ -1972,7 +2143,10 @@
 36	gezogen	1
 37	.	_
 
-#Text=Ein positives Ergebnis hat seine Wahl jedoch : Feller wird als Fernsehdirektor hinter den Kulissen die Fäden ziehen und weniger auf dem Bildschirm erscheinen .
+# tuepp_article_id = T870522.46
+# sent_id = 2858
+# text = Ein positives Ergebnis hat seine Wahl jedoch : Feller wird als Fernsehdirektor hinter den Kulissen die Fäden ziehen und weniger auf dem Bildschirm erscheinen .
+# vid_types = faden ziehen
 1	Ein	_
 2	positives	_
 3	Ergebnis	_
@@ -1999,7 +2173,10 @@
 24	erscheinen	_
 25	.	_
 
-#Text=Wenn Syrien bei der neuen Übereinkunft wieder einmal die Fäden zog , so deshalb , weil sich der Lagerkrieg zum gegenwärtigen Zeitpunkt als hinderlich erwies für die Durchsetzung eines anderen Zieles : Die Festigung des im Juli gegen den christlichen Präsidenten Gemayel gegründeten Oppositionsbündnisses FULL , dem neben Amal auch die Drusenpartei PSP sowie verschiedene linke und pro-syrische Gruppen angehören .
+# tuepp_article_id = T870914.24
+# sent_id = 2859
+# text = Wenn Syrien bei der neuen Übereinkunft wieder einmal die Fäden zog , so deshalb , weil sich der Lagerkrieg zum gegenwärtigen Zeitpunkt als hinderlich erwies für die Durchsetzung eines anderen Zieles : Die Festigung des im Juli gegen den christlichen Präsidenten Gemayel gegründeten Oppositionsbündnisses FULL , dem neben Amal auch die Drusenpartei PSP sowie verschiedene linke und pro-syrische Gruppen angehören .
+# vid_types = faden ziehen
 1	Wenn	_
 2	Syrien	_
 3	bei	_
@@ -2062,7 +2239,10 @@
 60	angehören	_
 61	.	_
 
-#Text=Dieser handelte sich gestern gleich vier Tage Ordnungshaft ein , weil er OStA Rosenbaum mit den Worten " Sei still , Du hast die Fäden gezogen " am Verlesen der Anklageschrift hindern wollte .
+# tuepp_article_id = T870917.15
+# sent_id = 2860
+# text = Dieser handelte sich gestern gleich vier Tage Ordnungshaft ein , weil er OStA Rosenbaum mit den Worten " Sei still , Du hast die Fäden gezogen " am Verlesen der Anklageschrift hindern wollte .
+# vid_types = faden ziehen
 1	Dieser	_
 2	handelte	_
 3	sich	_
@@ -2098,7 +2278,10 @@
 33	wollte	_
 34	.	_
 
-#Text=Daß ausgerechnet Wallmanns Parteifreund Warrikoff in Sachen ALKEM die Fäden zog , dürfte dem " Ruhebedürfnis " des Ministerpräsidenten gleichfalls kaum entgegenkommen .
+# tuepp_article_id = T870408.31
+# sent_id = 2861
+# text = Daß ausgerechnet Wallmanns Parteifreund Warrikoff in Sachen ALKEM die Fäden zog , dürfte dem " Ruhebedürfnis " des Ministerpräsidenten gleichfalls kaum entgegenkommen .
+# vid_types = faden ziehen
 1	Daß	_
 2	ausgerechnet	_
 3	Wallmanns	_
@@ -2123,7 +2306,10 @@
 22	entgegenkommen	_
 23	.	_
 
-#Text=Da am kommenden Montag bei Kemal Ajoub die Fäden gezogen werden , ist davon auszugehen , daß seine Abschiebung schon unmittelbar danach erfolgen könnte , betonen die Anwälte .
+# tuepp_article_id = T870704.30
+# sent_id = 2862
+# text = Da am kommenden Montag bei Kemal Ajoub die Fäden gezogen werden , ist davon auszugehen , daß seine Abschiebung schon unmittelbar danach erfolgen könnte , betonen die Anwälte .
+# vid_types = faden ziehen
 1	Da	_
 2	am	_
 3	kommenden	_
@@ -2154,7 +2340,10 @@
 28	Anwälte	_
 29	.	_
 
-#Text=Immerhin wurde auch hier ein Zeichen gesetzt : Seit Dezember ist Pol Pot öffentlich nicht mehr aufgetreten , doch gibt es klare Hinweise darauf , daß er und seine Leute immer noch bei den Khmer Rouge die Fäden ziehen .
+# tuepp_article_id = T870316.74
+# sent_id = 2863
+# text = Immerhin wurde auch hier ein Zeichen gesetzt : Seit Dezember ist Pol Pot öffentlich nicht mehr aufgetreten , doch gibt es klare Hinweise darauf , daß er und seine Leute immer noch bei den Khmer Rouge die Fäden ziehen .
+# vid_types = faden ziehen
 1	Immerhin	_
 2	wurde	_
 3	auch	_
@@ -2196,7 +2385,10 @@
 39	ziehen	1
 40	.	_
 
-#Text=Bousquet ist das Paradebeispiel für den hohen Staatsbeamten und Geschäftsmann , der unbeschadet von einem Regime zum nächsten seine Fäden ziehen konnte .
+# tuepp_article_id = T930609.63
+# sent_id = 2864
+# text = Bousquet ist das Paradebeispiel für den hohen Staatsbeamten und Geschäftsmann , der unbeschadet von einem Regime zum nächsten seine Fäden ziehen konnte .
+# vid_types = faden ziehen
 1	Bousquet	_
 2	ist	_
 3	das	_
@@ -2221,7 +2413,10 @@
 22	konnte	_
 23	.	_
 
-#Text=Während Heinz Weisener in Zukunft nur noch in dem neu zu gründenden Verwaltungs- und Wirtschaftsrat hinter den Kulissen die Fäden ziehen wird , soll Vizepräsident Christian Hinzpeter den neuen Frontman miemen .
+# tuepp_article_id = T931026.194
+# sent_id = 2865
+# text = Während Heinz Weisener in Zukunft nur noch in dem neu zu gründenden Verwaltungs- und Wirtschaftsrat hinter den Kulissen die Fäden ziehen wird , soll Vizepräsident Christian Hinzpeter den neuen Frontman miemen .
+# vid_types = faden ziehen
 1	Während	_
 2	Heinz	_
 3	Weisener	_
@@ -2255,7 +2450,10 @@
 31	miemen	_
 32	.	_
 
-#Text=Am sonntagnachmittäglichen Aufeinandertreffen des FC St. Pauli und der Saarbrücker Equipe ( 15 Uhr , Wilhelm-Koch-Stadion ) wird bei den Saarländern ein anderer die Fäden im Mittelfeld ziehen müssen .
+# tuepp_article_id = T931002.300
+# sent_id = 2866
+# text = Am sonntagnachmittäglichen Aufeinandertreffen des FC St. Pauli und der Saarbrücker Equipe ( 15 Uhr , Wilhelm-Koch-Stadion ) wird bei den Saarländern ein anderer die Fäden im Mittelfeld ziehen müssen .
+# vid_types = faden ziehen
 1	Am	_
 2	sonntagnachmittäglichen	_
 3	Aufeinandertreffen	_
@@ -2287,7 +2485,10 @@
 29	müssen	_
 30	.	_
 
-#Text=Also sind alle dort vertreten , wo die hohe Politik spielt und die Fäden gezogen werden .
+# tuepp_article_id = T930111.46
+# sent_id = 2867
+# text = Also sind alle dort vertreten , wo die hohe Politik spielt und die Fäden gezogen werden .
+# vid_types = faden ziehen
 1	Also	_
 2	sind	_
 3	alle	_
@@ -2306,7 +2507,10 @@
 16	werden	_
 17	.	_
 
-#Text=Die Frau beherrscht den Ort , an dem die Fäden gezogen werden .
+# tuepp_article_id = T930408.108
+# sent_id = 2868
+# text = Die Frau beherrscht den Ort , an dem die Fäden gezogen werden .
+# vid_types = faden ziehen
 1	Die	_
 2	Frau	_
 3	beherrscht	_
@@ -2321,7 +2525,10 @@
 12	werden	_
 13	.	_
 
-#Text=Festen Einzug in die Fanchoräle erhielt dann der Mann , der von nun an im St. Paulianischen Mittelfeld die Fäden ziehen soll , in der 25 . Minute , als seine Hereingabe von Martin Drillers Kopf ins Tor sprang .
+# tuepp_article_id = T930802.196
+# sent_id = 2869
+# text = Festen Einzug in die Fanchoräle erhielt dann der Mann , der von nun an im St. Paulianischen Mittelfeld die Fäden ziehen soll , in der 25. Minute , als seine Hereingabe von Martin Drillers Kopf ins Tor sprang .
+# vid_types = faden ziehen
 1	Festen	_
 2	Einzug	_
 3	in	_
@@ -2363,7 +2570,10 @@
 39	sprang	_
 40	.	_
 
-#Text=Ob es um Waffenhandel , die Unterstützung südamerikanischer Diktatoren oder um dubiose Firmenzusammenbrüche wie dem des größten spanischen Konzerns Rumasa vor einigen Jahren geht - immer soll Opus Dei nach Darstellung von abtrünnig gewordenen Mitgliedern im Hintergrund die Fäden gezogen haben .
+# tuepp_article_id = T930818.113
+# sent_id = 2870
+# text = Ob es um Waffenhandel , die Unterstützung südamerikanischer Diktatoren oder um dubiose Firmenzusammenbrüche wie dem des größten spanischen Konzerns Rumasa vor einigen Jahren geht - immer soll Opus Dei nach Darstellung von abtrünnig gewordenen Mitgliedern im Hintergrund die Fäden gezogen haben .
+# vid_types = faden ziehen
 1	Ob	_
 2	es	_
 3	um	_
@@ -2407,7 +2617,10 @@
 41	haben	_
 42	.	_
 
-#Text=Dieser hat bereits alle Fäden im Obersten Sowjet gezogen , damit dessen Abgeordnete für Mitte März den bisher verfassunggebenden Kongreß der Volksdeputierten einberufen - eine durch eine ganze Anzahl von Ex-KPdSU-Bossen personell erweiterte Ausgabe des regulären Parlamentes .
+# tuepp_article_id = T930302.28
+# sent_id = 2871
+# text = Dieser hat bereits alle Fäden im Obersten Sowjet gezogen , damit dessen Abgeordnete für Mitte März den bisher verfassunggebenden Kongreß der Volksdeputierten einberufen - eine durch eine ganze Anzahl von Ex-KPdSU-Bossen personell erweiterte Ausgabe des regulären Parlamentes .
+# vid_types = faden ziehen
 1	Dieser	_
 2	hat	_
 3	bereits	_
@@ -2447,7 +2660,10 @@
 37	Parlamentes	_
 38	.	_
 
-#Text=Und je dünner die Fäden gezogen werden , desto länger geraten sie .
+# tuepp_article_id = T930302.82
+# sent_id = 2872
+# text = Und je dünner die Fäden gezogen werden , desto länger geraten sie .
+# vid_types = faden ziehen
 1	Und	_
 2	je	_
 3	dünner	_
@@ -2462,7 +2678,10 @@
 12	sie	_
 13	.	_
 
-#Text=Wie , wenn der gemeinhin als unentschlossen-sensibel Qualifizierte , der erst mit der Opfer-Masche die Kieler Staatskanzlei eroberte , von Anfang an weitsichtig und entschlossen die Fäden des " Barschel-Skandals " gezogen hätte : Rainer Pfeiffer nur vermeintlich Barschels Mann fürs Grobe , in Wahrheit aber derjenige , der , instruiert von Engholms Vertrauensmann Klaus Nilius , den Barschel-Herausforderer in die politisch einzig aussichtsreiche Position - die des unschuldig Verfolgten intrigierte ?
+# tuepp_article_id = T930317.77
+# sent_id = 2873
+# text = Wie , wenn der gemeinhin als unentschlossen-sensibel Qualifizierte , der erst mit der Opfer-Masche die Kieler Staatskanzlei eroberte , von Anfang an weitsichtig und entschlossen die Fäden des " Barschel-Skandals " gezogen hätte : Rainer Pfeiffer nur vermeintlich Barschels Mann fürs Grobe , in Wahrheit aber derjenige , der , instruiert von Engholms Vertrauensmann Klaus Nilius , den Barschel-Herausforderer in die politisch einzig aussichtsreiche Position - die des unschuldig Verfolgten intrigierte ?
+# vid_types = faden ziehen
 1	Wie	_
 2	,	_
 3	wenn	_
@@ -2536,7 +2755,10 @@
 71	intrigierte	_
 72	?	_
 
-#Text=Der polnische Routinier konnte nach Belieben im Rückraum die Fäden ziehen .
+# tuepp_article_id = T930329.242
+# sent_id = 2874
+# text = Der polnische Routinier konnte nach Belieben im Rückraum die Fäden ziehen .
+# vid_types = faden ziehen
 1	Der	_
 2	polnische	_
 3	Routinier	_
@@ -2550,7 +2772,10 @@
 11	ziehen	1
 12	.	_
 
-#Text=Auch über die Massenhinrichtungen bosnisch-moslemischer Kämpfer wurde detailliert gesprochen und bei allen Anklagepunkten darauf hingewiesen , daß Karadzic und Mladic die Fäden bei diesen " Verbrechen gegen die Menschlichkeit " und dem " Völkermord an Zivilisten " aus dem Hintergrund gezogen hätten .
+# tuepp_article_id = T960628.38
+# sent_id = 2875
+# text = Auch über die Massenhinrichtungen bosnisch-moslemischer Kämpfer wurde detailliert gesprochen und bei allen Anklagepunkten darauf hingewiesen , daß Karadzic und Mladic die Fäden bei diesen " Verbrechen gegen die Menschlichkeit " und dem " Völkermord an Zivilisten " aus dem Hintergrund gezogen hätten .
+# vid_types = faden ziehen
 1	Auch	_
 2	über	_
 3	die	_
@@ -2595,7 +2820,10 @@
 42	hätten	_
 43	.	_
 
-#Text=Nicht mehr am Faden gezogen , sondern im Grafiklabor geklont mit der perversen Begründung , daß dies dem aktuellen Trend im Kinderzimmer entspräche .
+# tuepp_article_id = T961025.261
+# sent_id = 2876
+# text = Nicht mehr am Faden gezogen , sondern im Grafiklabor geklont mit der perversen Begründung , daß dies dem aktuellen Trend im Kinderzimmer entspräche .
+# vid_types = faden ziehen
 1	Nicht	_
 2	mehr	_
 3	am	_
@@ -2621,7 +2849,10 @@
 23	entspräche	_
 24	.	_
 
-#Text=Wer bei und nach seinem Sturz die Fäden zog , das verschwimmt noch immer zwischen den Spekulationen von Amateurgeschichtsschreibern und dem Schweigen der Machthaber .
+# tuepp_article_id = T960102.91
+# sent_id = 2877
+# text = Wer bei und nach seinem Sturz die Fäden zog , das verschwimmt noch immer zwischen den Spekulationen von Amateurgeschichtsschreibern und dem Schweigen der Machthaber .
+# vid_types = faden ziehen
 1	Wer	_
 2	bei	_
 3	und	_
@@ -2648,7 +2879,10 @@
 24	Machthaber	_
 25	.	_
 
-#Text=In der Summe ließen sie letztlich nur den Schluß zu , daß hinter den Kulissen an Fäden gezogen wurde , die in Polizeidateien ihren Anfang nehmen mußten : So teilten ihr zum Beispiel gelegentlich einige ihrer Auftraggeber mit , das Bundeskriminalamt habe sich nach ihr erkundigt .
+# tuepp_article_id = T960123.138
+# sent_id = 2878
+# text = In der Summe ließen sie letztlich nur den Schluß zu , daß hinter den Kulissen an Fäden gezogen wurde , die in Polizeidateien ihren Anfang nehmen mußten : So teilten ihr zum Beispiel gelegentlich einige ihrer Auftraggeber mit , das Bundeskriminalamt habe sich nach ihr erkundigt .
+# vid_types = faden ziehen
 1	In	_
 2	der	_
 3	Summe	_
@@ -2697,7 +2931,10 @@
 46	erkundigt	_
 47	.	_
 
-#Text=Jemand versucht , im Hintergrund heimlich die Fäden zu ziehen " , erklärte er .
+# tuepp_article_id = T960403.90
+# sent_id = 2879
+# text = Jemand versucht , im Hintergrund heimlich die Fäden zu ziehen " , erklärte er .
+# vid_types = faden ziehen
 1	Jemand	_
 2	versucht	_
 3	,	_
@@ -2714,7 +2951,10 @@
 14	er	_
 15	.	_
 
-#Text=Die Schonfrist verschafft der Verlagsgruppe Zeit , hinter den Kulissen neue Fäden zu ziehen .
+# tuepp_article_id = T960418.113
+# sent_id = 2880
+# text = Die Schonfrist verschafft der Verlagsgruppe Zeit , hinter den Kulissen neue Fäden zu ziehen .
+# vid_types = faden ziehen
 1	Die	_
 2	Schonfrist	_
 3	verschafft	_
@@ -2731,7 +2971,10 @@
 14	ziehen	1
 15	.	_
 
-#Text=Sie sei es , die hinter den Kulissen die Fäden zöge , argwöhnte die Volksseele .
+# tuepp_article_id = T960406.116
+# sent_id = 2881
+# text = Sie sei es , die hinter den Kulissen die Fäden zöge , argwöhnte die Volksseele .
+# vid_types = faden ziehen
 1	Sie	_
 2	sei	_
 3	es	_
@@ -2749,7 +2992,10 @@
 15	Volksseele	_
 16	.	_
 
-#Text=Wie etwa Kurt Lofquist aus Kopenhagen , der im dortigen " Ripley 's " als Ausstellungsstück Nr. 145 eine Nadel entdeckte , durch deren Öhr ein ehrgeiziger US-Amerikaner insgesamt 93 Fäden gezogen hatte .
+# tuepp_article_id = T960706.140
+# sent_id = 2882
+# text = Wie etwa Kurt Lofquist aus Kopenhagen , der im dortigen " Ripley's " als Ausstellungsstück Nr. 145 eine Nadel entdeckte , durch deren Öhr ein ehrgeiziger US-Amerikaner insgesamt 93 Fäden gezogen hatte .
+# vid_types = faden ziehen
 1	Wie	_
 2	etwa	_
 3	Kurt	_
@@ -2785,7 +3031,10 @@
 33	hatte	_
 34	.	_
 
-#Text=Dort bekommt die 12jährige Sarah die Fäden ihrer Amputationswunde gezogen .
+# tuepp_article_id = T960716.95
+# sent_id = 2883
+# text = Dort bekommt die 12jährige Sarah die Fäden ihrer Amputationswunde gezogen .
+# vid_types = faden ziehen
 1	Dort	_
 2	bekommt	_
 3	die	_
@@ -2798,7 +3047,10 @@
 10	gezogen	1
 11	.	_
 
-#Text=1982 wurde er persönliches Mitglied des deutschen NOK , drei Jahre später orientierte er sich zielstrebig dorthin , wo zu jener Zeit das wahre Zentrum der Macht im internationalen Sport saß : zur Firma adidas , deren Chef Horst Dassler die Fäden bei diversen Sportverbänden und im IOC zog .
+# tuepp_article_id = T960715.119
+# sent_id = 2884
+# text = 1982 wurde er persönliches Mitglied des deutschen NOK , drei Jahre später orientierte er sich zielstrebig dorthin , wo zu jener Zeit das wahre Zentrum der Macht im internationalen Sport saß : zur Firma adidas , deren Chef Horst Dassler die Fäden bei diversen Sportverbänden und im IOC zog .
+# vid_types = faden ziehen
 1	1982	_
 2	wurde	_
 3	er	_
@@ -2850,7 +3102,10 @@
 49	zog	1
 50	.	_
 
-#Text=Warum sich Michael Cramer ( Bündnisgrüne ) für Hanna-Renate Laurien ( CDU ) ins Strick-Zeug legte und keine Lust hat , für Petra Pau ( PDS ) die Fäden zu ziehen
+# tuepp_article_id = T961224.216
+# sent_id = 2885
+# text = Warum sich Michael Cramer ( Bündnisgrüne ) für Hanna-Renate Laurien ( CDU ) ins Strick-Zeug legte und keine Lust hat , für Petra Pau ( PDS ) die Fäden zu ziehen
+# vid_types = faden ziehen
 1	Warum	_
 2	sich	_
 3	Michael	_
@@ -2883,7 +3138,10 @@
 30	zu	_
 31	ziehen	1
 
-#Text=Die Fäden zog im Hintergrund wieder einmal Schmidbauer .
+# tuepp_article_id = T960301.4
+# sent_id = 2886
+# text = Die Fäden zog im Hintergrund wieder einmal Schmidbauer .
+# vid_types = faden ziehen
 1	Die	_
 2	Fäden	1:non-literal-mwe
 3	zog	1
@@ -2894,7 +3152,10 @@
 8	Schmidbauer	_
 9	.	_
 
-#Text=Daß Jelzin nicht zum erstenmal krankheitsbedingt ausfällt und jetzt schon monatelang nicht wirklich regiert , dafür aber andere die Fäden ziehen , liegt auf der Hand .
+# tuepp_article_id = T961108.108
+# sent_id = 2887
+# text = Daß Jelzin nicht zum erstenmal krankheitsbedingt ausfällt und jetzt schon monatelang nicht wirklich regiert , dafür aber andere die Fäden ziehen , liegt auf der Hand .
+# vid_types = faden ziehen
 1	Daß	_
 2	Jelzin	_
 3	nicht	_
@@ -2923,7 +3184,10 @@
 26	Hand	_
 27	.	_
 
-#Text=Und manch einer vermutet , das sei vielen bisher auch ganz lieb gewesen - seit seinen Tagen im Quirinalspalast des Staatspräsidenten beherrscht Maccanico es perfekt , aus dem Hintergrund die politischen Fäden zu ziehen .
+# tuepp_article_id = T960202.20
+# sent_id = 2888
+# text = Und manch einer vermutet , das sei vielen bisher auch ganz lieb gewesen - seit seinen Tagen im Quirinalspalast des Staatspräsidenten beherrscht Maccanico es perfekt , aus dem Hintergrund die politischen Fäden zu ziehen .
+# vid_types = faden ziehen
 1	Und	_
 2	manch	_
 3	einer	_
@@ -2960,14 +3224,20 @@
 34	ziehen	1
 35	.	_
 
-#Text=Anneliese Knop zog die Fäden
+# tuepp_article_id = T960229.106
+# sent_id = 2889
+# text = Anneliese Knop zog die Fäden
+# vid_types = faden ziehen
 1	Anneliese	_
 2	Knop	_
 3	zog	1:non-literal-mwe
 4	die	_
 5	Fäden	1
 
-#Text=Prevals Vorgänger , Haitis beliebtester Politiker Jean Bertrand Aristide , werde nicht in den Kulissen die Fäden ziehen , wie einige dächten .
+# tuepp_article_id = T960208.86
+# sent_id = 2890
+# text = Prevals Vorgänger , Haitis beliebtester Politiker Jean Bertrand Aristide , werde nicht in den Kulissen die Fäden ziehen , wie einige dächten .
+# vid_types = faden ziehen
 1	Prevals	_
 2	Vorgänger	_
 3	,	_
@@ -2992,7 +3262,10 @@
 22	dächten	_
 23	.	_
 
-#Text=Doch wie es sich mit der Untermalung und der chemischen Analyse ihrer Farbpigmente verhält und wo jeweils die mit bloßem Auge erkennbaren Einstiche der Nägel auf der Leinwand sind , mit deren Hilfe Vermeer Perspektivenkorrektheit garantierende Fäden zog , sei uns egal .
+# tuepp_article_id = T960228.147
+# sent_id = 2891
+# text = Doch wie es sich mit der Untermalung und der chemischen Analyse ihrer Farbpigmente verhält und wo jeweils die mit bloßem Auge erkennbaren Einstiche der Nägel auf der Leinwand sind , mit deren Hilfe Vermeer Perspektivenkorrektheit garantierende Fäden zog , sei uns egal .
+# vid_types = faden ziehen
 1	Doch	_
 2	wie	_
 3	es	_
@@ -3037,7 +3310,10 @@
 42	egal	_
 43	.	_
 
-#Text=" " Der Ortsverein Lüssum-Bockhorn hat personalpolitisch schon immer die Fäden gezogen " , weiß auch ein anderes SPD-Mitglied aus Bremen- Nord .
+# tuepp_article_id = T960226.264
+# sent_id = 2892
+# text = " " Der Ortsverein Lüssum-Bockhorn hat personalpolitisch schon immer die Fäden gezogen " , weiß auch ein anderes SPD-Mitglied aus Bremen- Nord .
+# vid_types = faden ziehen
 1	"	_
 2	"	_
 3	Der	_
@@ -3062,7 +3338,10 @@
 22	Nord	_
 23	.	_
 
-#Text=Folgerichtig beschreibt das wetteramtliche Informationsblatt " Geschäftsfeld Medien " die TV-bekannten Computeranimationen als " filmreife Szenen , bei denen wir hinter den Kulissen die Fäden ziehen " .
+# tuepp_article_id = T980514.222
+# sent_id = 2893
+# text = Folgerichtig beschreibt das wetteramtliche Informationsblatt " Geschäftsfeld Medien " die TV-bekannten Computeranimationen als " filmreife Szenen , bei denen wir hinter den Kulissen die Fäden ziehen " .
+# vid_types = faden ziehen
 1	Folgerichtig	_
 2	beschreibt	_
 3	das	_
@@ -3092,7 +3371,10 @@
 27	"	_
 28	.	_
 
-#Text=Bei denen zog Zoubaier Baya die Fäden , während sich Mehdi Ben Slimane als Ministurmtank betätigte .
+# tuepp_article_id = T980623.178
+# sent_id = 2894
+# text = Bei denen zog Zoubaier Baya die Fäden , während sich Mehdi Ben Slimane als Ministurmtank betätigte .
+# vid_types = faden ziehen
 1	Bei	_
 2	denen	_
 3	zog	1:non-literal-mwe
@@ -3111,7 +3393,10 @@
 16	betätigte	_
 17	.	_
 
-#Text=Bald wird sie auch dort die Fäden ziehen , als Vertreterin des zweithöchsten Mannes im Staat .
+# tuepp_article_id = T981024.90
+# sent_id = 2895
+# text = Bald wird sie auch dort die Fäden ziehen , als Vertreterin des zweithöchsten Mannes im Staat .
+# vid_types = faden ziehen
 1	Bald	_
 2	wird	_
 3	sie	_
@@ -3130,7 +3415,10 @@
 16	Staat	_
 17	.	_
 
-#Text=In seinem Plädoyer am Donnerstag versuchte sein kamerunischer Anwalt Olivier Inglis deshalb , Kambanda als " Marionette " darzustellen , an deren " Fäden die Militärs zogen " .
+# tuepp_article_id = T980905.110
+# sent_id = 2896
+# text = In seinem Plädoyer am Donnerstag versuchte sein kamerunischer Anwalt Olivier Inglis deshalb , Kambanda als " Marionette " darzustellen , an deren " Fäden die Militärs zogen " .
+# vid_types = faden ziehen
 1	In	_
 2	seinem	_
 3	Plädoyer	_
@@ -3161,7 +3449,10 @@
 28	"	_
 29	.	_
 
-#Text=Das Netz derer , die die Fäden ziehen und am Organhandel gut verdienen , reicht bis in die Türkei
+# tuepp_article_id = T980919.148
+# sent_id = 2897
+# text = Das Netz derer , die die Fäden ziehen und am Organhandel gut verdienen , reicht bis in die Türkei
+# vid_types = faden ziehen
 1	Das	_
 2	Netz	_
 3	derer	_
@@ -3182,7 +3473,10 @@
 18	die	_
 19	Türkei	_
 
-#Text=Die Choreographie ist zwar anspruchsvoll in der Herausforderung ungewohnter Koordinationen und löst den Körper in bewegte Elemente mit Schräglagen und abgewinkelten Gliedern auf , die manchmal fast wie an Fäden gezogen auf- und zuklappen , pendeln und schwingen .
+# tuepp_article_id = T980919.255
+# sent_id = 2898
+# text = Die Choreographie ist zwar anspruchsvoll in der Herausforderung ungewohnter Koordinationen und löst den Körper in bewegte Elemente mit Schräglagen und abgewinkelten Gliedern auf , die manchmal fast wie an Fäden gezogen auf- und zuklappen , pendeln und schwingen .
+# vid_types = faden ziehen
 1	Die	_
 2	Choreographie	_
 3	ist	_
@@ -3223,7 +3517,10 @@
 38	schwingen	_
 39	.	_
 
-#Text=Rau zog zwar die Fäden , er polarisierte aber nicht , er verharrte so lange im Unentschiedenen , bis sich eindeutige Mehrheiten abzeichneten .
+# tuepp_article_id = T980119.65
+# sent_id = 2899
+# text = Rau zog zwar die Fäden , er polarisierte aber nicht , er verharrte so lange im Unentschiedenen , bis sich eindeutige Mehrheiten abzeichneten .
+# vid_types = faden ziehen
 1	Rau	_
 2	zog	1:non-literal-mwe
 3	zwar	_
@@ -3249,7 +3546,10 @@
 23	abzeichneten	_
 24	.	_
 
-#Text=Die Armee habe mehrere Personen identifiziert , die bei den Krawallen die Fäden gezogen hätten , erklärte der Militärsprecher .
+# tuepp_article_id = T980715.74
+# sent_id = 2900
+# text = Die Armee habe mehrere Personen identifiziert , die bei den Krawallen die Fäden gezogen hätten , erklärte der Militärsprecher .
+# vid_types = faden ziehen
 1	Die	_
 2	Armee	_
 3	habe	_
@@ -3271,7 +3571,10 @@
 19	Militärsprecher	_
 20	.	_
 
-#Text=So abweisend zeigte sich Bonn nicht immer : 1996 zogen Staatsminister Bernd Schmidbauer und Mauss ihre Fäden , um die kolumbianischen Konfliktparteien in Bonn an einen Tisch zu bringen .
+# tuepp_article_id = T980711.105
+# sent_id = 2901
+# text = So abweisend zeigte sich Bonn nicht immer : 1996 zogen Staatsminister Bernd Schmidbauer und Mauss ihre Fäden , um die kolumbianischen Konfliktparteien in Bonn an einen Tisch zu bringen .
+# vid_types = faden ziehen
 1	So	_
 2	abweisend	_
 3	zeigte	_
@@ -3303,7 +3606,10 @@
 29	bringen	_
 30	.	_
 
-#Text=Und im Vorfeld der Bestimmung der Delegierten , da sind die entscheidenden Fäden gezogen worden .
+# tuepp_article_id = T981219.22
+# sent_id = 2902
+# text = Und im Vorfeld der Bestimmung der Delegierten , da sind die entscheidenden Fäden gezogen worden .
+# vid_types = faden ziehen
 1	Und	_
 2	im	_
 3	Vorfeld	_
@@ -3321,7 +3627,10 @@
 15	worden	_
 16	.	_
 
-#Text=Neumann und Perschau , die in der CDU die dicksten Fäden ziehen , brauchen die vorderen Plätze zum Beispiel für treue Gefolgsleute wie es die 42jährige Annedore Windler ist .
+# tuepp_article_id = T981215.5
+# sent_id = 2903
+# text = Neumann und Perschau , die in der CDU die dicksten Fäden ziehen , brauchen die vorderen Plätze zum Beispiel für treue Gefolgsleute wie es die 42jährige Annedore Windler ist .
+# vid_types = faden ziehen
 1	Neumann	_
 2	und	_
 3	Perschau	_
@@ -3353,7 +3662,10 @@
 29	ist	_
 30	.	_
 
-#Text=Es heißt , daß er bei dem letztjährigen Wechsel die Fäden gezogen habe .
+# tuepp_article_id = T981211.436
+# sent_id = 2904
+# text = Es heißt , daß er bei dem letztjährigen Wechsel die Fäden gezogen habe .
+# vid_types = faden ziehen
 1	Es	_
 2	heißt	_
 3	,	_
@@ -3369,7 +3681,10 @@
 13	habe	_
 14	.	_
 
-#Text=Zusammen mit ihm und dem Geheimdienstberater Vladimiro Montesinos zog Hermoza Rios die Fäden in Peru , er gilt als einer der mächtigsten Männer des Landes .
+# tuepp_article_id = T980831.104
+# sent_id = 2905
+# text = Zusammen mit ihm und dem Geheimdienstberater Vladimiro Montesinos zog Hermoza Rios die Fäden in Peru , er gilt als einer der mächtigsten Männer des Landes .
+# vid_types = faden ziehen
 1	Zusammen	_
 2	mit	_
 3	ihm	_
@@ -3397,7 +3712,10 @@
 25	Landes	_
 26	.	_
 
-#Text=Zusammen mit ihm und dem Geheimdienstberater Vladimiro Montesinos zog Hermoza Rios die Fäden in Peru , er gilt als einer der mächtigsten Männer des Landes .
+# tuepp_article_id = T980831.104
+# sent_id = 2905
+# text = Zusammen mit ihm und dem Geheimdienstberater Vladimiro Montesinos zog Hermoza Rios die Fäden in Peru , er gilt als einer der mächtigsten Männer des Landes .
+# vid_types = faden ziehen
 1	Zusammen	_
 2	mit	_
 3	ihm	_
@@ -3425,7 +3743,10 @@
 25	Landes	_
 26	.	_
 
-#Text=Die Kontrolle äußert sich hier eher als Manipulation denn als Zwang , und die Fäden werden aus der Ferne gezogen .
+# tuepp_article_id = T980313.397
+# sent_id = 2907
+# text = Die Kontrolle äußert sich hier eher als Manipulation denn als Zwang , und die Fäden werden aus der Ferne gezogen .
+# vid_types = faden ziehen
 1	Die	_
 2	Kontrolle	_
 3	äußert	_
@@ -3448,7 +3769,10 @@
 20	gezogen	1
 21	.	_
 
-#Text=Die größeren historischen Taten des Politikers , der in Jena unter anderem bei Johann Gottlieb Fichte Philosophie studiert und Goethe und Schiller persönlich gekannt hatte , bevor er später in Bremen lernte , politische Fäden zu ziehen , sind weitgehend bekannt .
+# tuepp_article_id = T981105.263
+# sent_id = 2908
+# text = Die größeren historischen Taten des Politikers , der in Jena unter anderem bei Johann Gottlieb Fichte Philosophie studiert und Goethe und Schiller persönlich gekannt hatte , bevor er später in Bremen lernte , politische Fäden zu ziehen , sind weitgehend bekannt .
+# vid_types = faden ziehen
 1	Die	_
 2	größeren	_
 3	historischen	_
@@ -3492,7 +3816,10 @@
 41	bekannt	_
 42	.	_
 
-#Text=Als ich zum Beispiel die " Suspension events " gemacht habe , bei denen ich Fäden durch meine Haut ziehen ließ , an denen ich aufgehängt wurde , konnte man die Haken in meiner Haut sehen .
+# tuepp_article_id = T981104.173
+# sent_id = 2909
+# text = Als ich zum Beispiel die " Suspension events " gemacht habe , bei denen ich Fäden durch meine Haut ziehen ließ , an denen ich aufgehängt wurde , konnte man die Haken in meiner Haut sehen .
+# vid_types = faden ziehen
 1	Als	_
 2	ich	_
 3	zum	_
@@ -3531,7 +3858,10 @@
 36	sehen	_
 37	.	_
 
-#Text=" Im übrigen ist der 1946 geborene australische Künstler ein charmanter , freundlicher Gesprächspartner mit einigem Sinn für Humor - nicht gerade der Typ , von dem man erwarten würde , daß er sich für seine Kunst über den Straßen New Yorks aufhängen läßt - an Fäden , die direkt durch seine Haut gezogen wurden .
+# tuepp_article_id = T981104.175
+# sent_id = 2910
+# text = " Im übrigen ist der 1946 geborene australische Künstler ein charmanter , freundlicher Gesprächspartner mit einigem Sinn für Humor - nicht gerade der Typ , von dem man erwarten würde , daß er sich für seine Kunst über den Straßen New Yorks aufhängen läßt - an Fäden , die direkt durch seine Haut gezogen wurden .
+# vid_types = faden ziehen
 1	"	_
 2	Im	_
 3	übrigen	_
@@ -3589,7 +3919,10 @@
 55	wurden	_
 56	.	_
 
-#Text=" Immerhin etwas , denn das spieltechnische Pulver war bereits 15 Minuten nach Winterpausenende verschossen - trotzdem Pröpper-Vertreter und Spielmacher Christian Springer bemüht war , die Fäden zu ziehen .
+# tuepp_article_id = T980216.267
+# sent_id = 2911
+# text = " Immerhin etwas , denn das spieltechnische Pulver war bereits 15 Minuten nach Winterpausenende verschossen - trotzdem Pröpper-Vertreter und Spielmacher Christian Springer bemüht war , die Fäden zu ziehen .
+# vid_types = faden ziehen
 1	"	_
 2	Immerhin	_
 3	etwas	_
@@ -3621,7 +3954,10 @@
 29	ziehen	2
 30	.	_
 
-#Text=Dort , in der " Koordinierungsstelle gewerkschaftlicher Arbeitslosengruppen " , werden die Fäden der landesweiten Aktionen gezogen .
+# tuepp_article_id = T980217.108
+# sent_id = 2912
+# text = Dort , in der " Koordinierungsstelle gewerkschaftlicher Arbeitslosengruppen " , werden die Fäden der landesweiten Aktionen gezogen .
+# vid_types = faden ziehen
 1	Dort	_
 2	,	_
 3	in	_
@@ -3641,7 +3977,10 @@
 17	gezogen	1
 18	.	_
 
-#Text=Er weiß dabei SPD-Bürgermeister Henning Voscherau klammheimlich auf seiner Seite , der schon einmal als Stadtchef so vergnügt die rot-gelben Fäden zog , daß er 1991 , überraschend plötzlich mit der absoluten Mehrheit der Mandate ausgestattet , der FDP das Mitregieren anbot , um seine Parteilinke besser unter Kontrolle zu halten .
+# tuepp_article_id = T970515.309
+# sent_id = 2913
+# text = Er weiß dabei SPD-Bürgermeister Henning Voscherau klammheimlich auf seiner Seite , der schon einmal als Stadtchef so vergnügt die rot-gelben Fäden zog , daß er 1991 , überraschend plötzlich mit der absoluten Mehrheit der Mandate ausgestattet , der FDP das Mitregieren anbot , um seine Parteilinke besser unter Kontrolle zu halten .
+# vid_types = faden ziehen
 1	Er	_
 2	weiß	_
 3	dabei	_
@@ -3695,7 +4034,10 @@
 51	halten	_
 52	.	_
 
-#Text=Es handelt sich um den einstigen Paten der Mafia im Allgäu , Vito di Stefano , der jahrelang von einer Pizzeria in Memmingen aus die Fäden gezogen haben soll .
+# tuepp_article_id = T970509.45
+# sent_id = 2914
+# text = Es handelt sich um den einstigen Paten der Mafia im Allgäu , Vito di Stefano , der jahrelang von einer Pizzeria in Memmingen aus die Fäden gezogen haben soll .
+# vid_types = faden ziehen
 1	Es	_
 2	handelt	_
 3	sich	_
@@ -3727,7 +4069,10 @@
 29	soll	_
 30	.	_
 
-#Text=Er bietet Einsichten , wie der späte Ulbricht Konföderationsgedanken nachgehangen habe , während Honecker bereits die Fäden hinter dessen Rücken zog .
+# tuepp_article_id = T970603.104
+# sent_id = 2915
+# text = Er bietet Einsichten , wie der späte Ulbricht Konföderationsgedanken nachgehangen habe , während Honecker bereits die Fäden hinter dessen Rücken zog .
+# vid_types = faden ziehen
 1	Er	_
 2	bietet	_
 3	Einsichten	_
@@ -3751,7 +4096,10 @@
 21	zog	1
 22	.	_
 
-#Text=Die strategischen Überlegungen bleiben Washington vorbehalten , wo diejenigen sitzen , die die Fäden ziehen : die US-Regierung und die internationalen Finanzinstitutionen wie der Internationale Währungsfonds ( IWF ) und die Weltbank , die mit der Regierung gemeinsame Sache machen .
+# tuepp_article_id = T971017.353
+# sent_id = 2916
+# text = Die strategischen Überlegungen bleiben Washington vorbehalten , wo diejenigen sitzen , die die Fäden ziehen : die US-Regierung und die internationalen Finanzinstitutionen wie der Internationale Währungsfonds ( IWF ) und die Weltbank , die mit der Regierung gemeinsame Sache machen .
+# vid_types = faden ziehen
 1	Die	_
 2	strategischen	_
 3	Überlegungen	_
@@ -3794,7 +4142,10 @@
 40	machen	_
 41	.	_
 
-#Text=Scheinbar bescheiden leugnet Vaatz , die maßgeblichen Fäden gezogen zu haben .
+# tuepp_article_id = T971013.78
+# sent_id = 2917
+# text = Scheinbar bescheiden leugnet Vaatz , die maßgeblichen Fäden gezogen zu haben .
+# vid_types = faden ziehen
 1	Scheinbar	_
 2	bescheiden	_
 3	leugnet	_
@@ -3808,7 +4159,10 @@
 11	haben	_
 12	.	_
 
-#Text=Über alledem schwebt der einbeinige Philanthrop und Säufer Christian , bei dem die Fäden , an denen zu ziehen er sich weigert , zusammenlaufen .
+# tuepp_article_id = T971015.277
+# sent_id = 2918
+# text = Über alledem schwebt der einbeinige Philanthrop und Säufer Christian , bei dem die Fäden , an denen zu ziehen er sich weigert , zusammenlaufen .
+# vid_types = faden ziehen
 1	Über	_
 2	alledem	_
 3	schwebt	1:non-literal
@@ -3835,7 +4189,10 @@
 24	zusammenlaufen	_
 25	.	_
 
-#Text=In Zaire , dem 1971 ausgerufenen neuen Staat , sollte es keinen Pluralismus geben , keine Privatwirtschaft , keine europäischen Namen oder Kleidung ; statt dessen Einheitspartei mit Zwangsmitgliedschaft , Führerkult und beispielloser Wohlstandskonzentration in den Händen der herrschenden Elite , an deren Spitze Mobutu alle Fäden zog .
+# tuepp_article_id = T970909.42
+# sent_id = 2919
+# text = In Zaire , dem 1971 ausgerufenen neuen Staat , sollte es keinen Pluralismus geben , keine Privatwirtschaft , keine europäischen Namen oder Kleidung ; statt dessen Einheitspartei mit Zwangsmitgliedschaft , Führerkult und beispielloser Wohlstandskonzentration in den Händen der herrschenden Elite , an deren Spitze Mobutu alle Fäden zog .
+# vid_types = faden ziehen
 1	In	_
 2	Zaire	_
 3	,	_
@@ -3886,7 +4243,10 @@
 48	zog	1
 49	.	_
 
-#Text=Schon 1995 hatte Haller aus dem Hintergrund der AfB die Fäden gezogen und das Ziel einer Ablösung der SPD aus dem Rathaus verfolgt .
+# tuepp_article_id = T970913.268
+# sent_id = 2920
+# text = Schon 1995 hatte Haller aus dem Hintergrund der AfB die Fäden gezogen und das Ziel einer Ablösung der SPD aus dem Rathaus verfolgt .
+# vid_types = faden ziehen
 1	Schon	_
 2	1995	_
 3	hatte	_
@@ -3912,7 +4272,10 @@
 23	verfolgt	_
 24	.	_
 
-#Text=Sozusagen von Geisterhand werden dabei die Fäden einer wirren Technikalptraum-Geschichte gezogen .
+# tuepp_article_id = T970918.197
+# sent_id = 2921
+# text = Sozusagen von Geisterhand werden dabei die Fäden einer wirren Technikalptraum-Geschichte gezogen .
+# vid_types = faden ziehen
 1	Sozusagen	_
 2	von	_
 3	Geisterhand	_
@@ -3926,7 +4289,10 @@
 11	gezogen	1
 12	.	_
 
-#Text=Organisiert wird die kommunale Macht vom Verband der kommunalen Aktionäre ( VKA ) , in dem Stadtdirektoren und Bürgermeister von SPD und CDU die Fäden ziehen .
+# tuepp_article_id = T970908.67
+# sent_id = 2922
+# text = Organisiert wird die kommunale Macht vom Verband der kommunalen Aktionäre ( VKA ) , in dem Stadtdirektoren und Bürgermeister von SPD und CDU die Fäden ziehen .
+# vid_types = faden ziehen
 1	Organisiert	_
 2	wird	_
 3	die	_
@@ -3955,7 +4321,10 @@
 26	ziehen	1
 27	.	_
 
-#Text=Oder der Anfang vom " Paten " , wenn die Kamera langsam vom Gesicht des Bittstellers ( " Ich glaube an Amerrrika " ) zurückzoomt , bis die Silhouette des Godfather-Kopfes die halbe Leinwand ausfüllt : Kann man diskreter und deutlicher zeigen , wer hier als Schattenmann die Fäden ziehen wird ?
+# tuepp_article_id = T970102.124
+# sent_id = 2923
+# text = Oder der Anfang vom " Paten " , wenn die Kamera langsam vom Gesicht des Bittstellers ( " Ich glaube an Amerrrika " ) zurückzoomt , bis die Silhouette des Godfather-Kopfes die halbe Leinwand ausfüllt : Kann man diskreter und deutlicher zeigen , wer hier als Schattenmann die Fäden ziehen wird ?
+# vid_types = faden ziehen
 1	Oder	_
 2	der	_
 3	Anfang	_
@@ -4009,7 +4378,10 @@
 51	wird	_
 52	?	_
 
-#Text=Nicht viel anders klingt die Kritik von Umweltministerin Bärbel Höhn , die einst mit Busch und Kreutz zusammen im linken Forum die politischen Fäden zog .
+# tuepp_article_id = T970113.71
+# sent_id = 2924
+# text = Nicht viel anders klingt die Kritik von Umweltministerin Bärbel Höhn , die einst mit Busch und Kreutz zusammen im linken Forum die politischen Fäden zog .
+# vid_types = faden ziehen
 1	Nicht	_
 2	viel	_
 3	anders	_
@@ -4037,7 +4409,10 @@
 25	zog	1
 26	.	_
 
-#Text=Der Staatsrat im Wirtschaftsressort hat mal wieder bewiesen , daß niemand so prima Fäden ziehen kann wie er .
+# tuepp_article_id = T970422.255
+# sent_id = 2925
+# text = Der Staatsrat im Wirtschaftsressort hat mal wieder bewiesen , daß niemand so prima Fäden ziehen kann wie er .
+# vid_types = faden ziehen
 1	Der	_
 2	Staatsrat	_
 3	im	_
@@ -4058,7 +4433,10 @@
 18	er	_
 19	.	_
 
-#Text=Immer wieder drehen sie sich im Kreis herum wie von unsichtbaren Fäden gezogen , jeder in einem anderen selbstgewählten Kreisel .
+# tuepp_article_id = T970425.336
+# sent_id = 2926
+# text = Immer wieder drehen sie sich im Kreis herum wie von unsichtbaren Fäden gezogen , jeder in einem anderen selbstgewählten Kreisel .
+# vid_types = faden ziehen
 1	Immer	_
 2	wieder	_
 3	drehen	_
@@ -4081,7 +4459,10 @@
 20	Kreisel	_
 21	.	_
 
-#Text=Die extravagante Abschiedsfeier der englischen Kolonialherren - da gab es in Mikrochipgewand verhüllte Tänzer und orientalische Modeshows - konnte nicht verdecken , wer auch bei den gestrigen Festivitäten hinter den Kulissen der Wolkenkratzer die Fäden zog , wer Hongkong gestern beherrschte und auch heute dominiert : Leute wie James Tien .
+# tuepp_article_id = T970701.20
+# sent_id = 2927
+# text = Die extravagante Abschiedsfeier der englischen Kolonialherren - da gab es in Mikrochipgewand verhüllte Tänzer und orientalische Modeshows - konnte nicht verdecken , wer auch bei den gestrigen Festivitäten hinter den Kulissen der Wolkenkratzer die Fäden zog , wer Hongkong gestern beherrschte und auch heute dominiert : Leute wie James Tien .
+# vid_types = faden ziehen
 1	Die	_
 2	extravagante	_
 3	Abschiedsfeier	_
@@ -4134,7 +4515,10 @@
 50	Tien	_
 51	.	_
 
-#Text=Bei dem Konflikt handelt sich nicht mehr nur um einen Machtkampf zwischen Plavsic und ihrem Vorgänger Radovan Karadzic , der nach wie vor alle Fäden ziehen will .
+# tuepp_article_id = T970707.43
+# sent_id = 2928
+# text = Bei dem Konflikt handelt sich nicht mehr nur um einen Machtkampf zwischen Plavsic und ihrem Vorgänger Radovan Karadzic , der nach wie vor alle Fäden ziehen will .
+# vid_types = faden ziehen
 1	Bei	_
 2	dem	_
 3	Konflikt	_
@@ -4164,7 +4548,10 @@
 27	will	_
 28	.	_
 
-#Text=Seit der Verurteilung des HB-Vorstands hatte sie unermüdlich ihre Fäden hinter den Kulissen gezogen .
+# tuepp_article_id = T971213.150
+# sent_id = 2929
+# text = Seit der Verurteilung des HB-Vorstands hatte sie unermüdlich ihre Fäden hinter den Kulissen gezogen .
+# vid_types = faden ziehen
 1	Seit	_
 2	der	_
 3	Verurteilung	_
@@ -4181,7 +4568,10 @@
 14	gezogen	1
 15	.	_
 
-#Text=Die Fäden in diesem ausgedehnten Geflecht zwischen den Standorten von inzwischen 17 Museen , die zur Stiftung Preußischer Kulturbesitz gehören , hat seit 20 Jahren der Stiftungspräsident Werner Knopp gezogen .
+# tuepp_article_id = T971206.242
+# sent_id = 2930
+# text = Die Fäden in diesem ausgedehnten Geflecht zwischen den Standorten von inzwischen 17 Museen , die zur Stiftung Preußischer Kulturbesitz gehören , hat seit 20 Jahren der Stiftungspräsident Werner Knopp gezogen .
+# vid_types = faden ziehen
 1	Die	_
 2	Fäden	1:non-literal-mwe
 3	in	_
@@ -4214,7 +4604,10 @@
 30	gezogen	1
 31	.	_
 
-#Text=Schon damals zog er lieber aus dem Hintergrund die Fäden .
+# tuepp_article_id = T971222.212
+# sent_id = 2931
+# text = Schon damals zog er lieber aus dem Hintergrund die Fäden .
+# vid_types = faden ziehen
 1	Schon	_
 2	damals	_
 3	zog	1:non-literal-mwe
@@ -4227,7 +4620,10 @@
 10	Fäden	1
 11	.	_
 
-#Text=Wagner zog die Fäden im unübersichtlichen HAG-Firmengeflecht und setzte auf alle wichtigen Unternehmenspositionen Mitglieder seiner vielköpfigen Familie .
+# tuepp_article_id = T971211.44
+# sent_id = 2932
+# text = Wagner zog die Fäden im unübersichtlichen HAG-Firmengeflecht und setzte auf alle wichtigen Unternehmenspositionen Mitglieder seiner vielköpfigen Familie .
+# vid_types = faden ziehen
 1	Wagner	_
 2	zog	1:non-literal-mwe
 3	die	_
@@ -4247,7 +4643,10 @@
 17	Familie	_
 18	.	_
 
-#Text=Um dem Titel des besten Fußballers der Welt zu genügen , muß er allerdings noch die strategische Vollkommenheit eines Di Stefano , eines Pele oder Cruyff erlangen und sich nicht nur zwischen Mittellinie und gegnerischem Strafraum bewegen , sondern seine Fäden über das gesamte Spielfeld ziehen .
+# tuepp_article_id = T970815.237
+# sent_id = 2933
+# text = Um dem Titel des besten Fußballers der Welt zu genügen , muß er allerdings noch die strategische Vollkommenheit eines Di Stefano , eines Pele oder Cruyff erlangen und sich nicht nur zwischen Mittellinie und gegnerischem Strafraum bewegen , sondern seine Fäden über das gesamte Spielfeld ziehen .
+# vid_types = faden ziehen
 1	Um	_
 2	dem	_
 3	Titel	_
@@ -4296,7 +4695,10 @@
 46	ziehen	1
 47	.	_
 
-#Text=Frank Zimmermann ( SPD ) , Sprecher und " Michel Platini " der Finanzverwaltung , soll die Fäden ziehen .
+# tuepp_article_id = T970827.167
+# sent_id = 2934
+# text = Frank Zimmermann ( SPD ) , Sprecher und " Michel Platini " der Finanzverwaltung , soll die Fäden ziehen .
+# vid_types = faden ziehen
 1	Frank	_
 2	Zimmermann	_
 3	(	_
@@ -4318,7 +4720,10 @@
 19	ziehen	1
 20	.	_
 
-#Text=AfB-Spitzenmann und dann Wirtschaftssenator der Koalition , für die Haller mit der AfB schon 1995 Fäden gezogen hat .
+# tuepp_article_id = T970802.239
+# sent_id = 2935
+# text = AfB-Spitzenmann und dann Wirtschaftssenator der Koalition , für die Haller mit der AfB schon 1995 Fäden gezogen hat .
+# vid_types = faden ziehen
 1	AfB-Spitzenmann	_
 2	und	_
 3	dann	_
@@ -4339,7 +4744,10 @@
 18	hat	_
 19	.	_
 
-#Text=" OibE " , so eines der landesüblichen Kürzel , zogen hier die Fäden , Offiziere im besonderen Einsatz .
+# tuepp_article_id = T970301.146
+# sent_id = 2936
+# text = " OibE " , so eines der landesüblichen Kürzel , zogen hier die Fäden , Offiziere im besonderen Einsatz .
+# vid_types = faden ziehen
 1	"	_
 2	OibE	_
 3	"	_
@@ -4361,7 +4769,10 @@
 19	Einsatz	_
 20	.	_
 
-#Text=Daß man den Extremisten in Brcko sowohl bei den Kommunalwahlen wie bei der Umstrukturierung der Polizei nachgab , daß man die recht starke Opposition in der ostbosnischen Stadt Bijeljina im Stich ließ , daß die Kriegsverbrecher nach wie vor Fäden ziehen dürfen , wirft ein Schlaglicht auf die Halbherzigkeit der internationalen Politik .
+# tuepp_article_id = T971126.9
+# sent_id = 2937
+# text = Daß man den Extremisten in Brcko sowohl bei den Kommunalwahlen wie bei der Umstrukturierung der Polizei nachgab , daß man die recht starke Opposition in der ostbosnischen Stadt Bijeljina im Stich ließ , daß die Kriegsverbrecher nach wie vor Fäden ziehen dürfen , wirft ein Schlaglicht auf die Halbherzigkeit der internationalen Politik .
+# vid_types = faden ziehen
 1	Daß	_
 2	man	_
 3	den	_
@@ -4416,7 +4827,10 @@
 52	Politik	_
 53	.	_
 
-#Text=Die Fäden im Hintergrund zu ziehen liegt Heide Rühle mehr als der Auftritt vor Fernsehkameras .
+# tuepp_article_id = T970227.121
+# sent_id = 2938
+# text = Die Fäden im Hintergrund zu ziehen liegt Heide Rühle mehr als der Auftritt vor Fernsehkameras .
+# vid_types = faden ziehen
 1	Die	_
 2	Fäden	1:non-literal-mwe
 3	im	_
@@ -4434,7 +4848,10 @@
 15	Fernsehkameras	_
 16	.	_
 
-#Text=Wegen Fälschung von 188 Überweisungsaufträgen mit einem Gesamtbetrag von fast einer Million Mark stehen ein 24jähriger Ex- Bankkaufmann , der dank seiner Fachkenntnisse die Fäden gezogen haben soll , und drei Mitangeklagte im Alter von 22 bis 27 Jahren vor Gericht .
+# tuepp_article_id = T940503.176
+# sent_id = 2939
+# text = Wegen Fälschung von 188 Überweisungsaufträgen mit einem Gesamtbetrag von fast einer Million Mark stehen ein 24jähriger Ex- Bankkaufmann , der dank seiner Fachkenntnisse die Fäden gezogen haben soll , und drei Mitangeklagte im Alter von 22 bis 27 Jahren vor Gericht .
+# vid_types = faden ziehen
 1	Wegen	_
 2	Fälschung	_
 3	von	_
@@ -4478,7 +4895,10 @@
 41	Gericht	_
 42	.	_
 
-#Text=Katharina von Medici zog die Fäden bei dieser Intrige .
+# tuepp_article_id = T940513.139
+# sent_id = 2940
+# text = Katharina von Medici zog die Fäden bei dieser Intrige .
+# vid_types = faden ziehen
 1	Katharina	_
 2	von	_
 3	Medici	_
@@ -4490,7 +4910,10 @@
 9	Intrige	_
 10	.	_
 
-#Text=" Doch wenn deutsche Nazis beginnen , von hier aus die Fäden zu ziehen , müssen wir Flagge zeigen .
+# tuepp_article_id = T941017.59
+# sent_id = 2941
+# text = " Doch wenn deutsche Nazis beginnen , von hier aus die Fäden zu ziehen , müssen wir Flagge zeigen .
+# vid_types = faden ziehen
 1	"	_
 2	Doch	_
 3	wenn	_
@@ -4512,7 +4935,10 @@
 19	zeigen	_
 20	.	_
 
-#Text=Rund um dieses Experimentierfeld nutzen die Woosters Mischpulte und Mikros , um wie Chirurgen oder Puppenspieler die Fäden zu ziehen und das Geschehen auf der Bühne zu gestalten .
+# tuepp_article_id = T940928.239
+# sent_id = 2942
+# text = Rund um dieses Experimentierfeld nutzen die Woosters Mischpulte und Mikros , um wie Chirurgen oder Puppenspieler die Fäden zu ziehen und das Geschehen auf der Bühne zu gestalten .
+# vid_types = faden ziehen
 1	Rund	_
 2	um	_
 3	dieses	_
@@ -4543,7 +4969,10 @@
 28	gestalten	_
 29	.	_
 
-#Text=Südafrikas Geheimpolizei schlug gegen Biko im Herbst 1977 zu , als die IUEF gerade die Fäden für ein geheimes Treffen in London zwischen ihm und Oliver Tambo , dem ANC- Führer im Exil , zog , um die beiden Organisationen zusammenzubringen .
+# tuepp_article_id = T940922.119
+# sent_id = 2943
+# text = Südafrikas Geheimpolizei schlug gegen Biko im Herbst 1977 zu , als die IUEF gerade die Fäden für ein geheimes Treffen in London zwischen ihm und Oliver Tambo , dem ANC- Führer im Exil , zog , um die beiden Organisationen zusammenzubringen .
+# vid_types = faden ziehen
 1	Südafrikas	_
 2	Geheimpolizei	_
 3	schlug	_
@@ -4587,7 +5016,10 @@
 41	zusammenzubringen	_
 42	.	_
 
-#Text=Boban wird bei den Gesprächen von Mile Akmadzic vertreten , der schon seit einigen Monaten in der Westherzegowina politisch die Fäden zu ziehen scheint .
+# tuepp_article_id = T940117.65
+# sent_id = 2944
+# text = Boban wird bei den Gesprächen von Mile Akmadzic vertreten , der schon seit einigen Monaten in der Westherzegowina politisch die Fäden zu ziehen scheint .
+# vid_types = faden ziehen
 1	Boban	_
 2	wird	_
 3	bei	_
@@ -4614,7 +5046,10 @@
 24	scheint	_
 25	.	_
 
-#Text=Der Ball eckte und rollte jetzt wie an einem Faden gezogen über den grünen Filz - beeindruckend .
+# tuepp_article_id = T940124.236
+# sent_id = 2945
+# text = Der Ball eckte und rollte jetzt wie an einem Faden gezogen über den grünen Filz - beeindruckend .
+# vid_types = faden ziehen
 1	Der	_
 2	Ball	_
 3	eckte	_
@@ -4634,7 +5069,10 @@
 17	beeindruckend	_
 18	.	_
 
-#Text=Klar ist : Das in zwanzig Jahren Habyarimana-Herrschaft gewachsene Staatswesen Ruandas , in dem Verwandte und Freunde des Hutu- Präsidenten die Fäden zogen , bricht auseinander .
+# tuepp_article_id = T940409.63
+# sent_id = 2946
+# text = Klar ist : Das in zwanzig Jahren Habyarimana-Herrschaft gewachsene Staatswesen Ruandas , in dem Verwandte und Freunde des Hutu- Präsidenten die Fäden zogen , bricht auseinander .
+# vid_types = faden ziehen
 1	Klar	_
 2	ist	_
 3	:	_
@@ -4663,7 +5101,10 @@
 26	auseinander	_
 27	.	_
 
-#Text=Der 28jährige Kjendalen , bis 1992 beim TuS Schutterwald unter Vertrag und zuletzt bei IL Runar Sandefjord / Norwegen am Ball , soll beim VfL als Spielmacher die Fäden ziehen .
+# tuepp_article_id = T940409.303
+# sent_id = 2947
+# text = Der 28jährige Kjendalen , bis 1992 beim TuS Schutterwald unter Vertrag und zuletzt bei IL Runar Sandefjord / Norwegen am Ball , soll beim VfL als Spielmacher die Fäden ziehen .
+# vid_types = faden ziehen
 1	Der	_
 2	28jährige	_
 3	Kjendalen	_
@@ -4696,7 +5137,10 @@
 30	ziehen	1
 31	.	_
 
-#Text=Hinter allem vermutet er eine Verschwörung , deren Fäden in Moskau und Grosny gleichzeitig gezogen werden .
+# tuepp_article_id = T941212.28
+# sent_id = 2948
+# text = Hinter allem vermutet er eine Verschwörung , deren Fäden in Moskau und Grosny gleichzeitig gezogen werden .
+# vid_types = faden ziehen
 1	Hinter	_
 2	allem	_
 3	vermutet	_
@@ -4715,7 +5159,10 @@
 16	werden	_
 17	.	_
 
-#Text=Vielleicht noch ausgeprägter als den Frauen in Serbien und Kroatien , ist es ihnen innerhalb der bosnischen Gesellschaft jedoch gelungen , die Fäden im Hintergrund zu ziehen .
+# tuepp_article_id = T941229.34
+# sent_id = 2949
+# text = Vielleicht noch ausgeprägter als den Frauen in Serbien und Kroatien , ist es ihnen innerhalb der bosnischen Gesellschaft jedoch gelungen , die Fäden im Hintergrund zu ziehen .
+# vid_types = faden ziehen
 1	Vielleicht	_
 2	noch	_
 3	ausgeprägter	_
@@ -4745,7 +5192,10 @@
 27	ziehen	1
 28	.	_
 
-#Text=Für den Bremer Monopolisten zog hinter den Kulissen längst ein anderer die Fäden : Claus Grobecker , zuletzt Finanzsenator und gut befreundet mit Hennemann , der seine Laufbahn als Sanierer der Bremer Werften im Amt des Staatssekretärs im Wirtschaftsministerium der kleinen , aber feinen Hansestadt begonnen hatte .
+# tuepp_article_id = T940813.48
+# sent_id = 2950
+# text = Für den Bremer Monopolisten zog hinter den Kulissen längst ein anderer die Fäden : Claus Grobecker , zuletzt Finanzsenator und gut befreundet mit Hennemann , der seine Laufbahn als Sanierer der Bremer Werften im Amt des Staatssekretärs im Wirtschaftsministerium der kleinen , aber feinen Hansestadt begonnen hatte .
+# vid_types = faden ziehen
 1	Für	_
 2	den	_
 3	Bremer	_
@@ -4795,7 +5245,10 @@
 47	hatte	_
 48	.	_
 
-#Text=Während Wissenschaftler bekanntlich dazu neigen , Strukturen und Prozesse jenseits der unmittelbar Handelnden in den Mittelpunkt zu stellen , hält der Ex-Außenminister die Fäden , die er zog , auch für jene , die die Welt bewegen .
+# tuepp_article_id = T941124.186
+# sent_id = 2951
+# text = Während Wissenschaftler bekanntlich dazu neigen , Strukturen und Prozesse jenseits der unmittelbar Handelnden in den Mittelpunkt zu stellen , hält der Ex-Außenminister die Fäden , die er zog , auch für jene , die die Welt bewegen .
+# vid_types = faden ziehen
 1	Während	_
 2	Wissenschaftler	_
 3	bekanntlich	_
@@ -4835,7 +5288,10 @@
 37	bewegen	_
 38	.	_
 
-#Text=Ein halbes Jahrhundert lang zog J. Edgar Hoover die Fäden bei der US-amerikanischen Bundespolizei / Er war korrupt , verklemmt , paranoid , haßte Linke , Juden , Schwarze , Schwule und kollaborierte mit der Mafia
+# tuepp_article_id = T940226.81
+# sent_id = 2952
+# text = Ein halbes Jahrhundert lang zog J. Edgar Hoover die Fäden bei der US-amerikanischen Bundespolizei / Er war korrupt , verklemmt , paranoid , haßte Linke , Juden , Schwarze , Schwule und kollaborierte mit der Mafia
+# vid_types = faden ziehen
 1	Ein	_
 2	halbes	_
 3	Jahrhundert	_
@@ -4873,7 +5329,10 @@
 35	der	_
 36	Mafia	_
 
-#Text=Einkaufsberater Möllemann zog die Fäden und bescherte Schalke 04 nach dem Sonnen ( flecken ) könig Eichberg einen neuen Heilsbringer als Präsidenten .
+# tuepp_article_id = T940209.11
+# sent_id = 2953
+# text = Einkaufsberater Möllemann zog die Fäden und bescherte Schalke 04 nach dem Sonnen ( flecken ) könig Eichberg einen neuen Heilsbringer als Präsidenten .
+# vid_types = faden ziehen
 1	Einkaufsberater	_
 2	Möllemann	_
 3	zog	1:non-literal-mwe
@@ -4898,7 +5357,10 @@
 22	Präsidenten	_
 23	.	_
 
-#Text=Es geht um Dirk Oetelshovens Jim Knopfs neue Abenteuer , wo sich die Schauspieler wie die an Fäden gezogenen Marionetten der Augsburger Puppenkiste bewegen , was die beiden Lichtmeß-Vertreter recht gut vorführen können .
+# tuepp_article_id = T950526.256
+# sent_id = 2954
+# text = Es geht um Dirk Oetelshovens Jim Knopfs neue Abenteuer , wo sich die Schauspieler wie die an Fäden gezogenen Marionetten der Augsburger Puppenkiste bewegen , was die beiden Lichtmeß-Vertreter recht gut vorführen können .
+# vid_types = faden ziehen
 1	Es	_
 2	geht	_
 3	um	_
@@ -4934,7 +5396,10 @@
 33	können	_
 34	.	_
 
-#Text=Nicht zuletzt wird dies von der Haltung der Mächtigen im Kreml und im Weißen Haus abhängen , die im Hintergrund die Fäden ziehen .
+# tuepp_article_id = T950623.89
+# sent_id = 2955
+# text = Nicht zuletzt wird dies von der Haltung der Mächtigen im Kreml und im Weißen Haus abhängen , die im Hintergrund die Fäden ziehen .
+# vid_types = faden ziehen
 1	Nicht	_
 2	zuletzt	_
 3	wird	_
@@ -4960,7 +5425,10 @@
 23	ziehen	1
 24	.	_
 
-#Text=Als Chef der Düsseldorfer Staatskanzlei zog der 55jährige Jurist und Journalist Wolfgang Clement für seinen Regierungschef und persönlichen Freund Johannes Rau im Hintergrund die politischen Fäden - zielstrebig , nervenstark , mitunter ruppig .
+# tuepp_article_id = T950904.104
+# sent_id = 2956
+# text = Als Chef der Düsseldorfer Staatskanzlei zog der 55jährige Jurist und Journalist Wolfgang Clement für seinen Regierungschef und persönlichen Freund Johannes Rau im Hintergrund die politischen Fäden - zielstrebig , nervenstark , mitunter ruppig .
+# vid_types = faden ziehen
 1	Als	_
 2	Chef	_
 3	der	_
@@ -4996,7 +5464,10 @@
 33	ruppig	_
 34	.	_
 
-#Text=Das wirft ein Licht darauf , wie in der Führungsetage die Fäden gezogen werden für eine schleichende Veränderung des nach außen gezeichneten Profils einer sich erneuernden , ehrlichen , pluralistischen Oppositionspartei .
+# tuepp_article_id = T950123.94
+# sent_id = 2957
+# text = Das wirft ein Licht darauf , wie in der Führungsetage die Fäden gezogen werden für eine schleichende Veränderung des nach außen gezeichneten Profils einer sich erneuernden , ehrlichen , pluralistischen Oppositionspartei .
+# vid_types = faden ziehen
 1	Das	_
 2	wirft	_
 3	ein	_
@@ -5030,7 +5501,10 @@
 31	Oppositionspartei	_
 32	.	_
 
-#Text=Wenn diejenigen , die die Fäden in diesem Krieg ziehen - außerhalb und auf dem Balkan - die Nato gebraucht hätten , dann hätte es genügend Gründe gegeben , sie zum Einsatz kommen zu lassen .
+# tuepp_article_id = T950126.159
+# sent_id = 2958
+# text = Wenn diejenigen , die die Fäden in diesem Krieg ziehen - außerhalb und auf dem Balkan - die Nato gebraucht hätten , dann hätte es genügend Gründe gegeben , sie zum Einsatz kommen zu lassen .
+# vid_types = faden ziehen
 1	Wenn	_
 2	diejenigen	_
 3	,	_
@@ -5068,7 +5542,10 @@
 35	lassen	_
 36	.	_
 
-#Text=Andererseits aber blieb die Kirche trotz der Krise ein Machtzentrum , zog ihre Fäden , plazierte ihre Leute an einflußreichen Stellen .
+# tuepp_article_id = T950415.70
+# sent_id = 2959
+# text = Andererseits aber blieb die Kirche trotz der Krise ein Machtzentrum , zog ihre Fäden , plazierte ihre Leute an einflußreichen Stellen .
+# vid_types = faden ziehen
 1	Andererseits	_
 2	aber	_
 3	blieb	_
@@ -5092,7 +5569,10 @@
 21	Stellen	_
 22	.	_
 
-#Text=Insider vermuten , daß Otto dabei die Fäden gezogen hat .
+# tuepp_article_id = T950731.114
+# sent_id = 2960
+# text = Insider vermuten , daß Otto dabei die Fäden gezogen hat .
+# vid_types = faden ziehen
 1	Insider	_
 2	vermuten	_
 3	,	_
@@ -5105,7 +5585,10 @@
 10	hat	_
 11	.	_
 
-#Text=Belanglos - wären die Hauptcharaktere nicht tote , verkleidete Hühner , die sich zum Jazz-Soundtrack bewegen wie Marionetten , an Fäden gezogen und zu bizarrem Leben erweckt .
+# tuepp_article_id = T950704.212
+# sent_id = 2961
+# text = Belanglos - wären die Hauptcharaktere nicht tote , verkleidete Hühner , die sich zum Jazz-Soundtrack bewegen wie Marionetten , an Fäden gezogen und zu bizarrem Leben erweckt .
+# vid_types = faden ziehen
 1	Belanglos	_
 2	-	_
 3	wären	_
@@ -5135,7 +5618,10 @@
 27	erweckt	_
 28	.	_
 
-#Text=Und jetzt kommen Wolffsohns Beweise , daß aber hinter den Kulissen die Kommunisten die Fäden zogen , geschickter , als sich " Nollau in seiner Schulweisheit " erträumen konnte .
+# tuepp_article_id = T951219.113
+# sent_id = 2962
+# text = Und jetzt kommen Wolffsohns Beweise , daß aber hinter den Kulissen die Kommunisten die Fäden zogen , geschickter , als sich " Nollau in seiner Schulweisheit " erträumen konnte .
+# vid_types = faden ziehen
 1	Und	_
 2	jetzt	_
 3	kommen	_
@@ -5167,7 +5653,10 @@
 29	konnte	_
 30	.	_
 
-#Text=Schließlich haben die chinesischen Kommunisten noch in guter Erinnerung , wie sie selbst die Fäden nützlicher Frontorganisationen gezogen haben .
+# tuepp_article_id = T950818.99
+# sent_id = 2963
+# text = Schließlich haben die chinesischen Kommunisten noch in guter Erinnerung , wie sie selbst die Fäden nützlicher Frontorganisationen gezogen haben .
+# vid_types = faden ziehen
 1	Schließlich	_
 2	haben	_
 3	die	_
@@ -5189,7 +5678,10 @@
 19	haben	_
 20	.	_
 
-#Text=Seine Interpretation scheint unhaltbar , seit immer offenkundiger wird , daß sich in Bosnien eben nicht " primitive " Krieger planlos abschlachten , sondern in Belgrad und Zagreb durchaus politische Fäden gezogen werden .
+# tuepp_article_id = T950829.114
+# sent_id = 2964
+# text = Seine Interpretation scheint unhaltbar , seit immer offenkundiger wird , daß sich in Bosnien eben nicht " primitive " Krieger planlos abschlachten , sondern in Belgrad und Zagreb durchaus politische Fäden gezogen werden .
+# vid_types = faden ziehen
 1	Seine	_
 2	Interpretation	_
 3	scheint	_
@@ -5225,7 +5717,10 @@
 33	werden	_
 34	.	_
 
-#Text=Vogel verhehlt dabei nicht , daß er mithilfe seines neuen Amtes auch wieder die Fäden für die stadtweite Entwicklung der zur Splitterpartei mutierten Elbliberalen ziehen will .
+# tuepp_article_id = T950317.246
+# sent_id = 2965
+# text = Vogel verhehlt dabei nicht , daß er mithilfe seines neuen Amtes auch wieder die Fäden für die stadtweite Entwicklung der zur Splitterpartei mutierten Elbliberalen ziehen will .
+# vid_types = faden ziehen
 1	Vogel	_
 2	verhehlt	_
 3	dabei	_
@@ -5254,7 +5749,10 @@
 26	will	_
 27	.	_
 
-#Text=Vogel verhehlt dabei nicht , daß er mithilfe seines neuen Amtes auch wieder die Fäden für die stadtweite Entwicklung der zur Splitterpartei mutierten Elbliberalen ziehen will .
+# tuepp_article_id = T950317.246
+# sent_id = 2965
+# text = Vogel verhehlt dabei nicht , daß er mithilfe seines neuen Amtes auch wieder die Fäden für die stadtweite Entwicklung der zur Splitterpartei mutierten Elbliberalen ziehen will .
+# vid_types = faden ziehen
 1	Vogel	_
 2	verhehlt	_
 3	dabei	_
@@ -5283,7 +5781,10 @@
 26	will	_
 27	.	_
 
-#Text=Die Union glaubt nun , daß durch die Zeugenvernehmungen vor dem Ausschuß der Beweis erbracht worden sei , daß ein solches Küchenkabinett aus Bündnisgrünen im Ministerium die Fäden gezogen hat .
+# tuepp_article_id = T951129.15
+# sent_id = 2967
+# text = Die Union glaubt nun , daß durch die Zeugenvernehmungen vor dem Ausschuß der Beweis erbracht worden sei , daß ein solches Küchenkabinett aus Bündnisgrünen im Ministerium die Fäden gezogen hat .
+# vid_types = faden ziehen
 1	Die	_
 2	Union	_
 3	glaubt	_
@@ -5316,7 +5817,10 @@
 30	hat	_
 31	.	_
 
-#Text=Voraussichtlich bereits im Januar wird Elste den Stab an den einstigen Voscherau-Gegner Jan Ehlers weiterreichen , der seit Jahren davon träumt , die Fäden einer rot-grünen Koalition zu ziehen , und in den vergangenen Jahren durch allertreueste Gefolgschaft dem Bürgermeister solide Ergebenheit bewies .
+# tuepp_article_id = T951128.252
+# sent_id = 2968
+# text = Voraussichtlich bereits im Januar wird Elste den Stab an den einstigen Voscherau-Gegner Jan Ehlers weiterreichen , der seit Jahren davon träumt , die Fäden einer rot-grünen Koalition zu ziehen , und in den vergangenen Jahren durch allertreueste Gefolgschaft dem Bürgermeister solide Ergebenheit bewies .
+# vid_types = faden ziehen
 1	Voraussichtlich	_
 2	bereits	_
 3	im	_
@@ -5362,7 +5866,10 @@
 43	bewies	_
 44	.	_
 
-#Text=Zum Beweis offenbarte er , daß die Fäden für die Politik der rechtsextremen Partei in den einzelnen Bundesländern ausschließlich in München gezogen werden .
+# tuepp_article_id = T990108.357
+# sent_id = 2969
+# text = Zum Beweis offenbarte er , daß die Fäden für die Politik der rechtsextremen Partei in den einzelnen Bundesländern ausschließlich in München gezogen werden .
+# vid_types = faden ziehen
 1	Zum	_
 2	Beweis	_
 3	offenbarte	_
@@ -5388,7 +5895,10 @@
 23	werden	_
 24	.	_
 
-#Text=Vor der Bonner Beethovenhalle hatten sie einen gut zwei Meter großen Hampelmann mit dem Gesicht des Bundespräsidenten aufgebaut , an dessen Fäden der milliardenschwere Bertelsmann-Konzern und seine Stiftung zogen .
+# tuepp_article_id = T990414.17
+# sent_id = 2970
+# text = Vor der Bonner Beethovenhalle hatten sie einen gut zwei Meter großen Hampelmann mit dem Gesicht des Bundespräsidenten aufgebaut , an dessen Fäden der milliardenschwere Bertelsmann-Konzern und seine Stiftung zogen .
+# vid_types = faden ziehen
 1	Vor	_
 2	der	_
 3	Bonner	_
@@ -5420,7 +5930,10 @@
 29	zogen	1
 30	.	_
 
-#Text=Sein Gehalt wird ihm regelmäßig überwiesen , aber arbeiten , sprich im Mittelfeld des Hamburger SV die Fäden ziehen , muß er nicht .
+# tuepp_article_id = T990219.323
+# sent_id = 2971
+# text = Sein Gehalt wird ihm regelmäßig überwiesen , aber arbeiten , sprich im Mittelfeld des Hamburger SV die Fäden ziehen , muß er nicht .
+# vid_types = faden ziehen
 1	Sein	_
 2	Gehalt	_
 3	wird	_
@@ -5446,7 +5959,10 @@
 23	nicht	_
 24	.	_
 
-#Text=Brockmeyer zog über viele Jahre als Ministerialdirigent die Fäden der Schulpolitik in NRW .
+# tuepp_article_id = T990223.107
+# sent_id = 2972
+# text = Brockmeyer zog über viele Jahre als Ministerialdirigent die Fäden der Schulpolitik in NRW .
+# vid_types = faden ziehen
 1	Brockmeyer	_
 2	zog	1:non-literal-mwe
 3	über	_
@@ -5462,7 +5978,10 @@
 13	NRW	_
 14	.	_
 
-#Text=Anfang des Monats wurden zwei Ex- Offiziere , die beim Entführungsfall Kovac die Fäden gezogen haben sollen , verhaftet .
+# tuepp_article_id = T990227.154
+# sent_id = 2973
+# text = Anfang des Monats wurden zwei Ex- Offiziere , die beim Entführungsfall Kovac die Fäden gezogen haben sollen , verhaftet .
+# vid_types = faden ziehen
 1	Anfang	_
 2	des	_
 3	Monats	_

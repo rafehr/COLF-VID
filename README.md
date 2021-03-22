@@ -2,7 +2,7 @@
 
 ## COLF-VID
 
-COLF-VID is a **CO**rpus of **L**iteral and **F**igurative readings of German **V**erbal **ID**ioms in context. It comes in 34 files containing annotated instances (along with the sentences they occur in) of 34 different German verbal idiom (VID) types. The annotation consists of four labels coded as integers: `LITERAL` -> `1`, `IDIOMATIC` -> `2`, `UNDECIDABLE` -> `3` and `BOTH` -> `4`. A more detailed description of the corpus can be found in the paper [Supervised Disambiguation of German Verbal Idioms with a BiLSTM
+COLF-VID is a **CO**rpus of **L**iteral and **F**igurative readings of German **V**erbal **ID**ioms in context. It comes in 34 files containing annotated instances (along with the sentences they occur in) of 34 different German verbal idiom (VID) types. The annotation consists of four labels: `LITERAL` -> `LIT`, `IDIOMATIC/FIGURATIVE` -> `FIG`, `UNDECIDABLE` -> `UND` and `BOTH` -> `BOTH`. A more detailed description of the corpus can be found in the paper [Supervised Disambiguation of German Verbal Idioms with a BiLSTM
 Architecture](https://www.aclweb.org/anthology/2020.figlang-1.29.pdf). At the moment, there exist three different versions of COLF-VID:
 
 - COLF-VID_1.0: The version of the corpus that was used during the experiments described in the paper. It was lemmatized with [GermaLemma](https://github.com/WZBSocialScienceCenter/germalemma) and POS tagged with the [TreeTagger](https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/).
